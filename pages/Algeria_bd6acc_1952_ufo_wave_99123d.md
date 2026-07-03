@@ -248,7 +248,7 @@ image: /assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1-social.
 
 ## Introduction
 
-The 1952 [Algeria]({{ 'algeria/' | relative_url }}) UFO wave was not a single dramatic incident but a short cluster of unusual aerial reports spread across northern Algeria during August 1952. The most discussed cases came from Constantine, Philippeville and Ain Sefra, and they became part of wider French colonial-era reporting on the international “flying saucer” wave of the early 1950s. What makes these Algerian sightings important is not proof of extraterrestrial craft, but the unusually traceable archival trail: newspaper references, intelligence summaries and surviving Project Blue Book records all preserved fragments of the events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Project Blue Book report - 1952-08-8773924-Constantine-Algeria.pdf. English: Project Blue Book report - 1952-08-8773924-Constantine, Alge...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[Bluebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
+The 1952 [Algeria]({{ 'algeria/' | relative_url }}) UFO wave was not a single dramatic incident but a short cluster of unusual aerial reports spread across northern Algeria during August 1952. The most discussed cases came from Constantine, Philippeville and Ain Sefra, and they became part of wider French colonial-era reporting on the international “flying saucer” wave of the early 1950s. What makes these Algerian sightings important is not proof of extraterrestrial craft, but the unusually traceable archival trail: newspaper references, intelligence summaries and surviving Project Blue Book records all preserved fragments of the events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Project Blue Book report - 1952-08-8773924-Constantine-Algeria.pdf. English: Project Blue Book report - 1952-08-8773924-Constantine, Alge...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[Bluebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1-dark.svg" | relative_url }}" alt="1952 UFO Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The surviving evidence suggests a more restrained conclusion than later UFO mythology often implies. Most reports involved bright, fast-moving luminous objects, coloured trails and brief observations under night-sky conditions. Several descriptions strongly resemble meteors or bolides rather than structured vehicles. Yet the reports also reveal how rapidly unusual sky events spread across colonial North Africa in 1952, especially when multiple witnesses, dramatic colours and newspaper circulation combined to amplify uncertainty.
@@ -257,7 +257,7 @@ The surviving evidence suggests a more restrained conclusion than later UFO myth
 
 ### Ain Sefra and the “ball of fire”
 
-The earliest major Algerian report in the surviving archive occurred near Ain Sefra on the night of 12 August 1952. According to intelligence summaries derived from the newspaper *Oran Republicain*, a railway employee observed a luminous object emerging against clouds and moving rapidly from east to west. The object reportedly left a pink or rosy trail, appeared to increase in size, turned bright red and seemed to explode silently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia 52 2</span><span class="citation-popover-snippet">The CUFON 1952 CIA UFO-Related Documents Sampler, Part...In Ain Sefra, on the night of 12 August 1952, a railroad agent observed a ball...</span><span class="citation-popover-meta">Published: August 1952</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1952.08%20-%2028948053%20-%20Oran%2C%20Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1952.08 28948053 Oran, Algeria</span><span class="citation-popover-snippet">Bluebook Filesi. DATE (2 LOCATION (as CSNELUTIONSIn Ain Sefra, on the night of 12 August 1952, a railroad agent observed a ball of fire...</span><span class="citation-popover-meta">Published: August 1952</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.myuforesearch.it/docufo/DOC_0000015469.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: myuforesearch.it">[myuforesearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">myuforesearch.it</span><span class="citation-popover-snippet">In Ain Sefra, on the night of, 12 August 1952, a railroad agent observed a ball of fire...</span><span class="citation-popover-meta">Published: August 1952</span></span></span> Several details make this account notable:
+The earliest major Algerian report in the surviving archive occurred near Ain Sefra on the night of 12 August 1952. According to intelligence summaries derived from the newspaper *Oran Republicain*, a railway employee observed a luminous object emerging against clouds and moving rapidly from east to west. The object reportedly left a pink or rosy trail, appeared to increase in size, turned bright red and seemed to explode silently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia</span><span class="citation-popover-snippet">The CUFON 1952 CIA UFO-Related Documents Sampler, Part...In Ain Sefra, on the night of 12 August 1952, a railroad agent observed a ball...</span><span class="citation-popover-meta">Published: August 1952</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1952.08%20-%2028948053%20-%20Oran%2C%20Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1952.08 28948053 Oran, Algeria</span><span class="citation-popover-snippet">Bluebook Filesi. DATE (2 LOCATION (as CSNELUTIONSIn Ain Sefra, on the night of 12 August 1952, a railroad agent observed a ball of fire...</span><span class="citation-popover-meta">Published: August 1952</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.myuforesearch.it/docufo/DOC_0000015469.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: myuforesearch.it">[myuforesearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">myuforesearch.it</span><span class="citation-popover-snippet">In Ain Sefra, on the night of, 12 August 1952, a railroad agent observed a ball of fire...</span><span class="citation-popover-meta">Published: August 1952</span></span></span> Several details make this account notable:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -272,7 +272,7 @@ The silent explosion is especially significant in later analysis. Large meteors 
 
 ### Constantine and Philippeville on 14 August
 
-Two days later, reports emerged from eastern Algeria. A surviving Project Blue Book document records that at approximately 21:15 in Constantine, two observers saw a bright luminous object moving at high speed in the direction of Guelma. Earlier the same evening, around 19:20, numerous people at the docks of Philippeville reportedly observed an “enormous red disk” moving from north to west while leaving a greenish trail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Project Blue Book report - 1952-08-8773924-Constantine-Algeria.pdf. English: Project Blue Book report - 1952-08-8773924-Constantine, Alge...</span></span></span>
+Two days later, reports emerged from eastern Algeria. A surviving Project Blue Book document records that at approximately 21:15 in Constantine, two observers saw a bright luminous object moving at high speed in the direction of Guelma. Earlier the same evening, around 19:20, numerous people at the docks of Philippeville reportedly observed an “enormous red disk” moving from north to west while leaving a greenish trail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Project Blue Book report - 1952-08-8773924-Constantine-Algeria.pdf. English: Project Blue Book report - 1952-08-8773924-Constantine, Alge...</span></span></span>
 
 These sightings are among the best-documented Algerian UFO reports of the period because they appear in preserved Blue Book-related material rather than only in retellings. However, the surviving records remain thin. There are no known photographs, radar returns, physical traces or detailed witness interviews in the publicly available files.
 
@@ -354,7 +354,7 @@ This does not prove the object was a meteor, but it weakens arguments that the �
 
 The Algerian sightings became internationally visible because they circulated through several overlapping Cold War information systems.
 
-French-language newspapers in colonial North Africa first reported the events. Intelligence agencies then compiled regional summaries covering Spain, Morocco and Algeria. Some of these summaries later entered CIA-related document collections and Project Blue Book-associated archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.myuforesearch.it/docufo/DOC_0000015469.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: myuforesearch.it">[Myuforesearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">myuforesearch.it</span><span class="citation-popover-snippet">In Ain Sefra, on the night of, 12 August 1952, a railroad agent observed a ball of fire...</span><span class="citation-popover-meta">Published: August 1952</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0005516155.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005516155</span><span class="citation-popover-snippet">SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER...17 Jul 2025 — In Ain Sefra, on the night of,12 August 1952, a railroad agent observed a...</span><span class="citation-popover-meta">Published: August 1952</span></span></span>
+French-language newspapers in colonial North Africa first reported the events. Intelligence agencies then compiled regional summaries covering Spain, Morocco and Algeria. Some of these summaries later entered CIA-related document collections and Project Blue Book-associated archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.myuforesearch.it/docufo/DOC_0000015469.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: myuforesearch.it">[Myuforesearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">myuforesearch.it</span><span class="citation-popover-snippet">In Ain Sefra, on the night of, 12 August 1952, a railroad agent observed a ball of fire...</span><span class="citation-popover-meta">Published: August 1952</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0005516155.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0005516155</span><span class="citation-popover-snippet">SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER...17 Jul 2025 — In Ain Sefra, on the night of,12 August 1952, a railroad agent observed a...</span><span class="citation-popover-meta">Published: August 1952</span></span></span>
 
 This chain of preservation matters for assessing reliability:
 
@@ -368,7 +368,7 @@ This chain of preservation matters for assessing reliability:
 
 That distinction is crucial. The existence of a CIA or Blue Book file does not mean investigators confirmed extraordinary phenomena. In many cases, agencies simply collected newspaper items during periods of widespread public interest in UFOs.
 
-Project Blue Book itself ultimately concluded that the overwhelming majority of reports could be explained as conventional phenomena, even though some remained officially unidentified due to insufficient data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
+Project Blue Book itself ultimately concluded that the overwhelming majority of reports could be explained as conventional phenomena, even though some remained officially unidentified due to insufficient data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-3-dark.svg" | relative_url }}" alt="1952 UFO Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc_1952_ufo_wave_99123d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteor and Atmospheric Explanations
@@ -407,7 +407,7 @@ As a result, the cases remain “unidentified” in the narrow historical sense 
 
 ## Why the 1952 Wave Still Matters in Algerian UFO History
 
-The 1952 sightings remain important because they are among the few Algerian UFO cases with verifiable archival continuity. Many later Algerian UFO stories circulate mainly through repetition, folklore or unsourced internet retellings. The August 1952 wave, by contrast, can be traced through identifiable documents tied to newspapers, intelligence summaries and Project Blue Book-era collections. Wikimedia Commons <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.myuforesearch.it/docufo/DOC_0000015469.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: myuforesearch.it">[myuforesearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">myuforesearch.it</span><span class="citation-popover-snippet">In Ain Sefra, on the night of, 12 August 1952, a railroad agent observed a ball of fire...</span><span class="citation-popover-meta">Published: August 1952</span></span></span> The wave also illustrates a broader pattern seen throughout global UFO history:
+The 1952 sightings remain important because they are among the few Algerian UFO cases with verifiable archival continuity. Many later Algerian UFO stories circulate mainly through repetition, folklore or unsourced internet retellings. The August 1952 wave, by contrast, can be traced through identifiable documents tied to newspapers, intelligence summaries and Project Blue Book-era collections. Wikimedia Commons<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.myuforesearch.it/docufo/DOC_0000015469.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: myuforesearch.it">[myuforesearch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">myuforesearch.it</span><span class="citation-popover-snippet">In Ain Sefra, on the night of, 12 August 1952, a railroad agent observed a ball of fire...</span><span class="citation-popover-meta">Published: August 1952</span></span></span> The wave also illustrates a broader pattern seen throughout global UFO history:
 
 * unusual but probably natural sky events,
 * incomplete reporting,
@@ -417,178 +417,178 @@ The 1952 sightings remain important because they are among the few Algerian UFO 
 In Algeria’s case, the reports reflected both the dramatic skies of North Africa and the international anxiety of the early Cold War period, when public fascination with “flying saucers” was reaching a peak across Europe, North Africa and the United States.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happened During Algeria&#x27;s 1952 UFO Wave?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happened During Algeria&#x27;s 1952 UFO Wave?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating wave sightings and possible explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating wave sightings and possible explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly relevant to understanding 1952 sighting waves and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to understanding 1952 sighting waves and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines official records from the period including international reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official records from the period including international reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides historical coverage of notable international waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical coverage of notable international waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (2 )"><img src="https://i.ebayimg.com/images/g/07IAAOSw0-1mBCYB/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (2 )" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (2 )</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (2 )"><img src="https://i.ebayimg.com/images/g/07IAAOSw0-1mBCYB/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (2 )" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (2 )</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (2 )"><img src="https://i.ebayimg.com/images/g/lvYAAOSwNGBmBCYi/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (2 )" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (2 )</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (2 )"><img src="https://i.ebayimg.com/images/g/lvYAAOSwNGBmBCYi/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (2 )" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (2 )</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (3 )"><img src="https://i.ebayimg.com/images/g/aOcAAOSwYP1mBCaS/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (3 )" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (3 )</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (3 )"><img src="https://i.ebayimg.com/images/g/aOcAAOSwYP1mBCaS/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (3 )" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (3 )</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-happened-during-algeria-s-1952-ufo-wave-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ In Algeria’s case, the reports reflected both the dramatic skies of North Afri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ In Algeria’s case, the reports reflected both the dramatic skies of North Afri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ In Algeria’s case, the reports reflected both the dramatic skies of North Afri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -708,7 +708,7 @@ In Algeria’s case, the reports reflected both the dramatic skies of North Afri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -753,7 +753,7 @@ In Algeria’s case, the reports reflected both the dramatic skies of North Afri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -794,130 +794,130 @@ In Algeria’s case, the reports reflected both the dramatic skies of North Afri
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book report - 1952-08-8773924-Constantine-Algeria.pdf. English: Project Blue Book report - 1952-08-8773924-Constantine, Alge...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book report - 1952-08-8773924-Constantine-Algeria.pdf. English: Project Blue Book report - 1952-08-8773924-Constantine, Alge...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: myuforesearch.it  
-   Link: <a href="https://www.myuforesearch.it/docufo/DOC_0000015469.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.myuforesearch.it/docufo/DOC_0000015469.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Ain Sefra, on the night of, 12 August 1952, a railroad agent observed a ball of fire...</p></details>
+   Link:<a href="https://www.myuforesearch.it/docufo/DOC_0000015469.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.myuforesearch.it/docufo/DOC_0000015469.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Ain Sefra, on the night of, 12 August 1952, a railroad agent observed a ball of fire...</p></details>
    Published: August 1952  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
    Title: DOC 0005516155  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005516155.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516155.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER...17 Jul 2025 — In Ain Sefra, on the night of,12 August 1952, a railroad agent observed a...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005516155.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516155.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER...17 Jul 2025 — In Ain Sefra, on the night of,12 August 1952, a railroad agent observed a...</p></details>
    Published: August 1952  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cufon.org  
    Title: cia 52 2  
-   Link: <a href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cia-52-2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The CUFON 1952 CIA UFO-Related Documents Sampler, Part...In Ain Sefra, on the night of 12 August 1952, a railroad agent observed a ball...</p></details>
+   Link:<a href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cia-52-2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CUFON 1952 CIA UFO-Related Documents Sampler, Part...In Ain Sefra, on the night of 12 August 1952, a railroad agent observed a ball...</p></details>
    Published: August 1952  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR8 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>As...Read...</p></details>
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As...Read...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: Full text of "Charles R  
-   Link: <a href="https://archive.org/stream/CharlesR.ShraderTheFirstHelicopterWarLogisticsAndMobilityInAlgeria19541962/Charles%2BR.%2BShrader%2BThe%2BFirst%2BHelicopter%2BWar%2BLogistics%2Band%2BMobility%2Bin%2BAlgeria%2C%2B1954-1962_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CharlesR.ShraderTheFirstHelicopterWarLogisticsAndMobilityInAlgeria19541962/Charles%2BR.%2BShrader%2BThe%2BFirst%2BHelicopter%2BWar%2BLogistics%2Band%2BMobility%2Bin%2BAlgeria%2C%2B1954-1962_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shrader The First Helicopter War...The main airfields were located at La Senia (Oran), Tlemcen, and Thiersville with secondary fields at...</p></details>
+   Link:<a href="https://archive.org/stream/CharlesR.ShraderTheFirstHelicopterWarLogisticsAndMobilityInAlgeria19541962/Charles%2BR.%2BShrader%2BThe%2BFirst%2BHelicopter%2BWar%2BLogistics%2Band%2BMobility%2Bin%2BAlgeria%2C%2B1954-1962_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CharlesR.ShraderTheFirstHelicopterWarLogisticsAndMobilityInAlgeria19541962/Charles%2BR.%2BShrader%2BThe%2BFirst%2BHelicopter%2BWar%2BLogistics%2Band%2BMobility%2Bin%2BAlgeria%2C%2B1954-1962_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shrader The First Helicopter War...The main airfields were located at La Senia (Oran), Tlemcen, and Thiersville with secondary fields at...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: files.bluebookfiles.org  
    Title: 1952.08 28948053 Oran, Algeria  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/1952.08%20-%2028948053%20-%20Oran%2C%20Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1952.08%20-%2028948053%20-%20Oran%2C%20Algeria.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bluebook Filesi. DATE (2 LOCATION (as CSNELUTIONSIn Ain Sefra, on the night of 12 August 1952, a railroad agent observed a ball of fire...</p></details>
+   Link:<a href="https://files.bluebookfiles.org/pdfs/1952.08%20-%2028948053%20-%20Oran%2C%20Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1952.08%20-%2028948053%20-%20Oran%2C%20Algeria.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bluebook Filesi. DATE (2 LOCATION (as CSNELUTIONSIn Ain Sefra, on the night of 12 August 1952, a railroad agent observed a ball of fire...</p></details>
    Published: August 1952  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: files.bluebookfiles.org  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bluebook FilesSIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN...LUMINOUS OBJECTS OVER ALGERIA -- Oran, Oran Republicain, 16 Aug 52...</p></details>
+   Link:<a href="https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bluebook FilesSIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN...LUMINOUS OBJECTS OVER ALGERIA -- Oran, Oran Republicain, 16 Aug 52...</p></details>
    Published: OCTOBER 1952  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1On December 17, 1969 the Secretary of the. Air Force announced the termination of. Project Blue. Book, the. Ai...</p></details>
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1On December 17, 1969 the Secretary of the. Air Force announced the termination of. Project Blue. Book, the. Ai...</p></details>
    Published: December 17, 1969  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; FactsProject Blue Book was the code name for the United S...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; FactsProject Blue Book was the code name for the United S...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/the-algerian-war-and-the-french-army-1954-62-experiences-images-testimonies-134941638x-9781349416387.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-algerian-war-and-the-french-army-1954-62-experiences-images-testimonies-134941638x-9781349416387.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>France and the Algerian War, 1954-1962... Aïn Sefra sector. In July 1960, a third company, the 977th Company, was created out of a part o...</p></details>
+   Link:<a href="https://dokumen.pub/download/the-algerian-war-and-the-french-army-1954-62-experiences-images-testimonies-134941638x-9781349416387.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-algerian-war-and-the-french-army-1954-62-experiences-images-testimonies-134941638x-9781349416387.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>France and the Algerian War, 1954-1962... Aïn Sefra sector. In July 1960, a third company, the 977th Company, was created out of a part o...</p></details>
    Published: July 1960  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pulse.co.ke  
    Title: project blue book is based on a true ufo story 2024081709053248527  
-   Link: <a href="https://www.pulse.co.ke/story/project-blue-book-is-based-on-a-true-ufo-story-2024081709053248527" target="_blank" rel="noopener noreferrer nofollow">https://www.pulse.co.ke/story/project-blue-book-is-based-on-a-true-ufo-story-2024081709053248527</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Project Blue Book&#x27; Is Based on a True UFO Story10 Aug 2021 — Project Blue Book was the code name for an Air Force program set up in 1952...</p></details>
+   Link:<a href="https://www.pulse.co.ke/story/project-blue-book-is-based-on-a-true-ufo-story-2024081709053248527" target="_blank" rel="noopener noreferrer nofollow">https://www.pulse.co.ke/story/project-blue-book-is-based-on-a-true-ufo-story-2024081709053248527</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Project Blue Book&#x27; Is Based on a True UFO Story10 Aug 2021 — Project Blue Book was the code name for an Air Force program set up in 1952...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sas.rochester.edu  
    Title: World War I The Definitive Encyclopedia  
-   Link: <a href="https://www.sas.rochester.edu/his/sites/campus-history/History/World_War_I_The_Definitive_Encyclopedia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sas.rochester.edu/his/sites/campus-history/History/World_War_I_The_Definitive_Encyclopedia.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WAR ILibrary of Congress Cataloging-in-Publication Data. World War I: the definitive encyclopedia and document collection / Spencer C. T...</p></details>
+   Link:<a href="https://www.sas.rochester.edu/his/sites/campus-history/History/World_War_I_The_Definitive_Encyclopedia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sas.rochester.edu/his/sites/campus-history/History/World_War_I_The_Definitive_Encyclopedia.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WAR ILibrary of Congress Cataloging-in-Publication Data. World War I: the definitive encyclopedia and document collection / Spencer C. T...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Project Blue Book: U.S  
-   Link: <a href="https://www.facebook.com/groups/capturemovieslive/posts/920519265989580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/capturemovieslive/posts/920519265989580/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force UFO studies 1952-1969Between 1952 and 1969, the U.S. Air Force conducted a series of studies on UFO sightings called Project Bl...</p></details>
+   Link:<a href="https://www.facebook.com/groups/capturemovieslive/posts/920519265989580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/capturemovieslive/posts/920519265989580/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force UFO studies 1952-1969Between 1952 and 1969, the U.S. Air Force conducted a series of studies on UFO sightings called Project Bl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17526272.2021.1894378" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17526272.2021.1894378</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Gazing, Settler Cinema, and the Algerian Warby M Sharpe · 2022 · Cited by 1 — In 1955, two FLN leaders based in Constantine...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/17526272.2021.1894378" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17526272.2021.1894378</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Gazing, Settler Cinema, and the Algerian Warby M Sharpe · 2022 · Cited by 1 — In 1955, two FLN leaders based in Constantine...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: herbmedit.org  
    Title: FLOR A MEDITERRANEA  
-   Link: <a href="https://herbmedit.org/storage/3189/FL29_001-344.pdf" target="_blank" rel="noopener noreferrer nofollow">https://herbmedit.org/storage/3189/FL29_001-344.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aïn. Sefra, Algeria. Introduction. Considéré comme l&#x27;un des 34 points chauds de la planète (Myers &amp; al. 2000), le bassin méditerranéen ab...</p></details>
+   Link:<a href="https://herbmedit.org/storage/3189/FL29_001-344.pdf" target="_blank" rel="noopener noreferrer nofollow">https://herbmedit.org/storage/3189/FL29_001-344.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aïn. Sefra, Algeria. Introduction. Considéré comme l&#x27;un des 34 points chauds de la planète (Myers &amp; al. 2000), le bassin méditerranéen ab...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sohp.us  
    Title: GROSS 1952 Aug  
-   Link: <a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1952-Aug.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1952-Aug.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A History, 1952: August&quot;In Ain Sefra, on the night of 12 August 1952, railroad agent observed a ball of fire suddenly appearing aga...</p></details>
+   Link:<a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1952-Aug.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1952-Aug.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A History, 1952: August&quot;In Ain Sefra, on the night of 12 August 1952, railroad agent observed a ball of fire suddenly appearing aga...</p></details>
    Published: August 1952  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: History of UFO Sightings and Government Investigations  
-   Link: <a href="https://www.youtube.com/watch?v=e_tK1d4k1qE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e_tK1d4k1qE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Aerial Phenomena: Scientific Perspectives...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e_tK1d4k1qE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e_tK1d4k1qE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Aerial Phenomena: Scientific Perspectives...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1TjV7w0n-0I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1TjV7w0n-0I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFO Sightings and Government Investigations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1TjV7w0n-0I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1TjV7w0n-0I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFO Sightings and Government Investigations...</p></details>

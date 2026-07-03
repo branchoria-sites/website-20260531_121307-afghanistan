@@ -254,24 +254,24 @@ image: /assets/images/Monaco_35ab1c_monaco_lantern_light_a36b60-Illustration-1-s
 
 ## Introduction
 
-In the context of Monaco’s sparse official record of anomalous aerial phenomena, the **2 November 2012 orange night‑light sightings** stand out as a documented case where **Chinese lanterns** (also called *lanternes thaï* in French) were the probable explanation. This event is one of the few Monaco‑labelled entries in the French official UFO archive managed by the CNES’s Groupe d’Études et d’Informations sur les Phénomènes Aérospatiaux Non identifiés (GEIPAN), and it illustrates how common, mundane airborne lanterns can be misperceived as unfamiliar lights in the night sky. The case highlights the mechanisms by which silent, slow, orange lights can be misinterpreted, and how investigators differentiate such lantern sightings from other aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/55775" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">MONACO (MC.MC) 02.11.2012 &#124; GEIPANNovember 2, 2012...</span><span class="citation-popover-meta">Published: November 2, 2012</span></span></span>
+In the context of Monaco’s sparse official record of anomalous aerial phenomena, the **2 November 2012 orange night‑light sightings** stand out as a documented case where **Chinese lanterns** (also called *lanternes thaï* in French) were the probable explanation. This event is one of the few Monaco‑labelled entries in the French official UFO archive managed by the CNES’s Groupe d’Études et d’Informations sur les Phénomènes Aérospatiaux Non identifiés (GEIPAN), and it illustrates how common, mundane airborne lanterns can be misperceived as unfamiliar lights in the night sky. The case highlights the mechanisms by which silent, slow, orange lights can be misinterpreted, and how investigators differentiate such lantern sightings from other aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/55775" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">MONACO (MC.MC) 02.11.2012 &#124; GEIPANNovember 2, 2012...</span><span class="citation-popover-meta">Published: November 2, 2012</span></span></span>
 
 <img src="{{ "/assets/images/Monaco_35ab1c_monaco_lantern_light_a36b60-Illustration-1-dark.svg" | relative_url }}" alt="Lantern Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c_monaco_lantern_light_a36b60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c_monaco_lantern_light_a36b60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 2012 Monaco Lantern Case
 
-The primary official source for this incident is the **GEIPAN case indexed as “MONACO (MC.MC) 02.11.2012”**, where investigators classified the sighting under **classification B**—**“probablement identifié” (probably identified)**—and identified the phenomenon as **“lanterne thai”** (a type of hot‑air lantern) rather than an unexplained aerial object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=32%2C0&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</span></span></span>
+The primary official source for this incident is the **GEIPAN case indexed as “MONACO (MC.MC) 02.11.2012”**, where investigators classified the sighting under **classification B**—**“probablement identifié” (probably identified)**—and identified the phenomenon as **“lanterne thai”** (a type of hot‑air lantern) rather than an unexplained aerial object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=32%2C0&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</span></span></span>
 
 According to the public GEIPAN record:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The sighting occurred around **23:00 local time** on 2 November 2012 in an **urbanised environment** within Monaco. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">pe [Select] Phenomenon [Input] [Input] Photo / Vidéo Image: blue arrow swipe...</span></span></span>
-* The witness described **two orange, fire‑coloured spherical lights** that appeared to move in a **slow, descending trajectory** and made **no sound**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=31%2C3&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">d’observation [Select] Phénomène [Input] Date d&#x27;observation [Input] [Input] P...</span></span></span>
-* Observers characterised the **apparent size as between about 1 m and 1.5 m** and noted that the lights were silent and warm‑toned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=102%2C21&amp;sort=asc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">d’observation [Select] Phénomène [Input] Date d&#x27;observation [Input] [Input] P...</span></span></span>
+* The sighting occurred around **23:00 local time** on 2 November 2012 in an **urbanised environment** within Monaco.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">pe [Select] Phenomenon [Input] [Input] Photo / Vidéo Image: blue arrow swipe...</span></span></span>
+* The witness described **two orange, fire‑coloured spherical lights** that appeared to move in a **slow, descending trajectory** and made **no sound**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=31%2C3&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">d’observation [Select] Phénomène [Input] Date d&#x27;observation [Input] [Input] P...</span></span></span>
+* Observers characterised the **apparent size as between about 1 m and 1.5 m** and noted that the lights were silent and warm‑toned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=102%2C21&amp;sort=asc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">d’observation [Select] Phénomène [Input] Date d&#x27;observation [Input] [Input] P...</span></span></span>
 
 </div>
 
-These features closely match the documented appearance of **sky lanterns**, which are small paper‑shell lanterns lifted by a flame‑heated thermal current. When released at night, such lanterns often exhibit slow, silent motion with a steady orange glow. Geipan investigations around that period repeatedly identified similar observations across France as Chinese lantern releases rather than unknown aerial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=37%2C18&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Recherche de cas &#124; GEIPAN</span><span class="citation-popover-snippet">Recherche de cas &#124; GEIPAN</span></span></span>
+These features closely match the documented appearance of **sky lanterns**, which are small paper‑shell lanterns lifted by a flame‑heated thermal current. When released at night, such lanterns often exhibit slow, silent motion with a steady orange glow. Geipan investigations around that period repeatedly identified similar observations across France as Chinese lantern releases rather than unknown aerial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=37%2C18&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Recherche de cas &#124; GEIPAN</span><span class="citation-popover-snippet">Recherche de cas &#124; GEIPAN</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/buoMqlBVhsg" title="The Proof Is Out There: UFO Lights CONFOUND Investigators | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=buoMqlBVhsg" target="_blank" rel="noopener noreferrer">The Proof Is Out There: UFO Lights CONFOUND Investigators | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 234.6K &middot; Uploaded: August 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=buoMqlBVhsg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=buoMqlBVhsg">Open on YouTube</a></p></div></div></div>
 
@@ -281,234 +281,234 @@ These features closely match the documented appearance of **sky lanterns**, whic
 
 Sky lanterns produce a distinctive visual signature that can easily appear unfamiliar to casual observers, especially under night‑time viewing without depth cues:
 
-* **Warm, steady amber glow:** The candle or fuel source inside gives the lantern a warm orange colour that can resemble a glowing orb against the dark sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=46.124763699209396&amp;customGetLongitude=2.406005859375001&amp;customGetZoom=6&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=50.52739681329302&amp;field_latitude_value%5Bmin%5D=41.72213058512578&amp;field_longitude_value%5Bmax%5D=8.745117187500002&amp;field_longitude_value%5Bmin%5D=-3.9331054687500004&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=68%2C0&amp;sort=asc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</span></span></span>
-* **Silent motion:** Because lanterns drift with the wind rather than generate propulsive noise, witnesses describe them as **silent and slow**, which is atypical of conventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/55775" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">MONACO (MC.MC) 02.11.2012 &#124; GEIPANNovember 2, 2012...</span><span class="citation-popover-meta">Published: November 2, 2012</span></span></span>
-* **Apparent liftoff height:** From a ground perspective, lanterns can appear deceptively high and distant, making it hard to gauge their true scale and altitude. This often leads to misinterpretation as overhead objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dorfzp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Let’s put some facts on the table about ‘Chinese Lanterns’, also known as Sky LanternsJune 26, 2024...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
+* **Warm, steady amber glow:** The candle or fuel source inside gives the lantern a warm orange colour that can resemble a glowing orb against the dark sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=46.124763699209396&amp;customGetLongitude=2.406005859375001&amp;customGetZoom=6&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=50.52739681329302&amp;field_latitude_value%5Bmin%5D=41.72213058512578&amp;field_longitude_value%5Bmax%5D=8.745117187500002&amp;field_longitude_value%5Bmin%5D=-3.9331054687500004&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=68%2C0&amp;sort=asc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</span></span></span>
+* **Silent motion:** Because lanterns drift with the wind rather than generate propulsive noise, witnesses describe them as **silent and slow**, which is atypical of conventional aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes-geipan.fr/en/node/55775" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">MONACO (MC.MC) 02.11.2012 &#124; GEIPANNovember 2, 2012...</span><span class="citation-popover-meta">Published: November 2, 2012</span></span></span>
+* **Apparent liftoff height:** From a ground perspective, lanterns can appear deceptively high and distant, making it hard to gauge their true scale and altitude. This often leads to misinterpretation as overhead objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dorfzp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Let’s put some facts on the table about ‘Chinese Lanterns’, also known as Sky LanternsJune 26, 2024...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
 
-Many panels that catalogue unidentified aerial phenomena, including GEIPAN, have encountered multiple reports of orange drifting lights ultimately attributed to lanterns. In fact, in 2012 alone, several GEIPAN cases around France were likewise classified as *lanterne thai*, showing this is not unique to Monaco but part of a broader pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/recherche/cas/tab?amp=&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=94&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">RECHERCHE DE CAS Image: blue arrow swipe Nouveaux CAS (15) Cas revisités (228) [Select] Recherche de cas Nom...</span></span></span>
+Many panels that catalogue unidentified aerial phenomena, including GEIPAN, have encountered multiple reports of orange drifting lights ultimately attributed to lanterns. In fact, in 2012 alone, several GEIPAN cases around France were likewise classified as *lanterne thai*, showing this is not unique to Monaco but part of a broader pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/fr/recherche/cas/tab?amp=&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=94&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">RECHERCHE DE CAS Image: blue arrow swipe Nouveaux CAS (15) Cas revisités (228) [Select] Recherche de cas Nom...</span></span></span>
 
 <img src="{{ "/assets/images/Monaco_35ab1c_monaco_lantern_light_a36b60-Illustration-2-dark.svg" | relative_url }}" alt="Lantern Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c_monaco_lantern_light_a36b60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c_monaco_lantern_light_a36b60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Human Perception and Lack of Reference Cues
 
-Monaco’s **dense urban setting and limited vantage distances** can exacerbate perceptual ambiguities: an object over the sea or near the horizon lacks familiar size and distance cues, making an ordinary lantern appear more mysterious than it would over a familiar terrestrial background. This perceptual effect is common in many reported night‑time light sightings and is a key reason why lanterns and similar objects are often mistaken for something unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dorfzp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Let’s put some facts on the table about ‘Chinese Lanterns’, also known as Sky LanternsJune 26, 2024...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
+Monaco’s **dense urban setting and limited vantage distances** can exacerbate perceptual ambiguities: an object over the sea or near the horizon lacks familiar size and distance cues, making an ordinary lantern appear more mysterious than it would over a familiar terrestrial background. This perceptual effect is common in many reported night‑time light sightings and is a key reason why lanterns and similar objects are often mistaken for something unusual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dorfzp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Let’s put some facts on the table about ‘Chinese Lanterns’, also known as Sky LanternsJune 26, 2024...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
 
 ## Distinguishing Lanterns from Aircraft or Other Phenomena
 
 Investigators and experienced observers use several criteria to differentiate Chinese lanterns from other aerial lights:
 
-* **Motion relative to wind:** Lanterns drift at wind speed and direction; if a light moves consistently with local wind vectors, it supports the lantern hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dorfzp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Let’s put some facts on the table about ‘Chinese Lanterns’, also known as Sky LanternsJune 26, 2024...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
-* **Duration of visibility:** Lanterns typically remain aloft for a limited burn time (several minutes), eventually dimming and descending. Consistent duration followed by fading is a hallmark of lanterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dorfzp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Let’s put some facts on the table about ‘Chinese Lanterns’, also known as Sky LanternsJune 26, 2024...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
-* **Non‑propulsive behaviour:** Lack of any manoeuvring or acceleration inconsistent with passive drift suggests a passive payload like a lantern rather than a powered craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dorfzp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Let’s put some facts on the table about ‘Chinese Lanterns’, also known as Sky LanternsJune 26, 2024...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
+* **Motion relative to wind:** Lanterns drift at wind speed and direction; if a light moves consistently with local wind vectors, it supports the lantern hypothesis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dorfzp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Let’s put some facts on the table about ‘Chinese Lanterns’, also known as Sky LanternsJune 26, 2024...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
+* **Duration of visibility:** Lanterns typically remain aloft for a limited burn time (several minutes), eventually dimming and descending. Consistent duration followed by fading is a hallmark of lanterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dorfzp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Let’s put some facts on the table about ‘Chinese Lanterns’, also known as Sky LanternsJune 26, 2024...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
+* **Non‑propulsive behaviour:** Lack of any manoeuvring or acceleration inconsistent with passive drift suggests a passive payload like a lantern rather than a powered craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1dorfzp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Let’s put some facts on the table about ‘Chinese Lanterns’, also known as Sky LanternsJune 26, 2024...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
 
-In the Monaco case, the **slow descent, silence, and warm colour** matched these expectations closely enough for GEIPAN’s classification team to list the case as a likely lantern observation rather than an unexplained aerial phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=32%2C0&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</span></span></span>
+In the Monaco case, the **slow descent, silence, and warm colour** matched these expectations closely enough for GEIPAN’s classification team to list the case as a likely lantern observation rather than an unexplained aerial phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=32%2C0&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zRgjsrAmZKI" title="Spike in strange lights over Vancouver Island" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zRgjsrAmZKI" target="_blank" rel="noopener noreferrer">Spike in strange lights over Vancouver Island</a></p><p class="youtube-embed-meta">Channel: ctvvi &middot; Views: 10.7K &middot; Uploaded: January 2013 &middot; Length: 3 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zRgjsrAmZKI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zRgjsrAmZKI">Open on YouTube</a></p></div></div></div>
 
 ## Broader Pattern: Lanterns in Aerial Phenomena Reports
 
-The Monaco instance in 2012 fits into a wider pattern where **sky lanterns are repeatedly identified in UFO case archives**. GEIPAN’s own catalogue shows multiple *lanterne thai* classifications across different French localities in the same time frame as the Monaco case, underscoring how frequently these objects are mistaken for unexplained aerial lights by witnesses before investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=29&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">RECHERCHE DE CAS Recherche de cas Nom du cas &#124; Date d&#x27;observation &#124; Classification &#124; Département &#124; Phéno...</span></span></span>
+The Monaco instance in 2012 fits into a wider pattern where **sky lanterns are repeatedly identified in UFO case archives**. GEIPAN’s own catalogue shows multiple *lanterne thai* classifications across different French localities in the same time frame as the Monaco case, underscoring how frequently these objects are mistaken for unexplained aerial lights by witnesses before investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=29&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">RECHERCHE DE CAS Recherche de cas Nom du cas &#124; Date d&#x27;observation &#124; Classification &#124; Département &#124; Phéno...</span></span></span>
 
-Investigative units like GEIPAN emphasise that such mundane causes, once analysed against witness reports and environmental data (such as wind conditions), often provide a more grounded explanation for simple light sightings than genuinely unknown phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skylantern.fr/blog/le-geipan-et-skylantern/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skylantern.fr">[SkyLantern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skylantern.fr</span><span class="citation-popover-title">Sky Lantern Le GEIPAN et Sky Lantern</span><span class="citation-popover-snippet">Le GEIPAN et SkyLantern - Skylantern - le Blog EnchanteurDecember 20, 2011...</span><span class="citation-popover-meta">Published: December 20, 2011</span></span></span>
+Investigative units like GEIPAN emphasise that such mundane causes, once analysed against witness reports and environmental data (such as wind conditions), often provide a more grounded explanation for simple light sightings than genuinely unknown phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skylantern.fr/blog/le-geipan-et-skylantern/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skylantern.fr">[SkyLantern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skylantern.fr</span><span class="citation-popover-title">Sky Lantern Le GEIPAN et Sky Lantern</span><span class="citation-popover-snippet">Le GEIPAN et SkyLantern - Skylantern - le Blog EnchanteurDecember 20, 2011...</span><span class="citation-popover-meta">Published: December 20, 2011</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDqQGyAwWCg" title="Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer">Bureau des ovnis : la vérité est-elle ailleurs ? • FRANCE 24</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 &middot; Views: 24.0K &middot; Uploaded: October 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDqQGyAwWCg">Open on YouTube</a></p></div></div></div>
 
 ## Summary
 
-The 2 November 2012 orange light sightings over Monaco are a clear example of how ordinary **Chinese lanterns** can produce **silent, slow, orange lights** that otherwise qualify as “unidentified lights” to witnesses unfamiliar with the phenomenon. Official investigation by GEIPAN used witness descriptions and characteristic features of lanterns to classify the sighting as **“lanterne thai”**, showing how such objects fit well under known, explainable skies phenomena rather than requiring exotic explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">pe [Select] Phenomenon [Input] [Input] Photo / Vidéo Image: blue arrow swipe...</span></span></span>
+The 2 November 2012 orange light sightings over Monaco are a clear example of how ordinary **Chinese lanterns** can produce **silent, slow, orange lights** that otherwise qualify as “unidentified lights” to witnesses unfamiliar with the phenomenon. Official investigation by GEIPAN used witness descriptions and characteristic features of lanterns to classify the sighting as **“lanterne thai”**, showing how such objects fit well under known, explainable skies phenomena rather than requiring exotic explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">pe [Select] Phenomenon [Input] [Input] Photo / Vidéo Image: blue arrow swipe...</span></span></span>
 
-This case is an instructive reference point within the broader Monaco UFO record, illustrating the importance of matching observed light behaviour to plausible physical mechanisms before considering less grounded interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=31%2C10&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</span></span></span>
+This case is an instructive reference point within the broader Monaco UFO record, illustrating the importance of matching observed light behaviour to plausible physical mechanisms before considering less grounded interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=31%2C10&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</span></span></span>
 
 <img src="{{ "/assets/images/Monaco_35ab1c_monaco_lantern_light_a36b60-Illustration-3-dark.svg" | relative_url }}" alt="Lantern Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c_monaco_lantern_light_a36b60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c_monaco_lantern_light_a36b60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Orange Lights Over Monaco Mislead Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Orange Lights Over Monaco Mislead Witnesses. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to witness interpretation of lights in the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to witness interpretation of lights in the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for separating unusual reports from explainable events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for separating unusual reports from explainable events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for understanding misperception and observational limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding misperception and observational limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Covers recurring sighting patterns and common explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers recurring sighting patterns and common explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-orange-lights-over-monaco-mislead-witnesses-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-orange-lights-over-monaco-mislead-witnesses-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ This case is an instructive reference point within the broader Monaco UFO record
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ This case is an instructive reference point within the broader Monaco UFO record
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ This case is an instructive reference point within the broader Monaco UFO record
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ This case is an instructive reference point within the broader Monaco UFO record
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ This case is an instructive reference point within the broader Monaco UFO record
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,145 +711,144 @@ This case is an instructive reference point within the broader Monaco UFO record
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://cnes-geipan.fr/en/node/55775" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/node/55775</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MONACO (MC.MC) 02.11.2012 | GEIPANNovember 2, 2012...</p></details>
+   Link:<a href="https://cnes-geipan.fr/en/node/55775" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/node/55775</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MONACO (MC.MC) 02.11.2012 | GEIPANNovember 2, 2012...</p></details>
    Published: November 2, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: geipan.fr  
    Title: Recherche de cas | GEIPAN  
-   Link: <a href="https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=37%2C18&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=37%2C18&amp;sort=asc</a>  
+   Link:<a href="https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=37%2C18&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=37%2C18&amp;sort=asc</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dorfzp" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dorfzp</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Let’s put some facts on the table about ‘Chinese Lanterns’, also known as Sky LanternsJune 26, 2024...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dorfzp" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dorfzp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Let’s put some facts on the table about ‘Chinese Lanterns’, also known as Sky LanternsJune 26, 2024...</p></details>
    Published: June 26, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skylantern.fr  
    Title: Sky Lantern Le GEIPAN et Sky Lantern  
-   Link: <a href="https://www.skylantern.fr/blog/le-geipan-et-skylantern/" target="_blank" rel="noopener noreferrer nofollow">https://www.skylantern.fr/blog/le-geipan-et-skylantern/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Le GEIPAN et SkyLantern - Skylantern - le Blog EnchanteurDecember 20, 2011...</p></details>
+   Link:<a href="https://www.skylantern.fr/blog/le-geipan-et-skylantern/" target="_blank" rel="noopener noreferrer nofollow">https://www.skylantern.fr/blog/le-geipan-et-skylantern/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Le GEIPAN et SkyLantern - Skylantern - le Blog EnchanteurDecember 20, 2011...</p></details>
    Published: December 20, 2011  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=32%2C0&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=32%2C0&amp;sort=desc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=32%2C0&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=32%2C0&amp;sort=desc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pe [Select] Phenomenon [Input] [Input] Photo / Vidéo Image: blue arrow swipe...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=orange&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=15%2C37&amp;sort=desc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pe [Select] Phenomenon [Input] [Input] Photo / Vidéo Image: blue arrow swipe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=31%2C3&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=31%2C3&amp;sort=asc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>d’observation [Select] Phénomène [Input] Date d&#x27;observation [Input] [Input] P...</p></details>
+   Link:<a href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=31%2C3&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=31%2C3&amp;sort=asc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d’observation [Select] Phénomène [Input] Date d&#x27;observation [Input] [Input] P...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=102%2C21&amp;sort=asc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=102%2C21&amp;sort=asc&amp;undefined=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>d’observation [Select] Phénomène [Input] Date d&#x27;observation [Input] [Input] P...</p></details>
+   Link:<a href="https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=102%2C21&amp;sort=asc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date_d_observation&amp;page=102%2C21&amp;sort=asc&amp;undefined=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d’observation [Select] Phénomène [Input] Date d&#x27;observation [Input] [Input] P...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=46.124763699209396&amp;customGetLongitude=2.406005859375001&amp;customGetZoom=6&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=50.52739681329302&amp;field_latitude_value%5Bmin%5D=41.72213058512578&amp;field_longitude_value%5Bmax%5D=8.745117187500002&amp;field_longitude_value%5Bmin%5D=-3.9331054687500004&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=68%2C0&amp;sort=asc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=46.124763699209396&amp;customGetLongitude=2.406005859375001&amp;customGetZoom=6&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=50.52739681329302&amp;field_latitude_value%5Bmin%5D=41.72213058512578&amp;field_longitude_value%5Bmax%5D=8.745117187500002&amp;field_longitude_value%5Bmin%5D=-3.9331054687500004&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=68%2C0&amp;sort=asc&amp;undefined=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=46.124763699209396&amp;customGetLongitude=2.406005859375001&amp;customGetZoom=6&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=50.52739681329302&amp;field_latitude_value%5Bmin%5D=41.72213058512578&amp;field_longitude_value%5Bmax%5D=8.745117187500002&amp;field_longitude_value%5Bmin%5D=-3.9331054687500004&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=68%2C0&amp;sort=asc&amp;undefined=" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=46.124763699209396&amp;customGetLongitude=2.406005859375001&amp;customGetZoom=6&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=50.52739681329302&amp;field_latitude_value%5Bmin%5D=41.72213058512578&amp;field_longitude_value%5Bmax%5D=8.745117187500002&amp;field_longitude_value%5Bmin%5D=-3.9331054687500004&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=68%2C0&amp;sort=asc&amp;undefined=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: geipan.fr  
-   Link: <a href="https://geipan.fr/fr/recherche/cas/tab?amp=&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=94&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/recherche/cas/tab?amp=&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=94&amp;sort=desc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RECHERCHE DE CAS Image: blue arrow swipe Nouveaux CAS (15) Cas revisités (228) [Select] Recherche de cas Nom...</p></details>
+   Link:<a href="https://geipan.fr/fr/recherche/cas/tab?amp=&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=94&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/fr/recherche/cas/tab?amp=&amp;field_agregation_index_value=&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=94&amp;sort=desc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RECHERCHE DE CAS Image: blue arrow swipe Nouveaux CAS (15) Cas revisités (228) [Select] Recherche de cas Nom...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: geipan.fr  
-   Link: <a href="https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=29&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=29&amp;sort=asc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RECHERCHE DE CAS Recherche de cas Nom du cas | Date d&#x27;observation | Classification | Département | Phéno...</p></details>
+   Link:<a href="https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=29&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=29&amp;sort=asc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RECHERCHE DE CAS Recherche de cas Nom du cas | Date d&#x27;observation | Classification | Département | Phéno...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: geipan.fr  
-   Link: <a href="https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=31%2C10&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=31%2C10&amp;sort=asc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</p></details>
+   Link:<a href="https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=31%2C10&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B12%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=31%2C10&amp;sort=asc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: geipan.fr  
-   Link: <a href="https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=34%2C18&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=34%2C18&amp;sort=desc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</p></details>
+   Link:<a href="https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=34%2C18&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=12&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=34%2C18&amp;sort=desc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pe [Select] Phenomenon [Input] Observation date [Input] [Input] Photo / Vidéo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: paranormal.fandom.com  
    Title: Le GEIPAN  
-   Link: <a href="https://paranormal.fandom.com/fr/wiki/Le_GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://paranormal.fandom.com/fr/wiki/Le_GEIPAN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN | Wiki paranormal | FandomLE GEIPAN Se connecter pour enregistrer Enregistrer Modifier * Historique * Purge du cache * Discussion...</p></details>
+   Link:<a href="https://paranormal.fandom.com/fr/wiki/Le_GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://paranormal.fandom.com/fr/wiki/Le_GEIPAN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN | Wiki paranormal | FandomLE GEIPAN Se connecter pour enregistrer Enregistrer Modifier * Historique * Purge du cache * Discussion...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ladepeche.fr  
    Title: La barre lumineuse observée  
-   Link: <a href="https://www.ladepeche.fr/2023/10/07/les-agents-du-geipan-les-detectives-des-ovnis-detaillent-trois-cas-de-phenomenes-celestes-fascinants-11501464.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ladepeche.fr/2023/10/07/les-agents-du-geipan-les-detectives-des-ovnis-detaillent-trois-cas-de-phenomenes-celestes-fascinants-11501464.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Les agents du Geipan, les détectives des ovnis détaillent trois cas de phénomènes célestes fascinants - ladepeche.frOctober 7, 2023 — LES...</p></details>
+   Link:<a href="https://www.ladepeche.fr/2023/10/07/les-agents-du-geipan-les-detectives-des-ovnis-detaillent-trois-cas-de-phenomenes-celestes-fascinants-11501464.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ladepeche.fr/2023/10/07/les-agents-du-geipan-les-detectives-des-ovnis-detaillent-trois-cas-de-phenomenes-celestes-fascinants-11501464.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Les agents du Geipan, les détectives des ovnis détaillent trois cas de phénomènes célestes fascinants - ladepeche.frOctober 7, 2023 — LES...</p></details>
    Published: October 7, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Spike in strange lights over Vancouver Island  
-   Link: <a href="https://www.youtube.com/watch?v=zRgjsrAmZKI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zRgjsrAmZKI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting France&#x27;s UFO detectives • FRANCE 24 English provides direct context on how GEIPAN, the French state organization responsible for...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zRgjsrAmZKI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zRgjsrAmZKI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting France&#x27;s UFO detectives • FRANCE 24 English provides direct context on how GEIPAN, the French state organization responsible for...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ledauphine.com  
    Title: R HÔNE-ALPES / PACA  
-   Link: <a href="https://www.ledauphine.com/france-monde/2012/09/01/ovnis-phenomenes-aerospatiaux-la-carte-des-observations-dans-vos-departements" target="_blank" rel="noopener noreferrer nofollow">https://www.ledauphine.com/france-monde/2012/09/01/ovnis-phenomenes-aerospatiaux-la-carte-des-observations-dans-vos-departements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ovnis, phénomènes aérospatiaux: la carte des observations dans vos départementsSeptember 1, 2012 — RHÔNE-ALPES / PACA OVNIS, PHÉNOMÈNES A...</p></details>
+   Link:<a href="https://www.ledauphine.com/france-monde/2012/09/01/ovnis-phenomenes-aerospatiaux-la-carte-des-observations-dans-vos-departements" target="_blank" rel="noopener noreferrer nofollow">https://www.ledauphine.com/france-monde/2012/09/01/ovnis-phenomenes-aerospatiaux-la-carte-des-observations-dans-vos-departements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ovnis, phénomènes aérospatiaux: la carte des observations dans vos départementsSeptember 1, 2012 — RHÔNE-ALPES / PACA OVNIS, PHÉNOMÈNES A...</p></details>
    Published: September 1, 2012  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Proof Is Out There: UFO Lights CONFOUND Investigators | History  
-   Link: <a href="https://www.youtube.com/watch?v=buoMqlBVhsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=buoMqlBVhsg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Spike in strange lights over Vancouver Island...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=buoMqlBVhsg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=buoMqlBVhsg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Spike in strange lights over Vancouver Island...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/space/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/space/department-of-flying-saucers-2294791/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Flying SaucersJean-Jacques Velasco, who for 21 years sat in Blanc’s chair at GEIPAN and its predecessor organizations befor...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/space/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/space/department-of-flying-saucers-2294791/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Flying SaucersJean-Jacques Velasco, who for 21 years sat in Blanc’s chair at GEIPAN and its predecessor organizations befor...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: UFO Office: Is the truth out there? • FRANCE 24  
-   Link: <a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yDqQGyAwWCg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 The Proof Is Out There: UFO Lights CONFOUND Investigators | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yDqQGyAwWCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yDqQGyAwWCg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 The Proof Is Out There: UFO Lights CONFOUND Investigators | History...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: commons.wikimedia.org  
    Title: * Lantern  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3ALanterns_in_Monaco" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ALanterns_in_Monaco</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:Lanterns in Monaco - Wikimedia CommonsApril 14, 2017 — CATEGORY:LANTERNS IN MONACO MEDIA IN CATEGORY &quot;LANTERNS IN M...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3ALanterns_in_Monaco" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3ALanterns_in_Monaco</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:Lanterns in Monaco - Wikimedia CommonsApril 14, 2017 — CATEGORY:LANTERNS IN MONACO MEDIA IN CATEGORY &quot;LANTERNS IN M...</p></details>
    Published: April 14, 2017  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: lightsoundjournal.fr  
    Title: mics 2012  
-   Link: <a href="https://www.lightsoundjournal.fr/2012/11/06/mics-2012/" target="_blank" rel="noopener noreferrer nofollow">https://www.lightsoundjournal.fr/2012/11/06/mics-2012/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6, 2012 — MICS 2012 Audio - Revue de presse, Eclairage - Revue de presse, Revue de presse principal 06/11/2012 Image Depuis sa création e...</p></details>
+   Link:<a href="https://www.lightsoundjournal.fr/2012/11/06/mics-2012/" target="_blank" rel="noopener noreferrer nofollow">https://www.lightsoundjournal.fr/2012/11/06/mics-2012/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6, 2012 — MICS 2012 Audio - Revue de presse, Eclairage - Revue de presse, Revue de presse principal 06/11/2012 Image Depuis sa création e...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: varmatin.com  
    Title: CART E  
-   Link: <a href="https://www.varmatin.com/faits-societe/carte-ou-ont-ete-apercus-les-ovnis-de-la-cote-d-azur-338558" target="_blank" rel="noopener noreferrer nofollow">https://www.varmatin.com/faits-societe/carte-ou-ont-ete-apercus-les-ovnis-de-la-cote-d-azur-338558</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Où ont été aperçus les Ovnis de la Côte d&#x27;Azur? - Var-MatinNovember 16, 2012 — CARTE. OÙ ONT ÉTÉ APERÇUS LES OVNIS DE LA CÔTE D&#x27;AZUR? DEP...</p></details>
+   Link:<a href="https://www.varmatin.com/faits-societe/carte-ou-ont-ete-apercus-les-ovnis-de-la-cote-d-azur-338558" target="_blank" rel="noopener noreferrer nofollow">https://www.varmatin.com/faits-societe/carte-ou-ont-ete-apercus-les-ovnis-de-la-cote-d-azur-338558</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Où ont été aperçus les Ovnis de la Côte d&#x27;Azur? - Var-MatinNovember 16, 2012 — CARTE. OÙ ONT ÉTÉ APERÇUS LES OVNIS DE LA CÔTE D&#x27;AZUR? DEP...</p></details>
    Published: November 16, 2012  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: The UFO Office • FRANCE 24  
-   Link: <a href="https://www.youtube.com/watch?v=Ygb1vphH1q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ygb1vphH1q0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 UFO Office: Is the truth out there? • FRANCE 24...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ygb1vphH1q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ygb1vphH1q0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 UFO Office: Is the truth out there? • FRANCE 24...</p></details>

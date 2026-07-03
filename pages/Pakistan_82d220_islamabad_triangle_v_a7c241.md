@@ -251,20 +251,20 @@ image: /assets/images/Pakistan_82d220_islamabad_triangle_v_a7c241-Illustration-1
 In early 2022, a video filmed in Islamabad became one of Pakistan’s most widely shared UFO stories. The footage appeared to show a dark, triangular object hanging almost motionless over the city for an extended period. Within days, the clip had spread through international tabloids, UFO forums, YouTube channels, and social media feeds, where it was presented as everything from an unexplained aerial craft to evidence of extraterrestrial technology. Yet the Islamabad case is also a useful example of how modern UFO narratives can grow faster than the available evidence.
 
 <img src="{{ "/assets/images/Pakistan_82d220_islamabad_triangle_v_a7c241-Illustration-1-dark.svg" | relative_url }}" alt="Triangle Video illustration 1" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220_islamabad_triangle_v_a7c241-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220_islamabad_triangle_v_a7c241-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike radar-backed aviation incidents or military reports, the Islamabad footage was a civilian recording shot from a considerable distance. The central mystery was not simply the object itself but how camera zoom, perspective, compression, and online amplification transformed a local sighting into a global “triangle UFO” story. The case remains one of the clearest examples in Pakistan’s UFO record of the gap between a genuinely unidentified object and a confirmed extraordinary event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
+Unlike radar-backed aviation incidents or military reports, the Islamabad footage was a civilian recording shot from a considerable distance. The central mystery was not simply the object itself but how camera zoom, perspective, compression, and online amplification transformed a local sighting into a global “triangle UFO” story. The case remains one of the clearest examples in Pakistan’s UFO record of the gap between a genuinely unidentified object and a confirmed extraordinary event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
 
 ## What the witness filmed
 
-The video was recorded by Islamabad resident Arslan Warraich, who stated that he observed the object for roughly two hours above the DHA Phase 1 area of the capital region. According to his account, the object appeared as a dark shape suspended in the sky. He said that with the naked eye it resembled a black dot or rock-like object, while digital zoom revealed what looked like a triangular form with a raised section toward the rear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latintimes.com/alien-experts-stunned-video-mystery-ufo-spotted-over-city-broad-daylight-507855" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latintimes.com">[Latin Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latintimes.com</span><span class="citation-popover-title">Latin Times Alien Experts Stunned By Video Of Mystery UFO Spotted</span><span class="citation-popover-snippet">Latin TimesAlien Experts Stunned By Video Of Mystery UFO Spotted...March 1, 2022 — 1 Mar 2022 — Alien experts feel that a video of a UFO...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
+The video was recorded by Islamabad resident Arslan Warraich, who stated that he observed the object for roughly two hours above the DHA Phase 1 area of the capital region. According to his account, the object appeared as a dark shape suspended in the sky. He said that with the naked eye it resembled a black dot or rock-like object, while digital zoom revealed what looked like a triangular form with a raised section toward the rear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latintimes.com/alien-experts-stunned-video-mystery-ufo-spotted-over-city-broad-daylight-507855" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latintimes.com">[Latin Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latintimes.com</span><span class="citation-popover-title">Latin Times Alien Experts Stunned By Video Of Mystery UFO Spotted</span><span class="citation-popover-snippet">Latin TimesAlien Experts Stunned By Video Of Mystery UFO Spotted...March 1, 2022 — 1 Mar 2022 — Alien experts feel that a video of a UFO...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
 
 Several aspects of the footage helped it attract attention:
 
 * The object appeared stationary for long periods.
 * It showed no obvious navigation lights.
 * Birds occasionally crossed the frame, creating a visual comparison between the object and nearby wildlife.
-* The recording lasted far longer than many viral UFO clips, with the witness claiming to have filmed multiple segments over an extended observation period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[LADbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo stuns alien experts 20220222</span><span class="citation-popover-snippet">LADbible&#x27;UFO&#x27; Stuns Alien Experts As It Hangs Above City In Broad...22 Feb 2022 — The object was seen lurking over Islamabad, the capita...</span></span></span>
+* The recording lasted far longer than many viral UFO clips, with the witness claiming to have filmed multiple segments over an extended observation period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[LADbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo stuns alien experts 20220222</span><span class="citation-popover-snippet">LADbible&#x27;UFO&#x27; Stuns Alien Experts As It Hangs Above City In Broad...22 Feb 2022 — The object was seen lurking over Islamabad, the capita...</span></span></span>
 
-Media coverage often emphasised these points because they made the sighting appear more substantial than a brief flash of light or a distant moving dot. Headlines repeatedly described a “triangle UFO” hovering over Islamabad, encouraging comparisons with longstanding black-triangle UFO folklore from Europe and North America. New York Post <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[ladbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo stuns alien experts 20220222</span><span class="citation-popover-snippet">LADbible&#x27;UFO&#x27; Stuns Alien Experts As It Hangs Above City In Broad...22 Feb 2022 — The object was seen lurking over Islamabad, the capita...</span></span></span> What the footage did not provide was equally important. There was no publicly released radar data, no independent sensor confirmation, no verified altitude estimate, and no official investigation report from Pakistani authorities. The object was visually unusual, but the available evidence remained limited to video and witness testimony.
+Media coverage often emphasised these points because they made the sighting appear more substantial than a brief flash of light or a distant moving dot. Headlines repeatedly described a “triangle UFO” hovering over Islamabad, encouraging comparisons with longstanding black-triangle UFO folklore from Europe and North America. New York Post<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[ladbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo stuns alien experts 20220222</span><span class="citation-popover-snippet">LADbible&#x27;UFO&#x27; Stuns Alien Experts As It Hangs Above City In Broad...22 Feb 2022 — The object was seen lurking over Islamabad, the capita...</span></span></span> What the footage did not provide was equally important. There was no publicly released radar data, no independent sensor confirmation, no verified altitude estimate, and no official investigation report from Pakistani authorities. The object was visually unusual, but the available evidence remained limited to video and witness testimony.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pZ6Sfkqhr8o" title="UFO Hovering Over Islamabad - Complete 13 min HD video with Pictures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pZ6Sfkqhr8o" target="_blank" rel="noopener noreferrer">UFO Hovering Over Islamabad - Complete 13 min HD video with Pictures</a></p><p class="youtube-embed-meta">Channel: Arslan Warraich &middot; Views: 187.7K &middot; Uploaded: January 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pZ6Sfkqhr8o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pZ6Sfkqhr8o">Open on YouTube</a></p></div></div></div>
 
@@ -274,14 +274,14 @@ The strongest lesson from the Islamabad footage is not necessarily about UFOs. I
 
 When an object is extremely distant, even high-resolution smartphone footage can become misleading. Small uncertainties in distance create large uncertainties in size. An object that appears enormous at one assumed distance could be relatively small if it is closer to the camera. Conversely, a small airborne object can appear exotic when digital zoom enlarges a tiny section of the frame.
 
-The witness argued that the object was not a bird and not a typical commercial drone. Those claims may be reasonable from his perspective, especially given the duration of the sighting. However, ruling out one explanation does not automatically establish another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
+The witness argued that the object was not a bird and not a typical commercial drone. Those claims may be reasonable from his perspective, especially given the duration of the sighting. However, ruling out one explanation does not automatically establish another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
 
 The visual characteristics that attracted UFO enthusiasts were also the characteristics most vulnerable to distortion:
 
 * **Triangular appearance:** Digital zoom and image sharpening can exaggerate edges and geometric shapes.
 * **Apparent stillness:** A distant object moving slowly relative to the observer can seem stationary.
 * **Dark, featureless surface:** Extreme zoom often removes detail rather than revealing it.
-* **Lack of visible propulsion:** Most consumer cameras cannot resolve propulsion systems at long range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
+* **Lack of visible propulsion:** Most consumer cameras cannot resolve propulsion systems at long range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
 
 Without reliable information on altitude, speed, distance, or wind conditions, analysts are left with appearance alone. That makes confident conclusions difficult in either direction.
 
@@ -291,14 +291,14 @@ Without reliable information on altitude, speed, distance, or wind conditions, a
 
 One reason the Islamabad case attracted sceptical attention was that several possible conventional [explanations]({{ 'explanations-50f1a7/' | relative_url }}) remained available.
 
-A frequently discussed possibility involved a kite. Researchers and online investigators noted that the sighting occurred during a period associated with regional kite-flying activity. UFO commentator “UFO of Interest” publicly suggested that the object could have been related to kite flying connected with Basant celebrations in nearby Rawalpindi and surrounding areas. That explanation gained attention because a tethered or drifting kite can appear surprisingly stationary at long distances while also producing unusual silhouettes when viewed through heavy zoom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
+A frequently discussed possibility involved a kite. Researchers and online investigators noted that the sighting occurred during a period associated with regional kite-flying activity. UFO commentator “UFO of Interest” publicly suggested that the object could have been related to kite flying connected with Basant celebrations in nearby Rawalpindi and surrounding areas. That explanation gained attention because a tethered or drifting kite can appear surprisingly stationary at long distances while also producing unusual silhouettes when viewed through heavy zoom.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
 
 Other proposed explanations included:
 
 * An unusual balloon.
 * A custom-built aerial display object.
 * A distant drone that appeared stationary because of perspective.
-* A lightweight airborne structure caught in stable wind conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
+* A lightweight airborne structure caught in stable wind conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
 
 None of these explanations was definitively proven. At the same time, none was conclusively eliminated.
 
@@ -309,13 +309,13 @@ That uncertainty is significant. In many viral UFO stories, public discussion qu
 
 The most remarkable aspect of the Islamabad triangle case may not be the object itself but the speed of its online transformation.
 
-After the footage appeared online, international outlets rapidly republished the story. Tabloids, viral-news sites, UFO-focused channels, and social media accounts framed the clip as a mystery that had “stunned experts” or represented one of the clearest UFO videos in years. The same short collection of clips circulated repeatedly across platforms, often detached from context and frequently accompanied by dramatic captions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[LADbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo stuns alien experts 20220222</span><span class="citation-popover-snippet">LADbible&#x27;UFO&#x27; Stuns Alien Experts As It Hangs Above City In Broad...22 Feb 2022 — The object was seen lurking over Islamabad, the capita...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latintimes.com/alien-experts-stunned-video-mystery-ufo-spotted-over-city-broad-daylight-507855" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latintimes.com">[Latin Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latintimes.com</span><span class="citation-popover-title">Latin Times Alien Experts Stunned By Video Of Mystery UFO Spotted</span><span class="citation-popover-snippet">Latin TimesAlien Experts Stunned By Video Of Mystery UFO Spotted...March 1, 2022 — 1 Mar 2022 — Alien experts feel that a video of a UFO...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
+After the footage appeared online, international outlets rapidly republished the story. Tabloids, viral-news sites, UFO-focused channels, and social media accounts framed the clip as a mystery that had “stunned experts” or represented one of the clearest UFO videos in years. The same short collection of clips circulated repeatedly across platforms, often detached from context and frequently accompanied by dramatic captions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[LADbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo stuns alien experts 20220222</span><span class="citation-popover-snippet">LADbible&#x27;UFO&#x27; Stuns Alien Experts As It Hangs Above City In Broad...22 Feb 2022 — The object was seen lurking over Islamabad, the capita...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latintimes.com/alien-experts-stunned-video-mystery-ufo-spotted-over-city-broad-daylight-507855" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latintimes.com">[Latin Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latintimes.com</span><span class="citation-popover-title">Latin Times Alien Experts Stunned By Video Of Mystery UFO Spotted</span><span class="citation-popover-snippet">Latin TimesAlien Experts Stunned By Video Of Mystery UFO Spotted...March 1, 2022 — 1 Mar 2022 — Alien experts feel that a video of a UFO...</span><span class="citation-popover-meta">Published: March 1, 2022</span></span></span>
 
 Several forces amplified the story:
 
 ### The power of the triangle motif
 
-Triangle-shaped UFOs already occupy a special place in UFO culture. Reports from the Belgian UFO wave of the late 1980s and later black-triangle narratives created a familiar visual template. Once viewers perceived the Islamabad object as triangular, many immediately connected it to older UFO lore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1epqbwu/what_do_we_know_about_this_footage_some_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What do we know about this footage? Some of the most real...Analysis of real-looking triangle UFO footage. Best resources on trian...</span></span></span>
+Triangle-shaped UFOs already occupy a special place in UFO culture. Reports from the Belgian UFO wave of the late 1980s and later black-triangle narratives created a familiar visual template. Once viewers perceived the Islamabad object as triangular, many immediately connected it to older UFO lore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1epqbwu/what_do_we_know_about_this_footage_some_of_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What do we know about this footage? Some of the most real...Analysis of real-looking triangle UFO footage. Best resources on trian...</span></span></span>
 
 This mattered because audiences were not encountering the footage in isolation. They were interpreting it through decades of existing UFO stories.
 
@@ -323,19 +323,19 @@ This mattered because audiences were not encountering the footage in isolation. 
 
 ### Compression into short-form content
 
-On platforms such as Instagram, Facebook, YouTube Shorts, and TikTok-style feeds, videos often circulate stripped of technical discussion. Questions about distance, lens characteristics, atmospheric conditions, and image processing tend to disappear, while dramatic visual frames remain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/CaUZK3Uoog6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">The object was seen lurking over Islamabad, the capital...... UFO. Penn News. more. View all 2,861 comments · laurennlondonx. A...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/tv/CaUINQrlvye/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Mysterious “Triangle UFO” Spotted In Islamabad Skies...#NDTVBeeps &#124; Mysterious “Triangle UFO” Spotted In Islamabad Skies #Myste...</span></span></span>
+On platforms such as Instagram, Facebook, YouTube Shorts, and TikTok-style feeds, videos often circulate stripped of technical discussion. Questions about distance, lens characteristics, atmospheric conditions, and image processing tend to disappear, while dramatic visual frames remain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/CaUZK3Uoog6/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">The object was seen lurking over Islamabad, the capital...... UFO. Penn News. more. View all 2,861 comments · laurennlondonx. A...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/tv/CaUINQrlvye/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Mysterious “Triangle UFO” Spotted In Islamabad Skies...#NDTVBeeps &#124; Mysterious “Triangle UFO” Spotted In Islamabad Skies #Myste...</span></span></span>
 
 The result is a story structure that rewards mystery rather than verification.
 
 ### International UFO attention after 2021
 
-The Islamabad video appeared during a period of intense global interest in unidentified aerial phenomena. US military UAP disclosures, Pentagon discussions, and widespread media coverage had already increased public appetite for UFO content. A visually unusual object filmed in daylight therefore entered an environment primed for rapid sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+The Islamabad video appeared during a period of intense global interest in unidentified aerial phenomena. US military UAP disclosures, Pentagon discussions, and widespread media coverage had already increased public appetite for UFO content. A visually unusual object filmed in daylight therefore entered an environment primed for rapid sharing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 ## Why the case remains unresolved
 
 The Islamabad triangle footage occupies an unusual middle ground.
 
-It is stronger than many anonymous internet UFO clips because the witness identified himself publicly, described the event in detail, and recorded the object for an extended period. The footage is clear enough to show that something was present in the sky rather than merely a camera artefact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[LADbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo stuns alien experts 20220222</span><span class="citation-popover-snippet">LADbible&#x27;UFO&#x27; Stuns Alien Experts As It Hangs Above City In Broad...22 Feb 2022 — The object was seen lurking over Islamabad, the capita...</span></span></span>
+It is stronger than many anonymous internet UFO clips because the witness identified himself publicly, described the event in detail, and recorded the object for an extended period. The footage is clear enough to show that something was present in the sky rather than merely a camera artefact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[LADbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo stuns alien experts 20220222</span><span class="citation-popover-snippet">LADbible&#x27;UFO&#x27; Stuns Alien Experts As It Hangs Above City In Broad...22 Feb 2022 — The object was seen lurking over Islamabad, the capita...</span></span></span>
 
 Yet it is weaker than the best documented aviation-related UFO cases because crucial information is missing:
 
@@ -343,7 +343,7 @@ Yet it is weaker than the best documented aviation-related UFO cases because cru
 * No known military or civil aviation data release.
 * No independent optical measurements.
 * No verified altitude estimate.
-* No confirmed physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
+* No confirmed physical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span>
 
 As a result, the case remains unidentified in the narrow sense that the filmed object was never publicly identified with certainty. That is different from demonstrating an extraordinary explanation.
 
@@ -356,197 +356,197 @@ The Islamabad case reflects a broader pattern visible across many contemporary U
 
 In that sense, the Islamabad triangle video is less a breakthrough UFO event than a case study in twenty-first-century information dynamics. It shows how a distant object, viewed through consumer optics and amplified by global social media networks, can evolve into a worldwide mystery within days.
 
-For researchers trying to understand Pakistan’s UFO landscape, that may be the most valuable lesson. The central challenge is often not proving what an object was. It is determining how much confidence the evidence actually deserves before extraordinary conclusions begin to circulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[LADbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo stuns alien experts 20220222</span><span class="citation-popover-snippet">LADbible&#x27;UFO&#x27; Stuns Alien Experts As It Hangs Above City In Broad...22 Feb 2022 — The object was seen lurking over Islamabad, the capita...</span></span></span>
+For researchers trying to understand Pakistan’s UFO landscape, that may be the most valuable lesson. The central challenge is often not proving what an object was. It is determining how much confidence the evidence actually deserves before extraordinary conclusions begin to circulate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">www.ndtv.com Video: Mysterious &quot;Triangle UFO&quot; Spotted Over Islamabad</span><span class="citation-popover-snippet">www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</span><span class="citation-popover-meta">Published: February 23, 2022</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladbible.com">[LADbible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladbible.com</span><span class="citation-popover-title">ufo stuns alien experts 20220222</span><span class="citation-popover-snippet">LADbible&#x27;UFO&#x27; Stuns Alien Experts As It Hangs Above City In Broad...22 Feb 2022 — The object was seen lurking over Islamabad, the capita...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Islamabad&#x27;s Triangle UFO Go Viral?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Islamabad&#x27;s Triangle UFO Go Viral?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Matches the article&#x27;s focus on perception, distance, and witness interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the article&#x27;s focus on perception, distance, and witness interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating claims that gain public attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating claims that gain public attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores recurring themes in unusual sighting reports and interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recurring themes in unusual sighting reports and interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Especially relevant to the role of media amplification and online narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Especially relevant to the role of media amplification and online narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-islamabad-s-triangle-ufo-go-viral-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ For researchers trying to understand Pakistan’s UFO landscape, that may be the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ For researchers trying to understand Pakistan’s UFO landscape, that may be the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ For researchers trying to understand Pakistan’s UFO landscape, that may be the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ For researchers trying to understand Pakistan’s UFO landscape, that may be the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ For researchers trying to understand Pakistan’s UFO landscape, that may be the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,121 +752,121 @@ For researchers trying to understand Pakistan’s UFO landscape, that may be the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ndtv.com  
    Title: www.ndtv.com Video: Mysterious "Triangle UFO" Spotted Over Islamabad  
-   Link: <a href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</p></details>
+   Link:<a href="https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/offbeat/video-mysterious-triangle-ufo-spotted-over-islamabad-2784082</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.ndtv.comVideo: Mysterious &quot;Triangle UFO&quot; Spotted Over IslamabadFebruary 23, 2022 — It&#x27;s not a drone it&#x27;s definitely not a kite and it...</p></details>
    Published: February 23, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ladbible.com  
    Title: ufo stuns alien experts 20220222  
-   Link: <a href="https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222" target="_blank" rel="noopener noreferrer nofollow">https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LADbible&#x27;UFO&#x27; Stuns Alien Experts As It Hangs Above City In Broad...22 Feb 2022 — The object was seen lurking over Islamabad, the capita...</p></details>
+   Link:<a href="https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222" target="_blank" rel="noopener noreferrer nofollow">https://www.ladbible.com/news/ufo--stuns-alien-experts-20220222</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LADbible&#x27;UFO&#x27; Stuns Alien Experts As It Hangs Above City In Broad...22 Feb 2022 — The object was seen lurking over Islamabad, the capita...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1epqbwu/what_do_we_know_about_this_footage_some_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1epqbwu/what_do_we_know_about_this_footage_some_of_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What do we know about this footage? Some of the most real...Analysis of real-looking triangle UFO footage. Best resources on trian...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1epqbwu/what_do_we_know_about_this_footage_some_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1epqbwu/what_do_we_know_about_this_footage_some_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What do we know about this footage? Some of the most real...Analysis of real-looking triangle UFO footage. Best resources on trian...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CaUZK3Uoog6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CaUZK3Uoog6/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The object was seen lurking over Islamabad, the capital...... UFO. Penn News. more. View all 2,861 comments · laurennlondonx. A...</p></details>
+   Link:<a href="https://www.instagram.com/p/CaUZK3Uoog6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CaUZK3Uoog6/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The object was seen lurking over Islamabad, the capital...... UFO. Penn News. more. View all 2,861 comments · laurennlondonx. A...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/tv/CaUINQrlvye/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/tv/CaUINQrlvye/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious “Triangle UFO” Spotted In Islamabad Skies...#NDTVBeeps | Mysterious “Triangle UFO” Spotted In Islamabad Skies #Myste...</p></details>
+   Link:<a href="https://www.instagram.com/tv/CaUINQrlvye/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/tv/CaUINQrlvye/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious “Triangle UFO” Spotted In Islamabad Skies...#NDTVBeeps | Mysterious “Triangle UFO” Spotted In Islamabad Skies #Myste...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ndtv/videos/ndtvbeeps-mysterious-triangle-ufo-spotted-in-islamabad-skies/821851871967139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ndtv/videos/ndtvbeeps-mysterious-triangle-ufo-spotted-in-islamabad-skies/821851871967139/</a>  
+   Link:<a href="https://www.facebook.com/ndtv/videos/ndtvbeeps-mysterious-triangle-ufo-spotted-in-islamabad-skies/821851871967139/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ndtv/videos/ndtvbeeps-mysterious-triangle-ufo-spotted-in-islamabad-skies/821851871967139/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/IndiaToday/posts/10161898310497119/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IndiaToday/posts/10161898310497119/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A video of a mysteriously flying object in the skies over...Caught on video from a plane, the alleged alien UFO can be seen speeding pas...</p></details>
+   Link:<a href="https://www.facebook.com/IndiaToday/posts/10161898310497119/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IndiaToday/posts/10161898310497119/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A video of a mysteriously flying object in the skies over...Caught on video from a plane, the alleged alien UFO can be seen speeding pas...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Parhlo/posts/an-obscure-flying-object-ufo-tracker-has-recorded-footage-of-an-enigmatic-object/4809674425748327/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Parhlo/posts/an-obscure-flying-object-ufo-tracker-has-recorded-footage-of-an-enigmatic-object/4809674425748327/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arslan Warraich says he...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Parhlo/posts/an-obscure-flying-object-ufo-tracker-has-recorded-footage-of-an-enigmatic-object/4809674425748327/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Parhlo/posts/an-obscure-flying-object-ufo-tracker-has-recorded-footage-of-an-enigmatic-object/4809674425748327/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arslan Warraich says he...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MirrorNow/posts/a-few-days-ago-it-was-russia-now-it-seems-like-its-pakistan-yes-pakistans-quetta/1154826253440730/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MirrorNow/posts/a-few-days-ago-it-was-russia-now-it-seems-like-its-pakistan-yes-pakistans-quetta/1154826253440730/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r over 2 hours....! Detail in The Comments · No photo...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/MirrorNow/posts/a-few-days-ago-it-was-russia-now-it-seems-like-its-pakistan-yes-pakistans-quetta/1154826253440730/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MirrorNow/posts/a-few-days-ago-it-was-russia-now-it-seems-like-its-pakistan-yes-pakistans-quetta/1154826253440730/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r over 2 hours....! Detail in The Comments · No photo...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CaUINQrlvye/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CaUINQrlvye/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>also many more others in different places just near this site.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/CaUINQrlvye/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CaUINQrlvye/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>also many more others in different places just near this site.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hsch4f/stabilized_video_of_triangle_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hsch4f/stabilized_video_of_triangle_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stabilized video of triangle UFO: r/UFOsWhen the camera is showing the room at the beginning, there&#x27;s tons of motion blur, even though i...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hsch4f/stabilized_video_of_triangle_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hsch4f/stabilized_video_of_triangle_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stabilized video of triangle UFO: r/UFOsWhen the camera is showing the room at the beginning, there&#x27;s tons of motion blur, even though i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/6t-x34Uu4Wo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/6t-x34Uu4Wo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious “Triangle UFO” Spotted In Islamabad SkiesFootage of a mysterious object captured by a UFO hunter in Islamabad Skies About NDTV...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/6t-x34Uu4Wo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/6t-x34Uu4Wo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious “Triangle UFO” Spotted In Islamabad SkiesFootage of a mysterious object captured by a UFO hunter in Islamabad Skies About NDTV...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=32yEhKgu0J4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=32yEhKgu0J4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing News #UFO #TriangleUFO #Alien #Islamabad #Pakistan #BOLNews...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=32yEhKgu0J4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=32yEhKgu0J4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing News #UFO #TriangleUFO #Alien #Islamabad #Pakistan #BOLNews...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: UFO Hovering Over Islamabad  
-   Link: <a href="http://www.youtube.com/watch?v=pZ6Sfkqhr8o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pZ6Sfkqhr8o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Black Triangular Shaped UFO Spotted Hovering Over Islamabad In Pakistan. January 25, 2022...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=pZ6Sfkqhr8o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pZ6Sfkqhr8o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black Triangular Shaped UFO Spotted Hovering Over Islamabad In Pakistan. January 25, 2022...</p></details>
    Published: January 25, 2022  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Black Triangular Shaped UFO Spotted Hovering Over Islamabad In Pakistan  
-   Link: <a href="http://www.youtube.com/watch?v=tISIq0QEfSM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=tISIq0QEfSM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Islamabad Resident Arslan Warraich Claim to Seen Something in Air | Cyber Tv...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=tISIq0QEfSM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=tISIq0QEfSM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Islamabad Resident Arslan Warraich Claim to Seen Something in Air | Cyber Tv...</p></details>
    Published: January 25, 2022  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Islamabad Resident Arslan Warraich Claim to Seen Something in Air | Cyber Tv  
-   Link: <a href="http://www.youtube.com/watch?v=nB5BXpg4BHk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nB5BXpg4BHk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Triangle UFO Spotted Over Islamabad | UFO Sighting in Pakistan | Breaking News...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=nB5BXpg4BHk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=nB5BXpg4BHk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Triangle UFO Spotted Over Islamabad | UFO Sighting in Pakistan | Breaking News...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Black Triangular Shaped UFO Hovering Motionless over Islamabad in Pakistan  
-   Link: <a href="http://www.youtube.com/watch?v=WH-UujMAYO0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WH-UujMAYO0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting Islamabad Pakistan triangle Mysterious Triangle UFO Spotted Over Islamabad | UFO Sighting in Pakistan | Breaking News NewsTo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=WH-UujMAYO0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WH-UujMAYO0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting Islamabad Pakistan triangle Mysterious Triangle UFO Spotted Over Islamabad | UFO Sighting in Pakistan | Breaking News NewsTo...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: latintimes.com  
    Title: Latin Times Alien Experts Stunned By Video Of Mystery UFO Spotted  
-   Link: <a href="https://www.latintimes.com/alien-experts-stunned-video-mystery-ufo-spotted-over-city-broad-daylight-507855" target="_blank" rel="noopener noreferrer nofollow">https://www.latintimes.com/alien-experts-stunned-video-mystery-ufo-spotted-over-city-broad-daylight-507855</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latin TimesAlien Experts Stunned By Video Of Mystery UFO Spotted...March 1, 2022 — 1 Mar 2022 — Alien experts feel that a video of a UFO...</p></details>
+   Link:<a href="https://www.latintimes.com/alien-experts-stunned-video-mystery-ufo-spotted-over-city-broad-daylight-507855" target="_blank" rel="noopener noreferrer nofollow">https://www.latintimes.com/alien-experts-stunned-video-mystery-ufo-spotted-over-city-broad-daylight-507855</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latin TimesAlien Experts Stunned By Video Of Mystery UFO Spotted...March 1, 2022 — 1 Mar 2022 — Alien experts feel that a video of a UFO...</p></details>
    Published: March 1, 2022  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thesun.co.uk  
    Title: bulging triangle ufo filmed major city two hours alien  
-   Link: <a href="https://www.thesun.co.uk/news/17731723/bulging-triangle-ufo-filmed-major-city-two-hours-alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/17731723/bulging-triangle-ufo-filmed-major-city-two-hours-alien/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery &#x27;bulging triangle UFO&#x27; filmed lurking over major city...22 Feb 2022 — ALIEN hunters were left stunned after a “bulging triangle...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/17731723/bulging-triangle-ufo-filmed-major-city-two-hours-alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/17731723/bulging-triangle-ufo-filmed-major-city-two-hours-alien/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery &#x27;bulging triangle UFO&#x27; filmed lurking over major city...22 Feb 2022 — ALIEN hunters were left stunned after a “bulging triangle...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nypost.com  
    Title: mysterious bulging triangle ufo filmed over city for two hours  
-   Link: <a href="https://nypost.com/2022/02/22/mysterious-bulging-triangle-ufo-filmed-over-city-for-two-hours/?crl8_id=92379ec1-8a4e-43b8-b101-b9e0bcea7249" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2022/02/22/mysterious-bulging-triangle-ufo-filmed-over-city-for-two-hours/?crl8_id=92379ec1-8a4e-43b8-b101-b9e0bcea7249</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The unusual object was...Read more...</p></details>
+   Link:<a href="https://nypost.com/2022/02/22/mysterious-bulging-triangle-ufo-filmed-over-city-for-two-hours/?crl8_id=92379ec1-8a4e-43b8-b101-b9e0bcea7249" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2022/02/22/mysterious-bulging-triangle-ufo-filmed-over-city-for-two-hours/?crl8_id=92379ec1-8a4e-43b8-b101-b9e0bcea7249</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The unusual object was...Read more...</p></details>

@@ -287,194 +287,194 @@ However, no historical or archaeological evidence independently corroborates the
 <img src="{{ "/assets/images/Japan_fcf29f_utsuro_bune_ufo_73be05-Illustration-3-dark.svg" | relative_url }}" alt="Utsuro bune illustration 3" data-theme-src-dark="{{ "/assets/images/Japan_fcf29f_utsuro_bune_ufo_73be05-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Japan_fcf29f_utsuro_bune_ufo_73be05-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Japan&#x27;s Hollow Boat Really a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Japan&#x27;s Hollow Boat Really a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Offers a broader UFO context for readers arriving via historical mysteries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a broader UFO context for readers arriving via historical mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines folklore encounters that parallel the Utsuro-bune story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines folklore encounters that parallel the Utsuro-bune story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Vallee</p>
         
-        <p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
-        </h4>
-        <p class="fr-book-author">By Erich von Däniken</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
+</h4>
+<p class="fr-book-author">By Erich von Däniken</p>
         
-        <p class="fr-book-desc">First published 1971. Subjects: Interplanetary voyages, Life on other planets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1971. Subjects: Interplanetary voyages, Life on other planets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from folklore to flying saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from folklore to flying saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-japan-s-hollow-boat-really-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-japan-s-hollow-boat-really-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -490,7 +490,7 @@ However, no historical or archaeological evidence independently corroborates the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -510,7 +510,7 @@ However, no historical or archaeological evidence independently corroborates the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -542,7 +542,7 @@ However, no historical or archaeological evidence independently corroborates the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -594,7 +594,7 @@ However, no historical or archaeological evidence independently corroborates the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -639,7 +639,7 @@ However, no historical or archaeological evidence independently corroborates the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -677,156 +677,155 @@ However, no historical or archaeological evidence independently corroborates the
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Utsuro-bune" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Utsuro-bune</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Utsuro-bune" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Utsuro-bune</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nippon.com  
    Title: “Utsurobune”: A UFO Legend from Nineteenth-Century Japan | Nippon.com  
-   Link: <a href="https://www.nippon.com/en/japan-topics/g00879/" target="_blank" rel="noopener noreferrer nofollow">https://www.nippon.com/en/japan-topics/g00879/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nippon“Utsurobune”: A UFO Legend from Nineteenth-Century Japan | Nippon.com...</p></details>
+   Link:<a href="https://www.nippon.com/en/japan-topics/g00879/" target="_blank" rel="noopener noreferrer nofollow">https://www.nippon.com/en/japan-topics/g00879/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nippon“Utsurobune”: A UFO Legend from Nineteenth-Century Japan | Nippon.com...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: utsurobune.art  
    Title: Utsuro-Bune: An Extraterrestrial Folktale  
-   Link: <a href="https://utsurobune.art/" target="_blank" rel="noopener noreferrer nofollow">https://utsurobune.art/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Utsuro-Bune: An Extraterrestrial Folktale...</p></details>
+   Link:<a href="https://utsurobune.art/" target="_blank" rel="noopener noreferrer nofollow">https://utsurobune.art/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utsuro-Bune: An Extraterrestrial Folktale...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: discoveryuk.com  
    Title: Discovery UKThe Utsuro Bune: Japan’s Hollow Boat Mystery That Won’t Sink  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-utsuro-bune-japans-hollow-boat-mystery-that-wont-sink/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-utsuro-bune-japans-hollow-boat-mystery-that-wont-sink/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKFebruary 17, 2026...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-utsuro-bune-japans-hollow-boat-mystery-that-wont-sink/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-utsuro-bune-japans-hollow-boat-mystery-that-wont-sink/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKFebruary 17, 2026...</p></details>
    Published: February 17, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: futilitycloset.com  
-   Link: <a href="https://www.futilitycloset.com/2019/02/13/utsuro-bune/" target="_blank" rel="noopener noreferrer nofollow">https://www.futilitycloset.com/2019/02/13/utsuro-bune/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Futility ClosetFebruary 13, 2019...</p></details>
+   Link:<a href="https://www.futilitycloset.com/2019/02/13/utsuro-bune/" target="_blank" rel="noopener noreferrer nofollow">https://www.futilitycloset.com/2019/02/13/utsuro-bune/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Futility ClosetFebruary 13, 2019...</p></details>
    Published: February 13, 2019  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufodigest.com  
    Title: UFO Digest A UFO in Name Only  
-   Link: <a href="https://www.ufodigest.com/article/a-ufo-in-name-only-utsuro-bune/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/a-ufo-in-name-only-utsuro-bune/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DigestA UFO in Name Only - Utsuro Bune - UFO DigestSeptember 12, 2012...</p></details>
+   Link:<a href="https://www.ufodigest.com/article/a-ufo-in-name-only-utsuro-bune/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/a-ufo-in-name-only-utsuro-bune/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DigestA UFO in Name Only - Utsuro Bune - UFO DigestSeptember 12, 2012...</p></details>
    Published: September 12, 2012  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theunknownquest.com  
-   Link: <a href="https://theunknownquest.com/locations/utsuro-bune-japan/" target="_blank" rel="noopener noreferrer nofollow">https://theunknownquest.com/locations/utsuro-bune-japan/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan - The Unknown QuestMarch 19, 2026 — THE UNKNOWN QUEST UTSURO-BUNE – JAPAN Mar 19, 2026 — by UTSURO-BUNE – JAPAN NEAREST CITY: HITAC...</p></details>
+   Link:<a href="https://theunknownquest.com/locations/utsuro-bune-japan/" target="_blank" rel="noopener noreferrer nofollow">https://theunknownquest.com/locations/utsuro-bune-japan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Japan - The Unknown QuestMarch 19, 2026 — THE UNKNOWN QUEST UTSURO-BUNE – JAPAN Mar 19, 2026 — by UTSURO-BUNE – JAPAN NEAREST CITY: HITAC...</p></details>
    Published: March 19, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: anuchildren.org  
-   Link: <a href="https://anuchildren.org/utsuro-bune-an-unidentified-flying-vehicle-landed-in-japan-in-1803/" target="_blank" rel="noopener noreferrer nofollow">https://anuchildren.org/utsuro-bune-an-unidentified-flying-vehicle-landed-in-japan-in-1803/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>an unidentified flying vehicle landed in Japan in 1803 - Children of AnuApril 18, 2025 — UTSURO-BUNE – AN UNIDENTIFIED FLYING VEHICLE LAN...</p></details>
+   Link:<a href="https://anuchildren.org/utsuro-bune-an-unidentified-flying-vehicle-landed-in-japan-in-1803/" target="_blank" rel="noopener noreferrer nofollow">https://anuchildren.org/utsuro-bune-an-unidentified-flying-vehicle-landed-in-japan-in-1803/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an unidentified flying vehicle landed in Japan in 1803 - Children of AnuApril 18, 2025 — UTSURO-BUNE – AN UNIDENTIFIED FLYING VEHICLE LAN...</p></details>
    Published: April 18, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: historyen.com  
    Title: Utsuro Bune (literally “  
-   Link: <a href="https://www.historyen.com/utsuro-bune-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyen.com/utsuro-bune-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Utsuro Bune: Japan’s Enigmatic 19th-Century Hollow Ship - HistoryenNovember 22, 2024 — UTSURO BUNE: JAPAN’S ENIGMATIC 19TH-CENTURY HOLLOW...</p></details>
+   Link:<a href="https://www.historyen.com/utsuro-bune-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyen.com/utsuro-bune-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utsuro Bune: Japan’s Enigmatic 19th-Century Hollow Ship - HistoryenNovember 22, 2024 — UTSURO BUNE: JAPAN’S ENIGMATIC 19TH-CENTURY HOLLOW...</p></details>
    Published: November 22, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: uncannyjapan.com  
    Title: Utsuro-Bune: The Hollow (Space?) Ship (Ep  
-   Link: <a href="https://uncannyjapan.com/podcast/utsuro-bune/" target="_blank" rel="noopener noreferrer nofollow">https://uncannyjapan.com/podcast/utsuro-bune/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>78) - Uncanny Japan PodcastJune 16, 2021 — June 16, 2021 UTSURO-BUNE: THE HOLLOW (SPACE?) SHIP (EP. 78) Japanese Folklore Reading Time: 7...</p></details>
+   Link:<a href="https://uncannyjapan.com/podcast/utsuro-bune/" target="_blank" rel="noopener noreferrer nofollow">https://uncannyjapan.com/podcast/utsuro-bune/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>78) - Uncanny Japan PodcastJune 16, 2021 — June 16, 2021 UTSURO-BUNE: THE HOLLOW (SPACE?) SHIP (EP. 78) Japanese Folklore Reading Time: 7...</p></details>
    Published: June 16, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dailygrail.com  
    Title: Utsuro-Bune: Does This Japanese Story Describe an Encounter with a UFO?  
-   Link: <a href="https://www.dailygrail.com/2018/09/utsuro-bune-a-japanese-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2018/09/utsuro-bune-a-japanese-ufo-story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By Martin J. Clemenson Thursday, September 20th What is it about Asian culture that intrigue...</p></details>
+   Link:<a href="https://www.dailygrail.com/2018/09/utsuro-bune-a-japanese-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2018/09/utsuro-bune-a-japanese-ufo-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By Martin J. Clemenson Thursday, September 20th What is it about Asian culture that intrigue...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: latest-ufo-sightings.net  
    Title: Utsuro Bune  
-   Link: <a href="https://www.latest-ufo-sightings.net/2016/03/utsuro-bune-japanese-ufo-mystery-1803.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2016/03/utsuro-bune-japanese-ufo-mystery-1803.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Japanese UFO mystery of 1803 • Latest UFO SightingsMarch 10, 2016 — UTSURO BUNE – JAPANESE UFO MYSTERY OF 1803 March 10, 2016 LUFOS Asia...</p></details>
+   Link:<a href="https://www.latest-ufo-sightings.net/2016/03/utsuro-bune-japanese-ufo-mystery-1803.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2016/03/utsuro-bune-japanese-ufo-mystery-1803.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Japanese UFO mystery of 1803 • Latest UFO SightingsMarch 10, 2016 — UTSURO BUNE – JAPANESE UFO MYSTERY OF 1803 March 10, 2016 LUFOS Asia...</p></details>
    Published: March 10, 2016  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: revengerists.fandom.com  
    Title: Utsuro bune  
-   Link: <a href="https://revengerists.fandom.com/wiki/Utsuro-bune" target="_blank" rel="noopener noreferrer nofollow">https://revengerists.fandom.com/wiki/Utsuro-bune</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Utsuro-bune|うつろ舟|&#x27;hollow ship&#x27;, also Utsuro-fune and Urob...</p></details>
+   Link:<a href="https://revengerists.fandom.com/wiki/Utsuro-bune" target="_blank" rel="noopener noreferrer nofollow">https://revengerists.fandom.com/wiki/Utsuro-bune</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Utsuro-bune|うつろ舟|&#x27;hollow ship&#x27;, also Utsuro-fune and Urob...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ipfs.desmos.network  
    Title: Utsuro bune  
-   Link: <a href="https://ipfs.desmos.network/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Utsuro-bune.html" target="_blank" rel="noopener noreferrer nofollow">https://ipfs.desmos.network/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Utsuro-bune.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utsuro-bune (うつろ舟 &#x27;hollow ship&#x27;), also Utsuro-fune and Urobune, refers to an unknown object which allegedly washed as...</p></details>
+   Link:<a href="https://ipfs.desmos.network/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Utsuro-bune.html" target="_blank" rel="noopener noreferrer nofollow">https://ipfs.desmos.network/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Utsuro-bune.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utsuro-bune (うつろ舟 &#x27;hollow ship&#x27;), also Utsuro-fune and Urobune, refers to an unknown object which allegedly washed as...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: allabout-japan.com  
    Title: All About Japan Japan’s Ancient UFO: The Tale of Utsuro-bune | All About Japan  
-   Link: <a href="https://allabout-japan.com/en/article/10726/" target="_blank" rel="noopener noreferrer nofollow">https://allabout-japan.com/en/article/10726/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan’s Ancient UFO: The Tale of Utsuro-bune | All About JapanJanuary 14, 2022 — Updated January 14 2022 JAPAN’S ANCIENT UFO: THE TALE OF...</p></details>
+   Link:<a href="https://allabout-japan.com/en/article/10726/" target="_blank" rel="noopener noreferrer nofollow">https://allabout-japan.com/en/article/10726/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Japan’s Ancient UFO: The Tale of Utsuro-bune | All About JapanJanuary 14, 2022 — Updated January 14 2022 JAPAN’S ANCIENT UFO: THE TALE OF...</p></details>
    Published: January 14, 2022  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: openculture.com  
    Title: when a ufo came to japan in 1803 discover the legend of utsuro bune  
-   Link: <a href="https://www.openculture.com/2023/02/when-a-ufo-came-to-japan-in-1803-discover-the-legend-of-utsuro-bune.html" target="_blank" rel="noopener noreferrer nofollow">https://www.openculture.com/2023/02/when-a-ufo-came-to-japan-in-1803-discover-the-legend-of-utsuro-bune.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When a UFO Came to Japan in 1803: Discover the Legend of Utsuro-bune | Open CultureFebruary 22, 2023 — * # When a UFO Came to Japan in 18...</p></details>
+   Link:<a href="https://www.openculture.com/2023/02/when-a-ufo-came-to-japan-in-1803-discover-the-legend-of-utsuro-bune.html" target="_blank" rel="noopener noreferrer nofollow">https://www.openculture.com/2023/02/when-a-ufo-came-to-japan-in-1803-discover-the-legend-of-utsuro-bune.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When a UFO Came to Japan in 1803: Discover the Legend of Utsuro-bune | Open CultureFebruary 22, 2023 — * # When a UFO Came to Japan in 18...</p></details>
    Published: February 22, 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufoinsight.com  
    Title: The Utsuro-Bune Legend And UFO Encounters Of Ancient Japan  
-   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/utsuro-bune-ufo-ancient-japan" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/utsuro-bune-ufo-ancient-japan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMay 23, 2020 — THE UTSURO-BUNE LEGEND AND UFO ENCOUNTERS OF ANCIENT JAPAN By Marcus Lowth Image: Published Date May 23, 2020 I...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/close-encounters/utsuro-bune-ufo-ancient-japan" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/utsuro-bune-ufo-ancient-japan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMay 23, 2020 — THE UTSURO-BUNE LEGEND AND UFO ENCOUNTERS OF ANCIENT JAPAN By Marcus Lowth Image: Published Date May 23, 2020 I...</p></details>
    Published: May 23, 2020  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: history.howstuffworks.com  
    Title: did aliens contact japanese fishermen in 1803  
-   Link: <a href="https://history.howstuffworks.com/history-vs-myth/did-aliens-contact-japanese-fishermen-in-1803.htm" target="_blank" rel="noopener noreferrer nofollow">https://history.howstuffworks.com/history-vs-myth/did-aliens-contact-japanese-fishermen-in-1803.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksSeptember 19, 2017 — DID AN ALIEN CONTACT JAPANESE FISHERMEN IN 1803? By: Diana Brown * * * * * Image: The legend of the u...</p></details>
+   Link:<a href="https://history.howstuffworks.com/history-vs-myth/did-aliens-contact-japanese-fishermen-in-1803.htm" target="_blank" rel="noopener noreferrer nofollow">https://history.howstuffworks.com/history-vs-myth/did-aliens-contact-japanese-fishermen-in-1803.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksSeptember 19, 2017 — DID AN ALIEN CONTACT JAPANESE FISHERMEN IN 1803? By: Diana Brown * * * * * Image: The legend of the u...</p></details>
    Published: September 19, 2017  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: space-aliens.net  
    Title: * UFO * Image Alien Joe *  
-   Link: <a href="https://space-aliens.net/en/2025/09/03/in-1803-a-mysterious-empty-boat-drifted-ashore-in-the-east-ufo-like/" target="_blank" rel="noopener noreferrer nofollow">https://space-aliens.net/en/2025/09/03/in-1803-a-mysterious-empty-boat-drifted-ashore-in-the-east-ufo-like/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1803, a mysterious &quot;empty boat&quot; drifted ashore on the coast of Eastern Japan - the truth about the &quot;UFO-like drifting ship, Utsurofune...</p></details>
+   Link:<a href="https://space-aliens.net/en/2025/09/03/in-1803-a-mysterious-empty-boat-drifted-ashore-in-the-east-ufo-like/" target="_blank" rel="noopener noreferrer nofollow">https://space-aliens.net/en/2025/09/03/in-1803-a-mysterious-empty-boat-drifted-ashore-in-the-east-ufo-like/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1803, a mysterious &quot;empty boat&quot; drifted ashore on the coast of Eastern Japan - the truth about the &quot;UFO-like drifting ship, Utsurofune...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Ancient UFO Mystery: Japan's Utsuro-Bune and the Woman from Another World  
-   Link: <a href="https://www.youtube.com/watch?v=UJ2FpNr8-bg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UJ2FpNr8-bg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1803 Utsuro Bune Mystery Japan&#x27;s First UFO Sighting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UJ2FpNr8-bg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UJ2FpNr8-bg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1803 Utsuro Bune Mystery Japan&#x27;s First UFO Sighting...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Utsuro-Bune Incident: Japan's Mysterious UFO Legend  
-   Link: <a href="https://www.youtube.com/watch?v=QzNLWmMHgDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QzNLWmMHgDc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hollow Ship of Hitachi: Japan&#x27;s First UFO?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QzNLWmMHgDc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QzNLWmMHgDc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hollow Ship of Hitachi: Japan&#x27;s First UFO?...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=V9V1vIjYTo4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V9V1vIjYTo4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Japanese UFO? - The Utsuro-Bune Incident of 1803...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V9V1vIjYTo4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V9V1vIjYTo4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Japanese UFO? - The Utsuro-Bune Incident of 1803...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: A Japanese UFO?  
-   Link: <a href="https://www.youtube.com/watch?v=dVQ6nF2bJwo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dVQ6nF2bJwo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.discoveryuk.com...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dVQ6nF2bJwo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dVQ6nF2bJwo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.discoveryuk.com...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Hollow Ship of Hitachi: Japan's First UFO?  
-   Link: <a href="https://www.youtube.com/watch?v=z46j6dATIgE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z46j6dATIgE</a>
+   Link:<a href="https://www.youtube.com/watch?v=z46j6dATIgE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z46j6dATIgE</a>

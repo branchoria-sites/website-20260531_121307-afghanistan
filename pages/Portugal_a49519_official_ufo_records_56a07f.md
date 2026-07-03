@@ -251,11 +251,11 @@ image: /assets/images/Portugal_a49519_official_ufo_records_56a07f-Illustration-1
 [Portugal]({{ 'portugals-ufo-files-mystery-memory-and/' | relative_url }}) occupies an unusual place in European UFO history because it has recognisable military-linked cases but no large, publicly accessible state archive dedicated to unidentified aerial phenomena. Readers looking for a Portuguese equivalent of the United States' Project Blue Book or France's GEIPAN quickly encounter a gap: reports of Air Force involvement exist, references to official memoranda appear in television archives and witness accounts, yet the underlying files are often unavailable, fragmented or difficult to verify. That absence has shaped the entire Portuguese UFO debate.
 
 <img src="{{ "/assets/images/Portugal_a49519_official_ufo_records_56a07f-Illustration-1-dark.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/Portugal_a49519_official_ufo_records_56a07f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Portugal_a49519_official_ufo_records_56a07f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result is a country where researchers rely heavily on broadcaster archives, newspaper collections, retired military testimony and private case files rather than a central government repository. Some incidents appear to have generated military paperwork. What remains unclear is how much documentation survived, where it is stored, and whether significant records were ever systematically released to the public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
+The result is a country where researchers rely heavily on broadcaster archives, newspaper collections, retired military testimony and private case files rather than a central government repository. Some incidents appear to have generated military paperwork. What remains unclear is how much documentation survived, where it is stored, and whether significant records were ever systematically released to the public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
 
 ## Why Portugal Never Developed a Public UFO Archive
 
-Unlike several larger countries that eventually released portions of their UFO records, Portugal never established a well-known public programme devoted to collecting and publishing unidentified aerial reports. Researchers generally describe the Portuguese record as decentralised: observations were sometimes handled through military channels, civil aviation structures, local authorities or the press, but not consolidated into a permanent public archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nomanzone.com/news/ufo-uap/ufo-sightings-in-portugal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nomanzone.com">[NoManZone.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nomanzone.com</span><span class="citation-popover-title">No Man Zone.com UF O Sightings in Portugal</span><span class="citation-popover-snippet">UFO Sightings in Portugal - NoManZone.com12 Mar 2025 Despite these cases, Portugal lacks a government-backed UFO research program. Unli...</span></span></span>
+Unlike several larger countries that eventually released portions of their UFO records, Portugal never established a well-known public programme devoted to collecting and publishing unidentified aerial reports. Researchers generally describe the Portuguese record as decentralised: observations were sometimes handled through military channels, civil aviation structures, local authorities or the press, but not consolidated into a permanent public archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nomanzone.com/news/ufo-uap/ufo-sightings-in-portugal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nomanzone.com">[NoManZone.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nomanzone.com</span><span class="citation-popover-title">No Man Zone.com UF O Sightings in Portugal</span><span class="citation-popover-snippet">UFO Sightings in Portugal - NoManZone.com12 Mar 2025 Despite these cases, Portugal lacks a government-backed UFO research program. Unli...</span></span></span>
 
 This distinction matters because many international discussions assume that a missing archive implies a hidden archive. The Portuguese situation is less dramatic and more bureaucratic. The available evidence suggests that records may have existed in different institutional locations rather than being gathered into a single searchable collection. When investigators refer to "Portuguese UFO files", they are often talking about scattered documents, media reports and recollections rather than a formally released national dossier.
 
@@ -265,9 +265,9 @@ The country's political history also contributes to the problem. Mid-twentieth-c
 
 One of the most striking features of Portuguese UFO literature is that references to Air Force involvement recur repeatedly even when the underlying paperwork is absent.
 
-The best-known example is the 1957 sighting involving Portuguese Air Force pilots led by Jos Lemos Ferreira, who later rose to become one of the country's most senior military officers. Ferreira publicly stated decades later that a report had been produced following the incident. The existence of a report is therefore not merely folklore; it comes from a participant with high institutional credibility. Yet the report itself has not become part of a widely accessible public archive. That gap leaves historians dependent on later interviews and media summaries rather than direct examination of the original document. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_sightings_of_Portugal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien sightings of Portugal &#124; Cryptid Wiki</span><span class="citation-popover-snippet">On September 4, 1957, four Portugal Air Force pilots claimed to have seen and chased some UFOs...</span><span class="citation-popover-meta">Published: September 4, 1957</span></span></span>
+The best-known example is the 1957 sighting involving Portuguese Air Force pilots led by Jos Lemos Ferreira, who later rose to become one of the country's most senior military officers. Ferreira publicly stated decades later that a report had been produced following the incident. The existence of a report is therefore not merely folklore; it comes from a participant with high institutional credibility. Yet the report itself has not become part of a widely accessible public archive. That gap leaves historians dependent on later interviews and media summaries rather than direct examination of the original document.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cryptidz.fandom.com/wiki/Alien_sightings_of_Portugal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptidz.fandom.com">[cryptidz.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptidz.fandom.com</span><span class="citation-popover-title">Alien sightings of Portugal &#124; Cryptid Wiki</span><span class="citation-popover-snippet">On September 4, 1957, four Portugal Air Force pilots claimed to have seen and chased some UFOs...</span><span class="citation-popover-meta">Published: September 4, 1957</span></span></span>
 
-A similar pattern appears in discussion of the 1959 vora incident. RTP archive material references a declaration or report from the Air Force General Staff concerning the event. The broadcaster's preserved footage is valuable because it confirms that official military commentary existed. What it does not provide is a complete publicly released case file containing all supporting documentation, laboratory analysis, correspondence and technical assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
+A similar pattern appears in discussion of the 1959 vora incident. RTP archive material references a declaration or report from the Air Force General Staff concerning the event. The broadcaster's preserved footage is valuable because it confirms that official military commentary existed. What it does not provide is a complete publicly released case file containing all supporting documentation, laboratory analysis, correspondence and technical assessments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
 
 This recurring structureincident, mention of military assessment, absence of comprehensive public recordsdefines much of Portugal's official UFO gap.
 
@@ -275,7 +275,7 @@ This recurring structureincident, mention of military assessment, absence of com
 
 Because official releases remained limited, Portugal's public broadcaster ended up preserving some of the most important traces of the country's UFO history.
 
-RTP archive programmes from the late twentieth century documented earlier cases, interviewed witnesses and discussed military involvement. The 1995 retrospective on Portuguese UFO incidents revisited cases including vora and Air Force-linked reports. Another archived programme references the Air Force General Staff's position on the vora episode and shows investigators discussing physical evidence claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
+RTP archive programmes from the late twentieth century documented earlier cases, interviewed witnesses and discussed military involvement. The 1995 retrospective on Portuguese UFO incidents revisited cases including vora and Air Force-linked reports. Another archived programme references the Air Force General Staff's position on the vora episode and shows investigators discussing physical evidence claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
 
 These broadcasts matter for a simple reason: they preserve references that might otherwise have disappeared from public view. In countries with extensive declassification programmes, researchers can compare media narratives against released files. In Portugal, the television archive itself often becomes part of the documentary record.
 
@@ -287,7 +287,7 @@ That creates a methodological problem. Television programmes are evidence that o
 
 The 1959 vora event illustrates how incomplete documentation changes the standard of proof.
 
-The case became famous because witnesses reported unusual aerial objects and the subsequent appearance of white filaments sometimes called "angel hair". Researchers frequently cite claims that samples were collected and examined. RTP archival material specifically references investigations and an Air Force General Staff statement connected to the incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
+The case became famous because witnesses reported unusual aerial objects and the subsequent appearance of white filaments sometimes called "angel hair". Researchers frequently cite claims that samples were collected and examined. RTP archival material specifically references investigations and an Air Force General Staff statement connected to the incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
 
 If a complete chain of documentation were publicly available, researchers could evaluate:
 
@@ -319,7 +319,7 @@ The most commonly cited categories include:
 * Interviews with military personnel and witnesses.
 * Private investigator collections.
 * Books and magazines produced by Portuguese UFO researchers.
-* Occasional references to military memoranda or staff reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
+* Occasional references to military memoranda or staff reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
 
 </div>
 
@@ -364,201 +364,201 @@ Paradoxically, the scarcity of records should make researchers more cautious rat
 
 The most revealing question in Portugal's UFO history may not be what was seen in the sky but what happened to the paperwork afterwards.
 
-The country's most discussed incidents repeatedly point toward military awareness, internal reporting and occasional official comment. Yet Portugal never produced the kind of public archive that would allow those cases to be reconstructed in full. As a result, broadcaster recordings, newspaper archives and investigator collections carry far more historical weight than they do in countries with large declassification programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
+The country's most discussed incidents repeatedly point toward military awareness, internal reporting and occasional official comment. Yet Portugal never produced the kind of public archive that would allow those cases to be reconstructed in full. As a result, broadcaster recordings, newspaper archives and investigator collections carry far more historical weight than they do in countries with large declassification programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
 
-That archival absence does not prove extraordinary claims, but it does explain why Portuguese UFO debates remain unusually persistent. The mystery is not only the sightings themselves. It is the distance between references to official records and the limited number of official records that the public can actually examine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
+That archival absence does not prove extraordinary claims, but it does explain why Portuguese UFO debates remain unusually persistent. The mystery is not only the sightings themselves. It is the distance between references to official records and the limited number of official records that the public can actually examine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-title">Arquivos Encontros Imediatos do Nosso Grau Parte II</span><span class="citation-popover-snippet">1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WWos6l-X9T0" title="Military Silence Broken | Alien Documentary | The UFOs In Dutch Skies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WWos6l-X9T0" target="_blank" rel="noopener noreferrer">Military Silence Broken | Alien Documentary | The UFOs In Dutch Skies</a></p><p class="youtube-embed-meta">Channel: THE STREAM - Movies and More &middot; Views: 77.1K &middot; Uploaded: May 2025 &middot; Length: 1 hour 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WWos6l-X9T0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WWos6l-X9T0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Are Portugal&#x27;s Official UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Are Portugal&#x27;s Official UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains the investigative frameworks behind UFO archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the investigative frameworks behind UFO archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Directly addresses official UFO files and investigative records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses official UFO files and investigative records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines government secrecy and public records debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines government secrecy and public records debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Centers on documented cases and official testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on documented cases and official testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-portugal-s-official-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-are-portugal-s-official-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ That archival absence does not prove extraordinary claims, but it does explain w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ That archival absence does not prove extraordinary claims, but it does explain w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ That archival absence does not prove extraordinary claims, but it does explain w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ That archival absence does not prove extraordinary claims, but it does explain w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ That archival absence does not prove extraordinary claims, but it does explain w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,117 +761,116 @@ That archival absence does not prove extraordinary claims, but it does explain w
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arquivos.rtp.pt  
    Title: Arquivos Encontros Imediatos do Nosso Grau Parte II  
-   Link: <a href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</p></details>
+   Link:<a href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1959 em vora onde alegadamente foram avistados objetos voadores no identificados; declarao/relatrio do Estado-Maior da Fora Area s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arquivos.rtp.pt  
-   Link: <a href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RTP ArquivosCasos em que se observaram OVNIsRetrospetiva dos casos em que supostamente se observaram &quot;Objectos Voadores No-Identificados...</p></details>
+   Link:<a href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RTP ArquivosCasos em que se observaram OVNIsRetrospetiva dos casos em que supostamente se observaram &quot;Objectos Voadores No-Identificados...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nomanzone.com  
    Title: No Man Zone.com UF O Sightings in Portugal  
-   Link: <a href="https://nomanzone.com/news/ufo-uap/ufo-sightings-in-portugal/" target="_blank" rel="noopener noreferrer nofollow">https://nomanzone.com/news/ufo-uap/ufo-sightings-in-portugal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Portugal - NoManZone.com12 Mar 2025 Despite these cases, Portugal lacks a government-backed UFO research program. Unli...</p></details>
+   Link:<a href="https://nomanzone.com/news/ufo-uap/ufo-sightings-in-portugal/" target="_blank" rel="noopener noreferrer nofollow">https://nomanzone.com/news/ufo-uap/ufo-sightings-in-portugal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Portugal - NoManZone.com12 Mar 2025 Despite these cases, Portugal lacks a government-backed UFO research program. Unli...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cryptidz.fandom.com  
    Title: Alien sightings of Portugal | Cryptid Wiki  
-   Link: <a href="https://cryptidz.fandom.com/wiki/Alien_sightings_of_Portugal" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Alien_sightings_of_Portugal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On September 4, 1957, four Portugal Air Force pilots claimed to have seen and chased some UFOs...</p></details>
+   Link:<a href="https://cryptidz.fandom.com/wiki/Alien_sightings_of_Portugal" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Alien_sightings_of_Portugal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On September 4, 1957, four Portugal Air Force pilots claimed to have seen and chased some UFOs...</p></details>
    Published: September 4, 1957  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cryptidarchives.fandom.com  
    Title: Atmospheric beast  
-   Link: <a href="https://cryptidarchives.fandom.com/wiki/Atmospheric_beast" target="_blank" rel="noopener noreferrer nofollow">https://cryptidarchives.fandom.com/wiki/Atmospheric_beast</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A significant sighting of an apparently biological UFO occurred in Portugal on 2 November 1959. Around midday, in the Escola Industrial e...</p></details>
+   Link:<a href="https://cryptidarchives.fandom.com/wiki/Atmospheric_beast" target="_blank" rel="noopener noreferrer nofollow">https://cryptidarchives.fandom.com/wiki/Atmospheric_beast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A significant sighting of an apparently biological UFO occurred in Portugal on 2 November 1959. Around midday, in the Escola Industrial e...</p></details>
    Published: November 1959  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arquivos.rtp.pt  
-   Link: <a href="https://arquivos.rtp.pt/conteudos/cerimonias-militares-em-[evora" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/cerimonias-militares-em-[evora</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Militares em voravora, comemoraes do Dia do Regimento de Infantaria e aniversrio da Batalha de Grij, com a presen...</p></details>
+   Link:<a href="https://arquivos.rtp.pt/conteudos/cerimonias-militares-em-[evora" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/cerimonias-militares-em-[evora</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Militares em voravora, comemoraes do Dia do Regimento de Infantaria e aniversrio da Batalha de Grij, com a presen...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recovered near Rosw...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recovered near Rosw...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records of the Office of Strategic Services (RG 226): Entry...Memoranda relating to the death of OSS Agent Paolo Poletti, May 16 and Jun...</p></details>
+   Link:<a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records of the Office of Strategic Services (RG 226): Entry...Memoranda relating to the death of OSS Agent Paolo Poletti, May 16 and Jun...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Record Group 615. UFO and UAP-related Records. Photographs Moving Images and Sound...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Record Group 615. UFO and UAP-related Records. Photographs Moving Images and Sound...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=142643" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=142643</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 142643UFO and alien sighting in the Azores. I&#x27;m 86 retired. One of the things... Air Force program for the investiga...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=142643" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=142643</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 142643UFO and alien sighting in the Azores. I&#x27;m 86 retired. One of the things... Air Force program for the investiga...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTSThere has been physical evidence in the shape of unidentified flying objects (UFOs) that there are extraterrest...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTSThere has been physical evidence in the shape of unidentified flying objects (UFOs) that there are extraterrest...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ephemerajpp.com  
-   Link: <a href="https://ephemerajpp.com/" target="_blank" rel="noopener noreferrer nofollow">https://ephemerajpp.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EPHEMERA Biblioteca e arquivo de Jos Pacheco Pereira...ESTADO MAIOR DO EXRCITO GABINETE DE DINAMIZAO DO EXRCITO (1), ESTALEIROS...</p></details>
+   Link:<a href="https://ephemerajpp.com/" target="_blank" rel="noopener noreferrer nofollow">https://ephemerajpp.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EPHEMERA Biblioteca e arquivo de Jos Pacheco Pereira...ESTADO MAIOR DO EXRCITO GABINETE DE DINAMIZAO DO EXRCITO (1), ESTALEIROS...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: easaonline.org  
-   Link: <a href="https://easaonline.org/wp-content/uploads/2025/07/HOAN_Newsletter_11f_Special_Issue_Cahen_Matos-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://easaonline.org/wp-content/uploads/2025/07/HOAN_Newsletter_11f_Special_Issue_Cahen_Matos-2019.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PORTUGUESE STUDIES REVIEWParte I: As novas fardas do luso-tropicalismo. The Lusotropical Flavor of Modernization: Brazil-Africa Relations...</p></details>
+   Link:<a href="https://easaonline.org/wp-content/uploads/2025/07/HOAN_Newsletter_11f_Special_Issue_Cahen_Matos-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://easaonline.org/wp-content/uploads/2025/07/HOAN_Newsletter_11f_Special_Issue_Cahen_Matos-2019.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PORTUGUESE STUDIES REVIEWParte I: As novas fardas do luso-tropicalismo. The Lusotropical Flavor of Modernization: Brazil-Africa Relations...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pxh426/portugal_ufo_analysis_of_archive_negatives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pxh426/portugal_ufo_analysis_of_archive_negatives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portugal UFO: analysis of archive negativesInside Brazil&#x27;s UFO Files: What Declassified Military Documents Reveal About the Varginha Inci...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1pxh426/portugal_ufo_analysis_of_archive_negatives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pxh426/portugal_ufo_analysis_of_archive_negatives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Portugal UFO: analysis of archive negativesInside Brazil&#x27;s UFO Files: What Declassified Military Documents Reveal About the Varginha Inci...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hawaiipublicradio.org  
-   Link: <a href="https://www.hawaiipublicradio.org/national-international/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiipublicradio.org/national-international/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files spanning decades are released by Defense...7 days ago Cold War reports of mysterious rotating saucers; recent sightings of m...</p></details>
+   Link:<a href="https://www.hawaiipublicradio.org/national-international/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiipublicradio.org/national-international/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files spanning decades are released by Defense...7 days ago Cold War reports of mysterious rotating saucers; recent sightings of m...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: secretsdeclassified.af.mil  
-   Link: <a href="https://www.secretsdeclassified.af.mil/Historical-Documents/Unidentified-Flying-Objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretsdeclassified.af.mil/Historical-Documents/Unidentified-Flying-Objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying ObjectsUnidentified flying object (commonly abbreviated as UFO or U.F.O.) is the popular term for any apparent aerial phenomenon w...</p></details>
+   Link:<a href="https://www.secretsdeclassified.af.mil/Historical-Documents/Unidentified-Flying-Objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretsdeclassified.af.mil/Historical-Documents/Unidentified-Flying-Objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying ObjectsUnidentified flying object (commonly abbreviated as UFO or U.F.O.) is the popular term for any apparent aerial phenomenon w...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: dating from 1755 to 1969 portugal has had it share of ufo sightings the most inc  
-   Link: <a href="https://www.facebook.com/RoswellUFOmuseum/posts/dating-from-1755-to-1969-portugal-has-had-it-share-of-ufo-sightings-the-most-inc/2519707648068594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoswellUFOmuseum/posts/dating-from-1755-to-1969-portugal-has-had-it-share-of-ufo-sightings-the-most-inc/2519707648068594/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dating from 1755 to 1969, Portugal has had it share of UFO...Dating from 1755 to 1969, Portugal has had it share of UFO sightings. The m...</p></details>
+   Link:<a href="https://www.facebook.com/RoswellUFOmuseum/posts/dating-from-1755-to-1969-portugal-has-had-it-share-of-ufo-sightings-the-most-inc/2519707648068594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoswellUFOmuseum/posts/dating-from-1755-to-1969-portugal-has-had-it-share-of-ufo-sightings-the-most-inc/2519707648068594/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dating from 1755 to 1969, Portugal has had it share of UFO...Dating from 1755 to 1969, Portugal has had it share of UFO sightings. The m...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/go23u8/did_a_smalltown_college_professor_discover_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/go23u8/did_a_smalltown_college_professor_discover_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a UFO, cobweb-like filaments begin to fall from the sky, he collects samples.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/go23u8/did_a_smalltown_college_professor_discover_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/go23u8/did_a_smalltown_college_professor_discover_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a UFO, cobweb-like filaments begin to fall from the sky, he collects samples.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: Pictures of U.FO I found in the National Archives!  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1pyoui1/pictures_of_ufo_i_found_in_the_national_archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1pyoui1/pictures_of_ufo_i_found_in_the_national_archives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliensUFO FILES: Scientist believes FOUR types of alien life have been found r/ufo - UFO FILES: Scientist believes FOUR types of alie...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1pyoui1/pictures_of_ufo_i_found_in_the_national_archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1pyoui1/pictures_of_ufo_i_found_in_the_national_archives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliensUFO FILES: Scientist believes FOUR types of alien life have been found r/ufo - UFO FILES: Scientist believes FOUR types of alie...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: top secret files on ufos released by the spanish  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/ryapkl/top_secret_files_on_ufos_released_by_the_spanish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ryapkl/top_secret_files_on_ufos_released_by_the_spanish/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>files on UFO sightings recorded in its airspace between... To access the ufological documents of the Spanish Ministry of Defense, click...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/ryapkl/top_secret_files_on_ufos_released_by_the_spanish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ryapkl/top_secret_files_on_ufos_released_by_the_spanish/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>files on UFO sightings recorded in its airspace between... To access the ufological documents of the Spanish Ministry of Defense, click...</p></details>

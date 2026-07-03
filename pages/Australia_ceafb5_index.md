@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /australia-ceafb5-index/
 description: Focused pages that expand on What Really Happened in Australia's UFO....
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Australia_ceafb5
 parent_title: What Really Happened in Australia's UFO...
@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-australias-ufo/
 
 # Explore Topics in What Really Happened in Australia's UFO...
 
-The following pages expand on the main **[What Really Happened in Australia's UFO...]({{ '/what-really-happened-in-australias-ufo/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened in Australia's UFO...]({{ '/what-really-happened-in-australias-ufo/' | relative_url }})** page and cover its key branches in.
 
 - [Queensland]({{ '/queensland/' | relative_url }})
 - [Valentich]({{ '/valentich/' | relative_url }})

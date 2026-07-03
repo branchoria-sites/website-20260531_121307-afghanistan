@@ -257,13 +257,13 @@ image: /assets/images/Oman_c14c36_gulf_oman_uap_files_7a58a1-Illustration-1-soci
 The Gulf of Oman is one of the most frequently monitored stretches of water in the wider Middle East. Commercial shipping routes, naval patrols, intelligence aircraft, [drones]({{ 'drones-aa291e/' | relative_url }}) and missile-defence systems all operate in or around the corridor linking the Arabian Sea to the Strait of Hormuz. That concentration of sensors makes the region relevant to discussions of unidentified anomalous phenomena (UAPs), even though the strongest public records are not Omani investigations but military files released by the United States.
 
 <img src="{{ "/assets/images/Oman_c14c36_gulf_oman_uap_files_7a58a1-Illustration-1-dark.svg" | relative_url }}" alt="Gulf Files illustration 1" data-theme-src-dark="{{ "/assets/images/Oman_c14c36_gulf_oman_uap_files_7a58a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oman_c14c36_gulf_oman_uap_files_7a58a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central question is whether those files prove anything extraordinary. So far, the answer is no. They show that trained operators and sophisticated sensors occasionally record objects or signatures that cannot be confidently identified from the available data. They do not demonstrate alien craft, unknown physics or a confirmed non-human presence. What they do provide is a rare look at how modern military systems encounter and classify unresolved aerial observations in a strategically important area beside Oman. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
+The central question is whether those files prove anything extraordinary. So far, the answer is no. They show that trained operators and sophisticated sensors occasionally record objects or signatures that cannot be confidently identified from the available data. They do not demonstrate alien craft, unknown physics or a confirmed non-human presence. What they do provide is a rare look at how modern military systems encounter and classify unresolved aerial observations in a strategically important area beside Oman.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
 
 ## The 2024 infrared recording that drew the most attention
 
-The most discussed Gulf of Oman case emerged from a US military infrared recording reportedly captured on 1 June 2024 and later released through official UAP disclosure channels. Public descriptions of the footage characterised the object as resembling an inverted teardrop with a vertically extended feature hanging beneath it. Reports stated that the imagery came from an infrared sensor aboard a US military platform operating over the Gulf of Oman. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.ahram.org.eg/NewsContent/2/8/567687/World/Region/Videos-New-US-UFO-files-highlight-unexplained-Midd.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.ahram.org.eg">[Ahram Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.ahram.org.eg</span><span class="citation-popover-title">Videos New US UFO files highlight unexplained Midd.aspx</span><span class="citation-popover-snippet">Ahram OnlineNew US UFO files highlight unexplained Middle East...10 May 2026 — Elsewhere in the archive, a 2024 Gulf of Oman report desc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.ahram.org.eg/News/567687.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.ahram.org.eg">[Ahram Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.ahram.org.eg</span><span class="citation-popover-snippet">Ahram OnlineNew US UFO files highlight unexplained Middle East...10 May 2026 — Elsewhere in the archive, a 2024 Gulf of Oman report desc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The most discussed Gulf of Oman case emerged from a US military infrared recording reportedly captured on 1 June 2024 and later released through official UAP disclosure channels. Public descriptions of the footage characterised the object as resembling an inverted teardrop with a vertically extended feature hanging beneath it. Reports stated that the imagery came from an infrared sensor aboard a US military platform operating over the Gulf of Oman.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.ahram.org.eg/NewsContent/2/8/567687/World/Region/Videos-New-US-UFO-files-highlight-unexplained-Midd.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.ahram.org.eg">[Ahram Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.ahram.org.eg</span><span class="citation-popover-title">Videos New US UFO files highlight unexplained Midd.aspx</span><span class="citation-popover-snippet">Ahram OnlineNew US UFO files highlight unexplained Middle East...10 May 2026 — Elsewhere in the archive, a 2024 Gulf of Oman report desc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.ahram.org.eg/News/567687.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.ahram.org.eg">[Ahram Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.ahram.org.eg</span><span class="citation-popover-snippet">Ahram OnlineNew US UFO files highlight unexplained Middle East...10 May 2026 — Elsewhere in the archive, a 2024 Gulf of Oman report desc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-What made the clip notable was not dramatic manoeuvring but uncertainty. Analysts reviewing the footage could not confidently identify the source of the thermal contrast seen by the sensor. At the same time, publicly released commentary attached to the case was careful not to imply anything exotic. One observation noted that the image might have involved a reflection associated with the water surface below. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.ahram.org.eg/NewsContent/2/8/567687/World/Region/Videos-New-US-UFO-files-highlight-unexplained-Midd.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.ahram.org.eg">[Ahram Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.ahram.org.eg</span><span class="citation-popover-title">Videos New US UFO files highlight unexplained Midd.aspx</span><span class="citation-popover-snippet">Ahram OnlineNew US UFO files highlight unexplained Middle East...10 May 2026 — Elsewhere in the archive, a 2024 Gulf of Oman report desc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+What made the clip notable was not dramatic manoeuvring but uncertainty. Analysts reviewing the footage could not confidently identify the source of the thermal contrast seen by the sensor. At the same time, publicly released commentary attached to the case was careful not to imply anything exotic. One observation noted that the image might have involved a reflection associated with the water surface below.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://english.ahram.org.eg/NewsContent/2/8/567687/World/Region/Videos-New-US-UFO-files-highlight-unexplained-Midd.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.ahram.org.eg">[Ahram Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.ahram.org.eg</span><span class="citation-popover-title">Videos New US UFO files highlight unexplained Midd.aspx</span><span class="citation-popover-snippet">Ahram OnlineNew US UFO files highlight unexplained Middle East...10 May 2026 — Elsewhere in the archive, a 2024 Gulf of Oman report desc...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 That distinction matters. Infrared systems do not produce ordinary visual images. They display heat differences, and those differences can be affected by atmosphere, humidity, viewing angle, sensor settings, surface reflections and image processing. A strange shape on an infrared display is not automatically the true shape of a physical object. Military analysts therefore treat unusual imagery as a data problem first and a mystery second.
 
@@ -288,7 +288,7 @@ Several factors overlap:
 
 When a sensor is tracking a distant target across dozens of kilometres, small uncertainties can become large interpretive problems. A thermal signature may appear detached from a visible object. A reflection may resemble a separate target. A distant aircraft may seem stationary or unusually fast depending on the observer's motion.
 
-These issues appear repeatedly in official UAP reviews. The All-domain Anomaly Resolution Office (AARO), the Pentagon organisation responsible for analysing such reports, has repeatedly stated that limited sensor data, incomplete metadata and environmental effects can prevent confident identification even when an object is probably mundane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
+These issues appear repeatedly in official UAP reviews. The All-domain Anomaly Resolution Office (AARO), the Pentagon organisation responsible for analysing such reports, has repeatedly stated that limited sensor data, incomplete metadata and environmental effects can prevent confident identification even when an object is probably mundane.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
 
 For Oman-related regional files, this context is more important than the visual appearance of any single frame.
 
@@ -296,7 +296,7 @@ For Oman-related regional files, this context is more important than the visual 
 
 ## Older regional mission reports reveal a pattern
 
-The Gulf of Oman footage did not emerge in isolation. Released material from AARO and associated military archives includes multiple unresolved reports from the broader Arabian Gulf and Middle East region between 2020 and 2024. Many involve infrared footage gathered by US military platforms operating within Central Command areas of responsibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
+The Gulf of Oman footage did not emerge in isolation. Released material from AARO and associated military archives includes multiple unresolved reports from the broader Arabian Gulf and Middle East region between 2020 and 2024. Many involve infrared footage gathered by US military platforms operating within Central Command areas of responsibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
 
 Several of these reports share common characteristics:
 
@@ -310,7 +310,7 @@ Several of these reports share common characteristics:
 
 </div>
 
-One set of reports from 2020 in the Arabian Gulf involved sensors tracking small thermal signatures through multiple viewing modes. Public descriptions indicate that analysts could not confidently determine the source, yet they also did not report extraordinary flight behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://they-are-here.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: they-are-here.com">[they-are-here.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">they-are-here.com</span><span class="citation-popover-snippet">military platform over the Gulf of Oman, June 2024, showing an inverted-teardrop-shaped area of contrast...Read more...</span><span class="citation-popover-meta">Published: June 2024</span></span></span>
+One set of reports from 2020 in the Arabian Gulf involved sensors tracking small thermal signatures through multiple viewing modes. Public descriptions indicate that analysts could not confidently determine the source, yet they also did not report extraordinary flight behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://they-are-here.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: they-are-here.com">[they-are-here.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">they-are-here.com</span><span class="citation-popover-snippet">military platform over the Gulf of Oman, June 2024, showing an inverted-teardrop-shaped area of contrast...Read more...</span><span class="citation-popover-meta">Published: June 2024</span></span></span>
 
 This pattern is important because it shifts the discussion away from dramatic sightings and toward data quality. Many unresolved military cases are unresolved because the evidence is incomplete, not because the evidence demonstrates something impossible.
 
@@ -328,13 +328,13 @@ AARO's published case summaries show several different categories:
 * Resolved as conventional aircraft.
 * Not anomalous.
 * Under analysis.
-* Unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
+* Unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
 
 </div>
 
 In practice, unresolved often means that analysts lack enough information to make a high-confidence determination. The object may still be ordinary.
 
-Some published examples illustrate this clearly. Certain cases remain unresolved even while investigators state that the object's behaviour appears unremarkable. Others are unresolved because the thermal signature could represent either a physical object or an environmental or sensor-related effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
+Some published examples illustrate this clearly. Certain cases remain unresolved even while investigators state that the object's behaviour appears unremarkable. Others are unresolved because the thermal signature could represent either a physical object or an environmental or sensor-related effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
 
 This framework is especially relevant to Gulf of Oman material. The official language generally describes uncertainty in attribution rather than evidence of extraordinary performance.
 
@@ -349,7 +349,7 @@ An unidentified target in the Gulf of Oman could theoretically represent:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A surveillance drone.
-* A foreign military platform. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
+* A foreign military platform.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
 * A commercial aircraft observed under unusual conditions.
 * A balloon.
 * Electronic interference.
@@ -360,7 +360,7 @@ An unidentified target in the Gulf of Oman could theoretically represent:
 
 From a defence perspective, any unexplained detection deserves review because it may indicate a surveillance vulnerability or intelligence gap. Whether the object is extraordinary is a separate question.
 
-This helps explain why many released files contain limited conclusions. The goal is often to determine whether an observation represents a security issue rather than to solve a philosophical mystery. In a region that includes naval deployments, energy infrastructure and strategic shipping lanes, even a mundane unidentified object may justify investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
+This helps explain why many released files contain limited conclusions. The goal is often to determine whether an observation represents a security issue rather than to solve a philosophical mystery. In a region that includes naval deployments, energy infrastructure and strategic shipping lanes, even a mundane unidentified object may justify investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
 
 <img src="{{ "/assets/images/Oman_c14c36_gulf_oman_uap_files_7a58a1-Illustration-3-dark.svg" | relative_url }}" alt="Gulf Files illustration 3" data-theme-src-dark="{{ "/assets/images/Oman_c14c36_gulf_oman_uap_files_7a58a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oman_c14c36_gulf_oman_uap_files_7a58a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why unresolved does not mean extraordinary
@@ -373,209 +373,209 @@ The released records demonstrate three things with reasonable confidence:
 
 1. Military sensors occasionally capture observations that analysts cannot immediately identify.
 2. Some of those observations remain unresolved after review.
-3. Resolution becomes difficult when supporting radar, visual imagery, telemetry or environmental data are missing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
+3. Resolution becomes difficult when supporting radar, visual imagery, telemetry or environmental data are missing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
 
 </div>
 
 They do not demonstrate extraordinary propulsion, non-human technology or confirmed violations of known physics.
 
-In fact, the same archive that contains unresolved reports also includes cases later attributed to balloons, birds and ordinary aircraft. That mixed record is significant because it shows investigators applying the same review process across both mysterious and mundane detections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
+In fact, the same archive that contains unresolved reports also includes cases later attributed to balloons, birds and ordinary aircraft. That mixed record is significant because it shows investigators applying the same review process across both mysterious and mundane detections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span>
 
 For readers interested in Oman specifically, the Gulf of Oman files are best understood as regional military evidence rather than domestic Omani UFO cases. They provide the clearest official connection between Oman’s surrounding airspace and modern UAP investigations, but they stop well short of proving an extraordinary phenomenon.
 
-The enduring value of the files lies elsewhere: they reveal how difficult identification can become in one of the world's busiest military and maritime corridors, even when advanced sensors are watching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Video - Unresolved UAP Report: Middle East 2024The recording, captured in the Middle East in 2024, depicts an apparent thermal contrast w...</span></span></span>
+The enduring value of the files lies elsewhere: they reveal how difficult identification can become in one of the world's busiest military and maritime corridors, even when advanced sensors are watching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Video - Unresolved UAP Report: Middle East 2024The recording, captured in the Middle East in 2024, depicts an apparent thermal contrast w...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XgsWJUm6QcU" title="UAP FOOTAGE RELEASE: &#x27;UFOs In Formation Over Persian Gulf&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XgsWJUm6QcU" target="_blank" rel="noopener noreferrer">UAP FOOTAGE RELEASE: &#x27;UFOs In Formation Over Persian Gulf&#x27;</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 14.0K &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XgsWJUm6QcU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XgsWJUm6QcU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Gulf of Oman UAP Files Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Gulf of Oman UAP Files Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how official investigations treat unresolved reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how official investigations treat unresolved reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Focuses on modern military and government UAP disclosures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on modern military and government UAP disclosures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly aligns with military observations, official files, and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligns with military observations, official files, and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores the meaning and limits of unexplained aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the meaning and limits of unexplained aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-gulf-of-oman-uap-files-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-gulf-of-oman-uap-files-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ The enduring value of the files lies elsewhere: they reveal how difficult identi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ The enduring value of the files lies elsewhere: they reveal how difficult identi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ The enduring value of the files lies elsewhere: they reveal how difficult identi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ The enduring value of the files lies elsewhere: they reveal how difficult identi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ The enduring value of the files lies elsewhere: they reveal how difficult identi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,101 +778,100 @@ The enduring value of the files lies elsewhere: they reveal how difficult identi
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery... (AARO) consisting of ten minutes and thirty seconds of video footage from an infrared sensor aboard a U.S. military pl...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: they-are-here.com  
-   Link: <a href="https://they-are-here.com/" target="_blank" rel="noopener noreferrer nofollow">https://they-are-here.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military platform over the Gulf of Oman, June 2024, showing an inverted-teardrop-shaped area of contrast...Read more...</p></details>
+   Link:<a href="https://they-are-here.com/" target="_blank" rel="noopener noreferrer nofollow">https://they-are-here.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military platform over the Gulf of Oman, June 2024, showing an inverted-teardrop-shaped area of contrast...Read more...</p></details>
    Published: June 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Video - Unresolved UAP Report: Middle East 2024The recording, captured in the Middle East in 2024, depicts an apparent thermal contrast w...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video - Unresolved UAP Report: Middle East 2024The recording, captured in the Middle East in 2024, depicts an apparent thermal contrast w...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial rel...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial rel...</p></details>
    Published: May 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: english.ahram.org.eg  
    Title: Videos New US UFO files highlight unexplained Midd.aspx  
-   Link: <a href="https://english.ahram.org.eg/NewsContent/2/8/567687/World/Region/Videos-New-US-UFO-files-highlight-unexplained-Midd.aspx" target="_blank" rel="noopener noreferrer nofollow">https://english.ahram.org.eg/NewsContent/2/8/567687/World/Region/Videos-New-US-UFO-files-highlight-unexplained-Midd.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ahram OnlineNew US UFO files highlight unexplained Middle East...10 May 2026 — Elsewhere in the archive, a 2024 Gulf of Oman report desc...</p></details>
+   Link:<a href="https://english.ahram.org.eg/NewsContent/2/8/567687/World/Region/Videos-New-US-UFO-files-highlight-unexplained-Midd.aspx" target="_blank" rel="noopener noreferrer nofollow">https://english.ahram.org.eg/NewsContent/2/8/567687/World/Region/Videos-New-US-UFO-files-highlight-unexplained-Midd.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ahram OnlineNew US UFO files highlight unexplained Middle East...10 May 2026 — Elsewhere in the archive, a 2024 Gulf of Oman report desc...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: english.ahram.org.eg  
-   Link: <a href="https://english.ahram.org.eg/News/567687.aspx" target="_blank" rel="noopener noreferrer nofollow">https://english.ahram.org.eg/News/567687.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ahram OnlineNew US UFO files highlight unexplained Middle East...10 May 2026 — Elsewhere in the archive, a 2024 Gulf of Oman report desc...</p></details>
+   Link:<a href="https://english.ahram.org.eg/News/567687.aspx" target="_blank" rel="noopener noreferrer nofollow">https://english.ahram.org.eg/News/567687.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ahram OnlineNew US UFO files highlight unexplained Middle East...10 May 2026 — Elsewhere in the archive, a 2024 Gulf of Oman report desc...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DUBbZvqjSoV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUBbZvqjSoV/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you think a UFO has landed in Oman? 😁 #lovinmuscatBreaking: The Department of War has officially declassified footage of several UAP s...</p></details>
+   Link:<a href="https://www.instagram.com/p/DUBbZvqjSoV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUBbZvqjSoV/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do you think a UFO has landed in Oman? 😁 #lovinmuscatBreaking: The Department of War has officially declassified footage of several UAP s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newton.obonyo/videos/sprinting-teardrop-shaped-object-captured-via-infrared-sensor-in-gulf-of-oman-in/1255453759681081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newton.obonyo/videos/sprinting-teardrop-shaped-object-captured-via-infrared-sensor-in-gulf-of-oman-in/1255453759681081/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprinting TEARDROP-SHAPED object captured via...Sprinting TEARDROP-SHAPED object captured via infrared sensor in Gulf of Oman in 2024 —...</p></details>
+   Link:<a href="https://www.facebook.com/newton.obonyo/videos/sprinting-teardrop-shaped-object-captured-via-infrared-sensor-in-gulf-of-oman-in/1255453759681081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newton.obonyo/videos/sprinting-teardrop-shaped-object-captured-via-infrared-sensor-in-gulf-of-oman-in/1255453759681081/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sprinting TEARDROP-SHAPED object captured via...Sprinting TEARDROP-SHAPED object captured via infrared sensor in Gulf of Oman in 2024 —...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WaveWatchers/videos/newly-released-uap-videorecorded-over-the-gulf-of-omanafter-digging-through-the-/921468080869308/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WaveWatchers/videos/newly-released-uap-videorecorded-over-the-gulf-of-omanafter-digging-through-the-/921468080869308/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEWLY RELEASED UAP VIDEO RECORDED OVER THE...This footage, labeled DOW-UAP-PR29, was reportedly recorded in June 2024 from an infrared s...</p></details>
+   Link:<a href="https://www.facebook.com/WaveWatchers/videos/newly-released-uap-videorecorded-over-the-gulf-of-omanafter-digging-through-the-/921468080869308/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WaveWatchers/videos/newly-released-uap-videorecorded-over-the-gulf-of-omanafter-digging-through-the-/921468080869308/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEWLY RELEASED UAP VIDEO RECORDED OVER THE...This footage, labeled DOW-UAP-PR29, was reportedly recorded in June 2024 from an infrared s...</p></details>
    Published: June 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
    Title: The United States Department of War this week released  
-   Link: <a href="https://www.instagram.com/p/DYMwkN4jNm1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYMwkN4jNm1/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unresolved UAP reports and military infrared videos were released to the public.... UAP records tied to AARO investigations include unre...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYMwkN4jNm1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYMwkN4jNm1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unresolved UAP reports and military infrared videos were released to the public.... UAP records tied to AARO investigations include unre...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYFndf7Da0N/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYFndf7Da0N/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rd a US military aircraft flying across the Gulf of Oman..Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYFndf7Da0N/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYFndf7Da0N/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rd a US military aircraft flying across the Gulf of Oman..Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYGgcyhFoUO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYGgcyhFoUO/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Gulf of Oman in 2024. The video released by US&#x27;...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYGgcyhFoUO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYGgcyhFoUO/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the Gulf of Oman in 2024. The video released by US&#x27;...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: This report remains unresolved due to lack of technical data.Read more  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...This footage, captured by an infrared sensor in 2024, was later reported to AAR...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ko9q2o/aaro_has_posted_another_unresolved_case_video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has posted another unresolved case (video): &quot;This...This footage, captured by an infrared sensor in 2024, was later reported to AAR...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYP9qVaz0EU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYP9qVaz0EU/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tary infrared footage captured an unexplained “area of contrast...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYP9qVaz0EU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYP9qVaz0EU/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tary infrared footage captured an unexplained “area of contrast...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYqBD6DEvGw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYqBD6DEvGw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>featuring photos, videos, pilot testimonies, and intelligence...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYqBD6DEvGw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYqBD6DEvGw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>featuring photos, videos, pilot testimonies, and intelligence...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lous phenomena (UAP) near Iran, saying the footage was likely...</p></details>
+   Link:<a href="https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IranIntlEnglish/posts/the-pentagon-on-friday-released-a-video-allegedly-showing-unidentified-anomalous/1510533081083780/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lous phenomena (UAP) near Iran, saying the footage was likely...</p></details>

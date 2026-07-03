@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /pakistan-82d220-index/
 description: Focused pages that expand on What Do Pakistan's UFO Cases Really Show?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Pakistan_82d220
 parent_title: What Do Pakistan's UFO Cases Really Show?
@@ -16,7 +16,7 @@ parent_permalink: /what-do-pakistans-ufo-cases-really-show/
 
 # Explore Topics in What Do Pakistan's UFO Cases Really Show?
 
-The following pages expand on the main **[What Do Pakistan's UFO Cases Really Show?]({{ '/what-do-pakistans-ufo-cases-really-show/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Do Pakistan's UFO Cases Really Show?]({{ '/what-do-pakistans-ufo-cases-really-show/' | relative_url }})** page and cover its key branches in.
 
 - [Triangle Video]({{ '/triangle-video/' | relative_url }})
 - [Karachi File]({{ '/karachi-file/' | relative_url }})

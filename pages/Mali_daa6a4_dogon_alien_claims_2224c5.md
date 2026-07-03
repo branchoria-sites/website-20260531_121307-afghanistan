@@ -254,14 +254,14 @@ image: /assets/images/Mali_daa6a4_dogon_alien_claims_2224c5-Illustration-1-socia
 
 ## Introduction
 
-The idea that the **Dogon people of Mali** possessed *advanced astronomical knowledge given to them by extraterrestrials*—especially regarding the **Sirius star system**—is one of the most widely circulated claims linking traditional cultures to alien contact. This notion has been amplified in UFO and “ancient astronaut” literature for decades, but serious research shows that it rests on contested anthropological reports and later reinterpretations rather than on independently verified evidence of alien visitation. In the scholarship of Mali’s cultural astronomy, this story belongs more to the overlap of folklore, colonial contact history, and misinterpreted ethnography than to documented UFO phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dogon people</span><span class="citation-popover-snippet">Dogon people</span></span></span>
+The idea that the **Dogon people of Mali** possessed *advanced astronomical knowledge given to them by extraterrestrials*—especially regarding the **Sirius star system**—is one of the most widely circulated claims linking traditional cultures to alien contact. This notion has been amplified in UFO and “ancient astronaut” literature for decades, but serious research shows that it rests on contested anthropological reports and later reinterpretations rather than on independently verified evidence of alien visitation. In the scholarship of Mali’s cultural astronomy, this story belongs more to the overlap of folklore, colonial contact history, and misinterpreted ethnography than to documented UFO phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dogon people</span><span class="citation-popover-snippet">Dogon people</span></span></span>
 
 <img src="{{ "/assets/images/Mali_daa6a4_dogon_alien_claims_2224c5-Illustration-1-dark.svg" | relative_url }}" alt="Dogon Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Mali_daa6a4_dogon_alien_claims_2224c5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mali_daa6a4_dogon_alien_claims_2224c5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Sirius Claim in Dogon Lore
 
-In the mid‑20th century, French anthropologist **Marcel Griaule** and his colleague **Germaine Dieterlen** conducted fieldwork among the Dogon of central Mali. Based on interviews—particularly with one elder, Ogotemmêli—they reported that the Dogon orally described *Sirius* (the brightest star visible in the night sky) as having two companion stars, including an *invisible* one with a long orbital period and heavy, dense properties. Such details later drew interest because **Sirius B**, a white dwarf invisible without a telescope and orbiting Sirius A with a roughly 50‑year period, was only confirmed by modern astronomy in the 19th and 20th centuries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dogon people</span><span class="citation-popover-snippet">Dogon people</span></span></span>
+In the mid‑20th century, French anthropologist **Marcel Griaule** and his colleague **Germaine Dieterlen** conducted fieldwork among the Dogon of central Mali. Based on interviews—particularly with one elder, Ogotemmêli—they reported that the Dogon orally described *Sirius* (the brightest star visible in the night sky) as having two companion stars, including an *invisible* one with a long orbital period and heavy, dense properties. Such details later drew interest because **Sirius B**, a white dwarf invisible without a telescope and orbiting Sirius A with a roughly 50‑year period, was only confirmed by modern astronomy in the 19th and 20th centuries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dogon people</span><span class="citation-popover-snippet">Dogon people</span></span></span>
 
-This account was popularised in **Robert Temple’s book *The Sirius Mystery*** (1976), which suggested that the Dogon’s detailed cosmological lore—including star companions and orbital characteristics—could only be explained by *contact with extraterrestrial beings* (the so‑called *Nommo*), advanced visitors from the Sirius system. Temple’s work became a foundational reference for many proponents of ancient alien narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.badarchaeology.com/extraterrestrials/the-sirius-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badarchaeology.com">[badarchaeology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badarchaeology.com</span><span class="citation-popover-title">Did the Dogon of Mali know about Sirius B?</span><span class="citation-popover-snippet">Did the Dogon of Mali know about Sirius B?</span></span></span>
+This account was popularised in **Robert Temple’s book *The Sirius Mystery*** (1976), which suggested that the Dogon’s detailed cosmological lore—including star companions and orbital characteristics—could only be explained by *contact with extraterrestrial beings* (the so‑called *Nommo*), advanced visitors from the Sirius system. Temple’s work became a foundational reference for many proponents of ancient alien narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.badarchaeology.com/extraterrestrials/the-sirius-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: badarchaeology.com">[badarchaeology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">badarchaeology.com</span><span class="citation-popover-title">Did the Dogon of Mali know about Sirius B?</span><span class="citation-popover-snippet">Did the Dogon of Mali know about Sirius B?</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GX5bZvuD6kE" title="African Tribe&#x27;s SHOCKING Origin Story in the Stars | Ancient Aliens (Season 1) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GX5bZvuD6kE" target="_blank" rel="noopener noreferrer">African Tribe&#x27;s SHOCKING Origin Story in the Stars | Ancient Aliens (Season 1) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 674.7K &middot; Uploaded: February 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GX5bZvuD6kE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GX5bZvuD6kE">Open on YouTube</a></p></div></div></div>
 
@@ -269,11 +269,11 @@ This account was popularised in **Robert Temple’s book *The Sirius Mystery*** 
 
 Despite its fame, the Dogon Sirius claim has faced substantial **academic criticism** on methodological and contextual grounds:
 
-* **Fieldwork limitations:** Griaule’s findings relied heavily on a narrow set of informants. Later anthropologists, most notably **Walter van Beek**, found that many Dogon people did *not* share consistent knowledge of Sirius’s companions, that definitions of key terms like *Sigu Tolo* varied, and that some informants identified entirely different celestial bodies (e.g. Venus) rather than Sirius. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dogon people</span><span class="citation-popover-snippet">Dogon people</span></span></span>
-* **Cultural contamination:** Critics argue that any detailed astronomical information available to the Dogon in the 20th century could have come from **terrestrial sources**—European explorers, missionaries, colonial administrators, traders, or visitors carrying knowledge of Western astronomy into Mali—long before Griaule’s research began. Sirius B was known to European science in the 19th century and widely discussed by the early 20th century, making this kind of exchange plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owiki.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owiki.org">[Open WIKI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owiki.org</span><span class="citation-popover-title">Open WIKIDogon people::: Open WIKI</span><span class="citation-popover-snippet">Open WIKIDogon people::: Open WIKI</span></span></span>
-* **Internal inconsistency:** Analyses of the actual Dogon lore reveal contradictions and ambiguities. Some descriptions of stars used by Griaule and later writers do not clearly map onto Sirius B or its properties, and Dogon cosmology as recorded varies significantly between informants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spokenpast.com/articles/dogon-sirius-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spokenpast.com">[Spoken Past]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spokenpast.com</span><span class="citation-popover-title">Spoken Past Dogon Sirius Mystery: What the Sources Actually Say</span><span class="citation-popover-snippet">Spoken PastDogon Sirius Mystery: What the Sources Actually SayAugust 10, 2025...</span><span class="citation-popover-meta">Published: August 10, 2025</span></span></span>
+* **Fieldwork limitations:** Griaule’s findings relied heavily on a narrow set of informants. Later anthropologists, most notably **Walter van Beek**, found that many Dogon people did *not* share consistent knowledge of Sirius’s companions, that definitions of key terms like *Sigu Tolo* varied, and that some informants identified entirely different celestial bodies (e.g. Venus) rather than Sirius.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dogon people</span><span class="citation-popover-snippet">Dogon people</span></span></span>
+* **Cultural contamination:** Critics argue that any detailed astronomical information available to the Dogon in the 20th century could have come from **terrestrial sources**—European explorers, missionaries, colonial administrators, traders, or visitors carrying knowledge of Western astronomy into Mali—long before Griaule’s research began. Sirius B was known to European science in the 19th century and widely discussed by the early 20th century, making this kind of exchange plausible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owiki.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owiki.org">[Open WIKI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owiki.org</span><span class="citation-popover-title">Open WIKIDogon people::: Open WIKI</span><span class="citation-popover-snippet">Open WIKIDogon people::: Open WIKI</span></span></span>
+* **Internal inconsistency:** Analyses of the actual Dogon lore reveal contradictions and ambiguities. Some descriptions of stars used by Griaule and later writers do not clearly map onto Sirius B or its properties, and Dogon cosmology as recorded varies significantly between informants.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spokenpast.com/articles/dogon-sirius-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spokenpast.com">[Spoken Past]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spokenpast.com</span><span class="citation-popover-title">Spoken Past Dogon Sirius Mystery: What the Sources Actually Say</span><span class="citation-popover-snippet">Spoken PastDogon Sirius Mystery: What the Sources Actually SayAugust 10, 2025...</span><span class="citation-popover-meta">Published: August 10, 2025</span></span></span>
 
-Given these issues, the **mainstream scholarly position** rejects extraterrestrial contact as a necessary explanation for the Dogon’s purported astronomy, instead favouring cultural transmission and ethnographic misinterpretation as more plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://satyori.com/alternative-history/dogon-sirius-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satyori.com">[Satyori]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satyori.com</span><span class="citation-popover-title">The Dogon and the Sirius Mystery — Alternative History &#124; Satyori</span><span class="citation-popover-snippet">The Dogon and the Sirius Mystery — Alternative History &#124; Satyori...</span></span></span>
+Given these issues, the **mainstream scholarly position** rejects extraterrestrial contact as a necessary explanation for the Dogon’s purported astronomy, instead favouring cultural transmission and ethnographic misinterpretation as more plausible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://satyori.com/alternative-history/dogon-sirius-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satyori.com">[Satyori]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satyori.com</span><span class="citation-popover-title">The Dogon and the Sirius Mystery — Alternative History &#124; Satyori</span><span class="citation-popover-snippet">The Dogon and the Sirius Mystery — Alternative History &#124; Satyori...</span></span></span>
 
 <img src="{{ "/assets/images/Mali_daa6a4_dogon_alien_claims_2224c5-Illustration-2-dark.svg" | relative_url }}" alt="Dogon Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Mali_daa6a4_dogon_alien_claims_2224c5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mali_daa6a4_dogon_alien_claims_2224c5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Isn’t a UFO or Contact Case
@@ -282,7 +282,7 @@ When placed against the standards used in UFO/UAP investigations, the Dogon Siri
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* **Lack of independent documentation:** There are no dated archaeological findings, artefacts, or consistent oral histories among the Dogon that independently corroborate the claim that detailed cosmic knowledge predated outside influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dogon people</span><span class="citation-popover-snippet">Dogon people</span></span></span>
+* **Lack of independent documentation:** There are no dated archaeological findings, artefacts, or consistent oral histories among the Dogon that independently corroborate the claim that detailed cosmic knowledge predated outside influence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dogon people</span><span class="citation-popover-snippet">Dogon people</span></span></span>
 * **No observable anomalous phenomena:** The narrative rests on interpretations of cosmological lore rather than on witnessed aerial phenomena, radar data, or physical evidence indicative of technological contact.
 * **“Ancient alien” extrapolation:** The linkage to extraterrestrials arises primarily from later reinterpretations (e.g., Temple) and popular media, not from original ethnographic records or scientific verification.
 
@@ -296,201 +296,201 @@ In the context of **Mali’s UFO/UAP landscape**, the Dogon Sirius claim functio
 
 ## Academic and Cultural Perspective
 
-Anthropologists and historians emphasise that the Dogon have *rich and complex cosmological traditions* that reflect their cultural and ritual life, independent of any extraterrestrial framework. These traditions deserve study on their own terms as part of Mali’s indigenous knowledge systems, without conflating symbolic lore with technological contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acu.ac.uk/the-acu-review/celestial-stories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acu.ac.uk">[acu.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acu.ac.uk</span><span class="citation-popover-title">Celestial stories: indigenous and cultural astronomy &#124; ACU</span><span class="citation-popover-snippet">Celestial stories: indigenous and cultural astronomy &#124; ACU</span></span></span>
+Anthropologists and historians emphasise that the Dogon have *rich and complex cosmological traditions* that reflect their cultural and ritual life, independent of any extraterrestrial framework. These traditions deserve study on their own terms as part of Mali’s indigenous knowledge systems, without conflating symbolic lore with technological contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acu.ac.uk/the-acu-review/celestial-stories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acu.ac.uk">[acu.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acu.ac.uk</span><span class="citation-popover-title">Celestial stories: indigenous and cultural astronomy &#124; ACU</span><span class="citation-popover-snippet">Celestial stories: indigenous and cultural astronomy &#124; ACU</span></span></span>
 
-Scholars caution against reading oral tradition as literal scientific data or assuming that pre‑scientific cultures lacked sophisticated symbolic ways of relating to the sky. When the actual ethnographic evidence is examined critically, there is **no solid basis to regard the Dogon as evidence of alien contact**, and the claim remains firmly in the realm of contested myth rather than confirmed contact history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skepdic.com/dogon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepdic.com">[skepdic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepdic.com</span><span class="citation-popover-title">Dogon and Sirius</span><span class="citation-popover-snippet">The Skeptic&#x27;s Dictionary - Skepdic.comNovember 7, 2015...</span><span class="citation-popover-meta">Published: November 7, 2015</span></span></span>
+Scholars caution against reading oral tradition as literal scientific data or assuming that pre‑scientific cultures lacked sophisticated symbolic ways of relating to the sky. When the actual ethnographic evidence is examined critically, there is **no solid basis to regard the Dogon as evidence of alien contact**, and the claim remains firmly in the realm of contested myth rather than confirmed contact history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skepdic.com/dogon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepdic.com">[skepdic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepdic.com</span><span class="citation-popover-title">Dogon and Sirius</span><span class="citation-popover-snippet">The Skeptic&#x27;s Dictionary - Skepdic.comNovember 7, 2015...</span><span class="citation-popover-meta">Published: November 7, 2015</span></span></span>
 
 <img src="{{ "/assets/images/Mali_daa6a4_dogon_alien_claims_2224c5-Illustration-3-dark.svg" | relative_url }}" alt="Dogon Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Mali_daa6a4_dogon_alien_claims_2224c5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mali_daa6a4_dogon_alien_claims_2224c5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Dogon Lore Really Point to Aliens?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Dogon Lore Really Point to Aliens?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers a folklore-based lens rather than extraterrestrial explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a folklore-based lens rather than extraterrestrial explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sirius+Mystery%3A+New+Scientific+Evidence+for+Alien+Contact+5000+Years+Ago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sirius Mystery: New Scientific Evidence for Alien Contact 5000 Years Ago on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8369734-M.jpg" alt="Cover for The Sirius Mystery: New Scientific Evidence for Alien Contact 5000 Years Ago" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sirius+Mystery%3A+New+Scientific+Evidence+for+Alien+Contact+5000+Years+Ago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sirius Mystery: New Scientific Evidence for Alien Contact 5000 Years Ago">The Sirius Mystery: New Scientific Evidence for Alien Contact...</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sirius+Mystery%3A+New+Scientific+Evidence+for+Alien+Contact+5000+Years+Ago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sirius Mystery: New Scientific Evidence for Alien Contact 5000 Years Ago on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8369734-M.jpg" alt="Cover for The Sirius Mystery: New Scientific Evidence for Alien Contact 5000 Years Ago" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sirius+Mystery%3A+New+Scientific+Evidence+for+Alien+Contact+5000+Years+Ago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sirius Mystery: New Scientific Evidence for Alien Contact 5000 Years Ago">The Sirius Mystery: New Scientific Evidence for Alien Contact...</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly responsible for popularising the extraterrestrial interpretation of Dogon lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sirius+Mystery%3A+New+Scientific+Evidence+for+Alien+Contact+5000+Years+Ago&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly responsible for popularising the extraterrestrial interpretation of Dogon lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sirius+Mystery%3A+New+Scientific+Evidence+for+Alien+Contact+5000+Years+Ago&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for assessing extraordinary cultural and astronomical claims critically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing extraordinary cultural and astronomical claims critically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
-        </h4>
-        <p class="fr-book-author">By Erich von Däniken</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
+</h4>
+<p class="fr-book-author">By Erich von Däniken</p>
         
-        <p class="fr-book-desc">First published 1971. Subjects: Interplanetary voyages, Life on other planets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1971. Subjects: Interplanetary voyages, Life on other planets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sirius+Mystery%3A+Scientific+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sirius Mystery: Scientific Evidence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sirius+Mystery%3A+Scientific+Evidence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sirius Mystery: Scientific Evidence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-dogon-lore-really-point-to-aliens-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-dogon-lore-really-point-to-aliens-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -506,7 +506,7 @@ Scholars caution against reading oral tradition as literal scientific data or as
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -526,7 +526,7 @@ Scholars caution against reading oral tradition as literal scientific data or as
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -558,7 +558,7 @@ Scholars caution against reading oral tradition as literal scientific data or as
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -610,7 +610,7 @@ Scholars caution against reading oral tradition as literal scientific data or as
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -655,7 +655,7 @@ Scholars caution against reading oral tradition as literal scientific data or as
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -693,113 +693,112 @@ Scholars caution against reading oral tradition as literal scientific data or as
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Dogon people  
-   Link: <a href="https://en.wikipedia.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dogon_people</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dogon_people</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: badarchaeology.com  
    Title: Did the Dogon of Mali know about Sirius B?  
-   Link: <a href="https://www.badarchaeology.com/extraterrestrials/the-sirius-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.badarchaeology.com/extraterrestrials/the-sirius-mystery/</a>  
+   Link:<a href="https://www.badarchaeology.com/extraterrestrials/the-sirius-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.badarchaeology.com/extraterrestrials/the-sirius-mystery/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: owiki.org  
    Title: Open WIKIDogon people::: Open WIKI  
-   Link: <a href="https://owiki.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow">https://owiki.org/wiki/Dogon_people</a>  
+   Link:<a href="https://owiki.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow">https://owiki.org/wiki/Dogon_people</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: satyori.com  
    Title: The Dogon and the Sirius Mystery — Alternative History | Satyori  
-   Link: <a href="https://satyori.com/alternative-history/dogon-sirius-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://satyori.com/alternative-history/dogon-sirius-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dogon and the Sirius Mystery — Alternative History | Satyori...</p></details>
+   Link:<a href="https://satyori.com/alternative-history/dogon-sirius-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://satyori.com/alternative-history/dogon-sirius-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Dogon and the Sirius Mystery — Alternative History | Satyori...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: acu.ac.uk  
    Title: Celestial stories: indigenous and cultural astronomy | ACU  
-   Link: <a href="https://www.acu.ac.uk/the-acu-review/celestial-stories/" target="_blank" rel="noopener noreferrer nofollow">https://www.acu.ac.uk/the-acu-review/celestial-stories/</a>  
+   Link:<a href="https://www.acu.ac.uk/the-acu-review/celestial-stories/" target="_blank" rel="noopener noreferrer nofollow">https://www.acu.ac.uk/the-acu-review/celestial-stories/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepdic.com  
    Title: Dogon and Sirius  
-   Link: <a href="https://www.skepdic.com/dogon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skepdic.com/dogon.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Dictionary - Skepdic.comNovember 7, 2015...</p></details>
+   Link:<a href="https://www.skepdic.com/dogon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skepdic.com/dogon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Dictionary - Skepdic.comNovember 7, 2015...</p></details>
    Published: November 7, 2015  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: spokenpast.com  
    Title: Spoken Past Dogon Sirius Mystery: What the Sources Actually Say  
-   Link: <a href="https://spokenpast.com/articles/dogon-sirius-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://spokenpast.com/articles/dogon-sirius-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spoken PastDogon Sirius Mystery: What the Sources Actually SayAugust 10, 2025...</p></details>
+   Link:<a href="https://spokenpast.com/articles/dogon-sirius-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://spokenpast.com/articles/dogon-sirius-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spoken PastDogon Sirius Mystery: What the Sources Actually SayAugust 10, 2025...</p></details>
    Published: August 10, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rationalwiki.org  
    Title: Dogon people  
-   Link: <a href="https://rationalwiki.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow">https://rationalwiki.org/wiki/Dogon_people</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius A (the larger star) and Sirius B (the smaller star) as viewed with the Hubble telescope. The Dogon are an ethnic group located in...</p></details>
+   Link:<a href="https://rationalwiki.org/wiki/Dogon_people" target="_blank" rel="noopener noreferrer nofollow">https://rationalwiki.org/wiki/Dogon_people</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius A (the larger star) and Sirius B (the smaller star) as viewed with the Hubble telescope. The Dogon are an ethnic group located in...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tvi.show  
-   Link: <a href="https://www.tvi.show/forgotten-realms/the-mystery-of-the-dogon-peoples-astronomical-knowledge" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/forgotten-realms/the-mystery-of-the-dogon-peoples-astronomical-knowledge</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the Dogon People’s Ancient Astronomical Secrets: Insights into the Sirius Star SystemRESEARCH AND CONTROVERSY SURROUNDING DOGON...</p></details>
+   Link:<a href="https://www.tvi.show/forgotten-realms/the-mystery-of-the-dogon-peoples-astronomical-knowledge" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/forgotten-realms/the-mystery-of-the-dogon-peoples-astronomical-knowledge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the Dogon People’s Ancient Astronomical Secrets: Insights into the Sirius Star SystemRESEARCH AND CONTROVERSY SURROUNDING DOGON...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: stason.org  
-   Link: <a href="https://stason.org/TULARC/science-engineering/skeptic/3-13-How-did-the-Dogon-know-about-Sirius.html" target="_blank" rel="noopener noreferrer nofollow">https://stason.org/TULARC/science-engineering/skeptic/3-13-How-did-the-Dogon-know-about-Sirius.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DESCRIPTION This article is from the Scientific Skepticism FAQ, by Paul Johnson Paul@treetop.demon.co.uk with numerous contributions by o...</p></details>
+   Link:<a href="https://stason.org/TULARC/science-engineering/skeptic/3-13-How-did-the-Dogon-know-about-Sirius.html" target="_blank" rel="noopener noreferrer nofollow">https://stason.org/TULARC/science-engineering/skeptic/3-13-How-did-the-Dogon-know-about-Sirius.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DESCRIPTION This article is from the Scientific Skepticism FAQ, by Paul Johnson Paul@treetop.demon.co.uk with numerous contributions by o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ancient-origins.net  
    Title: Did Ancient Aliens Impart Advanced Astronomical Knowledge to the Dogon Tribe?  
-   Link: <a href="https://www.ancient-origins.net/news-mysterious-phenomena/did-ancient-aliens-impart-advanced-astronomical-knowledge-dogon-tribe-021403" target="_blank" rel="noopener noreferrer nofollow">https://www.ancient-origins.net/news-mysterious-phenomena/did-ancient-aliens-impart-advanced-astronomical-knowledge-dogon-tribe-021403</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient OriginsMay 24, 2017 — DID ANCIENT ALIENS IMPART ADVANCED ASTRONOMICAL KNOWLEDGE TO THE DOGON TRIBE? Image: An artist&#x27;s impressi...</p></details>
+   Link:<a href="https://www.ancient-origins.net/news-mysterious-phenomena/did-ancient-aliens-impart-advanced-astronomical-knowledge-dogon-tribe-021403" target="_blank" rel="noopener noreferrer nofollow">https://www.ancient-origins.net/news-mysterious-phenomena/did-ancient-aliens-impart-advanced-astronomical-knowledge-dogon-tribe-021403</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient OriginsMay 24, 2017 — DID ANCIENT ALIENS IMPART ADVANCED ASTRONOMICAL KNOWLEDGE TO THE DOGON TRIBE? Image: An artist&#x27;s impressi...</p></details>
    Published: May 24, 2017  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theawl.com  
    Title: Regarding The War In Mali: Are Mali's Dogon People Really Aliens From Sirius?  
-   Link: <a href="https://www.theawl.com/2013/01/regarding-the-war-in-mali-are-malis-dogon-people-really-aliens-from-sirius/" target="_blank" rel="noopener noreferrer nofollow">https://www.theawl.com/2013/01/regarding-the-war-in-mali-are-malis-dogon-people-really-aliens-from-sirius/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AwlJanuary 18, 2013 — REGARDING THE WAR IN MALI: ARE MALI&#x27;S DOGON PEOPLE REALLY ALIENS FROM SIRIUS? by Ken Layne January 18, 2013 Ima...</p></details>
+   Link:<a href="https://www.theawl.com/2013/01/regarding-the-war-in-mali-are-malis-dogon-people-really-aliens-from-sirius/" target="_blank" rel="noopener noreferrer nofollow">https://www.theawl.com/2013/01/regarding-the-war-in-mali-are-malis-dogon-people-really-aliens-from-sirius/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AwlJanuary 18, 2013 — REGARDING THE WAR IN MALI: ARE MALI&#x27;S DOGON PEOPLE REALLY ALIENS FROM SIRIUS? by Ken Layne January 18, 2013 Ima...</p></details>
    Published: January 18, 2013  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theepochtimes.com  
    Title: Did Ancient Aliens Impart Advanced Astronomical Knowledge to the Dogon Tribe?  
-   Link: <a href="https://www.theepochtimes.com/article/did-ancient-aliens-impart-advanced-astronomical-knowledge-to-the-dogon-tribe-1174627/" target="_blank" rel="noopener noreferrer nofollow">https://www.theepochtimes.com/article/did-ancient-aliens-impart-advanced-astronomical-knowledge-to-the-dogon-tribe-1174627/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Epoch TimesJanuary 2, 2015 — DID ANCIENT ALIENS IMPART ADVANCED ASTRONOMICAL KNOWLEDGE TO THE DOGON TRIBE? Skeptics and proponents...</p></details>
+   Link:<a href="https://www.theepochtimes.com/article/did-ancient-aliens-impart-advanced-astronomical-knowledge-to-the-dogon-tribe-1174627/" target="_blank" rel="noopener noreferrer nofollow">https://www.theepochtimes.com/article/did-ancient-aliens-impart-advanced-astronomical-knowledge-to-the-dogon-tribe-1174627/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Epoch TimesJanuary 2, 2015 — DID ANCIENT ALIENS IMPART ADVANCED ASTRONOMICAL KNOWLEDGE TO THE DOGON TRIBE? Skeptics and proponents...</p></details>
    Published: January 2, 2015  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gwup.org  
    Title: Das Sirius-Rätsel | Pseudo- und Parawissenschaften | GWUP e  
-   Link: <a href="https://www.gwup.org/skeptiker-artikel/das-sirius-raetsel/" target="_blank" rel="noopener noreferrer nofollow">https://www.gwup.org/skeptiker-artikel/das-sirius-raetsel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6, 2003 — DAS SIRIUS-RÄTSEL DAS SIRIUS-RÄTSEL Klaus Richter[Button: 📰 Lesemodus] Loading the Elevenlabs Text to Speech AudioNative Player...</p></details>
+   Link:<a href="https://www.gwup.org/skeptiker-artikel/das-sirius-raetsel/" target="_blank" rel="noopener noreferrer nofollow">https://www.gwup.org/skeptiker-artikel/das-sirius-raetsel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6, 2003 — DAS SIRIUS-RÄTSEL DAS SIRIUS-RÄTSEL Klaus Richter[Button: 📰 Lesemodus] Loading the Elevenlabs Text to Speech AudioNative Player...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Dogon and the Sirius Mystery: Ancient Knowledge or Alien Contact?  
-   Link: <a href="https://www.youtube.com/watch?v=OxHStV7_7Ak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OxHStV7_7Ak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dogon Sirius mystery debunked astronomy Did the Dogon Tribe Predict What Stars Are Made Of?! | NASA’s Unexplained Files | Science Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OxHStV7_7Ak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OxHStV7_7Ak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dogon Sirius mystery debunked astronomy Did the Dogon Tribe Predict What Stars Are Made Of?! | NASA’s Unexplained Files | Science Channel...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GX5bZvuD6kE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GX5bZvuD6kE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dogon Tribe and Sirius B Ancient Astronauts or Modern Myth - Claims and Counterclaims...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GX5bZvuD6kE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GX5bZvuD6kE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Dogon Tribe and Sirius B Ancient Astronauts or Modern Myth - Claims and Counterclaims...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gwup.org  
    Title: Das Sirius-Rätsel | | GWUP e  
-   Link: <a href="https://www.gwup.org/skeptiker-artikel/prae-astronautik/das-sirius-raetsel/" target="_blank" rel="noopener noreferrer nofollow">https://www.gwup.org/skeptiker-artikel/prae-astronautik/das-sirius-raetsel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6, 2003 — Das Sirius-Rätsel DAS SIRIUS-RÄTSEL Prä-Astronautik [Button: 📰 Lesemodus] Image: WAS WISSEN DIE DOGON ÜBER SIRIUS A UND B? Von...</p></details>
+   Link:<a href="https://www.gwup.org/skeptiker-artikel/prae-astronautik/das-sirius-raetsel/" target="_blank" rel="noopener noreferrer nofollow">https://www.gwup.org/skeptiker-artikel/prae-astronautik/das-sirius-raetsel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6, 2003 — Das Sirius-Rätsel DAS SIRIUS-RÄTSEL Prä-Astronautik [Button: 📰 Lesemodus] Image: WAS WISSEN DIE DOGON ÜBER SIRIUS A UND B? Von...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Dogon Tribe and Sirius B Ancient Astronauts or Modern Myth  
-   Link: <a href="https://www.youtube.com/watch?v=X4Qvn9c6X2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X4Qvn9c6X2U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dogon and the Sirius Mystery: Ancient Knowledge or Alien Contact?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X4Qvn9c6X2U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X4Qvn9c6X2U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Dogon and the Sirius Mystery: Ancient Knowledge or Alien Contact?...</p></details>

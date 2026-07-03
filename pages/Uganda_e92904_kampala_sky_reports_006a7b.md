@@ -257,19 +257,19 @@ image: /assets/images/Uganda_e92904_kampala_sky_reports_006a7b-Illustration-1-so
 Kampala occupies an unusual place in [Uganda]({{ 'what-really-happened-in-ugandas-ufo/' | relative_url }})’s small UFO record. Most of the country’s publicly traceable reports between independence and the end of the twentieth century came from or near the capital rather than from remote regions. Yet the surviving cases are notable less because they suggest extraordinary craft and more because they show how unusual sky events were interpreted in a city with limited astronomical reporting infrastructure, uneven media coverage, and few formal investigation channels.
 
 <img src="{{ "/assets/images/Uganda_e92904_kampala_sky_reports_006a7b-Illustration-1-dark.svg" | relative_url }}" alt="Kampala Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Uganda_e92904_kampala_sky_reports_006a7b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uganda_e92904_kampala_sky_reports_006a7b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Between 1962 and 1999, the most visible Kampala reports revolved around bright lights, objects apparently changing shape, and recurring observations that witnesses struggled to identify. In nearly every case, the evidence points toward a mixture of meteors, satellite-related phenomena, observational uncertainty, and later retelling through UFO publications and databases. That does not make the reports meaningless. Instead, they provide a rare window into how Uganda’s UFO narrative formed and why Kampala became the country’s main stage for unexplained sky stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
+Between 1962 and 1999, the most visible Kampala reports revolved around bright lights, objects apparently changing shape, and recurring observations that witnesses struggled to identify. In nearly every case, the evidence points toward a mixture of meteors, satellite-related phenomena, observational uncertainty, and later retelling through UFO publications and databases. That does not make the reports meaningless. Instead, they provide a rare window into how Uganda’s UFO narrative formed and why Kampala became the country’s main stage for unexplained sky stories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
 
 ## Why Kampala Became Uganda’s Main UFO Stage
 
 Unlike many rural sightings that remained local stories, reports from Kampala had a better chance of entering newspapers, diplomatic circles, or international UFO collections. The city was Uganda’s political and media centre, meaning that unusual events seen over Kampala were more likely to generate written records.
 
-The surviving archive is still remarkably thin. Researchers searching for Ugandan UFO material repeatedly encounter the same handful of references recycled across later databases. Even institutional archives related to sky observation contain only sparse references to Kampala during the 1960s. Smithsonian records associated with the Moonwatch satellite-tracking programme list Kampala correspondence for 1962 and 1964, showing that the city occasionally appeared in international observation networks, but not that it possessed a large UFO-investigation culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://siarchives.si.edu/collections/siris_arc_216819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siarchives.si.edu">[Smithsonian Institution Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siarchives.si.edu</span><span class="citation-popover-title">Smithsonian Institution Archives Smithsonian Astrophysical Observatory</span><span class="citation-popover-snippet">Moonwatch DivisionUganda: Kampala, 1962, 1964. Box 14 of 24. Uruguay: Montevideo, 1956-1963... SUFOI: Skandinavisk UFO Information, 1965...</span></span></span>
+The surviving archive is still remarkably thin. Researchers searching for Ugandan UFO material repeatedly encounter the same handful of references recycled across later databases. Even institutional archives related to sky observation contain only sparse references to Kampala during the 1960s. Smithsonian records associated with the Moonwatch satellite-tracking programme list Kampala correspondence for 1962 and 1964, showing that the city occasionally appeared in international observation networks, but not that it possessed a large UFO-investigation culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://siarchives.si.edu/collections/siris_arc_216819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siarchives.si.edu">[Smithsonian Institution Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siarchives.si.edu</span><span class="citation-popover-title">Smithsonian Institution Archives Smithsonian Astrophysical Observatory</span><span class="citation-popover-snippet">Moonwatch DivisionUganda: Kampala, 1962, 1964. Box 14 of 24. Uruguay: Montevideo, 1956-1963... SUFOI: Skandinavisk UFO Information, 1965...</span></span></span>
 
 This scarcity matters because Kampala’s UFO history is not a story of hundreds of reports revealing a pattern. It is a story of a few surviving incidents that became representative simply because almost nothing else was documented.
 
 ## The 1962 Meteor-Framed Report
 
-The earliest widely cited Kampala case dates to August 1962, only weeks before Uganda formally achieved independence. A report circulated through the UFO-oriented publication *Look-See* described a large unidentified object observed over Kampala during the night of 7 August 1962. One witness, identified as American Consul-General Hendrik Van Oss, reportedly described a bright object emitting a greenish-blue light that appeared to break apart while crossing the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
+The earliest widely cited Kampala case dates to August 1962, only weeks before Uganda formally achieved independence. A report circulated through the UFO-oriented publication *Look-See* described a large unidentified object observed over Kampala during the night of 7 August 1962. One witness, identified as American Consul-General Hendrik Van Oss, reportedly described a bright object emitting a greenish-blue light that appeared to break apart while crossing the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
 
 What makes the report important is not the sighting itself but the explanation that followed almost immediately. According to the same account, meteorological and geological officials concluded that the object was probably a giant meteorite rather than an unknown craft. The description fits several characteristics commonly associated with bright fireballs:
 
@@ -282,7 +282,7 @@ What makes the report important is not the sighting itself but the explanation t
 
 </div>
 
-These are classic features of meteoric events, especially large bolides that break apart while entering the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
+These are classic features of meteoric events, especially large bolides that break apart while entering the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ylDMrkHrWcg" title="Uganda Wins Independence (1962)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ylDMrkHrWcg" target="_blank" rel="noopener noreferrer">Uganda Wins Independence (1962)</a></p><p class="youtube-embed-meta">Channel: British Pathé &middot; Views: 1.6M &middot; Uploaded: April 2014 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ylDMrkHrWcg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ylDMrkHrWcg">Open on YouTube</a></p></div></div></div>
 
@@ -290,13 +290,13 @@ These are classic features of meteoric events, especially large bolides that bre
 
 The 1962 report established a pattern that would recur in later Kampala sightings. An unusual aerial event produced an initial UFO interpretation, but available evidence pointed toward a natural explanation.
 
-The case also illustrates how fragile Uganda’s early UFO record is. Modern researchers usually encounter the incident through secondary UFO publications rather than through preserved Ugandan government files or detailed local investigations. As a result, the event survives more as an example of UFO reporting culture than as a deeply documented mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
+The case also illustrates how fragile Uganda’s early UFO record is. Modern researchers usually encounter the incident through secondary UFO publications rather than through preserved Ugandan government files or detailed local investigations. As a result, the event survives more as an example of UFO reporting culture than as a deeply documented mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
 
 ## The 1995 Re-entry That Shaped Later Interpretations
 
 Although not always grouped with Kampala’s classic UFO reports, the January 1995 sighting is crucial for understanding how later cases were assessed.
 
-On 14 January 1995, observers in Kampala reported a dramatic object in the sky. Satellite re-entry researcher Ted Molczan later catalogued the event as the atmospheric re-entry of a Russian Molniya 1-88 rocket body, designated 1994-081B. His compilation linked the sighting to contemporary Ugandan reporting, including a *New Vision* article titled “Flying Object Explained”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries DRAFT 1</span><span class="citation-popover-snippet">Visually Observed Natural Re-entries of Earth Satellites20 May 2013 — Amooti, &quot;Flying Object Explained&quot;, The New Vision, Jan 20, 1995: 9...</span><span class="citation-popover-meta">Published: May 2013</span></span></span>
+On 14 January 1995, observers in Kampala reported a dramatic object in the sky. Satellite re-entry researcher Ted Molczan later catalogued the event as the atmospheric re-entry of a Russian Molniya 1-88 rocket body, designated 1994-081B. His compilation linked the sighting to contemporary Ugandan reporting, including a *New Vision* article titled “Flying Object Explained”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries DRAFT 1</span><span class="citation-popover-snippet">Visually Observed Natural Re-entries of Earth Satellites20 May 2013 — Amooti, &quot;Flying Object Explained&quot;, The New Vision, Jan 20, 1995: 9...</span><span class="citation-popover-meta">Published: May 2013</span></span></span>
 
 The significance of this identification extends beyond a single incident. Satellite and rocket-body re-entries often appear extraordinary to casual observers:
 
@@ -309,14 +309,14 @@ The significance of this identification extends beyond a single incident. Satell
 
 </div>
 
-By the late twentieth century, Kampala residents were increasingly seeing phenomena created by the expanding space age rather than only natural celestial events. The 1995 case became one of the strongest examples in Uganda of a UFO report later matched to a specific, identifiable object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Visually Observed Natural Re-entries of Earth Satellites25 Aug 2014 — Amooti, &quot;Flying Object Explained&quot;, The New Vision, Jan 20, 1995: 9...</span></span></span>
+By the late twentieth century, Kampala residents were increasingly seeing phenomena created by the expanding space age rather than only natural celestial events. The 1995 case became one of the strongest examples in Uganda of a UFO report later matched to a specific, identifiable object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Visually Observed Natural Re-entries of Earth Satellites25 Aug 2014 — Amooti, &quot;Flying Object Explained&quot;, The New Vision, Jan 20, 1995: 9...</span></span></span>
 
 <img src="{{ "/assets/images/Uganda_e92904_kampala_sky_reports_006a7b-Illustration-2-dark.svg" | relative_url }}" alt="Kampala Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Uganda_e92904_kampala_sky_reports_006a7b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uganda_e92904_kampala_sky_reports_006a7b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1999 Recurring Diamond-Shaped Light Account
 
 The other major late-century Kampala report entered international UFO databases in 1999. Unlike the 1962 sighting, which centred on a single dramatic event, this account described repeated observations over time.
 
-The witness reported seeing a diamond-shaped light that appeared on multiple occasions. The object was described as bright and unusual enough to attract continued attention rather than being dismissed as a passing aircraft. The case became one of the very few Ugandan entries preserved in international UFO-reporting systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Uganda/comments/1brh1re/do_we_have_any_ufo_sightings_in_kampalai_have_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Do we have any UFO sightings in Kampala...I have a shit...March 30, 2024 — Do we have any UFO sightings in Kampala...I have a shit...</span><span class="citation-popover-meta">Published: March 30, 2024</span></span></span>
+The witness reported seeing a diamond-shaped light that appeared on multiple occasions. The object was described as bright and unusual enough to attract continued attention rather than being dismissed as a passing aircraft. The case became one of the very few Ugandan entries preserved in international UFO-reporting systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Uganda/comments/1brh1re/do_we_have_any_ufo_sightings_in_kampalai_have_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Do we have any UFO sightings in Kampala...I have a shit...March 30, 2024 — Do we have any UFO sightings in Kampala...I have a shit...</span><span class="citation-popover-meta">Published: March 30, 2024</span></span></span>
 
 ### Why the case remains difficult to evaluate
 
@@ -344,9 +344,9 @@ The result is not a confirmed anomaly but an unresolved report with insufficient
 
 Viewed together, the 1962 and 1999 reports reveal a shift in the kinds of sky events entering Uganda’s UFO record.
 
-The 1962 account centred on a sudden luminous object crossing the sky and apparently breaking apart. The strongest explanation points toward a meteor or fireball. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
+The 1962 account centred on a sudden luminous object crossing the sky and apparently breaking apart. The strongest explanation points toward a meteor or fireball.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
 
-The 1995 event involved a spectacular but ultimately traceable space-age phenomenon: the re-entry of a rocket body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries latest draft</span><span class="citation-popover-snippet">Observed re-entries #22.xlsx26 Aug 2014 — Amooti, &quot;Flying Object Explained&quot;, The New Vision, Jan 20, 1995: 9.... Kiwanuka, &quot;Mubende hit...</span></span></span>
+The 1995 event involved a spectacular but ultimately traceable space-age phenomenon: the re-entry of a rocket body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries latest draft</span><span class="citation-popover-snippet">Observed re-entries #22.xlsx26 Aug 2014 — Amooti, &quot;Flying Object Explained&quot;, The New Vision, Jan 20, 1995: 9.... Kiwanuka, &quot;Mubende hit...</span></span></span>
 
 The 1999 report focused on recurring observations of a persistent light whose nature was never firmly established. Rather than a dramatic one-off event, it reflected the kind of long-term observational uncertainty often found in UFO databases.
 
@@ -355,203 +355,203 @@ Together these cases suggest that Kampala’s UFO history is less about close en
 <img src="{{ "/assets/images/Uganda_e92904_kampala_sky_reports_006a7b-Illustration-3-dark.svg" | relative_url }}" alt="Kampala Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Uganda_e92904_kampala_sky_reports_006a7b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uganda_e92904_kampala_sky_reports_006a7b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Kampala’s Reports Can and Cannot Show
 
-The strongest conclusion supported by the evidence is that Kampala generated a small but persistent record of unusual sky observations during the second half of the twentieth century. Some were dramatic enough to enter newspapers, diplomatic conversations, or international UFO archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
+The strongest conclusion supported by the evidence is that Kampala generated a small but persistent record of unusual sky observations during the second half of the twentieth century. Some were dramatic enough to enter newspapers, diplomatic conversations, or international UFO archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
 
 What the reports do not show is a sustained pattern of well-documented anomalous craft. The best-documented events either received plausible conventional explanations or lacked enough evidence to move beyond speculation.
 
-That distinction is important when comparing Uganda with countries that possess extensive UFO archives. Kampala’s significance comes from being one of the few Ugandan locations where reports were recorded at all. The city provides a case study in how meteors, satellite re-entries, recurring lights, and limited documentation combined to create a national UFO narrative that remained small, fragmented, and largely unresolved by the end of the twentieth century. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
+That distinction is important when comparing Uganda with countries that possess extensive UFO archives. Kampala’s significance comes from being one of the few Ugandan locations where reports were recorded at all. The city provides a case study in how meteors, satellite re-entries, recurring lights, and limited documentation combined to create a national UFO narrative that remained small, fragmented, and largely unresolved by the end of the twentieth century.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Uganda UFO Sighting and Media Coverage &#124; PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3YOrz1eSbGk" title="Uganda Explained in 11 Minutes (History, Geography, &amp; Culture)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3YOrz1eSbGk" target="_blank" rel="noopener noreferrer">Uganda Explained in 11 Minutes (History, Geography, &amp; Culture)</a></p><p class="youtube-embed-meta">Channel: Opentiera &middot; Views: 69.6K &middot; Uploaded: May 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3YOrz1eSbGk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3YOrz1eSbGk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Kampala Became Uganda&#x27;s Main UFO Stage. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Kampala Became Uganda&#x27;s Main UFO Stage. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits a page about how reports emerge, are recorded, and are classified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page about how reports emerge, are recorded, and are classified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Demonstrates how eyewitness reports can be assessed against available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how eyewitness reports can be assessed against available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how local cultures interpret unexplained aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how local cultures interpret unexplained aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
+</h4>
+<p class="fr-book-author">By Ralph Blumenthal</p>
         
-        <p class="fr-book-desc">Looks at witness narratives and belief formation around unusual experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Looks at witness narratives and belief formation around unusual experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kampala-became-uganda-s-main-ufo-stage-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-kampala-became-uganda-s-main-ufo-stage-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ That distinction is important when comparing Uganda with countries that possess 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ That distinction is important when comparing Uganda with countries that possess 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ That distinction is important when comparing Uganda with countries that possess 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ That distinction is important when comparing Uganda with countries that possess 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ That distinction is important when comparing Uganda with countries that possess 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,96 +757,96 @@ That distinction is important when comparing Uganda with countries that possess 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Uganda UFO Sighting and Media Coverage | PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</p></details>
+   Link:<a href="https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/458224926/Weekly-Research-Magazines-Look-See-Vol-5-No-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uganda UFO Sighting and Media Coverage | PDFUGAlfDA UFO CALLED METEOR. ala, Uganda - August 9 1962 - (LS) - A large unidentified fl...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries DRAFT 1  
-   Link: <a href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visually Observed Natural Re-entries of Earth Satellites20 May 2013 — Amooti, &quot;Flying Object Explained&quot;, The New Vision, Jan 20, 1995: 9...</p></details>
+   Link:<a href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visually Observed Natural Re-entries of Earth Satellites20 May 2013 — Amooti, &quot;Flying Object Explained&quot;, The New Vision, Jan 20, 1995: 9...</p></details>
    Published: May 2013  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: satobs.org  
-   Link: <a href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visually Observed Natural Re-entries of Earth Satellites25 Aug 2014 — Amooti, &quot;Flying Object Explained&quot;, The New Vision, Jan 20, 1995: 9...</p></details>
+   Link:<a href="https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Visually_Observed_Natural_Re-entries_DRAFT_8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visually Observed Natural Re-entries of Earth Satellites25 Aug 2014 — Amooti, &quot;Flying Object Explained&quot;, The New Vision, Jan 20, 1995: 9...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Uganda/comments/1brh1re/do_we_have_any_ufo_sightings_in_kampalai_have_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Uganda/comments/1brh1re/do_we_have_any_ufo_sightings_in_kampalai_have_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do we have any UFO sightings in Kampala...I have a shit...March 30, 2024 — Do we have any UFO sightings in Kampala...I have a shit...</p></details>
+   Link:<a href="https://www.reddit.com/r/Uganda/comments/1brh1re/do_we_have_any_ufo_sightings_in_kampalai_have_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Uganda/comments/1brh1re/do_we_have_any_ufo_sightings_in_kampalai_have_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do we have any UFO sightings in Kampala...I have a shit...March 30, 2024 — Do we have any UFO sightings in Kampala...I have a shit...</p></details>
    Published: March 30, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — Amooti, &quot;Flying Object Explained&quot;, The New Vision, Jan 20, 1995: 9.... Kiwanuka, &quot;Mubende hit...</p></details>
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — Amooti, &quot;Flying Object Explained&quot;, The New Vision, Jan 20, 1995: 9.... Kiwanuka, &quot;Mubende hit...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: siarchives.si.edu  
    Title: Smithsonian Institution Archives Smithsonian Astrophysical Observatory  
-   Link: <a href="https://siarchives.si.edu/collections/siris_arc_216819" target="_blank" rel="noopener noreferrer nofollow">https://siarchives.si.edu/collections/siris_arc_216819</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moonwatch DivisionUganda: Kampala, 1962, 1964. Box 14 of 24. Uruguay: Montevideo, 1956-1963... SUFOI: Skandinavisk UFO Information, 1965...</p></details>
+   Link:<a href="https://siarchives.si.edu/collections/siris_arc_216819" target="_blank" rel="noopener noreferrer nofollow">https://siarchives.si.edu/collections/siris_arc_216819</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moonwatch DivisionUganda: Kampala, 1962, 1964. Box 14 of 24. Uruguay: Montevideo, 1956-1963... SUFOI: Skandinavisk UFO Information, 1965...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: paradigmresearchgroup.org  
-   Link: <a href="https://www.paradigmresearchgroup.org/News_Items-3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.paradigmresearchgroup.org/News_Items-3.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News Coverage ReprintsOn a bright moonlit night 33 years ago this summer, Mathews said, he saw a large unidentified flying object hoverin...</p></details>
+   Link:<a href="https://www.paradigmresearchgroup.org/News_Items-3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.paradigmresearchgroup.org/News_Items-3.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News Coverage ReprintsOn a bright moonlit night 33 years ago this summer, Mathews said, he saw a large unidentified flying object hoverin...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: zulunation.com  
-   Link: <a href="https://www.zulunation.com/oldsitebak/news.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zulunation.com/oldsitebak/news.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to The Official site of The Universal Zulu NationI am here in Uganda with a Channel 4-news team, to help them prepare a front-lin...</p></details>
+   Link:<a href="https://www.zulunation.com/oldsitebak/news.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zulunation.com/oldsitebak/news.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to The Official site of The Universal Zulu NationI am here in Uganda with a Channel 4-news team, to help them prepare a front-lin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: onthisday in 1987 the guardian highlighted these intriguing stories on its cover  
-   Link: <a href="https://www.facebook.com/guardianng/posts/onthisday-in-1987-the-guardian-highlighted-these-intriguing-stories-on-its-cover/865003801653718/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/guardianng/posts/onthisday-in-1987-the-guardian-highlighted-these-intriguing-stories-on-its-cover/865003801653718/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>#OnThisDay in 1987, The Guardian highlighted these...1962 – NS Savannah, the first nuclear-powered cargo- passenger ship... Uganda,” fl...</p></details>
+   Link:<a href="https://www.facebook.com/guardianng/posts/onthisday-in-1987-the-guardian-highlighted-these-intriguing-stories-on-its-cover/865003801653718/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/guardianng/posts/onthisday-in-1987-the-guardian-highlighted-these-intriguing-stories-on-its-cover/865003801653718/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#OnThisDay in 1987, The Guardian highlighted these...1962 – NS Savannah, the first nuclear-powered cargo- passenger ship... Uganda,” fl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: yumpu.com  
-   Link: <a href="https://www.yumpu.com/en/document/view/35813772/11-30-12-nsid-listing-by-category-page-1-of-335-nicap" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/35813772/11-30-12-nsid-listing-by-category-page-1-of-335-nicap</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11/30/12 NSID Listing by Category Page 1 of 335 - Nicap6 Apr 2014 — Hartford saw an oblong UFO with halo (August 8); an egg-shaped UFO wa...</p></details>
+   Link:<a href="https://www.yumpu.com/en/document/view/35813772/11-30-12-nsid-listing-by-category-page-1-of-335-nicap" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/35813772/11-30-12-nsid-listing-by-category-page-1-of-335-nicap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11/30/12 NSID Listing by Category Page 1 of 335 - Nicap6 Apr 2014 — Hartford saw an oblong UFO with halo (August 8); an egg-shaped UFO wa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: althistory.fandom.com  
    Title: Wow! Alien Signal Confirmed  
-   Link: <a href="https://althistory.fandom.com/wiki/Wow%21_Alien_Signal_Confirmed" target="_blank" rel="noopener noreferrer nofollow">https://althistory.fandom.com/wiki/Wow%21_Alien_Signal_Confirmed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comWow! Alien Signal ConfirmedDecember 12th, 1978: Fortunato Zanfretta of Torriglia, Italy proclaims UFO the possibility of UFO la...</p></details>
+   Link:<a href="https://althistory.fandom.com/wiki/Wow%21_Alien_Signal_Confirmed" target="_blank" rel="noopener noreferrer nofollow">https://althistory.fandom.com/wiki/Wow%21_Alien_Signal_Confirmed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comWow! Alien Signal ConfirmedDecember 12th, 1978: Fortunato Zanfretta of Torriglia, Italy proclaims UFO the possibility of UFO la...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School UFO incidentAlthough some witnesses interpreted the fireball as a comet or meteor, it resulted in a wave of UFO mania in...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School UFO incidentAlthough some witnesses interpreted the fireball as a comet or meteor, it resulted in a wave of UFO mania in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nicap.org  
    Title: NSID DBListingby Category  
-   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyCategory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyCategory.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hawthorne. CT. 1. The object was cigar-shaped, emitting a pink glow at its front and a light swirl of grey smoke along its sides. It...R...</p></details>
+   Link:<a href="https://www.nicap.org/NSID/NSID_DBListingbyCategory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyCategory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hawthorne. CT. 1. The object was cigar-shaped, emitting a pink glow at its front and a light swirl of grey smoke along its sides. It...R...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dokumen.pub  
    Title: borderlands 0879517247  
-   Link: <a href="https://dokumen.pub/borderlands-0879517247.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/borderlands-0879517247.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1962. Therese claimed to have lived for three decades on nothing but... UFO writer Philip Klass has proposed that the UFO was actually a...</p></details>
+   Link:<a href="https://dokumen.pub/borderlands-0879517247.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/borderlands-0879517247.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1962. Therese claimed to have lived for three decades on nothing but... UFO writer Philip Klass has proposed that the UFO was actually a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nicap.org  
    Title: NSID DBListingby Cat2  
-   Link: <a href="https://www.nicap.org/NSID_DBListingbyCat2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID_DBListingbyCat2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of an egg-shaped UFO with two rows of colored lights on its underside was received by state police. Charles P. Kenyon, 39...Read...</p></details>
+   Link:<a href="https://www.nicap.org/NSID_DBListingbyCat2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID_DBListingbyCat2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report of an egg-shaped UFO with two rows of colored lights on its underside was received by state police. Charles P. Kenyon, 39...Read...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nicap.org  
    Title: NSID DBListingby City  
-   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11/30/12 NSID Listing by City Page 1 of 33530 Nov 2012 — A woman saw a triangular object with green lights at two points and a red light...</p></details>
+   Link:<a href="https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11/30/12 NSID Listing by City Page 1 of 33530 Nov 2012 — A woman saw a triangular object with green lights at two points and a red light...</p></details>

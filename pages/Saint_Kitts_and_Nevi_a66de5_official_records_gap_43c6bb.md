@@ -257,30 +257,30 @@ image: /assets/images/Saint_Kitts_and_Nevi_a66de5_official_records_gap_43c6bb-Il
 [Saint Kitts and Nevis]({{ 'saint-kitts-and-nevis/' | relative_url }}) has no known public national UFO archive, no declassified government case collection, and no dedicated official investigative body comparable to the historical UFO desks once maintained by some larger states. That absence shapes nearly every serious attempt to evaluate unusual aerial reports from the federation. In practice, the first questions are not about extraterrestrial explanations. They are about records: aviation activity, launch schedules, weather conditions, maritime traffic, radar coverage, witness timing, photographs, and whether any official report was filed at all.
 
 <img src="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_official_records_gap_43c6bb-Illustration-1-dark.svg" | relative_url }}" alt="Records Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_official_records_gap_43c6bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_official_records_gap_43c6bb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The country’s small size creates an unusual verification problem. A bright object seen from Basseterre, a yacht offshore, or a hillside in Nevis may be visible across a large part of the federation, yet there is no central public database where such reports are collected and cross-checked. As a result, many claims remain anecdotes, while events that initially appear mysterious can often only be tested by consulting aviation and spaceflight records maintained outside Saint Kitts and Nevis itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.civilaviation.kn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civilaviation.kn">[civilaviation.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civilaviation.kn</span><span class="citation-popover-snippet">Civil Aviation – Government of St. Kitts NevisTravel Tips · Management · Register An Aircraft · Make A Report · Airports · Training · Air...</span></span></span>
+The country’s small size creates an unusual verification problem. A bright object seen from Basseterre, a yacht offshore, or a hillside in Nevis may be visible across a large part of the federation, yet there is no central public database where such reports are collected and cross-checked. As a result, many claims remain anecdotes, while events that initially appear mysterious can often only be tested by consulting aviation and spaceflight records maintained outside Saint Kitts and Nevis itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.civilaviation.kn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civilaviation.kn">[civilaviation.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civilaviation.kn</span><span class="citation-popover-snippet">Civil Aviation – Government of St. Kitts NevisTravel Tips · Management · Register An Aircraft · Make A Report · Airports · Training · Air...</span></span></span>
 
 ## What Official Records Appear to Exist
 
 The strongest official record systems relevant to unexplained aerial sightings in Saint Kitts and Nevis are aviation systems rather than UFO systems.
 
-The federation maintains a Civil Aviation Division and operates within a regulated civil aviation framework established by the Civil Aviation Act. The Civil Aviation Division oversees aviation administration, reporting processes, airports, and air-carrier activity. Public information confirms the existence of reporting channels for aviation concerns and operational matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.civilaviation.kn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civilaviation.kn">[civilaviation.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civilaviation.kn</span><span class="citation-popover-snippet">Civil Aviation – Government of St. Kitts NevisTravel Tips · Management · Register An Aircraft · Make A Report · Airports · Training · Air...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.kn/civil-aviation-about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.kn">[2gov.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.kn</span><span class="citation-popover-snippet">Aviation About UsThe Department of Civil Aviation is the national body in the Ministry of Foreign Affairs and Aviation, which governs civ...</span></span></span>
+The federation maintains a Civil Aviation Division and operates within a regulated civil aviation framework established by the Civil Aviation Act. The Civil Aviation Division oversees aviation administration, reporting processes, airports, and air-carrier activity. Public information confirms the existence of reporting channels for aviation concerns and operational matters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.civilaviation.kn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civilaviation.kn">[civilaviation.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civilaviation.kn</span><span class="citation-popover-snippet">Civil Aviation – Government of St. Kitts NevisTravel Tips · Management · Register An Aircraft · Make A Report · Airports · Training · Air...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.kn/civil-aviation-about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.kn">[2gov.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.kn</span><span class="citation-popover-snippet">Aviation About UsThe Department of Civil Aviation is the national body in the Ministry of Foreign Affairs and Aviation, which governs civ...</span></span></span>
 
 What is not evident, however, is a public national archive dedicated to unidentified aerial phenomena, unexplained aerial sightings, or historical UFO investigations. Unlike countries that have released military or defence-related UFO files through national archives, Saint Kitts and Nevis has no widely documented public repository of that type.
 
 This distinction matters because a sighting report and an investigated case are not the same thing.
 
-A witness may post on social media, contact a journalist, or submit a report to a civilian database such as the National UFO Reporting Center (NUFORC). Yet unless supporting records are preserved and reviewed, the event remains difficult to verify years later. The problem becomes even more severe when reports emerge long after the alleged incident, as happened with some historical Caribbean UFO accounts that were only formally recorded decades after the claimed observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+A witness may post on social media, contact a journalist, or submit a report to a civilian database such as the National UFO Reporting Center (NUFORC). Yet unless supporting records are preserved and reviewed, the event remains difficult to verify years later. The problem becomes even more severe when reports emerge long after the alleged incident, as happened with some historical Caribbean UFO accounts that were only formally recorded decades after the claimed observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 In practical terms, researchers looking into a Saint Kitts and Nevis sighting would likely need to assemble evidence from multiple unrelated sources:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Civil aviation records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.civilaviation.kn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civilaviation.kn">[civilaviation.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civilaviation.kn</span><span class="citation-popover-snippet">Civil Aviation – Government of St. Kitts NevisTravel Tips · Management · Register An Aircraft · Make A Report · Airports · Training · Air...</span></span></span>
+* Civil aviation records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.civilaviation.kn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civilaviation.kn">[civilaviation.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civilaviation.kn</span><span class="citation-popover-snippet">Civil Aviation – Government of St. Kitts NevisTravel Tips · Management · Register An Aircraft · Make A Report · Airports · Training · Air...</span></span></span>
 * Airport activity logs.
 * Flight tracking information.
 * Maritime vessel positions.
 * Meteorological data.
-* Rocket launch schedules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: associatestimes.com">[associatestimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">associatestimes.com</span><span class="citation-popover-title">spacex launch misinterpreted as ufo by locals in st kitts and nevis</span><span class="citation-popover-snippet">SpaceX launch misinterpreted as UFO by locals in St Kitts...20 Nov 2024 — The launch of the SpaceX Starship rocket which took place last...</span></span></span>
+* Rocket launch schedules.<span class="citation-chip-wrap"><a class="citation-chip" href="https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: associatestimes.com">[associatestimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">associatestimes.com</span><span class="citation-popover-title">spacex launch misinterpreted as ufo by locals in st kitts and nevis</span><span class="citation-popover-snippet">SpaceX launch misinterpreted as UFO by locals in St Kitts...20 Nov 2024 — The launch of the SpaceX Starship rocket which took place last...</span></span></span>
 * Contemporary news reports.
 * Original witness statements and images.
 
@@ -292,7 +292,7 @@ Without that reconstruction process, most cases remain untestable stories rather
 
 The federation's geography makes aviation verification especially important.
 
-Saint Kitts and Nevis sits within a busy Caribbean air corridor. Aircraft routinely approach, depart, and transit through regional airspace. The country's aviation infrastructure includes Robert L. Bradshaw International Airport in St Kitts and Vance W. Amory International Airport in Nevis, while additional regional traffic moves between neighbouring islands and international destinations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.civilaviation.kn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civilaviation.kn">[civilaviation.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civilaviation.kn</span><span class="citation-popover-snippet">Civil Aviation – Government of St. Kitts NevisTravel Tips · Management · Register An Aircraft · Make A Report · Airports · Training · Air...</span></span></span>
+Saint Kitts and Nevis sits within a busy Caribbean air corridor. Aircraft routinely approach, depart, and transit through regional airspace. The country's aviation infrastructure includes Robert L. Bradshaw International Airport in St Kitts and Vance W. Amory International Airport in Nevis, while additional regional traffic moves between neighbouring islands and international destinations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.civilaviation.kn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civilaviation.kn">[civilaviation.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civilaviation.kn</span><span class="citation-popover-snippet">Civil Aviation – Government of St. Kitts NevisTravel Tips · Management · Register An Aircraft · Make A Report · Airports · Training · Air...</span></span></span>
 
 Because many UFO reports involve lights rather than structured objects observed at close range, aviation explanations must be examined first.
 
@@ -319,7 +319,7 @@ The absence of publicly released aviation cross-checks in most Saint Kitts and N
 
 One of the clearest recent examples of the verification gap emerged in late 2024.
 
-Residents across Saint Kitts and Nevis reported unusual lights in the sky that circulated online as a possible UFO event. Local reporting later connected the observations to a SpaceX Starship launch from Texas. The event was visible across parts of the Caribbean and generated significant discussion because the rocket plume appeared unusual to observers unfamiliar with modern launch signatures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: associatestimes.com">[associatestimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">associatestimes.com</span><span class="citation-popover-title">spacex launch misinterpreted as ufo by locals in st kitts and nevis</span><span class="citation-popover-snippet">SpaceX launch misinterpreted as UFO by locals in St Kitts...20 Nov 2024 — The launch of the SpaceX Starship rocket which took place last...</span></span></span>
+Residents across Saint Kitts and Nevis reported unusual lights in the sky that circulated online as a possible UFO event. Local reporting later connected the observations to a SpaceX Starship launch from Texas. The event was visible across parts of the Caribbean and generated significant discussion because the rocket plume appeared unusual to observers unfamiliar with modern launch signatures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: associatestimes.com">[associatestimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">associatestimes.com</span><span class="citation-popover-title">spacex launch misinterpreted as ufo by locals in st kitts and nevis</span><span class="citation-popover-snippet">SpaceX launch misinterpreted as UFO by locals in St Kitts...20 Nov 2024 — The launch of the SpaceX Starship rocket which took place last...</span></span></span>
 
 This case illustrates an increasingly important reality for Caribbean UFO reports.
 
@@ -335,7 +335,7 @@ Large rocket launches can create:
 
 </div>
 
-Such effects have repeatedly generated UFO reports in North America, Europe, and the Caribbean. Visible launch schedules are therefore becoming one of the most important verification tools available to investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — The launch was also clearly visible from the air. Rafael Vecchi was on a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">alien hopes crash to earth glowing spiral uk spacex rocket</span><span class="citation-popover-snippet">Alien hopes crash to earth as glowing spiral over UK traced...25 Mar 2025 — Swirl visible for several minutes is thought to have been ca...</span></span></span>
+Such effects have repeatedly generated UFO reports in North America, Europe, and the Caribbean. Visible launch schedules are therefore becoming one of the most important verification tools available to investigators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — The launch was also clearly visible from the air. Rafael Vecchi was on a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">alien hopes crash to earth glowing spiral uk spacex rocket</span><span class="citation-popover-snippet">Alien hopes crash to earth as glowing spiral over UK traced...25 Mar 2025 — Swirl visible for several minutes is thought to have been ca...</span></span></span>
 
 The 2024 Saint Kitts and Nevis incident is notable because a conventional explanation became available relatively quickly. Many older reports never received that level of cross-checking, leaving them in an uncertain category where neither confirmation nor debunking is possible.
 
@@ -400,7 +400,7 @@ Cross-referencing aircraft and vessel activity often resolves otherwise puzzling
 
 Reports submitted promptly are generally more useful than recollections submitted years later.
 
-These practices are common in aviation safety investigations and increasingly recommended in professional discussions about unidentified aerial phenomena reporting. Modern aviation-safety advocates have also argued for more standardised reporting systems that preserve data before memories fade. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiaa.org">[AIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiaa.org</span><span class="citation-popover-title">Shaping the future of aerospace ADDRESSING THE UNKNOWN</span><span class="citation-popover-snippet">Shaping the future of aerospaceADDRESSING THE UNKNOWN:August 8, 2025 — Put simply, our goal is to describe the processes by which...</span><span class="citation-popover-meta">Published: August 8, 2025</span></span></span> - Shaping the future of aerospace
+These practices are common in aviation safety investigations and increasingly recommended in professional discussions about unidentified aerial phenomena reporting. Modern aviation-safety advocates have also argued for more standardised reporting systems that preserve data before memories fade.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiaa.org">[AIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiaa.org</span><span class="citation-popover-title">Shaping the future of aerospace ADDRESSING THE UNKNOWN</span><span class="citation-popover-snippet">Shaping the future of aerospaceADDRESSING THE UNKNOWN:August 8, 2025 — Put simply, our goal is to describe the processes by which...</span><span class="citation-popover-meta">Published: August 8, 2025</span></span></span> - Shaping the future of aerospace
 
 <img src="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_official_records_gap_43c6bb-Illustration-3-dark.svg" | relative_url }}" alt="Records Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_official_records_gap_43c6bb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Kitts_and_Nevi_a66de5_official_records_gap_43c6bb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Records Gap Matters More Than the Sightings Count
@@ -409,199 +409,199 @@ The most important lesson from Saint Kitts and Nevis is not that the country has
 
 The more significant issue is that the federation lacks a visible institutional pathway for preserving, analysing, and publicly reviewing unusual aerial observations. That means even potentially valuable cases can disappear into social media posts, private conversations, or isolated database entries before they are properly examined.
 
-As a result, the central challenge is not proving extraordinary explanations. It is creating enough reliable documentation to determine whether a sighting was an aircraft, a rocket launch, an atmospheric effect, a misidentification, or something genuinely unexplained. Until that documentation exists, the largest gap in Saint Kitts and Nevis UFO research remains a records gap rather than an evidence gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.civilaviation.kn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civilaviation.kn">[civilaviation.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civilaviation.kn</span><span class="citation-popover-snippet">Civil Aviation – Government of St. Kitts NevisTravel Tips · Management · Register An Aircraft · Make A Report · Airports · Training · Air...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawcommission.gov.kn/wp-content/documents/Act17TOC/Ch-08_03-Civil-Aviation-Act.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawcommission.gov.kn">[2lawcommission.gov.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawcommission.gov.kn</span><span class="citation-popover-title">Ch 08 03 Civil Aviation Act</span><span class="citation-popover-snippet">Civil Aviation Act14 Jul 2004 — This is a revised edition of the law, prepared by the Law Commission under the authority of the. Law Comm...</span></span></span>
+As a result, the central challenge is not proving extraordinary explanations. It is creating enough reliable documentation to determine whether a sighting was an aircraft, a rocket launch, an atmospheric effect, a misidentification, or something genuinely unexplained. Until that documentation exists, the largest gap in Saint Kitts and Nevis UFO research remains a records gap rather than an evidence gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.civilaviation.kn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: civilaviation.kn">[civilaviation.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">civilaviation.kn</span><span class="citation-popover-snippet">Civil Aviation – Government of St. Kitts NevisTravel Tips · Management · Register An Aircraft · Make A Report · Airports · Training · Air...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://lawcommission.gov.kn/wp-content/documents/Act17TOC/Ch-08_03-Civil-Aviation-Act.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawcommission.gov.kn">[2lawcommission.gov.kn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawcommission.gov.kn</span><span class="citation-popover-title">Ch 08 03 Civil Aviation Act</span><span class="citation-popover-snippet">Civil Aviation Act14 Jul 2004 — This is a revised edition of the law, prepared by the Law Commission under the authority of the. Law Comm...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MH9CVNPYL2Q" title="Debris From SpaceX Launch Spotted Over Atlantic Ocean" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MH9CVNPYL2Q" target="_blank" rel="noopener noreferrer">Debris From SpaceX Launch Spotted Over Atlantic Ocean</a></p><p class="youtube-embed-meta">Channel: FOX Weather &middot; Views: 119.5K &middot; Uploaded: January 2025 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MH9CVNPYL2Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MH9CVNPYL2Q">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Would a Real UFO Inquiry Start?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Would a Real UFO Inquiry Start?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses how reports should be assessed and classified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how reports should be assessed and classified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Focuses heavily on records, witnesses and official information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on records, witnesses and official information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Closely matches the page&#x27;s emphasis on records, verification and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches the page&#x27;s emphasis on records, verification and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides historical context for assessing unusual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for assessing unusual reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-a-real-ufo-inquiry-start-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-a-real-ufo-inquiry-start-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ As a result, the central challenge is not proving extraordinary explanations. It
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ As a result, the central challenge is not proving extraordinary explanations. It
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ As a result, the central challenge is not proving extraordinary explanations. It
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ As a result, the central challenge is not proving extraordinary explanations. It
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -766,7 +766,7 @@ As a result, the central challenge is not proving extraordinary explanations. It
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -804,146 +804,145 @@ As a result, the central challenge is not proving extraordinary explanations. It
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: civilaviation.kn  
-   Link: <a href="https://www.civilaviation.kn/" target="_blank" rel="noopener noreferrer nofollow">https://www.civilaviation.kn/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation – Government of St. Kitts NevisTravel Tips · Management · Register An Aircraft · Make A Report · Airports · Training · Air...</p></details>
+   Link:<a href="https://www.civilaviation.kn/" target="_blank" rel="noopener noreferrer nofollow">https://www.civilaviation.kn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation – Government of St. Kitts NevisTravel Tips · Management · Register An Aircraft · Make A Report · Airports · Training · Air...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lawcommission.gov.kn  
    Title: Ch 08 03 Civil Aviation Act  
-   Link: <a href="https://lawcommission.gov.kn/wp-content/documents/Act17TOC/Ch-08_03-Civil-Aviation-Act.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lawcommission.gov.kn/wp-content/documents/Act17TOC/Ch-08_03-Civil-Aviation-Act.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Act14 Jul 2004 — This is a revised edition of the law, prepared by the Law Commission under the authority of the. Law Comm...</p></details>
+   Link:<a href="https://lawcommission.gov.kn/wp-content/documents/Act17TOC/Ch-08_03-Civil-Aviation-Act.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lawcommission.gov.kn/wp-content/documents/Act17TOC/Ch-08_03-Civil-Aviation-Act.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Act14 Jul 2004 — This is a revised edition of the law, prepared by the Law Commission under the authority of the. Law Comm...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gov.kn  
-   Link: <a href="https://www.gov.kn/civil-aviation-about-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.kn/civil-aviation-about-us/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation About UsThe Department of Civil Aviation is the national body in the Ministry of Foreign Affairs and Aviation, which governs civ...</p></details>
+   Link:<a href="https://www.gov.kn/civil-aviation-about-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.kn/civil-aviation-about-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation About UsThe Department of Civil Aviation is the national body in the Ministry of Foreign Affairs and Aviation, which governs civ...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO...</p></details>
    Published: September 6, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationLOCATION, REPORT COUNT. USA - Unspecified, 120. USA - Alaska, 676. USA - Alabama, 1529. USA - Arkansas, 1367. U...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationLOCATION, REPORT COUNT. USA - Unspecified, 120. USA - Alaska, 676. USA - Alabama, 1529. USA - Arkansas, 1367. U...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: associatestimes.com  
    Title: spacex launch misinterpreted as ufo by locals in st kitts and nevis  
-   Link: <a href="https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis" target="_blank" rel="noopener noreferrer nofollow">https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launch misinterpreted as UFO by locals in St Kitts...20 Nov 2024 — The launch of the SpaceX Starship rocket which took place last...</p></details>
+   Link:<a href="https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis" target="_blank" rel="noopener noreferrer nofollow">https://associatestimes.com/saint-kitts-nevis/spacex-launch-misinterpreted-as-ufo-by-locals-in-st-kitts-and-nevis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launch misinterpreted as UFO by locals in St Kitts...20 Nov 2024 — The launch of the SpaceX Starship rocket which took place last...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: spacex.com  
    Title: Space XSpace X  
-   Link: <a href="https://www.spacex.com/launches" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LaunchesStarship&#x27;s Twelfth Flight Test. Starship, Pad 2, Starbase, Expended, May 21, 2026. Starlink Mission. Falcon 9, SLC-4E, C...</p></details>
+   Link:<a href="https://www.spacex.com/launches" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LaunchesStarship&#x27;s Twelfth Flight Test. Starship, Pad 2, Starbase, Expended, May 21, 2026. Starlink Mission. Falcon 9, SLC-4E, C...</p></details>
    Published: May 21, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — The launch was also clearly visible from the air. Rafael Vecchi was on a...</p></details>
+   Link:<a href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No, It&#x27;s a SpaceX Rocket! These Falcon 9 Launch...24 Dec 2017 — The launch was also clearly visible from the air. Rafael Vecchi was on a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aiaa.org  
    Title: Shaping the future of aerospace ADDRESSING THE UNKNOWN  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping the future of aerospaceADDRESSING THE UNKNOWN:August 8, 2025 — Put simply, our goal is to describe the processes by which...</p></details>
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping the future of aerospaceADDRESSING THE UNKNOWN:August 8, 2025 — Put simply, our goal is to describe the processes by which...</p></details>
    Published: August 8, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsThis example UFO report was submitted to the Civil Aviation Authority, who then passed it on to the MOD. These reports provide...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsThis example UFO report was submitted to the Civil Aviation Authority, who then passed it on to the MOD. These reports provide...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=cSt._Kitts" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cSt._Kitts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country St. KittsNUFORC Reports for Country &#x27;St. Kitts&#x27;. Search: Link, Occurred, City, State, Country, Shape. Open, 11...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=cSt._Kitts" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cSt._Kitts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country St. KittsNUFORC Reports for Country &#x27;St. Kitts&#x27;. Search: Link, Occurred, City, State, Country, Shape. Open, 11...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: spacex.com  
    Title: Space X  
-   Link: <a href="https://www.spacex.com/updates" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/updates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UpdatesSpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutioni...</p></details>
+   Link:<a href="https://www.spacex.com/updates" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/updates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UpdatesSpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutioni...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flying objects (UFO)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: alien hopes crash to earth glowing spiral uk spacex rocket  
-   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien hopes crash to earth as glowing spiral over UK traced...25 Mar 2025 — Swirl visible for several minutes is thought to have been ca...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien hopes crash to earth as glowing spiral over UK traced...25 Mar 2025 — Swirl visible for several minutes is thought to have been ca...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spaceflightnow.com  
-   Link: <a href="https://spaceflightnow.com/launch-schedule/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/launch-schedule/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Launch ScheduleA regularly updated listing of planned orbital missions from spaceports around the globe. Dates and times are given in Gre...</p></details>
+   Link:<a href="https://spaceflightnow.com/launch-schedule/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/launch-schedule/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Launch ScheduleA regularly updated listing of planned orbital missions from spaceports around the globe. Dates and times are given in Gre...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/KN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/KN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSaint Kitts &amp; NevisSome Caribbean Aeronautical charts are available from the FAA&#x27;s AeroNav Products, http...</p></details>
+   Link:<a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/KN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/KN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationSaint Kitts &amp; NevisSome Caribbean Aeronautical charts are available from the FAA&#x27;s AeroNav Products, http...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: airsafety.aero  
-   Link: <a href="https://www.airsafety.aero/airports-and-air-traffic-services/aeronautical-informaton-publications" target="_blank" rel="noopener noreferrer nofollow">https://www.airsafety.aero/airports-and-air-traffic-services/aeronautical-informaton-publications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautical Information PublicationsAn AIP is a manual containing local regulations and procedures, usually issued by the respective civ...</p></details>
+   Link:<a href="https://www.airsafety.aero/airports-and-air-traffic-services/aeronautical-informaton-publications" target="_blank" rel="noopener noreferrer nofollow">https://www.airsafety.aero/airports-and-air-traffic-services/aeronautical-informaton-publications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautical Information PublicationsAn AIP is a manual containing local regulations and procedures, usually issued by the respective civ...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/176530020440/posts/10169997893765441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/176530020440/posts/10169997893765441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Largest Saint Kitts and Nevis Facebook GroupThe launch of the SpaceX Starship rocket which took place last evening in Texas, USA was misi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/176530020440/posts/10169997893765441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/176530020440/posts/10169997893765441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Largest Saint Kitts and Nevis Facebook GroupThe launch of the SpaceX Starship rocket which took place last evening in Texas, USA was misi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nextspaceflight.com  
-   Link: <a href="https://nextspaceflight.com/starship/" target="_blank" rel="noopener noreferrer nofollow">https://nextspaceflight.com/starship/</a>  
+   Link:<a href="https://nextspaceflight.com/starship/" target="_blank" rel="noopener noreferrer nofollow">https://nextspaceflight.com/starship/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/2025-04/9921_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/2025-04/9921_en.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/2025-04/9921_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/2025-04/9921_en.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HFPnZ5iymFA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HFPnZ5iymFA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien vs Starship, SpaceX Starship Updates, DART Mission...We&#x27;ll kick off initially with the updates at starbase with starship developme...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HFPnZ5iymFA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HFPnZ5iymFA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien vs Starship, SpaceX Starship Updates, DART Mission...We&#x27;ll kick off initially with the updates at starbase with starship developme...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MH9CVNPYL2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MH9CVNPYL2Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debris From SpaceX Launch Spotted Over Atlantic OceanSpaceX&#x27;s attempt at a test mission involving its prized Starship spacecraft appeared...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MH9CVNPYL2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MH9CVNPYL2Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debris From SpaceX Launch Spotted Over Atlantic OceanSpaceX&#x27;s attempt at a test mission involving its prized Starship spacecraft appeared...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/176530020440/posts/10171522808310441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/176530020440/posts/10171522808310441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>manoid aliens emerged from the wreckage, merged into one...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/176530020440/posts/10171522808310441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/176530020440/posts/10171522808310441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>manoid aliens emerged from the wreckage, merged into one...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYchkV7ji93/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYchkV7ji93/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mented sightings of unidentified aerial phenomena.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYchkV7ji93/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYchkV7ji93/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mented sightings of unidentified aerial phenomena.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: List of Starship launches  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_Starship_launches" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Starship_launches</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Starship launchesAs of October 13, 2025, 6 Block 1 vehicles and 5 Block 2 vehicles have flown; with the last Block 1 launch oc...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_Starship_launches" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Starship_launches</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of Starship launchesAs of October 13, 2025, 6 Block 1 vehicles and 5 Block 2 vehicles have flown; with the last Block 1 launch oc...</p></details>
    Published: October 13, 2025

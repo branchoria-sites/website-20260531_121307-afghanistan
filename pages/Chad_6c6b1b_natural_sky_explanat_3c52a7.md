@@ -254,14 +254,14 @@ image: /assets/images/Chad_6c6b1b_natural_sky_explanat_3c52a7-Illustration-1-soc
 
 ## Introduction
 
-Many UFO reports in Chad can be explained without invoking secret aircraft or extraterrestrial craft. The country’s geography itself encourages dramatic sky observations: vast desert horizons, very low light pollution, clear dry air and long visibility across the Sahara make ordinary astronomical events appear unusually vivid. Bright meteors, exploding bolides, planets near the horizon and even descending weather balloons can look unfamiliar or alarming, especially in remote rural areas where there are few visual reference points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyMeteor FAQsMeteoroids are the smallest members of the solar system, ranging in size from large fragments of astero...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://extension.usu.edu/utahmasternaturalist/files/course-materials/master-astronomer-handbook-2019-hi-res.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extension.usu.edu">[Utah State University Extension]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extension.usu.edu</span><span class="citation-popover-snippet">ASTRONOMER PROGRAMbolide: a large, bright meteor that explodes in Earth&#x27;s atmosphere. Often used interchangeably with fireball. Bortle Da...</span></span></span>
+Many UFO reports in Chad can be explained without invoking secret aircraft or extraterrestrial craft. The country’s geography itself encourages dramatic sky observations: vast desert horizons, very low light pollution, clear dry air and long visibility across the Sahara make ordinary astronomical events appear unusually vivid. Bright meteors, exploding bolides, planets near the horizon and even descending weather balloons can look unfamiliar or alarming, especially in remote rural areas where there are few visual reference points.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyMeteor FAQsMeteoroids are the smallest members of the solar system, ranging in size from large fragments of astero...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://extension.usu.edu/utahmasternaturalist/files/course-materials/master-astronomer-handbook-2019-hi-res.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extension.usu.edu">[Utah State University Extension]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extension.usu.edu</span><span class="citation-popover-snippet">ASTRONOMER PROGRAMbolide: a large, bright meteor that explodes in Earth&#x27;s atmosphere. Often used interchangeably with fireball. Bortle Da...</span></span></span>
 
 <img src="{{ "/assets/images/Chad_6c6b1b_natural_sky_explanat_3c52a7-Illustration-1-dark.svg" | relative_url }}" alt="Sky Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Chad_6c6b1b_natural_sky_explanat_3c52a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chad_6c6b1b_natural_sky_explanat_3c52a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because Chad sits within one of the world’s clearest night-sky environments. In northern regions, residents can observe celestial events with a brightness and apparent scale that urban observers elsewhere rarely experience. As a result, many “unidentified” aerial reports in Chad fit patterns seen globally: brief fireballs mistaken for crashing craft, bright planets interpreted as hovering objects, or meteorological equipment misidentified as strange vehicles. The evidence available from Chad strongly favours natural or human-made explanations in most publicly discussed cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Here we&#x27;ll look at some of the most likely suspects.Read more</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — The vast majority of UFO sightings have Earthly ori...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+This matters because Chad sits within one of the world’s clearest night-sky environments. In northern regions, residents can observe celestial events with a brightness and apparent scale that urban observers elsewhere rarely experience. As a result, many “unidentified” aerial reports in Chad fit patterns seen globally: brief fireballs mistaken for crashing craft, bright planets interpreted as hovering objects, or meteorological equipment misidentified as strange vehicles. The evidence available from Chad strongly favours natural or human-made explanations in most publicly discussed cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Here we&#x27;ll look at some of the most likely suspects.Read more</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — The vast majority of UFO sightings have Earthly ori...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 ## Meteors, Bolides and Fireballs Over Chad
 
-The most convincing natural explanation for many dramatic sky sightings in Chad is the meteor or bolide. A meteor becomes a bolide or fireball when it enters the atmosphere brightly enough to flare or explode visibly. These events can produce intense flashes, fragmentation, glowing trails and delayed sound waves that easily resemble descriptions associated with UFO encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyMeteor FAQsMeteoroids are the smallest members of the solar system, ranging in size from large fragments of astero...</span></span></span>
+The most convincing natural explanation for many dramatic sky sightings in Chad is the meteor or bolide. A meteor becomes a bolide or fireball when it enters the atmosphere brightly enough to flare or explode visibly. These events can produce intense flashes, fragmentation, glowing trails and delayed sound waves that easily resemble descriptions associated with UFO encounters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyMeteor FAQsMeteoroids are the smallest members of the solar system, ranging in size from large fragments of astero...</span></span></span>
 
 In Chad’s Sahara regions, meteor events are especially striking for several reasons:
 
@@ -274,11 +274,11 @@ In Chad’s Sahara regions, meteor events are especially striking for several re
 
 </div>
 
-The effect can be psychologically powerful. A bright bolide crossing the desert horizon may appear to hover, descend vertically or “crash” beyond a distant ridge even when it burns up high in the atmosphere. Witnesses often struggle to estimate altitude, speed and distance accurately in open desert environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sahara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The effect can be psychologically powerful. A bright bolide crossing the desert horizon may appear to hover, descend vertically or “crash” beyond a distant ridge even when it burns up high in the atmosphere. Witnesses often struggle to estimate altitude, speed and distance accurately in open desert environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sahara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Some reports from Chad describing glowing red or green objects moving silently through the sky match common bolide characteristics. Green illumination in particular is frequently associated with meteors containing magnesium or nickel-rich material. Sudden fragmentation can create the illusion of multiple coordinated craft. Because meteors appear unexpectedly and vanish quickly, they are among the hardest aerial phenomena for casual observers to identify in retrospect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyMeteor FAQsMeteoroids are the smallest members of the solar system, ranging in size from large fragments of astero...</span></span></span>
+Some reports from Chad describing glowing red or green objects moving silently through the sky match common bolide characteristics. Green illumination in particular is frequently associated with meteors containing magnesium or nickel-rich material. Sudden fragmentation can create the illusion of multiple coordinated craft. Because meteors appear unexpectedly and vanish quickly, they are among the hardest aerial phenomena for casual observers to identify in retrospect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyMeteor FAQsMeteoroids are the smallest members of the solar system, ranging in size from large fragments of astero...</span></span></span>
 
-The Sahara also contains famous ancient impact structures, including the Aorounga impact crater in northern Chad. Although this geological feature has no connection to modern UFO claims, its visibility from space and frequent circulation in online imagery contribute to a wider cultural association between Chad’s desert landscape and cosmic events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/1508789132952429/posts/2258164398014895/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Hello, I&#x27;m seeking meteorite crater impacts in SaharaAOROUNGA IMPACT CRATER The Aorounga crater in the Sahara Desert of northern...</span></span></span>
+The Sahara also contains famous ancient impact structures, including the Aorounga impact crater in northern Chad. Although this geological feature has no connection to modern UFO claims, its visibility from space and frequent circulation in online imagery contribute to a wider cultural association between Chad’s desert landscape and cosmic events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/1508789132952429/posts/2258164398014895/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Hello, I&#x27;m seeking meteorite crater impacts in SaharaAOROUNGA IMPACT CRATER The Aorounga crater in the Sahara Desert of northern...</span></span></span>
 
 ## Why Chad’s Desert Skies Change Perception
 
@@ -286,7 +286,7 @@ The physical environment of Chad changes how aerial events are experienced. Cond
 
 ### Extremely Clear Atmospheres
 
-Much of northern Chad experiences stable, cloud-poor atmospheric conditions for long periods. The Sahara is one of the clearest and sunniest regions on Earth, with exceptionally low humidity and minimal cloud cover. <span class="citation-chip-wrap"><a class="citation-chip" href="https://africanclimateoxford.net/areas-of-research/the-sahara/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africanclimateoxford.net">[africanclimateoxford.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africanclimateoxford.net</span><span class="citation-popover-title">It is also a key driver of the climate system.Read more</span><span class="citation-popover-snippet">The Sahara &#124; African Climate Research – University of OxfordApril 21, 2021 — The Sahara Desert remains one of the most data-sparse region...</span><span class="citation-popover-meta">Published: April 21, 2021</span></span></span>
+Much of northern Chad experiences stable, cloud-poor atmospheric conditions for long periods. The Sahara is one of the clearest and sunniest regions on Earth, with exceptionally low humidity and minimal cloud cover.<span class="citation-chip-wrap"><a class="citation-chip" href="https://africanclimateoxford.net/areas-of-research/the-sahara/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africanclimateoxford.net">[africanclimateoxford.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africanclimateoxford.net</span><span class="citation-popover-title">It is also a key driver of the climate system.Read more</span><span class="citation-popover-snippet">The Sahara &#124; African Climate Research – University of OxfordApril 21, 2021 — The Sahara Desert remains one of the most data-sparse region...</span><span class="citation-popover-meta">Published: April 21, 2021</span></span></span>
 
 Under these conditions:
 
@@ -303,7 +303,7 @@ Without urban reference points, stationary celestial bodies can appear to move. 
 
 ### Limited Light Pollution
 
-Large parts of Chad have very little artificial lighting. Dark-sky conditions increase visibility of astronomical events that urban populations elsewhere rarely notice. The Milky Way, meteor showers and faint moving satellites can all become prominent visual experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/backpackermag/posts/some-of-the-best-travel-experiences-happen-after-dark-around-the-world-remote-de/1325440819607074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Some of the best travel experiences happen after dark</span><span class="citation-popover-snippet">Around the world, remote deserts, high mountains, and protected dark sky areas offer spectacular views of the Milky Way and meteor shower...</span></span></span>
+Large parts of Chad have very little artificial lighting. Dark-sky conditions increase visibility of astronomical events that urban populations elsewhere rarely notice. The Milky Way, meteor showers and faint moving satellites can all become prominent visual experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/backpackermag/posts/some-of-the-best-travel-experiences-happen-after-dark-around-the-world-remote-de/1325440819607074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Some of the best travel experiences happen after dark</span><span class="citation-popover-snippet">Around the world, remote deserts, high mountains, and protected dark sky areas offer spectacular views of the Milky Way and meteor shower...</span></span></span>
 
 In cities with heavy light pollution, many meteors remain invisible. In rural Chad, the same event may appear spectacular enough to provoke rumours of explosions, aircraft crashes or mysterious craft.
 
@@ -330,7 +330,7 @@ These effects help explain why witnesses sometimes describe “hovering” or �
 
 One of the clearest Chad-related examples of UFO misidentification involved meteorological equipment rather than astronomy.
 
-In July 2024, residents near Zagobo in the Tandjilé-Ouest region reported a glowing object descending into a field at night. Initial rumours described an “unidentified space vehicle” or mysterious aerial craft. Local concern increased because the object reportedly emitted red light and appeared to crash. Subsequent examination identified it as a meteorological balloon and radiosonde used for atmospheric measurements. Regional aviation authorities stated publicly that the equipment posed no danger. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/348704483442978/posts/836429518003803/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">What is the story behind a caught weather balloon?Weather balloon mistaken for bomb in Philadelphia. Josh Farber... &quot;That&#x27;s not...</span></span></span>
+In July 2024, residents near Zagobo in the Tandjilé-Ouest region reported a glowing object descending into a field at night. Initial rumours described an “unidentified space vehicle” or mysterious aerial craft. Local concern increased because the object reportedly emitted red light and appeared to crash. Subsequent examination identified it as a meteorological balloon and radiosonde used for atmospheric measurements. Regional aviation authorities stated publicly that the equipment posed no danger.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/348704483442978/posts/836429518003803/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">What is the story behind a caught weather balloon?Weather balloon mistaken for bomb in Philadelphia. Josh Farber... &quot;That&#x27;s not...</span></span></span>
 
 This pattern is internationally common. Weather balloons can appear highly unusual because:
 
@@ -343,7 +343,7 @@ This pattern is internationally common. Weather balloons can appear highly unusu
 
 </div>
 
-At night, a descending radiosonde can resemble a glowing orb or structured craft. During daylight, partially deflated balloons may appear metallic, disc-shaped or irregular. Studies of UFO identification repeatedly show balloons as a major source of aerial misidentification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/geology/comments/16pz4ma/the_aorounga_impact_crater_located_in_the_sahara/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Desert,&quot; in the African nation of Chad is pictured from the International Space...Read more...</span></span></span>
+At night, a descending radiosonde can resemble a glowing orb or structured craft. During daylight, partially deflated balloons may appear metallic, disc-shaped or irregular. Studies of UFO identification repeatedly show balloons as a major source of aerial misidentification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/geology/comments/16pz4ma/the_aorounga_impact_crater_located_in_the_sahara/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Desert,&quot; in the African nation of Chad is pictured from the International Space...Read more...</span></span></span>
 
 In countries such as Chad, where routine atmospheric science infrastructure is less publicly visible than in heavily industrialised states, witnesses may be less familiar with radiosonde equipment. That unfamiliarity increases the likelihood of extraordinary interpretations.
 
@@ -352,7 +352,7 @@ In countries such as Chad, where routine atmospheric science infrastructure is l
 
 Not all UFO reports involve fast movement. Some involve lights apparently hovering silently for long periods. In Chad, these are often consistent with bright astronomical bodies.
 
-Venus is the strongest example. Near sunrise or sunset, Venus can dominate the horizon and appear unusually brilliant in clear desert air. Atmospheric refraction near the horizon may make it shimmer, pulse or appear to change colour. To observers unfamiliar with astronomical positioning, it can seem artificial or controlled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_shower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor shower</span><span class="citation-popover-snippet">Meteor showerA meteor shower is a celestial event in which a number of meteors are observed to radiate, or originate, from one point i...</span></span></span>
+Venus is the strongest example. Near sunrise or sunset, Venus can dominate the horizon and appear unusually brilliant in clear desert air. Atmospheric refraction near the horizon may make it shimmer, pulse or appear to change colour. To observers unfamiliar with astronomical positioning, it can seem artificial or controlled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor_shower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Meteor shower</span><span class="citation-popover-snippet">Meteor showerA meteor shower is a celestial event in which a number of meteors are observed to radiate, or originate, from one point i...</span></span></span>
 
 Several factors amplify the effect in Chad:
 
@@ -375,11 +375,11 @@ The combination of expectation and uncertainty matters. If an observer already b
 
 Chad’s climate introduces additional atmospheric phenomena that can look strange under certain conditions.
 
-Dust suspended in desert air can scatter light in unusual ways, especially during sunrise and sunset. Sahara dust events sometimes create deep red skies, diffuse glows and distorted visibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/theweathernetworkCAN/posts/its-not-a-filter-its-the-weather-a-professional-skier-in-the-french-alps-capture/1354233030078315/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The Weather NetworkSkies over Athens turn &#x27;apocalyptic&#x27; orange from Sahara dust storm - while Libya has red haze Strong southerly...</span></span></span>
+Dust suspended in desert air can scatter light in unusual ways, especially during sunrise and sunset. Sahara dust events sometimes create deep red skies, diffuse glows and distorted visibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/theweathernetworkCAN/posts/its-not-a-filter-its-the-weather-a-professional-skier-in-the-french-alps-capture/1354233030078315/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The Weather NetworkSkies over Athens turn &#x27;apocalyptic&#x27; orange from Sahara dust storm - while Libya has red haze Strong southerly...</span></span></span>
 
 Temperature gradients above hot desert surfaces can also produce mirage effects. Lights near the horizon may appear stretched, duplicated or floating. Aircraft lights can seem detached from their source, while stars may appear to oscillate or drift.
 
-Although Chad is not known for frequent reports of exotic atmospheric optics, the physical conditions for them exist regularly in Saharan regions. International UFO identification studies specifically note mirages, atmospheric reflections and unusual light propagation among recurring causes of mistaken sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</span></span></span>
+Although Chad is not known for frequent reports of exotic atmospheric optics, the physical conditions for them exist regularly in Saharan regions. International UFO identification studies specifically note mirages, atmospheric reflections and unusual light propagation among recurring causes of mistaken sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</span></span></span>
 
 ## How Investigators Separate Natural Events From Stronger UAP Claims
 
@@ -400,7 +400,7 @@ Investigators usually favour a natural explanation when reports involve:
 
 </div>
 
-These patterns align strongly with meteors, bolides or visible planets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyMeteor FAQsMeteoroids are the smallest members of the solar system, ranging in size from large fragments of astero...</span></span></span>
+These patterns align strongly with meteors, bolides or visible planets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyMeteor FAQsMeteoroids are the smallest members of the solar system, ranging in size from large fragments of astero...</span></span></span>
 
 ### Signs Pointing to Balloons or Equipment
 
@@ -412,7 +412,7 @@ Weather balloons are more likely when observers describe:
 * Gradual descent.
 * Objects recovered physically after landing.
 
-The 2024 Zagobo case fits this category closely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/arizonastateuniversity/posts/a-mysterious-deposit-discovered-in-france-baffled-scientists-for-decades-it-look/1317069797117614/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
+The 2024 Zagobo case fits this category closely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/arizonastateuniversity/posts/a-mysterious-deposit-discovered-in-france-baffled-scientists-for-decades-it-look/1317069797117614/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/USQabqvO44k" title="Clouds That Look Like UFOs? Weird Clouds | Earth Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=USQabqvO44k" target="_blank" rel="noopener noreferrer">Clouds That Look Like UFOs? Weird Clouds | Earth Science</a></p><p class="youtube-embed-meta">Channel: BBC Earth Science &middot; Views: 50.5K &middot; Uploaded: July 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=USQabqvO44k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=USQabqvO44k">Open on YouTube</a></p></div></div></div>
 
@@ -429,201 +429,201 @@ This lack of data creates ambiguity rather than evidence for exotic explanations
 
 ## The Balance of Evidence in Chad
 
-Publicly available evidence from Chad does not support a strong body of well-documented unexplained aerial phenomena. Instead, the available reports fit a pattern seen globally: unfamiliar observations interpreted through local conditions, limited technical verification and dramatic environmental visibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sahara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Publicly available evidence from Chad does not support a strong body of well-documented unexplained aerial phenomena. Instead, the available reports fit a pattern seen globally: unfamiliar observations interpreted through local conditions, limited technical verification and dramatic environmental visibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sahara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 What makes Chad distinctive is not the existence of uniquely mysterious sky events, but the setting in which ordinary atmospheric and astronomical phenomena are experienced. The country’s deserts provide exceptionally dark skies and long visibility ranges, making meteors, planets and atmospheric lights appear more vivid than they would in heavily urbanised environments.
 
 For that reason, Chad remains a useful case study in how geography and perception shape UFO narratives. In many instances, the most compelling explanation is not hidden technology or extraterrestrial craft, but the combination of bright natural phenomena and one of the clearest night skies on Earth.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Natural Events Get Mistaken for UFOs in Chad?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Natural Events Get Mistaken for UFOs in Chad?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Explains planets, meteors, and sky phenomena commonly mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains planets, meteors, and sky phenomena commonly mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Helps identify natural celestial events visible in dark-sky regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify natural celestial events visible in dark-sky regions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence-based interpretation of unusual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based interpretation of unusual observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Directly relevant to bolides and bright atmospheric events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to bolides and bright atmospheric events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-natural-events-get-mistaken-for-ufos-in-chad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -639,7 +639,7 @@ For that reason, Chad remains a useful case study in how geography and perceptio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -659,7 +659,7 @@ For that reason, Chad remains a useful case study in how geography and perceptio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -691,7 +691,7 @@ For that reason, Chad remains a useful case study in how geography and perceptio
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -743,7 +743,7 @@ For that reason, Chad remains a useful case study in how geography and perceptio
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -788,7 +788,7 @@ For that reason, Chad remains a useful case study in how geography and perceptio
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -826,149 +826,148 @@ For that reason, Chad remains a useful case study in how geography and perceptio
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sahara" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sahara</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sahara" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sahara</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1508789132952429/posts/2258164398014895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1508789132952429/posts/2258164398014895/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hello, I&#x27;m seeking meteorite crater impacts in SaharaAOROUNGA IMPACT CRATER The Aorounga crater in the Sahara Desert of northern...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1508789132952429/posts/2258164398014895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1508789132952429/posts/2258164398014895/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hello, I&#x27;m seeking meteorite crater impacts in SaharaAOROUNGA IMPACT CRATER The Aorounga crater in the Sahara Desert of northern...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/geology/comments/16pz4ma/the_aorounga_impact_crater_located_in_the_sahara/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geology/comments/16pz4ma/the_aorounga_impact_crater_located_in_the_sahara/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Desert,&quot; in the African nation of Chad is pictured from the International Space...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/geology/comments/16pz4ma/the_aorounga_impact_crater_located_in_the_sahara/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geology/comments/16pz4ma/the_aorounga_impact_crater_located_in_the_sahara/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Desert,&quot; in the African nation of Chad is pictured from the International Space...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: africanclimateoxford.net  
    Title: It is also a key driver of the climate system.Read more  
-   Link: <a href="https://africanclimateoxford.net/areas-of-research/the-sahara/" target="_blank" rel="noopener noreferrer nofollow">https://africanclimateoxford.net/areas-of-research/the-sahara/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sahara | African Climate Research – University of OxfordApril 21, 2021 — The Sahara Desert remains one of the most data-sparse region...</p></details>
+   Link:<a href="https://africanclimateoxford.net/areas-of-research/the-sahara/" target="_blank" rel="noopener noreferrer nofollow">https://africanclimateoxford.net/areas-of-research/the-sahara/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sahara | African Climate Research – University of OxfordApril 21, 2021 — The Sahara Desert remains one of the most data-sparse region...</p></details>
    Published: April 21, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: Some of the best travel experiences happen after dark  
-   Link: <a href="https://www.facebook.com/backpackermag/posts/some-of-the-best-travel-experiences-happen-after-dark-around-the-world-remote-de/1325440819607074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/backpackermag/posts/some-of-the-best-travel-experiences-happen-after-dark-around-the-world-remote-de/1325440819607074/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Around the world, remote deserts, high mountains, and protected dark sky areas offer spectacular views of the Milky Way and meteor shower...</p></details>
+   Link:<a href="https://www.facebook.com/backpackermag/posts/some-of-the-best-travel-experiences-happen-after-dark-around-the-world-remote-de/1325440819607074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/backpackermag/posts/some-of-the-best-travel-experiences-happen-after-dark-around-the-world-remote-de/1325440819607074/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Around the world, remote deserts, high mountains, and protected dark sky areas offer spectacular views of the Milky Way and meteor shower...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Meteor shower  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor_shower" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_shower</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor showerA meteor shower is a celestial event in which a number of meteors are observed to radiate, or originate, from one point i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor_shower" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_shower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor showerA meteor shower is a celestial event in which a number of meteors are observed to radiate, or originate, from one point i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/836429518003803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/836429518003803/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the story behind a caught weather balloon?Weather balloon mistaken for bomb in Philadelphia. Josh Farber... &quot;That&#x27;s not...</p></details>
+   Link:<a href="https://www.facebook.com/groups/348704483442978/posts/836429518003803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/836429518003803/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the story behind a caught weather balloon?Weather balloon mistaken for bomb in Philadelphia. Josh Farber... &quot;That&#x27;s not...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/yx8u73/eli5_why_are_weather_balloons_so_often_mistaken/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/yx8u73/eli5_why_are_weather_balloons_so_often_mistaken/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s also easy to misjudge how fast something is moving. This...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/yx8u73/eli5_why_are_weather_balloons_so_often_mistaken/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/yx8u73/eli5_why_are_weather_balloons_so_often_mistaken/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s also easy to misjudge how fast something is moving. This...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/video/weather-balloon-or-ufo-mysterious-object-sets-social-media-spinning-in-japan-12008684" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/weather-balloon-or-ufo-mysterious-object-sets-social-media-spinning-in-japan-12008684</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsWeather balloon or UFO? Mysterious object sets social media...The unexplained object was in the sky for hours, and then disappea...</p></details>
+   Link:<a href="https://news.sky.com/video/weather-balloon-or-ufo-mysterious-object-sets-social-media-spinning-in-japan-12008684" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/weather-balloon-or-ufo-mysterious-object-sets-social-media-spinning-in-japan-12008684</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsWeather balloon or UFO? Mysterious object sets social media...The unexplained object was in the sky for hours, and then disappea...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theweathernetworkCAN/posts/its-not-a-filter-its-the-weather-a-professional-skier-in-the-french-alps-capture/1354233030078315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theweathernetworkCAN/posts/its-not-a-filter-its-the-weather-a-professional-skier-in-the-french-alps-capture/1354233030078315/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather NetworkSkies over Athens turn &#x27;apocalyptic&#x27; orange from Sahara dust storm - while Libya has red haze Strong southerly...</p></details>
+   Link:<a href="https://www.facebook.com/theweathernetworkCAN/posts/its-not-a-filter-its-the-weather-a-professional-skier-in-the-french-alps-capture/1354233030078315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theweathernetworkCAN/posts/its-not-a-filter-its-the-weather-a-professional-skier-in-the-french-alps-capture/1354233030078315/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather NetworkSkies over Athens turn &#x27;apocalyptic&#x27; orange from Sahara dust storm - while Libya has red haze Strong southerly...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/meteorology/comments/zt64gu/this_is_bugging_me_is_it_a_radiosonde_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/meteorology/comments/zt64gu/this_is_bugging_me_is_it_a_radiosonde_balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ideo link is in comments. r/UFOs - Does anyone has any...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/meteorology/comments/zt64gu/this_is_bugging_me_is_it_a_radiosonde_balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/meteorology/comments/zt64gu/this_is_bugging_me_is_it_a_radiosonde_balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ideo link is in comments. r/UFOs - Does anyone has any...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/arizonastateuniversity/posts/a-mysterious-deposit-discovered-in-france-baffled-scientists-for-decades-it-look/1317069797117614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arizonastateuniversity/posts/a-mysterious-deposit-discovered-in-france-baffled-scientists-for-decades-it-look/1317069797117614/</a>  
+   Link:<a href="https://www.facebook.com/arizonastateuniversity/posts/a-mysterious-deposit-discovered-in-france-baffled-scientists-for-decades-it-look/1317069797117614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arizonastateuniversity/posts/a-mysterious-deposit-discovered-in-france-baffled-scientists-for-decades-it-look/1317069797117614/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/meteor-showers/meteor-faq/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyMeteor FAQsMeteoroids are the smallest members of the solar system, ranging in size from large fragments of astero...</p></details>
+   Link:<a href="https://www.amsmeteors.org/meteor-showers/meteor-faq/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/meteor-showers/meteor-faq/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyMeteor FAQsMeteoroids are the smallest members of the solar system, ranging in size from large fragments of astero...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: extension.usu.edu  
-   Link: <a href="https://extension.usu.edu/utahmasternaturalist/files/course-materials/master-astronomer-handbook-2019-hi-res.pdf" target="_blank" rel="noopener noreferrer nofollow">https://extension.usu.edu/utahmasternaturalist/files/course-materials/master-astronomer-handbook-2019-hi-res.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASTRONOMER PROGRAMbolide: a large, bright meteor that explodes in Earth&#x27;s atmosphere. Often used interchangeably with fireball. Bortle Da...</p></details>
+   Link:<a href="https://extension.usu.edu/utahmasternaturalist/files/course-materials/master-astronomer-handbook-2019-hi-res.pdf" target="_blank" rel="noopener noreferrer nofollow">https://extension.usu.edu/utahmasternaturalist/files/course-materials/master-astronomer-handbook-2019-hi-res.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASTRONOMER PROGRAMbolide: a large, bright meteor that explodes in Earth&#x27;s atmosphere. Often used interchangeably with fireball. Bortle Da...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skyatnightmagazine.com  
    Title: Here we'll look at some of the most likely suspects.Read more  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — The vast majority of UFO sightings have Earthly ori...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — The vast majority of UFO sightings have Earthly ori...</p></details>
    Published: May 11, 2026  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CxL-UQHxSzQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CxL-UQHxSzQ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP (UFO) report released today offers a few answers...Some reports include unexplained flying objects, strange movements caught by...</p></details>
+   Link:<a href="https://www.instagram.com/reel/CxL-UQHxSzQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CxL-UQHxSzQ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP (UFO) report released today offers a few answers...Some reports include unexplained flying objects, strange movements caught by...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Jn4y2QFb4l8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jn4y2QFb4l8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye of the Sahara Mystery Finally RevealedScientists have been puzzled by a strange creature that lived millions of years ago but now tha...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jn4y2QFb4l8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jn4y2QFb4l8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye of the Sahara Mystery Finally RevealedScientists have been puzzled by a strange creature that lived millions of years ago but now tha...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/m/meteorite%2Bimpact%2Bcraters" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/m/meteorite%2Bimpact%2Bcraters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>geology, meteorites, planetary composition, meteoritic...Read more...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/m/meteorite%2Bimpact%2Bcraters" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/m/meteorite%2Bimpact%2Bcraters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>geology, meteorites, planetary composition, meteoritic...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DP_NNgrjYzD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DP_NNgrjYzD/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is the result of a meteorite impact, sometimes described as a “city...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DP_NNgrjYzD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DP_NNgrjYzD/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is the result of a meteorite impact, sometimes described as a “city...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXGk6K4Ejaq/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXGk6K4Ejaq/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ning gibbous Moon may reduce the visibility of fainter meteors...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXGk6K4Ejaq/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXGk6K4Ejaq/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ning gibbous Moon may reduce the visibility of fainter meteors...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nG7QR84OKZE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nG7QR84OKZE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clouds That Look Like UFOs? Weird Clouds | Earth Science...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nG7QR84OKZE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nG7QR84OKZE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clouds That Look Like UFOs? Weird Clouds | Earth Science...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Jupiter and Venus 'could be mistaken for UFOs'  
-   Link: <a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P-ymwG9mDhE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3I/Atlas 1st Visuals Out: &#x27;Alien UFO&#x27; Or Comet Set To Hit Earth? NASA Breaks Silence| Watch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P-ymwG9mDhE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3I/Atlas 1st Visuals Out: &#x27;Alien UFO&#x27; Or Comet Set To Hit Earth? NASA Breaks Silence| Watch...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: unesdoc.unesco.org  
-   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000128954" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000128954</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of peace... Star in the sky changes when traveling north. The first detailed... Bolide: Large meteor that explodes in passing through th...</p></details>
+   Link:<a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000128954" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000128954</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of peace... Star in the sky changes when traveling north. The first detailed... Bolide: Large meteor that explodes in passing through th...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Clouds That Look Like UFOs? Weird Clouds | Earth Science  
-   Link: <a href="https://www.youtube.com/watch?v=USQabqvO44k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=USQabqvO44k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caught on camera: Mysterious orbs in the sky | Unreported...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=USQabqvO44k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=USQabqvO44k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caught on camera: Mysterious orbs in the sky | Unreported...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Are UFOs Real? | Brains On! Science Podcast For Kids  
-   Link: <a href="https://www.youtube.com/watch?v=ByP4ZGhFVCU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ByP4ZGhFVCU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ByP4ZGhFVCU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ByP4ZGhFVCU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;...</p></details>

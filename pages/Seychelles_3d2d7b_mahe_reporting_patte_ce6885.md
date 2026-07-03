@@ -252,14 +252,14 @@ image: /assets/images/Seychelles_3d2d7b_mahe_reporting_patte_ce6885-Illustration
 
 ## Introduction
 
-The strongest pattern in Seychelles’ UFO record is not a specific object, witness or investigation. It is geography. Nearly every publicly accessible Seychelles UFO report points back to Mahé, the country’s main island, where the capital Victoria, the international airport, the largest media outlets and the overwhelming majority of the population are concentrated. The available evidence does not show that Mahé experiences more unexplained aerial phenomena than the rest of the archipelago. It shows that Mahé is where unusual events are most likely to be seen, discussed, documented and eventually reach international databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197801NUFORC Reports for Month 197801; Open, 01/02/1978 20:00, Victoria, Mahe (Seychelles), Seychelles; Open...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mah%C3%A9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The strongest pattern in Seychelles’ UFO record is not a specific object, witness or investigation. It is geography. Nearly every publicly accessible Seychelles UFO report points back to Mahé, the country’s main island, where the capital Victoria, the international airport, the largest media outlets and the overwhelming majority of the population are concentrated. The available evidence does not show that Mahé experiences more unexplained aerial phenomena than the rest of the archipelago. It shows that Mahé is where unusual events are most likely to be seen, discussed, documented and eventually reach international databases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197801NUFORC Reports for Month 197801; Open, 01/02/1978 20:00, Victoria, Mahe (Seychelles), Seychelles; Open...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mah%C3%A9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <img src="{{ "/assets/images/Seychelles_3d2d7b_mahe_reporting_patte_ce6885-Illustration-1-dark.svg" | relative_url }}" alt="Mahé Pattern illustration 1" data-theme-src-dark="{{ "/assets/images/Seychelles_3d2d7b_mahe_reporting_patte_ce6885-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Seychelles_3d2d7b_mahe_reporting_patte_ce6885-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters when reading Seychelles UFO claims. A cluster of reports from one island can look mysterious at first glance, but reporting hotspots are often created by population density, transport networks and record-keeping rather than by any proven concentration of unusual phenomena. In Seychelles, Mahé functions as the country's observation hub. That reality shapes almost every surviving UFO account linked to the nation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... 27. Serbia and Montenegro, 2. Se...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_islands_of_Seychelles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of islands of Seychelles</span><span class="citation-popover-snippet">List of islands of Seychelles</span></span></span>
+This distinction matters when reading Seychelles UFO claims. A cluster of reports from one island can look mysterious at first glance, but reporting hotspots are often created by population density, transport networks and record-keeping rather than by any proven concentration of unusual phenomena. In Seychelles, Mahé functions as the country's observation hub. That reality shapes almost every surviving UFO account linked to the nation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... 27. Serbia and Montenegro, 2. Se...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_islands_of_Seychelles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of islands of Seychelles</span><span class="citation-popover-snippet">List of islands of Seychelles</span></span></span>
 
 ## Why the public reports cluster on Mahé
 
-The simplest explanation for Mahé’s dominance is that most Seychellois live there. Estimates commonly place between roughly three-quarters and nine-tenths of the national population on the island, making it overwhelmingly the country's largest centre of daily life. Victoria, the capital and principal port, is also located there. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldbank.org/ext/en/country/seychelles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldbank.org">[World Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldbank.org</span><span class="citation-popover-snippet">World BankSeychellesThe country has a total population of 122,730 people, three-quarters of whom live on the main island of Mahé. Seychel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recsasec.org/republic-of-seychelles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recsasec.org">[2recsasec.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recsasec.org</span><span class="citation-popover-snippet">Republic of SeychellesSeychelles is the smallest African country in terms of both area and population; the constitution of the Republic o...</span></span></span>
+The simplest explanation for Mahé’s dominance is that most Seychellois live there. Estimates commonly place between roughly three-quarters and nine-tenths of the national population on the island, making it overwhelmingly the country's largest centre of daily life. Victoria, the capital and principal port, is also located there.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldbank.org/ext/en/country/seychelles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldbank.org">[World Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldbank.org</span><span class="citation-popover-snippet">World BankSeychellesThe country has a total population of 122,730 people, three-quarters of whom live on the main island of Mahé. Seychel...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.recsasec.org/republic-of-seychelles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: recsasec.org">[2recsasec.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">recsasec.org</span><span class="citation-popover-snippet">Republic of SeychellesSeychelles is the smallest African country in terms of both area and population; the constitution of the Republic o...</span></span></span>
 
 That concentration affects UFO reporting in several ways:
 
@@ -269,11 +269,11 @@ That concentration affects UFO reporting in several ways:
 * More roads, vehicles and coastal settlements mean more opportunities to notice unusual lights.
 * The national airport brings regular aircraft traffic and more chances for misidentifications.
 * Journalists, government offices and communications infrastructure are concentrated on Mahé.
-* Residents are more likely to have access to international reporting channels such as NUFORC and other online databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Mahe-Island" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Mahe Island</span><span class="citation-popover-snippet">Encyclopedia BritannicaMahé Island &#124; Map, Seychelles, &amp; Facts13 Jan 2026 — Almost 90 percent of the population of the Republic of Seychel...</span></span></span>
+* Residents are more likely to have access to international reporting channels such as NUFORC and other online databases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Mahe-Island" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Mahe Island</span><span class="citation-popover-snippet">Encyclopedia BritannicaMahé Island &#124; Map, Seychelles, &amp; Facts13 Jan 2026 — Almost 90 percent of the population of the Republic of Seychel...</span></span></span>
 
 </div>
 
-The available international record reflects exactly this pattern. The National UFO Reporting Center's Seychelles index contains only two publicly listed reports, and both are associated with Mahé. One concerns the frequently discussed 1978 Victoria-area sighting, while the other is a 2020 report later identified in the database as likely involving [Starlink]({{ 'starlink/' | relative_url }}) satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197804" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197804NUFORC Reports for Month 197804; Open, 04/24/1978 19:00, Silver Spring; Open, 04/21/1978 00:00, Tiffen V...</span></span></span>
+The available international record reflects exactly this pattern. The National UFO Reporting Center's Seychelles index contains only two publicly listed reports, and both are associated with Mahé. One concerns the frequently discussed 1978 Victoria-area sighting, while the other is a 2020 report later identified in the database as likely involving [Starlink]({{ 'starlink/' | relative_url }}) satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197804" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197804NUFORC Reports for Month 197804; Open, 04/24/1978 19:00, Silver Spring; Open, 04/21/1978 00:00, Tiffen V...</span></span></span>
 
 If an unusual light appears above Mahé, it may be observed from multiple districts, discussed in workplaces, mentioned in local media and eventually submitted to an international archive. The same event over a remote outer island could pass with few witnesses and leave no searchable public record at all.
 
@@ -283,15 +283,15 @@ If an unusual light appears above Mahé, it may be observed from multiple distri
 
 The best-known Seychelles UFO account demonstrates why Mahé generates most of the surviving narratives.
 
-According to the report submitted to NUFORC in 1999, the original sighting occurred near Victoria on Mahé in January 1978. The witness described greenish lights moving silently and changing formation before departing rapidly. The account also claimed that people elsewhere on Mahé and around surrounding waters reported seeing related phenomena from different viewpoints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197807" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197807NUFORC Reports for Month 197807.; Open, 07/30/1978 23:50, Myles Inlet; Open, 07/29/1978 23:30, Highland...</span></span></span>
+According to the report submitted to NUFORC in 1999, the original sighting occurred near Victoria on Mahé in January 1978. The witness described greenish lights moving silently and changing formation before departing rapidly. The account also claimed that people elsewhere on Mahé and around surrounding waters reported seeing related phenomena from different viewpoints.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197807" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197807NUFORC Reports for Month 197807.; Open, 07/30/1978 23:50, Myles Inlet; Open, 07/29/1978 23:30, Highland...</span></span></span>
 
-Whether every detail is accurate remains uncertain. The report was filed decades after the alleged event, and the often-mentioned newspaper coverage has not been widely reproduced online. Yet the story itself reveals how a Mahé incident could gain visibility. A sighting near the capital places observers close to population centres, transport corridors and local media. Even before questions of credibility arise, Mahé provides a mechanism through which a story can survive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197806NUFORC Reports for Month 197806.; Open, 06/30/1978 23:30, New Washington; Open, 06/30/1978 22:00, Piscat...</span></span></span>
+Whether every detail is accurate remains uncertain. The report was filed decades after the alleged event, and the often-mentioned newspaper coverage has not been widely reproduced online. Yet the story itself reveals how a Mahé incident could gain visibility. A sighting near the capital places observers close to population centres, transport corridors and local media. Even before questions of credibility arise, Mahé provides a mechanism through which a story can survive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197806NUFORC Reports for Month 197806.; Open, 06/30/1978 23:30, New Washington; Open, 06/30/1978 22:00, Piscat...</span></span></span>
 
 Had an identical event occurred above a distant coral island with only a small workforce or temporary residents, there might have been no newspaper reference, no later witness submissions and no trace in international databases.
 
 ## How island geography distorts sightings
 
-Small island states create unusual reporting conditions. Seychelles consists of more than one hundred islands spread across a vast area of the western Indian Ocean, yet only a fraction are permanently inhabited. Most economic activity, government functions and communications infrastructure remain concentrated in the inner islands, especially Mahé. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Seychelles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">SeychellesSeychelles is the smallest country in Africa as well as the least populated sovereign African country, with an estimated pop...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seychelles.com/aboutus/aboutseychelles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seychelles.com">[seychelles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seychelles.com</span><span class="citation-popover-snippet">About Seychelles &#124; The Seychelles IslandsSeychelles lies northeast of Madagascar, an archipelago of 115 islands with roughly 98,000 citizens...</span></span></span>
+Small island states create unusual reporting conditions. Seychelles consists of more than one hundred islands spread across a vast area of the western Indian Ocean, yet only a fraction are permanently inhabited. Most economic activity, government functions and communications infrastructure remain concentrated in the inner islands, especially Mahé.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Seychelles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">SeychellesSeychelles is the smallest country in Africa as well as the least populated sovereign African country, with an estimated pop...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seychelles.com/aboutus/aboutseychelles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seychelles.com">[seychelles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seychelles.com</span><span class="citation-popover-snippet">About Seychelles &#124; The Seychelles IslandsSeychelles lies northeast of Madagascar, an archipelago of 115 islands with roughly 98,000 citizens...</span></span></span>
 
 This geography can distort UFO patterns in several ways.
 
@@ -304,13 +304,13 @@ This helps explain why maritime and island regions often produce reports centred
 <img src="{{ "/assets/images/Seychelles_3d2d7b_mahe_reporting_patte_ce6885-Illustration-2-dark.svg" | relative_url }}" alt="Mahé Pattern illustration 2" data-theme-src-dark="{{ "/assets/images/Seychelles_3d2d7b_mahe_reporting_patte_ce6885-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Seychelles_3d2d7b_mahe_reporting_patte_ce6885-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Mahé receives the most air traffic
 
-Seychelles International Airport is located on Mahé, making the island the country's primary aviation gateway. Aircraft arrivals and departures create a larger pool of potential aerial observations than on sparsely populated outer islands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</span></span></span>
+Seychelles International Airport is located on Mahé, making the island the country's primary aviation gateway. Aircraft arrivals and departures create a larger pool of potential aerial observations than on sparsely populated outer islands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</span></span></span>
 
 For UFO researchers, this creates a recurring problem. A witness may accurately describe unusual movement, brightness or colour while still observing a conventional aircraft under unusual viewing conditions. Without radar records, photographs or contemporaneous logs, later reconstruction becomes difficult.
 
 ### Remote islands produce fewer records
 
-Many outer islands have tiny populations, temporary staff, scientific personnel, resort workers or no permanent residents at all. Some are hundreds of kilometres from Mahé. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lenautique.sc/about-seychelles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenautique.sc">[Le-Nautique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenautique.sc</span><span class="citation-popover-title">Le-Nautique About Seychelles</span><span class="citation-popover-snippet">About Seychelles - Le-NautiqueThe total population of Seychelles is approximately 90,000 of which almost two thirds live on the main isla...</span></span></span>
+Many outer islands have tiny populations, temporary staff, scientific personnel, resort workers or no permanent residents at all. Some are hundreds of kilometres from Mahé.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lenautique.sc/about-seychelles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lenautique.sc">[Le-Nautique]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lenautique.sc</span><span class="citation-popover-title">Le-Nautique About Seychelles</span><span class="citation-popover-snippet">About Seychelles - Le-NautiqueThe total population of Seychelles is approximately 90,000 of which almost two thirds live on the main isla...</span></span></span>
 
 An event witnessed by five people on a remote island may never enter the public record. An event witnessed by five people in or around Victoria has a much better chance of reaching newspapers, government offices or international reporting organisations.
 
@@ -327,7 +327,7 @@ The absence of reports may reflect:
 * Fewer opportunities to submit reports internationally.
 * Lost records.
 * Events discussed informally but never archived.
-* Observations by visitors who did not know where to report them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Demographics_of_Seychelles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Demographics of Seychelles</span><span class="citation-popover-snippet">Demographics of SeychellesSeychelles&#x27; modern population is composed of the descendants of French and later British colonizers, African...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seychelles.com/blog-details/5739/highlights/far-away-miniature-worlds-seychelles-outer-islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seychelles.com">[seychelles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seychelles.com</span><span class="citation-popover-title">far away miniature worlds seychelles outer islands</span><span class="citation-popover-snippet">Far Away Miniature Worlds: Seychelles&#x27; Outer Islands8 Sept 2024 — This chain of small reef islands stretches over 180 km long and 40 km w...</span></span></span>
+* Observations by visitors who did not know where to report them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Demographics_of_Seychelles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Demographics of Seychelles</span><span class="citation-popover-snippet">Demographics of SeychellesSeychelles&#x27; modern population is composed of the descendants of French and later British colonizers, African...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seychelles.com/blog-details/5739/highlights/far-away-miniature-worlds-seychelles-outer-islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seychelles.com">[seychelles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seychelles.com</span><span class="citation-popover-title">far away miniature worlds seychelles outer islands</span><span class="citation-popover-snippet">Far Away Miniature Worlds: Seychelles&#x27; Outer Islands8 Sept 2024 — This chain of small reef islands stretches over 180 km long and 40 km w...</span></span></span>
 
 At the same time, researchers should avoid moving to the opposite extreme and assuming a hidden archive of dramatic unexplained encounters. There is currently no strong public evidence showing that the outer islands contain a large suppressed UFO history.
 
@@ -339,7 +339,7 @@ The most defensible position is narrower: the reporting environment outside Mah�
 
 The 2020 Mahé report provides a modern example of how reporting patterns work.
 
-The sighting involved multiple moving lights observed for an extended period. In the NUFORC record, the event is explicitly associated with Starlink satellites. Similar reports appeared across the world during the early deployment of SpaceX satellite trains, when many observers encountered unfamiliar chains of lights crossing the night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The sighting involved multiple moving lights observed for an extended period. In the NUFORC record, the event is explicitly associated with Starlink satellites. Similar reports appeared across the world during the early deployment of SpaceX satellite trains, when many observers encountered unfamiliar chains of lights crossing the night sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The significance of the case is less about the object itself than about reporting pathways. Someone on Mahé saw something unusual, had internet access, knew how to file a report and submitted it almost immediately. The event entered a searchable international database because the island sits at the centre of Seychelles' communications network.
 
@@ -349,203 +349,203 @@ That process says as much about information flow as it does about the sky.
 
 ## Mahé as a reporting centre, not a proven anomaly zone
 
-When the Seychelles UFO record is viewed as a whole, Mahé emerges primarily as a reporting hotspot rather than a demonstrated hotspot of unexplained phenomena. Public databases contain very few Seychelles cases, and the ones that survive are tied to the island where most people live, work, travel and communicate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mah%C3%A9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+When the Seychelles UFO record is viewed as a whole, Mahé emerges primarily as a reporting hotspot rather than a demonstrated hotspot of unexplained phenomena. Public databases contain very few Seychelles cases, and the ones that survive are tied to the island where most people live, work, travel and communicate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mah%C3%A9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The pattern resembles a common problem in UFO research worldwide: reports tend to accumulate where observation networks already exist. Population centres generate archives. Remote regions often generate gaps.
 
-For Seychelles, that means Mahé should be understood less as a uniquely mysterious location and more as the place where unusual observations are most likely to become part of the historical record. The island's dominance in UFO reporting reflects demographics, infrastructure and visibility far more clearly than it demonstrates any confirmed concentration of unexplained aerial events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seyvillas.com/en/guide/at-a-glance/population" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seyvillas.com">[2seyvillas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seyvillas.com</span><span class="citation-popover-title">Seychelles Culture, Language, Religion, Creole</span><span class="citation-popover-snippet">Seychelles&#x27; 115 islands. 90% of the population live on the main island of Mahé. The next-largest populations are on Praslin and La Digue...</span></span></span>
+For Seychelles, that means Mahé should be understood less as a uniquely mysterious location and more as the place where unusual observations are most likely to become part of the historical record. The island's dominance in UFO reporting reflects demographics, infrastructure and visibility far more clearly than it demonstrates any confirmed concentration of unexplained aerial events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seyvillas.com/en/guide/at-a-glance/population" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seyvillas.com">[2seyvillas.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seyvillas.com</span><span class="citation-popover-title">Seychelles Culture, Language, Religion, Creole</span><span class="citation-popover-snippet">Seychelles&#x27; 115 islands. 90% of the population live on the main island of Mahé. The next-largest populations are on Praslin and La Digue...</span></span></span>
 
 <img src="{{ "/assets/images/Seychelles_3d2d7b_mahe_reporting_patte_ce6885-Illustration-3-dark.svg" | relative_url }}" alt="Mahé Pattern illustration 3" data-theme-src-dark="{{ "/assets/images/Seychelles_3d2d7b_mahe_reporting_patte_ce6885-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Seychelles_3d2d7b_mahe_reporting_patte_ce6885-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Seychelles UFO Reports Point to Mahé?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Seychelles UFO Reports Point to Mahé?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing reporting hotspots and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing reporting hotspots and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains reporting patterns and sighting categories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains reporting patterns and sighting categories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how reporting infrastructure affects case visibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how reporting infrastructure affects case visibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Looks at how local culture shapes unusual-event reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Looks at how local culture shapes unusual-event reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-seychelles-ufo-reports-point-to-mah-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-seychelles-ufo-reports-point-to-mah-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ For Seychelles, that means Mahé should be understood less as a uniquely mysteri
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ For Seychelles, that means Mahé should be understood less as a uniquely mysteri
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ For Seychelles, that means Mahé should be understood less as a uniquely mysteri
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ For Seychelles, that means Mahé should be understood less as a uniquely mysteri
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ For Seychelles, that means Mahé should be understood less as a uniquely mysteri
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,190 +748,189 @@ For Seychelles, that means Mahé should be understood less as a uniquely mysteri
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e197801" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197801</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197801NUFORC Reports for Month 197801; Open, 01/02/1978 20:00, Victoria, Mahe (Seychelles), Seychelles; Open...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e197801" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197801</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197801NUFORC Reports for Month 197801; Open, 01/02/1978 20:00, Victoria, Mahe (Seychelles), Seychelles; Open...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Mah%C3%A9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mah%C3%A9</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mah%C3%A9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mah%C3%A9</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: Mahe Island  
-   Link: <a href="https://www.britannica.com/place/Mahe-Island" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Mahe-Island</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaMahé Island | Map, Seychelles, &amp; Facts13 Jan 2026 — Almost 90 percent of the population of the Republic of Seychel...</p></details>
+   Link:<a href="https://www.britannica.com/place/Mahe-Island" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Mahe-Island</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaMahé Island | Map, Seychelles, &amp; Facts13 Jan 2026 — Almost 90 percent of the population of the Republic of Seychel...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... 27. Serbia and Montenegro, 2. Se...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... 27. Serbia and Montenegro, 2. Se...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: recsasec.org  
-   Link: <a href="https://www.recsasec.org/republic-of-seychelles/" target="_blank" rel="noopener noreferrer nofollow">https://www.recsasec.org/republic-of-seychelles/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Republic of SeychellesSeychelles is the smallest African country in terms of both area and population; the constitution of the Republic o...</p></details>
+   Link:<a href="https://www.recsasec.org/republic-of-seychelles/" target="_blank" rel="noopener noreferrer nofollow">https://www.recsasec.org/republic-of-seychelles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Republic of SeychellesSeychelles is the smallest African country in terms of both area and population; the constitution of the Republic o...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Victoria-Seychelles" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Victoria-Seychelles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaVictoria | Seychelles, Map, Population, &amp; FactsVictoria is the only port of the archipelago and the only town of a...</p></details>
+   Link:<a href="https://www.britannica.com/place/Victoria-Seychelles" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Victoria-Seychelles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaVictoria | Seychelles, Map, Population, &amp; FactsVictoria is the only port of the archipelago and the only town of a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: List of islands of Seychelles  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_islands_of_Seychelles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_islands_of_Seychelles</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_islands_of_Seychelles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_islands_of_Seychelles</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: seychelles.com  
-   Link: <a href="https://www.seychelles.com/aboutus/aboutseychelles" target="_blank" rel="noopener noreferrer nofollow">https://www.seychelles.com/aboutus/aboutseychelles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Seychelles | The Seychelles IslandsSeychelles lies northeast of Madagascar, an archipelago of 115 islands with roughly 98,000 citizens...</p></details>
+   Link:<a href="https://www.seychelles.com/aboutus/aboutseychelles" target="_blank" rel="noopener noreferrer nofollow">https://www.seychelles.com/aboutus/aboutseychelles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Seychelles | The Seychelles IslandsSeychelles lies northeast of Madagascar, an archipelago of 115 islands with roughly 98,000 citizens...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: seychelles.com  
    Title: far away miniature worlds seychelles outer islands  
-   Link: <a href="https://www.seychelles.com/blog-details/5739/highlights/far-away-miniature-worlds-seychelles-outer-islands" target="_blank" rel="noopener noreferrer nofollow">https://www.seychelles.com/blog-details/5739/highlights/far-away-miniature-worlds-seychelles-outer-islands</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Far Away Miniature Worlds: Seychelles&#x27; Outer Islands8 Sept 2024 — This chain of small reef islands stretches over 180 km long and 40 km w...</p></details>
+   Link:<a href="https://www.seychelles.com/blog-details/5739/highlights/far-away-miniature-worlds-seychelles-outer-islands" target="_blank" rel="noopener noreferrer nofollow">https://www.seychelles.com/blog-details/5739/highlights/far-away-miniature-worlds-seychelles-outer-islands</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Far Away Miniature Worlds: Seychelles&#x27; Outer Islands8 Sept 2024 — This chain of small reef islands stretches over 180 km long and 40 km w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: seyvillas.com  
    Title: Seychelles Culture, Language, Religion, Creole  
-   Link: <a href="https://www.seyvillas.com/en/guide/at-a-glance/population" target="_blank" rel="noopener noreferrer nofollow">https://www.seyvillas.com/en/guide/at-a-glance/population</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seychelles&#x27; 115 islands. 90% of the population live on the main island of Mahé. The next-largest populations are on Praslin and La Digue...</p></details>
+   Link:<a href="https://www.seyvillas.com/en/guide/at-a-glance/population" target="_blank" rel="noopener noreferrer nofollow">https://www.seyvillas.com/en/guide/at-a-glance/population</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seychelles&#x27; 115 islands. 90% of the population live on the main island of Mahé. The next-largest populations are on Praslin and La Digue...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e197804" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197804</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197804NUFORC Reports for Month 197804; Open, 04/24/1978 19:00, Silver Spring; Open, 04/21/1978 00:00, Tiffen V...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e197804" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197804</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197804NUFORC Reports for Month 197804; Open, 04/24/1978 19:00, Silver Spring; Open, 04/21/1978 00:00, Tiffen V...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e197807" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197807</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197807NUFORC Reports for Month 197807.; Open, 07/30/1978 23:50, Myles Inlet; Open, 07/29/1978 23:30, Highland...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e197807" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197807</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197807NUFORC Reports for Month 197807.; Open, 07/30/1978 23:50, Myles Inlet; Open, 07/29/1978 23:30, Highland...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e197806" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197806</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197806NUFORC Reports for Month 197806.; Open, 06/30/1978 23:30, New Washington; Open, 06/30/1978 22:00, Piscat...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e197806" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197806</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197806NUFORC Reports for Month 197806.; Open, 06/30/1978 23:30, New Washington; Open, 06/30/1978 22:00, Piscat...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsAll NUFORC Reports.; Open, 05/01/2026 07:50, Hamilton Township; Open, 04/30/2026 03:50, Antioch; Open, 04/30/2026 01...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsAll NUFORC Reports.; Open, 05/01/2026 07:50, Hamilton Township; Open, 04/30/2026 03:50, Antioch; Open, 04/30/2026 01...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Seychelles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Seychelles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SeychellesSeychelles is the smallest country in Africa as well as the least populated sovereign African country, with an estimated pop...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Seychelles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Seychelles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SeychellesSeychelles is the smallest country in Africa as well as the least populated sovereign African country, with an estimated pop...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Demographics of Seychelles  
-   Link: <a href="https://en.wikipedia.org/wiki/Demographics_of_Seychelles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Demographics_of_Seychelles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demographics of SeychellesSeychelles&#x27; modern population is composed of the descendants of French and later British colonizers, African...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Demographics_of_Seychelles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Demographics_of_Seychelles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demographics of SeychellesSeychelles&#x27; modern population is composed of the descendants of French and later British colonizers, African...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: data.who.int  
    Title: int Seychelles  
-   Link: <a href="https://data.who.int/countries/690" target="_blank" rel="noopener noreferrer nofollow">https://data.who.int/countries/690</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO DataHealth data overview for the Seychelles, containing the latest population, life expectancy and mortality data from WHO...</p></details>
+   Link:<a href="https://data.who.int/countries/690" target="_blank" rel="noopener noreferrer nofollow">https://data.who.int/countries/690</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHO DataHealth data overview for the Seychelles, containing the latest population, life expectancy and mortality data from WHO...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Seychelles" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Seychelles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>public comprising about 115 islands in the western Indian Ocean...</p></details>
+   Link:<a href="https://www.britannica.com/place/Seychelles" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Seychelles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>public comprising about 115 islands in the western Indian Ocean...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nation.sc  
    Title: seychelles population surpasses 100000 mark  
-   Link: <a href="https://www.nation.sc/articles/14878/seychelles-population-surpasses-100000-mark" target="_blank" rel="noopener noreferrer nofollow">https://www.nation.sc/articles/14878/seychelles-population-surpasses-100000-mark</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seychelles&#x27; population surpasses 100000 mark1 Sept 2022 — The central region of Mahé which comprises nine districts, accounts for 29.4% o...</p></details>
+   Link:<a href="https://www.nation.sc/articles/14878/seychelles-population-surpasses-100000-mark" target="_blank" rel="noopener noreferrer nofollow">https://www.nation.sc/articles/14878/seychelles-population-surpasses-100000-mark</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seychelles&#x27; population surpasses 100000 mark1 Sept 2022 — The central region of Mahé which comprises nine districts, accounts for 29.4% o...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: worldbank.org  
-   Link: <a href="https://www.worldbank.org/ext/en/country/seychelles" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/ext/en/country/seychelles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World BankSeychellesThe country has a total population of 122,730 people, three-quarters of whom live on the main island of Mahé. Seychel...</p></details>
+   Link:<a href="https://www.worldbank.org/ext/en/country/seychelles" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/ext/en/country/seychelles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World BankSeychellesThe country has a total population of 122,730 people, three-quarters of whom live on the main island of Mahé. Seychel...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: lenautique.sc  
    Title: Le-Nautique About Seychelles  
-   Link: <a href="https://lenautique.sc/about-seychelles/" target="_blank" rel="noopener noreferrer nofollow">https://lenautique.sc/about-seychelles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About Seychelles - Le-NautiqueThe total population of Seychelles is approximately 90,000 of which almost two thirds live on the main isla...</p></details>
+   Link:<a href="https://lenautique.sc/about-seychelles/" target="_blank" rel="noopener noreferrer nofollow">https://lenautique.sc/about-seychelles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Seychelles - Le-NautiqueThe total population of Seychelles is approximately 90,000 of which almost two thirds live on the main isla...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ourworldindata.org  
-   Link: <a href="https://ourworldindata.org/profile/population-demography/seychelles" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/profile/population-demography/seychelles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the chart, you can see how the population numbers have changed over the past 70 years. This...Read more...</p></details>
+   Link:<a href="https://ourworldindata.org/profile/population-demography/seychelles" target="_blank" rel="noopener noreferrer nofollow">https://ourworldindata.org/profile/population-demography/seychelles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the chart, you can see how the population numbers have changed over the past 70 years. This...Read more...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: offgridinstaller.com  
-   Link: <a href="https://offgridinstaller.com/blog/off-grid-in-the-seychelles-islands/" target="_blank" rel="noopener noreferrer nofollow">https://offgridinstaller.com/blog/off-grid-in-the-seychelles-islands/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Off-grid in the Seychelles IslandsMost live on the main island of Mahe including the capital Victoria with 26,000. All the population liv...</p></details>
+   Link:<a href="https://offgridinstaller.com/blog/off-grid-in-the-seychelles-islands/" target="_blank" rel="noopener noreferrer nofollow">https://offgridinstaller.com/blog/off-grid-in-the-seychelles-islands/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Off-grid in the Seychelles IslandsMost live on the main island of Mahe including the capital Victoria with 26,000. All the population liv...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: seymsp.com  
-   Link: <a href="https://seymsp.com/maps/2-ATLAS_Population_Distribution_28May2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://seymsp.com/maps/2-ATLAS_Population_Distribution_28May2025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Population DistributionSeychelles National Bureau of Statistics. The Nature Conservancy, ESRI, SRTM... North Island. Aride. Ile aux Rec...</p></details>
+   Link:<a href="https://seymsp.com/maps/2-ATLAS_Population_Distribution_28May2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://seymsp.com/maps/2-ATLAS_Population_Distribution_28May2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Population DistributionSeychelles National Bureau of Statistics. The Nature Conservancy, ESRI, SRTM... North Island. Aride. Ile aux Rec...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: rad-aid.org  
-   Link: <a href="https://rad-aid.org/wp-content/uploads/Seychelles-Country-Report-042618.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rad-aid.org/wp-content/uploads/Seychelles-Country-Report-042618.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SEYCHELLES COUNTRY REPORTRoughly 90% of Seychellois live on Mahé; its population is concentrated around the nation&#x27;s capital city, Victor...</p></details>
+   Link:<a href="https://rad-aid.org/wp-content/uploads/Seychelles-Country-Report-042618.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rad-aid.org/wp-content/uploads/Seychelles-Country-Report-042618.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SEYCHELLES COUNTRY REPORTRoughly 90% of Seychellois live on Mahé; its population is concentrated around the nation&#x27;s capital city, Victor...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: seychellesconsulate.org.hk  
-   Link: <a href="https://www.seychellesconsulate.org.hk/download/Seychelles_in_Figures_2020_Edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.seychellesconsulate.org.hk/download/Seychelles_in_Figures_2020_Edition.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SEYCHELLES IN FIGURESThe Seychelles archipelago is divided into two distinct collections: the Mahe group, 43 islands in all, granitic wit...</p></details>
+   Link:<a href="https://www.seychellesconsulate.org.hk/download/Seychelles_in_Figures_2020_Edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.seychellesconsulate.org.hk/download/Seychelles_in_Figures_2020_Edition.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SEYCHELLES IN FIGURESThe Seychelles archipelago is divided into two distinct collections: the Mahe group, 43 islands in all, granitic wit...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: commonwealthchamber.com  
-   Link: <a href="https://commonwealthchamber.com/member-countries/seychelles/" target="_blank" rel="noopener noreferrer nofollow">https://commonwealthchamber.com/member-countries/seychelles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SeychellesThe islands of Seychelles are sparsely populated with a population density of 214 per kmsq. The Seychellois people are predomin...</p></details>
+   Link:<a href="https://commonwealthchamber.com/member-countries/seychelles/" target="_blank" rel="noopener noreferrer nofollow">https://commonwealthchamber.com/member-countries/seychelles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SeychellesThe islands of Seychelles are sparsely populated with a population density of 214 per kmsq. The Seychellois people are predomin...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: demographyseychelles population climbs to 122729 by mid 2025by j marieseychelles  
-   Link: <a href="https://www.facebook.com/todayinsey/posts/demographyseychelles-population-climbs-to-122729-by-mid-2025by-j-marieseychelles/1355329716600270/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/todayinsey/posts/demographyseychelles-population-climbs-to-122729-by-mid-2025by-j-marieseychelles/1355329716600270/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY in SeychellesMahe is the main island followed by Praslin and La Digue.We have a small Population of about 90000 people within Seyc...</p></details>
+   Link:<a href="https://www.facebook.com/todayinsey/posts/demographyseychelles-population-climbs-to-122729-by-mid-2025by-j-marieseychelles/1355329716600270/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/todayinsey/posts/demographyseychelles-population-climbs-to-122729-by-mid-2025by-j-marieseychelles/1355329716600270/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY in SeychellesMahe is the main island followed by Praslin and La Digue.We have a small Population of about 90000 people within Seyc...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: is.muni.cz  
-   Link: <a href="https://is.muni.cz/th/l3y56/sample_data/tuned_tokens/en_productivity.tnl?stahnout=1%3Bdk%3DkZ1h0n8F" target="_blank" rel="noopener noreferrer nofollow">https://is.muni.cz/th/l3y56/sample_data/tuned_tokens/en_productivity.tnl?stahnout=1%3Bdk%3DkZ1h0n8F</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>report 6 362191/10049989 0.036 149/581 0.256 POS: reportedly thereporters ireporter ireports underreported NEG: reporters reports report...</p></details>
+   Link:<a href="https://is.muni.cz/th/l3y56/sample_data/tuned_tokens/en_productivity.tnl?stahnout=1%3Bdk%3DkZ1h0n8F" target="_blank" rel="noopener noreferrer nofollow">https://is.muni.cz/th/l3y56/sample_data/tuned_tokens/en_productivity.tnl?stahnout=1%3Bdk%3DkZ1h0n8F</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report 6 362191/10049989 0.036 149/581 0.256 POS: reportedly thereporters ireporter ireports underreported NEG: reporters reports report...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: eprints.soton.ac.uk  
    Title: soton.ac.uk Population Processes in the Seychelles  
-   Link: <a href="https://eprints.soton.ac.uk/467018/1/732309.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/467018/1/732309.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Processes in the Seychelles - ePrints Sotonby MW Rosalie · 2000 · Cited by 1 — Detailed research on population processes in the Seychelle...</p></details>
+   Link:<a href="https://eprints.soton.ac.uk/467018/1/732309.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/467018/1/732309.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Processes in the Seychelles - ePrints Sotonby MW Rosalie · 2000 · Cited by 1 — Detailed research on population processes in the Seychelle...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/vda56r/what_is_the_most_genuinely_convincing_ufo_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vda56r/what_is_the_most_genuinely_convincing_ufo_story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>every once in a while where I get interested again. And I don’t...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/vda56r/what_is_the_most_genuinely_convincing_ufo_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vda56r/what_is_the_most_genuinely_convincing_ufo_story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>every once in a while where I get interested again. And I don’t...</p></details>

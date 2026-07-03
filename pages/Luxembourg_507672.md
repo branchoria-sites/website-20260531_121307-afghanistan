@@ -1197,9 +1197,9 @@ image: /assets/images/Luxembourg_507672-overview-social.jpg
 Public press archives from the early 1980s contain some of the **earliest widely reported sightings** in Luxembourg.
 
 <img src="{{ "/assets/images/Luxembourg_507672-overview.webp" | relative_url }}" alt="Overview image for Uncovering UFO Activity Across Luxembourg:..." loading="eager" decoding="sync" fetchpriority="high">
-* In 1980, newspapers such as *Le Républicain Lorrain* recorded multiple **eyewitness accounts of luminous or shaped objects observed over Luxembourg City and surrounding areas**. Witnesses reported a rectangular, pinkish‑red object seen for about a minute on one occasion, interpreted by observers as not resembling conventional aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/lerepublicainlorrain13oct1980f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: la presse, OVNI au Luxembourg, 1980October 13, 1980...</span><span class="citation-popover-meta">Published: October 13, 1980</span></span></span>
-* Around the same period, a separate article from *Tageblatt*, a Luxembourg daily, noted **a luminous object over Bergem** near Luxembourg lasting several minutes, with witnesses asserting it was neither an aircraft nor a known celestial body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/tageblatt30sep1980f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: la presse, rapport OVNI au Luxembourg, 1980September 30, 1980...</span><span class="citation-popover-meta">Published: September 30, 1980</span></span></span>
-* Another press report from 1980 recounts a witness in the Cents district seeing **two orange lights—one large, one small—moving in close formation**, neither of which matched familiar aircraft lighting signatures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/lerepublicainlorrain20aug1980f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: la presse, rapport OVNI à Luxembourg, 1980August 20, 1980...</span><span class="citation-popover-meta">Published: August 20, 1980</span></span></span>
+* In 1980, newspapers such as *Le Républicain Lorrain* recorded multiple **eyewitness accounts of luminous or shaped objects observed over Luxembourg City and surrounding areas**. Witnesses reported a rectangular, pinkish‑red object seen for about a minute on one occasion, interpreted by observers as not resembling conventional aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/lerepublicainlorrain13oct1980f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: la presse, OVNI au Luxembourg, 1980October 13, 1980...</span><span class="citation-popover-meta">Published: October 13, 1980</span></span></span>
+* Around the same period, a separate article from *Tageblatt*, a Luxembourg daily, noted **a luminous object over Bergem** near Luxembourg lasting several minutes, with witnesses asserting it was neither an aircraft nor a known celestial body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/tageblatt30sep1980f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: la presse, rapport OVNI au Luxembourg, 1980September 30, 1980...</span><span class="citation-popover-meta">Published: September 30, 1980</span></span></span>
+* Another press report from 1980 recounts a witness in the Cents district seeing **two orange lights—one large, one small—moving in close formation**, neither of which matched familiar aircraft lighting signatures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/press/lerepublicainlorrain20aug1980f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: la presse, rapport OVNI à Luxembourg, 1980August 20, 1980...</span><span class="citation-popover-meta">Published: August 20, 1980</span></span></span>
 
 These historic press accounts exemplify the local reportage of unusual sky events before formal databases existed.
 
@@ -1207,8 +1207,8 @@ These historic press accounts exemplify the local reportage of unusual sky event
 
 Beyond historical newspapers, modern independent registries include **specific submitted reports from Luxembourg**:
 
-* The **National UFO Reporting Center (NUFORC) database**, a widely referenced civilian repository of sighting reports, lists **sightings in Luxembourg** such as a 2024 report near Bous (Remich) describing a silent, illuminated object seen at close range before vanishing within seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=183829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 183829November 8, 2024...</span><span class="citation-popover-meta">Published: November 8, 2024</span></span></span>
-* Another older NUFORC entry from **2002 notes a stationary bright light observed at night**, described as having periodic dimming and lacking aircraft navigation characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=26689" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 26689December 23, 2002...</span><span class="citation-popover-meta">Published: December 23, 2002</span></span></span>
+* The **National UFO Reporting Center (NUFORC) database**, a widely referenced civilian repository of sighting reports, lists **sightings in Luxembourg** such as a 2024 report near Bous (Remich) describing a silent, illuminated object seen at close range before vanishing within seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=183829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 183829November 8, 2024...</span><span class="citation-popover-meta">Published: November 8, 2024</span></span></span>
+* Another older NUFORC entry from **2002 notes a stationary bright light observed at night**, described as having periodic dimming and lacking aircraft navigation characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=26689" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 26689December 23, 2002...</span><span class="citation-popover-meta">Published: December 23, 2002</span></span></span>
 
 While such databases depend on voluntary civilian submissions and are unverified by official agencies, they provide a **record of public sightings over time**.
 
@@ -1217,8 +1217,8 @@ While such databases depend on voluntary civilian submissions and are unverified
 
 Not all unusual observations in Luxembourg have been interpreted as unexplained phenomena once broader context is considered:
 
-* A **bright, greenish fireball seen over Luxembourg and surrounding countries in late 2022** was widely interpreted by local media as a **meteor entering the Earth’s atmosphere**, rather than a UFO in the sense of an inexplicable aerial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://today.rtl.lu/news/luxembourg/a/2009785.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.rtl.lu">[RTL Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.rtl.lu</span><span class="citation-popover-title">Today RTL Today</span><span class="citation-popover-snippet">RTL TodayRTL Today - Celestial body, UFO or something else?: Green fireball seen over LuxembourgDecember 27, 2022...</span><span class="citation-popover-meta">Published: December 27, 2022</span></span></span>
-* Amateur astronomy discussions in 2016 about a luminous streak in the sky ultimately **suggested conventional explanations** such as meteor trails, photographic artefacts, or satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.virgule.lu/culture/une-mysterieuse-lumiere-dans-le-ciel-luxembourgeois/216026.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virgule.lu">[Virgule]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virgule.lu</span><span class="citation-popover-title">Une mystérieuse lumière dans le ciel luxembourgeois &#124; Virgule</span><span class="citation-popover-snippet">Une mystérieuse lumière dans le ciel luxembourgeois &#124; VirguleAugust 2, 2016...</span><span class="citation-popover-meta">Published: August 2, 2016</span></span></span>
+* A **bright, greenish fireball seen over Luxembourg and surrounding countries in late 2022** was widely interpreted by local media as a **meteor entering the Earth’s atmosphere**, rather than a UFO in the sense of an inexplicable aerial craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://today.rtl.lu/news/luxembourg/a/2009785.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.rtl.lu">[RTL Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.rtl.lu</span><span class="citation-popover-title">Today RTL Today</span><span class="citation-popover-snippet">RTL TodayRTL Today - Celestial body, UFO or something else?: Green fireball seen over LuxembourgDecember 27, 2022...</span><span class="citation-popover-meta">Published: December 27, 2022</span></span></span>
+* Amateur astronomy discussions in 2016 about a luminous streak in the sky ultimately **suggested conventional explanations** such as meteor trails, photographic artefacts, or satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.virgule.lu/culture/une-mysterieuse-lumiere-dans-le-ciel-luxembourgeois/216026.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: virgule.lu">[Virgule]</a><span class="citation-popover" role="note"><span class="citation-popover-source">virgule.lu</span><span class="citation-popover-title">Une mystérieuse lumière dans le ciel luxembourgeois &#124; Virgule</span><span class="citation-popover-snippet">Une mystérieuse lumière dans le ciel luxembourgeois &#124; VirguleAugust 2, 2016...</span><span class="citation-popover-meta">Published: August 2, 2016</span></span></span>
 
 These examples highlight how natural or space‑traffic phenomena can be misreported initially as unexplained aerial events.
 
@@ -1228,8 +1228,8 @@ These examples highlight how natural or space‑traffic phenomena can be misrepo
 
 Luxembourg shares geographic and cultural proximity with Belgium, which experienced one of the most widely noted European UFO phenomena:
 
-* The **Belgian UFO wave (1989–1991)** involved thousands of sightings of triangular‑shaped UAPs and attracted investigations from ufological groups such as SOBEPS and limited military interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.wikipedia.org/wiki/Vague_belge_d%27ovnis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Vague belge d&#x27;ovnis</span><span class="citation-popover-snippet">Vague belge d&#x27;ovnis</span></span></span>
-* Some sightings recorded by Belgian groups reportedly occurred **near or observable from Luxembourg territory**, though these are typically catalogued under Belgian regional sightings rather than exclusively Luxembourg cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.odla.fr/2018/02/03/les-ovnis-en-belgique-et-au-luxembourg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odla.fr">[Odlà]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odla.fr</span><span class="citation-popover-title">OdlàLes ovnis en Belgique et au Luxembourg</span><span class="citation-popover-snippet">Ôdla: actualité Ufologique et phénomènes inexpliquésFebruary 3, 2018...</span><span class="citation-popover-meta">Published: February 3, 2018</span></span></span>
+* The **Belgian UFO wave (1989–1991)** involved thousands of sightings of triangular‑shaped UAPs and attracted investigations from ufological groups such as SOBEPS and limited military interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.wikipedia.org/wiki/Vague_belge_d%27ovnis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Vague belge d&#x27;ovnis</span><span class="citation-popover-snippet">Vague belge d&#x27;ovnis</span></span></span>
+* Some sightings recorded by Belgian groups reportedly occurred **near or observable from Luxembourg territory**, though these are typically catalogued under Belgian regional sightings rather than exclusively Luxembourg cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.odla.fr/2018/02/03/les-ovnis-en-belgique-et-au-luxembourg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odla.fr">[Odlà]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odla.fr</span><span class="citation-popover-title">OdlàLes ovnis en Belgique et au Luxembourg</span><span class="citation-popover-snippet">Ôdla: actualité Ufologique et phénomènes inexpliquésFebruary 3, 2018...</span><span class="citation-popover-meta">Published: February 3, 2018</span></span></span>
 
 This regional context can explain why Luxembourg’s own UFO record is modest: many phenomena observed locally may be absorbed into broader cross‑border narratives.
 
@@ -1238,8 +1238,8 @@ This regional context can explain why Luxembourg’s own UFO record is modest: m
 
 As of current public evidence, there has been **no dedicated government agency in Luxembourg** publicly maintaining an official UFO/UAP research programme:
 
-* A 2023 interview with astrophysicist Guillaume Trap noted **no formal institutional UFO study body exists in Luxembourg**, though events from neighbouring regions are sometimes noted by external committees such as the **Comité belge d’étude des phénomènes spatiaux (COBEPS)**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lequotidien.lu/a-la-une/pour-guillaume-trap-astrophysicien-nous-ne-savons-plus-observer-le-ciel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lequotidien.lu">[Le Quotidien]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lequotidien.lu</span><span class="citation-popover-snippet">Le QuotidienPour Guillaume Trap, astrophysicien, «nous ne savons plus observer le ciel» &#124; Le QuotidienNovember 26, 2023...</span><span class="citation-popover-meta">Published: November 26, 2023</span></span></span>
-* Public petitions in Luxembourg (circa 2021) have called for greater transparency and release of any government files pertaining to UAP sightings, indicating some civic interest in the topic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luxtimes.lu">[Luxembourg Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luxtimes.lu</span><span class="citation-popover-title">Luxembourg Times Stop hiding UFO evidence, petitioners say &#124; Luxembourg Times</span><span class="citation-popover-snippet">Luxembourg TimesStop hiding UFO evidence, petitioners say &#124; Luxembourg TimesMarch 21, 2021...</span><span class="citation-popover-meta">Published: March 21, 2021</span></span></span>
+* A 2023 interview with astrophysicist Guillaume Trap noted **no formal institutional UFO study body exists in Luxembourg**, though events from neighbouring regions are sometimes noted by external committees such as the **Comité belge d’étude des phénomènes spatiaux (COBEPS)**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lequotidien.lu/a-la-une/pour-guillaume-trap-astrophysicien-nous-ne-savons-plus-observer-le-ciel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lequotidien.lu">[Le Quotidien]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lequotidien.lu</span><span class="citation-popover-snippet">Le QuotidienPour Guillaume Trap, astrophysicien, «nous ne savons plus observer le ciel» &#124; Le QuotidienNovember 26, 2023...</span><span class="citation-popover-meta">Published: November 26, 2023</span></span></span>
+* Public petitions in Luxembourg (circa 2021) have called for greater transparency and release of any government files pertaining to UAP sightings, indicating some civic interest in the topic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luxtimes.lu">[Luxembourg Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luxtimes.lu</span><span class="citation-popover-title">Luxembourg Times Stop hiding UFO evidence, petitioners say &#124; Luxembourg Times</span><span class="citation-popover-snippet">Luxembourg TimesStop hiding UFO evidence, petitioners say &#124; Luxembourg TimesMarch 21, 2021...</span><span class="citation-popover-meta">Published: March 21, 2021</span></span></span>
 
 There is no publicly accessible Luxembourg aerospace defence or scientific archive dedicated to unexplained aerial phenomena equivalent to France’s GEIPAN or the former UK Ministry of Defence files released at The National Archives.
 
@@ -1261,194 +1261,194 @@ Luxembourg’s UFO/UAP record is **sparse but has notable entries** across decad
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5xoYR0YjGh8" title="HISTORIA de los OVNIS - Episodio 2 - Los años 40 y 50 - El Caso Roswell y el Proyecto Libro Azul" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer">HISTORIA de los OVNIS - Episodio 2 - Los años 40 y 50 - El Caso Roswell y el Proyecto Libro Azul</a></p><p class="youtube-embed-meta">Channel: Pero eso es otra Historia &middot; Views: 551.1K &middot; Uploaded: March 2023 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5xoYR0YjGh8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Uncovering UFO Activity Across Luxembourg Reports and Analysis. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Uncovering UFO Activity Across Luxembourg Reports and Analysis. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for interpreting European UFO traditions and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting European UFO traditions and reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides investigative context for reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides investigative context for reported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Adds context on official investigations and reporting traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds context on official investigations and reporting traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong fit for a national UFO-overview page focused on documented reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a national UFO-overview page focused on documented reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-activity-across-luxembourg-reports-and-analysis-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1464,7 +1464,7 @@ Luxembourg’s UFO/UAP record is **sparse but has notable entries** across decad
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1484,7 +1484,7 @@ Luxembourg’s UFO/UAP record is **sparse but has notable entries** across decad
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1516,7 +1516,7 @@ Luxembourg’s UFO/UAP record is **sparse but has notable entries** across decad
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1568,7 +1568,7 @@ Luxembourg’s UFO/UAP record is **sparse but has notable entries** across decad
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1613,7 +1613,7 @@ Luxembourg’s UFO/UAP record is **sparse but has notable entries** across decad
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1651,163 +1651,162 @@ Luxembourg’s UFO/UAP record is **sparse but has notable entries** across decad
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/press/lerepublicainlorrain13oct1980f.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/lerepublicainlorrain13oct1980f.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: la presse, OVNI au Luxembourg, 1980October 13, 1980...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/press/lerepublicainlorrain13oct1980f.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/lerepublicainlorrain13oct1980f.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: la presse, OVNI au Luxembourg, 1980October 13, 1980...</p></details>
    Published: October 13, 1980  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/press/tageblatt30sep1980f.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/tageblatt30sep1980f.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: la presse, rapport OVNI au Luxembourg, 1980September 30, 1980...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/press/tageblatt30sep1980f.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/tageblatt30sep1980f.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: la presse, rapport OVNI au Luxembourg, 1980September 30, 1980...</p></details>
    Published: September 30, 1980  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/press/lerepublicainlorrain20aug1980f.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/lerepublicainlorrain20aug1980f.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: la presse, rapport OVNI à Luxembourg, 1980August 20, 1980...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/press/lerepublicainlorrain20aug1980f.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/lerepublicainlorrain20aug1980f.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: la presse, rapport OVNI à Luxembourg, 1980August 20, 1980...</p></details>
    Published: August 20, 1980  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=183829" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183829</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 183829November 8, 2024...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=183829" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183829</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 183829November 8, 2024...</p></details>
    Published: November 8, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=26689" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=26689</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 26689December 23, 2002...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=26689" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=26689</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 26689December 23, 2002...</p></details>
    Published: December 23, 2002  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: today.rtl.lu  
    Title: Today RTL Today  
-   Link: <a href="https://today.rtl.lu/news/luxembourg/a/2009785.html" target="_blank" rel="noopener noreferrer nofollow">https://today.rtl.lu/news/luxembourg/a/2009785.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RTL TodayRTL Today - Celestial body, UFO or something else?: Green fireball seen over LuxembourgDecember 27, 2022...</p></details>
+   Link:<a href="https://today.rtl.lu/news/luxembourg/a/2009785.html" target="_blank" rel="noopener noreferrer nofollow">https://today.rtl.lu/news/luxembourg/a/2009785.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RTL TodayRTL Today - Celestial body, UFO or something else?: Green fireball seen over LuxembourgDecember 27, 2022...</p></details>
    Published: December 27, 2022  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: virgule.lu  
    Title: Une mystérieuse lumière dans le ciel luxembourgeois | Virgule  
-   Link: <a href="https://www.virgule.lu/culture/une-mysterieuse-lumiere-dans-le-ciel-luxembourgeois/216026.html" target="_blank" rel="noopener noreferrer nofollow">https://www.virgule.lu/culture/une-mysterieuse-lumiere-dans-le-ciel-luxembourgeois/216026.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Une mystérieuse lumière dans le ciel luxembourgeois | VirguleAugust 2, 2016...</p></details>
+   Link:<a href="https://www.virgule.lu/culture/une-mysterieuse-lumiere-dans-le-ciel-luxembourgeois/216026.html" target="_blank" rel="noopener noreferrer nofollow">https://www.virgule.lu/culture/une-mysterieuse-lumiere-dans-le-ciel-luxembourgeois/216026.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Une mystérieuse lumière dans le ciel luxembourgeois | VirguleAugust 2, 2016...</p></details>
    Published: August 2, 2016  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Vague belge d'ovnis  
-   Link: <a href="https://fr.wikipedia.org/wiki/Vague_belge_d%27ovnis" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Vague_belge_d%27ovnis</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Vague_belge_d%27ovnis" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Vague_belge_d%27ovnis</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: data.public.lu  
    Title: lu Accueil  
-   Link: <a href="https://data.public.lu/de/" target="_blank" rel="noopener noreferrer nofollow">https://data.public.lu/de/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Portail Open DataMarch 2, 2026 — Image: Gouvernement du Grand-Duché de Luxembourg LA PLATEFORME DE DONNÉES OUVERTES LUXEMBOURGEOISE * Se...</p></details>
+   Link:<a href="https://data.public.lu/de/" target="_blank" rel="noopener noreferrer nofollow">https://data.public.lu/de/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Portail Open DataMarch 2, 2026 — Image: Gouvernement du Grand-Duché de Luxembourg LA PLATEFORME DE DONNÉES OUVERTES LUXEMBOURGEOISE * Se...</p></details>
    Published: March 2, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: data.public.lu  
    Title: lu Home  
-   Link: <a href="https://data.public.lu/en/" target="_blank" rel="noopener noreferrer nofollow">https://data.public.lu/en/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portail Open DataMarch 2, 2026 — THE LUXEMBOURGISH OPEN DATA PLATFORM FEATURED TOPICS * Geospatial data * Earth observation and environme...</p></details>
+   Link:<a href="https://data.public.lu/en/" target="_blank" rel="noopener noreferrer nofollow">https://data.public.lu/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Portail Open DataMarch 2, 2026 — THE LUXEMBOURGISH OPEN DATA PLATFORM FEATURED TOPICS * Geospatial data * Earth observation and environme...</p></details>
    Published: March 2, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: virgule.lu  
    Title: Luxembourg belge: les ovnis étaient des  
-   Link: <a href="https://www.virgule.lu/international/luxembourg-belge-les-ovnis-etaient-des-lanternes/40650.html" target="_blank" rel="noopener noreferrer nofollow">https://www.virgule.lu/international/luxembourg-belge-les-ovnis-etaient-des-lanternes/40650.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lanternes | VirguleMay 15, 2012 — LUXEMBOURG BELGE: LES OVNIS ÉTAIENT DES... LANTERNES LES PRÉSUMÉS OVNIS OBSERVÉS DANS LE CIEL DE GAUME...</p></details>
+   Link:<a href="https://www.virgule.lu/international/luxembourg-belge-les-ovnis-etaient-des-lanternes/40650.html" target="_blank" rel="noopener noreferrer nofollow">https://www.virgule.lu/international/luxembourg-belge-les-ovnis-etaient-des-lanternes/40650.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lanternes | VirguleMay 15, 2012 — LUXEMBOURG BELGE: LES OVNIS ÉTAIENT DES... LANTERNES LES PRÉSUMÉS OVNIS OBSERVÉS DANS LE CIEL DE GAUME...</p></details>
    Published: May 15, 2012  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufologie.patrickgross.org  
    Title: A UFO IN THE SKY OF THE LUXEMBOURG CAPIT  
-   Link: <a href="https://ufologie.patrickgross.org/press/lerepublicainlorrain13oct1980.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/lerepublicainlorrain13oct1980.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS at close sight: the newspapers, UFO in Luxemburg, 1980October 13, 1980 — UFOS IN THE DAILY PRESS: UFO IN LUXEMBURG, 1980: The articl...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/press/lerepublicainlorrain13oct1980.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/lerepublicainlorrain13oct1980.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS at close sight: the newspapers, UFO in Luxemburg, 1980October 13, 1980 — UFOS IN THE DAILY PRESS: UFO IN LUXEMBURG, 1980: The articl...</p></details>
    Published: October 13, 1980  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lequotidien.lu  
-   Link: <a href="https://lequotidien.lu/a-la-une/pour-guillaume-trap-astrophysicien-nous-ne-savons-plus-observer-le-ciel/" target="_blank" rel="noopener noreferrer nofollow">https://lequotidien.lu/a-la-une/pour-guillaume-trap-astrophysicien-nous-ne-savons-plus-observer-le-ciel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Le QuotidienPour Guillaume Trap, astrophysicien, «nous ne savons plus observer le ciel» | Le QuotidienNovember 26, 2023...</p></details>
+   Link:<a href="https://lequotidien.lu/a-la-une/pour-guillaume-trap-astrophysicien-nous-ne-savons-plus-observer-le-ciel/" target="_blank" rel="noopener noreferrer nofollow">https://lequotidien.lu/a-la-une/pour-guillaume-trap-astrophysicien-nous-ne-savons-plus-observer-le-ciel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Le QuotidienPour Guillaume Trap, astrophysicien, «nous ne savons plus observer le ciel» | Le QuotidienNovember 26, 2023...</p></details>
    Published: November 26, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: luxtimes.lu  
    Title: Luxembourg Times Stop hiding UFO evidence, petitioners say | Luxembourg Times  
-   Link: <a href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow">https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luxembourg TimesStop hiding UFO evidence, petitioners say | Luxembourg TimesMarch 21, 2021...</p></details>
+   Link:<a href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow">https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luxembourg TimesStop hiding UFO evidence, petitioners say | Luxembourg TimesMarch 21, 2021...</p></details>
    Published: March 21, 2021  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Luxembourg UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/luxembourg-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/luxembourg-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 — LUXEMBOURG UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT LUXEMBOURG UFO UAP USO SIGHTINGS &amp; CLOSE ENCOUNTERS Date...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/luxembourg-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/luxembourg-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 — LUXEMBOURG UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT LUXEMBOURG UFO UAP USO SIGHTINGS &amp; CLOSE ENCOUNTERS Date...</p></details>
    Published: March 22, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Top 20 UFO Sightings That Shocked Europe | Full Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=LXxhVSRmsMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LXxhVSRmsMw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The Roswell Incident and Project Blue Book...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LXxhVSRmsMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LXxhVSRmsMw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The Roswell Incident and Project Blue Book...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: odla.fr  
    Title: OdlàLes ovnis en Belgique et au Luxembourg  
-   Link: <a href="https://www.odla.fr/2018/02/03/les-ovnis-en-belgique-et-au-luxembourg/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2018/02/03/les-ovnis-en-belgique-et-au-luxembourg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ôdla: actualité Ufologique et phénomènes inexpliquésFebruary 3, 2018...</p></details>
+   Link:<a href="https://www.odla.fr/2018/02/03/les-ovnis-en-belgique-et-au-luxembourg/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2018/02/03/les-ovnis-en-belgique-et-au-luxembourg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ôdla: actualité Ufologique et phénomènes inexpliquésFebruary 3, 2018...</p></details>
    Published: February 3, 2018  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Most Terrifying UFO Sightings You Weren't Supposed To Know  
-   Link: <a href="https://www.youtube.com/watch?v=ze73Ier5LOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ze73Ier5LOs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 20 UFO Sightings That Shocked Europe | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ze73Ier5LOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ze73Ier5LOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 20 UFO Sightings That Shocked Europe | Full Documentary...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Impossible to Debunk UFO Events  
-   Link: <a href="https://www.youtube.com/watch?v=Om0d0u1ASJY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Om0d0u1ASJY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Terrifying UFO Sightings You Weren&#x27;t Supposed To Know...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Om0d0u1ASJY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Om0d0u1ASJY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Terrifying UFO Sightings You Weren&#x27;t Supposed To Know...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: This European UFO Was Spotted by Thousands of People | Belgian UFO Wave  
-   Link: <a href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SbQhrIRCs-c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impossible to Debunk UFO Events...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SbQhrIRCs-c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SbQhrIRCs-c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impossible to Debunk UFO Events...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: HISTORY of UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5xoYR0YjGh8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5xoYR0YjGh8</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nationalarchives.gov.uk  
    Title: UF O reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</p></details>

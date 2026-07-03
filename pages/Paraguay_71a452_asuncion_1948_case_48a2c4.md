@@ -248,29 +248,29 @@ image: /assets/images/Paraguay_71a452_asuncion_1948_case_48a2c4-Illustration-1-s
 
 ## Introduction
 
-The 1948 Asunción sighting remains the strongest archival anchor in Paraguay’s UFO record not because it produced photographs, recovered material or official scientific conclusions, but because it left a traceable documentary trail. Unlike many later stories that survive mainly through retellings, this case appears in newspaper reporting from the period and was later referenced within the United States Air Force’s early UFO intelligence files. That combination gives it unusual historical weight in Paraguay’s small and fragmented UFO archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
+The 1948 Asunción sighting remains the strongest archival anchor in Paraguay’s UFO record not because it produced photographs, recovered material or official scientific conclusions, but because it left a traceable documentary trail. Unlike many later stories that survive mainly through retellings, this case appears in newspaper reporting from the period and was later referenced within the United States Air Force’s early UFO intelligence files. That combination gives it unusual historical weight in Paraguay’s small and fragmented UFO archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
 
 <img src="{{ "/assets/images/Paraguay_71a452_asuncion_1948_case_48a2c4-Illustration-1-dark.svg" | relative_url }}" alt="1948 Case illustration 1" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452_asuncion_1948_case_48a2c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452_asuncion_1948_case_48a2c4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the episode especially notable is that it was not presented as a single isolated observation. Reports linked witnesses in Asunción, Areguá, the Cordillera region and the Chaco, creating the impression of a wider regional event rather than a lone personal account. Yet the surviving record is incomplete, leaving modern researchers with an unusual problem: the case is better documented than most Paraguayan UFO reports, but still too thin to allow a confident explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
+What makes the episode especially notable is that it was not presented as a single isolated observation. Reports linked witnesses in Asunción, Areguá, the Cordillera region and the Chaco, creating the impression of a wider regional event rather than a lone personal account. Yet the surviving record is incomplete, leaving modern researchers with an unusual problem: the case is better documented than most Paraguayan UFO reports, but still too thin to allow a confident explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
 
 ## What witnesses reportedly saw
 
-Accounts preserved by Paraguayan researchers describe a series of observations dated 20 February 1948. The best-known witness was identified as Agustina viuda de Paula in the Barrio Obrero area of Asunción. Other reports placed observers in Areguá, in the Cordillera region, and at Estancia Santa Felicia in the Chaco. Later summaries describe bright aerial objects or “flying saucers” moving across the sky and being observed from widely separated locations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
+Accounts preserved by Paraguayan researchers describe a series of observations dated 20 February 1948. The best-known witness was identified as Agustina viuda de Paula in the Barrio Obrero area of Asunción. Other reports placed observers in Areguá, in the Cordillera region, and at Estancia Santa Felicia in the Chaco. Later summaries describe bright aerial objects or “flying saucers” moving across the sky and being observed from widely separated locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
 
 The geographical spread is one reason the incident continues to attract attention. A single witness can misjudge distance, speed or altitude. Multiple reports from different regions are often treated by UFO researchers as potentially more valuable because they may indicate either a genuine atmospheric event visible over a large area or a chain of related observations occurring within the same time window.
 
-However, the surviving public record does not provide the kind of detail that modern investigators would want. There are no known radar records, no confirmed photographs, no preserved physical traces and no complete set of witness interviews available in public [archives]({{ 'archives-c65cd5/' | relative_url }}). Most later descriptions depend on newspaper references and secondary compilations rather than original investigative files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
+However, the surviving public record does not provide the kind of detail that modern investigators would want. There are no known radar records, no confirmed photographs, no preserved physical traces and no complete set of witness interviews available in public [archives]({{ 'archives-c65cd5/' | relative_url }}). Most later descriptions depend on newspaper references and secondary compilations rather than original investigative files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
 
 That gap is crucial. The case gains credibility from its documentary survival, but its evidential limits are often overlooked when the story is retold.
 
 <img src="{{ "/assets/images/Paraguay_71a452_asuncion_1948_case_48a2c4-Illustration-3-dark.svg" | relative_url }}" alt="1948 Case illustration 3" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452_asuncion_1948_case_48a2c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452_asuncion_1948_case_48a2c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the case entered wider archives
 
-The 1948 sighting occurred during the first international wave of “flying saucer” reports that followed the famous 1947 Kenneth Arnold sighting in the United States. By early 1948, military and intelligence organisations were collecting reports from many countries because unidentified aerial phenomena were being discussed not only as possible scientific curiosities but also as potential Cold War security concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[origins.osu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">air force investigation ufos</span><span class="citation-popover-snippet">The Air Force Investigation into UFOs &#124; Origins22 Dec 2024 — The origins of Project Blue Book began with the “flying saucer craze... Thi...</span></span></span>
+The 1948 sighting occurred during the first international wave of “flying saucer” reports that followed the famous 1947 Kenneth Arnold sighting in the United States. By early 1948, military and intelligence organisations were collecting reports from many countries because unidentified aerial phenomena were being discussed not only as possible scientific curiosities but also as potential Cold War security concerns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[origins.osu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">air force investigation ufos</span><span class="citation-popover-snippet">The Air Force Investigation into UFOs &#124; Origins22 Dec 2024 — The origins of Project Blue Book began with the “flying saucer craze... Thi...</span></span></span>
 
-According to Paraguayan researcher Ronald Maidana Torres, the Asunción report later appeared in the records associated with the US Air Force's early UFO investigations. Local reporting identifies it as a Project Sign or early Project Blue Book-related entry commonly described as “Flying Saucers Reported over Asunción”. The source cited for the report was the Paraguayan newspaper *La Tribuna*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
+According to Paraguayan researcher Ronald Maidana Torres, the Asunción report later appeared in the records associated with the US Air Force's early UFO investigations. Local reporting identifies it as a Project Sign or early Project Blue Book-related entry commonly described as “Flying Saucers Reported over Asunción”. The source cited for the report was the Paraguayan newspaper *La Tribuna*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
 
-This distinction matters because the case is sometimes presented as if American investigators conducted an extensive field investigation in Paraguay. The surviving evidence suggests something more limited. The report appears to have been collected and catalogued as part of a broader effort to gather international UFO information rather than as a major dedicated investigation on Paraguayan soil. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
+This distinction matters because the case is sometimes presented as if American investigators conducted an extensive field investigation in Paraguay. The surviving evidence suggests something more limited. The report appears to have been collected and catalogued as part of a broader effort to gather international UFO information rather than as a major dedicated investigation on Paraguayan soil.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span>
 
 The archival chain therefore looks roughly like this:
 
@@ -279,7 +279,7 @@ The archival chain therefore looks roughly like this:
 1. Witness reports appeared in Paraguay.
 2. Local newspapers, particularly *La Tribuna*, reported the event.
 3. The information entered US military UFO files during the early flying-saucer era.
-4. Decades later, declassified Project Sign and Project Blue Book materials allowed researchers to identify the Paraguayan entry within the wider archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...</span></span></span>
+4. Decades later, declassified Project Sign and Project Blue Book materials allowed researchers to identify the Paraguayan entry within the wider archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...</span></span></span>
 
 That documentary continuity is the strongest feature of the case.
 
@@ -292,7 +292,7 @@ Several features strengthen its historical value:
 * The event was reported close to the time it allegedly occurred.
 * Multiple locations were associated with the observations.
 * Newspaper coverage appears to have existed before later UFO folklore developed around the case.
-* The report entered a formal intelligence collection system rather than remaining purely local legend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ronald.r.maidana.torres/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Maidana Ronald (@ronald.r.maidana.torres)... 1948. Su reporte titulado &quot;Flying Saucers Reported over Asunción&quot; (Platillos Volante...</span></span></span>, the evidence falls short of what would be required to establish an extraordinary claim.
+* The report entered a formal intelligence collection system rather than remaining purely local legend.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ronald.r.maidana.torres/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Maidana Ronald (@ronald.r.maidana.torres)... 1948. Su reporte titulado &quot;Flying Saucers Reported over Asunción&quot; (Platillos Volante...</span></span></span>, the evidence falls short of what would be required to establish an extraordinary claim.
 
 Key weaknesses include:
 
@@ -300,7 +300,7 @@ Key weaknesses include:
 * No known surviving photographs.
 * No confirmed military tracking data.
 * Limited access to original witness testimony.
-* Dependence on later summaries that often repeat the same underlying sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...</span></span></span>
+* Dependence on later summaries that often repeat the same underlying sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...</span></span></span>
 
 This creates a situation common in early UFO history: the existence of the report is well supported, while the nature of the object remains uncertain.
 
@@ -309,11 +309,11 @@ This creates a situation common in early UFO history: the existence of the repor
 
 The case survives largely because it was classified as unexplained at the reporting stage, but that does not automatically mean it represented something extraordinary.
 
-One possibility is that the witnesses observed a conventional astronomical or atmospheric phenomenon. During the late 1940s many international “flying saucer” reports were eventually attributed to bright planets, meteors, unusual cloud formations or observational errors. Project Sign, Project Grudge and later Project Blue Book repeatedly concluded that large numbers of sightings fell into those categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[origins.osu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">air force investigation ufos</span><span class="citation-popover-snippet">The Air Force Investigation into UFOs &#124; Origins22 Dec 2024 — The origins of Project Blue Book began with the “flying saucer craze... Thi...</span></span></span> [2U.S. Air Force]
+One possibility is that the witnesses observed a conventional astronomical or atmospheric phenomenon. During the late 1940s many international “flying saucer” reports were eventually attributed to bright planets, meteors, unusual cloud formations or observational errors. Project Sign, Project Grudge and later Project Blue Book repeatedly concluded that large numbers of sightings fell into those categories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[origins.osu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">air force investigation ufos</span><span class="citation-popover-snippet">The Air Force Investigation into UFOs &#124; Origins22 Dec 2024 — The origins of Project Blue Book began with the “flying saucer craze... Thi...</span></span></span> [2U.S. Air Force]
 
 Another possibility is that several separate observations became merged into a single narrative through newspaper reporting. If reports arrived from different regions at roughly the same time, editors may have treated them as one event even if the witnesses observed different phenomena.
 
-A third explanation is that a genuine aerial object was seen but lacked enough information for identification. This category covers aircraft, balloons and other conventional objects that could not be conclusively recognised by observers. The US Air Force's historical files contain many cases that remained unresolved not because they proved something extraordinary, but because the available information was insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
+A third explanation is that a genuine aerial object was seen but lacked enough information for identification. This category covers aircraft, balloons and other conventional objects that could not be conclusively recognised by observers. The US Air Force's historical files contain many cases that remained unresolved not because they proved something extraordinary, but because the available information was insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
 None of these explanations can be tested decisively with the surviving evidence.
 
@@ -323,201 +323,201 @@ None of these explanations can be tested decisively with the surviving evidence.
 
 The significance of the 1948 Asunción sighting is often misunderstood. Its importance is not that it proves extraterrestrial visitation to Paraguay. No publicly available evidence supports such a conclusion.
 
-Instead, the case matters because it occupies a rare intersection of local reporting, international archival preservation and national UFO history. For Paraguay, whose UFO record depends heavily on scattered newspapers, oral recollections and private collections, the survival of a documented 1948 report provides a fixed reference point. It helps historians trace how global “flying saucer” culture reached Paraguay and how local observations entered larger Cold War-era intelligence archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...</span></span></span>
+Instead, the case matters because it occupies a rare intersection of local reporting, international archival preservation and national UFO history. For Paraguay, whose UFO record depends heavily on scattered newspapers, oral recollections and private collections, the survival of a documented 1948 report provides a fixed reference point. It helps historians trace how global “flying saucer” culture reached Paraguay and how local observations entered larger Cold War-era intelligence archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...</span></span></span>
 
-Within the broader chronology of Paraguayan UFO reports, the 1948 incident functions less as a solved mystery than as a documentary benchmark. It demonstrates that unexplained aerial reports were being recorded in Paraguay during the earliest years of the modern UFO era, while also illustrating the central problem that continues to shape the country's UFO archive: the reports survived, but the evidence needed to resolve them often did not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ronald.r.maidana.torres/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Maidana Ronald (@ronald.r.maidana.torres)... 1948. Su reporte titulado &quot;Flying Saucers Reported over Asunción&quot; (Platillos Volante...</span></span></span>
+Within the broader chronology of Paraguayan UFO reports, the 1948 incident functions less as a solved mystery than as a documentary benchmark. It demonstrates that unexplained aerial reports were being recorded in Paraguay during the earliest years of the modern UFO era, while also illustrating the central problem that continues to shape the country's UFO archive: the reports survived, but the evidence needed to resolve them often did not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ultimahora.com">[Última Hora]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ultimahora.com</span><span class="citation-popover-title">Última Hora EEUU investigó avistamientos de ovnis en Paraguay</span><span class="citation-popover-snippet">Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</span><span class="citation-popover-meta">Published: June 4, 2016</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ronald.r.maidana.torres/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Maidana Ronald (@ronald.r.maidana.torres)... 1948. Su reporte titulado &quot;Flying Saucers Reported over Asunción&quot; (Platillos Volante...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1cO5K1np2Ig" title="Project Blue Book Exposed (2020) [Documentary]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer">Project Blue Book Exposed (2020) [Documentary]</a></p><p class="youtube-embed-meta">Channel: CiNENET - Full movies in English &middot; Views: 17.1K &middot; Uploaded: January 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1cO5K1np2Ig">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the 1948 Asuncion Case Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the 1948 Asuncion Case Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places historical reports into a wider global context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places historical reports into a wider global context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits a historically significant mid-century sighting case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a historically significant mid-century sighting case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for analysing witness reports and possible explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for analysing witness reports and possible explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides context on archival treatment of UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on archival treatment of UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-1948-asuncion-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-1948-asuncion-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -533,7 +533,7 @@ Within the broader chronology of Paraguayan UFO reports, the 1948 incident funct
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,7 +553,7 @@ Within the broader chronology of Paraguayan UFO reports, the 1948 incident funct
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -585,7 +585,7 @@ Within the broader chronology of Paraguayan UFO reports, the 1948 incident funct
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -637,7 +637,7 @@ Within the broader chronology of Paraguayan UFO reports, the 1948 incident funct
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -682,7 +682,7 @@ Within the broader chronology of Paraguayan UFO reports, the 1948 incident funct
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -723,120 +723,120 @@ Within the broader chronology of Paraguayan UFO reports, the 1948 incident funct
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ronald.r.maidana.torres/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ronald.r.maidana.torres/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maidana Ronald (@ronald.r.maidana.torres)... 1948. Su reporte titulado &quot;Flying Saucers Reported over Asunción&quot; (Platillos Volante...</p></details>
+   Link:<a href="https://www.facebook.com/ronald.r.maidana.torres/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ronald.r.maidana.torres/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maidana Ronald (@ronald.r.maidana.torres)... 1948. Su reporte titulado &quot;Flying Saucers Reported over Asunción&quot; (Platillos Volante...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOs | Origins22 Dec 2024 — The origins of Project Blue Book began with the “flying saucer craze... Thi...</p></details>
+   Link:<a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOs | Origins22 Dec 2024 — The origins of Project Blue Book began with the “flying saucer craze... Thi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/trecepy/posts/-ovnis-en-paraguay-recibimos-al-uf%C3%B3logo-ronald-maidana-torres-investigador-que-d/1009205128360978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/trecepy/posts/-ovnis-en-paraguay-recibimos-al-uf%C3%B3logo-ronald-maidana-torres-investigador-que-d/1009205128360978/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sobre objetos extraños sobrevolando el país. Uno de...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/trecepy/posts/-ovnis-en-paraguay-recibimos-al-uf%C3%B3logo-ronald-maidana-torres-investigador-que-d/1009205128360978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/trecepy/posts/-ovnis-en-paraguay-recibimos-al-uf%C3%B3logo-ronald-maidana-torres-investigador-que-d/1009205128360978/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sobre objetos extraños sobrevolando el país. Uno de...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: For 17 years, the U.S  
-   Link: <a href="https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force chased lights in the sky....From 1952 to 1969, under a classified program called Project Blue Book, the military investigated...</p></details>
+   Link:<a href="https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force chased lights in the sky....From 1952 to 1969, under a classified program called Project Blue Book, the military investigated...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — Project Blue Book in 1952; that project became the longest running of the US government&#x27;s official...</p></details>
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — Project Blue Book in 1952; that project became the longest running of the US government&#x27;s official...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ultimahora.com  
    Title: Última Hora EEUU investigó avistamientos de ovnis en Paraguay  
-   Link: <a href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow">https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</p></details>
+   Link:<a href="https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022" target="_blank" rel="noopener noreferrer nofollow">https://www.ultimahora.com/fuerza-area-eeuu-investigo-avistamientos-ovnis-paraguay-n997022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Última HoraEEUU investigó avistamientos de ovnis en ParaguayJune 4, 2016 — 4 Jun 2016 — El ufólogo paraguayo Ronald Maidana Torres recopi...</p></details>
    Published: June 4, 2016  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thealbertan.com  
-   Link: <a href="https://www.thealbertan.com/lifestyle/nearly-a-century-of-wondering-the-american-ufo-saga-in-reality-and-in-fiction-12099317" target="_blank" rel="noopener noreferrer nofollow">https://www.thealbertan.com/lifestyle/nearly-a-century-of-wondering-the-american-ufo-saga-in-reality-and-in-fiction-12099317</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force launches Project Sign, an investigation into UFOs; renamed Project Blue Book in 1953. More than 12,600 reported sightings were...</p></details>
+   Link:<a href="https://www.thealbertan.com/lifestyle/nearly-a-century-of-wondering-the-american-ufo-saga-in-reality-and-in-fiction-12099317" target="_blank" rel="noopener noreferrer nofollow">https://www.thealbertan.com/lifestyle/nearly-a-century-of-wondering-the-american-ufo-saga-in-reality-and-in-fiction-12099317</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force launches Project Sign, an investigation into UFOs; renamed Project Blue Book in 1953. More than 12,600 reported sightings were...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pdfcoffee.com  
    Title: OVN Is en El Paraguay  
-   Link: <a href="https://pdfcoffee.com/ovnis-en-el-paraguay-ronald-maidana-2016-ebook-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/ovnis-en-el-paraguay-ronald-maidana-2016-ebook-pdf-free.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNIs en El Paraguay - Ronald Maidana (2016) - eBookEn la obra se aprecia el apartado “Un Siglo de Aterrizajes de OVNIs” abarcándose caso...</p></details>
+   Link:<a href="https://pdfcoffee.com/ovnis-en-el-paraguay-ronald-maidana-2016-ebook-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/ovnis-en-el-paraguay-ronald-maidana-2016-ebook-pdf-free.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNIs en El Paraguay - Ronald Maidana (2016) - eBookEn la obra se aprecia el apartado “Un Siglo de Aterrizajes de OVNIs” abarcándose caso...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: esd.whs.mil  
    Title: UFOs was rescinded  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force investigation of UFO&#x27;s began in 1948 and...With the termination or Project Blue Book, the Air Force regulation establishing an...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force investigation of UFO&#x27;s began in 1948 and...With the termination or Project Blue Book, the Air Force regulation establishing an...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dgroqLFDaW0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dgroqLFDaW0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: UFOs in Paraguay: sightings reported in several areas of the country  
-   Link: <a href="https://www.youtube.com/watch?v=wPRi0bRO1xw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPRi0bRO1xw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>¿Ovnis en Paraguay? Existen avistamientos registrados.#TeleShow...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wPRi0bRO1xw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPRi0bRO1xw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>¿Ovnis en Paraguay? Existen avistamientos registrados.#TeleShow...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
    Title: DYu SB8NOGZ5  
-   Link: <a href="https://www.instagram.com/reel/DYuSB8NOGZ5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYuSB8NOGZ5/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trece on Instagram: &quot; ¿Ovnis en Paraguay? Recibimos al...en esa época, en 1948, específicamente comencé a investigar los casos de avista...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYuSB8NOGZ5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYuSB8NOGZ5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trece on Instagram: &quot; ¿Ovnis en Paraguay? Recibimos al...en esa época, en 1948, específicamente comencé a investigar los casos de avista...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Paraguay: sightings reported in several areas of the country...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Paraguay: sightings reported in several areas of the country...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thehistoryreader.com  
    Title: ufo events  
-   Link: <a href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/military-history/ufo-events/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Critical UFO Events in HistoryThe two events, the reported crash of a flying saucer near Aztec, New Mexico, in March, 1948, and the R...</p></details>
+   Link:<a href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/military-history/ufo-events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two Critical UFO Events in HistoryThe two events, the reported crash of a flying saucer near Aztec, New Mexico, in March, 1948, and the R...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-90Cabell ordered a new UFO project in 1952. Project BLUE BOOK became the major Air Force effort to...</p></details>
+   Link:<a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-90Cabell ordered a new UFO project in 1952. Project BLUE BOOK became the major Air Force effort to...</p></details>

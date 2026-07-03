@@ -259,24 +259,24 @@ Costa Rica does **not** have a dedicated official UFO (UAP) investigation office
 <img src="{{ "/assets/images/Costa_Rica_fe586b_official_records_9b05ad-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b_official_records_9b05ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b_official_records_9b05ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The National Archival Framework in Costa Rica
 
-Costa Rica’s official archival infrastructure is governed by the *Archivo Nacional de Costa Rica*, a decentralised institution under the Ministry of Culture and Youth responsible for preserving the nation’s documentary heritage and facilitating public access to historical records. Its mandate includes organising, conserving and disseminating documents of “scientific and cultural value”, managing textual and multimedia records, and supervising the national archival system legally established under Act 7202. This system enables individuals to request access to archival documents but does not equip the institution with investigative powers regarding specific content such as UFO cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.cultura.cr">[si.cultura.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.cultura.cr</span><span class="citation-popover-title">Archivo Nacional de Costa Rica &#124; Sistema de Información Cultural de Costa Rica</span><span class="citation-popover-snippet">Archivo Nacional de Costa Rica &#124; Sistema de Información Cultural de Costa Rica</span></span></span>
+Costa Rica’s official archival infrastructure is governed by the *Archivo Nacional de Costa Rica*, a decentralised institution under the Ministry of Culture and Youth responsible for preserving the nation’s documentary heritage and facilitating public access to historical records. Its mandate includes organising, conserving and disseminating documents of “scientific and cultural value”, managing textual and multimedia records, and supervising the national archival system legally established under Act 7202. This system enables individuals to request access to archival documents but does not equip the institution with investigative powers regarding specific content such as UFO cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.cultura.cr">[si.cultura.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.cultura.cr</span><span class="citation-popover-title">Archivo Nacional de Costa Rica &#124; Sistema de Información Cultural de Costa Rica</span><span class="citation-popover-snippet">Archivo Nacional de Costa Rica &#124; Sistema de Información Cultural de Costa Rica</span></span></span>
 
-The archive’s holdings span a wide array of material — textual records, photographic negatives and slides, maps, audiovisual recordings and digital objects — with procedures for researchers to search descriptions via an online database and to consult materials in person. The archive also publishes a peer‑reviewed journal and disseminates historical content for research purposes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archivodigital.go.cr/index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-title">Welcome to the Historical Archive database</span><span class="citation-popover-snippet">Archivo Nacional de Costa Rica...</span></span></span>
+The archive’s holdings span a wide array of material — textual records, photographic negatives and slides, maps, audiovisual recordings and digital objects — with procedures for researchers to search descriptions via an online database and to consult materials in person. The archive also publishes a peer‑reviewed journal and disseminates historical content for research purposes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archivodigital.go.cr/index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-title">Welcome to the Historical Archive database</span><span class="citation-popover-snippet">Archivo Nacional de Costa Rica...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a7h3lZzICe0" title="Ancient Aliens: Extraterrestrial Stone Spheres in Costa Rica (Season 9) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a7h3lZzICe0" target="_blank" rel="noopener noreferrer">Ancient Aliens: Extraterrestrial Stone Spheres in Costa Rica (Season 9) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 464.6K &middot; Uploaded: August 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a7h3lZzICe0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a7h3lZzICe0">Open on YouTube</a></p></div></div></div>
 
 ## Official Archives and UFO‑Related Records
 
-Publicly reported UFO‑related material in Costa Rica’s archives is primarily limited to historical documentary artefacts that entered the custody of the *Archivo Nacional* through routine government record‑keeping, rather than items created under a formal UFO investigation mandate. The *Lake Cote* photograph is the example most often cited: taken in September 1971 during an official aerial mapping flight by the Instituto Geográfico Nacional, the frame showing an unidentified object was later preserved in the archive’s catalogue of historical photographs. Its existence in the archive attests to transparent preservation of official records but does **not** imply an official conclusion or dedicated programme analysing the phenomenon. (This case is documented via archived references and cataloguing metadata denoting its origin as a mapping photograph, rather than investigative documentation.) <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archivodigital.go.cr/index.php/archivo-nacional" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-title">Archivo Nacional</span><span class="citation-popover-snippet">de Costa RicaARCHIVO NACIONAL Otros idiomas disponibles * Inglés » Archivo Nacional ÁREA DE IDENTIDAD IDENTIFICADOR AN FORMA AUTORIZADA D...</span></span></span>
+Publicly reported UFO‑related material in Costa Rica’s archives is primarily limited to historical documentary artefacts that entered the custody of the *Archivo Nacional* through routine government record‑keeping, rather than items created under a formal UFO investigation mandate. The *Lake Cote* photograph is the example most often cited: taken in September 1971 during an official aerial mapping flight by the Instituto Geográfico Nacional, the frame showing an unidentified object was later preserved in the archive’s catalogue of historical photographs. Its existence in the archive attests to transparent preservation of official records but does **not** imply an official conclusion or dedicated programme analysing the phenomenon. (This case is documented via archived references and cataloguing metadata denoting its origin as a mapping photograph, rather than investigative documentation.)<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archivodigital.go.cr/index.php/archivo-nacional" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-title">Archivo Nacional</span><span class="citation-popover-snippet">de Costa RicaARCHIVO NACIONAL Otros idiomas disponibles * Inglés » Archivo Nacional ÁREA DE IDENTIDAD IDENTIFICADOR AN FORMA AUTORIZADA D...</span></span></span>
 
-Beyond this singular case, there is no publicly accessible registry of UFO sighting reports submitted to a Costa Rican government body, nor any designated agency charged with evaluating anomalous aerial reports. Unlike some nations that maintain formal Freedom of Information frameworks or military investigation offices tasked with collecting UAP reports, Costa Rica’s legislative and archival environment focuses on historical transparency and public access to archived documents. The National Archives can be queried for relevant material, but it does **not** systematically gather or adjudicate UFO cases as part of its institutional remit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Archives_of_Costa_Rica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Archives of Costa Rica</span><span class="citation-popover-snippet">National Archives of Costa Rica</span></span></span>
+Beyond this singular case, there is no publicly accessible registry of UFO sighting reports submitted to a Costa Rican government body, nor any designated agency charged with evaluating anomalous aerial reports. Unlike some nations that maintain formal Freedom of Information frameworks or military investigation offices tasked with collecting UAP reports, Costa Rica’s legislative and archival environment focuses on historical transparency and public access to archived documents. The National Archives can be queried for relevant material, but it does **not** systematically gather or adjudicate UFO cases as part of its institutional remit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Archives_of_Costa_Rica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Archives of Costa Rica</span><span class="citation-popover-snippet">National Archives of Costa Rica</span></span></span>
 
 <img src="{{ "/assets/images/Costa_Rica_fe586b_official_records_9b05ad-Illustration-2-dark.svg" | relative_url }}" alt="Official Records illustration 2" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b_official_records_9b05ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b_official_records_9b05ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Archival Recognition Actually Means
 
 It’s important to distinguish between **catalogued archival material** and an **institutional UFO investigation system**. Archival recognition means that a document — such as a photograph or text — has been identified as part of the national documentary heritage and is preserved under transparent rules for access and stewardship. This does not imply endorsement of the content’s interpretation, nor does it signal the existence of a specialised governmental UAP research programme.
 
-In Cyprus and other countries with formal UAP programmes, dedicated offices actively solicit, record, and investigate new sightings and incidents. In Costa Rica, by contrast, UFO‑related items typically enter the archive as incidental records of general government activity (such as aerial photography) and are preserved according to standard archival policies. Researchers interested in UFO phenomena in Costa Rica must therefore work within the existing archival framework — requesting access to relevant holdings and interpreting them as part of historical inquiry, rather than as part of an ongoing government investigation system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.cultura.cr">[si.cultura.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.cultura.cr</span><span class="citation-popover-snippet">Datos generales 2. Ubicación Categoría: Archivos CONTACTO Correo electrónico: proyeccion@dgan.go.cr Correo electrónico alternativo: archi...</span></span></span>
+In Cyprus and other countries with formal UAP programmes, dedicated offices actively solicit, record, and investigate new sightings and incidents. In Costa Rica, by contrast, UFO‑related items typically enter the archive as incidental records of general government activity (such as aerial photography) and are preserved according to standard archival policies. Researchers interested in UFO phenomena in Costa Rica must therefore work within the existing archival framework — requesting access to relevant holdings and interpreting them as part of historical inquiry, rather than as part of an ongoing government investigation system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.cultura.cr">[si.cultura.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.cultura.cr</span><span class="citation-popover-snippet">Datos generales 2. Ubicación Categoría: Archivos CONTACTO Correo electrónico: proyeccion@dgan.go.cr Correo electrónico alternativo: archi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7WI0KahPqxs" title="WILD Eyewitness Reports of Real UFOs | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7WI0KahPqxs" target="_blank" rel="noopener noreferrer">WILD Eyewitness Reports of Real UFOs | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 793.0K &middot; Uploaded: August 2023 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7WI0KahPqxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7WI0KahPqxs">Open on YouTube</a></p></div></div></div>
 
@@ -286,202 +286,202 @@ In Cyprus and other countries with formal UAP programmes, dedicated offices acti
 
 To further clarify the distinction:
 
-* **Formal UAP offices** (e.g., in the United States, where the National Archives holds declassified military UAP files under prescribed record groups) proactively organise records from multiple agencies and may support ongoing reporting and analysis efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Archives_of_Costa_Rica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Archives of Costa Rica</span><span class="citation-popover-snippet">National Archives of Costa Rica</span></span></span>
-* In **Costa Rica**, the *Archivo Nacional* serves as the custodian of documents once they are deemed historically significant. The archive does **not** solicit, investigate, or adjudicate sightings; it simply preserves records created by other state entities under their respective mandates. Access to and interpretation of such records are governed by general archival policy and public research procedures, not by any specialised UFO bureau. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.cultura.cr">[si.cultura.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.cultura.cr</span><span class="citation-popover-title">Archivo Nacional de Costa Rica &#124; Sistema de Información Cultural de Costa Rica</span><span class="citation-popover-snippet">Archivo Nacional de Costa Rica &#124; Sistema de Información Cultural de Costa Rica</span></span></span>
+* **Formal UAP offices** (e.g., in the United States, where the National Archives holds declassified military UAP files under prescribed record groups) proactively organise records from multiple agencies and may support ongoing reporting and analysis efforts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Archives_of_Costa_Rica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Archives of Costa Rica</span><span class="citation-popover-snippet">National Archives of Costa Rica</span></span></span>
+* In **Costa Rica**, the *Archivo Nacional* serves as the custodian of documents once they are deemed historically significant. The archive does **not** solicit, investigate, or adjudicate sightings; it simply preserves records created by other state entities under their respective mandates. Access to and interpretation of such records are governed by general archival policy and public research procedures, not by any specialised UFO bureau.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: si.cultura.cr">[si.cultura.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">si.cultura.cr</span><span class="citation-popover-title">Archivo Nacional de Costa Rica &#124; Sistema de Información Cultural de Costa Rica</span><span class="citation-popover-snippet">Archivo Nacional de Costa Rica &#124; Sistema de Información Cultural de Costa Rica</span></span></span>
 
 This distinction is central to understanding Costa Rica’s place in the broader global context: the country possess an institutional archival facility where UFO‑related material may reside as part of its historical holdings, but it lacks a formally established UFO inquiry system embedded within its government structure.
 
 <img src="{{ "/assets/images/Costa_Rica_fe586b_official_records_9b05ad-Illustration-3-dark.svg" | relative_url }}" alt="Official Records illustration 3" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b_official_records_9b05ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b_official_records_9b05ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Costa Rica&#x27;s UFO Archives Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Costa Rica&#x27;s UFO Archives Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on case files, categorisation and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on case files, categorisation and evidential standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how reports should be documented and analysed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how reports should be documented and analysed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Best match for a page about archives, documentation and government records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Best match for a page about archives, documentation and government records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how institutions preserve and interpret anomalous narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how institutions preserve and interpret anomalous narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-costa-rica-s-ufo-archives-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-costa-rica-s-ufo-archives-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -497,7 +497,7 @@ This distinction is central to understanding Costa Rica’s place in the broader
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -517,7 +517,7 @@ This distinction is central to understanding Costa Rica’s place in the broader
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -549,7 +549,7 @@ This distinction is central to understanding Costa Rica’s place in the broader
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -601,7 +601,7 @@ This distinction is central to understanding Costa Rica’s place in the broader
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -646,7 +646,7 @@ This distinction is central to understanding Costa Rica’s place in the broader
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -684,152 +684,151 @@ This distinction is central to understanding Costa Rica’s place in the broader
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: si.cultura.cr  
    Title: Archivo Nacional de Costa Rica | Sistema de Información Cultural de Costa Rica  
-   Link: <a href="https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica" target="_blank" rel="noopener noreferrer nofollow">https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica</a>  
+   Link:<a href="https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica" target="_blank" rel="noopener noreferrer nofollow">https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: National Archives of Costa Rica  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Archives_of_Costa_Rica" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_of_Costa_Rica</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Archives_of_Costa_Rica" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_of_Costa_Rica</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archivodigital.go.cr  
    Title: Welcome to the Historical Archive database  
-   Link: <a href="https://archivodigital.go.cr/index.php" target="_blank" rel="noopener noreferrer nofollow">https://archivodigital.go.cr/index.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archivo Nacional de Costa Rica...</p></details>
+   Link:<a href="https://archivodigital.go.cr/index.php" target="_blank" rel="noopener noreferrer nofollow">https://archivodigital.go.cr/index.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archivo Nacional de Costa Rica...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</p></details>
+   Link:<a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ecord Group or Collection | National ArchivesDecember 12, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED A...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ecord Group or Collection | National ArchivesDecember 12, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED A...</p></details>
    Published: December 12, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (...</p></details>
    Published: April 24, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 24, 2025 — UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION: FREQUENTLY ASKED QUESTIONS The National Archives and Records Admini...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 24, 2025 — UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION: FREQUENTLY ASKED QUESTIONS The National Archives and Records Admini...</p></details>
    Published: April 24, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: Do Records Show Proof of UFOs?  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
    Published: July 24, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archives.gov  
    Title: ¿Registros muestran prueba de ovnis?  
-   Link: <a href="https://www.archives.gov/espanol/ovnis" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/espanol/ovnis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesFebruary 9, 2018 — ¿REGISTROS MUESTRAN PRUEBA DE OVNIS? English Image: refer to caption Por Kerri Lawrence | Noticias...</p></details>
+   Link:<a href="https://www.archives.gov/espanol/ovnis" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/espanol/ovnis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesFebruary 9, 2018 — ¿REGISTROS MUESTRAN PRUEBA DE OVNIS? English Image: refer to caption Por Kerri Lawrence | Noticias...</p></details>
    Published: February 9, 2018  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: adminsi.cultura.cr  
-   Link: <a href="https://adminsi.cultura.cr/infraestructura/archivo-nacional-de-costa-rica" target="_blank" rel="noopener noreferrer nofollow">https://adminsi.cultura.cr/infraestructura/archivo-nacional-de-costa-rica</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nacional de Costa Rica | Sistema de Información Cultural de Costa RicaARCHIVO NACIONAL DE COSTA RICA DEFINICIÓN El Archivo Nacional de Co...</p></details>
+   Link:<a href="https://adminsi.cultura.cr/infraestructura/archivo-nacional-de-costa-rica" target="_blank" rel="noopener noreferrer nofollow">https://adminsi.cultura.cr/infraestructura/archivo-nacional-de-costa-rica</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nacional de Costa Rica | Sistema de Información Cultural de Costa RicaARCHIVO NACIONAL DE COSTA RICA DEFINICIÓN El Archivo Nacional de Co...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: si.cultura.cr  
-   Link: <a href="https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica.html" target="_blank" rel="noopener noreferrer nofollow">https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Datos generales 2. Ubicación Categoría: Archivos CONTACTO Correo electrónico: proyeccion@dgan.go.cr Correo electrónico alternativo: archi...</p></details>
+   Link:<a href="https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica.html" target="_blank" rel="noopener noreferrer nofollow">https://si.cultura.cr/infraestructura/archivo-nacional-de-costa-rica.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Datos generales 2. Ubicación Categoría: Archivos CONTACTO Correo electrónico: proyeccion@dgan.go.cr Correo electrónico alternativo: archi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archivodigital.go.cr  
    Title: Archivo Nacional  
-   Link: <a href="https://archivodigital.go.cr/index.php/archivo-nacional" target="_blank" rel="noopener noreferrer nofollow">https://archivodigital.go.cr/index.php/archivo-nacional</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>de Costa RicaARCHIVO NACIONAL Otros idiomas disponibles * Inglés » Archivo Nacional ÁREA DE IDENTIDAD IDENTIFICADOR AN FORMA AUTORIZADA D...</p></details>
+   Link:<a href="https://archivodigital.go.cr/index.php/archivo-nacional" target="_blank" rel="noopener noreferrer nofollow">https://archivodigital.go.cr/index.php/archivo-nacional</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>de Costa RicaARCHIVO NACIONAL Otros idiomas disponibles * Inglés » Archivo Nacional ÁREA DE IDENTIDAD IDENTIFICADOR AN FORMA AUTORIZADA D...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archivodigital.go.cr  
    Title: Welcome to the Historical Archive database  
-   Link: <a href="https://www.archivodigital.go.cr/index.php/?sf_culture=en" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/?sf_culture=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archivo Nacional de Costa RicaHistorical Archive&#x27;s Database [Input] [Input: Search] * Archival descriptions * Authority records * Archiva...</p></details>
+   Link:<a href="https://www.archivodigital.go.cr/index.php/?sf_culture=en" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/?sf_culture=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archivo Nacional de Costa RicaHistorical Archive&#x27;s Database [Input] [Input: Search] * Archival descriptions * Authority records * Archiva...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
    Title: bub gb U6nx Wm F9b Fo C djvu.txt  
-   Link: <a href="https://archive.org/stream/bub_gb_U6nxWmF9bFoC/bub_gb_U6nxWmF9bFoC_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/bub_gb_U6nxWmF9bFoC/bub_gb_U6nxWmF9bFoC_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2007 82&#x27; / Dígibeta / Color D: Denis Cote G...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/bub_gb_U6nxWmF9bFoC/bub_gb_U6nxWmF9bFoC_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/bub_gb_U6nxWmF9bFoC/bub_gb_U6nxWmF9bFoC_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2007 82&#x27; / Dígibeta / Color D: Denis Cote G...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: List of investigations of UFOs by governments  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_investigations_of_UFOs_by_governments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_investigations_of_UFOs_by_governments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States. edit. See also: Investigation of UFO reports by the United...Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_investigations_of_UFOs_by_governments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_investigations_of_UFOs_by_governments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States. edit. See also: Investigation of UFO reports by the United...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: history.state.gov  
    Title: costa rica  
-   Link: <a href="https://history.state.gov/countries/archives/costa-rica" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/countries/archives/costa-rica</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rica - Archives - Countries - Office of the HistorianWORLD WIDE DIPLOMATIC ARCHIVES INDEX: COSTA RICA LEGISLATION A National Archives law...</p></details>
+   Link:<a href="https://history.state.gov/countries/archives/costa-rica" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/countries/archives/costa-rica</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rica - Archives - Countries - Office of the HistorianWORLD WIDE DIPLOMATIC ARCHIVES INDEX: COSTA RICA LEGISLATION A National Archives law...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100089701716225/posts/breaking-massive-ufo-ships-seen-arriving-at-island-in-costa-ricaufo-breakingnews/875298815470168/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089701716225/posts/breaking-massive-ufo-ships-seen-arriving-at-island-in-costa-ricaufo-breakingnews/875298815470168/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Massive UFO ships seen arriving at island in Costa Rica...BREAKING: Massive UFO ships seen arriving at island in Costa Rica #UFO #Breaki...</p></details>
+   Link:<a href="https://www.facebook.com/100089701716225/posts/breaking-massive-ufo-ships-seen-arriving-at-island-in-costa-ricaufo-breakingnews/875298815470168/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089701716225/posts/breaking-massive-ufo-ships-seen-arriving-at-island-in-costa-ricaufo-breakingnews/875298815470168/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Massive UFO ships seen arriving at island in Costa Rica...BREAKING: Massive UFO ships seen arriving at island in Costa Rica #UFO #Breaki...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aliencatalog.com  
-   Link: <a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
+   Link:<a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/ita-internationale-titelabkrzungen-von-zeitschriften-zeitungen-wichtigen-handbchern-wrterbchern-gesetzen-institutionen-usw-12th-enlarged-ed-9783110978513-9783598694370.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ita-internationale-titelabkrzungen-von-zeitschriften-zeitungen-wichtigen-handbchern-wrterbchern-gesetzen-institutionen-usw-12th-enlarged-ed-9783110978513-9783598694370.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paris: Centre National de la Recherche Scientifique... Cote d&#x27;Ivoire. A D B Bull African Development Bank bulletin. Abidjan...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/ita-internationale-titelabkrzungen-von-zeitschriften-zeitungen-wichtigen-handbchern-wrterbchern-gesetzen-institutionen-usw-12th-enlarged-ed-9783110978513-9783598694370.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ita-internationale-titelabkrzungen-von-zeitschriften-zeitungen-wichtigen-handbchern-wrterbchern-gesetzen-institutionen-usw-12th-enlarged-ed-9783110978513-9783598694370.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paris: Centre National de la Recherche Scientifique... Cote d&#x27;Ivoire. A D B Bull African Development Bank bulletin. Abidjan...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nufohrc.org  
-   Link: <a href="https://nufohrc.org/collections" target="_blank" rel="noopener noreferrer nofollow">https://nufohrc.org/collections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUR COLLECTIONS OVERVIEW Image The National UFO Historical Records Center brings together many valuable collections of records documentin...</p></details>
+   Link:<a href="https://nufohrc.org/collections" target="_blank" rel="noopener noreferrer nofollow">https://nufohrc.org/collections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUR COLLECTIONS OVERVIEW Image The National UFO Historical Records Center brings together many valuable collections of records documentin...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
    Title: has the 2007 costa rica ufo sighting already been  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sipz2t/has_the_2007_costa_rica_ufo_sighting_already_been/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sipz2t/has_the_2007_costa_rica_ufo_sighting_already_been/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Now if that claim of a recovered craft being “bigger on the inside” TARDIS style then heck maybe big aliens can be in a tiny UFO. None of...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1sipz2t/has_the_2007_costa_rica_ufo_sighting_already_been/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sipz2t/has_the_2007_costa_rica_ufo_sighting_already_been/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now if that claim of a recovered craft being “bigger on the inside” TARDIS style then heck maybe big aliens can be in a tiny UFO. None of...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=a7h3lZzICe0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a7h3lZzICe0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Archivo Nacional de Costa Rica&quot; Nuevo sitio web del Archivo Nacional de Costa Rica Archivo Nacional de Costa Rica...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a7h3lZzICe0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a7h3lZzICe0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Archivo Nacional de Costa Rica&quot; Nuevo sitio web del Archivo Nacional de Costa Rica Archivo Nacional de Costa Rica...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sedici.unlp.edu.ar  
-   Link: <a href="https://sedici.unlp.edu.ar/bitstream/handle/10915/96472/Documento_completo.12-pdfa.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://sedici.unlp.edu.ar/bitstream/handle/10915/96472/Documento_completo.12-pdfa.pdf?isAllowed=y&amp;sequence=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y performance: De Grecia a la modernidad - SEDICIel Centro de Estudios Helénicos de la Universidad Nacional de La Plata...</p></details>
+   Link:<a href="https://sedici.unlp.edu.ar/bitstream/handle/10915/96472/Documento_completo.12-pdfa.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://sedici.unlp.edu.ar/bitstream/handle/10915/96472/Documento_completo.12-pdfa.pdf?isAllowed=y&amp;sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y performance: De Grecia a la modernidad - SEDICIel Centro de Estudios Helénicos de la Universidad Nacional de La Plata...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/13ltxz2/upscaled_60fps_stabilized_the_costa_rica_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/13ltxz2/upscaled_60fps_stabilized_the_costa_rica_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliens - Video showing a classic saucer UAP/UFO in Costa Rica...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/13ltxz2/upscaled_60fps_stabilized_the_costa_rica_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/13ltxz2/upscaled_60fps_stabilized_the_costa_rica_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliens - Video showing a classic saucer UAP/UFO in Costa Rica...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ticotimes.net  
    Title: costa ricas mysterious lago cote and its ufo sighting history  
-   Link: <a href="https://ticotimes.net/2024/11/12/costa-ricas-mysterious-lago-cote-and-its-ufo-sighting-history" target="_blank" rel="noopener noreferrer nofollow">https://ticotimes.net/2024/11/12/costa-ricas-mysterious-lago-cote-and-its-ufo-sighting-history</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The sign read: Cote Lake/Alien Zone. The lake is known as Lago Cote. Though small, it is the...Read more...</p></details>
+   Link:<a href="https://ticotimes.net/2024/11/12/costa-ricas-mysterious-lago-cote-and-its-ufo-sighting-history" target="_blank" rel="noopener noreferrer nofollow">https://ticotimes.net/2024/11/12/costa-ricas-mysterious-lago-cote-and-its-ufo-sighting-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The sign read: Cote Lake/Alien Zone. The lake is known as Lago Cote. Though small, it is the...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/32592435/Dicionario_portugues" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/32592435/Dicionario_portugues</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>otiado cotianet cotiar cotiara cotica...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/32592435/Dicionario_portugues" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/32592435/Dicionario_portugues</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>otiado cotianet cotiar cotiara cotica...Read more...</p></details>

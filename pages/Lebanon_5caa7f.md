@@ -1196,7 +1196,7 @@ image: /assets/images/Lebanon_5caa7f-overview-social.jpg
 
 ### Persistent Orb Observations (2024–2025)
 
-In recent years, one of the most detailed sets of observations comes from reported orb‑like phenomena over northern Lebanon. A series of reports logged with the **National UFO Reporting Center (NUFORC)** describe nightly activity above Bchaaleh village near **Beirut**, with observers noting clusters of luminous orbs that change colour, speed, and direction in ways that do not match routine satellite paths or known aviation patterns. These phenomena were recorded routinely between July 2024 and September 2025, with descriptions of variable motion and apparent intelligent changes in trajectory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 192385September 22, 2025...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
+In recent years, one of the most detailed sets of observations comes from reported orb‑like phenomena over northern Lebanon. A series of reports logged with the **National UFO Reporting Center (NUFORC)** describe nightly activity above Bchaaleh village near **Beirut**, with observers noting clusters of luminous orbs that change colour, speed, and direction in ways that do not match routine satellite paths or known aviation patterns. These phenomena were recorded routinely between July 2024 and September 2025, with descriptions of variable motion and apparent intelligent changes in trajectory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 192385September 22, 2025...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Lebanon_5caa7f-overview.webp" | relative_url }}" alt="Overview image for What Do Lebanon&#x27;s UFO Reports Really Show?" loading="eager" decoding="sync" fetchpriority="high">
 Such accounts describe the orbs appearing suddenly, clustering, and sometimes accelerating or disappearing abruptly. Despite ongoing observation, these reports remain **unverified by formal scientific or governmental bodies** and are primarily documented through civilian reporting channels rather than official investigation.
@@ -1205,9 +1205,9 @@ Such accounts describe the orbs appearing suddenly, clustering, and sometimes ac
 
 Beyond the recent orbs, multiple **other sightings across decades** have been catalogued on public UFO tracking sites:
 
-* A **1972 sighting over Baakline** (Shuf province) described a bright light in the evening sky that a small group of witnesses interpreted as a disc‑like object moving away rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/1972-ufo-over-lebanon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1972 ufo over lebanon</span><span class="citation-popover-snippet">Think About It Docs1972: UFO Over LebanonJuly 21, 2013...</span><span class="citation-popover-meta">Published: July 21, 2013</span></span></span>
-* Reports from the **early 2000s to the 2010s** include sightings of disk‑shaped, triangular, star‑like, or circular lights over areas such as **Tabariss (Beirut), Tripoli, Zouk Mkayel and Zahlé** with durations from seconds to minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/country/LBN/Lebanon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Lebanon</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Lebanon - UFO Hunters...</span></span></span>
-* A 2007 report from Beirut involved witnesses observing a **stationary fireball‑like light** for around half a minute before it vanished. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=80507" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 80507March 23, 2011 — NUFORC UFO SIGHTING 80507 Occurred: 2010-03-17 21:58 Local - Approximate Reported: 2011-03-18 0...</span><span class="citation-popover-meta">Published: March 17, 2010</span></span></span>
+* A **1972 sighting over Baakline** (Shuf province) described a bright light in the evening sky that a small group of witnesses interpreted as a disc‑like object moving away rapidly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkaboutitdocs.com/1972-ufo-over-lebanon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1972 ufo over lebanon</span><span class="citation-popover-snippet">Think About It Docs1972: UFO Over LebanonJuly 21, 2013...</span><span class="citation-popover-meta">Published: July 21, 2013</span></span></span>
+* Reports from the **early 2000s to the 2010s** include sightings of disk‑shaped, triangular, star‑like, or circular lights over areas such as **Tabariss (Beirut), Tripoli, Zouk Mkayel and Zahlé** with durations from seconds to minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/country/LBN/Lebanon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Lebanon</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Lebanon - UFO Hunters...</span></span></span>
+* A 2007 report from Beirut involved witnesses observing a **stationary fireball‑like light** for around half a minute before it vanished.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=80507" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 80507March 23, 2011 — NUFORC UFO SIGHTING 80507 Occurred: 2010-03-17 21:58 Local - Approximate Reported: 2011-03-18 0...</span><span class="citation-popover-meta">Published: March 17, 2010</span></span></span>
 
 These historical entries illustrate **variation in reported shapes, durations and contexts**, but remain within the same broad category of unexplained aerial sightings that did not lead to formal explanation at the time.
 
@@ -1216,7 +1216,7 @@ These historical entries illustrate **variation in reported shapes, durations an
 
 ### Civilian Databases vs Official Records
 
-Most reports of UFOs or UAPs concerning Lebanon are recorded by **civilian or voluntary reporting networks** such as NUFORC or private UFO‑tracking websites. These platforms catalogue civilian testimonies, often prioritising sheer observation detail over systematic verification. There is **no equivalent Lebanese government programme or official archive** publicised for UFO documentation or investigation, unlike historical UAP efforts in the United States or Canada that have maintained centralised [records]({{ 'records-a21934/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified flying object</span><span class="citation-popover-snippet">Encyclopedia BritannicaUnidentified flying object - Sightings, Investigations, Reports &#124; BritannicaMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+Most reports of UFOs or UAPs concerning Lebanon are recorded by **civilian or voluntary reporting networks** such as NUFORC or private UFO‑tracking websites. These platforms catalogue civilian testimonies, often prioritising sheer observation detail over systematic verification. There is **no equivalent Lebanese government programme or official archive** publicised for UFO documentation or investigation, unlike historical UAP efforts in the United States or Canada that have maintained centralised [records]({{ 'records-a21934/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Unidentified flying object</span><span class="citation-popover-snippet">Encyclopedia BritannicaUnidentified flying object - Sightings, Investigations, Reports &#124; BritannicaMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 Because of this, the **evidence quality spectrum** for Lebanese sightings ranges from anecdotal (single‑witness accounts) to multiple‑observer reports. However, none of the major incidents have been substantiated through independent instrumentation (for example, radar cross‑referencing) or published in peer‑reviewed scientific literature.
 
@@ -1224,9 +1224,9 @@ Because of this, the **evidence quality spectrum** for Lebanese sightings ranges
 
 ### Known Explanations and Skeptical Interpretations
 
-Several sightings recorded in Lebanon have **conventional explanations** proposed by astronomers or media at the time of occurrence. For example, glowing objects observed in June 2012 were widely attributed to **meteor activity**, with multiple Lebanese news outlets and scientific commenters noting the phenomenon as a meteoric downpour rather than anomalous craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naharnet.com">[Naharnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naharnet.com</span><span class="citation-popover-title">Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — Naharnet</span><span class="citation-popover-snippet">Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — NaharnetJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
+Several sightings recorded in Lebanon have **conventional explanations** proposed by astronomers or media at the time of occurrence. For example, glowing objects observed in June 2012 were widely attributed to **meteor activity**, with multiple Lebanese news outlets and scientific commenters noting the phenomenon as a meteoric downpour rather than anomalous craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naharnet.com">[Naharnet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naharnet.com</span><span class="citation-popover-title">Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — Naharnet</span><span class="citation-popover-snippet">Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — NaharnetJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
 
-Similarly, reports of unidentified lights in the 2012 era prompted commentary from scientists claiming that the most plausible explanation was a **large meteorite** or other natural aerial phenomenon, rather than something extraterrestrial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ynetnews.com/articles/0%2C7340%2CL-4239815%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ynetnews.com">[ynetglobal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ynetnews.com</span><span class="citation-popover-title">ynetglobal Lebanon: Unidentified objects – meteors</span><span class="citation-popover-snippet">ynetglobalLebanon: Unidentified objects – meteorsJuly 6, 2012...</span><span class="citation-popover-meta">Published: July 6, 2012</span></span></span>
+Similarly, reports of unidentified lights in the 2012 era prompted commentary from scientists claiming that the most plausible explanation was a **large meteorite** or other natural aerial phenomenon, rather than something extraterrestrial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ynetnews.com/articles/0%2C7340%2CL-4239815%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ynetnews.com">[ynetglobal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ynetnews.com</span><span class="citation-popover-title">ynetglobal Lebanon: Unidentified objects – meteors</span><span class="citation-popover-snippet">ynetglobalLebanon: Unidentified objects – meteorsJuly 6, 2012...</span><span class="citation-popover-meta">Published: July 6, 2012</span></span></span>
 
 Sceptical communities — particularly on social platforms — frequently attribute modern sightings to **drones, aircraft, satellites, atmospheric optics, or even post‑production artefacts in video evidence**. These alternative interpretations highlight that many UFO reports can be misidentifications of known technology or natural events, especially when observed without instrumentation.
 
@@ -1235,13 +1235,13 @@ Sceptical communities — particularly on social platforms — frequently attrib
 
 ### Geographical Distribution
 
-Reported sightings span the breadth of Lebanon’s regions, with entries attributed to urban centres such as **Beirut and Tripoli** as well as rural or coastal areas including **Zahle and Bcharre**. Sightings appear across a broad temporal span, from the 1960s through recent years, without a clear cluster that would suggest a single underlying cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/547b49fc4560eaa922e6ff4e/UFO%20Sighting%20in%20Lebanon%20%28Middle%20East%29%20on%20Saturday%2002%20August%202014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Lebanon (Middle East) on Saturday 02 August 2014</span><span class="citation-popover-snippet">UFO HuntersAugust 8, 2014 — UFO Sighting in Lebanon (Middle East) on Saturday 02 August 2014 - UFO Hunters - LEBANON (MIDDLE EAST) Sighte...</span><span class="citation-popover-meta">Published: August 2014</span></span></span>
+Reported sightings span the breadth of Lebanon’s regions, with entries attributed to urban centres such as **Beirut and Tripoli** as well as rural or coastal areas including **Zahle and Bcharre**. Sightings appear across a broad temporal span, from the 1960s through recent years, without a clear cluster that would suggest a single underlying cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/547b49fc4560eaa922e6ff4e/UFO%20Sighting%20in%20Lebanon%20%28Middle%20East%29%20on%20Saturday%2002%20August%202014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Lebanon (Middle East) on Saturday 02 August 2014</span><span class="citation-popover-snippet">UFO HuntersAugust 8, 2014 — UFO Sighting in Lebanon (Middle East) on Saturday 02 August 2014 - UFO Hunters - LEBANON (MIDDLE EAST) Sighte...</span><span class="citation-popover-meta">Published: August 2014</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1MrBuCHAYio" title="US-Iran War | Trump VS Iran | Israel Lebanon Strikes | Trump UFO File Release | NewsX World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1MrBuCHAYio" target="_blank" rel="noopener noreferrer">US-Iran War | Trump VS Iran | Israel Lebanon Strikes | Trump UFO File Release | NewsX World</a></p><p class="youtube-embed-meta">Channel: NewsX World &middot; Views: 68 &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1MrBuCHAYio" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1MrBuCHAYio">Open on YouTube</a></p></div></div></div>
 
 ### Public Discourses and Social Reactions
 
-Online forums and social networks reflect ongoing public interest and debate around these phenomena. Discussions on platforms such as Reddit illustrate that many Lebanese observers share personal sightings — for instance, fast‑moving flashing lights or erratic orbs over coastal areas — even while acknowledging uncertainty about their origin. Commentary ranges from sceptical explanations (e.g. drones or military equipment) to more speculative interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/lebanon/comments/1phop94/uap_sighting_over_lebanon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UAP sighting over lebanon</span><span class="citation-popover-snippet">UAP sighting over lebanonDecember 8, 2025...</span><span class="citation-popover-meta">Published: December 8, 2025</span></span></span>
+Online forums and social networks reflect ongoing public interest and debate around these phenomena. Discussions on platforms such as Reddit illustrate that many Lebanese observers share personal sightings — for instance, fast‑moving flashing lights or erratic orbs over coastal areas — even while acknowledging uncertainty about their origin. Commentary ranges from sceptical explanations (e.g. drones or military equipment) to more speculative interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/lebanon/comments/1phop94/uap_sighting_over_lebanon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UAP sighting over lebanon</span><span class="citation-popover-snippet">UAP sighting over lebanonDecember 8, 2025...</span><span class="citation-popover-meta">Published: December 8, 2025</span></span></span>
 
 These social exchanges underscore how UFO sightings in Lebanon feed into broader global patterns of public curiosity, interpretation, and sometimes misinterpretation, with **no consensus on non‑trivial evidence of extraterrestrial visits**.
 
@@ -1253,194 +1253,194 @@ Lebanon’s UFO record consists largely of **eye‑witness reports and civilian�
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ag2pzH6aSpY" title="Newly declassified UFO files reveal unexplained encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer">Newly declassified UFO files reveal unexplained encounters</a></p><p class="youtube-embed-meta">Channel: FOX NASHVILLE &middot; Views: 1.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ag2pzH6aSpY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Lebanon&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Lebanon&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines the kinds of sightings and evidence discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the kinds of sightings and evidence discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating varied sighting claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating varied sighting claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a broad national overview of UFO reports and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a broad national overview of UFO reports and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for interpreting recurring reports and cultural narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting recurring reports and cultural narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-lebanon-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-lebanon-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1456,7 +1456,7 @@ Lebanon’s UFO record consists largely of **eye‑witness reports and civilian�
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1476,7 +1476,7 @@ Lebanon’s UFO record consists largely of **eye‑witness reports and civilian�
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1508,7 +1508,7 @@ Lebanon’s UFO record consists largely of **eye‑witness reports and civilian�
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1560,7 +1560,7 @@ Lebanon’s UFO record consists largely of **eye‑witness reports and civilian�
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1605,7 +1605,7 @@ Lebanon’s UFO record consists largely of **eye‑witness reports and civilian�
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1643,146 +1643,145 @@ Lebanon’s UFO record consists largely of **eye‑witness reports and civilian�
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=192385" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192385</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 192385September 22, 2025...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=192385" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192385</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 192385September 22, 2025...</p></details>
    Published: September 22, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufo-hunters.com  
    Title: UFO Hunters UFO Sightings map in Lebanon  
-   Link: <a href="https://www.ufo-hunters.com/sightings/country/LBN/Lebanon" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/LBN/Lebanon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Lebanon - UFO Hunters...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/country/LBN/Lebanon" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/LBN/Lebanon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Lebanon - UFO Hunters...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=80507" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=80507</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 80507March 23, 2011 — NUFORC UFO SIGHTING 80507 Occurred: 2010-03-17 21:58 Local - Approximate Reported: 2011-03-18 0...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=80507" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=80507</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 80507March 23, 2011 — NUFORC UFO SIGHTING 80507 Occurred: 2010-03-17 21:58 Local - Approximate Reported: 2011-03-18 0...</p></details>
    Published: March 17, 2010  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=63195" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=63195</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 63195June 12, 2008...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=63195" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=63195</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 63195June 12, 2008...</p></details>
    Published: June 12, 2008  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Unidentified flying object  
-   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaUnidentified flying object - Sightings, Investigations, Reports | BritannicaMarch 11, 2026...</p></details>
+   Link:<a href="https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object/Other-investigations-of-UFOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaUnidentified flying object - Sightings, Investigations, Reports | BritannicaMarch 11, 2026...</p></details>
    Published: March 11, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: naharnet.com  
    Title: Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — Naharnet  
-   Link: <a href="https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print" target="_blank" rel="noopener noreferrer nofollow">https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — NaharnetJune 7, 2012...</p></details>
+   Link:<a href="https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print" target="_blank" rel="noopener noreferrer nofollow">https://www.naharnet.com/stories/42759-glowing-objects-fiery-meteors-appear-in-sky-above-lebanon/print</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Print: Glowing Objects, Fiery Meteors Appear in Sky above Lebanon — NaharnetJune 7, 2012...</p></details>
    Published: June 7, 2012  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: UAP sighting over lebanon  
-   Link: <a href="https://www.reddit.com/r/lebanon/comments/1phop94/uap_sighting_over_lebanon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lebanon/comments/1phop94/uap_sighting_over_lebanon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP sighting over lebanonDecember 8, 2025...</p></details>
+   Link:<a href="https://www.reddit.com/r/lebanon/comments/1phop94/uap_sighting_over_lebanon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lebanon/comments/1phop94/uap_sighting_over_lebanon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP sighting over lebanonDecember 8, 2025...</p></details>
    Published: December 8, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Lebanon (Middle East) on Saturday 02 August 2014  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/547b49fc4560eaa922e6ff4e/UFO%20Sighting%20in%20Lebanon%20%28Middle%20East%29%20on%20Saturday%2002%20August%202014" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/547b49fc4560eaa922e6ff4e/UFO%20Sighting%20in%20Lebanon%20%28Middle%20East%29%20on%20Saturday%2002%20August%202014</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersAugust 8, 2014 — UFO Sighting in Lebanon (Middle East) on Saturday 02 August 2014 - UFO Hunters - LEBANON (MIDDLE EAST) Sighte...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/547b49fc4560eaa922e6ff4e/UFO%20Sighting%20in%20Lebanon%20%28Middle%20East%29%20on%20Saturday%2002%20August%202014" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/547b49fc4560eaa922e6ff4e/UFO%20Sighting%20in%20Lebanon%20%28Middle%20East%29%20on%20Saturday%2002%20August%202014</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersAugust 8, 2014 — UFO Sighting in Lebanon (Middle East) on Saturday 02 August 2014 - UFO Hunters - LEBANON (MIDDLE EAST) Sighte...</p></details>
    Published: August 2014  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Zouk Mkayel (Lebanon) on Monday 03 September 2012  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/51438e4b0ad2e1e9be4487a7/UFO%20Sighting%20in%20Zouk%20Mkayel%20%28Lebanon%29%20on%20Monday%2003%20September%202012" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/51438e4b0ad2e1e9be4487a7/UFO%20Sighting%20in%20Zouk%20Mkayel%20%28Lebanon%29%20on%20Monday%2003%20September%202012</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersSeptember 24, 2012 — UFO Sighting in Zouk Mkayel (Lebanon) on Monday 03 September 2012 - UFO Hunters - 204998 SIGHTINGS REPORTED...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/51438e4b0ad2e1e9be4487a7/UFO%20Sighting%20in%20Zouk%20Mkayel%20%28Lebanon%29%20on%20Monday%2003%20September%202012" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/51438e4b0ad2e1e9be4487a7/UFO%20Sighting%20in%20Zouk%20Mkayel%20%28Lebanon%29%20on%20Monday%2003%20September%202012</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersSeptember 24, 2012 — UFO Sighting in Zouk Mkayel (Lebanon) on Monday 03 September 2012 - UFO Hunters - 204998 SIGHTINGS REPORTED...</p></details>
    Published: September 2012  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thinkaboutitdocs.com  
    Title: 1972 ufo over lebanon  
-   Link: <a href="https://www.thinkaboutitdocs.com/1972-ufo-over-lebanon/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1972-ufo-over-lebanon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1972: UFO Over LebanonJuly 21, 2013...</p></details>
+   Link:<a href="https://www.thinkaboutitdocs.com/1972-ufo-over-lebanon/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1972-ufo-over-lebanon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1972: UFO Over LebanonJuly 21, 2013...</p></details>
    Published: July 21, 2013  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ynetnews.com  
    Title: ynetglobal Lebanon: Unidentified objects – meteors  
-   Link: <a href="https://www.ynetnews.com/articles/0%2C7340%2CL-4239815%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ynetnews.com/articles/0%2C7340%2CL-4239815%2C00.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ynetglobalLebanon: Unidentified objects – meteorsJuly 6, 2012...</p></details>
+   Link:<a href="https://www.ynetnews.com/articles/0%2C7340%2CL-4239815%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ynetnews.com/articles/0%2C7340%2CL-4239815%2C00.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ynetglobalLebanon: Unidentified objects – meteorsJuly 6, 2012...</p></details>
    Published: July 6, 2012  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lbcgroup.tv  
-   Link: <a href="https://www.lbcgroup.tv/news/news-bulletin-reports/931183/us-declassifies-ufo-files-showing-unexplained-sightings-but-no-evidenc/en" target="_blank" rel="noopener noreferrer nofollow">https://www.lbcgroup.tv/news/news-bulletin-reports/931183/us-declassifies-ufo-files-showing-unexplained-sightings-but-no-evidenc/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US declassifies UFO files showing unexplained sightings but no evidence of extraterrestrial life - Lebanon NewsMay 9, 2026 — US DECLASSIF...</p></details>
+   Link:<a href="https://www.lbcgroup.tv/news/news-bulletin-reports/931183/us-declassifies-ufo-files-showing-unexplained-sightings-but-no-evidenc/en" target="_blank" rel="noopener noreferrer nofollow">https://www.lbcgroup.tv/news/news-bulletin-reports/931183/us-declassifies-ufo-files-showing-unexplained-sightings-but-no-evidenc/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US declassifies UFO files showing unexplained sightings but no evidence of extraterrestrial life - Lebanon NewsMay 9, 2026 — US DECLASSIF...</p></details>
    Published: May 9, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aljazeera.com  
    Title: Image: Lebanon army The Lebanese army and Unifil forces mounted an investigation  
-   Link: <a href="https://www.aljazeera.com/news/2009/10/19/lebanon-blasts-called-spy-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2009/10/19/lebanon-blasts-called-spy-devices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lebanon blasts called ‘spy devices’ | News | Al JazeeraOctober 19, 2009 — LEBANON BLASTS CALLED ‘SPY DEVICES’ Hezbollah and army say Isra...</p></details>
+   Link:<a href="https://www.aljazeera.com/news/2009/10/19/lebanon-blasts-called-spy-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2009/10/19/lebanon-blasts-called-spy-devices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lebanon blasts called ‘spy devices’ | News | Al JazeeraOctober 19, 2009 — LEBANON BLASTS CALLED ‘SPY DEVICES’ Hezbollah and army say Isra...</p></details>
    Published: October 19, 2009  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lbcgroup.tv  
    Title: Former pilots recount UFO sightings as Congress pushes for transparency  
-   Link: <a href="https://www.lbcgroup.tv/news/variety-and-tech/715451/former-pilots-recount-ufo-sightings-as-congress-pu/en" target="_blank" rel="noopener noreferrer nofollow">https://www.lbcgroup.tv/news/variety-and-tech/715451/former-pilots-recount-ufo-sightings-as-congress-pu/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lebanon NewsJuly 27, 2023 — FORMER PILOTS RECOUNT UFO SIGHTINGS AS CONGRESS PUSHES FOR TRANSPARENCY Variety and Tech 27-07-2023 | 09:23 [...</p></details>
+   Link:<a href="https://www.lbcgroup.tv/news/variety-and-tech/715451/former-pilots-recount-ufo-sightings-as-congress-pu/en" target="_blank" rel="noopener noreferrer nofollow">https://www.lbcgroup.tv/news/variety-and-tech/715451/former-pilots-recount-ufo-sightings-as-congress-pu/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lebanon NewsJuly 27, 2023 — FORMER PILOTS RECOUNT UFO SIGHTINGS AS CONGRESS PUSHES FOR TRANSPARENCY Variety and Tech 27-07-2023 | 09:23 [...</p></details>
    Published: July 27, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lbcgroup.tv  
    Title: NAS A UFO panel in first public meeting says better data needed  
-   Link: <a href="https://www.lbcgroup.tv/news/variety/706105/nasa-ufo-panel-in-first-public-meeting-says-better-data-needed/en" target="_blank" rel="noopener noreferrer nofollow">https://www.lbcgroup.tv/news/variety/706105/nasa-ufo-panel-in-first-public-meeting-says-better-data-needed/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO panel in first public meeting says better data needed - Lebanon NewsMay 31, 2023 — NASA UFO PANEL IN FIRST PUBLIC MEETING SAYS B...</p></details>
+   Link:<a href="https://www.lbcgroup.tv/news/variety/706105/nasa-ufo-panel-in-first-public-meeting-says-better-data-needed/en" target="_blank" rel="noopener noreferrer nofollow">https://www.lbcgroup.tv/news/variety/706105/nasa-ufo-panel-in-first-public-meeting-says-better-data-needed/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO panel in first public meeting says better data needed - Lebanon NewsMay 31, 2023 — NASA UFO PANEL IN FIRST PUBLIC MEETING SAYS B...</p></details>
    Published: May 31, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mtv.com.lb  
    Title: 8 Key Takeaways from the US Government’s Big UFO Report  
-   Link: <a href="https://www.mtv.com.lb/news/1191940" target="_blank" rel="noopener noreferrer nofollow">https://www.mtv.com.lb/news/1191940</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MTV LebanonJune 26, 2021 — Image: 8 Key Takeaways from the US Government’s Big UFO Report 26 Jun 2021 14:54 PM 8 Key Takeaways from the U...</p></details>
+   Link:<a href="https://www.mtv.com.lb/news/1191940" target="_blank" rel="noopener noreferrer nofollow">https://www.mtv.com.lb/news/1191940</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MTV LebanonJune 26, 2021 — Image: 8 Key Takeaways from the US Government’s Big UFO Report 26 Jun 2021 14:54 PM 8 Key Takeaways from the U...</p></details>
    Published: June 26, 2021  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/lebanon-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/lebanon-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFOs: Lebanon UFO Sightings &amp; ReportsLEBANON UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT LEBANON UFO UAP USO SIGHTINGS &amp; CL...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/lebanon-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/lebanon-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global UFOs: Lebanon UFO Sightings &amp; ReportsLEBANON UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT LEBANON UFO UAP USO SIGHTINGS &amp; CL...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ynetnews.com  
    Title: Yigal Pat-El said that the unidentified object which  
-   Link: <a href="https://www.ynetnews.com/articles/1%2C7340%2CL-4239802%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ynetnews.com/articles/1%2C7340%2CL-4239802%2C00.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy Association chief: &#x27;UFO&#x27; spotted in LebanonJuly 6, 2012 — ASTRONOMY ASSOCIATION CHIEF: &#x27;UFO&#x27; SPOTTED IN LEBANON NONE Reuters |...</p></details>
+   Link:<a href="https://www.ynetnews.com/articles/1%2C7340%2CL-4239802%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ynetnews.com/articles/1%2C7340%2CL-4239802%2C00.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy Association chief: &#x27;UFO&#x27; spotted in LebanonJuly 6, 2012 — ASTRONOMY ASSOCIATION CHIEF: &#x27;UFO&#x27; SPOTTED IN LEBANON NONE Reuters |...</p></details>
    Published: July 6, 2012  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mtv.com.lb  
    Title: unidentified objects in the sky of Lebanon  
-   Link: <a href="https://www.mtv.com.lb/en/News/Articles/96083/unidentified-objects-in-the-sky-of-Lebanon" target="_blank" rel="noopener noreferrer nofollow">https://www.mtv.com.lb/en/News/Articles/96083/unidentified-objects-in-the-sky-of-Lebanon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;MTV Lebanon unidentified objects in the sky of Lebanon YOUREPORT_NEWS [http://www.theufochronicles.com/2012/06/ufo-news-video-ufo-seen-in...&quot;](http://www.theufochronicles.com/2012/06/ufo-news-video-ufo-seen-in...&quot;)...</p></details>
+   Link:<a href="https://www.mtv.com.lb/en/News/Articles/96083/unidentified-objects-in-the-sky-of-Lebanon" target="_blank" rel="noopener noreferrer nofollow">https://www.mtv.com.lb/en/News/Articles/96083/unidentified-objects-in-the-sky-of-Lebanon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;MTV Lebanon unidentified objects in the sky of Lebanon YOUREPORT_NEWS [http://www.theufochronicles.com/2012/06/ufo-news-video-ufo-seen-in...&quot;](http://www.theufochronicles.com/2012/06/ufo-news-video-ufo-seen-in...&quot;)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufoinsight.com  
    Title: ^{[2]} According to a report titled  
-   Link: <a href="https://www.ufoinsight.com/ufos/sightings/the-hadhramaut-ufo-landing-and-strange-aerial-objects-of-the-middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/the-hadhramaut-ufo-landing-and-strange-aerial-objects-of-the-middle-east</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hadhramaut UFO Landing And Strange Aerial Objects Of The Middle East - UFO InsightApril 1, 2024 — THE 1972 BAAKLINE UFO SIGHTING Arou...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/sightings/the-hadhramaut-ufo-landing-and-strange-aerial-objects-of-the-middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/the-hadhramaut-ufo-landing-and-strange-aerial-objects-of-the-middle-east</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hadhramaut UFO Landing And Strange Aerial Objects Of The Middle East - UFO InsightApril 1, 2024 — THE 1972 BAAKLINE UFO SIGHTING Arou...</p></details>
    Published: April 1, 2024  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thebeiruter.com  
    Title: The Beiruter | UFOs in Lebanon  
-   Link: <a href="https://www.thebeiruter.com/article/ufos-in-lebanon/1668" target="_blank" rel="noopener noreferrer nofollow">https://www.thebeiruter.com/article/ufos-in-lebanon/1668</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 16, 2026 — UFOS IN LEBANON Politics Economy Technology Opinion Specials The B Lebanon UFO sightings - UFO Lebanon - Extraterrestrials...</p></details>
+   Link:<a href="https://www.thebeiruter.com/article/ufos-in-lebanon/1668" target="_blank" rel="noopener noreferrer nofollow">https://www.thebeiruter.com/article/ufos-in-lebanon/1668</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 16, 2026 — UFOS IN LEBANON Politics Economy Technology Opinion Specials The B Lebanon UFO sightings - UFO Lebanon - Extraterrestrials...</p></details>
    Published: May 16, 2026

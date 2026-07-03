@@ -248,7 +248,7 @@ image: /assets/images/Namibia_bfe79d_coastal_fireballs_9e6e2d-Illustration-1-soc
 
 ## Introduction
 
-Namibia’s most dramatic UFO stories are often coastal rather than inland. Reports from Walvis Bay, Swakopmund, Usakos and the Atlantic-facing desert frequently describe glowing objects, red streaks, apparent crashes into the ocean, fireballs with long tails, and lights that seem too large or too low to be ordinary aircraft. Yet the strongest available evidence suggests that many of these sightings can be explained through a combination of meteors, atmospheric effects, distant aircraft, re-entering space debris, maritime activity, and the unusual viewing conditions created by Namibia’s coastline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200805210706.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">Namibia: &#x27;UFO&#x27; Sightings at Coast21 May 2008 — A handful of residents from Usakos are convinced they saw an unidentified flying object (U...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+Namibia’s most dramatic UFO stories are often coastal rather than inland. Reports from Walvis Bay, Swakopmund, Usakos and the Atlantic-facing desert frequently describe glowing objects, red streaks, apparent crashes into the ocean, fireballs with long tails, and lights that seem too large or too low to be ordinary aircraft. Yet the strongest available evidence suggests that many of these sightings can be explained through a combination of meteors, atmospheric effects, distant aircraft, re-entering space debris, maritime activity, and the unusual viewing conditions created by Namibia’s coastline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200805210706.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">Namibia: &#x27;UFO&#x27; Sightings at Coast21 May 2008 — A handful of residents from Usakos are convinced they saw an unidentified flying object (U...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 <img src="{{ "/assets/images/Namibia_bfe79d_coastal_fireballs_9e6e2d-Illustration-1-dark.svg" | relative_url }}" alt="Coastal Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_coastal_fireballs_9e6e2d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_coastal_fireballs_9e6e2d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean witnesses were imagining things. The coastal environment genuinely produces striking visual events. Low horizons, cold Atlantic air, sunset lighting, sparse light pollution and vast viewing distances can make ordinary phenomena appear extraordinary. The Walvis Bay cases are useful not because they prove something alien, but because they show how sincere observers can encounter spectacular events that remain confusing in the moment.
@@ -280,21 +280,21 @@ The best-known coastal reports share remarkably similar features.
 
 ### The 2008 Usakos-to-Coast Fireball Reports
 
-In May 2008, witnesses around Usakos reported a fast-moving object described as a round ball with a long tail moving westward towards the coast. Local residents reportedly interpreted it as a possible UFO because of its brightness, speed and unusual appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200805210706.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">Namibia: &#x27;UFO&#x27; Sightings at Coast21 May 2008 — A handful of residents from Usakos are convinced they saw an unidentified flying object (U...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+In May 2008, witnesses around Usakos reported a fast-moving object described as a round ball with a long tail moving westward towards the coast. Local residents reportedly interpreted it as a possible UFO because of its brightness, speed and unusual appearance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200805210706.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">Namibia: &#x27;UFO&#x27; Sightings at Coast21 May 2008 — A handful of residents from Usakos are convinced they saw an unidentified flying object (U...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 The description strongly resembles a classic fireball meteor. Large meteors frequently develop luminous tails, fragment during flight and create the impression of controlled movement. Because observers usually lack reliable distance cues, a high-altitude meteor can appear much lower than it actually is.
 
-The important point is that the reports describe a visual phenomenon rather than a recovered craft, radar-confirmed object or documented landing. Publicly available evidence never advanced beyond witness observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200805210706.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">Namibia: &#x27;UFO&#x27; Sightings at Coast21 May 2008 — A handful of residents from Usakos are convinced they saw an unidentified flying object (U...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
+The important point is that the reports describe a visual phenomenon rather than a recovered craft, radar-confirmed object or documented landing. Publicly available evidence never advanced beyond witness observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200805210706.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">Namibia: &#x27;UFO&#x27; Sightings at Coast21 May 2008 — A handful of residents from Usakos are convinced they saw an unidentified flying object (U...</span><span class="citation-popover-meta">Published: May 2008</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sXtV5HEcVPY" title="Namibia&#x27;s Hidden Gems: Walvis Bay&#x27;s Unexpected Wonders!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sXtV5HEcVPY" target="_blank" rel="noopener noreferrer">Namibia&#x27;s Hidden Gems: Walvis Bay&#x27;s Unexpected Wonders!</a></p><p class="youtube-embed-meta">Channel: Snow &amp; Curt &middot; Views: 32.7K &middot; Uploaded: August 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sXtV5HEcVPY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sXtV5HEcVPY">Open on YouTube</a></p></div></div></div>
 
 ### The 2009 Walvis Bay Red-Light Incident
 
-A year later, Walvis Bay residents reported a dramatic red object over the coast. Witness descriptions varied considerably. Some spoke of a loud explosion and a red glow across the sky. Others believed they saw something plunge into the sea while leaving a smoke trail. The event generated speculation ranging from missile launches to UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-has-walvis-bay-buzzing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo has walvis bay buzzing</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; has Walvis Bay buzzing12 Oct 2009 — A STRANGE red light in the sky at Walvis Bay had people all a-buzz and speculating...</span></span></span>
+A year later, Walvis Bay residents reported a dramatic red object over the coast. Witness descriptions varied considerably. Some spoke of a loud explosion and a red glow across the sky. Others believed they saw something plunge into the sea while leaving a smoke trail. The event generated speculation ranging from missile launches to UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-has-walvis-bay-buzzing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo has walvis bay buzzing</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; has Walvis Bay buzzing12 Oct 2009 — A STRANGE red light in the sky at Walvis Bay had people all a-buzz and speculating...</span></span></span>
 
 What makes this case especially revealing is what happened afterwards.
 
-The Namibian Sea Rescue Institute launched a search towards the reported crash area northwest of Pelican Point. Port authorities had also observed the phenomenon. Despite the excitement, search teams found no wreckage, no impact site and no evidence that an aircraft or object had actually entered the water. Defence officials likewise rejected speculation about a missile launch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-has-walvis-bay-buzzing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo has walvis bay buzzing</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; has Walvis Bay buzzing12 Oct 2009 — A STRANGE red light in the sky at Walvis Bay had people all a-buzz and speculating...</span></span></span>
+The Namibian Sea Rescue Institute launched a search towards the reported crash area northwest of Pelican Point. Port authorities had also observed the phenomenon. Despite the excitement, search teams found no wreckage, no impact site and no evidence that an aircraft or object had actually entered the water. Defence officials likewise rejected speculation about a missile launch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-has-walvis-bay-buzzing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo has walvis bay buzzing</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; has Walvis Bay buzzing12 Oct 2009 — A STRANGE red light in the sky at Walvis Bay had people all a-buzz and speculating...</span></span></span>
 
 The pattern closely matches numerous meteor and atmospheric-fireball cases worldwide: a brilliant event is observed, witnesses interpret it as a nearby crash, emergency services investigate, and nothing is recovered because the object was either much farther away than assumed or disintegrated in the atmosphere.
 
@@ -340,7 +340,7 @@ When a bright fireball crosses the sky, witnesses tend to:
 
 As a result, many people become convinced they saw something enter the sea, desert or nearby terrain. Search teams then investigate the estimated location and discover nothing.
 
-The 2009 Walvis Bay incident fits this pattern closely. Reports of an apparent impact prompted a marine search, yet no physical evidence emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-has-walvis-bay-buzzing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo has walvis bay buzzing</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; has Walvis Bay buzzing12 Oct 2009 — A STRANGE red light in the sky at Walvis Bay had people all a-buzz and speculating...</span></span></span>
+The 2009 Walvis Bay incident fits this pattern closely. Reports of an apparent impact prompted a marine search, yet no physical evidence emerged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-has-walvis-bay-buzzing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo has walvis bay buzzing</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; has Walvis Bay buzzing12 Oct 2009 — A STRANGE red light in the sky at Walvis Bay had people all a-buzz and speculating...</span></span></span>
 
 The absence of wreckage does not automatically make a case mysterious. In many meteor events, it is exactly what investigators would expect.
 
@@ -350,7 +350,7 @@ The absence of wreckage does not automatically make a case mysterious. In many m
 
 Namibia also has a documented history of attracting attention when real objects from space reach the ground.
 
-The most famous example is the metallic sphere discovered in Namibia in 2011. Initial media coverage described a mysterious object that had apparently fallen from the sky and left a noticeable impact mark. Subsequent reporting pointed towards a far more mundane explanation: a pressure vessel or fuel-system component from a spacecraft or rocket. NASA and other space agencies were consulted because similar objects had been recovered elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/places/namibia-s-space-ball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Namibia&#x27;s Space Ball in Windhoek</span><span class="citation-popover-snippet">Atlas ObscuraNamibia&#x27;s Space Ball in WindhoekDecember 25, 2011 — 25 Dec 2011 — Amid reports of explosions just north of Windhoek in mid-N...</span><span class="citation-popover-meta">Published: December 25, 2011</span></span></span>
+The most famous example is the metallic sphere discovered in Namibia in 2011. Initial media coverage described a mysterious object that had apparently fallen from the sky and left a noticeable impact mark. Subsequent reporting pointed towards a far more mundane explanation: a pressure vessel or fuel-system component from a spacecraft or rocket. NASA and other space agencies were consulted because similar objects had been recovered elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/places/namibia-s-space-ball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Namibia&#x27;s Space Ball in Windhoek</span><span class="citation-popover-snippet">Atlas ObscuraNamibia&#x27;s Space Ball in WindhoekDecember 25, 2011 — 25 Dec 2011 — Amid reports of explosions just north of Windhoek in mid-N...</span><span class="citation-popover-meta">Published: December 25, 2011</span></span></span>
 
 The significance of this case is not that it was a UFO. It demonstrates that genuinely unusual objects can occasionally arrive from above, creating confusion before technical explanations emerge.
 
@@ -368,7 +368,7 @@ Several recurring features appear across decades of reports:
 * Witnesses often describe tails, glowing trails or red colours.
 * Objects are frequently perceived as descending into the ocean.
 * Search efforts commonly fail to locate debris.
-* Later explanations tend to involve meteors, atmospheric effects or human-made objects rather than unknown technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keranews.org">[KERA News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keranews.org</span><span class="citation-popover-title">cue the scary music space ball crashes in namibia</span><span class="citation-popover-snippet">KERA NewsCue The Scary Music: &#x27;Space Ball&#x27; Crashes In Namibia23 Dec 2011 — It&#x27;s said to be made of a &quot;metal alloy known to man.&quot; But it i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200805210706.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[3allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">Namibia: &#x27;UFO&#x27; Sightings at Coast21 May 2008 — A handful of residents from Usakos are convinced they saw an unidentified flying object (U...</span><span class="citation-popover-meta">Published: May 2008</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-has-walvis-bay-buzzing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo has walvis bay buzzing</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; has Walvis Bay buzzing12 Oct 2009 — A STRANGE red light in the sky at Walvis Bay had people all a-buzz and speculating...</span></span></span>
+* Later explanations tend to involve meteors, atmospheric effects or human-made objects rather than unknown technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keranews.org">[KERA News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keranews.org</span><span class="citation-popover-title">cue the scary music space ball crashes in namibia</span><span class="citation-popover-snippet">KERA NewsCue The Scary Music: &#x27;Space Ball&#x27; Crashes In Namibia23 Dec 2011 — It&#x27;s said to be made of a &quot;metal alloy known to man.&quot; But it i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200805210706.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[3allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">Namibia: &#x27;UFO&#x27; Sightings at Coast21 May 2008 — A handful of residents from Usakos are convinced they saw an unidentified flying object (U...</span><span class="citation-popover-meta">Published: May 2008</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.namibian.com.na/ufo-has-walvis-bay-buzzing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: namibian.com.na">[The Namibian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">namibian.com.na</span><span class="citation-popover-title">ufo has walvis bay buzzing</span><span class="citation-popover-snippet">The Namibian&#x27;UFO&#x27; has Walvis Bay buzzing12 Oct 2009 — A STRANGE red light in the sky at Walvis Bay had people all a-buzz and speculating...</span></span></span>
 
 The cases remain interesting because they show how Namibia's coastal geography amplifies uncertainty. A meteor over the Atlantic can look like a crashing craft. A distant illuminated trail can resemble a missile launch. A genuine piece of space debris can reinforce public expectations that something extraordinary is occurring.
 
@@ -377,194 +377,194 @@ Within Namibia's broader UFO history, the coastal fireball reports are therefore
 <img src="{{ "/assets/images/Namibia_bfe79d_coastal_fireballs_9e6e2d-Illustration-3-dark.svg" | relative_url }}" alt="Coastal Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_coastal_fireballs_9e6e2d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_coastal_fireballs_9e6e2d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Namibia&#x27;s Coast Produces Strange Lights. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Namibia&#x27;s Coast Produces Strange Lights. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses how unusual aerial events are evaluated and separated from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how unusual aerial events are evaluated and separated from misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on witness reports, observation quality, and classification of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness reports, observation quality, and classification of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Donald William Robert McKinley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
+</h4>
+<p class="fr-book-author">By Donald William Robert McKinley</p>
         
-        <p class="fr-book-desc">Directly relevant to coastal fireball, meteor, and atmospheric-entry explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to coastal fireball, meteor, and atmospheric-entry explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Examines how dramatic sightings can arise from ordinary causes and reporting errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how dramatic sightings can arise from ordinary causes and reporting errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Science and Engineering</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-namibia-s-coast-produces-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-namibia-s-coast-produces-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ Within Namibia's broader UFO history, the coastal fireball reports are therefore
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ Within Namibia's broader UFO history, the coastal fireball reports are therefore
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ Within Namibia's broader UFO history, the coastal fireball reports are therefore
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ Within Namibia's broader UFO history, the coastal fireball reports are therefore
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ Within Namibia's broader UFO history, the coastal fireball reports are therefore
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,82 +770,82 @@ Within Namibia's broader UFO history, the coastal fireball reports are therefore
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: allafrica.com  
-   Link: <a href="https://allafrica.com/stories/200805210706.html" target="_blank" rel="noopener noreferrer nofollow">https://allafrica.com/stories/200805210706.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Namibia: &#x27;UFO&#x27; Sightings at Coast21 May 2008 — A handful of residents from Usakos are convinced they saw an unidentified flying object (U...</p></details>
+   Link:<a href="https://allafrica.com/stories/200805210706.html" target="_blank" rel="noopener noreferrer nofollow">https://allafrica.com/stories/200805210706.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Namibia: &#x27;UFO&#x27; Sightings at Coast21 May 2008 — A handful of residents from Usakos are convinced they saw an unidentified flying object (U...</p></details>
    Published: May 2008  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: namibian.com.na  
    Title: ufo has walvis bay buzzing  
-   Link: <a href="https://www.namibian.com.na/ufo-has-walvis-bay-buzzing/" target="_blank" rel="noopener noreferrer nofollow">https://www.namibian.com.na/ufo-has-walvis-bay-buzzing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Namibian&#x27;UFO&#x27; has Walvis Bay buzzing12 Oct 2009 — A STRANGE red light in the sky at Walvis Bay had people all a-buzz and speculating...</p></details>
+   Link:<a href="https://www.namibian.com.na/ufo-has-walvis-bay-buzzing/" target="_blank" rel="noopener noreferrer nofollow">https://www.namibian.com.na/ufo-has-walvis-bay-buzzing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Namibian&#x27;UFO&#x27; has Walvis Bay buzzing12 Oct 2009 — A STRANGE red light in the sky at Walvis Bay had people all a-buzz and speculating...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: atlasobscura.com  
    Title: Atlas Obscura Namibia's [Space Ball](&#123;&#123; 'space-ball/' | relative_url &#125;&#125;) in Windhoek  
-   Link: <a href="https://www.atlasobscura.com/places/namibia-s-space-ball" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/namibia-s-space-ball</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraNamibia&#x27;s Space Ball in WindhoekDecember 25, 2011 — 25 Dec 2011 — Amid reports of explosions just north of Windhoek in mid-N...</p></details>
+   Link:<a href="https://www.atlasobscura.com/places/namibia-s-space-ball" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/namibia-s-space-ball</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraNamibia&#x27;s Space Ball in WindhoekDecember 25, 2011 — 25 Dec 2011 — Amid reports of explosions just north of Windhoek in mid-N...</p></details>
    Published: December 25, 2011  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: keranews.org  
    Title: cue the scary music space ball crashes in namibia  
-   Link: <a href="https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia" target="_blank" rel="noopener noreferrer nofollow">https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KERA NewsCue The Scary Music: &#x27;Space Ball&#x27; Crashes In Namibia23 Dec 2011 — It&#x27;s said to be made of a &quot;metal alloy known to man.&quot; But it i...</p></details>
+   Link:<a href="https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia" target="_blank" rel="noopener noreferrer nofollow">https://www.keranews.org/2011-12-23/cue-the-scary-music-space-ball-crashes-in-namibia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KERA NewsCue The Scary Music: &#x27;Space Ball&#x27; Crashes In Namibia23 Dec 2011 — It&#x27;s said to be made of a &quot;metal alloy known to man.&quot; But it i...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/informantenam/videos/ufo-spotted-over-walvis-bay/701237000668776/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/informantenam/videos/ufo-spotted-over-walvis-bay/701237000668776/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Walvis Bay Niël Terblanché As the was sun...Aircraft enthusiasts took to the internet and established that the object t...</p></details>
+   Link:<a href="https://www.facebook.com/informantenam/videos/ufo-spotted-over-walvis-bay/701237000668776/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/informantenam/videos/ufo-spotted-over-walvis-bay/701237000668776/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Walvis Bay Niël Terblanché As the was sun...Aircraft enthusiasts took to the internet and established that the object t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Lzl-Q5wwyBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lzl-Q5wwyBY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DON&#x27;T DO THIS When Seeing Flamingos in Namibia! (Walvis...We&#x27;re here in walvis Bay getting up early with hundreds of flamingos all aroun...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lzl-Q5wwyBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lzl-Q5wwyBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DON&#x27;T DO THIS When Seeing Flamingos in Namibia! (Walvis...We&#x27;re here in walvis Bay getting up early with hundreds of flamingos all aroun...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/informantenam/posts/northerners-bewildered-by-a-strange-object-in-the-sky-staff-reportera-bright-slo/3840613436005588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/informantenam/posts/northerners-bewildered-by-a-strange-object-in-the-sky-staff-reportera-bright-slo/3840613436005588/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ted the undivided attention of a number of residents late on Thursday afternoon.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/informantenam/posts/northerners-bewildered-by-a-strange-object-in-the-sky-staff-reportera-bright-slo/3840613436005588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/informantenam/posts/northerners-bewildered-by-a-strange-object-in-the-sky-staff-reportera-bright-slo/3840613436005588/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ted the undivided attention of a number of residents late on Thursday afternoon.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DV_6_B3EchQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV_6_B3EchQ/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp;middot; Did you see it? &amp;middot; Turn night into day! &amp;middot; A meteor...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DV_6_B3EchQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV_6_B3EchQ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp;middot; Did you see it? &amp;middot; Turn night into day! &amp;middot; A meteor...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYsaMBjBIN4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYsaMBjBIN4/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bay… and clearly they run the place. #Namibia #WalvisBay #Pelicans...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYsaMBjBIN4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYsaMBjBIN4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bay… and clearly they run the place. #Namibia #WalvisBay #Pelicans...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DY2QIQdsV-R/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY2QIQdsV-R/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>endless desert plains, every moment in the sky revealed a...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DY2QIQdsV-R/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY2QIQdsV-R/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>endless desert plains, every moment in the sky revealed a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sXtV5HEcVPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sXtV5HEcVPY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ost vibrant sea life and yes the most delicious seafood you can imagine...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sXtV5HEcVPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sXtV5HEcVPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ost vibrant sea life and yes the most delicious seafood you can imagine...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Namibia/comments/1dvjsx8/anyone_ever_experiened_paranormal_or_unusual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Namibia/comments/1dvjsx8/anyone_ever_experiened_paranormal_or_unusual/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone ever experiened paranormal or unusual activities...Anyone ever experiened paranormal or unusual activities like sightings of UFO&#x27;...</p></details>
+   Link:<a href="https://www.reddit.com/r/Namibia/comments/1dvjsx8/anyone_ever_experiened_paranormal_or_unusual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Namibia/comments/1dvjsx8/anyone_ever_experiened_paranormal_or_unusual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone ever experiened paranormal or unusual activities...Anyone ever experiened paranormal or unusual activities like sightings of UFO&#x27;...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Meteor fireball caught on Namibia Cam  
-   Link: <a href="https://www.youtube.com/watch?v=hq0N-tNz10I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hq0N-tNz10I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor fireball caught on NamibiaCam - 9 November 2021Meteor fireball caught on NamibiaCam - 9 November 2021. 9.2K views... Did You Know...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hq0N-tNz10I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hq0N-tNz10I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor fireball caught on NamibiaCam - 9 November 2021Meteor fireball caught on NamibiaCam - 9 November 2021. 9.2K views... Did You Know...</p></details>
    Published: November 2021  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Fireball Mystery: Meteors Light Up Skies Worldwide, Puzzle Scientists  
-   Link: <a href="https://www.youtube.com/watch?v=VZw08so_Gwo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VZw08so_Gwo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO? What Are These Strange Light Flashes in the Sky?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VZw08so_Gwo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VZw08so_Gwo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO? What Are These Strange Light Flashes in the Sky?...</p></details>

@@ -253,7 +253,7 @@ Unidentified Aerial Phenomena (UAP) claims linked to **war‑zone sensors in and
 <img src="{{ "/assets/images/Afghanistan_c69153_war_zone_sensors_cbe69e-Illustration-1-dark.svg" | relative_url }}" alt="War Sensors illustration 1" data-theme-src-dark="{{ "/assets/images/Afghanistan_c69153_war_zone_sensors_cbe69e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Afghanistan_c69153_war_zone_sensors_cbe69e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Military Sensors Produce Ambiguous UAP Clips
 
-Modern military aerial platforms commonly use **Forward Looking Infrared (FLIR)** and other thermal‑based sensors to acquire real‑time imagery for surveillance, targeting and reconnaissance. These devices detect heat contrasts rather than visible‑light details, making distant objects, atmospheric phenomena, or thermal anomalies appear unfamiliar or strange when displayed as greyscale or false‑colour video. Without precise range, telemetry, radar correlation or multi‑sensor corroboration, analysts often can’t determine object size, speed or true behaviour solely from such footage. Recent Pentagon disclosures underscore this limitation: many released UAP clips consist of a **sensor “area of contrast”** tracked in frame without enough accompanying data for an analytic identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-UAP-Imagery-Acc-Table/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Next - AARO UAP Imagery Acc Table...</span></span></span>
+Modern military aerial platforms commonly use **Forward Looking Infrared (FLIR)** and other thermal‑based sensors to acquire real‑time imagery for surveillance, targeting and reconnaissance. These devices detect heat contrasts rather than visible‑light details, making distant objects, atmospheric phenomena, or thermal anomalies appear unfamiliar or strange when displayed as greyscale or false‑colour video. Without precise range, telemetry, radar correlation or multi‑sensor corroboration, analysts often can’t determine object size, speed or true behaviour solely from such footage. Recent Pentagon disclosures underscore this limitation: many released UAP clips consist of a **sensor “area of contrast”** tracked in frame without enough accompanying data for an analytic identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-UAP-Imagery-Acc-Table/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Next - AARO UAP Imagery Acc Table...</span></span></span>
 
 In war zones like Afghanistan and adjacent airspace, **terrain effects** further complicate interpretation. Rugged mountains, sharp temperature gradients at high altitude, dust, long viewing distances, and sensor motion can create artefacts that look like unexplained motion or shape. UAP descriptors in released government materials sometimes emphasise that footage shows a contrast area or signature rather than a clearly identified craft—an important distinction in scientific and intelligence evaluation.
 
@@ -263,11 +263,11 @@ In war zones like Afghanistan and adjacent airspace, **terrain effects** further
 
 Among the clips that have circulated within disclosure communities and online forums, a few have drawn attention because of their source, purported characteristics, or the way they were shared:
 
-**Disc‑Shaped UAP Footage, 2020/2025:** Investigative journalists including Jeremy Corbell and George Knapp released video that they say shows a large, disc‑like object moving through clouds near the **Afghanistan–Pakistan border** in November 2020. This footage, reportedly captured on a high‑altitude FLIR sensor, has been described as lacking a visible heat signature or conventional propulsion and showing abrupt movement. It is labelled as UAP in the associated documentation claimed by the journalists, but independent verification and origin details (sensor platform, exact date and chain of custody) are unclear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.singularfortean.com/singularjournal/2025/6/18/jeremy-corbell-shares-footage-of-flying-saucer-reportedly-filmed-by-us-military-over-afghanistan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: singularfortean.com">[A Singular Fortean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">singularfortean.com</span><span class="citation-popover-snippet">A Singular ForteanJeremy Corbell Shares Footage of &quot;Flying Saucer&quot; Reportedly Filmed by U.S. Military over Afghanistan — A Singular Forte...</span></span></span>
+**Disc‑Shaped UAP Footage, 2020/2025:** Investigative journalists including Jeremy Corbell and George Knapp released video that they say shows a large, disc‑like object moving through clouds near the **Afghanistan–Pakistan border** in November 2020. This footage, reportedly captured on a high‑altitude FLIR sensor, has been described as lacking a visible heat signature or conventional propulsion and showing abrupt movement. It is labelled as UAP in the associated documentation claimed by the journalists, but independent verification and origin details (sensor platform, exact date and chain of custody) are unclear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.singularfortean.com/singularjournal/2025/6/18/jeremy-corbell-shares-footage-of-flying-saucer-reportedly-filmed-by-us-military-over-afghanistan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: singularfortean.com">[A Singular Fortean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">singularfortean.com</span><span class="citation-popover-snippet">A Singular ForteanJeremy Corbell Shares Footage of &quot;Flying Saucer&quot; Reportedly Filmed by U.S. Military over Afghanistan — A Singular Forte...</span></span></span>
 
-**Infrared Sensor UAP Submissions to AARO:** The Pentagon’s All‑domain Anomaly Resolution Office (AARO) has published imagery tables of submitted UAP reports from U.S. military platforms, including recent submissions from 2026, 2024 and 2023 involving **infrared sensor footage tracking areas of contrast**. These entries describe panning and zooming behaviours or contrast features in sensor video, but the entries themselves do not categorically identify the objects captured, underscoring the analytical challenges inherent in such data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO UAP Report DocumentsMay 8, 2026 — Showing 1 to 25 of 43 entries UAP Imagery Release Date &#124; Title &#124; DVIDS Page &#124; Description &#124; Imager...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+**Infrared Sensor UAP Submissions to AARO:** The Pentagon’s All‑domain Anomaly Resolution Office (AARO) has published imagery tables of submitted UAP reports from U.S. military platforms, including recent submissions from 2026, 2024 and 2023 involving **infrared sensor footage tracking areas of contrast**. These entries describe panning and zooming behaviours or contrast features in sensor video, but the entries themselves do not categorically identify the objects captured, underscoring the analytical challenges inherent in such data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO UAP Report DocumentsMay 8, 2026 — Showing 1 to 25 of 43 entries UAP Imagery Release Date &#124; Title &#124; DVIDS Page &#124; Description &#124; Imager...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
-**Short Clips with Contrast Motion:** Videos circulated under titles like *“Spherical UAP over AFG in and out of clouds 23 Nov 2020”* show an area of contrast moving within frame over about 47 seconds, again likely derived from an infrared sensor aboard a military platform in the CENTCOM (Central Command) area, uploaded to a classified network in 2024. Observers note that such clips are altered and lack full metadata or analytic context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UfoUapUsoOrbSightings/comments/1tl8lr3/afghanistan_november_23_2020/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">📍Afghanistan 🇦🇫</span><span class="citation-popover-snippet">🗓️ NOVEMBER 23, 2020May 23, 2026...</span><span class="citation-popover-meta">Published: November 23, 2020</span></span></span>
+**Short Clips with Contrast Motion:** Videos circulated under titles like *“Spherical UAP over AFG in and out of clouds 23 Nov 2020”* show an area of contrast moving within frame over about 47 seconds, again likely derived from an infrared sensor aboard a military platform in the CENTCOM (Central Command) area, uploaded to a classified network in 2024. Observers note that such clips are altered and lack full metadata or analytic context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UfoUapUsoOrbSightings/comments/1tl8lr3/afghanistan_november_23_2020/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">📍Afghanistan 🇦🇫</span><span class="citation-popover-snippet">🗓️ NOVEMBER 23, 2020May 23, 2026...</span><span class="citation-popover-meta">Published: November 23, 2020</span></span></span>
 
 <img src="{{ "/assets/images/Afghanistan_c69153_war_zone_sensors_cbe69e-Illustration-2-dark.svg" | relative_url }}" alt="War Sensors illustration 2" data-theme-src-dark="{{ "/assets/images/Afghanistan_c69153_war_zone_sensors_cbe69e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Afghanistan_c69153_war_zone_sensors_cbe69e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Data Gaps Shape Interpretation and Debate
@@ -276,7 +276,7 @@ A consistent theme across Afghanistan‑linked sensor footage is the **absence o
 
 This ambiguity fuels differing narratives:
 
-* **Disclosure advocates** cite such footage as evidence of unexplained craft with potential implications beyond conventional aeronautics, emphasising lack of heat signatures or unusual motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://2day.pk/en/2025/06/19/us-military-releases-shocking-footage-of-disc-shaped-ufo-over-afghanistan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2day.pk">[Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2day.pk</span><span class="citation-popover-title">US Military Releases Shocking Footage of Disc-Shaped UFO Over Afghanistan – 2Day</span><span class="citation-popover-snippet">US Military Releases Shocking Footage of Disc-Shaped UFO Over Afghanistan – 2DayJune 19, 2025...</span><span class="citation-popover-meta">Published: June 19, 2025</span></span></span>
+* **Disclosure advocates** cite such footage as evidence of unexplained craft with potential implications beyond conventional aeronautics, emphasising lack of heat signatures or unusual motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://2day.pk/en/2025/06/19/us-military-releases-shocking-footage-of-disc-shaped-ufo-over-afghanistan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2day.pk">[Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2day.pk</span><span class="citation-popover-title">US Military Releases Shocking Footage of Disc-Shaped UFO Over Afghanistan – 2Day</span><span class="citation-popover-snippet">US Military Releases Shocking Footage of Disc-Shaped UFO Over Afghanistan – 2DayJune 19, 2025...</span><span class="citation-popover-meta">Published: June 19, 2025</span></span></span>
 * **Sceptics and analysts** point out that without information on altitude, range, sensor orientation, radar tracks or optical corroboration, interpretations remain speculative. Many UAP videos that initially seemed anomalous have later been identified as balloons, drones, sensor artefacts or imaging quirks once contextual data became available.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xzmK7tKcn9A" title="U.S. Military Releases Unresolved UAP Video From Greece: Diamond-Shaped Object Reported at 434 Knots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xzmK7tKcn9A" target="_blank" rel="noopener noreferrer">U.S. Military Releases Unresolved UAP Video From Greece: Diamond-Shaped Object Reported at 434 Knots</a></p><p class="youtube-embed-meta">Channel: The Bloomingtonian &middot; Views: 104 &middot; Uploaded: May 2026 &middot; Length: 1 minute 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xzmK7tKcn9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xzmK7tKcn9A">Open on YouTube</a></p></div></div></div>
@@ -300,194 +300,194 @@ For Afghanistan‑region cases, often only an edited clip is public, without met
 <img src="{{ "/assets/images/Afghanistan_c69153_war_zone_sensors_cbe69e-Illustration-3-dark.svg" | relative_url }}" alt="War Sensors illustration 3" data-theme-src-dark="{{ "/assets/images/Afghanistan_c69153_war_zone_sensors_cbe69e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Afghanistan_c69153_war_zone_sensors_cbe69e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why War Zone Footage Looks So Strange. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why War Zone Footage Looks So Strange. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes military observation cases where sensor interpretation matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes military observation cases where sensor interpretation matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses sensor data and military reporting challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses sensor data and military reporting challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Helps readers understand advanced military aviation and sensor technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand advanced military aviation and sensor technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides background on surveillance systems and defense technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on surveillance systems and defense technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-war-zone-footage-looks-so-strange-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-war-zone-footage-looks-so-strange-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -503,7 +503,7 @@ For Afghanistan‑region cases, often only an edited clip is public, without met
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -523,7 +523,7 @@ For Afghanistan‑region cases, often only an edited clip is public, without met
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -555,7 +555,7 @@ For Afghanistan‑region cases, often only an edited clip is public, without met
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -607,7 +607,7 @@ For Afghanistan‑region cases, often only an edited clip is public, without met
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -652,7 +652,7 @@ For Afghanistan‑region cases, often only an edited clip is public, without met
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -690,132 +690,131 @@ For Afghanistan‑region cases, often only an edited clip is public, without met
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-UAP-Imagery-Acc-Table/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-UAP-Imagery-Acc-Table/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Next - AARO UAP Imagery Acc Table...</p></details>
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-UAP-Imagery-Acc-Table/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-UAP-Imagery-Acc-Table/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Next - AARO UAP Imagery Acc Table...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: 📍Afghanistan 🇦🇫  
-   Link: <a href="https://www.reddit.com/r/UfoUapUsoOrbSightings/comments/1tl8lr3/afghanistan_november_23_2020/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapUsoOrbSightings/comments/1tl8lr3/afghanistan_november_23_2020/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>🗓️ NOVEMBER 23, 2020May 23, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapUsoOrbSightings/comments/1tl8lr3/afghanistan_november_23_2020/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapUsoOrbSightings/comments/1tl8lr3/afghanistan_november_23_2020/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🗓️ NOVEMBER 23, 2020May 23, 2026...</p></details>
    Published: November 23, 2020  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: 2day.pk  
    Title: US Military Releases Shocking Footage of Disc-Shaped UFO Over Afghanistan – 2Day  
-   Link: <a href="https://2day.pk/en/2025/06/19/us-military-releases-shocking-footage-of-disc-shaped-ufo-over-afghanistan" target="_blank" rel="noopener noreferrer nofollow">https://2day.pk/en/2025/06/19/us-military-releases-shocking-footage-of-disc-shaped-ufo-over-afghanistan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Military Releases Shocking Footage of Disc-Shaped UFO Over Afghanistan – 2DayJune 19, 2025...</p></details>
+   Link:<a href="https://2day.pk/en/2025/06/19/us-military-releases-shocking-footage-of-disc-shaped-ufo-over-afghanistan" target="_blank" rel="noopener noreferrer nofollow">https://2day.pk/en/2025/06/19/us-military-releases-shocking-footage-of-disc-shaped-ufo-over-afghanistan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Military Releases Shocking Footage of Disc-Shaped UFO Over Afghanistan – 2DayJune 19, 2025...</p></details>
    Published: June 19, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Report DocumentsMay 8, 2026 — Showing 1 to 25 of 43 entries UAP Imagery Release Date | Title | DVIDS Page | Description | Imager...</p></details>
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Report DocumentsMay 8, 2026 — Showing 1 to 25 of 43 entries UAP Imagery Release Date | Title | DVIDS Page | Description | Imager...</p></details>
    Published: May 8, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Report DocumentsMay 8, 2026 — UAP Imagery Release Date | Title | DVIDS Page | Description | Imagery --- | --- | --- | --- |...</p></details>
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Report DocumentsMay 8, 2026 — UAP Imagery Release Date | Title | DVIDS Page | Description | Imagery --- | --- | --- | --- |...</p></details>
    Published: May 8, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: unexplained.ie  
    Title: International Leaked Military Footage Shows Alleged UAP over Conflict  
-   Link: <a href="https://www.unexplained.ie/article/1329-leaked-military-footage-shows-alleged-uap-over-conflict-zone/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.ie/article/1329-leaked-military-footage-shows-alleged-uap-over-conflict-zone/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked Military Footage Shows Alleged UAP over Conflict Zone - Unexplained.ie - Unexplained Mysteries, Phenomena &amp; DisappearancesAugust 6...</p></details>
+   Link:<a href="https://www.unexplained.ie/article/1329-leaked-military-footage-shows-alleged-uap-over-conflict-zone/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.ie/article/1329-leaked-military-footage-shows-alleged-uap-over-conflict-zone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked Military Footage Shows Alleged UAP over Conflict Zone - Unexplained.ie - Unexplained Mysteries, Phenomena &amp; DisappearancesAugust 6...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
    Title: Videos | U.S  
-   Link: <a href="https://www.war.gov/Multimedia/Videos?videoid=1006105" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Videos?videoid=1006105</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarJanuary 1, 2020 — Player Embed Code: &lt;iframe width=&#x27;500&#x27; height=&#x27;300&#x27; scrolling=&#x27;no&#x27; frameborder=&#x27;0&#x27; style=&#x27;border: none...</p></details>
+   Link:<a href="https://www.war.gov/Multimedia/Videos?videoid=1006105" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Videos?videoid=1006105</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarJanuary 1, 2020 — Player Embed Code: &lt;iframe width=&#x27;500&#x27; height=&#x27;300&#x27; scrolling=&#x27;no&#x27; frameborder=&#x27;0&#x27; style=&#x27;border: none...</p></details>
    Published: January 1, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP ImageryUAP IMAGERY Click here for more information on the use of DoW Visual Imagery NEW VIDEOS Title Date Added PR-013, Unresolv...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP ImageryUAP IMAGERY Click here for more information on the use of DoW Visual Imagery NEW VIDEOS Title Date Added PR-013, Unresolv...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/ftag/MSF0951a18/quot/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/ftag/MSF0951a18/quot/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP ImageryAll-domain Anomaly Resolution Office UAP IMAGERY Click here for more information on the use of DoW Visual Imagery NEW VID...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/ftag/MSF0951a18/quot/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/ftag/MSF0951a18/quot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP ImageryAll-domain Anomaly Resolution Office UAP IMAGERY Click here for more information on the use of DoW Visual Imagery NEW VID...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-UAP-Imagery-dup/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-UAP-Imagery-dup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAll-domain Anomaly Resolution Office UAP IMAGERY FOR NEXT RELEASE Click here for more information on the use of DOD Visual Ima...</p></details>
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-UAP-Imagery-dup/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-UAP-Imagery-dup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAll-domain Anomaly Resolution Office UAP IMAGERY FOR NEXT RELEASE Click here for more information on the use of DOD Visual Ima...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: singularfortean.com  
-   Link: <a href="https://www.singularfortean.com/singularjournal/2025/6/18/jeremy-corbell-shares-footage-of-flying-saucer-reportedly-filmed-by-us-military-over-afghanistan" target="_blank" rel="noopener noreferrer nofollow">https://www.singularfortean.com/singularjournal/2025/6/18/jeremy-corbell-shares-footage-of-flying-saucer-reportedly-filmed-by-us-military-over-afghanistan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Singular ForteanJeremy Corbell Shares Footage of &quot;Flying Saucer&quot; Reportedly Filmed by U.S. Military over Afghanistan — A Singular Forte...</p></details>
+   Link:<a href="https://www.singularfortean.com/singularjournal/2025/6/18/jeremy-corbell-shares-footage-of-flying-saucer-reportedly-filmed-by-us-military-over-afghanistan" target="_blank" rel="noopener noreferrer nofollow">https://www.singularfortean.com/singularjournal/2025/6/18/jeremy-corbell-shares-footage-of-flying-saucer-reportedly-filmed-by-us-military-over-afghanistan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Singular ForteanJeremy Corbell Shares Footage of &quot;Flying Saucer&quot; Reportedly Filmed by U.S. Military over Afghanistan — A Singular Forte...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thataintnoplane.com  
-   Link: <a href="https://www.thataintnoplane.com/index.php/2025/08/28/full-10-minute-video-showing-glowing-multi-colored-uap-orbs-outside-a-military-base-in-afghanistan-the-orbs-are-then-shot-with-a-missile-and-are-completely-unaffected/" target="_blank" rel="noopener noreferrer nofollow">https://www.thataintnoplane.com/index.php/2025/08/28/full-10-minute-video-showing-glowing-multi-colored-uap-orbs-outside-a-military-base-in-afghanistan-the-orbs-are-then-shot-with-a-missile-and-are-completely-unaffected/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The orbs are then shot with a missile and are completely unaffected – That Ain&#x27;t No Plane!August 28, 2025 — FULL 10 MINUTE VIDEO SHOWING...</p></details>
+   Link:<a href="https://www.thataintnoplane.com/index.php/2025/08/28/full-10-minute-video-showing-glowing-multi-colored-uap-orbs-outside-a-military-base-in-afghanistan-the-orbs-are-then-shot-with-a-missile-and-are-completely-unaffected/" target="_blank" rel="noopener noreferrer nofollow">https://www.thataintnoplane.com/index.php/2025/08/28/full-10-minute-video-showing-glowing-multi-colored-uap-orbs-outside-a-military-base-in-afghanistan-the-orbs-are-then-shot-with-a-missile-and-are-completely-unaffected/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The orbs are then shot with a missile and are completely unaffected – That Ain&#x27;t No Plane!August 28, 2025 — FULL 10 MINUTE VIDEO SHOWING...</p></details>
    Published: August 28, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufo-declassified.com  
-   Link: <a href="https://ufo-declassified.com/blog/military-uap-videos-pentagon-released" target="_blank" rel="noopener noreferrer nofollow">https://ufo-declassified.com/blog/military-uap-videos-pentagon-released</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2026 — GEOGRAPHIC DISTRIBUTION The videos reveal that military UAP encounters are concentrated in several operational theaters: M...</p></details>
+   Link:<a href="https://ufo-declassified.com/blog/military-uap-videos-pentagon-released" target="_blank" rel="noopener noreferrer nofollow">https://ufo-declassified.com/blog/military-uap-videos-pentagon-released</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2026 — GEOGRAPHIC DISTRIBUTION The videos reveal that military UAP encounters are concentrated in several operational theaters: M...</p></details>
    Published: May 10, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: higgypop.com  
-   Link: <a href="https://www.higgypop.com/news/alleged-us-military-recording-shows-unidentified-object-over-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://www.higgypop.com/news/alleged-us-military-recording-shows-unidentified-object-over-middle-east/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 13, 2025 — ALLEGED US MILITARY RECORDING SHOWS UNIDENTIFIED OBJECT OVER MIDDLE EAST By Steve Higgins August 13, 2025 Image: UAP Ca...</p></details>
+   Link:<a href="https://www.higgypop.com/news/alleged-us-military-recording-shows-unidentified-object-over-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://www.higgypop.com/news/alleged-us-military-recording-shows-unidentified-object-over-middle-east/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 13, 2025 — ALLEGED US MILITARY RECORDING SHOWS UNIDENTIFIED OBJECT OVER MIDDLE EAST By Steve Higgins August 13, 2025 Image: UAP Ca...</p></details>
    Published: August 13, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unexplained-mysteries.com  
-   Link: <a href="https://www.unexplained-mysteries.com/news/388156/newly-released-military-video-shows-disc-shaped-ufo-over-middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/news/388156/newly-released-military-video-shows-disc-shaped-ufo-over-middle-east</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Randall June 18, 2025 · 17 comments Image: UFO Image: AI-generated (Midjourney) The footage was recorded by military pe...</p></details>
+   Link:<a href="https://www.unexplained-mysteries.com/news/388156/newly-released-military-video-shows-disc-shaped-ufo-over-middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/news/388156/newly-released-military-video-shows-disc-shaped-ufo-over-middle-east</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Randall June 18, 2025 · 17 comments Image: UFO Image: AI-generated (Midjourney) The footage was recorded by military pe...</p></details>
    Published: June 18, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: uapdisclosurefiles.com  
    Title: DO W-UAP-PR055, "Spherical UAP over AFG in and out of clouds 23 Nov  
-   Link: <a href="https://uapdisclosurefiles.com/files/dow-uap-pr055-spherical-uap-over-afg-in-and-out-of-clouds-23-nov-2020/" target="_blank" rel="noopener noreferrer nofollow">https://uapdisclosurefiles.com/files/dow-uap-pr055-spherical-uap-over-afg-in-and-out-of-clouds-23-nov-2020/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR055, &quot;Spherical UAP over AFG in and out of clouds 23 NovNovember 23, 2020 — DOW-UAP-PR055, &quot;SPHERICAL UAP OVER AFG IN AND OUT O...</p></details>
+   Link:<a href="https://uapdisclosurefiles.com/files/dow-uap-pr055-spherical-uap-over-afg-in-and-out-of-clouds-23-nov-2020/" target="_blank" rel="noopener noreferrer nofollow">https://uapdisclosurefiles.com/files/dow-uap-pr055-spherical-uap-over-afg-in-and-out-of-clouds-23-nov-2020/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR055, &quot;Spherical UAP over AFG in and out of clouds 23 NovNovember 23, 2020 — DOW-UAP-PR055, &quot;SPHERICAL UAP OVER AFG IN AND OUT O...</p></details>
    Published: November 23, 2020  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: brobible.com  
    Title: New Footage Of Flying Saucer UFO Taken By US Military  
-   Link: <a href="https://brobible.com/culture/article/new-footage-flying-saucer-ufo-military/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/new-footage-flying-saucer-ufo-military/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — RECONNAISSANCE FOOTAGE OF FLYING SAUCER UFO TAKEN BY US MILITARY RELEASED FOR THE FIRST TIME by Douglas CharlesLast Update...</p></details>
+   Link:<a href="https://brobible.com/culture/article/new-footage-flying-saucer-ufo-military/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/new-footage-flying-saucer-ufo-military/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — RECONNAISSANCE FOOTAGE OF FLYING SAUCER UFO TAKEN BY US MILITARY RELEASED FOR THE FIRST TIME by Douglas CharlesLast Update...</p></details>
    Published: May 11, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6VM9ak3_r7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6VM9ak3_r7M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Military Releases Unresolved UAP Video From Greece: Diamond-Shaped Object Reported at 434 Knots...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6VM9ak3_r7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6VM9ak3_r7M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Military Releases Unresolved UAP Video From Greece: Diamond-Shaped Object Reported at 434 Knots...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: disclosuremonitor.com  
    Title: centcom 2013 star shaped uap video  
-   Link: <a href="https://disclosuremonitor.com/news/centcom-2013-star-shaped-uap-video" target="_blank" rel="noopener noreferrer nofollow">https://disclosuremonitor.com/news/centcom-2013-star-shaped-uap-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CENTCOM Releases 2013 &quot;Star-Shaped&quot; UAP Infrared Video Submitted to AARO | Disclosure MonitorCENTCOM RELEASES 2013 &quot;STAR-SHAPED&quot; UAP INFR...</p></details>
+   Link:<a href="https://disclosuremonitor.com/news/centcom-2013-star-shaped-uap-video" target="_blank" rel="noopener noreferrer nofollow">https://disclosuremonitor.com/news/centcom-2013-star-shaped-uap-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CENTCOM Releases 2013 &quot;Star-Shaped&quot; UAP Infrared Video Submitted to AARO | Disclosure MonitorCENTCOM RELEASES 2013 &quot;STAR-SHAPED&quot; UAP INFR...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sentinel-news.org  
    Title: Are UAPs hiding in clouds?  
-   Link: <a href="https://www.sentinel-news.org/p/are-uaps-hiding-in-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.sentinel-news.org/p/are-uaps-hiding-in-clouds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Baptiste FriscourtJune 17, 2025 — ARE UAPS HIDING IN CLOUDS? A NEW LEAKED MILITARY VIDEO WAS RELEASED BY JOURNALISTS JEREMY CORBELL AN...</p></details>
+   Link:<a href="https://www.sentinel-news.org/p/are-uaps-hiding-in-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.sentinel-news.org/p/are-uaps-hiding-in-clouds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Baptiste FriscourtJune 17, 2025 — ARE UAPS HIDING IN CLOUDS? A NEW LEAKED MILITARY VIDEO WAS RELEASED BY JOURNALISTS JEREMY CORBELL AN...</p></details>
    Published: June 17, 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xzmK7tKcn9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xzmK7tKcn9A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump Government Releases UFO Files And Anyone Can See Them Now...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xzmK7tKcn9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xzmK7tKcn9A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump Government Releases UFO Files And Anyone Can See Them Now...</p></details>

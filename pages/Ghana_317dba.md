@@ -1194,43 +1194,43 @@ image: /assets/images/Ghana_317dba-overview-social.jpg
 
 ## The 1987 south-eastern Ghana case is the anchor incident
 
-The central Ghanaian UFO report occurred between 2300 and 2400 GMT on 27 July 1987. A declassified intelligence report summarised a 29 July 1987 edition of the Ghanaian Times, saying observers near Accra and in the Volta Region, specifically around Kpandu and Hohoe, reported a large unidentified flying object over south-eastern Ghana and the Gulf of Guinea. Some witnesses reportedly described a silent object, while others associated the event with the sound of “explosions”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/ghana-ufos-dia-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">ghana ufos dia 1987</span><span class="citation-popover-snippet">ghana ufos dia 1987</span></span></span>
+The central Ghanaian UFO report occurred between 2300 and 2400 GMT on 27 July 1987. A declassified intelligence report summarised a 29 July 1987 edition of the Ghanaian Times, saying observers near Accra and in the Volta Region, specifically around Kpandu and Hohoe, reported a large unidentified flying object over south-eastern Ghana and the Gulf of Guinea. Some witnesses reportedly described a silent object, while others associated the event with the sound of “explosions”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/ghana-ufos-dia-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">ghana ufos dia 1987</span><span class="citation-popover-snippet">ghana ufos dia 1987</span></span></span>
 
 <img src="{{ "/assets/images/Ghana_317dba-overview.webp" | relative_url }}" alt="Overview image for Ghana" loading="eager" decoding="sync" fetchpriority="high">
-The most detailed account came from a Ghana Air Force pilot who said he had observed the object from the ground near Accra. According to the report, he first thought it might be a falling meteorite, but then saw it stop descending and begin climbing as it moved over Accra and towards the ocean. He described a metallic, aluminium-like body, compared its shape to a large aircraft fuselage or missile body, estimated its altitude at about 15,000 feet, and said it appeared two or three times the size of a Boeing 747. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The most detailed account came from a Ghana Air Force pilot who said he had observed the object from the ground near Accra. According to the report, he first thought it might be a falling meteorite, but then saw it stop descending and begin climbing as it moved over Accra and towards the ocean. He described a metallic, aluminium-like body, compared its shape to a large aircraft fuselage or missile body, estimated its altitude at about 15,000 feet, and said it appeared two or three times the size of a Boeing 747.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-The light pattern is the detail that made the case memorable. The pilot described an initial yellowish light at the trailing end, “like a rocket”, followed by eight smaller blue lights arranged in a circular pattern around the rear of the object. He also said he had heard of other reports that included two explosion-like sounds, which he speculated could have been sonic booms, though he himself reported no sound from the object during his own observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/ghana-ufos-dia-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">ghana ufos dia 1987</span><span class="citation-popover-snippet">ghana ufos dia 1987</span></span></span>
+The light pattern is the detail that made the case memorable. The pilot described an initial yellowish light at the trailing end, “like a rocket”, followed by eight smaller blue lights arranged in a circular pattern around the rear of the object. He also said he had heard of other reports that included two explosion-like sounds, which he speculated could have been sonic booms, though he himself reported no sound from the object during his own observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/ghana-ufos-dia-1987.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">ghana ufos dia 1987</span><span class="citation-popover-snippet">ghana ufos dia 1987</span></span></span>
 
-The report’s own source comment matters. The Ghana Air Force officer was described as a qualified jet fighter pilot, known to the US defence attaché’s office as a serious professional who was not seeking attention and who gave the details reluctantly after the Air Force commander asked for help identifying the object. That does not prove the object was extraordinary, but it does raise the case above a loose rumour or anonymous story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The report’s own source comment matters. The Ghana Air Force officer was described as a qualified jet fighter pilot, known to the US defence attaché’s office as a serious professional who was not seeking attention and who gave the details reluctantly after the Air Force commander asked for help identifying the object. That does not prove the object was extraordinary, but it does raise the case above a loose rumour or anonymous story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/74hPI8OyWCw" title="The 1987 UFO Encounter That Still Baffles Investigators" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=74hPI8OyWCw" target="_blank" rel="noopener noreferrer">The 1987 UFO Encounter That Still Baffles Investigators</a></p><p class="youtube-embed-meta">Channel: Roanoke Tales &middot; Views: 111.4K &middot; Uploaded: April 2026 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=74hPI8OyWCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=74hPI8OyWCw">Open on YouTube</a></p></div></div></div>
 
 ## Why the official explanation leaned towards space debris
 
-The later US response did not identify a specific satellite or rocket body by name, but it did offer a working explanation. One October 1987 message said “precise identification” was not possible, while adding that the reported patterns, noise and colours strongly suggested space debris from atmospheric re-entry. Another message said debris from weather, communications or experimental satellites appeared to be the most plausible explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The later US response did not identify a specific satellite or rocket body by name, but it did offer a working explanation. One October 1987 message said “precise identification” was not possible, while adding that the reported patterns, noise and colours strongly suggested space debris from atmospheric re-entry. Another message said debris from weather, communications or experimental satellites appeared to be the most plausible explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-That explanation fits several parts of the Ghana report better than a conventional aircraft would. Re-entering space debris can appear as a bright object with a long luminous trail, can break into multiple fragments, and often seems to move broadly parallel to the ground rather than falling straight down. The Aerospace Corporation’s public explainer notes that debris re-entries can resemble meteors, with a bright central body, a long dazzling tail and numerous fragments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[aerospace.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Open source on aerospace.org.</span></span></span>
+That explanation fits several parts of the Ghana report better than a conventional aircraft would. Re-entering space debris can appear as a bright object with a long luminous trail, can break into multiple fragments, and often seems to move broadly parallel to the ground rather than falling straight down. The Aerospace Corporation’s public explainer notes that debris re-entries can resemble meteors, with a bright central body, a long dazzling tail and numerous fragments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[aerospace.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Open source on aerospace.org.</span></span></span>
 
-It also fits the “explosions” reported by some witnesses. NASA’s Orbital Debris Program Office explains that spacecraft usually break up high in the atmosphere during re-entry, with the nominal breakup altitude around 78 km, while later research on uncontrolled re-entries has focused on sonic booms as a way to track falling debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaldebris.jsc.nasa.gov">[orbitaldebris.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaldebris.jsc.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+It also fits the “explosions” reported by some witnesses. NASA’s Orbital Debris Program Office explains that spacecraft usually break up high in the atmosphere during re-entry, with the nominal breakup altitude around 78 km, while later research on uncontrolled re-entries has focused on sonic booms as a way to track falling debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaldebris.jsc.nasa.gov">[orbitaldebris.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaldebris.jsc.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 The weaker part of the explanation is specificity. The documents do not show a completed match to an individual satellite, rocket stage or catalogue number. That leaves the case best classified as “plausibly explained but not fully closed”, rather than “debunked beyond dispute”. In UFO research terms, it is a good example of how a credible witness can report an unusual event accurately enough for a mundane explanation to become plausible, while the absence of complete tracking data prevents a final identification.
 
 <img src="{{ "/assets/images/Ghana_317dba-Illustration-1-dark.svg" | relative_url }}" alt="Ghana illustration 1" data-theme-src-dark="{{ "/assets/images/Ghana_317dba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ghana_317dba-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Ghana’s public record does not show
 
-Ghana’s public UFO record appears sparse. There is no obvious equivalent, in open sources, of a long-running national UFO desk, a publicly searchable Ghanaian government UFO archive, or a major Ghana-based civilian investigation organisation comparable to larger foreign reporting bodies. The 1987 case stands out precisely because it entered diplomatic and defence-intelligence traffic rather than remaining a local anecdote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+Ghana’s public UFO record appears sparse. There is no obvious equivalent, in open sources, of a long-running national UFO desk, a publicly searchable Ghanaian government UFO archive, or a major Ghana-based civilian investigation organisation comparable to larger foreign reporting bodies. The 1987 case stands out precisely because it entered diplomatic and defence-intelligence traffic rather than remaining a local anecdote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-This scarcity should not be overread. Low public reporting does not mean that unusual sky sightings never occur in Ghana. It more likely reflects a mixture of archival gaps, media discoverability, language and platform bias, and the absence of a widely used national reporting pipeline for anomalous aerial observations. International civilian databases are also uneven: NUFORC, for example, describes itself as an independently collected public UFO/UAP reporting database, but it is US-based and its country-by-country coverage is not a neutral measure of how often people around the world see unusual aerial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+This scarcity should not be overread. Low public reporting does not mean that unusual sky sightings never occur in Ghana. It more likely reflects a mixture of archival gaps, media discoverability, language and platform bias, and the absence of a widely used national reporting pipeline for anomalous aerial observations. International civilian databases are also uneven: NUFORC, for example, describes itself as an independently collected public UFO/UAP reporting database, but it is US-based and its country-by-country coverage is not a neutral measure of how often people around the world see unusual aerial events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-Modern Ghana also has more ordinary reasons for unidentified aerial reports than it did in 1987. The Ghana Civil Aviation Authority has issued guidance for remotely piloted aircraft systems, including requirements for operations in controlled airspace and a general 400-foot height limit for RPAS flights. Drones, aircraft lights, satellites, meteor fireballs and weather-related visibility changes can all produce confusing observations, especially when captured briefly on phones without context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gcaa.com.gh/web/wp-content/uploads/2018/RPAS/RPAS-Guidance-for-Commercial-Operations/Guidance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa.com.gh">[gcaa.com.gh]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa.com.gh</span><span class="citation-popover-title">GHAN A CIVIL AVIATION AUTHORITY REMOTELY PILOTED</span><span class="citation-popover-snippet">GHAN A CIVIL AVIATION AUTHORITY REMOTELY PILOTED</span></span></span>
+Modern Ghana also has more ordinary reasons for unidentified aerial reports than it did in 1987. The Ghana Civil Aviation Authority has issued guidance for remotely piloted aircraft systems, including requirements for operations in controlled airspace and a general 400-foot height limit for RPAS flights. Drones, aircraft lights, satellites, meteor fireballs and weather-related visibility changes can all produce confusing observations, especially when captured briefly on phones without context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gcaa.com.gh/web/wp-content/uploads/2018/RPAS/RPAS-Guidance-for-Commercial-Operations/Guidance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa.com.gh">[gcaa.com.gh]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa.com.gh</span><span class="citation-popover-title">GHAN A CIVIL AVIATION AUTHORITY REMOTELY PILOTED</span><span class="citation-popover-snippet">GHAN A CIVIL AVIATION AUTHORITY REMOTELY PILOTED</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6NpZsvzkDY" title="WILD UFO CRASHES | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6NpZsvzkDY" target="_blank" rel="noopener noreferrer">WILD UFO CRASHES | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 449.0K &middot; Uploaded: March 2025 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6NpZsvzkDY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6NpZsvzkDY">Open on YouTube</a></p></div></div></div>
 
 ## Why the geography of the 1987 sighting matters
 
-The reported [1987 sighting]({{ '1987-sighting/' | relative_url }}) was not randomly distributed across Ghana. It clustered in the south-east: Accra, the Volta Region and the Gulf of Guinea. That matters because an object moving across the sky over the coastal south could be visible to observers across a broad line of sight, while the ocean horizon would make the final disappearance especially striking. Ghana sits on the Gulf of Guinea, with the Atlantic Ocean to the south and Togo to the east, so a south-eastern sky track naturally connects Accra, Volta-area observations and the sea horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Ghana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Ghana &#124; Religion, Capital, Maps, Language, Currency,</span><span class="citation-popover-snippet">Encyclopedia Britannica Ghana &#124; Religion, Capital, Maps, Language, Currency,</span></span></span>
+The reported [1987 sighting]({{ '1987-sighting/' | relative_url }}) was not randomly distributed across Ghana. It clustered in the south-east: Accra, the Volta Region and the Gulf of Guinea. That matters because an object moving across the sky over the coastal south could be visible to observers across a broad line of sight, while the ocean horizon would make the final disappearance especially striking. Ghana sits on the Gulf of Guinea, with the Atlantic Ocean to the south and Togo to the east, so a south-eastern sky track naturally connects Accra, Volta-area observations and the sea horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Ghana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Ghana &#124; Religion, Capital, Maps, Language, Currency,</span><span class="citation-popover-snippet">Encyclopedia Britannica Ghana &#124; Religion, Capital, Maps, Language, Currency,</span></span></span>
 
-The witness descriptions also show why region-level variation can be misleading. People in different locations may have been seeing the same high-altitude event from different angles, under different local noise and visibility conditions. Some reports included explosion-like sounds, others did not. The pilot near Accra described a silent object, while second-hand reports referred to possible sonic booms. That is not necessarily a contradiction; sound from high-altitude fragmentation can be delayed, directional, or noticed by some observers and missed by others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The witness descriptions also show why region-level variation can be misleading. People in different locations may have been seeing the same high-altitude event from different angles, under different local noise and visibility conditions. Some reports included explosion-like sounds, others did not. The pilot near Accra described a silent object, while second-hand reports referred to possible sonic booms. That is not necessarily a contradiction; sound from high-altitude fragmentation can be delayed, directional, or noticed by some observers and missed by others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
 For Ghana-specific investigation, this makes the 1987 case more valuable as a reconstruction problem than as a simple mystery story. The best questions are not “Was it alien?” but “What was overhead between 2300 and 2400 GMT?”, “Which orbital objects were predicted to decay near West Africa?”, “Were there radar, aviation or maritime reports?”, and “Can Ghanaian newspaper archives add witness names, locations and timing detail?”
 
@@ -1239,13 +1239,13 @@ For Ghana-specific investigation, this makes the 1987 case more valuable as a re
 
 A careful Ghana page needs to separate three levels of claim.
 
-**Confirmed:** A UFO report over south-eastern Ghana in July 1987 entered declassified US intelligence traffic. The report cited Ghanaian newspaper coverage, named the reporting area, recorded a Ghana Air Force pilot’s account, and preserved later US analysis. That makes the existence of the report itself well supported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+**Confirmed:** A UFO report over south-eastern Ghana in July 1987 entered declassified US intelligence traffic. The report cited Ghanaian newspaper coverage, named the reporting area, recorded a Ghana Air Force pilot’s account, and preserved later US analysis. That makes the existence of the report itself well supported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-**Contested:** The object’s exact identity remains unresolved in the surviving documents. The pilot’s description was detailed and the source was treated as credible, but the US response stopped short of a precise identification. The case therefore remains contested only in the limited sense that a particular object was not conclusively matched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+**Contested:** The object’s exact identity remains unresolved in the surviving documents. The pilot’s description was detailed and the source was treated as credible, but the US response stopped short of a precise identification. The case therefore remains contested only in the limited sense that a particular object was not conclusively matched.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-**Plausibly explained:** Space debris is the strongest available explanation. The colour changes, multiple lights, possible explosion sounds and broad sky track are compatible with re-entry, and the US analysts themselves favoured that explanation. The absence of a named debris object prevents a fully closed verdict, but the available evidence does not require an exotic hypothesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+**Plausibly explained:** Space debris is the strongest available explanation. The colour changes, multiple lights, possible explosion sounds and broad sky track are compatible with re-entry, and the US analysts themselves favoured that explanation. The absence of a named debris object prevents a fully closed verdict, but the available evidence does not require an exotic hypothesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
 
-**Unsupported:** Claims that Ghana has a hidden record of confirmed alien craft, recovered technology or official extraterrestrial contact are not supported by the accessible evidence reviewed here. This aligns with the broader position of NASA and the US All-domain Anomaly Resolution Office: both have reported that available UAP evidence has not established extraterrestrial origin, and NASA has emphasised that limited data is a major barrier to firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+**Unsupported:** Claims that Ghana has a hidden record of confirmed alien craft, recovered technology or official extraterrestrial contact are not supported by the accessible evidence reviewed here. This aligns with the broader position of NASA and the US All-domain Anomaly Resolution Office: both have reported that available UAP evidence has not established extraterrestrial origin, and NASA has emphasised that limited data is a major barrier to firm conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/StHCSSjbn44" title="Close Encounters: - The Ariel School UFO Incident // 3D CGI Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=StHCSSjbn44" target="_blank" rel="noopener noreferrer">Close Encounters: - The Ariel School UFO Incident // 3D CGI Animation</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 850.7K &middot; Uploaded: October 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=StHCSSjbn44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=StHCSSjbn44">Open on YouTube</a></p></div></div></div>
 
@@ -1253,201 +1253,201 @@ A careful Ghana page needs to separate three levels of claim.
 
 The Ghana case is a useful reminder that “unidentified” is a status, not a conclusion. In the 1987 incident, the most credible witness was not dismissed, but neither was his account treated as proof of alien technology. The better approach was exactly what serious UAP work requires: preserve the observation, compare it with known aerospace and natural phenomena, and admit when the data does not allow a precise answer.
 
-For future Ghana sightings, the highest-value evidence would be specific timing, direction of travel, duration, elevation above the horizon, sound timing, photographs with known landmarks, flight-tracking checks, satellite and debris re-entry checks, and reports from independent observers in different towns. Ghana’s aviation and defence institutions already have normal responsibilities for airspace safety and surveillance, while civil aviation rules cover emerging drone activity; those frameworks are more relevant to most unidentified sky events than UFO folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghana_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Ghana Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ghana Air Force</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghana_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Ghana Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ghana Air Force</span></span></span>
+For future Ghana sightings, the highest-value evidence would be specific timing, direction of travel, duration, elevation above the horizon, sound timing, photographs with known landmarks, flight-tracking checks, satellite and debris re-entry checks, and reports from independent observers in different towns. Ghana’s aviation and defence institutions already have normal responsibilities for airspace safety and surveillance, while civil aviation rules cover emerging drone activity; those frameworks are more relevant to most unidentified sky events than UFO folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghana_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Ghana Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ghana Air Force</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghana_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Ghana Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ghana Air Force</span></span></span>
 
 Within a broader country-by-country UFO project, Ghana belongs near sibling branches where a single strong archival incident carries most of the weight, rather than countries with repeated public investigations or famous mass-witness cases. Its best case is neither trivial nor sensational: it is a credible 1987 multi-location sighting, probably linked to space debris, preserved because aviation professionals and foreign defence officials took the report seriously enough to ask for an explanation.
 
 <img src="{{ "/assets/images/Ghana_317dba-Illustration-3-dark.svg" | relative_url }}" alt="Ghana illustration 3" data-theme-src-dark="{{ "/assets/images/Ghana_317dba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ghana_317dba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened Over South Eastern Ghana in 1987?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened Over South Eastern Ghana in 1987?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Features aviation and official-witness cases similar to the Ghana incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features aviation and official-witness cases similar to the Ghana incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating multi-witness sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating multi-witness sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful context for official analysis of unusual aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful context for official analysis of unusual aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores how governments and witnesses document unexplained events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how governments and witnesses document unexplained events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-over-south-eastern-ghana-in-1987-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1463,7 +1463,7 @@ Within a broader country-by-country UFO project, Ghana belongs near sibling bran
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1483,7 +1483,7 @@ Within a broader country-by-country UFO project, Ghana belongs near sibling bran
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1515,7 +1515,7 @@ Within a broader country-by-country UFO project, Ghana belongs near sibling bran
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1567,7 +1567,7 @@ Within a broader country-by-country UFO project, Ghana belongs near sibling bran
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1612,7 +1612,7 @@ Within a broader country-by-country UFO project, Ghana belongs near sibling bran
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1650,272 +1650,271 @@ Within a broader country-by-country UFO project, Ghana belongs near sibling bran
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documents2.theblackvault.com  
    Title: ghana ufos dia 1987  
-   Link: <a href="https://documents2.theblackvault.com/documents/dia/ghana-ufos-dia-1987.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/ghana-ufos-dia-1987.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/dia/ghana-ufos-dia-1987.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/ghana-ufos-dia-1987.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
+   Link:<a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/dia/" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gcaa.com.gh  
    Title: GHAN A CIVIL AVIATION AUTHORITY REMOTELY PILOTED  
-   Link: <a href="https://www.gcaa.com.gh/web/wp-content/uploads/2018/RPAS/RPAS-Guidance-for-Commercial-Operations/Guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.com.gh/web/wp-content/uploads/2018/RPAS/RPAS-Guidance-for-Commercial-Operations/Guidance.pdf</a>  
+   Link:<a href="https://www.gcaa.com.gh/web/wp-content/uploads/2018/RPAS/RPAS-Guidance-for-Commercial-Operations/Guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.com.gh/web/wp-content/uploads/2018/RPAS/RPAS-Guidance-for-Commercial-Operations/Guidance.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: meteo.gov.gh  
-   Link: <a href="https://www.meteo.gov.gh/alerts/harmattan-alert-dusty-conditions-and-reduced-visibility-expected-across-northern-ghana/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.gov.gh/alerts/harmattan-alert-dusty-conditions-and-reduced-visibility-expected-across-northern-ghana/</a>  
+   Link:<a href="https://www.meteo.gov.gh/alerts/harmattan-alert-dusty-conditions-and-reduced-visibility-expected-across-northern-ghana/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.gov.gh/alerts/harmattan-alert-dusty-conditions-and-reduced-visibility-expected-across-northern-ghana/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Ghana | Religion, Capital, Maps, Language, Currency,  
-   Link: <a href="https://www.britannica.com/place/Ghana" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Ghana</a>  
+   Link:<a href="https://www.britannica.com/place/Ghana" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Ghana</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Gulf-of-Guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Gulf-of-Guinea</a>  
+   Link:<a href="https://www.britannica.com/place/Gulf-of-Guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Gulf-of-Guinea</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gcaa.com.gh  
    Title: AVSEC PART 1  
-   Link: <a href="https://www.gcaa.com.gh/web/wp-content/uploads/2024/SECURITY/AVSEC%20PART%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.com.gh/web/wp-content/uploads/2024/SECURITY/AVSEC%20PART%201.pdf</a>  
+   Link:<a href="https://www.gcaa.com.gh/web/wp-content/uploads/2024/SECURITY/AVSEC%20PART%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.com.gh/web/wp-content/uploads/2024/SECURITY/AVSEC%20PART%201.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gcaa.com.gh  
-   Link: <a href="https://www.gcaa.com.gh/web/wp-content/uploads/2023/RFPR/Part%2019%20RULES%20OF%20THE%20AIR_MARCH%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.com.gh/web/wp-content/uploads/2023/RFPR/Part%2019%20RULES%20OF%20THE%20AIR_MARCH%202023.pdf</a>  
+   Link:<a href="https://www.gcaa.com.gh/web/wp-content/uploads/2023/RFPR/Part%2019%20RULES%20OF%20THE%20AIR_MARCH%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.com.gh/web/wp-content/uploads/2023/RFPR/Part%2019%20RULES%20OF%20THE%20AIR_MARCH%202023.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gcaa.com.gh  
-   Link: <a href="https://www.gcaa.com.gh/web/wp-content/uploads/2025/RPAS/UTM%20Framework%20-%20Clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.com.gh/web/wp-content/uploads/2025/RPAS/UTM%20Framework%20-%20Clean.pdf</a>  
+   Link:<a href="https://www.gcaa.com.gh/web/wp-content/uploads/2025/RPAS/UTM%20Framework%20-%20Clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa.com.gh/web/wp-content/uploads/2025/RPAS/UTM%20Framework%20-%20Clean.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: census2021.statsghana.gov.gh  
    Title: Volume 3 Highlights  
-   Link: <a href="https://census2021.statsghana.gov.gh/gssmain/fileUpload/reportthemelist/Volume%203%20Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://census2021.statsghana.gov.gh/gssmain/fileUpload/reportthemelist/Volume%203%20Highlights.pdf</a>  
+   Link:<a href="https://census2021.statsghana.gov.gh/gssmain/fileUpload/reportthemelist/Volume%203%20Highlights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://census2021.statsghana.gov.gh/gssmain/fileUpload/reportthemelist/Volume%203%20Highlights.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: statsbank.statsghana.gov.gh  
    Title: statsghana.gov.gh Population Projections  
-   Link: <a href="https://statsbank.statsghana.gov.gh/pxweb/en/PHC%202021%20StatsBank/PHC%202021%20StatsBank__Population/projections.px/" target="_blank" rel="noopener noreferrer nofollow">https://statsbank.statsghana.gov.gh/pxweb/en/PHC%202021%20StatsBank/PHC%202021%20StatsBank__Population/projections.px/</a>  
+   Link:<a href="https://statsbank.statsghana.gov.gh/pxweb/en/PHC%202021%20StatsBank/PHC%202021%20StatsBank__Population/projections.px/" target="_blank" rel="noopener noreferrer nofollow">https://statsbank.statsghana.gov.gh/pxweb/en/PHC%202021%20StatsBank/PHC%202021%20StatsBank__Population/projections.px/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: www2.statsghana.gov.gh  
    Title: statsghana.gov.gh Ghana Statical Service  
-   Link: <a href="https://www2.statsghana.gov.gh/ContactUs_Others.html" target="_blank" rel="noopener noreferrer nofollow">https://www2.statsghana.gov.gh/ContactUs_Others.html</a>  
+   Link:<a href="https://www2.statsghana.gov.gh/ContactUs_Others.html" target="_blank" rel="noopener noreferrer nofollow">https://www2.statsghana.gov.gh/ContactUs_Others.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e200206" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200206</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=e200206" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200206</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: kids.britannica.com  
-   Link: <a href="https://kids.britannica.com/students/article/Ghana/274545" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Ghana/274545</a>  
+   Link:<a href="https://kids.britannica.com/students/article/Ghana/274545" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Ghana/274545</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: britannica.com  
    Title: Gulf of Guinea  
-   Link: <a href="https://www.britannica.com/summary/Gulf-of-Guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Gulf-of-Guinea</a>  
+   Link:<a href="https://www.britannica.com/summary/Gulf-of-Guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Gulf-of-Guinea</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/facts/Ghana" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/facts/Ghana</a>  
+   Link:<a href="https://www.britannica.com/facts/Ghana" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/facts/Ghana</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
+   Link:<a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: space.com  
    Title: declassified ufo sightings  
-   Link: <a href="https://www.space.com/declassified-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/declassified-ufo-sightings</a>  
+   Link:<a href="https://www.space.com/declassified-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/declassified-ufo-sightings</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: meteo.gov.gh  
-   Link: <a href="https://www.meteo.gov.gh/alerts/harmattan-intensification/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.gov.gh/alerts/harmattan-intensification/</a>  
+   Link:<a href="https://www.meteo.gov.gh/alerts/harmattan-intensification/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.gov.gh/alerts/harmattan-intensification/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: orbitaldebris.jsc.nasa.gov  
    Title: HOOSF 16e  
-   Link: <a href="https://www.orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf</a>  
+   Link:<a href="https://www.orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.orbitaldebris.jsc.nasa.gov/library/HOOSF_16e.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: orbitaldebris.jsc.nasa.gov  
    Title: quarterly news  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/quarterly-news/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/quarterly-news/</a>  
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/quarterly-news/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/quarterly-news/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: war.gov  
    Title: exercise obangame express 2018 starts  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/1480881/exercise-obangame-express-2018-starts/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/1480881/exercise-obangame-express-2018-starts/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/1480881/exercise-obangame-express-2018-starts/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/1480881/exercise-obangame-express-2018-starts/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: aibghana.gov.gh  
-   Link: <a href="https://aibghana.gov.gh/wp-content/uploads/2021/06/VRA-ACC.-REPORT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aibghana.gov.gh/wp-content/uploads/2021/06/VRA-ACC.-REPORT.pdf</a>  
+   Link:<a href="https://aibghana.gov.gh/wp-content/uploads/2021/06/VRA-ACC.-REPORT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aibghana.gov.gh/wp-content/uploads/2021/06/VRA-ACC.-REPORT.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: mofep.gov.gh  
-   Link: <a href="https://mofep.gov.gh/sites/default/files/pbb-estimates/2023/2023-PBB-MoD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mofep.gov.gh/sites/default/files/pbb-estimates/2023/2023-PBB-MoD.pdf</a>  
+   Link:<a href="https://mofep.gov.gh/sites/default/files/pbb-estimates/2023/2023-PBB-MoD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mofep.gov.gh/sites/default/files/pbb-estimates/2023/2023-PBB-MoD.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: time.com  
    Title: ghana africa fast fashion waste pollution  
-   Link: <a href="https://time.com/7307662/ghana-africa-fast-fashion-waste-pollution/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7307662/ghana-africa-fast-fashion-waste-pollution/</a>  
+   Link:<a href="https://time.com/7307662/ghana-africa-fast-fashion-waste-pollution/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7307662/ghana-africa-fast-fashion-waste-pollution/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/617be4f88fa8f52985dd76c1/rhc-drones-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/617be4f88fa8f52985dd76c1/rhc-drones-report.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/617be4f88fa8f52985dd76c1/rhc-drones-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/617be4f88fa8f52985dd76c1/rhc-drones-report.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: af.mil.gh  
    Title: Ghana Air Force Branches  
-   Link: <a href="https://af.mil.gh/branches/operations" target="_blank" rel="noopener noreferrer nofollow">https://af.mil.gh/branches/operations</a>  
+   Link:<a href="https://af.mil.gh/branches/operations" target="_blank" rel="noopener noreferrer nofollow">https://af.mil.gh/branches/operations</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: af.mil.gh  
    Title: gcaa and ghana air force forge strong ties for airspace safety  
-   Link: <a href="https://af.mil.gh/social-board/news/gcaa-and-ghana-air-force-forge-strong-ties-for-airspace-safety" target="_blank" rel="noopener noreferrer nofollow">https://af.mil.gh/social-board/news/gcaa-and-ghana-air-force-forge-strong-ties-for-airspace-safety</a>  
+   Link:<a href="https://af.mil.gh/social-board/news/gcaa-and-ghana-air-force-forge-strong-ties-for-airspace-safety" target="_blank" rel="noopener noreferrer nofollow">https://af.mil.gh/social-board/news/gcaa-and-ghana-air-force-forge-strong-ties-for-airspace-safety</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/122711294146571/posts/835720589512301/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/122711294146571/posts/835720589512301/</a>  
+   Link:<a href="https://www.facebook.com/groups/122711294146571/posts/835720589512301/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/122711294146571/posts/835720589512301/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/119871491050023/posts/326849303685573/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/119871491050023/posts/326849303685573/</a>  
+   Link:<a href="https://www.facebook.com/groups/119871491050023/posts/326849303685573/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/119871491050023/posts/326849303685573/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2127373170805852/posts/2901503786726116/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2901503786726116/</a>  
+   Link:<a href="https://www.facebook.com/groups/2127373170805852/posts/2901503786726116/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2901503786726116/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GNA1957/posts/ghana-air-force-in-control-of-airspace-security-chief-of-air-staff-gna-ghananews/1501699485297042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GNA1957/posts/ghana-air-force-in-control-of-airspace-security-chief-of-air-staff-gna-ghananews/1501699485297042/</a>  
+   Link:<a href="https://www.facebook.com/GNA1957/posts/ghana-air-force-in-control-of-airspace-security-chief-of-air-staff-gna-ghananews/1501699485297042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GNA1957/posts/ghana-air-force-in-control-of-airspace-security-chief-of-air-staff-gna-ghananews/1501699485297042/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: Wikipedia  
    Title: Ghana Air Force  
-   Link: <a href="https://en.wikipedia.org/wiki/Ghana_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghana_Air_Force</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ghana_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghana_Air_Force</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: openlab.citytech.cuny.edu  
-   Link: <a href="https://openlab.citytech.cuny.edu/ghanalive/geography/" target="_blank" rel="noopener noreferrer nofollow">https://openlab.citytech.cuny.edu/ghanalive/geography/</a>  
+   Link:<a href="https://openlab.citytech.cuny.edu/ghanalive/geography/" target="_blank" rel="noopener noreferrer nofollow">https://openlab.citytech.cuny.edu/ghanalive/geography/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: x.com  
-   Link: <a href="https://x.com/GhanaMet/status/2006754550691365029" target="_blank" rel="noopener noreferrer nofollow">https://x.com/GhanaMet/status/2006754550691365029</a>  
+   Link:<a href="https://x.com/GhanaMet/status/2006754550691365029" target="_blank" rel="noopener noreferrer nofollow">https://x.com/GhanaMet/status/2006754550691365029</a>  
 
 ### Additional References
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: All the videos from Pentagon's first batch of UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Incident That Shocked Ariel School: Telepathic Extraterrestrials (Re-Edit)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Incident That Shocked Ariel School: Telepathic Extraterrestrials (Re-Edit)...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: youtube.com  
    Title: Close Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=StHCSSjbn44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=StHCSSjbn44</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=StHCSSjbn44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=StHCSSjbn44</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: WILD UFO CRASHES | Ancient Aliens | History  
-   Link: <a href="https://www.youtube.com/watch?v=W6NpZsvzkDY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W6NpZsvzkDY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: - The Ariel School UFO Incident // 3D CGI Animation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W6NpZsvzkDY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W6NpZsvzkDY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: - The Ariel School UFO Incident // 3D CGI Animation...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=74hPI8OyWCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=74hPI8OyWCw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WILD UFO CRASHES | Ancient Aliens | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=74hPI8OyWCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=74hPI8OyWCw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WILD UFO CRASHES | Ancient Aliens | History...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OSDYMIKE/videos/ufo-unknownobject-ghananews/528978030077685/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OSDYMIKE/videos/ufo-unknownobject-ghananews/528978030077685/</a>  
+   Link:<a href="https://www.facebook.com/OSDYMIKE/videos/ufo-unknownobject-ghananews/528978030077685/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OSDYMIKE/videos/ufo-unknownobject-ghananews/528978030077685/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+   Link:<a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOscience/comments/o2w0pb/a_credible_scientific_explanation_for_many_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/o2w0pb/a_credible_scientific_explanation_for_many_ufo/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOscience/comments/o2w0pb/a_credible_scientific_explanation_for_many_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/o2w0pb/a_credible_scientific_explanation_for_many_ufo/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: newsflare.com  
-   Link: <a href="https://www.newsflare.com/video/439497/a-fake-military-personnel-caught-in-accra-ghana-for-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.newsflare.com/video/439497/a-fake-military-personnel-caught-in-accra-ghana-for-scams</a>  
+   Link:<a href="https://www.newsflare.com/video/439497/a-fake-military-personnel-caught-in-accra-ghana-for-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.newsflare.com/video/439497/a-fake-military-personnel-caught-in-accra-ghana-for-scams</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RGS.IBG/posts/a-vast-infrastructure-network-has-evolved-in-ghanas-capital-accra-at-an-astonish/10160840387836294/?locale=ms_MY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RGS.IBG/posts/a-vast-infrastructure-network-has-evolved-in-ghanas-capital-accra-at-an-astonish/10160840387836294/?locale=ms_MY</a>
+   Link:<a href="https://www.facebook.com/RGS.IBG/posts/a-vast-infrastructure-network-has-evolved-in-ghanas-capital-accra-at-an-astonish/10160840387836294/?locale=ms_MY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RGS.IBG/posts/a-vast-infrastructure-network-has-evolved-in-ghanas-capital-accra-at-an-astonish/10160840387836294/?locale=ms_MY</a>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /united-republic-of-t-f850a5-index/
 description: Focused pages that expand on United Republic of Tanzania.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: United_Republic_of_T_f850a5
 parent_title: United Republic of Tanzania
@@ -16,7 +16,7 @@ parent_permalink: /united-republic-of-tanzania/
 
 # Explore Topics in United Republic of Tanzania
 
-The following pages expand on the main **[United Republic of Tanzania]({{ '/united-republic-of-tanzania/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[United Republic of Tanzania]({{ '/united-republic-of-tanzania/' | relative_url }})** page and cover its key branches in.
 
 - [Dar Fireball]({{ '/dar-fireball/' | relative_url }})
 - [Kilimanjaro]({{ '/kilimanjaro/' | relative_url }})

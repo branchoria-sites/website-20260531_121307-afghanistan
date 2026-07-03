@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tunisia-edf404-index/
 description: Focused pages that expand on What Really Happened in Tunisia's UFO....
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Tunisia_edf404
 parent_title: What Really Happened in Tunisia's UFO...
@@ -16,7 +16,7 @@ parent_permalink: /what-really-happened-in-tunisias-ufo/
 
 # Explore Topics in What Really Happened in Tunisia's UFO...
 
-The following pages expand on the main **[What Really Happened in Tunisia's UFO...]({{ '/what-really-happened-in-tunisias-ufo/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Happened in Tunisia's UFO...]({{ '/what-really-happened-in-tunisias-ufo/' | relative_url }})** page and cover its key branches in.
 
 - [Meteors]({{ '/meteors-e22785/' | relative_url }})
 - [Regions]({{ '/regions-82fa7c/' | relative_url }})

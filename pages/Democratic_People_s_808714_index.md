@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /democratic-people-s-808714-index/
 description: Focused pages that expand on Democratic People s Republic of Korea.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Democratic_People_s_808714
 parent_title: Democratic People s Republic of Korea
@@ -16,7 +16,7 @@ parent_permalink: /democratic-people-s-republic-of-korea/
 
 # Explore Topics in Democratic People s Republic of Korea
 
-The following pages expand on the main **[Democratic People s Republic of Korea]({{ '/democratic-people-s-republic-of-korea/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Democratic People s Republic of Korea]({{ '/democratic-people-s-republic-of-korea/' | relative_url }})** page and cover its key branches in.
 
 - [DMZ UFO Alerts]({{ '/dmz-ufo-alerts/' | relative_url }})
 - [Evidence Limitations]({{ '/evidence-limitations/' | relative_url }})

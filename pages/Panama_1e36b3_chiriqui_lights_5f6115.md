@@ -248,31 +248,31 @@ image: /assets/images/Panama_1e36b3_chiriqui_lights_5f6115-Illustration-1-social
 
 ## Introduction
 
-The Chiriquí lights case became one of the most useful UFO-related incidents in Panama because it appears to have moved quickly from mystery to explanation. In late 2024, residents in the western province of Chiriquí reported unusual lights moving through the night sky, and videos circulated online with the familiar suggestion that the objects might be UFOs. Within a short time, however, local observers and astronomy-minded commentators pointed to a far more ordinary cause: powerful event projectors reflecting off low cloud layers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+The Chiriquí lights case became one of the most useful UFO-related incidents in Panama because it appears to have moved quickly from mystery to explanation. In late 2024, residents in the western province of Chiriquí reported unusual lights moving through the night sky, and videos circulated online with the familiar suggestion that the objects might be UFOs. Within a short time, however, local observers and astronomy-minded commentators pointed to a far more ordinary cause: powerful event projectors reflecting off low cloud layers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Panama_1e36b3_chiriqui_lights_5f6115-Illustration-1-dark.svg" | relative_url }}" alt="Chiriqui Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Panama_1e36b3_chiriqui_lights_5f6115-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Panama_1e36b3_chiriqui_lights_5f6115-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the incident important is not that it produced dramatic evidence of an unknown craft. The value of the case is almost the opposite. Chiriquí provides a clear example of how atmospheric conditions, modern lighting technology, and social-media amplification can combine to create a convincing UFO narrative even when the source may be entirely terrestrial. In Panama's broader UFO history, this is one of the strongest examples of a public sighting that received a plausible and technically grounded explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+What makes the incident important is not that it produced dramatic evidence of an unknown craft. The value of the case is almost the opposite. Chiriquí provides a clear example of how atmospheric conditions, modern lighting technology, and social-media amplification can combine to create a convincing UFO narrative even when the source may be entirely terrestrial. In Panama's broader UFO history, this is one of the strongest examples of a public sighting that received a plausible and technically grounded explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 ## What residents reported in Chiriquí
 
-Witnesses described bright lights appearing above the region at night, with videos showing moving luminous forms against cloud cover. Because the lights appeared elevated in the sky and seemed detached from any visible ground source, speculation quickly spread across social networks that an unidentified aerial phenomenon had been recorded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+Witnesses described bright lights appearing above the region at night, with videos showing moving luminous forms against cloud cover. Because the lights appeared elevated in the sky and seemed detached from any visible ground source, speculation quickly spread across social networks that an unidentified aerial phenomenon had been recorded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 Several factors made the sighting visually striking:
 
 * The lights appeared suspended above the landscape rather than attached to a building or vehicle.
 * Their movement looked coordinated and deliberate.
 * Cloud cover obscured the lower part of the light beams.
-* Viewers often saw only the illuminated patches rather than the full optical effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+* Viewers often saw only the illuminated patches rather than the full optical effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 This pattern is common in UFO reports involving bright night-time lights. When observers cannot see the origin point, the brain tends to interpret the illuminated area itself as an object rather than as reflected light.
 
-In Chiriquí, the timing also mattered. The province regularly experiences periods of low cloud, mist, and moisture-rich air, especially during the rainy season. Those conditions create an ideal surface onto which powerful beams can project visible shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+In Chiriquí, the timing also mattered. The province regularly experiences periods of low cloud, mist, and moisture-rich air, especially during the rainy season. Those conditions create an ideal surface onto which powerful beams can project visible shapes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hohsi3z3G6w" title="Mystery Alien Symbiote Is Real? What Did they Find in Panama? Is this Real or Fake?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hohsi3z3G6w" target="_blank" rel="noopener noreferrer">Mystery Alien Symbiote Is Real? What Did they Find in Panama? Is this Real or Fake?</a></p><p class="youtube-embed-meta">Channel: AcidGlow &middot; Views: 3.4K &middot; Uploaded: September 2025 &middot; Length: 4 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hohsi3z3G6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hohsi3z3G6w">Open on YouTube</a></p></div></div></div>
 
 ## How event projectors and low clouds can mimic objects
 
-The leading explanation was that the lights were produced by high-powered robotic event projectors, sometimes called moving-head searchlights. These devices are commonly used for concerts, festivals, commercial openings, and outdoor celebrations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+The leading explanation was that the lights were produced by high-powered robotic event projectors, sometimes called moving-head searchlights. These devices are commonly used for concerts, festivals, commercial openings, and outdoor celebrations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 When projected into clear skies, the beams may be difficult to notice from a distance. When projected into low cloud, fog, or moisture-filled air, the effect changes dramatically. Instead of seeing a narrow beam rising from the ground, distant observers may see bright patches, circles, or moving shapes apparently floating overhead.
 
@@ -280,20 +280,20 @@ Several characteristics of the Chiriquí videos matched this explanation:
 
 ### Repeating movement patterns
 
-Observers who analysed the footage noted recurring motions that resembled programmed lighting sequences rather than the behaviour of a physical craft. Event projectors often run automated patterns that sweep, rotate, pause, and repeat in predictable cycles. According to commentary reported in local media, the Chiriquí lights displayed these repetitive characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+Observers who analysed the footage noted recurring motions that resembled programmed lighting sequences rather than the behaviour of a physical craft. Event projectors often run automated patterns that sweep, rotate, pause, and repeat in predictable cycles. According to commentary reported in local media, the Chiriquí lights displayed these repetitive characteristics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Panama_1e36b3_chiriqui_lights_5f6115-Illustration-2-dark.svg" | relative_url }}" alt="Chiriqui Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Panama_1e36b3_chiriqui_lights_5f6115-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Panama_1e36b3_chiriqui_lights_5f6115-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Diffuse edges rather than solid structures
 
-The lights lacked a clearly defined object shape. Instead, they appeared as glowing areas on cloud cover. This is consistent with projected illumination and inconsistent with footage that clearly captures a structured vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+The lights lacked a clearly defined object shape. Instead, they appeared as glowing areas on cloud cover. This is consistent with projected illumination and inconsistent with footage that clearly captures a structured vehicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 ### Cloud-assisted optical effects
 
-Low clouds effectively become giant projection screens. A beam striking cloud droplets can create the illusion of a bright object changing position across the sky. Because the illuminated area moves much farther and faster than the projector itself, observers can perceive sudden shifts that seem impossible for a conventional aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+Low clouds effectively become giant projection screens. A beam striking cloud droplets can create the illusion of a bright object changing position across the sky. Because the illuminated area moves much farther and faster than the projector itself, observers can perceive sudden shifts that seem impossible for a conventional aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 ### Hidden ground source
 
-The apparent mystery often disappears once the source location is identified. If the projector sits behind buildings, hills, trees, or other terrain features, observers may never see the beam's origin. They see only the reflected light overhead and conclude that the phenomenon is airborne. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+The apparent mystery often disappears once the source location is identified. If the projector sits behind buildings, hills, trees, or other terrain features, observers may never see the beam's origin. They see only the reflected light overhead and conclude that the phenomenon is airborne.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kSk5dnpDjDo" title="2024 July 09 - Noctilucent Clouds over Florida" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kSk5dnpDjDo" target="_blank" rel="noopener noreferrer">2024 July 09 - Noctilucent Clouds over Florida</a></p><p class="youtube-embed-meta">Channel: APOD Podcast &middot; Views: 117 &middot; Uploaded: July 2024 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kSk5dnpDjDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kSk5dnpDjDo">Open on YouTube</a></p></div></div></div>
 
@@ -301,7 +301,7 @@ The apparent mystery often disappears once the source location is identified. If
 
 Unlike many UFO reports that remain unresolved because of limited data, the Chiriquí incident had a proposed explanation that directly matched visible features in the recordings.
 
-Local reporting cited observers who argued that the lights had "all the characteristics" of robotic event projections and highlighted the role of low clouds in creating the effect. They also pointed to the repeated patterns visible in circulating videos, which are typical of programmed lighting systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+Local reporting cited observers who argued that the lights had "all the characteristics" of robotic event projections and highlighted the role of low clouds in creating the effect. They also pointed to the repeated patterns visible in circulating videos, which are typical of programmed lighting systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 The explanation does not require extraordinary assumptions. It relies on three ordinary elements occurring together:
 
@@ -309,208 +309,208 @@ The explanation does not require extraordinary assumptions. It relies on three o
 
 1. Powerful commercial lighting equipment.
 2. Low cloud cover or atmospheric moisture.
-3. Viewers observing the effect from a distance without seeing the source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+3. Viewers observing the effect from a distance without seeing the source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 That combination is frequently responsible for UFO reports worldwide. The Chiriquí case is notable because the visual evidence appears to align with the mechanism unusually well.
 
 <img src="{{ "/assets/images/Panama_1e36b3_chiriqui_lights_5f6115-Illustration-3-dark.svg" | relative_url }}" alt="Chiriqui Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Panama_1e36b3_chiriqui_lights_5f6115-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Panama_1e36b3_chiriqui_lights_5f6115-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this case matters in Panama's UFO record
 
-Panama's UFO history contains a mixture of [folklore]({{ 'folklore/' | relative_url }}), personal contact claims, isolated sighting reports, and social-media videos. Many cases suffer from missing photographs, uncertain dates, limited witness testimony, or a lack of technical investigation. The Chiriquí lights incident stands out because it demonstrates how a seemingly mysterious event can be explained through direct observation of environmental and technological factors rather than speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+Panama's UFO history contains a mixture of [folklore]({{ 'folklore/' | relative_url }}), personal contact claims, isolated sighting reports, and social-media videos. Many cases suffer from missing photographs, uncertain dates, limited witness testimony, or a lack of technical investigation. The Chiriquí lights incident stands out because it demonstrates how a seemingly mysterious event can be explained through direct observation of environmental and technological factors rather than speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 It also highlights an important distinction in UFO research: unexplained does not necessarily mean extraordinary. A light can be genuinely unidentified to witnesses while still having a mundane source that becomes apparent later.
 
-For researchers interested in Panama's broader record, the Chiriquí lights serve as a useful benchmark. Future claims involving luminous objects over cloud layers, especially near populated areas hosting events, can be compared against this incident before more exotic explanations are considered. The case therefore functions less as evidence for unknown craft and more as a reminder of how easily atmospheric optics and modern lighting technology can generate convincing UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
+For researchers interested in Panama's broader record, the Chiriquí lights serve as a useful benchmark. Future claims involving luminous objects over cloud layers, especially near populated areas hosting events, can be compared against this incident before more exotic explanations are considered. The case therefore functions less as evidence for unknown craft and more as a reminder of how easily atmospheric optics and modern lighting technology can generate convincing UFO reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[critica.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-title">Luces raras en Chiriquí: No era un OVNI, sino</span><span class="citation-popover-snippet">November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</span><span class="citation-popover-meta">Published: November 2, 2024</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Chiriqui Lights Really UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Chiriqui Lights Really UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how unusual aerial observations should be analysed before conclusions are drawn.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how unusual aerial observations should be analysed before conclusions are drawn.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the importance of distinguishing strong and weak cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of distinguishing strong and weak cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Strong match for a case focused on ordinary explanations and misinterpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for a case focused on ordinary explanations and misinterpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Explains how sky phenomena are frequently misunderstood.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sky phenomena are frequently misunderstood.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-chiriqui-lights-really-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-the-chiriqui-lights-really-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ For researchers interested in Panama's broader record, the Chiriquí lights serv
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ For researchers interested in Panama's broader record, the Chiriquí lights serv
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ For researchers interested in Panama's broader record, the Chiriquí lights serv
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ For researchers interested in Panama's broader record, the Chiriquí lights serv
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ For researchers interested in Panama's broader record, the Chiriquí lights serv
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -713,65 +713,64 @@ For researchers interested in Panama's broader record, the Chiriquí lights serv
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: critica.com.pa  
    Title: Luces raras en Chiriquí: No era un OVNI, sino  
-   Link: <a href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</p></details>
+   Link:<a href="https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/nacional/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas-474557</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 2, 2024 — 2 Nov 2024 — Las luces que se vieron tienen todas las características de ser proyecciones realizadas por proyectores r...</p></details>
    Published: November 2, 2024  
 
 ### Additional References
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi-res.com  
-   Link: <a href="https://mdpi-res.com/bookfiles/book/11173/Risk_Assessment_for_Biological_Invasions.pdf?v=1771899094" target="_blank" rel="noopener noreferrer nofollow">https://mdpi-res.com/bookfiles/book/11173/Risk_Assessment_for_Biological_Invasions.pdf?v=1771899094</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Assessment for Biological InvasionsXubin Pan. Xubin Pan is a pest risk analysis expert at the Chinese Academy of Quality and Inspect...</p></details>
+   Link:<a href="https://mdpi-res.com/bookfiles/book/11173/Risk_Assessment_for_Biological_Invasions.pdf?v=1771899094" target="_blank" rel="noopener noreferrer nofollow">https://mdpi-res.com/bookfiles/book/11173/Risk_Assessment_for_Biological_Invasions.pdf?v=1771899094</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risk Assessment for Biological InvasionsXubin Pan. Xubin Pan is a pest risk analysis expert at the Chinese Academy of Quality and Inspect...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/221789505_Eight_new_species_of_Cestrum_Solanaceae_from_Mesoamerica" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/221789505_Eight_new_species_of_Cestrum_Solanaceae_from_Mesoamerica</a>  
+   Link:<a href="https://www.researchgate.net/publication/221789505_Eight_new_species_of_Cestrum_Solanaceae_from_Mesoamerica" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/221789505_Eight_new_species_of_Cestrum_Solanaceae_from_Mesoamerica</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DNO-377SAXE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNO-377SAXE/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On paper, they should be similar. They are not. Abu Coffee comes from a small farm at 1,550...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DNO-377SAXE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DNO-377SAXE/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On paper, they should be similar. They are not. Abu Coffee comes from a small farm at 1,550...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: allthingspanama.net  
    Title: luces raras en chiriqui no era un ovni sino proyecciones roboticas  
-   Link: <a href="https://allthingspanama.net/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas/?srsltid=AfmBOoq6zvxqPrQ5JPpLaDM7EIGze0enk_Z5zBZB-6VGyIGuto9pdmDC" target="_blank" rel="noopener noreferrer nofollow">https://allthingspanama.net/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas/?srsltid=AfmBOoq6zvxqPrQ5JPpLaDM7EIGze0enk_Z5zBZB-6VGyIGuto9pdmDC</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Luces raras en Chiriquí: No era un OVNI, sino...2 Nov 2024 — Lo que se observó anoche en el cielo en varios puntos de la provincia de Ch...</p></details>
+   Link:<a href="https://allthingspanama.net/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas/?srsltid=AfmBOoq6zvxqPrQ5JPpLaDM7EIGze0enk_Z5zBZB-6VGyIGuto9pdmDC" target="_blank" rel="noopener noreferrer nofollow">https://allthingspanama.net/luces-raras-en-chiriqui-no-era-un-ovni-sino-proyecciones-roboticas/?srsltid=AfmBOoq6zvxqPrQ5JPpLaDM7EIGze0enk_Z5zBZB-6VGyIGuto9pdmDC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luces raras en Chiriquí: No era un OVNI, sino...2 Nov 2024 — Lo que se observó anoche en el cielo en varios puntos de la provincia de Ch...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWZZ4LhCtFD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWZZ4LhCtFD/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>creado por los proyectores de luz utilizados en la inauguración de un...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWZZ4LhCtFD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWZZ4LhCtFD/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>creado por los proyectores de luz utilizados en la inauguración de un...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ilovepcbfl/posts/2107789686343980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ilovepcbfl/posts/2107789686343980/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rive did anyone else see I don’t know what to call it.IT shaped like...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ilovepcbfl/posts/2107789686343980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ilovepcbfl/posts/2107789686343980/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rive did anyone else see I don’t know what to call it.IT shaped like...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/134682813236955/posts/9096295267075620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/134682813236955/posts/9096295267075620/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of lights flying across the sky that night in the area.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/134682813236955/posts/9096295267075620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/134682813236955/posts/9096295267075620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of lights flying across the sky that night in the area.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/ebooks/46079.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/46079.txt.utf-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ome across a fairly uniform and rather...Read more...</p></details>
+   Link:<a href="https://www.gutenberg.org/ebooks/46079.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/46079.txt.utf-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ome across a fairly uniform and rather...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: stproportalcorporativo.blob.core.windows.net  
    Title: Informe ISEINF NATURGY 2024 ENG  
-   Link: <a href="https://stproportalcorporativo.blob.core.windows.net/uploads/2025/02/Informe-ISEINF-NATURGY-2024-ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stproportalcorporativo.blob.core.windows.net/uploads/2025/02/Informe-ISEINF-NATURGY-2024-ENG.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naturgy Consolidated Non-Financial Information Statement...24 Feb 2025 — The present Consolidated Non-Financial Information Statement an...</p></details>
+   Link:<a href="https://stproportalcorporativo.blob.core.windows.net/uploads/2025/02/Informe-ISEINF-NATURGY-2024-ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stproportalcorporativo.blob.core.windows.net/uploads/2025/02/Informe-ISEINF-NATURGY-2024-ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naturgy Consolidated Non-Financial Information Statement...24 Feb 2025 — The present Consolidated Non-Financial Information Statement an...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hohsi3z3G6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hohsi3z3G6w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Panama Alien Meteorite Story GOES VIRAL | Guy KEEPS ALIEN in his HOUSE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hohsi3z3G6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hohsi3z3G6w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Panama Alien Meteorite Story GOES VIRAL | Guy KEEPS ALIEN in his HOUSE...</p></details>

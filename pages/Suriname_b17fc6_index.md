@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /suriname-b17fc6-index/
 description: Focused pages that expand on What Suriname's UFO Stories Really Show.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Suriname_b17fc6
 parent_title: What Suriname's UFO Stories Really Show
@@ -16,7 +16,7 @@ parent_permalink: /what-surinames-ufo-stories-really-show/
 
 # Explore Topics in What Suriname's UFO Stories Really Show
 
-The following pages expand on the main **[What Suriname's UFO Stories Really Show]({{ '/what-surinames-ufo-stories-really-show/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Suriname's UFO Stories Really Show]({{ '/what-surinames-ufo-stories-really-show/' | relative_url }})** page and cover its key branches in.
 
 - [Paramaribo]({{ '/paramaribo/' | relative_url }})
 - [Lantern Scare]({{ '/lantern-scare/' | relative_url }})

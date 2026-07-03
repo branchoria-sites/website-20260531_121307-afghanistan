@@ -257,11 +257,11 @@ image: /assets/images/Republic_of_Moldova_a6ad94_civilian_sighting_ve_eb876a-Ill
 Civilian UFO reports from the [Republic of Moldova]({{ 'republic-of-moldova/' | relative_url }}) exist, but they form a very small and difficult-to-verify record. Unlike countries with long-running UFO organisations, extensive archives or major military disclosures, Moldova's public UFO material is scattered across international reporting databases, social-media uploads and reposted videos. The result is a landscape where claims are easy to find but hard to assess.
 
 <img src="{{ "/assets/images/Republic_of_Moldova_a6ad94_civilian_sighting_ve_eb876a-Illustration-1-dark.svg" | relative_url }}" alt="Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Republic_of_Moldova_a6ad94_civilian_sighting_ve_eb876a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Moldova_a6ad94_civilian_sighting_ve_eb876a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That does not mean every report is false. It means that most Moldovan sightings lack the basic information needed for confident identification: exact location, date, viewing direction, weather conditions, original video files, multiple witnesses or independent sensor data. In practice, the biggest challenge is not proving an extraordinary explanation. It is establishing whether there is enough evidence to rule out ordinary ones. International UFO databases, online clips from Chișinău and Tiraspol, and occasional viral recordings all illustrate the same problem: weak documentation makes even potentially interesting observations difficult to evaluate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by Location571. Moldova, 4. Monaco, 2. Mongolia, 4. Montenegro, 3. Moon, 2. Morocco, 27. Myanmar, 2... Rosa Orellan...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
+That does not mean every report is false. It means that most Moldovan sightings lack the basic information needed for confident identification: exact location, date, viewing direction, weather conditions, original video files, multiple witnesses or independent sensor data. In practice, the biggest challenge is not proving an extraordinary explanation. It is establishing whether there is enough evidence to rule out ordinary ones. International UFO databases, online clips from Chișinău and Tiraspol, and occasional viral recordings all illustrate the same problem: weak documentation makes even potentially interesting observations difficult to evaluate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by Location571. Moldova, 4. Monaco, 2. Mongolia, 4. Montenegro, 3. Moon, 2. Morocco, 27. Myanmar, 2... Rosa Orellan...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
 
 ## What Civilian Databases Actually Show
 
-The most visible international repository containing Moldovan entries is the National UFO Reporting Center (NUFORC), a long-running civilian database that accepts witness submissions from around the world. Moldova appears only rarely within its location indexes, reflecting how limited the country's publicly documented civilian UFO record is compared with larger states. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+The most visible international repository containing Moldovan entries is the National UFO Reporting Center (NUFORC), a long-running civilian database that accepts witness submissions from around the world. Moldova appears only rarely within its location indexes, reflecting how limited the country's publicly documented civilian UFO record is compared with larger states.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 That scarcity creates a problem for researchers. A country with only a handful of publicly accessible reports provides very little statistical context. Patterns that might appear meaningful in a large dataset can be completely misleading when based on only a few entries.
 
@@ -271,15 +271,15 @@ Several factors complicate interpretation:
 * Witness narratives often pass through translation or reposting before reaching international databases.
 * Locations may be listed only at city level rather than with coordinates.
 * Independent corroboration is usually absent.
-* Original photographs or video files are frequently unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">report a ufo</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Reporting Center – Sighting Report Form. Step 1 of 5...</span></span></span>
+* Original photographs or video files are frequently unavailable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">report a ufo</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Reporting Center – Sighting Report Form. Step 1 of 5...</span></span></span>
 
-This does not make the databases useless. They provide a record of claims and preserve witness testimony that might otherwise disappear. However, they function more as archives of reports than as verified incident catalogues. Even NUFORC itself presents reports as witness submissions rather than confirmed findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+This does not make the databases useless. They provide a record of claims and preserve witness testimony that might otherwise disappear. However, they function more as archives of reports than as verified incident catalogues. Even NUFORC itself presents reports as witness submissions rather than confirmed findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The same issue appears in third-party datasets built from NUFORC [records]({{ 'records-ddc328/' | relative_url }}). Researchers and hobbyists can analyse thousands of reports for trends, but the underlying data still depends heavily on self-reporting and inconsistent evidence quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset cont...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</span></span></span>
+The same issue appears in third-party datasets built from NUFORC [records]({{ 'records-ddc328/' | relative_url }}). Researchers and hobbyists can analyse thousands of reports for trends, but the underlying data still depends heavily on self-reporting and inconsistent evidence quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kaggle.com">[Kaggle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kaggle.com</span><span class="citation-popover-snippet">UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset cont...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</span></span></span>
 
 ## Why Chișinău and Tiraspol Videos Are Fragile Evidence
 
-Most Moldova-related UFO material encountered online comes not from formal investigations but from short videos shared on YouTube, Facebook, Telegram and reposting sites. The locations most commonly attached to such footage are Chișinău and Tiraspol, largely because they are the country's best-known urban centres and therefore generate more observers, cameras and social-media traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7RzE50Upo70" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube UFO sightings in Tiraspol, Moldova,</span><span class="citation-popover-snippet">UFO sightings in Tiraspol, Moldova, October 3, 2017.... UFOs. Extraterrestrials in Moldova. UFO sightings in Tiraspol, Moldova, Oc...</span><span class="citation-popover-meta">Published: October 3, 2017</span></span></span> YouTube The weakness of many clips becomes obvious once basic verification questions are asked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=7RzE50Upo70" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube UFO sightings in Tiraspol, Moldova,</span><span class="citation-popover-snippet">UFO sightings in Tiraspol, Moldova, October 3, 2017.... UFOs. Extraterrestrials in Moldova. UFO sightings in Tiraspol, Moldova, Oc...</span><span class="citation-popover-meta">Published: October 3, 2017</span></span></span>
+Most Moldova-related UFO material encountered online comes not from formal investigations but from short videos shared on YouTube, Facebook, Telegram and reposting sites. The locations most commonly attached to such footage are Chișinău and Tiraspol, largely because they are the country's best-known urban centres and therefore generate more observers, cameras and social-media traffic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7RzE50Upo70" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube UFO sightings in Tiraspol, Moldova,</span><span class="citation-popover-snippet">UFO sightings in Tiraspol, Moldova, October 3, 2017.... UFOs. Extraterrestrials in Moldova. UFO sightings in Tiraspol, Moldova, Oc...</span><span class="citation-popover-meta">Published: October 3, 2017</span></span></span> YouTube The weakness of many clips becomes obvious once basic verification questions are asked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=7RzE50Upo70" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube UFO sightings in Tiraspol, Moldova,</span><span class="citation-popover-snippet">UFO sightings in Tiraspol, Moldova, October 3, 2017.... UFOs. Extraterrestrials in Moldova. UFO sightings in Tiraspol, Moldova, Oc...</span><span class="citation-popover-meta">Published: October 3, 2017</span></span></span>
 
 ### Missing chain of custody
 
@@ -297,7 +297,7 @@ A recurring problem is that viewers rarely see the original recording. Instead t
 
 Once a file has been reposted multiple times, it becomes difficult to determine when or where it was recorded, whether it has been altered, or whether the description matches the original claim.
 
-A good example is the circulation of a purported Chișinău "flying saucer" video. Online discussions analysing the footage noted uncertainty about the recording date, the source and the circumstances under which it was filmed. Investigators attempting to assess the clip found themselves first having to establish basic provenance before even discussing what the object might be. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/chisinau-flying-saucer-video-molodva.14727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">chisinau flying saucer video molodva.14727</span><span class="citation-popover-snippet">Chisinau Flying Saucer Video (Molodva)2 Feb 2026 — The second point is that I have looked into Moldovan UFO hoaxes and did not fi...</span></span></span>
+A good example is the circulation of a purported Chișinău "flying saucer" video. Online discussions analysing the footage noted uncertainty about the recording date, the source and the circumstances under which it was filmed. Investigators attempting to assess the clip found themselves first having to establish basic provenance before even discussing what the object might be.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/chisinau-flying-saucer-video-molodva.14727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">chisinau flying saucer video molodva.14727</span><span class="citation-popover-snippet">Chisinau Flying Saucer Video (Molodva)2 Feb 2026 — The second point is that I have looked into Moldovan UFO hoaxes and did not fi...</span></span></span>
 
 ### No environmental context
 
@@ -307,7 +307,7 @@ Without additional details, investigators cannot easily determine whether the ob
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A drone.(#endnote-25 "Snippet: it disappeared from th... &middot; Comments") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=ZI_AvbT1rEI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">it disappeared from th... · Comments...</span></span></span>
+* A drone.(#endnote-25 "Snippet: it disappeared from th... &middot; Comments")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=ZI_AvbT1rEI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">it disappeared from th... · Comments...</span></span></span>
 * A satellite.
 * A planet near the horizon.
 * An aircraft approaching the observer.
@@ -323,13 +323,13 @@ This problem is particularly acute in urban environments such as Chișinău, whe
 
 ### Lack of sensor confirmation
 
-The strongest modern UAP investigations combine multiple forms of evidence: eyewitness testimony, radar tracks, flight data, weather records and imagery. NASA's recent UAP work repeatedly emphasises the importance of data quality and sensor context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencenews.org">[Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencenews.org</span><span class="citation-popover-title">Science News Scientists are getting serious about UFOs</span><span class="citation-popover-snippet">Here&#x27;s why7 Aug 2024 — In the decades since, UFOs have often come to be dismissed by scientists as the province of wackos and thus unwort...</span></span></span>
+The strongest modern UAP investigations combine multiple forms of evidence: eyewitness testimony, radar tracks, flight data, weather records and imagery. NASA's recent UAP work repeatedly emphasises the importance of data quality and sensor context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencenews.org">[Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencenews.org</span><span class="citation-popover-title">Science News Scientists are getting serious about UFOs</span><span class="citation-popover-snippet">Here&#x27;s why7 Aug 2024 — In the decades since, UFOs have often come to be dismissed by scientists as the province of wackos and thus unwort...</span></span></span>
 
 Most Moldovan civilian videos contain only a single visual source. Without supporting information, even a genuinely unusual image remains difficult to classify.
 
 ## The Tiraspol Problem: Viral Claims Without Documentation
 
-One frequently cited example is a 2017 YouTube video claiming that UFOs were observed over Tiraspol for roughly an hour and witnessed across the city. The description presents the event as a mass sighting, yet publicly available documentation remains extremely limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7RzE50Upo70" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube UFO sightings in Tiraspol, Moldova,</span><span class="citation-popover-snippet">UFO sightings in Tiraspol, Moldova, October 3, 2017.... UFOs. Extraterrestrials in Moldova. UFO sightings in Tiraspol, Moldova, Oc...</span><span class="citation-popover-meta">Published: October 3, 2017</span></span></span>
+One frequently cited example is a 2017 YouTube video claiming that UFOs were observed over Tiraspol for roughly an hour and witnessed across the city. The description presents the event as a mass sighting, yet publicly available documentation remains extremely limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7RzE50Upo70" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube UFO sightings in Tiraspol, Moldova,</span><span class="citation-popover-snippet">UFO sightings in Tiraspol, Moldova, October 3, 2017.... UFOs. Extraterrestrials in Moldova. UFO sightings in Tiraspol, Moldova, Oc...</span><span class="citation-popover-meta">Published: October 3, 2017</span></span></span>
 
 The gap between the claim and the evidence illustrates a broader verification problem.
 
@@ -351,7 +351,7 @@ The absence of such supporting material does not automatically disprove the clai
 
 Modern Moldovan sightings cannot be separated entirely from regional security concerns.
 
-Since the Russian invasion of Ukraine, Moldova has experienced repeated concerns involving drones, missiles and unidentified aerial objects. Several officially documented airspace incidents have shown that genuinely unidentified objects can enter or approach Moldovan airspace before their nature is fully understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tass.com/world/1576985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tass.com">[TASS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tass.com</span><span class="citation-popover-snippet">On Tuesday, Moldova banned flights in national airspace for several hours.Read more...</span></span></span>
+Since the Russian invasion of Ukraine, Moldova has experienced repeated concerns involving drones, missiles and unidentified aerial objects. Several officially documented airspace incidents have shown that genuinely unidentified objects can enter or approach Moldovan airspace before their nature is fully understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tass.com/world/1576985" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tass.com">[TASS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tass.com</span><span class="citation-popover-snippet">On Tuesday, Moldova banned flights in national airspace for several hours.Read more...</span></span></span>
 
 This creates a new complication for civilian observers.
 
@@ -474,205 +474,205 @@ Before assuming a UFO in the extraordinary sense, investigators should compare t
 * Drone operations.
 * Known astronomical objects.
 
-This approach follows the evidence-quality standards increasingly advocated within mainstream UAP research rather than relying on spectacle or speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencenews.org">[Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencenews.org</span><span class="citation-popover-title">Science News Scientists are getting serious about UFOs</span><span class="citation-popover-snippet">Here&#x27;s why7 Aug 2024 — In the decades since, UFOs have often come to be dismissed by scientists as the province of wackos and thus unwort...</span></span></span>
+This approach follows the evidence-quality standards increasingly advocated within mainstream UAP research rather than relying on spectacle or speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencenews.org">[Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencenews.org</span><span class="citation-popover-title">Science News Scientists are getting serious about UFOs</span><span class="citation-popover-snippet">Here&#x27;s why7 Aug 2024 — In the decades since, UFOs have often come to be dismissed by scientists as the province of wackos and thus unwort...</span></span></span>
 
 ## What Can Actually Be Said About Moldova's Online UFO Record?
 
 The most reliable conclusion is also the least dramatic. Moldova possesses a small civilian UFO record, but most publicly circulating videos and stories cannot be verified to a standard that would support strong claims.
 
-International databases demonstrate that reports exist. Social-media archives show that unusual aerial observations continue to attract attention. Yet the majority of cases suffer from missing metadata, uncertain provenance, lack of corroborating witnesses and absence of sensor evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e199001" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 199001NUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle... 01/23/1990...</span></span></span>
+International databases demonstrate that reports exist. Social-media archives show that unusual aerial observations continue to attract attention. Yet the majority of cases suffer from missing metadata, uncertain provenance, lack of corroborating witnesses and absence of sensor evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e199001" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 199001NUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle... 01/23/1990...</span></span></span>
 
 For researchers, that makes Moldova less a catalogue of famous UFO incidents than a case study in evidence quality. The central question is usually not whether an object was extraterrestrial. It is whether enough information survives to determine what was seen at all.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Moldova&#x27;s Online UFO Clips Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Moldova&#x27;s Online UFO Clips Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains recurring reporting problems and case-evaluation challenges.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains recurring reporting problems and case-evaluation challenges.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, evidence quality, and investigative standards relevant to online sighting claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on classification, evidence quality, and investigative standards relevant to online sighting claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts stronger documented cases with weak civilian reports and internet videos.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts stronger documented cases with weak civilian reports and internet videos.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Teaches how weak reports, folklore, and UFO claims can be evaluated rather than accepted at face value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how weak reports, folklore, and UFO claims can be evaluated rather than accepted at face value.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-moldova-s-online-ufo-clips-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-moldova-s-online-ufo-clips-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -688,7 +688,7 @@ For researchers, that makes Moldova less a catalogue of famous UFO incidents tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -708,7 +708,7 @@ For researchers, that makes Moldova less a catalogue of famous UFO incidents tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -740,7 +740,7 @@ For researchers, that makes Moldova less a catalogue of famous UFO incidents tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -792,7 +792,7 @@ For researchers, that makes Moldova less a catalogue of famous UFO incidents tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -837,7 +837,7 @@ For researchers, that makes Moldova less a catalogue of famous UFO incidents tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -875,250 +875,249 @@ For researchers, that makes Moldova less a catalogue of famous UFO incidents tha
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Location571. Moldova, 4. Monaco, 2. Mongolia, 4. Montenegro, 3. Moon, 2. Morocco, 27. Myanmar, 2... Rosa Orellan...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by Location571. Moldova, 4. Monaco, 2. Mongolia, 4. Montenegro, 3. Moon, 2. Morocco, 27. Myanmar, 2... Rosa Orellan...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</p></details>
+   Link:<a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center – Sighting Report Form. Step 1 of 5...</p></details>
+   Link:<a href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/reportform/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center – Sighting Report Form. Step 1 of 5...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset cont...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset cont...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: github.com  
-   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
+   Link:<a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: You Tube UFO sightings in Tiraspol, Moldova,  
-   Link: <a href="https://www.youtube.com/watch?v=7RzE50Upo70" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7RzE50Upo70</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Tiraspol, Moldova, October 3, 2017.... UFOs. Extraterrestrials in Moldova. UFO sightings in Tiraspol, Moldova, Oc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7RzE50Upo70" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7RzE50Upo70</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Tiraspol, Moldova, October 3, 2017.... UFOs. Extraterrestrials in Moldova. UFO sightings in Tiraspol, Moldova, Oc...</p></details>
    Published: October 3, 2017  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: You Tube UFO recorded by police in Chisinau  
-   Link: <a href="https://www.youtube.com/watch?v=oRafF66lgCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oRafF66lgCw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO recorded by police in Chisinau - Moldova - 30 June...UFO recorded by police in Chisinau - Moldova - 30 June 2024. 141... UFO Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oRafF66lgCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oRafF66lgCw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO recorded by police in Chisinau - Moldova - 30 June...UFO recorded by police in Chisinau - Moldova - 30 June 2024. 141... UFO Files...</p></details>
    Published: June 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: chisinaumoldova 8 may 2017  
-   Link: <a href="https://www.facebook.com/TheGreyTh/videos/chisinaumoldova-8-may-2017/1887815694577350/?locale=sw_KE" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheGreyTh/videos/chisinaumoldova-8-may-2017/1887815694577350/?locale=sw_KE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chisinau,Moldova | 8 May 2017 | UFO Update เดอะ เกร์ยMaelezo ya picha hayapo. UFO Aliens. Mhusika Bandia. Maelezo ya picha hayapo.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/TheGreyTh/videos/chisinaumoldova-8-may-2017/1887815694577350/?locale=sw_KE" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheGreyTh/videos/chisinaumoldova-8-may-2017/1887815694577350/?locale=sw_KE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chisinau,Moldova | 8 May 2017 | UFO Update เดอะ เกร์ยMaelezo ya picha hayapo. UFO Aliens. Mhusika Bandia. Maelezo ya picha hayapo.Read more...</p></details>
    Published: may 2017  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metabunk.org  
    Title: chisinau flying saucer video molodva.14727  
-   Link: <a href="https://www.metabunk.org/threads/chisinau-flying-saucer-video-molodva.14727/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/chisinau-flying-saucer-video-molodva.14727/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chisinau Flying Saucer Video (Molodva)2 Feb 2026 — The second point is that I have looked into Moldovan UFO hoaxes and did not fi...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/chisinau-flying-saucer-video-molodva.14727/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/chisinau-flying-saucer-video-molodva.14727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chisinau Flying Saucer Video (Molodva)2 Feb 2026 — The second point is that I have looked into Moldovan UFO hoaxes and did not fi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/tags/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/tags/ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 30, 2024. Contrary to what is circulating, it was not recorded in 2024, nor was it recorded from a police car...Read more...</p></details>
+   Link:<a href="https://www.metabunk.org/tags/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/tags/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 30, 2024. Contrary to what is circulating, it was not recorded in 2024, nor was it recorded from a police car...Read more...</p></details>
    Published: June 30, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tass.com  
-   Link: <a href="https://tass.com/world/1576985" target="_blank" rel="noopener noreferrer nofollow">https://tass.com/world/1576985</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On Tuesday, Moldova banned flights in national airspace for several hours.Read more...</p></details>
+   Link:<a href="https://tass.com/world/1576985" target="_blank" rel="noopener noreferrer nofollow">https://tass.com/world/1576985</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On Tuesday, Moldova banned flights in national airspace for several hours.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e199001" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199001</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 199001NUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle... 01/23/1990...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e199001" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199001</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 199001NUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle... 01/23/1990...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e200206" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200206</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 200206NUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e200206" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200206</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 200206NUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=sDisk" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sDisk</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=sDisk" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sDisk</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/qP-zZ_kFMmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/qP-zZ_kFMmI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>idents. Like. Dislike. 0. Share. Video unavailable...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/qP-zZ_kFMmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/qP-zZ_kFMmI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>idents. Like. Dislike. 0. Share. Video unavailable...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/hi9gNAdviJA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/hi9gNAdviJA</a>  
+   Link:<a href="https://www.youtube.com/shorts/hi9gNAdviJA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/hi9gNAdviJA</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AuD2qyxbYBU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AuD2qyxbYBU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bbed. 2.4K views · 12 days ago...more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AuD2qyxbYBU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AuD2qyxbYBU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bbed. 2.4K views · 12 days ago...more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=akD0LiBvY6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=akD0LiBvY6I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ver the skies in Romania and its neighboring country...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=akD0LiBvY6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=akD0LiBvY6I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ver the skies in Romania and its neighboring country...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=H0YvNWQrX34" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H0YvNWQrX34</a>  
+   Link:<a href="https://www.youtube.com/watch?v=H0YvNWQrX34" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H0YvNWQrX34</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/8NpLjuVlDGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/8NpLjuVlDGc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>blic of Moldova. 41. Dislike. 3. Share. Video unavailable...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/8NpLjuVlDGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/8NpLjuVlDGc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>blic of Moldova. 41. Dislike. 3. Share. Video unavailable...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZI_AvbT1rEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZI_AvbT1rEI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>it disappeared from th... &amp;middot; Comments...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZI_AvbT1rEI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZI_AvbT1rEI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>it disappeared from th... &amp;middot; Comments...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sg_aN4DcXW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sg_aN4DcXW8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es and villages were swallowed by darkness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sg_aN4DcXW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sg_aN4DcXW8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es and villages were swallowed by darkness...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/guidaitalianainmoldova/videos/sono-atterrati-gli-ufo-in-moldovano-tranquilli-questa-strana-costruzione-che-si-/1696058801135723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/guidaitalianainmoldova/videos/sono-atterrati-gli-ufo-in-moldovano-tranquilli-questa-strana-costruzione-che-si-/1696058801135723/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ione, che si trova nei pressi del villaggio di Mirceşti...</p></details>
+   Link:<a href="https://www.facebook.com/guidaitalianainmoldova/videos/sono-atterrati-gli-ufo-in-moldovano-tranquilli-questa-strana-costruzione-che-si-/1696058801135723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/guidaitalianainmoldova/videos/sono-atterrati-gli-ufo-in-moldovano-tranquilli-questa-strana-costruzione-che-si-/1696058801135723/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ione, che si trova nei pressi del villaggio di Mirceşti...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/tracingthetribe/posts/10154999044945747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tracingthetribe/posts/10154999044945747/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bessarabia/Moldova records research tips neededSome advice in researching records from Bessarabia/Moldova would be most welcome! My great...</p></details>
+   Link:<a href="https://www.facebook.com/groups/tracingthetribe/posts/10154999044945747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tracingthetribe/posts/10154999044945747/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bessarabia/Moldova records research tips neededSome advice in researching records from Bessarabia/Moldova would be most welcome! My great...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: moldova.org  
    Title: ufo interested in moldova 211925 eng  
-   Link: <a href="https://www.moldova.org/en/ufo-interested-in-moldova-211925-eng/" target="_blank" rel="noopener noreferrer nofollow">https://www.moldova.org/en/ufo-interested-in-moldova-211925-eng/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“UFO” interested in Moldova28 Aug 2010 — “UFO” interested in Moldova. Reading Time: &lt; 1 minuteOn August 19, in a neighboring village of B...</p></details>
+   Link:<a href="https://www.moldova.org/en/ufo-interested-in-moldova-211925-eng/" target="_blank" rel="noopener noreferrer nofollow">https://www.moldova.org/en/ufo-interested-in-moldova-211925-eng/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“UFO” interested in Moldova28 Aug 2010 — “UFO” interested in Moldova. Reading Time: &lt; 1 minuteOn August 19, in a neighboring village of B...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Can't Argue with This UFO Footage  
-   Link: <a href="https://www.youtube.com/watch?v=9PPNBf-sqDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9PPNBf-sqDs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9PPNBf-sqDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9PPNBf-sqDs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: All the videos from Pentagon's first batch of UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Unlocked: Inside the Pentagon&#x27;s secret files | This Is America...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Unlocked: Inside the Pentagon&#x27;s secret files | This Is America...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: UFOs Unlocked: Inside the Pentagon's secret files | This Is America  
-   Link: <a href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BSItX-WvGQ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking UFO videos: How can you tell real from fake? | Banfield...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BSItX-WvGQ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking UFO videos: How can you tell real from fake? | Banfield...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Debunking UFO videos: How can you tell real from fake? | Banfield  
-   Link: <a href="https://www.youtube.com/watch?v=l9T-Mz0i7lo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l9T-Mz0i7lo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are These UFO Sightings Real Evidence? | The Proof Is Out There...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l9T-Mz0i7lo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l9T-Mz0i7lo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are These UFO Sightings Real Evidence? | The Proof Is Out There...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Are These UFO Sightings Real Evidence? | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lvn_RoJN_Q0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lvn_RoJN_Q0</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: sciencenews.org  
    Title: Science News Scientists are getting serious about UFOs  
-   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — In the decades since, UFOs have often come to be dismissed by scientists as the province of wackos and thus unwort...</p></details>
+   Link:<a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — In the decades since, UFOs have often come to be dismissed by scientists as the province of wackos and thus unwort...</p></details>
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355440355_Pilot_Application_of_%27Invasive_Alien_Species_in_Europe%27_Smartphone_App_in_the_Danube_Region" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355440355_Pilot_Application_of_%27Invasive_Alien_Species_in_Europe%27_Smartphone_App_in_the_Danube_Region</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Pilot Application of &#x27;Invasive Alien Species in Europe...27 Nov 2025 — The present pilot study tested and validated the use of the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/355440355_Pilot_Application_of_%27Invasive_Alien_Species_in_Europe%27_Smartphone_App_in_the_Danube_Region" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355440355_Pilot_Application_of_%27Invasive_Alien_Species_in_Europe%27_Smartphone_App_in_the_Danube_Region</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Pilot Application of &#x27;Invasive Alien Species in Europe...27 Nov 2025 — The present pilot study tested and validated the use of the...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: publications.jrc.ec.europa.eu  
-   Link: <a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC104140/jrc104140_jrc%20science%20for%20policy%20report%20-%20final%20on-line.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/bitstream/JRC104140/jrc104140_jrc%20science%20for%20policy%20report%20-%20final%20on-line.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Species Europe”49 as the primary tool for data collection. The pilot experts are gathering and analysing...Read more...</p></details>
+   Link:<a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC104140/jrc104140_jrc%20science%20for%20policy%20report%20-%20final%20on-line.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/bitstream/JRC104140/jrc104140_jrc%20science%20for%20policy%20report%20-%20final%20on-line.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Species Europe”49 as the primary tool for data collection. The pilot experts are gathering and analysing...Read more...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By. SPYSCAPE. 5 minute read. The unexplained UFOs shot down over North America in February 2023 aren...Read more...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By. SPYSCAPE. 5 minute read. The unexplained UFOs shot down over North America in February 2023 aren...Read more...</p></details>
    Published: February 2023  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeOur extensive database is a powerhouse of credible UFO research, keeping you informed with reports of sightings, expert analys...</p></details>
+   Link:<a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeOur extensive database is a powerhouse of credible UFO research, keeping you informed with reports of sightings, expert analys...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</p></details>
+   Link:<a href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchbuzz.me  
-   Link: <a href="https://researchbuzz.me/2026/05/10/wwii-moldova-soldiers-ufo-files-google-chrome-more-sunday-researchbuzz-may-10-2026/" target="_blank" rel="noopener noreferrer nofollow">https://researchbuzz.me/2026/05/10/wwii-moldova-soldiers-ufo-files-google-chrome-more-sunday-researchbuzz-may-10-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WWII Moldova Soldiers, UFO Files, Google Chrome, More10 May 2026 — NPR: UFO files spanning decades are released by Defense Department...</p></details>
+   Link:<a href="https://researchbuzz.me/2026/05/10/wwii-moldova-soldiers-ufo-files-google-chrome-more-sunday-researchbuzz-may-10-2026/" target="_blank" rel="noopener noreferrer nofollow">https://researchbuzz.me/2026/05/10/wwii-moldova-soldiers-ufo-files-google-chrome-more-sunday-researchbuzz-may-10-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WWII Moldova Soldiers, UFO Files, Google Chrome, More10 May 2026 — NPR: UFO files spanning decades are released by Defense Department...</p></details>
    Published: May 2026  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: foxnews.com  
    Title: romania moldova report potential ufos airspace  
-   Link: <a href="https://www.foxnews.com/world/romania-moldova-report-potential-ufos-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/world/romania-moldova-report-potential-ufos-airspace</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fox NewsRomania, Moldova report potential UFOs in airspace14 Feb 2023 — Two potential unidentified flying objects were spotted about 3600...</p></details>
+   Link:<a href="https://www.foxnews.com/world/romania-moldova-report-potential-ufos-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/world/romania-moldova-report-potential-ufos-airspace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fox NewsRomania, Moldova report potential UFOs in airspace14 Feb 2023 — Two potential unidentified flying objects were spotted about 3600...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: moldova1.md  
    Title: bizarre ufo like cloud formation over turkey  
-   Link: <a href="https://moldova1.md/p/2883/bizarre-ufo-like-cloud-formation-over-turkey" target="_blank" rel="noopener noreferrer nofollow">https://moldova1.md/p/2883/bizarre-ufo-like-cloud-formation-over-turkey</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre UFO-like cloud formation over Turkey21 Jan 2023 — The cloud formed the shape of an unidentified flying object (UFO) and intrigued...</p></details>
+   Link:<a href="https://moldova1.md/p/2883/bizarre-ufo-like-cloud-formation-over-turkey" target="_blank" rel="noopener noreferrer nofollow">https://moldova1.md/p/2883/bizarre-ufo-like-cloud-formation-over-turkey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre UFO-like cloud formation over Turkey21 Jan 2023 — The cloud formed the shape of an unidentified flying object (UFO) and intrigued...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>databaseI analyzed the comments (free text fields) that captured the witness accounts in the NUFORC database of over 80000 sightings...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaBelow is a partial list of alleged sightings of unidentified flying objects or UFOs in Canada. According to a m...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in CanadaBelow is a partial list of alleged sightings of unidentified flying objects or UFOs in Canada. According to a m...</p></details>

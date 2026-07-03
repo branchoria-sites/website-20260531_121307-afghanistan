@@ -300,194 +300,194 @@ This does not imply proof of nonhuman technologies, but it clarifies why sightin
 Chiles distinct combination of exceptional geography dry, highaltitude, lowlight environments with exceptionally clear skies and a vibrant culture of skywatching, tourism and narrative sharing underpins the countrys extensive record of UFO reporting. These environmental conditions maximise visibility of aerial phenomena of all kinds, while active engagement with the night sky through both scientific and folk traditions increases the likelihood of detection, reporting, and interpretation of unusual aerial events. In this way, geography and culture together amplify the number and character of UFO reports emerging from Chile.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/travel/article/why-the-elqui-valley-is-one-of-south-americas-best-stargazing-stays" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">why the elqui valley is one of south americas best stargazing stays</span><span class="citation-popover-snippet">National GeographicWhy the Elqui Valley on the edge of Atacama Desert is one...20 Feb 2026 Elqui has a kinship with outer space in oth...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Geography and Skywatching Culture Drive UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Geography and Skywatching Culture Drive UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding why some regions generate more reports than others.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why some regions generate more reports than others.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides case-study comparisons for understanding regional reporting differences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides case-study comparisons for understanding regional reporting differences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Strong fit for geography, regional traditions, and how communities interpret unusual sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for geography, regional traditions, and how communities interpret unusual sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Messengers of Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w-XWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Messengers of Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Messengers of Deception">Messengers of Deception</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Messengers of Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w-XWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Messengers of Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Messengers of Deception">Messengers of Deception</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores social and cultural influences surrounding UFO belief and reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores social and cultural influences surrounding UFO belief and reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-geography-and-skywatching-culture-drive-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -503,7 +503,7 @@ Chiles distinct combination of exceptional geography dry, highaltitude, lowlight
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -523,7 +523,7 @@ Chiles distinct combination of exceptional geography dry, highaltitude, lowlight
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -555,7 +555,7 @@ Chiles distinct combination of exceptional geography dry, highaltitude, lowlight
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -607,7 +607,7 @@ Chiles distinct combination of exceptional geography dry, highaltitude, lowlight
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -652,7 +652,7 @@ Chiles distinct combination of exceptional geography dry, highaltitude, lowlight
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -690,137 +690,136 @@ Chiles distinct combination of exceptional geography dry, highaltitude, lowlight
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: chile.travel  
    Title: ufology in chile the best destinations for the sighting of ufos 2  
-   Link: <a href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow">https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 For example, the Agrupacin de Investigaciones Ovniolgicas...</p></details>
+   Link:<a href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow">https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 For example, the Agrupacin de Investigaciones Ovniolgicas...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Atacama Desert  
-   Link: <a href="https://en.wikipedia.org/wiki/Atacama_Desert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atacama_Desert</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Atacama_Desert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atacama_Desert</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Astronomy in Chile  
-   Link: <a href="https://en.wikipedia.org/wiki/Astronomy_in_Chile" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Astronomy_in_Chile</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Astronomy_in_Chile" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Astronomy_in_Chile</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gochile.cl  
    Title: Go Chile4 "hot spots" to see UFOs in Chile  
-   Link: <a href="https://www.gochile.cl/en/articles/4-hot-spots-to-see-ufos-in-chile.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gochile.cl/en/articles/4-hot-spots-to-see-ufos-in-chile.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 &quot;hot spots&quot; to see UFOs in ChileOctober 22, 2025 Chile, with its extreme geography and clear sky, has become one of the countr...</p></details>
+   Link:<a href="https://www.gochile.cl/en/articles/4-hot-spots-to-see-ufos-in-chile.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gochile.cl/en/articles/4-hot-spots-to-see-ufos-in-chile.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 &quot;hot spots&quot; to see UFOs in ChileOctober 22, 2025 Chile, with its extreme geography and clear sky, has become one of the countr...</p></details>
    Published: October 22, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Enigma Labs | UFO Sightings in Chile  
-   Link: <a href="https://enigmalabs.io/explore/cl" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/cl</a>  
+   Link:<a href="https://enigmalabs.io/explore/cl" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/cl</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/OVNI/comments/1t9pous/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/OVNI/comments/1t9pous/ovni/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/OVNI/comments/1t9pous/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/OVNI/comments/1t9pous/ovni/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026...</p></details>
    Published: May 11, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: chile.travel  
    Title: El Enladrillado: the place where adventure and ufology meet  
-   Link: <a href="https://chile.travel/en/blog/el-enladrillado-the-place-where-adventure-and-ufology-meet/" target="_blank" rel="noopener noreferrer nofollow">https://chile.travel/en/blog/el-enladrillado-the-place-where-adventure-and-ufology-meet/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 23, 2022 EL ENLADRILLADO: THE PLACE WHERE ADVENTURE AND UFOLOGY MEET Written by: Equipo Chile Travel Created on: 2...</p></details>
+   Link:<a href="https://chile.travel/en/blog/el-enladrillado-the-place-where-adventure-and-ufology-meet/" target="_blank" rel="noopener noreferrer nofollow">https://chile.travel/en/blog/el-enladrillado-the-place-where-adventure-and-ufology-meet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 23, 2022 EL ENLADRILLADO: THE PLACE WHERE ADVENTURE AND UFOLOGY MEET Written by: Equipo Chile Travel Created on: 2...</p></details>
    Published: November 23, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: chile.travel  
    Title: Ufology in Chile: The best destinations for the sighting of UFOs  
-   Link: <a href="https://www.chile.travel/en/uncategorized/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.chile.travel/en/uncategorized/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 28, 2021 Image: Ufology in Chile: The best destinations for the sighting of UFOs UFOLOGY IN CHILE: THE BEST DESTINAT...</p></details>
+   Link:<a href="https://www.chile.travel/en/uncategorized/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.chile.travel/en/uncategorized/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 28, 2021 Image: Ufology in Chile: The best destinations for the sighting of UFOs UFOLOGY IN CHILE: THE BEST DESTINAT...</p></details>
    Published: August 28, 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: chile.travel  
    Title: Ufologa en Chile: Los mejores destinos para el avistamiento de OVNIS  
-   Link: <a href="https://chile.travel/blog/ufologia-chile-destinos-avistamiento-ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://chile.travel/blog/ufologia-chile-destinos-avistamiento-ovnis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 27, 2021 UFOLOGA EN CHILE: LOS MEJORES DESTINOS PARA EL AVISTAMIENTO DE OVNIS Escrito por: Equipo Chile Travel Fech...</p></details>
+   Link:<a href="https://chile.travel/blog/ufologia-chile-destinos-avistamiento-ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://chile.travel/blog/ufologia-chile-destinos-avistamiento-ovnis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 27, 2021 UFOLOGA EN CHILE: LOS MEJORES DESTINOS PARA EL AVISTAMIENTO DE OVNIS Escrito por: Equipo Chile Travel Fech...</p></details>
    Published: August 27, 2021  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalgeographic.com  
    Title: why the elqui valley is one of south americas best stargazing stays  
-   Link: <a href="https://www.nationalgeographic.com/travel/article/why-the-elqui-valley-is-one-of-south-americas-best-stargazing-stays" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/travel/article/why-the-elqui-valley-is-one-of-south-americas-best-stargazing-stays</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicWhy the Elqui Valley on the edge of Atacama Desert is one...20 Feb 2026 Elqui has a kinship with outer space in oth...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/travel/article/why-the-elqui-valley-is-one-of-south-americas-best-stargazing-stays" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/travel/article/why-the-elqui-valley-is-one-of-south-americas-best-stargazing-stays</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicWhy the Elqui Valley on the edge of Atacama Desert is one...20 Feb 2026 Elqui has a kinship with outer space in oth...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: matadornetwork.com  
-   Link: <a href="https://matadornetwork.com/read/san-clemente-chile-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://matadornetwork.com/read/san-clemente-chile-ufo-aliens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings, historical depictions of UFOs and space-related mythology. The consensus appears to be that many UFO &#x27;hotspot&#x27; areas can be...</p></details>
+   Link:<a href="https://matadornetwork.com/read/san-clemente-chile-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://matadornetwork.com/read/san-clemente-chile-ufo-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings, historical depictions of UFOs and space-related mythology. The consensus appears to be that many UFO &#x27;hotspot&#x27; areas can be...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: daemvillarrica.cl  
-   Link: <a href="https://daemvillarrica.cl/blog/post/46856/el-estudio-de-los-ovnis-en-chile-avances-instituciones-y-lugares-clave/" target="_blank" rel="noopener noreferrer nofollow">https://daemvillarrica.cl/blog/post/46856/el-estudio-de-los-ovnis-en-chile-avances-instituciones-y-lugares-clave/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 2026 EL ESTUDIO DE LOS OVNIS EN CHILE: AVANCES, INSTITUCIONES Y LUGARES CLAVE Publicado por Felipe Pino Conejeros el maart 15...</p></details>
+   Link:<a href="https://daemvillarrica.cl/blog/post/46856/el-estudio-de-los-ovnis-en-chile-avances-instituciones-y-lugares-clave/" target="_blank" rel="noopener noreferrer nofollow">https://daemvillarrica.cl/blog/post/46856/el-estudio-de-los-ovnis-en-chile-avances-instituciones-y-lugares-clave/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 2026 EL ESTUDIO DE LOS OVNIS EN CHILE: AVANCES, INSTITUCIONES Y LUGARES CLAVE Publicado por Felipe Pino Conejeros el maart 15...</p></details>
    Published: March 15, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: exploracionovni.com  
-   Link: <a href="https://exploracionovni.com/2014/07/fuerza-aerea-de-chile-confirma-avistamiento-de-ovni-y-difunde-informe/" target="_blank" rel="noopener noreferrer nofollow">https://exploracionovni.com/2014/07/fuerza-aerea-de-chile-confirma-avistamiento-de-ovni-y-difunde-informe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NI Y DIFUNDE INFORME 2931 Image Los responsables del Centro de estudios de Fenmenos Areos Anmalos de Chile han hecho pblica la imag...</p></details>
+   Link:<a href="https://exploracionovni.com/2014/07/fuerza-aerea-de-chile-confirma-avistamiento-de-ovni-y-difunde-informe/" target="_blank" rel="noopener noreferrer nofollow">https://exploracionovni.com/2014/07/fuerza-aerea-de-chile-confirma-avistamiento-de-ovni-y-difunde-informe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NI Y DIFUNDE INFORME 2931 Image Los responsables del Centro de estudios de Fenmenos Areos Anmalos de Chile han hecho pblica la imag...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eldiariodesantiago.cl  
-   Link: <a href="https://eldiariodesantiago.cl/2026/04/07/los-avistamientos-de-ovnis-mas-importantes-en-chile-historia-casos-y-misterios-sin-resolver/" target="_blank" rel="noopener noreferrer nofollow">https://eldiariodesantiago.cl/2026/04/07/los-avistamientos-de-ovnis-mas-importantes-en-chile-historia-casos-y-misterios-sin-resolver/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>El Diario de SantiagoApril 7, 2026 LOS AVISTAMIENTOS DE OVNIS MS IMPORTANTES EN CHILE: HISTORIA, CASOS Y MISTERIOS SIN RESOLVER Por Pa...</p></details>
+   Link:<a href="https://eldiariodesantiago.cl/2026/04/07/los-avistamientos-de-ovnis-mas-importantes-en-chile-historia-casos-y-misterios-sin-resolver/" target="_blank" rel="noopener noreferrer nofollow">https://eldiariodesantiago.cl/2026/04/07/los-avistamientos-de-ovnis-mas-importantes-en-chile-historia-casos-y-misterios-sin-resolver/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El Diario de SantiagoApril 7, 2026 LOS AVISTAMIENTOS DE OVNIS MS IMPORTANTES EN CHILE: HISTORIA, CASOS Y MISTERIOS SIN RESOLVER Por Pa...</p></details>
    Published: April 7, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eldiariodesantiago.cl  
-   Link: <a href="https://eldiariodesantiago.cl/2026/01/28/ovnis-en-chile-los-casos-mas-espectaculares-que-alimentan-el-misterio-en-los-cielos/" target="_blank" rel="noopener noreferrer nofollow">https://eldiariodesantiago.cl/2026/01/28/ovnis-en-chile-los-casos-mas-espectaculares-que-alimentan-el-misterio-en-los-cielos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>El Diario de SantiagoJanuary 28, 2026 OVNIS EN CHILE: LOS CASOS MS ESPECTACULARES QUE ALIMENTAN EL MISTERIO EN LOS CIELOS Por Patricio...</p></details>
+   Link:<a href="https://eldiariodesantiago.cl/2026/01/28/ovnis-en-chile-los-casos-mas-espectaculares-que-alimentan-el-misterio-en-los-cielos/" target="_blank" rel="noopener noreferrer nofollow">https://eldiariodesantiago.cl/2026/01/28/ovnis-en-chile-los-casos-mas-espectaculares-que-alimentan-el-misterio-en-los-cielos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El Diario de SantiagoJanuary 28, 2026 OVNIS EN CHILE: LOS CASOS MS ESPECTACULARES QUE ALIMENTAN EL MISTERIO EN LOS CIELOS Por Patricio...</p></details>
    Published: January 28, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufo.com.br  
    Title: A ao de seres extraterrestres intensa e desconcertante no territrio chileno  
-   Link: <a href="https://ufo.com.br/a-acao-de-seres-extraterrestres-e-intensa-e-desconcertante-no-territorio-chileno/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/a-acao-de-seres-extraterrestres-e-intensa-e-desconcertante-no-territorio-chileno/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revista UFOSeptember 30, 2011 A AO DE SERES EXTRATERRESTRES INTENSA E DESCONCERTANTE NO TERRITRIO CHILENO Temos que ver na manifes...</p></details>
+   Link:<a href="https://ufo.com.br/a-acao-de-seres-extraterrestres-e-intensa-e-desconcertante-no-territorio-chileno/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/a-acao-de-seres-extraterrestres-e-intensa-e-desconcertante-no-territorio-chileno/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revista UFOSeptember 30, 2011 A AO DE SERES EXTRATERRESTRES INTENSA E DESCONCERTANTE NO TERRITRIO CHILENO Temos que ver na manifes...</p></details>
    Published: September 30, 2011  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scielo.org.co  
    Title: The Possible and the Impossible: Reflections on Evidence in Chilean Ufology  
-   Link: <a href="https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow">https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2020 ARTICLE * English (pdf) * Article in xml format * ImageArticle references * Image How to cite this article * ImageSciEL...</p></details>
+   Link:<a href="https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow">https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2020 ARTICLE * English (pdf) * Article in xml format * ImageArticle references * Image How to cite this article * ImageSciEL...</p></details>
    Published: October 1, 2020  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aztecajalisco.com  
    Title: USUARIOS DE LAS REDES SOCIALES COMPARTEN LAS IMGENES DE 3 POSIBLES E  
-   Link: <a href="https://www.aztecajalisco.com/tendenciayviral/objeto-luminoso-es-captado-la-noche-en-chile-y-reportan-ovnis-plasma-que/" target="_blank" rel="noopener noreferrer nofollow">https://www.aztecajalisco.com/tendenciayviral/objeto-luminoso-es-captado-la-noche-en-chile-y-reportan-ovnis-plasma-que/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Objeto luminoso es captado durante la noche en Chile y reportan ovnis de plasma; Qu estn arrojando al cielo?January 20, 2026 ENIGMA...</p></details>
+   Link:<a href="https://www.aztecajalisco.com/tendenciayviral/objeto-luminoso-es-captado-la-noche-en-chile-y-reportan-ovnis-plasma-que/" target="_blank" rel="noopener noreferrer nofollow">https://www.aztecajalisco.com/tendenciayviral/objeto-luminoso-es-captado-la-noche-en-chile-y-reportan-ovnis-plasma-que/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Objeto luminoso es captado durante la noche en Chile y reportan ovnis de plasma; Qu estn arrojando al cielo?January 20, 2026 ENIGMA...</p></details>
    Published: January 20, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ecoactivo.com  
    Title: CHIL E: Desclasificacin OVNI y avistamientos desclasificados  
-   Link: <a href="https://www.ecoactivo.com/extraterrestres/chile-desclasificacion-ovni" target="_blank" rel="noopener noreferrer nofollow">https://www.ecoactivo.com/extraterrestres/chile-desclasificacion-ovni</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CHILE: Desclasificacin OVNI y avistamientos desclasificados - EcoActivoMay 5, 2021 Image: CHILE: Desclasificacin OVNI CHILE: DESCLASI...</p></details>
+   Link:<a href="https://www.ecoactivo.com/extraterrestres/chile-desclasificacion-ovni" target="_blank" rel="noopener noreferrer nofollow">https://www.ecoactivo.com/extraterrestres/chile-desclasificacion-ovni</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHILE: Desclasificacin OVNI y avistamientos desclasificados - EcoActivoMay 5, 2021 Image: CHILE: Desclasificacin OVNI CHILE: DESCLASI...</p></details>
    Published: May 5, 2021  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ovnihoje.com  
-   Link: <a href="https://www.ovnihoje.com/2016/09/18/as-tres-zonas-quentes-do-chile-para-avistar-ovnis-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.ovnihoje.com/2016/09/18/as-tres-zonas-quentes-do-chile-para-avistar-ovnis-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As trs &quot;zonas quentes&quot; do Chile para avistar OVNIs / UFOs - OVNI Hoje!September 18, 2016 AS TRS ZONAS QUENTES DO CHILE PARA AVISTAR...</p></details>
+   Link:<a href="https://www.ovnihoje.com/2016/09/18/as-tres-zonas-quentes-do-chile-para-avistar-ovnis-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.ovnihoje.com/2016/09/18/as-tres-zonas-quentes-do-chile-para-avistar-ovnis-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As trs &quot;zonas quentes&quot; do Chile para avistar OVNIs / UFOs - OVNI Hoje!September 18, 2016 AS TRS ZONAS QUENTES DO CHILE PARA AVISTAR...</p></details>
    Published: September 18, 2016  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: vice.com  
    Title: I Went Alien Hunting on Chile's Mountainous 'UFO Route'  
-   Link: <a href="https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 1, 2023 I WENT ALIEN HUNTING ON CHILES MOUNTAINOUS UFO ROUTE By Nathaniel Janowitz December 1, 2023, 6:00am Share: * * * Sn...</p></details>
+   Link:<a href="https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 1, 2023 I WENT ALIEN HUNTING ON CHILES MOUNTAINOUS UFO ROUTE By Nathaniel Janowitz December 1, 2023, 6:00am Share: * * * Sn...</p></details>
    Published: December 1, 2023

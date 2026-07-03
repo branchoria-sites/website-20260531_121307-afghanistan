@@ -1199,11 +1199,11 @@ The practical takeaway is that Uzbekistan is best understood as a thin-evidence 
 <img src="{{ "/assets/images/Uzbekistan_db800e-overview.webp" | relative_url }}" alt="Overview image for What Is Really In Uzbekistan&#x27;s UFO Record?" loading="eager" decoding="sync" fetchpriority="high">
 ## The strongest archive case is the 1947 Tashkent light phenomenon
 
-The most important Uzbekistan-linked UFO document is the CIA information report titled “Light Phenomena East of Tashkent”, distributed on 11 February 1952 and referring to sightings from May to September 1947 in the Uzbek Soviet Socialist Republic. In the transcript preserved by CUFON from CIA-released UFO-related documents, the source described three light phenomena seen “almost every night” between 9 and 10 p.m., at roughly 15-minute intervals, from a prisoner-of-war camp at Pakhta Aral, about 50 kilometres south-west of Tashkent. The object was described as a darkened fireball that developed a fiery trail, changed from bright red to pale green and then white, and produced no reported smoke trail, noise, or detonation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia 52 2</span><span class="citation-popover-snippet">cia 52 2</span></span></span>
+The most important Uzbekistan-linked UFO document is the CIA information report titled “Light Phenomena East of Tashkent”, distributed on 11 February 1952 and referring to sightings from May to September 1947 in the Uzbek Soviet Socialist Republic. In the transcript preserved by CUFON from CIA-released UFO-related documents, the source described three light phenomena seen “almost every night” between 9 and 10 p.m., at roughly 15-minute intervals, from a prisoner-of-war camp at Pakhta Aral, about 50 kilometres south-west of Tashkent. The object was described as a darkened fireball that developed a fiery trail, changed from bright red to pale green and then white, and produced no reported smoke trail, noise, or detonation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia</span><span class="citation-popover-snippet">cia</span></span></span>
 
-That report is valuable because it gives a time window, location, direction of observation, visual description, and a built-in caveat. The CIA field comment warned that the estimated trajectory and height should be treated “with reserve”, partly because no discharge or noise was heard. That qualification matters: the record is not a confirmation of a craft, but a preserved intelligence-era witness report of a repeated luminous phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cia-52-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia 52 1</span><span class="citation-popover-snippet">cia 52 1</span></span></span>
+That report is valuable because it gives a time window, location, direction of observation, visual description, and a built-in caveat. The CIA field comment warned that the estimated trajectory and height should be treated “with reserve”, partly because no discharge or noise was heard. That qualification matters: the record is not a confirmation of a craft, but a preserved intelligence-era witness report of a repeated luminous phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cia-52-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia</span><span class="citation-popover-snippet">cia</span></span></span>
 
-The Black Vault’s CIA UFO collection also lists the file as “Light Phenomena East of Tashkent, USSR, 1952”, placing it among many declassified or released CIA-era UFO documents. That makes the case stronger as an archive object than as a solved event: the document exists, but the phenomenon’s cause remains open on the available record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">UF Os: The Central Intelligence Agency (CIA) Collection</span><span class="citation-popover-snippet">UF Os: The Central Intelligence Agency (CIA) Collection</span></span></span>
+The Black Vault’s CIA UFO collection also lists the file as “Light Phenomena East of Tashkent, USSR, 1952”, placing it among many declassified or released CIA-era UFO documents. That makes the case stronger as an archive object than as a solved event: the document exists, but the phenomenon’s cause remains open on the available record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">UF Os: The Central Intelligence Agency (CIA) Collection</span><span class="citation-popover-snippet">UF Os: The Central Intelligence Agency (CIA) Collection</span></span></span>
 
 ## A national chronology shows clusters, not a continuous case file
 
@@ -1213,14 +1213,14 @@ A compact chronology looks like this:
 
 PeriodMain locationsWhat was reportedEvidence quality1947, documented in 1952Pakhta Aral / Tashkent areaRepeated coloured light phenomena seen over several months**Contested but archived**: declassified intelligence report, with explicit measurement caveats1987–1992Navoi, Zarafshan, Andijan, Tashkent, DjizakLights, spheres, ovals, circles, rectangles, and alleged photographs**Mostly contested**: retrospective reports, private archives, limited original metadata2005Shavat, KhorezmGreen light moving rapidly and irregularly, reportedly seen on more than one occasion**Anecdotal**: detailed witness narrative but no corroborating instrument record2017TashkentBright object observed at night**Likely explained**: local astronomy expert suggested space debris entering the atmosphere2021Samarkand and MargilanVideos of a strange object circulated online**Unresolved/weak**: Academy of Sciences said the video quality was insufficient for a firm conclusion2024Qashqadaryo; Tashkent RegionBlack sky ring; separate triangle report to NUFORC**Split**: black ring plausibly smoke/gas; triangle report anecdotal2025–2026Qashqadaryo; Tashkent/Namangan reportsFast orb report; bright falling object and boom reports**Unresolved but not extraordinary**: public officials stressed lack of fragments or firm confirmation
 
-The National UFO Reporting Center lists eight Uzbekistan reports in its country index. These include older reports from Navoi, Tashkent, Zarafshan and Andijan; a 2005 Shavat case; a 1991 Djizak case reported decades later; a 2024 Tashkent Region report; and a 2025 Qashqadaryo report. NUFORC is useful as a public reporting database, but its entries are self-reported and should not be treated as official verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cUzbekistan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Uzbekistan</span><span class="citation-popover-snippet">NUFOR C Reports for Country Uzbekistan</span></span></span>
+The National UFO Reporting Center lists eight Uzbekistan reports in its country index. These include older reports from Navoi, Tashkent, Zarafshan and Andijan; a 2005 Shavat case; a 1991 Djizak case reported decades later; a 2024 Tashkent Region report; and a 2025 Qashqadaryo report. NUFORC is useful as a public reporting database, but its entries are self-reported and should not be treated as official verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cUzbekistan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Uzbekistan</span><span class="citation-popover-snippet">NUFOR C Reports for Country Uzbekistan</span></span></span>
 
 <img src="{{ "/assets/images/Uzbekistan_db800e-Illustration-1-dark.svg" | relative_url }}" alt="What Is Really In Uzbekistan&#x27;s UFO Record? illustration 1" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tashkent dominates the story because it produces both records and rumours
 
-Tashkent appears repeatedly because it is the capital, a major media centre, and the place where Soviet-era, post-Soviet, and social-media narratives overlap. The 1947 archive case is near Tashkent; Russian-language local memory sites describe alleged Tashkent photographs from 1990, 1991 and 1992; and modern local news has covered bright objects over the city with input from astronomy specialists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uz.sputniknews.ru">[Sputnik Узбекистан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uz.sputniknews.ru</span><span class="citation-popover-title">Sputnik УзбекистанНЛО в Ташкенте</span><span class="citation-popover-snippet">Sputnik УзбекистанНЛО в Ташкенте</span></span></span> 3cufon.org 3Мир тайн
+Tashkent appears repeatedly because it is the capital, a major media centre, and the place where Soviet-era, post-Soviet, and social-media narratives overlap. The 1947 archive case is near Tashkent; Russian-language local memory sites describe alleged Tashkent photographs from 1990, 1991 and 1992; and modern local news has covered bright objects over the city with input from astronomy specialists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uz.sputniknews.ru">[Sputnik Узбекистан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uz.sputniknews.ru</span><span class="citation-popover-title">Sputnik УзбекистанНЛО в Ташкенте</span><span class="citation-popover-snippet">Sputnik УзбекистанНЛО в Ташкенте</span></span></span> 3cufon.org 3Мир тайн
 
-The late Soviet and early post-Soviet Tashkent material is culturally interesting but evidentially weak. One Russian-language local-history account describes a period when many Central Asian residents said they saw unusual objects, naming Zarafshan, Kattakurgan, Navoi, Bukhara, Samarkand, Djizak and Tashkent. The same text also makes clear that official science tended to favour optical effects, mirages and errors of perception, while informal UFO stories circulated through enthusiasts and copied texts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mytashkent.uz/2020/04/03/nlo-nad-tashkentom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mytashkent.uz">[mytashkent.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mytashkent.uz</span><span class="citation-popover-title">НЛО над Ташкентом — Письма о Ташкенте</span><span class="citation-popover-snippet">НЛО над Ташкентом — Письма о Ташкенте</span></span></span>
+The late Soviet and early post-Soviet Tashkent material is culturally interesting but evidentially weak. One Russian-language local-history account describes a period when many Central Asian residents said they saw unusual objects, naming Zarafshan, Kattakurgan, Navoi, Bukhara, Samarkand, Djizak and Tashkent. The same text also makes clear that official science tended to favour optical effects, mirages and errors of perception, while informal UFO stories circulated through enthusiasts and copied texts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mytashkent.uz/2020/04/03/nlo-nad-tashkentom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mytashkent.uz">[mytashkent.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mytashkent.uz</span><span class="citation-popover-title">НЛО над Ташкентом — Письма о Ташкенте</span><span class="citation-popover-snippet">НЛО над Ташкентом — Письма о Ташкенте</span></span></span>
 
 The alleged Tashkent photographs from 1990–1992 are best treated as contested local-source material. They are often reproduced through private collections, social-media posts, and fringe or mystery websites rather than through a documented chain of custody. A site preserving the 1990 Tashkent claim says the images were taken from an eighth-floor balcony with a Zenit camera and 64-speed film; another page says 1992 photographs came from an archive attributed to S. V. Sokolov. Those details are useful, but they do not establish authenticity, distance, scale, or object identity. [Мир тайн]
 
@@ -1228,13 +1228,13 @@ The alleged Tashkent photographs from 1990–1992 are best treated as contested 
 
 Uzbekistan’s reports vary by region in ways that make ordinary explanations more plausible before exotic ones.
 
-**Tashkent and Tashkent Region** produce the densest public record because cameras, media, and witnesses are concentrated there. The 2017 Tashkent case is a good example: residents saw a luminous object around 00:25, and an Academy of Sciences astronomy official said it was most likely a fragment of space debris, such as spacecraft wreckage or a rocket fairing, entering the dense layers of the atmosphere. He noted that the movement lasted 15–20 seconds and was slower than a natural meteor or fireball. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uz.sputniknews.ru">[Sputnik Узбекистан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uz.sputniknews.ru</span><span class="citation-popover-title">Sputnik УзбекистанНЛО в Ташкенте</span><span class="citation-popover-snippet">Sputnik УзбекистанНЛО в Ташкенте</span></span></span>
+**Tashkent and Tashkent Region** produce the densest public record because cameras, media, and witnesses are concentrated there. The 2017 Tashkent case is a good example: residents saw a luminous object around 00:25, and an Academy of Sciences astronomy official said it was most likely a fragment of space debris, such as spacecraft wreckage or a rocket fairing, entering the dense layers of the atmosphere. He noted that the movement lasted 15–20 seconds and was slower than a natural meteor or fireball.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uz.sputniknews.ru">[Sputnik Узбекистан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uz.sputniknews.ru</span><span class="citation-popover-title">Sputnik УзбекистанНЛО в Ташкенте</span><span class="citation-popover-snippet">Sputnik УзбекистанНЛО в Ташкенте</span></span></span>
 
-**Navoi and Zarafshan** matter because they sit near desert and mining zones where horizons are open and distant lights can be striking. NUFORC lists 1987 reports from Navoi and Zarafshan, including a bright object over the Kyzylkum desert and a large sphere said to have hovered over a remote desert community. These are interesting regional claims, but the public records are retrospective summaries rather than instrument-backed investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=59777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Navoi and Zarafshan** matter because they sit near desert and mining zones where horizons are open and distant lights can be striking. NUFORC lists 1987 reports from Navoi and Zarafshan, including a bright object over the Kyzylkum desert and a large sphere said to have hovered over a remote desert community. These are interesting regional claims, but the public records are retrospective summaries rather than instrument-backed investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=59777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Samarkand, Margilan and the Fergana Valley** show how quickly smartphone videos can become UFO claims. In 2021, videos from Samarkand and Margilan circulated online; the Academy of Sciences’ Astronomy Institute said the materials were not good enough to prove whether the videos showed the same object, a comet, or a meteor. The expert also explained why the visible motion and brightness did not neatly fit simple comet or meteor interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academy.uz">[academy.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academy.uz</span><span class="citation-popover-title">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span><span class="citation-popover-snippet">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span></span></span>
+**Samarkand, Margilan and the Fergana Valley** show how quickly smartphone videos can become UFO claims. In 2021, videos from Samarkand and Margilan circulated online; the Academy of Sciences’ Astronomy Institute said the materials were not good enough to prove whether the videos showed the same object, a comet, or a meteor. The expert also explained why the visible motion and brightness did not neatly fit simple comet or meteor interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academy.uz">[academy.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academy.uz</span><span class="citation-popover-title">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span><span class="citation-popover-snippet">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span></span></span>
 
-**Qashqadaryo and Namangan** show two different modern patterns. The January 2024 Qashqadaryo “black ring” case looks much more like smoke or industrial gas than a structured aerial object; local reporting cited explanations involving soot, emissions, or similar smoke-ring phenomena. By contrast, February 2026 reports from eastern Uzbekistan described a bright streak, boom, smoke and possible fragments, but the Astronomy Institute said there was no official confirmation of a meteorite fall and that without recovered fragments a precise conclusion was impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nova24.uz/uzbekistan/v-uzbekistane-na-nebe-zametili-tainstvennoe-chernoe-kolco-nlo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nova24.uz">[nova24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nova24.uz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>. UZ — Новости Узбекистана <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Qashqadaryo and Namangan** show two different modern patterns. The January 2024 Qashqadaryo “black ring” case looks much more like smoke or industrial gas than a structured aerial object; local reporting cited explanations involving soot, emissions, or similar smoke-ring phenomena. By contrast, February 2026 reports from eastern Uzbekistan described a bright streak, boom, smoke and possible fragments, but the Astronomy Institute said there was no official confirmation of a meteorite fall and that without recovered fragments a precise conclusion was impossible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nova24.uz/uzbekistan/v-uzbekistane-na-nebe-zametili-tainstvennoe-chernoe-kolco-nlo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nova24.uz">[nova24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nova24.uz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>. UZ — Новости Узбекистана<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B7MW735hzTI" title="US News: Pentagon Releases New Batch Of &#x27;UFO Files&#x27; And Intelligence Officer Testimonies | N18G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B7MW735hzTI" target="_blank" rel="noopener noreferrer">US News: Pentagon Releases New Batch Of &#x27;UFO Files&#x27; And Intelligence Officer Testimonies | N18G</a></p><p class="youtube-embed-meta">Channel: CNN-News18 &middot; Views: 1.6K &middot; Uploaded: May 2026 &middot; Length: 4 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B7MW735hzTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B7MW735hzTI">Open on YouTube</a></p></div></div></div>
 
@@ -1242,18 +1242,18 @@ Uzbekistan’s reports vary by region in ways that make ordinary explanations mo
 
 A useful Uzbekistan UFO page should not put every case in the same bucket. The available record separates into three broad categories.
 
-**Confirmed as reports, not confirmed as anomalous craft.** The 1947 Tashkent-area light phenomenon is confirmed as an archived intelligence report; NUFORC’s Uzbekistan entries are confirmed as database reports; the 2021 Academy of Sciences response is confirmed as an official scientific comment on circulating videos. None of those facts confirms a non-human craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia 52 2</span><span class="citation-popover-snippet">cia 52 2</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=175847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Confirmed as reports, not confirmed as anomalous craft.** The 1947 Tashkent-area light phenomenon is confirmed as an archived intelligence report; NUFORC’s Uzbekistan entries are confirmed as database reports; the 2021 Academy of Sciences response is confirmed as an official scientific comment on circulating videos. None of those facts confirms a non-human craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">cia</span><span class="citation-popover-snippet">cia</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=175847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Contested or unresolved.** The 2021 Samarkand/Margilan videos remain unresolved in the public record because the official expert said the footage did not allow a firm conclusion. The 2026 Tashkent/Namangan bright-object episode also remains unresolved at the public level: officials described the lack of confirmed meteorite evidence and the need for more data. The 2005 Shavat green-light report is detailed and memorable, but it remains a witness account without public radar, astronomical, photographic or physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academy.uz">[academy.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academy.uz</span><span class="citation-popover-title">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span><span class="citation-popover-snippet">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested or unresolved.** The 2021 Samarkand/Margilan videos remain unresolved in the public record because the official expert said the footage did not allow a firm conclusion. The 2026 Tashkent/Namangan bright-object episode also remains unresolved at the public level: officials described the lack of confirmed meteorite evidence and the need for more data. The 2005 Shavat green-light report is detailed and memorable, but it remains a witness account without public radar, astronomical, photographic or physical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academy.uz">[academy.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academy.uz</span><span class="citation-popover-title">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span><span class="citation-popover-snippet">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Likely explained or debunked.** The 2017 Tashkent sighting is plausibly explained as re-entering space debris. The 2024 Qashqadaryo black ring is plausibly explained as smoke, soot, or industrial gas rather than a flying object. These cases are important because they show how some “UFO” headlines in Uzbekistan are not alien claims at all; they are public shorthand for “unidentified at first glance”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uz.sputniknews.ru">[Sputnik Узбекистан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uz.sputniknews.ru</span><span class="citation-popover-title">Sputnik УзбекистанНЛО в Ташкенте</span><span class="citation-popover-snippet">Sputnik УзбекистанНЛО в Ташкенте</span></span></span>
+**Likely explained or debunked.** The 2017 Tashkent sighting is plausibly explained as re-entering space debris. The 2024 Qashqadaryo black ring is plausibly explained as smoke, soot, or industrial gas rather than a flying object. These cases are important because they show how some “UFO” headlines in Uzbekistan are not alien claims at all; they are public shorthand for “unidentified at first glance”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uz.sputniknews.ru">[Sputnik Узбекистан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uz.sputniknews.ru</span><span class="citation-popover-title">Sputnik УзбекистанНЛО в Ташкенте</span><span class="citation-popover-snippet">Sputnik УзбекистанНЛО в Ташкенте</span></span></span>
 
 <img src="{{ "/assets/images/Uzbekistan_db800e-Illustration-2-dark.svg" | relative_url }}" alt="What Is Really In Uzbekistan&#x27;s UFO Record? illustration 2" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records are sparse, but scientific capacity is real
 
-The lack of a public Uzbek UFO archive should not be mistaken for a lack of relevant expertise. Uzbekistan has serious astronomical institutions. The Ulugh Beg Astronomical Institute is part of the Uzbek Academy of Sciences, and Maidanak Observatory is described as an observational facility of that institute. Uzbekistan-linked astronomical infrastructure also appears in technical literature on space-debris tracking: an ISON network paper lists the Ulugh Beg Astronomical Institute in Tashkent among participating institutions and explains that space-debris monitoring is important for tracking high-orbit objects and assessing collision risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://astrin.uz/en/index_en.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrin.uz">[astrin.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrin.uz</span><span class="citation-popover-title">Ulugh Beg Astronomical Institute</span><span class="citation-popover-snippet">Ulugh Beg Astronomical Institute</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.maidanak.uz/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maidanak.uz">[maidanak.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maidanak.uz</span><span class="citation-popover-snippet">Open source on maidanak.uz.</span></span></span>
+The lack of a public Uzbek UFO archive should not be mistaken for a lack of relevant expertise. Uzbekistan has serious astronomical institutions. The Ulugh Beg Astronomical Institute is part of the Uzbek Academy of Sciences, and Maidanak Observatory is described as an observational facility of that institute. Uzbekistan-linked astronomical infrastructure also appears in technical literature on space-debris tracking: an ISON network paper lists the Ulugh Beg Astronomical Institute in Tashkent among participating institutions and explains that space-debris monitoring is important for tracking high-orbit objects and assessing collision risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://astrin.uz/en/index_en.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrin.uz">[astrin.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrin.uz</span><span class="citation-popover-title">Ulugh Beg Astronomical Institute</span><span class="citation-popover-snippet">Ulugh Beg Astronomical Institute</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.maidanak.uz/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maidanak.uz">[maidanak.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maidanak.uz</span><span class="citation-popover-snippet">Open source on maidanak.uz.</span></span></span>
 
-That matters for UFO assessment because many modern sightings are not about “flying saucers” but about ambiguous lights, re-entries, satellite debris, rocket stages, meteors, drones, aircraft, and atmospheric effects. Uzbekistan’s official comments in 2017, 2021 and 2026 show a consistent evidential posture: explain what can be explained, avoid firm claims when the video or physical evidence is insufficient, and distinguish meteors from meteorites or space debris when necessary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uz.sputniknews.ru">[Sputnik Узбекистан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uz.sputniknews.ru</span><span class="citation-popover-title">Sputnik УзбекистанНЛО в Ташкенте</span><span class="citation-popover-snippet">Sputnik УзбекистанНЛО в Ташкенте</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academy.uz">[2academy.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academy.uz</span><span class="citation-popover-title">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span><span class="citation-popover-snippet">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span></span></span>
+That matters for UFO assessment because many modern sightings are not about “flying saucers” but about ambiguous lights, re-entries, satellite debris, rocket stages, meteors, drones, aircraft, and atmospheric effects. Uzbekistan’s official comments in 2017, 2021 and 2026 show a consistent evidential posture: explain what can be explained, avoid firm claims when the video or physical evidence is insufficient, and distinguish meteors from meteorites or space debris when necessary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uz.sputniknews.ru">[Sputnik Узбекистан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uz.sputniknews.ru</span><span class="citation-popover-title">Sputnik УзбекистанНЛО в Ташкенте</span><span class="citation-popover-snippet">Sputnik УзбекистанНЛО в Ташкенте</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academy.uz">[2academy.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academy.uz</span><span class="citation-popover-title">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span><span class="citation-popover-snippet">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rMGb9cyb9ME" title="НЛО в Ташкенте 7 ноября 1990 г &#x27;Феномен НЛО взгляд через объектив&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rMGb9cyb9ME" target="_blank" rel="noopener noreferrer">НЛО в Ташкенте 7 ноября 1990 г &#x27;Феномен НЛО взгляд через объектив&#x27;</a></p><p class="youtube-embed-meta">Channel: Lev Hudoi &middot; Views: 7.6K &middot; Uploaded: March 2015 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rMGb9cyb9ME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rMGb9cyb9ME">Open on YouTube</a></p></div></div></div>
 
@@ -1261,7 +1261,7 @@ That matters for UFO assessment because many modern sightings are not about “f
 
 The alleged 1990 and 1992 Tashkent photographs are among the most visually circulated Uzbekistan UFO claims, but they sit in a grey zone. They are not supported by a clearly documented original negative archive, independent forensic analysis, multiple calibrated camera positions, or a reliable chain of custody in the sources currently available. They are therefore better treated as local UFO folklore and archive leads rather than proof.
 
-Their value is still real. They show that Tashkent had a recognisable UFO subculture during the late Soviet and early independence years, when private cameras, science-fiction circles, informal lectures, and copied texts could turn sky sightings into enduring local legends. This links Uzbekistan naturally to other Central Asian UFO branches: Kazakhstan, Tajikistan, Kyrgyzstan and the wider Soviet/post-Soviet record all share similar problems of fragmentary archives, retrospective testimony, and Cold War-era secrecy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mytashkent.uz/2020/04/03/nlo-nad-tashkentom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mytashkent.uz">[mytashkent.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mytashkent.uz</span><span class="citation-popover-title">НЛО над Ташкентом — Письма о Ташкенте</span><span class="citation-popover-snippet">НЛО над Ташкентом — Письма о Ташкенте</span></span></span> 2Мир тайн
+Their value is still real. They show that Tashkent had a recognisable UFO subculture during the late Soviet and early independence years, when private cameras, science-fiction circles, informal lectures, and copied texts could turn sky sightings into enduring local legends. This links Uzbekistan naturally to other Central Asian UFO branches: Kazakhstan, Tajikistan, Kyrgyzstan and the wider Soviet/post-Soviet record all share similar problems of fragmentary archives, retrospective testimony, and Cold War-era secrecy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mytashkent.uz/2020/04/03/nlo-nad-tashkentom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mytashkent.uz">[mytashkent.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mytashkent.uz</span><span class="citation-popover-title">НЛО над Ташкентом — Письма о Ташкенте</span><span class="citation-popover-snippet">НЛО над Ташкентом — Письма о Ташкенте</span></span></span> 2Мир тайн
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bF1NQcuRdWs" title="PRESIDENTIAL UNSEALING AND REPORTING SYSTEM FOR UAP ENCOUNTERS (PURSUE)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bF1NQcuRdWs" target="_blank" rel="noopener noreferrer">PRESIDENTIAL UNSEALING AND REPORTING SYSTEM FOR UAP ENCOUNTERS (PURSUE)</a></p><p class="youtube-embed-meta">Channel: Bolo Connection TV#2 &middot; Uploaded: May 2026 &middot; Length: 3 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bF1NQcuRdWs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bF1NQcuRdWs">Open on YouTube</a></p></div></div></div>
 
@@ -1282,204 +1282,204 @@ A high-quality case would ideally include:
 
 </div>
 
-The Academy of Sciences’ 2021 and 2026 comments illustrate why this matters. In both cases, experts avoided overclaiming because video quality, object identity, trajectory or fragment evidence was insufficient. That is the right evidential standard for Uzbekistan’s future cases as well: unexplained should mean “not yet identified from the available data”, not “confirmed alien”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academy.uz">[academy.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academy.uz</span><span class="citation-popover-title">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span><span class="citation-popover-snippet">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span></span></span>
+The Academy of Sciences’ 2021 and 2026 comments illustrate why this matters. In both cases, experts avoided overclaiming because video quality, object identity, trajectory or fragment evidence was insufficient. That is the right evidential standard for Uzbekistan’s future cases as well: unexplained should mean “not yet identified from the available data”, not “confirmed alien”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academy.uz">[academy.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academy.uz</span><span class="citation-popover-title">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span><span class="citation-popover-snippet">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span></span></span>
 
 <img src="{{ "/assets/images/Uzbekistan_db800e-Illustration-3-dark.svg" | relative_url }}" alt="What Is Really In Uzbekistan&#x27;s UFO Record? illustration 3" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line
 
-Uzbekistan has a modest but distinctive UFO record. The most credible anchor is the archived 1947 Tashkent-area light phenomenon, because it exists as a declassified intelligence-era document with concrete observational details and explicit caveats. The most useful modern cases are not the most sensational ones, but the ones where scientists or local media distinguish between meteors, space debris, smoke rings, poor video evidence and genuinely unresolved reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academy.uz">[academy.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academy.uz</span><span class="citation-popover-title">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span><span class="citation-popover-snippet">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span></span></span> 3cufon.org <span class="citation-chip-wrap"><a class="citation-chip" href="https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uz.sputniknews.ru">[3Sputnik Узбекистан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uz.sputniknews.ru</span><span class="citation-popover-title">Sputnik УзбекистанНЛО в Ташкенте</span><span class="citation-popover-snippet">Sputnik УзбекистанНЛО в Ташкенте</span></span></span>
+Uzbekistan has a modest but distinctive UFO record. The most credible anchor is the archived 1947 Tashkent-area light phenomenon, because it exists as a declassified intelligence-era document with concrete observational details and explicit caveats. The most useful modern cases are not the most sensational ones, but the ones where scientists or local media distinguish between meteors, space debris, smoke rings, poor video evidence and genuinely unresolved reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academy.uz">[academy.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academy.uz</span><span class="citation-popover-title">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span><span class="citation-popover-snippet">O&#x27;zbekiston Respublikasi Fanlar akademiyasi</span></span></span> 3cufon.org<span class="citation-chip-wrap"><a class="citation-chip" href="https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uz.sputniknews.ru">[3Sputnik Узбекистан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uz.sputniknews.ru</span><span class="citation-popover-title">Sputnik УзбекистанНЛО в Ташкенте</span><span class="citation-popover-snippet">Sputnik УзбекистанНЛО в Ташкенте</span></span></span>
 
 The country’s UFO history is therefore best read as a layered record: Soviet-era lights near Tashkent, late-Soviet urban legends and photographs, scattered regional witness reports, and modern smartphone-era incidents that often collapse into ordinary explanations once checked. The unresolved residue is interesting, but small. The confirmed evidence supports a careful national case page, not a dramatic claim of a verified UFO hotspot.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Really In Uzbekistan&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Really In Uzbekistan&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s broad survey of documented sightings and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s broad survey of documented sightings and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how unexplained reports are documented and categorized.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how unexplained reports are documented and categorized.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing national UFO case histories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing national UFO case histories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding cultural interpretations of unusual sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding cultural interpretations of unusual sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-in-uzbekistan-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-really-in-uzbekistan-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1495,7 +1495,7 @@ The country’s UFO history is therefore best read as a layered record: Soviet-e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1515,7 +1515,7 @@ The country’s UFO history is therefore best read as a layered record: Soviet-e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1547,7 +1547,7 @@ The country’s UFO history is therefore best read as a layered record: Soviet-e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1599,7 +1599,7 @@ The country’s UFO history is therefore best read as a layered record: Soviet-e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1644,7 +1644,7 @@ The country’s UFO history is therefore best read as a layered record: Soviet-e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1685,247 +1685,247 @@ The country’s UFO history is therefore best read as a layered record: Soviet-e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cufon.org  
    Title: cia 52 2  
-   Link: <a href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cia-52-2.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/cia-52-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cia-52-2.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academy.uz  
    Title: O'zbekiston Respublikasi Fanlar akademiyasi  
-   Link: <a href="https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida" target="_blank" rel="noopener noreferrer nofollow">https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida</a>  
+   Link:<a href="https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida" target="_blank" rel="noopener noreferrer nofollow">https://academy.uz/uz/news/margilonda-va-samarqand-osmonida-koringan-jism-haqida</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theblackvault.com  
    Title: UF Os: The Central Intelligence Agency (CIA) Collection  
-   Link: <a href="https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/</a>  
+   Link:<a href="https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/ufos-the-central-intelligence-agency-cia-collection/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for Country Uzbekistan  
-   Link: <a href="https://nuforc.org/subndx/?id=cUzbekistan" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cUzbekistan</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cUzbekistan" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cUzbekistan</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mytashkent.uz  
    Title: НЛО над Ташкентом — Письма о Ташкенте  
-   Link: <a href="https://mytashkent.uz/2020/04/03/nlo-nad-tashkentom/" target="_blank" rel="noopener noreferrer nofollow">https://mytashkent.uz/2020/04/03/nlo-nad-tashkentom/</a>  
+   Link:<a href="https://mytashkent.uz/2020/04/03/nlo-nad-tashkentom/" target="_blank" rel="noopener noreferrer nofollow">https://mytashkent.uz/2020/04/03/nlo-nad-tashkentom/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nova24.uz  
-   Link: <a href="https://nova24.uz/uzbekistan/v-uzbekistane-na-nebe-zametili-tainstvennoe-chernoe-kolco-nlo-video/" target="_blank" rel="noopener noreferrer nofollow">https://nova24.uz/uzbekistan/v-uzbekistane-na-nebe-zametili-tainstvennoe-chernoe-kolco-nlo-video/</a>  
+   Link:<a href="https://nova24.uz/uzbekistan/v-uzbekistane-na-nebe-zametili-tainstvennoe-chernoe-kolco-nlo-video/" target="_blank" rel="noopener noreferrer nofollow">https://nova24.uz/uzbekistan/v-uzbekistane-na-nebe-zametili-tainstvennoe-chernoe-kolco-nlo-video/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: uzdaily.uz  
-   Link: <a href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/</a>  
+   Link:<a href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=59777" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=59777</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=59777" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=59777</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: astrin.uz  
    Title: Ulugh Beg Astronomical Institute  
-   Link: <a href="https://astrin.uz/en/index_en.php" target="_blank" rel="noopener noreferrer nofollow">https://astrin.uz/en/index_en.php</a>  
+   Link:<a href="https://astrin.uz/en/index_en.php" target="_blank" rel="noopener noreferrer nofollow">https://astrin.uz/en/index_en.php</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: maidanak.uz  
-   Link: <a href="https://www.maidanak.uz/" target="_blank" rel="noopener noreferrer nofollow">https://www.maidanak.uz/</a>  
+   Link:<a href="https://www.maidanak.uz/" target="_blank" rel="noopener noreferrer nofollow">https://www.maidanak.uz/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005516227.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516227.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005516227.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516227.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
+   Link:<a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005516639.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516639.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005516639.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516639.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cia.gov  
    Title: DOC 0000843186  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000843186.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000843186.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000843186.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000843186.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005517511" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517511</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005517511" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517511</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/the_soviet_bio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/the_soviet_bio.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/the_soviet_bio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/the_soviet_bio.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cia.gov  
    Title: BI O BRIEF  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005517733" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517733</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005517733" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517733</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cia.gov  
    Title: cia rdp78t03194a000400010014 6  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp78t03194a000400010014-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp78t03194a000400010014-6</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp78t03194a000400010014-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp78t03194a000400010014-6</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/2002-07-16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/2002-07-16.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/2002-07-16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/2002-07-16.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000400260026-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000400260026-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000400260026-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000400260026-5.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp78-01617a001400070001-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp78-01617a001400070001-8</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp78-01617a001400070001-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp78-01617a001400070001-8</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cia.gov  
    Title: use of toxins and other l[13984262]  
-   Link: <a href="https://www.cia.gov/readingroom/docs/use%20of%20toxins%20and%20other%20l%5B13984262%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/use%20of%20toxins%20and%20other%20l%5B13984262%5D.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/use%20of%20toxins%20and%20other%20l%5B13984262%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/use%20of%20toxins%20and%20other%20l%5B13984262%5D.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp78t03194a000100040001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp78t03194a000100040001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp78t03194a000100040001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp78t03194a000100040001-0</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cia.gov  
    Title: cia rdp87t00076r000102130001 8  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp87t00076r000102130001-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp87t00076r000102130001-8</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp87t00076r000102130001-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp87t00076r000102130001-8</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
    Title: dos uap d2 cable 2 kazakhstan january 1994  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf</a>  
    Published: january 1994  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=175847" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=175847</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=175847" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=175847</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=182746" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182746</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=182746" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182746</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=190942" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190942</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=190942" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190942</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: storage.academy.uz  
    Title: 2.2023 ENGLISH (2)  
-   Link: <a href="https://storage.academy.uz/source/1/journals/Fan%20va%20turmush/2.2023%20ENGLISH%20%282%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.academy.uz/source/1/journals/Fan%20va%20turmush/2.2023%20ENGLISH%20%282%29.pdf</a>  
+   Link:<a href="https://storage.academy.uz/source/1/journals/Fan%20va%20turmush/2.2023%20ENGLISH%20%282%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.academy.uz/source/1/journals/Fan%20va%20turmush/2.2023%20ENGLISH%20%282%29.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: storage.academy.uz  
-   Link: <a href="https://storage.academy.uz/source/1/%D0%A1%D0%B8%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BB%D0%B0%D1%80%20%D1%83%D0%BA%D1%83%D0%B2%20%D0%BB%D1%83%D0%B3%D0%B0%D1%82%D0%B8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.academy.uz/source/1/%D0%A1%D0%B8%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BB%D0%B0%D1%80%20%D1%83%D0%BA%D1%83%D0%B2%20%D0%BB%D1%83%D0%B3%D0%B0%D1%82%D0%B8.pdf</a>  
+   Link:<a href="https://storage.academy.uz/source/1/%D0%A1%D0%B8%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BB%D0%B0%D1%80%20%D1%83%D0%BA%D1%83%D0%B2%20%D0%BB%D1%83%D0%B3%D0%B0%D1%82%D0%B8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.academy.uz/source/1/%D0%A1%D0%B8%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BB%D0%B0%D1%80%20%D1%83%D0%BA%D1%83%D0%B2%20%D0%BB%D1%83%D0%B3%D0%B0%D1%82%D0%B8.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: storage.academy.uz  
    Title: uz SENSATIO N  
-   Link: <a href="https://storage.academy.uz/source/1/journals/Fan%20va%20turmush/1.2024%20english%20%282%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.academy.uz/source/1/journals/Fan%20va%20turmush/1.2024%20english%20%282%29.pdf</a>  
+   Link:<a href="https://storage.academy.uz/source/1/journals/Fan%20va%20turmush/1.2024%20english%20%282%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.academy.uz/source/1/journals/Fan%20va%20turmush/1.2024%20english%20%282%29.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: storage.academy.uz  
-   Link: <a href="https://storage.academy.uz/source/1/journals/Fan%20va%20turmush/4.23english.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.academy.uz/source/1/journals/Fan%20va%20turmush/4.23english.pdf</a>  
+   Link:<a href="https://storage.academy.uz/source/1/journals/Fan%20va%20turmush/4.23english.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.academy.uz/source/1/journals/Fan%20va%20turmush/4.23english.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: news.sky.com  
    Title: pentagon releases never before seen files on ufos 13541565  
-   Link: <a href="https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565</a>  
+   Link:<a href="https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: cufon.org  
    Title: cia 52 1  
-   Link: <a href="https://www.cufon.org/cufon/cia-52-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cia-52-1.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/cia-52-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cia-52-1.htm</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: maidanak.uz  
-   Link: <a href="https://www.maidanak.uz/mvousers.php" target="_blank" rel="noopener noreferrer nofollow">https://www.maidanak.uz/mvousers.php</a>  
+   Link:<a href="https://www.maidanak.uz/mvousers.php" target="_blank" rel="noopener noreferrer nofollow">https://www.maidanak.uz/mvousers.php</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
+   Link:<a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: astrin.uz  
    Title: Ulugh Beg Astronomical Institute  
-   Link: <a href="https://astrin.uz/index.html" target="_blank" rel="noopener noreferrer nofollow">https://astrin.uz/index.html</a>  
+   Link:<a href="https://astrin.uz/index.html" target="_blank" rel="noopener noreferrer nofollow">https://astrin.uz/index.html</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: uz.sputniknews.ru  
    Title: Sputnik УзбекистанНЛО в Ташкенте  
-   Link: <a href="https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html" target="_blank" rel="noopener noreferrer nofollow">https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html</a>  
+   Link:<a href="https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html" target="_blank" rel="noopener noreferrer nofollow">https://uz.sputniknews.ru/20170519/nlo-v-tashkente-5442277.html</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: ufo2026.org  
-   Link: <a href="https://ufo2026.org/en/document/469" target="_blank" rel="noopener noreferrer nofollow">https://ufo2026.org/en/document/469</a>  
+   Link:<a href="https://ufo2026.org/en/document/469" target="_blank" rel="noopener noreferrer nofollow">https://ufo2026.org/en/document/469</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: m.youtube.com  
-   Link: <a href="https://m.youtube.com/%40WavefrontProductions/videos" target="_blank" rel="noopener noreferrer nofollow">https://m.youtube.com/%40WavefrontProductions/videos</a>  
+   Link:<a href="https://m.youtube.com/%40WavefrontProductions/videos" target="_blank" rel="noopener noreferrer nofollow">https://m.youtube.com/%40WavefrontProductions/videos</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: uforeleases.com  
-   Link: <a href="https://uforeleases.com/locations/tashkent" target="_blank" rel="noopener noreferrer nofollow">https://uforeleases.com/locations/tashkent</a>  
+   Link:<a href="https://uforeleases.com/locations/tashkent" target="_blank" rel="noopener noreferrer nofollow">https://uforeleases.com/locations/tashkent</a>  
 
 ### Additional References
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: Replay! NASA's Release of the Unidentified Anomalous Phenomena Report  
-   Link: <a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases New Batch Of &#x27;UFO Files&#x27; And Intelligence Officer Testimonies | N18G...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nuBMnluJfs0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases New Batch Of &#x27;UFO Files&#x27; And Intelligence Officer Testimonies | N18G...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=B7MW735hzTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B7MW735hzTI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases declassified UFO files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B7MW735hzTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B7MW735hzTI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases declassified UFO files...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Here are the released videos from Pentagon's first batch of UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADMcelTgWYo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADMcelTgWYo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma</a>  
+   Link:<a href="https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: warufo.com  
-   Link: <a href="https://warufo.com/archive" target="_blank" rel="noopener noreferrer nofollow">https://warufo.com/archive</a>  
+   Link:<a href="https://warufo.com/archive" target="_blank" rel="noopener noreferrer nofollow">https://warufo.com/archive</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: unexplained-mysteries.com  
-   Link: <a href="https://www.unexplained-mysteries.com/forum/topic/91484-classified-top-secrets-and-common-sense/?comment=1600848&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/91484-classified-top-secrets-and-common-sense/?comment=1600848&amp;do=findComment</a>  
+   Link:<a href="https://www.unexplained-mysteries.com/forum/topic/91484-classified-top-secrets-and-common-sense/?comment=1600848&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/91484-classified-top-secrets-and-common-sense/?comment=1600848&amp;do=findComment</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXt9bhkigf-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXt9bhkigf-/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXt9bhkigf-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXt9bhkigf-/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14ma3yr/do_you_think_havana_syndrome_is_related_to_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14ma3yr/do_you_think_havana_syndrome_is_related_to_ufos/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14ma3yr/do_you_think_havana_syndrome_is_related_to_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14ma3yr/do_you_think_havana_syndrome_is_related_to_ufos/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXpAOLIk0PF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXpAOLIk0PF/</a>
+   Link:<a href="https://www.instagram.com/reel/DXpAOLIk0PF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXpAOLIk0PF/</a>

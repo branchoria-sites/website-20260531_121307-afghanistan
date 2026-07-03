@@ -1194,10 +1194,10 @@ image: /assets/images/Andorra_9d3bd1-overview-social.jpg
 
 ## Why Andorra Produces Thin UFO Records
 
-Andorra is a small, mountainous principality in the eastern Pyrenees between France and Spain. Its size, population and geography shape the UFO record before any exotic explanation needs to be considered: fewer residents mean fewer reports, steep valleys limit sightlines, and many observations are naturally cross-border because aircraft, satellites, meteors and high-altitude objects do not respect national boundaries. The World Bank lists Andorra’s population data as a small national series through 2024, while the US State Department describes it as an independent principality of about 85,000 people in the Pyrenees. <span class="citation-chip-wrap"><a class="citation-chip" href="https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.worldbank.org">[World Bank Open Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.worldbank.org</span><span class="citation-popover-title">World Bank Open Data Population, total</span><span class="citation-popover-snippet">World Bank Open Data Population, total</span></span></span>
+Andorra is a small, mountainous principality in the eastern Pyrenees between France and Spain. Its size, population and geography shape the UFO record before any exotic explanation needs to be considered: fewer residents mean fewer reports, steep valleys limit sightlines, and many observations are naturally cross-border because aircraft, satellites, meteors and high-altitude objects do not respect national boundaries. The World Bank lists Andorra’s population data as a small national series through 2024, while the US State Department describes it as an independent principality of about 85,000 people in the Pyrenees.<span class="citation-chip-wrap"><a class="citation-chip" href="https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.worldbank.org">[World Bank Open Data]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.worldbank.org</span><span class="citation-popover-title">World Bank Open Data Population, total</span><span class="citation-popover-snippet">World Bank Open Data Population, total</span></span></span>
 
 <img src="{{ "/assets/images/Andorra_9d3bd1-overview.webp" | relative_url }}" alt="Overview image for What Is Actually Known About Andorra UFOs?" loading="eager" decoding="sync" fetchpriority="high">
-This also explains why the useful archive trail often runs through neighbouring countries. France has GEIPAN, a CNES unit created from earlier official UAP work, which collects, analyses and publishes witness accounts. Spain has digitised military UFO files covering strange phenomena in Spanish airspace from 1962 to 1995. Andorra, by contrast, has a National Archive with public categories for photographs, textual documents and audiovisual material, but there is no obvious dedicated public UFO file series comparable to GEIPAN or Spain’s military archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecavirtual.defensa.gob.es">[Biblioteca Virtual Defensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecavirtual.defensa.gob.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This also explains why the useful archive trail often runs through neighbouring countries. France has GEIPAN, a CNES unit created from earlier official UAP work, which collects, analyses and publishes witness accounts. Spain has digitised military UFO files covering strange phenomena in Spanish airspace from 1962 to 1995. Andorra, by contrast, has a National Archive with public categories for photographs, textual documents and audiovisual material, but there is no obvious dedicated public UFO file series comparable to GEIPAN or Spain’s military archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecavirtual.defensa.gob.es">[Biblioteca Virtual Defensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecavirtual.defensa.gob.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The result is not proof that nothing unusual has ever been seen over Andorra. It means that the country’s UFO record is low-density and uneven: scattered public reports, neighbouring-country references, private databases, and occasional regional sightings that include Andorra among several viewing locations.
 
@@ -1205,20 +1205,20 @@ The result is not proof that nothing unusual has ever been seen over Andorra. It
 
 A responsible Andorra chronology should separate “reported from or near Andorra” from “investigated as an Andorran case”. On the available public evidence, the second category is extremely limited.
 
-The clearest recent example is the 9 November [2021 sighting]({{ '2021-sighting/' | relative_url }}) reported across southern France and also from Andorra. The object was described in media coverage as a glowing, oblong or rectangular form seen from Montpellier, Sète, Narbonne, Perpignan and Andorra. Local weather-related social media accounts compiled videos, and witnesses debated possible explanations including drones and satellites. At the time of the report, no definitive explanation had been established in the article itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">UFO spotted repeatedly in the sky above southern France</span><span class="citation-popover-snippet">UFO spotted repeatedly in the sky above southern France</span></span></span>
+The clearest recent example is the 9 November [2021 sighting]({{ '2021-sighting/' | relative_url }}) reported across southern France and also from Andorra. The object was described in media coverage as a glowing, oblong or rectangular form seen from Montpellier, Sète, Narbonne, Perpignan and Andorra. Local weather-related social media accounts compiled videos, and witnesses debated possible explanations including drones and satellites. At the time of the report, no definitive explanation had been established in the article itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">UFO spotted repeatedly in the sky above southern France</span><span class="citation-popover-snippet">UFO spotted repeatedly in the sky above southern France</span></span></span>
 
 That 2021 episode is important because it shows how Andorra is likely to enter the UFO record: not as a self-contained national mystery, but as one viewpoint in a wider regional observation. A bright or high-altitude object seen from Andorra may also be seen from Catalonia, Occitanie or the French Pyrenees. In those cases, triangulation from multiple locations can be useful, but only if timestamps, directions, elevation angles and videos are preserved.
 
-By comparison, public UFO databases do not currently show a strong Andorra-specific footprint. NUFORC’s country/location index lists many countries and regions, including France, Spain, Portugal and nearby Gibraltar, but the visible indexed list does not show Andorra as a separate reporting location. That absence should be read carefully: it is evidence of sparse public database coverage, not evidence that no one in Andorra has ever reported anything unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+By comparison, public UFO databases do not currently show a strong Andorra-specific footprint. NUFORC’s country/location index lists many countries and regions, including France, Spain, Portugal and nearby Gibraltar, but the visible indexed list does not show Andorra as a separate reporting location. That absence should be read carefully: it is evidence of sparse public database coverage, not evidence that no one in Andorra has ever reported anything unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/Andorra_9d3bd1-Illustration-1-dark.svg" | relative_url }}" alt="What Is Actually Known About Andorra UFOs? illustration 1" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official and Declassified Material: Where Andorra Fits
 
 Andorra does not appear to have a public, dedicated state UAP investigation body. For researchers, the nearest serious official models are France’s GEIPAN and Spain’s declassified air force files.
 
-GEIPAN is useful because it shows what a structured investigation looks like: collection of testimony, use of police, gendarmerie, air force, weather and scientific partners, and publication of documented accounts. CNES says GEIPAN’s work classifies 24.6% of phenomena as clearly identified, 39.7% as probably identified, 32.4% as unidentified for lack of data, and only 3.3% as unidentified after investigation. Those figures are a useful benchmark for Andorra because they show how often “unidentified” simply means “not enough data”, rather than “extraordinary object confirmed”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
+GEIPAN is useful because it shows what a structured investigation looks like: collection of testimony, use of police, gendarmerie, air force, weather and scientific partners, and publication of documented accounts. CNES says GEIPAN’s work classifies 24.6% of phenomena as clearly identified, 39.7% as probably identified, 32.4% as unidentified for lack of data, and only 3.3% as unidentified after investigation. Those figures are a useful benchmark for Andorra because they show how often “unidentified” simply means “not enough data”, rather than “extraordinary object confirmed”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
 
-Spain’s official archive is equally relevant because Andorra borders Catalonia and many aerial phenomena visible over the Pyrenees may also be reported in Spanish airspace. Spain’s Ministry of Defence states that its online UFO collection contains 80 files and about 1,900 pages concerning strange phenomena in Spanish airspace, involving in some way Spanish Air Force personnel or material. The archive covers cases from the first recorded 1962 San Javier incident to a 1995 Morón case, and includes summaries, witness interviews, weather information and classification decisions where available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecavirtual.defensa.gob.es">[Biblioteca Virtual Defensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecavirtual.defensa.gob.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Spain’s official archive is equally relevant because Andorra borders Catalonia and many aerial phenomena visible over the Pyrenees may also be reported in Spanish airspace. Spain’s Ministry of Defence states that its online UFO collection contains 80 files and about 1,900 pages concerning strange phenomena in Spanish airspace, involving in some way Spanish Air Force personnel or material. The archive covers cases from the first recorded 1962 San Javier incident to a 1995 Morón case, and includes summaries, witness interviews, weather information and classification decisions where available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecavirtual.defensa.gob.es">[Biblioteca Virtual Defensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecavirtual.defensa.gob.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Andorra, the practical lesson is that the strongest records may not be labelled “Andorra” at all. A useful cross-branch search within a wider country project should include nearby Spanish files from Catalonia and nearby French GEIPAN cases from the Pyrenees, while keeping the Andorra page itself focused on whether the evidence actually crosses into Andorran territory.
 
@@ -1228,22 +1228,22 @@ For Andorra, the practical lesson is that the strongest records may not be label
 
 ### Confirmed
 
-The confirmed part of the Andorra record is modest: there are confirmed public reports that unusual lights or objects have been seen from Andorra or nearby regions, and confirmed institutional archives in France and Spain that document UAP-style investigations. The 2021 southern France case confirms a multi-location public sighting that included Andorra in the reported viewing area. It does not confirm an exotic craft, a structured object, or a national security incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">inside frances ufo bureau we explain what people have seen</span><span class="citation-popover-snippet">inside frances ufo bureau we explain what people have seen</span></span></span>
+The confirmed part of the Andorra record is modest: there are confirmed public reports that unusual lights or objects have been seen from Andorra or nearby regions, and confirmed institutional archives in France and Spain that document UAP-style investigations. The 2021 southern France case confirms a multi-location public sighting that included Andorra in the reported viewing area. It does not confirm an exotic craft, a structured object, or a national security incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connexionfrance.com">[connexionfrance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connexionfrance.com</span><span class="citation-popover-title">inside frances ufo bureau we explain what people have seen</span><span class="citation-popover-snippet">inside frances ufo bureau we explain what people have seen</span></span></span>
 
-It is also confirmed that serious neighbouring institutions treat unusual aerial reports as investigable phenomena rather than automatically dismissing them. GEIPAN’s archive and method are especially relevant: it collects witness accounts, examines possible scientific explanations and publishes documented results, while explicitly stating that it has no proof of extraterrestrial visitors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
+It is also confirmed that serious neighbouring institutions treat unusual aerial reports as investigable phenomena rather than automatically dismissing them. GEIPAN’s archive and method are especially relevant: it collects witness accounts, examines possible scientific explanations and publishes documented results, while explicitly stating that it has no proof of extraterrestrial visitors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
 
 ### Contested
 
-The contested category includes broad claims that Andorra has a growing or significant UFO scene. One online “Andorra UFO sightings” page claims reports are increasing and says it is working to add Andorra cases, but the page is generic, heavily promotional, and provides little case-level evidence in the material visible from search. Such pages may be useful as leads, but not as strong evidence unless they provide dates, locations, witness details, images, investigation notes and independent corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/andorra-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The contested category includes broad claims that Andorra has a growing or significant UFO scene. One online “Andorra UFO sightings” page claims reports are increasing and says it is working to add Andorra cases, but the page is generic, heavily promotional, and provides little case-level evidence in the material visible from search. Such pages may be useful as leads, but not as strong evidence unless they provide dates, locations, witness details, images, investigation notes and independent corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/andorra-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Pyrenees “UFO base” claims also fall into the contested or speculative category. They are usually framed around the mountain range rather than Andorra specifically, and public discussion tends to circulate through forums and social media rather than verifiable documents. For an Andorra-focused page, such claims should not be treated as national incidents unless a source provides direct Andorran location data and supporting evidence.
 
 <img src="{{ "/assets/images/Andorra_9d3bd1-Illustration-2-dark.svg" | relative_url }}" alt="What Is Actually Known About Andorra UFOs? illustration 2" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Debunked or Probably Explained
 
-The strongest debunking pattern is not a single famous Andorran hoax, but the repeated way sky sightings in the region can be explained by ordinary sources. GEIPAN lists examples such as satellites, lanterns, aircraft lights, laser spotlight reflections, birds in formation, perception errors and other explainable causes. It also notes that hoaxes are rare in its own investigated material, but that lack of data is a major reason some cases remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
+The strongest debunking pattern is not a single famous Andorran hoax, but the repeated way sky sightings in the region can be explained by ordinary sources. GEIPAN lists examples such as satellites, lanterns, aircraft lights, laser spotlight reflections, birds in formation, perception errors and other explainable causes. It also notes that hoaxes are rare in its own investigated material, but that lack of data is a major reason some cases remain unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
 
-A useful nearby comparison is a NUFORC report from Cornellà de Llobregat in Catalonia, where a reported unidentified “drone” with green flashing lights was ultimately noted by NUFORC as seeming to be a normal drone. It is not an Andorra case, but it is regionally relevant because it shows how modern low-altitude lights in the Catalan-Andorran sky corridor can be misread without flight data, distance estimates or a known operator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185751" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+A useful nearby comparison is a NUFORC report from Cornellà de Llobregat in Catalonia, where a reported unidentified “drone” with green flashing lights was ultimately noted by NUFORC as seeming to be a normal drone. It is not an Andorra case, but it is regionally relevant because it shows how modern low-altitude lights in the Catalan-Andorran sky corridor can be misread without flight data, distance estimates or a known operator.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185751" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 ## What Andorra’s Terrain Does to Sightings
 
@@ -1259,7 +1259,7 @@ This is why Andorra sightings should be handled with a cross-border checklist: e
 
 The most reliable sources for Andorra-related UFO work are not necessarily the most dramatic ones. Official archives, meteorological data, aircraft-tracking records, astronomical records and structured UAP bodies are more useful than viral clips or anonymous sighting pages.
 
-The Andorran National Archive is important for historical checking because it provides public access routes to photographs, textual documents and audiovisual holdings, even though it does not present itself as a UFO archive. Spain’s declassified files are valuable because they show military paperwork, witness interviews and weather documentation for Spanish airspace cases. GEIPAN is valuable because it publishes classifications and explains its method. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arxiuenlinia.ad/fotoweb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiuenlinia.ad">[Arxiu En Linia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiuenlinia.ad</span><span class="citation-popover-title">Arxiu En Linia Foto Web</span><span class="citation-popover-snippet">Arxiu En Linia Foto Web</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecavirtual.defensa.gob.es">[Biblioteca Virtual Defensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecavirtual.defensa.gob.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Andorran National Archive is important for historical checking because it provides public access routes to photographs, textual documents and audiovisual holdings, even though it does not present itself as a UFO archive. Spain’s declassified files are valuable because they show military paperwork, witness interviews and weather documentation for Spanish airspace cases. GEIPAN is valuable because it publishes classifications and explains its method.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arxiuenlinia.ad/fotoweb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiuenlinia.ad">[Arxiu En Linia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiuenlinia.ad</span><span class="citation-popover-title">Arxiu En Linia Foto Web</span><span class="citation-popover-snippet">Arxiu En Linia Foto Web</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecavirtual.defensa.gob.es">[Biblioteca Virtual Defensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecavirtual.defensa.gob.es</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 By contrast, online UFO databases and social posts should be treated as starting points. They can preserve witness language and alert researchers to possible events, but they often lack independent verification. A single video without timestamp, direction, original file metadata or corroborating witnesses is weak evidence, especially in a mountainous country where distance and scale are easy to misjudge.
 
@@ -1269,201 +1269,201 @@ By contrast, online UFO databases and social posts should be treated as starting
 
 The evidence does not support a strong claim that Andorra has a major, confirmed UFO history. It supports a more modest and more useful conclusion: Andorra is a low-volume UFO reporting area where the best cases are likely to be regional, cross-border sightings rather than isolated national incidents.
 
-The 2021 southern France-Andorra sighting is the clearest public example of that pattern: multiple locations, visible public discussion, but no firm identification in the available report. France’s GEIPAN and Spain’s declassified air force files provide the best neighbouring frameworks for evaluating similar events, and both point towards careful classification rather than quick belief or quick dismissal. connexionfrance <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
+The 2021 southern France-Andorra sighting is the clearest public example of that pattern: multiple locations, visible public discussion, but no firm identification in the available report. France’s GEIPAN and Spain’s declassified air force files provide the best neighbouring frameworks for evaluating similar events, and both point towards careful classification rather than quick belief or quick dismissal. connexionfrance<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
 
 For a country-specific UFO project, Andorra should therefore be treated as a “thin evidence, high cross-border relevance” page. Its value lies in clarifying what is actually documented, warning readers away from inflated claims, and linking naturally to sibling branches on France, Spain, Catalonia and the Pyrenees where the archive trail is stronger.
 
 <img src="{{ "/assets/images/Andorra_9d3bd1-Illustration-3-dark.svg" | relative_url }}" alt="What Is Actually Known About Andorra UFOs? illustration 3" data-theme-src-dark="{{ "/assets/images/Andorra_9d3bd1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andorra_9d3bd1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Actually Known About Andorra UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Actually Known About Andorra UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding regional and cross-border UFO traditions in Europe.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding regional and cross-border UFO traditions in Europe.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Explores historical aerial observations across regions and cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores historical aerial observations across regions and cultures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides investigative standards applicable to sparse Andorran reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides investigative standards applicable to sparse Andorran reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Offers international case context for a country with limited records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers international case context for a country with limited records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-actually-known-about-andorra-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-is-actually-known-about-andorra-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1479,7 +1479,7 @@ For a country-specific UFO project, Andorra should therefore be treated as a “
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1499,7 +1499,7 @@ For a country-specific UFO project, Andorra should therefore be treated as a “
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1531,7 +1531,7 @@ For a country-specific UFO project, Andorra should therefore be treated as a “
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1583,7 +1583,7 @@ For a country-specific UFO project, Andorra should therefore be treated as a “
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1628,7 +1628,7 @@ For a country-specific UFO project, Andorra should therefore be treated as a “
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1669,165 +1669,165 @@ For a country-specific UFO project, Andorra should therefore be treated as a “
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cnes.fr  
    Title: GEIPAN | CNES  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: state.gov  
-   Link: <a href="https://www.state.gov/reports/2024-investment-climate-statements/andorra" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2024-investment-climate-statements/andorra</a>  
+   Link:<a href="https://www.state.gov/reports/2024-investment-climate-statements/andorra" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2024-investment-climate-statements/andorra</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: connexionfrance.com  
    Title: UFO spotted repeatedly in the sky above southern France  
-   Link: <a href="https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038" target="_blank" rel="noopener noreferrer nofollow">https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038</a>  
+   Link:<a href="https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038" target="_blank" rel="noopener noreferrer nofollow">https://www.connexionfrance.com/news/ufo-spotted-repeatedly-in-the-sky-above-southern-france/439038</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=185751" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185751</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=185751" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185751</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=cSpain" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cSpain</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cSpain" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cSpain</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: connexionfrance.com  
    Title: inside frances ufo bureau we explain what people have seen  
-   Link: <a href="https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460" target="_blank" rel="noopener noreferrer nofollow">https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460</a>  
+   Link:<a href="https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460" target="_blank" rel="noopener noreferrer nofollow">https://www.connexionfrance.com/news/inside-frances-ufo-bureau-we-explain-what-people-have-seen/189460</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: 2021-2025.state.gov  
-   Link: <a href="https://2021-2025.state.gov/reports/2024-investment-climate-statements/andorra/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/reports/2024-investment-climate-statements/andorra/</a>  
+   Link:<a href="https://2021-2025.state.gov/reports/2024-investment-climate-statements/andorra/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/reports/2024-investment-climate-statements/andorra/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: 2017-2021.state.gov  
-   Link: <a href="https://2017-2021.state.gov/countries-areas/andorra/" target="_blank" rel="noopener noreferrer nofollow">https://2017-2021.state.gov/countries-areas/andorra/</a>  
+   Link:<a href="https://2017-2021.state.gov/countries-areas/andorra/" target="_blank" rel="noopener noreferrer nofollow">https://2017-2021.state.gov/countries-areas/andorra/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: data.worldbank.org  
    Title: World Bank Open Data Population, total  
-   Link: <a href="https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AD" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AD</a>  
+   Link:<a href="https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AD" target="_blank" rel="noopener noreferrer nofollow">https://data.worldbank.org/indicator/SP.POP.TOTL?locations=AD</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bibliotecavirtual.defensa.gob.es  
-   Link: <a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do</a>  
+   Link:<a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/micrositios/inicio.do</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiuenlinia.ad  
    Title: Arxiu En Linia Foto Web  
-   Link: <a href="https://www.arxiuenlinia.ad/fotoweb/" target="_blank" rel="noopener noreferrer nofollow">https://www.arxiuenlinia.ad/fotoweb/</a>  
+   Link:<a href="https://www.arxiuenlinia.ad/fotoweb/" target="_blank" rel="noopener noreferrer nofollow">https://www.arxiuenlinia.ad/fotoweb/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/andorra-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/andorra-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/andorra-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/andorra-ufo-sightings.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Andorra" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Andorra</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Andorra" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Andorra</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bibliotecavirtual.defensa.gob.es  
    Title: defensa.gob.es Títulos  
-   Link: <a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo&amp;posicion=1" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo&amp;posicion=1</a>  
+   Link:<a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo&amp;posicion=1" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo&amp;posicion=1</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bibliotecavirtual.defensa.gob.es  
    Title: defensa.gob.es San Andrés de la Barca  
-   Link: <a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta_aut/registro.do?id=326868" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta_aut/registro.do?id=326868</a>  
+   Link:<a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta_aut/registro.do?id=326868" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta_aut/registro.do?id=326868</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bibliotecavirtual.defensa.gob.es  
    Title: defensa.gob.es Geografía lingüística  
-   Link: <a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta_aut/registro.do?id=1103170" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta_aut/registro.do?id=1103170</a>  
+   Link:<a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta_aut/registro.do?id=1103170" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta_aut/registro.do?id=1103170</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: bibliotecavirtual.defensa.gob.es  
    Title: defensa.gob.es Listado de títulos  
-   Link: <a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo</a>  
+   Link:<a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecavirtual.defensa.gob.es/BVMDefensa/exp_ovni/es/consulta/indice_campo.do?campo=idtitulo</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tradingeconomics.com  
-   Link: <a href="https://tradingeconomics.com/andorra/population-total-wb-data.html" target="_blank" rel="noopener noreferrer nofollow">https://tradingeconomics.com/andorra/population-total-wb-data.html</a>  
+   Link:<a href="https://tradingeconomics.com/andorra/population-total-wb-data.html" target="_blank" rel="noopener noreferrer nofollow">https://tradingeconomics.com/andorra/population-total-wb-data.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: relief.unboundmedicine.com  
-   Link: <a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563010/all/Andorra?q=Area" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563010/all/Andorra?q=Area</a>  
+   Link:<a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563010/all/Andorra?q=Area" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563010/all/Andorra?q=Area</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Andorra" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Andorra</a>  
+   Link:<a href="https://www.britannica.com/place/Andorra" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Andorra</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/andorra" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/andorra</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/geography-and-cartography/andorra" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/andorra</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: datacommons.org  
-   Link: <a href="https://datacommons.org/place/country/AND" target="_blank" rel="noopener noreferrer nofollow">https://datacommons.org/place/country/AND</a>  
+   Link:<a href="https://datacommons.org/place/country/AND" target="_blank" rel="noopener noreferrer nofollow">https://datacommons.org/place/country/AND</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Explaining UAP: Investigating Unidentified Aerospace Phenomena  
-   Link: <a href="https://www.youtube.com/watch?v=XWz-H9B5zY8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XWz-H9B5zY8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to identify common objects in the night sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XWz-H9B5zY8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XWz-H9B5zY8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to identify common objects in the night sky...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3Wn7T-b0W0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Wn7T-b0W0o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining UAP: Investigating Unidentified Aerospace Phenomena...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3Wn7T-b0W0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Wn7T-b0W0o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining UAP: Investigating Unidentified Aerospace Phenomena...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+   Link:<a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
+   Link:<a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/air-force-alert-for-ufo/</a>  
+   Link:<a href="https://www.portugalresident.com/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/air-force-alert-for-ufo/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
+   Link:<a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100063760352054/posts/un-documento-militar-desclasificado-habla-de-avistamientos-de-ovnis-en-la-provin/4840214186095867/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063760352054/posts/un-documento-militar-desclasificado-habla-de-avistamientos-de-ovnis-en-la-provin/4840214186095867/</a>  
+   Link:<a href="https://www.facebook.com/100063760352054/posts/un-documento-militar-desclasificado-habla-de-avistamientos-de-ovnis-en-la-provin/4840214186095867/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063760352054/posts/un-documento-militar-desclasificado-habla-de-avistamientos-de-ovnis-en-la-provin/4840214186095867/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: andorraweather.com  
-   Link: <a href="https://andorraweather.com/" target="_blank" rel="noopener noreferrer nofollow">https://andorraweather.com/</a>
+   Link:<a href="https://andorraweather.com/" target="_blank" rel="noopener noreferrer nofollow">https://andorraweather.com/</a>

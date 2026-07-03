@@ -1199,36 +1199,36 @@ That matters because Trinidad and Tobago is a useful small-country case study in
 <img src="{{ "/assets/images/Trinidad_and_Tobago_a73120-overview.webp" | relative_url }}" alt="Overview image for Trinidad and Tobago" loading="eager" decoding="sync" fetchpriority="high">
 ## What the public record actually contains
 
-The most accessible country-level archive is the National UFO Reporting Center, a US-based public reporting database. It is not an official Trinidad and Tobago government archive, and it does not verify every entry as anomalous. Still, it is useful because it gives dates, locations, witness summaries, shapes and, occasionally, explanations. Its Trinidad and Tobago page lists a modest sequence of reports: an unspecified 1966 case, two 1995 reports, a Port of Spain sphere in 2001, a Marouga lights case in 2007, several 2011–2014 light and fireball reports, and two 2026 sightings later labelled as rocket-related. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cTrinidad_and_Tobago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Trinidad and Tobago</span><span class="citation-popover-snippet">Reports for Country Trinidad and Tobago</span></span></span>
+The most accessible country-level archive is the National UFO Reporting Center, a US-based public reporting database. It is not an official Trinidad and Tobago government archive, and it does not verify every entry as anomalous. Still, it is useful because it gives dates, locations, witness summaries, shapes and, occasionally, explanations. Its Trinidad and Tobago page lists a modest sequence of reports: an unspecified 1966 case, two 1995 reports, a Port of Spain sphere in 2001, a Marouga lights case in 2007, several 2011–2014 light and fireball reports, and two 2026 sightings later labelled as rocket-related.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cTrinidad_and_Tobago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Trinidad and Tobago</span><span class="citation-popover-snippet">Reports for Country Trinidad and Tobago</span></span></span>
 
-The list also shows a strong Trinidad-centred pattern. Named locations include Port of Spain, Trinidad City, Marouga, Arima, Arouca, Tunapuna, Curepe, Chaguanas and a general Trinidad and Tobago entry; Tobago appears mainly in the combined country/location wording rather than as a clearly separate cluster. That does not prove Tobago has fewer sightings. It more likely reflects where witnesses choose to report, population distribution, English-language internet visibility, and the fact that a small number of records can exaggerate apparent regional patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=56496" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The list also shows a strong Trinidad-centred pattern. Named locations include Port of Spain, Trinidad City, Marouga, Arima, Arouca, Tunapuna, Curepe, Chaguanas and a general Trinidad and Tobago entry; Tobago appears mainly in the combined country/location wording rather than as a clearly separate cluster. That does not prove Tobago has fewer sightings. It more likely reflects where witnesses choose to report, population distribution, English-language internet visibility, and the fact that a small number of records can exaggerate apparent regional patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=56496" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The oldest unusual entry in the NUFORC country list is dated 20 December 1966, with a sparse one-word summary, “LIQUID”, and little public detail in the index. The first detailed-looking case in the index is 28 December 1995, described as a seismic ship captain reporting damage to towed equipment by a huge underwater object that allegedly rose from the ocean and appeared on radar for ten minutes. That is a striking claim, but without primary vessel records, radar data, coordinates, crew statements, or a maritime incident file, it sits in the “high-interest, low-verifiability” category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=91532" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The oldest unusual entry in the NUFORC country list is dated 20 December 1966, with a sparse one-word summary, “LIQUID”, and little public detail in the index. The first detailed-looking case in the index is 28 December 1995, described as a seismic ship captain reporting damage to towed equipment by a huge underwater object that allegedly rose from the ocean and appeared on radar for ten minutes. That is a striking claim, but without primary vessel records, radar data, coordinates, crew statements, or a maritime incident file, it sits in the “high-interest, low-verifiability” category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=91532" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 ## A short chronology of the better-known claims
 
 The Trinidad and Tobago record is less a continuous national wave than a scattered [timeline]({{ 'timeline-a5b90a/' | relative_url }}). The reports that stand out are those with multiple witnesses, a specific place, or an apparent later explanation.
 
-A 2007 Marouga report described five or six bright circular lights moving slowly over an agricultural and forested area at about 4 am. The witness reported a humming sound and a brief view of a grey or reddish-brown rear structure before the object allegedly accelerated away. NUFORC records the number of observers as zero, which is internally odd for a witness account and is a reminder that database fields can be incomplete or messy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+A 2007 Marouga report described five or six bright circular lights moving slowly over an agricultural and forested area at about 4 am. The witness reported a humming sound and a brief view of a grey or reddish-brown rear structure before the object allegedly accelerated away. NUFORC records the number of observers as zero, which is internally odd for a witness account and is a reminder that database fields can be incomplete or messy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-A cluster in 2011–2013 is more socially interesting. The index includes New Year 2011 “slow moving objects” over Port of Spain, an August 2011 Arima report of ten fireballs flying in a straight line, and a December 2011 “orb” report claiming hovering and direction changes. In August 2012, an Arouca report described ten “balls of fire” seen by eight observers at around 1.30 am, with the witness explicitly asking whether the objects were a folk figure or a UFO. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=96561" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+A cluster in 2011–2013 is more socially interesting. The index includes New Year 2011 “slow moving objects” over Port of Spain, an August 2011 Arima report of ten fireballs flying in a straight line, and a December 2011 “orb” report claiming hovering and direction changes. In August 2012, an Arouca report described ten “balls of fire” seen by eight observers at around 1.30 am, with the witness explicitly asking whether the objects were a folk figure or a UFO.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=96561" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The Arouca case is important because it shows how local interpretation enters the report itself. The witness described repeated fiery objects floating slowly, dimming, and apparently descending behind trees, and said a friend interpreted the first object through a familiar folk explanation while the witness remained unsure. The account also mentions two mobile-phone videos, but the public NUFORC text does not provide enough accessible video, location, timing, wind, or launch-event correlation to resolve the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The Arouca case is important because it shows how local interpretation enters the report itself. The witness described repeated fiery objects floating slowly, dimming, and apparently descending behind trees, and said a friend interpreted the first object through a familiar folk explanation while the witness remained unsure. The account also mentions two mobile-phone videos, but the public NUFORC text does not provide enough accessible video, location, timing, wind, or launch-event correlation to resolve the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The Curepe Christmas Eve 2012 case is similar but shorter. Five observers reportedly saw a red fireball in the eastern sky at 6.45 pm; the witness first considered a remote-control aircraft or helicopter, then described the object rising, travelling west, and disappearing into cloud, with a short recording in which bystanders wondered whether it was an aeroplane. This reads like a classic ambiguous-light report: enough detail to be sincere and interesting, but not enough to rule out lanterns, aircraft, drones, balloons, flares, or atmospheric effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The Curepe Christmas Eve 2012 case is similar but shorter. Five observers reportedly saw a red fireball in the eastern sky at 6.45 pm; the witness first considered a remote-control aircraft or helicopter, then described the object rising, travelling west, and disappearing into cloud, with a short recording in which bystanders wondered whether it was an aeroplane. This reads like a classic ambiguous-light report: enough detail to be sincere and interesting, but not enough to rule out lanterns, aircraft, drones, balloons, flares, or atmospheric effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The 2013 Port of Spain “diamond” sighting is one of the more detailed city reports. Four observers reportedly watched an orange-glowing diamond-shaped object move north to south over the Gulf of Paria for three to five minutes. The witness said it made no sound and lacked conventional navigation or anti-collision lights; NUFORC added that the witness remained anonymous and supplied little contact information, weakening follow-up value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The 2013 Port of Spain “diamond” sighting is one of the more detailed city reports. Four observers reportedly watched an orange-glowing diamond-shaped object move north to south over the Gulf of Paria for three to five minutes. The witness said it made no sound and lacked conventional navigation or anti-collision lights; NUFORC added that the witness remained anonymous and supplied little contact information, weakening follow-up value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Trinidad_and_Tobago_a73120-Illustration-1-dark.svg" | relative_url }}" alt="Trinidad and Tobago illustration 1" data-theme-src-dark="{{ "/assets/images/Trinidad_and_Tobago_a73120-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trinidad_and_Tobago_a73120-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2026 “UFO” that became a solved rocket case
 
-The clearest recent case is also the best example of how an apparent UFO can be explained quickly. On Friday 22 May 2026, a bright object was widely seen across Trinidad, filmed from places including San Fernando, and discussed online as a mystery light, supernatural sign, or alien craft. The Trinidad Guardian reported that officials identified it not as a UFO but as SpaceX’s Starship V3, launched from Starbase, Texas, during its first test flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guardian.co.tt/article/spacecraft-not-soucouyant-mystery-light-stirs-curiosity-across-trinidad-6.2.2591471.5d16fdcb1b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guardian.co.tt">[Trinidad Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guardian.co.tt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The clearest recent case is also the best example of how an apparent UFO can be explained quickly. On Friday 22 May 2026, a bright object was widely seen across Trinidad, filmed from places including San Fernando, and discussed online as a mystery light, supernatural sign, or alien craft. The Trinidad Guardian reported that officials identified it not as a UFO but as SpaceX’s Starship V3, launched from Starbase, Texas, during its first test flight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guardian.co.tt/article/spacecraft-not-soucouyant-mystery-light-stirs-curiosity-across-trinidad-6.2.2591471.5d16fdcb1b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guardian.co.tt">[Trinidad Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guardian.co.tt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The local reaction is valuable because it records the human side of the event. Residents in South Oropouche described seeing a bright moving light, smoke, and a dark spot behind it; one fisherman said he initially thought it was a supernatural figure, while another resident treated it more casually as “a plane or something”. The same report notes that the sight generated widespread social-media posting and uncertainty before the rocket explanation settled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guardian.co.tt/article/spacecraft-not-soucouyant-mystery-light-stirs-curiosity-across-trinidad-6.2.2591471.5d16fdcb1b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guardian.co.tt">[Trinidad Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guardian.co.tt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The local reaction is valuable because it records the human side of the event. Residents in South Oropouche described seeing a bright moving light, smoke, and a dark spot behind it; one fisherman said he initially thought it was a supernatural figure, while another resident treated it more casually as “a plane or something”. The same report notes that the sight generated widespread social-media posting and uncertainty before the rocket explanation settled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guardian.co.tt/article/spacecraft-not-soucouyant-mystery-light-stirs-curiosity-across-trinidad-6.2.2591471.5d16fdcb1b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guardian.co.tt">[Trinidad Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guardian.co.tt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Independent media-distribution material also places the object over Trinidad and Tobago. Reuters Connect carried a Spectee video item titled “Trinidad and Tobago: SpaceX Starship V3 Passing Over Caribbean Skies”, stating that the newly upgraded Starship V3 launched from Texas on 22 May and that the video showed the rocket flying over Trinidad and Tobago; the recording location was San Fernando at 18:42 local time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reutersconnect.com/item/trinidad-and-tobago-spacex-starship-v3-passing-over-caribbean-skies/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU1BDQzI2MDEwMTcwMQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersconnect.com">[Reuters Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersconnect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Independent media-distribution material also places the object over Trinidad and Tobago. Reuters Connect carried a Spectee video item titled “Trinidad and Tobago: SpaceX Starship V3 Passing Over Caribbean Skies”, stating that the newly upgraded Starship V3 launched from Texas on 22 May and that the video showed the rocket flying over Trinidad and Tobago; the recording location was San Fernando at 18:42 local time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reutersconnect.com/item/trinidad-and-tobago-spacex-starship-v3-passing-over-caribbean-skies/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU1BDQzI2MDEwMTcwMQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersconnect.com">[Reuters Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersconnect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This same event appears to have entered the UFO-reporting pipeline. NUFORC lists two Trinidad and Tobago reports on 22 May 2026, one at 18:50 described as a white orb moving west to east across the islands and another at 18:51 from Chaguanas described as a bright white light over central Trinidad. Both entries are marked with media and an explanation of “Rocket”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+This same event appears to have entered the UFO-reporting pipeline. NUFORC lists two Trinidad and Tobago reports on 22 May 2026, one at 18:50 described as a white orb moving west to east across the islands and another at 18:51 from Chaguanas described as a bright white light over central Trinidad. Both entries are marked with media and an explanation of “Rocket”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The 2026 case is therefore the strongest “debunked” or “resolved” Trinidad and Tobago UFO case currently visible in public sources. It also shows why mass witnessing alone is not enough. Many people can accurately see the same real object and still misidentify it when the object is unusual, distant, high-altitude, sunlit, or moving along a trajectory unfamiliar to local observers.
 
@@ -1238,22 +1238,22 @@ The 2026 case is therefore the strongest “debunked” or “resolved” Trinid
 
 Several ordinary mechanisms can create convincing UFO reports in Trinidad and Tobago without requiring anything exotic. The country sits under busy Caribbean skies, has coastal and hilltop sightlines, and has communities accustomed to scanning the horizon for weather, aircraft, ships, fishing conditions, and storms. A bright object over the Gulf of Paria, a meteor near Venezuela, a satellite train, or a rocket plume can be visible across large parts of Trinidad before viewers have enough context to identify it.
 
-Local sky-explainer sources have repeatedly treated “what was that in the sky?” as a public education question. Trinidad and Tobago Weather Center has a UFO tag that includes posts on Starlink satellites, satellites generally, and “weird” lights noticed over southern, central, and northern Trinidad. It also directs readers to official meteorological and disaster-management authorities for operational warnings, which is a sensible distinction: a sky mystery can be interesting without being an emergency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ttweathercenter.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ttweathercenter.com">[Trinidad and Tobago Weather Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ttweathercenter.com</span><span class="citation-popover-title">Trinidad and Tobago Weather Center UFO Archives</span><span class="citation-popover-snippet">Trinidad and Tobago Weather Center UFO Archives</span></span></span>
+Local sky-explainer sources have repeatedly treated “what was that in the sky?” as a public education question. Trinidad and Tobago Weather Center has a UFO tag that includes posts on Starlink satellites, satellites generally, and “weird” lights noticed over southern, central, and northern Trinidad. It also directs readers to official meteorological and disaster-management authorities for operational warnings, which is a sensible distinction: a sky mystery can be interesting without being an emergency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ttweathercenter.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ttweathercenter.com">[Trinidad and Tobago Weather Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ttweathercenter.com</span><span class="citation-popover-title">Trinidad and Tobago Weather Center UFO Archives</span><span class="citation-popover-snippet">Trinidad and Tobago Weather Center UFO Archives</span></span></span>
 
-Meteors are another strong candidate for some “fireball” reports. In March 2026, Trinidad and Tobago Weather Center reported a second meteor in the country’s skies within a week and cited satellite data indicating that one meteor burned up about 190 kilometres southwest of Trinidad over Venezuela. The same article noted that meteor sightings in Trinidad and Tobago are not rare, often go unreported because they are brief, and that the American Meteor Society had logged 5 Trinidad and Tobago fireball reports in 2025, 1 in 2024 and 7 in 2023. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ttweathercenter.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ttweathercenter.com">[Trinidad and Tobago Weather Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ttweathercenter.com</span><span class="citation-popover-title">Trinidad and Tobago Weather Center UFO Archives</span><span class="citation-popover-snippet">Trinidad and Tobago Weather Center UFO Archives</span></span></span>
+Meteors are another strong candidate for some “fireball” reports. In March 2026, Trinidad and Tobago Weather Center reported a second meteor in the country’s skies within a week and cited satellite data indicating that one meteor burned up about 190 kilometres southwest of Trinidad over Venezuela. The same article noted that meteor sightings in Trinidad and Tobago are not rare, often go unreported because they are brief, and that the American Meteor Society had logged 5 Trinidad and Tobago fireball reports in 2025, 1 in 2024 and 7 in 2023.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ttweathercenter.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ttweathercenter.com">[Trinidad and Tobago Weather Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ttweathercenter.com</span><span class="citation-popover-title">Trinidad and Tobago Weather Center UFO Archives</span><span class="citation-popover-snippet">Trinidad and Tobago Weather Center UFO Archives</span></span></span>
 
-The country’s civil aviation setting matters too. The Trinidad and Tobago Civil Aviation Authority says its role is to provide the regulatory framework for a safe and secure aviation industry and air navigation services within the Piarco Flight Information Region, and its NOTAM page explains that notices are continuously updated and verified daily. For UAP analysis, this means a serious check should include aviation notices, aircraft activity, restricted airspace, launches, drones and regional flight information before treating a sighting as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://caa.gov.tt/notices-to-operators-notification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.tt">[caa.gov.tt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.tt</span><span class="citation-popover-title">NOTA M – Trinidad and Tobago Civil Aviation Authority</span><span class="citation-popover-snippet">NOTA M – Trinidad and Tobago Civil Aviation Authority</span></span></span>
+The country’s civil aviation setting matters too. The Trinidad and Tobago Civil Aviation Authority says its role is to provide the regulatory framework for a safe and secure aviation industry and air navigation services within the Piarco Flight Information Region, and its NOTAM page explains that notices are continuously updated and verified daily. For UAP analysis, this means a serious check should include aviation notices, aircraft activity, restricted airspace, launches, drones and regional flight information before treating a sighting as anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://caa.gov.tt/notices-to-operators-notification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.tt">[caa.gov.tt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.tt</span><span class="citation-popover-title">NOTA M – Trinidad and Tobago Civil Aviation Authority</span><span class="citation-popover-snippet">NOTA M – Trinidad and Tobago Civil Aviation Authority</span></span></span>
 
 <img src="{{ "/assets/images/Trinidad_and_Tobago_a73120-Illustration-2-dark.svg" | relative_url }}" alt="Trinidad and Tobago illustration 2" data-theme-src-dark="{{ "/assets/images/Trinidad_and_Tobago_a73120-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trinidad_and_Tobago_a73120-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records and the problem of “no archive”
 
 There is no obvious public Trinidad and Tobago government UAP archive equivalent to the modern US AARO website. That absence should not be overread: it may mean no dedicated public programme exists, that records are held under aviation, police, defence or meteorological categories, or simply that unusual-light reports rarely reach a formal national-security threshold. The public record available to readers is therefore dominated by NUFORC, local media, weather explainers, social platforms, and occasional international aviation or launch notices.
 
-For context, even the much larger US system frames UAP work primarily as data-driven anomaly resolution, not alien confirmation. AARO describes itself as leading US government efforts on UAP with a rigorous scientific framework and a data-driven approach, while its public site’s introductory questions include common causes, reporting channels and whether the department has found evidence of extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+For context, even the much larger US system frames UAP work primarily as data-driven anomaly resolution, not alien confirmation. AARO describes itself as leading US government efforts on UAP with a rigorous scientific framework and a data-driven approach, while its public site’s introductory questions include common causes, reporting channels and whether the department has found evidence of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
-NASA’s independent UAP study reached a similar methodological point: the problem is often poor data, not necessarily extraordinary objects. Its report stated that peer-reviewed scientific literature had no conclusive evidence of an extraterrestrial origin for UAP and stressed that better observations are needed to explain anomalous reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+NASA’s independent UAP study reached a similar methodological point: the problem is often poor data, not necessarily extraordinary objects. Its report stated that peer-reviewed scientific literature had no conclusive evidence of an extraterrestrial origin for UAP and stressed that better observations are needed to explain anomalous reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-There is, however, one notable Caribbean diplomatic connection. A declassified US State Department memorandum from 9 September 1977 records Grenada’s Prime Minister Sir Eric Gairy asking President Jimmy Carter for support for a UN study of UFOs and related phenomena. The document is not about Trinidad and Tobago sightings, but it places UFO interest within the wider Caribbean political environment of the 1970s; the same FRUS volume groups Suriname and Trinidad and Tobago elsewhere in its Caribbean section, showing how regional diplomatic files can contain adjacent but not country-specific UFO material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Office of the Historian Historical Documents</span></span></span>
+There is, however, one notable Caribbean diplomatic connection. A declassified US State Department memorandum from 9 September 1977 records Grenada’s Prime Minister Sir Eric Gairy asking President Jimmy Carter for support for a UN study of UFOs and related phenomena. The document is not about Trinidad and Tobago sightings, but it places UFO interest within the wider Caribbean political environment of the 1970s; the same FRUS volume groups Suriname and Trinidad and Tobago elsewhere in its Caribbean section, showing how regional diplomatic files can contain adjacent but not country-specific UFO material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Office of the Historian Historical Documents</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D0vRGkPsbYc" title="Videos on social media show Starship debris streaming across the sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D0vRGkPsbYc" target="_blank" rel="noopener noreferrer">Videos on social media show Starship debris streaming across the sky</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 851.7K &middot; Uploaded: January 2025 &middot; Length: 2 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D0vRGkPsbYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D0vRGkPsbYc">Open on YouTube</a></p></div></div></div>
 
@@ -1261,11 +1261,11 @@ There is, however, one notable Caribbean diplomatic connection. A declassified U
 
 The most useful way to read Trinidad and Tobago’s UFO material is to separate it by evidence quality.
 
-**Confirmed conventional events** include the 22 May 2026 Starship sighting. It had widespread observation, local media coverage, third-party video metadata from San Fernando, a matching launch event, and NUFORC entries explicitly marked “Rocket”. That is not a weak debunk; it is a good positive identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guardian.co.tt/article/spacecraft-not-soucouyant-mystery-light-stirs-curiosity-across-trinidad-6.2.2591471.5d16fdcb1b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guardian.co.tt">[Trinidad Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guardian.co.tt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reutersconnect.com/item/trinidad-and-tobago-spacex-starship-v3-passing-over-caribbean-skies/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU1BDQzI2MDEwMTcwMQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersconnect.com">[Reuters Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersconnect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed conventional events** include the 22 May 2026 Starship sighting. It had widespread observation, local media coverage, third-party video metadata from San Fernando, a matching launch event, and NUFORC entries explicitly marked “Rocket”. That is not a weak debunk; it is a good positive identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guardian.co.tt/article/spacecraft-not-soucouyant-mystery-light-stirs-curiosity-across-trinidad-6.2.2591471.5d16fdcb1b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guardian.co.tt">[Trinidad Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guardian.co.tt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reutersconnect.com/item/trinidad-and-tobago-spacex-starship-v3-passing-over-caribbean-skies/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU1BDQzI2MDEwMTcwMQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersconnect.com">[Reuters Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersconnect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Plausibly conventional but not fully resolved reports** include many fireball, orb, light and slow-moving object cases from 2011–2013. The Arouca and Curepe cases had multiple witnesses and vivid descriptions, but they lack enough public data to distinguish between lanterns, drones, aircraft, balloons, meteors, flares, satellites or unusual atmospheric perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=196506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Plausibly conventional but not fully resolved reports** include many fireball, orb, light and slow-moving object cases from 2011–2013. The Arouca and Curepe cases had multiple witnesses and vivid descriptions, but they lack enough public data to distinguish between lanterns, drones, aircraft, balloons, meteors, flares, satellites or unusual atmospheric perception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=196506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Contested or low-verifiability reports** include the 1995 seismic-ship claim, the 2007 Marouga lights, and the 2013 Port of Spain diamond. These are interesting because they contain unusual details, but they are not strong evidence unless matched with independent records, multiple traceable witnesses, radar logs, original images, exact coordinates, weather, and aviation or maritime checks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cTrinidad_and_Tobago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Trinidad and Tobago</span><span class="citation-popover-snippet">Reports for Country Trinidad and Tobago</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=56496" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested or low-verifiability reports** include the 1995 seismic-ship claim, the 2007 Marouga lights, and the 2013 Port of Spain diamond. These are interesting because they contain unusual details, but they are not strong evidence unless matched with independent records, multiple traceable witnesses, radar logs, original images, exact coordinates, weather, and aviation or maritime checks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cTrinidad_and_Tobago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Trinidad and Tobago</span><span class="citation-popover-snippet">Reports for Country Trinidad and Tobago</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=56496" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 **Misleading source material** should be treated carefully. Social media posts and short videos can be valuable first alerts, but they often lack exact time, direction, lens settings, exposure, location and original files. Viral UFO clips from Trinidad and Tobago should not be treated as evidence stronger than the metadata behind them.
 
@@ -1281,194 +1281,194 @@ The Trinidad and Tobago pattern so far is clear: there are real sightings, real 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jicv3Hh5ETA" title="SpaceX rocket bursts into flames during Indian Ocean landing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jicv3Hh5ETA" target="_blank" rel="noopener noreferrer">SpaceX rocket bursts into flames during Indian Ocean landing</a></p><p class="youtube-embed-meta">Channel: Guardian News &middot; Views: 232.9K &middot; Uploaded: May 2026 &middot; Length: 1 minute 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jicv3Hh5ETA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jicv3Hh5ETA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Seen Over Trinidad?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Really Seen Over Trinidad?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Broad introduction matching a country-level overview of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad introduction matching a country-level overview of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Provides contemporary context for public UFO discussions and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contemporary context for public UFO discussions and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Historical perspective on UFO reporting and investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Historical perspective on UFO reporting and investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Explains how many reports end up unresolved because of limited data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how many reports end up unresolved because of limited data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-trinidad-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-trinidad-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1484,7 +1484,7 @@ The Trinidad and Tobago pattern so far is clear: there are real sightings, real 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1504,7 +1504,7 @@ The Trinidad and Tobago pattern so far is clear: there are real sightings, real 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1536,7 +1536,7 @@ The Trinidad and Tobago pattern so far is clear: there are real sightings, real 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1588,7 +1588,7 @@ The Trinidad and Tobago pattern so far is clear: there are real sightings, real 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1633,7 +1633,7 @@ The Trinidad and Tobago pattern so far is clear: there are real sightings, real 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1671,180 +1671,179 @@ The Trinidad and Tobago pattern so far is clear: there are real sightings, real 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Trinidad and Tobago  
-   Link: <a href="https://nuforc.org/subndx/?id=cTrinidad_and_Tobago" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cTrinidad_and_Tobago</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cTrinidad_and_Tobago" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cTrinidad_and_Tobago</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=56496" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=56496</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=56496" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=56496</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=91532" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=91532</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=91532" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=91532</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=95513</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=95513" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=95513</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=96561" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=96561</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=96561" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=96561</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: caa.gov.tt  
    Title: NOTA M – Trinidad and Tobago Civil Aviation Authority  
-   Link: <a href="https://caa.gov.tt/notices-to-operators-notification/" target="_blank" rel="noopener noreferrer nofollow">https://caa.gov.tt/notices-to-operators-notification/</a>  
+   Link:<a href="https://caa.gov.tt/notices-to-operators-notification/" target="_blank" rel="noopener noreferrer nofollow">https://caa.gov.tt/notices-to-operators-notification/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.state.gov  
    Title: Office of the Historian Historical Documents  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1977-80v23/d304</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1977-80v23/d304</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=196506" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196506</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=196506" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196506</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/UFO_Commentary_vol_2_no_3/UFO_Commentary_vol_2_no_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/UFO_Commentary_vol_2_no_3/UFO_Commentary_vol_2_no_3.pdf</a>  
+   Link:<a href="https://archive.org/download/UFO_Commentary_vol_2_no_3/UFO_Commentary_vol_2_no_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/UFO_Commentary_vol_2_no_3/UFO_Commentary_vol_2_no_3.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: news.sky.com  
    Title: watch spacexs biggest starship launch yet 13547226  
-   Link: <a href="https://news.sky.com/video/watch-spacexs-biggest-starship-launch-yet-13547226" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/watch-spacexs-biggest-starship-launch-yet-13547226</a>  
+   Link:<a href="https://news.sky.com/video/watch-spacexs-biggest-starship-launch-yet-13547226" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/watch-spacexs-biggest-starship-launch-yet-13547226</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reuters.com  
    Title: starship test flights explosions mock satellite deployments 2026 05 21  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/starship-test-flights-explosions-mock-satellite-deployments-2026-05-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/starship-test-flights-explosions-mock-satellite-deployments-2026-05-21/</a>  
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/starship-test-flights-explosions-mock-satellite-deployments-2026-05-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/starship-test-flights-explosions-mock-satellite-deployments-2026-05-21/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gov.ky  
    Title: space x starship 12 public safety notice cayman islands  
-   Link: <a href="https://gov.ky/web/govky/w/space-x-starship-12-public-safety-notice-cayman-islands?redirect=%2Fw%2Fspace-x-starship-12-public-safety-notice-cayman-islands%3FrefererPlid%3D7686%26redirect%3D%252Fweb%252Fcigpriorities%253Fpage_number_533a64c7-1bd5-c3de-12f3-2b2f86c0d14a%253D1%26refererPlid%3D7686%26redirect%3D%252Fweb%252Fcigpriorities%253Fpage_number_533a64c7-1bd5-c3de-12f3-2b2f86c0d14a%253D1&amp;refererPlid=3611" target="_blank" rel="noopener noreferrer nofollow">https://gov.ky/web/govky/w/space-x-starship-12-public-safety-notice-cayman-islands?redirect=%2Fw%2Fspace-x-starship-12-public-safety-notice-cayman-islands%3FrefererPlid%3D7686%26redirect%3D%252Fweb%252Fcigpriorities%253Fpage_number_533a64c7-1bd5-c3de-12f3-2b2f86c0d14a%253D1%26refererPlid%3D7686%26redirect%3D%252Fweb%252Fcigpriorities%253Fpage_number_533a64c7-1bd5-c3de-12f3-2b2f86c0d14a%253D1&amp;refererPlid=3611</a>  
+   Link:<a href="https://gov.ky/web/govky/w/space-x-starship-12-public-safety-notice-cayman-islands?redirect=%2Fw%2Fspace-x-starship-12-public-safety-notice-cayman-islands%3FrefererPlid%3D7686%26redirect%3D%252Fweb%252Fcigpriorities%253Fpage_number_533a64c7-1bd5-c3de-12f3-2b2f86c0d14a%253D1%26refererPlid%3D7686%26redirect%3D%252Fweb%252Fcigpriorities%253Fpage_number_533a64c7-1bd5-c3de-12f3-2b2f86c0d14a%253D1&amp;refererPlid=3611" target="_blank" rel="noopener noreferrer nofollow">https://gov.ky/web/govky/w/space-x-starship-12-public-safety-notice-cayman-islands?redirect=%2Fw%2Fspace-x-starship-12-public-safety-notice-cayman-islands%3FrefererPlid%3D7686%26redirect%3D%252Fweb%252Fcigpriorities%253Fpage_number_533a64c7-1bd5-c3de-12f3-2b2f86c0d14a%253D1%26refererPlid%3D7686%26redirect%3D%252Fweb%252Fcigpriorities%253Fpage_number_533a64c7-1bd5-c3de-12f3-2b2f86c0d14a%253D1&amp;refererPlid=3611</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: time.com  
    Title: ufo sighting history national security  
-   Link: <a href="https://time.com/6996951/ufo-sighting-history-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6996951/ufo-sighting-history-national-security/</a>  
+   Link:<a href="https://time.com/6996951/ufo-sighting-history-national-security/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6996951/ufo-sighting-history-national-security/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: guardian.co.tt  
-   Link: <a href="https://www.guardian.co.tt/article/spacecraft-not-soucouyant-mystery-light-stirs-curiosity-across-trinidad-6.2.2591471.5d16fdcb1b" target="_blank" rel="noopener noreferrer nofollow">https://www.guardian.co.tt/article/spacecraft-not-soucouyant-mystery-light-stirs-curiosity-across-trinidad-6.2.2591471.5d16fdcb1b</a>  
+   Link:<a href="https://www.guardian.co.tt/article/spacecraft-not-soucouyant-mystery-light-stirs-curiosity-across-trinidad-6.2.2591471.5d16fdcb1b" target="_blank" rel="noopener noreferrer nofollow">https://www.guardian.co.tt/article/spacecraft-not-soucouyant-mystery-light-stirs-curiosity-across-trinidad-6.2.2591471.5d16fdcb1b</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reutersconnect.com  
-   Link: <a href="https://www.reutersconnect.com/item/trinidad-and-tobago-spacex-starship-v3-passing-over-caribbean-skies/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU1BDQzI2MDEwMTcwMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/trinidad-and-tobago-spacex-starship-v3-passing-over-caribbean-skies/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU1BDQzI2MDEwMTcwMQ</a>  
+   Link:<a href="https://www.reutersconnect.com/item/trinidad-and-tobago-spacex-starship-v3-passing-over-caribbean-skies/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU1BDQzI2MDEwMTcwMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/trinidad-and-tobago-spacex-starship-v3-passing-over-caribbean-skies/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU1BDQzI2MDEwMTcwMQ</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ttweathercenter.com  
    Title: Trinidad and Tobago Weather Center UFO Archives  
-   Link: <a href="https://ttweathercenter.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://ttweathercenter.com/tag/ufo/</a>  
+   Link:<a href="https://ttweathercenter.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://ttweathercenter.com/tag/ufo/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ttweathercenter.com  
-   Link: <a href="https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/32364/" target="_blank" rel="noopener noreferrer nofollow">https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/32364/</a>  
+   Link:<a href="https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/32364/" target="_blank" rel="noopener noreferrer nofollow">https://ttweathercenter.com/2026/03/25/second-meteor-spotted-in-tts-skies-in-a-week/32364/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/191766699268/posts/10159763237384269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/191766699268/posts/10159763237384269/</a>  
+   Link:<a href="https://www.facebook.com/groups/191766699268/posts/10159763237384269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/191766699268/posts/10159763237384269/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TTWeatherCenter/posts/view-of-the-meteor-from-trinidad-that-has-been-spotted-across-trinidad-and-tobag/627389332911158/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TTWeatherCenter/posts/view-of-the-meteor-from-trinidad-that-has-been-spotted-across-trinidad-and-tobag/627389332911158/</a>  
+   Link:<a href="https://www.facebook.com/TTWeatherCenter/posts/view-of-the-meteor-from-trinidad-that-has-been-spotted-across-trinidad-and-tobag/627389332911158/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TTWeatherCenter/posts/view-of-the-meteor-from-trinidad-that-has-been-spotted-across-trinidad-and-tobag/627389332911158/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
+   Link:<a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Videos on social media show Starship debris streaming across the sky  
-   Link: <a href="https://www.youtube.com/watch?v=D0vRGkPsbYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D0vRGkPsbYc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Rear Admiral speaks out about UAP sightings in new paper...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=D0vRGkPsbYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D0vRGkPsbYc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Rear Admiral speaks out about UAP sightings in new paper...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Space X rocket bursts into flames during Indian Ocean landing  
-   Link: <a href="https://www.youtube.com/watch?v=jicv3Hh5ETA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jicv3Hh5ETA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos on social media show Starship debris streaming across the sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jicv3Hh5ETA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jicv3Hh5ETA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Videos on social media show Starship debris streaming across the sky...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: U.A.P Appears Over Trinidad and Tobago During Night Sky  
-   Link: <a href="https://www.youtube.com/watch?v=5y9sntOKX4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5y9sntOKX4s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX rocket bursts into flames during Indian Ocean landing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5y9sntOKX4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5y9sntOKX4s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX rocket bursts into flames during Indian Ocean landing...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: theaustralian.com.au  
-   Link: <a href="https://www.theaustralian.com.au/news/look-at-that-spacex-starship-spotted-from-caribbean/video/7842008794799869af0b863641af1b75" target="_blank" rel="noopener noreferrer nofollow">https://www.theaustralian.com.au/news/look-at-that-spacex-starship-spotted-from-caribbean/video/7842008794799869af0b863641af1b75</a>  
+   Link:<a href="https://www.theaustralian.com.au/news/look-at-that-spacex-starship-spotted-from-caribbean/video/7842008794799869af0b863641af1b75" target="_blank" rel="noopener noreferrer nofollow">https://www.theaustralian.com.au/news/look-at-that-spacex-starship-spotted-from-caribbean/video/7842008794799869af0b863641af1b75</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/livezonett24/posts/650-pm-ufo-spotted-in-parts-of-trinidad-and-tobago-just-now/1008903781670442/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livezonett24/posts/650-pm-ufo-spotted-in-parts-of-trinidad-and-tobago-just-now/1008903781670442/</a>  
+   Link:<a href="https://www.facebook.com/livezonett24/posts/650-pm-ufo-spotted-in-parts-of-trinidad-and-tobago-just-now/1008903781670442/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livezonett24/posts/650-pm-ufo-spotted-in-parts-of-trinidad-and-tobago-just-now/1008903781670442/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61562915002233/posts/a-kingston-bound-jetblue-flight-was-forced-to-return-to-miami-while-several-othe/122186090012430500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61562915002233/posts/a-kingston-bound-jetblue-flight-was-forced-to-return-to-miami-while-several-othe/122186090012430500/</a>  
+   Link:<a href="https://www.facebook.com/61562915002233/posts/a-kingston-bound-jetblue-flight-was-forced-to-return-to-miami-while-several-othe/122186090012430500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61562915002233/posts/a-kingston-bound-jetblue-flight-was-forced-to-return-to-miami-while-several-othe/122186090012430500/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
+   Link:<a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/464313420975427/posts/1667797060627051/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/464313420975427/posts/1667797060627051/</a>  
+   Link:<a href="https://www.facebook.com/groups/464313420975427/posts/1667797060627051/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/464313420975427/posts/1667797060627051/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/</a>
+   Link:<a href="https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BeautifulBarbados/posts/anyone-saw-this-unidentified-object-in-our-skies-earlier%EF%B8%8F-bajannews_updates246/1302147152068298/</a>

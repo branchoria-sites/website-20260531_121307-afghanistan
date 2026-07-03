@@ -1199,11 +1199,11 @@ The French story is therefore less about a single “best UFO case” than about
 <img src="{{ "/assets/images/France_e3772a-overview.webp" | relative_url }}" alt="Overview image for How France Investigates and Archives UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## Why France matters in UFO history
 
-France’s central role comes from institutional continuity. CNES says GEIPAN’s mission is to collect, analyse and archive eyewitness accounts of unidentified aerospace phenomena, and to inform the public about them. The office began as GEPAN in 1977, became SEPRA in 1988, and was reorganised as GEIPAN in 2005. Its partners include the gendarmerie, police, the French Air and Space Force, CNRS and Météo-France. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
+France’s central role comes from institutional continuity. CNES says GEIPAN’s mission is to collect, analyse and archive eyewitness accounts of unidentified aerospace phenomena, and to inform the public about them. The office began as GEPAN in 1977, became SEPRA in 1988, and was reorganised as GEIPAN in 2005. Its partners include the gendarmerie, police, the French Air and Space Force, CNRS and Météo-France.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
 
-That structure makes France different from countries where UFO records are scattered across defence, police, aviation and intelligence agencies. GEIPAN is small, but it draws on a wider national network: CNES describes around 20 volunteer investigators, scientific experts in fields such as meteorology, photography, plasma and psychology, and links to gendarmerie and police channels for gathering reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+That structure makes France different from countries where UFO records are scattered across defence, police, aviation and intelligence agencies. GEIPAN is small, but it draws on a wider national network: CNES describes around 20 volunteer investigators, scientific experts in fields such as meteorology, photography, plasma and psychology, and links to gendarmerie and police channels for gathering reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-The French terminology also matters. GEIPAN avoids the term “UFO” in its working vocabulary because it implies an object and carries strong flying-saucer associations. It uses UAP, or the French equivalent PAN, to cover any reported aerospace phenomenon that has not yet been identified. That choice is important: many French cases begin as emotionally powerful “UFO” experiences but end as meteors, aircraft, lanterns, satellites, searchlights, perceptual errors, or insufficiently documented reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
+The French terminology also matters. GEIPAN avoids the term “UFO” in its working vocabulary because it implies an object and carries strong flying-saucer associations. It uses UAP, or the French equivalent PAN, to cover any reported aerospace phenomenon that has not yet been identified. That choice is important: many French cases begin as emotionally powerful “UFO” experiences but end as meteors, aircraft, lanterns, satellites, searchlights, perceptual errors, or insufficiently documented reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
 ## How the French official system classifies reports
 
@@ -1214,13 +1214,13 @@ GEIPAN’s classification scheme is the backbone of any serious reading of Frenc
 * **A:** the phenomenon is clearly identified after investigation.
 * **B:** the phenomenon is probably identified.
 * **C:** the phenomenon remains unidentified because there is not enough reliable information.
-* **D:** the phenomenon remains unidentified after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1965-07-00050" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+* **D:** the phenomenon remains unidentified after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1965-07-00050" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 </div>
 
-The distinction between C and D is crucial. A C case is not a stronger mystery; it is usually weaker evidence. It means the available data are too thin, late, incomplete or ambiguous. A D case is the smaller category reserved for cases that remain unexplained after a more substantive inquiry. CNES’s current public figures put the archive at 27.8% A, 38.8% B, 30.3% C and 3.2% D in GEIPAN’s dynamic statistics, while a CNES project page gives similar proportions, including 3.3% unidentified after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The distinction between C and D is crucial. A C case is not a stronger mystery; it is usually weaker evidence. It means the available data are too thin, late, incomplete or ambiguous. A D case is the smaller category reserved for cases that remain unexplained after a more substantive inquiry. CNES’s current public figures put the archive at 27.8% A, 38.8% B, 30.3% C and 3.2% D in GEIPAN’s dynamic statistics, while a CNES project page gives similar proportions, including 3.3% unidentified after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-GEIPAN says its classifications are based on two parameters: consistency, meaning the quantity and reliability of collected data, and residual strangeness after comparison with known explanations. The office also states that it uses recognised scientific knowledge only, not speculative future science or assumptions about extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+GEIPAN says its classifications are based on two parameters: consistency, meaning the quantity and reliability of collected data, and residual strangeness after comparison with known explanations. The office also states that it uses recognised scientific knowledge only, not speculative future science or assumptions about extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 That makes the French archive valuable but also easy to misread. A “D” classification does not mean “alien craft”. It means the case has resisted explanation under GEIPAN’s methodology. Conversely, a dramatic witness account may become an A or B case if radar, astronomy, aviation records, weather data or later reconstitution point to a mundane cause.
 
@@ -1231,40 +1231,40 @@ That makes the French archive valuable but also easy to misread. A “D” class
 
 France’s modern UFO record begins with post-war waves similar to those seen elsewhere in the West, but with a particularly rich local press and gendarmerie trail. Reports from the 1950s include mass or multi-witness stories such as Oloron-Sainte-Marie in 1952 and Quarouble in 1954, both of which became part of French UFO folklore. They remain historically important because they show how the “flying saucer” frame entered regional reporting before any national scientific office existed.
 
-The 1965 Valensole case is more significant for the official archive. GEIPAN lists the 1 July 1965 Valensole case in Alpes-de-Haute-Provence as classification D, with the summary describing an unknown craft, a close encounter and traces on the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1990-11-01225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The 1965 Valensole case is more significant for the official archive. GEIPAN lists the 1 July 1965 Valensole case in Alpes-de-Haute-Provence as classification D, with the summary describing an unknown craft, a close encounter and traces on the ground.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/fr/cas/1990-11-01225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 Valensole has the ingredients that made French UFO cases famous: a rural witness, a daylight report, alleged landing traces, and a later struggle to separate sincerity from proof. Its evidential problem is also typical: the case is not easily dismissed as a simple light in the sky, but the surviving record does not allow a confident physical explanation either.
 
 ### 1977–1988: GEPAN turns UFO reports into a national technical problem
 
-GEPAN was created in 1977, after a period in which French public interest and report volumes had grown. A 2009 sceptical review notes that case reporting rose after the 1973–74 wave and that Claude Poher, GEPAN’s founder, had long lobbied inside CNES for a dedicated scientific study unit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
+GEPAN was created in 1977, after a period in which French public interest and report volumes had grown. A 2009 sceptical review notes that case reporting rose after the 1973–74 wave and that Claude Poher, GEPAN’s founder, had long lobbied inside CNES for a dedicated scientific study unit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
-This era created the structure still visible today: gendarmerie statements, local inquiry, witness sketches, technical notes, laboratory tests and classification. It also created the core tension of French UFO research. Supporters saw GEPAN as a rare state-backed attempt to treat anomalous reports seriously. Critics argued that some investigators were too sympathetic to exotic interpretations and too slow to exhaust ordinary ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
+This era created the structure still visible today: gendarmerie statements, local inquiry, witness sketches, technical notes, laboratory tests and classification. It also created the core tension of French UFO research. Supporters saw GEPAN as a rare state-backed attempt to treat anomalous reports seriously. Critics argued that some investigators were too sympathetic to exotic interpretations and too slow to exhaust ordinary ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eze1ikq-sMQ" title="The New Era in UFO Research with Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eze1ikq-sMQ" target="_blank" rel="noopener noreferrer">The New Era in UFO Research with Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 43.6K &middot; Uploaded: January 2023 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eze1ikq-sMQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eze1ikq-sMQ">Open on YouTube</a></p></div></div></div>
 
 ### 1981: Trans-en-Provence becomes the emblematic physical-trace case
 
-The Trans-en-Provence incident of 8 January 1981 remains France’s most cited official UFO case. GEIPAN’s case page says the witness described a grey, circular object, roughly 2.5 metres wide and 1.7 metres high, which appeared to land or hover briefly before departing. The gendarmerie interviewed the witness the next day, photographed the site and took soil and plant samples; GEPAN later arranged laboratory analyses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">2015 09 01 Spatial Point Pattern Analysis of the Unidentified</span><span class="citation-popover-snippet">2015 09 01 Spatial Point Pattern Analysis of the Unidentified</span></span></span>
+The Trans-en-Provence incident of 8 January 1981 remains France’s most cited official UFO case. GEIPAN’s case page says the witness described a grey, circular object, roughly 2.5 metres wide and 1.7 metres high, which appeared to land or hover briefly before departing. The gendarmerie interviewed the witness the next day, photographed the site and took soil and plant samples; GEPAN later arranged laboratory analyses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">2015 09 01 Spatial Point Pattern Analysis of the Unidentified</span><span class="citation-popover-snippet">2015 09 01 Spatial Point Pattern Analysis of the Unidentified</span></span></span>
 
-The official summary reports several unusual findings: significant soil compaction, slight deposits of iron and iron oxide, phosphates and zinc, possible combustion residues, heating below 600°C, and biochemical degradation in wild alfalfa samples correlated with distance from the trace. GEIPAN’s summary is careful: it says the analyses did not provide quantitative proof of the witness’s narrative, but concluded that an important unusual physical phenomenon occurred and that the inquiry did not determine its origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The official summary reports several unusual findings: significant soil compaction, slight deposits of iron and iron oxide, phosphates and zinc, possible combustion residues, heating below 600°C, and biochemical degradation in wild alfalfa samples correlated with distance from the trace. GEIPAN’s summary is careful: it says the analyses did not provide quantitative proof of the witness’s narrative, but concluded that an important unusual physical phenomenon occurred and that the inquiry did not determine its origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-That careful wording is why Trans-en-Provence is still contested. For UFO proponents, it is a rare case combining witness testimony, ground traces, prompt police involvement and laboratory work. For sceptics, it shows the risk of building too much on a single witness and ambiguous traces. The 2009 Skeptical Inquirer review argued that GEPAN too readily dismissed ordinary explanations and that some “Class D” files contained cases where simple hypotheses had not been properly tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
+That careful wording is why Trans-en-Provence is still contested. For UFO proponents, it is a rare case combining witness testimony, ground traces, prompt police involvement and laboratory work. For sceptics, it shows the risk of building too much on a single witness and ambiguous traces. The 2009 Skeptical Inquirer review argued that GEPAN too readily dismissed ordinary explanations and that some “Class D” files contained cases where simple hypotheses had not been properly tested.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
 ### 1990: the mass sighting that shows how France explains the spectacular
 
-On 5 November 1990, thousands of people across France saw a luminous phenomenon crossing the sky. GEIPAN’s official file classifies it as an A case: the atmospheric re-entry of the third stage of a Soviet Proton rocket. The CNES security services were flooded with calls from gendarmerie brigades, and witnesses described an immense luminous triangle crossing a large part of the country. NASA information received on 8 November, combined with CNES orbitography, confirmed the re-entry path from the Bay of Biscay towards Alsace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">export cas pub 20210219111412.csv</span><span class="citation-popover-snippet">export cas pub 20210219111412.csv</span></span></span>
+On 5 November 1990, thousands of people across France saw a luminous phenomenon crossing the sky. GEIPAN’s official file classifies it as an A case: the atmospheric re-entry of the third stage of a Soviet Proton rocket. The CNES security services were flooded with calls from gendarmerie brigades, and witnesses described an immense luminous triangle crossing a large part of the country. NASA information received on 8 November, combined with CNES orbitography, confirmed the re-entry path from the Bay of Biscay towards Alsace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">export cas pub 20210219111412.csv</span><span class="citation-popover-snippet">export cas pub 20210219111412.csv</span></span></span>
 
-This case is one of the best teaching examples in the French archive. Many witnesses interpreted a distant, high-altitude debris cloud as a low, structured object with multiple lights. GEIPAN explains this using well-known perception effects: the brain estimates distance from brightness, creates virtual contours around moving light points, and can make a faraway re-entry appear close, solid and craft-like. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">export cas pub 20251127093552.csv</span><span class="citation-popover-snippet">export cas pub 20251127093552.csv</span></span></span>
+This case is one of the best teaching examples in the French archive. Many witnesses interpreted a distant, high-altitude debris cloud as a low, structured object with multiple lights. GEIPAN explains this using well-known perception effects: the brain estimates distance from brightness, creates virtual contours around moving light points, and can make a faraway re-entry appear close, solid and craft-like.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">export cas pub 20251127093552.csv</span><span class="citation-popover-snippet">export cas pub 20251127093552.csv</span></span></span>
 
 The 1990 case is also a reminder that a mass sighting is not automatically a stronger UFO case. It can be stronger evidence for the event, but not necessarily for the witness interpretation. In this instance, many reports described a dramatic object; the underlying cause was a space-debris re-entry.
 
 <img src="{{ "/assets/images/France_e3772a-Illustration-2-dark.svg" | relative_url }}" alt="How France Investigates and Archives UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/France_e3772a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/France_e3772a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Region-level variation: where reports cluster and why
 
-France’s UFO reports are not evenly distributed. A spatial study using GEIPAN data from 1951 to 2013 counted 1,969 UAP observations in metropolitan France, excluding Corsica and ocean or Mediterranean observations for modelling reasons. It found that reports were spatially uneven: northern departments tended to report large numbers, as did departments containing major metropolitan areas such as Bouches-du-Rhône, Gironde and Isère. The same study cautioned that population alone did not fully explain the pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">journees etudes</span><span class="citation-popover-snippet">journees etudes</span></span></span>
+France’s UFO reports are not evenly distributed. A spatial study using GEIPAN data from 1951 to 2013 counted 1,969 UAP observations in metropolitan France, excluding Corsica and ocean or Mediterranean observations for modelling reasons. It found that reports were spatially uneven: northern departments tended to report large numbers, as did departments containing major metropolitan areas such as Bouches-du-Rhône, Gironde and Isère. The same study cautioned that population alone did not fully explain the pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">journees etudes</span><span class="citation-popover-snippet">journees etudes</span></span></span>
 
-This matters because “UFO hotspots” can be misleading. A cluster may reflect more witnesses, more night-time outdoor activity, more aviation, clearer skies, media attention, cultural willingness to report, or better local reporting pathways. The study considered covariates such as population density, airports, forests, wetlands, visibility conditions and even the density of already identified UAP cases, precisely because report geography may reflect social and observational conditions as much as any unusual external phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+This matters because “UFO hotspots” can be misleading. A cluster may reflect more witnesses, more night-time outdoor activity, more aviation, clearer skies, media attention, cultural willingness to report, or better local reporting pathways. The study considered covariates such as population density, airports, forests, wetlands, visibility conditions and even the density of already identified UAP cases, precisely because report geography may reflect social and observational conditions as much as any unusual external phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 The regional pattern also links France to sibling country studies in a useful way. Like the United States, Britain or Belgium, France shows that national reporting maps are partly maps of people, institutions and expectations. What makes France more useful is that GEIPAN’s archive allows researchers to compare explained, poorly documented and still-unidentified cases within the same national reporting system.
 
@@ -1272,11 +1272,11 @@ The regional pattern also links France to sibling country studies in a useful wa
 
 The most reliable way to read French UFO material is not to ask whether a case is “real” or “fake”, but to separate the status of the event from the status of the interpretation.
 
-**Confirmed or strongly explained cases** are those where the reported experience is accepted but the cause is identified. The 5 November 1990 event is the clearest example: witnesses genuinely saw something spectacular, but GEIPAN classifies it as a confirmed atmospheric re-entry. GEIPAN’s own explanatory pages also use cases such as a C-130 Hercules aircraft being perceived as a saucer or huge triangle to show how aircraft lighting, viewing geometry and motion can generate high-strangeness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Memoire_gonin_1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+**Confirmed or strongly explained cases** are those where the reported experience is accepted but the cause is identified. The 5 November 1990 event is the clearest example: witnesses genuinely saw something spectacular, but GEIPAN classifies it as a confirmed atmospheric re-entry. GEIPAN’s own explanatory pages also use cases such as a C-130 Hercules aircraft being perceived as a saucer or huge triangle to show how aircraft lighting, viewing geometry and motion can generate high-strangeness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Memoire_gonin_1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-**Contested cases** are those where GEIPAN leaves the phenomenon unidentified after investigation, but the interpretation remains disputed. Valensole and Trans-en-Provence sit here. They are not weak in the same way as vague one-witness lights; they include location, narrative and alleged traces. Yet they also lack the independent instrumental confirmation that would turn them into robust evidence for an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+**Contested cases** are those where GEIPAN leaves the phenomenon unidentified after investigation, but the interpretation remains disputed. Valensole and Trans-en-Provence sit here. They are not weak in the same way as vague one-witness lights; they include location, narrative and alleged traces. Yet they also lack the independent instrumental confirmation that would turn them into robust evidence for an unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
-**Debunked or downgraded claims** include cases later shown to involve ordinary sources, hoaxes, or flawed classification. The 2009 sceptical review argued that some French D cases had simple candidate explanations such as Venus, the Moon, aircraft, balloons, electrical arcs or atmospheric re-entry, and criticised the older official process for not always revisiting conclusions when new information appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
+**Debunked or downgraded claims** include cases later shown to involve ordinary sources, hoaxes, or flawed classification. The 2009 sceptical review argued that some French D cases had simple candidate explanations such as Venus, the Moon, aircraft, balloons, electrical arcs or atmospheric re-entry, and criticised the older official process for not always revisiting conclusions when new information appeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
 This three-way split is more useful than a believer-versus-sceptic frame. France’s archive contains sincere reports of real perceptions, many identified causes, a smaller body of genuinely unresolved files, and a contested borderland where methods and assumptions matter.
 
@@ -1284,11 +1284,11 @@ This three-way split is more useful than a believer-versus-sceptic frame. France
 
 ## The public archive changed the debate
 
-In 2007, CNES began opening its UFO archives online. CORDIS reported that France’s space agency had become the first national body to open such archives, initially making available a quarter of roughly 1,600 cases collected over 30 years. Reuters also reported that the archive would be published while withholding witness names to protect privacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cordis.europa.eu/article/id/27439-france-opens-ufo-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cordis.europa.eu">[CORDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cordis.europa.eu</span><span class="citation-popover-title">CORDISFrance opens UFO archives &#124; News</span><span class="citation-popover-snippet">CORDISFrance opens UFO archives &#124; News</span></span></span>
+In 2007, CNES began opening its UFO archives online. CORDIS reported that France’s space agency had become the first national body to open such archives, initially making available a quarter of roughly 1,600 cases collected over 30 years. Reuters also reported that the archive would be published while withholding witness names to protect privacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cordis.europa.eu/article/id/27439-france-opens-ufo-archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cordis.europa.eu">[CORDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cordis.europa.eu</span><span class="citation-popover-title">CORDISFrance opens UFO archives &#124; News</span><span class="citation-popover-snippet">CORDISFrance opens UFO archives &#124; News</span></span></span>
 
-The release had two effects. First, it made France a reference point for international UAP transparency. FlightGlobal reported at the time that GEIPAN planned to reveal more than 100,000 documents, including police reports, witness statements and drawings, and that public demand overwhelmed the site when it went live. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightglobal.com/france-to-put-ufos-on-line/72966.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightglobal.com">[Flight Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightglobal.com</span><span class="citation-popover-title">Flight Global France to put UFOs on-line</span><span class="citation-popover-snippet">Flight Global France to put UFOs on-line</span></span></span>
+The release had two effects. First, it made France a reference point for international UAP transparency. FlightGlobal reported at the time that GEIPAN planned to reveal more than 100,000 documents, including police reports, witness statements and drawings, and that public demand overwhelmed the site when it went live.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightglobal.com/france-to-put-ufos-on-line/72966.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightglobal.com">[Flight Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightglobal.com</span><span class="citation-popover-title">Flight Global France to put UFOs on-line</span><span class="citation-popover-snippet">Flight Global France to put UFOs on-line</span></span></span>
 
-Second, transparency made criticism easier. Once the files were public, independent reviewers could test whether the “unexplained” category was being used consistently. The Skeptical Inquirer review argued that many older D cases did not support extraterrestrial claims and that methodological weaknesses had inflated the mystery category. It also noted that, after critical scrutiny, GEIPAN had begun correcting some assessments and that the proportion of new D cases had dropped. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
+Second, transparency made criticism easier. Once the files were public, independent reviewers could test whether the “unexplained” category was being used consistently. The Skeptical Inquirer review argued that many older D cases did not support extraterrestrial claims and that methodological weaknesses had inflated the mystery category. It also noted that, after critical scrutiny, GEIPAN had begun correcting some assessments and that the proportion of new D cases had dropped.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
 This is one of the strongest arguments for the French model: not that it proves extraordinary objects, but that public archiving allows cases to be rechecked, challenged and revised.
 
@@ -1298,203 +1298,203 @@ This is one of the strongest arguments for the French model: not that it proves 
 
 The French record points to a sober conclusion. UFO phenomena in France are real as reports, experiences, police files, traces, photographs, sketches, local memories and institutional work. They are not, on the public evidence currently available, proof of extraterrestrial visitation.
 
-GEIPAN’s own statistics show that most cases are identified or probably identified, and that a large share of the remainder are limited by insufficient data rather than deep mystery. The genuinely unexplained after investigation category is small, around 3% in current public statistics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">memoire JJV 1983</span><span class="citation-popover-snippet">memoire JJV 1983</span></span></span>
+GEIPAN’s own statistics show that most cases are identified or probably identified, and that a large share of the remainder are limited by insufficient data rather than deep mystery. The genuinely unexplained after investigation category is small, around 3% in current public statistics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">memoire JJV 1983</span><span class="citation-popover-snippet">memoire JJV 1983</span></span></span>
 
-The cases that still matter most are not the most spectacular rumours, but the ones where documentation is unusually good: prompt gendarmerie records, multiple independent witnesses, photographs with known provenance, radar or astronomical checks, physical samples, and a clear chain of custody. Trans-en-Provence remains important because it comes closer to that standard than most cases, even though it is still disputed. The 1990 re-entry remains important for the opposite reason: it shows how a well-documented spectacular sighting can be fully explained without dismissing the witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/02_MUNSCH_full.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
+The cases that still matter most are not the most spectacular rumours, but the ones where documentation is unusually good: prompt gendarmerie records, multiple independent witnesses, photographs with known provenance, radar or astronomical checks, physical samples, and a clear chain of custody. Trans-en-Provence remains important because it comes closer to that standard than most cases, even though it is still disputed. The 1990 re-entry remains important for the opposite reason: it shows how a well-documented spectacular sighting can be fully explained without dismissing the witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/02_MUNSCH_full.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
 France therefore offers one of the clearest lessons in the wider country-by-country UFO project: a strong archive does not make the mystery disappear, but it changes the quality of the conversation. Instead of relying only on folklore, enthusiasts and sceptics can argue over documents, classifications, methods, [regional patterns]({{ 'regional-patterns-4d5198/' | relative_url }}) and specific cases. That is France’s real contribution to UFO research.
 
 <img src="{{ "/assets/images/France_e3772a-Illustration-3-dark.svg" | relative_url }}" alt="How France Investigates and Archives UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/France_e3772a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/France_e3772a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How France Investigates and Archives UFO Phenomena. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How France Investigates and Archives UFO Phenomena. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly connected to the French UFO research tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connected to the French UFO research tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains investigative categories and evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains investigative categories and evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Matches France&#x27;s focus on official archives and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches France&#x27;s focus on official archives and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits France&#x27;s emphasis on documented official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits France&#x27;s emphasis on documented official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-france-investigates-and-archives-ufo-phenomena-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-france-investigates-and-archives-ufo-phenomena-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1510,7 +1510,7 @@ France therefore offers one of the clearest lessons in the wider country-by-coun
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1530,7 +1530,7 @@ France therefore offers one of the clearest lessons in the wider country-by-coun
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1562,7 +1562,7 @@ France therefore offers one of the clearest lessons in the wider country-by-coun
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1614,7 +1614,7 @@ France therefore offers one of the clearest lessons in the wider country-by-coun
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1659,7 +1659,7 @@ France therefore offers one of the clearest lessons in the wider country-by-coun
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1697,203 +1697,202 @@ France therefore offers one of the clearest lessons in the wider country-by-coun
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cnes.fr  
    Title: GEIPAN | CNES  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/stats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/stats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/stats</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cnes-geipan.fr  
    Title: Mission & Geipan | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1965-07-00050" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1965-07-00050</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/1965-07-00050" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1965-07-00050</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/46692</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/46692</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1981-01-00849</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/1981-01-00849" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1981-01-00849</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/cas/1990-11-01225" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1990-11-01225</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/cas/1990-11-01225" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/cas/1990-11-01225</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cnes-geipan.fr  
    Title: 2015 09 01 Spatial Point Pattern Analysis of the Unidentified  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/2015-09-01_Spatial_Point_Pattern_Analysis_of_the_Unidentified.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cordis.europa.eu  
    Title: CORDISFrance opens UFO archives | News  
-   Link: <a href="https://cordis.europa.eu/article/id/27439-france-opens-ufo-archives" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/article/id/27439-france-opens-ufo-archives</a>  
+   Link:<a href="https://cordis.europa.eu/article/id/27439-france-opens-ufo-archives" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/article/id/27439-france-opens-ufo-archives</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reuters.com  
    Title: french space agency to publish ufo archive online idUSL29796180  
-   Link: <a href="https://www.reuters.com/article/technology/french-space-agency-to-publish-ufo-archive-online-idUSL29796180/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/technology/french-space-agency-to-publish-ufo-archive-online-idUSL29796180/</a>  
+   Link:<a href="https://www.reuters.com/article/technology/french-space-agency-to-publish-ufo-archive-online-idUSL29796180/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/technology/french-space-agency-to-publish-ufo-archive-online-idUSL29796180/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: flightglobal.com  
    Title: Flight Global France to put UFOs on-line  
-   Link: <a href="https://www.flightglobal.com/france-to-put-ufos-on-line/72966.article" target="_blank" rel="noopener noreferrer nofollow">https://www.flightglobal.com/france-to-put-ufos-on-line/72966.article</a>  
+   Link:<a href="https://www.flightglobal.com/france-to-put-ufos-on-line/72966.article" target="_blank" rel="noopener noreferrer nofollow">https://www.flightglobal.com/france-to-put-ufos-on-line/72966.article</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/sites/default/files/2026-01/cnesmag-99-en_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/sites/default/files/2026-01/cnesmag-99-en_0.pdf</a>  
+   Link:<a href="https://cnes.fr/sites/default/files/2026-01/cnesmag-99-en_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/sites/default/files/2026-01/cnesmag-99-en_0.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cnes-geipan.fr  
    Title: export cas pub 20210219111412.csv  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20210219111412.csv</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cnes-geipan.fr  
    Title: export cas pub 20251127093552.csv  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/save_json_import_files/export_cas_pub_20251127093552.csv</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cnes-geipan.fr  
    Title: journees etudes  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/journees_etudes.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/PV%20n%C2%B0351%20%281994310452%29.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Memoire_gonin_1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Memoire_gonin_1998.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/Memoire_gonin_1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Memoire_gonin_1998.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/symposium_san_marino.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cnes-geipan.fr  
    Title: memoire JJV 1983  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/memoire_JJV_1983.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/02_MUNSCH_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/02_MUNSCH_full.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/02_MUNSCH_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/02_MUNSCH_full.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=Valensole" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=Valensole</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=Valensole" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas/tab?field_agregation_index_value=Valensole</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/search/cas?field_agregation_index_value=Valensole" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/search/cas?field_agregation_index_value=Valensole</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/search/cas?field_agregation_index_value=Valensole" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/search/cas?field_agregation_index_value=Valensole</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://cnes-geipan.fr/fr/recherche/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=%2C550&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/recherche/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=%2C550&amp;sort=desc</a>  
+   Link:<a href="https://cnes-geipan.fr/fr/recherche/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=%2C550&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/fr/recherche/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=%2C550&amp;sort=desc</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=c&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=127&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=c&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=127&amp;sort=asc</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=c&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=127&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=c&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=127&amp;sort=asc</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=44.84966668863838&amp;customGetLongitude=2.70263671875&amp;customGetZoom=5&amp;field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=53.77468884583577&amp;field_latitude_value%5Bmin%5D=35.92464453144099&amp;field_longitude_value%5Bmax%5D=15.556640625000002&amp;field_longitude_value%5Bmin%5D=-10.151367187500002&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=%2C2&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=44.84966668863838&amp;customGetLongitude=2.70263671875&amp;customGetZoom=5&amp;field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=53.77468884583577&amp;field_latitude_value%5Bmin%5D=35.92464453144099&amp;field_longitude_value%5Bmax%5D=15.556640625000002&amp;field_longitude_value%5Bmin%5D=-10.151367187500002&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=%2C2&amp;sort=asc</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=44.84966668863838&amp;customGetLongitude=2.70263671875&amp;customGetZoom=5&amp;field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=53.77468884583577&amp;field_latitude_value%5Bmin%5D=35.92464453144099&amp;field_longitude_value%5Bmax%5D=15.556640625000002&amp;field_longitude_value%5Bmin%5D=-10.151367187500002&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=%2C2&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?customGetLattitude=44.84966668863838&amp;customGetLongitude=2.70263671875&amp;customGetZoom=5&amp;field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=53.77468884583577&amp;field_latitude_value%5Bmin%5D=35.92464453144099&amp;field_longitude_value%5Bmax%5D=15.556640625000002&amp;field_longitude_value%5Bmin%5D=-10.151367187500002&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_departement_textuel&amp;page=%2C2&amp;sort=asc</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://cnes-geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=%2C547&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=%2C547&amp;sort=desc</a>  
+   Link:<a href="https://cnes-geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=%2C547&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://cnes-geipan.fr/en/search/cas?field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_classification_des_cas&amp;page=%2C547&amp;sort=desc</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/recherche/cas?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=13&amp;field_classification_des_cas_target_id%5B1%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=%2C175&amp;select-category-export=nothing&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=13&amp;field_classification_des_cas_target_id%5B1%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=%2C175&amp;select-category-export=nothing&amp;sort=asc</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=13&amp;field_classification_des_cas_target_id%5B1%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=%2C175&amp;select-category-export=nothing&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=13&amp;field_classification_des_cas_target_id%5B1%5D=14&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=field_date&amp;page=%2C175&amp;select-category-export=nothing&amp;sort=asc</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=%C3%A9toile&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=2%2C27&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=%C3%A9toile&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=2%2C27&amp;select-category-export=nothing&amp;sort=desc</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=%C3%A9toile&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=2%2C27&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=%C3%A9toile&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_date_value=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_is_new_value=All&amp;field_is_revisited_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=2%2C27&amp;select-category-export=nothing&amp;sort=desc</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=14&amp;field_classification_des_cas_target_id%5B1%5D=15&amp;field_classification_des_cas_target_id%5B2%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=%2C3&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=14&amp;field_classification_des_cas_target_id%5B1%5D=15&amp;field_classification_des_cas_target_id%5B2%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=%2C3&amp;select-category-export=nothing&amp;sort=desc</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=14&amp;field_classification_des_cas_target_id%5B1%5D=15&amp;field_classification_des_cas_target_id%5B2%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=%2C3&amp;select-category-export=nothing&amp;sort=desc" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas/tab?field_agregation_index_value=&amp;field_classification_des_cas_target_id%5B0%5D=14&amp;field_classification_des_cas_target_id%5B1%5D=15&amp;field_classification_des_cas_target_id%5B2%5D=16&amp;field_date_d_observation_value%5Bmax%5D=&amp;field_date_d_observation_value%5Bmin%5D=&amp;field_departement_target_id=&amp;field_document_existe_ou_pas_value=All&amp;field_latitude_value%5Bmax%5D=&amp;field_latitude_value%5Bmin%5D=&amp;field_longitude_value%5Bmax%5D=&amp;field_longitude_value%5Bmin%5D=&amp;field_phenomene_target_id=&amp;field_type_de_cas_target_id=All&amp;order=title&amp;page=%2C3&amp;select-category-export=nothing&amp;sort=desc</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/recherche/cas" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/recherche/cas" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/recherche/cas</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/recherche/cas" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/recherche/cas" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/recherche/cas</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58791</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58791</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: geipan.fr  
-   Link: <a href="https://geipan.fr/en/search/cas?field_date_value=2026-01-27&amp;field_is_new_value=1&amp;page=%2C8" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/search/cas?field_date_value=2026-01-27&amp;field_is_new_value=1&amp;page=%2C8</a>  
+   Link:<a href="https://geipan.fr/en/search/cas?field_date_value=2026-01-27&amp;field_is_new_value=1&amp;page=%2C8" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/en/search/cas?field_date_value=2026-01-27&amp;field_is_new_value=1&amp;page=%2C8</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hn2xTieploU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting France&#x27;s UFO detectives • FRANCE 24 English...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hn2xTieploU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hn2xTieploU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meeting France&#x27;s UFO detectives • FRANCE 24 English...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bbcindia/posts/american-authorities-have-examined-around-800-mysterious-reports-of-unidentified/6608211255889848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcindia/posts/american-authorities-have-examined-around-800-mysterious-reports-of-unidentified/6608211255889848/</a>  
+   Link:<a href="https://www.facebook.com/bbcindia/posts/american-authorities-have-examined-around-800-mysterious-reports-of-unidentified/6608211255889848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcindia/posts/american-authorities-have-examined-around-800-mysterious-reports-of-unidentified/6608211255889848/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/MapPorn/comments/1thusij/europes_ufo_reports_map/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/1thusij/europes_ufo_reports_map/</a>  
+   Link:<a href="https://www.reddit.com/r/MapPorn/comments/1thusij/europes_ufo_reports_map/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MapPorn/comments/1thusij/europes_ufo_reports_map/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g8r537/france_24_reporting_about_geipan_the_unit_of_the/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/</a>  
+   Link:<a href="https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/southwestfrance/posts/1342464920438589/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXlnqpQGcRt/?hl=fr&amp;img_index=8" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXlnqpQGcRt/?hl=fr&amp;img_index=8</a>  
+   Link:<a href="https://www.instagram.com/p/DXlnqpQGcRt/?hl=fr&amp;img_index=8" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXlnqpQGcRt/?hl=fr&amp;img_index=8</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVT0i1WCXOF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVT0i1WCXOF/</a>  
+   Link:<a href="https://www.instagram.com/p/DVT0i1WCXOF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVT0i1WCXOF/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TerribleMaps/posts/reported-ufo-sightings-across-europe/977071551747969/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TerribleMaps/posts/reported-ufo-sightings-across-europe/977071551747969/</a>
+   Link:<a href="https://www.facebook.com/TerribleMaps/posts/reported-ufo-sightings-across-europe/977071551747969/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TerribleMaps/posts/reported-ufo-sightings-across-europe/977071551747969/</a>

@@ -286,7 +286,7 @@ The result is not a large body of genuine UFO claims, but a recurring cycle in w
 
 ### Emergency Landing That Became a Conspiracy Narrative
 
-The clearest modern example emerged in December 2025, when a Nigerian Air Force C-130 transport aircraft made an emergency landing in Bobo-Dioulasso after entering Burkinabè airspace without prior clearance. Nigerian authorities said the aircraft diverted because of a technical problem while travelling to Portugal. Burkina Faso and the Alliance of Sahel States treated the incident as a serious security breach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite earlier reports indicating they had been released, Nigerian officials confirm that negotiations are still ongoing. A foreign mini...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/8b24c70d69bcf199809b4061d0a240f0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The unexpected landing was deemed a violation of airspace by the Alliance of Sahel States – composed of Burkina Faso, Mali, and Niger – p...</span></span></span>
+The clearest modern example emerged in December 2025, when a Nigerian Air Force C-130 transport aircraft made an emergency landing in Bobo-Dioulasso after entering Burkinabè airspace without prior clearance. Nigerian authorities said the aircraft diverted because of a technical problem while travelling to Portugal. Burkina Faso and the Alliance of Sahel States treated the incident as a serious security breach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite earlier reports indicating they had been released, Nigerian officials confirm that negotiations are still ongoing. A foreign mini...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/8b24c70d69bcf199809b4061d0a240f0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The unexpected landing was deemed a violation of airspace by the Alliance of Sahel States – composed of Burkina Faso, Mali, and Niger – p...</span></span></span>
 
 Because the event occurred during heightened tensions between ECOWAS-aligned governments and the Sahel military juntas, online narratives escalated rapidly. Social media users and politically aligned commentators claimed the aircraft was:
 
@@ -301,7 +301,7 @@ Because the event occurred during heightened tensions between ECOWAS-aligned gov
 
 Some fringe discussions even described the aircraft in language normally associated with UFO narratives, portraying it as a “mysterious unidentified aircraft” intercepted under suspicious circumstances.
 
-However, all credible reporting identified the aircraft as a conventional Nigerian military transport plane. International reporting from AP and The Guardian consistently described the event as an emergency aviation and diplomatic incident rather than an unexplained aerial phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/8b24c70d69bcf199809b4061d0a240f0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The unexpected landing was deemed a violation of airspace by the Alliance of Sahel States – composed of Burkina Faso, Mali, and Niger – p...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite earlier reports indicating they had been released, Nigerian officials confirm that negotiations are still ongoing. A foreign mini...</span></span></span>
+However, all credible reporting identified the aircraft as a conventional Nigerian military transport plane. International reporting from AP and The Guardian consistently described the event as an emergency aviation and diplomatic incident rather than an unexplained aerial phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/8b24c70d69bcf199809b4061d0a240f0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The unexpected landing was deemed a violation of airspace by the Alliance of Sahel States – composed of Burkina Faso, Mali, and Niger – p...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Despite earlier reports indicating they had been released, Nigerian officials confirm that negotiations are still ongoing. A foreign mini...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IA-RuVHJsew" title="Nigerian Military Aircraft Released, Yet To Depart Burkina Faso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IA-RuVHJsew" target="_blank" rel="noopener noreferrer">Nigerian Military Aircraft Released, Yet To Depart Burkina Faso</a></p><p class="youtube-embed-meta">Channel: TVC News Nigeria &middot; Views: 2.7K &middot; Uploaded: December 2025 &middot; Length: 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IA-RuVHJsew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IA-RuVHJsew">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +309,7 @@ However, all credible reporting identified the aircraft as a conventional Nigeri
 
 The case became a textbook example of how aviation incidents mutate online in the Sahel information environment.
 
-Security analysts and regional reporting outlets later criticised the viral claims as fabricated propaganda. One widely circulated rebuttal described the espionage narrative as “bad fiction” designed to inflame nationalist sentiment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zagazola.org/index.php/breaking-news/aes-propaganda-unravels-facts-expose-false-claims-over-nigerian-military-aircraft-in-burkina-faso" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zagazola.org">[ZAgazola]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zagazola.org</span><span class="citation-popover-snippet">bad fiction, poorly written and embarrassingly detached from reality.... The idea that Abuja would risk diplomatic rupture, regional ins...</span></span></span>
+Security analysts and regional reporting outlets later criticised the viral claims as fabricated propaganda. One widely circulated rebuttal described the espionage narrative as “bad fiction” designed to inflame nationalist sentiment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zagazola.org/index.php/breaking-news/aes-propaganda-unravels-facts-expose-false-claims-over-nigerian-military-aircraft-in-burkina-faso" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zagazola.org">[ZAgazola]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zagazola.org</span><span class="citation-popover-snippet">bad fiction, poorly written and embarrassingly detached from reality.... The idea that Abuja would risk diplomatic rupture, regional ins...</span></span></span>
 
 Several features made the incident especially vulnerable to sensational reinterpretation:
 
@@ -331,7 +331,7 @@ In UFO-related discussions, this kind of ambiguity often becomes enough to trigg
 
 In 2022, reports circulated in Burkina Faso about a “mysterious” clandestine landing strip allegedly discovered in the Sahel region. Local media and online discussion framed the runway as suspicious and potentially connected to armed groups operating in remote territory.
 
-The government acknowledged reports about the airstrip and said investigations were under way. Contemporary coverage treated the issue as a security matter involving possible militant logistics or smuggling routes rather than an unexplained aerial event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aa.com.tr/en/africa/burkina-faso-accuses-france-of-serious-breach-after-suspension-of-flights/2965436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.com.tr">[Anadolu Ajansı]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.com.tr</span><span class="citation-popover-title">Anadolu AjansıBurkina Faso accuses France of &#x27;serious breach&#x27; after</span><span class="citation-popover-snippet">August 10, 2023 — 10 Aug 2023 — Burkina Faso&#x27;s National Civil Aviation Agency on Thursday expressed concern over the suspension of flight...</span><span class="citation-popover-meta">Published: August 10, 2023</span></span></span>
+The government acknowledged reports about the airstrip and said investigations were under way. Contemporary coverage treated the issue as a security matter involving possible militant logistics or smuggling routes rather than an unexplained aerial event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aa.com.tr/en/africa/burkina-faso-accuses-france-of-serious-breach-after-suspension-of-flights/2965436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.com.tr">[Anadolu Ajansı]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.com.tr</span><span class="citation-popover-title">Anadolu AjansıBurkina Faso accuses France of &#x27;serious breach&#x27; after</span><span class="citation-popover-snippet">August 10, 2023 — 10 Aug 2023 — Burkina Faso&#x27;s National Civil Aviation Agency on Thursday expressed concern over the suspension of flight...</span><span class="citation-popover-meta">Published: August 10, 2023</span></span></span>
 
 Yet online retellings gradually transformed the story. In some social media discussions, the supposed runway became linked to claims about:
 
@@ -363,7 +363,7 @@ The same mechanism appears in conflict zones elsewhere in the Sahel, where milit
 
 ### Viral Narratives Outpace Verified Information
 
-Burkina Faso’s broader information environment has become increasingly shaped by disinformation campaigns, manipulated videos and politically motivated online narratives. Researchers and journalists have documented extensive use of fabricated or AI-generated media connected to Burkinabè politics and security affairs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://disinfo.africa/deepfakes-and-propaganda-used-to-glorify-burkina-fasos-traor%C3%A9-83bf59499714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfo.africa">[African Digital Democracy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfo.africa</span><span class="citation-popover-snippet">African Digital Democracy ObservatoryDeepfakes and propaganda used to glorify Burkina Faso&#x27;s...September 11, 2025 — 26 Aug 2025 — Since...</span><span class="citation-popover-meta">Published: September 11, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fpri.org/article/2025/06/burkina-faso-the-worlds-disinformation-lab-is-an-international-security-disaster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fpri.org">[Foreign Policy Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fpri.org</span><span class="citation-popover-title">burkina faso the worlds disinformation lab is an international security disaster</span><span class="citation-popover-snippet">The country is considered to be the epicenter of global terrorism today. It is ranked number one on the Global...</span></span></span>
+Burkina Faso’s broader information environment has become increasingly shaped by disinformation campaigns, manipulated videos and politically motivated online narratives. Researchers and journalists have documented extensive use of fabricated or AI-generated media connected to Burkinabè politics and security affairs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://disinfo.africa/deepfakes-and-propaganda-used-to-glorify-burkina-fasos-traor%C3%A9-83bf59499714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfo.africa">[African Digital Democracy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfo.africa</span><span class="citation-popover-snippet">African Digital Democracy ObservatoryDeepfakes and propaganda used to glorify Burkina Faso&#x27;s...September 11, 2025 — 26 Aug 2025 — Since...</span><span class="citation-popover-meta">Published: September 11, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fpri.org/article/2025/06/burkina-faso-the-worlds-disinformation-lab-is-an-international-security-disaster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fpri.org">[Foreign Policy Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fpri.org</span><span class="citation-popover-title">burkina faso the worlds disinformation lab is an international security disaster</span><span class="citation-popover-snippet">The country is considered to be the epicenter of global terrorism today. It is ranked number one on the Global...</span></span></span>
 
 That environment creates ideal conditions for aviation myths.
 
@@ -386,7 +386,7 @@ The mechanism is usually social rather than observational. The original event ma
 
 A recurring feature in Burkina Faso aviation rumours is the belief that foreign powers are secretly operating inside the country’s airspace.
 
-France is the most common target of such claims because of its long military presence in the Sahel. Russian-linked and anti-Western media ecosystems have also amplified narratives about hidden foreign aircraft and covert operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fpri.org/article/2025/06/burkina-faso-the-worlds-disinformation-lab-is-an-international-security-disaster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fpri.org">[Foreign Policy Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fpri.org</span><span class="citation-popover-title">burkina faso the worlds disinformation lab is an international security disaster</span><span class="citation-popover-snippet">The country is considered to be the epicenter of global terrorism today. It is ranked number one on the Global...</span></span></span>
+France is the most common target of such claims because of its long military presence in the Sahel. Russian-linked and anti-Western media ecosystems have also amplified narratives about hidden foreign aircraft and covert operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fpri.org/article/2025/06/burkina-faso-the-worlds-disinformation-lab-is-an-international-security-disaster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fpri.org">[Foreign Policy Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fpri.org</span><span class="citation-popover-title">burkina faso the worlds disinformation lab is an international security disaster</span><span class="citation-popover-snippet">The country is considered to be the epicenter of global terrorism today. It is ranked number one on the Global...</span></span></span>
 
 These claims occasionally drift into UFO-adjacent language, particularly when the aircraft involved are:
 
@@ -428,194 +428,194 @@ The 2025 Nigerian aircraft diversion and the 2022 clandestine airstrip rumours b
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FJ5mW53llH8" title="Former Navy pilot who encountered UFO weighs in on new batch of Pentagon files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FJ5mW53llH8" target="_blank" rel="noopener noreferrer">Former Navy pilot who encountered UFO weighs in on new batch of Pentagon files</a></p><p class="youtube-embed-meta">Channel: Face the Nation &middot; Views: 29.8K &middot; Uploaded: May 2026 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FJ5mW53llH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FJ5mW53llH8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Aviation and Security Events Are Misinterpreted as UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Aviation and Security Events Are Misinterpreted as UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how sightings are classified and investigated rather than assumed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how sightings are classified and investigated rather than assumed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Explores military, intelligence and reporting structures behind UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military, intelligence and reporting structures behind UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evaluating aerial reports against aviation and military evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating aerial reports against aviation and military evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows how advanced aircraft programs can fuel speculation and secrecy narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how advanced aircraft programs can fuel speculation and secrecy narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-aviation-and-security-events-are-misinterpreted-as-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -631,7 +631,7 @@ The 2025 Nigerian aircraft diversion and the 2022 clandestine airstrip rumours b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -651,7 +651,7 @@ The 2025 Nigerian aircraft diversion and the 2022 clandestine airstrip rumours b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -683,7 +683,7 @@ The 2025 Nigerian aircraft diversion and the 2022 clandestine airstrip rumours b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -735,7 +735,7 @@ The 2025 Nigerian aircraft diversion and the 2022 clandestine airstrip rumours b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -780,7 +780,7 @@ The 2025 Nigerian aircraft diversion and the 2022 clandestine airstrip rumours b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -818,136 +818,135 @@ The 2025 Nigerian aircraft diversion and the 2022 clandestine airstrip rumours b
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: zagazola.org  
-   Link: <a href="https://zagazola.org/index.php/breaking-news/aes-propaganda-unravels-facts-expose-false-claims-over-nigerian-military-aircraft-in-burkina-faso" target="_blank" rel="noopener noreferrer nofollow">https://zagazola.org/index.php/breaking-news/aes-propaganda-unravels-facts-expose-false-claims-over-nigerian-military-aircraft-in-burkina-faso</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bad fiction, poorly written and embarrassingly detached from reality.... The idea that Abuja would risk diplomatic rupture, regional ins...</p></details>
+   Link:<a href="https://zagazola.org/index.php/breaking-news/aes-propaganda-unravels-facts-expose-false-claims-over-nigerian-military-aircraft-in-burkina-faso" target="_blank" rel="noopener noreferrer nofollow">https://zagazola.org/index.php/breaking-news/aes-propaganda-unravels-facts-expose-false-claims-over-nigerian-military-aircraft-in-burkina-faso</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bad fiction, poorly written and embarrassingly detached from reality.... The idea that Abuja would risk diplomatic rupture, regional ins...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kwadwosheldon/posts/residents-of-paga-in-the-upper-east-region-are-alarmed-after-a-mysterious-aircra/1422527599237655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kwadwosheldon/posts/residents-of-paga-in-the-upper-east-region-are-alarmed-after-a-mysterious-aircra/1422527599237655/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sensitive data on Burkina Faso&#x27;s defense devices. This...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/kwadwosheldon/posts/residents-of-paga-in-the-upper-east-region-are-alarmed-after-a-mysterious-aircra/1422527599237655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kwadwosheldon/posts/residents-of-paga-in-the-upper-east-region-are-alarmed-after-a-mysterious-aircra/1422527599237655/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sensitive data on Burkina Faso&#x27;s defense devices. This...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
    Title: the bokoharam propaganda video claiming they shutdown naf aircraft in nigeria is  
-   Link: <a href="https://www.facebook.com/willyibimina.jimgeorge/posts/the-bokoharam-propaganda-video-claiming-they-shutdown-naf-aircraft-in-nigeria-is/2865712793709169/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/willyibimina.jimgeorge/posts/the-bokoharam-propaganda-video-claiming-they-shutdown-naf-aircraft-in-nigeria-is/2865712793709169/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>💥The Bokoharam Propaganda Video Claiming They...... 2025, thereby exposing their poor coordination and dishonest intentions.... NAF deb...</p></details>
+   Link:<a href="https://www.facebook.com/willyibimina.jimgeorge/posts/the-bokoharam-propaganda-video-claiming-they-shutdown-naf-aircraft-in-nigeria-is/2865712793709169/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/willyibimina.jimgeorge/posts/the-bokoharam-propaganda-video-claiming-they-shutdown-naf-aircraft-in-nigeria-is/2865712793709169/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>💥The Bokoharam Propaganda Video Claiming They...... 2025, thereby exposing their poor coordination and dishonest intentions.... NAF deb...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
    Title: misinformation deepens divides in burkina faso  
-   Link: <a href="https://www.facebook.com/VOAAfrica/videos/misinformation-deepens-divides-in-burkina-faso/1332163041120622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VOAAfrica/videos/misinformation-deepens-divides-in-burkina-faso/1332163041120622/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2025 — From security to politics, the spread of false information is a constant threat in Burkina Faso. Gildas Da has a look...</p></details>
+   Link:<a href="https://www.facebook.com/VOAAfrica/videos/misinformation-deepens-divides-in-burkina-faso/1332163041120622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VOAAfrica/videos/misinformation-deepens-divides-in-burkina-faso/1332163041120622/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2025 — From security to politics, the spread of false information is a constant threat in Burkina Faso. Gildas Da has a look...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/foreignaffairsnigeria/posts/arrival-of-the-nigerian-military-aircraft-at-the-air-force-base-in-accra-ghana-a/1166357802338191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foreignaffairsnigeria/posts/arrival-of-the-nigerian-military-aircraft-at-the-air-force-base-in-accra-ghana-a/1166357802338191/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Big Nigerian shouldn&#x27;t find it difficult ending... aircraft in Bobo-Dioulasso on 8 December 2025. The aircraft...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/foreignaffairsnigeria/posts/arrival-of-the-nigerian-military-aircraft-at-the-air-force-base-in-accra-ghana-a/1166357802338191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foreignaffairsnigeria/posts/arrival-of-the-nigerian-military-aircraft-at-the-air-force-base-in-accra-ghana-a/1166357802338191/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Big Nigerian shouldn&#x27;t find it difficult ending... aircraft in Bobo-Dioulasso on 8 December 2025. The aircraft...Read more...</p></details>
    Published: December 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2941554799427091/posts/3839999029582659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2941554799427091/posts/3839999029582659/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>False News about Burkina Faso on Social MediaDebunking the Claim of Burkina Faso&#x27;s President Rejecting Saudi Mosque Offer. Lucky Kutsanzi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2941554799427091/posts/3839999029582659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2941554799427091/posts/3839999029582659/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False News about Burkina Faso on Social MediaDebunking the Claim of Burkina Faso&#x27;s President Rejecting Saudi Mosque Offer. Lucky Kutsanzi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite earlier reports indicating they had been released, Nigerian officials confirm that negotiations are still ongoing. A foreign mini...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/dec/11/fate-of-11-nigerian-troops-unclear-after-unauthorised-plane-landing-in-burkina-faso</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite earlier reports indicating they had been released, Nigerian officials confirm that negotiations are still ongoing. A foreign mini...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/8b24c70d69bcf199809b4061d0a240f0" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/8b24c70d69bcf199809b4061d0a240f0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The unexpected landing was deemed a violation of airspace by the Alliance of Sahel States – composed of Burkina Faso, Mali, and Niger – p...</p></details>
+   Link:<a href="https://apnews.com/article/8b24c70d69bcf199809b4061d0a240f0" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/8b24c70d69bcf199809b4061d0a240f0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The unexpected landing was deemed a violation of airspace by the Alliance of Sahel States – composed of Burkina Faso, Mali, and Niger – p...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/dec/09/nigeria-troops-held-burkina-faso-emergency-landing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/dec/09/nigeria-troops-held-burkina-faso-emergency-landing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The incident, which occurred on December 8, 2025, was labeled an &quot;unfriendly act&quot; by Assimi Goita, the junta leader of Mali and head of t...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/dec/09/nigeria-troops-held-burkina-faso-emergency-landing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/dec/09/nigeria-troops-held-burkina-faso-emergency-landing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The incident, which occurred on December 8, 2025, was labeled an &quot;unfriendly act&quot; by Assimi Goita, the junta leader of Mali and head of t...</p></details>
    Published: December 8, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/dec/10/burkina-faso-releases-nigerian-troops-unauthorised-emergency-landing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/dec/10/burkina-faso-releases-nigerian-troops-unauthorised-emergency-landing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The regional bloc Association of Sahel States (AES) labeled the landing an &quot;unfriendly act,&quot; as the aircraft reportedly entered Burkinabe...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/dec/10/burkina-faso-releases-nigerian-troops-unauthorised-emergency-landing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/dec/10/burkina-faso-releases-nigerian-troops-unauthorised-emergency-landing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The regional bloc Association of Sahel States (AES) labeled the landing an &quot;unfriendly act,&quot; as the aircraft reportedly entered Burkinabe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aa.com.tr  
    Title: Anadolu AjansıBurkina Faso accuses France of 'serious breach' after  
-   Link: <a href="https://www.aa.com.tr/en/africa/burkina-faso-accuses-france-of-serious-breach-after-suspension-of-flights/2965436" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/africa/burkina-faso-accuses-france-of-serious-breach-after-suspension-of-flights/2965436</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 10, 2023 — 10 Aug 2023 — Burkina Faso&#x27;s National Civil Aviation Agency on Thursday expressed concern over the suspension of flight...</p></details>
+   Link:<a href="https://www.aa.com.tr/en/africa/burkina-faso-accuses-france-of-serious-breach-after-suspension-of-flights/2965436" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/africa/burkina-faso-accuses-france-of-serious-breach-after-suspension-of-flights/2965436</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 10, 2023 — 10 Aug 2023 — Burkina Faso&#x27;s National Civil Aviation Agency on Thursday expressed concern over the suspension of flight...</p></details>
    Published: August 10, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: disinfo.africa  
-   Link: <a href="https://disinfo.africa/deepfakes-and-propaganda-used-to-glorify-burkina-fasos-traor%C3%A9-83bf59499714" target="_blank" rel="noopener noreferrer nofollow">https://disinfo.africa/deepfakes-and-propaganda-used-to-glorify-burkina-fasos-traor%C3%A9-83bf59499714</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>African Digital Democracy ObservatoryDeepfakes and propaganda used to glorify Burkina Faso&#x27;s...September 11, 2025 — 26 Aug 2025 — Since...</p></details>
+   Link:<a href="https://disinfo.africa/deepfakes-and-propaganda-used-to-glorify-burkina-fasos-traor%C3%A9-83bf59499714" target="_blank" rel="noopener noreferrer nofollow">https://disinfo.africa/deepfakes-and-propaganda-used-to-glorify-burkina-fasos-traor%C3%A9-83bf59499714</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>African Digital Democracy ObservatoryDeepfakes and propaganda used to glorify Burkina Faso&#x27;s...September 11, 2025 — 26 Aug 2025 — Since...</p></details>
    Published: September 11, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fpri.org  
    Title: burkina faso the worlds disinformation lab is an international security disaster  
-   Link: <a href="https://www.fpri.org/article/2025/06/burkina-faso-the-worlds-disinformation-lab-is-an-international-security-disaster/" target="_blank" rel="noopener noreferrer nofollow">https://www.fpri.org/article/2025/06/burkina-faso-the-worlds-disinformation-lab-is-an-international-security-disaster/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The country is considered to be the epicenter of global terrorism today. It is ranked number one on the Global...</p></details>
+   Link:<a href="https://www.fpri.org/article/2025/06/burkina-faso-the-worlds-disinformation-lab-is-an-international-security-disaster/" target="_blank" rel="noopener noreferrer nofollow">https://www.fpri.org/article/2025/06/burkina-faso-the-worlds-disinformation-lab-is-an-international-security-disaster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The country is considered to be the epicenter of global terrorism today. It is ranked number one on the Global...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bastillepost.com  
-   Link: <a href="https://www.bastillepost.com/global/article/4492699-mysterious-airstrip-appears-on-a-yemeni-island-as-houthi-rebel-attacks-threaten-region" target="_blank" rel="noopener noreferrer nofollow">https://www.bastillepost.com/global/article/4492699-mysterious-airstrip-appears-on-a-yemeni-island-as-houthi-rebel-attacks-threaten-region</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious airstrip appears on a Yemeni island as Houthi...17 Jan 2025 — The runway is likely built by the United Arab Emirates, which h...</p></details>
+   Link:<a href="https://www.bastillepost.com/global/article/4492699-mysterious-airstrip-appears-on-a-yemeni-island-as-houthi-rebel-attacks-threaten-region" target="_blank" rel="noopener noreferrer nofollow">https://www.bastillepost.com/global/article/4492699-mysterious-airstrip-appears-on-a-yemeni-island-as-houthi-rebel-attacks-threaten-region</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious airstrip appears on a Yemeni island as Houthi...17 Jan 2025 — The runway is likely built by the United Arab Emirates, which h...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vanguardngr.com  
-   Link: <a href="https://www.vanguardngr.com/2025/12/naf-debunks-detained-military-aircraft-engaged-in-espionage-forced-to-land-in-burkina-faso/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanguardngr.com/2025/12/naf-debunks-detained-military-aircraft-engaged-in-espionage-forced-to-land-in-burkina-faso/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NAF debunks detained military aircraft engaged in...16 Dec 2025 — The Nigerian Air Force, NAF, has debunked as false claims and insinuat...</p></details>
+   Link:<a href="https://www.vanguardngr.com/2025/12/naf-debunks-detained-military-aircraft-engaged-in-espionage-forced-to-land-in-burkina-faso/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanguardngr.com/2025/12/naf-debunks-detained-military-aircraft-engaged-in-espionage-forced-to-land-in-burkina-faso/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NAF debunks detained military aircraft engaged in...16 Dec 2025 — The Nigerian Air Force, NAF, has debunked as false claims and insinuat...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nigeriainfo.fm  
    Title: burkina faso grounds nigerian military aircraft over alleged airspace violation  
-   Link: <a href="https://www.nigeriainfo.fm/news/homepage/burkina-faso-grounds-nigerian-military-aircraft-over-alleged-airspace-violation/" target="_blank" rel="noopener noreferrer nofollow">https://www.nigeriainfo.fm/news/homepage/burkina-faso-grounds-nigerian-military-aircraft-over-alleged-airspace-violation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burkina Faso Grounds Nigerian Military Aircraft Over...9 Dec 2025 — Burkina Faso has grounded a Nigerian Air Force C-130 transport aircr...</p></details>
+   Link:<a href="https://www.nigeriainfo.fm/news/homepage/burkina-faso-grounds-nigerian-military-aircraft-over-alleged-airspace-violation/" target="_blank" rel="noopener noreferrer nofollow">https://www.nigeriainfo.fm/news/homepage/burkina-faso-grounds-nigerian-military-aircraft-over-alleged-airspace-violation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Burkina Faso Grounds Nigerian Military Aircraft Over...9 Dec 2025 — Burkina Faso has grounded a Nigerian Air Force C-130 transport aircr...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: foreignaffairs.gov.ng  
    Title: arrival of the nigerian military aircraft at the air force base in accra ghana  
-   Link: <a href="https://foreignaffairs.gov.ng/news/arrival-of-the-nigerian-military-aircraft-at-the-air-force-base-in-accra-ghana/" target="_blank" rel="noopener noreferrer nofollow">https://foreignaffairs.gov.ng/news/arrival-of-the-nigerian-military-aircraft-at-the-air-force-base-in-accra-ghana/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arrival of the Nigerian Military Aircraft at the Air Force base...21 Dec 2025 — Arrival of the Nigerian Military Aircraft at the Air For...</p></details>
+   Link:<a href="https://foreignaffairs.gov.ng/news/arrival-of-the-nigerian-military-aircraft-at-the-air-force-base-in-accra-ghana/" target="_blank" rel="noopener noreferrer nofollow">https://foreignaffairs.gov.ng/news/arrival-of-the-nigerian-military-aircraft-at-the-air-force-base-in-accra-ghana/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arrival of the Nigerian Military Aircraft at the Air Force base...21 Dec 2025 — Arrival of the Nigerian Military Aircraft at the Air For...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IA-RuVHJsew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IA-RuVHJsew</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nigerian Military Aircraft Released, Yet To Depart Burkina FasoNigeria&#x27;s detained military aircraft and its 11 crew members have been rel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IA-RuVHJsew" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IA-RuVHJsew</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nigerian Military Aircraft Released, Yet To Depart Burkina FasoNigeria&#x27;s detained military aircraft and its 11 crew members have been rel...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: timesofisrael.com  
    Title: mysterious runway built on yemeni island likely by anti houthi forces  
-   Link: <a href="https://www.timesofisrael.com/mysterious-runway-built-on-yemeni-island-likely-by-anti-houthi-forces/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/mysterious-runway-built-on-yemeni-island-likely-by-anti-houthi-forces/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious runway built on Yemeni island, likely by anti-...20 Oct 2025 — No one has taken responsibility for project, but craft, trucks...</p></details>
+   Link:<a href="https://www.timesofisrael.com/mysterious-runway-built-on-yemeni-island-likely-by-anti-houthi-forces/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/mysterious-runway-built-on-yemeni-island-likely-by-anti-houthi-forces/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious runway built on Yemeni island, likely by anti-...20 Oct 2025 — No one has taken responsibility for project, but craft, trucks...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: adf-magazine.com  
    Title: [burkina fasos](&#123;&#123; 'burkina-faso/' | relative_url &#125;&#125;) media images far different from harsh reality  
-   Link: <a href="https://adf-magazine.com/2025/09/burkina-fasos-media-images-far-different-from-harsh-reality/" target="_blank" rel="noopener noreferrer nofollow">https://adf-magazine.com/2025/09/burkina-fasos-media-images-far-different-from-harsh-reality/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Africa Defense ForumBurkina Faso&#x27;s Media Images Far Different From Harsh...23 Sept 2025 — Pro-government media and Russian propaganda se...</p></details>
+   Link:<a href="https://adf-magazine.com/2025/09/burkina-fasos-media-images-far-different-from-harsh-reality/" target="_blank" rel="noopener noreferrer nofollow">https://adf-magazine.com/2025/09/burkina-fasos-media-images-far-different-from-harsh-reality/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Africa Defense ForumBurkina Faso&#x27;s Media Images Far Different From Harsh...23 Sept 2025 — Pro-government media and Russian propaganda se...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DSfTBffjVXA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSfTBffjVXA/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ounds and fully complied with International Civil Aviation Organisation...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DSfTBffjVXA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSfTBffjVXA/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ounds and fully complied with International Civil Aviation Organisation...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: yahoo.com  
    Title: mysterious airstrip appears yemeni island 053322785  
-   Link: <a href="https://www.yahoo.com/news/mysterious-airstrip-appears-yemeni-island-053322785.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/mysterious-airstrip-appears-yemeni-island-053322785.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious airstrip appears on a Yemeni island as Houthi...17 Jan 2025 — A mysterious airstrip being built on a remote island in Yemen i...</p></details>
+   Link:<a href="https://www.yahoo.com/news/mysterious-airstrip-appears-yemeni-island-053322785.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/mysterious-airstrip-appears-yemeni-island-053322785.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious airstrip appears on a Yemeni island as Houthi...17 Jan 2025 — A mysterious airstrip being built on a remote island in Yemen i...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aol.com  
    Title: A mysterious airstrip has appeared in the Red Sea  
-   Link: <a href="https://www.aol.com/news/mysterious-airstrip-appeared-red-sea-075927491.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/mysterious-airstrip-appeared-red-sea-075927491.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s...Satellite images reveal a new airstrip under construction on Yemen&#x27;s Zuqar Island in the Red Sea, likely by forces opposed to t...</p></details>
+   Link:<a href="https://www.aol.com/news/mysterious-airstrip-appeared-red-sea-075927491.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/mysterious-airstrip-appeared-red-sea-075927491.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s...Satellite images reveal a new airstrip under construction on Yemen&#x27;s Zuqar Island in the Red Sea, likely by forces opposed to t...</p></details>

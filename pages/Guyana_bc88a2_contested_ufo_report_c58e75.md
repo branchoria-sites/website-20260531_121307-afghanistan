@@ -253,11 +253,11 @@ Analysing contested UFO reports in Guyana requires careful separation of **what 
 <img src="{{ "/assets/images/Guyana_bc88a2_contested_ufo_report_c58e75-Illustration-1-dark.svg" | relative_url }}" alt="Contested Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2_contested_ufo_report_c58e75-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2_contested_ufo_report_c58e75-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The NUFORC Context: Reporting vs Evidence
 
-Before delving case by case, it’s important to understand the nature of the primary source for these Guyana cases. The **National UFO Reporting Center (NUFORC)** collects **witness submissions** from around the world but does **not independently verify** or investigate reported sightings. Reports can be filed long after an event, lack contact information, and often include only basic narrative text with no supporting sensor, photographic, or radar data. This means NUFORC entries are, at best, **initial witness claims** and should be treated with caution when assessing evidential strength. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+Before delving case by case, it’s important to understand the nature of the primary source for these Guyana cases. The **National UFO Reporting Center (NUFORC)** collects **witness submissions** from around the world but does **not independently verify** or investigate reported sightings. Reports can be filed long after an event, lack contact information, and often include only basic narrative text with no supporting sensor, photographic, or radar data. This means NUFORC entries are, at best, **initial witness claims** and should be treated with caution when assessing evidential strength.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 ## New River 1971: Vivid Narrative, Sparse Evidence
 
-The **1971 New River** report stands out in the Guyanese record for its length and dramatic detail. According to the NUFORC entry, four observers on an interior trip reported seeing a “large silver saucer” over the New River/Corentyne River area that allegedly drew water upward before rapidly ascending and disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thephenomenon.app/guyana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Guyana</span><span class="citation-popover-snippet">The Phenomenon &#124; Guyana</span></span></span>
+The **1971 New River** report stands out in the Guyanese record for its length and dramatic detail. According to the NUFORC entry, four observers on an interior trip reported seeing a “large silver saucer” over the New River/Corentyne River area that allegedly drew water upward before rapidly ascending and disappearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thephenomenon.app/guyana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Guyana</span><span class="citation-popover-snippet">The Phenomenon &#124; Guyana</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CEMkVSmI5L8" title="“It’s Been Kept from the Public”: TV Journalist Ross Coulthart Didn’t Believe in UFO&#x27;s until…" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CEMkVSmI5L8" target="_blank" rel="noopener noreferrer">“It’s Been Kept from the Public”: TV Journalist Ross Coulthart Didn’t Believe in UFO&#x27;s until…</a></p><p class="youtube-embed-meta">Channel: Mark Bouris &middot; Views: 95.6K &middot; Uploaded: January 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CEMkVSmI5L8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CEMkVSmI5L8">Open on YouTube</a></p></div></div></div>
 
@@ -277,25 +277,25 @@ The **1971 New River** report stands out in the Guyanese record for its length a
 
 ## 2006 Cigar‑Shaped Object: Multiple Witnesses but No Corroboration
 
-The February 2006 NUFORC report describes a **cigar‑shaped object** seen by **seven people** moving silently with apparent tail flames. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/search/51439bab0ad2e1e9be453704/UFOSightinginGuyanaonFriday24February2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Guyana on Friday 24 February 2006 - UFO HuntersMarch 3, 2006...</span><span class="citation-popover-meta">Published: March 3, 2006</span></span></span>
+The February 2006 NUFORC report describes a **cigar‑shaped object** seen by **seven people** moving silently with apparent tail flames.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/search/51439bab0ad2e1e9be453704/UFOSightinginGuyanaonFriday24February2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Guyana on Friday 24 February 2006 - UFO HuntersMarch 3, 2006...</span><span class="citation-popover-meta">Published: March 3, 2006</span></span></span>
 
 ### Assessing Credibility
 
 * **Multiple Observers:** A larger number of witnesses somewhat improves the potential credibility compared with single‑observer cases. However, **multiple eyewitnesses alone do not equate to strong evidence** without instrument recordings or physical documentation.
 * **No Photographic/Instrumental Data:** Despite seven observers, the report does not include any photos, radar data, or video.
-* **Ambiguous Trail Description:** A quiet object with “apparent flames” could align with **rocket or missile exhaust**, space‑debris re‑entry, or atmospheric plasma phenomena — all of which are common sources of misidentified sightings globally. Meteor and re‑entry events can produce long, silent fiery trails visible at twilight or dusk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries latest draft</span><span class="citation-popover-snippet">Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — Central Australia night sky for more than a minute,&quot; ABC Radio Darwin, Sep...</span><span class="citation-popover-meta">Published: September 7, 2025</span></span></span>
+* **Ambiguous Trail Description:** A quiet object with “apparent flames” could align with **rocket or missile exhaust**, space‑debris re‑entry, or atmospheric plasma phenomena — all of which are common sources of misidentified sightings globally. Meteor and re‑entry events can produce long, silent fiery trails visible at twilight or dusk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries latest draft</span><span class="citation-popover-snippet">Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — Central Australia night sky for more than a minute,&quot; ABC Radio Darwin, Sep...</span><span class="citation-popover-meta">Published: September 7, 2025</span></span></span>
 
 **Evidential Strength:** *Contested / insufficient for verification.* Multiple witness reports offer some weight compared to solos but still lack independent verification or physical data that would elevate them beyond personal testimony.
 
 <img src="{{ "/assets/images/Guyana_bc88a2_contested_ufo_report_c58e75-Illustration-2-dark.svg" | relative_url }}" alt="Contested Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2_contested_ufo_report_c58e75-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2_contested_ufo_report_c58e75-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Georgetown 2012 Photograph: Visual Claim with No Context
 
-A 2012 NUFORC entry relates to a photograph taken over Georgetown — the object was not visible at the time of shooting but appeared on a computer after review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thephenomenon.app/jamaica/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">The Phenomenon &#124; Jamaica[Button: View Details] NUFORC_105973 NUFORC UFO Sighting 105973 Occurred: 2013-12-12 21:00 Local - Approximate Re...</span><span class="citation-popover-meta">Published: December 12, 2013</span></span></span>
+A 2012 NUFORC entry relates to a photograph taken over Georgetown — the object was not visible at the time of shooting but appeared on a computer after review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thephenomenon.app/jamaica/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">The Phenomenon &#124; Jamaica[Button: View Details] NUFORC_105973 NUFORC UFO Sighting 105973 Occurred: 2013-12-12 21:00 Local - Approximate Re...</span><span class="citation-popover-meta">Published: December 12, 2013</span></span></span>
 
 ### Assessing Credibility
 
 * **Photographic Evidence:** A claimed photograph could be significant, but the **report does not describe the image quality, metadata, context of capture, or independent analysis**. Without original files or third‑party review, there is no reliable basis to assess what the image actually represents.
-* **Common Misidentification Pitfalls:** Many purported UFO photographs turn out to be **lens artifacts, birds, insects close to the lens, or digital noise** — especially if the object is only visible after the fact. UFO photography analysis is notoriously fraught, as professional and sceptical literature consistently shows that numerous putative images crumble under scrutiny without rigorous metadata analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Enticing Mysteries of U.F.O. Photography</span><span class="citation-popover-snippet">The New YorkerThe Enticing Mysteries of U.F.O. PhotographyAugust 3, 2023 — 3 Aug 2023 — Chris Wiley on photos of U.F.O.s and the debate s...</span><span class="citation-popover-meta">Published: August 3, 2023</span></span></span>
+* **Common Misidentification Pitfalls:** Many purported UFO photographs turn out to be **lens artifacts, birds, insects close to the lens, or digital noise** — especially if the object is only visible after the fact. UFO photography analysis is notoriously fraught, as professional and sceptical literature consistently shows that numerous putative images crumble under scrutiny without rigorous metadata analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Enticing Mysteries of U.F.O. Photography</span><span class="citation-popover-snippet">The New YorkerThe Enticing Mysteries of U.F.O. PhotographyAugust 3, 2023 — 3 Aug 2023 — Chris Wiley on photos of U.F.O.s and the debate s...</span><span class="citation-popover-meta">Published: August 3, 2023</span></span></span>
 
 **Evidential Strength:** *Very weak without additional data.* A single photograph claimed after the fact is insufficient to establish an anomalous aerial object without careful technical examination.
 
@@ -305,8 +305,8 @@ A 2012 NUFORC entry relates to a photograph taken over Georgetown — the object
 
 Across these cases, several limitations emerge repeatedly:
 
-* **Eyewitness Reliability:** Scientific research on human perception shows that visual memory, especially under unfamiliar sky conditions, is highly susceptible to error and suggestion. Without instruments, distance and size estimates are unreliable, and moving lights can easily be misinterpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
-* **Atmospheric and Astronomical Confounders:** Many bright or unusual aerial lights are later identified as meteor trails, satellites, rocket launches, or re‑entering space debris — phenomena well documented worldwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries latest draft</span><span class="citation-popover-snippet">Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — Central Australia night sky for more than a minute,&quot; ABC Radio Darwin, Sep...</span><span class="citation-popover-meta">Published: September 7, 2025</span></span></span>
+* **Eyewitness Reliability:** Scientific research on human perception shows that visual memory, especially under unfamiliar sky conditions, is highly susceptible to error and suggestion. Without instruments, distance and size estimates are unreliable, and moving lights can easily be misinterpreted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</span></span></span>
+* **Atmospheric and Astronomical Confounders:** Many bright or unusual aerial lights are later identified as meteor trails, satellites, rocket launches, or re‑entering space debris — phenomena well documented worldwide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[satobs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-title">Visually Observed Natural Re entries latest draft</span><span class="citation-popover-snippet">Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — Central Australia night sky for more than a minute,&quot; ABC Radio Darwin, Sep...</span><span class="citation-popover-meta">Published: September 7, 2025</span></span></span>
 * **Absence of Instrumentation:** None of the noted Guyanese reports include **independent sensor evidence** (radar tracks, spectrometry, or corroborating photography), which is the type of data that might elevate a contested sighting into something more substantive.
 
 <img src="{{ "/assets/images/Guyana_bc88a2_contested_ufo_report_c58e75-Illustration-3-dark.svg" | relative_url }}" alt="Contested Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2_contested_ufo_report_c58e75-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2_contested_ufo_report_c58e75-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -317,194 +317,194 @@ CaseMain Data SourceIndependent EvidenceEvidential Strength**New River 1971**Del
 Across these reports, **none present evidence that moves beyond personal testimony or unverified imagery**. Without independent corroboration — such as radar logs, contemporaneous journalism, or rigorous image analysis — they remain **contested claims**, valuable as cultural or historical curiosities rather than substantiated aerial mysteries.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Evaluating Contested UFO Cases in Guyana. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Evaluating Contested UFO Cases in Guyana. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines case classifications and evidential strengths across reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines case classifications and evidential strengths across reported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides analytical frameworks for assessing sightings and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical frameworks for assessing sightings and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises documented cases and evidential standards relevant to contested reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises documented cases and evidential standards relevant to contested reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Focuses on evaluating unusual reports, witness narratives and competing explanations rather than accepting claims at face value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating unusual reports, witness narratives and competing explanations rather than accepting claims at face value.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evaluating-contested-ufo-cases-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="evaluating-contested-ufo-cases-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ Across these reports, **none present evidence that moves beyond personal testimo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ Across these reports, **none present evidence that moves beyond personal testimo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ Across these reports, **none present evidence that moves beyond personal testimo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ Across these reports, **none present evidence that moves beyond personal testimo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ Across these reports, **none present evidence that moves beyond personal testimo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -707,108 +707,107 @@ Across these reports, **none present evidence that moves beyond personal testimo
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: thephenomenon.app  
    Title: The Phenomenon | Guyana  
-   Link: <a href="https://thephenomenon.app/guyana/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/guyana/</a>  
+   Link:<a href="https://thephenomenon.app/guyana/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/guyana/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufo-hunters.com  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/51439bab0ad2e1e9be453704/UFOSightinginGuyanaonFriday24February2006" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/51439bab0ad2e1e9be453704/UFOSightinginGuyanaonFriday24February2006</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Guyana on Friday 24 February 2006 - UFO HuntersMarch 3, 2006...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/51439bab0ad2e1e9be453704/UFOSightinginGuyanaonFriday24February2006" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/51439bab0ad2e1e9be453704/UFOSightinginGuyanaonFriday24February2006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Guyana on Friday 24 February 2006 - UFO HuntersMarch 3, 2006...</p></details>
    Published: March 3, 2006  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — Central Australia night sky for more than a minute,&quot; ABC Radio Darwin, Sep...</p></details>
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsxSeptember 7, 2025 — 26 Aug 2014 — Central Australia night sky for more than a minute,&quot; ABC Radio Darwin, Sep...</p></details>
    Published: September 7, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</p></details>
+   Link:<a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyThe Reliability of UFO Witness Testimony is the first major book to comprehensively focus...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e197106" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197106</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197106NUFORC Reports for Month 197106; Open, 06/30/1971 20:00, East Boston, MA, USA; Open, 06/30/1971 20:00, M...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e197106" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197106</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197106NUFORC Reports for Month 197106; Open, 06/30/1971 20:00, East Boston, MA, USA; Open, 06/30/1971 20:00, M...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thephenomenon.app  
-   Link: <a href="https://thephenomenon.app/jamaica/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/jamaica/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon | Jamaica[Button: View Details] NUFORC_105973 NUFORC UFO Sighting 105973 Occurred: 2013-12-12 21:00 Local - Approximate Re...</p></details>
+   Link:<a href="https://thephenomenon.app/jamaica/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/jamaica/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon | Jamaica[Button: View Details] NUFORC_105973 NUFORC UFO Sighting 105973 Occurred: 2013-12-12 21:00 Local - Approximate Re...</p></details>
    Published: December 12, 2013  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: newyorker.com  
    Title: The New Yorker The Enticing Mysteries of U.F.O. Photography  
-   Link: <a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Enticing Mysteries of U.F.O. PhotographyAugust 3, 2023 — 3 Aug 2023 — Chris Wiley on photos of U.F.O.s and the debate s...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Enticing Mysteries of U.F.O. PhotographyAugust 3, 2023 — 3 Aug 2023 — Chris Wiley on photos of U.F.O.s and the debate s...</p></details>
    Published: August 3, 2023  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sentientorbs.com  
-   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-55426" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-55426</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsFebruary 24, 2007 — A UFO WHICH CAME TO A SUDDEN STOP OVER THE CITY WITHOUT TURNING, WENT THE OPPOSITE DIRECTION. EVENT DA...</p></details>
+   Link:<a href="https://sentientorbs.com/explore/sightings/NUFORC-55426" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-55426</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsFebruary 24, 2007 — A UFO WHICH CAME TO A SUDDEN STOP OVER THE CITY WITHOUT TURNING, WENT THE OPPOSITE DIRECTION. EVENT DA...</p></details>
    Published: February 24, 2007  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufomagazines.com  
-   Link: <a href="https://www.ufomagazines.com/data-net-data-net-no-48-1971/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/data-net-data-net-no-48-1971/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DATA-NET — The UFO Amateur Radio Network | UFO Magazine ArchiveCLIPPING THE NEWS This section provides detailed accounts of specific UFO...</p></details>
+   Link:<a href="https://www.ufomagazines.com/data-net-data-net-no-48-1971/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/data-net-data-net-no-48-1971/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DATA-NET — The UFO Amateur Radio Network | UFO Magazine ArchiveCLIPPING THE NEWS This section provides detailed accounts of specific UFO...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufoinsight.com  
-   Link: <a href="https://www.ufoinsight.com/ufos/sightings/the-trindade-island-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/the-trindade-island-ufo-encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMay 3, 2022 — THE TRINDADE ISLAND UFO ENCOUNTERS – AUTHENTIC IMAGES OF VEHICLES FROM ANOTHER WORLD? By Marcus Lowth Image: Pub...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/sightings/the-trindade-island-ufo-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/the-trindade-island-ufo-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMay 3, 2022 — THE TRINDADE ISLAND UFO ENCOUNTERS – AUTHENTIC IMAGES OF VEHICLES FROM ANOTHER WORLD? By Marcus Lowth Image: Pub...</p></details>
    Published: May 3, 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What really happened in Calvine? The mystery behind...11 Feb 2025 — In August 1990, two hikers sent photos of a strange diamond-shaped a...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What really happened in Calvine? The mystery behind...11 Feb 2025 — In August 1990, two hikers sent photos of a strange diamond-shaped a...</p></details>
    Published: August 1990  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: standard.co.uk  
    Title: UF O spotted over Waterloo Bridge | London Evening Standard | The Standard  
-   Link: <a href="https://www.standard.co.uk/news/uk/ufo-spotted-over-waterloo-bridge-6619145.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/news/uk/ufo-spotted-over-waterloo-bridge-6619145.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Waterloo Bridge | London Evening Standard | The StandardApril 12, 2012 — UFO SPOTTED OVER WATERLOO BRIDGE 12 April 2012...</p></details>
+   Link:<a href="https://www.standard.co.uk/news/uk/ufo-spotted-over-waterloo-bridge-6619145.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/news/uk/ufo-spotted-over-waterloo-bridge-6619145.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Waterloo Bridge | London Evening Standard | The StandardApril 12, 2012 — UFO SPOTTED OVER WATERLOO BRIDGE 12 April 2012...</p></details>
    Published: April 12, 2012  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CEMkVSmI5L8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CEMkVSmI5L8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This video analysis focuses on how government programs evaluate the evidential strength of UFO cases, separating unverified witness claim...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CEMkVSmI5L8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CEMkVSmI5L8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This video analysis focuses on how government programs evaluate the evidential strength of UFO cases, separating unverified witness claim...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: waterufo.net  
    Title: Governments gazetteer of Venezuela has no “Recife”. This was  
-   Link: <a href="https://www.waterufo.net/19661972/19661972HtmlText1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.waterufo.net/19661972/19661972HtmlText1.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Water UFO Sightings 1966-1972UFOCAT PRN – NONE SOUTH AMERICA - VENEZUELA NOTE: Recife – The report states that the sighting was in Venezu...</p></details>
+   Link:<a href="https://www.waterufo.net/19661972/19661972HtmlText1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.waterufo.net/19661972/19661972HtmlText1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Water UFO Sightings 1966-1972UFOCAT PRN – NONE SOUTH AMERICA - VENEZUELA NOTE: Recife – The report states that the sighting was in Venezu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/woy7t5/the_calvine_ufo_photo_debunked_and_why_we_must/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/woy7t5/the_calvine_ufo_photo_debunked_and_why_we_must/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>king us look in one place and waste time - knowing it could/would be...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/woy7t5/the_calvine_ufo_photo_debunked_and_why_we_must/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/woy7t5/the_calvine_ufo_photo_debunked_and_why_we_must/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>king us look in one place and waste time - knowing it could/would be...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/interestingengineering/posts/the-calvine-ufo-incident-is-one-of-ufologys-most-compelling-tales/1050330393805064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/interestingengineering/posts/the-calvine-ufo-incident-is-one-of-ufologys-most-compelling-tales/1050330393805064/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of military assets, and the subsequent government secrecy...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/interestingengineering/posts/the-calvine-ufo-incident-is-one-of-ufologys-most-compelling-tales/1050330393805064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/interestingengineering/posts/the-calvine-ufo-incident-is-one-of-ufologys-most-compelling-tales/1050330393805064/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of military assets, and the subsequent government secrecy...Read more...</p></details>

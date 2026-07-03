@@ -254,14 +254,14 @@ image: /assets/images/Croatia_d7e045_zagreb_drone_crash_61da8d-Illustration-1-so
 
 ## Introduction
 
-The object that crashed in Zagreb on the night of 10 March 2022 was briefly treated by witnesses and early media reports as an unidentified flying object. Within hours, however, investigators and defence officials identified it as a Soviet-designed Tupolev Tu-141 “Strizh” military reconnaissance drone that had crossed Romania and Hungary before entering Croatian airspace. The incident became one of the most important aerospace-security events in modern Croatian history because it exposed gaps in NATO air-defence coordination while also showing how quickly wartime confusion can generate UFO narratives. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2022-03-12/drone-likely-flying-from-ukraine-war-zone-crashes-in-croatia/100904952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">drone likely flying from ukraine war zone crashes in croatia</span><span class="citation-popover-snippet">Large drone crashes in Croatia after apparently flying from...11 Mar 2022 — A Soviet-era reconnaissance drone flying across Hungary from...</span></span></span>
+The object that crashed in Zagreb on the night of 10 March 2022 was briefly treated by witnesses and early media reports as an unidentified flying object. Within hours, however, investigators and defence officials identified it as a Soviet-designed Tupolev Tu-141 “Strizh” military reconnaissance drone that had crossed Romania and Hungary before entering Croatian airspace. The incident became one of the most important aerospace-security events in modern Croatian history because it exposed gaps in NATO air-defence coordination while also showing how quickly wartime confusion can generate UFO narratives. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2022-03-12/drone-likely-flying-from-ukraine-war-zone-crashes-in-croatia/100904952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">drone likely flying from ukraine war zone crashes in croatia</span><span class="citation-popover-snippet">Large drone crashes in Croatia after apparently flying from...11 Mar 2022 — A Soviet-era reconnaissance drone flying across Hungary from...</span></span></span>
 
 <img src="{{ "/assets/images/Croatia_d7e045_zagreb_drone_crash_61da8d-Illustration-1-dark.svg" | relative_url }}" alt="2022 Zagreb Drone illustration 1" data-theme-src-dark="{{ "/assets/images/Croatia_d7e045_zagreb_drone_crash_61da8d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Croatia_d7e045_zagreb_drone_crash_61da8d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For Croatia’s wider UFO and unidentified-object record, the Zagreb crash matters less as an extraterrestrial mystery than as a case study in identification. An unknown object produced a loud explosion near Jarun lake, triggered speculation, and generated conflicting early claims. Yet radar tracking, debris analysis, black-box recovery, and military investigation eventually transformed the “UFO” into a documented military intrusion linked to the war environment created by Russia’s invasion of Ukraine. The episode now sits at the boundary between UFO reporting, airspace surveillance failure, and modern European security politics.
 
 ## How the Zagreb object first became a “UFO”
 
-The initial confusion was understandable. Shortly after 11 pm local time, residents in Zagreb heard a loud detonation and saw smoke near the Jarun district. Witnesses initially described a fast-moving object followed by an explosion strong enough to damage parked cars and shake nearby buildings. Social media rapidly filled with speculation ranging from a meteor strike to an unidentified aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">soviet era drone believed ukraine crashes croatia zagreb says 2022 03 11</span><span class="citation-popover-snippet">Soviet-era drone, believed from Ukraine, crashes in...11 Mar 2022 — A Soviet-era reconnaissance drone flying across Hungary from...</span></span></span>
+The initial confusion was understandable. Shortly after 11 pm local time, residents in Zagreb heard a loud detonation and saw smoke near the Jarun district. Witnesses initially described a fast-moving object followed by an explosion strong enough to damage parked cars and shake nearby buildings. Social media rapidly filled with speculation ranging from a meteor strike to an unidentified aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">soviet era drone believed ukraine crashes croatia zagreb says</span><span class="citation-popover-snippet">Soviet-era drone, believed from Ukraine, crashes in...11 Mar 2022 — A Soviet-era reconnaissance drone flying across Hungary from...</span></span></span>
 
 In the first hours after the crash, Croatian authorities themselves had only partial information. Police secured the impact site while military personnel searched for debris and flight components. Early media reports often used terms such as “unknown flying object” or “unidentified aircraft” because no public confirmation yet existed regarding origin or type. The object’s arrival during the opening weeks of the Ukraine war intensified uncertainty and public anxiety.
 
@@ -280,14 +280,14 @@ Unlike many civilian UFO stories, however, this case quickly accumulated hard ph
 
 ## The flight path into Croatian airspace
 
-Croatian officials soon reconstructed a significant part of the drone’s route. According to government statements and later reporting, the aircraft entered Croatian airspace from Hungary at approximately 700 kilometres per hour and around 1,300 metres altitude, remaining over Croatia for roughly seven minutes before crashing in Zagreb. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2022-03-12/drone-likely-flying-from-ukraine-war-zone-crashes-in-croatia/100904952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">drone likely flying from ukraine war zone crashes in croatia</span><span class="citation-popover-snippet">Large drone crashes in Croatia after apparently flying from...11 Mar 2022 — A Soviet-era reconnaissance drone flying across Hungary from...</span></span></span>
+Croatian officials soon reconstructed a significant part of the drone’s route. According to government statements and later reporting, the aircraft entered Croatian airspace from Hungary at approximately 700 kilometres per hour and around 1,300 metres altitude, remaining over Croatia for roughly seven minutes before crashing in Zagreb. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2022-03-12/drone-likely-flying-from-ukraine-war-zone-crashes-in-croatia/100904952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">drone likely flying from ukraine war zone crashes in croatia</span><span class="citation-popover-snippet">Large drone crashes in Croatia after apparently flying from...11 Mar 2022 — A Soviet-era reconnaissance drone flying across Hungary from...</span></span></span>
 
 Investigators concluded that the object had crossed multiple NATO member states before impact:
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Ukraine or the wider war zone area;
-2. Romanian airspace; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nato jet shoots down drone estonia news website delfi reports 2026 05 19</span><span class="citation-popover-snippet">It said NATO &quot;is ready and...Read more...</span></span></span>
+2. Romanian airspace;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nato jet shoots down drone estonia news website delfi reports</span><span class="citation-popover-snippet">It said NATO &quot;is ready and...Read more...</span></span></span>
 3. Hungarian airspace;
 4. Croatian airspace.
 
@@ -295,36 +295,36 @@ Investigators concluded that the object had crossed multiple NATO member states 
 
 That sequence transformed the incident from a local mystery into an alliance-wide security concern. The key public question quickly became not “Was it a UFO?” but “How did a large military drone fly across several NATO countries without interception?”
 
-The Tu-141 itself was not a small consumer drone. It was a Cold War-era jet-powered reconnaissance UAV developed by the Soviet Union in the 1970s. At roughly 14 metres long and weighing several tonnes, it resembled a small cruise missile more than a hobby aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tupolev_Tu-141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tupolev Tu-141</span><span class="citation-popover-snippet">Tupolev Tu-141</span></span></span>
+The Tu-141 itself was not a small consumer drone. It was a Cold War-era jet-powered reconnaissance UAV developed by the Soviet Union in the 1970s. At roughly 14 metres long and weighing several tonnes, it resembled a small cruise missile more than a hobby aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tupolev_Tu-141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tupolev Tu-141</span><span class="citation-popover-snippet">Tupolev Tu-141</span></span></span>
 
-Its size created a serious political embarrassment. Croatian President Zoran Milanović and other officials openly criticised the failure of allied air-defence systems to react earlier. NATO members later acknowledged that the object had been tracked, but it was apparently not assessed as an immediate threat during its transit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 Zagreb Tu 141 crash</span><span class="citation-popover-snippet">2022 Zagreb Tu 141 crash</span></span></span>
+Its size created a serious political embarrassment. Croatian President Zoran Milanović and other officials openly criticised the failure of allied air-defence systems to react earlier. NATO members later acknowledged that the object had been tracked, but it was apparently not assessed as an immediate threat during its transit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 Zagreb Tu 141 crash</span><span class="citation-popover-snippet">2022 Zagreb Tu 141 crash</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l8ZUT9jor7k" title="Tu-141 Strizh - Tu-143 Reys - Tu-243 Reys-D | The Soviet UAVs that defy time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l8ZUT9jor7k" target="_blank" rel="noopener noreferrer">Tu-141 Strizh - Tu-143 Reys - Tu-243 Reys-D | The Soviet UAVs that defy time</a></p><p class="youtube-embed-meta">Channel: Weapon Detective &middot; Views: 86.6K &middot; Uploaded: April 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l8ZUT9jor7k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l8ZUT9jor7k">Open on YouTube</a></p></div></div></div>
 
 ## How investigators identified the object as a Tu-141
 
-The mystery phase of the incident was relatively short because investigators recovered substantial physical evidence from the crash site. Debris fragments, onboard systems, and eventually the flight recorder strongly indicated the aircraft was a Tupolev Tu-141. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 Zagreb Tu 141 drone crash</span><span class="citation-popover-snippet">2022 Zagreb Tu-141 drone crashThe drone&#x27;s flight over Croatia, Hungary and Romania (all three being NATO states) prompted criticism of...</span></span></span>
+The mystery phase of the incident was relatively short because investigators recovered substantial physical evidence from the crash site. Debris fragments, onboard systems, and eventually the flight recorder strongly indicated the aircraft was a Tupolev Tu-141.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 Zagreb Tu 141 drone crash</span><span class="citation-popover-snippet">2022 Zagreb Tu-141 drone crashThe drone&#x27;s flight over Croatia, Hungary and Romania (all three being NATO states) prompted criticism of...</span></span></span>
 
 Several factors accelerated identification:
 
 ### The drone’s recognisable design
 
-Military analysts quickly noted that debris dimensions and structural elements matched the Tu-141 “Strizh”, a reconnaissance drone originally built for Soviet forces and later retained by Ukraine after the collapse of the USSR. The aircraft’s distinctive turbojet-powered configuration narrowed the possibilities quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tupolev_Tu-141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tupolev Tu-141</span><span class="citation-popover-snippet">Tupolev Tu-141</span></span></span>
+Military analysts quickly noted that debris dimensions and structural elements matched the Tu-141 “Strizh”, a reconnaissance drone originally built for Soviet forces and later retained by Ukraine after the collapse of the USSR. The aircraft’s distinctive turbojet-powered configuration narrowed the possibilities quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tupolev_Tu-141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tupolev Tu-141</span><span class="citation-popover-snippet">Tupolev Tu-141</span></span></span>
 
 ### Radar and trajectory data
 
-Croatian and allied radar systems had tracked the object during at least part of its route. This immediately distinguished the case from most civilian UFO reports, which often lack sensor confirmation. The drone’s speed, altitude, and flight direction were consistent with a military UAV rather than a meteorological or astronomical phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Soviet-era drone that crashed in Croatia carried aerial...13 Apr 2022 — The investigators said 96 vehicles were damaged by the ex...</span></span></span>
+Croatian and allied radar systems had tracked the object during at least part of its route. This immediately distinguished the case from most civilian UFO reports, which often lack sensor confirmation. The drone’s speed, altitude, and flight direction were consistent with a military UAV rather than a meteorological or astronomical phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Soviet-era drone that crashed in Croatia carried aerial...13 Apr 2022 — The investigators said 96 vehicles were damaged by the ex...</span></span></span>
 
 ### Recovery of the black box
 
-Croatian authorities recovered the drone’s flight recorder from the crash area. That provided investigators with technical data rather than witness testimony alone. The existence of recoverable onboard systems fundamentally changed the investigation from speculative interpretation to forensic analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">TU-141 drone crashed in Croatian capital Zagreb.: r/ukraine</span><span class="citation-popover-snippet">TU-141 drone crashed in Croatian capital Zagreb.: r/ukraineMarch 11, 2022 — Around 23:00 a drone crashed in my city, people believ...</span><span class="citation-popover-meta">Published: March 11, 2022</span></span></span>
+Croatian authorities recovered the drone’s flight recorder from the crash area. That provided investigators with technical data rather than witness testimony alone. The existence of recoverable onboard systems fundamentally changed the investigation from speculative interpretation to forensic analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">TU-141 drone crashed in Croatian capital Zagreb.: r/ukraine</span><span class="citation-popover-snippet">TU-141 drone crashed in Croatian capital Zagreb.: r/ukraineMarch 11, 2022 — Around 23:00 a drone crashed in my city, people believ...</span><span class="citation-popover-meta">Published: March 11, 2022</span></span></span>
 
 By mid-March 2022, Croatian officials were publicly treating the event as a military-drone incident rather than an unidentified phenomenon.
 
 <img src="{{ "/assets/images/Croatia_d7e045_zagreb_drone_crash_61da8d-Illustration-2-dark.svg" | relative_url }}" alt="2022 Zagreb Drone illustration 2" data-theme-src-dark="{{ "/assets/images/Croatia_d7e045_zagreb_drone_crash_61da8d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Croatia_d7e045_zagreb_drone_crash_61da8d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The bomb controversy and competing explanations
 
-The investigation became more politically sensitive once Croatian officials announced that the drone had carried an explosive device. Defence Minister Mario Banožić and later expert panels stated that remnants indicated the presence of an aerial bomb. Reuters later reported that investigators identified an OFAB-100-120 bomb associated with the drone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nato jet shoots down drone estonia news website delfi reports 2026 05 19</span><span class="citation-popover-snippet">It said NATO &quot;is ready and...Read more...</span></span></span>
+The investigation became more politically sensitive once Croatian officials announced that the drone had carried an explosive device. Defence Minister Mario Banožić and later expert panels stated that remnants indicated the presence of an aerial bomb. Reuters later reported that investigators identified an OFAB-100-120 bomb associated with the drone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nato jet shoots down drone estonia news website delfi reports</span><span class="citation-popover-snippet">It said NATO &quot;is ready and...Read more...</span></span></span>
 
 That finding intensified several unresolved questions:
 
@@ -333,11 +333,11 @@ That finding intensified several unresolved questions:
 * Which side controlled it?
 * Why was it allowed to continue through NATO airspace?
 
-Croatian investigators never publicly delivered a fully transparent account identifying the operator. Public discussion frequently pointed toward Ukrainian origin because Ukraine still operated Tu-141 drones, whereas Russia had largely retired them decades earlier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 Zagreb Tu 141 crash</span><span class="citation-popover-snippet">2022 Zagreb Tu 141 crash</span></span></span>
+Croatian investigators never publicly delivered a fully transparent account identifying the operator. Public discussion frequently pointed toward Ukrainian origin because Ukraine still operated Tu-141 drones, whereas Russia had largely retired them decades earlier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 Zagreb Tu 141 crash</span><span class="citation-popover-snippet">2022 Zagreb Tu 141 crash</span></span></span>
 
-At the same time, Croatian authorities avoided definitive public attribution during the active phase of the Ukraine conflict. Later reporting suggested that some operational details became effectively classified among involved NATO states. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 Zagreb Tu 141 drone crash</span><span class="citation-popover-snippet">2022 Zagreb Tu-141 drone crashThe drone&#x27;s flight over Croatia, Hungary and Romania (all three being NATO states) prompted criticism of...</span></span></span>
+At the same time, Croatian authorities avoided definitive public attribution during the active phase of the Ukraine conflict. Later reporting suggested that some operational details became effectively classified among involved NATO states.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 Zagreb Tu 141 drone crash</span><span class="citation-popover-snippet">2022 Zagreb Tu-141 drone crashThe drone&#x27;s flight over Croatia, Hungary and Romania (all three being NATO states) prompted criticism of...</span></span></span>
 
-This uncertainty created fertile ground for conspiracy theories and speculative narratives. Some online discussions claimed the drone was secretly conducting reconnaissance over NATO territory; others argued it represented a navigational malfunction or a failed strike mission. Evidence available publicly has generally supported the simpler explanation: a military drone associated with the Ukraine war lost control or deviated from its intended route before exhausting fuel and crashing in Zagreb. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">soviet era drone believed ukraine crashes croatia zagreb says 2022 03 11</span><span class="citation-popover-snippet">Soviet-era drone, believed from Ukraine, crashes in...11 Mar 2022 — A Soviet-era reconnaissance drone flying across Hungary from...</span></span></span>
+This uncertainty created fertile ground for conspiracy theories and speculative narratives. Some online discussions claimed the drone was secretly conducting reconnaissance over NATO territory; others argued it represented a navigational malfunction or a failed strike mission. Evidence available publicly has generally supported the simpler explanation: a military drone associated with the Ukraine war lost control or deviated from its intended route before exhausting fuel and crashing in Zagreb.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">soviet era drone believed ukraine crashes croatia zagreb says</span><span class="citation-popover-snippet">Soviet-era drone, believed from Ukraine, crashes in...11 Mar 2022 — A Soviet-era reconnaissance drone flying across Hungary from...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xAQd0AElh-U" title="Croatia criticizes NATO after crash of Russian-made drone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xAQd0AElh-U" target="_blank" rel="noopener noreferrer">Croatia criticizes NATO after crash of Russian-made drone</a></p><p class="youtube-embed-meta">Channel: EU Debates | eudebates.tv &middot; Views: 2.3K &middot; Uploaded: March 2022 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xAQd0AElh-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xAQd0AElh-U">Open on YouTube</a></p></div></div></div>
 
@@ -362,9 +362,9 @@ The case also illustrates how wartime conditions alter public interpretation. In
 <img src="{{ "/assets/images/Croatia_d7e045_zagreb_drone_crash_61da8d-Illustration-3-dark.svg" | relative_url }}" alt="2022 Zagreb Drone illustration 3" data-theme-src-dark="{{ "/assets/images/Croatia_d7e045_zagreb_drone_crash_61da8d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Croatia_d7e045_zagreb_drone_crash_61da8d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The NATO and air-defence failure debate
 
-The most serious consequences of the crash concerned airspace monitoring and alliance credibility. Croatia, Hungary, and Romania are all NATO members, yet the drone crossed hundreds of kilometres of allied territory before impact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ukraine military drone crashes into croatian capital zagreb</span><span class="citation-popover-snippet">The GuardianMilitary drone from Ukraine war crashes into Croatian...11 Mar 2022 — A drone that flew undetected over several Nato countri...</span></span></span>
+The most serious consequences of the crash concerned airspace monitoring and alliance credibility. Croatia, Hungary, and Romania are all NATO members, yet the drone crossed hundreds of kilometres of allied territory before impact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ukraine military drone crashes into croatian capital zagreb</span><span class="citation-popover-snippet">The GuardianMilitary drone from Ukraine war crashes into Croatian...11 Mar 2022 — A drone that flew undetected over several Nato countri...</span></span></span>
 
-Croatian officials openly questioned why no interception occurred. Critics argued that if the drone had targeted civilian infrastructure intentionally, casualties could have been severe. The crash site lay close to residential areas and a major student dormitory complex. Roughly 90 vehicles were reportedly damaged, but no one was killed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Soviet-era drone that crashed in Croatia carried aerial...13 Apr 2022 — The investigators said 96 vehicles were damaged by the ex...</span></span></span>
+Croatian officials openly questioned why no interception occurred. Critics argued that if the drone had targeted civilian infrastructure intentionally, casualties could have been severe. The crash site lay close to residential areas and a major student dormitory complex. Roughly 90 vehicles were reportedly damaged, but no one was killed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Soviet-era drone that crashed in Croatia carried aerial...13 Apr 2022 — The investigators said 96 vehicles were damaged by the ex...</span></span></span>
 
 The event exposed several defence problems:
 
@@ -382,199 +382,199 @@ Croatia subsequently strengthened discussion around air policing and air-defence
 
 The Zagreb drone crash remains one of Europe’s clearest examples of how a modern “UFO” event can evolve under conditions of uncertainty, war, and fragmented information. In its earliest phase, the object genuinely was unidentified to the public. Residents saw an unexplained aerial object followed by a violent explosion, while officials lacked immediate answers.
 
-What makes the case historically important is not extraterrestrial speculation but the speed with which conventional evidence displaced mystery. Radar tracking, debris recovery, bomb analysis, and military investigation transformed the narrative from “unknown object over Zagreb” into a documented Cold War-era reconnaissance drone incident tied to the security crisis surrounding Ukraine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nato jet shoots down drone estonia news website delfi reports 2026 05 19</span><span class="citation-popover-snippet">It said NATO &quot;is ready and...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nato jet shoots down drone estonia news website delfi reports 2026 05 19</span><span class="citation-popover-snippet">It said NATO &quot;is ready and...Read more...</span></span></span>
+What makes the case historically important is not extraterrestrial speculation but the speed with which conventional evidence displaced mystery. Radar tracking, debris recovery, bomb analysis, and military investigation transformed the narrative from “unknown object over Zagreb” into a documented Cold War-era reconnaissance drone incident tied to the security crisis surrounding Ukraine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nato jet shoots down drone estonia news website delfi reports</span><span class="citation-popover-snippet">It said NATO &quot;is ready and...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nato jet shoots down drone estonia news website delfi reports</span><span class="citation-popover-snippet">It said NATO &quot;is ready and...Read more...</span></span></span>
 
 For Croatian UFO research more broadly, the lesson is significant. The country’s most internationally famous “UFO” event of the 2020s was ultimately not unexplained at all. Instead, it became a warning about airspace vulnerability, alliance coordination, and the risks of interpreting unidentified aerial events before technical evidence is available.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Zagreb’s 2022 Tu 141 Drone Crash Explained. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Zagreb’s 2022 Tu 141 Drone Crash Explained. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Relevant to military aviation technology and identification issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to military aviation technology and identification issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the importance of official evidence and investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of official evidence and investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context for defense systems, surveillance, and aerospace projects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for defense systems, surveillance, and aerospace projects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful reference for how unidentified objects become identified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful reference for how unidentified objects become identified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="zagreb-s-2022-tu-141-drone-crash-explained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ For Croatian UFO research more broadly, the lesson is significant. The country�
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ For Croatian UFO research more broadly, the lesson is significant. The country�
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ For Croatian UFO research more broadly, the lesson is significant. The country�
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ For Croatian UFO research more broadly, the lesson is significant. The country�
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ For Croatian UFO research more broadly, the lesson is significant. The country�
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,145 +777,144 @@ For Croatian UFO research more broadly, the lesson is significant. The country�
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: soviet era drone believed ukraine crashes croatia zagreb says 2022 03 11  
-   Link: <a href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet-era drone, believed from Ukraine, crashes in...11 Mar 2022 — A Soviet-era reconnaissance drone flying across Hungary from...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/soviet-era-drone-believed-ukraine-crashes-croatia-zagreb-says-2022-03-11/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet-era drone, believed from Ukraine, crashes in...11 Mar 2022 — A Soviet-era reconnaissance drone flying across Hungary from...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Tupolev Tu-141  
-   Link: <a href="https://en.wikipedia.org/wiki/Tupolev_Tu-141" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tupolev_Tu-141</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Tupolev_Tu-141" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tupolev_Tu-141</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: 2022 Zagreb Tu 141 crash  
-   Link: <a href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_crash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_crash</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_crash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_crash</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: TU-141 drone crashed in Croatian capital Zagreb.: r/ukraine  
-   Link: <a href="https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TU-141 drone crashed in Croatian capital Zagreb.: r/ukraineMarch 11, 2022 — Around 23:00 a drone crashed in my city, people believ...</p></details>
+   Link:<a href="https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ukraine/comments/tblarr/tu141_drone_crashed_in_croatian_capital_zagreb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TU-141 drone crashed in Croatian capital Zagreb.: r/ukraineMarch 11, 2022 — Around 23:00 a drone crashed in my city, people believ...</p></details>
    Published: March 11, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet-era drone that crashed in Croatia carried aerial...13 Apr 2022 — The investigators said 96 vehicles were damaged by the ex...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/soviet-era-drone-that-crashed-croatia-carried-aerial-bomb-experts-say-2022-04-13/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet-era drone that crashed in Croatia carried aerial...13 Apr 2022 — The investigators said 96 vehicles were damaged by the ex...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: 2022 Zagreb Tu 141 drone crash  
-   Link: <a href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Zagreb Tu-141 drone crashThe drone&#x27;s flight over Croatia, Hungary and Romania (all three being NATO states) prompted criticism of...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2022_Zagreb_Tu-141_drone_crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Zagreb Tu-141 drone crashThe drone&#x27;s flight over Croatia, Hungary and Romania (all three being NATO states) prompted criticism of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
    Title: nato jet shoots down drone estonia news website delfi reports 2026 05 19  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It said NATO &quot;is ready and...Read more...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It said NATO &quot;is ready and...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/worldnews/comments/tdc1da/official_drone_that_crashed_in_croatia_carried_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/worldnews/comments/tdc1da/official_drone_that_crashed_in_croatia_carried_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Official: Drone that crashed in Croatia carried a bombIn Croatian media I&#x27;ve read a theory that somebody mixed up Jarun, the neighbourhoo...</p></details>
+   Link:<a href="https://www.reddit.com/r/worldnews/comments/tdc1da/official_drone_that_crashed_in_croatia_carried_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/worldnews/comments/tdc1da/official_drone_that_crashed_in_croatia_carried_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official: Drone that crashed in Croatia carried a bombIn Croatian media I&#x27;ve read a theory that somebody mixed up Jarun, the neighbourhoo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Croatia criticizes NATO after crash of Russian-made drone  
-   Link: <a href="https://www.youtube.com/watch?v=xAQd0AElh-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xAQd0AElh-U</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu-141 Strizh - Tu-143 Reys - Tu-243 Reys-D | The Soviet UAVs that defy time...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xAQd0AElh-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xAQd0AElh-U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tu-141 Strizh - Tu-143 Reys - Tu-243 Reys-D | The Soviet UAVs that defy time...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Tu-141 Strizh  
-   Link: <a href="https://www.youtube.com/watch?v=l8ZUT9jor7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l8ZUT9jor7k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Police search for Russia-made military drone after crash in Zagreb...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l8ZUT9jor7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l8ZUT9jor7k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police search for Russia-made military drone after crash in Zagreb...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abc.net.au  
    Title: drone likely flying from ukraine war zone crashes in croatia  
-   Link: <a href="https://www.abc.net.au/news/2022-03-12/drone-likely-flying-from-ukraine-war-zone-crashes-in-croatia/100904952" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2022-03-12/drone-likely-flying-from-ukraine-war-zone-crashes-in-croatia/100904952</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Large drone crashes in Croatia after apparently flying from...11 Mar 2022 — A Soviet-era reconnaissance drone flying across Hungary from...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2022-03-12/drone-likely-flying-from-ukraine-war-zone-crashes-in-croatia/100904952" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2022-03-12/drone-likely-flying-from-ukraine-war-zone-crashes-in-croatia/100904952</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Large drone crashes in Croatia after apparently flying from...11 Mar 2022 — A Soviet-era reconnaissance drone flying across Hungary from...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: ukraine military drone crashes into croatian capital zagreb  
-   Link: <a href="https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianMilitary drone from Ukraine war crashes into Croatian...11 Mar 2022 — A drone that flew undetected over several Nato countri...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2022/mar/11/ukraine-military-drone-crashes-into-croatian-capital-zagreb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianMilitary drone from Ukraine war crashes into Croatian...11 Mar 2022 — A drone that flew undetected over several Nato countri...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: abc.net.au  
    Title: authorities say military drone that crashed in croatia had bomb  
-   Link: <a href="https://www.abc.net.au/news/2022-03-14/authorities-say-military-drone-that-crashed-in-croatia-had-bomb/100907200" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2022-03-14/authorities-say-military-drone-that-crashed-in-croatia-had-bomb/100907200</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Authorities say military drone that crashed in Croatia...13 Mar 2022 — Croatian investigators identified the drone as a Soviet-era Tu-14...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2022-03-14/authorities-say-military-drone-that-crashed-in-croatia-had-bomb/100907200" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2022-03-14/authorities-say-military-drone-that-crashed-in-croatia-had-bomb/100907200</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Authorities say military drone that crashed in Croatia...13 Mar 2022 — Croatian investigators identified the drone as a Soviet-era Tu-14...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reutersconnect.com  
    Title: d GFn On Jld XRlcn Mu Y29t LDIw Mj I6bm V3c21s X1JDMk Ew VDl VVz RINg  
-   Link: <a href="https://www.reutersconnect.com/item/police-and-military-officers-stand-at-a-drone-crash-site-following-russias-invasion-of-ukraine-in-zagreb/dGFnOnJldXRlcnMuY29tLDIwMjI6bmV3c21sX1JDMkEwVDlVVzRINg" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/police-and-military-officers-stand-at-a-drone-crash-site-following-russias-invasion-of-ukraine-in-zagreb/dGFnOnJldXRlcnMuY29tLDIwMjI6bmV3c21sX1JDMkEwVDlVVzRINg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Police and military officers stand at a drone crash site...Mar 11, 2022 — Police and military officers stand at a drone crash site, fol...</p></details>
+   Link:<a href="https://www.reutersconnect.com/item/police-and-military-officers-stand-at-a-drone-crash-site-following-russias-invasion-of-ukraine-in-zagreb/dGFnOnJldXRlcnMuY29tLDIwMjI6bmV3c21sX1JDMkEwVDlVVzRINg" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/police-and-military-officers-stand-at-a-drone-crash-site-following-russias-invasion-of-ukraine-in-zagreb/dGFnOnJldXRlcnMuY29tLDIwMjI6bmV3c21sX1JDMkEwVDlVVzRINg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police and military officers stand at a drone crash site...Mar 11, 2022 — Police and military officers stand at a drone crash site, fol...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aviation24.be  
-   Link: <a href="https://www.aviation24.be/miscellaneous/strike-action/ver-di/german-airports-brace-for-security-staff-strike-on-tuesday-15-march-frankfurt-airport-most-affected/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviation24.be/miscellaneous/strike-action/ver-di/german-airports-brace-for-security-staff-strike-on-tuesday-15-march-frankfurt-airport-most-affected/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 15 2022.... Previous articleUnmanned military Tu-141 “Strizh” drone flies through NATO member countries and crashes near Zagreb, C...</p></details>
+   Link:<a href="https://www.aviation24.be/miscellaneous/strike-action/ver-di/german-airports-brace-for-security-staff-strike-on-tuesday-15-march-frankfurt-airport-most-affected/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviation24.be/miscellaneous/strike-action/ver-di/german-airports-brace-for-security-staff-strike-on-tuesday-15-march-frankfurt-airport-most-affected/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 15 2022.... Previous articleUnmanned military Tu-141 “Strizh” drone flies through NATO member countries and crashes near Zagreb, C...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wftv.com  
-   Link: <a href="https://www.wftv.com/news/trending/russia-attacks-ukraine-invasion-enters-16th-day-live-updates/TINKPR3G6ZHDJLGB5V5VT4SNYM/" target="_blank" rel="noopener noreferrer nofollow">https://www.wftv.com/news/trending/russia-attacks-ukraine-invasion-enters-16th-day-live-updates/TINKPR3G6ZHDJLGB5V5VT4SNYM/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explosions heard as Russian troops move closer to Kyiv— Ministry of Defence (@DefenceHQ) March 11, 2022. Drone crashes, causes blast in C...</p></details>
+   Link:<a href="https://www.wftv.com/news/trending/russia-attacks-ukraine-invasion-enters-16th-day-live-updates/TINKPR3G6ZHDJLGB5V5VT4SNYM/" target="_blank" rel="noopener noreferrer nofollow">https://www.wftv.com/news/trending/russia-attacks-ukraine-invasion-enters-16th-day-live-updates/TINKPR3G6ZHDJLGB5V5VT4SNYM/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explosions heard as Russian troops move closer to Kyiv— Ministry of Defence (@DefenceHQ) March 11, 2022. Drone crashes, causes blast in C...</p></details>
    Published: March 11, 2022  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/ukrainian-surface-to-air-missile-likely-to-blame-for-deadly-incident-in-poland-nato-says" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/ukrainian-surface-to-air-missile-likely-to-blame-for-deadly-incident-in-poland-nato-says</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu-141 “Strizh” high-speed drone, which was reportedly carrying an explosive device, come down in Zagreb, the capital of NATO member Croa...</p></details>
+   Link:<a href="https://www.twz.com/ukrainian-surface-to-air-missile-likely-to-blame-for-deadly-incident-in-poland-nato-says" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/ukrainian-surface-to-air-missile-likely-to-blame-for-deadly-incident-in-poland-nato-says</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tu-141 “Strizh” high-speed drone, which was reportedly carrying an explosive device, come down in Zagreb, the capital of NATO member Croa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: china-cee.eu  
    Title: croatia external relations briefing natos slow response to crashed uav in zagreb  
-   Link: <a href="https://china-cee.eu/2022/04/22/croatia-external-relations-briefing-natos-slow-response-to-crashed-uav-in-zagreb/" target="_blank" rel="noopener noreferrer nofollow">https://china-cee.eu/2022/04/22/croatia-external-relations-briefing-natos-slow-response-to-crashed-uav-in-zagreb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO&#x27;s “Slow Response” to crashed UAV in Zagreb22 Apr 2022 — Shortly after 11 pm on Thursday, 10 March 2022, UAV, later identified as the...</p></details>
+   Link:<a href="https://china-cee.eu/2022/04/22/croatia-external-relations-briefing-natos-slow-response-to-crashed-uav-in-zagreb/" target="_blank" rel="noopener noreferrer nofollow">https://china-cee.eu/2022/04/22/croatia-external-relations-briefing-natos-slow-response-to-crashed-uav-in-zagreb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATO&#x27;s “Slow Response” to crashed UAV in Zagreb22 Apr 2022 — Shortly after 11 pm on Thursday, 10 March 2022, UAV, later identified as the...</p></details>
    Published: March 2022  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hungarytoday.hu  
    Title: drone over hungary crashed zagreb 120kg bomb nato defense ministry  
-   Link: <a href="https://hungarytoday.hu/drone-over-hungary-crashed-zagreb-120kg-bomb-nato-defense-ministry/" target="_blank" rel="noopener noreferrer nofollow">https://hungarytoday.hu/drone-over-hungary-crashed-zagreb-120kg-bomb-nato-defense-ministry/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Croatian Press: Drone That Flew over...16 Mar 2022 — An unmanned aircraft crossed Romania and Hungary before entering Croatia and crashi...</p></details>
+   Link:<a href="https://hungarytoday.hu/drone-over-hungary-crashed-zagreb-120kg-bomb-nato-defense-ministry/" target="_blank" rel="noopener noreferrer nofollow">https://hungarytoday.hu/drone-over-hungary-crashed-zagreb-120kg-bomb-nato-defense-ministry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Croatian Press: Drone That Flew over...16 Mar 2022 — An unmanned aircraft crossed Romania and Hungary before entering Croatia and crashi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scmp.com  
    Title: military drone crashed croatia carried bomb says defence minister  
-   Link: <a href="https://www.scmp.com/news/world/europe/article/3170326/military-drone-crashed-croatia-carried-bomb-says-defence-minister" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/news/world/europe/article/3170326/military-drone-crashed-croatia-carried-bomb-says-defence-minister</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military drone that crashed in Croatia carried a bomb, says...Mar 14, 2022 — The drone, which apparently flew from Ukraine over European...</p></details>
+   Link:<a href="https://www.scmp.com/news/world/europe/article/3170326/military-drone-crashed-croatia-carried-bomb-says-defence-minister" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/news/world/europe/article/3170326/military-drone-crashed-croatia-carried-bomb-says-defence-minister</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military drone that crashed in Croatia carried a bomb, says...Mar 14, 2022 — The drone, which apparently flew from Ukraine over European...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: telegraph.co.uk  
    Title: russian made military drone crashes croatia flying eastern europe  
-   Link: <a href="https://www.telegraph.co.uk/world-news/2022/03/11/russian-made-military-drone-crashes-croatia-flying-eastern-europe/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/world-news/2022/03/11/russian-made-military-drone-crashes-croatia-flying-eastern-europe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian-made military drone crashes in Croatia after flying...11 Mar 2022 — A Russian-made military drone crashed in the Croatian capita...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/world-news/2022/03/11/russian-made-military-drone-crashes-croatia-flying-eastern-europe/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/world-news/2022/03/11/russian-made-military-drone-crashes-croatia-flying-eastern-europe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russian-made military drone crashes in Croatia after flying...11 Mar 2022 — A Russian-made military drone crashed in the Croatian capita...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: whio.com  
-   Link: <a href="https://www.whio.com/news/trending/russia-attacks-ukraine-invasion-enters-16th-day-live-updates/TINKPR3G6ZHDJLGB5V5VT4SNYM/" target="_blank" rel="noopener noreferrer nofollow">https://www.whio.com/news/trending/russia-attacks-ukraine-invasion-enters-16th-day-live-updates/TINKPR3G6ZHDJLGB5V5VT4SNYM/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone crashes, causes blast in Croatia. Update 6 a.m. EST March 11: Croatian officials and military...</p></details>
+   Link:<a href="https://www.whio.com/news/trending/russia-attacks-ukraine-invasion-enters-16th-day-live-updates/TINKPR3G6ZHDJLGB5V5VT4SNYM/" target="_blank" rel="noopener noreferrer nofollow">https://www.whio.com/news/trending/russia-attacks-ukraine-invasion-enters-16th-day-live-updates/TINKPR3G6ZHDJLGB5V5VT4SNYM/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone crashes, causes blast in Croatia. Update 6 a.m. EST March 11: Croatian officials and military...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: abc.net.au  
    Title: soviet era drone that crashed in croatia carried aerial bomb  
-   Link: <a href="https://www.abc.net.au/news/2022-04-14/soviet-era-drone-that-crashed-in-croatia-carried-aerial-bomb/100990520" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2022-04-14/soviet-era-drone-that-crashed-in-croatia-carried-aerial-bomb/100990520</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet-era drone that crashed in Croatia carried bomb...13 Apr 2022 — The drone, flying at 1,000 metres, crashed seven minutes after ent...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2022-04-14/soviet-era-drone-that-crashed-in-croatia-carried-aerial-bomb/100990520" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2022-04-14/soviet-era-drone-that-crashed-in-croatia-carried-aerial-bomb/100990520</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet-era drone that crashed in Croatia carried bomb...13 Apr 2022 — The drone, flying at 1,000 metres, crashed seven minutes after ent...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: iemed.org  
-   Link: <a href="https://www.iemed.org/wp-content/uploads/2025/05/Chronology-Major-Conflicts-Political-Events-IEMedYearbook2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iemed.org/wp-content/uploads/2025/05/Chronology-Major-Conflicts-Political-Events-IEMedYearbook2025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New protests in Portugal call for the protection of affordable housing. Gov-.Read more...</p></details>
+   Link:<a href="https://www.iemed.org/wp-content/uploads/2025/05/Chronology-Major-Conflicts-Political-Events-IEMedYearbook2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iemed.org/wp-content/uploads/2025/05/Chronology-Major-Conflicts-Political-Events-IEMedYearbook2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New protests in Portugal call for the protection of affordable housing. Gov-.Read more...</p></details>

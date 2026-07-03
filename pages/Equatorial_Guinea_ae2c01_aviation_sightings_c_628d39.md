@@ -257,7 +257,7 @@ image: /assets/images/Equatorial_Guinea_ae2c01_aviation_sightings_c_628d39-Illus
 [Equatorial Guinea]({{ 'equatorial-guinea/' | relative_url }}) has a small but unusually important aviation network. Because the country is divided between Bioko Island, the mainland region around Bata, and remote islands such as Annobón, aircraft are often among the only practical ways to move people, officials and cargo. That matters for UFO interpretation. In a country with limited public reporting, low air-traffic transparency and fragmented media coverage, many unusual sky observations are more plausibly linked to ordinary aviation activity than to unexplained phenomena.
 
 <img src="{{ "/assets/images/Equatorial_Guinea_ae2c01_aviation_sightings_c_628d39-Illustration-1-dark.svg" | relative_url }}" alt="Aviation Context illustration 1" data-theme-src-dark="{{ "/assets/images/Equatorial_Guinea_ae2c01_aviation_sightings_c_628d39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Equatorial_Guinea_ae2c01_aviation_sightings_c_628d39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The strongest pattern is geographical rather than mysterious: the most likely locations for misidentified lights are around Malabo International Airport, the Bata corridor, offshore flight approaches over the Gulf of Guinea, and isolated island routes where aircraft can appear suddenly through cloud, haze or darkness. Commercial jets, turboprops, military-linked operations, charter flights and weather-related optical effects all create conditions in which unfamiliar observers may report strange aerial objects. At the same time, the absence of detailed public aviation archives in Equatorial Guinea means that later verification can be difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malabo_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malabo International Airport</span><span class="citation-popover-snippet">Malabo International Airport</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightconnections.com/flights-from-malabo-ssg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightconnections.com">[FlightConnections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightconnections.com</span><span class="citation-popover-title">flights from malabo ssg</span><span class="citation-popover-snippet">Flights from Malabo (SSG)Apr 2, 2026 — Malabo Airport has non-stop passenger flights scheduled to 11 destinations in 8 countries. At pres...</span></span></span>
+The strongest pattern is geographical rather than mysterious: the most likely locations for misidentified lights are around Malabo International Airport, the Bata corridor, offshore flight approaches over the Gulf of Guinea, and isolated island routes where aircraft can appear suddenly through cloud, haze or darkness. Commercial jets, turboprops, military-linked operations, charter flights and weather-related optical effects all create conditions in which unfamiliar observers may report strange aerial objects. At the same time, the absence of detailed public aviation archives in Equatorial Guinea means that later verification can be difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malabo_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malabo International Airport</span><span class="citation-popover-snippet">Malabo International Airport</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightconnections.com/flights-from-malabo-ssg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightconnections.com">[FlightConnections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightconnections.com</span><span class="citation-popover-title">flights from malabo ssg</span><span class="citation-popover-snippet">Flights from Malabo (SSG)Apr 2, 2026 — Malabo Airport has non-stop passenger flights scheduled to 11 destinations in 8 countries. At pres...</span></span></span>
 
 ## How Local Aviation Shapes Potential UFO Sightings
 
@@ -281,15 +281,15 @@ These factors are especially relevant in a country where many communities outsid
 
 ### Malabo as the Main Aviation Hub
 
-Malabo International Airport is the country’s primary aviation gateway and the centre of most scheduled air traffic. It handles international routes and acts as the operational hub for the national carrier CEIBA Intercontinental and other regional airlines. Passenger and flight figures published for 2020 recorded more than 237,000 passengers and over 6,800 flights, substantial numbers relative to the country’s population. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malabo_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malabo International Airport</span><span class="citation-popover-snippet">Malabo International Airport</span></span></span>
+Malabo International Airport is the country’s primary aviation gateway and the centre of most scheduled air traffic. It handles international routes and acts as the operational hub for the national carrier CEIBA Intercontinental and other regional airlines. Passenger and flight figures published for 2020 recorded more than 237,000 passengers and over 6,800 flights, substantial numbers relative to the country’s population.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malabo_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malabo International Airport</span><span class="citation-popover-snippet">Malabo International Airport</span></span></span>
 
 The airport’s location on Bioko Island increases the chance of visually confusing approaches. Aircraft commonly approach over the sea, especially at night or in poor weather. To observers along the coast, a descending aircraft with landing lights activated can appear stationary or hovering before abruptly changing direction during final approach. This is one of the most common global sources of UFO-style reports near coastal airports.
 
-Malabo also receives international traffic from Central and West Africa. Public route listings show links to destinations including Douala, Libreville, Addis Ababa and Casablanca, meaning aircraft types and lighting configurations vary considerably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.google.com/travel/flights/flights-to-malabo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: google.com">[Google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">google.com</span><span class="citation-popover-snippet">Find Cheap Flights to MalaboCronos Airlines flies to Malabo International Airport (SSG). Other popular... When should you fly to M...</span></span></span>
+Malabo also receives international traffic from Central and West Africa. Public route listings show links to destinations including Douala, Libreville, Addis Ababa and Casablanca, meaning aircraft types and lighting configurations vary considerably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.google.com/travel/flights/flights-to-malabo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: google.com">[Google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">google.com</span><span class="citation-popover-snippet">Find Cheap Flights to MalaboCronos Airlines flies to Malabo International Airport (SSG). Other popular... When should you fly to M...</span></span></span>
 
 ### The Malabo–Bata Corridor
 
-Bata Airport forms the second major aviation node. Flights between Malabo and Bata are short, frequent and operationally important because they connect the island capital with the mainland administrative and economic centre. Modern schedules typically place the flight duration at roughly 45–50 minutes, with regular direct services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightconnections.com/flights-from-malabo-ssg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightconnections.com">[FlightConnections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightconnections.com</span><span class="citation-popover-title">flights from malabo ssg</span><span class="citation-popover-snippet">Flights from Malabo (SSG)Apr 2, 2026 — Malabo Airport has non-stop passenger flights scheduled to 11 destinations in 8 countries. At pres...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyscanner.net/routes/ssg/bsg/malabo-to-bata.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyscanner.net">[Skyscanner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyscanner.net</span><span class="citation-popover-snippet">o added fees...</span></span></span>
+Bata Airport forms the second major aviation node. Flights between Malabo and Bata are short, frequent and operationally important because they connect the island capital with the mainland administrative and economic centre. Modern schedules typically place the flight duration at roughly 45–50 minutes, with regular direct services.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightconnections.com/flights-from-malabo-ssg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightconnections.com">[FlightConnections]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightconnections.com</span><span class="citation-popover-title">flights from malabo ssg</span><span class="citation-popover-snippet">Flights from Malabo (SSG)Apr 2, 2026 — Malabo Airport has non-stop passenger flights scheduled to 11 destinations in 8 countries. At pres...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyscanner.net/routes/ssg/bsg/malabo-to-bata.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyscanner.net">[Skyscanner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyscanner.net</span><span class="citation-popover-snippet">o added fees...</span></span></span>
 
 For UFO interpretation, this corridor matters because:
 
@@ -308,7 +308,7 @@ A plane climbing out of Malabo towards the mainland can appear as a bright objec
 
 ### Remote Island Operations and Annobón
 
-Annobón Airport represents a different type of aviation environment. The island is remote and relatively isolated, making aircraft visually conspicuous events rather than routine background activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kupi.com">[kupi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kupi.com</span><span class="citation-popover-snippet">Annobon airport guide – flights, transport and tipsNavigate Annobon Airport (NBN) with our guide. Find terminal details, transport to San...</span></span></span>
+Annobón Airport represents a different type of aviation environment. The island is remote and relatively isolated, making aircraft visually conspicuous events rather than routine background activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kupi.com">[kupi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kupi.com</span><span class="citation-popover-snippet">Annobon airport guide – flights, transport and tipsNavigate Annobon Airport (NBN) with our guide. Find terminal details, transport to San...</span></span></span>
 
 Flights to Annobón are operationally sensitive because of weather exposure, oceanic surroundings and limited infrastructure. Aircraft approaching a small island runway through cloud or heavy rain can produce striking visual impressions, especially when seen from coastal settlements with little ambient lighting.
 
@@ -332,7 +332,7 @@ Several recurring effects are relevant:
 
 Bioko Island is especially significant because of its volcanic terrain. An aircraft descending into Malabo may seem to vanish behind hills and then emerge unexpectedly from cloud cover, producing the impression of abrupt acceleration or impossible movement.
 
-These conditions become more confusing during storms. Equatorial Guinea experiences heavy tropical weather, and poor visibility has been implicated in real aviation incidents. Reports surrounding a 2024 CEIBA Intercontinental Boeing 737 runway overrun at Malabo referred to adverse meteorological conditions and a long landing in poor weather. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/415299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Aviation Safety NetworkRunway excursion Accident Boeing 737-8FB (WL) ET-...29 Aug 2024 — Ceiba International flight CEL205, a Boeing 737...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://avherald.com/h?article=51d088ca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avherald.com">[Aviation Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avherald.com</span><span class="citation-popover-snippet">Aviation HeraldCeiba B738 at Malabo on Aug 29th 2024, overran runway...29 Aug 2024 — Equatorial Guinea&#x27;s Ministry reported this occurren...</span></span></span>
+These conditions become more confusing during storms. Equatorial Guinea experiences heavy tropical weather, and poor visibility has been implicated in real aviation incidents. Reports surrounding a 2024 CEIBA Intercontinental Boeing 737 runway overrun at Malabo referred to adverse meteorological conditions and a long landing in poor weather.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/415299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Aviation Safety NetworkRunway excursion Accident Boeing 737-8FB (WL) ET-...29 Aug 2024 — Ceiba International flight CEL205, a Boeing 737...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://avherald.com/h?article=51d088ca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avherald.com">[Aviation Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avherald.com</span><span class="citation-popover-snippet">Aviation HeraldCeiba B738 at Malabo on Aug 29th 2024, overran runway...29 Aug 2024 — Equatorial Guinea&#x27;s Ministry reported this occurren...</span></span></span>
 
 While that event was not connected to UFO claims, it illustrates how difficult flying conditions can be in the region. Severe weather increases the likelihood that unusual aircraft behaviour will be interpreted incorrectly by ground observers.
 
@@ -341,7 +341,7 @@ While that event was not connected to UFO claims, it illustrates how difficult f
 
 Equatorial Guinea has experienced a number of aviation accidents and operational disruptions over the years, although documentation is often fragmented. These incidents are relevant because they demonstrate the reality of hazardous operating conditions rather than mysterious aerial activity.
 
-One of the most widely reported historical cases involved a flight approaching Annobón that crashed during severe weather while carrying political officials. Contemporary accident summaries described strong winds and heavy rainfall before loss of control near the island. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baaa-acro.com/country/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baaa-acro.com">[baaa-acro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baaa-acro.com</span><span class="citation-popover-snippet">Equatorial GuineaThe aircraft departed Bata on a special flight to Annobón Island carrying six politicians completing an election tour an...</span></span></span>
+One of the most widely reported historical cases involved a flight approaching Annobón that crashed during severe weather while carrying political officials. Contemporary accident summaries described strong winds and heavy rainfall before loss of control near the island.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baaa-acro.com/country/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baaa-acro.com">[baaa-acro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baaa-acro.com</span><span class="citation-popover-snippet">Equatorial GuineaThe aircraft departed Bata on a special flight to Annobón Island carrying six politicians completing an election tour an...</span></span></span>
 
 From a UFO-analysis perspective, aviation incidents matter in two ways:
 
@@ -387,7 +387,7 @@ On remote islands such as Annobón, where air traffic is relatively infrequent, 
 
 ### Military or Government Flights
 
-Malabo International Airport is listed as both military and public-use infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malabo_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malabo International Airport</span><span class="citation-popover-snippet">Malabo International Airport</span></span></span> In states with limited transparency, government or military-linked flights may generate speculation simply because schedules and operations are not publicly detailed.
+Malabo International Airport is listed as both military and public-use infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malabo_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malabo International Airport</span><span class="citation-popover-snippet">Malabo International Airport</span></span></span> In states with limited transparency, government or military-linked flights may generate speculation simply because schedules and operations are not publicly detailed.
 
 That does not imply secret aerospace activity. In most cases, opaque state aviation environments increase uncertainty rather than evidence. An unfamiliar transport aircraft, unscheduled charter or state helicopter can easily become the basis for rumours in the absence of public flight data.
 
@@ -421,194 +421,194 @@ The overall pattern is not one of a country overflowing with unexplained aerial 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rn39Hhyk7WE" title="Pentagon UFO files show no alien evidence, analyst says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer">Pentagon UFO files show no alien evidence, analyst says</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 21.3K &middot; Uploaded: May 2026 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rn39Hhyk7WE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Local Aviation Shapes Potential UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Local Aviation Shapes Potential UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Examines how sightings are interpreted and amplified in different information environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how sightings are interpreted and amplified in different information environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong on sighting classification and distinguishing unexplained reports from aircraft and observational errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong on sighting classification and distinguishing unexplained reports from aircraft and observational errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Focuses on misidentifications, evidence evaluation, and ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on misidentifications, evidence evaluation, and ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes aviation-related witness testimony and discussion of aerial identification issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes aviation-related witness testimony and discussion of aerial identification issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-local-aviation-shapes-potential-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-local-aviation-shapes-potential-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -624,7 +624,7 @@ The overall pattern is not one of a country overflowing with unexplained aerial 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -644,7 +644,7 @@ The overall pattern is not one of a country overflowing with unexplained aerial 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -676,7 +676,7 @@ The overall pattern is not one of a country overflowing with unexplained aerial 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -728,7 +728,7 @@ The overall pattern is not one of a country overflowing with unexplained aerial 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -773,7 +773,7 @@ The overall pattern is not one of a country overflowing with unexplained aerial 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -811,142 +811,141 @@ The overall pattern is not one of a country overflowing with unexplained aerial 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Malabo International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Malabo_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malabo_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malabo_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malabo_International_Airport</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: flightconnections.com  
    Title: flights from malabo ssg  
-   Link: <a href="https://www.flightconnections.com/flights-from-malabo-ssg" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-malabo-ssg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Malabo (SSG)Apr 2, 2026 — Malabo Airport has non-stop passenger flights scheduled to 11 destinations in 8 countries. At pres...</p></details>
+   Link:<a href="https://www.flightconnections.com/flights-from-malabo-ssg" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-malabo-ssg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Malabo (SSG)Apr 2, 2026 — Malabo Airport has non-stop passenger flights scheduled to 11 destinations in 8 countries. At pres...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/travel/flights/flights-to-malabo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/travel/flights/flights-to-malabo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Find Cheap Flights to MalaboCronos Airlines flies to Malabo International Airport (SSG). Other popular... When should you fly to M...</p></details>
+   Link:<a href="https://www.google.com/travel/flights/flights-to-malabo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/travel/flights/flights-to-malabo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find Cheap Flights to MalaboCronos Airlines flies to Malabo International Airport (SSG). Other popular... When should you fly to M...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: flightconnections.com  
-   Link: <a href="https://www.flightconnections.com/flights-from-ssg-to-bsg" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-ssg-to-bsg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from SSG to BSG are operated 13 times a week, with an average of 2 flights per day. Departure times vary between 08:00 - 16:00.Re...</p></details>
+   Link:<a href="https://www.flightconnections.com/flights-from-ssg-to-bsg" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-ssg-to-bsg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from SSG to BSG are operated 13 times a week, with an average of 2 flights per day. Departure times vary between 08:00 - 16:00.Re...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skyscanner.net  
-   Link: <a href="https://www.skyscanner.net/routes/ssg/bsg/malabo-to-bata.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/routes/ssg/bsg/malabo-to-bata.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>o added fees...</p></details>
+   Link:<a href="https://www.skyscanner.net/routes/ssg/bsg/malabo-to-bata.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.net/routes/ssg/bsg/malabo-to-bata.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o added fees...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: kupi.com  
-   Link: <a href="https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annobon airport guide – flights, transport and tipsNavigate Annobon Airport (NBN) with our guide. Find terminal details, transport to San...</p></details>
+   Link:<a href="https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/equatorial-guinea/san-antonio-de-pale/annobon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annobon airport guide – flights, transport and tipsNavigate Annobon Airport (NBN) with our guide. Find terminal details, transport to San...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: baaa-acro.com  
-   Link: <a href="https://www.baaa-acro.com/country/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/country/equatorial-guinea</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial GuineaThe aircraft departed Bata on a special flight to Annobón Island carrying six politicians completing an election tour an...</p></details>
+   Link:<a href="https://www.baaa-acro.com/country/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/country/equatorial-guinea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial GuineaThe aircraft departed Bata on a special flight to Annobón Island carrying six politicians completing an election tour an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/415299" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/415299</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkRunway excursion Accident Boeing 737-8FB (WL) ET-...29 Aug 2024 — Ceiba International flight CEL205, a Boeing 737...</p></details>
+   Link:<a href="https://aviation-safety.net/wikibase/415299" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/415299</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkRunway excursion Accident Boeing 737-8FB (WL) ET-...29 Aug 2024 — Ceiba International flight CEL205, a Boeing 737...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: flightconnections.com  
    Title: flights to bata bsg  
-   Link: <a href="https://www.flightconnections.com/flights-to-bata-bsg" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-to-bata-bsg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights to Bata (BSG)Apr 2, 2026 — There is just one domestic flight to Bata, which is between Bata and Malabo. From Malabo, direct fligh...</p></details>
+   Link:<a href="https://www.flightconnections.com/flights-to-bata-bsg" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-to-bata-bsg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flights to Bata (BSG)Apr 2, 2026 — There is just one domestic flight to Bata, which is between Bata and Malabo. From Malabo, direct fligh...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: flightconnections.com  
-   Link: <a href="https://www.flightconnections.com/flights-from-equatorial-guinea-gq" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-equatorial-guinea-gq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Equatorial GuineaInternational flights are available from every airport, while intercontinental flights are solely served by...</p></details>
+   Link:<a href="https://www.flightconnections.com/flights-from-equatorial-guinea-gq" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-equatorial-guinea-gq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Equatorial GuineaInternational flights are available from every airport, while intercontinental flights are solely served by...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: flightconnections.com  
    Title: flights from bata bsg  
-   Link: <a href="https://www.flightconnections.com/flights-from-bata-bsg" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-bata-bsg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Bata (BSG)2 Apr 2026 — All direct (non-stop) flights from Bata (BSG) on an interactive route map. Explore planned flights to...</p></details>
+   Link:<a href="https://www.flightconnections.com/flights-from-bata-bsg" target="_blank" rel="noopener noreferrer nofollow">https://www.flightconnections.com/flights-from-bata-bsg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flights from Bata (BSG)2 Apr 2026 — All direct (non-stop) flights from Bata (BSG) on an interactive route map. Explore planned flights to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/travel/flights/region/flights-to-equatorial-guinea.html?gl=US&amp;hl=en-US" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/travel/flights/region/flights-to-equatorial-guinea.html?gl=US&amp;hl=en-US</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Find Cheap Flights to Equatorial GuineaThe most popular flight destinations in Equatorial Guinea are Malabo and Bata.... Malabo Internat...</p></details>
+   Link:<a href="https://www.google.com/travel/flights/region/flights-to-equatorial-guinea.html?gl=US&amp;hl=en-US" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/travel/flights/region/flights-to-equatorial-guinea.html?gl=US&amp;hl=en-US</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find Cheap Flights to Equatorial GuineaThe most popular flight destinations in Equatorial Guinea are Malabo and Bata.... Malabo Internat...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skyscanner.com  
-   Link: <a href="https://www.skyscanner.com/flights/arrivals-departures/bsg/bata-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.com/flights/arrivals-departures/bsg/bata-arrivals-departures</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bata (BSG) Arrivals and Departures | Live Flight StatusGet the latest information on Bata (BSG) arrivals and departures. Includes real-ti...</p></details>
+   Link:<a href="https://www.skyscanner.com/flights/arrivals-departures/bsg/bata-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.com/flights/arrivals-departures/bsg/bata-arrivals-departures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bata (BSG) Arrivals and Departures | Live Flight StatusGet the latest information on Bata (BSG) arrivals and departures. Includes real-ti...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skyscanner.com  
    Title: Cheap flights from Bata to Equatorial Guinea  
-   Link: <a href="https://www.skyscanner.com/routes/bsg/gq/bata-to-equatorial-guinea.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.com/routes/bsg/gq/bata-to-equatorial-guinea.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking for tickets to Equatorial Guinea from Bata? Compare hundreds of flights from all major airlines and travel agents to fi...</p></details>
+   Link:<a href="https://www.skyscanner.com/routes/bsg/gq/bata-to-equatorial-guinea.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.com/routes/bsg/gq/bata-to-equatorial-guinea.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Looking for tickets to Equatorial Guinea from Bata? Compare hundreds of flights from all major airlines and travel agents to fi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: avherald.com  
-   Link: <a href="https://avherald.com/h?article=51d088ca" target="_blank" rel="noopener noreferrer nofollow">https://avherald.com/h?article=51d088ca</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation HeraldCeiba B738 at Malabo on Aug 29th 2024, overran runway...29 Aug 2024 — Equatorial Guinea&#x27;s Ministry reported this occurren...</p></details>
+   Link:<a href="https://avherald.com/h?article=51d088ca" target="_blank" rel="noopener noreferrer nofollow">https://avherald.com/h?article=51d088ca</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation HeraldCeiba B738 at Malabo on Aug 29th 2024, overran runway...29 Aug 2024 — Equatorial Guinea&#x27;s Ministry reported this occurren...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: metar-taf.com  
-   Link: <a href="https://metar-taf.com/airport/FGSL-malabo-airport" target="_blank" rel="noopener noreferrer nofollow">https://metar-taf.com/airport/FGSL-malabo-airport</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malabo International Airport | FGSL | Pilot infoMalabo International Airport is a large airport in Bioko Norte, Equatorial Guinea. The ai...</p></details>
+   Link:<a href="https://metar-taf.com/airport/FGSL-malabo-airport" target="_blank" rel="noopener noreferrer nofollow">https://metar-taf.com/airport/FGSL-malabo-airport</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malabo International Airport | FGSL | Pilot infoMalabo International Airport is a large airport in Bioko Norte, Equatorial Guinea. The ai...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/accidents-and-incidents?f%5B0%5D=cfit%3A1802&amp;f%5B1%5D=event_type%3A1711&amp;f%5B2%5D=flight_conditions%3A12&amp;items_per_page=500" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/accidents-and-incidents?f%5B0%5D=cfit%3A1802&amp;f%5B1%5D=event_type%3A1711&amp;f%5B2%5D=flight_conditions%3A12&amp;items_per_page=500</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accidents and Incidents | SKYbrary Aviation SafetyThis directory contains articles about particular Accidents and Incidents that are cons...</p></details>
+   Link:<a href="https://skybrary.aero/accidents-and-incidents?f%5B0%5D=cfit%3A1802&amp;f%5B1%5D=event_type%3A1711&amp;f%5B2%5D=flight_conditions%3A12&amp;items_per_page=500" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/accidents-and-incidents?f%5B0%5D=cfit%3A1802&amp;f%5B1%5D=event_type%3A1711&amp;f%5B2%5D=flight_conditions%3A12&amp;items_per_page=500</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accidents and Incidents | SKYbrary Aviation SafetyThis directory contains articles about particular Accidents and Incidents that are cons...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/equatorial-guinea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airports in Equatorial GuineaAirports in Equatorial Guinea 4 airports; Bata Airport (BSG/FGBT) Rating: 43%; M; Malabo International Ai...</p></details>
+   Link:<a href="https://www.flightradar24.com/data/airports/equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/equatorial-guinea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Airports in Equatorial GuineaAirports in Equatorial Guinea 4 airports; Bata Airport (BSG/FGBT) Rating: 43%; M; Malabo International Ai...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/boeing-737-overruns-runway-equatorial-guinea-cockpitenglish-m5fne" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/boeing-737-overruns-runway-equatorial-guinea-cockpitenglish-m5fne</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing 737 Overruns Runway in Equatorial GuineaA CEIBA Intercontinental Boeing 737-800 overran the runway upon landing at Malabo Internat...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/boeing-737-overruns-runway-equatorial-guinea-cockpitenglish-m5fne" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/boeing-737-overruns-runway-equatorial-guinea-cockpitenglish-m5fne</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing 737 Overruns Runway in Equatorial GuineaA CEIBA Intercontinental Boeing 737-800 overran the runway upon landing at Malabo Internat...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ch-aviation.com  
-   Link: <a href="https://www.ch-aviation.com/news/69801-ceiba-suspends-annobn-equatorial-guinea-ops" target="_blank" rel="noopener noreferrer nofollow">https://www.ch-aviation.com/news/69801-ceiba-suspends-annobn-equatorial-guinea-ops</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CEIBA suspends Annobón, Equatorial Guinea opsCEIBA suspends Annobón, Equatorial Guinea ops. Commercial Aviation. Support Contact Newsroom...</p></details>
+   Link:<a href="https://www.ch-aviation.com/news/69801-ceiba-suspends-annobn-equatorial-guinea-ops" target="_blank" rel="noopener noreferrer nofollow">https://www.ch-aviation.com/news/69801-ceiba-suspends-annobn-equatorial-guinea-ops</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CEIBA suspends Annobón, Equatorial Guinea opsCEIBA suspends Annobón, Equatorial Guinea ops. Commercial Aviation. Support Contact Newsroom...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: expedia.com  
-   Link: <a href="https://www.expedia.com/Cheap-Flights-To-Bata.d696.Travel-Guide-Flights" target="_blank" rel="noopener noreferrer nofollow">https://www.expedia.com/Cheap-Flights-To-Bata.d696.Travel-Guide-Flights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap Flights to BataPopular airlines to Bata · American Airlines · United · Southwest Airlines · Delta · Frontier Airlines · JetBlue Air...</p></details>
+   Link:<a href="https://www.expedia.com/Cheap-Flights-To-Bata.d696.Travel-Guide-Flights" target="_blank" rel="noopener noreferrer nofollow">https://www.expedia.com/Cheap-Flights-To-Bata.d696.Travel-Guide-Flights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cheap Flights to BataPopular airlines to Bata · American Airlines · United · Southwest Airlines · Delta · Frontier Airlines · JetBlue Air...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/samchuiphotos/posts/incident-on-29th-august-a-ceiba-intercontinental-airlines-boeing-737-overran-the/1051086493040475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/samchuiphotos/posts/incident-on-29th-august-a-ceiba-intercontinental-airlines-boeing-737-overran-the/1051086493040475/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ceiba Intercontinental Boeing 737 Overran Runway30 Aug 2024 — INCIDENT On 29th August, a Ceiba Intercontinental Airlines Boeing 737 overr...</p></details>
+   Link:<a href="https://www.facebook.com/samchuiphotos/posts/incident-on-29th-august-a-ceiba-intercontinental-airlines-boeing-737-overran-the/1051086493040475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/samchuiphotos/posts/incident-on-29th-august-a-ceiba-intercontinental-airlines-boeing-737-overran-the/1051086493040475/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ceiba Intercontinental Boeing 737 Overran Runway30 Aug 2024 — INCIDENT On 29th August, a Ceiba Intercontinental Airlines Boeing 737 overr...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aerotime.aero  
    Title: ceiba intercontinental boeing 737 800 overruns runway in equatorial guinea  
-   Link: <a href="https://www.aerotime.aero/articles/ceiba-intercontinental-boeing-737-800-overruns-runway-in-equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.aerotime.aero/articles/ceiba-intercontinental-boeing-737-800-overruns-runway-in-equatorial-guinea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CEIBA Intercontinental Boeing 737-800 overruns runway in...30 Aug 2024 — A CEIBA Intercontinental Boeing 737-800 with registration ET-AW...</p></details>
+   Link:<a href="https://www.aerotime.aero/articles/ceiba-intercontinental-boeing-737-800-overruns-runway-in-equatorial-guinea" target="_blank" rel="noopener noreferrer nofollow">https://www.aerotime.aero/articles/ceiba-intercontinental-boeing-737-800-overruns-runway-in-equatorial-guinea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CEIBA Intercontinental Boeing 737-800 overruns runway in...30 Aug 2024 — A CEIBA Intercontinental Boeing 737-800 with registration ET-AW...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: newsaero.info  
    Title: On Monday, February 17, the airline's Chief Financial Officer, Miguel Micha  
-   Link: <a href="https://newsaero.info/airlines/equatorial-guineas-senate-audits-ceiba-intl-over-poor-performance?true=8358" target="_blank" rel="noopener noreferrer nofollow">https://newsaero.info/airlines/equatorial-guineas-senate-audits-ceiba-intl-over-poor-performance?true=8358</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial Guinea&#x27;s Senate Audits Ceiba Int&#x27;l Over Poor...Ceiba Intercontinental, Equatorial Guinea&#x27;s national airline, is under scrutiny...</p></details>
+   Link:<a href="https://newsaero.info/airlines/equatorial-guineas-senate-audits-ceiba-intl-over-poor-performance?true=8358" target="_blank" rel="noopener noreferrer nofollow">https://newsaero.info/airlines/equatorial-guineas-senate-audits-ceiba-intl-over-poor-performance?true=8358</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial Guinea&#x27;s Senate Audits Ceiba Int&#x27;l Over Poor...Ceiba Intercontinental, Equatorial Guinea&#x27;s national airline, is under scrutiny...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: mapy.com  
-   Link: <a href="https://mapy.com/en/?q=Airports+in+Equatorial+Guinea" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?q=Airports+in+Equatorial+Guinea</a>  
+   Link:<a href="https://mapy.com/en/?q=Airports+in+Equatorial+Guinea" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?q=Airports+in+Equatorial+Guinea</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ch-aviation.com  
-   Link: <a href="https://www.ch-aviation.com/portal/news/107680-equatorial-guineas-ceiba-incl-in-major-shake-up" target="_blank" rel="noopener noreferrer nofollow">https://www.ch-aviation.com/portal/news/107680-equatorial-guineas-ceiba-incl-in-major-shake-up</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial Guinea&#x27;s CEIBA Inc&#x27;l in major shake-upWant to learn more about CEIBA Intercontinental? Subscribe now and never miss a critical...</p></details>
+   Link:<a href="https://www.ch-aviation.com/portal/news/107680-equatorial-guineas-ceiba-incl-in-major-shake-up" target="_blank" rel="noopener noreferrer nofollow">https://www.ch-aviation.com/portal/news/107680-equatorial-guineas-ceiba-incl-in-major-shake-up</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Equatorial Guinea&#x27;s CEIBA Inc&#x27;l in major shake-upWant to learn more about CEIBA Intercontinental? Subscribe now and never miss a critical...</p></details>

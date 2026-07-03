@@ -248,7 +248,7 @@ image: /assets/images/Singapore_20c0b7_singapore_ufo_record_0694ea-Illustration-
 
 ## Introduction
 
-Singapore does not have a dedicated national UFO archive comparable to the United States Air Force's Project Blue Book files or the United Kingdom's former Ministry of Defence UFO desk. That absence shapes almost every discussion about unidentified aerial reports in the country. Most Singapore cases survive through newspaper reports, scattered government archives, foreign intelligence collections, aviation references and, more recently, social-media posts rather than through a single official investigative record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nas.gov.sg/archivesonline/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nas.gov.sg">[2nas.gov.sg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nas.gov.sg</span><span class="citation-popover-title">Archives Online</span><span class="citation-popover-snippet">SingaporeSearch: Audiovisual and Sound Recordings, Audiovisual and Sound Recordings, Government Files, and Papers Presented to Parliament...</span></span></span>
+Singapore does not have a dedicated national UFO archive comparable to the United States Air Force's Project Blue Book files or the United Kingdom's former Ministry of Defence UFO desk. That absence shapes almost every discussion about unidentified aerial reports in the country. Most Singapore cases survive through newspaper reports, scattered government archives, foreign intelligence collections, aviation references and, more recently, social-media posts rather than through a single official investigative record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nas.gov.sg/archivesonline/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nas.gov.sg">[2nas.gov.sg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nas.gov.sg</span><span class="citation-popover-title">Archives Online</span><span class="citation-popover-snippet">SingaporeSearch: Audiovisual and Sound Recordings, Audiovisual and Sound Recordings, Government Files, and Papers Presented to Parliament...</span></span></span>
 
 <img src="{{ "/assets/images/Singapore_20c0b7_singapore_ufo_record_0694ea-Illustration-1-dark.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/Singapore_20c0b7_singapore_ufo_record_0694ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Singapore_20c0b7_singapore_ufo_record_0694ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers trying to assess whether a Singapore sighting deserves serious attention, the key question is often not what was seen but where the record comes from. A report preserved in a contemporary newspaper with named locations and an identified explanation carries a very different evidential weight from a claim that survives only as a brief reference inside a foreign intelligence digest. Understanding those differences is more useful than simply collecting sighting stories. Singapore's UFO record is small enough that archive quality, source chains and documentation standards matter as much as the sightings themselves.
@@ -257,11 +257,11 @@ For readers trying to assess whether a Singapore sighting deserves serious atten
 
 The country's UFO history rests on four main source categories, each with different strengths and weaknesses.
 
-**Newspaper archives** are the strongest and most accessible foundation. Singapore's National Library Board maintains extensive digitised newspaper collections through NewspaperSG, preserving local reporting from the colonial era through the modern period. These archives allow researchers to verify dates, descriptions, witness claims and subsequent explanations rather than relying on retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Newspaper archives** are the strongest and most accessible foundation. Singapore's National Library Board maintains extensive digitised newspaper collections through NewspaperSG, preserving local reporting from the colonial era through the modern period. These archives allow researchers to verify dates, descriptions, witness claims and subsequent explanations rather than relying on retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Government and archival repositories** provide much less UFO-specific material. The National Archives of Singapore preserves photographs, records and oral-history collections, but no publicly known dedicated UFO investigation programme has emerged from its holdings. Researchers therefore tend to use the archives indirectly, looking for aviation, meteorological or defence records that can illuminate specific incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nas.gov.sg/archivesonline/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nas.gov.sg">[nas.gov.sg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nas.gov.sg</span><span class="citation-popover-title">Archives Online</span><span class="citation-popover-snippet">SingaporeSearch: Audiovisual and Sound Recordings, Audiovisual and Sound Recordings, Government Files, and Papers Presented to Parliament...</span></span></span>
+**Government and archival repositories** provide much less UFO-specific material. The National Archives of Singapore preserves photographs, records and oral-history collections, but no publicly known dedicated UFO investigation programme has emerged from its holdings. Researchers therefore tend to use the archives indirectly, looking for aviation, meteorological or defence records that can illuminate specific incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nas.gov.sg/archivesonline/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nas.gov.sg">[nas.gov.sg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nas.gov.sg</span><span class="citation-popover-title">Archives Online</span><span class="citation-popover-snippet">SingaporeSearch: Audiovisual and Sound Recordings, Audiovisual and Sound Recordings, Government Files, and Papers Presented to Parliament...</span></span></span>
 
-**Foreign intelligence and military archives** occasionally contain references to Singapore sightings. These records attract attention because they appear official, but many are actually secondary compilations summarising reports gathered from newspapers, diplomats or overseas observers. Their existence proves that a report circulated internationally; it does not necessarily prove that the event was independently investigated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...A mysterious light traveling at high speed was observed over Singapore on the night of...</span></span></span>
+**Foreign intelligence and military archives** occasionally contain references to Singapore sightings. These records attract attention because they appear official, but many are actually secondary compilations summarising reports gathered from newspapers, diplomats or overseas observers. Their existence proves that a report circulated internationally; it does not necessarily prove that the event was independently investigated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...A mysterious light traveling at high speed was observed over Singapore on the night of...</span></span></span>
 
 **Modern digital evidence** includes smartphone videos, online forums and social-media uploads. These sources provide more imagery than earlier decades but often less verification. Metadata is frequently absent, original files are rarely preserved and reposting can separate footage from its original context.
 
@@ -275,7 +275,7 @@ The best-known example is the October 1954 Geylang Serai "flying saucer" scare. 
 
 This case illustrates why archive quality matters. Many UFO stories survive only as recollections written years later. The Geylang Serai incident survives through contemporaneous reporting, allowing researchers to trace both the claim and the explanation. That substantially increases confidence in the historical record even though the mystery itself disappears.
 
-Newspaper archives also reveal another important pattern: Singapore readers were exposed to international "flying saucer" narratives long before the country accumulated many local reports. Local newspapers frequently covered overseas UFO stories, official investigations and popular culture linked to the flying-saucer era. This creates a useful historical context because it shows how public expectations about unusual objects in the sky were shaped by global media coverage rather than purely local experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://biblioasia.nlb.gov.sg/all-sections/vol-13-issue-2-jul-sep-2017-sci-fi-in-singapore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblioasia.nlb.gov.sg">[BiblioAsia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblioasia.nlb.gov.sg</span><span class="citation-popover-title">vol 13 issue 2 jul sep 2017 sci fi in singapore</span><span class="citation-popover-snippet">Sci-Fi in Singapore: 1970s to 1990s7 Jul 2017 — Published in 1953, Tungga dan Piring Terbang (Tungga and the Flying Saucer) is...</span></span></span>
+Newspaper archives also reveal another important pattern: Singapore readers were exposed to international "flying saucer" narratives long before the country accumulated many local reports. Local newspapers frequently covered overseas UFO stories, official investigations and popular culture linked to the flying-saucer era. This creates a useful historical context because it shows how public expectations about unusual objects in the sky were shaped by global media coverage rather than purely local experiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://biblioasia.nlb.gov.sg/all-sections/vol-13-issue-2-jul-sep-2017-sci-fi-in-singapore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblioasia.nlb.gov.sg">[BiblioAsia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblioasia.nlb.gov.sg</span><span class="citation-popover-title">vol 13 issue 2 jul sep 2017 sci fi in singapore</span><span class="citation-popover-snippet">Sci-Fi in Singapore: 1970s to 1990s7 Jul 2017 — Published in 1953, Tungga dan Piring Terbang (Tungga and the Flying Saucer) is...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KrRLZt2bB8s" title="How Is Singapore’s Collection of Oral Histories Preserved? | The Library Report #44" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KrRLZt2bB8s" target="_blank" rel="noopener noreferrer">How Is Singapore’s Collection of Oral Histories Preserved? | The Library Report #44</a></p><p class="youtube-embed-meta">Channel: NLB Singapore &middot; Views: 46.5K &middot; Uploaded: February 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KrRLZt2bB8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KrRLZt2bB8s">Open on YouTube</a></p></div></div></div>
 
@@ -283,7 +283,7 @@ Newspaper archives also reveal another important pattern: Singapore readers were
 
 The most frequently cited archival anomaly connected to Singapore is not a Singapore government file at all.
 
-A declassified CIA-held document discussing unidentified flying-object reports from 1954 includes a brief reference to a fast-moving mysterious light reportedly observed over Singapore on the night of 4 September 1954. According to the document, several observers reported the sighting to British authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0005516194" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20 SEPTEMBER 1954. Document... Singapo...</span><span class="citation-popover-meta">Published: SEPTEMBER 1954</span></span></span>
+A declassified CIA-held document discussing unidentified flying-object reports from 1954 includes a brief reference to a fast-moving mysterious light reportedly observed over Singapore on the night of 4 September 1954. According to the document, several observers reported the sighting to British authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0005516194" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20 SEPTEMBER 1954. Document... Singapo...</span><span class="citation-popover-meta">Published: SEPTEMBER 1954</span></span></span>
 
 At first glance, intelligence documents appear stronger than newspaper stories because they carry official classifications and archival references. In practice, this case demonstrates the opposite risk.
 
@@ -294,7 +294,7 @@ Several problems affect the evidential chain:
 * The document is a compilation rather than a complete investigative file.
 * The report appears to have travelled through multiple intermediaries before entering the archive.
 * Publicly available records do not contain a detailed Singapore investigation accompanying the summary.
-* The surviving reference is extremely brief, limiting attempts to reconstruct trajectory, weather conditions or witness reliability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...A mysterious light traveling at high speed was observed over Singapore on the night of...</span></span></span>
+* The surviving reference is extremely brief, limiting attempts to reconstruct trajectory, weather conditions or witness reliability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...A mysterious light traveling at high speed was observed over Singapore on the night of...</span></span></span>
 
 </div>
 
@@ -329,7 +329,7 @@ These cases are often misrepresented online as unresolved mysteries when the mor
 
 The weakest category consists of reports known primarily through references, summaries or later retellings.
 
-The 1954 Singapore light mentioned in CIA-held material fits this category. Researchers can verify that a report circulated, but the evidential chain remains incomplete. The archival record preserves the existence of a claim rather than establishing the reality of an unexplained phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0005516194" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20 SEPTEMBER 1954. Document... Singapo...</span><span class="citation-popover-meta">Published: SEPTEMBER 1954</span></span></span>
+The 1954 Singapore light mentioned in CIA-held material fits this category. Researchers can verify that a report circulated, but the evidential chain remains incomplete. The archival record preserves the existence of a claim rather than establishing the reality of an unexplained phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/0005516194" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20 SEPTEMBER 1954. Document... Singapo...</span><span class="citation-popover-meta">Published: SEPTEMBER 1954</span></span></span>
 
 A contested case is not necessarily false. It simply lacks the documentation needed for confident evaluation.
 
@@ -366,194 +366,194 @@ The country's most reliable cases tend to be those with ordinary explanations be
 For that reason, Singapore's UFO history is best understood as an archive problem as much as an anomaly problem. The key divide is not between believers and sceptics. It is between reports supported by traceable records and reports preserved only as isolated references. Once that distinction is applied consistently, the country's small body of UFO material becomes much easier to evaluate.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Singapore UFO Evidence Actually Comes From. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Singapore UFO Evidence Actually Comes From. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for separating strong and weak case evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for separating strong and weak case evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Illustrates how official records are assembled and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how official records are assembled and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Strong fit for a page focused on evidence sources and archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a page focused on evidence sources and archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises source quality and official testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises source quality and official testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-singapore-ufo-evidence-actually-comes-from-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-singapore-ufo-evidence-actually-comes-from-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ For that reason, Singapore's UFO history is best understood as an archive proble
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ For that reason, Singapore's UFO history is best understood as an archive proble
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ For that reason, Singapore's UFO history is best understood as an archive proble
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ For that reason, Singapore's UFO history is best understood as an archive proble
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ For that reason, Singapore's UFO history is best understood as an archive proble
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,143 +756,142 @@ For that reason, Singapore's UFO history is best understood as an archive proble
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: eresources.nlb.gov.sg  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nas.gov.sg  
    Title: Archives Online  
-   Link: <a href="https://www.nas.gov.sg/archivesonline/" target="_blank" rel="noopener noreferrer nofollow">https://www.nas.gov.sg/archivesonline/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SingaporeSearch: Audiovisual and Sound Recordings, Audiovisual and Sound Recordings, Government Files, and Papers Presented to Parliament...</p></details>
+   Link:<a href="https://www.nas.gov.sg/archivesonline/" target="_blank" rel="noopener noreferrer nofollow">https://www.nas.gov.sg/archivesonline/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SingaporeSearch: Audiovisual and Sound Recordings, Audiovisual and Sound Recordings, Government Files, and Papers Presented to Parliament...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...A mysterious light traveling at high speed was observed over Singapore on the night of...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...A mysterious light traveling at high speed was observed over Singapore on the night of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005516194" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516194</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20 SEPTEMBER 1954. Document... Singapo...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/0005516194" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516194</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31...SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20 SEPTEMBER 1954. Document... Singapo...</p></details>
    Published: SEPTEMBER 1954  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: biblioasia.nlb.gov.sg  
    Title: vol 13 issue 2 jul sep 2017 sci fi in singapore  
-   Link: <a href="https://biblioasia.nlb.gov.sg/all-sections/vol-13-issue-2-jul-sep-2017-sci-fi-in-singapore/" target="_blank" rel="noopener noreferrer nofollow">https://biblioasia.nlb.gov.sg/all-sections/vol-13-issue-2-jul-sep-2017-sci-fi-in-singapore/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sci-Fi in Singapore: 1970s to 1990s7 Jul 2017 — Published in 1953, Tungga dan Piring Terbang (Tungga and the Flying Saucer) is...</p></details>
+   Link:<a href="https://biblioasia.nlb.gov.sg/all-sections/vol-13-issue-2-jul-sep-2017-sci-fi-in-singapore/" target="_blank" rel="noopener noreferrer nofollow">https://biblioasia.nlb.gov.sg/all-sections/vol-13-issue-2-jul-sep-2017-sci-fi-in-singapore/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sci-Fi in Singapore: 1970s to 1990s7 Jul 2017 — Published in 1953, Tungga dan Piring Terbang (Tungga and the Flying Saucer) is...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eresources.nlb.gov.sg  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19850729-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19850729-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Straits Times, 29 July 1985 - Singapore29 Jul 1985 — Tass news agency reported today that clouds were dispersed by specialists from the M...</p></details>
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19850729-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19850729-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Straits Times, 29 July 1985 - Singapore29 Jul 1985 — Tass news agency reported today that clouds were dispersed by specialists from the M...</p></details>
    Published: July 1985  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19541208 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541208-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541208-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>report- ed that a flying saucer had landed. I Examination showed that the object, nearly ten feet high. was a plastic ballon filled with...</p></details>
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541208-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541208-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report- ed that a flying saucer had landed. I Examination showed that the object, nearly ten feet high. was a plastic ballon filled with...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: biblioasia.nlb.gov.sg  
    Title: vol 18 issue 2 jul sep 2022 history singapore airlines  
-   Link: <a href="https://biblioasia.nlb.gov.sg/all-sections/vol-18-issue-2-jul-sep-2022-history-singapore-airlines/" target="_blank" rel="noopener noreferrer nofollow">https://biblioasia.nlb.gov.sg/all-sections/vol-18-issue-2-jul-sep-2022-history-singapore-airlines/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Authority of Singapore Collection, courtesy of National Archives...Read more...</p></details>
+   Link:<a href="https://biblioasia.nlb.gov.sg/all-sections/vol-18-issue-2-jul-sep-2022-history-singapore-airlines/" target="_blank" rel="noopener noreferrer nofollow">https://biblioasia.nlb.gov.sg/all-sections/vol-18-issue-2-jul-sep-2022-history-singapore-airlines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation Authority of Singapore Collection, courtesy of National Archives...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.ukcab 195/18 cabinet minutes cc(59) 2S.Ll  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/cab-195-18-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/cab-195-18-transcript.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On supply of arms to Indonesia, there are torpedo-tubes to go into launches built in Germany. Shall suggest they raise ques in N.A.T.O. –...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/cab-195-18-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/cab-195-18-transcript.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On supply of arms to Indonesia, there are torpedo-tubes to go into launches built in Germany. Shall suggest they raise ques in N.A.T.O. –...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: isomer-user-content.by.gov.sg  
-   Link: <a href="https://isomer-user-content.by.gov.sg/339/bff18d17-cab9-4767-a5c7-f1f5e58af8e1/BiblioAsia%20Oct-Dec%202021v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://isomer-user-content.by.gov.sg/339/bff18d17-cab9-4767-a5c7-f1f5e58af8e1/BiblioAsia%20Oct-Dec%202021v2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>building a collection of comics, the National Library Board (NLB) has hosted various comics events to increase the profile of local comic...</p></details>
+   Link:<a href="https://isomer-user-content.by.gov.sg/339/bff18d17-cab9-4767-a5c7-f1f5e58af8e1/BiblioAsia%20Oct-Dec%202021v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://isomer-user-content.by.gov.sg/339/bff18d17-cab9-4767-a5c7-f1f5e58af8e1/BiblioAsia%20Oct-Dec%202021v2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>building a collection of comics, the National Library Board (NLB) has hosted various comics events to increase the profile of local comic...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: isomer-user-content.by.gov.sg  
-   Link: <a href="https://isomer-user-content.by.gov.sg/339/ba034f7c-2eef-435d-8929-d981bb56adea/Biblioasia%20JUL-SEP%202016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://isomer-user-content.by.gov.sg/339/ba034f7c-2eef-435d-8929-d981bb56adea/Biblioasia%20JUL-SEP%202016.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>keletons that are best left in the closets where they belong.Read more...</p></details>
+   Link:<a href="https://isomer-user-content.by.gov.sg/339/ba034f7c-2eef-435d-8929-d981bb56adea/Biblioasia%20JUL-SEP%202016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://isomer-user-content.by.gov.sg/339/ba034f7c-2eef-435d-8929-d981bb56adea/Biblioasia%20JUL-SEP%202016.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>keletons that are best left in the closets where they belong.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
    Title: Border Guards djvu.txt  
-   Link: <a href="https://archive.org/stream/BorderGuards/Border-Guards_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/BorderGuards/Border-Guards_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Border Guards&quot;Later in November 1964, the CIA launched a U2 flight out of Aviation Research Centre (ARC)&#x27;s Charbatia Air Ba...</p></details>
+   Link:<a href="https://archive.org/stream/BorderGuards/Border-Guards_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/BorderGuards/Border-Guards_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Border Guards&quot;Later in November 1964, the CIA launched a U2 flight out of Aviation Research Centre (ARC)&#x27;s Charbatia Air Ba...</p></details>
    Published: November 1964  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: National Archives of Singapore  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Archives_of_Singapore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_of_Singapore</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Archives_of_Singapore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_of_Singapore</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: parliament.uk  
    Title: REGISTE R OF LORDS' INTERESTS  
-   Link: <a href="https://www.parliament.uk/globalassets/documents/publications-records/house-of-lords-publications/records-activities-and-membership/register-of-lords-interests/register260419.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/globalassets/documents/publications-records/house-of-lords-publications/records-activities-and-membership/register-of-lords-interests/register260419.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>REGISTER OF LORDS&#x27; INTERESTS - LondonNon-executive Advisory Board Member, The National Archives. Occasional income from lecturing for Dod...</p></details>
+   Link:<a href="https://www.parliament.uk/globalassets/documents/publications-records/house-of-lords-publications/records-activities-and-membership/register-of-lords-interests/register260419.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/globalassets/documents/publications-records/house-of-lords-publications/records-activities-and-membership/register-of-lords-interests/register260419.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REGISTER OF LORDS&#x27; INTERESTS - LondonNon-executive Advisory Board Member, The National Archives. Occasional income from lecturing for Dod...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: worksheets.codalab.org  
-   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... times took right days local economic countries see best report killed held... reports sent fou...</p></details>
+   Link:<a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... times took right days local economic countries see best report killed held... reports sent fou...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: heritagefund.org.uk  
-   Link: <a href="https://www.heritagefund.org.uk/sites/default/files/media/research/hlf_major_grants_-_the_first_100_case_studies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagefund.org.uk/sites/default/files/media/research/hlf_major_grants_-_the_first_100_case_studies.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HLF Major Grants – The first 100 case studiesAshmolean Museum. The Ashmolean, Oxford University&#x27;s museum, was the first public museum in...</p></details>
+   Link:<a href="https://www.heritagefund.org.uk/sites/default/files/media/research/hlf_major_grants_-_the_first_100_case_studies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.heritagefund.org.uk/sites/default/files/media/research/hlf_major_grants_-_the_first_100_case_studies.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HLF Major Grants – The first 100 case studiesAshmolean Museum. The Ashmolean, Oxford University&#x27;s museum, was the first public museum in...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nlbsingapore/posts/singapores-independence-wasnt-just-a-milestone-it-was-an-emotional-journey-exper/1157439259893397/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nlbsingapore/posts/singapores-independence-wasnt-just-a-milestone-it-was-an-emotional-journey-exper/1157439259893397/</a>  
+   Link:<a href="https://www.facebook.com/nlbsingapore/posts/singapores-independence-wasnt-just-a-milestone-it-was-an-emotional-journey-exper/1157439259893397/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nlbsingapore/posts/singapores-independence-wasnt-just-a-milestone-it-was-an-emotional-journey-exper/1157439259893397/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: websail-fe.cs.northwestern.edu  
    Title: edubiennials Feijo BSDs Villalon woodi woods spiders  
-   Link: <a href="https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt" target="_blank" rel="noopener noreferrer nofollow">https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1954-1958 1954-1959 53000 76750 9344 1954-1956 1954-1957 1954-1955... Meteorological Taxan Floyd dictator Zhukovsky Dyserth Pararajasing...</p></details>
+   Link:<a href="https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt" target="_blank" rel="noopener noreferrer nofollow">https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1954-1958 1954-1959 53000 76750 9344 1954-1956 1954-1957 1954-1955... Meteorological Taxan Floyd dictator Zhukovsky Dyserth Pararajasing...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dr.ntu.edu.sg  
    Title: ntu.edu.sgsingapore literature in english  
-   Link: <a href="https://dr.ntu.edu.sg/server/api/core/bitstreams/1175eccd-910b-45ed-92a3-2f04d6971aec/content" target="_blank" rel="noopener noreferrer nofollow">https://dr.ntu.edu.sg/server/api/core/bitstreams/1175eccd-910b-45ed-92a3-2f04d6971aec/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NTUby KT Ann · Cited by 4 — Singapore; Other UFO sightings; Alien sightings in Malaysia; The Roswell incident; Area 51; What Ronald Re...</p></details>
+   Link:<a href="https://dr.ntu.edu.sg/server/api/core/bitstreams/1175eccd-910b-45ed-92a3-2f04d6971aec/content" target="_blank" rel="noopener noreferrer nofollow">https://dr.ntu.edu.sg/server/api/core/bitstreams/1175eccd-910b-45ed-92a3-2f04d6971aec/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NTUby KT Ann · Cited by 4 — Singapore; Other UFO sightings; Alien sightings in Malaysia; The Roswell incident; Area 51; What Ronald Re...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: link.springer.com  
    Title: p. cm. Includes bibliographical references and index.Read more  
-   Link: <a href="https://link.springer.com/content/pdf/10.1057/9781137012340.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1057/9781137012340.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sociolinguistic History of Early Identities in SingaporeSociolinguistic history of early identities in Singapore: from colonialism to nat...</p></details>
+   Link:<a href="https://link.springer.com/content/pdf/10.1057/9781137012340.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1057/9781137012340.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sociolinguistic History of Early Identities in SingaporeSociolinguistic history of early identities in Singapore: from colonialism to nat...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KrRLZt2bB8s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KrRLZt2bB8s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Singapore&#x27;s Workforce Through Our Declassified Records and Archives | The Library Report #61...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KrRLZt2bB8s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KrRLZt2bB8s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Singapore&#x27;s Workforce Through Our Declassified Records and Archives | The Library Report #61...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: malayanvolunteersgroup.org.uk  
-   Link: <a href="https://www.malayanvolunteersgroup.org.uk/uploads/1/0/7/3/107387685/passenger_list__pulo_soegi_sept_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.malayanvolunteersgroup.org.uk/uploads/1/0/7/3/107387685/passenger_list__pulo_soegi_sept_2018.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;POELAU SOEGI&#x27;/ &#x27;PULO SOEGI&#x27;The story of the &#x27;Pulo Soegi&#x27; being used in the evacuation of troops from Singapore comes from three primary...</p></details>
+   Link:<a href="https://www.malayanvolunteersgroup.org.uk/uploads/1/0/7/3/107387685/passenger_list__pulo_soegi_sept_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.malayanvolunteersgroup.org.uk/uploads/1/0/7/3/107387685/passenger_list__pulo_soegi_sept_2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;POELAU SOEGI&#x27;/ &#x27;PULO SOEGI&#x27;The story of the &#x27;Pulo Soegi&#x27; being used in the evacuation of troops from Singapore comes from three primary...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ictmusic.org  
    Title: PASEA Proceedings05 upload  
-   Link: <a href="https://www.ictmusic.org/sites/default/files/documents/study%20groups/publications/PASEA%20Proceedings05_upload.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ictmusic.org/sites/default/files/documents/study%20groups/publications/PASEA%20Proceedings05_upload.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of the 5th SymposiumSingapore: PS Singapura. Sriwana. (1962). Chenderamata Sriwana 1955-1962. Singapore: Sriwana. Tan, S. B...</p></details>
+   Link:<a href="https://www.ictmusic.org/sites/default/files/documents/study%20groups/publications/PASEA%20Proceedings05_upload.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ictmusic.org/sites/default/files/documents/study%20groups/publications/PASEA%20Proceedings05_upload.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of the 5th SymposiumSingapore: PS Singapura. Sriwana. (1962). Chenderamata Sriwana 1955-1962. Singapore: Sriwana. Tan, S. B...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CamDDcr2VoI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CamDDcr2VoI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Chapter for Our Libraries and Archives...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CamDDcr2VoI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CamDDcr2VoI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Chapter for Our Libraries and Archives...</p></details>

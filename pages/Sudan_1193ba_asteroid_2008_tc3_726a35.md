@@ -248,24 +248,24 @@ image: /assets/images/Sudan_1193ba_asteroid_2008_tc3_726a35-Illustration-1-socia
 
 ## Introduction
 
-On 7 October 2008, northern Sudan became the site of one of the most important documented sky events in modern astronomy. A small asteroid known as 2008 TC3 was detected while still in space, tracked as it approached Earth, and correctly predicted to strike the atmosphere above the Nubian Desert. Hours later, it exploded in a brilliant fireball over Sudan, scattering meteorites across a remote desert region. Scientists later recovered hundreds of fragments from the ground and linked them directly to the object that had been observed before impact. This was the first time in history that an asteroid was discovered before hitting Earth and then recovered afterwards as meteorites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span> For researchers interested in UFO reports and unexplained aerial phenomena, the Sudan fireball provides a valuable benchmark. It demonstrates what a spectacular but fully understood sky event looks like when there is extensive observational data, accurate trajectory modelling, satellite records, eyewitness reports, and physical evidence recovered from the impact zone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span>
+On 7 October 2008, northern Sudan became the site of one of the most important documented sky events in modern astronomy. A small asteroid known as 2008 TC3 was detected while still in space, tracked as it approached Earth, and correctly predicted to strike the atmosphere above the Nubian Desert. Hours later, it exploded in a brilliant fireball over Sudan, scattering meteorites across a remote desert region. Scientists later recovered hundreds of fragments from the ground and linked them directly to the object that had been observed before impact. This was the first time in history that an asteroid was discovered before hitting Earth and then recovered afterwards as meteorites.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span> For researchers interested in UFO reports and unexplained aerial phenomena, the Sudan fireball provides a valuable benchmark. It demonstrates what a spectacular but fully understood sky event looks like when there is extensive observational data, accurate trajectory modelling, satellite records, eyewitness reports, and physical evidence recovered from the impact zone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span>
 
 <img src="{{ "/assets/images/Sudan_1193ba_asteroid_2008_tc3_726a35-Illustration-1-dark.svg" | relative_url }}" alt="2008 TC 3 illustration 1" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_asteroid_2008_tc3_726a35-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_asteroid_2008_tc3_726a35-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How asteroid 2008 TC3 was detected
 
-The asteroid was first discovered on 6 October 2008 by the Catalina Sky Survey in Arizona. Initial calculations quickly revealed something extraordinary: the object was not merely passing near Earth but was on a collision course with the planet. Scientists at NASA's Jet Propulsion Laboratory and other tracking centres refined the orbit throughout the day as additional observations arrived. Within hours, they predicted that the asteroid would enter the atmosphere over northern Sudan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span>
+The asteroid was first discovered on 6 October 2008 by the Catalina Sky Survey in Arizona. Initial calculations quickly revealed something extraordinary: the object was not merely passing near Earth but was on a collision course with the planet. Scientists at NASA's Jet Propulsion Laboratory and other tracking centres refined the orbit throughout the day as additional observations arrived. Within hours, they predicted that the asteroid would enter the atmosphere over northern Sudan.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span>
 
-The object was relatively small, estimated at roughly four metres across and weighing around 80 tonnes. Because of its size, astronomers did not expect a ground-impacting catastrophe. Instead, they predicted that it would break apart high in the atmosphere and create a bright fireball visible over a large area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.universetoday.com/articles/the-asteroid-that-fell-to-earth-meteorites-from-2008-tc3-still-giving-up-their-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-snippet">Universe TodayThe Asteroid That Fell To Earth: Meteorites from 2008 TC3...31 Oct 2011 — Just 19 hours later, 2008 TC3 streaked over skie...</span></span></span>
+The object was relatively small, estimated at roughly four metres across and weighing around 80 tonnes. Because of its size, astronomers did not expect a ground-impacting catastrophe. Instead, they predicted that it would break apart high in the atmosphere and create a bright fireball visible over a large area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.universetoday.com/articles/the-asteroid-that-fell-to-earth-meteorites-from-2008-tc3-still-giving-up-their-secrets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-snippet">Universe TodayThe Asteroid That Fell To Earth: Meteorites from 2008 TC3...31 Oct 2011 — Just 19 hours later, 2008 TC3 streaked over skie...</span></span></span>
 
-The prediction proved remarkably accurate. The asteroid entered Earth's atmosphere over Sudan in the early morning hours of 7 October 2008 and fragmented at an altitude of roughly 37 kilometres above the Nubian Desert. The resulting fireball was detected by satellites and other monitoring systems, confirming both the timing and location anticipated by astronomers. Wiley Online Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span> This level of prediction was unprecedented. Earlier meteor impacts had been observed after the fact, but 2008 TC3 was the first asteroid whose arrival was forecast before atmospheric entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://neo.ssa.esa.int/past-impactors/2008tc3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neo.ssa.esa.int">[NEO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neo.ssa.esa.int</span><span class="citation-popover-snippet">esa.int2008 TC3 - NEO - NEOCCThe asteroid was first observed by Richard... The meteorite fall is now known as Almahata Sitta, and it bel...</span></span></span>
+The prediction proved remarkably accurate. The asteroid entered Earth's atmosphere over Sudan in the early morning hours of 7 October 2008 and fragmented at an altitude of roughly 37 kilometres above the Nubian Desert. The resulting fireball was detected by satellites and other monitoring systems, confirming both the timing and location anticipated by astronomers. Wiley Online Library<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span> This level of prediction was unprecedented. Earlier meteor impacts had been observed after the fact, but 2008 TC3 was the first asteroid whose arrival was forecast before atmospheric entry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://neo.ssa.esa.int/past-impactors/2008tc3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neo.ssa.esa.int">[NEO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neo.ssa.esa.int</span><span class="citation-popover-snippet">esa.int2008 TC3 - NEO - NEOCCThe asteroid was first observed by Richard... The meteorite fall is now known as Almahata Sitta, and it bel...</span></span></span>
 
 ## What people in Sudan saw
 
-Witnesses in northern Sudan reported a bright atmospheric event consistent with a large fireball. Unlike many UFO reports, however, this sighting was not based solely on human testimony. By the time the object appeared in Sudanese skies, astronomers already knew its approximate trajectory, speed and impact region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span>
+Witnesses in northern Sudan reported a bright atmospheric event consistent with a large fireball. Unlike many UFO reports, however, this sighting was not based solely on human testimony. By the time the object appeared in Sudanese skies, astronomers already knew its approximate trajectory, speed and impact region.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span>
 
-This distinction matters. In many unidentified-object cases, observers see an unusual light without independent information about its origin. With 2008 TC3, researchers possessed a predictive framework before the event occurred. The eyewitness accounts therefore became one layer of evidence among many rather than the primary basis for identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span>
+This distinction matters. In many unidentified-object cases, observers see an unusual light without independent information about its origin. With 2008 TC3, researchers possessed a predictive framework before the event occurred. The eyewitness accounts therefore became one layer of evidence among many rather than the primary basis for identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span>
 
-The fireball itself was dramatic enough that, in a different context, it could easily have generated speculation. It produced an intense atmospheric flash, fragmented during descent, and left no immediately visible conventional aircraft or spacecraft. Yet because the object had already been tracked from space, scientists were able to connect the visual display to a known incoming asteroid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span>
+The fireball itself was dramatic enough that, in a different context, it could easily have generated speculation. It produced an intense atmospheric flash, fragmented during descent, and left no immediately visible conventional aircraft or spacecraft. Yet because the object had already been tracked from space, scientists were able to connect the visual display to a known incoming asteroid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UoZ1WK7_L7c" title="2008 TC3- Small Asteroid to Light Up Sky Over Africa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UoZ1WK7_L7c" target="_blank" rel="noopener noreferrer">2008 TC3- Small Asteroid to Light Up Sky Over Africa</a></p><p class="youtube-embed-meta">Channel: NASA Jet Propulsion Laboratory &middot; Views: 29.9K &middot; Uploaded: October 2008 &middot; Length: 2 minutes 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UoZ1WK7_L7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UoZ1WK7_L7c">Open on YouTube</a></p></div></div></div>
 
@@ -273,25 +273,25 @@ The fireball itself was dramatic enough that, in a different context, it could e
 
 The most important stage of the story came after the fireball.
 
-In December 2008, an international team led by Peter Jenniskens of the SETI Institute and Muawia Shaddad of the University of Khartoum organised a systematic search of the predicted fall zone. Students and staff from the University of Khartoum played a central role in the expedition, searching the desert using calculated impact maps derived from the asteroid's trajectory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asima.seti.org/2008TC3/papers/maps1116-1296.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asima.seti.org">[Asima]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asima.seti.org</span><span class="citation-popover-title">maps1116 1296</span><span class="citation-popover-snippet">The recovery of asteroid 2008 TC3by MH SHADDAD · 2010 · Cited by 101 — Abstract–On October 7, 2008, asteroid 2008 TC3 impacted Earth...</span><span class="citation-popover-meta">Published: October 7, 2008</span></span></span>
+In December 2008, an international team led by Peter Jenniskens of the SETI Institute and Muawia Shaddad of the University of Khartoum organised a systematic search of the predicted fall zone. Students and staff from the University of Khartoum played a central role in the expedition, searching the desert using calculated impact maps derived from the asteroid's trajectory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://asima.seti.org/2008TC3/papers/maps1116-1296.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asima.seti.org">[Asima]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asima.seti.org</span><span class="citation-popover-title">maps1116 1296</span><span class="citation-popover-snippet">The recovery of asteroid 2008 TC3by MH SHADDAD · 2010 · Cited by 101 — Abstract–On October 7, 2008, asteroid 2008 TC3 impacted Earth...</span><span class="citation-popover-meta">Published: October 7, 2008</span></span></span>
 
-The search succeeded almost immediately. Meteorite fragments were found scattered across the desert along the projected path of the fireball. Subsequent expeditions recovered hundreds of pieces with a combined mass exceeding ten kilograms. The meteorites became known collectively as Almahata Sitta, named after a nearby railway location known as "Station Six". Wiley Online Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=48915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Bulletin: Entry for Almahata SittaHistory: On October 6, 2008, a small asteroid called 2008 TC3 was discovered by the automated Catalina...</span><span class="citation-popover-meta">Published: October 6, 2008</span></span></span>
+The search succeeded almost immediately. Meteorite fragments were found scattered across the desert along the projected path of the fireball. Subsequent expeditions recovered hundreds of pieces with a combined mass exceeding ten kilograms. The meteorites became known collectively as Almahata Sitta, named after a nearby railway location known as "Station Six". Wiley Online Library<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=48915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Bulletin: Entry for Almahata SittaHistory: On October 6, 2008, a small asteroid called 2008 TC3 was discovered by the automated Catalina...</span><span class="citation-popover-meta">Published: October 6, 2008</span></span></span>
 
 The recovery was historically significant for several reasons:
 
 * The meteorites came from an asteroid that had been observed before impact.
 * Scientists could directly connect orbital observations to laboratory analysis.
 * The fall location matched trajectory calculations.
-* Multiple independent evidence streams agreed with one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span> In UFO investigations, physical evidence is often disputed, contaminated, poorly documented or entirely absent. The Almahata Sitta recovery demonstrated what a genuine chain of custody can look like: an object tracked in space, observed entering the atmosphere, located on the ground, and analysed in laboratories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span>
+* Multiple independent evidence streams agreed with one another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span> In UFO investigations, physical evidence is often disputed, contaminated, poorly documented or entirely absent. The Almahata Sitta recovery demonstrated what a genuine chain of custody can look like: an object tracked in space, observed entering the atmosphere, located on the ground, and analysed in laboratories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span>
 
 <img src="{{ "/assets/images/Sudan_1193ba_asteroid_2008_tc3_726a35-Illustration-2-dark.svg" | relative_url }}" alt="2008 TC 3 illustration 2" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_asteroid_2008_tc3_726a35-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_asteroid_2008_tc3_726a35-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the meteorites surprised scientists
 
 Researchers expected the recovered material to be scientifically valuable, but the meteorites turned out to be unusually complex.
 
-Many fragments belonged to a rare class known as ureilites, carbon-rich meteorites that differ from more common stony meteorites. Yet Almahata Sitta also contained a remarkable mixture of other meteorite types. Studies eventually identified material resembling several different classes of asteroid-derived rock within the same fall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elementsmagazine.org/asteroid-2008-tc3-and-the-fall-of-almahata-sitta-a-unique-meteorite-breccia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elementsmagazine.org">[Elements Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elementsmagazine.org</span><span class="citation-popover-snippet">Elements MagazineAsteroid 2008 TC3 and the Fall of Almahata Sitta, a Unique...by C Goodrich · Cited by 31 — On October 6, 2008, the smal...</span><span class="citation-popover-meta">Published: October 6, 2008</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/citations/20160005081" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerImplications for Asteroid-Meteorite Connectionsby CA Goodrich · 2016 — Almahata Sitta (AhS) is the first met...</span></span></span>
+Many fragments belonged to a rare class known as ureilites, carbon-rich meteorites that differ from more common stony meteorites. Yet Almahata Sitta also contained a remarkable mixture of other meteorite types. Studies eventually identified material resembling several different classes of asteroid-derived rock within the same fall.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elementsmagazine.org/asteroid-2008-tc3-and-the-fall-of-almahata-sitta-a-unique-meteorite-breccia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elementsmagazine.org">[Elements Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elementsmagazine.org</span><span class="citation-popover-snippet">Elements MagazineAsteroid 2008 TC3 and the Fall of Almahata Sitta, a Unique...by C Goodrich · Cited by 31 — On October 6, 2008, the smal...</span><span class="citation-popover-meta">Published: October 6, 2008</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/citations/20160005081" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerImplications for Asteroid-Meteorite Connectionsby CA Goodrich · 2016 — Almahata Sitta (AhS) is the first met...</span></span></span>
 
-This diversity challenged assumptions about how small asteroids form and evolve. Instead of representing a simple, uniform body, 2008 TC3 appeared to be a complex assemblage of materials with different origins. Researchers concluded that the asteroid likely preserved evidence of ancient collisions and mixing processes in the early Solar System. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elementsmagazine.org/asteroid-2008-tc3-and-the-fall-of-almahata-sitta-a-unique-meteorite-breccia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elementsmagazine.org">[Elements Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elementsmagazine.org</span><span class="citation-popover-snippet">Elements MagazineAsteroid 2008 TC3 and the Fall of Almahata Sitta, a Unique...by C Goodrich · Cited by 31 — On October 6, 2008, the smal...</span><span class="citation-popover-meta">Published: October 6, 2008</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/13215-triple-asteroid-collision-sudan-meteorites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">13215 triple asteroid collision sudan meteorites</span><span class="citation-popover-snippet">Triple Asteroid Crash Created Sudan Meteorites7 Oct 2011 — Meteorites that fell over Sudan in 2008 could have come from a space rock that...</span></span></span> The event therefore became important not only because the impact was predicted, but because the recovered material provided an unusually detailed record of asteroid history. Subsequent studies examined everything from amino acids and carbon compounds to diamonds and fullerene molecules within the meteorites. NASA Technical Reports Server <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.10122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This diversity challenged assumptions about how small asteroids form and evolve. Instead of representing a simple, uniform body, 2008 TC3 appeared to be a complex assemblage of materials with different origins. Researchers concluded that the asteroid likely preserved evidence of ancient collisions and mixing processes in the early Solar System.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elementsmagazine.org/asteroid-2008-tc3-and-the-fall-of-almahata-sitta-a-unique-meteorite-breccia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elementsmagazine.org">[Elements Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elementsmagazine.org</span><span class="citation-popover-snippet">Elements MagazineAsteroid 2008 TC3 and the Fall of Almahata Sitta, a Unique...by C Goodrich · Cited by 31 — On October 6, 2008, the smal...</span><span class="citation-popover-meta">Published: October 6, 2008</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/13215-triple-asteroid-collision-sudan-meteorites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">13215 triple asteroid collision sudan meteorites</span><span class="citation-popover-snippet">Triple Asteroid Crash Created Sudan Meteorites7 Oct 2011 — Meteorites that fell over Sudan in 2008 could have come from a space rock that...</span></span></span> The event therefore became important not only because the impact was predicted, but because the recovered material provided an unusually detailed record of asteroid history. Subsequent studies examined everything from amino acids and carbon compounds to diamonds and fullerene molecules within the meteorites. NASA Technical Reports Server<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.10122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## What confirmed fireballs teach UFO researchers
 
@@ -301,201 +301,201 @@ The Sudan fireball serves as a useful comparison point when evaluating extraordi
 
 ### Multiple evidence streams matter more than a single dramatic sighting
 
-The strongest feature of the 2008 TC3 case is not the brightness of the fireball but the convergence of evidence. Astronomical observations, orbital calculations, atmospheric data, eyewitness reports, recovery operations and laboratory studies all point toward the same explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span> Many disputed UFO incidents lack this level of corroboration. Witness testimony may exist without instrument data, or photographs may exist without verified location information. The Sudan event demonstrates how confidence increases when different sources independently support the same conclusion.
+The strongest feature of the 2008 TC3 case is not the brightness of the fireball but the convergence of evidence. Astronomical observations, orbital calculations, atmospheric data, eyewitness reports, recovery operations and laboratory studies all point toward the same explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span> Many disputed UFO incidents lack this level of corroboration. Witness testimony may exist without instrument data, or photographs may exist without verified location information. The Sudan event demonstrates how confidence increases when different sources independently support the same conclusion.
 
 ### Prediction changes the evidential standard
 
-One of the most persuasive aspects of the case is that scientists predicted the impact before it happened. The trajectory forecast was not reconstructed afterwards to fit observations; it existed in advance. Later observations then confirmed the prediction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span>
+One of the most persuasive aspects of the case is that scientists predicted the impact before it happened. The trajectory forecast was not reconstructed afterwards to fit observations; it existed in advance. Later observations then confirmed the prediction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span>
 
 For investigators of unusual sky phenomena, successful prediction represents one of the strongest forms of evidence because it reduces the possibility of retrospective interpretation.
 
 <img src="{{ "/assets/images/Sudan_1193ba_asteroid_2008_tc3_726a35-Illustration-3-dark.svg" | relative_url }}" alt="2008 TC 3 illustration 3" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_asteroid_2008_tc3_726a35-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_asteroid_2008_tc3_726a35-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Physical recovery can resolve ambiguity
 
-A bright atmospheric event can look mysterious in the moment. Fireballs often produce unusual colours, fragmentation patterns and apparent manoeuvres caused by perspective effects. Without further evidence, witnesses may struggle to identify what they saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span>
+A bright atmospheric event can look mysterious in the moment. Fireballs often produce unusual colours, fragmentation patterns and apparent manoeuvres caused by perspective effects. Without further evidence, witnesses may struggle to identify what they saw.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span>
 
-In Sudan, ambiguity largely disappeared once fragments were recovered and analysed. The recovered meteorites connected the visual event to a specific object and confirmed the interpretation suggested by the orbital data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1945-5100.2010.01116.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1945 5100.2010.01116.x</span><span class="citation-popover-snippet">Wiley Online LibraryThe recovery of asteroid 2008 TC 3by MH SHADDAD · 2010 · Cited by 101 — Abstract– On October 7, 2008, asteroid 2008 T...</span><span class="citation-popover-meta">Published: October 7, 2008</span></span></span>
+In Sudan, ambiguity largely disappeared once fragments were recovered and analysed. The recovered meteorites connected the visual event to a specific object and confirmed the interpretation suggested by the orbital data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1945-5100.2010.01116.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1945 5100.2010.01116.x</span><span class="citation-popover-snippet">Wiley Online LibraryThe recovery of asteroid 2008 TC 3by MH SHADDAD · 2010 · Cited by 101 — Abstract– On October 7, 2008, asteroid 2008 T...</span><span class="citation-popover-meta">Published: October 7, 2008</span></span></span>
 
 ## Why the Sudan fireball remains a benchmark case
 
-Within Sudan's broader record of unusual sky reports, 2008 TC3 occupies a special category. It is not a UFO mystery and it is not a debunked rumour. Instead, it is a rare example of a dramatic aerial event that moved all the way through the scientific process: discovery, prediction, observation, recovery and verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span> That makes it particularly useful when comparing confirmed phenomena with disputed sightings elsewhere in Sudan. The event shows the kind ofevidential structure investigators hope to obtain: known trajectory data, independent observations, measurable physical traces and laboratory-confirmed material. When these elements align, uncertainty shrinks dramatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0019103517300283" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[2sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">We compute the trajectory of 2008 TC3 using almost 900 astrometric observations...</span></span></span>
+Within Sudan's broader record of unusual sky reports, 2008 TC3 occupies a special category. It is not a UFO mystery and it is not a debunked rumour. Instead, it is a rare example of a dramatic aerial event that moved all the way through the scientific process: discovery, prediction, observation, recovery and verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span> That makes it particularly useful when comparing confirmed phenomena with disputed sightings elsewhere in Sudan. The event shows the kind ofevidential structure investigators hope to obtain: known trajectory data, independent observations, measurable physical traces and laboratory-confirmed material. When these elements align, uncertainty shrinks dramatically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0019103517300283" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[2sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">We compute the trajectory of 2008 TC3 using almost 900 astrometric observations...</span></span></span>
 
-For Sudan, the 2008 TC3 impact remains one of the clearest and best-documented sky events ever recorded over the country. Rather than deepening a mystery, it became a landmark demonstration of how modern astronomy can identify, predict and verify an extraordinary event from beginning to end. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span>
+For Sudan, the 2008 TC3 impact remains one of the clearest and best-documented sky events ever recorded over the country. Rather than deepening a mystery, it became a landmark demonstration of how modern astronomy can identify, predict and verify an extraordinary event from beginning to end.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquarid.physics.uwo.ca">[Aquarid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquarid.physics.uwo.ca</span><span class="citation-popover-snippet">The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FFW5uwkG0fs" title="2008 TC3 Workshop with Dr. Peter Jenniskens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FFW5uwkG0fs" target="_blank" rel="noopener noreferrer">2008 TC3 Workshop with Dr. Peter Jenniskens</a></p><p class="youtube-embed-meta">Channel: SETI Institute &middot; Views: 2.0K &middot; Uploaded: December 2009 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FFW5uwkG0fs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FFW5uwkG0fs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Sudan Fireball Scientists Saw Coming. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Sudan Fireball Scientists Saw Coming. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lf5MAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Robert Hutchison, Andrew Graham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lf5MAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
+</h4>
+<p class="fr-book-author">By Robert Hutchison, Andrew Graham</p>
         
-        <p class="fr-book-desc">Directly connects to meteorite recovery, classification, and analysis following 2008 TC3.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to meteorite recovery, classification, and analysis following 2008 TC3.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorites+by+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VPoKEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Meteorites">The Meteorites</a>
-        </h4>
-        <p class="fr-book-author">By Helen Gordon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VPoKEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Meteorites">The Meteorites</a>
+</h4>
+<p class="fr-book-author">By Helen Gordon</p>
         
-        <p class="fr-book-desc">Explains meteorites, fireballs, recoveries, and the human side of documented impact events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains meteorites, fireballs, recoveries, and the human side of documented impact events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Meteorites+by+Helen+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Eye+in+the+Sky+Dwayne+A.+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eye in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eye+in+the+Sky+Dwayne+A.+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eye in the Sky">Eye in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Dwayne A. Day</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Eye+in+the+Sky+Dwayne+A.+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eye in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eye+in+the+Sky+Dwayne+A.+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eye in the Sky">Eye in the Sky</a>
+</h4>
+<p class="fr-book-author">By Dwayne A. Day</p>
         
-        <p class="fr-book-desc">Provides context for recovered meteorites such as Almahata Sitta from 2008 TC3.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eye+in+the+Sky+Dwayne+A.+Day&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for recovered meteorites such as Almahata Sitta from 2008 TC3.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eye+in+the+Sky+Dwayne+A.+Day&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Meteorites</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eye+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eye in the Sky</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteorites</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Meteorites&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Meteorites</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eye+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eye in the Sky</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-sudan-fireball-scientists-saw-coming-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-sudan-fireball-scientists-saw-coming-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -511,7 +511,7 @@ For Sudan, the 2008 TC3 impact remains one of the clearest and best-documented s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -531,7 +531,7 @@ For Sudan, the 2008 TC3 impact remains one of the clearest and best-documented s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -563,7 +563,7 @@ For Sudan, the 2008 TC3 impact remains one of the clearest and best-documented s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -615,7 +615,7 @@ For Sudan, the 2008 TC3 impact remains one of the clearest and best-documented s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -660,7 +660,7 @@ For Sudan, the 2008 TC3 impact remains one of the clearest and best-documented s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -701,166 +701,166 @@ For Sudan, the 2008 TC3 impact remains one of the clearest and best-documented s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/news/2008tc3.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</p></details>
+   Link:<a href="https://cneos.jpl.nasa.gov/news/2008tc3.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/news/2008tc3.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2008 — Within an hour of receiving the initial data set, JPL predicted that the object would enter the Earth&#x27;s atmosphere abov...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
    Title: j.1945 5100.2010.01116.x  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1945-5100.2010.01116.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/j.1945-5100.2010.01116.x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe recovery of asteroid 2008 TC 3by MH SHADDAD · 2010 · Cited by 101 — Abstract– On October 7, 2008, asteroid 2008 T...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1945-5100.2010.01116.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/j.1945-5100.2010.01116.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe recovery of asteroid 2008 TC 3by MH SHADDAD · 2010 · Cited by 101 — Abstract– On October 7, 2008, asteroid 2008 T...</p></details>
    Published: October 7, 2008  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103517300283" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0019103517300283</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We compute the trajectory of 2008 TC3 using almost 900 astrometric observations...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103517300283" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0019103517300283</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We compute the trajectory of 2008 TC3 using almost 900 astrometric observations...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lpi.usra.edu  
-   Link: <a href="https://www.lpi.usra.edu/meteor/metbull.php?code=48915" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=48915</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bulletin: Entry for Almahata SittaHistory: On October 6, 2008, a small asteroid called 2008 TC3 was discovered by the automated Catalina...</p></details>
+   Link:<a href="https://www.lpi.usra.edu/meteor/metbull.php?code=48915" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=48915</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bulletin: Entry for Almahata SittaHistory: On October 6, 2008, a small asteroid called 2008 TC3 was discovered by the automated Catalina...</p></details>
    Published: October 6, 2008  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: asima.seti.org  
    Title: maps1116 1296  
-   Link: <a href="https://asima.seti.org/2008TC3/papers/maps1116-1296.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asima.seti.org/2008TC3/papers/maps1116-1296.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The recovery of asteroid 2008 TC3by MH SHADDAD · 2010 · Cited by 101 — Abstract–On October 7, 2008, asteroid 2008 TC3 impacted Earth...</p></details>
+   Link:<a href="https://asima.seti.org/2008TC3/papers/maps1116-1296.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asima.seti.org/2008TC3/papers/maps1116-1296.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The recovery of asteroid 2008 TC3by MH SHADDAD · 2010 · Cited by 101 — Abstract–On October 7, 2008, asteroid 2008 TC3 impacted Earth...</p></details>
    Published: October 7, 2008  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: team finds riches in meteorite treasure hunt  
-   Link: <a href="https://science.nasa.gov/solar-system/nasa-team-finds-riches-in-meteorite-treasure-hunt/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/nasa-team-finds-riches-in-meteorite-treasure-hunt/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceNASA Team Finds Riches in Meteorite Treasure Hunt27 Mar 2009 — For the first time, scientists recovered celestial meteorites...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/nasa-team-finds-riches-in-meteorite-treasure-hunt/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/nasa-team-finds-riches-in-meteorite-treasure-hunt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceNASA Team Finds Riches in Meteorite Treasure Hunt27 Mar 2009 — For the first time, scientists recovered celestial meteorites...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cneos.jpl.nasa.gov  
    Title: CNEOSNASA Team Finds Riches in Meteorite Treasure Hunt  
-   Link: <a href="https://cneos.jpl.nasa.gov/news/news163.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/news/news163.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jenniskens was asking for a map of where any surviving fireball...Read more...</p></details>
+   Link:<a href="https://cneos.jpl.nasa.gov/news/news163.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/news/news163.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jenniskens was asking for a map of where any surviving fireball...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20160005081" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20160005081</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerImplications for Asteroid-Meteorite Connectionsby CA Goodrich · 2016 — Almahata Sitta (AhS) is the first met...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20160005081" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20160005081</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerImplications for Asteroid-Meteorite Connectionsby CA Goodrich · 2016 — Almahata Sitta (AhS) is the first met...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: 13215 triple asteroid collision sudan meteorites  
-   Link: <a href="https://www.space.com/13215-triple-asteroid-collision-sudan-meteorites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/13215-triple-asteroid-collision-sudan-meteorites.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Triple Asteroid Crash Created Sudan Meteorites7 Oct 2011 — Meteorites that fell over Sudan in 2008 could have come from a space rock that...</p></details>
+   Link:<a href="https://www.space.com/13215-triple-asteroid-collision-sudan-meteorites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/13215-triple-asteroid-collision-sudan-meteorites.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Triple Asteroid Crash Created Sudan Meteorites7 Oct 2011 — Meteorites that fell over Sudan in 2008 could have come from a space rock that...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: seti.org  
-   Link: <a href="https://www.seti.org/news/what-cratered-the-moon-also-destroyed-a-dwarf-planet/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/news/what-cratered-the-moon-also-destroyed-a-dwarf-planet/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>asteroids as the source region of our ureilites and of asteroid 2008 TC3.”.Read more...</p></details>
+   Link:<a href="https://www.seti.org/news/what-cratered-the-moon-also-destroyed-a-dwarf-planet/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/news/what-cratered-the-moon-also-destroyed-a-dwarf-planet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>asteroids as the source region of our ureilites and of asteroid 2008 TC3.”.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20110023539" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20110023539</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerHeterogeneous Distributions of Amino Acids Provide...by AS Burton · 2011 · Cited by 35 — Two new fragments...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20110023539" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20110023539</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerHeterogeneous Distributions of Amino Acids Provide...by AS Burton · 2011 · Cited by 35 — Two new fragments...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2208.10122" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.10122</a>  
+   Link:<a href="https://arxiv.org/abs/2208.10122" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.10122</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/20100006922" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20100006922</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History and Fragmentation of Ureilitic Asteroidsby JS Herrin · 2010 · Cited by 2 — Prior to recovery the Almahata Sitta fall was observed...</p></details>
+   Link:<a href="https://ntrs.nasa.gov/citations/20100006922" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20100006922</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History and Fragmentation of Ureilitic Asteroidsby JS Herrin · 2010 · Cited by 2 — Prior to recovery the Almahata Sitta fall was observed...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: asima.seti.org  
-   Link: <a href="https://asima.seti.org/2008TC3/recovery.html" target="_blank" rel="noopener noreferrer nofollow">https://asima.seti.org/2008TC3/recovery.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact and Recovery of Asteroid 2008 TC37 Oct 2008 — 2009 March 26 - In the March 26 issue of Nature magazine, it is reported that fragme...</p></details>
+   Link:<a href="https://asima.seti.org/2008TC3/recovery.html" target="_blank" rel="noopener noreferrer nofollow">https://asima.seti.org/2008TC3/recovery.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact and Recovery of Asteroid 2008 TC37 Oct 2008 — 2009 March 26 - In the March 26 issue of Nature magazine, it is reported that fragme...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UoZ1WK7_L7c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UoZ1WK7_L7c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asteroid 2008 TC3 - Peter Jenniskens (SETI Talks)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UoZ1WK7_L7c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UoZ1WK7_L7c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asteroid 2008 TC3 - Peter Jenniskens (SETI Talks)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ADm4g3bLWTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADm4g3bLWTE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2008 TC3 Workshop with Dr. Peter Jenniskens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ADm4g3bLWTE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADm4g3bLWTE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2008 TC3 Workshop with Dr. Peter Jenniskens...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Asteroid Day Special Event  
-   Link: <a href="https://www.youtube.com/watch?v=o1DkX639kUk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o1DkX639kUk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2008 TC3 Impact...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=o1DkX639kUk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o1DkX639kUk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2008 TC3 Impact...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pNSjsoxeetc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pNSjsoxeetc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=pNSjsoxeetc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pNSjsoxeetc</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aquarid.physics.uwo.ca  
-   Link: <a href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</p></details>
+   Link:<a href="https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aquarid.physics.uwo.ca/infra_pub/nature07920.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact and recovery of asteroid 2008 TC3by P Jenniskens · 2009 · Cited by 476 — Here we report that a dedicated search along t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: universetoday.com  
-   Link: <a href="https://www.universetoday.com/articles/the-asteroid-that-fell-to-earth-meteorites-from-2008-tc3-still-giving-up-their-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/the-asteroid-that-fell-to-earth-meteorites-from-2008-tc3-still-giving-up-their-secrets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayThe Asteroid That Fell To Earth: Meteorites from 2008 TC3...31 Oct 2011 — Just 19 hours later, 2008 TC3 streaked over skie...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/the-asteroid-that-fell-to-earth-meteorites-from-2008-tc3-still-giving-up-their-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/the-asteroid-that-fell-to-earth-meteorites-from-2008-tc3-still-giving-up-their-secrets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayThe Asteroid That Fell To Earth: Meteorites from 2008 TC3...31 Oct 2011 — Just 19 hours later, 2008 TC3 streaked over skie...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: elementsmagazine.org  
-   Link: <a href="https://www.elementsmagazine.org/asteroid-2008-tc3-and-the-fall-of-almahata-sitta-a-unique-meteorite-breccia/" target="_blank" rel="noopener noreferrer nofollow">https://www.elementsmagazine.org/asteroid-2008-tc3-and-the-fall-of-almahata-sitta-a-unique-meteorite-breccia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elements MagazineAsteroid 2008 TC3 and the Fall of Almahata Sitta, a Unique...by C Goodrich · Cited by 31 — On October 6, 2008, the smal...</p></details>
+   Link:<a href="https://www.elementsmagazine.org/asteroid-2008-tc3-and-the-fall-of-almahata-sitta-a-unique-meteorite-breccia/" target="_blank" rel="noopener noreferrer nofollow">https://www.elementsmagazine.org/asteroid-2008-tc3-and-the-fall-of-almahata-sitta-a-unique-meteorite-breccia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elements MagazineAsteroid 2008 TC3 and the Fall of Almahata Sitta, a Unique...by C Goodrich · Cited by 31 — On October 6, 2008, the smal...</p></details>
    Published: October 6, 2008  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: neo.ssa.esa.int  
-   Link: <a href="https://neo.ssa.esa.int/past-impactors/2008tc3" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/past-impactors/2008tc3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>esa.int2008 TC3 - NEO - NEOCCThe asteroid was first observed by Richard... The meteorite fall is now known as Almahata Sitta, and it bel...</p></details>
+   Link:<a href="https://neo.ssa.esa.int/past-impactors/2008tc3" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/past-impactors/2008tc3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>esa.int2008 TC3 - NEO - NEOCCThe asteroid was first observed by Richard... The meteorite fall is now known as Almahata Sitta, and it bel...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: 2008 TC3  
-   Link: <a href="https://en.wikipedia.org/wiki/2008_TC3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2008_TC3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2008 TC3TC3 was an 80-tonne (80-long-ton; 90-short-ton), 4.1-meter (13 ft) diameter asteroid that entered Earth&#x27;s atmosphere on Octobe...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/2008_TC3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2008_TC3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2008 TC3TC3 was an 80-tonne (80-long-ton; 90-short-ton), 4.1-meter (13 ft) diameter asteroid that entered Earth&#x27;s atmosphere on Octobe...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: universetoday.com  
-   Link: <a href="https://www.universetoday.com/articles/meteorites-found-in-africa-from-first-predicted-asteroid-hit" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/meteorites-found-in-africa-from-first-predicted-asteroid-hit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorites Found in Africa From First Predicted Asteroid Hit25 Mar 2009 — The meteorites from 2008 TC3, now called &quot;Almahata Sitta,&quot; are...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/meteorites-found-in-africa-from-first-predicted-asteroid-hit" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/meteorites-found-in-africa-from-first-predicted-asteroid-hit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorites Found in Africa From First Predicted Asteroid Hit25 Mar 2009 — The meteorites from 2008 TC3, now called &quot;Almahata Sitta,&quot; are...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scientificamerican.com  
    Title: asteroid meteorite sudan fireball  
-   Link: <a href="https://www.scientificamerican.com/article/asteroid-meteorite-sudan-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/asteroid-meteorite-sudan-fireball/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rock Science: First Meteorites Recovered on Earth from an...25 Mar 2009 — Fragments in the Sudanese desert make up an &quot;asteroid trifecta...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/asteroid-meteorite-sudan-fireball/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/asteroid-meteorite-sudan-fireball/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rock Science: First Meteorites Recovered on Earth from an...25 Mar 2009 — Fragments in the Sudanese desert make up an &quot;asteroid trifecta...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ui.adsabs.harvard.edu  
    Title: This was the first asteroid  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2009DPS....41.0901J/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2009DPS....41.0901J/abstract</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact and Recovery of 2008 TC3by PMM Jenniskens · 2009 — We report on the recovery of fragments from 2008 TC3, a small asteroid that imp...</p></details>
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2009DPS....41.0901J/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2009DPS....41.0901J/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact and Recovery of 2008 TC3by PMM Jenniskens · 2009 — We report on the recovery of fragments from 2008 TC3, a small asteroid that imp...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dps.aas.org  
    Title: TC3Impact 1page  
-   Link: <a href="https://dps.aas.org/wp-content/uploads/files/education/dpsdisc/2009/TC3Impact_1page.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dps.aas.org/wp-content/uploads/files/education/dpsdisc/2009/TC3Impact_1page.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Detected Hours Before ImpactMeteorites Found from Asteroid. A meteorite from 2008 TC3 is discovered in the Nubian Desert of Sudan by staf...</p></details>
+   Link:<a href="https://dps.aas.org/wp-content/uploads/files/education/dpsdisc/2009/TC3Impact_1page.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dps.aas.org/wp-content/uploads/files/education/dpsdisc/2009/TC3Impact_1page.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detected Hours Before ImpactMeteorites Found from Asteroid. A meteorite from 2008 TC3 is discovered in the Nubian Desert of Sudan by staf...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: planetary.org  
-   Link: <a href="https://www.planetary.org/articles/1896" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/articles/1896</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Look! It&#x27;s a near-Earth asteroid!26 Mar 2009 — The impact of asteroid 2008 TC3 -- the only asteroid to be tracked in space before strikin...</p></details>
+   Link:<a href="https://www.planetary.org/articles/1896" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/articles/1896</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Look! It&#x27;s a near-Earth asteroid!26 Mar 2009 — The impact of asteroid 2008 TC3 -- the only asteroid to be tracked in space before strikin...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FFW5uwkG0fs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FFW5uwkG0fs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asteroid Day Special Event - Michael Busch and Peter Jenniskens (SETI Talks)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FFW5uwkG0fs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FFW5uwkG0fs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asteroid Day Special Event - Michael Busch and Peter Jenniskens (SETI Talks)...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dongascience.com  
-   Link: <a href="https://www.dongascience.com/en/news/42612" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/42612</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite from Sudanese Desert a &#x27;Unique Specimen&#x27;...23 Dec 2020 — A new analysis suggests that the &#x27;Almahata Sitta&#x27; meteorite, which fe...</p></details>
+   Link:<a href="https://www.dongascience.com/en/news/42612" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/42612</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite from Sudanese Desert a &#x27;Unique Specimen&#x27;...23 Dec 2020 — A new analysis suggests that the &#x27;Almahata Sitta&#x27; meteorite, which fe...</p></details>

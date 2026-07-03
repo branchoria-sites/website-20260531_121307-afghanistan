@@ -298,194 +298,194 @@ Nevertheless, the concentration of reports—bright lights in 2005, the triangul
 Within the national context, the **San Pedro‑Ambergris Caye reports** provide some of the **most detailed civilian testimony** tied to specific dates and observer descriptions. While not confirmed by formal investigation, these reports contribute to understanding how **repeated light phenomena** around coastal Belize are recorded and interpreted by witnesses. They also illustrate the challenge of assessing UFO claims in regions without dedicated investigative infrastructure, where civilian logs and local commentary form the bulk of available documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[thephenomenon.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-title">The Phenomenon &#124; Belize</span><span class="citation-popover-snippet">November 19, 2024...</span><span class="citation-popover-meta">Published: November 19, 2024</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Does San Pedro Keep Appearing in Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Does San Pedro Keep Appearing in Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong fit for recurring light reports and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for recurring light reports and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for unexplained aerial-light reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for unexplained aerial-light reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores recurring light and aerial-anomaly reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recurring light and aerial-anomaly reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Relevant to assessing limited-evidence sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to assessing limited-evidence sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-san-pedro-keep-appearing-in-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-does-san-pedro-keep-appearing-in-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -501,7 +501,7 @@ Within the national context, the **San Pedro‑Ambergris Caye reports** provide 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -521,7 +521,7 @@ Within the national context, the **San Pedro‑Ambergris Caye reports** provide 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -553,7 +553,7 @@ Within the national context, the **San Pedro‑Ambergris Caye reports** provide 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -605,7 +605,7 @@ Within the national context, the **San Pedro‑Ambergris Caye reports** provide 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -650,7 +650,7 @@ Within the national context, the **San Pedro‑Ambergris Caye reports** provide 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -688,116 +688,115 @@ Within the national context, the **San Pedro‑Ambergris Caye reports** provide 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: thephenomenon.app  
    Title: The Phenomenon | Belize  
-   Link: <a href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/belize/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 19, 2024...</p></details>
+   Link:<a href="https://thephenomenon.app/belize/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/belize/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 19, 2024...</p></details>
    Published: November 19, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=184419" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184419</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 184419...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=184419" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184419</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 184419...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=43568" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=43568</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 43568May 11, 2005...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=43568" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=43568</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 43568May 11, 2005...</p></details>
    Published: May 11, 2005  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ambergriscaye.com  
    Title: UF Os in San Pedro?  
-   Link: <a href="https://ambergriscaye.com/forum/ubbthreads.php/topics/31619/ufos-in-san-pedro.html" target="_blank" rel="noopener noreferrer nofollow">https://ambergriscaye.com/forum/ubbthreads.php/topics/31619/ufos-in-san-pedro.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in San Pedro? - Ambergris Caye Belize Message BoardNovember 20, 2000...</p></details>
+   Link:<a href="https://ambergriscaye.com/forum/ubbthreads.php/topics/31619/ufos-in-san-pedro.html" target="_blank" rel="noopener noreferrer nofollow">https://ambergriscaye.com/forum/ubbthreads.php/topics/31619/ufos-in-san-pedro.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in San Pedro? - Ambergris Caye Belize Message BoardNovember 20, 2000...</p></details>
    Published: November 20, 2000  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ambergriscaye.com  
    Title: UF Os over Belmopan  
-   Link: <a href="https://ambergriscaye.com/forum/ubbthreads.php/topics/271979/ufos-over-belmopan.html" target="_blank" rel="noopener noreferrer nofollow">https://ambergriscaye.com/forum/ubbthreads.php/topics/271979/ufos-over-belmopan.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Belmopan - Ambergris Caye Belize Message BoardMarch 12, 2008 — Image ImageUFOs over Belmopan #271979 03/12/08 10:11 PM Joined...</p></details>
+   Link:<a href="https://ambergriscaye.com/forum/ubbthreads.php/topics/271979/ufos-over-belmopan.html" target="_blank" rel="noopener noreferrer nofollow">https://ambergriscaye.com/forum/ubbthreads.php/topics/271979/ufos-over-belmopan.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over Belmopan - Ambergris Caye Belize Message BoardMarch 12, 2008 — Image ImageUFOs over Belmopan #271979 03/12/08 10:11 PM Joined...</p></details>
    Published: March 12, 2008  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ambergriscaye.com  
    Title: UF Os in San Pedro?  
-   Link: <a href="https://ambergriscaye.com/forum/ubbthreads.php/topics/31619/all/UFOs_in_San_Pedro.html" target="_blank" rel="noopener noreferrer nofollow">https://ambergriscaye.com/forum/ubbthreads.php/topics/31619/all/UFOs_in_San_Pedro.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambergris Caye Belize Message BoardNovember 20, 2000 — * * * Dare To Deviate ImageRe: UFOs in San Pedro? #31634 11/20/00 10:03 PM Joined...</p></details>
+   Link:<a href="https://ambergriscaye.com/forum/ubbthreads.php/topics/31619/all/UFOs_in_San_Pedro.html" target="_blank" rel="noopener noreferrer nofollow">https://ambergriscaye.com/forum/ubbthreads.php/topics/31619/all/UFOs_in_San_Pedro.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ambergris Caye Belize Message BoardNovember 20, 2000 — * * * Dare To Deviate ImageRe: UFOs in San Pedro? #31634 11/20/00 10:03 PM Joined...</p></details>
    Published: November 20, 2000  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: stormcarib.com  
    Title: Dean m  
-   Link: <a href="https://stormcarib.com/reports/2007/belize.shtml" target="_blank" rel="noopener noreferrer nofollow">https://stormcarib.com/reports/2007/belize.shtml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Belize - Local Reports (Caribbean Hurricane Network)* * * - close brush with Dean * From: &quot;SailSports Belize&quot; &lt;info` at `sailsportsbelize...</p></details>
+   Link:<a href="https://stormcarib.com/reports/2007/belize.shtml" target="_blank" rel="noopener noreferrer nofollow">https://stormcarib.com/reports/2007/belize.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belize - Local Reports (Caribbean Hurricane Network)* * * - close brush with Dean * From: &quot;SailSports Belize&quot; &lt;info` at `sailsportsbelize...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: marineradar.com  
-   Link: <a href="https://www.marineradar.com/lighthouse/ambergris-caye-14850" target="_blank" rel="noopener noreferrer nofollow">https://www.marineradar.com/lighthouse/ambergris-caye-14850</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambergris Caye Lighthouse — San Pedro Town | MarineRadarAMBERGRIS CAYE LIGHTHOUSE Fl Red 5s🇧🇿San Pedro Town, BZ Operational LOCATION &amp; LI...</p></details>
+   Link:<a href="https://www.marineradar.com/lighthouse/ambergris-caye-14850" target="_blank" rel="noopener noreferrer nofollow">https://www.marineradar.com/lighthouse/ambergris-caye-14850</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ambergris Caye Lighthouse — San Pedro Town | MarineRadarAMBERGRIS CAYE LIGHTHOUSE Fl Red 5s🇧🇿San Pedro Town, BZ Operational LOCATION &amp; LI...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sanpedroscoop.com  
-   Link: <a href="https://www.sanpedroscoop.com/2015/01/gorgeous-weather-look-renamed-wet-willys-bar-strange-sighting-ambergris-caye-belize.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedroscoop.com/2015/01/gorgeous-weather-look-renamed-wet-willys-bar-strange-sighting-ambergris-caye-belize.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GORGEOUS WEATHER, A Look at the Renamed Wet Willy&#x27;s Bar and a Very Strange Sighting on Ambergris Caye, Belize | San Pedro ScoopJanuary 17...</p></details>
+   Link:<a href="https://www.sanpedroscoop.com/2015/01/gorgeous-weather-look-renamed-wet-willys-bar-strange-sighting-ambergris-caye-belize.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedroscoop.com/2015/01/gorgeous-weather-look-renamed-wet-willys-bar-strange-sighting-ambergris-caye-belize.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GORGEOUS WEATHER, A Look at the Renamed Wet Willy&#x27;s Bar and a Very Strange Sighting on Ambergris Caye, Belize | San Pedro ScoopJanuary 17...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sanpedroscoop.com  
-   Link: <a href="https://www.sanpedroscoop.com/2024/01/wildlife-ordinary-experiences-remote-ambergris-caye.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedroscoop.com/2024/01/wildlife-ordinary-experiences-remote-ambergris-caye.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 28, 2024 — WILDLIFE SIGHTINGS &amp; AND OTHER OUT OF THE ORDINARY ANIMAL EXPERIENCES ON AMBERGRIS CAYE Jan 28, 2024|Ambergris Caye Am...</p></details>
+   Link:<a href="https://www.sanpedroscoop.com/2024/01/wildlife-ordinary-experiences-remote-ambergris-caye.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedroscoop.com/2024/01/wildlife-ordinary-experiences-remote-ambergris-caye.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 28, 2024 — WILDLIFE SIGHTINGS &amp; AND OTHER OUT OF THE ORDINARY ANIMAL EXPERIENCES ON AMBERGRIS CAYE Jan 28, 2024|Ambergris Caye Am...</p></details>
    Published: January 28, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sanpedrosun.com  
    Title: European rocket wreckage found in the waters near Ambergris Caye  
-   Link: <a href="https://www.sanpedrosun.com/community-and-society/2015/02/09/european-rocket-wreckage-found-waters-near-ambergris-caye/" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedrosun.com/community-and-society/2015/02/09/european-rocket-wreckage-found-waters-near-ambergris-caye/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The San Pedro SunFebruary 9, 2015 — EUROPEAN ROCKET WRECKAGE FOUND IN THE WATERS NEAR AMBERGRIS CAYE. Monday, February 9th, 2015 Image: R...</p></details>
+   Link:<a href="https://www.sanpedrosun.com/community-and-society/2015/02/09/european-rocket-wreckage-found-waters-near-ambergris-caye/" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedrosun.com/community-and-society/2015/02/09/european-rocket-wreckage-found-waters-near-ambergris-caye/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The San Pedro SunFebruary 9, 2015 — EUROPEAN ROCKET WRECKAGE FOUND IN THE WATERS NEAR AMBERGRIS CAYE. Monday, February 9th, 2015 Image: R...</p></details>
    Published: February 9, 2015  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sanpedrosun.com  
    Title: Deep water submersible grounds on reef off Ambergris Caye  
-   Link: <a href="https://www.sanpedrosun.com/community-and-society/2015/03/11/deep-water-submersible-grounds-on-reef-off-ambergris-caye/" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedrosun.com/community-and-society/2015/03/11/deep-water-submersible-grounds-on-reef-off-ambergris-caye/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The San Pedro SunMarch 11, 2015 — Community and Society DEEP WATER SUBMERSIBLE GROUNDS ON REEF OFF AMBERGRIS CAYE Wednesday, March 11th...</p></details>
+   Link:<a href="https://www.sanpedrosun.com/community-and-society/2015/03/11/deep-water-submersible-grounds-on-reef-off-ambergris-caye/" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedrosun.com/community-and-society/2015/03/11/deep-water-submersible-grounds-on-reef-off-ambergris-caye/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The San Pedro SunMarch 11, 2015 — Community and Society DEEP WATER SUBMERSIBLE GROUNDS ON REEF OFF AMBERGRIS CAYE Wednesday, March 11th...</p></details>
    Published: March 11, 2015  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sanpedroscoop.com  
    Title: Sounds like the beginning of a low-budget Sci-Fi movie,  
-   Link: <a href="https://www.sanpedroscoop.com/2020/01/russian-space-craft-shell-washes-up-on-beach-of-ambergris-caye-belize.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedroscoop.com/2020/01/russian-space-craft-shell-washes-up-on-beach-of-ambergris-caye-belize.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Russian Space Craft Shell Washes Up On Beach Of Ambergris Caye, Belize | San Pedro ScoopJanuary 14, 2020 — 2019 RUSSIAN SPACE CRAFT...</p></details>
+   Link:<a href="https://www.sanpedroscoop.com/2020/01/russian-space-craft-shell-washes-up-on-beach-of-ambergris-caye-belize.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedroscoop.com/2020/01/russian-space-craft-shell-washes-up-on-beach-of-ambergris-caye-belize.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Russian Space Craft Shell Washes Up On Beach Of Ambergris Caye, Belize | San Pedro ScoopJanuary 14, 2020 — 2019 RUSSIAN SPACE CRAFT...</p></details>
    Published: January 14, 2020  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sanpedrosun.com  
    Title: Shedding light on north Ambergris Caye's streets  
-   Link: <a href="https://www.sanpedrosun.com/community-and-society/2011/04/21/shedding-light-on-north-ambergris-cayes-streets/" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedrosun.com/community-and-society/2011/04/21/shedding-light-on-north-ambergris-cayes-streets/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The San Pedro SunApril 21, 2011 — SHEDDING LIGHT ON NORTH AMBERGRIS CAYE’S STREETS Thursday, April 21st, 2011 Image: 16-BEL_article_thumb...</p></details>
+   Link:<a href="https://www.sanpedrosun.com/community-and-society/2011/04/21/shedding-light-on-north-ambergris-cayes-streets/" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedrosun.com/community-and-society/2011/04/21/shedding-light-on-north-ambergris-cayes-streets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The San Pedro SunApril 21, 2011 — SHEDDING LIGHT ON NORTH AMBERGRIS CAYE’S STREETS Thursday, April 21st, 2011 Image: 16-BEL_article_thumb...</p></details>
    Published: April 21, 2011  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sanpedrosun.com  
    Title: Possible research submersible found on the reef  
-   Link: <a href="https://www.sanpedrosun.com/environment/2015/03/14/possible-research-submersible-found-on-the-reef/" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedrosun.com/environment/2015/03/14/possible-research-submersible-found-on-the-reef/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The San Pedro SunMarch 14, 2015 — POSSIBLE RESEARCH SUBMERSIBLE FOUND ON THE REEF Saturday, March 14th, 2015 Image: 10 Unidentified Float...</p></details>
+   Link:<a href="https://www.sanpedrosun.com/environment/2015/03/14/possible-research-submersible-found-on-the-reef/" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedrosun.com/environment/2015/03/14/possible-research-submersible-found-on-the-reef/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The San Pedro SunMarch 14, 2015 — POSSIBLE RESEARCH SUBMERSIBLE FOUND ON THE REEF Saturday, March 14th, 2015 Image: 10 Unidentified Float...</p></details>
    Published: March 14, 2015  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ourstrangeplanet.com  
-   Link: <a href="https://www.ourstrangeplanet.com/the-san-luis-valley/investigations/2007-slv-sighting-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.ourstrangeplanet.com/the-san-luis-valley/investigations/2007-slv-sighting-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2007 SLV Sighting Reports — Our Strange PlanetDecember 14, 2007 — 2007 SLV SIGHTING REPORTS December 14, 2007 6:18am Highway 142 at the R...</p></details>
+   Link:<a href="https://www.ourstrangeplanet.com/the-san-luis-valley/investigations/2007-slv-sighting-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.ourstrangeplanet.com/the-san-luis-valley/investigations/2007-slv-sighting-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2007 SLV Sighting Reports — Our Strange PlanetDecember 14, 2007 — 2007 SLV SIGHTING REPORTS December 14, 2007 6:18am Highway 142 at the R...</p></details>
    Published: December 14, 2007  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sanpedrosun.com  
    Title: Martin Alegria of t  
-   Link: <a href="https://www.sanpedrosun.com/environment/2011/06/30/sea-trek-project-continues-to-raise-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedrosun.com/environment/2011/06/30/sea-trek-project-continues-to-raise-concerns/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sea Trek Project continues to raise concerns - The San Pedro SunJune 30, 2011 — SEA TREK PROJECT CONTINUES TO RAISE CONCERNS Thursday, Ju...</p></details>
+   Link:<a href="https://www.sanpedrosun.com/environment/2011/06/30/sea-trek-project-continues-to-raise-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.sanpedrosun.com/environment/2011/06/30/sea-trek-project-continues-to-raise-concerns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sea Trek Project continues to raise concerns - The San Pedro SunJune 30, 2011 — SEA TREK PROJECT CONTINUES TO RAISE CONCERNS Thursday, Ju...</p></details>
    Published: June 30, 2011

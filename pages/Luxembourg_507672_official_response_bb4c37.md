@@ -274,11 +274,11 @@ As a result, sightings reported by citizens have generally remained within the d
 
 The most visible modern interaction between UFO issues and Luxembourg's political system emerged through public petition mechanisms rather than government initiatives.
 
-In 2021, a public petition submitted to Luxembourg's parliamentary petition platform called for the disclosure of any information held by the state or state-controlled institutions regarding UAP or UFOs. The petition explicitly requested transparency concerning any official records that might exist concerning unexplained aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.petitiounen.lu/fr/petition/1836" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: petitiounen.lu">[Petitiounen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">petitiounen.lu</span><span class="citation-popover-snippet">Offenlegen jeglicher vorhandener Informationen über...Deutsch: Das Ziel dieser Petition ist das Offenlegen jeglicher Informat...</span></span></span>
+In 2021, a public petition submitted to Luxembourg's parliamentary petition platform called for the disclosure of any information held by the state or state-controlled institutions regarding UAP or UFOs. The petition explicitly requested transparency concerning any official records that might exist concerning unexplained aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.petitiounen.lu/fr/petition/1836" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: petitiounen.lu">[Petitiounen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">petitiounen.lu</span><span class="citation-popover-snippet">Offenlegen jeglicher vorhandener Informationen über...Deutsch: Das Ziel dieser Petition ist das Offenlegen jeglicher Informat...</span></span></span>
 
-The petition reflected a broader international trend that followed renewed attention to UAP discussions in the United States and other countries. Rather than alleging a specific Luxembourg cover-up, the petition sought clarification about whether state agencies possessed relevant records and whether such information should be made public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.petitiounen.lu/de/petition/1836?cHash=c8ee15a4a8b31a776a543291aaa18da5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: petitiounen.lu">[Petitiounen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">petitiounen.lu</span><span class="citation-popover-snippet">Die PetitionenMar 19, 2021 — Offenlegen jeglicher vorhandener Informationen über sogenannte UAP (Unidentified Aerial Phenomena, früher au...</span></span></span>
+The petition reflected a broader international trend that followed renewed attention to UAP discussions in the United States and other countries. Rather than alleging a specific Luxembourg cover-up, the petition sought clarification about whether state agencies possessed relevant records and whether such information should be made public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.petitiounen.lu/de/petition/1836?cHash=c8ee15a4a8b31a776a543291aaa18da5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: petitiounen.lu">[Petitiounen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">petitiounen.lu</span><span class="citation-popover-snippet">Die PetitionenMar 19, 2021 — Offenlegen jeglicher vorhandener Informationen über sogenannte UAP (Unidentified Aerial Phenomena, früher au...</span></span></span>
 
-Media coverage of the initiative highlighted the belief among some supporters that government files could contain reports of unexplained aerial objects. Journalistic accounts noted that petitioners hoped any such material would be released for public examination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luxtimes.lu">[Luxembourg Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luxtimes.lu</span><span class="citation-popover-snippet">Luxembourg TimesStop hiding UFO evidence, petitioners sayMar 21, 2021 — Files Luxembourg&#x27;s government holds may describe sightings of une...</span></span></span>
+Media coverage of the initiative highlighted the belief among some supporters that government files could contain reports of unexplained aerial objects. Journalistic accounts noted that petitioners hoped any such material would be released for public examination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luxtimes.lu">[Luxembourg Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luxtimes.lu</span><span class="citation-popover-snippet">Luxembourg TimesStop hiding UFO evidence, petitioners sayMar 21, 2021 — Files Luxembourg&#x27;s government holds may describe sightings of une...</span></span></span>
 
 The significance of the petition lies less in its outcome than in what it demonstrates about Luxembourg's official stance. Citizens used transparency mechanisms to ask whether information existed because no established public UFO archive, reporting centre or investigative body was already available. The episode underscored the country's generally passive institutional relationship with the subject.
 
@@ -299,7 +299,7 @@ When unusual lights or aerial phenomena have attracted public attention, explana
 
 </div>
 
-A clear example appeared in late 2022 when a bright green object observed over Luxembourg and neighbouring regions generated speculation on social media and in local discussions. Reporting quickly centred on the interpretation that the phenomenon was a meteor entering the atmosphere rather than an unexplained craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luxtimes.lu">[Luxembourg Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luxtimes.lu</span><span class="citation-popover-snippet">Luxembourg TimesStop hiding UFO evidence, petitioners sayMar 21, 2021 — Files Luxembourg&#x27;s government holds may describe sightings of une...</span></span></span>
+A clear example appeared in late 2022 when a bright green object observed over Luxembourg and neighbouring regions generated speculation on social media and in local discussions. Reporting quickly centred on the interpretation that the phenomenon was a meteor entering the atmosphere rather than an unexplained craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luxtimes.lu">[Luxembourg Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luxtimes.lu</span><span class="citation-popover-snippet">Luxembourg TimesStop hiding UFO evidence, petitioners sayMar 21, 2021 — Files Luxembourg&#x27;s government holds may describe sightings of une...</span></span></span>
 
 This pattern reflects a broader scientific culture in Luxembourg that does not treat UFO sightings as evidence of extraterrestrial visitation unless supported by exceptionally strong data. The dominant response has been to examine whether known natural or technological explanations account for an observation before considering more speculative interpretations.
 
@@ -321,7 +321,7 @@ In practice, citizens interested in UFO research have commonly relied on foreign
 
 A useful distinction in Luxembourg's case is the difference between transparency and active investigation.
 
-The available evidence suggests that public interest groups have occasionally asked what information the government possesses regarding UFOs or UAP. However, there is little indication that Luxembourg authorities regard the phenomenon as a major security, scientific or policy issue requiring dedicated resources. The state's response has generally been characterised by administrative openness to questions rather than active pursuit of the subject. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luxtimes.lu">[Luxembourg Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luxtimes.lu</span><span class="citation-popover-snippet">Luxembourg TimesStop hiding UFO evidence, petitioners sayMar 21, 2021 — Files Luxembourg&#x27;s government holds may describe sightings of une...</span></span></span>
+The available evidence suggests that public interest groups have occasionally asked what information the government possesses regarding UFOs or UAP. However, there is little indication that Luxembourg authorities regard the phenomenon as a major security, scientific or policy issue requiring dedicated resources. The state's response has generally been characterised by administrative openness to questions rather than active pursuit of the subject.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luxtimes.lu">[Luxembourg Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luxtimes.lu</span><span class="citation-popover-snippet">Luxembourg TimesStop hiding UFO evidence, petitioners sayMar 21, 2021 — Files Luxembourg&#x27;s government holds may describe sightings of une...</span></span></span>
 
 This places Luxembourg in a different category from countries that have periodically reopened official inquiries or commissioned formal studies. The government has not publicly promoted a strong debunking campaign, but neither has it endorsed claims that unexplained sightings represent evidence of extraterrestrial technology.
 
@@ -336,197 +336,197 @@ First, many sightings remain anecdotal because no national authority systematica
 
 For supporters of greater disclosure, this absence of structure leaves open questions about whether government agencies have ever collected relevant information. For sceptics, the same absence suggests that authorities have seen little evidence warranting specialised attention.
 
-The overall picture is therefore not one of suppression or intensive investigation, but of limited institutional engagement. Luxembourg's government and scientific culture have generally treated UFOs as occasional unexplained observations that should be assessed through ordinary standards of evidence, while reserving official resources for more immediate policy and security priorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luxtimes.lu">[Luxembourg Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luxtimes.lu</span><span class="citation-popover-snippet">Luxembourg TimesStop hiding UFO evidence, petitioners sayMar 21, 2021 — Files Luxembourg&#x27;s government holds may describe sightings of une...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.petitiounen.lu/fr/petition/1836" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: petitiounen.lu">[Petitiounen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">petitiounen.lu</span><span class="citation-popover-snippet">Offenlegen jeglicher vorhandener Informationen über...Deutsch: Das Ziel dieser Petition ist das Offenlegen jeglicher Informat...</span></span></span>
+The overall picture is therefore not one of suppression or intensive investigation, but of limited institutional engagement. Luxembourg's government and scientific culture have generally treated UFOs as occasional unexplained observations that should be assessed through ordinary standards of evidence, while reserving official resources for more immediate policy and security priorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luxtimes.lu">[Luxembourg Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luxtimes.lu</span><span class="citation-popover-snippet">Luxembourg TimesStop hiding UFO evidence, petitioners sayMar 21, 2021 — Files Luxembourg&#x27;s government holds may describe sightings of une...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.petitiounen.lu/fr/petition/1836" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: petitiounen.lu">[Petitiounen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">petitiounen.lu</span><span class="citation-popover-snippet">Offenlegen jeglicher vorhandener Informationen über...Deutsch: Das Ziel dieser Petition ist das Offenlegen jeglicher Informat...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Government and Scientific Response to UFOs in Luxembourg. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Government and Scientific Response to UFOs in Luxembourg. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Documents institutional handling of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents institutional handling of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
-        </h4>
-        <p class="fr-book-author">By Mark O&#x27;Connell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
+</h4>
+<p class="fr-book-author">By Mark O&#x27;Connell</p>
         
-        <p class="fr-book-desc">Explains scientific and governmental attitudes toward UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains scientific and governmental attitudes toward UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Directly addresses state investigations and institutional reactions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses state investigations and institutional reactions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Centers on official testimony and governmental engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on official testimony and governmental engagement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="government-and-scientific-response-to-ufos-in-luxembourg-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ The overall picture is therefore not one of suppression or intensive investigati
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ The overall picture is therefore not one of suppression or intensive investigati
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ The overall picture is therefore not one of suppression or intensive investigati
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ The overall picture is therefore not one of suppression or intensive investigati
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ The overall picture is therefore not one of suppression or intensive investigati
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,84 +732,84 @@ The overall picture is therefore not one of suppression or intensive investigati
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: petitiounen.lu  
-   Link: <a href="https://www.petitiounen.lu/fr/petition/1836" target="_blank" rel="noopener noreferrer nofollow">https://www.petitiounen.lu/fr/petition/1836</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Offenlegen jeglicher vorhandener Informationen über...Deutsch: Das Ziel dieser Petition ist das Offenlegen jeglicher Informat...</p></details>
+   Link:<a href="https://www.petitiounen.lu/fr/petition/1836" target="_blank" rel="noopener noreferrer nofollow">https://www.petitiounen.lu/fr/petition/1836</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Offenlegen jeglicher vorhandener Informationen über...Deutsch: Das Ziel dieser Petition ist das Offenlegen jeglicher Informat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: petitiounen.lu  
-   Link: <a href="https://www.petitiounen.lu/de/petition/1836?cHash=c8ee15a4a8b31a776a543291aaa18da5" target="_blank" rel="noopener noreferrer nofollow">https://www.petitiounen.lu/de/petition/1836?cHash=c8ee15a4a8b31a776a543291aaa18da5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Die PetitionenMar 19, 2021 — Offenlegen jeglicher vorhandener Informationen über sogenannte UAP (Unidentified Aerial Phenomena, früher au...</p></details>
+   Link:<a href="https://www.petitiounen.lu/de/petition/1836?cHash=c8ee15a4a8b31a776a543291aaa18da5" target="_blank" rel="noopener noreferrer nofollow">https://www.petitiounen.lu/de/petition/1836?cHash=c8ee15a4a8b31a776a543291aaa18da5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Die PetitionenMar 19, 2021 — Offenlegen jeglicher vorhandener Informationen über sogenannte UAP (Unidentified Aerial Phenomena, früher au...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: independent.ie  
-   Link: <a href="https://www.independent.ie/irish-news/what-i-saw-was-not-from-this-earth-meet-the-irish-people-who-claim-to-have-seen-ufos-and-the-expert-who-is-not-surprised/a1508054252.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.ie/irish-news/what-i-saw-was-not-from-this-earth-meet-the-irish-people-who-claim-to-have-seen-ufos-and-the-expert-who-is-not-surprised/a1508054252.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet the Irish people who claim to have seen UFOs...20 Mar 2024 — For decades, those who claimed to have seen UFOs were met with reactio...</p></details>
+   Link:<a href="https://www.independent.ie/irish-news/what-i-saw-was-not-from-this-earth-meet-the-irish-people-who-claim-to-have-seen-ufos-and-the-expert-who-is-not-surprised/a1508054252.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.ie/irish-news/what-i-saw-was-not-from-this-earth-meet-the-irish-people-who-claim-to-have-seen-ufos-and-the-expert-who-is-not-surprised/a1508054252.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet the Irish people who claim to have seen UFOs...20 Mar 2024 — For decades, those who claimed to have seen UFOs were met with reactio...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New... &quot;A Scientist in the Cockpit: The Case History and Analysis of a UFO Sighting.Read more...</p></details>
+   Link:<a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New... &quot;A Scientist in the Cockpit: The Case History and Analysis of a UFO Sighting.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: luxtimes.lu  
-   Link: <a href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow">https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Luxembourg TimesStop hiding UFO evidence, petitioners sayMar 21, 2021 — Files Luxembourg&#x27;s government holds may describe sightings of une...</p></details>
+   Link:<a href="https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html" target="_blank" rel="noopener noreferrer nofollow">https://www.luxtimes.lu/luxembourg/stop-hiding-ufo-evidence-petitioners-say/1331332.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luxembourg TimesStop hiding UFO evidence, petitioners sayMar 21, 2021 — Files Luxembourg&#x27;s government holds may describe sightings of une...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/assets/a304159.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/a304159.html</a>  
+   Link:<a href="https://www.gao.gov/assets/a304159.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/a304159.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: europarl.europa.eu  
    Title: Petition No 0381%2F2021 by C.G. %28Irish%29 asking to investigate UFO sightings  
-   Link: <a href="https://www.europarl.europa.eu/petitions/en/petition/content/0381%252F2021/html/Petition-No-0381%252F2021-by-C.G.-%2528Irish%2529-asking-to-investigate-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/petitions/en/petition/content/0381%252F2021/html/Petition-No-0381%252F2021-by-C.G.-%2528Irish%2529-asking-to-investigate-UFO-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Irish) asking to investigate UFO sightings · Petition data · Petitioner data · Petition Summary · Share this page.Read more...</p></details>
+   Link:<a href="https://www.europarl.europa.eu/petitions/en/petition/content/0381%252F2021/html/Petition-No-0381%252F2021-by-C.G.-%2528Irish%2529-asking-to-investigate-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/petitions/en/petition/content/0381%252F2021/html/Petition-No-0381%252F2021-by-C.G.-%2528Irish%2529-asking-to-investigate-UFO-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Irish) asking to investigate UFO sightings · Petition data · Petitioner data · Petition Summary · Share this page.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: s3.us-west-1.wasabisys.com  
    Title: Dimensions A Casebook of Alien Contact Jacques Vallee 151 pages  
-   Link: <a href="https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>astronomer who served for over twenty years as the Air Force&#x27;s scientific consultant on UFOs, explained that name in an article called &quot;T...</p></details>
+   Link:<a href="https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/bfs-website2023/Documents%20%26%20Resources/Aliens/Dimensions_%20%20A%20Casebook%20of%20Alien%20Contact%20-%20Jacques%20Vallee%20-%20151%20pages.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>astronomer who served for over twenty years as the Air Force&#x27;s scientific consultant on UFOs, explained that name in an article called &quot;T...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New... &quot;A Scientist in the Cockpit: The Case History and Analysis of a UFO Sighting.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New... &quot;A Scientist in the Cockpit: The Case History and Analysis of a UFO Sighting.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/modern-alien-encounters?srsltid=AfmBOorayD3VNtPDzWbk7im_KgKMgJQX8m-OOmzhADCtC5H8aOuOPs3a" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/modern-alien-encounters?srsltid=AfmBOorayD3VNtPDzWbk7im_KgKMgJQX8m-OOmzhADCtC5H8aOuOPs3a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens · Aliens 101 · UFO ·. Modern Alien Encounters Explored. Modern Alien Encounters. By Vanessa...Read more...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/modern-alien-encounters?srsltid=AfmBOorayD3VNtPDzWbk7im_KgKMgJQX8m-OOmzhADCtC5H8aOuOPs3a" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/modern-alien-encounters?srsltid=AfmBOorayD3VNtPDzWbk7im_KgKMgJQX8m-OOmzhADCtC5H8aOuOPs3a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens · Aliens 101 · UFO ·. Modern Alien Encounters Explored. Modern Alien Encounters. By Vanessa...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fami2030.gov.pt  
    Title: fra 2023 fundamental rights report 2023 en  
-   Link: <a href="https://www.fami2030.gov.pt/wp-content/uploads/sites/20/2023/06/fra-2023-fundamental-rights-report-2023_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fami2030.gov.pt/wp-content/uploads/sites/20/2023/06/fra-2023-fundamental-rights-report-2023_en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamental Rights Report ― 2023 - Fami 2030FRA&#x27;s annual Fundamental Rights Report is based on the results of its own primary quantitativ...</p></details>
+   Link:<a href="https://www.fami2030.gov.pt/wp-content/uploads/sites/20/2023/06/fra-2023-fundamental-rights-report-2023_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fami2030.gov.pt/wp-content/uploads/sites/20/2023/06/fra-2023-fundamental-rights-report-2023_en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamental Rights Report ― 2023 - Fami 2030FRA&#x27;s annual Fundamental Rights Report is based on the results of its own primary quantitativ...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/786328395/RRW-2-4th-Edition" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/786328395/RRW-2-4th-Edition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What might be some natural explanations for UFOs? 3.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/786328395/RRW-2-4th-Edition" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/786328395/RRW-2-4th-Edition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What might be some natural explanations for UFOs? 3.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: euaa.europa.eu  
    Title: 2026 National Asylum Developments EN  
-   Link: <a href="https://www.euaa.europa.eu/sites/default/files/publications/2026-04/2026_National_Asylum_Developments_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.euaa.europa.eu/sites/default/files/publications/2026-04/2026_National_Asylum_Developments_EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Content of protection. Amendments to the Aliens Act expanded the grounds to withdraw a residence permit due to a serious crime or securit...</p></details>
+   Link:<a href="https://www.euaa.europa.eu/sites/default/files/publications/2026-04/2026_National_Asylum_Developments_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.euaa.europa.eu/sites/default/files/publications/2026-04/2026_National_Asylum_Developments_EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Content of protection. Amendments to the Aliens Act expanded the grounds to withdraw a residence permit due to a serious crime or securit...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hudoc.echr.coe.int  
    Title: int PAPOSHVIL I v. BELGIUM  
-   Link: <a href="https://hudoc.echr.coe.int/eng?i=001-169662" target="_blank" rel="noopener noreferrer nofollow">https://hudoc.echr.coe.int/eng?i=001-169662</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>v. BELGIUM - HUDOCIt is for the Aliens Office to assess the circumstances alleged by the alien concerned in each individual case. It begi...</p></details>
+   Link:<a href="https://hudoc.echr.coe.int/eng?i=001-169662" target="_blank" rel="noopener noreferrer nofollow">https://hudoc.echr.coe.int/eng?i=001-169662</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>v. BELGIUM - HUDOCIt is for the Aliens Office to assess the circumstances alleged by the alien concerned in each individual case. It begi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: parlament.mt  
    Title: report council of euorpe  
-   Link: <a href="https://parlament.mt/media/119250/report-council-of-euorpe.pdf" target="_blank" rel="noopener noreferrer nofollow">https://parlament.mt/media/119250/report-council-of-euorpe.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fourth part of the 2022 Ordinary Session (10-14 October...Oct 10, 2022 — adopting codes of conduct or ethics for members of parliament a...</p></details>
+   Link:<a href="https://parlament.mt/media/119250/report-council-of-euorpe.pdf" target="_blank" rel="noopener noreferrer nofollow">https://parlament.mt/media/119250/report-council-of-euorpe.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fourth part of the 2022 Ordinary Session (10-14 October...Oct 10, 2022 — adopting codes of conduct or ethics for members of parliament a...</p></details>

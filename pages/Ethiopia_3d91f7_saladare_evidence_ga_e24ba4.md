@@ -254,28 +254,28 @@ image: /assets/images/Ethiopia_3d91f7_saladare_evidence_ga_e24ba4-Illustration-1
 
 ## Introduction
 
-The **Saladare incident** refers to a highly dramatic but deeply contested event allegedly occurring on **7 August 1970** near the village of Saladare, then part of Ethiopia’s territory near Asmara (now in Eritrea). According to later UFO literature, villagers heard a loud low‑flying noise, observed a bright red, fireball‑like object sweep through the settlement, and found extensive *physical damage*—destroyed homes, uprooted trees, melted asphalt, and a collapsed bridge wall—afterwards. The lively claims include casualties (eight injured and one child dead) and repeated passes by the object, even hovering briefly before reversing direction and causing further destruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.infinityexplorers.com/ufo-destroyed-a-village-in-ethiopia-in-1970/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infinityexplorers.com">[Infinity Explorers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infinityexplorers.com</span><span class="citation-popover-title">ufo destroyed a village in ethiopia in 1970</span><span class="citation-popover-snippet">Infinity ExplorersUFO destroyed a village in Ethiopia in 1970 - Infinity ExplorersJuly 29, 2019...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
+The **Saladare incident** refers to a highly dramatic but deeply contested event allegedly occurring on **7 August 1970** near the village of Saladare, then part of Ethiopia’s territory near Asmara (now in Eritrea). According to later UFO literature, villagers heard a loud low‑flying noise, observed a bright red, fireball‑like object sweep through the settlement, and found extensive *physical damage*—destroyed homes, uprooted trees, melted asphalt, and a collapsed bridge wall—afterwards. The lively claims include casualties (eight injured and one child dead) and repeated passes by the object, even hovering briefly before reversing direction and causing further destruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.infinityexplorers.com/ufo-destroyed-a-village-in-ethiopia-in-1970/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infinityexplorers.com">[Infinity Explorers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infinityexplorers.com</span><span class="citation-popover-title">ufo destroyed a village in ethiopia in 1970</span><span class="citation-popover-snippet">Infinity ExplorersUFO destroyed a village in Ethiopia in 1970 - Infinity ExplorersJuly 29, 2019...</span><span class="citation-popover-meta">Published: July 29, 2019</span></span></span>
 
 <img src="{{ "/assets/images/Ethiopia_3d91f7_saladare_evidence_ga_e24ba4-Illustration-1-dark.svg" | relative_url }}" alt="Saladare illustration 1" data-theme-src-dark="{{ "/assets/images/Ethiopia_3d91f7_saladare_evidence_ga_e24ba4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ethiopia_3d91f7_saladare_evidence_ga_e24ba4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Despite the vivid nature of these accounts, **there is no recognised contemporaneous official record or peer‑reviewed documentation of such an incident from Ethiopian authorities, international media of the time, or scientific archives**. This absence of verifiable evidence is central to why the Saladare case remains a notorious but unsubstantiated report in Ethiopia’s UAP (unidentified aerial phenomena) chronicles. The episode lives largely through anecdote, later UFO books, and online reposts of user‑shared “original” letters said to have been sent to researchers like J. Allen Hynek, rather than through preserved official files or independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the shocking destruction of an ethiopian village</span><span class="citation-popover-snippet">The shocking destruction of an Ethiopian village in 1970...August 29, 2024 — The shocking destruction of an Ethiopian village in 1...</span><span class="citation-popover-meta">Published: August 29, 2024</span></span></span>
+Despite the vivid nature of these accounts, **there is no recognised contemporaneous official record or peer‑reviewed documentation of such an incident from Ethiopian authorities, international media of the time, or scientific archives**. This absence of verifiable evidence is central to why the Saladare case remains a notorious but unsubstantiated report in Ethiopia’s UAP (unidentified aerial phenomena) chronicles. The episode lives largely through anecdote, later UFO books, and online reposts of user‑shared “original” letters said to have been sent to researchers like J. Allen Hynek, rather than through preserved official files or independent verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the shocking destruction of an ethiopian village</span><span class="citation-popover-snippet">The shocking destruction of an Ethiopian village in 1970...August 29, 2024 — The shocking destruction of an Ethiopian village in 1...</span><span class="citation-popover-meta">Published: August 29, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iugx8r1_K8Q" title="Jacques Vallée Exposes the UFO Truth Already in Plain Sight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iugx8r1_K8Q" target="_blank" rel="noopener noreferrer">Jacques Vallée Exposes the UFO Truth Already in Plain Sight</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 412 &middot; Uploaded: January 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iugx8r1_K8Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iugx8r1_K8Q">Open on YouTube</a></p></div></div></div>
 
 ## The Hynek and Vallee Account
 
-The Saladare narrative entered UFO literature primarily through later publications by well‑known ufologists **J. Allen Hynek** and **Jacques Vallée**, particularly in their 1975 book *The Edge of Reality: A Progress Report on Unidentified Flying Objects*. Hynek, an American astronomer who served as a scientific consultant to U.S. Air Force UFO studies and later pursued civilian UFO research, and Vallée, a scientist and researcher, compiled a wide range of global reports in the book. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
+The Saladare narrative entered UFO literature primarily through later publications by well‑known ufologists **J. Allen Hynek** and **Jacques Vallée**, particularly in their 1975 book *The Edge of Reality: A Progress Report on Unidentified Flying Objects*. Hynek, an American astronomer who served as a scientific consultant to U.S. Air Force UFO studies and later pursued civilian UFO research, and Vallée, a scientist and researcher, compiled a wide range of global reports in the book.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">J. Allen Hynek</span><span class="citation-popover-snippet">J. Allen Hynek</span></span></span>
 
-In the Saladare episode referenced there, the object is described as a *red glowing ball* that flew at low altitude, travelling through and wreaking material damage on the village. Witnesses reported intense heat that scorched grass and warped asphalt without causing open fires. The object allegedly crossed the village twice in about ten minutes. Those details give the narrative a *physical traces* quality that draws attention within UFO typologies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/17046/the-edge-of-reality-two-scientists-evaluate-what-we-know-of-ufo-phenomenon-by-j-allen-hynek-and-jacques-vallee-2023-august-7-1970-in-saladare-ethiopia-a-red-glowing-ball-destroying-houses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-snippet">Allen Hynek and Jacques Vallee (2023), August 7, 1970 in Saladare, Ethiopia: &quot;a red glowing ball...destroying houses in its path....uproo...</span><span class="citation-popover-meta">Published: August 7, 1970</span></span></span>
+In the Saladare episode referenced there, the object is described as a *red glowing ball* that flew at low altitude, travelling through and wreaking material damage on the village. Witnesses reported intense heat that scorched grass and warped asphalt without causing open fires. The object allegedly crossed the village twice in about ten minutes. Those details give the narrative a *physical traces* quality that draws attention within UFO typologies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/17046/the-edge-of-reality-two-scientists-evaluate-what-we-know-of-ufo-phenomenon-by-j-allen-hynek-and-jacques-vallee-2023-august-7-1970-in-saladare-ethiopia-a-red-glowing-ball-destroying-houses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-snippet">Allen Hynek and Jacques Vallee (2023), August 7, 1970 in Saladare, Ethiopia: &quot;a red glowing ball...destroying houses in its path....uproo...</span><span class="citation-popover-meta">Published: August 7, 1970</span></span></span>
 
-However, the core problem with the account in Hynek and Vallée’s work is **its provenance**: it is *second‑hand* and relies on a written account—typically attributed to an individual identified as a “UN doctor” named Dr Attal Makk—rather than original field notes, police reports, meteorological data, or other contemporary official documentation. There is no public scholarly or government record that independently corroborates the event’s reported timeline, witnesses, or physical effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The object traveled 150 meters, paused, and then reversed its course. (Original 4k Photos with the letter sent to Dr J Allen Hynek.)...</span></span></span>
+However, the core problem with the account in Hynek and Vallée’s work is **its provenance**: it is *second‑hand* and relies on a written account—typically attributed to an individual identified as a “UN doctor” named Dr Attal Makk—rather than original field notes, police reports, meteorological data, or other contemporary official documentation. There is no public scholarly or government record that independently corroborates the event’s reported timeline, witnesses, or physical effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The object traveled 150 meters, paused, and then reversed its course. (Original 4k Photos with the letter sent to Dr J Allen Hynek.)...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NPqf_yG89eQ" title="The Edge of Reality: Two Scientists Evaluate… by J. Allen Hynek · Audiobook preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NPqf_yG89eQ" target="_blank" rel="noopener noreferrer">The Edge of Reality: Two Scientists Evaluate… by J. Allen Hynek · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books &middot; Views: 545 &middot; Uploaded: February 2024 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NPqf_yG89eQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NPqf_yG89eQ">Open on YouTube</a></p></div></div></div>
 
 ## Damage Claims and Later Retellings
 
-Later internet retellings, blog posts, and forum threads have expanded or sensationalised the incident, often repeating specific figures (e.g., “50 homes destroyed”, “one child killed”) and showing purported letter images and photographs said to have been sent to Hynek. These posts sometimes preserve elements of the story that otherwise lack citation in formal sources, but they are detached from confirmed evidence and are circulated with minimal contextual verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/17046/the-edge-of-reality-two-scientists-evaluate-what-we-know-of-ufo-phenomenon-by-j-allen-hynek-and-jacques-vallee-2023-august-7-1970-in-saladare-ethiopia-a-red-glowing-ball-destroying-houses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-snippet">Allen Hynek and Jacques Vallee (2023), August 7, 1970 in Saladare, Ethiopia: &quot;a red glowing ball...destroying houses in its path....uproo...</span><span class="citation-popover-meta">Published: August 7, 1970</span></span></span>
+Later internet retellings, blog posts, and forum threads have expanded or sensationalised the incident, often repeating specific figures (e.g., “50 homes destroyed”, “one child killed”) and showing purported letter images and photographs said to have been sent to Hynek. These posts sometimes preserve elements of the story that otherwise lack citation in formal sources, but they are detached from confirmed evidence and are circulated with minimal contextual verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/17046/the-edge-of-reality-two-scientists-evaluate-what-we-know-of-ufo-phenomenon-by-j-allen-hynek-and-jacques-vallee-2023-august-7-1970-in-saladare-ethiopia-a-red-glowing-ball-destroying-houses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-snippet">Allen Hynek and Jacques Vallee (2023), August 7, 1970 in Saladare, Ethiopia: &quot;a red glowing ball...destroying houses in its path....uproo...</span><span class="citation-popover-meta">Published: August 7, 1970</span></span></span>
 
-Crucially, **the photos and letters circulating online are not traceable to independent archives or to verifiable contemporaneous sources**, and their origins are opaque. Some Reddit posts show what users claim are “original letters” and photos, but the upload contexts are hobbyist and social platforms, not authenticated institutional records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/chmce7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">This is one of several photos -- the &quot;original letter sent to J Allen Hynek&quot; describing the event is included -- posted by Redditor Ratmo...</span></span></span>
+Crucially, **the photos and letters circulating online are not traceable to independent archives or to verifiable contemporaneous sources**, and their origins are opaque. Some Reddit posts show what users claim are “original letters” and photos, but the upload contexts are hobbyist and social platforms, not authenticated institutional records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/chmce7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">This is one of several photos -- the &quot;original letter sent to J Allen Hynek&quot; describing the event is included -- posted by Redditor Ratmo...</span></span></span>
 
 The interplay of dramatic destruction imagery and speculative reporting has made the Saladare story popular within UFO folklore, but also highlights a key flaw: **there is no chain of custody for physical evidence, and no scientific analysis of alleged trace materials or environmental effects** has been published. Without these, the narrative remains anecdotal.
 
@@ -289,7 +289,7 @@ To move the Saladare incident from contested claim to a confirmed historical eve
 * **Physical trace analysis:** laboratory examination of materials said to be damaged (soil, asphalt, metal) with clear provenance would provide data for physical causes versus folklore.
 * **Meteorological and astronomical records:** matching the date/time to known meteors, re‑entering space debris, or severe weather phenomena would help assess benign [explanations]({{ 'explanations-5fe3ff/' | relative_url }}) systematically.
 
-In the absence of these, the primary options for interpreting the Saladare accounts are (a) a **misidentified natural aerial event** (e.g., a meteor), (b) **mixed or embellished oral reports**, or (c) **late retrospective reporting without primary source verification**. Either explanation reveals why the case is frequently cited as an illustration of the *missing evidence problem* in UFO histories rather than as a proven anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the shocking destruction of an ethiopian village</span><span class="citation-popover-snippet">The shocking destruction of an Ethiopian village in 1970...August 29, 2024 — The shocking destruction of an Ethiopian village in 1...</span><span class="citation-popover-meta">Published: August 29, 2024</span></span></span>
+In the absence of these, the primary options for interpreting the Saladare accounts are (a) a **misidentified natural aerial event** (e.g., a meteor), (b) **mixed or embellished oral reports**, or (c) **late retrospective reporting without primary source verification**. Either explanation reveals why the case is frequently cited as an illustration of the *missing evidence problem* in UFO histories rather than as a proven anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the shocking destruction of an ethiopian village</span><span class="citation-popover-snippet">The shocking destruction of an Ethiopian village in 1970...August 29, 2024 — The shocking destruction of an Ethiopian village in 1...</span><span class="citation-popover-meta">Published: August 29, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CI-fYo3V94M" title="The UFO Experience: Evidence Behind Close… by J. Allen Hynek · Audiobook preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CI-fYo3V94M" target="_blank" rel="noopener noreferrer">The UFO Experience: Evidence Behind Close… by J. Allen Hynek · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books &middot; Views: 1.5K &middot; Uploaded: January 2024 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CI-fYo3V94M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CI-fYo3V94M">Open on YouTube</a></p></div></div></div>
 
@@ -297,201 +297,201 @@ In the absence of these, the primary options for interpreting the Saladare accou
 
 The Saladare incident illustrates a broader issue in historical UAP research: **vivid and dramatic narratives can survive in the absence of independent evidence**. This missing evidence problem is not unique to this case, but Saladare is a clear example because the consequences described (destruction, casualties, dramatic physical traces) would normally generate multiple sources of documentation. The absence of such sources—official, media, or archival—raises legitimate questions about the reliability of the accounts as factual historical events.
 
-Ufologists like Hynek and Vallée included Saladare in broader compilations because of the *physical trace* claims, but secondary reports without verifiable evidence do not meet standard criteria for confirmed historical incidents in scientific or historical research outside UFO subcultures. The case thus remains a contested entry point into discussions about how evidence is collected, preserved, and evaluated in Ethiopia and elsewhere, especially for incidents alleged outside well‑documented institutional or media frameworks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/1977/04/p74.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Vallee and Hynek likewise directly confront the tricky question of how UFOs</span><span class="citation-popover-snippet">Skeptical InquirerThe Edge of Reality: A Progress Report on Unidentified...by JA Hynek · Cited by 70 — Allen Hynek, a Northwestern Unive...</span></span></span>
+Ufologists like Hynek and Vallée included Saladare in broader compilations because of the *physical trace* claims, but secondary reports without verifiable evidence do not meet standard criteria for confirmed historical incidents in scientific or historical research outside UFO subcultures. The case thus remains a contested entry point into discussions about how evidence is collected, preserved, and evaluated in Ethiopia and elsewhere, especially for incidents alleged outside well‑documented institutional or media frameworks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/1977/04/p74.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Vallee and Hynek likewise directly confront the tricky question of how UFOs</span><span class="citation-popover-snippet">Skeptical InquirerThe Edge of Reality: A Progress Report on Unidentified...by JA Hynek · Cited by 70 — Allen Hynek, a Northwestern Unive...</span></span></span>
 
-In summary, the Saladare story persists because of later literary retracing in UFO literature and online communities, not because of preserved contemporaneous evidence. Its value today is as a cautionary example of how dramatic anecdotes can enter popular discourse in the absence of verifiable records, underscoring the importance of reliable documentation for any serious study of unidentified aerial phenomena in Ethiopia or globally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The object traveled 150 meters, paused, and then reversed its course. (Original 4k Photos with the letter sent to Dr J Allen Hynek.)...</span></span></span>
+In summary, the Saladare story persists because of later literary retracing in UFO literature and online communities, not because of preserved contemporaneous evidence. Its value today is as a cautionary example of how dramatic anecdotes can enter popular discourse in the absence of verifiable records, underscoring the importance of reliable documentation for any serious study of unidentified aerial phenomena in Ethiopia or globally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f47ua1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The object traveled 150 meters, paused, and then reversed its course. (Original 4k Photos with the letter sent to Dr J Allen Hynek.)...</span></span></span>
 
 <img src="{{ "/assets/images/Ethiopia_3d91f7_saladare_evidence_ga_e24ba4-Illustration-3-dark.svg" | relative_url }}" alt="Saladare illustration 3" data-theme-src-dark="{{ "/assets/images/Ethiopia_3d91f7_saladare_evidence_ga_e24ba4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ethiopia_3d91f7_saladare_evidence_ga_e24ba4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Is the Saladare UFO Case So Hard to Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Is the Saladare UFO Case So Hard to Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses evidence quality, case documentation, and investigation standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evidence quality, case documentation, and investigation standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and evidence using a structured approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and evidence using a structured approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">The Saladare case is closely associated with Hynek and Vallée&#x27;s treatment of UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The Saladare case is closely associated with Hynek and Vallée&#x27;s treatment of UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines how extraordinary reports evolve through folklore and retelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how extraordinary reports evolve through folklore and retelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-the-saladare-ufo-case-so-hard-to-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -507,7 +507,7 @@ In summary, the Saladare story persists because of later literary retracing in U
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -527,7 +527,7 @@ In summary, the Saladare story persists because of later literary retracing in U
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -559,7 +559,7 @@ In summary, the Saladare story persists because of later literary retracing in U
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -611,7 +611,7 @@ In summary, the Saladare story persists because of later literary retracing in U
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -656,7 +656,7 @@ In summary, the Saladare story persists because of later literary retracing in U
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -694,144 +694,143 @@ In summary, the Saladare story persists because of later literary retracing in U
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
    Title: the shocking destruction of an ethiopian village  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The shocking destruction of an Ethiopian village in 1970...August 29, 2024 — The shocking destruction of an Ethiopian village in 1...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f47ua1/the_shocking_destruction_of_an_ethiopian_village/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The shocking destruction of an Ethiopian village in 1970...August 29, 2024 — The shocking destruction of an Ethiopian village in 1...</p></details>
    Published: August 29, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Jacques Vallée  
-   Link: <a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufofeed.com  
-   Link: <a href="https://www.ufofeed.com/17046/the-edge-of-reality-two-scientists-evaluate-what-we-know-of-ufo-phenomenon-by-j-allen-hynek-and-jacques-vallee-2023-august-7-1970-in-saladare-ethiopia-a-red-glowing-ball-destroying-houses/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/17046/the-edge-of-reality-two-scientists-evaluate-what-we-know-of-ufo-phenomenon-by-j-allen-hynek-and-jacques-vallee-2023-august-7-1970-in-saladare-ethiopia-a-red-glowing-ball-destroying-houses/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek and Jacques Vallee (2023), August 7, 1970 in Saladare, Ethiopia: &quot;a red glowing ball...destroying houses in its path....uproo...</p></details>
+   Link:<a href="https://www.ufofeed.com/17046/the-edge-of-reality-two-scientists-evaluate-what-we-know-of-ufo-phenomenon-by-j-allen-hynek-and-jacques-vallee-2023-august-7-1970-in-saladare-ethiopia-a-red-glowing-ball-destroying-houses/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/17046/the-edge-of-reality-two-scientists-evaluate-what-we-know-of-ufo-phenomenon-by-j-allen-hynek-and-jacques-vallee-2023-august-7-1970-in-saladare-ethiopia-a-red-glowing-ball-destroying-houses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek and Jacques Vallee (2023), August 7, 1970 in Saladare, Ethiopia: &quot;a red glowing ball...destroying houses in its path....uproo...</p></details>
    Published: August 7, 1970  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufofeed.com  
-   Link: <a href="https://www.ufofeed.com/95444/the-shocking-destruction-of-an-ethiopian-village-in-1970-after-a-red-fire-ball-ufo-tore-through-50-buildings-and-road-which-injured-8-and-killed-1-child-the-object-traveled-150-meters-paused-and-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/95444/the-shocking-destruction-of-an-ethiopian-village-in-1970-after-a-red-fire-ball-ufo-tore-through-50-buildings-and-road-which-injured-8-and-killed-1-child-the-object-traveled-150-meters-paused-and-t/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The object traveled 150 meters, paused, and then reversed its course. (Original 4k Photos with the letter sent to Dr J Allen Hynek.) - UF...</p></details>
+   Link:<a href="https://www.ufofeed.com/95444/the-shocking-destruction-of-an-ethiopian-village-in-1970-after-a-red-fire-ball-ufo-tore-through-50-buildings-and-road-which-injured-8-and-killed-1-child-the-object-traveled-150-meters-paused-and-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/95444/the-shocking-destruction-of-an-ethiopian-village-in-1970-after-a-red-fire-ball-ufo-tore-through-50-buildings-and-road-which-injured-8-and-killed-1-child-the-object-traveled-150-meters-paused-and-t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The object traveled 150 meters, paused, and then reversed its course. (Original 4k Photos with the letter sent to Dr J Allen Hynek.) - UF...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f47ua1" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f47ua1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The object traveled 150 meters, paused, and then reversed its course. (Original 4k Photos with the letter sent to Dr J Allen Hynek.)...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1f47ua1" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f47ua1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The object traveled 150 meters, paused, and then reversed its course. (Original 4k Photos with the letter sent to Dr J Allen Hynek.)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/chmce7" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/chmce7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is one of several photos -- the &quot;original letter sent to J Allen Hynek&quot; describing the event is included -- posted by Redditor Ratmo...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/chmce7" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/chmce7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is one of several photos -- the &quot;original letter sent to J Allen Hynek&quot; describing the event is included -- posted by Redditor Ratmo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: infinityexplorers.com  
    Title: ufo destroyed a village in ethiopia in 1970  
-   Link: <a href="https://www.infinityexplorers.com/ufo-destroyed-a-village-in-ethiopia-in-1970/" target="_blank" rel="noopener noreferrer nofollow">https://www.infinityexplorers.com/ufo-destroyed-a-village-in-ethiopia-in-1970/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infinity ExplorersUFO destroyed a village in Ethiopia in 1970 - Infinity ExplorersJuly 29, 2019...</p></details>
+   Link:<a href="https://www.infinityexplorers.com/ufo-destroyed-a-village-in-ethiopia-in-1970/" target="_blank" rel="noopener noreferrer nofollow">https://www.infinityexplorers.com/ufo-destroyed-a-village-in-ethiopia-in-1970/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infinity ExplorersUFO destroyed a village in Ethiopia in 1970 - Infinity ExplorersJuly 29, 2019...</p></details>
    Published: July 29, 2019  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: skepticalinquirer.org  
    Title: Vallee and Hynek likewise directly confront the tricky question of how UFOs  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/1977/04/p74.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/1977/04/p74.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Edge of Reality: A Progress Report on Unidentified...by JA Hynek · Cited by 70 — Allen Hynek, a Northwestern Unive...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/1977/04/p74.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/1977/04/p74.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Edge of Reality: A Progress Report on Unidentified...by JA Hynek · Cited by 70 — Allen Hynek, a Northwestern Unive...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: simonandschuster.co.uk  
    Title: The Edge of Reality | Book by J  
-   Link: <a href="https://www.simonandschuster.co.uk/books/The-Edge-of-Reality/J-Allen-Hynek/MUFON/9781590033098" target="_blank" rel="noopener noreferrer nofollow">https://www.simonandschuster.co.uk/books/The-Edge-of-Reality/J-Allen-Hynek/MUFON/9781590033098</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek, Jacques...Perhaps, say the authors, UFOs signal the existence of a domain of nature as yet totally unexplored. In this mind...</p></details>
+   Link:<a href="https://www.simonandschuster.co.uk/books/The-Edge-of-Reality/J-Allen-Hynek/MUFON/9781590033098" target="_blank" rel="noopener noreferrer nofollow">https://www.simonandschuster.co.uk/books/The-Edge-of-Reality/J-Allen-Hynek/MUFON/9781590033098</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek, Jacques...Perhaps, say the authors, UFOs signal the existence of a domain of nature as yet totally unexplored. In this mind...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cleartools.net  
    Title: saladare incident  
-   Link: <a href="https://cleartools.net/tag/saladare-incident/" target="_blank" rel="noopener noreferrer nofollow">https://cleartools.net/tag/saladare-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag Saladare incident12 May 2026 — In 1970, an Ethiopian village experienced unexplained destruction attributed to a UFO sighting. Decade...</p></details>
+   Link:<a href="https://cleartools.net/tag/saladare-incident/" target="_blank" rel="noopener noreferrer nofollow">https://cleartools.net/tag/saladare-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tag Saladare incident12 May 2026 — In 1970, an Ethiopian village experienced unexplained destruction attributed to a UFO sighting. Decade...</p></details>
    Published: May 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: books.google.com  
    Title: The Edge of Reality  
-   Link: <a href="https://books.google.com/books/about/The_Edge_of_Reality.html?id=9jfYEAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Edge_of_Reality.html?id=9jfYEAAAQBAJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Evaluate What We Know of UFO PhenomenonJosef Allen Hynek (May 1, 1910-April 27, 1986) was an American astronomer, professor, a...</p></details>
+   Link:<a href="https://books.google.com/books/about/The_Edge_of_Reality.html?id=9jfYEAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Edge_of_Reality.html?id=9jfYEAAAQBAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Evaluate What We Know of UFO PhenomenonJosef Allen Hynek (May 1, 1910-April 27, 1986) was an American astronomer, professor, a...</p></details>
    Published: May 1, 1910  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pdfcoffee.com  
    Title: Hynek and Vallee  
-   Link: <a href="https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Edge of Reality (1975)One would expect that if UFOs had no substance in fact but were entirely the products of human imagination, the...</p></details>
+   Link:<a href="https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/hynek-and-vallee-the-edge-of-reality-1975-pdf-free.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Edge of Reality (1975)One would expect that if UFOs had no substance in fact but were entirely the products of human imagination, the...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/305778551/275520335-Best-UFO-Cases-Europe-Illobrand-von-Ludwiger-pdf-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/305778551/275520335-Best-UFO-Cases-Europe-Illobrand-von-Ludwiger-pdf-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On August 7, 1970, the citizens of the village Saladare (14 km away from Asmara) heard a loud noise at 10:30 p.m. About 150 meters away fr...</p></details>
+   Link:<a href="https://www.scribd.com/doc/305778551/275520335-Best-UFO-Cases-Europe-Illobrand-von-Ludwiger-pdf-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/305778551/275520335-Best-UFO-Cases-Europe-Illobrand-von-Ludwiger-pdf-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On August 7, 1970, the citizens of the village Saladare (14 km away from Asmara) heard a loud noise at 10:30 p.m. About 150 meters away fr...</p></details>
    Published: August 7, 1970  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cleartools.net  
-   Link: <a href="https://cleartools.net/the-saladare-incident-examining-ethiopias-1970-ufo-event-and-what-actually-happened/" target="_blank" rel="noopener noreferrer nofollow">https://cleartools.net/the-saladare-incident-examining-ethiopias-1970-ufo-event-and-what-actually-happened/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Saladare Incident: Examining Ethiopia&#x27;s 1970 UFO Event...12 May 2026 — The Saladare incident: Ethiopia&#x27;s 1970 UFO case that destroye...</p></details>
+   Link:<a href="https://cleartools.net/the-saladare-incident-examining-ethiopias-1970-ufo-event-and-what-actually-happened/" target="_blank" rel="noopener noreferrer nofollow">https://cleartools.net/the-saladare-incident-examining-ethiopias-1970-ufo-event-and-what-actually-happened/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Saladare Incident: Examining Ethiopia&#x27;s 1970 UFO Event...12 May 2026 — The Saladare incident: Ethiopia&#x27;s 1970 UFO case that destroye...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufoinsight.com  
    Title: The Cecconi UFO Incident: Photographic Evidence Of An Extraterrestrial Vehicle?  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/cecconi-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/cecconi-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightAugust 1, 2021 — THE CECCONI UFO INCIDENT: PHOTOGRAPHIC EVIDENCE OF AN EXTRATERRESTRIAL VEHICLE? By Marcus Lowth Image: Publis...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/cecconi-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/cecconi-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightAugust 1, 2021 — THE CECCONI UFO INCIDENT: PHOTOGRAPHIC EVIDENCE OF AN EXTRATERRESTRIAL VEHICLE? By Marcus Lowth Image: Publis...</p></details>
    Published: August 1, 2021  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufoevidence.org  
    Title: They stand as a monument to the limitations of our underst  
-   Link: <a href="https://www.ufoevidence.org/cases/ufocaseshome.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/ufocaseshome.asp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Selected UFO Cases - UFO Evidence* * * * * * # Selected UFO Cases &quot;We have, on one hand, the facts -- thousands of unexplained observatio...</p></details>
+   Link:<a href="https://www.ufoevidence.org/cases/ufocaseshome.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/ufocaseshome.asp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Selected UFO Cases - UFO Evidence* * * * * * # Selected UFO Cases &quot;We have, on one hand, the facts -- thousands of unexplained observatio...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: goodreads.com  
    Title: The Edge of Reality: A Progress Report on Unidentified …J  
-   Link: <a href="https://www.goodreads.com/en/book/show/2887770-the-edge-of-reality" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/2887770-the-edge-of-reality</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek (1910-86; cf. The UFO Experience: A Scientific Inquiry) &amp; Jacques F. Vallée (b. 1939; cf. Confrontations: A Scientist&#x27;s Searc...</p></details>
+   Link:<a href="https://www.goodreads.com/en/book/show/2887770-the-edge-of-reality" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/2887770-the-edge-of-reality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek (1910-86; cf. The UFO Experience: A Scientific Inquiry) &amp; Jacques F. Vallée (b. 1939; cf. Confrontations: A Scientist&#x27;s Searc...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ufoac.com  
    Title: Inhabitants of Ethiopia suffered from a UFO attack  
-   Link: <a href="https://ufoac.com/inhabitants-of-ethiopia-suffered-from-a-ufo-attack.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/inhabitants-of-ethiopia-suffered-from-a-ufo-attack.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 7, 1970 — INHABITANTS OF ETHIOPIA SUFFERED FROM A UFO ATTACK Report UFO sightings UFOlogist&#x27;s tools Send messages to extraterrestr...</p></details>
+   Link:<a href="https://ufoac.com/inhabitants-of-ethiopia-suffered-from-a-ufo-attack.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/inhabitants-of-ethiopia-suffered-from-a-ufo-attack.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 7, 1970 — INHABITANTS OF ETHIOPIA SUFFERED FROM A UFO ATTACK Report UFO sightings UFOlogist&#x27;s tools Send messages to extraterrestr...</p></details>
    Published: August 7, 1970  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abrahamat.wordpress.com  
    Title: comunidentified flying objects UFO's over Ethiopia  
-   Link: <a href="https://abrahamat.wordpress.com/2017/07/02/unidentified-flying-objects-ufos-over-ethiopia/" target="_blank" rel="noopener noreferrer nofollow">https://abrahamat.wordpress.com/2017/07/02/unidentified-flying-objects-ufos-over-ethiopia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying objects UFO&#x27;s over Ethiopia - Abraham&#x27;s view2 Jul 2017 — 7th, 1970 over Saladare, Ethiopia, at about 11:30 a.m., a red glowing obj...</p></details>
+   Link:<a href="https://abrahamat.wordpress.com/2017/07/02/unidentified-flying-objects-ufos-over-ethiopia/" target="_blank" rel="noopener noreferrer nofollow">https://abrahamat.wordpress.com/2017/07/02/unidentified-flying-objects-ufos-over-ethiopia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flying objects UFO&#x27;s over Ethiopia - Abraham&#x27;s view2 Jul 2017 — 7th, 1970 over Saladare, Ethiopia, at about 11:30 a.m., a red glowing obj...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Edge-Reality-Progress-Unidentified-Objects/dp/0809281503" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Edge-Reality-Progress-Unidentified-Objects/dp/0809281503</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Edge of Reality: A Progress Report on Unidentified...He was the inspiration for the French UFO researcher in Steven Spielberg&#x27;s Clos...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Edge-Reality-Progress-Unidentified-Objects/dp/0809281503" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Edge-Reality-Progress-Unidentified-Objects/dp/0809281503</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Edge of Reality: A Progress Report on Unidentified...He was the inspiration for the French UFO researcher in Steven Spielberg&#x27;s Clos...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Edge-Reality-Scientists-Evaluate-Phenomenon-ebook/dp/B0BX8B77MZ" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Edge-Reality-Scientists-Evaluate-Phenomenon-ebook/dp/B0BX8B77MZ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>llen Hynek &amp; Jacques Vallee about their experiences investigating UFOs...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Edge-Reality-Scientists-Evaluate-Phenomenon-ebook/dp/B0BX8B77MZ" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Edge-Reality-Scientists-Evaluate-Phenomenon-ebook/dp/B0BX8B77MZ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>llen Hynek &amp; Jacques Vallee about their experiences investigating UFOs...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: forum.hackliberty.org  
    Title: ufo uap event chronology part 4 1970 up to and including 1979  
-   Link: <a href="https://forum.hackliberty.org/t/ufo-uap-event-chronology-part-4-1970-up-to-and-including-1979/137" target="_blank" rel="noopener noreferrer nofollow">https://forum.hackliberty.org/t/ufo-uap-event-chronology-part-4-1970-up-to-and-including-1979/137</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hack LibertyUFO/UAP Event Chronology, Part 4: 1970 up to and including 1979 - Hack Liberty...</p></details>
+   Link:<a href="https://forum.hackliberty.org/t/ufo-uap-event-chronology-part-4-1970-up-to-and-including-1979/137" target="_blank" rel="noopener noreferrer nofollow">https://forum.hackliberty.org/t/ufo-uap-event-chronology-part-4-1970-up-to-and-including-1979/137</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hack LibertyUFO/UAP Event Chronology, Part 4: 1970 up to and including 1979 - Hack Liberty...</p></details>

@@ -254,41 +254,41 @@ image: /assets/images/Guatemala_11760e_ufo_database_analysi_fc7f4b-Illustration-
 
 ## Introduction
 
-Public databases such as the **National UFO Reporting Center (NUFORC)** provide one of the few systematic, longitudinal sources for contemporary UFO (UAP) reporting in Guatemala. Although there is no official Guatemalan government archive equivalent to a national UAP repository, NUFORC and similar aggregators have collected eyewitness accounts from across Guatemala over decades. These records offer a picture of reporting trends, object descriptors, and recurring patterns in local sightings, but they also highlight the inherent limitations of open‑submission datasets. NUFORC data for Guatemala, for instance, spans decades of reports of lights, shapes, and brief aerial phenomena submitted by witnesses without independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cGuatemala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Guatemala</span><span class="citation-popover-snippet">NUFORC Reports for Country GuatemalaAugust 20, 2023 — NUFORC Reports for Country &#x27;Guatemala&#x27;; Open, 04/16/2005 12:00, Quetzaltenan...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Public databases such as the **National UFO Reporting Center (NUFORC)** provide one of the few systematic, longitudinal sources for contemporary UFO (UAP) reporting in Guatemala. Although there is no official Guatemalan government archive equivalent to a national UAP repository, NUFORC and similar aggregators have collected eyewitness accounts from across Guatemala over decades. These records offer a picture of reporting trends, object descriptors, and recurring patterns in local sightings, but they also highlight the inherent limitations of open‑submission datasets. NUFORC data for Guatemala, for instance, spans decades of reports of lights, shapes, and brief aerial phenomena submitted by witnesses without independent verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cGuatemala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Guatemala</span><span class="citation-popover-snippet">NUFORC Reports for Country GuatemalaAugust 20, 2023 — NUFORC Reports for Country &#x27;Guatemala&#x27;; Open, 04/16/2005 12:00, Quetzaltenan...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 <img src="{{ "/assets/images/Guatemala_11760e_ufo_database_analysi_fc7f4b-Illustration-1-dark.svg" | relative_url }}" alt="Database Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Guatemala_11760e_ufo_database_analysi_fc7f4b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guatemala_11760e_ufo_database_analysi_fc7f4b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## NUFORC Entries and Trends in Guatemala
 
-The **NUFORC database** is one of the most extensive publicly accessible UFO / UAP sighting repositories globally, with reports dating back to the 20th century and searchable by country, date, shape, and other fields. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO Sightings...</span></span></span> In the case of Guatemala, NUFORC’s country index lists **17 sighting entries** attributed to locations across the country from the early 1990s through 2025, reflecting intermittent reporting rather than a concentrated national “wave” in recent years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=186776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 186776August 20, 2023 — 17 Jan 2025 — NUFORC UFO Sighting 186776; Occurred: 2025-01-12 19:40 Local; Reported...</span><span class="citation-popover-meta">Published: January 12, 2025</span></span></span>
+The **NUFORC database** is one of the most extensive publicly accessible UFO / UAP sighting repositories globally, with reports dating back to the 20th century and searchable by country, date, shape, and other fields.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO Sightings...</span></span></span> In the case of Guatemala, NUFORC’s country index lists **17 sighting entries** attributed to locations across the country from the early 1990s through 2025, reflecting intermittent reporting rather than a concentrated national “wave” in recent years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=186776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 186776August 20, 2023 — 17 Jan 2025 — NUFORC UFO Sighting 186776; Occurred: 2025-01-12 19:40 Local; Reported...</span><span class="citation-popover-meta">Published: January 12, 2025</span></span></span>
 
 Among these Guatemala entries are:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A **green pulsating flash** witnessed over Guatemala City in January 2025, described as moving faster than commercial aircraft and accompanied by a sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 187680February 14, 2025...</span><span class="citation-popover-meta">Published: February 14, 2025</span></span></span>
-* A **sphere moving among clouds** seen in Esquipulas (Chiquimula Department) in 2016. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=76989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 76989August 24, 2010...</span><span class="citation-popover-meta">Published: August 24, 2010</span></span></span>
-* Earlier reports including bright lights over **Peten (2010)** and triangular shapes near the sun in **Quetzaltenango (2005)**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=106053" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 106053January 10, 2014 — NUFORC UFO SIGHTING 106053 Occurred: 2014-01-04 20:00 Local Reported: 2014-01-05 15:14 Pacif...</span><span class="citation-popover-meta">Published: January 4, 2014</span></span></span>
+* A **green pulsating flash** witnessed over Guatemala City in January 2025, described as moving faster than commercial aircraft and accompanied by a sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 187680February 14, 2025...</span><span class="citation-popover-meta">Published: February 14, 2025</span></span></span>
+* A **sphere moving among clouds** seen in Esquipulas (Chiquimula Department) in 2016.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=76989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 76989August 24, 2010...</span><span class="citation-popover-meta">Published: August 24, 2010</span></span></span>
+* Earlier reports including bright lights over **Peten (2010)** and triangular shapes near the sun in **Quetzaltenango (2005)**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=106053" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 106053January 10, 2014 — NUFORC UFO SIGHTING 106053 Occurred: 2014-01-04 20:00 Local Reported: 2014-01-05 15:14 Pacif...</span><span class="citation-popover-meta">Published: January 4, 2014</span></span></span>
 
 </div>
 
-These entries are diverse in their descriptions — from “orb” and “light” sightings to cylinders and other anomalous shapes — but most consist of single‑witness accounts or transient observations that were later posted on NUFORC with minimal supporting documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+These entries are diverse in their descriptions — from “orb” and “light” sightings to cylinders and other anomalous shapes — but most consist of single‑witness accounts or transient observations that were later posted on NUFORC with minimal supporting documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d_ILkT94FoU" title="Washington man spent last 25 years running National UFO Reporting Center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d_ILkT94FoU" target="_blank" rel="noopener noreferrer">Washington man spent last 25 years running National UFO Reporting Center</a></p><p class="youtube-embed-meta">Channel: KREM 2 News &middot; Views: 6.3K &middot; Uploaded: February 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d_ILkT94FoU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d_ILkT94FoU">Open on YouTube</a></p></div></div></div>
 
 ## Analysis of Recurring Descriptions and Shapes
 
-Across Guatemala’s NUFORC reports, **certain recurring descriptors** appear that are also common in the broader UFO reporting ecosystem. In global analyses of NUFORC data, lights, spheres, orbs, and flashes often dominate as reported shapes, with discs, triangles and undefined shapes following behind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">November 22, 2003 — Most commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) Online Database...</span><span class="citation-popover-meta">Published: November 22, 2003</span></span></span> Guatemala’s dataset aligns with this pattern: many local entries feature lights in the sky or objects with simple geometric forms rather than detailed structured craft.
+Across Guatemala’s NUFORC reports, **certain recurring descriptors** appear that are also common in the broader UFO reporting ecosystem. In global analyses of NUFORC data, lights, spheres, orbs, and flashes often dominate as reported shapes, with discs, triangles and undefined shapes following behind.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">November 22, 2003 — Most commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) Online Database...</span><span class="citation-popover-meta">Published: November 22, 2003</span></span></span> Guatemala’s dataset aligns with this pattern: many local entries feature lights in the sky or objects with simple geometric forms rather than detailed structured craft.
 
-For example, the 2025 Guatemala City case involved a **flashing green light** that witnesses described in terms of motion and colour but without corroborative imagery or instrument data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Earlier records such as the Peten light or Quetzaltenango triangular shape similarly rely on subjective observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
+For example, the 2025 Guatemala City case involved a **flashing green light** that witnesses described in terms of motion and colour but without corroborative imagery or instrument data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Earlier records such as the Peten light or Quetzaltenango triangular shape similarly rely on subjective observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
 
-This recurrence of simple shapes (lights, spheres, flashes) is a known feature of open reporting databases; shape taxonomies in submitted reports tend to cluster around easily recognisable descriptors, partly because witnesses use plain language to describe fleeting or distant observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">November 22, 2003 — Most commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) Online Database...</span><span class="citation-popover-meta">Published: November 22, 2003</span></span></span>
+This recurrence of simple shapes (lights, spheres, flashes) is a known feature of open reporting databases; shape taxonomies in submitted reports tend to cluster around easily recognisable descriptors, partly because witnesses use plain language to describe fleeting or distant observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">November 22, 2003 — Most commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) Online Database...</span><span class="citation-popover-meta">Published: November 22, 2003</span></span></span>
 
 <img src="{{ "/assets/images/Guatemala_11760e_ufo_database_analysi_fc7f4b-Illustration-2-dark.svg" | relative_url }}" alt="Database Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Guatemala_11760e_ufo_database_analysi_fc7f4b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guatemala_11760e_ufo_database_analysi_fc7f4b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limitations and Credibility of Reports
 
-While NUFORC and comparable platforms are invaluable for aggregating sightings across time and geography, they have **critical limitations** for rigorous scientific analysis. Reports are **self‑submitted and unverified**, often lacking independent corroboration such as radar data, multiple eyewitness testimonies, or physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pararational.com/encyclopedia/nuforc-national-ufo-reporting-center/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pararational.com">[ParaRational]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pararational.com</span><span class="citation-popover-title">Para Rational NUFORC (National UFO Reporting Center</span><span class="citation-popover-snippet">NUFORC (National UFO Reporting Center) - ParaRational...</span></span></span> NUFORC itself does not investigate each sighting in the field; reports are graded and published based on witness descriptions alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cGuatemala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Guatemala</span><span class="citation-popover-snippet">NUFORC Reports for Country GuatemalaAugust 20, 2023 — NUFORC Reports for Country &#x27;Guatemala&#x27;; Open, 04/16/2005 12:00, Quetzaltenan...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+While NUFORC and comparable platforms are invaluable for aggregating sightings across time and geography, they have **critical limitations** for rigorous scientific analysis. Reports are **self‑submitted and unverified**, often lacking independent corroboration such as radar data, multiple eyewitness testimonies, or physical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pararational.com/encyclopedia/nuforc-national-ufo-reporting-center/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pararational.com">[ParaRational]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pararational.com</span><span class="citation-popover-title">Para Rational NUFORC (National UFO Reporting Center</span><span class="citation-popover-snippet">NUFORC (National UFO Reporting Center) - ParaRational...</span></span></span> NUFORC itself does not investigate each sighting in the field; reports are graded and published based on witness descriptions alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cGuatemala" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Guatemala</span><span class="citation-popover-snippet">NUFORC Reports for Country GuatemalaAugust 20, 2023 — NUFORC Reports for Country &#x27;Guatemala&#x27;; Open, 04/16/2005 12:00, Quetzaltenan...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
-This means that apparent trends — for example, an uptick in reported lights or unusual shapes in Guatemala — may **reflect reporting behaviour** more than genuine changes in aerial phenomena. Language barriers, awareness of reporting mechanisms, and the availability of internet access can all shape who files a report and how frequently. In global comparisons, foreign reports account for a **small minority** of NUFORC entries, partly because awareness of the database outside English‑speaking contexts is limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/xfsi5m/map_of_all_reported_ufo_sightings_19062014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">map of all reported ufo sightings 19062014</span><span class="citation-popover-snippet">Thought it is interesting where sightings are concentrated. I&#x27;m not sure the source of this information so...Read more...</span></span></span>
+This means that apparent trends — for example, an uptick in reported lights or unusual shapes in Guatemala — may **reflect reporting behaviour** more than genuine changes in aerial phenomena. Language barriers, awareness of reporting mechanisms, and the availability of internet access can all shape who files a report and how frequently. In global comparisons, foreign reports account for a **small minority** of NUFORC entries, partly because awareness of the database outside English‑speaking contexts is limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/xfsi5m/map_of_all_reported_ufo_sightings_19062014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">map of all reported ufo sightings 19062014</span><span class="citation-popover-snippet">Thought it is interesting where sightings are concentrated. I&#x27;m not sure the source of this information so...Read more...</span></span></span>
 
 Moreover, local contextual factors — such as atmospheric conditions, flight paths, satellites, meteors, and even astronomical objects — often provide plausible terrestrial explanations for many sightings when interviews and technical follow‑ups are applied. Unlike controlled datasets with instrumentation or multiple corroborating signals, open reporting data primarily documents **first‑person perception**, which can be influenced by optical illusion, misidentification, or memory distortion.
 
@@ -298,201 +298,201 @@ Moreover, local contextual factors — such as atmospheric conditions, flight pa
 
 ## The Role of Reporting Databases in Guatemala’s UAP Landscape
 
-Despite their limitations, public reporting databases serve a **distinct role in understanding the modern UAP landscape** in Guatemala. They capture a **longitudinal record of witness experiences**, offering researchers a starting point for identifying patterns worth investigating further. A database like NUFORC creates a searchable archive of eyewitness accounts that, when combined with other sources (local media, amateur astronomer logs, or if available, official archives), helps map **where and when unusual sightings are concentrated** over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO Sightings...</span></span></span>
+Despite their limitations, public reporting databases serve a **distinct role in understanding the modern UAP landscape** in Guatemala. They capture a **longitudinal record of witness experiences**, offering researchers a starting point for identifying patterns worth investigating further. A database like NUFORC creates a searchable archive of eyewitness accounts that, when combined with other sources (local media, amateur astronomer logs, or if available, official archives), helps map **where and when unusual sightings are concentrated** over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO Sightings...</span></span></span>
 
 For Guatemala, the dataset reveals a **consistent, albeit sparse, stream of local sightings** reported by residents — a phenomenon that mirrors patterns seen in other countries where technology and public consciousness about UAP have grown. While no single report in the public databases has established evidence of non‑terrestrial craft, the aggregate dataset is useful for **identifying recurrent descriptors and reporting behaviour trends** that may warrant targeted investigation in future work.
 
 <img src="{{ "/assets/images/Guatemala_11760e_ufo_database_analysi_fc7f4b-Illustration-3-dark.svg" | relative_url }}" alt="Database Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Guatemala_11760e_ufo_database_analysi_fc7f4b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guatemala_11760e_ufo_database_analysi_fc7f4b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Mapping Guatemala’s UFO Reports Through Public Databases. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Mapping Guatemala’s UFO Reports Through Public Databases. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly supports the page&#x27;s database and pattern-analysis focus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the page&#x27;s database and pattern-analysis focus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights better-documented reports and evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights better-documented reports and evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Travis Walton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+</h4>
+<p class="fr-book-author">By Travis Walton</p>
         
-        <p class="fr-book-desc">Provides context for reporting trends and recurring narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for reporting trends and recurring narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
+</h4>
+<p class="fr-book-author">By John Keel</p>
         
-        <p class="fr-book-desc">Explores recurring forms and witness descriptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recurring forms and witness descriptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="mapping-guatemala-s-ufo-reports-through-public-databases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -508,7 +508,7 @@ For Guatemala, the dataset reveals a **consistent, albeit sparse, stream of loca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -528,7 +528,7 @@ For Guatemala, the dataset reveals a **consistent, albeit sparse, stream of loca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -560,7 +560,7 @@ For Guatemala, the dataset reveals a **consistent, albeit sparse, stream of loca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -612,7 +612,7 @@ For Guatemala, the dataset reveals a **consistent, albeit sparse, stream of loca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -657,7 +657,7 @@ For Guatemala, the dataset reveals a **consistent, albeit sparse, stream of loca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -702,161 +702,161 @@ All claims here about database entries, trends, and the nature of reporting are 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Guatemala  
-   Link: <a href="https://nuforc.org/subndx/?id=cGuatemala" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cGuatemala</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country GuatemalaAugust 20, 2023 — NUFORC Reports for Country &#x27;Guatemala&#x27;; Open, 04/16/2005 12:00, Quetzaltenan...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=cGuatemala" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cGuatemala</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country GuatemalaAugust 20, 2023 — NUFORC Reports for Country &#x27;Guatemala&#x27;; Open, 04/16/2005 12:00, Quetzaltenan...</p></details>
    Published: August 20, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO Sightings...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO Sightings...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=186776" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186776</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 186776August 20, 2023 — 17 Jan 2025 — NUFORC UFO Sighting 186776; Occurred: 2025-01-12 19:40 Local; Reported...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=186776" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186776</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 186776August 20, 2023 — 17 Jan 2025 — NUFORC UFO Sighting 186776; Occurred: 2025-01-12 19:40 Local; Reported...</p></details>
    Published: January 12, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=187680" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187680</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 187680February 14, 2025...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=187680" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187680</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 187680February 14, 2025...</p></details>
    Published: February 14, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=76989" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=76989</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 76989August 24, 2010...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=76989" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=76989</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 76989August 24, 2010...</p></details>
    Published: August 24, 2010  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 22, 2003 — Most commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) Online Database...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 22, 2003 — Most commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) Online Database...</p></details>
    Published: November 22, 2003  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pararational.com  
    Title: Para Rational NUFORC (National UFO Reporting Center)  
-   Link: <a href="https://www.pararational.com/encyclopedia/nuforc-national-ufo-reporting-center/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/encyclopedia/nuforc-national-ufo-reporting-center/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC (National UFO Reporting Center) - ParaRational...</p></details>
+   Link:<a href="https://www.pararational.com/encyclopedia/nuforc-national-ufo-reporting-center/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/encyclopedia/nuforc-national-ufo-reporting-center/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC (National UFO Reporting Center) - ParaRational...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: map of all reported ufo sightings 19062014  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/xfsi5m/map_of_all_reported_ufo_sightings_19062014/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xfsi5m/map_of_all_reported_ufo_sightings_19062014/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thought it is interesting where sightings are concentrated. I&#x27;m not sure the source of this information so...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/xfsi5m/map_of_all_reported_ufo_sightings_19062014/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xfsi5m/map_of_all_reported_ufo_sightings_19062014/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thought it is interesting where sightings are concentrated. I&#x27;m not sure the source of this information so...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023 — MATERIALS AND METHODS PU...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023 — MATERIALS AND METHODS PU...</p></details>
    Published: December 14, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=106053" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=106053</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 106053January 10, 2014 — NUFORC UFO SIGHTING 106053 Occurred: 2014-01-04 20:00 Local Reported: 2014-01-05 15:14 Pacif...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=106053" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=106053</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 106053January 10, 2014 — NUFORC UFO SIGHTING 106053 Occurred: 2014-01-04 20:00 Local Reported: 2014-01-05 15:14 Pacif...</p></details>
    Published: January 4, 2014  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uap.nexus  
    Title: Whether y  
-   Link: <a href="https://uap.nexus/" target="_blank" rel="noopener noreferrer nofollow">https://uap.nexus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Sighting AggregatorUAP NEXUS - THE LEADING UFO AND UAP SIGHTING DATABASE Welcome to UAP NEXUS, the most trusted platform for track...</p></details>
+   Link:<a href="https://uap.nexus/" target="_blank" rel="noopener noreferrer nofollow">https://uap.nexus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Sighting AggregatorUAP NEXUS - THE LEADING UFO AND UAP SIGHTING DATABASE Welcome to UAP NEXUS, the most trusted platform for track...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: metabunk.org  
    Title: nuforc sightings categorized by decade and shape.14610  
-   Link: <a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shape | MetabunkDecember 1, 2025 — NUFORC SIGHTINGS CATEGORIZED BY DECADE AND SHAPE * Thread s...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shape | MetabunkDecember 1, 2025 — NUFORC SIGHTINGS CATEGORIZED BY DECADE AND SHAPE * Thread s...</p></details>
    Published: December 1, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: enigmalabs.io  
    Title: Submit here Share Article Image  
-   Link: <a href="https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National UFO Reporting Center (NUFORC) | Enigma LabsMay 2, 2023 — The National UFO Reporting Center (NUFORC) Updated May 2, 2023 Imag...</p></details>
+   Link:<a href="https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National UFO Reporting Center (NUFORC) | Enigma LabsMay 2, 2023 — The National UFO Reporting Center (NUFORC) Updated May 2, 2023 Imag...</p></details>
    Published: May 2, 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mapuap.com  
    Title: guatemala 2004 a100c106  
-   Link: <a href="https://mapuap.com/sighting/guatemala-2004-a100c106" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/guatemala-2004-a100c106</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC2014-01-01. Share This Record. SHARE ON X → COPY LINK. Related Sightings in USA...Read more...</p></details>
+   Link:<a href="https://mapuap.com/sighting/guatemala-2004-a100c106" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/guatemala-2004-a100c106</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC2014-01-01. Share This Record. SHARE ON X → COPY LINK. Related Sightings in USA...Read more...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uapai.org  
-   Link: <a href="https://www.uapai.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapai.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unified Open Infrastructure for UAP DataLive API with real government data THE WORLD&#x27;S UAP SIGHTING DATABASE 277,000+ UAP sig...</p></details>
+   Link:<a href="https://www.uapai.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapai.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unified Open Infrastructure for UAP DataLive API with real government data THE WORLD&#x27;S UAP SIGHTING DATABASE 277,000+ UAP sig...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/nuforc/ufo-sightings/data" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nuforc/ufo-sightings/data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsNational UFO Reporting Center (NUFORC) and 1 collaborator · Updated 6 years ago arrow_drop_up[Button: 693] code Code file_do...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/nuforc/ufo-sightings/data" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nuforc/ufo-sightings/data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsNational UFO Reporting Center (NUFORC) and 1 collaborator · Updated 6 years ago arrow_drop_up[Button: 693] code Code file_do...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYp0a0EgTUb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYp0a0EgTUb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports across North AmericaThe U.S. Pentagon released new UFO/UAP files with videos, photos, and military reports from past decades...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYp0a0EgTUb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYp0a0EgTUb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports across North AmericaThe U.S. Pentagon released new UFO/UAP files with videos, photos, and military reports from past decades...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ufosint.com  
-   Link: <a href="https://ufosint.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufosint.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOSINT Explorer — 614,505 UFO sightings, searchableUFOSINT EXPLORER [Button: 614,505 sightings] Total sightings 614,505 Sightings on map...</p></details>
+   Link:<a href="https://ufosint.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufosint.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOSINT Explorer — 614,505 UFO sightings, searchableUFOSINT EXPLORER [Button: 614,505 sightings] Total sightings 614,505 Sightings on map...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: baselight.app  
-   Link: <a href="https://baselight.app/u/kaggle/dataset/joebeachcapital_ufo_sightings" target="_blank" rel="noopener noreferrer nofollow">https://baselight.app/u/kaggle/dataset/joebeachcapital_ufo_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loading... Share DetailsTable Explorer FULL TEXT &amp; GEOCODED UFO SIGHTING REPORTS FROM THE NATIONAL UFO RESEARCH CENTER...</p></details>
+   Link:<a href="https://baselight.app/u/kaggle/dataset/joebeachcapital_ufo_sightings" target="_blank" rel="noopener noreferrer nofollow">https://baselight.app/u/kaggle/dataset/joebeachcapital_ufo_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loading... Share DetailsTable Explorer FULL TEXT &amp; GEOCODED UFO SIGHTING REPORTS FROM THE NATIONAL UFO RESEARCH CENTER...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: newspaceeconomy.ca  
    Title: National UFO Reporting Center (NUFORC): A Hub for UFO and UAP Sightings  
-   Link: <a href="https://newspaceeconomy.ca/2024/10/14/national-ufo-reporting-center-nuforc-a-hub-for-ufo-and-uap-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2024/10/14/national-ufo-reporting-center-nuforc-a-hub-for-ufo-and-uap-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyMay 8, 2026 — New Space EconomyBusiness, Technology, and Trends Friday, May 8, 2026 Sign in / Join Extraterrestrial Life...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2024/10/14/national-ufo-reporting-center-nuforc-a-hub-for-ufo-and-uap-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2024/10/14/national-ufo-reporting-center-nuforc-a-hub-for-ufo-and-uap-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyMay 8, 2026 — New Space EconomyBusiness, Technology, and Trends Friday, May 8, 2026 Sign in / Join Extraterrestrial Life...</p></details>
    Published: May 8, 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BroBible/posts/multiple-witnesses-in-guatemala-recently-captured-video-of-a-ufo-the-sighting-wa/1160381639462296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BroBible/posts/multiple-witnesses-in-guatemala-recently-captured-video-of-a-ufo-the-sighting-wa/1160381639462296/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The sighting was so mysterious that not even the Director of the Guatemalan Association of...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/BroBible/posts/multiple-witnesses-in-guatemala-recently-captured-video-of-a-ufo-the-sighting-wa/1160381639462296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BroBible/posts/multiple-witnesses-in-guatemala-recently-captured-video-of-a-ufo-the-sighting-wa/1160381639462296/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The sighting was so mysterious that not even the Director of the Guatemalan Association of...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Washington man spent last 25 years running National UFO Reporting Center  
-   Link: <a href="https://www.youtube.com/watch?v=d_ILkT94FoU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_ILkT94FoU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This collection outlines how modern databases, civilian data-gathering efforts, and technical analysis are utilized by researchers to sys...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d_ILkT94FoU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_ILkT94FoU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This collection outlines how modern databases, civilian data-gathering efforts, and technical analysis are utilized by researchers to sys...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: medium.com  
    Title: the ufo uap report for february 2026 1957560a454f  
-   Link: <a href="https://medium.com/%40pauljones_85805/the-ufo-uap-report-for-february-2026-1957560a454f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pauljones_85805/the-ufo-uap-report-for-february-2026-1957560a454f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO/UAP report for February 2026 | by Paul JonesThe National UFO Reporting Center (NUFORC) logged 68 sighting reports for February 20...</p></details>
+   Link:<a href="https://medium.com/%40pauljones_85805/the-ufo-uap-report-for-february-2026-1957560a454f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40pauljones_85805/the-ufo-uap-report-for-february-2026-1957560a454f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO/UAP report for February 2026 | by Paul JonesThe National UFO Reporting Center (NUFORC) logged 68 sighting reports for February 20...</p></details>
    Published: february 2026

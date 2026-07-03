@@ -254,33 +254,33 @@ image: /assets/images/Haiti_a4842f_civilian_reports_7072e4-Illustration-1-social
 
 ## Introduction
 
-Haiti’s civilian UFO reporting record is remarkably sparse and marked by low‑quality evidence, with just a handful of entries in major English‑language sighting databases and one viral incident that turned out to be a hoax. Few formal civilian observations from Haiti have made it into widely cited catalogues such as the US‑based National UFO Reporting Center (NUFORC) database, and the most‑seen popular footage linked to the country was later identified as artificial. Understanding these patterns sheds light on why Haiti’s civilian UFO reports remain thin and why witness‑offered evidence often lacks confirmatory detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — Haiti, 4. Honduras, 23. Hong Kong, 10. Hong Kong SAR, 2. Hungary, 46... Copyright 2026...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Haiti’s civilian UFO reporting record is remarkably sparse and marked by low‑quality evidence, with just a handful of entries in major English‑language sighting databases and one viral incident that turned out to be a hoax. Few formal civilian observations from Haiti have made it into widely cited catalogues such as the US‑based National UFO Reporting Center (NUFORC) database, and the most‑seen popular footage linked to the country was later identified as artificial. Understanding these patterns sheds light on why Haiti’s civilian UFO reports remain thin and why witness‑offered evidence often lacks confirmatory detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — Haiti, 4. Honduras, 23. Hong Kong, 10. Hong Kong SAR, 2. Hungary, 46... Copyright 2026...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 <img src="{{ "/assets/images/Haiti_a4842f_civilian_reports_7072e4-Illustration-1-dark.svg" | relative_url }}" alt="Civilian Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Haiti_a4842f_civilian_reports_7072e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Haiti_a4842f_civilian_reports_7072e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Civilian Reports Exist in the NUFORC Database
 
-NUFORC, a long‑running civilian archive of self‑reported unidentified aerial phenomena, lists reports by country but does not assess their validity beyond basic filtering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span> Within NUFORC’s country index, **Haiti appears only four times** as of the latest available listing, a low count compared with many other countries and even some Caribbean neighbours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sightings Map &#124; NUFORCDecember 18, 2023 — Menu Close * Posts * Data Bank * Map * Gallery * File a UFO Report * Donate * About Us * [I...</span><span class="citation-popover-meta">Published: December 18, 2023</span></span></span>
+NUFORC, a long‑running civilian archive of self‑reported unidentified aerial phenomena, lists reports by country but does not assess their validity beyond basic filtering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span> Within NUFORC’s country index, **Haiti appears only four times** as of the latest available listing, a low count compared with many other countries and even some Caribbean neighbours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sightings Map &#124; NUFORCDecember 18, 2023 — Menu Close * Posts * Data Bank * Map * Gallery * File a UFO Report * Donate * About Us * [I...</span><span class="citation-popover-meta">Published: December 18, 2023</span></span></span>
 
-These four entries are raw civilian reports submitted by witnesses at various times; they tend not to include the corroborative details—such as independent radar, instrument readings, or multiple reliable observers—that strengthen other national archives. The narratives in databases like NUFORC are free‑text descriptions from anonymous witnesses and are not verified by external evidence, meaning many could be explainable events misidentified at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
+These four entries are raw civilian reports submitted by witnesses at various times; they tend not to include the corroborative details—such as independent radar, instrument readings, or multiple reliable observers—that strengthen other national archives. The narratives in databases like NUFORC are free‑text descriptions from anonymous witnesses and are not verified by external evidence, meaning many could be explainable events misidentified at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
 
-The limited number of reports indicates not necessarily a lack of aerial phenomena, but rather that few Haitian civilian sightings have been logged in this English‑language, US‑centralised channel. [Reporting bias]({{ 'reporting-bias/' | relative_url }}) can arise from factors such as internet access, public awareness of reporting mechanisms, language barriers and the resource demands of disaster and development priorities in Haiti. These structural factors contribute to a thinner civilian archive when compared with countries with more active local UFO communities or reporting infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cDominican_Republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Dominican Republic</span><span class="citation-popover-snippet">NUFORC Reports for Country Dominican RepublicAugust 20, 2023 — NUFORC REPORTS FOR COUNTRY &#x27;DOMINICAN REPUBLIC&#x27; Link &#124; Occurred &#124; City &#124; S...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The limited number of reports indicates not necessarily a lack of aerial phenomena, but rather that few Haitian civilian sightings have been logged in this English‑language, US‑centralised channel. [Reporting bias]({{ 'reporting-bias/' | relative_url }}) can arise from factors such as internet access, public awareness of reporting mechanisms, language barriers and the resource demands of disaster and development priorities in Haiti. These structural factors contribute to a thinner civilian archive when compared with countries with more active local UFO communities or reporting infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cDominican_Republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Dominican Republic</span><span class="citation-popover-snippet">NUFORC Reports for Country Dominican RepublicAugust 20, 2023 — NUFORC REPORTS FOR COUNTRY &#x27;DOMINICAN REPUBLIC&#x27; Link &#124; Occurred &#124; City &#124; S...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7IIVtHgJVqU" title="What We Know About UFOs (It’s Stranger Than You Think) | Jesse Michels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7IIVtHgJVqU" target="_blank" rel="noopener noreferrer">What We Know About UFOs (It’s Stranger Than You Think) | Jesse Michels</a></p><p class="youtube-embed-meta">Channel: André Duqum &middot; Views: 396.3K &middot; Uploaded: January 2026 &middot; Length: 2 hours 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7IIVtHgJVqU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7IIVtHgJVqU">Open on YouTube</a></p></div></div></div>
 
 ## Delayed Memory and Same‑Day Reporting Issues
 
-A common feature in low‑evidence civilian UFO records globally—especially in regions with few observers or no formal investigation infrastructure—is **delayed reporting**. Many NUFORC submissions are made weeks or months after the alleged event, often after the witness had time to reflect or potentiate their recollection. Because NUFORC includes both same‑day and delayed reports without a verification mechanism, distinguishing between immediate observation details and reconstructed memory becomes difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
+A common feature in low‑evidence civilian UFO records globally—especially in regions with few observers or no formal investigation infrastructure—is **delayed reporting**. Many NUFORC submissions are made weeks or months after the alleged event, often after the witness had time to reflect or potentiate their recollection. Because NUFORC includes both same‑day and delayed reports without a verification mechanism, distinguishing between immediate observation details and reconstructed memory becomes difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
 
-In Haiti’s small sample, there is little publicly available information on whether reports were made immediately following the sighting or after a substantial delay. Without same‑day photographic, video or corroborated witness records, delayed testimony often reflects personal interpretation more than empirical signal. This pattern is common in civilian UFO datasets and emphasises why standalone witness narratives are weak evidence when they lack independent corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
+In Haiti’s small sample, there is little publicly available information on whether reports were made immediately following the sighting or after a substantial delay. Without same‑day photographic, video or corroborated witness records, delayed testimony often reflects personal interpretation more than empirical signal. This pattern is common in civilian UFO datasets and emphasises why standalone witness narratives are weak evidence when they lack independent corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
 
 <img src="{{ "/assets/images/Haiti_a4842f_civilian_reports_7072e4-Illustration-2-dark.svg" | relative_url }}" alt="Civilian Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Haiti_a4842f_civilian_reports_7072e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Haiti_a4842f_civilian_reports_7072e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “UFO Haiti” Video: Photos, Circles and Hoax Patterns
 
-The best‑known alleged UFO evidence linked to Haiti is **not** a NUFORC report but a widely circulated **2007 video claiming to show multiple unidentified flying objects over a Haitian neighbourhood**. The footage was originally shared on LiveLeak and YouTube and depicted what looked like discs or lights moving across the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikinews.org/wiki/Home_video_captures_alleged_UFOs_in_Haiti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikinews.org">[Wikinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikinews.org</span><span class="citation-popover-title">Home video captures alleged UFOs in Haiti</span><span class="citation-popover-snippet">Fake — Post Chronicle, August 11, 2007; SkepticOverlord. UFO Haiti - New Video on You Tube - (possible hoax) — AboveTopSecret.com, August...</span><span class="citation-popover-meta">Published: August 11, 2007</span></span></span>
+The best‑known alleged UFO evidence linked to Haiti is **not** a NUFORC report but a widely circulated **2007 video claiming to show multiple unidentified flying objects over a Haitian neighbourhood**. The footage was originally shared on LiveLeak and YouTube and depicted what looked like discs or lights moving across the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikinews.org/wiki/Home_video_captures_alleged_UFOs_in_Haiti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikinews.org">[Wikinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikinews.org</span><span class="citation-popover-title">Home video captures alleged UFOs in Haiti</span><span class="citation-popover-snippet">Fake — Post Chronicle, August 11, 2007; SkepticOverlord. UFO Haiti - New Video on You Tube - (possible hoax) — AboveTopSecret.com, August...</span><span class="citation-popover-meta">Published: August 11, 2007</span></span></span>
 
-Investigators and journalists found, however, that the entire clip was **computer‑generated imagery** created by a French animator as part of an experiment or film research project. A Los Angeles Times investigation reported that the creator used 3‑D animation software to construct the sequence, and the viral spread of the video was far greater than its actual evidential value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufos over haiti</span><span class="citation-popover-snippet">Does Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</span></span></span>
+Investigators and journalists found, however, that the entire clip was **computer‑generated imagery** created by a French animator as part of an experiment or film research project. A Los Angeles Times investigation reported that the creator used 3‑D animation software to construct the sequence, and the viral spread of the video was far greater than its actual evidential value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufos over haiti</span><span class="citation-popover-snippet">Does Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</span></span></span>
 
-This episode illustrates a broader pattern seen in civilian UFO reporting: online content that appears compelling at first glance often turns out to be optical effects, editing artefacts, or deliberate hoaxes. The lack of reliable provenance for the “Haiti” video, combined with its CGI origin, undermines its utility as evidence of an unexplained aerial phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufos over haiti</span><span class="citation-popover-snippet">Does Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</span></span></span>
+This episode illustrates a broader pattern seen in civilian UFO reporting: online content that appears compelling at first glance often turns out to be optical effects, editing artefacts, or deliberate hoaxes. The lack of reliable provenance for the “Haiti” video, combined with its CGI origin, undermines its utility as evidence of an unexplained aerial phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufos over haiti</span><span class="citation-popover-snippet">Does Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UmfLisgm9rg" title="Newly released files highlight UFO sightings and local expert skepticism" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UmfLisgm9rg" target="_blank" rel="noopener noreferrer">Newly released files highlight UFO sightings and local expert skepticism</a></p><p class="youtube-embed-meta">Channel: WCVB Channel 5 Boston &middot; Views: 412 &middot; Uploaded: May 2026 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UmfLisgm9rg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UmfLisgm9rg">Open on YouTube</a></p></div></div></div>
 
@@ -290,204 +290,204 @@ This episode illustrates a broader pattern seen in civilian UFO reporting: onlin
 
 The thin civilian UFO record from Haiti reflects several interlinked patterns:
 
-* **Low entry counts in global databases** like NUFORC mean few data points for pattern analysis; only four entries appear under Haiti in the NUFORC index, a tiny figure compared with many countries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=108049" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 108049March 27, 2014 — NUFORC UFO SIGHTING 108049 Occurred: 2014-02-21 19:56 Local Reported: 2014-03-24 08:22 Pacific...</span><span class="citation-popover-meta">Published: February 21, 2014</span></span></span>
-* **Witness accounts without corroborative data**—photographs, radar, multi‑observer triangulation—make the narratives difficult to evaluate scientifically. NUFORC reports are submitted by individuals and not systematically verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
-* **Internet‑era hoaxes and visual misidentifications** (for example, the 2007 CGI video) can create disproportionate public impressions compared with the actual record of verifiable sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufos over haiti</span><span class="citation-popover-snippet">Does Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</span></span></span>
-* **Delayed reporting and memory reconstruction** further weaken the evidential quality, as accounts recorded well after the event are hard to assess against immediate observational data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
+* **Low entry counts in global databases** like NUFORC mean few data points for pattern analysis; only four entries appear under Haiti in the NUFORC index, a tiny figure compared with many countries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=108049" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 108049March 27, 2014 — NUFORC UFO SIGHTING 108049 Occurred: 2014-02-21 19:56 Local Reported: 2014-03-24 08:22 Pacific...</span><span class="citation-popover-meta">Published: February 21, 2014</span></span></span>
+* **Witness accounts without corroborative data**—photographs, radar, multi‑observer triangulation—make the narratives difficult to evaluate scientifically. NUFORC reports are submitted by individuals and not systematically verified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
+* **Internet‑era hoaxes and visual misidentifications** (for example, the 2007 CGI video) can create disproportionate public impressions compared with the actual record of verifiable sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufos over haiti</span><span class="citation-popover-snippet">Does Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</span></span></span>
+* **Delayed reporting and memory reconstruction** further weaken the evidential quality, as accounts recorded well after the event are hard to assess against immediate observational data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
 
-Taken together, these factors mean that Haiti’s civilian UFO claims are characterised by **thin evidence and weak patterns** rather than a robust body of unexplained aerial phenomena. The few reports that do exist are best understood as part of the broader global civilian UFO reporting landscape: largely anecdotal, subject to misinterpretation and not supported by independent, verifiable data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
+Taken together, these factors mean that Haiti’s civilian UFO claims are characterised by **thin evidence and weak patterns** rather than a robust body of unexplained aerial phenomena. The few reports that do exist are best understood as part of the broader global civilian UFO reporting landscape: largely anecdotal, subject to misinterpretation and not supported by independent, verifiable data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National UFO Reporting Center</span><span class="citation-popover-snippet">National UFO Reporting Center</span></span></span>
 
 <img src="{{ "/assets/images/Haiti_a4842f_civilian_reports_7072e4-Illustration-3-dark.svg" | relative_url }}" alt="Civilian Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Haiti_a4842f_civilian_reports_7072e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Haiti_a4842f_civilian_reports_7072e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are Haiti&#x27;s UFO Reports So Thin?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are Haiti&#x27;s UFO Reports So Thin?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness reports and evidential limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reports and evidential limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to evaluating sparse civilian UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to evaluating sparse civilian UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts stronger documented cases against weaker civilian claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts stronger documented cases against weaker civilian claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how stories and reports evolve within communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how stories and reports evolve within communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-haiti-s-ufo-reports-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-haiti-s-ufo-reports-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -503,7 +503,7 @@ Taken together, these factors mean that Haiti’s civilian UFO claims are charac
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -523,7 +523,7 @@ Taken together, these factors mean that Haiti’s civilian UFO claims are charac
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -555,7 +555,7 @@ Taken together, these factors mean that Haiti’s civilian UFO claims are charac
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -607,7 +607,7 @@ Taken together, these factors mean that Haiti’s civilian UFO claims are charac
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -652,7 +652,7 @@ Taken together, these factors mean that Haiti’s civilian UFO claims are charac
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -690,143 +690,142 @@ Taken together, these factors mean that Haiti’s civilian UFO claims are charac
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAugust 20, 2023 — Haiti, 4. Honduras, 23. Hong Kong, 10. Hong Kong SAR, 2. Hungary, 46... Copyright 2026...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAugust 20, 2023 — Haiti, 4. Honduras, 23. Hong Kong, 10. Hong Kong SAR, 2. Hungary, 46... Copyright 2026...</p></details>
    Published: August 20, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: snopes.com  
    Title: ufos over haiti  
-   Link: <a href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/ufos-over-haiti/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</p></details>
+   Link:<a href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/ufos-over-haiti/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does Footage Show UFOs Flying Over Haiti and the...12 Aug 2007 — The movie Barzolff is working on for the big screen is about two...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: en.wikinews.org  
    Title: Home video captures alleged UFOs in Haiti  
-   Link: <a href="https://en.wikinews.org/wiki/Home_video_captures_alleged_UFOs_in_Haiti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikinews.org/wiki/Home_video_captures_alleged_UFOs_in_Haiti</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake — Post Chronicle, August 11, 2007; SkepticOverlord. UFO Haiti - New Video on You Tube - (possible hoax) — AboveTopSecret.com, August...</p></details>
+   Link:<a href="https://en.wikinews.org/wiki/Home_video_captures_alleged_UFOs_in_Haiti" target="_blank" rel="noopener noreferrer nofollow">https://en.wikinews.org/wiki/Home_video_captures_alleged_UFOs_in_Haiti</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake — Post Chronicle, August 11, 2007; SkepticOverlord. UFO Haiti - New Video on You Tube - (possible hoax) — AboveTopSecret.com, August...</p></details>
    Published: August 11, 2007  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Map | NUFORCDecember 18, 2023 — Menu Close * Posts * Data Bank * Map * Gallery * File a UFO Report * Donate * About Us * [I...</p></details>
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Map | NUFORCDecember 18, 2023 — Menu Close * Posts * Data Bank * Map * Gallery * File a UFO Report * Donate * About Us * [I...</p></details>
    Published: December 18, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for Country Dominican Republic  
-   Link: <a href="https://nuforc.org/subndx/?id=cDominican_Republic" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cDominican_Republic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country Dominican RepublicAugust 20, 2023 — NUFORC REPORTS FOR COUNTRY &#x27;DOMINICAN REPUBLIC&#x27; Link | Occurred | City | S...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=cDominican_Republic" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cDominican_Republic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country Dominican RepublicAugust 20, 2023 — NUFORC REPORTS FOR COUNTRY &#x27;DOMINICAN REPUBLIC&#x27; Link | Occurred | City | S...</p></details>
    Published: August 20, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=108049" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=108049</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 108049March 27, 2014 — NUFORC UFO SIGHTING 108049 Occurred: 2014-02-21 19:56 Local Reported: 2014-03-24 08:22 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=108049" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=108049</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 108049March 27, 2014 — NUFORC UFO SIGHTING 108049 Occurred: 2014-02-21 19:56 Local Reported: 2014-03-24 08:22 Pacific...</p></details>
    Published: February 21, 2014  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More Weird UFO Files Just Released: Forensic Expert Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More Weird UFO Files Just Released: Forensic Expert Analysis...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: More Weird UFO Files Just Released: Forensic Expert Analysis  
-   Link: <a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F9Vmsk6CcmI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Newly released files highlight UFO sightings and local expert skepticism...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F9Vmsk6CcmI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Newly released files highlight UFO sightings and local expert skepticism...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Newly released files highlight UFO sightings and local expert skepticism  
-   Link: <a href="https://www.youtube.com/watch?v=UmfLisgm9rg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UmfLisgm9rg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What We Know About UFOs (It&#x27;s Stranger Than You Think) | Jesse Michels...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UmfLisgm9rg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UmfLisgm9rg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What We Know About UFOs (It&#x27;s Stranger Than You Think) | Jesse Michels...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: What We Know About UFOs (It's Stranger Than You Think) | Jesse Michels  
-   Link: <a href="https://www.youtube.com/watch?v=7IIVtHgJVqU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7IIVtHgJVqU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=7IIVtHgJVqU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7IIVtHgJVqU</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufoscans.com  
    Title: nuforc sightnings 07 xx 2025  
-   Link: <a href="https://www.ufoscans.com/nuforc-sightnings-07-xx-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoscans.com/nuforc-sightnings-07-xx-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Sightings Report: 07/2025 | UFOScans.comNUFORC SIGHTINGS REPORT: 07/2025 🏛 NUFORC 📄 sighting_report UAPUFOsighting reportNUFORC202...</p></details>
+   Link:<a href="https://www.ufoscans.com/nuforc-sightnings-07-xx-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoscans.com/nuforc-sightnings-07-xx-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Sightings Report: 07/2025 | UFOScans.comNUFORC SIGHTINGS REPORT: 07/2025 🏛 NUFORC 📄 sighting_report UAPUFOsighting reportNUFORC202...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: uapai.org  
-   Link: <a href="https://www.uapai.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapai.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unified Open Infrastructure for UAP DataLive API with real government data THE WORLD&#x27;S UAP SIGHTING DATABASE 277,000+ UAP sig...</p></details>
+   Link:<a href="https://www.uapai.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapai.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unified Open Infrastructure for UAP DataLive API with real government data THE WORLD&#x27;S UAP SIGHTING DATABASE 277,000+ UAP sig...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufofinders.com  
-   Link: <a href="https://ufofinders.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinders.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Finders — Live UFO Tracker Map, Daily Sightings &amp; UAP News🛸 UFO FINDERS * Sightings * News * Topics * Archive * Contact LIVE LATEST U...</p></details>
+   Link:<a href="https://ufofinders.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinders.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Finders — Live UFO Tracker Map, Daily Sightings &amp; UAP News🛸 UFO FINDERS * Sightings * News * Topics * Archive * Contact LIVE LATEST U...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: apify.com  
-   Link: <a href="https://apify.com/labrat011/ufo-sighting-scraper" target="_blank" rel="noopener noreferrer nofollow">https://apify.com/labrat011/ufo-sighting-scraper</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Scraper · ApifyImage: UFO Sighting Scraper avatar UFO Sighting Scraper Pricing from $0.50 / 1,000 results Try for free Go to...</p></details>
+   Link:<a href="https://apify.com/labrat011/ufo-sighting-scraper" target="_blank" rel="noopener noreferrer nofollow">https://apify.com/labrat011/ufo-sighting-scraper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Scraper · ApifyImage: UFO Sighting Scraper avatar UFO Sighting Scraper Pricing from $0.50 / 1,000 results Try for free Go to...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ufoscans.com  
-   Link: <a href="https://www.ufoscans.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoscans.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17,909 Declassified UFO &amp; UAP DocumentsDiscover Documents 25 featured documents File cover and correspondence compilation Reports on Flyi...</p></details>
+   Link:<a href="https://www.ufoscans.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoscans.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17,909 Declassified UFO &amp; UAP DocumentsDiscover Documents 25 featured documents File cover and correspondence compilation Reports on Flyi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufosint.com  
-   Link: <a href="https://ufosint.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufosint.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOSINT Explorer — 614,505 UFO sightings, searchableUFOSINT EXPLORER [Button: 614,505 sightings] Total sightings 614,505 Sightings on map...</p></details>
+   Link:<a href="https://ufosint.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufosint.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOSINT Explorer — 614,505 UFO sightings, searchableUFOSINT EXPLORER [Button: 614,505 sightings] Total sightings 614,505 Sightings on map...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: oxben.com.tr  
-   Link: <a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
+   Link:<a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aliencatalog.com  
-   Link: <a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
+   Link:<a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP RecordsLegally public records from official sources ALIEN CATALOG AlienCatalog.com...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ufofinder.com  
    Title: Every report enriched with 50+ data points. Professional witnesses. Physic  
-   Link: <a href="https://ufofinder.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Finder — 147,890 UFO Reports147,890 documented reports•50+ data points each 0 documented UFO sightings The most complete UFO database...</p></details>
+   Link:<a href="https://ufofinder.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Finder — 147,890 UFO Reports147,890 documented reports•50+ data points each 0 documented UFO sightings The most complete UFO database...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: vocal.media  
    Title: Top UFO Hoaxes in History | Futurism  
-   Link: <a href="https://vocal.media/futurism/top-ufo-hoaxes-in-history" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/top-ufo-hoaxes-in-history</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancun, Mexico 2007 (Haiti). This UFO hoax had so many people raving about seemingly legitimate footage of two UFO&#x27;s with spinning round...</p></details>
+   Link:<a href="https://vocal.media/futurism/top-ufo-hoaxes-in-history" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/top-ufo-hoaxes-in-history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancun, Mexico 2007 (Haiti). This UFO hoax had so many people raving about seemingly legitimate footage of two UFO&#x27;s with spinning round...</p></details>

@@ -1194,50 +1194,50 @@ image: /assets/images/Tonga_e8a123-overview-social.jpg
 
 ## What the public record actually contains
 
-The clearest published UFO archive entry for Tonga is not an official Tongan government record, but a private reporting database. NUFORC’s country index lists two reports for Tonga: a 1992 Vavaʻu “sphere” report and a 1978 unspecified-location “unknown” report. That is a very small sample for a national page, and it means any chronology has to be handled as a case note rather than a statistical pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cTonga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Tonga</span><span class="citation-popover-snippet">Reports for Country Tonga</span></span></span>
+The clearest published UFO archive entry for Tonga is not an official Tongan government record, but a private reporting database. NUFORC’s country index lists two reports for Tonga: a 1992 Vavaʻu “sphere” report and a 1978 unspecified-location “unknown” report. That is a very small sample for a national page, and it means any chronology has to be handled as a case note rather than a statistical pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cTonga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Tonga</span><span class="citation-popover-snippet">Reports for Country Tonga</span></span></span>
 
 <img src="{{ "/assets/images/Tonga_e8a123-overview.webp" | relative_url }}" alt="Overview image for What Really Exists in Tonga&#x27;s UFO Record?" loading="eager" decoding="sync" fetchpriority="high">
-The [1978 report]({{ '1978-report/' | relative_url }}), submitted decades later in 2016, describes three observers seeing a steady red light move horizontally, stop for 20 to 30 seconds, then shoot upward and disappear. The account includes several details that make it interesting to UFO readers: multiple witnesses, a reported hover-like pause, and an abrupt upward departure. Its limitations are just as important: the location is unspecified, the date is approximate, the report was filed nearly 38 years after the alleged event, and there is no listed radar, photographic, aviation, meteorological, or local media corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The [1978 report]({{ '1978-report/' | relative_url }}), submitted decades later in 2016, describes three observers seeing a steady red light move horizontally, stop for 20 to 30 seconds, then shoot upward and disappear. The account includes several details that make it interesting to UFO readers: multiple witnesses, a reported hover-like pause, and an abrupt upward departure. Its limitations are just as important: the location is unspecified, the date is approximate, the report was filed nearly 38 years after the alleged event, and there is no listed radar, photographic, aviation, meteorological, or local media corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-The 1992 Vavaʻu report is more locally grounded. Two witnesses on a sailing holiday said they were anchored at night when they saw two green lights about half a mile away and 10 to 20 feet above the water. The lights reportedly moved slowly, alternated between green and white, lasted around 30 minutes, and disappeared behind an island. The witness said video had been taken, but the NUFORC entry itself does not provide the footage or a later analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=128174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The 1992 Vavaʻu report is more locally grounded. Two witnesses on a sailing holiday said they were anchored at night when they saw two green lights about half a mile away and 10 to 20 feet above the water. The lights reportedly moved slowly, alternated between green and white, lasted around 30 minutes, and disappeared behind an island. The witness said video had been taken, but the NUFORC entry itself does not provide the footage or a later analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=128174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_QLxf4UTxks" title="New video shows mysterious flying sphere vanishing into ocean" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_QLxf4UTxks" target="_blank" rel="noopener noreferrer">New video shows mysterious flying sphere vanishing into ocean</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 255.2K &middot; Uploaded: May 2021 &middot; Length: 3 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_QLxf4UTxks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_QLxf4UTxks">Open on YouTube</a></p></div></div></div>
 
 ## Why Tonga is a difficult place to assess from archives alone
 
-Tonga’s geography is unusually relevant to UFO assessment. It is an archipelago of 176 islands, 36 inhabited, divided into Tongatapu, Haʻapai, Vavaʻu and the Niuas, with the capital on Tongatapu. That layout creates many sighting conditions that can complicate interpretation: long sea horizons, island silhouettes, boat lights partly hidden by landforms, aircraft on sparse routes, fishing activity, reflections on water, and dark skies where satellites and meteors are conspicuous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dfat.gov.au/geo/tonga/tonga-country-brief" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfat.gov.au">[DFAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfat.gov.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Tonga’s geography is unusually relevant to UFO assessment. It is an archipelago of 176 islands, 36 inhabited, divided into Tongatapu, Haʻapai, Vavaʻu and the Niuas, with the capital on Tongatapu. That layout creates many sighting conditions that can complicate interpretation: long sea horizons, island silhouettes, boat lights partly hidden by landforms, aircraft on sparse routes, fishing activity, reflections on water, and dark skies where satellites and meteors are conspicuous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dfat.gov.au/geo/tonga/tonga-country-brief" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfat.gov.au">[DFAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfat.gov.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Vavaʻu report illustrates this problem well. At face value, it is a low-altitude maritime light case rather than a classic high-altitude aerial object. The witness themselves considered and rejected ordinary navigation lights because the colours seemed wrong and because night navigation in the area was thought hazardous. That reasoning is understandable, but it is not conclusive. Without the missing video, vessel logs, weather conditions, tide and swell data, a precise anchorage, or independent local testimony, the case remains contested rather than confirmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=58013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The Vavaʻu report illustrates this problem well. At face value, it is a low-altitude maritime light case rather than a classic high-altitude aerial object. The witness themselves considered and rejected ordinary navigation lights because the colours seemed wrong and because night navigation in the area was thought hazardous. That reasoning is understandable, but it is not conclusive. Without the missing video, vessel logs, weather conditions, tide and swell data, a precise anchorage, or independent local testimony, the case remains contested rather than confirmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=58013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The 1978 red-light report sits in a different category. A steady moving light that stops and then appears to rise rapidly can sound dramatic, but late recollection, lack of a precise bearing, no angular-speed estimate, no altitude measurement, and no independent records make it impossible to distinguish between an anomalous object, an aircraft or satellite misperception, a meteor-like event misremembered as a manoeuvre, or another light source seen under unusual viewing conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cTonga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Tonga</span><span class="citation-popover-snippet">Reports for Country Tonga</span></span></span>
+The 1978 red-light report sits in a different category. A steady moving light that stops and then appears to rise rapidly can sound dramatic, but late recollection, lack of a precise bearing, no angular-speed estimate, no altitude measurement, and no independent records make it impossible to distinguish between an anomalous object, an aircraft or satellite misperception, a meteor-like event misremembered as a manoeuvre, or another light source seen under unusual viewing conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cTonga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Tonga</span><span class="citation-popover-snippet">Reports for Country Tonga</span></span></span>
 
 <img src="{{ "/assets/images/Tonga_e8a123-Illustration-1-dark.svg" | relative_url }}" alt="What Really Exists in Tonga&#x27;s UFO Record? illustration 1" data-theme-src-dark="{{ "/assets/images/Tonga_e8a123-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tonga_e8a123-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official files: no obvious Tongan equivalent to larger UFO archives
 
 No strong public evidence points to a dedicated Tongan state UFO investigation programme or a declassified national UFO archive. This matters because official files can sometimes add dates, witness statements, aviation checks, radar data, police logs, or internal assessments. In Tonga’s case, the publicly visible record is dominated by third-party reporting databases and scattered anecdotal material rather than a state-maintained case file series.
 
-A useful comparison comes from New Zealand, because it shows what a more developed regional official archive looks like. The New Zealand Defence Force released copied and redacted UFO files covering 1952 to 2009, including public and military sighting reports, investigations, correspondence with UFO groups, and material from government agencies. Those files are valuable as a regional sibling branch, but they should not be treated as a substitute for Tongan documentation unless a specific Tonga-related entry is found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
+A useful comparison comes from New Zealand, because it shows what a more developed regional official archive looks like. The New Zealand Defence Force released copied and redacted UFO files covering 1952 to 2009, including public and military sighting reports, investigations, correspondence with UFO groups, and material from government agencies. Those files are valuable as a regional sibling branch, but they should not be treated as a substitute for Tongan documentation unless a specific Tonga-related entry is found.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
-The broader international UAP literature also cautions against overconfidence. The 2021 US intelligence assessment stated that limited high-quality reporting hampers firm conclusions, that inconsistent reporting is a central problem, and that many cases require better data before identification is possible. Although this report is US-focused, its methodological warning applies directly to Tonga: sparse witness-only reports cannot carry the same evidential weight as multi-sensor, promptly investigated incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+The broader international UAP literature also cautions against overconfidence. The 2021 US intelligence assessment stated that limited high-quality reporting hampers firm conclusions, that inconsistent reporting is a central problem, and that many cases require better data before identification is possible. Although this report is US-focused, its methodological warning applies directly to Tonga: sparse witness-only reports cannot carry the same evidential weight as multi-sensor, promptly investigated incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/30N_RrxWKgs" title="UFO close encounters: Pilots and witnesses share stores | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=30N_RrxWKgs" target="_blank" rel="noopener noreferrer">UFO close encounters: Pilots and witnesses share stores | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 461.4K &middot; Uploaded: September 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=30N_RrxWKgs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=30N_RrxWKgs">Open on YouTube</a></p></div></div></div>
 
 ## Natural lights that can be mistaken for UFOs in Tonga
 
-Tonga’s most spectacular recent sky event was not a UFO case at all: the 15 January 2022 Hunga eruption. Scientific analysis found that the eruption generated an extraordinary volcanic plume and the most intense lightning storm ever recorded, with nearly 200,000 lightning flashes and a peak above 2,600 flashes per minute. The plume reached at least 58 kilometres high, and the lightning data helped scientists reconstruct phases of the eruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.agu.org">[AGU Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.agu.org</span><span class="citation-popover-snippet">Tonga’s Hunga eruption produced the most intense lightning ever recorded - AGU Newsroom...</span></span></span>
+Tonga’s most spectacular recent sky event was not a UFO case at all: the 15 January 2022 Hunga eruption. Scientific analysis found that the eruption generated an extraordinary volcanic plume and the most intense lightning storm ever recorded, with nearly 200,000 lightning flashes and a peak above 2,600 flashes per minute. The plume reached at least 58 kilometres high, and the lightning data helped scientists reconstruct phases of the eruption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.agu.org">[AGU Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.agu.org</span><span class="citation-popover-snippet">Tonga’s Hunga eruption produced the most intense lightning ever recorded - AGU Newsroom...</span></span></span>
 
-This matters for UFO interpretation because Tonga is not just a quiet ocean setting. It sits in a region where volcanic, seismic, meteorological and maritime phenomena can produce striking visual effects. Volcanic lightning, ash clouds, unusual sunsets, glowing horizons, and distant flashes can all become “unidentified” to observers who do not yet know the source. A genuine UAP investigation in Tonga would therefore need to check volcanic activity, lightning networks, satellite imagery, aviation advisories and maritime traffic before treating a light as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.agu.org">[AGU Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.agu.org</span><span class="citation-popover-snippet">Tonga’s Hunga eruption produced the most intense lightning ever recorded - AGU Newsroom...</span></span></span>
+This matters for UFO interpretation because Tonga is not just a quiet ocean setting. It sits in a region where volcanic, seismic, meteorological and maritime phenomena can produce striking visual effects. Volcanic lightning, ash clouds, unusual sunsets, glowing horizons, and distant flashes can all become “unidentified” to observers who do not yet know the source. A genuine UAP investigation in Tonga would therefore need to check volcanic activity, lightning networks, satellite imagery, aviation advisories and maritime traffic before treating a light as anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.agu.org">[AGU Newsroom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.agu.org</span><span class="citation-popover-snippet">Tonga’s Hunga eruption produced the most intense lightning ever recorded - AGU Newsroom...</span></span></span>
 
-There is also a Polynesian navigation-related light tradition often discussed under the term te lapa, usually described as flashing or streaking light on or near the sea surface. The best available research treats it as an observed but poorly understood navigational phenomenon, with proposed explanations including bioluminescence, electromagnetic effects and wave-related mechanisms. It is not, by itself, evidence of craft or extraterrestrial activity, but it is relevant to Tonga-adjacent UFO discussion because it shows that Pacific island light reports may belong to maritime knowledge systems rather than modern flying-saucer categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/261594890_Polynesian_Navigation_and_Te_Lapa-_The_Flashing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Polynesian Navigation and Te Lapa— “The Flashing”</span><span class="citation-popover-snippet">Research Gate(PDF) Polynesian Navigation and Te Lapa— “The Flashing”</span></span></span>
+There is also a Polynesian navigation-related light tradition often discussed under the term te lapa, usually described as flashing or streaking light on or near the sea surface. The best available research treats it as an observed but poorly understood navigational phenomenon, with proposed explanations including bioluminescence, electromagnetic effects and wave-related mechanisms. It is not, by itself, evidence of craft or extraterrestrial activity, but it is relevant to Tonga-adjacent UFO discussion because it shows that Pacific island light reports may belong to maritime knowledge systems rather than modern flying-saucer categories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/261594890_Polynesian_Navigation_and_Te_Lapa-_The_Flashing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Polynesian Navigation and Te Lapa— “The Flashing”</span><span class="citation-popover-snippet">Research Gate(PDF) Polynesian Navigation and Te Lapa— “The Flashing”</span></span></span>
 
 <img src="{{ "/assets/images/Tonga_e8a123-Illustration-2-dark.svg" | relative_url }}" alt="What Really Exists in Tonga&#x27;s UFO Record? illustration 2" data-theme-src-dark="{{ "/assets/images/Tonga_e8a123-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tonga_e8a123-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested and debunked claims
 
 For Tonga, the evidence split is unusually simple because the record is so small.
 
-**Confirmed:** there are confirmed public reports in the limited sense that NUFORC has published two Tonga entries, with dates, summaries and witness descriptions. There is also confirmed scientific evidence that Tonga can produce extraordinary natural sky phenomena, especially during the Hunga eruption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+**Confirmed:** there are confirmed public reports in the limited sense that NUFORC has published two Tonga entries, with dates, summaries and witness descriptions. There is also confirmed scientific evidence that Tonga can produce extraordinary natural sky phenomena, especially during the Hunga eruption.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-**Contested:** the 1978 and 1992 UFO reports remain contested. They are not debunked in the strong sense, because no definitive mundane identification has been published in the source entries. But they are also not confirmed anomalous events, because they lack the kind of supporting evidence that would let investigators rule out aircraft, boats, celestial objects, atmospheric effects, memory distortion, or local environmental causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=128174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested:** the 1978 and 1992 UFO reports remain contested. They are not debunked in the strong sense, because no definitive mundane identification has been published in the source entries. But they are also not confirmed anomalous events, because they lack the kind of supporting evidence that would let investigators rule out aircraft, boats, celestial objects, atmospheric effects, memory distortion, or local environmental causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=128174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 **Debunked or explained:** no major Tonga UFO incident appears to have a widely documented debunking trail, largely because no major documented incident appears in the first place. The closest “explained” category is not a specific UFO case but a class of likely confounders: volcanic lightning, maritime lights, reflected light, satellites, aircraft, meteors, and culturally documented sea-light phenomena.
 
@@ -1245,201 +1245,201 @@ For Tonga, the evidence split is unusually simple because the record is so small
 
 ## How to read Tonga’s UFO record without inflating it
 
-The safest assessment is that Tonga has a small number of publicly archived UFO claims, but no publicly available flagship case with strong independent corroboration. The 1992 Vavaʻu sighting is the most place-specific and potentially interesting because it involves a maritime setting, a long duration and claimed video, but the public record does not include that video. The 1978 red-light report is striking as a narrative but weak as evidence because it was submitted long after the event and lacks precise location data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=58013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The safest assessment is that Tonga has a small number of publicly archived UFO claims, but no publicly available flagship case with strong independent corroboration. The 1992 Vavaʻu sighting is the most place-specific and potentially interesting because it involves a maritime setting, a long duration and claimed video, but the public record does not include that video. The 1978 red-light report is striking as a narrative but weak as evidence because it was submitted long after the event and lacks precise location data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=58013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 Tonga’s value within a wider country-by-country UFO project is therefore not as a hotspot, but as a cautionary case. It shows why island environments need careful interpretation: a light over water may be airborne, maritime, atmospheric, astronomical, volcanic, or perceptual. It also links naturally to sibling Pacific branches such as New Zealand, Fiji, Samoa and wider Polynesian navigation traditions, where better archives or richer local accounts may help separate region-wide patterns from isolated anecdotes.
 
 <img src="{{ "/assets/images/Tonga_e8a123-Illustration-3-dark.svg" | relative_url }}" alt="What Really Exists in Tonga&#x27;s UFO Record? illustration 3" data-theme-src-dark="{{ "/assets/images/Tonga_e8a123-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tonga_e8a123-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Exists in Tonga&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Exists in Tonga&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing Tonga&#x27;s limited record with larger archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing Tonga&#x27;s limited record with larger archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits a page examining a small national UFO record and evidence limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page examining a small national UFO record and evidence limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparison points for stronger documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison points for stronger documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Relevant to understanding lights, planets, and sky phenomena over island horizons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to understanding lights, planets, and sky phenomena over island horizons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exists-in-tonga-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-exists-in-tonga-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1455,7 +1455,7 @@ Tonga’s value within a wider country-by-country UFO project is therefore not a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1475,7 +1475,7 @@ Tonga’s value within a wider country-by-country UFO project is therefore not a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1507,7 +1507,7 @@ Tonga’s value within a wider country-by-country UFO project is therefore not a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1559,7 +1559,7 @@ Tonga’s value within a wider country-by-country UFO project is therefore not a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1604,7 +1604,7 @@ Tonga’s value within a wider country-by-country UFO project is therefore not a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1642,163 +1642,162 @@ Tonga’s value within a wider country-by-country UFO project is therefore not a
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Tonga  
-   Link: <a href="https://nuforc.org/subndx/?id=cTonga" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cTonga</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cTonga" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cTonga</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=128174" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=128174</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=128174" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=128174</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=58013" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=58013</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=58013" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=58013</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dfat.gov.au  
-   Link: <a href="https://www.dfat.gov.au/geo/tonga/tonga-country-brief" target="_blank" rel="noopener noreferrer nofollow">https://www.dfat.gov.au/geo/tonga/tonga-country-brief</a>  
+   Link:<a href="https://www.dfat.gov.au/geo/tonga/tonga-country-brief" target="_blank" rel="noopener noreferrer nofollow">https://www.dfat.gov.au/geo/tonga/tonga-country-brief</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Declassified New Zealand UFO documents"  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.agu.org  
-   Link: <a href="https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/" target="_blank" rel="noopener noreferrer nofollow">https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga’s Hunga eruption produced the most intense lightning ever recorded - AGU Newsroom...</p></details>
+   Link:<a href="https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/" target="_blank" rel="noopener noreferrer nofollow">https://news.agu.org/press-release/tongas-hunga-eruption-produced-the-most-intense-lightning-ever-recorded/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tonga’s Hunga eruption produced the most intense lightning ever recorded - AGU Newsroom...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Polynesian Navigation and Te Lapa— “The Flashing”  
-   Link: <a href="https://www.researchgate.net/publication/261594890_Polynesian_Navigation_and_Te_Lapa-_The_Flashing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261594890_Polynesian_Navigation_and_Te_Lapa-_The_Flashing</a>  
+   Link:<a href="https://www.researchgate.net/publication/261594890_Polynesian_Navigation_and_Te_Lapa-_The_Flashing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261594890_Polynesian_Navigation_and_Te_Lapa-_The_Flashing</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374839196_Lightning_and_Gravity_Wave_Signatures_Produced_by_the_Hunga-Tonga_Volcanic_Eruption_on_Global_Geomagnetic_Data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374839196_Lightning_and_Gravity_Wave_Signatures_Produced_by_the_Hunga-Tonga_Volcanic_Eruption_on_Global_Geomagnetic_Data</a>  
+   Link:<a href="https://www.researchgate.net/publication/374839196_Lightning_and_Gravity_Wave_Signatures_Produced_by_the_Hunga-Tonga_Volcanic_Eruption_on_Global_Geomagnetic_Data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374839196_Lightning_and_Gravity_Wave_Signatures_Produced_by_the_Hunga-Tonga_Volcanic_Eruption_on_Global_Geomagnetic_Data</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/t/isn/5181.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/t/isn/5181.htm</a>  
+   Link:<a href="https://2009-2017.state.gov/t/isn/5181.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/t/isn/5181.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/tonga/123266.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/tonga/123266.htm</a>  
+   Link:<a href="https://2009-2017.state.gov/outofdate/bgn/tonga/123266.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/tonga/123266.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: westyorkshire.police.uk  
    Title: february 2026 foi 2852534 26 ufo sightings  
-   Link: <a href="https://www.westyorkshire.police.uk/freedom-of-information/february-2026-foi-2852534-26-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.westyorkshire.police.uk/freedom-of-information/february-2026-foi-2852534-26-ufo-sightings</a>  
+   Link:<a href="https://www.westyorkshire.police.uk/freedom-of-information/february-2026-foi-2852534-26-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.westyorkshire.police.uk/freedom-of-information/february-2026-foi-2852534-26-ufo-sightings</a>  
    Published: february 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/news/science-snippet/tongas-hunga-eruption-produced-most-intense-lightning-ever-recorded" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/science-snippet/tongas-hunga-eruption-produced-most-intense-lightning-ever-recorded</a>  
+   Link:<a href="https://www.usgs.gov/news/science-snippet/tongas-hunga-eruption-produced-most-intense-lightning-ever-recorded" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/science-snippet/tongas-hunga-eruption-produced-most-intense-lightning-ever-recorded</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Te lapa  
-   Link: <a href="https://en.wikipedia.org/wiki/Te_lapa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Te_lapa</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Te_lapa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Te_lapa</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Tonga" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tonga</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Tonga" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tonga</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: Te Lapa  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/y6nsq6/te_lapa_the_mysterious_polynesia_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/y6nsq6/te_lapa_the_mysterious_polynesia_phenomenon/</a>  
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/y6nsq6/te_lapa_the_mysterious_polynesia_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/y6nsq6/te_lapa_the_mysterious_polynesia_phenomenon/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pacific-studies.net  
    Title: Tonga | The World Factbook Geography  
-   Link: <a href="https://www.pacific-studies.net/datadetails.php?place=25&amp;source=3&amp;type=Data" target="_blank" rel="noopener noreferrer nofollow">https://www.pacific-studies.net/datadetails.php?place=25&amp;source=3&amp;type=Data</a>  
+   Link:<a href="https://www.pacific-studies.net/datadetails.php?place=25&amp;source=3&amp;type=Data" target="_blank" rel="noopener noreferrer nofollow">https://www.pacific-studies.net/datadetails.php?place=25&amp;source=3&amp;type=Data</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: openfactbook.org  
-   Link: <a href="https://openfactbook.org/countries/tonga/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/tonga/</a>  
+   Link:<a href="https://openfactbook.org/countries/tonga/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/tonga/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: worldpopulationreview.com  
-   Link: <a href="https://worldpopulationreview.com/countries/tonga" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/countries/tonga</a>  
+   Link:<a href="https://worldpopulationreview.com/countries/tonga" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/countries/tonga</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/tonga" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/tonga</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/geography-and-cartography/tonga" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/tonga</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: commonwealthchamber.com  
-   Link: <a href="https://commonwealthchamber.com/member-countries/tonga/" target="_blank" rel="noopener noreferrer nofollow">https://commonwealthchamber.com/member-countries/tonga/</a>  
+   Link:<a href="https://commonwealthchamber.com/member-countries/tonga/" target="_blank" rel="noopener noreferrer nofollow">https://commonwealthchamber.com/member-countries/tonga/</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown  
-   Link: <a href="http://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=54_bxf7n3Oo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pacific island UFO sightings phenomenon archive Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel Trave...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=54_bxf7n3Oo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pacific island UFO sightings phenomenon archive Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel Trave...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: UFO close encounters: Pilots and witnesses share stores | Backscroll  
-   Link: <a href="http://www.youtube.com/watch?v=30N_RrxWKgs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=30N_RrxWKgs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New video shows mysterious flying sphere vanishing into ocean...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=30N_RrxWKgs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=30N_RrxWKgs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New video shows mysterious flying sphere vanishing into ocean...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Chilean Navy UFO sighting explained | This Is Why  
-   Link: <a href="http://www.youtube.com/watch?v=_4_2xD66wB0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_4_2xD66wB0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_4_2xD66wB0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_4_2xD66wB0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/TO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/TO.pdf</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/TO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/TO.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: New video shows mysterious flying sphere vanishing into ocean  
-   Link: <a href="http://www.youtube.com/watch?v=_QLxf4UTxks" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_QLxf4UTxks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Navy UFO sighting explained | This Is Why...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_QLxf4UTxks" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_QLxf4UTxks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Navy UFO sighting explained | This Is Why...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=0xOcVbxBDWo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0xOcVbxBDWo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO close encounters: Pilots and witnesses share stores | Backscroll...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0xOcVbxBDWo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0xOcVbxBDWo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO close encounters: Pilots and witnesses share stores | Backscroll...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EconomicTimes/posts/-aliens-floating-midair-new-ufo-footage-shows-mystery-object-making-90-turns-in-/1473768004779103/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/-aliens-floating-midair-new-ufo-footage-shows-mystery-object-making-90-turns-in-/1473768004779103/</a>  
+   Link:<a href="https://www.facebook.com/EconomicTimes/posts/-aliens-floating-midair-new-ufo-footage-shows-mystery-object-making-90-turns-in-/1473768004779103/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/-aliens-floating-midair-new-ufo-footage-shows-mystery-object-making-90-turns-in-/1473768004779103/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma</a>  
+   Link:<a href="https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
+   Link:<a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: lonelyplanet.com  
-   Link: <a href="https://www.lonelyplanet.com/articles/where-to-see-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.lonelyplanet.com/articles/where-to-see-a-ufo</a>
+   Link:<a href="https://www.lonelyplanet.com/articles/where-to-see-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.lonelyplanet.com/articles/where-to-see-a-ufo</a>

@@ -261,11 +261,11 @@ What makes the comparison useful is that the two traditions rely on different ty
 
 ## Fort Beaufort and the Making of a Rural UFO Legend
 
-The most famous Eastern Cape case remains the Fort Beaufort incident associated with Braeside farm. Public accounts describe how farmer Bennie Smit and others reported seeing a strange fireball-like object near the farm during 1971 or 1972, depending on the version of the story being retold. Witnesses claimed the object changed colour and moved in unusual ways. Smit reportedly fired several rifle shots at it, while local police officers were later said to have done the same. The object allegedly showed no visible reaction before departing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
+The most famous Eastern Cape case remains the Fort Beaufort incident associated with Braeside farm. Public accounts describe how farmer Bennie Smit and others reported seeing a strange fireball-like object near the farm during 1971 or 1972, depending on the version of the story being retold. Witnesses claimed the object changed colour and moved in unusual ways. Smit reportedly fired several rifle shots at it, while local police officers were later said to have done the same. The object allegedly showed no visible reaction before departing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
 
-What transformed the incident from a local report into a long-lived South African UFO story was not only the sighting itself but the folklore that followed. Accounts circulated about landing traces, military interest and soil samples. Some versions claimed investigators from a Grahamstown military unit became involved, although later researchers noted that no widely available official record of such an investigation emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ancestors.co.za/29572-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ancestors.co.za">[Ancestors Research South Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ancestors.co.za</span><span class="citation-popover-snippet">Ancestors Research South AfricaRose&#x27;s Round-up April 2021 No 32824 Jul 2021 — Bennie Smit of Braeside farm, sent a worker, Boer de Klerk, to...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
+What transformed the incident from a local report into a long-lived South African UFO story was not only the sighting itself but the folklore that followed. Accounts circulated about landing traces, military interest and soil samples. Some versions claimed investigators from a Grahamstown military unit became involved, although later researchers noted that no widely available official record of such an investigation emerged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ancestors.co.za/29572-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ancestors.co.za">[Ancestors Research South Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ancestors.co.za</span><span class="citation-popover-snippet">Ancestors Research South AfricaRose&#x27;s Round-up April 2021 No 32824 Jul 2021 — Bennie Smit of Braeside farm, sent a worker, Boer de Klerk, to...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
 
-The story gradually became woven into Fort Beaufort’s local identity. Reports described businesses embracing the notoriety, including a tavern known as the “UFO Bar” and hotels displaying newspaper clippings about the event. The case survived because it was repeatedly retold through local memory, tourism anecdotes and ufology publications rather than through preserved government documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Avvistamenti_nella_Provincia_del_Capo_Orientale" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Avvistamenti nella Provincia del Capo Orientale</span><span class="citation-popover-snippet">Avvistamenti nella Provincia del Capo Orientale</span></span></span>
+The story gradually became woven into Fort Beaufort’s local identity. Reports described businesses embracing the notoriety, including a tavern known as the “UFO Bar” and hotels displaying newspaper clippings about the event. The case survived because it was repeatedly retold through local memory, tourism anecdotes and ufology publications rather than through preserved government documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Avvistamenti_nella_Provincia_del_Capo_Orientale" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Avvistamenti nella Provincia del Capo Orientale</span><span class="citation-popover-snippet">Avvistamenti nella Provincia del Capo Orientale</span></span></span>
 
 ### Why the Fort Beaufort Story Endured
 
@@ -276,11 +276,11 @@ Several factors helped the Fort Beaufort case outlive many other South African s
 * It involved named witnesses rather than anonymous reports.
 * Police officers were reportedly present, giving the story an appearance of official validation.
 * The setting was isolated enough to encourage speculation about unusual aerial activity.
-* The narrative included dramatic details such as gunfire, colour changes and alleged physical traces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2007_Alderney_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2007 Alderney UFO sighting</span><span class="citation-popover-snippet">2007 Alderney UFO sighting</span></span></span>
+* The narrative included dramatic details such as gunfire, colour changes and alleged physical traces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2007_Alderney_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2007 Alderney UFO sighting</span><span class="citation-popover-snippet">2007 Alderney UFO sighting</span></span></span>
 
 </div>
 
-At the same time, those same features create problems for investigators. Much of the story survives through retellings rather than contemporary technical records. Physical evidence was never publicly verified in a way that allowed independent analysis. The result is a case that remains culturally important but evidentially weak by modern investigative standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentinel63.wordpress.com/2016/11/10/the-exploding-dam-ufo-over-fort-beaufort/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentinel63.wordpress.com">[ASPire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentinel63.wordpress.com</span><span class="citation-popover-title">ASPire The Exploding Dam: UFO over Fort Beaufort</span><span class="citation-popover-snippet">The police found nine holes in the hard clayey soil, each about 10 cm in diameter and about 25-30 mm deep. Mr...Read more...</span></span></span>
+At the same time, those same features create problems for investigators. Much of the story survives through retellings rather than contemporary technical records. Physical evidence was never publicly verified in a way that allowed independent analysis. The result is a case that remains culturally important but evidentially weak by modern investigative standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sentinel63.wordpress.com/2016/11/10/the-exploding-dam-ufo-over-fort-beaufort/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentinel63.wordpress.com">[ASPire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentinel63.wordpress.com</span><span class="citation-popover-title">ASPire The Exploding Dam: UFO over Fort Beaufort</span><span class="citation-popover-snippet">The police found nine holes in the hard clayey soil, each about 10 cm in diameter and about 25-30 mm deep. Mr...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wNFuYiLrvqw" title="Officer Spots a U.F.O. During a High-Speed Chase! | NASA&#x27;s Unexplained Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wNFuYiLrvqw" target="_blank" rel="noopener noreferrer">Officer Spots a U.F.O. During a High-Speed Chase! | NASA&#x27;s Unexplained Files</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 90.7K &middot; Uploaded: July 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wNFuYiLrvqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wNFuYiLrvqw">Open on YouTube</a></p></div></div></div>
 
@@ -288,11 +288,11 @@ At the same time, those same features create problems for investigators. Much of
 
 Jeffreys Bay represents a different Eastern Cape UFO pattern. Instead of farmers describing close encounters on rural land, the most widely discussed reports involve aircraft crews and observations over the coast.
 
-A notable example occurred in December 2016. According to statements released through South African rescue authorities, the captain and co-pilot of a Boeing 737 cargo aircraft travelling between [Cape Town]({{ 'cape-town/' | relative_url }}) and Port Elizabeth reported seeing a green object climb past their cockpit, reach cloud level and then descend rapidly toward the sea. The sighting occurred roughly ten nautical miles off the Jeffreys Bay coastline. Air traffic control considered the report serious enough to request assistance from the National Sea Rescue Institute to determine whether an aircraft or vessel might be in distress. No missing craft was ultimately found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">ufo spotted 1 000 feet in sky before hurtling towards earth nsri 20161213</span><span class="citation-popover-snippet">A Boeing 737 cargo aircraft captain and co-pilot, flying from Cape Town International Airport...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ofm.co.za/article/human-interest/214069/green-ufo-spotted-at-jeffreys-bay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofm.co.za">[OFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofm.co.za</span><span class="citation-popover-title">green ufo spotted at jeffreys bay</span><span class="citation-popover-snippet">13 Dec 2016 —... UFO spotted at Jeffreys Bay &#124; News Article. Jeffreys Bay - Mystery... aircraft, en route from Cape Town to Port Elizab...</span></span></span>
+A notable example occurred in December 2016. According to statements released through South African rescue authorities, the captain and co-pilot of a Boeing 737 cargo aircraft travelling between [Cape Town]({{ 'cape-town/' | relative_url }}) and Port Elizabeth reported seeing a green object climb past their cockpit, reach cloud level and then descend rapidly toward the sea. The sighting occurred roughly ten nautical miles off the Jeffreys Bay coastline. Air traffic control considered the report serious enough to request assistance from the National Sea Rescue Institute to determine whether an aircraft or vessel might be in distress. No missing craft was ultimately found.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">ufo spotted 1 000 feet in sky before hurtling towards earth nsri 20161213</span><span class="citation-popover-snippet">A Boeing 737 cargo aircraft captain and co-pilot, flying from Cape Town International Airport...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ofm.co.za/article/human-interest/214069/green-ufo-spotted-at-jeffreys-bay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofm.co.za">[OFM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofm.co.za</span><span class="citation-popover-title">green ufo spotted at jeffreys bay</span><span class="citation-popover-snippet">13 Dec 2016 —... UFO spotted at Jeffreys Bay &#124; News Article. Jeffreys Bay - Mystery... aircraft, en route from Cape Town to Port Elizab...</span></span></span>
 
-This case differs sharply from Fort Beaufort in both structure and documentation. The report originated with trained aviation personnel operating within a formal reporting environment. Air traffic controllers became involved, and rescue services monitored the situation. The event therefore generated an administrative trail that many older South African UFO stories lack. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">ufo spotted 1 000 feet in sky before hurtling towards earth nsri 20161213</span><span class="citation-popover-snippet">A Boeing 737 cargo aircraft captain and co-pilot, flying from Cape Town International Airport...Read more...</span></span></span>
+This case differs sharply from Fort Beaufort in both structure and documentation. The report originated with trained aviation personnel operating within a formal reporting environment. Air traffic controllers became involved, and rescue services monitored the situation. The event therefore generated an administrative trail that many older South African UFO stories lack.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">ufo spotted 1 000 feet in sky before hurtling towards earth nsri 20161213</span><span class="citation-popover-snippet">A Boeing 737 cargo aircraft captain and co-pilot, flying from Cape Town International Airport...Read more...</span></span></span>
 
-Yet the existence of official reporting does not automatically make the object extraterrestrial or even inexplicable. Contemporary discussion included more conventional possibilities, particularly the idea that observers may have witnessed a bright meteor or fireball entering the atmosphere. Similar explanations have frequently been proposed for reports involving green luminous objects seen over coastal regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.natureworldnews.com/articles/34064/20161215/ufo-emergency-alert-raised-mysterious-green-hovers-over-jeffreys-bay.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: natureworldnews.com">[Nature World News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">natureworldnews.com</span><span class="citation-popover-snippet">Nature World NewsUFO Emergency: Alert Raised as Mysterious Green...December 15, 2016 — 15 Dec 2016 — While some UFO hunters claim that i...</span><span class="citation-popover-meta">Published: December 15, 2016</span></span></span>
+Yet the existence of official reporting does not automatically make the object extraterrestrial or even inexplicable. Contemporary discussion included more conventional possibilities, particularly the idea that observers may have witnessed a bright meteor or fireball entering the atmosphere. Similar explanations have frequently been proposed for reports involving green luminous objects seen over coastal regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.natureworldnews.com/articles/34064/20161215/ufo-emergency-alert-raised-mysterious-green-hovers-over-jeffreys-bay.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: natureworldnews.com">[Nature World News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">natureworldnews.com</span><span class="citation-popover-snippet">Nature World NewsUFO Emergency: Alert Raised as Mysterious Green...December 15, 2016 — 15 Dec 2016 — While some UFO hunters claim that i...</span><span class="citation-popover-meta">Published: December 15, 2016</span></span></span>
 
 ### Why Coastal Cases Feel Different
 
@@ -309,7 +309,7 @@ Over the ocean, observers often have:
 
 </div>
 
-At the same time, aviation sightings can carry greater credibility because pilots are trained observers who regularly judge distance, altitude and movement. Their testimony is valuable, but aviation history also shows that even experienced crews can struggle to identify unusual lights under difficult viewing conditions. The fact that a witness is highly trained strengthens a report without automatically solving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">ufo spotted 1 000 feet in sky before hurtling towards earth nsri 20161213</span><span class="citation-popover-snippet">A Boeing 737 cargo aircraft captain and co-pilot, flying from Cape Town International Airport...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
+At the same time, aviation sightings can carry greater credibility because pilots are trained observers who regularly judge distance, altitude and movement. Their testimony is valuable, but aviation history also shows that even experienced crews can struggle to identify unusual lights under difficult viewing conditions. The fact that a witness is highly trained strengthens a report without automatically solving it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">ufo spotted 1 000 feet in sky before hurtling towards earth nsri 20161213</span><span class="citation-popover-snippet">A Boeing 737 cargo aircraft captain and co-pilot, flying from Cape Town International Airport...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disappearance of Frederick Valentich</span><span class="citation-popover-snippet">Disappearance of Frederick Valentich</span></span></span>
 
 <img src="{{ "/assets/images/South_Africa_3b27c8_eastern_cape_sightin_317076-Illustration-2-dark.svg" | relative_url }}" alt="Eastern Cape illustration 2" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8_eastern_cape_sightin_317076-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8_eastern_cape_sightin_317076-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rural Encounters Versus Aviation Incidents
@@ -323,7 +323,7 @@ The contrast also explains why the cases appeal to different audiences. Fort Bea
 <img src="{{ "/assets/images/South_Africa_3b27c8_eastern_cape_sightin_317076-Illustration-3-dark.svg" | relative_url }}" alt="Eastern Cape illustration 3" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8_eastern_cape_sightin_317076-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8_eastern_cape_sightin_317076-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Regional Clustering Can and Cannot Prove
 
-Researchers and enthusiasts have occasionally pointed to the Eastern Cape as a South African UFO concentration area. South African researcher James Louw argued that sightings appeared in waves and suggested that parts of the Eastern Cape experienced repeated reports over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iol.co.za/news/south-africa/2006-07-04-ufos-in-sa-arent-as-rare-as-you-think/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">2006 07 04 ufos in sa arent as rare as you think</span><span class="citation-popover-snippet">UFOs in SA aren&#x27;t as rare as you think4 Jul 2006 — But it was only when Louw began to research UFOs that he realised that South Africa...</span></span></span>
+Researchers and enthusiasts have occasionally pointed to the Eastern Cape as a South African UFO concentration area. South African researcher James Louw argued that sightings appeared in waves and suggested that parts of the Eastern Cape experienced repeated reports over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iol.co.za/news/south-africa/2006-07-04-ufos-in-sa-arent-as-rare-as-you-think/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">2006 07 04 ufos in sa arent as rare as you think</span><span class="citation-popover-snippet">UFOs in SA aren&#x27;t as rare as you think4 Jul 2006 — But it was only when Louw began to research UFOs that he realised that South Africa...</span></span></span>
 
 The existence of multiple reports, however, does not automatically demonstrate the presence of an unusual physical phenomenon. Regional clustering can emerge for several reasons:
 
@@ -337,7 +337,7 @@ The existence of multiple reports, however, does not automatically demonstrate t
 
 </div>
 
-Fort Beaufort itself demonstrates this effect. Once the original incident became well known, later stories from the region were more likely to be viewed through a UFO lens. Some accounts from the wider Eastern Cape during the 1970s described coloured lights, hovering objects and unusual aerial movements, but many remain poorly documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ancestors.co.za/29572-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ancestors.co.za">[ancestors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ancestors.co.za</span><span class="citation-popover-snippet">Ancestors Research South AfricaRose&#x27;s Round-up April 2021 No 32824 Jul 2021 — Bennie Smit of Braeside farm, sent a worker, Boer de Klerk, to...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
+Fort Beaufort itself demonstrates this effect. Once the original incident became well known, later stories from the region were more likely to be viewed through a UFO lens. Some accounts from the wider Eastern Cape during the 1970s described coloured lights, hovering objects and unusual aerial movements, but many remain poorly documented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ancestors.co.za/29572-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ancestors.co.za">[ancestors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ancestors.co.za</span><span class="citation-popover-snippet">Ancestors Research South AfricaRose&#x27;s Round-up April 2021 No 32824 Jul 2021 — Bennie Smit of Braeside farm, sent a worker, Boer de Klerk, to...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
 
 The coastal reports present a similar challenge. A pilot's observation of an unidentified light may be entirely genuine while still being caused by a meteor, atmospheric phenomenon or another conventional source. Repeated reports along a coastline do not by themselves establish a common cause.
 
@@ -354,194 +354,194 @@ For historians of South African UFO culture, that combination is precisely what 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8v0k9sGc4nA" title="南アフリカUFO現象の謎を解明：科学的視点から見た目撃報告の真相と、世界が注目する異星文明との接触地点" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8v0k9sGc4nA" target="_blank" rel="noopener noreferrer">南アフリカUFO現象の謎を解明：科学的視点から見た目撃報告の真相と、世界が注目する異星文明との接触地点</a></p><p class="youtube-embed-meta">Channel: LALALA MYSTERY &middot; Views: 11.1K &middot; Uploaded: September 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8v0k9sGc4nA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8v0k9sGc4nA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Eastern Cape Keeps Reappearing in UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Eastern Cape Keeps Reappearing in UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines evidence standards and case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence standards and case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes discussion of witness credibility and aviation-related reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of witness credibility and aviation-related reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Useful for comparing folklore-driven cases with investigated incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing folklore-driven cases with investigated incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
+</h4>
+<p class="fr-book-author">By Colin Dickey</p>
         
-        <p class="fr-book-desc">Explores how regional legends and social narratives develop.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how regional legends and social narratives develop.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-eastern-cape-keeps-reappearing-in-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ For historians of South African UFO culture, that combination is precisely what 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ For historians of South African UFO culture, that combination is precisely what 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ For historians of South African UFO culture, that combination is precisely what 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ For historians of South African UFO culture, that combination is precisely what 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ For historians of South African UFO culture, that combination is precisely what 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,110 +747,110 @@ For historians of South African UFO culture, that combination is precisely what 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in South Africa  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Avvistamenti nella Provincia del Capo Orientale  
-   Link: <a href="https://it.wikipedia.org/wiki/Avvistamenti_nella_Provincia_del_Capo_Orientale" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Avvistamenti_nella_Provincia_del_Capo_Orientale</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Avvistamenti_nella_Provincia_del_Capo_Orientale" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Avvistamenti_nella_Provincia_del_Capo_Orientale</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news24.com  
    Title: ufo spotted 1 000 feet in sky before hurtling towards earth nsri 20161213  
-   Link: <a href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow">https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A Boeing 737 cargo aircraft captain and co-pilot, flying from Cape Town International Airport...Read more...</p></details>
+   Link:<a href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow">https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;A Boeing 737 cargo aircraft captain and co-pilot, flying from Cape Town International Airport...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ofm.co.za  
    Title: green ufo spotted at jeffreys bay  
-   Link: <a href="https://www.ofm.co.za/article/human-interest/214069/green-ufo-spotted-at-jeffreys-bay" target="_blank" rel="noopener noreferrer nofollow">https://www.ofm.co.za/article/human-interest/214069/green-ufo-spotted-at-jeffreys-bay</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Dec 2016 —... UFO spotted at Jeffreys Bay | News Article. Jeffreys Bay - Mystery... aircraft, en route from Cape Town to Port Elizab...</p></details>
+   Link:<a href="https://www.ofm.co.za/article/human-interest/214069/green-ufo-spotted-at-jeffreys-bay" target="_blank" rel="noopener noreferrer nofollow">https://www.ofm.co.za/article/human-interest/214069/green-ufo-spotted-at-jeffreys-bay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Dec 2016 —... UFO spotted at Jeffreys Bay | News Article. Jeffreys Bay - Mystery... aircraft, en route from Cape Town to Port Elizab...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 2007 Alderney UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/2007_Alderney_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2007_Alderney_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2007_Alderney_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2007_Alderney_UFO_sighting</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Disappearance of Frederick Valentich  
-   Link: <a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ancestors.co.za  
-   Link: <a href="https://www.ancestors.co.za/29572-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestors.co.za/29572-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancestors Research South AfricaRose&#x27;s Round-up April 2021 No 32824 Jul 2021 — Bennie Smit of Braeside farm, sent a worker, Boer de Klerk, to...</p></details>
+   Link:<a href="https://www.ancestors.co.za/29572-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.ancestors.co.za/29572-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancestors Research South AfricaRose&#x27;s Round-up April 2021 No 32824 Jul 2021 — Bennie Smit of Braeside farm, sent a worker, Boer de Klerk, to...</p></details>
    Published: April 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sentinel63.wordpress.com  
    Title: ASPire The Exploding Dam: UFO over Fort Beaufort  
-   Link: <a href="https://sentinel63.wordpress.com/2016/11/10/the-exploding-dam-ufo-over-fort-beaufort/" target="_blank" rel="noopener noreferrer nofollow">https://sentinel63.wordpress.com/2016/11/10/the-exploding-dam-ufo-over-fort-beaufort/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The police found nine holes in the hard clayey soil, each about 10 cm in diameter and about 25-30 mm deep. Mr...Read more...</p></details>
+   Link:<a href="https://sentinel63.wordpress.com/2016/11/10/the-exploding-dam-ufo-over-fort-beaufort/" target="_blank" rel="noopener noreferrer nofollow">https://sentinel63.wordpress.com/2016/11/10/the-exploding-dam-ufo-over-fort-beaufort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The police found nine holes in the hard clayey soil, each about 10 cm in diameter and about 25-30 mm deep. Mr...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: natureworldnews.com  
-   Link: <a href="https://www.natureworldnews.com/articles/34064/20161215/ufo-emergency-alert-raised-mysterious-green-hovers-over-jeffreys-bay.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.natureworldnews.com/articles/34064/20161215/ufo-emergency-alert-raised-mysterious-green-hovers-over-jeffreys-bay.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature World NewsUFO Emergency: Alert Raised as Mysterious Green...December 15, 2016 — 15 Dec 2016 — While some UFO hunters claim that i...</p></details>
+   Link:<a href="https://www.natureworldnews.com/articles/34064/20161215/ufo-emergency-alert-raised-mysterious-green-hovers-over-jeffreys-bay.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.natureworldnews.com/articles/34064/20161215/ufo-emergency-alert-raised-mysterious-green-hovers-over-jeffreys-bay.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nature World NewsUFO Emergency: Alert Raised as Mysterious Green...December 15, 2016 — 15 Dec 2016 — While some UFO hunters claim that i...</p></details>
    Published: December 15, 2016  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TableMountainNP/posts/simonstown-fire-update-incident-command-report-active-firefighting-efforts-conti/376229544780731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TableMountainNP/posts/simonstown-fire-update-incident-command-report-active-firefighting-efforts-conti/376229544780731/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simonstown Fire Update🔥 Incident Command ReportThree helicopters are currently airborne to assist with water-bombing. ⛔️ Main Road closed...</p></details>
+   Link:<a href="https://www.facebook.com/TableMountainNP/posts/simonstown-fire-update-incident-command-report-active-firefighting-efforts-conti/376229544780731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TableMountainNP/posts/simonstown-fire-update-incident-command-report-active-firefighting-efforts-conti/376229544780731/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simonstown Fire Update🔥 Incident Command ReportThree helicopters are currently airborne to assist with water-bombing. ⛔️ Main Road closed...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: handwiki.org  
-   Link: <a href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved:UFO sightings in South AfricaBennie Smit, owner of Braeside farm near Fort Beaufort in the eastern Cape... &quot;Still no answers on...</p></details>
+   Link:<a href="https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://handwiki.org/wiki/Unsolved%3AUFO_sightings_in_South_Africa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved:UFO sightings in South AfricaBennie Smit, owner of Braeside farm near Fort Beaufort in the eastern Cape... &quot;Still no answers on...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ibtimes.co.in  
    Title: ufo sighting mysterious green object spotted over jeffreys bay 708759  
-   Link: <a href="https://www.ibtimes.co.in/ufo-sighting-mysterious-green-object-spotted-over-jeffreys-bay-708759" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.in/ufo-sighting-mysterious-green-object-spotted-over-jeffreys-bay-708759</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IBTimes IndiaUFO spotted over Jeffreys Bay16 Dec 2016 — While conspiracy theorists and UFO hunters claim it to be an alien spacecraft, as...</p></details>
+   Link:<a href="https://www.ibtimes.co.in/ufo-sighting-mysterious-green-object-spotted-over-jeffreys-bay-708759" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.in/ufo-sighting-mysterious-green-object-spotted-over-jeffreys-bay-708759</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IBTimes IndiaUFO spotted over Jeffreys Bay16 Dec 2016 — While conspiracy theorists and UFO hunters claim it to be an alien spacecraft, as...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stfrancistoday.com  
-   Link: <a href="https://stfrancistoday.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://stfrancistoday.com/tag/ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO A Boeing 737 cargo aircraft captain and co-pilot, flying from Cape Town International...Read more...</p></details>
+   Link:<a href="https://stfrancistoday.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://stfrancistoday.com/tag/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO A Boeing 737 cargo aircraft captain and co-pilot, flying from Cape Town International...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: South Africa's ghost hunters look for clues in hollow rooms  
-   Link: <a href="https://www.facebook.com/AFPnewsenglish/posts/south-africas-ghost-hunters-look-for-clues-in-hollow-roomsabout-two-years-ago-br/5734532776584678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFPnewsenglish/posts/south-africas-ghost-hunters-look-for-clues-in-hollow-roomsabout-two-years-ago-br/5734532776584678/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lovable Steven ▻ U.F.O Sightings South Africa. 3y · Public · What are the chances of us reasonably intelligent people starting a research...</p></details>
+   Link:<a href="https://www.facebook.com/AFPnewsenglish/posts/south-africas-ghost-hunters-look-for-clues-in-hollow-roomsabout-two-years-ago-br/5734532776584678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFPnewsenglish/posts/south-africas-ghost-hunters-look-for-clues-in-hollow-roomsabout-two-years-ago-br/5734532776584678/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lovable Steven ▻ U.F.O Sightings South Africa. 3y · Public · What are the chances of us reasonably intelligent people starting a research...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100081917065369/posts/bennie-smit-owner-of-braeside-farm-near-fort-beaufort-in-the-eastern-cape-claime/159727516767816/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100081917065369/posts/bennie-smit-owner-of-braeside-farm-near-fort-beaufort-in-the-eastern-cape-claime/159727516767816/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pe, claimed to have fired shots at an unknown object during the morning of 26 June 1971...</p></details>
+   Link:<a href="https://www.facebook.com/100081917065369/posts/bennie-smit-owner-of-braeside-farm-near-fort-beaufort-in-the-eastern-cape-claime/159727516767816/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100081917065369/posts/bennie-smit-owner-of-braeside-farm-near-fort-beaufort-in-the-eastern-cape-claime/159727516767816/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pe, claimed to have fired shots at an unknown object during the morning of 26 June 1971...</p></details>
    Published: June 1971  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iol.co.za  
    Title: 2006 07 04 ufos in sa arent as rare as you think  
-   Link: <a href="https://iol.co.za/news/south-africa/2006-07-04-ufos-in-sa-arent-as-rare-as-you-think/" target="_blank" rel="noopener noreferrer nofollow">https://iol.co.za/news/south-africa/2006-07-04-ufos-in-sa-arent-as-rare-as-you-think/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in SA aren&#x27;t as rare as you think4 Jul 2006 — But it was only when Louw began to research UFOs that he realised that South Africa...</p></details>
+   Link:<a href="https://iol.co.za/news/south-africa/2006-07-04-ufos-in-sa-arent-as-rare-as-you-think/" target="_blank" rel="noopener noreferrer nofollow">https://iol.co.za/news/south-africa/2006-07-04-ufos-in-sa-arent-as-rare-as-you-think/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in SA aren&#x27;t as rare as you think4 Jul 2006 — But it was only when Louw began to research UFOs that he realised that South Africa...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
    Title: Serious: Elon is most definitely an Alien Hybrid  
-   Link: <a href="https://www.reddit.com/r/u_slugbrothofficial/comments/1rbngij/serious_elon_is_most_definitely_an_alien_hybrid/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/u_slugbrothofficial/comments/1rbngij/serious_elon_is_most_definitely_an_alien_hybrid/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He has big plans.Far to the south, on Braeside Farm near Fort Beaufort in the Eastern Cape, farm owner Bennie Smit and local police encou...</p></details>
+   Link:<a href="https://www.reddit.com/r/u_slugbrothofficial/comments/1rbngij/serious_elon_is_most_definitely_an_alien_hybrid/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/u_slugbrothofficial/comments/1rbngij/serious_elon_is_most_definitely_an_alien_hybrid/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He has big plans.Far to the south, on Braeside Farm near Fort Beaufort in the Eastern Cape, farm owner Bennie Smit and local police encou...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wrc.org.za  
    Title: Part 2: River rehabilitation scenarios. (WRC Report No. TT 910/2/23).Read more  
-   Link: <a href="https://www.wrc.org.za/wp-content/uploads/mdocs/TT910%20Part%201%20final%20web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wrc.org.za/wp-content/uploads/mdocs/TT910%20Part%201%20final%20web.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Investigation of the Rehabilitation Potential...x An investigation of the rehabilitation potential of the Baakens River, Gqeberha...</p></details>
+   Link:<a href="https://www.wrc.org.za/wp-content/uploads/mdocs/TT910%20Part%201%20final%20web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wrc.org.za/wp-content/uploads/mdocs/TT910%20Part%201%20final%20web.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Investigation of the Rehabilitation Potential...x An investigation of the rehabilitation potential of the Baakens River, Gqeberha...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheHeraldNMB/posts/a-mysterious-green-unidentified-flying-object-had-rescue-officials-on-alert-in-j/1210925058988992/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHeraldNMB/posts/a-mysterious-green-unidentified-flying-object-had-rescue-officials-on-alert-in-j/1210925058988992/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n Jeffreys Bay on Monday night. Did you see anything strange in the...</p></details>
+   Link:<a href="https://www.facebook.com/TheHeraldNMB/posts/a-mysterious-green-unidentified-flying-object-had-rescue-officials-on-alert-in-j/1210925058988992/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHeraldNMB/posts/a-mysterious-green-unidentified-flying-object-had-rescue-officials-on-alert-in-j/1210925058988992/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n Jeffreys Bay on Monday night. Did you see anything strange in the...</p></details>

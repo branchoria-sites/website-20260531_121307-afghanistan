@@ -1201,18 +1201,18 @@ The Oman-centred record falls into three main categories. First are **civilian r
 
 ## The public chronology is sparse, but a few entries stand out
 
-Oman does not appear to have a deep public archive of official domestic UFO investigations. The National UFO Reporting Center, a US-based civilian database, lists only a small number of reports under Oman, including entries from Muscat Governorate and airborne locations over Oman. Its country index includes a December 2024 [As Sifah]({{ 'as-sifah/' | relative_url }}) report, a December 2024 As Sifah “star” report, and an October 2023 airborne report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cOman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Oman</span><span class="citation-popover-snippet">NUFOR C Reports for Country Oman</span></span></span>
+Oman does not appear to have a deep public archive of official domestic UFO investigations. The National UFO Reporting Center, a US-based civilian database, lists only a small number of reports under Oman, including entries from Muscat Governorate and airborne locations over Oman. Its country index includes a December 2024 [As Sifah]({{ 'as-sifah/' | relative_url }}) report, a December 2024 As Sifah “star” report, and an October 2023 airborne report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cOman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for Country Oman</span><span class="citation-popover-snippet">NUFOR C Reports for Country Oman</span></span></span>
 
-The December 2024 As Sifah reports illustrate the pattern. One described a white-to-orange light near the sea horizon that lasted about a minute and faded without obvious movement; another described more than 30 star-like objects moving for 45 minutes to an hour. These are interesting witness accounts, but they lack corroborating radar, calibrated imagery, exact azimuth tracking, aircraft checks or astronomical reconstruction in the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The December 2024 As Sifah reports illustrate the pattern. One described a white-to-orange light near the sea horizon that lasted about a minute and faded without obvious movement; another described more than 30 star-like objects moving for 45 minutes to an hour. These are interesting witness accounts, but they lack corroborating radar, calibrated imagery, exact azimuth tracking, aircraft checks or astronomical reconstruction in the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185374" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 That absence does not make the witnesses unreliable. It means the cases remain low-information reports. Coastal locations such as As Sifah are especially vulnerable to ambiguous impressions: aircraft on approach or departure, ships and offshore lights near the horizon, reflections, planets, satellites, meteor activity and camera exposure effects can all look stranger over dark water than they would over a city skyline.
 
 <img src="{{ "/assets/images/Oman_c14c36-Illustration-1-dark.svg" | relative_url }}" alt="What Really Counts as an Oman UFO? illustration 1" data-theme-src-dark="{{ "/assets/images/Oman_c14c36-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oman_c14c36-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Gulf of Oman files are the strongest official link
 
-The most significant official material connected to Oman is not a domestic Omani case but a regional US military archive. In 2026, the US Department of War’s UAP archive stated that its released materials were “unresolved cases”, meaning the government could not make a definitive determination, often because of insufficient data. The archive also said further materials would be released in tranches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Presidential Unsealing and Reporting System for UAP Encounters &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/ufo/?releaseDate=Release&type=.vid)
+The most significant official material connected to Oman is not a domestic Omani case but a regional US military archive. In 2026, the US Department of War’s UAP archive stated that its released materials were “unresolved cases”, meaning the government could not make a definitive determination, often because of insufficient data. The archive also said further materials would be released in tranches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Presidential Unsealing and Reporting System for UAP Encounters &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/ufo/?releaseDate=Release&type=.vid)
 
-One widely reported entry concerns a 1 June 2024 infrared recording over the Gulf of Oman, captured from a US aircraft. The National reported that the object appeared as a fast-moving inverted teardrop with a vertical pole or bar attached below it, and that an observer noted it might have been a reflection from an object in the water. The same report stressed that the released videos did not show evidence of extraterrestrial intelligence and that some regional objects could plausibly be drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+One widely reported entry concerns a 1 June 2024 infrared recording over the Gulf of Oman, captured from a US aircraft. The National reported that the object appeared as a fast-moving inverted teardrop with a vertical pole or bar attached below it, and that an observer noted it might have been a reflection from an object in the water. The same report stressed that the released videos did not show evidence of extraterrestrial intelligence and that some regional objects could plausibly be drones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Other declassified mission reports from 2020 place US surveillance activity across the Arabian Gulf, Strait of Hormuz and Gulf of Oman. One mission report records an observed UAP at 0726Z during a NAVCENT-supported operation in that broader area; another similar report notes Gulf, Strait of Hormuz and Gulf of Oman coverage with UAP observations amid redactions. These documents are useful because they show that “unknown” observations occur in the regional operating environment, but they are limited by redactions, short descriptions and the lack of public full-resolution analytical context. [U.S. Department of War+2U.S. Department of War]
 
@@ -1222,19 +1222,19 @@ For an Oman page, the careful conclusion is this: the Gulf of Oman files raise l
 
 ## Explained Oman sky events are just as important as unresolved ones
 
-Some of the most memorable “UFO-like” Oman-related sky events have ordinary explanations. In March 2019, residents in Oman and the UAE saw a dramatic circular “whirlpool” or hole-like formation in the sky. Gulf News reported that the phenomenon was a fallstreak hole, also known as a hole-punch cloud, and noted that it was spotted above Buraimi and Mahdah in north-west Oman. The same report explained that such holes can form in high or mid-level clouds when supercooled droplets freeze and fall, sometimes after aircraft introduce ice crystals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News What was that mysterious hole in the UAE sky?</span><span class="citation-popover-snippet">Gulf News What was that mysterious hole in the UAE sky?</span></span></span>
+Some of the most memorable “UFO-like” Oman-related sky events have ordinary explanations. In March 2019, residents in Oman and the UAE saw a dramatic circular “whirlpool” or hole-like formation in the sky. Gulf News reported that the phenomenon was a fallstreak hole, also known as a hole-punch cloud, and noted that it was spotted above Buraimi and Mahdah in north-west Oman. The same report explained that such holes can form in high or mid-level clouds when supercooled droplets freeze and fall, sometimes after aircraft introduce ice crystals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News What was that mysterious hole in the UAE sky?</span><span class="citation-popover-snippet">Gulf News What was that mysterious hole in the UAE sky?</span></span></span>
 
-The National separately described the Al Ain-area cloud as a fallstreak hole, a rare cloud feature often mistaken for alien activity because of its circular, unnatural-looking shape. That is exactly the kind of case that belongs in an Oman UFO chronology: not because it remains unexplained, but because it shows how a visually striking regional phenomenon can be reframed as a UFO online before the meteorological explanation catches up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The National separately described the Al Ain-area cloud as a fallstreak hole, a rare cloud feature often mistaken for alien activity because of its circular, unnatural-looking shape. That is exactly the kind of case that belongs in an Oman UFO chronology: not because it remains unexplained, but because it shows how a visually striking regional phenomenon can be reframed as a UFO online before the meteorological explanation catches up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Meteor activity is another recurring source of confusion. Oman has active local astronomy coverage, and Omani outlets regularly preview meteor showers visible from the country. Muscat Daily, for example, reported that the Quadrantid meteor shower would be visible to the naked eye in Oman in early January 2023, citing a senior member of the Oman Astronomical Society’s observatory unit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.muscatdaily.com/2023/01/01/nights-to-dazzle-with-most-intense-meteor-shower-till-january-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muscatdaily.com">[muscatdaily.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muscatdaily.com</span><span class="citation-popover-title">Nights to dazzle with most intense meteor shower till</span><span class="citation-popover-snippet">Nights to dazzle with most intense meteor shower till</span></span></span> Bright meteors and fireballs can appear sudden, silent, greenish or orange, and may seem much lower than they are.
+Meteor activity is another recurring source of confusion. Oman has active local astronomy coverage, and Omani outlets regularly preview meteor showers visible from the country. Muscat Daily, for example, reported that the Quadrantid meteor shower would be visible to the naked eye in Oman in early January 2023, citing a senior member of the Oman Astronomical Society’s observatory unit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.muscatdaily.com/2023/01/01/nights-to-dazzle-with-most-intense-meteor-shower-till-january-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muscatdaily.com">[muscatdaily.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muscatdaily.com</span><span class="citation-popover-title">Nights to dazzle with most intense meteor shower till</span><span class="citation-popover-snippet">Nights to dazzle with most intense meteor shower till</span></span></span> Bright meteors and fireballs can appear sudden, silent, greenish or orange, and may seem much lower than they are.
 
 ## Drones have changed the meaning of “unidentified”
 
-In contemporary Oman, an unidentified flying object is often a security and aviation issue before it is a mystery. Omani authorities have urged citizens and residents to report drone sightings or similar objects in the airspace, especially near vital facilities, and to include location and photographs where possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.omanobserver.om/article/1185461/oman/rop/citizens-residents-urged-to-report-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: omanobserver.om">[omanobserver.om]</a><span class="citation-popover" role="note"><span class="citation-popover-source">omanobserver.om</span><span class="citation-popover-title">Citizens, residents urged to report drone sightings</span><span class="citation-popover-snippet">Citizens, residents urged to report drone sightings</span></span></span>
+In contemporary Oman, an unidentified flying object is often a security and aviation issue before it is a mystery. Omani authorities have urged citizens and residents to report drone sightings or similar objects in the airspace, especially near vital facilities, and to include location and photographs where possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.omanobserver.om/article/1185461/oman/rop/citizens-residents-urged-to-report-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: omanobserver.om">[omanobserver.om]</a><span class="citation-popover" role="note"><span class="citation-popover-source">omanobserver.om</span><span class="citation-popover-title">Citizens, residents urged to report drone sightings</span><span class="citation-popover-snippet">Citizens, residents urged to report drone sightings</span></span></span>
 
-That official reporting posture matters for UFO interpretation. A resident who sees a silent light over a port, beach, road or facility may be observing a lawful drone, an unlawful drone, a balloon, a distant aircraft or something not easily classified from the ground. Oman’s Civil Aviation Authority drone regulations show why this is taken seriously: CAR-102 governs remotely piloted aircraft used in Oman and covers licensing, operational approval, incidents and penalties for unsafe or non-compliant flying. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.om/upload/files/CAR%20102%20-%20Remote%20Piloted%20Aircraft%20%28Drones%29%20-%20v0.20%20-%20JNC%20-%20Revised%20amendment%20251121.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.om">[caa.gov.om]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.om</span><span class="citation-popover-title">CA R – 102 – Remote Piloted Aircraft (Drones</span><span class="citation-popover-snippet">CA R – 102 – Remote Piloted Aircraft (Drones</span></span></span>
+That official reporting posture matters for UFO interpretation. A resident who sees a silent light over a port, beach, road or facility may be observing a lawful drone, an unlawful drone, a balloon, a distant aircraft or something not easily classified from the ground. Oman’s Civil Aviation Authority drone regulations show why this is taken seriously: CAR-102 governs remotely piloted aircraft used in Oman and covers licensing, operational approval, incidents and penalties for unsafe or non-compliant flying.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.caa.gov.om/upload/files/CAR%20102%20-%20Remote%20Piloted%20Aircraft%20%28Drones%29%20-%20v0.20%20-%20JNC%20-%20Revised%20amendment%20251121.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.om">[caa.gov.om]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.om</span><span class="citation-popover-title">CA R – 102 – Remote Piloted Aircraft (Drones</span><span class="citation-popover-snippet">CA R – 102 – Remote Piloted Aircraft (Drones</span></span></span>
 
-In April 2026, Oman Observer reported a public advisory asking people to report suspicious flying objects, including drones, while remaining calm, moving away from the location and avoiding gatherings. Times of Oman also reported a government media centre advisory urging residents to report suspicious aerial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.omanobserver.om/article/1187384/oman/community/authorities-urge-public-to-report-suspicious-flying-objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: omanobserver.om">[omanobserver.om]</a><span class="citation-popover" role="note"><span class="citation-popover-source">omanobserver.om</span><span class="citation-popover-title">Authorities urge public to report suspicious flying objects</span><span class="citation-popover-snippet">Authorities urge public to report suspicious flying objects</span></span></span> This does not prove a wave of exotic UFO activity; it shows that low-altitude unidentified aerial activity is now treated as a practical public-safety matter.
+In April 2026, Oman Observer reported a public advisory asking people to report suspicious flying objects, including drones, while remaining calm, moving away from the location and avoiding gatherings. Times of Oman also reported a government media centre advisory urging residents to report suspicious aerial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.omanobserver.om/article/1187384/oman/community/authorities-urge-public-to-report-suspicious-flying-objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: omanobserver.om">[omanobserver.om]</a><span class="citation-popover" role="note"><span class="citation-popover-source">omanobserver.om</span><span class="citation-popover-title">Authorities urge public to report suspicious flying objects</span><span class="citation-popover-snippet">Authorities urge public to report suspicious flying objects</span></span></span> This does not prove a wave of exotic UFO activity; it shows that low-altitude unidentified aerial activity is now treated as a practical public-safety matter.
 
 <img src="{{ "/assets/images/Oman_c14c36-Illustration-2-dark.svg" | relative_url }}" alt="What Really Counts as an Oman UFO? illustration 2" data-theme-src-dark="{{ "/assets/images/Oman_c14c36-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oman_c14c36-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How reliable are the local and public sources?
@@ -1245,7 +1245,7 @@ The evidence quality for Oman is uneven.
 
 **Moderately useful:** local journalism and regional newspapers. These are valuable when they report specific dates, places and official explanations, such as the 2019 fallstreak hole or public drone-reporting advisories. Their weakness is that short articles rarely include raw data, full imagery analysis or follow-up investigations.
 
-**Useful but weak as evidence:** civilian UFO databases and social media reports. NUFORC entries can preserve witness testimony and dates, but they are self-submitted and often lack independent checks. The As Sifah reports are worth noting, but they should be treated as unverified sightings rather than confirmed anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185731" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Useful but weak as evidence:** civilian UFO databases and social media reports. NUFORC entries can preserve witness testimony and dates, but they are self-submitted and often lack independent checks. The As Sifah reports are worth noting, but they should be treated as unverified sightings rather than confirmed anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185731" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 **Lowest value:** recycled viral clips without location, time, camera metadata or original uploader context. A video said to be “from Oman” is not enough. Without verifiable coordinates, original files and cross-checks against aircraft, satellites, weather and astronomical conditions, it should remain outside any serious Oman chronology.
 
@@ -1261,13 +1261,13 @@ A strong Oman UFO case would need more than a striking light in the sky. The mos
 * original, uncompressed photo or video files with metadata;
 * multiple independent witnesses from separated locations;
 * comparison with aircraft and satellite tracking;
-* weather and cloud data; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dow uap d61 mission report persian gulf august 2020</span><span class="citation-popover-snippet">dow uap d61 mission report persian gulf august 2020</span><span class="citation-popover-meta">Published: august 2020</span></span></span>
+* weather and cloud data;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dow uap d61 mission report persian gulf august 2020</span><span class="citation-popover-snippet">dow uap d61 mission report persian gulf august 2020</span><span class="citation-popover-meta">Published: august 2020</span></span></span>
 * checks against meteor showers, planets and re-entering space debris;
 * confirmation from aviation, radar or maritime sources where relevant.
 
 </div>
 
-This is consistent with the broader scientific caution around UAP. NASA’s independent UAP study argued that the subject requires rigorous, evidence-based methods and better data acquisition, while AARO’s historical review found no verifiable evidence that any UAP sighting represented extraterrestrial activity, even though some cases remain unsolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> [2U.S.] Department of War
+This is consistent with the broader scientific caution around UAP. NASA’s independent UAP study argued that the subject requires rigorous, evidence-based methods and better data acquisition, while AARO’s historical review found no verifiable evidence that any UAP sighting represented extraterrestrial activity, even though some cases remain unsolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> [2U.S.] Department of War
 
 <img src="{{ "/assets/images/Oman_c14c36-Illustration-3-dark.svg" | relative_url }}" alt="What Really Counts as an Oman UFO? illustration 3" data-theme-src-dark="{{ "/assets/images/Oman_c14c36-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oman_c14c36-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The bottom line on UFOs in Oman
@@ -1279,194 +1279,194 @@ The evidence does not support claims of confirmed extraterrestrial craft over Om
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sy8odDQJqgg" title="DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sy8odDQJqgg" target="_blank" rel="noopener noreferrer">DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020</a></p><p class="youtube-embed-meta">Channel: Matt Novak &middot; Views: 554 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sy8odDQJqgg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sy8odDQJqgg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Counts as an Oman UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Counts as an Oman UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page focused on military reports, sightings, and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page focused on military reports, sightings, and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating unidentified aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating unidentified aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages critical thinking about ambiguous sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical thinking about ambiguous sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Useful for understanding how official UFO records are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how official UFO records are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-counts-as-an-oman-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-counts-as-an-oman-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1482,7 +1482,7 @@ The evidence does not support claims of confirmed extraterrestrial craft over Om
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1502,7 +1502,7 @@ The evidence does not support claims of confirmed extraterrestrial craft over Om
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1534,7 +1534,7 @@ The evidence does not support claims of confirmed extraterrestrial craft over Om
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1586,7 +1586,7 @@ The evidence does not support claims of confirmed extraterrestrial craft over Om
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1631,7 +1631,7 @@ The evidence does not support claims of confirmed extraterrestrial craft over Om
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1669,241 +1669,240 @@ The evidence does not support claims of confirmed extraterrestrial craft over Om
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for Country Oman  
-   Link: <a href="https://nuforc.org/subndx/?id=cOman" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cOman</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cOman" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cOman</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=185374" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185374</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=185374" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185374</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=185731" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185731</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=185731" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185731</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Presidential Unsealing and Reporting System for UAP Encounters | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Presidential Unsealing and Reporting System for UAP Encounters | U.S. Department of War...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d60-mission-report-persian-gulf-august-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d60-mission-report-persian-gulf-august-2020.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d60-mission-report-persian-gulf-august-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d60-mission-report-persian-gulf-august-2020.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: dow uap d62 mission report strait of hormuz september 2020  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf</a>  
    Published: september 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
    Title: dow uap d64 mission report iran november 2020  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d64-mission-report-iran-november-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d64-mission-report-iran-november-2020.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d64-mission-report-iran-november-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d64-mission-report-iran-november-2020.pdf</a>  
    Published: november 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: muscatdaily.com  
    Title: Nights to dazzle with most intense meteor shower till  
-   Link: <a href="https://www.muscatdaily.com/2023/01/01/nights-to-dazzle-with-most-intense-meteor-shower-till-january-5/" target="_blank" rel="noopener noreferrer nofollow">https://www.muscatdaily.com/2023/01/01/nights-to-dazzle-with-most-intense-meteor-shower-till-january-5/</a>  
+   Link:<a href="https://www.muscatdaily.com/2023/01/01/nights-to-dazzle-with-most-intense-meteor-shower-till-january-5/" target="_blank" rel="noopener noreferrer nofollow">https://www.muscatdaily.com/2023/01/01/nights-to-dazzle-with-most-intense-meteor-shower-till-january-5/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: omanobserver.om  
    Title: Citizens, residents urged to report drone sightings  
-   Link: <a href="https://www.omanobserver.om/article/1185461/oman/rop/citizens-residents-urged-to-report-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.omanobserver.om/article/1185461/oman/rop/citizens-residents-urged-to-report-drone-sightings</a>  
+   Link:<a href="https://www.omanobserver.om/article/1185461/oman/rop/citizens-residents-urged-to-report-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.omanobserver.om/article/1185461/oman/rop/citizens-residents-urged-to-report-drone-sightings</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: caa.gov.om  
    Title: CA R – 102 – Remote Piloted Aircraft (Drones)  
-   Link: <a href="https://www.caa.gov.om/upload/files/CAR%20102%20-%20Remote%20Piloted%20Aircraft%20%28Drones%29%20-%20v0.20%20-%20JNC%20-%20Revised%20amendment%20251121.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.om/upload/files/CAR%20102%20-%20Remote%20Piloted%20Aircraft%20%28Drones%29%20-%20v0.20%20-%20JNC%20-%20Revised%20amendment%20251121.pdf</a>  
+   Link:<a href="https://www.caa.gov.om/upload/files/CAR%20102%20-%20Remote%20Piloted%20Aircraft%20%28Drones%29%20-%20v0.20%20-%20JNC%20-%20Revised%20amendment%20251121.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.om/upload/files/CAR%20102%20-%20Remote%20Piloted%20Aircraft%20%28Drones%29%20-%20v0.20%20-%20JNC%20-%20Revised%20amendment%20251121.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: caa.gov.om  
    Title: car 102  
-   Link: <a href="https://www.caa.gov.om/upload/files/regulations/civil-aviation-regulation/car-102.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.om/upload/files/regulations/civil-aviation-regulation/car-102.pdf</a>  
+   Link:<a href="https://www.caa.gov.om/upload/files/regulations/civil-aviation-regulation/car-102.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.om/upload/files/regulations/civil-aviation-regulation/car-102.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: omanobserver.om  
    Title: Authorities urge public to report suspicious flying objects  
-   Link: <a href="https://www.omanobserver.om/article/1187384/oman/community/authorities-urge-public-to-report-suspicious-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.omanobserver.om/article/1187384/oman/community/authorities-urge-public-to-report-suspicious-flying-objects</a>  
+   Link:<a href="https://www.omanobserver.om/article/1187384/oman/community/authorities-urge-public-to-report-suspicious-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.omanobserver.om/article/1187384/oman/community/authorities-urge-public-to-report-suspicious-flying-objects</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: war.gov  
    Title: dow uap d63 mission report strait of hormuz october 2020  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf</a>  
    Published: october 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
    Title: dow uap d65 mission report persian gulf july 2020  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d65-mission-report-persian-gulf-july-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d65-mission-report-persian-gulf-july-2020.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d65-mission-report-persian-gulf-july-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d65-mission-report-persian-gulf-july-2020.pdf</a>  
    Published: july 2020  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: war.gov  
    Title: this week in dow honoring heroes patrolling oceans uncovering truth out there  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/4418161/this-week-in-dow-honoring-heroes-patrolling-oceans-uncovering-truth-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/4418161/this-week-in-dow-honoring-heroes-patrolling-oceans-uncovering-truth-out-there/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/4418161/this-week-in-dow-honoring-heroes-patrolling-oceans-uncovering-truth-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/4418161/this-week-in-dow-honoring-heroes-patrolling-oceans-uncovering-truth-out-there/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/News/Tag/81196/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Tag/81196/</a>  
+   Link:<a href="https://www.war.gov/News/Tag/81196/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Tag/81196/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
    Title: dow uap d61 mission report persian gulf august 2020  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf</a>  
    Published: august 2020  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=186490" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186490</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=186490" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186490</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e202101" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e202101</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=e202101" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e202101</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: muscatdaily.com  
    Title: us pentagon releases trove of classified ufo files  
-   Link: <a href="https://www.muscatdaily.com/2026/05/09/us-pentagon-releases-trove-of-classified-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.muscatdaily.com/2026/05/09/us-pentagon-releases-trove-of-classified-ufo-files/</a>  
+   Link:<a href="https://www.muscatdaily.com/2026/05/09/us-pentagon-releases-trove-of-classified-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.muscatdaily.com/2026/05/09/us-pentagon-releases-trove-of-classified-ufo-files/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: drones.gov.cy  
-   Link: <a href="https://drones.gov.cy/" target="_blank" rel="noopener noreferrer nofollow">https://drones.gov.cy/</a>  
+   Link:<a href="https://drones.gov.cy/" target="_blank" rel="noopener noreferrer nofollow">https://drones.gov.cy/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: omanobserver.om  
    Title: perseid meteor shower to peak on monday evening in oman  
-   Link: <a href="https://www.omanobserver.om/article/1157495/oman/environment/perseid-meteor-shower-to-peak-on-monday-evening-in-oman" target="_blank" rel="noopener noreferrer nofollow">https://www.omanobserver.om/article/1157495/oman/environment/perseid-meteor-shower-to-peak-on-monday-evening-in-oman</a>  
+   Link:<a href="https://www.omanobserver.om/article/1157495/oman/environment/perseid-meteor-shower-to-peak-on-monday-evening-in-oman" target="_blank" rel="noopener noreferrer nofollow">https://www.omanobserver.om/article/1157495/oman/environment/perseid-meteor-shower-to-peak-on-monday-evening-in-oman</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: omanobserver.om  
    Title: following directives on not using drones is national responsibility caa  
-   Link: <a href="https://www.omanobserver.om/article/1186888/oman/community/following-directives-on-not-using-drones-is-national-responsibility-caa" target="_blank" rel="noopener noreferrer nofollow">https://www.omanobserver.om/article/1186888/oman/community/following-directives-on-not-using-drones-is-national-responsibility-caa</a>  
+   Link:<a href="https://www.omanobserver.om/article/1186888/oman/community/following-directives-on-not-using-drones-is-national-responsibility-caa" target="_blank" rel="noopener noreferrer nofollow">https://www.omanobserver.om/article/1186888/oman/community/following-directives-on-not-using-drones-is-national-responsibility-caa</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: thenationalnews.com  
-   Link: <a href="https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/</a>  
+   Link:<a href="https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: gulfnews.com  
    Title: Gulf News What was that mysterious hole in the UAE sky?  
-   Link: <a href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732</a>  
+   Link:<a href="https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/weather/what-was-that-mysterious-hole-in-the-uae-sky-1.1552885434732</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: thenationalnews.com  
    Title: The National Aliens over Al Ain? Residents spot rarely seen 'fallstreak  
-   Link: <a href="https://www.thenationalnews.com/uae/aliens-over-al-ain-residents-spot-rarely-seen-fallstreak-hole-1.838371" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/uae/aliens-over-al-ain-residents-spot-rarely-seen-fallstreak-hole-1.838371</a>  
+   Link:<a href="https://www.thenationalnews.com/uae/aliens-over-al-ain-residents-spot-rarely-seen-fallstreak-hole-1.838371" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/uae/aliens-over-al-ain-residents-spot-rarely-seen-fallstreak-hole-1.838371</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Sy8odDQJqgg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sy8odDQJqgg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 DOW-UAP-PR41, Unresolved UAP Report, Middle East, 2020...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Sy8odDQJqgg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sy8odDQJqgg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 DOW-UAP-PR41, Unresolved UAP Report, Middle East, 2020...</p></details>
    Published: May 2020  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4pqtjE1U4ck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4pqtjE1U4ck</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 DOW-UAP-PR38, Unresolved UAP Report, Middle East, 2013...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4pqtjE1U4ck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4pqtjE1U4ck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 DOW-UAP-PR38, Unresolved UAP Report, Middle East, 2013...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: 16 Most Disturbing Videos From Pentagon UFO Release  
-   Link: <a href="https://www.youtube.com/watch?v=6dPNiN5nf0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6dPNiN5nf0E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6dPNiN5nf0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6dPNiN5nf0E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 DOW-UAP-PR36, Unresolved UAP Report, Middle East, May 2020...</p></details>
    Published: May 2020  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: All the videos from Pentagon's first batch of UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 16 Most Disturbing Videos From Pentagon UFO Release...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 16 Most Disturbing Videos From Pentagon UFO Release...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tama.519984/videos/a-ufo-suddenly-appeared-in-the-middle-of-the-daytime-sky-%EF%B8%8Fpeople-were-shocked-as/1672011893834277/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tama.519984/videos/a-ufo-suddenly-appeared-in-the-middle-of-the-daytime-sky-%EF%B8%8Fpeople-were-shocked-as/1672011893834277/</a>  
+   Link:<a href="https://www.facebook.com/tama.519984/videos/a-ufo-suddenly-appeared-in-the-middle-of-the-daytime-sky-%EF%B8%8Fpeople-were-shocked-as/1672011893834277/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tama.519984/videos/a-ufo-suddenly-appeared-in-the-middle-of-the-daytime-sky-%EF%B8%8Fpeople-were-shocked-as/1672011893834277/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYGgcyhFoUO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYGgcyhFoUO/</a>  
+   Link:<a href="https://www.instagram.com/p/DYGgcyhFoUO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYGgcyhFoUO/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWZYdsHgfu8/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWZYdsHgfu8/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DWZYdsHgfu8/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWZYdsHgfu8/?hl=en</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ammar.sakaji.3/photos/d41d8cd9/26733922599602826/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ammar.sakaji.3/photos/d41d8cd9/26733922599602826/</a>  
+   Link:<a href="https://www.facebook.com/ammar.sakaji.3/photos/d41d8cd9/26733922599602826/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ammar.sakaji.3/photos/d41d8cd9/26733922599602826/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OmanWeatherUpdates/posts/any-sighting-of-an-unidentified-drone-or-suspicion-object-in-your-vicinity-is-a-/1329874199169671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OmanWeatherUpdates/posts/any-sighting-of-an-unidentified-drone-or-suspicion-object-in-your-vicinity-is-a-/1329874199169671/</a>  
+   Link:<a href="https://www.facebook.com/OmanWeatherUpdates/posts/any-sighting-of-an-unidentified-drone-or-suspicion-object-in-your-vicinity-is-a-/1329874199169671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OmanWeatherUpdates/posts/any-sighting-of-an-unidentified-drone-or-suspicion-object-in-your-vicinity-is-a-/1329874199169671/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/arabiandailys/posts/ibrahim-bin-mohammed-al-mahrouqi-deputy-chairman-of-the-board-of-the-oman-societ/1390035342737064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arabiandailys/posts/ibrahim-bin-mohammed-al-mahrouqi-deputy-chairman-of-the-board-of-the-oman-societ/1390035342737064/</a>
+   Link:<a href="https://www.facebook.com/arabiandailys/posts/ibrahim-bin-mohammed-al-mahrouqi-deputy-chairman-of-the-board-of-the-oman-societ/1390035342737064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/arabiandailys/posts/ibrahim-bin-mohammed-al-mahrouqi-deputy-chairman-of-the-board-of-the-oman-societ/1390035342737064/</a>

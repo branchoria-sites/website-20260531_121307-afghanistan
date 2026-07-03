@@ -251,13 +251,13 @@ image: /assets/images/Somalia_4dfdf1_conflict_zone_skies_9ac21a-Illustration-1-s
 Somalia’s UFO reports are unusually difficult to assess because they emerge from one of the most complex airspaces in Africa. Civilian aircraft, military flights, foreign surveillance platforms, armed drones, humanitarian operations, satellites, atmospheric events and conflict-related restrictions all occupy the same visual environment. In practice, that means a witness may genuinely see something unusual without that object being mysterious in any extraordinary sense.
 
 <img src="{{ "/assets/images/Somalia_4dfdf1_conflict_zone_skies_9ac21a-Illustration-1-dark.svg" | relative_url }}" alt="Busy Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Somalia_4dfdf1_conflict_zone_skies_9ac21a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Somalia_4dfdf1_conflict_zone_skies_9ac21a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every report has an obvious explanation. It means that the threshold for treating a sighting as evidence of an unknown phenomenon must be higher than in places with stable air-traffic records, dense radar coverage and reliable local investigation networks. Somalia’s skies are busy, fragmented and often poorly documented, creating ideal conditions for misidentifications, rumours and unresolved reports. The result is a UFO landscape where uncertainty itself becomes part of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/somalia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-snippet">Safe AirspaceSomalia – Safe AirspaceOct 2022: The Somalian government issued a warning that HCMM/Mogadishu airport may be targeted by mil...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2017-05r19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: easa.europa.eu">[EASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">easa.europa.eu</span><span class="citation-popover-title">EASAAirspace of Somalia</span><span class="citation-popover-snippet">European UnionConflict Zones Information · Conflict Zones Advisories; Airspace of Somalia... FSTDIS - Flight Simulation Training...</span></span></span>
+This does not mean every report has an obvious explanation. It means that the threshold for treating a sighting as evidence of an unknown phenomenon must be higher than in places with stable air-traffic records, dense radar coverage and reliable local investigation networks. Somalia’s skies are busy, fragmented and often poorly documented, creating ideal conditions for misidentifications, rumours and unresolved reports. The result is a UFO landscape where uncertainty itself becomes part of the story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/somalia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-snippet">Safe AirspaceSomalia – Safe AirspaceOct 2022: The Somalian government issued a warning that HCMM/Mogadishu airport may be targeted by mil...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2017-05r19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: easa.europa.eu">[EASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">easa.europa.eu</span><span class="citation-popover-title">EASAAirspace of Somalia</span><span class="citation-popover-snippet">European UnionConflict Zones Information · Conflict Zones Advisories; Airspace of Somalia... FSTDIS - Flight Simulation Training...</span></span></span>
 
 ## Why Somalia's Skies Are Hard To Read
 
 Many countries with notable UFO histories also have extensive aviation records, weather archives, press coverage and government documentation. Somalia often lacks those layers of verification. Reports may originate from remote regions, conflict zones or areas with limited communications infrastructure. By the time a sighting reaches wider media, crucial details such as direction of travel, altitude, duration and independent witness accounts may already be missing.
 
-At the same time, Somali airspace has become increasingly crowded with activity that can appear strange from the ground. International military missions, surveillance aircraft, helicopters, intelligence platforms and unmanned aerial vehicles have operated in and around Somalia for years. The United Nations Monitoring Group documented repeated reports of foreign aircraft and UAV activity, including operations that local observers could not easily identify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.keydmedia.net/news/somali_airspace_routinely_violated_by_foreign_uavs_and_other_aircraft_un" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keydmedia.net">[KEYDMEDIA ONLINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keydmedia.net</span><span class="citation-popover-title">somali airspace routinely violated by foreign uavs and other aircraft un</span><span class="citation-popover-snippet">KEYDMEDIA ONLINESomali airspace routinely violated by foreign UAVs and...8 Aug 2012 — The United Nations has counted 64 reports of forei...</span></span></span>
+At the same time, Somali airspace has become increasingly crowded with activity that can appear strange from the ground. International military missions, surveillance aircraft, helicopters, intelligence platforms and unmanned aerial vehicles have operated in and around Somalia for years. The United Nations Monitoring Group documented repeated reports of foreign aircraft and UAV activity, including operations that local observers could not easily identify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.keydmedia.net/news/somali_airspace_routinely_violated_by_foreign_uavs_and_other_aircraft_un" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keydmedia.net">[KEYDMEDIA ONLINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keydmedia.net</span><span class="citation-popover-title">somali airspace routinely violated by foreign uavs and other aircraft un</span><span class="citation-popover-snippet">KEYDMEDIA ONLINESomali airspace routinely violated by foreign UAVs and...8 Aug 2012 — The United Nations has counted 64 reports of forei...</span></span></span>
 
 This combination creates a recurring problem: a genuine observation may be real, but the available evidence is often too weak to determine what was actually seen.
 
@@ -269,9 +269,9 @@ The single biggest factor complicating modern Somali UFO reports is the growth o
 
 Many people still imagine aircraft as large, noisy objects with visible navigation lights and predictable flight paths. Modern drones frequently violate those expectations. Surveillance drones may operate at night, maintain unusual flight patterns, appear nearly stationary, move without audible engine noise from a ground observer's perspective or display unfamiliar lighting configurations.
 
-International security operations in Somalia have involved reconnaissance flights, counter-insurgency surveillance and intelligence gathering for years. The UN Monitoring Group reported numerous instances of foreign UAVs and aircraft operating over Somalia, while also noting concerns about unidentified drone activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.keydmedia.net/news/somali_airspace_routinely_violated_by_foreign_uavs_and_other_aircraft_un" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keydmedia.net">[KEYDMEDIA ONLINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keydmedia.net</span><span class="citation-popover-title">somali airspace routinely violated by foreign uavs and other aircraft un</span><span class="citation-popover-snippet">KEYDMEDIA ONLINESomali airspace routinely violated by foreign UAVs and...8 Aug 2012 — The United Nations has counted 64 reports of forei...</span></span></span>
+International security operations in Somalia have involved reconnaissance flights, counter-insurgency surveillance and intelligence gathering for years. The UN Monitoring Group reported numerous instances of foreign UAVs and aircraft operating over Somalia, while also noting concerns about unidentified drone activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.keydmedia.net/news/somali_airspace_routinely_violated_by_foreign_uavs_and_other_aircraft_un" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keydmedia.net">[KEYDMEDIA ONLINE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keydmedia.net</span><span class="citation-popover-title">somali airspace routinely violated by foreign uavs and other aircraft un</span><span class="citation-popover-snippet">KEYDMEDIA ONLINESomali airspace routinely violated by foreign UAVs and...8 Aug 2012 — The United Nations has counted 64 reports of forei...</span></span></span>
 
-Recent security developments have expanded drone use even further. African Union forces operating in Somalia have publicly increased drone training and surveillance capabilities, reflecting a broader shift towards unmanned monitoring technologies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://au-ssom.org/aussom-troops-in-jowhar-complete-drone-training-to-enhance-surveillance-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: au-ssom.org">[au-ssom.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">au-ssom.org</span><span class="citation-popover-snippet">AUSSOM troops in Jowhar complete drone training to...April 25, 2026 — 25 Apr 2026 — AUSSOM troops in Jowhar complete drone training to e...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
+Recent security developments have expanded drone use even further. African Union forces operating in Somalia have publicly increased drone training and surveillance capabilities, reflecting a broader shift towards unmanned monitoring technologies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://au-ssom.org/aussom-troops-in-jowhar-complete-drone-training-to-enhance-surveillance-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: au-ssom.org">[au-ssom.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">au-ssom.org</span><span class="citation-popover-snippet">AUSSOM troops in Jowhar complete drone training to...April 25, 2026 — 25 Apr 2026 — AUSSOM troops in Jowhar complete drone training to e...</span><span class="citation-popover-meta">Published: April 25, 2026</span></span></span>
 
 For a witness on the ground, especially in a rural area with little access to aviation information, a slow-moving illuminated drone can appear highly unusual. A surveillance platform circling at altitude may be interpreted as hovering. A distant drone illuminated by the setting sun can seem brighter than surrounding stars.
 
@@ -295,9 +295,9 @@ Objects returning from orbit can produce spectacular visual effects. Defunct sat
 
 To an observer unfamiliar with orbital re-entry, such events can resemble a crashing spacecraft or an extraordinary aerial phenomenon. Witnesses may report fire, strange shapes, changing colours or debris landing in remote terrain.
 
-The widely circulated 2007 [Buulo Burde]({{ 'buulo-burde/' | relative_url }}) incident illustrates this problem. Reports described a mysterious object resembling a satellite or UFO that reportedly landed in a rural area. Early accounts emphasised uncertainty rather than identification, with witnesses unsure whether the object was space-related, military or something else entirely. No robust public investigation, recovered-material analysis or official technical report emerged afterwards. The story therefore remains an example of how an unusual object can become attached to UFO narratives when verification mechanisms are weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200703270198.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">A Mysterious Aerial Device Falls in Somalia26 Mar 2007 — Mogadishu — A mysterious device looking like a satellite or UFO has landed and s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: somaliaonline.com">[Somalia Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">somaliaonline.com</span><span class="citation-popover-snippet">^^Somalis+Aliens+Camel-killed = one explosive stand-off!Read more...</span></span></span>
+The widely circulated 2007 [Buulo Burde]({{ 'buulo-burde/' | relative_url }}) incident illustrates this problem. Reports described a mysterious object resembling a satellite or UFO that reportedly landed in a rural area. Early accounts emphasised uncertainty rather than identification, with witnesses unsure whether the object was space-related, military or something else entirely. No robust public investigation, recovered-material analysis or official technical report emerged afterwards. The story therefore remains an example of how an unusual object can become attached to UFO narratives when verification mechanisms are weak.<span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200703270198.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">A Mysterious Aerial Device Falls in Somalia26 Mar 2007 — Mogadishu — A mysterious device looking like a satellite or UFO has landed and s...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: somaliaonline.com">[Somalia Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">somaliaonline.com</span><span class="citation-popover-snippet">^^Somalis+Aliens+Camel-killed = one explosive stand-off!Read more...</span></span></span>
 
-The absence of follow-up evidence is significant. A genuine crash involving exotic technology would normally produce a chain of documentation, photographs, expert analysis or official responses. The Somalia case instead entered folklore-like circulation, repeatedly cited but rarely substantiated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200703270198.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">A Mysterious Aerial Device Falls in Somalia26 Mar 2007 — Mogadishu — A mysterious device looking like a satellite or UFO has landed and s...</span></span></span>
+The absence of follow-up evidence is significant. A genuine crash involving exotic technology would normally produce a chain of documentation, photographs, expert analysis or official responses. The Somalia case instead entered folklore-like circulation, repeatedly cited but rarely substantiated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://allafrica.com/stories/200703270198.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allafrica.com">[allAfrica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allafrica.com</span><span class="citation-popover-snippet">A Mysterious Aerial Device Falls in Somalia26 Mar 2007 — Mogadishu — A mysterious device looking like a satellite or UFO has landed and s...</span></span></span>
 
 <img src="{{ "/assets/images/Somalia_4dfdf1_conflict_zone_skies_9ac21a-Illustration-2-dark.svg" | relative_url }}" alt="Busy Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Somalia_4dfdf1_conflict_zone_skies_9ac21a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Somalia_4dfdf1_conflict_zone_skies_9ac21a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Satellite trains and modern sky confusion
@@ -312,7 +312,7 @@ Because many Somali sightings lack precise timestamps, investigators often canno
 
 A UFO report in Somalia does not exist in the same environment as a UFO report in a heavily monitored Western city.
 
-European aviation authorities continue to classify much of Somali airspace as hazardous because of armed conflict, military operations and the potential presence of anti-aircraft weaponry. Advisories warn operators about risks below certain flight levels, reflecting the fact that multiple actors may be active in the same airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2017-05r19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: easa.europa.eu">[EASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">easa.europa.eu</span><span class="citation-popover-title">EASAAirspace of Somalia</span><span class="citation-popover-snippet">European UnionConflict Zones Information · Conflict Zones Advisories; Airspace of Somalia... FSTDIS - Flight Simulation Training...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/somalia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-snippet">Safe AirspaceSomalia – Safe AirspaceOct 2022: The Somalian government issued a warning that HCMM/Mogadishu airport may be targeted by mil...</span></span></span>
+European aviation authorities continue to classify much of Somali airspace as hazardous because of armed conflict, military operations and the potential presence of anti-aircraft weaponry. Advisories warn operators about risks below certain flight levels, reflecting the fact that multiple actors may be active in the same airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2017-05r19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: easa.europa.eu">[EASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">easa.europa.eu</span><span class="citation-popover-title">EASAAirspace of Somalia</span><span class="citation-popover-snippet">European UnionConflict Zones Information · Conflict Zones Advisories; Airspace of Somalia... FSTDIS - Flight Simulation Training...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/somalia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-snippet">Safe AirspaceSomalia – Safe AirspaceOct 2022: The Somalian government issued a warning that HCMM/Mogadishu airport may be targeted by mil...</span></span></span>
 
 That context affects UFO assessment in several ways:
 
@@ -334,9 +334,9 @@ The result is that investigators often face a paradox. The more militarised an a
 
 Somalia's UFO environment is shaped not only by objects in the sky but also by disputes over who controls information about the sky.
 
-Control of the Mogadishu Flight Information Region has been politically significant, with Somalia restoring direct management of its airspace after decades of external administration. More recent disputes involving Somaliland and competing aviation claims have added another layer of complexity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Somali_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Somali Civil Aviation Authority</span><span class="citation-popover-snippet">Somali Civil Aviation Authority</span></span></span> WardheerNews These disputes do not create UFOs <span class="citation-chip-wrap"><a class="citation-chip" href="https://wardheernews.com/hostile-territory-the-effects-of-somalia-and-somalilands-airspace-dispute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wardheernews.com">[wardheernews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wardheernews.com</span><span class="citation-popover-title">hostile territory the effects of somalia and somalilands airspace dispute</span><span class="citation-popover-snippet">The Effects Of Somalia and Somaliland&#x27;s Airspace Dispute2 Mar 2024 — The airspace over Somalia and the surrounding ocean is managed by th...</span></span></span>, but they can complicate the public understanding of aircraft movements, flight permissions and airspace authority. Conflicting information about who is operating where can leave witnesses with fewer reliable explanations for unusual aerial events.
+Control of the Mogadishu Flight Information Region has been politically significant, with Somalia restoring direct management of its airspace after decades of external administration. More recent disputes involving Somaliland and competing aviation claims have added another layer of complexity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Somali_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Somali Civil Aviation Authority</span><span class="citation-popover-snippet">Somali Civil Aviation Authority</span></span></span> WardheerNews These disputes do not create UFOs<span class="citation-chip-wrap"><a class="citation-chip" href="https://wardheernews.com/hostile-territory-the-effects-of-somalia-and-somalilands-airspace-dispute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wardheernews.com">[wardheernews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wardheernews.com</span><span class="citation-popover-title">hostile territory the effects of somalia and somalilands airspace dispute</span><span class="citation-popover-snippet">The Effects Of Somalia and Somaliland&#x27;s Airspace Dispute2 Mar 2024 — The airspace over Somalia and the surrounding ocean is managed by th...</span></span></span>, but they can complicate the public understanding of aircraft movements, flight permissions and airspace authority. Conflicting information about who is operating where can leave witnesses with fewer reliable explanations for unusual aerial events.
 
-The circulation of false or misleading aviation claims illustrates the problem. Fact-checkers have had to address fabricated documents concerning airspace control and aviation authority, showing how quickly aviation-related rumours can spread in an already confusing information environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://africacheck.org/fact-checks/meta-programme-fact-checks/ignore-fake-letter-claiming-international-civil-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africacheck.org">[Africa Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africacheck.org</span><span class="citation-popover-title">ignore fake letter claiming international civil aviation</span><span class="citation-popover-snippet">Africa CheckIgnore fake letter claiming International Civil Aviation...6 Mar 2026 — IN SHORT: A circulating document claims that the Int...</span></span></span>
+The circulation of false or misleading aviation claims illustrates the problem. Fact-checkers have had to address fabricated documents concerning airspace control and aviation authority, showing how quickly aviation-related rumours can spread in an already confusing information environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://africacheck.org/fact-checks/meta-programme-fact-checks/ignore-fake-letter-claiming-international-civil-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africacheck.org">[Africa Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africacheck.org</span><span class="citation-popover-title">ignore fake letter claiming international civil aviation</span><span class="citation-popover-snippet">Africa CheckIgnore fake letter claiming International Civil Aviation...6 Mar 2026 — IN SHORT: A circulating document claims that the Int...</span></span></span>
 
 ## What Investigators Should Assume First
 
@@ -350,7 +350,7 @@ A strong investigation would attempt to rule out:
 
 1. Commercial or humanitarian aircraft.
 2. Military aircraft and helicopters.
-3. Surveillance drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gnet-research.org/2023/07/05/drone-use-by-violent-extremist-organisations-in-africa-a-case-study-of-al-shabaab/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gnet-research.org">[gnet-research.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gnet-research.org</span><span class="citation-popover-snippet">Drone Use by Violent Extremist Organisations in Africa5 Jul 2023 — Limited available information suggests that al-Shabaab has embraced th...</span></span></span>
+3. Surveillance drones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gnet-research.org/2023/07/05/drone-use-by-violent-extremist-organisations-in-africa-a-case-study-of-al-shabaab/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gnet-research.org">[gnet-research.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gnet-research.org</span><span class="citation-popover-snippet">Drone Use by Violent Extremist Organisations in Africa5 Jul 2023 — Limited available information suggests that al-Shabaab has embraced th...</span></span></span>
 4. Satellite passes and satellite trains.
 5. Rocket or satellite re-entry debris.
 6. Meteors and atmospheric phenomena.
@@ -373,194 +373,194 @@ For researchers comparing Somalia with other national UFO archives, that distinc
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4pqtjE1U4ck" title="DOW-UAP-PR41, Unresolved UAP Report, Middle East, 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4pqtjE1U4ck" target="_blank" rel="noopener noreferrer">DOW-UAP-PR41, Unresolved UAP Report, Middle East, 2020</a></p><p class="youtube-embed-meta">Channel: Matt Novak &middot; Views: 610 &middot; Uploaded: May 2026 &middot; Length: 1 minute 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4pqtjE1U4ck" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4pqtjE1U4ck">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Somalia&#x27;s Skies Are Hard To Read. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Somalia&#x27;s Skies Are Hard To Read. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Addresses aviation-related sightings and documented reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses aviation-related sightings and documented reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Strong fit for evaluating aerial observations and misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for evaluating aerial observations and misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful for understanding how aerial incidents are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how aerial incidents are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for advanced aircraft and aerospace misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for advanced aircraft and aerospace misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-somalia-s-skies-are-hard-to-read-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-somalia-s-skies-are-hard-to-read-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ For researchers comparing Somalia with other national UFO archives, that distinc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ For researchers comparing Somalia with other national UFO archives, that distinc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ For researchers comparing Somalia with other national UFO archives, that distinc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ For researchers comparing Somalia with other national UFO archives, that distinc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ For researchers comparing Somalia with other national UFO archives, that distinc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,111 +763,110 @@ For researchers comparing Somalia with other national UFO archives, that distinc
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: easa.europa.eu  
    Title: EASAAirspace of Somalia  
-   Link: <a href="https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2017-05r19" target="_blank" rel="noopener noreferrer nofollow">https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2017-05r19</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>European UnionConflict Zones Information · Conflict Zones Advisories; Airspace of Somalia... FSTDIS - Flight Simulation Training...</p></details>
+   Link:<a href="https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2017-05r19" target="_blank" rel="noopener noreferrer nofollow">https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2017-05r19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European UnionConflict Zones Information · Conflict Zones Advisories; Airspace of Somalia... FSTDIS - Flight Simulation Training...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: keydmedia.net  
    Title: somali airspace routinely violated by foreign uavs and other aircraft un  
-   Link: <a href="https://www.keydmedia.net/news/somali_airspace_routinely_violated_by_foreign_uavs_and_other_aircraft_un" target="_blank" rel="noopener noreferrer nofollow">https://www.keydmedia.net/news/somali_airspace_routinely_violated_by_foreign_uavs_and_other_aircraft_un</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KEYDMEDIA ONLINESomali airspace routinely violated by foreign UAVs and...8 Aug 2012 — The United Nations has counted 64 reports of forei...</p></details>
+   Link:<a href="https://www.keydmedia.net/news/somali_airspace_routinely_violated_by_foreign_uavs_and_other_aircraft_un" target="_blank" rel="noopener noreferrer nofollow">https://www.keydmedia.net/news/somali_airspace_routinely_violated_by_foreign_uavs_and_other_aircraft_un</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KEYDMEDIA ONLINESomali airspace routinely violated by foreign UAVs and...8 Aug 2012 — The United Nations has counted 64 reports of forei...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: au-ssom.org  
-   Link: <a href="https://au-ssom.org/aussom-troops-in-jowhar-complete-drone-training-to-enhance-surveillance-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://au-ssom.org/aussom-troops-in-jowhar-complete-drone-training-to-enhance-surveillance-capabilities/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AUSSOM troops in Jowhar complete drone training to...April 25, 2026 — 25 Apr 2026 — AUSSOM troops in Jowhar complete drone training to e...</p></details>
+   Link:<a href="https://au-ssom.org/aussom-troops-in-jowhar-complete-drone-training-to-enhance-surveillance-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://au-ssom.org/aussom-troops-in-jowhar-complete-drone-training-to-enhance-surveillance-capabilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AUSSOM troops in Jowhar complete drone training to...April 25, 2026 — 25 Apr 2026 — AUSSOM troops in Jowhar complete drone training to e...</p></details>
    Published: April 25, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: allafrica.com  
-   Link: <a href="https://allafrica.com/stories/200703270198.html" target="_blank" rel="noopener noreferrer nofollow">https://allafrica.com/stories/200703270198.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Mysterious Aerial Device Falls in Somalia26 Mar 2007 — Mogadishu — A mysterious device looking like a satellite or UFO has landed and s...</p></details>
+   Link:<a href="https://allafrica.com/stories/200703270198.html" target="_blank" rel="noopener noreferrer nofollow">https://allafrica.com/stories/200703270198.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Mysterious Aerial Device Falls in Somalia26 Mar 2007 — Mogadishu — A mysterious device looking like a satellite or UFO has landed and s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Somali Civil Aviation Authority  
-   Link: <a href="https://en.wikipedia.org/wiki/Somali_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Somali_Civil_Aviation_Authority</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Somali_Civil_Aviation_Authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Somali_Civil_Aviation_Authority</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wardheernews.com  
    Title: hostile territory the effects of somalia and somalilands airspace dispute  
-   Link: <a href="https://wardheernews.com/hostile-territory-the-effects-of-somalia-and-somalilands-airspace-dispute/" target="_blank" rel="noopener noreferrer nofollow">https://wardheernews.com/hostile-territory-the-effects-of-somalia-and-somalilands-airspace-dispute/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects Of Somalia and Somaliland&#x27;s Airspace Dispute2 Mar 2024 — The airspace over Somalia and the surrounding ocean is managed by th...</p></details>
+   Link:<a href="https://wardheernews.com/hostile-territory-the-effects-of-somalia-and-somalilands-airspace-dispute/" target="_blank" rel="noopener noreferrer nofollow">https://wardheernews.com/hostile-territory-the-effects-of-somalia-and-somalilands-airspace-dispute/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects Of Somalia and Somaliland&#x27;s Airspace Dispute2 Mar 2024 — The airspace over Somalia and the surrounding ocean is managed by th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: safeairspace.net  
-   Link: <a href="https://safeairspace.net/somalia/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/somalia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe AirspaceSomalia – Safe AirspaceOct 2022: The Somalian government issued a warning that HCMM/Mogadishu airport may be targeted by mil...</p></details>
+   Link:<a href="https://safeairspace.net/somalia/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/somalia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safe AirspaceSomalia – Safe AirspaceOct 2022: The Somalian government issued a warning that HCMM/Mogadishu airport may be targeted by mil...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: somaliaonline.com  
-   Link: <a href="https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>^^Somalis+Aliens+Camel-killed = one explosive stand-off!Read more...</p></details>
+   Link:<a href="https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.somaliaonline.com/community/topic/16510-unidentified-flying-object-ufo-has-landed-in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>^^Somalis+Aliens+Camel-killed = one explosive stand-off!Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: africacheck.org  
    Title: ignore fake letter claiming international civil aviation  
-   Link: <a href="https://africacheck.org/fact-checks/meta-programme-fact-checks/ignore-fake-letter-claiming-international-civil-aviation" target="_blank" rel="noopener noreferrer nofollow">https://africacheck.org/fact-checks/meta-programme-fact-checks/ignore-fake-letter-claiming-international-civil-aviation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Africa CheckIgnore fake letter claiming International Civil Aviation...6 Mar 2026 — IN SHORT: A circulating document claims that the Int...</p></details>
+   Link:<a href="https://africacheck.org/fact-checks/meta-programme-fact-checks/ignore-fake-letter-claiming-international-civil-aviation" target="_blank" rel="noopener noreferrer nofollow">https://africacheck.org/fact-checks/meta-programme-fact-checks/ignore-fake-letter-claiming-international-civil-aviation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Africa CheckIgnore fake letter claiming International Civil Aviation...6 Mar 2026 — IN SHORT: A circulating document claims that the Int...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DK_XYkEtFc3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DK_XYkEtFc3/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 An Alien Object in the Sky — The Buga Sphere 👁️ In the...UFO sighting, alien technology, mysterious object, sky phenomenon, unknown fl...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DK_XYkEtFc3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DK_XYkEtFc3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 An Alien Object in the Sky — The Buga Sphere 👁️ In the...UFO sighting, alien technology, mysterious object, sky phenomenon, unknown fl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gnet-research.org  
-   Link: <a href="https://gnet-research.org/2023/07/05/drone-use-by-violent-extremist-organisations-in-africa-a-case-study-of-al-shabaab/" target="_blank" rel="noopener noreferrer nofollow">https://gnet-research.org/2023/07/05/drone-use-by-violent-extremist-organisations-in-africa-a-case-study-of-al-shabaab/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Use by Violent Extremist Organisations in Africa5 Jul 2023 — Limited available information suggests that al-Shabaab has embraced th...</p></details>
+   Link:<a href="https://gnet-research.org/2023/07/05/drone-use-by-violent-extremist-organisations-in-africa-a-case-study-of-al-shabaab/" target="_blank" rel="noopener noreferrer nofollow">https://gnet-research.org/2023/07/05/drone-use-by-violent-extremist-organisations-in-africa-a-case-study-of-al-shabaab/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Use by Violent Extremist Organisations in Africa5 Jul 2023 — Limited available information suggests that al-Shabaab has embraced th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: somaliguardian.com  
    Title: somalia bans uavs near mogadishu airport over fear of drone attacks  
-   Link: <a href="https://www.somaliguardian.com/news/somalia-news/somalia-bans-uavs-near-mogadishu-airport-over-fear-of-drone-attacks/" target="_blank" rel="noopener noreferrer nofollow">https://www.somaliguardian.com/news/somalia-news/somalia-bans-uavs-near-mogadishu-airport-over-fear-of-drone-attacks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Somalia bans UAVs near Mogadishu airport over fear...14 Oct 2024 — MOGADISHU (Somaliguardian) – Somalia&#x27;s Civil Aviation Agency has impo...</p></details>
+   Link:<a href="https://www.somaliguardian.com/news/somalia-news/somalia-bans-uavs-near-mogadishu-airport-over-fear-of-drone-attacks/" target="_blank" rel="noopener noreferrer nofollow">https://www.somaliguardian.com/news/somalia-news/somalia-bans-uavs-near-mogadishu-airport-over-fear-of-drone-attacks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Somalia bans UAVs near Mogadishu airport over fear...14 Oct 2024 — MOGADISHU (Somaliguardian) – Somalia&#x27;s Civil Aviation Agency has impo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: en.kaabtv.com  
-   Link: <a href="https://en.kaabtv.com/somalia-airspace-risk-briefing-heightened-threats-to-civil-aviation-and-ground-operations/" target="_blank" rel="noopener noreferrer nofollow">https://en.kaabtv.com/somalia-airspace-risk-briefing-heightened-threats-to-civil-aviation-and-ground-operations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kaab TVSomalia Airspace Risk Briefing: Heightened Threats to...27 Oct 2025 — Threats stem from potential use of anti-aircraft weapons...</p></details>
+   Link:<a href="https://en.kaabtv.com/somalia-airspace-risk-briefing-heightened-threats-to-civil-aviation-and-ground-operations/" target="_blank" rel="noopener noreferrer nofollow">https://en.kaabtv.com/somalia-airspace-risk-briefing-heightened-threats-to-civil-aviation-and-ground-operations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kaab TVSomalia Airspace Risk Briefing: Heightened Threats to...27 Oct 2025 — Threats stem from potential use of anti-aircraft weapons...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: x.com  
-   Link: <a href="https://x.com/HarunMaruf/status/1988235318802231665" target="_blank" rel="noopener noreferrer nofollow">https://x.com/HarunMaruf/status/1988235318802231665</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>onal control and over the Mogadishu Flight Information Region;...Read more...</p></details>
+   Link:<a href="https://x.com/HarunMaruf/status/1988235318802231665" target="_blank" rel="noopener noreferrer nofollow">https://x.com/HarunMaruf/status/1988235318802231665</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>onal control and over the Mogadishu Flight Information Region;...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HornDiplomatMedia/posts/breaking-somaliland-takes-full-control-of-its-airspacethe-republic-of-somaliland/1402566111872600/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HornDiplomatMedia/posts/breaking-somaliland-takes-full-control-of-its-airspacethe-republic-of-somaliland/1402566111872600/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing directly with an aircraft, instructing it to get authorization...</p></details>
+   Link:<a href="https://www.facebook.com/HornDiplomatMedia/posts/breaking-somaliland-takes-full-control-of-its-airspacethe-republic-of-somaliland/1402566111872600/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HornDiplomatMedia/posts/breaking-somaliland-takes-full-control-of-its-airspacethe-republic-of-somaliland/1402566111872600/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing directly with an aircraft, instructing it to get authorization...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: africacenter.org  
    Title: drone proliferation africa destabilizing  
-   Link: <a href="https://africacenter.org/spotlight/drone-proliferation-africa-destabilizing/" target="_blank" rel="noopener noreferrer nofollow">https://africacenter.org/spotlight/drone-proliferation-africa-destabilizing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Drone Proliferation Marks Destabilizing Shift in...21 Apr 2025 — A revolution in unmanned drone systems is reshaping conflicts...</p></details>
+   Link:<a href="https://africacenter.org/spotlight/drone-proliferation-africa-destabilizing/" target="_blank" rel="noopener noreferrer nofollow">https://africacenter.org/spotlight/drone-proliferation-africa-destabilizing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military Drone Proliferation Marks Destabilizing Shift in...21 Apr 2025 — A revolution in unmanned drone systems is reshaping conflicts...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: leonardo.com  
    Title: ComLDO LeadInSky Ginevra 08 03 2023 ENG  
-   Link: <a href="https://www.leonardo.com/documents/15646808/24907750/ComLDO_LeadInSky_Ginevra_08_03_2023_ENG.pdf?t=1678281837846" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/documents/15646808/24907750/ComLDO_LeadInSky_Ginevra_08_03_2023_ENG.pdf?t=1678281837846</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo&#x27;s ATC systems to optimise management of...8 Mar 2023 — With its capabilities, Leonardo plays a leading role in a series of prog...</p></details>
+   Link:<a href="https://www.leonardo.com/documents/15646808/24907750/ComLDO_LeadInSky_Ginevra_08_03_2023_ENG.pdf?t=1678281837846" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardo.com/documents/15646808/24907750/ComLDO_LeadInSky_Ginevra_08_03_2023_ENG.pdf?t=1678281837846</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo&#x27;s ATC systems to optimise management of...8 Mar 2023 — With its capabilities, Leonardo plays a leading role in a series of prog...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ssj.news  
    Title: us embassy orders evacuation in burundi  
-   Link: <a href="https://www.ssj.news/p/us-embassy-orders-evacuation-in-burundi" target="_blank" rel="noopener noreferrer nofollow">https://www.ssj.news/p/us-embassy-orders-evacuation-in-burundi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Embassy Orders Evacuation in Burundi Amid Escalating...The US Embassy in Burundi has ordered the departure of family members and authori...</p></details>
+   Link:<a href="https://www.ssj.news/p/us-embassy-orders-evacuation-in-burundi" target="_blank" rel="noopener noreferrer nofollow">https://www.ssj.news/p/us-embassy-orders-evacuation-in-burundi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Embassy Orders Evacuation in Burundi Amid Escalating...The US Embassy in Burundi has ordered the departure of family members and authori...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kormeeraha.com  
-   Link: <a href="https://www.kormeeraha.com/aerial-standoff-how-somalias-airspace-became-a-conflict-zone/" target="_blank" rel="noopener noreferrer nofollow">https://www.kormeeraha.com/aerial-standoff-how-somalias-airspace-became-a-conflict-zone/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tervention, threatens to undo years of aviation progress...</p></details>
+   Link:<a href="https://www.kormeeraha.com/aerial-standoff-how-somalias-airspace-became-a-conflict-zone/" target="_blank" rel="noopener noreferrer nofollow">https://www.kormeeraha.com/aerial-standoff-how-somalias-airspace-became-a-conflict-zone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tervention, threatens to undo years of aviation progress...</p></details>

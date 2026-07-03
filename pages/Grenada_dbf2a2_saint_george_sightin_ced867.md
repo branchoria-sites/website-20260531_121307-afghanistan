@@ -248,14 +248,14 @@ image: /assets/images/Grenada_dbf2a2_saint_george_sightin_ced867-Illustration-1-
 
 ## Introduction
 
-Saint George is the centre of most publicly discussed UFO reporting in Grenada, but that does not necessarily make it a genuine hotspot. The island’s capital sits on a dramatic coastline with long sea horizons, heavy marine traffic, changing weather, and strong visual contrasts between dark water and bright lights. Those conditions make aerial observations unusually difficult to judge, especially at night. Most accessible reports connected to Grenada involve distant lights over the sea, glowing objects near the horizon, or movements seen briefly from beaches, hillsides, or harbour areas rather than close-range encounters with strong physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Sir Eric Gairy, Prime Minister and Minister of Defense, Home, and... He mentioned cases of UFO sightings in Grenada. Secretary Vance rec...</span></span></span>
+Saint George is the centre of most publicly discussed UFO reporting in Grenada, but that does not necessarily make it a genuine hotspot. The island’s capital sits on a dramatic coastline with long sea horizons, heavy marine traffic, changing weather, and strong visual contrasts between dark water and bright lights. Those conditions make aerial observations unusually difficult to judge, especially at night. Most accessible reports connected to Grenada involve distant lights over the sea, glowing objects near the horizon, or movements seen briefly from beaches, hillsides, or harbour areas rather than close-range encounters with strong physical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Sir Eric Gairy, Prime Minister and Minister of Defense, Home, and... He mentioned cases of UFO sightings in Grenada. Secretary Vance rec...</span></span></span>
 
 <img src="{{ "/assets/images/Grenada_dbf2a2_saint_george_sightin_ced867-Illustration-1-dark.svg" | relative_url }}" alt="Saint George illustration 1" data-theme-src-dark="{{ "/assets/images/Grenada_dbf2a2_saint_george_sightin_ced867-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Grenada_dbf2a2_saint_george_sightin_ced867-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because Saint George illustrates a wider problem in Caribbean UFO reporting: a location can generate repeated stories without producing evidence strong enough to separate unusual phenomena from ordinary but hard-to-identify coastal lights. In Grenada’s case, the available record is thin, fragmented, and heavily shaped by anecdote rather than systematic investigation.
 
 ## What the Accessible Reports Actually Describe
 
-Publicly available Grenadian UFO material is remarkably sparse compared with larger Caribbean countries. There are no widely recognised Grenadian equivalents to the Shag Harbour incident in Canada or major military radar cases elsewhere. Instead, references to sightings are usually broad and poorly documented. Even the most historically important source — Prime Minister Eric Gairy’s campaign for UN attention to UFOs in the late 1970s — referred generally to sightings in Grenada without providing a detailed public catalogue of cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Sir Eric Gairy, Prime Minister and Minister of Defense, Home, and... He mentioned cases of UFO sightings in Grenada. Secretary Vance rec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/photo/en/asset/oun7/oun7603835" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[UN Multimedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-snippet">UN MultimediaProposal to Appoint Expert Group to Study Nature and Origin...The Prime Minister of Grenada, Sir Eric Gairy, spoke at the S...</span></span></span>
+Publicly available Grenadian UFO material is remarkably sparse compared with larger Caribbean countries. There are no widely recognised Grenadian equivalents to the Shag Harbour incident in Canada or major military radar cases elsewhere. Instead, references to sightings are usually broad and poorly documented. Even the most historically important source — Prime Minister Eric Gairy’s campaign for UN attention to UFOs in the late 1970s — referred generally to sightings in Grenada without providing a detailed public catalogue of cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Sir Eric Gairy, Prime Minister and Minister of Defense, Home, and... He mentioned cases of UFO sightings in Grenada. Secretary Vance rec...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/photo/en/asset/oun7/oun7603835" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[UN Multimedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-snippet">UN MultimediaProposal to Appoint Expert Group to Study Nature and Origin...The Prime Minister of Grenada, Sir Eric Gairy, spoke at the S...</span></span></span>
 
 The few reports that circulate publicly tend to share several characteristics:
 
@@ -271,7 +271,7 @@ The few reports that circulate publicly tend to share several characteristics:
 
 This pattern is important because coastal viewing conditions can dramatically distort perception. A bright object far out at sea may appear suspended in the sky. A vessel changing direction can seem to accelerate unnaturally. Aircraft approaching from unusual angles over dark water can appear stationary before suddenly “moving” at high speed.
 
-Modern social-media-era posts from Grenada and neighbouring islands follow a similar pattern. Videos described as strange lights or UFOs often show isolated bright points without reliable scale or reference objects. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/HighStrangeness/comments/1nqu8hd/ufos_in_grenada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">UFOs in Grenada 🇬🇩?: r/HighStrangenessI was on vacation down here in the beautiful country of Grenada when I saw these little guys...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DYqLRV4iY0l/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram In several Caribbean cases]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">Strange Object spotted in sky!!</span><span class="citation-popover-snippet">Did you see it? Where?Grenada... this is very strange... first time... I&#x27;m seeing that. OCR... ufo sighting · rocket launch &amp;mi...</span></span></span>, commenters later suggested explanations including satellites, aircraft, drones, rockets, or atmospheric effects. That does not automatically debunk every report, but it highlights how quickly uncertain observations become framed as unexplained craft once they circulate online.
+Modern social-media-era posts from Grenada and neighbouring islands follow a similar pattern. Videos described as strange lights or UFOs often show isolated bright points without reliable scale or reference objects. Facebook<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/HighStrangeness/comments/1nqu8hd/ufos_in_grenada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">UFOs in Grenada 🇬🇩?: r/HighStrangenessI was on vacation down here in the beautiful country of Grenada when I saw these little guys...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DYqLRV4iY0l/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram In several Caribbean cases]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">Strange Object spotted in sky!!</span><span class="citation-popover-snippet">Did you see it? Where?Grenada... this is very strange... first time... I&#x27;m seeing that. OCR... ufo sighting · rocket launch &amp;mi...</span></span></span>, commenters later suggested explanations including satellites, aircraft, drones, rockets, or atmospheric effects. That does not automatically debunk every report, but it highlights how quickly uncertain observations become framed as unexplained craft once they circulate online.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_MegsssaC-A" title="Grenada - Sir Eric Gairy - UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_MegsssaC-A" target="_blank" rel="noopener noreferrer">Grenada - Sir Eric Gairy - UFOs</a></p><p class="youtube-embed-meta">Channel: mightysparrowaz &middot; Views: 5.8K &middot; Uploaded: January 2012 &middot; Length: 2 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_MegsssaC-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_MegsssaC-A">Open on YouTube</a></p></div></div></div>
 
@@ -316,7 +316,7 @@ In Saint George, this can produce several classic UFO-reporting triggers:
 
 </div>
 
-These effects are not unique to Grenada. Similar observational problems appear repeatedly in maritime UFO reports worldwide, especially in island environments where observers spend long periods looking across open water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eric_Gairy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eric Gairy</span><span class="citation-popover-snippet">Eric Gairy</span></span></span>
+These effects are not unique to Grenada. Similar observational problems appear repeatedly in maritime UFO reports worldwide, especially in island environments where observers spend long periods looking across open water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eric_Gairy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eric Gairy</span><span class="citation-popover-snippet">Eric Gairy</span></span></span>
 
 <img src="{{ "/assets/images/Grenada_dbf2a2_saint_george_sightin_ced867-Illustration-2-dark.svg" | relative_url }}" alt="Saint George illustration 2" data-theme-src-dark="{{ "/assets/images/Grenada_dbf2a2_saint_george_sightin_ced867-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Grenada_dbf2a2_saint_george_sightin_ced867-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Harbour Traffic Creates False Impressions
@@ -353,7 +353,7 @@ Strong UFO cases usually contain several reinforcing elements:
 
 </div>
 
-Grenadian coastal reports generally lack those features. Most are anecdotal recollections, short social-media clips, or second-hand retellings. Even references associated with Gairy’s political campaign did not produce a durable public archive of documented Saint George incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Sir Eric Gairy, Prime Minister and Minister of Defense, Home, and... He mentioned cases of UFO sightings in Grenada. Secretary Vance rec...</span></span></span>
+Grenadian coastal reports generally lack those features. Most are anecdotal recollections, short social-media clips, or second-hand retellings. Even references associated with Gairy’s political campaign did not produce a durable public archive of documented Saint George incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Sir Eric Gairy, Prime Minister and Minister of Defense, Home, and... He mentioned cases of UFO sightings in Grenada. Secretary Vance rec...</span></span></span>
 
 This creates a major credibility gap. A light that cannot be immediately identified is not automatically evidence of extraordinary technology. In coastal environments especially, uncertainty is common.
 
@@ -363,7 +363,7 @@ Another issue is the absence of sustained investigative infrastructure. Grenada 
 
 ## The Eric Gairy Effect on Local Interpretation
 
-Saint George’s UFO reputation is also shaped by politics and cultural memory. Eric Gairy’s international UFO advocacy gave Grenada a lasting symbolic link with the subject. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Sir Eric Gairy, Prime Minister and Minister of Defense, Home, and... He mentioned cases of UFO sightings in Grenada. Secretary Vance rec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/photo/en/asset/oun7/oun7603835" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[UN Multimedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-snippet">UN MultimediaProposal to Appoint Expert Group to Study Nature and Origin...The Prime Minister of Grenada, Sir Eric Gairy, spoke at the S...</span></span></span>
+Saint George’s UFO reputation is also shaped by politics and cultural memory. Eric Gairy’s international UFO advocacy gave Grenada a lasting symbolic link with the subject.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Sir Eric Gairy, Prime Minister and Minister of Defense, Home, and... He mentioned cases of UFO sightings in Grenada. Secretary Vance rec...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/photo/en/asset/oun7/oun7603835" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[UN Multimedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-snippet">UN MultimediaProposal to Appoint Expert Group to Study Nature and Origin...The Prime Minister of Grenada, Sir Eric Gairy, spoke at the S...</span></span></span>
 
 That connection can influence how later sightings are interpreted. Once a place gains a reputation for unexplained aerial phenomena, ordinary ambiguous observations may be more readily framed as UFOs. In Grenada, this effect is amplified by the contrast between the country’s tiny number of documented cases and its unusually prominent place in UN UFO history.
 
@@ -401,194 +401,194 @@ That does not make every sighting meaningless. It does mean the location is bett
 Saint George remains important within Grenada’s UFO story because it is where most public observations, rumours, and later retellings converge. Yet the deeper pattern is not one of extraordinary evidence emerging from the harbour skyline. It is the recurring challenge of interpreting distant lights over tropical coastal water with limited observational controls.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Saint George UFO Reports a Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Saint George UFO Reports a Hotspot?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts stronger documented cases against weaker anecdotal sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts stronger documented cases against weaker anecdotal sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers evaluate weak and ambiguous sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate weak and ambiguous sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Travis Walton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+</h4>
+<p class="fr-book-author">By Travis Walton</p>
         
-        <p class="fr-book-desc">Relevant to hotspot narratives and repeated reporting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to hotspot narratives and repeated reporting patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
+</h4>
+<p class="fr-book-author">By John Keel</p>
         
-        <p class="fr-book-desc">Explores recurring witness interpretations of unusual aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recurring witness interpretations of unusual aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-saint-george-ufo-reports-a-hotspot-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-saint-george-ufo-reports-a-hotspot-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ Saint George remains important within Grenada’s UFO story because it is where 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ Saint George remains important within Grenada’s UFO story because it is where 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ Saint George remains important within Grenada’s UFO story because it is where 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -708,7 +708,7 @@ Saint George remains important within Grenada’s UFO story because it is where 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -753,7 +753,7 @@ Saint George remains important within Grenada’s UFO story because it is where 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,157 +791,156 @@ Saint George remains important within Grenada’s UFO story because it is where 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Eric Gairy  
-   Link: <a href="https://en.wikipedia.org/wiki/Eric_Gairy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eric_Gairy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eric_Gairy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eric_Gairy</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1nqu8hd/ufos_in_grenada/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1nqu8hd/ufos_in_grenada/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Grenada 🇬🇩?: r/HighStrangenessI was on vacation down here in the beautiful country of Grenada when I saw these little guys...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1nqu8hd/ufos_in_grenada/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1nqu8hd/ufos_in_grenada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Grenada 🇬🇩?: r/HighStrangenessI was on vacation down here in the beautiful country of Grenada when I saw these little guys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: instagram.com  
    Title: Strange Object spotted in sky!!  
-   Link: <a href="https://www.instagram.com/reel/DYqLRV4iY0l/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYqLRV4iY0l/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did you see it? Where?Grenada... this is very strange... first time... I&#x27;m seeing that. OCR... ufo sighting &amp;middot; rocket launch &amp;mi...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYqLRV4iY0l/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYqLRV4iY0l/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did you see it? Where?Grenada... this is very strange... first time... I&#x27;m seeing that. OCR... ufo sighting &amp;middot; rocket launch &amp;mi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: instagram.com  
    Title: 👽 Skip the bars and look to the stars  
-   Link: <a href="https://www.instagram.com/p/DXucdEUkcyP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXucdEUkcyP/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re seeing strange...The report came from five witnesses, who spoke of circular bright light with long &quot;reddish, white, streaky&quot; tail...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXucdEUkcyP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXucdEUkcyP/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re seeing strange...The report came from five witnesses, who spoke of circular bright light with long &quot;reddish, white, streaky&quot; tail...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Onenewssvg/posts/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/997531282390564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Onenewssvg/posts/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/997531282390564/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CAMPDEN PARK RESIDENTS REPORT STRANGE LIGHT...Some residents of Campden Park, St. Vincent and other parts of the Caribbean repor...</p></details>
+   Link:<a href="https://www.facebook.com/Onenewssvg/posts/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/997531282390564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Onenewssvg/posts/trending_now-campden-park-residents-report-strange-light-in-the-night-skies-toni/997531282390564/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CAMPDEN PARK RESIDENTS REPORT STRANGE LIGHT...Some residents of Campden Park, St. Vincent and other parts of the Caribbean repor...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Shag Harbour UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: 2007 Alderney UFO sighting  
-   Link: <a href="https://en.wikipedia.org/wiki/2007_Alderney_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2007_Alderney_UFO_sighting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2007_Alderney_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2007_Alderney_UFO_sighting</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
    Title: DYk Hsb2Koy I  
-   Link: <a href="https://www.instagram.com/reel/DYkHsb2KoyI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkHsb2KoyI/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CVM Television on Instagram: &quot;UFO sightings in the...On September 2nd, 1987, a report circulated internationally after unusual lights we...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYkHsb2KoyI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkHsb2KoyI/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CVM Television on Instagram: &quot;UFO sightings in the...On September 2nd, 1987, a report circulated internationally after unusual lights we...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: UF O sightings in the Caribbean?!  
-   Link: <a href="https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yeah... this morning&#x27;s...Witnesses described seeing unusual lights and shapes moving rapidly across the sky, unlike any conventional air...</p></details>
+   Link:<a href="https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yeah... this morning&#x27;s...Witnesses described seeing unusual lights and shapes moving rapidly across the sky, unlike any conventional air...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: us govt has just now declassified several previously classified records relating  
-   Link: <a href="https://www.facebook.com/anujdhar/posts/us-govt-has-just-now-declassified-several-previously-classified-records-relating/10162176229016557/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anujdhar/posts/us-govt-has-just-now-declassified-several-previously-classified-records-relating/10162176229016557/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US govt has just now declassified several previously...DECLASSIFIED FBI FILES ON ERIC GAIRY SHOW HIS CONNECTION TO THE UFO UNITED NATION...</p></details>
+   Link:<a href="https://www.facebook.com/anujdhar/posts/us-govt-has-just-now-declassified-several-previously-classified-records-relating/10162176229016557/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anujdhar/posts/us-govt-has-just-now-declassified-several-previously-classified-records-relating/10162176229016557/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US govt has just now declassified several previously...DECLASSIFIED FBI FILES ON ERIC GAIRY SHOW HIS CONNECTION TO THE UFO UNITED NATION...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/jamaica-is-among-the-caribbean-countries-with-a-significant-number-of-ufo-sighti/1650709347055698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/jamaica-is-among-the-caribbean-countries-with-a-significant-number-of-ufo-sighti/1650709347055698/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>htings of unidentified aerial phenomena. In the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/jamaica-is-among-the-caribbean-countries-with-a-significant-number-of-ufo-sighti/1650709347055698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/jamaica-is-among-the-caribbean-countries-with-a-significant-number-of-ufo-sighti/1650709347055698/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>htings of unidentified aerial phenomena. In the...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: after investigating a possible ufo sighting theunited states air force would pla  
-   Link: <a href="https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>After investigating a possible UFO sighting, the United...After the Roswell UFO incident in New Mexico 1947 “Area 51” was long rumored t...</p></details>
+   Link:<a href="https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After investigating a possible UFO sighting, the United...After the Roswell UFO incident in New Mexico 1947 “Area 51” was long rumored t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/254966255514729/posts/1113742109637135/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/254966255514729/posts/1113742109637135/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Jon Black for spotting someone posting up my collection as...</p></details>
+   Link:<a href="https://www.facebook.com/groups/254966255514729/posts/1113742109637135/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/254966255514729/posts/1113742109637135/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Jon Black for spotting someone posting up my collection as...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/NationalUfoReportingCenterRecordings/NuforcDirectory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/NationalUfoReportingCenterRecordings/NuforcDirectory.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e of the National UFO Reporting Center in Seattle, WA...</p></details>
+   Link:<a href="https://archive.org/download/NationalUfoReportingCenterRecordings/NuforcDirectory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/NationalUfoReportingCenterRecordings/NuforcDirectory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e of the National UFO Reporting Center in Seattle, WA...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_MegsssaC-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_MegsssaC-A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 ufo sighitng over st.lucia on tuesday night...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_MegsssaC-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_MegsssaC-A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 ufo sighitng over st.lucia on tuesday night...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: history.state.gov  
    Title: Office of the Historian Historical Documents  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1977-80v23/d304</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sir Eric Gairy, Prime Minister and Minister of Defense, Home, and... He mentioned cases of UFO sightings in Grenada. Secretary Vance rec...</p></details>
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1977-80v23/d304</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sir Eric Gairy, Prime Minister and Minister of Defense, Home, and... He mentioned cases of UFO sightings in Grenada. Secretary Vance rec...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.un.org  
-   Link: <a href="https://media.un.org/photo/en/asset/oun7/oun7603835" target="_blank" rel="noopener noreferrer nofollow">https://media.un.org/photo/en/asset/oun7/oun7603835</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UN MultimediaProposal to Appoint Expert Group to Study Nature and Origin...The Prime Minister of Grenada, Sir Eric Gairy, spoke at the S...</p></details>
+   Link:<a href="https://media.un.org/photo/en/asset/oun7/oun7603835" target="_blank" rel="noopener noreferrer nofollow">https://media.un.org/photo/en/asset/oun7/oun7603835</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UN MultimediaProposal to Appoint Expert Group to Study Nature and Origin...The Prime Minister of Grenada, Sir Eric Gairy, spoke at the S...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...... UFO was sighted by people in scattered locations around the San... Light aircraft (Piper...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...... UFO was sighted by people in scattered locations around the San... Light aircraft (Piper...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/2025-04/9921_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/2025-04/9921_en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ANNUAL REPORT OF THE COUNCILDraft reports on the aviation security legislation and regulations of... Alien Species. A36-22. Consolidated...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/2025-04/9921_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/2025-04/9921_en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ANNUAL REPORT OF THE COUNCILDraft reports on the aviation security legislation and regulations of... Alien Species. A36-22. Consolidated...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/1978-02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/1978-02.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/1978-02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/1978-02.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: coastreporter.net  
-   Link: <a href="https://www.coastreporter.net/bc-news/heres-the-explanation-behind-some-of-the-recent-ufo-sightings-in-prince-george-7978765" target="_blank" rel="noopener noreferrer nofollow">https://www.coastreporter.net/bc-news/heres-the-explanation-behind-some-of-the-recent-ufo-sightings-in-prince-george-7978765</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s behind some of the UFO sightings in Prince George?14 Dec 2023 — There have been reports of bright red lights streaking across the...</p></details>
+   Link:<a href="https://www.coastreporter.net/bc-news/heres-the-explanation-behind-some-of-the-recent-ufo-sightings-in-prince-george-7978765" target="_blank" rel="noopener noreferrer nofollow">https://www.coastreporter.net/bc-news/heres-the-explanation-behind-some-of-the-recent-ufo-sightings-in-prince-george-7978765</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s behind some of the UFO sightings in Prince George?14 Dec 2023 — There have been reports of bright red lights streaking across the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=loqTF3SWbCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=loqTF3SWbCg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO / Lights in the Sky Near St George, Utah, September 27th...Strange UFO / Lights in the Sky Near St George, Utah, September 27th, 201...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=loqTF3SWbCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=loqTF3SWbCg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO / Lights in the Sky Near St George, Utah, September 27th...Strange UFO / Lights in the Sky Near St George, Utah, September 27th, 201...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thenewtodaygrenada.com  
    Title: the enticing mystery of ufos has history vindicated sir eric gairy  
-   Link: <a href="https://www.thenewtodaygrenada.com/commentary/the-enticing-mystery-of-ufos-has-history-vindicated-sir-eric-gairy/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenewtodaygrenada.com/commentary/the-enticing-mystery-of-ufos-has-history-vindicated-sir-eric-gairy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The enticing mystery of UFO&#x27;s: has history vindicated Sir...7 Jun 2024 — A long-awaited US report concluding that unidentified flying ob...</p></details>
+   Link:<a href="https://www.thenewtodaygrenada.com/commentary/the-enticing-mystery-of-ufos-has-history-vindicated-sir-eric-gairy/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenewtodaygrenada.com/commentary/the-enticing-mystery-of-ufos-has-history-vindicated-sir-eric-gairy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The enticing mystery of UFO&#x27;s: has history vindicated Sir...7 Jun 2024 — A long-awaited US report concluding that unidentified flying ob...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>department holds details of UFO sightings reported to the MOD and public correspondence about UFOs (some of which also contain sighting r...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2048-1-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>department holds details of UFO sightings reported to the MOD and public correspondence about UFOs (some of which also contain sighting r...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ancient-origins.net  
    Title: eric gairy ufos 0021839  
-   Link: <a href="https://www.ancient-origins.net/news-mysterious-phenomena/eric-gairy-ufos-0021839" target="_blank" rel="noopener noreferrer nofollow">https://www.ancient-origins.net/news-mysterious-phenomena/eric-gairy-ufos-0021839</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prime Minister of Grenada&#x27;s Push for UFO Disclosure at...19 Jan 2025 — Even though Sir Eric purportedly had a bizarre experience with an...</p></details>
+   Link:<a href="https://www.ancient-origins.net/news-mysterious-phenomena/eric-gairy-ufos-0021839" target="_blank" rel="noopener noreferrer nofollow">https://www.ancient-origins.net/news-mysterious-phenomena/eric-gairy-ufos-0021839</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prime Minister of Grenada&#x27;s Push for UFO Disclosure at...19 Jan 2025 — Even though Sir Eric purportedly had a bizarre experience with an...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/114322512/UFO-CIA" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/114322512/UFO-CIA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uest from Ground Saucer Watch, Inc. regarding UFO documents.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/114322512/UFO-CIA" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/114322512/UFO-CIA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uest from Ground Saucer Watch, Inc. regarding UFO documents.Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: They Found Something Underwater… And It Doesn't Make Sense  
-   Link: <a href="https://www.youtube.com/watch?v=_apG3VoCYfU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_apG3VoCYfU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 How to Reduce Light Pollution: 5 Ways to Enhance the Night Sky | Star Gazers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_apG3VoCYfU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_apG3VoCYfU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 How to Reduce Light Pollution: 5 Ways to Enhance the Night Sky | Star Gazers...</p></details>

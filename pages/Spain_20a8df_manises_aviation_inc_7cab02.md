@@ -254,20 +254,20 @@ image: /assets/images/Spain_20a8df_manises_aviation_inc_7cab02-Illustration-1-so
 
 ## Introduction
 
-The Manises incident remains Spain’s most famous UFO case because it involved something far more consequential than a distant light in the sky. On the night of 11 November 1979, a commercial passenger flight carrying 109 people diverted to Valencia’s Manises Airport after its crew reported unidentified lights apparently tracking the aircraft. The event escalated further when the Spanish Air Force scrambled a Mirage F1 interceptor to investigate. What followed became one of the most debated episodes in Spanish aviation and UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Manises_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Manises UFO incident</span><span class="citation-popover-snippet">Manises UFO incident</span></span></span>
+The Manises incident remains Spain’s most famous UFO case because it involved something far more consequential than a distant light in the sky. On the night of 11 November 1979, a commercial passenger flight carrying 109 people diverted to Valencia’s Manises Airport after its crew reported unidentified lights apparently tracking the aircraft. The event escalated further when the Spanish Air Force scrambled a Mirage F1 interceptor to investigate. What followed became one of the most debated episodes in Spanish aviation and UFO history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Manises_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Manises UFO incident</span><span class="citation-popover-snippet">Manises UFO incident</span></span></span>
 
 <img src="{{ "/assets/images/Spain_20a8df_manises_aviation_inc_7cab02-Illustration-1-dark.svg" | relative_url }}" alt="Manises illustration 1" data-theme-src-dark="{{ "/assets/images/Spain_20a8df_manises_aviation_inc_7cab02-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Spain_20a8df_manises_aviation_inc_7cab02-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-More than four decades later, the case sits in an unusual position. It is not disputed that the diversion occurred, that military authorities responded, or that official reports were produced. The disagreement concerns what the pilots actually saw and whether the later explanations adequately account for the reported behaviour of the lights, radar observations, and fighter-interceptor testimony. The Manises case therefore occupies a central place in Spain’s UFO archive not because it proves an extraordinary phenomenon, but because it exposes the difficulty of separating perception, aviation safety concerns, military procedure, and unresolved evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/27920724/THE_MANISES_UFO_FILE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE MANISES UFO FILE</span><span class="citation-popover-snippet">Academia(DOC) THE MANISES UFO FILEMost clues appeared when in 1994 the case file was declassified by the Spanish Air Force (3).... This...</span></span></span>
+More than four decades later, the case sits in an unusual position. It is not disputed that the diversion occurred, that military authorities responded, or that official reports were produced. The disagreement concerns what the pilots actually saw and whether the later explanations adequately account for the reported behaviour of the lights, radar observations, and fighter-interceptor testimony. The Manises case therefore occupies a central place in Spain’s UFO archive not because it proves an extraordinary phenomenon, but because it exposes the difficulty of separating perception, aviation safety concerns, military procedure, and unresolved evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/27920724/THE_MANISES_UFO_FILE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE MANISES UFO FILE</span><span class="citation-popover-snippet">Academia(DOC) THE MANISES UFO FILEMost clues appeared when in 1994 the case file was declassified by the Spanish Air Force (3).... This...</span></span></span>
 
 ## The diverted passenger flight
 
-The incident began with TAE Flight JK-297, a Sud Aviation Super Caravelle travelling from Salzburg to the Canary Islands after a stopover in Palma de Mallorca. According to the flight crew, red lights appeared ahead of the aircraft while it was flying over the Mediterranean near the Spanish coast. Captain Francisco Javier Lerdo de Tejada reportedly believed the lights could represent another aircraft on a collision course. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_OVNI_de_Manises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente OVNI de Manises</span><span class="citation-popover-snippet">Incidente OVNI de Manises - Wikipedia, la enciclopedia libreEl incidente OVNI de Manises tuvo lugar el 11 de noviembre de 1979,​ en el...</span></span></span>
+The incident began with TAE Flight JK-297, a Sud Aviation Super Caravelle travelling from Salzburg to the Canary Islands after a stopover in Palma de Mallorca. According to the flight crew, red lights appeared ahead of the aircraft while it was flying over the Mediterranean near the Spanish coast. Captain Francisco Javier Lerdo de Tejada reportedly believed the lights could represent another aircraft on a collision course.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_OVNI_de_Manises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente OVNI de Manises</span><span class="citation-popover-snippet">Incidente OVNI de Manises - Wikipedia, la enciclopedia libreEl incidente OVNI de Manises tuvo lugar el 11 de noviembre de 1979,​ en el...</span></span></span>
 
-What made the event unusual was not simply the appearance of lights. The crew reported that the objects seemed to react to manoeuvres made by the aircraft. Changes in altitude allegedly failed to increase separation, and the lights appeared to remain nearby. Air traffic controllers could not immediately identify another aircraft in the area. Faced with what he considered a potential safety threat, the captain requested an emergency diversion to Manises Airport near Valencia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
+What made the event unusual was not simply the appearance of lights. The crew reported that the objects seemed to react to manoeuvres made by the aircraft. Changes in altitude allegedly failed to increase separation, and the lights appeared to remain nearby. Air traffic controllers could not immediately identify another aircraft in the area. Faced with what he considered a potential safety threat, the captain requested an emergency diversion to Manises Airport near Valencia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
 
-This point is often overlooked in later retellings. The strongest factual element in the case is not the UFO claim itself but the operational decision made by an experienced airline captain. Commercial pilots do not normally divert aircraft without a compelling reason. Even critics of the UFO interpretation generally accept that the crew genuinely perceived something they regarded as hazardous. The disagreement begins when investigators attempt to determine whether that perceived threat corresponded to an unknown aerial object or to a misinterpretation of ordinary lights under unusual conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Manises_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Manises UFO incident</span><span class="citation-popover-snippet">Manises UFO incident</span></span></span>
+This point is often overlooked in later retellings. The strongest factual element in the case is not the UFO claim itself but the operational decision made by an experienced airline captain. Commercial pilots do not normally divert aircraft without a compelling reason. Even critics of the UFO interpretation generally accept that the crew genuinely perceived something they regarded as hazardous. The disagreement begins when investigators attempt to determine whether that perceived threat corresponded to an unknown aerial object or to a misinterpretation of ordinary lights under unusual conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Manises_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Manises UFO incident</span><span class="citation-popover-snippet">Manises UFO incident</span></span></span>
 
-As the aircraft approached Manises, reports multiplied. Witnesses on the ground claimed to see unusual lights, and some accounts referred to radar returns near the airport area. These additional observations helped transform what might have remained a cockpit mystery into a national story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_OVNI_de_Manises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente OVNI de Manises</span><span class="citation-popover-snippet">Incidente OVNI de Manises - Wikipedia, la enciclopedia libreEl incidente OVNI de Manises tuvo lugar el 11 de noviembre de 1979,​ en el...</span></span></span>
+As the aircraft approached Manises, reports multiplied. Witnesses on the ground claimed to see unusual lights, and some accounts referred to radar returns near the airport area. These additional observations helped transform what might have remained a cockpit mystery into a national story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_OVNI_de_Manises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente OVNI de Manises</span><span class="citation-popover-snippet">Incidente OVNI de Manises - Wikipedia, la enciclopedia libreEl incidente OVNI de Manises tuvo lugar el 11 de noviembre de 1979,​ en el...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d1qyDp4sn3E" title="Spain’s Most Terrifying UFO Incident - The Manises UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d1qyDp4sn3E" target="_blank" rel="noopener noreferrer">Spain’s Most Terrifying UFO Incident - The Manises UFO</a></p><p class="youtube-embed-meta">Channel: This Paranormal Life &middot; Views: 5.7K &middot; Uploaded: February 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d1qyDp4sn3E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d1qyDp4sn3E">Open on YouTube</a></p></div></div></div>
 
@@ -275,20 +275,20 @@ As the aircraft approached Manises, reports multiplied. Witnesses on the ground 
 
 The military response is the reason the Manises incident occupies a distinctive place in Spain’s declassified UFO files.
 
-After the passenger aircraft landed safely, the Spanish Air Force ordered a Mirage F1 fighter from Los Llanos Air Base to investigate the reported object. The interceptor was flown by Captain Fernando Cámara, whose testimony became one of the most discussed elements of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
+After the passenger aircraft landed safely, the Spanish Air Force ordered a Mirage F1 fighter from Los Llanos Air Base to investigate the reported object. The interceptor was flown by Captain Fernando Cámara, whose testimony became one of the most discussed elements of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
 
-According to later accounts, Cámara attempted several interceptions. He reported seeing bright lights that appeared to move away as he approached. Some descriptions portray the object as changing colour and shape, while others focus on its apparent ability to remain beyond interception range despite the fighter’s speed. Reports associated with the case state that the Mirage accelerated to around Mach 1.4 during parts of the pursuit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
+According to later accounts, Cámara attempted several interceptions. He reported seeing bright lights that appeared to move away as he approached. Some descriptions portray the object as changing colour and shape, while others focus on its apparent ability to remain beyond interception range despite the fighter’s speed. Reports associated with the case state that the Mirage accelerated to around Mach 1.4 during parts of the pursuit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
 
-The pursuit lasted roughly ninety minutes before fuel considerations forced the fighter to return to base. No physical object was identified. That outcome alone would not have guaranteed the case a lasting reputation. What elevated the story was the pilot’s claim that he experienced unusual electronic indications during the intercept. Later retellings describe radar-warning alerts and apparent interference with communications. Supporters of the UFO interpretation argue that these details suggest the fighter encountered more than a distant light source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
+The pursuit lasted roughly ninety minutes before fuel considerations forced the fighter to return to base. No physical object was identified. That outcome alone would not have guaranteed the case a lasting reputation. What elevated the story was the pilot’s claim that he experienced unusual electronic indications during the intercept. Later retellings describe radar-warning alerts and apparent interference with communications. Supporters of the UFO interpretation argue that these details suggest the fighter encountered more than a distant light source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
 
-Sceptics, however, point out that military aircraft regularly operate in electronically complex environments. Radar-warning receivers can react to many sources, including military systems unrelated to a mysterious object. Because the reported electronic anomalies were not independently recorded in a way that conclusively tied them to a specific target, they remain suggestive rather than decisive evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
+Sceptics, however, point out that military aircraft regularly operate in electronically complex environments. Radar-warning receivers can react to many sources, including military systems unrelated to a mysterious object. Because the reported electronic anomalies were not independently recorded in a way that conclusively tied them to a specific target, they remain suggestive rather than decisive evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
 
 <img src="{{ "/assets/images/Spain_20a8df_manises_aviation_inc_7cab02-Illustration-2-dark.svg" | relative_url }}" alt="Manises illustration 2" data-theme-src-dark="{{ "/assets/images/Spain_20a8df_manises_aviation_inc_7cab02-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Spain_20a8df_manises_aviation_inc_7cab02-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the official explanation never settled the case
 
-When Spain later declassified major portions of its UFO archive, the Manises file became one of the most scrutinised records. Rather than confirming an unknown craft, investigators proposed a conventional explanation involving distant lights and astronomical objects. The official assessment suggested that some observations could have resulted from industrial flares from a petrochemical complex combined with bright celestial bodies visible under particular atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
+When Spain later declassified major portions of its UFO archive, the Manises file became one of the most scrutinised records. Rather than confirming an unknown craft, investigators proposed a conventional explanation involving distant lights and astronomical objects. The official assessment suggested that some observations could have resulted from industrial flares from a petrochemical complex combined with bright celestial bodies visible under particular atmospheric conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
 
-In principle, such an explanation is not implausible. Aviation history contains many cases in which pilots, controllers, and ground observers have misjudged the distance, speed, or movement of lights at night. Bright planets near the horizon can appear to follow aircraft. Industrial flares can seem airborne when viewed from long distances, especially over water or under unusual atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
+In principle, such an explanation is not implausible. Aviation history contains many cases in which pilots, controllers, and ground observers have misjudged the distance, speed, or movement of lights at night. Bright planets near the horizon can appear to follow aircraft. Industrial flares can seem airborne when viewed from long distances, especially over water or under unusual atmospheric conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
 
 The difficulty is that the official explanation addresses some aspects of the case more effectively than others.
 
@@ -298,7 +298,7 @@ Questions frequently raised by critics of the explanation include:
 * Why did the crew report apparent responses to altitude changes?
 * How should the reported fighter-interceptor observations be reconciled with the industrial-flare hypothesis?
 * What role, if any, did radar contacts actually play during the incident?
-* Were separate observations later merged into a single narrative that appeared more coherent than the underlying events really were? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/27920724/THE_MANISES_UFO_FILE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE MANISES UFO FILE</span><span class="citation-popover-snippet">Academia(DOC) THE MANISES UFO FILEMost clues appeared when in 1994 the case file was declassified by the Spanish Air Force (3).... This...</span></span></span> The last question is particularly important. Large UFO cases often accumulate witness statements from different locations and times. As a result, unrelated observations can become fused into a single dramatic storyline. Some researchers have argued that the Manises incident may partly reflect this process, with cockpit observations, ground sightings, radar reports, and later recollections gradually reinforcing one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/27920724/THE_MANISES_UFO_FILE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE MANISES UFO FILE</span><span class="citation-popover-snippet">Academia(DOC) THE MANISES UFO FILEMost clues appeared when in 1994 the case file was declassified by the Spanish Air Force (3).... This...</span></span></span>
+* Were separate observations later merged into a single narrative that appeared more coherent than the underlying events really were?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/27920724/THE_MANISES_UFO_FILE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE MANISES UFO FILE</span><span class="citation-popover-snippet">Academia(DOC) THE MANISES UFO FILEMost clues appeared when in 1994 the case file was declassified by the Spanish Air Force (3).... This...</span></span></span> The last question is particularly important. Large UFO cases often accumulate witness statements from different locations and times. As a result, unrelated observations can become fused into a single dramatic storyline. Some researchers have argued that the Manises incident may partly reflect this process, with cockpit observations, ground sightings, radar reports, and later recollections gradually reinforcing one another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/27920724/THE_MANISES_UFO_FILE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE MANISES UFO FILE</span><span class="citation-popover-snippet">Academia(DOC) THE MANISES UFO FILEMost clues appeared when in 1994 the case file was declassified by the Spanish Air Force (3).... This...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V10Q9AWsOfY" title="The UFO that Shocked an Entire Continent - Manises UAP incident in Europe | TAE Flight 297" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V10Q9AWsOfY" target="_blank" rel="noopener noreferrer">The UFO that Shocked an Entire Continent - Manises UAP incident in Europe | TAE Flight 297</a></p><p class="youtube-embed-meta">Channel: MPC Flights &middot; Views: 8.8K &middot; Uploaded: September 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V10Q9AWsOfY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V10Q9AWsOfY">Open on YouTube</a></p></div></div></div>
 
@@ -306,9 +306,9 @@ Questions frequently raised by critics of the explanation include:
 
 Radar evidence is frequently cited as one of the strongest features of the Manises case, but it is also one of the least straightforward.
 
-Popular retellings often describe multiple unidentified radar targets accompanying the visual sightings. Yet the existence of a radar return does not automatically indicate a structured craft. Radar systems can produce anomalous echoes from atmospheric conditions, reflections, signal processing issues, or distant objects that are difficult to classify. Military and civilian controllers routinely distinguish between a radar detection and a positively identified target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
+Popular retellings often describe multiple unidentified radar targets accompanying the visual sightings. Yet the existence of a radar return does not automatically indicate a structured craft. Radar systems can produce anomalous echoes from atmospheric conditions, reflections, signal processing issues, or distant objects that are difficult to classify. Military and civilian controllers routinely distinguish between a radar detection and a positively identified target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
 
-The declassified material and later analyses do not provide a universally accepted radar track demonstrating the behaviour often attributed to the UFO in popular accounts. This distinction matters because many summaries compress several layers of evidence into a single claim that “radar confirmed the object”. In reality, the evidential picture is more fragmented. Some witnesses reported radar contacts, but the available record has not produced a consensus reconstruction of a single tracked object performing extraordinary manoeuvres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/27920724/THE_MANISES_UFO_FILE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE MANISES UFO FILE</span><span class="citation-popover-snippet">Academia(DOC) THE MANISES UFO FILEMost clues appeared when in 1994 the case file was declassified by the Spanish Air Force (3).... This...</span></span></span>
+The declassified material and later analyses do not provide a universally accepted radar track demonstrating the behaviour often attributed to the UFO in popular accounts. This distinction matters because many summaries compress several layers of evidence into a single claim that “radar confirmed the object”. In reality, the evidential picture is more fragmented. Some witnesses reported radar contacts, but the available record has not produced a consensus reconstruction of a single tracked object performing extraordinary manoeuvres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/27920724/THE_MANISES_UFO_FILE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE MANISES UFO FILE</span><span class="citation-popover-snippet">Academia(DOC) THE MANISES UFO FILEMost clues appeared when in 1994 the case file was declassified by the Spanish Air Force (3).... This...</span></span></span>
 
 That does not invalidate the witnesses’ experiences. It simply means that the radar component is weaker and more ambiguous than many UFO summaries suggest.
 
@@ -317,11 +317,11 @@ That does not invalidate the witnesses’ experiences. It simply means that the 
 
 The endurance of the Manises case comes from the coexistence of two facts.
 
-First, there was a genuine aviation incident. A commercial aircraft diverted. Military authorities reacted seriously enough to launch an interceptor. Official reports were written and later declassified. These are documented events, not folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
+First, there was a genuine aviation incident. A commercial aircraft diverted. Military authorities reacted seriously enough to launch an interceptor. Official reports were written and later declassified. These are documented events, not folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
 
-Second, none of the available evidence conclusively establishes an extraordinary craft. The case rests largely on witness testimony, perceptions of light sources at night, disputed radar information, and interpretations of military pilot observations. The official explanation may leave gaps, but the alternative interpretation also faces evidential limits. No photographs, recovered material, instrument recordings, or independently verified performance data demonstrate the presence of a technologically unknown vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
+Second, none of the available evidence conclusively establishes an extraordinary craft. The case rests largely on witness testimony, perceptions of light sources at night, disputed radar information, and interpretations of military pilot observations. The official explanation may leave gaps, but the alternative interpretation also faces evidential limits. No photographs, recovered material, instrument recordings, or independently verified performance data demonstrate the presence of a technologically unknown vehicle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
 
-This tension explains why the incident continues to appear in discussions of Spanish UFO history. Believers regard it as one of the strongest European aviation cases because trained pilots, air traffic personnel, and military responders were involved. Sceptics regard it as a textbook example of how sincere observers can generate a powerful mystery from a mixture of ordinary stimuli, uncertainty, and later narrative amplification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
+This tension explains why the incident continues to appear in discussions of Spanish UFO history. Believers regard it as one of the strongest European aviation cases because trained pilots, air traffic personnel, and military responders were involved. Sceptics regard it as a textbook example of how sincere observers can generate a powerful mystery from a mixture of ordinary stimuli, uncertainty, and later narrative amplification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emergency landing</span><span class="citation-popover-snippet">Emergency landing - WikipediaManises UFO incident - Wikipedia...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4UP3c5UhlC8" title="UFO Sightings: Navy Pilots Share Their Experiences | NOVA | PBS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4UP3c5UhlC8" target="_blank" rel="noopener noreferrer">UFO Sightings: Navy Pilots Share Their Experiences | NOVA | PBS</a></p><p class="youtube-embed-meta">Channel: NOVA PBS Official &middot; Views: 111.0K &middot; Uploaded: January 2025 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4UP3c5UhlC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4UP3c5UhlC8">Open on YouTube</a></p></div></div></div>
 
@@ -329,199 +329,199 @@ This tension explains why the incident continues to appear in discussions of Spa
 
 Within Spain’s broader archive of military and civilian UFO reports, Manises occupies a middle ground between sensationalism and dismissal.
 
-Unlike cultural UFO legends built almost entirely on rumour, the event generated official documentation and operational consequences. Unlike cases that produce strong physical evidence, however, it never moved beyond contested testimony and interpretation. Its importance therefore lies less in what it proves and more in what it reveals about the limits of aviation evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/international/files/es" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Spain files · 02 International Disclosure</span><span class="citation-popover-snippet">UFO TransparencySpain files · 02 International Disclosure - UFO TransparencySpain&#x27;s Ministry of Defence Virtual Library hosts 80 declassi...</span></span></span>
+Unlike cultural UFO legends built almost entirely on rumour, the event generated official documentation and operational consequences. Unlike cases that produce strong physical evidence, however, it never moved beyond contested testimony and interpretation. Its importance therefore lies less in what it proves and more in what it reveals about the limits of aviation evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/international/files/es" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Spain files · 02 International Disclosure</span><span class="citation-popover-snippet">UFO TransparencySpain files · 02 International Disclosure - UFO TransparencySpain&#x27;s Ministry of Defence Virtual Library hosts 80 declassi...</span></span></span>
 
-The case also illustrates a pattern visible elsewhere in Spain’s UFO history, including several Canary Islands incidents: dramatic observations can coexist with incomplete data, while later explanations can appear plausible without fully satisfying every witness. That unresolved space between certainty and uncertainty is precisely why the Manises incident remains the reference point against which many other Spanish UFO cases are judged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/international/files/es" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Spain files · 02 International Disclosure</span><span class="citation-popover-snippet">UFO TransparencySpain files · 02 International Disclosure - UFO TransparencySpain&#x27;s Ministry of Defence Virtual Library hosts 80 declassi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.elpais.com/cat/2016/11/11/catalunya/1478881679_067169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.elpais.com">[2EL PAÍS English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.elpais.com</span><span class="citation-popover-title">EL PAÍS English Revealing 33 years of UFOs over Catalonia</span><span class="citation-popover-snippet">Spain&#x27;s Defense Ministry has declassified reports of sightings between 1962 and 1995.Read more...</span></span></span>
+The case also illustrates a pattern visible elsewhere in Spain’s UFO history, including several Canary Islands incidents: dramatic observations can coexist with incomplete data, while later explanations can appear plausible without fully satisfying every witness. That unresolved space between certainty and uncertainty is precisely why the Manises incident remains the reference point against which many other Spanish UFO cases are judged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/international/files/es" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Spain files · 02 International Disclosure</span><span class="citation-popover-snippet">UFO TransparencySpain files · 02 International Disclosure - UFO TransparencySpain&#x27;s Ministry of Defence Virtual Library hosts 80 declassi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://english.elpais.com/cat/2016/11/11/catalunya/1478881679_067169.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.elpais.com">[2EL PAÍS English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.elpais.com</span><span class="citation-popover-title">EL PAÍS English Revealing 33 years of UFOs over Catalonia</span><span class="citation-popover-snippet">Spain&#x27;s Defense Ministry has declassified reports of sightings between 1962 and 1995.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Manises Spain&#x27;s Strongest UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Manises Spain&#x27;s Strongest UFO Case?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses witness credibility, classification, and aviation-related sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses witness credibility, classification, and aviation-related sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines official investigation methods relevant to military response cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official investigation methods relevant to military response cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides background on government and military UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on government and military UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Pilot testimony and aviation cases closely match the Manises incident.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Pilot testimony and aviation cases closely match the Manises incident.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-manises-spain-s-strongest-ufo-case-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-manises-spain-s-strongest-ufo-case-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ The case also illustrates a pattern visible elsewhere in Spain’s UFO history, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ The case also illustrates a pattern visible elsewhere in Spain’s UFO history, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ The case also illustrates a pattern visible elsewhere in Spain’s UFO history, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ The case also illustrates a pattern visible elsewhere in Spain’s UFO history, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ The case also illustrates a pattern visible elsewhere in Spain’s UFO history, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,110 +724,109 @@ The case also illustrates a pattern visible elsewhere in Spain’s UFO history, 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Manises UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Manises_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Manises_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Manises_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Manises_UFO_incident</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Incidente OVNI de Manises  
-   Link: <a href="https://es.wikipedia.org/wiki/Incidente_OVNI_de_Manises" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_OVNI_de_Manises</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Incidente OVNI de Manises - Wikipedia, la enciclopedia libreEl incidente OVNI de Manises tuvo lugar el 11 de noviembre de 1979,​ en el...</p></details>
+   Link:<a href="https://es.wikipedia.org/wiki/Incidente_OVNI_de_Manises" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_OVNI_de_Manises</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incidente OVNI de Manises - Wikipedia, la enciclopedia libreEl incidente OVNI de Manises tuvo lugar el 11 de noviembre de 1979,​ en el...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
    Title: THE MANISES UFO FILE  
-   Link: <a href="https://www.academia.edu/27920724/THE_MANISES_UFO_FILE" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/27920724/THE_MANISES_UFO_FILE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(DOC) THE MANISES UFO FILEMost clues appeared when in 1994 the case file was declassified by the Spanish Air Force (3).... This...</p></details>
+   Link:<a href="https://www.academia.edu/27920724/THE_MANISES_UFO_FILE" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/27920724/THE_MANISES_UFO_FILE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(DOC) THE MANISES UFO FILEMost clues appeared when in 1994 the case file was declassified by the Spanish Air Force (3).... This...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Emergency landing  
-   Link: <a href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Emergency_landing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emergency landing - WikipediaManises UFO incident - Wikipedia...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Emergency_landing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Emergency_landing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emergency landing - WikipediaManises UFO incident - Wikipedia...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufotransparency.com  
    Title: UFO Transparency Spain files · 02 International Disclosure  
-   Link: <a href="https://ufotransparency.com/international/files/es" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/files/es</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencySpain files · 02 International Disclosure - UFO TransparencySpain&#x27;s Ministry of Defence Virtual Library hosts 80 declassi...</p></details>
+   Link:<a href="https://ufotransparency.com/international/files/es" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/files/es</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencySpain files · 02 International Disclosure - UFO TransparencySpain&#x27;s Ministry of Defence Virtual Library hosts 80 declassi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: english.elpais.com  
    Title: EL PAÍS English Revealing 33 years of UFOs over Catalonia  
-   Link: <a href="https://english.elpais.com/cat/2016/11/11/catalunya/1478881679_067169.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/cat/2016/11/11/catalunya/1478881679_067169.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spain&#x27;s Defense Ministry has declassified reports of sightings between 1962 and 1995.Read more...</p></details>
+   Link:<a href="https://english.elpais.com/cat/2016/11/11/catalunya/1478881679_067169.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/cat/2016/11/11/catalunya/1478881679_067169.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spain&#x27;s Defense Ministry has declassified reports of sightings between 1962 and 1995.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Spain's Most Terrifying UFO Incident  
-   Link: <a href="https://www.youtube.com/watch?v=d1qyDp4sn3E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d1qyDp4sn3E</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Manises UFO - YouTubeFebruary 3, 2025 — Spain might not be synonymous with UFOs and the paranormal, but don&#x27;t be fooled, in 1979 it w...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d1qyDp4sn3E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d1qyDp4sn3E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Manises UFO - YouTubeFebruary 3, 2025 — Spain might not be synonymous with UFOs and the paranormal, but don&#x27;t be fooled, in 1979 it w...</p></details>
    Published: February 3, 2025  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ancientastronauttheory/posts/2040915959759086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientastronauttheory/posts/2040915959759086/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spain&#x27;s Ministry of Defense declassified UFO filesSpain&#x27;s Ministry of Defense declassified more than 1,900 pages of files on UFO sighting...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ancientastronauttheory/posts/2040915959759086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientastronauttheory/posts/2040915959759086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spain&#x27;s Ministry of Defense declassified UFO filesSpain&#x27;s Ministry of Defense declassified more than 1,900 pages of files on UFO sighting...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lostworldshiddensecrets.thnguyen/videos/-the-manises-ufo-incident-1979-when-a-commercial-flight-was-forced-to-landone-of/1459113109290699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lostworldshiddensecrets.thnguyen/videos/-the-manises-ufo-incident-1979-when-a-commercial-flight-was-forced-to-landone-of/1459113109290699/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Manises UFO Incident (1979): When a Commercial Flight Was...March 27, 2026 — Known as the Manises UFO Incident, the event involved a...</p></details>
+   Link:<a href="https://www.facebook.com/lostworldshiddensecrets.thnguyen/videos/-the-manises-ufo-incident-1979-when-a-commercial-flight-was-forced-to-landone-of/1459113109290699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lostworldshiddensecrets.thnguyen/videos/-the-manises-ufo-incident-1979-when-a-commercial-flight-was-forced-to-landone-of/1459113109290699/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Manises UFO Incident (1979): When a Commercial Flight Was...March 27, 2026 — Known as the Manises UFO Incident, the event involved a...</p></details>
    Published: March 27, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: amcselekt.es  
    Title: expedientes ovni desclasificados mas de 80 informes de avistamientos  
-   Link: <a href="https://amcselekt.es/blog/sin-categoria/expedientes-ovni-desclasificados-mas-de-80-informes-de-avistamientos/" target="_blank" rel="noopener noreferrer nofollow">https://amcselekt.es/blog/sin-categoria/expedientes-ovni-desclasificados-mas-de-80-informes-de-avistamientos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Expedientes OVNI”: desclasificados más de 80 informes...En 2016 el Ministerio de Defensa desclasificó más de 80 informes de “Expediente...</p></details>
+   Link:<a href="https://amcselekt.es/blog/sin-categoria/expedientes-ovni-desclasificados-mas-de-80-informes-de-avistamientos/" target="_blank" rel="noopener noreferrer nofollow">https://amcselekt.es/blog/sin-categoria/expedientes-ovni-desclasificados-mas-de-80-informes-de-avistamientos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Expedientes OVNI”: desclasificados más de 80 informes...En 2016 el Ministerio de Defensa desclasificó más de 80 informes de “Expediente...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: the manises ufo incident took place on 1979  
-   Link: <a href="https://www.reddit.com/r/wikipedia/comments/4aowuf/the_manises_ufo_incident_took_place_on_1979/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wikipedia/comments/4aowuf/the_manises_ufo_incident_took_place_on_1979/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, forcing a...The Manises UFO incident - Spain&#x27;s most famous UFO case and the first occurrence of a commercial flight being grounded due...</p></details>
+   Link:<a href="https://www.reddit.com/r/wikipedia/comments/4aowuf/the_manises_ufo_incident_took_place_on_1979/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wikipedia/comments/4aowuf/the_manises_ufo_incident_took_place_on_1979/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, forcing a...The Manises UFO incident - Spain&#x27;s most famous UFO case and the first occurrence of a commercial flight being grounded due...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: inexplicata.blogspot.com  
    Title: spain ministry of defense investigated  
-   Link: <a href="https://inexplicata.blogspot.com/2017/07/spain-ministry-of-defense-investigated.html" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2017/07/spain-ministry-of-defense-investigated.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spain: Ministry of Defense Investigated at Least 8 UFO...21 Jul 2017 — The Defense Ministry then scrambled a Mirage III fighter out of t...</p></details>
+   Link:<a href="https://inexplicata.blogspot.com/2017/07/spain-ministry-of-defense-investigated.html" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2017/07/spain-ministry-of-defense-investigated.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spain: Ministry of Defense Investigated at Least 8 UFO...21 Jul 2017 — The Defense Ministry then scrambled a Mirage III fighter out of t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: podcasts.apple.com  
    Title: Podcasts The Manises UFO Incident  
-   Link: <a href="https://podcasts.apple.com/au/podcast/the-manises-ufo-incident/id1244290829?i=1000434360090" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/au/podcast/the-manises-ufo-incident/id1244290829?i=1000434360090</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsThe Manises UFO Incident - Unsolved Mysteries of the WorldSuddenly, however, three new UFO signals were detected by both mi...</p></details>
+   Link:<a href="https://podcasts.apple.com/au/podcast/the-manises-ufo-incident/id1244290829?i=1000434360090" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/au/podcast/the-manises-ufo-incident/id1244290829?i=1000434360090</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsThe Manises UFO Incident - Unsolved Mysteries of the WorldSuddenly, however, three new UFO signals were detected by both mi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theexclusionzone.com  
    Title: manises 1979 spain ufo incident  
-   Link: <a href="https://www.theexclusionzone.com/manises-1979-spain-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.theexclusionzone.com/manises-1979-spain-ufo-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manises 1979: Spain&#x27;s Most Credible UFO IncidentMay 26, 2026 — The crew&#x27;s stress response and pre-existing cultural expectations regardin...</p></details>
+   Link:<a href="https://www.theexclusionzone.com/manises-1979-spain-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.theexclusionzone.com/manises-1979-spain-ufo-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manises 1979: Spain&#x27;s Most Credible UFO IncidentMay 26, 2026 — The crew&#x27;s stress response and pre-existing cultural expectations regardin...</p></details>
    Published: May 26, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The First Commercial Flight Grounded Due to UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=K_BZkOAw6E0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K_BZkOAw6E0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 21, 2024 — Today we are talking about the 1979 Manises Incident - the most famous UFO case in Spain and the first recorded...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K_BZkOAw6E0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K_BZkOAw6E0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 21, 2024 — Today we are talking about the 1979 Manises Incident - the most famous UFO case in Spain and the first recorded...</p></details>
    Published: January 21, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: UFO Sightings: Navy Pilots Share Their Experiences | NOVA | PBS  
-   Link: <a href="https://www.youtube.com/watch?v=4UP3c5UhlC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4UP3c5UhlC8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manises UFO incident 1979 aircraft Spain The Manises UFO Incident: A Classic UFO Case from Spain Street of Silence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4UP3c5UhlC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4UP3c5UhlC8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manises UFO incident 1979 aircraft Spain The Manises UFO Incident: A Classic UFO Case from Spain Street of Silence...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufoinsight.com  
    Title: flight jk297 ufo manises case  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/flight-jk297-ufo-manises-case" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/flight-jk297-ufo-manises-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Largely regarded as Spain&#x27;s most famous UFO incident, the case of Flight JK-297 is also the first time that a commercial...Read more...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/flight-jk297-ufo-manises-case" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/flight-jk297-ufo-manises-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Largely regarded as Spain&#x27;s most famous UFO incident, the case of Flight JK-297 is also the first time that a commercial...Read more...</p></details>

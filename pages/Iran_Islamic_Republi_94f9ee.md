@@ -1197,38 +1197,38 @@ image: /assets/images/Iran_Islamic_Republi_94f9ee-overview-social.jpg
 Iran is not just another country with scattered sky stories. Its most famous UFO reports sit inside a national-security setting: a large country, sensitive borders, military airspace, past U.S.-Iranian military ties before 1979, later confrontation with the United States, and repeated concern about surveillance over nuclear and military facilities. That makes the Iranian record different from countries where most UFO cases are civilian reports with no official follow-up.
 
 <img src="{{ "/assets/images/Iran_Islamic_Republi_94f9ee-overview.webp" | relative_url }}" alt="Overview image for Iran Islamic Republic of" loading="eager" decoding="sync" fetchpriority="high">
-This matters because “unidentified” can mean several things in Iran. It can mean a genuinely puzzling sighting; a misidentified aircraft or planet; a meteor or re-entering debris; a secret or foreign drone; or a report that cannot be checked because the source trail is thin. U.S. reporting in 2005, for example, connected some Iranian “UFO” discussion to American surveillance drones near Iran’s borders and nuclear-related sites, with Iranian civilians reportedly seeing red flashes, green and blue streaks, and low lights before Iranian officers judged them to be spy drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">U.S. Drones Checking on Iran</span><span class="citation-popover-snippet">U.S. Drones Checking on Iran</span></span></span>
+This matters because “unidentified” can mean several things in Iran. It can mean a genuinely puzzling sighting; a misidentified aircraft or planet; a meteor or re-entering debris; a secret or foreign drone; or a report that cannot be checked because the source trail is thin. U.S. reporting in 2005, for example, connected some Iranian “UFO” discussion to American surveillance drones near Iran’s borders and nuclear-related sites, with Iranian civilians reportedly seeing red flashes, green and blue streaks, and low lights before Iranian officers judged them to be spy drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">U.S. Drones Checking on Iran</span><span class="citation-popover-snippet">U.S. Drones Checking on Iran</span></span></span>
 
 That security context does not solve every case. It does, however, change the standard of evidence. In Iran, a bright object near Tehran, Tabriz, Ardebil, Golestan, Kerman or the Caspian region cannot be assessed only as folklore. It has to be read alongside air-defence posture, aircraft availability, missile tests, satellite visibility, regional tension, and the reliability of the reporting chain.
 
 ## The 1976 Tehran case remains the central incident
 
-The Tehran incident began shortly after midnight on 19 September 1976, when citizens in the Shemiran area of Tehran reported strange objects in the sky. The declassified U.S. Joint Chiefs of Staff message says some witnesses described a bird-like object and others a helicopter-like light, while no helicopters were airborne at the time. A senior officer then saw an object “similar to a star” but bigger and brighter, and an F-4 was scrambled from Shahrokhi Air Base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
+The Tehran incident began shortly after midnight on 19 September 1976, when citizens in the Shemiran area of Tehran reported strange objects in the sky. The declassified U.S. Joint Chiefs of Staff message says some witnesses described a bird-like object and others a helicopter-like light, while no helicopters were airborne at the time. A senior officer then saw an object “similar to a star” but bigger and brighter, and an F-4 was scrambled from Shahrokhi Air Base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
 
-The first F-4 reportedly saw the brilliant object from about 70 miles away but lost instrumentation and UHF/intercom communications when it approached to roughly 25 nautical miles. According to the same U.S. military message, the aircraft regained its systems after breaking off the intercept. A second F-4 was then launched, acquired a radar lock at 27 nautical miles, and the radar return was described as comparable to a large tanker aircraft. The crew reported flashing lights arranged in a rectangular pattern, with colours alternating so quickly that they appeared visible at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">joint chiefs staff report</span><span class="citation-popover-snippet">joint chiefs staff report</span></span></span>
+The first F-4 reportedly saw the brilliant object from about 70 miles away but lost instrumentation and UHF/intercom communications when it approached to roughly 25 nautical miles. According to the same U.S. military message, the aircraft regained its systems after breaking off the intercept. A second F-4 was then launched, acquired a radar lock at 27 nautical miles, and the radar return was described as comparable to a large tanker aircraft. The crew reported flashing lights arranged in a rectangular pattern, with colours alternating so quickly that they appeared visible at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">joint chiefs staff report</span><span class="citation-popover-snippet">joint chiefs staff report</span></span></span>
 
-The most dramatic part of the report concerns the second F-4. The message states that a smaller bright object appeared to come out of the primary object and headed towards the fighter. When the pilot tried to fire an AIM-9 missile, the weapons control panel and communications reportedly failed, prompting an evasive manoeuvre. Later, another object was said to have descended towards the ground, glowing brightly over an area later searched by helicopter. The follow-up search reportedly found no obvious landing site, though the crew detected a beeper signal and local residents described a loud noise and bright light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">us gov iran case</span><span class="citation-popover-snippet">us gov iran case</span></span></span>
+The most dramatic part of the report concerns the second F-4. The message states that a smaller bright object appeared to come out of the primary object and headed towards the fighter. When the pilot tried to fire an AIM-9 missile, the weapons control panel and communications reportedly failed, prompting an evasive manoeuvre. Later, another object was said to have descended towards the ground, glowing brightly over an area later searched by helicopter. The follow-up search reportedly found no obvious landing site, though the crew detected a beeper signal and local residents described a loud noise and bright light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">us gov iran case</span><span class="citation-popover-snippet">us gov iran case</span></span></span>
 
-The case has unusual evidential strengths. It involved trained military personnel, at least one reported radar contact, multiple aircraft, air traffic control, and a declassified U.S. document rather than only retrospective testimony. The NSA page identifies the file as a Joint Chiefs of Staff report concerning a UFO sighting in Iran on 19 September 1976. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">Document Gallery</span><span class="citation-popover-snippet">Document Gallery</span></span></span>
+The case has unusual evidential strengths. It involved trained military personnel, at least one reported radar contact, multiple aircraft, air traffic control, and a declassified U.S. document rather than only retrospective testimony. The NSA page identifies the file as a Joint Chiefs of Staff report concerning a UFO sighting in Iran on 19 September 1976.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">Document Gallery</span><span class="citation-popover-snippet">Document Gallery</span></span></span>
 
 Its weaknesses are equally important. The surviving official document is a message report, not a complete technical investigation. It does not provide raw radar data, maintenance logs, independent instrument recordings, missile-system diagnostics, radiation results, or a final official explanation. Later retellings often turn the document into a stronger claim than it can bear. It establishes that a serious report was circulated; it does not establish what the object was.
 
 <img src="{{ "/assets/images/Iran_Islamic_Republi_94f9ee-Illustration-1-dark.svg" | relative_url }}" alt="Iran Islamic Republic of illustration 1" data-theme-src-dark="{{ "/assets/images/Iran_Islamic_Republi_94f9ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iran_Islamic_Republi_94f9ee-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest sceptical reading is not a single tidy debunk
 
-Sceptical analyses usually do not reduce the Tehran case to one simple error. Instead, they treat it as a cluster of events that may have been stitched together by stress, equipment problems, astronomical objects, meteors and later embellishment. Brian Dunning’s Skeptoid analysis argues that the case becomes less extraordinary when separated into its components: a bright sky object, aircraft electrical issues, possible meteor activity, and ambiguous follow-up details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/315" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">Open source on skeptoid.com.</span></span></span>
+Sceptical analyses usually do not reduce the Tehran case to one simple error. Instead, they treat it as a cluster of events that may have been stitched together by stress, equipment problems, astronomical objects, meteors and later embellishment. Brian Dunning’s Skeptoid analysis argues that the case becomes less extraordinary when separated into its components: a bright sky object, aircraft electrical issues, possible meteor activity, and ambiguous follow-up details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/315" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">Open source on skeptoid.com.</span></span></span>
 
-One common sceptical explanation is that Jupiter may have contributed to the initial bright-object reports. A separate popular account at History summarises that argument and also notes the claim that the second F-4 had a history of electrical problems, which could explain at least part of the reported instrumentation trouble without requiring external interference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY TV Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">TV Nederland History&#x27;s Most Infamous UFO Sightings of the Modern Era</span><span class="citation-popover-snippet">TV Nederland History&#x27;s Most Infamous UFO Sightings of the Modern Era</span></span></span>
+One common sceptical explanation is that Jupiter may have contributed to the initial bright-object reports. A separate popular account at History summarises that argument and also notes the claim that the second F-4 had a history of electrical problems, which could explain at least part of the reported instrumentation trouble without requiring external interference.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY TV Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">TV Nederland History&#x27;s Most Infamous UFO Sightings of the Modern Era</span><span class="citation-popover-snippet">TV Nederland History&#x27;s Most Infamous UFO Sightings of the Modern Era</span></span></span>
 
 That still leaves unresolved questions. A conventional explanation has to account for why trained crews reported a radar lock, apparent pursuit behaviour, and a weapons-panel failure at the moment of attempted missile firing. A pro-UFO reading has to account for missing raw data, the absence of a recovered object, the ambiguity of witness memory, and the known tendency of later television and UFO literature to harden uncertain details into dramatic certainties. The case is therefore best classified as contested and unresolved, not confirmed.
 
 ## The 2004 sighting wave mixed UFO excitement with espionage fears
 
-A second important Iranian cluster occurred in April 2004, when reports circulated of coloured lights and low-altitude objects over northern and north-western Iran. Dawn, citing Iranian state news agency IRNA, reported sightings in towns in northern Iran, including a witness in Tabriz describing red, green and blue lights moving slowly from east to west, and similar reports over Ghonbad-Kavous near the Caspian Sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beta.dawn.com/news/356564/ufo-sighting-in-iran-linked-to-espionage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beta.dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beta.dawn.com</span><span class="citation-popover-title">UFO&#x27; sighting in Iran linked to espionage</span><span class="citation-popover-snippet">UFO&#x27; sighting in Iran linked to espionage</span></span></span>
+A second important Iranian cluster occurred in April 2004, when reports circulated of coloured lights and low-altitude objects over northern and north-western Iran. Dawn, citing Iranian state news agency IRNA, reported sightings in towns in northern Iran, including a witness in Tabriz describing red, green and blue lights moving slowly from east to west, and similar reports over Ghonbad-Kavous near the Caspian Sea.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beta.dawn.com/news/356564/ufo-sighting-in-iran-linked-to-espionage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beta.dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beta.dawn.com</span><span class="citation-popover-title">UFO&#x27; sighting in Iran linked to espionage</span><span class="citation-popover-snippet">UFO&#x27; sighting in Iran linked to espionage</span></span></span>
 
-Reuters coverage carried by ABC News described “flying saucer fever” in Iran after dozens of sightings, with local newspapers running alien cartoons and state television showing what it said was a sparkling white disc filmed over Tehran. The same report placed sightings over Tabriz, Ardebil and Golestan, and described people in several towns rushing into the streets to watch bright lights moving through clouds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2004-04-30/ufo-fever-grips-iran/178068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ufo fever grips iran</span><span class="citation-popover-snippet">ufo fever grips iran</span></span></span>
+Reuters coverage carried by ABC News described “flying saucer fever” in Iran after dozens of sightings, with local newspapers running alien cartoons and state television showing what it said was a sparkling white disc filmed over Tehran. The same report placed sightings over Tabriz, Ardebil and Golestan, and described people in several towns rushing into the streets to watch bright lights moving through clouds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2004-04-30/ufo-fever-grips-iran/178068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ufo fever grips iran</span><span class="citation-popover-snippet">ufo fever grips iran</span></span></span>
 
-The most grounded explanation for at least part of this wave is surveillance anxiety. Wired, summarising Washington Post reporting, stated that the United States had been flying surveillance drones over Iran since the previous year to gather information connected to nuclear activity and air defences. The same report said Iranian civilians had seen unusual coloured lights and that Iranian air force commanders concluded they were spy drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">nasa ufos aliens report 2023</span><span class="citation-popover-snippet">nasa ufos aliens report 2023</span></span></span>
+The most grounded explanation for at least part of this wave is surveillance anxiety. Wired, summarising Washington Post reporting, stated that the United States had been flying surveillance drones over Iran since the previous year to gather information connected to nuclear activity and air defences. The same report said Iranian civilians had seen unusual coloured lights and that Iranian air force commanders concluded they were spy drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">nasa ufos aliens report 2023</span><span class="citation-popover-snippet">nasa ufos aliens report 2023</span></span></span>
 
 That does not mean every 2004 report was a drone. Some sightings may have been aircraft, planets, media contagion or misperception. The key point is that the 2004 wave shows how Iranian UFO claims can arise where genuine military secrecy, public uncertainty and local media excitement overlap.
 
@@ -1236,9 +1236,9 @@ That does not mean every 2004 report was a drone. Some sightings may have been a
 
 ## The 2007 Kerman reports are weaker but useful as a test case
 
-In January 2007, Fars News Agency reports about a “radiant UFO” in Kerman province were repeated internationally. Wikinews summarised the claim that eyewitnesses saw a bright object crash in the Barez Mountains, while a provincial official said aircraft in the area had been accounted for and did not rule out a meteor. The same report noted that meteors can appear as bright fireballs and may leave smoke-like trails. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikinews.org">[Wikinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikinews.org</span><span class="citation-popover-title">Iranian news agency reports UFO has crashed in Kerman</span><span class="citation-popover-snippet">Iranian news agency reports UFO has crashed in Kerman</span></span></span>
+In January 2007, Fars News Agency reports about a “radiant UFO” in Kerman province were repeated internationally. Wikinews summarised the claim that eyewitnesses saw a bright object crash in the Barez Mountains, while a provincial official said aircraft in the area had been accounted for and did not rule out a meteor. The same report noted that meteors can appear as bright fireballs and may leave smoke-like trails.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikinews.org">[Wikinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikinews.org</span><span class="citation-popover-title">Iranian news agency reports UFO has crashed in Kerman</span><span class="citation-popover-snippet">Iranian news agency reports UFO has crashed in Kerman</span></span></span>
 
-Ynet also reported Fars claims of a yellow-ray object seen in western Iran for more than an hour and referred to a separate alleged crash near Kerman. The language was dramatic, but the available evidence appears to have remained at the level of local agency reporting and witness claims, with no public debris analysis, official technical report or reliable follow-up establishing an anomalous craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ynetnews.com/article/3354296" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ynetnews.com">[ynetglobal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ynetnews.com</span><span class="citation-popover-title">ynetglobal Iranians report &#x27;radiant UFO</span><span class="citation-popover-snippet">ynetglobal Iranians report &#x27;radiant UFO</span></span></span>
+Ynet also reported Fars claims of a yellow-ray object seen in western Iran for more than an hour and referred to a separate alleged crash near Kerman. The language was dramatic, but the available evidence appears to have remained at the level of local agency reporting and witness claims, with no public debris analysis, official technical report or reliable follow-up establishing an anomalous craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ynetnews.com/article/3354296" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ynetnews.com">[ynetglobal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ynetnews.com</span><span class="citation-popover-title">ynetglobal Iranians report &#x27;radiant UFO</span><span class="citation-popover-snippet">ynetglobal Iranians report &#x27;radiant UFO</span></span></span>
 
 The Kerman case is valuable because it shows the difference between “reported as a UFO” and “investigated as an unexplained aerial phenomenon”. A crash claim should be among the easiest to strengthen: there should be a location, debris, photographs, environmental effects, official recovery activity or scientific testing. In the public record, the Kerman story does not appear to clear that threshold.
 
@@ -1247,32 +1247,32 @@ The Kerman case is valuable because it shows the difference between “reported 
 
 A useful Iran page should separate evidence categories rather than treat every sighting as equal.
 
-**Confirmed as a documented report:** The 1976 Tehran incident is confirmed as a documented military and intelligence report. The available U.S. records show that the incident was reported, circulated and taken seriously enough to enter official channels. That does not confirm the nature of the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-histories/cold_war_iii.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">cold war iii</span><span class="citation-popover-snippet">cold war iii</span></span></span>
+**Confirmed as a documented report:** The 1976 Tehran incident is confirmed as a documented military and intelligence report. The available U.S. records show that the incident was reported, circulated and taken seriously enough to enter official channels. That does not confirm the nature of the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-histories/cold_war_iii.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">cold war iii</span><span class="citation-popover-snippet">cold war iii</span></span></span>
 
-**Contested and unresolved:** The 1976 case remains unresolved in the public record because the official message contains extraordinary claims but lacks the technical materials needed for a firm conclusion. Its strongest features are trained witnesses and radar/aircraft involvement; its weakest features are missing raw data and plausible partial explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/358" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">Open source on skeptoid.com.</span></span></span>
+**Contested and unresolved:** The 1976 case remains unresolved in the public record because the official message contains extraordinary claims but lacks the technical materials needed for a firm conclusion. Its strongest features are trained witnesses and radar/aircraft involvement; its weakest features are missing raw data and plausible partial explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skeptoid.com/episodes/358" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">Open source on skeptoid.com.</span></span></span>
 
-**Plausibly conventional or security-related:** The 2004 wave is plausibly linked in part to surveillance drones, conventional aircraft, planets, media contagion or mixed causes. The drone explanation is especially relevant because independent reporting connected Iranian UFO rumours to U.S. reconnaissance activity near Iran. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">U.S. Drones Checking on Iran</span><span class="citation-popover-snippet">U.S. Drones Checking on Iran</span></span></span>
+**Plausibly conventional or security-related:** The 2004 wave is plausibly linked in part to surveillance drones, conventional aircraft, planets, media contagion or mixed causes. The drone explanation is especially relevant because independent reporting connected Iranian UFO rumours to U.S. reconnaissance activity near Iran.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">U.S. Drones Checking on Iran</span><span class="citation-popover-snippet">U.S. Drones Checking on Iran</span></span></span>
 
-**Weakly evidenced:** The 2007 Kerman crash reports remain weak because the public evidence appears to rely on agency summaries and witness statements without a robust debris trail or technical investigation. Meteor, aircraft, drone or other conventional explanations were not excluded in a way that would make the case strong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikinews.org/wiki/Talk%3AIranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikinews.org">[Wikinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikinews.org</span><span class="citation-popover-title">Talk:Iranian news agency reports UFO has crashed in Kerman province</span><span class="citation-popover-snippet">Talk:Iranian news agency reports UFO has crashed in Kerman province</span></span></span>
+**Weakly evidenced:** The 2007 Kerman crash reports remain weak because the public evidence appears to rely on agency summaries and witness statements without a robust debris trail or technical investigation. Meteor, aircraft, drone or other conventional explanations were not excluded in a way that would make the case strong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikinews.org/wiki/Talk%3AIranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikinews.org">[Wikinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikinews.org</span><span class="citation-popover-title">Talk:Iranian news agency reports UFO has crashed in Kerman province</span><span class="citation-popover-snippet">Talk:Iranian news agency reports UFO has crashed in Kerman province</span></span></span>
 
 <img src="{{ "/assets/images/Iran_Islamic_Republi_94f9ee-Illustration-2-dark.svg" | relative_url }}" alt="Iran Islamic Republic of illustration 2" data-theme-src-dark="{{ "/assets/images/Iran_Islamic_Republi_94f9ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iran_Islamic_Republi_94f9ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Regional variation: Tehran, the north and Kerman tell different stories
 
-The geography of Iranian UFO reporting is not random in the surviving public material. Tehran dominates because of the 1976 military intercept, Mehrabad-related reporting, and the later symbolic power of the capital. A sighting over Tehran is more likely to gain international attention because it intersects with national airspace, government institutions and media visibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
+The geography of Iranian UFO reporting is not random in the surviving public material. Tehran dominates because of the 1976 military intercept, Mehrabad-related reporting, and the later symbolic power of the capital. A sighting over Tehran is more likely to gain international attention because it intersects with national airspace, government institutions and media visibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
 
-Northern and north-western Iran appear strongly in the 2004 wave, especially Tabriz, Ardebil, Golestan and the Caspian-adjacent reporting corridor. That matters because these areas sit in a broader pattern of border, Caspian and surveillance concerns. Reports of coloured lights there are not automatically exotic; they are exactly the kind of claims that can be produced by drones, aircraft, astronomical objects or mass attention during a politically tense period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beta.dawn.com/news/356564/ufo-sighting-in-iran-linked-to-espionage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beta.dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beta.dawn.com</span><span class="citation-popover-title">UFO&#x27; sighting in Iran linked to espionage</span><span class="citation-popover-snippet">UFO&#x27; sighting in Iran linked to espionage</span></span></span>
+Northern and north-western Iran appear strongly in the 2004 wave, especially Tabriz, Ardebil, Golestan and the Caspian-adjacent reporting corridor. That matters because these areas sit in a broader pattern of border, Caspian and surveillance concerns. Reports of coloured lights there are not automatically exotic; they are exactly the kind of claims that can be produced by drones, aircraft, astronomical objects or mass attention during a politically tense period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beta.dawn.com/news/356564/ufo-sighting-in-iran-linked-to-espionage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beta.dawn.com">[Dawn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beta.dawn.com</span><span class="citation-popover-title">UFO&#x27; sighting in Iran linked to espionage</span><span class="citation-popover-snippet">UFO&#x27; sighting in Iran linked to espionage</span></span></span>
 
-Kerman and Rafsanjan appear in the 2007 crash and fireball-style reports. Those claims are different from Tehran’s radar-and-intercept case: they sound more like meteor, debris or crash-rumour stories, and they suffer from the lack of publicly available physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikinews.org">[Wikinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikinews.org</span><span class="citation-popover-title">Iranian news agency reports UFO has crashed in Kerman</span><span class="citation-popover-snippet">Iranian news agency reports UFO has crashed in Kerman</span></span></span>
+Kerman and Rafsanjan appear in the 2007 crash and fireball-style reports. Those claims are different from Tehran’s radar-and-intercept case: they sound more like meteor, debris or crash-rumour stories, and they suffer from the lack of publicly available physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikinews.org">[Wikinews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikinews.org</span><span class="citation-popover-title">Iranian news agency reports UFO has crashed in Kerman</span><span class="citation-popover-snippet">Iranian news agency reports UFO has crashed in Kerman</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UGBsvpVru88" title="Do you believe in UFOs? | The Ranganation - BBC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UGBsvpVru88" target="_blank" rel="noopener noreferrer">Do you believe in UFOs? | The Ranganation - BBC</a></p><p class="youtube-embed-meta">Channel: BBC &middot; Views: 133.8K &middot; Uploaded: June 2019 &middot; Length: 3 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UGBsvpVru88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UGBsvpVru88">Open on YouTube</a></p></div></div></div>
 
 ## How official records should be weighed
 
-The strongest Iranian UFO source is not a local newspaper, a documentary or a later interview. It is the declassified U.S. military message on the 1976 Tehran incident, available through NSA-related release pages and mirrored in declassified document collections. It gives a contemporary account of what was reported by Iranian and U.S.-linked military channels, including times, aircraft actions and system failures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">joint chiefs staff report</span><span class="citation-popover-snippet">joint chiefs staff report</span></span></span>
+The strongest Iranian UFO source is not a local newspaper, a documentary or a later interview. It is the declassified U.S. military message on the 1976 Tehran incident, available through NSA-related release pages and mirrored in declassified document collections. It gives a contemporary account of what was reported by Iranian and U.S.-linked military channels, including times, aircraft actions and system failures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">joint chiefs staff report</span><span class="citation-popover-snippet">joint chiefs staff report</span></span></span>
 
 But official does not mean infallible. Military messages can relay reports without fully verifying them. They may preserve errors, witness impressions, translation issues, incomplete technical checks or early assumptions. For the Tehran case, the official record is enough to say “a serious incident was reported”; it is not enough to say “an advanced non-human craft was proven”.
 
-Modern official UAP work reinforces that caution. NASA’s independent UAP study emphasised the need for rigorous evidence and better data collection, while the U.S. All-domain Anomaly Resolution Office states that it has found no evidence of extraterrestrial technology in its UAP work. These are not Iran-specific verdicts, but they are relevant standards for reading Iranian cases: extraordinary interpretation requires high-quality sensor data, reproducible evidence and careful exclusion of ordinary causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+Modern official UAP work reinforces that caution. NASA’s independent UAP study emphasised the need for rigorous evidence and better data collection, while the U.S. All-domain Anomaly Resolution Office states that it has found no evidence of extraterrestrial technology in its UAP work. These are not Iran-specific verdicts, but they are relevant standards for reading Iranian cases: extraordinary interpretation requires high-quality sensor data, reproducible evidence and careful exclusion of ordinary causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cYzgGsjuAdA" title="BBC Eye investigates attacks against critics of the Iranian regime on foreign soil | BBC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cYzgGsjuAdA" target="_blank" rel="noopener noreferrer">BBC Eye investigates attacks against critics of the Iranian regime on foreign soil | BBC News</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 21.9K &middot; Uploaded: May 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cYzgGsjuAdA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cYzgGsjuAdA">Open on YouTube</a></p></div></div></div>
 
@@ -1283,194 +1283,194 @@ Iran’s UFO history is not a long, evenly documented catalogue. It is a sharply
 The later reports are more fragile. The 2004 sightings are historically interesting because they show a society trying to interpret lights in the sky during a period of real surveillance tension. The 2007 Kerman claims are useful mainly as a reminder that “UFO crash” headlines often outrun evidence. Across Iran, the most reliable approach is to ask five questions: who observed it, what instruments recorded it, what conventional objects were in the sky, what military or surveillance activity was plausible, and whether later sources added certainty that the original record did not support.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Iran’s UFO Encounters?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Iran’s UFO Encounters?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating major international sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating major international sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Relevant to military and government handling of unidentified aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to military and government handling of unidentified aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Examines evidence quality and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence quality and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains one of the best-known discussions of the Tehran 1976 case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains one of the best-known discussions of the Tehran 1976 case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iran-s-ufo-encounters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iran-s-ufo-encounters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1486,7 +1486,7 @@ The later reports are more fragile. The 2004 sightings are historically interest
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1506,7 +1506,7 @@ The later reports are more fragile. The 2004 sightings are historically interest
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1538,7 +1538,7 @@ The later reports are more fragile. The 2004 sightings are historically interest
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1590,7 +1590,7 @@ The later reports are more fragile. The 2004 sightings are historically interest
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1635,7 +1635,7 @@ The later reports are more fragile. The 2004 sightings are historically interest
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1673,158 +1673,157 @@ The later reports are more fragile. The 2004 sightings are historically interest
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nsa.gov  
    Title: joint chiefs staff report  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/315" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/315</a>  
+   Link:<a href="https://skeptoid.com/episodes/315" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/315</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: U.S. Drones Checking on Iran  
-   Link: <a href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2005/02/u-s-drones-checking-on-iran</a>  
+   Link:<a href="https://www.wired.com/2005/02/u-s-drones-checking-on-iran" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2005/02/u-s-drones-checking-on-iran</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: TV Nederland History's Most Infamous UFO Sightings of the Modern Era  
-   Link: <a href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/historys-most-infamous-ufo-sightings</a>  
+   Link:<a href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/historys-most-infamous-ufo-sightings</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: beta.dawn.com  
    Title: 'UFO' sighting in Iran linked to espionage  
-   Link: <a href="https://beta.dawn.com/news/356564/ufo-sighting-in-iran-linked-to-espionage" target="_blank" rel="noopener noreferrer nofollow">https://beta.dawn.com/news/356564/ufo-sighting-in-iran-linked-to-espionage</a>  
+   Link:<a href="https://beta.dawn.com/news/356564/ufo-sighting-in-iran-linked-to-espionage" target="_blank" rel="noopener noreferrer nofollow">https://beta.dawn.com/news/356564/ufo-sighting-in-iran-linked-to-espionage</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: en.wikinews.org  
    Title: Iranian news agency reports UFO has crashed in Kerman  
-   Link: <a href="https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow">https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province</a>  
+   Link:<a href="https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow">https://en.wikinews.org/wiki/Iranian_news_agency_reports_UFO_has_crashed_in_Kerman_province</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nsa.gov  
    Title: us gov iran case  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nsa.gov  
    Title: Document Gallery  
-   Link: <a href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45</a>  
+   Link:<a href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nsa.gov  
    Title: cold war iii  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-histories/cold_war_iii.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-histories/cold_war_iii.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-histories/cold_war_iii.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-histories/cold_war_iii.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/358" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/358</a>  
+   Link:<a href="https://skeptoid.com/episodes/358" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/358</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: en.wikinews.org  
    Title: Talk:Iranian news agency reports UFO has crashed in Kerman province  
-   Link: <a href="https://en.wikinews.org/wiki/Talk%3AIranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow">https://en.wikinews.org/wiki/Talk%3AIranian_news_agency_reports_UFO_has_crashed_in_Kerman_province</a>  
+   Link:<a href="https://en.wikinews.org/wiki/Talk%3AIranian_news_agency_reports_UFO_has_crashed_in_Kerman_province" target="_blank" rel="noopener noreferrer nofollow">https://en.wikinews.org/wiki/Talk%3AIranian_news_agency_reports_UFO_has_crashed_in_Kerman_province</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wired.com  
    Title: nasa ufos aliens report 2023  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023/</a>  
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Tehran Incident  
-   Link: <a href="https://www.youtube.com/watch?v=Wf2ZKmk6Wrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wf2ZKmk6Wrc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files REVEAL mysterious UAP formations over Iran, CENTCOM captures video | WATCH...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Wf2ZKmk6Wrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wf2ZKmk6Wrc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files REVEAL mysterious UAP formations over Iran, CENTCOM captures video | WATCH...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abc.net.au  
    Title: ufo fever grips iran  
-   Link: <a href="https://www.abc.net.au/news/2004-04-30/ufo-fever-grips-iran/178068" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2004-04-30/ufo-fever-grips-iran/178068</a>  
+   Link:<a href="https://www.abc.net.au/news/2004-04-30/ufo-fever-grips-iran/178068" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2004-04-30/ufo-fever-grips-iran/178068</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ynetnews.com  
    Title: ynetglobal Iranians report 'radiant UFO'  
-   Link: <a href="https://www.ynetnews.com/article/3354296" target="_blank" rel="noopener noreferrer nofollow">https://www.ynetnews.com/article/3354296</a>  
+   Link:<a href="https://www.ynetnews.com/article/3354296" target="_blank" rel="noopener noreferrer nofollow">https://www.ynetnews.com/article/3354296</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06741381" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741381</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06741381" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741381</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06984637" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06984637</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06984637" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06984637</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06741356" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741356</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06741356" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741356</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06935701" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06935701</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06935701" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06935701</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ps20aJz9axA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ps20aJz9axA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Ps20aJz9axA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ps20aJz9axA</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_NU5VbysFJE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_NU5VbysFJE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Triggers UFO Panic To Cover Up Iran Military Fail? &#x27;Oversized Eyes, Hairless…&#x27; | Watch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_NU5VbysFJE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_NU5VbysFJE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Triggers UFO Panic To Cover Up Iran Military Fail? &#x27;Oversized Eyes, Hairless…&#x27; | Watch...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Tib8XEPXbNk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tib8XEPXbNk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files Released as Iran Strike Shakes Strait of Hormuz...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Tib8XEPXbNk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tib8XEPXbNk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files Released as Iran Strike Shakes Strait of Hormuz...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: UFO Files Released as Iran Strike Shakes Strait of Hormuz  
-   Link: <a href="https://www.youtube.com/watch?v=6QuF7F-Xnio" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6QuF7F-Xnio</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Breaks Silence: Strange Encounters | UFO&#x27;s Investigating the Unknown...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6QuF7F-Xnio" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6QuF7F-Xnio</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Breaks Silence: Strange Encounters | UFO&#x27;s Investigating the Unknown...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005516652" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516652</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005516652" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516652</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp87m01007r000400810001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp87m01007r000400810001-4</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp87m01007r000400810001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp87m01007r000400810001-4</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/resources/csi/static/dce5fdfdd711572e69c678bae6c19abb/Studies-67-2-Extracts-June2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/dce5fdfdd711572e69c678bae6c19abb/Studies-67-2-Extracts-June2023.pdf</a>  
+   Link:<a href="https://www.cia.gov/resources/csi/static/dce5fdfdd711572e69c678bae6c19abb/Studies-67-2-Extracts-June2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/dce5fdfdd711572e69c678bae6c19abb/Studies-67-2-Extracts-June2023.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/0B/0B72A302B86EECAD443BBCDCDC76A5B1_911Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/0B/0B72A302B86EECAD443BBCDCDC76A5B1_911Report.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/0B/0B72A302B86EECAD443BBCDCDC76A5B1_911Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/0B/0B72A302B86EECAD443BBCDCDC76A5B1_911Report.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/futurism/posts/something-like-a-black-monster-has-swallowed-the-sky-over-tehran/1280432137286497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/futurism/posts/something-like-a-black-monster-has-swallowed-the-sky-over-tehran/1280432137286497/</a>  
+   Link:<a href="https://www.facebook.com/futurism/posts/something-like-a-black-monster-has-swallowed-the-sky-over-tehran/1280432137286497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/futurism/posts/something-like-a-black-monster-has-swallowed-the-sky-over-tehran/1280432137286497/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: blaze.tv  
-   Link: <a href="https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book</a>  
+   Link:<a href="https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1207452446678403/posts/2100308087392830/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1207452446678403/posts/2100308087392830/</a>
+   Link:<a href="https://www.facebook.com/groups/1207452446678403/posts/2100308087392830/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1207452446678403/posts/2100308087392830/</a>

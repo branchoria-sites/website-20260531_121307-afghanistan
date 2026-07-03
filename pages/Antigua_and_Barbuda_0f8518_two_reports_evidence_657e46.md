@@ -251,7 +251,7 @@ image: /assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Ill
 [Antigua and Barbuda]({{ 'antigua-and-barbuda/' | relative_url }})’s public UFO record is unusually small. Open-source databases and secondary catalogues point to only two widely circulated Antigua cases: a late-1990s sighting near St John’s and a 2010 flashing-light report from Coolidge. That does not make the cases unimportant, but it changes how they should be read. The real issue is not whether Antigua hides a large archive of unexplained encounters; it is whether the surviving reports contain enough evidence to support extraordinary conclusions.
 
 <img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-1-dark.svg" | relative_url }}" alt="Two Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_two_reports_evidence_657e46-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Both cases share the same core weakness: they rely almost entirely on retrospective witness descriptions without photographs, radar logs, contemporaneous aviation records, or independently verified timelines. In a country with heavy night-time air traffic, maritime visibility, satellite passes, and a long-running US tracking presence linked to the Eastern Range space programme, those gaps matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tdglobal.ksc.nasa.gov">[NASA TechDoc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tdglobal.ksc.nasa.gov</span><span class="citation-popover-title">ET Eastern Range Instrumentation Update images</span><span class="citation-popover-snippet">The Eastern Range is the launch head at Cape Canaveral Air Force Station, which also supports Kennedy Space...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patrick.spaceforce.mil">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patrick.spaceforce.mil</span><span class="citation-popover-snippet">Patrick Space Force Base45th SW says Farewell to Antigua Air Station13 Jul 2015 — It served as one of the primary Range and Control instr...</span></span></span>
+Both cases share the same core weakness: they rely almost entirely on retrospective witness descriptions without photographs, radar logs, contemporaneous aviation records, or independently verified timelines. In a country with heavy night-time air traffic, maritime visibility, satellite passes, and a long-running US tracking presence linked to the Eastern Range space programme, those gaps matter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tdglobal.ksc.nasa.gov">[NASA TechDoc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tdglobal.ksc.nasa.gov</span><span class="citation-popover-title">ET Eastern Range Instrumentation Update images</span><span class="citation-popover-snippet">The Eastern Range is the launch head at Cape Canaveral Air Force Station, which also supports Kennedy Space...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patrick.spaceforce.mil">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patrick.spaceforce.mil</span><span class="citation-popover-snippet">Patrick Space Force Base45th SW says Farewell to Antigua Air Station13 Jul 2015 — It served as one of the primary Range and Control instr...</span></span></span>
 
 ## The St John’s 1998 meteor-like account
 
@@ -259,7 +259,7 @@ The stronger of Antigua’s two published reports is the St John’s case, usual
 
 What makes the report notable is not dramatic detail, but its combination of ordinary and unusual elements. A bright moving light that appears meteor-like is consistent with several common aerial phenomena, including fireballs, satellite flares, aircraft viewed head-on, or atmospheric effects. The witness’s claim that the object then halted and flashed unpredictably is the part that pushed the event into the UFO category.
 
-The mention of the Antigua [Air Station]({{ 'air-station/' | relative_url }}) adds local context but not necessarily corroboration. The station was real and historically important. It formed part of the Eastern Range tracking network used for missile and space-launch support from Cape Canaveral. Official US military statements later described Antigua Air Station as one of the range’s primary instrumentation and tracking sites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patrick.spaceforce.mil">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patrick.spaceforce.mil</span><span class="citation-popover-snippet">Patrick Space Force Base45th SW says Farewell to Antigua Air Station13 Jul 2015 — It served as one of the primary Range and Control instr...</span></span></span> Wikipedia That background creates two competing interpretations: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eastern_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eastern Range</span><span class="citation-popover-snippet">Eastern Range</span></span></span>
+The mention of the Antigua [Air Station]({{ 'air-station/' | relative_url }}) adds local context but not necessarily corroboration. The station was real and historically important. It formed part of the Eastern Range tracking network used for missile and space-launch support from Cape Canaveral. Official US military statements later described Antigua Air Station as one of the range’s primary instrumentation and tracking sites.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patrick.spaceforce.mil">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patrick.spaceforce.mil</span><span class="citation-popover-snippet">Patrick Space Force Base45th SW says Farewell to Antigua Air Station13 Jul 2015 — It served as one of the primary Range and Control instr...</span></span></span> Wikipedia That background creates two competing interpretations:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eastern_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eastern Range</span><span class="citation-popover-snippet">Eastern Range</span></span></span>
 
 * To UFO supporters, the presence of a sophisticated tracking facility raises the possibility that unusual aerial activity might have been observed or logged.
 * To sceptics, the same infrastructure increases the likelihood that observers in Antigua occasionally saw unfamiliar aerospace activity, launch-related tracking operations, distant aircraft lighting patterns, or atmospheric reflections connected to normal range operations.
@@ -277,7 +277,7 @@ The St John’s sighting lacks several pieces of evidence that investigators wou
 * No weather or cloud information.
 * No independent witness statements.
 * No photographs or video.
-* No radar or tracking data from Antigua Air Station. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sailingweek.com/antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sailingweek.com">[sailingweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sailingweek.com</span><span class="citation-popover-title">antigua air station</span><span class="citation-popover-snippet">Antigua Sailing WeekAntigua Air Station18 Aug 2012 — The Antigua Air Station was established in the early 1960&#x27;s as a downrange tracking...</span></span></span>
+* No radar or tracking data from Antigua Air Station.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sailingweek.com/antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sailingweek.com">[sailingweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sailingweek.com</span><span class="citation-popover-title">antigua air station</span><span class="citation-popover-snippet">Antigua Sailing WeekAntigua Air Station18 Aug 2012 — The Antigua Air Station was established in the early 1960&#x27;s as a downrange tracking...</span></span></span>
 * No aviation or maritime traffic correlation.
 * No archived local newspaper coverage.
 
@@ -297,7 +297,7 @@ Unlike the St John’s account, the Coolidge report already contains an internal
 
 This distinction matters. Strong UFO cases usually separate observable facts from theories. The most reliable reports focus narrowly on measurable details: shape, movement, timing, speed, sound, direction, duration, and sensor confirmation. The Coolidge account instead blends observation with speculative conclusions.
 
-The setting around Coolidge also complicates interpretation. The area sits near the former Coolidge Air Force Base and the broader Antigua Air Station complex associated with US tracking operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eastern_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eastern Range</span><span class="citation-popover-snippet">Eastern Range</span></span></span> In such an environment, intermittent flashes could plausibly come from:
+The setting around Coolidge also complicates interpretation. The area sits near the former Coolidge Air Force Base and the broader Antigua Air Station complex associated with US tracking operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eastern_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eastern Range</span><span class="citation-popover-snippet">Eastern Range</span></span></span> In such an environment, intermittent flashes could plausibly come from:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,7 +306,7 @@ The setting around Coolidge also complicates interpretation. The area sits near 
 * Satellites reflecting sunlight.
 * High-altitude atmospheric reflections.
 * Astronomical misidentification.
-* Launch-related tracking activity connected to the Eastern Range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Eastern_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eastern Range</span><span class="citation-popover-snippet">Eastern Range</span></span></span>
+* Launch-related tracking activity connected to the Eastern Range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Eastern_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eastern Range</span><span class="citation-popover-snippet">Eastern Range</span></span></span>
 
 </div>
 
@@ -319,7 +319,7 @@ The Coolidge report demonstrates a recurring problem in Caribbean UFO history: d
 
 A flashing point of light in the night sky provides very little measurable information. Human observers struggle to estimate altitude, distance, speed, and size when there is no fixed reference point. Even experienced witnesses can misjudge stationary or slow-moving lights over water or open sky.
 
-NASA’s independent study on unidentified anomalous phenomena stressed that eyewitness reports alone are usually insufficient for firm conclusions without sensor data and systematic collection methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tdglobal.ksc.nasa.gov">[NASA TechDoc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tdglobal.ksc.nasa.gov</span><span class="citation-popover-title">ET Eastern Range Instrumentation Update images</span><span class="citation-popover-snippet">The Eastern Range is the launch head at Cape Canaveral Air Force Station, which also supports Kennedy Space...Read more...</span></span></span>
+NASA’s independent study on unidentified anomalous phenomena stressed that eyewitness reports alone are usually insufficient for firm conclusions without sensor data and systematic collection methods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tdglobal.ksc.nasa.gov">[NASA TechDoc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tdglobal.ksc.nasa.gov</span><span class="citation-popover-title">ET Eastern Range Instrumentation Update images</span><span class="citation-popover-snippet">The Eastern Range is the launch head at Cape Canaveral Air Force Station, which also supports Kennedy Space...Read more...</span></span></span>
 
 The Coolidge case contains none of the elements that would elevate it beyond anecdotal status:
 
@@ -352,7 +352,7 @@ A credible investigative file would normally include immediate notes, local auth
 
 This is particularly important in Antigua because of the island’s historic role in aerospace tracking. If a genuinely unusual object affected restricted airspace, launch operations, or aviation safety, some form of operational record might reasonably be expected.
 
-Yet no publicly available declassified files, air-traffic reports, military memoranda, or radar summaries linked to these sightings have emerged. The existence of Antigua Air Station proves that sophisticated instrumentation existed on the island, but no evidence has appeared showing that the UFO reports were confirmed by those systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patrick.spaceforce.mil">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patrick.spaceforce.mil</span><span class="citation-popover-snippet">Patrick Space Force Base45th SW says Farewell to Antigua Air Station13 Jul 2015 — It served as one of the primary Range and Control instr...</span></span></span>
+Yet no publicly available declassified files, air-traffic reports, military memoranda, or radar summaries linked to these sightings have emerged. The existence of Antigua Air Station proves that sophisticated instrumentation existed on the island, but no evidence has appeared showing that the UFO reports were confirmed by those systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patrick.spaceforce.mil">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patrick.spaceforce.mil</span><span class="citation-popover-snippet">Patrick Space Force Base45th SW says Farewell to Antigua Air Station13 Jul 2015 — It served as one of the primary Range and Control instr...</span></span></span>
 
 ### The reports rely almost entirely on visual impressions
 
@@ -401,194 +401,194 @@ That does not mean the witnesses fabricated their experiences. Both reports may 
 In practical terms, Antigua’s UFO history is therefore best understood as a case study in evidential limits. The surviving reports remain intriguing because they are unresolved, yet they remain weak because the underlying data is too incomplete to test rigorously.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Are Antigua&#x27;s Two UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Are Antigua&#x27;s Two UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how weak and strong cases are distinguished.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how weak and strong cases are distinguished.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating witness reports and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating witness reports and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the importance of corroboration and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of corroboration and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how anecdotal reports become folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how anecdotal reports become folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-antigua-s-two-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-antigua-s-two-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ In practical terms, Antigua’s UFO history is therefore best understood as a ca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ In practical terms, Antigua’s UFO history is therefore best understood as a ca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ In practical terms, Antigua’s UFO history is therefore best understood as a ca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -708,7 +708,7 @@ In practical terms, Antigua’s UFO history is therefore best understood as a ca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -753,7 +753,7 @@ In practical terms, Antigua’s UFO history is therefore best understood as a ca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,154 +791,153 @@ In practical terms, Antigua’s UFO history is therefore best understood as a ca
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tdglobal.ksc.nasa.gov  
    Title: ET Eastern Range Instrumentation Update images  
-   Link: <a href="https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released" target="_blank" rel="noopener noreferrer nofollow">https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Eastern Range is the launch head at Cape Canaveral Air Force Station, which also supports Kennedy Space...Read more...</p></details>
+   Link:<a href="https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released" target="_blank" rel="noopener noreferrer nofollow">https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Eastern Range is the launch head at Cape Canaveral Air Force Station, which also supports Kennedy Space...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Eastern Range  
-   Link: <a href="https://en.wikipedia.org/wiki/Eastern_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eastern_Range</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eastern_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eastern_Range</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=75569" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=75569</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 75569This object I seen had light that ran straight across, they were like a faded yellow color, and they were not fl...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=75569" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=75569</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 75569This object I seen had light that ran straight across, they were like a faded yellow color, and they were not fl...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=94652" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=94652</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 94652More than Twenty Orange reddish lights/objects, moved across the sky and then disappeared in an apparent cloud...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=94652" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=94652</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 94652More than Twenty Orange reddish lights/objects, moved across the sky and then disappeared in an apparent cloud...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=75566" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=75566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 75566NUFORC UFO Sighting 75566... sitting in front room,could see bright red light with white to amber light flashin...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=75566" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=75566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 75566NUFORC UFO Sighting 75566... sitting in front room,could see bright red light with white to amber light flashin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=19573" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=19573</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19573Characteristics: Lights on object. Transparent dome with red light in middle, and flashing red lights underneath...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=19573" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=19573</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19573Characteristics: Lights on object. Transparent dome with red light in middle, and flashing red lights underneath...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e198409" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e198409</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 198409NUFORC Reports for Month 198409; Open, 09/23/1984 21:30, Hinton Blewitt, Bristol (UK/England); Open, 09/...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e198409" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e198409</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 198409NUFORC Reports for Month 198409; Open, 09/23/1984 21:30, Hinton Blewitt, Bristol (UK/England); Open, 09/...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthNUFORC Reports by Month. SIGHTING YEAR/MONTH, REPORT COUNT. 2026/05, 198... 1998/12, 201. 1998/11, 219. 1998/10...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthNUFORC Reports by Month. SIGHTING YEAR/MONTH, REPORT COUNT. 2026/05, 198... 1998/12, 201. 1998/11, 219. 1998/10...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=74800" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=74800</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 74800NUFORC UFO Sighting 74800. Occurred: 2010-03-26 21:50 Local Reported: 2010-03-27 09:24 Pacific Duration: A few s...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=74800" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=74800</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 74800NUFORC UFO Sighting 74800. Occurred: 2010-03-26 21:50 Local Reported: 2010-03-27 09:24 Pacific Duration: A few s...</p></details>
    Published: March 26, 2010  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e199707" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199707</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 199707NUFORC Reports for Month 199707.; Open, 07/26/1997 01:00, Sheffield ((UK/England), United Kingdom; Open...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e199707" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199707</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 199707NUFORC Reports for Month 199707.; Open, 07/26/1997 01:00, Sheffield ((UK/England), United Kingdom; Open...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=178756" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=178756</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 178756NUFORC UFO Sighting 178756. Occurred: 2023-09-04 18:30 Local - Approximate... blinking lights on it like norma...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=178756" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=178756</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 178756NUFORC UFO Sighting 178756. Occurred: 2023-09-04 18:30 Local - Approximate... blinking lights on it like norma...</p></details>
    Published: September 4, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=54730" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=54730</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 54730NUFORC UFO Sighting 54730. Occurred: 1975-07-16 18:30 Local - Approximate Reported: 2007-01-14 09:27 Pacific Dur...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=54730" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=54730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 54730NUFORC UFO Sighting 54730. Occurred: 1975-07-16 18:30 Local - Approximate Reported: 2007-01-14 09:27 Pacific Dur...</p></details>
    Published: January 14, 2007  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=75109" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=75109</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 75109It appeared to be dimly lit with a light source below it flashing slight colors. It disappeared around 11: 10 PM...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=75109" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=75109</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 75109It appeared to be dimly lit with a light source below it flashing slight colors. It disappeared around 11: 10 PM...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing from 1952 to 2009 have been Declassified and released to the public.Read more...</p></details>
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing from 1952 to 2009 have been Declassified and released to the public.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: patrick.spaceforce.mil  
-   Link: <a href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Space Force Base45th SW says Farewell to Antigua Air Station13 Jul 2015 — It served as one of the primary Range and Control instr...</p></details>
+   Link:<a href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Space Force Base45th SW says Farewell to Antigua Air Station13 Jul 2015 — It served as one of the primary Range and Control instr...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sailingweek.com  
    Title: antigua air station  
-   Link: <a href="https://sailingweek.com/antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow">https://sailingweek.com/antigua-air-station/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Antigua Sailing WeekAntigua Air Station18 Aug 2012 — The Antigua Air Station was established in the early 1960&#x27;s as a downrange tracking...</p></details>
+   Link:<a href="https://sailingweek.com/antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow">https://sailingweek.com/antigua-air-station/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Antigua Sailing WeekAntigua Air Station18 Aug 2012 — The Antigua Air Station was established in the early 1960&#x27;s as a downrange tracking...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/oldbahamianphotos/posts/family-island-fridaythe-eastern-test-range-known-locally-as-the-missile-base-gol/1355387885809813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/oldbahamianphotos/posts/family-island-fridaythe-eastern-test-range-known-locally-as-the-missile-base-gol/1355387885809813/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAMILY ISLAND FRIDAY The Eastern Test Range, known...&quot;The Eastern Test Range (ETR) is an instrumented missile test range, managed by the...</p></details>
+   Link:<a href="https://www.facebook.com/oldbahamianphotos/posts/family-island-fridaythe-eastern-test-range-known-locally-as-the-missile-base-gol/1355387885809813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/oldbahamianphotos/posts/family-island-fridaythe-eastern-test-range-known-locally-as-the-missile-base-gol/1355387885809813/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAMILY ISLAND FRIDAY The Eastern Test Range, known...&quot;The Eastern Test Range (ETR) is an instrumented missile test range, managed by the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ccspacemuseum.org  
-   Link: <a href="https://ccspacemuseum.org/facilities/support-ships-on-the-eastern-range/" target="_blank" rel="noopener noreferrer nofollow">https://ccspacemuseum.org/facilities/support-ships-on-the-eastern-range/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Support Ships on the Eastern RangeA variety of ships have operated on the Eastern Range. They primarily provided missile tracking data in...</p></details>
+   Link:<a href="https://ccspacemuseum.org/facilities/support-ships-on-the-eastern-range/" target="_blank" rel="noopener noreferrer nofollow">https://ccspacemuseum.org/facilities/support-ships-on-the-eastern-range/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Support Ships on the Eastern RangeA variety of ships have operated on the Eastern Range. They primarily provided missile tracking data in...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sentientorbs.com  
-   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-174790" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-174790</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· NUFORC FIELDS · NARRATIVE · WHEN &amp; WHERE · INTELLIGENCE · ENVIRONMENTAL CORRELATIONS...</p></details>
+   Link:<a href="https://sentientorbs.com/explore/sightings/NUFORC-174790" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-174790</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· NUFORC FIELDS · NARRATIVE · WHEN &amp; WHERE · INTELLIGENCE · ENVIRONMENTAL CORRELATIONS...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: kayakingksc.com  
-   Link: <a href="https://www.kayakingksc.com/Air-Force-Eastern-Test-Range-History.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kayakingksc.com/Air-Force-Eastern-Test-Range-History.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It served as one of the primary Range and Control instrumentation sites...Read more...</p></details>
+   Link:<a href="https://www.kayakingksc.com/Air-Force-Eastern-Test-Range-History.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kayakingksc.com/Air-Force-Eastern-Test-Range-History.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It served as one of the primary Range and Control instrumentation sites...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sentientorbs.com  
    Title: Triangular shaped something hovering over a dairy farm  
-   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-80101" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-80101</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Antigua),, AntiguaMay 1, 2010 · Formation. 4 flashing red lights forming a square lthen a line flashing o and of...</p></details>
+   Link:<a href="https://sentientorbs.com/explore/sightings/NUFORC-80101" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-80101</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Antigua),, AntiguaMay 1, 2010 · Formation. 4 flashing red lights forming a square lthen a line flashing o and of...</p></details>
    Published: May 1, 2010  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/around-the-world-in-80-ways-exploring-our-planet-through-maps-and-data-3031024397-9783031024399.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/around-the-world-in-80-ways-exploring-our-planet-through-maps-and-data-3031024397-9783031024399.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>structures—but that includes light ships, lit ﬂoating marks, and fog...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/around-the-world-in-80-ways-exploring-our-planet-through-maps-and-data-3031024397-9783031024399.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/around-the-world-in-80-ways-exploring-our-planet-through-maps-and-data-3031024397-9783031024399.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>structures—but that includes light ships, lit ﬂoating marks, and fog...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — Antigua, Martinique, St. Lucia, Barbados, Trinidad. Guyana, 17... Audio of report to NUFORC b...</p></details>
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — Antigua, Martinique, St. Lucia, Barbados, Trinidad. Guyana, 17... Audio of report to NUFORC b...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sentientorbs.com  
    Title: Sighting on Vanderbilt Beach, Naples, Florida  
-   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-75257" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-75257</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsCoolidge (Antigua),, AntiguaMay 1, 2010 · Flash. Multicolored UFO seen over Edson Alberta Twice. I didn&#x27;t really believe...</p></details>
+   Link:<a href="https://sentientorbs.com/explore/sightings/NUFORC-75257" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-75257</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsCoolidge (Antigua),, AntiguaMay 1, 2010 · Flash. Multicolored UFO seen over Edson Alberta Twice. I didn&#x27;t really believe...</p></details>
    Published: May 1, 2010  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: planet4589.org  
    Title: UNITE D STATES MISSILE RANGES  
-   Link: <a href="https://planet4589.org/space/docs/Skinner78.pdf" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/docs/Skinner78.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SkinnerIn the area of Doppler radar at the Eastern Test Range. DOVAP was not used until the Redstone was developed. The first DOVAP equi...</p></details>
+   Link:<a href="https://planet4589.org/space/docs/Skinner78.pdf" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/docs/Skinner78.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SkinnerIn the area of Doppler radar at the Eastern Test Range. DOVAP was not used until the Redstone was developed. The first DOVAP equi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report 19983 Jan 1998 — 30-Mar-98. 22:25 Bury St Edmunds. Suffolk. Twenty five to thirty, small disc shaped objects, that were illuminate...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a78e38de5274a2acd18a91f/UFOReport1998.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report 19983 Jan 1998 — 30-Mar-98. 22:25 Bury St Edmunds. Suffolk. Twenty five to thirty, small disc shaped objects, that were illuminate...</p></details>

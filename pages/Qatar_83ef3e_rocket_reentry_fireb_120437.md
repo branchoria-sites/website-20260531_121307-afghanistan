@@ -251,13 +251,13 @@ image: /assets/images/Qatar_83ef3e_rocket_reentry_fireb_120437-Illustration-1-so
 In October 2017, residents across Qatar watched one of the most dramatic aerial events ever recorded in the country. A bright, fragmented fireball crossed the evening sky, leaving glowing trails that looked to many witnesses like a meteor, a spacecraft, or a classic UFO. Videos spread rapidly across social media, and speculation followed almost immediately.
 
 <img src="{{ "/assets/images/Qatar_83ef3e_rocket_reentry_fireb_120437-Illustration-1-dark.svg" | relative_url }}" alt="2017 Fireball illustration 1" data-theme-src-dark="{{ "/assets/images/Qatar_83ef3e_rocket_reentry_fireb_120437-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Qatar_83ef3e_rocket_reentry_fireb_120437-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes this case important is not that it remained mysterious, but that it was solved unusually quickly. Within hours, astronomers identified the object as the atmospheric re-entry of a Russian SL-4 rocket body rather than an unknown craft. The event became one of the clearest examples in Qatar's UFO record of how a spectacular sighting can appear extraordinary while having a well-documented aerospace explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
+What makes this case important is not that it remained mysterious, but that it was solved unusually quickly. Within hours, astronomers identified the object as the atmospheric re-entry of a Russian SL-4 rocket body rather than an unknown craft. The event became one of the clearest examples in Qatar's UFO record of how a spectacular sighting can appear extraordinary while having a well-documented aerospace explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
 
 For anyone examining UFO reports from Qatar, the 2017 fireball stands as a useful benchmark: a case with multiple witnesses, public video footage, regional visibility and a strong technical explanation supported by space-tracking data.
 
 ## What Witnesses Saw Over Qatar
 
-On the evening of 16 October 2017, people in Doha and elsewhere in Qatar reported a bright object moving across the sky. Witness videos showed a glowing head followed by a long trail of luminous fragments. The object appeared slow compared with a typical shooting star and remained visible long enough for observers to record it on mobile phones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
+On the evening of 16 October 2017, people in Doha and elsewhere in Qatar reported a bright object moving across the sky. Witness videos showed a glowing head followed by a long trail of luminous fragments. The object appeared slow compared with a typical shooting star and remained visible long enough for observers to record it on mobile phones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
 
 The sighting immediately attracted attention because it did not resemble the brief flash most people associate with meteors. Instead, observers described a sustained procession of lights, with pieces apparently breaking apart as they travelled.
 
@@ -266,13 +266,13 @@ Several features made the event seem unusual:
 * The object remained visible for an extended period.
 * Multiple bright fragments appeared to separate from the main body.
 * The path stretched across a large section of the sky.
-* Witnesses in several Gulf countries reported seeing the same phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-title">The Watchers Impressive reentry of Russian SL-4 rocket body over Dubai</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...October 16, 2017 — 16 Oct 2017 — An atmospheric reentry of a Rus...</span><span class="citation-popover-meta">Published: October 16, 2017</span></span></span>
+* Witnesses in several Gulf countries reported seeing the same phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-title">The Watchers Impressive reentry of Russian SL-4 rocket body over Dubai</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...October 16, 2017 — 16 Oct 2017 — An atmospheric reentry of a Rus...</span><span class="citation-popover-meta">Published: October 16, 2017</span></span></span>
 
 Those characteristics often trigger UFO speculation because they look unlike ordinary aircraft and are dramatic enough to create the impression of a vehicle disintegrating or manoeuvring.
 
 ## How the Rocket-Body Explanation Fits
 
-The explanation emerged quickly from regional astronomy observers. The Qatar Astronomical Centre stated that the object was the atmospheric re-entry of a Russian SL-4 rocket body. According to reports at the time, the stage had been associated with a Soyuz launch from Baikonur Cosmodrome only days earlier on a mission connected to the International Space Station. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iloveqatar.net">[2I Love Qatar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iloveqatar.net</span><span class="citation-popover-title">I Love Qatar Last night&#x27;s meteor wasn&#x27;t a meteor!</span><span class="citation-popover-snippet">Click here to find out...17 Oct 2017 — Is it a plane? Nope, turns out the fireball spotted in the sky was in fact a remnant from a Russi...</span></span></span>
+The explanation emerged quickly from regional astronomy observers. The Qatar Astronomical Centre stated that the object was the atmospheric re-entry of a Russian SL-4 rocket body. According to reports at the time, the stage had been associated with a Soyuz launch from Baikonur Cosmodrome only days earlier on a mission connected to the International Space Station.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iloveqatar.net">[2I Love Qatar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iloveqatar.net</span><span class="citation-popover-title">I Love Qatar Last night&#x27;s meteor wasn&#x27;t a meteor!</span><span class="citation-popover-snippet">Click here to find out...17 Oct 2017 — Is it a plane? Nope, turns out the fireball spotted in the sky was in fact a remnant from a Russi...</span></span></span>
 
 A rocket-body re-entry occurs when a spent upper stage or other large piece of space hardware loses altitude and encounters Earth's atmosphere. Unlike a compact natural meteor, a large artificial object is constructed from tanks, structural components and different metals that break apart unevenly as heat builds during descent.
 
@@ -282,19 +282,19 @@ This process creates several visual effects that matched what people in Qatar re
 
 ### The Slow Movement
 
-Many witnesses assume fast-moving objects must be meteors. In reality, re-entering space debris often appears slower because it is travelling on a shallow trajectory across a large portion of the sky. The object may remain visible for tens of seconds rather than the brief flash associated with many meteor events. Reports from across the Gulf indicated the 2017 re-entry remained visible for roughly a minute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-title">The Watchers Impressive reentry of Russian SL-4 rocket body over Dubai</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...October 16, 2017 — 16 Oct 2017 — An atmospheric reentry of a Rus...</span><span class="citation-popover-meta">Published: October 16, 2017</span></span></span>
+Many witnesses assume fast-moving objects must be meteors. In reality, re-entering space debris often appears slower because it is travelling on a shallow trajectory across a large portion of the sky. The object may remain visible for tens of seconds rather than the brief flash associated with many meteor events. Reports from across the Gulf indicated the 2017 re-entry remained visible for roughly a minute.<span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-title">The Watchers Impressive reentry of Russian SL-4 rocket body over Dubai</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...October 16, 2017 — 16 Oct 2017 — An atmospheric reentry of a Rus...</span><span class="citation-popover-meta">Published: October 16, 2017</span></span></span>
 
 ### The Fragmented Appearance
 
-One of the strongest clues was the object's breakup pattern. Rather than remaining a single point of light, the fireball separated into multiple glowing pieces. This is exactly what engineers and astronomers expect when a large rocket stage disintegrates during re-entry. Different components heat, fail and separate at different times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Fireball camera spots rocket reentry burnA camera in the Allsky7 fireball network spots the moment an Atlas-V...</span></span></span>
+One of the strongest clues was the object's breakup pattern. Rather than remaining a single point of light, the fireball separated into multiple glowing pieces. This is exactly what engineers and astronomers expect when a large rocket stage disintegrates during re-entry. Different components heat, fail and separate at different times.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Fireball camera spots rocket reentry burnA camera in the Allsky7 fireball network spots the moment an Atlas-V...</span></span></span>
 
 ### Visibility Across Multiple Countries
 
-The event was not confined to Qatar. Witnesses in Oman, the United Arab Emirates, Bahrain and other parts of the region also reported seeing it. A genuine local atmospheric anomaly would be unlikely to produce such a broad observation footprint, whereas an object descending from orbit naturally becomes visible over a huge geographic area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-title">The Watchers Impressive reentry of Russian SL-4 rocket body over Dubai</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...October 16, 2017 — 16 Oct 2017 — An atmospheric reentry of a Rus...</span><span class="citation-popover-meta">Published: October 16, 2017</span></span></span>
+The event was not confined to Qatar. Witnesses in Oman, the United Arab Emirates, Bahrain and other parts of the region also reported seeing it. A genuine local atmospheric anomaly would be unlikely to produce such a broad observation footprint, whereas an object descending from orbit naturally becomes visible over a huge geographic area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-title">The Watchers Impressive reentry of Russian SL-4 rocket body over Dubai</span><span class="citation-popover-snippet">The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...October 16, 2017 — 16 Oct 2017 — An atmospheric reentry of a Rus...</span><span class="citation-popover-meta">Published: October 16, 2017</span></span></span>
 
 ### Consistency With Orbital Tracking
 
-Space agencies and independent tracking networks routinely monitor large objects in orbit and predict re-entries. While exact timing remains difficult because atmospheric drag changes constantly, rocket-body re-entries are often anticipated in advance. Modern space-debris monitoring systems exist specifically because large objects regularly return to Earth in this way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://indico.esa.int/event/450/contributions/8880/attachments/5696/9452/Rocket%20Reentry%20Trends%20ESA%20Clean%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indico.esa.int">[Indico at ESA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indico.esa.int</span><span class="citation-popover-snippet">Net ~36 rocket bodies added to space debris population each year...Read more...</span></span></span> ESTEC (Indico
+Space agencies and independent tracking networks routinely monitor large objects in orbit and predict re-entries. While exact timing remains difficult because atmospheric drag changes constantly, rocket-body re-entries are often anticipated in advance. Modern space-debris monitoring systems exist specifically because large objects regularly return to Earth in this way.<span class="citation-chip-wrap"><a class="citation-chip" href="https://indico.esa.int/event/450/contributions/8880/attachments/5696/9452/Rocket%20Reentry%20Trends%20ESA%20Clean%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indico.esa.int">[Indico at ESA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indico.esa.int</span><span class="citation-popover-snippet">Net ~36 rocket bodies added to space debris population each year...Read more...</span></span></span> ESTEC (Indico
 
 <img src="{{ "/assets/images/Qatar_83ef3e_rocket_reentry_fireb_120437-Illustration-2-dark.svg" | relative_url }}" alt="2017 Fireball illustration 2" data-theme-src-dark="{{ "/assets/images/Qatar_83ef3e_rocket_reentry_fireb_120437-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Qatar_83ef3e_rocket_reentry_fireb_120437-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why It Looked More Like a UFO Than a Meteor
@@ -308,7 +308,7 @@ Several factors encouraged UFO interpretations:
 * Most people rarely witness a rocket re-entry.
 * The fragmentation resembled scenes from science-fiction films.
 * Mobile-phone footage compressed distances and made the object appear closer than it was.
-* Early social-media discussion spread faster than technical identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
+* Early social-media discussion spread faster than technical identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
 
 </div>
 
@@ -320,7 +320,7 @@ Importantly, the witnesses were not irrational for finding the event unusual. Ro
 
 Most publicly accessible UFO reports connected to Qatar rely on individual testimony, memories recorded years later, or brief descriptions without supporting evidence. The 2017 fireball differed in several important ways.
 
-First, there was extensive visual documentation. Videos appeared from multiple observers rather than a single witness account. Second, the event was observed across national borders, making it easier to compare reports. Third, astronomers provided an explanation tied to a specific object and a known launch history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
+First, there was extensive visual documentation. Videos appeared from multiple observers rather than a single witness account. Second, the event was observed across national borders, making it easier to compare reports. Third, astronomers provided an explanation tied to a specific object and a known launch history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span>
 
 As a result, the evidential chain is unusually strong:
 
@@ -348,206 +348,206 @@ When a bright object appears over the Gulf region, investigators now have a usef
 
 None of these indicators alone proves a rocket-body origin, but together they form a pattern that closely matches the 2017 fireball.
 
-The case also highlights the growing importance of publicly available space-tracking information. As satellite constellations expand and launch rates increase, sightings of re-entering debris are likely to become more common. Events that once might have remained unexplained can increasingly be checked against orbital data, launch records and space-surveillance observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://indico.esa.int/event/450/contributions/8880/attachments/5696/9452/Rocket%20Reentry%20Trends%20ESA%20Clean%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indico.esa.int">[Indico at ESA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indico.esa.int</span><span class="citation-popover-snippet">Net ~36 rocket bodies added to space debris population each year...Read more...</span></span></span> ESTEC (Indico
+The case also highlights the growing importance of publicly available space-tracking information. As satellite constellations expand and launch rates increase, sightings of re-entering debris are likely to become more common. Events that once might have remained unexplained can increasingly be checked against orbital data, launch records and space-surveillance observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://indico.esa.int/event/450/contributions/8880/attachments/5696/9452/Rocket%20Reentry%20Trends%20ESA%20Clean%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indico.esa.int">[Indico at ESA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indico.esa.int</span><span class="citation-popover-snippet">Net ~36 rocket bodies added to space debris population each year...Read more...</span></span></span> ESTEC (Indico
 
 <img src="{{ "/assets/images/Qatar_83ef3e_rocket_reentry_fireb_120437-Illustration-3-dark.svg" | relative_url }}" alt="2017 Fireball illustration 3" data-theme-src-dark="{{ "/assets/images/Qatar_83ef3e_rocket_reentry_fireb_120437-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Qatar_83ef3e_rocket_reentry_fireb_120437-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Qatar's Best UFO Case Was Solved
 
 Among Qatar's small catalogue of publicly discussed UFO incidents, the October 2017 fireball is arguably the most visually impressive. Yet it is also the case with the clearest conventional explanation.
 
-Rather than pointing towards an unknown technology, the evidence points towards a familiar consequence of modern spaceflight: a spent rocket stage returning to Earth and burning up in the atmosphere. The sight was dramatic enough to generate UFO speculation, but the combination of witness footage, regional observations and astronomical identification left little room for a genuinely unexplained interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iloveqatar.net">[2I Love Qatar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iloveqatar.net</span><span class="citation-popover-title">I Love Qatar Last night&#x27;s meteor wasn&#x27;t a meteor!</span><span class="citation-popover-snippet">Click here to find out...17 Oct 2017 — Is it a plane? Nope, turns out the fireball spotted in the sky was in fact a remnant from a Russi...</span></span></span>
+Rather than pointing towards an unknown technology, the evidence points towards a familiar consequence of modern spaceflight: a spent rocket stage returning to Earth and burning up in the atmosphere. The sight was dramatic enough to generate UFO speculation, but the combination of witness footage, regional observations and astronomical identification left little room for a genuinely unexplained interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thepeninsulaqatar.com">[The Peninsula Newspaper]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thepeninsulaqatar.com</span><span class="citation-popover-snippet">The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</span><span class="citation-popover-meta">Published: October 17, 2017</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iloveqatar.net">[2I Love Qatar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iloveqatar.net</span><span class="citation-popover-title">I Love Qatar Last night&#x27;s meteor wasn&#x27;t a meteor!</span><span class="citation-popover-snippet">Click here to find out...17 Oct 2017 — Is it a plane? Nope, turns out the fireball spotted in the sky was in fact a remnant from a Russi...</span></span></span>
 
 For researchers examining Qatar's UFO history, the event serves as a reminder that the strongest lesson from a spectacular sighting is sometimes not that it remained mysterious, but that careful tracking data and astronomical analysis were able to explain it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Qatar&#x27;s Best UFO Case Was Solved. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Qatar&#x27;s Best UFO Case Was Solved. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses investigation methods applicable to fireball reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses investigation methods applicable to fireball reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for separating unexplained events from solved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for separating unexplained events from solved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Helps explain how bright atmospheric events can be mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how bright atmospheric events can be mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
-        </h4>
-        <p class="fr-book-author">By Avi Loeb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
+</h4>
+<p class="fr-book-author">By Avi Loeb</p>
         
-        <p class="fr-book-desc">Shows how unusual objects are analysed scientifically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how unusual objects are analysed scientifically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-qatar-s-best-ufo-case-was-solved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-qatar-s-best-ufo-case-was-solved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ For researchers examining Qatar's UFO history, the event serves as a reminder th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ For researchers examining Qatar's UFO history, the event serves as a reminder th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ For researchers examining Qatar's UFO history, the event serves as a reminder th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ For researchers examining Qatar's UFO history, the event serves as a reminder th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ For researchers examining Qatar's UFO history, the event serves as a reminder th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,101 +753,101 @@ For researchers examining Qatar's UFO history, the event serves as a reminder th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: watchers.news  
    Title: The Watchers Impressive reentry of Russian SL-4 rocket body over Dubai  
-   Link: <a href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...October 16, 2017 — 16 Oct 2017 — An atmospheric reentry of a Rus...</p></details>
+   Link:<a href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The WatchersImpressive reentry of Russian SL-4 rocket body over Dubai...October 16, 2017 — 16 Oct 2017 — An atmospheric reentry of a Rus...</p></details>
    Published: October 16, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: <a href="https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Fireball camera spots rocket reentry burnA camera in the Allsky7 fireball network spots the moment an Atlas-V...</p></details>
+   Link:<a href="https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2021/09/Fireball_camera_spots_rocket_reentry_burn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Fireball camera spots rocket reentry burnA camera in the Allsky7 fireball network spots the moment an Atlas-V...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: x dragon fireball debris reentry video  
-   Link: <a href="https://www.space.com/spacex-dragon-fireball-debris-reentry-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-dragon-fireball-debris-reentry-video</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>X Dragon debris lights up sky in bright fireball over...29 Apr 2023 — A piece of a SpaceX spacecraft made a dramatic but harmless r...</p></details>
+   Link:<a href="https://www.space.com/spacex-dragon-fireball-debris-reentry-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-dragon-fireball-debris-reentry-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X Dragon debris lights up sky in bright fireball over...29 Apr 2023 — A piece of a SpaceX spacecraft made a dramatic but harmless r...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: indico.esa.int  
-   Link: <a href="https://indico.esa.int/event/450/contributions/8880/attachments/5696/9452/Rocket%20Reentry%20Trends%20ESA%20Clean%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indico.esa.int/event/450/contributions/8880/attachments/5696/9452/Rocket%20Reentry%20Trends%20ESA%20Clean%20Space.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Net ~36 rocket bodies added to space debris population each year...Read more...</p></details>
+   Link:<a href="https://indico.esa.int/event/450/contributions/8880/attachments/5696/9452/Rocket%20Reentry%20Trends%20ESA%20Clean%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indico.esa.int/event/450/contributions/8880/attachments/5696/9452/Rocket%20Reentry%20Trends%20ESA%20Clean%20Space.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Net ~36 rocket bodies added to space debris population each year...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/reentries/43658" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries/43658</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SL-4 Rocket Body (ID 43658) ReenteredNote: Possible reentry locations lie anywhere along the blue and yellow ground track. Object Descrip...</p></details>
+   Link:<a href="https://aerospace.org/reentries/43658" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries/43658</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SL-4 Rocket Body (ID 43658) ReenteredNote: Possible reentry locations lie anywhere along the blue and yellow ground track. Object Descrip...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thepeninsulaqatar.com  
-   Link: <a href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow">https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</p></details>
+   Link:<a href="https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor" target="_blank" rel="noopener noreferrer nofollow">https://thepeninsulaqatar.com/article/17/10/2017/Rocket-scrap-spotted-in-Qatar-skies-yesterday%2C-not-a-meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Peninsula NewspaperRocket scrap spotted in Qatar skies yesterday, not a meteorOctober 17, 2017 — 17 Oct 2017 — Qatar Astronomical Cen...</p></details>
    Published: October 17, 2017  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: iloveqatar.net  
    Title: I Love Qatar Last night's meteor wasn't a meteor!  
-   Link: <a href="https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was" target="_blank" rel="noopener noreferrer nofollow">https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Click here to find out...17 Oct 2017 — Is it a plane? Nope, turns out the fireball spotted in the sky was in fact a remnant from a Russi...</p></details>
+   Link:<a href="https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was" target="_blank" rel="noopener noreferrer nofollow">https://www.iloveqatar.net/news/general/last-nights-meteor-wasnt-a-meteor-click-here-to-find-out-what-the-fireball-was</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Click here to find out...17 Oct 2017 — Is it a plane? Nope, turns out the fireball spotted in the sky was in fact a remnant from a Russi...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thepeninsulaqatar/posts/social-media-was-abuzz-with-residents-sharing-videos-and-speculating-the-cause-o/10154693631096582/?locale=es_LA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thepeninsulaqatar/posts/social-media-was-abuzz-with-residents-sharing-videos-and-speculating-the-cause-o/10154693631096582/?locale=es_LA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Peninsula QatarSocial media was abuzz with residents sharing videos and speculating the cause of the strange fireball-like thing seen...</p></details>
+   Link:<a href="https://www.facebook.com/thepeninsulaqatar/posts/social-media-was-abuzz-with-residents-sharing-videos-and-speculating-the-cause-o/10154693631096582/?locale=es_LA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thepeninsulaqatar/posts/social-media-was-abuzz-with-residents-sharing-videos-and-speculating-the-cause-o/10154693631096582/?locale=es_LA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Peninsula QatarSocial media was abuzz with residents sharing videos and speculating the cause of the strange fireball-like thing seen...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/the-things-that-fell-to-earth-8797089/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/the-things-that-fell-to-earth-8797089/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Things That Fell to EarthAfter the rocket stage&#x27;s orbit finally decayed, it had reentered the atmosphere around 3:30 a.m. over the so...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/the-things-that-fell-to-earth-8797089/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/the-things-that-fell-to-earth-8797089/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Things That Fell to EarthAfter the rocket stage&#x27;s orbit finally decayed, it had reentered the atmosphere around 3:30 a.m. over the so...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: eusst.eu  
    Title: eu sst closely monitors upcoming re entry space object zq 3 rb  
-   Link: <a href="https://www.eusst.eu/newsroom/news/eu-sst-closely-monitors-upcoming-re-entry-space-object-zq-3-rb" target="_blank" rel="noopener noreferrer nofollow">https://www.eusst.eu/newsroom/news/eu-sst-closely-monitors-upcoming-re-entry-space-object-zq-3-rb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EU SST closely monitors re-entry of space object ZQ-3 R/B2 Feb 2026 — Due to its inclination of approximately 56.94 degrees, the object c...</p></details>
+   Link:<a href="https://www.eusst.eu/newsroom/news/eu-sst-closely-monitors-upcoming-re-entry-space-object-zq-3-rb" target="_blank" rel="noopener noreferrer nofollow">https://www.eusst.eu/newsroom/news/eu-sst-closely-monitors-upcoming-re-entry-space-object-zq-3-rb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU SST closely monitors re-entry of space object ZQ-3 R/B2 Feb 2026 — Due to its inclination of approximately 56.94 degrees, the object c...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: so a fireball was spotted about an hour a go did you see it  
-   Link: <a href="https://www.facebook.com/QatarAstronomyClub/videos/so-a-fireball-was-spotted-about-an-hour-a-go-did-you-see-it-/1298173673626771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/QatarAstronomyClub/videos/so-a-fireball-was-spotted-about-an-hour-a-go-did-you-see-it-/1298173673626771/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Fireball was spotted about an hour a go. Did you see it...This happen after they launch something like rocket on the evening around 3...</p></details>
+   Link:<a href="https://www.facebook.com/QatarAstronomyClub/videos/so-a-fireball-was-spotted-about-an-hour-a-go-did-you-see-it-/1298173673626771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/QatarAstronomyClub/videos/so-a-fireball-was-spotted-about-an-hour-a-go-did-you-see-it-/1298173673626771/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Fireball was spotted about an hour a go. Did you see it...This happen after they launch something like rocket on the evening around 3...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
    Title: Technologies Underlying Weapons of Mass Destruction  
-   Link: <a href="https://www.academia.edu/11379530/Technologies_Underlying_Weapons_of_Mass_Destruction" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/11379530/Technologies_Underlying_Weapons_of_Mass_Destruction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Aug 2025 — Nuclear weapons require significant investment and technology, making them harder to develop than chemical and biological w...</p></details>
+   Link:<a href="https://www.academia.edu/11379530/Technologies_Underlying_Weapons_of_Mass_Destruction" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/11379530/Technologies_Underlying_Weapons_of_Mass_Destruction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Aug 2025 — Nuclear weapons require significant investment and technology, making them harder to develop than chemical and biological w...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — Bridges, &quot;Mystery fireball that baffled witnesses was likely rocket falling back to Earth,&quot; CBC...</p></details>
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — Bridges, &quot;Mystery fireball that baffled witnesses was likely rocket falling back to Earth,&quot; CBC...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blog.ucs.org  
    Title: russian rocket body seen as a streak over arizona  
-   Link: <a href="https://blog.ucs.org/david-wright/russian-rocket-body-seen-as-a-streak-over-arizona/" target="_blank" rel="noopener noreferrer nofollow">https://blog.ucs.org/david-wright/russian-rocket-body-seen-as-a-streak-over-arizona/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Body Seen as a Streak over Arizona - UCS blogThe U.S. military, which tracks objects in space, said that it was caused by the reen...</p></details>
+   Link:<a href="https://blog.ucs.org/david-wright/russian-rocket-body-seen-as-a-streak-over-arizona/" target="_blank" rel="noopener noreferrer nofollow">https://blog.ucs.org/david-wright/russian-rocket-body-seen-as-a-streak-over-arizona/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Body Seen as a Streak over Arizona - UCS blogThe U.S. military, which tracks objects in space, said that it was caused by the reen...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/playlist?list=PLODWKzUqau_PofpFuWJYOHhhU0-tK5VOS" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLODWKzUqau_PofpFuWJYOHhhU0-tK5VOS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle Eastern countries late Monday, October 16, 2017, witnessed and recorded...Read more...</p></details>
+   Link:<a href="https://www.youtube.com/playlist?list=PLODWKzUqau_PofpFuWJYOHhhU0-tK5VOS" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLODWKzUqau_PofpFuWJYOHhhU0-tK5VOS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Middle Eastern countries late Monday, October 16, 2017, witnessed and recorded...Read more...</p></details>
    Published: October 16, 2017  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/anewztv/posts/a-video-circulating-online-shows-the-dramatic-moment-rocket-debris-falls-in-a-re/122180368424397875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anewztv/posts/a-video-circulating-online-shows-the-dramatic-moment-rocket-debris-falls-in-a-re/122180368424397875/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n a residential area on the outskirts of Qatar&#x27;s capital, Doha...</p></details>
+   Link:<a href="https://www.facebook.com/anewztv/posts/a-video-circulating-online-shows-the-dramatic-moment-rocket-debris-falls-in-a-re/122180368424397875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anewztv/posts/a-video-circulating-online-shows-the-dramatic-moment-rocket-debris-falls-in-a-re/122180368424397875/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n a residential area on the outskirts of Qatar&#x27;s capital, Doha...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVTZ0K7DEv6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVTZ0K7DEv6/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n a residential area on the outskirts of Qatar&#x27;s capital, Doha...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DVTZ0K7DEv6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVTZ0K7DEv6/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n a residential area on the outskirts of Qatar&#x27;s capital, Doha...</p></details>

@@ -257,13 +257,13 @@ image: /assets/images/Netherlands_Kingdom_d6d70a_uap_policy_gap_0da2a4-Illustrat
 The Netherlands does not have a dedicated government office for unidentified anomalous phenomena (UAP), even as public reporting, drone activity, and airspace-security concerns have become more visible. That policy gap matters because Dutch authorities now face two overlapping problems that were once treated separately: civilian reports of unusual aerial objects and genuine security incidents involving drones near airports, military installations, and critical infrastructure.
 
 <img src="{{ "/assets/images/Netherlands_Kingdom_d6d70a_uap_policy_gap_0da2a4-Illustration-1-dark.svg" | relative_url }}" alt="Policy Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Netherlands_Kingdom_d6d70a_uap_policy_gap_0da2a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Netherlands_Kingdom_d6d70a_uap_policy_gap_0da2a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For decades, Dutch UFO reports largely sat outside formal state structures. Witnesses typically reported sightings to civilian groups, researchers, journalists, or local media rather than to a national investigative body. In recent years, however, the growth of consumer drones, military drone warfare in Europe, and a wider international debate about UAP transparency have raised a practical question: when Dutch pilots, soldiers, police officers, or citizens see something unusual in the sky, who is supposed to receive, analyse, and coordinate that information? The answer remains fragmented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-snippet">UAP Coalitie NederlandUAP Coalition NetherlandsDiscover our commitment to promoting transparency, collaboration, understanding and resear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.marechaussee.nl/topics/d/drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.marechaussee.nl">[Royal Netherlands Marechaussee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.marechaussee.nl</span><span class="citation-popover-snippet">We are responsible for policing duties at airports and military sites...</span></span></span>
+For decades, Dutch UFO reports largely sat outside formal state structures. Witnesses typically reported sightings to civilian groups, researchers, journalists, or local media rather than to a national investigative body. In recent years, however, the growth of consumer drones, military drone warfare in Europe, and a wider international debate about UAP transparency have raised a practical question: when Dutch pilots, soldiers, police officers, or citizens see something unusual in the sky, who is supposed to receive, analyse, and coordinate that information? The answer remains fragmented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-snippet">UAP Coalitie NederlandUAP Coalition NetherlandsDiscover our commitment to promoting transparency, collaboration, understanding and resear...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://english.marechaussee.nl/topics/d/drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.marechaussee.nl">[Royal Netherlands Marechaussee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.marechaussee.nl</span><span class="citation-popover-snippet">We are responsible for policing duties at airports and military sites...</span></span></span>
 
 ## Why the Netherlands Has No Dedicated UAP Office
 
 Unlike the United States, which has created formal military and intelligence structures for reviewing UAP reports, the Netherlands has never established a permanent national UAP investigation office. Dutch aviation authorities, defence organisations, police services, and civilian reporting platforms each handle different pieces of the picture, but no central body exists to collect and evaluate all unusual aerial observations.
 
-Historically, this reflected the Dutch assessment that most UFO reports were either explainable or lacked sufficient evidence for state investigation. Much of the country's sighting history was handled by civilian researchers and reporting networks rather than government agencies. Even large public databases remained outside official structures. UFO Meldpunt Nederland, one of the best-known Dutch reporting platforms, accumulated thousands of reports while operating independently rather than as a state-run system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomeldpunt.nl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomeldpunt.nl">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomeldpunt.nl</span><span class="citation-popover-title">UFO Meldpunt Nederland Laatste UFO-meldingen in Nederland</span><span class="citation-popover-snippet">UFO Meldpunt NederlandLaatste UFO-meldingen in Nederland - UFO Meldpunt...Laatste UFO-meldingen in Nederland. Uitgelicht. Langs spoor Le...</span></span></span>
+Historically, this reflected the Dutch assessment that most UFO reports were either explainable or lacked sufficient evidence for state investigation. Much of the country's sighting history was handled by civilian researchers and reporting networks rather than government agencies. Even large public databases remained outside official structures. UFO Meldpunt Nederland, one of the best-known Dutch reporting platforms, accumulated thousands of reports while operating independently rather than as a state-run system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomeldpunt.nl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomeldpunt.nl">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomeldpunt.nl</span><span class="citation-popover-title">UFO Meldpunt Nederland Laatste UFO-meldingen in Nederland</span><span class="citation-popover-snippet">UFO Meldpunt NederlandLaatste UFO-meldingen in Nederland - UFO Meldpunt...Laatste UFO-meldingen in Nederland. Uitgelicht. Langs spoor Le...</span></span></span>
 
 This arrangement creates several practical limitations:
 
@@ -281,7 +281,7 @@ The result is not a complete absence of reporting channels but a lack of a singl
 
 ## What Dutch UAP Advocates Want Changed
 
-The emergence of international UAP debates has encouraged a small but increasingly organised Dutch advocacy movement. One notable example is the UAP Coalition Netherlands, which argues that the Netherlands should develop clearer procedures for reporting and studying unexplained aerial phenomena. Among its stated goals are improved transparency, formal recognition of the issue, cooperation between professionals, and the creation of a recognised reporting centre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-snippet">UAP Coalitie NederlandUAP Coalition NetherlandsDiscover our commitment to promoting transparency, collaboration, understanding and resear...</span></span></span>
+The emergence of international UAP debates has encouraged a small but increasingly organised Dutch advocacy movement. One notable example is the UAP Coalition Netherlands, which argues that the Netherlands should develop clearer procedures for reporting and studying unexplained aerial phenomena. Among its stated goals are improved transparency, formal recognition of the issue, cooperation between professionals, and the creation of a recognised reporting centre.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-snippet">UAP Coalitie NederlandUAP Coalition NetherlandsDiscover our commitment to promoting transparency, collaboration, understanding and resear...</span></span></span>
 
 Advocates generally frame the issue less as proof of extraterrestrial activity and more as a governance problem. Their argument is that unexplained observations may involve several categories:
 
@@ -298,7 +298,7 @@ Advocates generally frame the issue less as proof of extraterrestrial activity a
 
 From this perspective, a reporting office would function primarily as an information-management system rather than an office dedicated to proving extraordinary claims.
 
-The Dutch debate differs from some American discussions because it is often tied to practical safety questions. Supporters of reform argue that pilots, air-traffic personnel, military staff, and emergency responders should have a clear route for submitting unusual observations without immediately forcing them into either a UFO culture framework or a conventional criminal reporting process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-snippet">UAP Coalitie NederlandUAP Coalition NetherlandsDiscover our commitment to promoting transparency, collaboration, understanding and resear...</span></span></span>
+The Dutch debate differs from some American discussions because it is often tied to practical safety questions. Supporters of reform argue that pilots, air-traffic personnel, military staff, and emergency responders should have a clear route for submitting unusual observations without immediately forcing them into either a UFO culture framework or a conventional criminal reporting process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapcoalitienederland.nl/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcoalitienederland.nl">[UAP Coalitie Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcoalitienederland.nl</span><span class="citation-popover-snippet">UAP Coalitie NederlandUAP Coalition NetherlandsDiscover our commitment to promoting transparency, collaboration, understanding and resear...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q_QTuY9Kswg" title="DRONES OVER DUTCH AIRSPACE: Who Is Behind The Drone Attacks On Europe’s Air Bases?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q_QTuY9Kswg" target="_blank" rel="noopener noreferrer">DRONES OVER DUTCH AIRSPACE: Who Is Behind The Drone Attacks On Europe’s Air Bases?</a></p><p class="youtube-embed-meta">Channel: Times Now World &middot; Views: 4.6K &middot; Uploaded: November 2025 &middot; Length: 4 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q_QTuY9Kswg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q_QTuY9Kswg">Open on YouTube</a></p></div></div></div>
 
@@ -318,7 +318,7 @@ A witness may report:
 
 </div>
 
-At the moment of observation, those categories can overlap. Many civilian reports later turn out to involve satellites, aircraft, planets, Starlink trains, or other identifiable causes. Yet some observations initially resemble drone activity, and some drone incidents can resemble traditional UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomeldpunt.nl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomeldpunt.nl">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomeldpunt.nl</span><span class="citation-popover-title">UFO Meldpunt Nederland Laatste UFO-meldingen in Nederland</span><span class="citation-popover-snippet">UFO Meldpunt NederlandLaatste UFO-meldingen in Nederland - UFO Meldpunt...Laatste UFO-meldingen in Nederland. Uitgelicht. Langs spoor Le...</span></span></span>
+At the moment of observation, those categories can overlap. Many civilian reports later turn out to involve satellites, aircraft, planets, Starlink trains, or other identifiable causes. Yet some observations initially resemble drone activity, and some drone incidents can resemble traditional UFO reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomeldpunt.nl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomeldpunt.nl">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomeldpunt.nl</span><span class="citation-popover-title">UFO Meldpunt Nederland Laatste UFO-meldingen in Nederland</span><span class="citation-popover-snippet">UFO Meldpunt NederlandLaatste UFO-meldingen in Nederland - UFO Meldpunt...Laatste UFO-meldingen in Nederland. Uitgelicht. Langs spoor Le...</span></span></span>
 
 This creates a policy challenge. Aviation safety systems are designed to respond to hazards in airspace, while civilian UFO reporting systems are designed to collect witness accounts. The Netherlands lacks a dedicated mechanism that combines both functions into a single national assessment process.
 
@@ -328,9 +328,9 @@ As drone technology becomes cheaper and more capable, the distinction between "u
 
 The strongest recent pressure on Dutch policy has not come from classic UFO cases but from drone incidents near sensitive locations.
 
-The Royal Netherlands Marechaussee, which has responsibilities at airports and military sites, explicitly recognises unauthorised drones as a security issue. Dutch authorities already maintain enforcement structures for drone violations, but those structures are primarily focused on identifying operators and protecting restricted airspace rather than investigating broader UAP questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.marechaussee.nl/topics/d/drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.marechaussee.nl">[Royal Netherlands Marechaussee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.marechaussee.nl</span><span class="citation-popover-snippet">We are responsible for policing duties at airports and military sites...</span></span></span>
+The Royal Netherlands Marechaussee, which has responsibilities at airports and military sites, explicitly recognises unauthorised drones as a security issue. Dutch authorities already maintain enforcement structures for drone violations, but those structures are primarily focused on identifying operators and protecting restricted airspace rather than investigating broader UAP questions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.marechaussee.nl/topics/d/drones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.marechaussee.nl">[Royal Netherlands Marechaussee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.marechaussee.nl</span><span class="citation-popover-snippet">We are responsible for policing duties at airports and military sites...</span></span></span>
 
-The shift became particularly visible during the wider European wave of drone alerts and incursions that affected airports, military bases, and strategic infrastructure across several NATO countries in 2025. European security officials increasingly treated unidentified drone activity as a potential intelligence, sabotage, or hybrid-threat problem rather than merely an aviation nuisance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/3f46be71-61f5-4d7c-b57a-fec2d4815285" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Netherlands investigates drone incursions in south</span><span class="citation-popover-snippet">The incident is part of a growing pattern across several EU countries, including Germany, Belgium, Denmark, and Poland, where drones have...</span></span></span>
+The shift became particularly visible during the wider European wave of drone alerts and incursions that affected airports, military bases, and strategic infrastructure across several NATO countries in 2025. European security officials increasingly treated unidentified drone activity as a potential intelligence, sabotage, or hybrid-threat problem rather than merely an aviation nuisance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/3f46be71-61f5-4d7c-b57a-fec2d4815285" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Netherlands investigates drone incursions in south</span><span class="citation-popover-snippet">The incident is part of a growing pattern across several EU countries, including Germany, Belgium, Denmark, and Poland, where drones have...</span></span></span>
 
 For Dutch policymakers, this changed the context of unusual aerial reports. An unidentified object near a military base can no longer be assumed to be a harmless curiosity. It may represent surveillance, testing of defensive responses, disruption attempts, or criminal activity.
 
@@ -339,7 +339,7 @@ For Dutch policymakers, this changed the context of unusual aerial reports. An u
 
 The clearest example of this shift came from reported drone activity around Dutch military and aviation facilities in late 2025.
 
-According to reporting by international news organisations, unidentified drones were observed near Volkel Air Base and Eindhoven Airport. Dutch authorities treated the incidents seriously enough to suspend operations and launch investigations. The Dutch military reportedly opened fire on drones detected above Volkel Air Base, although no wreckage was recovered. Defence officials released only limited information, citing operational security concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Dutch military opens fire at drones over Volkel Air Base</span><span class="citation-popover-snippet">and 9 p.m. on Friday, though no drone wreckage was recovered, according to a statement from the Ministry of Defense. This incident is par...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/3f46be71-61f5-4d7c-b57a-fec2d4815285" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Netherlands investigates drone incursions in south</span><span class="citation-popover-snippet">The incident is part of a growing pattern across several EU countries, including Germany, Belgium, Denmark, and Poland, where drones have...</span></span></span>
+According to reporting by international news organisations, unidentified drones were observed near Volkel Air Base and Eindhoven Airport. Dutch authorities treated the incidents seriously enough to suspend operations and launch investigations. The Dutch military reportedly opened fire on drones detected above Volkel Air Base, although no wreckage was recovered. Defence officials released only limited information, citing operational security concerns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Dutch military opens fire at drones over Volkel Air Base</span><span class="citation-popover-snippet">and 9 p.m. on Friday, though no drone wreckage was recovered, according to a statement from the Ministry of Defense. This incident is par...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/3f46be71-61f5-4d7c-b57a-fec2d4815285" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Netherlands investigates drone incursions in south</span><span class="citation-popover-snippet">The incident is part of a growing pattern across several EU countries, including Germany, Belgium, Denmark, and Poland, where drones have...</span></span></span>
 
 These incidents were significant for several reasons.
 
@@ -347,7 +347,7 @@ First, they involved locations with strategic military importance rather than or
 
 Second, authorities responded as though the activity could pose a genuine security threat.
 
-Third, investigators were unable to provide immediate public answers about who operated the drones or what their purpose was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Dutch military opens fire at drones over Volkel Air Base</span><span class="citation-popover-snippet">and 9 p.m. on Friday, though no drone wreckage was recovered, according to a statement from the Ministry of Defense. This incident is par...</span></span></span>
+Third, investigators were unable to provide immediate public answers about who operated the drones or what their purpose was.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Dutch military opens fire at drones over Volkel Air Base</span><span class="citation-popover-snippet">and 9 p.m. on Friday, though no drone wreckage was recovered, according to a statement from the Ministry of Defense. This incident is par...</span></span></span>
 
 In traditional UFO discussions, unresolved identification often leads to speculation about exotic explanations. In the drone era, unresolved identification increasingly points toward a different concern: unknown operators exploiting gaps in detection, attribution, or airspace security.
 
@@ -359,7 +359,7 @@ That does not mean the incidents were mysterious in a paranormal sense. It means
 
 The Netherlands is part of a broader European trend in which drone incursions are increasingly viewed through a defence and resilience lens.
 
-Across NATO countries, military planners have become concerned about unauthorised drone activity around air bases, ports, energy facilities, and transport infrastructure. Similar incidents in Belgium, Denmark, Germany, Britain, and the Baltic region have pushed governments to strengthen detection and counter-drone capabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/drone-incidents-uk-military-bases-doubled-last-year-2026-02-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Drone incidents at UK military bases doubled last year</span><span class="citation-popover-snippet">The British government responded by granting military officers expanded authority to counter these threats, including the power to destro...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/belgium-install-airdefence-system-port-antwerp-2027-newspaper-says-2026-02-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This decision follows a series of drone incursions in the previous year that temporarily shut down airports and a military base, and incl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">drone incursions sow fear chaos along natos baltic finnish borders 2026 05 27</span><span class="citation-popover-snippet">Stray Ukrainian military drones, often diverted by Russian electronic warfare, have entered these countries&#x27; territories, resulting in ac...</span></span></span>
+Across NATO countries, military planners have become concerned about unauthorised drone activity around air bases, ports, energy facilities, and transport infrastructure. Similar incidents in Belgium, Denmark, Germany, Britain, and the Baltic region have pushed governments to strengthen detection and counter-drone capabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/uk/drone-incidents-uk-military-bases-doubled-last-year-2026-02-02/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Drone incidents at UK military bases doubled last year</span><span class="citation-popover-snippet">The British government responded by granting military officers expanded authority to counter these threats, including the power to destro...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/belgium-install-airdefence-system-port-antwerp-2027-newspaper-says-2026-02-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This decision follows a series of drone incursions in the previous year that temporarily shut down airports and a military base, and incl...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">drone incursions sow fear chaos along natos baltic finnish borders</span><span class="citation-popover-snippet">Stray Ukrainian military drones, often diverted by Russian electronic warfare, have entered these countries&#x27; territories, resulting in ac...</span></span></span>
 
 The Dutch discussion therefore sits at the intersection of three previously separate conversations:
 
@@ -395,7 +395,7 @@ Potential functions often discussed include:
 
 Such a model would resemble an information-clearing system more than a traditional UFO bureau.
 
-Critics remain unconvinced that the volume of genuinely unexplained Dutch cases justifies creating a dedicated government office. Skeptical investigators have long argued that many reports eventually receive conventional explanations and that scarce public resources should focus on aviation safety and drone enforcement rather than a separate UAP bureaucracy. The debate therefore revolves less around whether unusual reports exist and more around whether a specialised institution would improve safety and understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomeldpunt.nl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomeldpunt.nl">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomeldpunt.nl</span><span class="citation-popover-title">UFO Meldpunt Nederland Laatste UFO-meldingen in Nederland</span><span class="citation-popover-snippet">UFO Meldpunt NederlandLaatste UFO-meldingen in Nederland - UFO Meldpunt...Laatste UFO-meldingen in Nederland. Uitgelicht. Langs spoor Le...</span></span></span>
+Critics remain unconvinced that the volume of genuinely unexplained Dutch cases justifies creating a dedicated government office. Skeptical investigators have long argued that many reports eventually receive conventional explanations and that scarce public resources should focus on aviation safety and drone enforcement rather than a separate UAP bureaucracy. The debate therefore revolves less around whether unusual reports exist and more around whether a specialised institution would improve safety and understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomeldpunt.nl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomeldpunt.nl">[UFO Meldpunt Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomeldpunt.nl</span><span class="citation-popover-title">UFO Meldpunt Nederland Laatste UFO-meldingen in Nederland</span><span class="citation-popover-snippet">UFO Meldpunt NederlandLaatste UFO-meldingen in Nederland - UFO Meldpunt...Laatste UFO-meldingen in Nederland. Uitgelicht. Langs spoor Le...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WWos6l-X9T0" title="Military Silence Broken | Alien Documentary | The UFOs In Dutch Skies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WWos6l-X9T0" target="_blank" rel="noopener noreferrer">Military Silence Broken | Alien Documentary | The UFOs In Dutch Skies</a></p><p class="youtube-embed-meta">Channel: THE STREAM - Movies and More &middot; Views: 77.1K &middot; Uploaded: May 2025 &middot; Length: 1 hour 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WWos6l-X9T0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WWos6l-X9T0">Open on YouTube</a></p></div></div></div>
 
@@ -405,197 +405,197 @@ The Dutch policy gap is ultimately not about proving extraordinary craft. It is 
 
 When a citizen reports an unusual light, a pilot reports an unidentified object, or a military base experiences a drone intrusion, different parts of the Dutch system currently handle those events through different channels. That arrangement functioned reasonably well when most reports were isolated civilian sightings. It is under greater pressure now that Europe faces a rapidly expanding drone environment and more frequent concerns about airspace security.
 
-The Volkel and Eindhoven incidents demonstrated that some aerial events are no longer merely questions of public curiosity. They can affect airport operations, military readiness, and national security. As a result, the Dutch UAP discussion increasingly revolves around governance rather than mystery: not whether something unusual is in the sky, but whether the state has a clear, coherent process for dealing with it when it appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Dutch military opens fire at drones over Volkel Air Base</span><span class="citation-popover-snippet">and 9 p.m. on Friday, though no drone wreckage was recovered, according to a statement from the Ministry of Defense. This incident is par...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/3f46be71-61f5-4d7c-b57a-fec2d4815285" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Netherlands investigates drone incursions in south</span><span class="citation-popover-snippet">The incident is part of a growing pattern across several EU countries, including Germany, Belgium, Denmark, and Poland, where drones have...</span></span></span>
+The Volkel and Eindhoven incidents demonstrated that some aerial events are no longer merely questions of public curiosity. They can affect airport operations, military readiness, and national security. As a result, the Dutch UAP discussion increasingly revolves around governance rather than mystery: not whether something unusual is in the sky, but whether the state has a clear, coherent process for dealing with it when it appears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Dutch military opens fire at drones over Volkel Air Base</span><span class="citation-popover-snippet">and 9 p.m. on Friday, though no drone wreckage was recovered, according to a statement from the Ministry of Defense. This incident is par...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/3f46be71-61f5-4d7c-b57a-fec2d4815285" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-title">Financial Times Netherlands investigates drone incursions in south</span><span class="citation-popover-snippet">The incident is part of a growing pattern across several EU countries, including Germany, Belgium, Denmark, and Poland, where drones have...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should the Netherlands Have a UAP Reporting Office?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should the Netherlands Have a UAP Reporting Office?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines institutional responses and official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines institutional responses and official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses governmental handling of UFO reports and transparency issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses governmental handling of UFO reports and transparency issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores the cultural environment surrounding modern UAP discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the cultural environment surrounding modern UAP discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Focuses on how official structures have handled unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on how official structures have handled unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-the-netherlands-have-a-uap-reporting-office-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="should-the-netherlands-have-a-uap-reporting-office-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -611,7 +611,7 @@ The Volkel and Eindhoven incidents demonstrated that some aerial events are no l
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -631,7 +631,7 @@ The Volkel and Eindhoven incidents demonstrated that some aerial events are no l
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -663,7 +663,7 @@ The Volkel and Eindhoven incidents demonstrated that some aerial events are no l
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -715,7 +715,7 @@ The Volkel and Eindhoven incidents demonstrated that some aerial events are no l
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -760,7 +760,7 @@ The Volkel and Eindhoven incidents demonstrated that some aerial events are no l
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -801,107 +801,107 @@ The Volkel and Eindhoven incidents demonstrated that some aerial events are no l
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: english.marechaussee.nl  
-   Link: <a href="https://english.marechaussee.nl/topics/d/drones" target="_blank" rel="noopener noreferrer nofollow">https://english.marechaussee.nl/topics/d/drones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We are responsible for policing duties at airports and military sites...</p></details>
+   Link:<a href="https://english.marechaussee.nl/topics/d/drones" target="_blank" rel="noopener noreferrer nofollow">https://english.marechaussee.nl/topics/d/drones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We are responsible for policing duties at airports and military sites...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
    Title: Drone incidents at UK military bases doubled last year  
-   Link: <a href="https://www.reuters.com/world/uk/drone-incidents-uk-military-bases-doubled-last-year-2026-02-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/drone-incidents-uk-military-bases-doubled-last-year-2026-02-02/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The British government responded by granting military officers expanded authority to counter these threats, including the power to destro...</p></details>
+   Link:<a href="https://www.reuters.com/world/uk/drone-incidents-uk-military-bases-doubled-last-year-2026-02-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/drone-incidents-uk-military-bases-doubled-last-year-2026-02-02/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The British government responded by granting military officers expanded authority to counter these threats, including the power to destro...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/belgium-install-airdefence-system-port-antwerp-2027-newspaper-says-2026-02-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/belgium-install-airdefence-system-port-antwerp-2027-newspaper-says-2026-02-26/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This decision follows a series of drone incursions in the previous year that temporarily shut down airports and a military base, and incl...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/belgium-install-airdefence-system-port-antwerp-2027-newspaper-says-2026-02-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/belgium-install-airdefence-system-port-antwerp-2027-newspaper-says-2026-02-26/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This decision follows a series of drone incursions in the previous year that temporarily shut down airports and a military base, and incl...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: drone incursions sow fear chaos along natos baltic finnish borders 2026 05 27  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stray Ukrainian military drones, often diverted by Russian electronic warfare, have entered these countries&#x27; territories, resulting in ac...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-05-27/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stray Ukrainian military drones, often diverted by Russian electronic warfare, have entered these countries&#x27; territories, resulting in ac...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: uapcoalitienederland.nl  
-   Link: <a href="https://uapcoalitienederland.nl/en/" target="_blank" rel="noopener noreferrer nofollow">https://uapcoalitienederland.nl/en/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Coalitie NederlandUAP Coalition NetherlandsDiscover our commitment to promoting transparency, collaboration, understanding and resear...</p></details>
+   Link:<a href="https://uapcoalitienederland.nl/en/" target="_blank" rel="noopener noreferrer nofollow">https://uapcoalitienederland.nl/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Coalitie NederlandUAP Coalition NetherlandsDiscover our commitment to promoting transparency, collaboration, understanding and resear...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufomeldpunt.nl  
    Title: UFO Meldpunt Nederland Laatste UFO-meldingen in Nederland  
-   Link: <a href="https://www.ufomeldpunt.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Meldpunt NederlandLaatste UFO-meldingen in Nederland - UFO Meldpunt...Laatste UFO-meldingen in Nederland. Uitgelicht. Langs spoor Le...</p></details>
+   Link:<a href="https://www.ufomeldpunt.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Meldpunt NederlandLaatste UFO-meldingen in Nederland - UFO Meldpunt...Laatste UFO-meldingen in Nederland. Uitgelicht. Langs spoor Le...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufomeldpunt.nl  
-   Link: <a href="https://www.ufomeldpunt.nl/kaart" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/kaart</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Meldpunt NederlandUFO Meldingen op de kaartUFO Meldpunt Nederland · Melden UFO melden · UFO meldingen · Kaart · Verklaringen · Statis...</p></details>
+   Link:<a href="https://www.ufomeldpunt.nl/kaart" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomeldpunt.nl/kaart</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Meldpunt NederlandUFO Meldingen op de kaartUFO Meldpunt Nederland · Melden UFO melden · UFO meldingen · Kaart · Verklaringen · Statis...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ft.com  
    Title: Financial Times Netherlands investigates drone incursions in south  
-   Link: <a href="https://www.ft.com/content/3f46be71-61f5-4d7c-b57a-fec2d4815285" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/3f46be71-61f5-4d7c-b57a-fec2d4815285</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The incident is part of a growing pattern across several EU countries, including Germany, Belgium, Denmark, and Poland, where drones have...</p></details>
+   Link:<a href="https://www.ft.com/content/3f46be71-61f5-4d7c-b57a-fec2d4815285" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/3f46be71-61f5-4d7c-b57a-fec2d4815285</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The incident is part of a growing pattern across several EU countries, including Germany, Belgium, Denmark, and Poland, where drones have...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: apnews.com  
    Title: AP News Dutch military opens fire at drones over Volkel Air Base  
-   Link: <a href="https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and 9 p.m. on Friday, though no drone wreckage was recovered, according to a statement from the Ministry of Defense. This incident is par...</p></details>
+   Link:<a href="https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3ed1cca6b65f463fee34c60b15565fe0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and 9 p.m. on Friday, though no drone wreckage was recovered, according to a statement from the Ministry of Defense. This incident is par...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=cNetherlands" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cNetherlands</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country NetherlandsData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website... NUFORC Repor...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=cNetherlands" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cNetherlands</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Country NetherlandsData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website... NUFORC Repor...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: meldpuntvreemdelingendetentie.nl  
-   Link: <a href="https://meldpuntvreemdelingendetentie.nl/laws/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://meldpuntvreemdelingendetentie.nl/laws/?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rules and RegulationsAliens wanting to enter the Netherlands without the necessary papers and/or permission can be arrested at the border...</p></details>
+   Link:<a href="https://meldpuntvreemdelingendetentie.nl/laws/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://meldpuntvreemdelingendetentie.nl/laws/?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rules and RegulationsAliens wanting to enter the Netherlands without the necessary papers and/or permission can be arrested at the border...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uapcheck.com  
-   Link: <a href="https://www.uapcheck.com/organization/UFO%20MELDPUNT/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/organization/UFO%20MELDPUNT/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo meldpuntUFO MELDPUNT. Members. Frederick Delaere · Frederick Delaere · UFO MELDPUNT. Bram Roza. Bram Roza · UFO MELDPUNT Nederland UA...</p></details>
+   Link:<a href="https://www.uapcheck.com/organization/UFO%20MELDPUNT/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/organization/UFO%20MELDPUNT/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo meldpuntUFO MELDPUNT. Members. Frederick Delaere · Frederick Delaere · UFO MELDPUNT. Bram Roza. Bram Roza · UFO MELDPUNT Nederland UA...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=q_QTuY9Kswg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q_QTuY9Kswg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DRONES OVER DUTCH AIRSPACE: Who Is Behind The...A major security scare unfolded in the Netherlands this weekend after unidentified drone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q_QTuY9Kswg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q_QTuY9Kswg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DRONES OVER DUTCH AIRSPACE: Who Is Behind The...A major security scare unfolded in the Netherlands this weekend after unidentified drone...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aljazeera.com  
    Title: air traffic suspended at netherlands airport after drone sightings  
-   Link: <a href="https://www.aljazeera.com/news/2025/11/22/air-traffic-suspended-at-netherlands-airport-after-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2025/11/22/air-traffic-suspended-at-netherlands-airport-after-drone-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air traffic suspended at Netherlands airport after drone...22 Nov 2025 — Drone sightings caused suspension of air traffic at Eindhoven a...</p></details>
+   Link:<a href="https://www.aljazeera.com/news/2025/11/22/air-traffic-suspended-at-netherlands-airport-after-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2025/11/22/air-traffic-suspended-at-netherlands-airport-after-drone-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air traffic suspended at Netherlands airport after drone...22 Nov 2025 — Drone sightings caused suspension of air traffic at Eindhoven a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: overtdefense.com  
    Title: volkel and eindhoven targeted in latest european drone incursions  
-   Link: <a href="https://www.overtdefense.com/2025/11/27/volkel-and-eindhoven-targeted-in-latest-european-drone-incursions/" target="_blank" rel="noopener noreferrer nofollow">https://www.overtdefense.com/2025/11/27/volkel-and-eindhoven-targeted-in-latest-european-drone-incursions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volkel and Eindhoven Targeted in Latest European Drone...27 Nov 2025 — In the Netherlands, Volkel and Eindhoven air bases were targeted...</p></details>
+   Link:<a href="https://www.overtdefense.com/2025/11/27/volkel-and-eindhoven-targeted-in-latest-european-drone-incursions/" target="_blank" rel="noopener noreferrer nofollow">https://www.overtdefense.com/2025/11/27/volkel-and-eindhoven-targeted-in-latest-european-drone-incursions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Volkel and Eindhoven Targeted in Latest European Drone...27 Nov 2025 — In the Netherlands, Volkel and Eindhoven air bases were targeted...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=cNederland" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cNederland</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cNederland" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cNederland</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nltimes.nl  
    Title: The drone incidents at Volkel and Eindhoven air bases  
-   Link: <a href="https://nltimes.nl/2025/11/27/investigations-drones-dutch-air-bases-unlikely-reveal-motive-minister-says" target="_blank" rel="noopener noreferrer nofollow">https://nltimes.nl/2025/11/27/investigations-drones-dutch-air-bases-unlikely-reveal-motive-minister-says</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NL TimesInvestigations into drones over Dutch air bases unlikely to...27 Nov 2025 — Investigations into drones over Dutch air bases unli...</p></details>
+   Link:<a href="https://nltimes.nl/2025/11/27/investigations-drones-dutch-air-bases-unlikely-reveal-motive-minister-says" target="_blank" rel="noopener noreferrer nofollow">https://nltimes.nl/2025/11/27/investigations-drones-dutch-air-bases-unlikely-reveal-motive-minister-says</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NL TimesInvestigations into drones over Dutch air bases unlikely to...27 Nov 2025 — Investigations into drones over Dutch air bases unli...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: screenanarchy.com  
-   Link: <a href="https://screenanarchy.com/2023/12/the-ufos-of-[soesterberg" target="_blank" rel="noopener noreferrer nofollow">https://screenanarchy.com/2023/12/the-ufos-of-[soesterberg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFOS OF SOESTERBERG Review: Keeping Things...2 Dec 2023 — THE UFOS OF SOESTERBERG Review: Keeping Things Refreshingly Real...</p></details>
+   Link:<a href="https://screenanarchy.com/2023/12/the-ufos-of-[soesterberg" target="_blank" rel="noopener noreferrer nofollow">https://screenanarchy.com/2023/12/the-ufos-of-[soesterberg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFOS OF SOESTERBERG Review: Keeping Things...2 Dec 2023 — THE UFOS OF SOESTERBERG Review: Keeping Things Refreshingly Real...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aerotime.aero  
    Title: dutch air force unknown drones volkel air base  
-   Link: <a href="https://www.aerotime.aero/articles/dutch-air-force-unknown-drones-volkel-air-base" target="_blank" rel="noopener noreferrer nofollow">https://www.aerotime.aero/articles/dutch-air-force-unknown-drones-volkel-air-base</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dutch Air Force fires at unknown drones over Volkel Air Base24 Nov 2025 — In Belgium, unidentified drones were seen for three con...</p></details>
+   Link:<a href="https://www.aerotime.aero/articles/dutch-air-force-unknown-drones-volkel-air-base" target="_blank" rel="noopener noreferrer nofollow">https://www.aerotime.aero/articles/dutch-air-force-unknown-drones-volkel-air-base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dutch Air Force fires at unknown drones over Volkel Air Base24 Nov 2025 — In Belgium, unidentified drones were seen for three con...</p></details>

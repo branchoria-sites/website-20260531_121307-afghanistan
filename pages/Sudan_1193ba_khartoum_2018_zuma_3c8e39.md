@@ -257,11 +257,11 @@ image: /assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1-soci
 In January 2018, residents of Khartoum and observers flying above Sudan witnessed a striking green-white object in the night sky. Reports quickly described it as a UFO. The sighting stood out because it was bright, unusual in shape, and visible over Sudan’s capital during the early hours of the morning. For several days, speculation ranged from a satellite malfunction to an unidentified craft.
 
 <img src="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1-dark.svg" | relative_url }}" alt="Khartoum 2018 illustration 1" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_khartoum_2018_zuma_3c8e39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The strongest explanation that emerged, however, was far less exotic and far more traceable. Independent satellite trackers, aerospace observers, and later reporting linked the phenomenon to the classified Zuma mission launched aboard a SpaceX Falcon 9 rocket. The evidence points to the Falcon 9 upper stage venting residual fuel and performing disposal manoeuvres roughly two hours after launch, creating a luminous spiral-like cloud visible from East Africa. Rather than remaining an unresolved mystery, the Khartoum incident became an example of how modern rocket operations can produce spectacular sky displays that are easily mistaken for something unknown. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[SatTrackCam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">fuel dump of zumas falcon 9 upper stage</span><span class="citation-popover-snippet">Fuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</span></span></span>
+The strongest explanation that emerged, however, was far less exotic and far more traceable. Independent satellite trackers, aerospace observers, and later reporting linked the phenomenon to the classified Zuma mission launched aboard a SpaceX Falcon 9 rocket. The evidence points to the Falcon 9 upper stage venting residual fuel and performing disposal manoeuvres roughly two hours after launch, creating a luminous spiral-like cloud visible from East Africa. Rather than remaining an unresolved mystery, the Khartoum incident became an example of how modern rocket operations can produce spectacular sky displays that are easily mistaken for something unknown. Space<span class="citation-chip-wrap"><a class="citation-chip" href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[SatTrackCam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">fuel dump of zumas falcon 9 upper stage</span><span class="citation-popover-snippet">Fuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</span></span></span>
 
 ## What Witnesses Saw Over Khartoum
 
-The event was reported during the early hours of 8 January 2018. Witnesses described a glowing object surrounded by a greenish light, visible over the Khartoum area at roughly 3:15 a.m. local time. The appearance differed from a conventional aircraft, meteor, or bright planet. Accounts emphasised a luminous body with a halo-like structure and changing shape. Local media coverage quickly framed it as an unidentified flying object because no immediate public explanation was available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-title">Mysterious UFO seen over Khartoum on Monday night and stifles military</span><span class="citation-popover-snippet">The luminous body, seen clearly at around 3:15 am local...Read more...</span></span></span>
+The event was reported during the early hours of 8 January 2018. Witnesses described a glowing object surrounded by a greenish light, visible over the Khartoum area at roughly 3:15 a.m. local time. The appearance differed from a conventional aircraft, meteor, or bright planet. Accounts emphasised a luminous body with a halo-like structure and changing shape. Local media coverage quickly framed it as an unidentified flying object because no immediate public explanation was available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.alarabiya.net">[Al Arabiya English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.alarabiya.net</span><span class="citation-popover-title">Mysterious UFO seen over Khartoum on Monday night and stifles military</span><span class="citation-popover-snippet">The luminous body, seen clearly at around 3:15 am local...Read more...</span></span></span>
 
 Part of what made the sighting so compelling was that observers were not describing a fleeting streak across the sky. Instead, the object appeared structured and persistent enough to attract attention and discussion. In UFO history, these characteristics often increase public interest because they seem inconsistent with familiar astronomical events.
 
@@ -271,9 +271,9 @@ The sighting also occurred in a country without a large public network of amateu
 
 The timing of the sighting turned out to be crucial.
 
-Only a few hours before the object appeared over Sudan, SpaceX had launched the highly classified Zuma payload from Cape Canaveral aboard a Falcon 9 rocket. The mission immediately became controversial because media reports suggested the spacecraft may have failed to reach its intended orbit. The secrecy surrounding Zuma created widespread uncertainty about what had happened after launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39338-spacex-zuma-rocket-sky-spiral-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39338 spacex zuma rocket sky spiral photos</span><span class="citation-popover-snippet">Strange Sky Spiral May Come from Secretive SpaceX...9 Jan 2018 — A pair of spectacular images of an ethereal spiral in the night sk...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39257-spacex-secret-zuma-mission-launching-soon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39257 spacex secret zuma mission launching soon</span><span class="citation-popover-snippet">Top-Secret Zuma Satellite Launching on SpaceX Rocket...January 2, 2018 — 2 Jan 2018 — A SpaceX Falcon 9 rocket is scheduled to laun...</span><span class="citation-popover-meta">Published: January 2, 2018</span></span></span>
+Only a few hours before the object appeared over Sudan, SpaceX had launched the highly classified Zuma payload from Cape Canaveral aboard a Falcon 9 rocket. The mission immediately became controversial because media reports suggested the spacecraft may have failed to reach its intended orbit. The secrecy surrounding Zuma created widespread uncertainty about what had happened after launch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39338-spacex-zuma-rocket-sky-spiral-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39338 spacex zuma rocket sky spiral photos</span><span class="citation-popover-snippet">Strange Sky Spiral May Come from Secretive SpaceX...9 Jan 2018 — A pair of spectacular images of an ethereal spiral in the night sk...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39257-spacex-secret-zuma-mission-launching-soon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39257 spacex secret zuma mission launching soon</span><span class="citation-popover-snippet">Top-Secret Zuma Satellite Launching on SpaceX Rocket...January 2, 2018 — 2 Jan 2018 — A SpaceX Falcon 9 rocket is scheduled to laun...</span><span class="citation-popover-meta">Published: January 2, 2018</span></span></span>
 
-Because the payload was classified, there was little official information available. Reports circulated that the satellite might have been lost, while SpaceX maintained that the launch vehicle had performed correctly. The resulting information vacuum encouraged speculation from both aerospace observers and the general public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39323-secret-zuma-spacecraft-possible-problems.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39323 secret zuma spacecraft possible problems</span><span class="citation-popover-snippet">7) launch, according to media...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39345-zuma-spacex-mystery-explained.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">What Happened to Zuma? What We Know About the...January 10, 2018 — 10 Jan 2018 — Something weird is going on with a classified Spac...</span><span class="citation-popover-meta">Published: January 10, 2018</span></span></span>
+Because the payload was classified, there was little official information available. Reports circulated that the satellite might have been lost, while SpaceX maintained that the launch vehicle had performed correctly. The resulting information vacuum encouraged speculation from both aerospace observers and the general public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39323-secret-zuma-spacecraft-possible-problems.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39323 secret zuma spacecraft possible problems</span><span class="citation-popover-snippet">7) launch, according to media...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39345-zuma-spacex-mystery-explained.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">What Happened to Zuma? What We Know About the...January 10, 2018 — 10 Jan 2018 — Something weird is going on with a classified Spac...</span><span class="citation-popover-meta">Published: January 10, 2018</span></span></span>
 
 The Khartoum sighting occurred approximately two hours and fifteen minutes after the Falcon 9 launch, a timing window that immediately caught the attention of experienced satellite observers. If the upper stage had reached orbit and later conducted disposal procedures, East Africa would have been one of the regions where related visual effects might become visible.
 
@@ -285,9 +285,9 @@ That connection transformed the Sudan sighting from an isolated UFO report into 
 
 The most important evidence came not from rumours but from photographs.
 
-Dutch pilot Peter Horstink, flying a Boeing 747-400 freighter from Amsterdam to Johannesburg, photographed the luminous display while his aircraft was travelling north of Khartoum at approximately 35,000 feet. The images showed a large glowing cloud with a distinctive spiral-like appearance rather than a compact solid object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[SatTrackCam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">fuel dump of zumas falcon 9 upper stage</span><span class="citation-popover-snippet">Fuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[SatTrackCam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">fuel dump of zumas falcon 9 upper stage</span><span class="citation-popover-snippet">Fuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</span></span></span>
+Dutch pilot Peter Horstink, flying a Boeing 747-400 freighter from Amsterdam to Johannesburg, photographed the luminous display while his aircraft was travelling north of Khartoum at approximately 35,000 feet. The images showed a large glowing cloud with a distinctive spiral-like appearance rather than a compact solid object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[SatTrackCam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">fuel dump of zumas falcon 9 upper stage</span><span class="citation-popover-snippet">Fuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[SatTrackCam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">fuel dump of zumas falcon 9 upper stage</span><span class="citation-popover-snippet">Fuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</span></span></span>
 
-Satellite tracker Marco Langbroek analysed the photographs and compared them with expected Falcon 9 upper-stage behaviour. According to his reconstruction, the images were taken around 03:15–03:20 UTC on 8 January, matching the period when the rocket stage would have been conducting post-mission operations after completing its orbital task. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[SatTrackCam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">fuel dump of zumas falcon 9 upper stage</span><span class="citation-popover-snippet">Fuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</span></span></span>
+Satellite tracker Marco Langbroek analysed the photographs and compared them with expected Falcon 9 upper-stage behaviour. According to his reconstruction, the images were taken around 03:15–03:20 UTC on 8 January, matching the period when the rocket stage would have been conducting post-mission operations after completing its orbital task.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[SatTrackCam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">fuel dump of zumas falcon 9 upper stage</span><span class="citation-popover-snippet">Fuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</span></span></span>
 
 This mattered because the photographs provided more than a witness description. They allowed investigators to compare the object's appearance, geometry, and timing against known aerospace activity. Instead of asking whether the object looked strange, analysts could ask whether it behaved like a rocket stage venting propellant.
 
@@ -298,7 +298,7 @@ The answer appeared to be yes.
 
 Rocket upper stages often retain small amounts of unused fuel after completing their missions. To reduce the risk of explosions or debris-generation in orbit, operators frequently vent remaining propellant before re-entry or disposal.
 
-When fuel escapes into the near-vacuum of space, sunlight can illuminate the expanding cloud, producing enormous glowing structures visible across hundreds of kilometres. Depending on viewing angle, observers may see spirals, rings, jellyfish-like shapes, or luminous cones. These formations can appear far larger and stranger than ordinary aircraft lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/40246-spacex-not-to-blame-zuma-failure.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">40246 spacex not to blame zuma failure</span><span class="citation-popover-snippet">SpaceX Not to Blame for Zuma Spy-Satellite Launch Failure10 Apr 2018 — SpaceX isn&#x27;t responsible for the loss of the top-secret Zuma...</span></span></span>
+When fuel escapes into the near-vacuum of space, sunlight can illuminate the expanding cloud, producing enormous glowing structures visible across hundreds of kilometres. Depending on viewing angle, observers may see spirals, rings, jellyfish-like shapes, or luminous cones. These formations can appear far larger and stranger than ordinary aircraft lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/40246-spacex-not-to-blame-zuma-failure.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">40246 spacex not to blame zuma failure</span><span class="citation-popover-snippet">SpaceX Not to Blame for Zuma Spy-Satellite Launch Failure10 Apr 2018 — SpaceX isn&#x27;t responsible for the loss of the top-secret Zuma...</span></span></span>
 
 Several features of the Khartoum object fit this mechanism:
 
@@ -308,7 +308,7 @@ Several features of the Khartoum object fit this mechanism:
 * The apparent green-blue colouring reported in photographs.
 * The expanding spiral structure visible in the images.
 * The timing relative to Falcon 9 upper-stage operations.
-* The lack of evidence for independent manoeuvring or controlled flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39326-spacex-zuma-launch-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39326 spacex zuma launch photos</span><span class="citation-popover-snippet">In Photos: SpaceX Rocket Launches Secret Zuma...9 Jan 2018 — A SpaceX Falcon 9 rocket launched the secret Zuma mission for the US govern...</span></span></span>
+* The lack of evidence for independent manoeuvring or controlled flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39326-spacex-zuma-launch-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39326 spacex zuma launch photos</span><span class="citation-popover-snippet">In Photos: SpaceX Rocket Launches Secret Zuma...9 Jan 2018 — A SpaceX Falcon 9 rocket launched the secret Zuma mission for the US govern...</span></span></span>
 
 </div>
 
@@ -322,11 +322,11 @@ The Khartoum case is notable because it began with genuine uncertainty but later
 
 Several factors favour the Falcon 9 interpretation.
 
-First, there is a known aerospace event that occurred at the correct time. The Zuma launch is not hypothetical; it was a documented mission whose timeline overlaps closely with the Sudan observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/38801-spacex-secret-zuma-mission-what-we-know.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">38801 spacex secret zuma mission what we know</span><span class="citation-popover-snippet">7, 2018: SpaceX successfully launched the mysterious Zuma spacecraft for the U.S. government on Sunday, Jan. 7, at 8 p.m. ET...Read more...</span></span></span>
+First, there is a known aerospace event that occurred at the correct time. The Zuma launch is not hypothetical; it was a documented mission whose timeline overlaps closely with the Sudan observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/38801-spacex-secret-zuma-mission-what-we-know.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">38801 spacex secret zuma mission what we know</span><span class="citation-popover-snippet">7, 2018: SpaceX successfully launched the mysterious Zuma spacecraft for the U.S. government on Sunday, Jan. 7, at 8 p.m. ET...Read more...</span></span></span>
 
-Second, there is a plausible physical mechanism. Fuel venting and upper-stage disposal manoeuvres are established aerospace procedures capable of producing exactly the sort of luminous cloud seen in the photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39338-spacex-zuma-rocket-sky-spiral-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39338 spacex zuma rocket sky spiral photos</span><span class="citation-popover-snippet">Strange Sky Spiral May Come from Secretive SpaceX...9 Jan 2018 — A pair of spectacular images of an ethereal spiral in the night sk...</span></span></span>
+Second, there is a plausible physical mechanism. Fuel venting and upper-stage disposal manoeuvres are established aerospace procedures capable of producing exactly the sort of luminous cloud seen in the photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39338-spacex-zuma-rocket-sky-spiral-photos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39338 spacex zuma rocket sky spiral photos</span><span class="citation-popover-snippet">Strange Sky Spiral May Come from Secretive SpaceX...9 Jan 2018 — A pair of spectacular images of an ethereal spiral in the night sk...</span></span></span>
 
-Third, independent observers reached similar conclusions. The photographs became useful to satellite trackers trying to reconstruct Falcon 9's post-launch behaviour, not because they suggested alien technology, but because they appeared to document a normal rocket-stage operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceflightnow.com/2018/01/11/after-zuma-spacex-keeps-pace-in-preps-for-next-falcon-9-launch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceflightnow.com">[Spaceflight Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceflightnow.com</span><span class="citation-popover-title">after zuma spacex keeps pace in preps for next falcon 9 launch</span><span class="citation-popover-snippet">Spaceflight NowAfter Zuma, SpaceX keeps pace in preps for next Falcon 9...11 Jan 2018 — One of the most experienced trackers, an archaeo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/spacex/comments/7p1pqn/zuma_satellite_from_northropgrumman_may_be_dead/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit Fourth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">at #Zuma or its Falcon 9 failed: I have a positive...Read more...</span></span></span>, no competing explanation has produced a comparable level of evidence. There are no radar releases, recovered materials, multiple independent instrument detections, or other data supporting the idea of an unknown craft operating over Sudan.
+Third, independent observers reached similar conclusions. The photographs became useful to satellite trackers trying to reconstruct Falcon 9's post-launch behaviour, not because they suggested alien technology, but because they appeared to document a normal rocket-stage operation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceflightnow.com/2018/01/11/after-zuma-spacex-keeps-pace-in-preps-for-next-falcon-9-launch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceflightnow.com">[Spaceflight Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceflightnow.com</span><span class="citation-popover-title">after zuma spacex keeps pace in preps for next falcon 9 launch</span><span class="citation-popover-snippet">Spaceflight NowAfter Zuma, SpaceX keeps pace in preps for next Falcon 9...11 Jan 2018 — One of the most experienced trackers, an archaeo...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/spacex/comments/7p1pqn/zuma_satellite_from_northropgrumman_may_be_dead/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit Fourth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">at #Zuma or its Falcon 9 failed: I have a positive...Read more...</span></span></span>, no competing explanation has produced a comparable level of evidence. There are no radar releases, recovered materials, multiple independent instrument detections, or other data supporting the idea of an unknown craft operating over Sudan.
 
 This does not mean the witnesses were mistaken about seeing something extraordinary. The object was genuinely unusual from their perspective. The key distinction is between an unidentified phenomenon at the moment of observation and an unexplained phenomenon after investigation.
 
@@ -335,13 +335,13 @@ This does not mean the witnesses were mistaken about seeing something extraordin
 
 An important part of the story is not the light itself but the context surrounding it.
 
-Zuma was one of the most secretive American space missions of the decade. Its purpose was classified, and reports soon emerged that the payload may have failed after launch. Conflicting statements from media outlets, government sources, and aerospace companies created confusion about the mission's fate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39257-spacex-secret-zuma-mission-launching-soon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39257 spacex secret zuma mission launching soon</span><span class="citation-popover-snippet">Top-Secret Zuma Satellite Launching on SpaceX Rocket...January 2, 2018 — 2 Jan 2018 — A SpaceX Falcon 9 rocket is scheduled to laun...</span><span class="citation-popover-meta">Published: January 2, 2018</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39323-secret-zuma-spacecraft-possible-problems.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39323 secret zuma spacecraft possible problems</span><span class="citation-popover-snippet">7) launch, according to media...Read more...</span></span></span>
+Zuma was one of the most secretive American space missions of the decade. Its purpose was classified, and reports soon emerged that the payload may have failed after launch. Conflicting statements from media outlets, government sources, and aerospace companies created confusion about the mission's fate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39257-spacex-secret-zuma-mission-launching-soon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39257 spacex secret zuma mission launching soon</span><span class="citation-popover-snippet">Top-Secret Zuma Satellite Launching on SpaceX Rocket...January 2, 2018 — 2 Jan 2018 — A SpaceX Falcon 9 rocket is scheduled to laun...</span><span class="citation-popover-meta">Published: January 2, 2018</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39323-secret-zuma-spacecraft-possible-problems.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">39323 secret zuma spacecraft possible problems</span><span class="citation-popover-snippet">7) launch, according to media...Read more...</span></span></span>
 
 When observers in Sudan saw an unusual object in the sky, they were unknowingly looking at a phenomenon linked to an event already surrounded by uncertainty and speculation.
 
 That combination is common in UFO history. A real but poorly understood technological event occurs, information is incomplete, and public interpretation fills the gap before technical analysis catches up. The Khartoum incident followed that pattern closely.
 
-Later reporting suggested that any failure associated with Zuma likely involved the payload or separation system rather than the Falcon 9 launch vehicle itself. Those findings further strengthened the view that the upper stage had reached the expected trajectory needed to produce the observed display. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39345-zuma-spacex-mystery-explained.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">What Happened to Zuma? What We Know About the...January 10, 2018 — 10 Jan 2018 — Something weird is going on with a classified Spac...</span><span class="citation-popover-meta">Published: January 10, 2018</span></span></span>
+Later reporting suggested that any failure associated with Zuma likely involved the payload or separation system rather than the Falcon 9 launch vehicle itself. Those findings further strengthened the view that the upper stage had reached the expected trajectory needed to produce the observed display.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/39345-zuma-spacex-mystery-explained.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">What Happened to Zuma? What We Know About the...January 10, 2018 — 10 Jan 2018 — Something weird is going on with a classified Spac...</span><span class="citation-popover-meta">Published: January 10, 2018</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A9cLL3NkT54" title="SpaceX Falcon 9 ZUMA Launch 1/7/2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A9cLL3NkT54" target="_blank" rel="noopener noreferrer">SpaceX Falcon 9 ZUMA Launch 1/7/2018</a></p><p class="youtube-embed-meta">Channel: MilitaryNotes &middot; Views: 2.1K &middot; Uploaded: January 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A9cLL3NkT54" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A9cLL3NkT54">Open on YouTube</a></p></div></div></div>
 
@@ -351,197 +351,197 @@ Sudan has relatively few internationally documented UFO cases compared with coun
 
 Its significance lies less in mystery than in documentation. The incident generated eyewitness reports, media coverage, photographs, timing analysis, and a technically plausible explanation linked to a known aerospace mission. That combination is uncommon in many UFO reports, where crucial evidence is often missing.
 
-As a result, the Khartoum case is best understood as a transition from unidentified to strongly explained. The object remained mysterious only until investigators connected it to a Falcon 9 upper-stage event associated with the Zuma launch. Once that connection was established, the balance of evidence shifted decisively toward a rocket-generated phenomenon rather than an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[SatTrackCam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">fuel dump of zumas falcon 9 upper stage</span><span class="citation-popover-snippet">Fuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/40246-spacex-not-to-blame-zuma-failure.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">40246 spacex not to blame zuma failure</span><span class="citation-popover-snippet">SpaceX Not to Blame for Zuma Spy-Satellite Launch Failure10 Apr 2018 — SpaceX isn&#x27;t responsible for the loss of the top-secret Zuma...</span></span></span>
+As a result, the Khartoum case is best understood as a transition from unidentified to strongly explained. The object remained mysterious only until investigators connected it to a Falcon 9 upper-stage event associated with the Zuma launch. Once that connection was established, the balance of evidence shifted decisively toward a rocket-generated phenomenon rather than an unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sattrackcam.blogspot.com">[SatTrackCam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sattrackcam.blogspot.com</span><span class="citation-popover-title">fuel dump of zumas falcon 9 upper stage</span><span class="citation-popover-snippet">Fuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/40246-spacex-not-to-blame-zuma-failure.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">40246 spacex not to blame zuma failure</span><span class="citation-popover-snippet">SpaceX Not to Blame for Zuma Spy-Satellite Launch Failure10 Apr 2018 — SpaceX isn&#x27;t responsible for the loss of the top-secret Zuma...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Khartoum&#x27;s Green UFO a Rocket?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Khartoum&#x27;s Green UFO a Rocket?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how unusual sky events are interpreted before conventional explanations emerge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how unusual sky events are interpreted before conventional explanations emerge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+astronomy+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The astronomy book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12410484-M.jpg" alt="Cover for The astronomy book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+astronomy+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The astronomy book">The astronomy book</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+astronomy+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The astronomy book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12410484-M.jpg" alt="Cover for The astronomy book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+astronomy+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The astronomy book">The astronomy book</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Helps readers understand rocket stages, launches, and atmospheric phenomena mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+astronomy+book&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand rocket stages, launches, and atmospheric phenomena mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+astronomy+book&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spaceflight+by+Giles+Sparrow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spaceflight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CUjhGAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spaceflight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spaceflight+by+Giles+Sparrow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spaceflight">Spaceflight</a>
-        </h4>
-        <p class="fr-book-author">By Giles Sparrow, Buzz Aldrin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spaceflight+by+Giles+Sparrow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spaceflight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CUjhGAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spaceflight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spaceflight+by+Giles+Sparrow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spaceflight">Spaceflight</a>
+</h4>
+<p class="fr-book-author">By Giles Sparrow, Buzz Aldrin</p>
         
-        <p class="fr-book-desc">Helps readers understand rocket stages, launches, and atmospheric phenomena mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spaceflight+by+Giles+Sparrow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand rocket stages, launches, and atmospheric phenomena mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spaceflight+by+Giles+Sparrow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8806725-M.jpg" alt="Cover for Rocket Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket Men">Rocket Men</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rocket Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8806725-M.jpg" alt="Cover for Rocket Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket Men">Rocket Men</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Introduces rocket operations and public fascination with unusual objects in the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces rocket operations and public fascination with unusual objects in the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rocket+Men&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+astronomy+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The astronomy book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spaceflight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spaceflight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+astronomy+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The astronomy book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spaceflight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spaceflight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-khartoum-s-green-ufo-a-rocket-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-khartoum-s-green-ufo-a-rocket-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ As a result, the Khartoum case is best understood as a transition from unidentif
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ As a result, the Khartoum case is best understood as a transition from unidentif
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ As a result, the Khartoum case is best understood as a transition from unidentif
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ As a result, the Khartoum case is best understood as a transition from unidentif
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ As a result, the Khartoum case is best understood as a transition from unidentif
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,171 +744,170 @@ As a result, the Khartoum case is best understood as a transition from unidentif
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: space.com  
    Title: 39338 spacex zuma rocket sky spiral photos  
-   Link: <a href="https://www.space.com/39338-spacex-zuma-rocket-sky-spiral-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39338-spacex-zuma-rocket-sky-spiral-photos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Sky Spiral May Come from Secretive SpaceX...9 Jan 2018 — A pair of spectacular images of an ethereal spiral in the night sk...</p></details>
+   Link:<a href="https://www.space.com/39338-spacex-zuma-rocket-sky-spiral-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39338-spacex-zuma-rocket-sky-spiral-photos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Sky Spiral May Come from Secretive SpaceX...9 Jan 2018 — A pair of spectacular images of an ethereal spiral in the night sk...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: 39257 spacex secret zuma mission launching soon  
-   Link: <a href="https://www.space.com/39257-spacex-secret-zuma-mission-launching-soon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39257-spacex-secret-zuma-mission-launching-soon.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Top-Secret Zuma Satellite Launching on SpaceX Rocket...January 2, 2018 — 2 Jan 2018 — A SpaceX Falcon 9 rocket is scheduled to laun...</p></details>
+   Link:<a href="https://www.space.com/39257-spacex-secret-zuma-mission-launching-soon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39257-spacex-secret-zuma-mission-launching-soon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top-Secret Zuma Satellite Launching on SpaceX Rocket...January 2, 2018 — 2 Jan 2018 — A SpaceX Falcon 9 rocket is scheduled to laun...</p></details>
    Published: January 2, 2018  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: 39323 secret zuma spacecraft possible problems  
-   Link: <a href="https://www.space.com/39323-secret-zuma-spacecraft-possible-problems.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39323-secret-zuma-spacecraft-possible-problems.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7) launch, according to media...Read more...</p></details>
+   Link:<a href="https://www.space.com/39323-secret-zuma-spacecraft-possible-problems.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39323-secret-zuma-spacecraft-possible-problems.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7) launch, according to media...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/39345-zuma-spacex-mystery-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39345-zuma-spacex-mystery-explained.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Happened to Zuma? What We Know About the...January 10, 2018 — 10 Jan 2018 — Something weird is going on with a classified Spac...</p></details>
+   Link:<a href="https://www.space.com/39345-zuma-spacex-mystery-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39345-zuma-spacex-mystery-explained.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Happened to Zuma? What We Know About the...January 10, 2018 — 10 Jan 2018 — Something weird is going on with a classified Spac...</p></details>
    Published: January 10, 2018  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: 40246 spacex not to blame zuma failure  
-   Link: <a href="https://www.space.com/40246-spacex-not-to-blame-zuma-failure.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/40246-spacex-not-to-blame-zuma-failure.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Not to Blame for Zuma Spy-Satellite Launch Failure10 Apr 2018 — SpaceX isn&#x27;t responsible for the loss of the top-secret Zuma...</p></details>
+   Link:<a href="https://www.space.com/40246-spacex-not-to-blame-zuma-failure.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/40246-spacex-not-to-blame-zuma-failure.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Not to Blame for Zuma Spy-Satellite Launch Failure10 Apr 2018 — SpaceX isn&#x27;t responsible for the loss of the top-secret Zuma...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
    Title: 39326 spacex zuma launch photos  
-   Link: <a href="https://www.space.com/39326-spacex-zuma-launch-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39326-spacex-zuma-launch-photos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Photos: SpaceX Rocket Launches Secret Zuma...9 Jan 2018 — A SpaceX Falcon 9 rocket launched the secret Zuma mission for the US govern...</p></details>
+   Link:<a href="https://www.space.com/39326-spacex-zuma-launch-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39326-spacex-zuma-launch-photos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Photos: SpaceX Rocket Launches Secret Zuma...9 Jan 2018 — A SpaceX Falcon 9 rocket launched the secret Zuma mission for the US govern...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/spacex/comments/7p1pqn/zuma_satellite_from_northropgrumman_may_be_dead/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/7p1pqn/zuma_satellite_from_northropgrumman_may_be_dead/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>at #Zuma or its Falcon 9 failed: I have a positive...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/spacex/comments/7p1pqn/zuma_satellite_from_northropgrumman_may_be_dead/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/7p1pqn/zuma_satellite_from_northropgrumman_may_be_dead/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at #Zuma or its Falcon 9 failed: I have a positive...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/1nf2m3/half_an_orbit_after_launch_the_falcon_9_created_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1nf2m3/half_an_orbit_after_launch_the_falcon_9_created_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>So what do you think happened to the upper stage... Half an orbit after launch, the Falcon 9 created a UFO in the night skies...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/1nf2m3/half_an_orbit_after_launch_the_falcon_9_created_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/1nf2m3/half_an_orbit_after_launch_the_falcon_9_created_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So what do you think happened to the upper stage... Half an orbit after launch, the Falcon 9 created a UFO in the night skies...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: 38801 spacex secret zuma mission what we know  
-   Link: <a href="https://www.space.com/38801-spacex-secret-zuma-mission-what-we-know.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/38801-spacex-secret-zuma-mission-what-we-know.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7, 2018: SpaceX successfully launched the mysterious Zuma spacecraft for the U.S. government on Sunday, Jan. 7, at 8 p.m. ET...Read more...</p></details>
+   Link:<a href="https://www.space.com/38801-spacex-secret-zuma-mission-what-we-know.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/38801-spacex-secret-zuma-mission-what-we-know.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7, 2018: SpaceX successfully launched the mysterious Zuma spacecraft for the U.S. government on Sunday, Jan. 7, at 8 p.m. ET...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JxTYk4qdlpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JxTYk4qdlpw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Secret Zuma Mission Fail After SpaceX Launch?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JxTYk4qdlpw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JxTYk4qdlpw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Did Secret Zuma Mission Fail After SpaceX Launch?...</p></details>
    Published: January 2018  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wd47qtXSgVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wd47qtXSgVw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 ZUMA Launch 1/7/2018...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wd47qtXSgVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wd47qtXSgVw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 ZUMA Launch 1/7/2018...</p></details>
    Published: March 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=A9cLL3NkT54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A9cLL3NkT54</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asteroid 2008 TC3 - Peter Jenniskens (SETI Talks)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=A9cLL3NkT54" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A9cLL3NkT54</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asteroid 2008 TC3 - Peter Jenniskens (SETI Talks)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sattrackcam.blogspot.com  
    Title: fuel dump of zumas falcon 9 upper stage  
-   Link: <a href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow">https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</p></details>
+   Link:<a href="https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html" target="_blank" rel="noopener noreferrer nofollow">https://sattrackcam.blogspot.com/2018/01/fuel-dump-of-zumas-falcon-9-upper-stage.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fuel dump of Zuma&#x27;s Falcon 9 Upper Stage observed by a...9 Jan 2018 — The aircraft was flying at 35000 feet just north of Kha...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: spaceflightnow.com  
    Title: after zuma spacex keeps pace in preps for next falcon 9 launch  
-   Link: <a href="https://spaceflightnow.com/2018/01/11/after-zuma-spacex-keeps-pace-in-preps-for-next-falcon-9-launch/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2018/01/11/after-zuma-spacex-keeps-pace-in-preps-for-next-falcon-9-launch/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spaceflight NowAfter Zuma, SpaceX keeps pace in preps for next Falcon 9...11 Jan 2018 — One of the most experienced trackers, an archaeo...</p></details>
+   Link:<a href="https://spaceflightnow.com/2018/01/11/after-zuma-spacex-keeps-pace-in-preps-for-next-falcon-9-launch/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2018/01/11/after-zuma-spacex-keeps-pace-in-preps-for-next-falcon-9-launch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spaceflight NowAfter Zuma, SpaceX keeps pace in preps for next Falcon 9...11 Jan 2018 — One of the most experienced trackers, an archaeo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: english.alarabiya.net  
    Title: Mysterious UFO seen over Khartoum on Monday night and stifles military  
-   Link: <a href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow">https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The luminous body, seen clearly at around 3:15 am local...Read more...</p></details>
+   Link:<a href="https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military" target="_blank" rel="noopener noreferrer nofollow">https://english.alarabiya.net/variety/2018/01/11/Mysterious-UFO-seen-over-Khartoum-on-Monday-night-and-stifles-military</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The luminous body, seen clearly at around 3:15 am local...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cbsnews.com  
    Title: spacex falcon 9 rocket zuma satellite possible failure  
-   Link: <a href="https://www.cbsnews.com/news/spacex-falcon-9-rocket-zuma-satellite-possible-failure/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/spacex-falcon-9-rocket-zuma-satellite-possible-failure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fate of secret satellite a mystery amid reports of failure9 Jan 2018 — A classified satellite code-named Zuma, apparently suffered a miss...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/spacex-falcon-9-rocket-zuma-satellite-possible-failure/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/spacex-falcon-9-rocket-zuma-satellite-possible-failure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fate of secret satellite a mystery amid reports of failure9 Jan 2018 — A classified satellite code-named Zuma, apparently suffered a miss...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sattrackcam.blogspot.com  
-   Link: <a href="https://sattrackcam.blogspot.com/2018/01/" target="_blank" rel="noopener noreferrer nofollow">https://sattrackcam.blogspot.com/2018/01/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SatTrackCam Leiden (b)log: January 201826 Jan 2018 — The spectacular image above was taken by Peter Horstink, the Dutch pilot of a Boeing...</p></details>
+   Link:<a href="https://sattrackcam.blogspot.com/2018/01/" target="_blank" rel="noopener noreferrer nofollow">https://sattrackcam.blogspot.com/2018/01/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SatTrackCam Leiden (b)log: January 201826 Jan 2018 — The spectacular image above was taken by Peter Horstink, the Dutch pilot of a Boeing...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/timesofjuba/posts/-spacex-falcon-9-launch-sparks-panic-in-south-sudan-a-modern-gods-must-be-crazy-/682070877722531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/timesofjuba/posts/-spacex-falcon-9-launch-sparks-panic-in-south-sudan-a-modern-gods-must-be-crazy-/682070877722531/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 Launch Sparks Panic in South SudanEdna Blossom ▻ UFO, Aliens, Other Planets and Paranormal Activities... ☑️. 18w · Public...</p></details>
+   Link:<a href="https://www.facebook.com/timesofjuba/posts/-spacex-falcon-9-launch-sparks-panic-in-south-sudan-a-modern-gods-must-be-crazy-/682070877722531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/timesofjuba/posts/-spacex-falcon-9-launch-sparks-panic-in-south-sudan-a-modern-gods-must-be-crazy-/682070877722531/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 Launch Sparks Panic in South SudanEdna Blossom ▻ UFO, Aliens, Other Planets and Paranormal Activities... ☑️. 18w · Public...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: x.com  
-   Link: <a href="https://x.com/marco_langbroek/status/950509102970621957" target="_blank" rel="noopener noreferrer nofollow">https://x.com/marco_langbroek/status/950509102970621957</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)This is the image taken by Dutch pilot Peter Horstink, from...This is the image taken by Dutch pilot Peter Horstink...</p></details>
+   Link:<a href="https://x.com/marco_langbroek/status/950509102970621957" target="_blank" rel="noopener noreferrer nofollow">https://x.com/marco_langbroek/status/950509102970621957</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)This is the image taken by Dutch pilot Peter Horstink, from...This is the image taken by Dutch pilot Peter Horstink...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: en.sputniknews.africa  
    Title: world ufo day most mysterious sightings in africa 1060287160  
-   Link: <a href="https://en.sputniknews.africa/20230702/world-ufo-day-most-mysterious-sightings-in-africa-1060287160.html" target="_blank" rel="noopener noreferrer nofollow">https://en.sputniknews.africa/20230702/world-ufo-day-most-mysterious-sightings-in-africa-1060287160.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An unidentified flying object was spotted in the sky over the capital Khartoum in January 2018. Local media reported...Read more...</p></details>
+   Link:<a href="https://en.sputniknews.africa/20230702/world-ufo-day-most-mysterious-sightings-in-africa-1060287160.html" target="_blank" rel="noopener noreferrer nofollow">https://en.sputniknews.africa/20230702/world-ufo-day-most-mysterious-sightings-in-africa-1060287160.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An unidentified flying object was spotted in the sky over the capital Khartoum in January 2018. Local media reported...Read more...</p></details>
    Published: January 2018  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: techtimes.com  
    Title: what happened to zuma satellite after spacex launch  
-   Link: <a href="https://www.techtimes.com/articles/218451/20180110/what-happened-to-zuma-satellite-after-spacex-launch.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/218451/20180110/what-happened-to-zuma-satellite-after-spacex-launch.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?10 Jan 2018 — Horstink captured the image of what appears to be a greenish and blue spiral from his aircraft as he flew 35,000 feet abov...</p></details>
+   Link:<a href="https://www.techtimes.com/articles/218451/20180110/what-happened-to-zuma-satellite-after-spacex-launch.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/218451/20180110/what-happened-to-zuma-satellite-after-spacex-launch.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?10 Jan 2018 — Horstink captured the image of what appears to be a greenish and blue spiral from his aircraft as he flew 35,000 feet abov...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: americaspace.com  
-   Link: <a href="https://www.americaspace.com/2018/01/09/zuma-presumed-a-total-loss-after-falling-into-ocean-say-officials/" target="_blank" rel="noopener noreferrer nofollow">https://www.americaspace.com/2018/01/09/zuma-presumed-a-total-loss-after-falling-into-ocean-say-officials/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ZUMA Presumed a &#x27;Total Loss&#x27; After Falling Into Ocean...9 Jan 2018 — ZUMA launching atop a SpaceX Falcon 9 rocket from Cape Canaveral...</p></details>
+   Link:<a href="https://www.americaspace.com/2018/01/09/zuma-presumed-a-total-loss-after-falling-into-ocean-say-officials/" target="_blank" rel="noopener noreferrer nofollow">https://www.americaspace.com/2018/01/09/zuma-presumed-a-total-loss-after-falling-into-ocean-say-officials/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ZUMA Presumed a &#x27;Total Loss&#x27; After Falling Into Ocean...9 Jan 2018 — ZUMA launching atop a SpaceX Falcon 9 rocket from Cape Canaveral...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsxD. Wright, H. Beech, &quot;Re-entry/UFOs&quot;, MUFON UFO Journal, No. 198, Oct 1984: 15-16;.Read more...</p></details>
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsxD. Wright, H. Beech, &quot;Re-entry/UFOs&quot;, MUFON UFO Journal, No. 198, Oct 1984: 15-16;.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: livescience.com  
    Title: What Happened to Zuma?  
-   Link: <a href="https://www.livescience.com/61377-zuma-spacex-mystery-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/61377-zuma-spacex-mystery-explained.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What We Know About Secret...10 Jan 2018 — A classified SpaceX payload launched Sunday night (Jan. 7), codenamed Zuma. Either the mission...</p></details>
+   Link:<a href="https://www.livescience.com/61377-zuma-spacex-mystery-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/61377-zuma-spacex-mystery-explained.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What We Know About Secret...10 Jan 2018 — A classified SpaceX payload launched Sunday night (Jan. 7), codenamed Zuma. Either the mission...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: satobs.org  
    Title: zuma vs falcon9 stage2 clouds plumes overview  
-   Link: <a href="https://satobs.org/seesat_ref/misc/zuma_vs_falcon9-stage2_clouds_plumes_overview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/zuma_vs_falcon9-stage2_clouds_plumes_overview.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GROUND OBSERVATIONS OF FALCON-9 SECOND...6 Feb 2018 — Mysterious UFO spotted in Sudanese capital perplexes military. Antar... • Falcon...</p></details>
+   Link:<a href="https://satobs.org/seesat_ref/misc/zuma_vs_falcon9-stage2_clouds_plumes_overview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/zuma_vs_falcon9-stage2_clouds_plumes_overview.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GROUND OBSERVATIONS OF FALCON-9 SECOND...6 Feb 2018 — Mysterious UFO spotted in Sudanese capital perplexes military. Antar... • Falcon...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Zuma (satellite)  
-   Link: <a href="https://en.wikipedia.org/wiki/Zuma_%28satellite%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zuma_%28satellite%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zuma (satellite)Zuma was a classified United States government satellite that was launched by SpaceX on 8 January 2018, on the 47th fl...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Zuma_%28satellite%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zuma_%28satellite%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zuma (satellite)Zuma was a classified United States government satellite that was launched by SpaceX on 8 January 2018, on the 47th fl...</p></details>
    Published: January 2018  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Did Secret Zuma Mission Fail After Space X Launch?  
-   Link: <a href="https://www.youtube.com/watch?v=jOAd5-U0g_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jOAd5-U0g_Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon 9 Fuel Dump and Deorbit Burn Over the UK on 24th March 2025...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jOAd5-U0g_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jOAd5-U0g_Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon 9 Fuel Dump and Deorbit Burn Over the UK on 24th March 2025...</p></details>
    Published: March 2025  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: satobs.org  
-   Link: <a href="https://satobs.org/seesat_ref/misc/180206_fh_s2_burn3_d2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/180206_fh_s2_burn3_d2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some even said that a similar alien object was seen in...Read more...</p></details>
+   Link:<a href="https://satobs.org/seesat_ref/misc/180206_fh_s2_burn3_d2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/180206_fh_s2_burn3_d2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some even said that a similar alien object was seen in...Read more...</p></details>

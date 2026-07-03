@@ -251,11 +251,11 @@ image: /assets/images/Sierra_Leone_817b0d_false_alarms_4bd8bf-Illustration-1-soc
 Most Sierra Leone UFO-style reports are better understood as identification problems than as evidence of unknown craft. The country’s coastal geography, seasonal dust haze, heavy cloud formations, bright tropical sunlight, limited public access to aviation data, and occasional unusual aerial events create conditions in which ordinary objects can appear extraordinary. In many cases, witnesses are trying to interpret a brief visual event without radar information, flight tracking data, weather records or technical expertise.
 
 <img src="{{ "/assets/images/Sierra_Leone_817b0d_false_alarms_4bd8bf-Illustration-1-dark.svg" | relative_url }}" alt="False Alarms illustration 1" data-theme-src-dark="{{ "/assets/images/Sierra_Leone_817b0d_false_alarms_4bd8bf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sierra_Leone_817b0d_false_alarms_4bd8bf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because some of the most discussed recent sky incidents in Sierra Leone, including reports around Lungi and Freetown, fit a familiar pattern seen worldwide: a striking sight appears in the sky, photographs or videos circulate rapidly online, and speculation outruns verification. Understanding how aviation activity and weather conditions shape perception provides a more useful framework than treating every unexplained observation as a genuine mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</span><span class="citation-popover-meta">Published: June 7, 2025</span></span></span>
+This matters because some of the most discussed recent sky incidents in Sierra Leone, including reports around Lungi and Freetown, fit a familiar pattern seen worldwide: a striking sight appears in the sky, photographs or videos circulate rapidly online, and speculation outruns verification. Understanding how aviation activity and weather conditions shape perception provides a more useful framework than treating every unexplained observation as a genuine mystery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</span><span class="citation-popover-meta">Published: June 7, 2025</span></span></span>
 
 ## How ordinary skies become UFO stories
 
-Sierra Leone occupies a position along regional and international air routes connecting West Africa with Europe, the Middle East and neighbouring countries. Most international traffic passes through Freetown International Airport at Lungi, while smaller aircraft also operate domestically and regionally. Aircraft approaching or departing coastal airports can appear unusual when viewed from long distances, especially near sunrise, sunset or through haze. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Freetown_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Freetown International Airport</span><span class="citation-popover-snippet">Freetown International Airport</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_airports_in_Sierra_Leone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of airports in Sierra Leone</span><span class="citation-popover-snippet">List of airports in Sierra Leone</span></span></span>
+Sierra Leone occupies a position along regional and international air routes connecting West Africa with Europe, the Middle East and neighbouring countries. Most international traffic passes through Freetown International Airport at Lungi, while smaller aircraft also operate domestically and regionally. Aircraft approaching or departing coastal airports can appear unusual when viewed from long distances, especially near sunrise, sunset or through haze.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Freetown_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Freetown International Airport</span><span class="citation-popover-snippet">Freetown International Airport</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_airports_in_Sierra_Leone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of airports in Sierra Leone</span><span class="citation-popover-snippet">List of airports in Sierra Leone</span></span></span>
 
 Several factors repeatedly increase the chance of misidentification:
 
@@ -277,7 +277,7 @@ Not every unusual object in Sierra Leonean airspace is automatically easy to ide
 
 When observers cannot immediately match an object to a known flight, speculation often fills the gap. The lack of publicly accessible air-traffic information for many local observers means that an ordinary aircraft may appear mysterious simply because people cannot instantly verify its identity.
 
-The most useful lesson comes from the June 2025 Lungi sighting. Witnesses reported a bright streak or line descending from the sky, and reports spread quickly through local media and social platforms. Some observers in Freetown also reported seeing the phenomenon. Yet the available information never established an anomalous craft. The reported appearance remained consistent with several ordinary explanations, including a meteor, atmospheric re-entry, aircraft-related effects or other luminous aerial phenomena. The event became notable not because it proved anything unusual, but because it demonstrated how rapidly a visually dramatic observation can evolve into a UFO discussion before technical evidence is available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">aviation authority hazardous weather alert</span><span class="citation-popover-snippet">more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
+The most useful lesson comes from the June 2025 Lungi sighting. Witnesses reported a bright streak or line descending from the sky, and reports spread quickly through local media and social platforms. Some observers in Freetown also reported seeing the phenomenon. Yet the available information never established an anomalous craft. The reported appearance remained consistent with several ordinary explanations, including a meteor, atmospheric re-entry, aircraft-related effects or other luminous aerial phenomena. The event became notable not because it proved anything unusual, but because it demonstrated how rapidly a visually dramatic observation can evolve into a UFO discussion before technical evidence is available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">aviation authority hazardous weather alert</span><span class="citation-popover-snippet">more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
 
 This distinction is important. A sighting can be genuine in the sense that people really saw something unusual, while still lacking evidence that the object itself was extraordinary.
 
@@ -285,7 +285,7 @@ This distinction is important. A sighting can be genuine in the sense that peopl
 
 ### Harmattan haze changes how the sky looks
 
-One of the most significant contributors to misidentification in Sierra Leone is Harmattan weather. During the Harmattan season, dust from the Sahara spreads across large parts of West Africa. Aviation safety guidance notes that Harmattan conditions can dramatically reduce visibility and alter the appearance of distant objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/harmattan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Harmattan &#124; SKYbrary Aviation SafetyHarmattan haze. In some countries in West Africa, the heavy amount of dust in the air can sev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecalabashnewspaper.com/air-travel-warning-slcaa-orders-strict-compliance-with-harmattan-safety-procedures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecalabashnewspaper.com">[Calabash News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecalabashnewspaper.com</span><span class="citation-popover-snippet">Calabash NewsAir Travel Warning: SLCAA Orders Strict Compliance with...12 Dec 2025 — According to the SLCAA, the onset of Harmattan, cha...</span></span></span>
+One of the most significant contributors to misidentification in Sierra Leone is Harmattan weather. During the Harmattan season, dust from the Sahara spreads across large parts of West Africa. Aviation safety guidance notes that Harmattan conditions can dramatically reduce visibility and alter the appearance of distant objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/harmattan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Harmattan &#124; SKYbrary Aviation SafetyHarmattan haze. In some countries in West Africa, the heavy amount of dust in the air can sev...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://thecalabashnewspaper.com/air-travel-warning-slcaa-orders-strict-compliance-with-harmattan-safety-procedures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecalabashnewspaper.com">[Calabash News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecalabashnewspaper.com</span><span class="citation-popover-snippet">Calabash NewsAir Travel Warning: SLCAA Orders Strict Compliance with...12 Dec 2025 — According to the SLCAA, the onset of Harmattan, cha...</span></span></span>
 
 In Sierra Leone, aviation authorities have issued warnings about dust haze and visibility reduction during these periods. Reduced visibility affects pilots, but it also affects public perception. A bright light viewed through dust may appear larger, more diffuse or more colourful than it really is. Objects that would normally be recognisable can lose familiar visual cues.
 
@@ -300,13 +300,13 @@ Witnesses often describe:
 
 </div>
 
-Dust, moisture and scattering of light can produce all of these effects without requiring an unusual object in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecalabashnewspaper.com/air-travel-warning-slcaa-orders-strict-compliance-with-harmattan-safety-procedures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecalabashnewspaper.com">[Calabash News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecalabashnewspaper.com</span><span class="citation-popover-snippet">Calabash NewsAir Travel Warning: SLCAA Orders Strict Compliance with...12 Dec 2025 — According to the SLCAA, the onset of Harmattan, cha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</span><span class="citation-popover-meta">Published: June 7, 2025</span></span></span>
+Dust, moisture and scattering of light can produce all of these effects without requiring an unusual object in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thecalabashnewspaper.com/air-travel-warning-slcaa-orders-strict-compliance-with-harmattan-safety-procedures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecalabashnewspaper.com">[Calabash News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecalabashnewspaper.com</span><span class="citation-popover-snippet">Calabash NewsAir Travel Warning: SLCAA Orders Strict Compliance with...12 Dec 2025 — According to the SLCAA, the onset of Harmattan, cha...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</span><span class="citation-popover-meta">Published: June 7, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q7jcBGLIpus" title="Explained: New Navy UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer">Explained: New Navy UFO Videos</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 281.9K &middot; Uploaded: April 2020 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q7jcBGLIpus">Open on YouTube</a></p></div></div></div>
 
 ### Coastal cloud and storm effects
 
-The Freetown–Lungi area combines ocean moisture, tropical heat and frequent cloud development. Aviation weather reports for Lungi regularly include low cloud layers, thunderstorms, cumulonimbus clouds and changing visibility conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.allmetsat.com/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.allmetsat.com">[Allmetsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.allmetsat.com</span><span class="citation-popover-title">Lungi International Airport, Freetown Sierra Leone</span><span class="citation-popover-snippet">Lungi International Airport, Freetown Sierra Leone - METAR TAFFew clouds at a height of 2600 ft, Cumulonimbus. light rain. Tempo...</span></span></span>
+The Freetown–Lungi area combines ocean moisture, tropical heat and frequent cloud development. Aviation weather reports for Lungi regularly include low cloud layers, thunderstorms, cumulonimbus clouds and changing visibility conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.allmetsat.com/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.allmetsat.com">[Allmetsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.allmetsat.com</span><span class="citation-popover-title">Lungi International Airport, Freetown Sierra Leone</span><span class="citation-popover-snippet">Lungi International Airport, Freetown Sierra Leone - METAR TAFFew clouds at a height of 2600 ft, Cumulonimbus. light rain. Tempo...</span></span></span>
 
 These conditions create several common sources of confusion:
 
@@ -323,7 +323,7 @@ Because many sightings are brief and unexpected, witnesses rarely have time to c
 
 ### Fog, haze and disappearing objects
 
-Airport weather systems around Lungi routinely track visibility, cloud cover and haze because these factors directly affect flight operations. Reports frequently distinguish between clear conditions, haze, thunderstorms and cloud layers. meteoblue <span class="citation-chip-wrap"><a class="citation-chip" href="https://meteo365.es/airport/GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteo365.es">[3meteo365.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteo365.es</span><span class="citation-popover-snippet">Weather for Lungi International Airport GFLL/FNALungi International Airport is in Freetown, Port Loko District, Sierra Leone...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.allmetsat.com/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.allmetsat.com">[allmetsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.allmetsat.com</span><span class="citation-popover-title">Lungi International Airport, Freetown Sierra Leone</span><span class="citation-popover-snippet">Lungi International Airport, Freetown Sierra Leone - METAR TAFFew clouds at a height of 2600 ft, Cumulonimbus. light rain. Tempo...</span></span></span> From a UFO-analysis perspective, this matters because an object entering a haze layer can appear to vanish instantly. Conversely, an aircraft emerging from cloud can seem to materialise from nowhere. Human observers naturally interpret abrupt appearances and disappearances as unusual, even when they result from ordinary atmospheric masking.
+Airport weather systems around Lungi routinely track visibility, cloud cover and haze because these factors directly affect flight operations. Reports frequently distinguish between clear conditions, haze, thunderstorms and cloud layers. meteoblue<span class="citation-chip-wrap"><a class="citation-chip" href="https://meteo365.es/airport/GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteo365.es">[3meteo365.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteo365.es</span><span class="citation-popover-snippet">Weather for Lungi International Airport GFLL/FNALungi International Airport is in Freetown, Port Loko District, Sierra Leone...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.allmetsat.com/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.allmetsat.com">[allmetsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.allmetsat.com</span><span class="citation-popover-title">Lungi International Airport, Freetown Sierra Leone</span><span class="citation-popover-snippet">Lungi International Airport, Freetown Sierra Leone - METAR TAFFew clouds at a height of 2600 ft, Cumulonimbus. light rain. Tempo...</span></span></span> From a UFO-analysis perspective, this matters because an object entering a haze layer can appear to vanish instantly. Conversely, an aircraft emerging from cloud can seem to materialise from nowhere. Human observers naturally interpret abrupt appearances and disappearances as unusual, even when they result from ordinary atmospheric masking.
 
 <img src="{{ "/assets/images/Sierra_Leone_817b0d_false_alarms_4bd8bf-Illustration-2-dark.svg" | relative_url }}" alt="False Alarms illustration 2" data-theme-src-dark="{{ "/assets/images/Sierra_Leone_817b0d_false_alarms_4bd8bf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sierra_Leone_817b0d_false_alarms_4bd8bf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why bright streaks attract attention
@@ -336,7 +336,7 @@ Possible causeTypical appearanceMeteorBright fast-moving streak, sometimes leavi
 
 The challenge is that a witness normally sees only the visible effect, not the object’s true distance, altitude or speed.
 
-The Lungi incident illustrates this problem. Reports focused on the striking appearance of a descending bright line, but the public record contained too little technical information to distinguish confidently between competing explanations. That uncertainty created a UFO narrative even though no evidence demonstrated an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">aviation authority hazardous weather alert</span><span class="citation-popover-snippet">more...</span></span></span>
+The Lungi incident illustrates this problem. Reports focused on the striking appearance of a descending bright line, but the public record contained too little technical information to distinguish confidently between competing explanations. That uncertainty created a UFO narrative even though no evidence demonstrated an unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[Sierraloaded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">aviation authority hazardous weather alert</span><span class="citation-popover-snippet">more...</span></span></span>
 
 ## What makes a sighting stronger than a false alarm?
 
@@ -347,7 +347,7 @@ A stronger case would normally include several independent forms of evidence:
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Precise time and location.
-* Multiple witnesses observing from different positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[sierraloaded.sl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</span><span class="citation-popover-meta">Published: June 7, 2025</span></span></span>
+* Multiple witnesses observing from different positions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sierraloaded.sl">[sierraloaded.sl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sierraloaded.sl</span><span class="citation-popover-title">Mysterious Bright Line from Sky in Lungi Sparks Curiosity</span><span class="citation-popover-snippet">Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</span><span class="citation-popover-meta">Published: June 7, 2025</span></span></span>
 * Original photographs or video rather than reposted clips.
 * Aviation data showing nearby traffic.
 * Meteorological records.
@@ -377,7 +377,7 @@ Try to note:
 1. Exact time.
 2. Direction of travel.
 3. Estimated duration.
-4. Weather conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/data/airports/fna/weather" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[flightradar24.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">View the latest GFLL METAR reports to find out the current weather conditions at the airport...</span></span></span>
+4. Weather conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/data/airports/fna/weather" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[flightradar24.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">View the latest GFLL METAR reports to find out the current weather conditions at the airport...</span></span></span>
 5. Whether the object made any sound.
 6. Whether other people observed it independently.
 
@@ -392,11 +392,11 @@ Before concluding that a sighting is anomalous, compare it against:
 
 * Scheduled arrivals and departures around Lungi.
 * Visible contrails.
-* Local cloud cover. <span class="citation-chip-wrap"><a class="citation-chip" href="https://meteo365.es/airport/GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteo365.es">[meteo365.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteo365.es</span><span class="citation-popover-snippet">Weather for Lungi International Airport GFLL/FNALungi International Airport is in Freetown, Port Loko District, Sierra Leone...</span></span></span>
-* Thunderstorm activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/harmattan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Harmattan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Harmattan &#124; SKYbrary Aviation SafetyHarmattan haze. In some countries in West Africa, the heavy amount of dust in the air can sev...</span></span></span> an haze conditions.
+* Local cloud cover.<span class="citation-chip-wrap"><a class="citation-chip" href="https://meteo365.es/airport/GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteo365.es">[meteo365.es]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteo365.es</span><span class="citation-popover-snippet">Weather for Lungi International Airport GFLL/FNALungi International Airport is in Freetown, Port Loko District, Sierra Leone...</span></span></span>
+* Thunderstorm activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/harmattan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Harmattan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Harmattan &#124; SKYbrary Aviation SafetyHarmattan haze. In some countries in West Africa, the heavy amount of dust in the air can sev...</span></span></span> an haze conditions.
 * Reports of meteor activity or satellite re-entries.
 
-Many apparently mysterious events become easier to interpret once atmospheric and aviation factors are considered together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.allmetsat.com/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.allmetsat.com">[Allmetsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.allmetsat.com</span><span class="citation-popover-title">Lungi International Airport, Freetown Sierra Leone</span><span class="citation-popover-snippet">Lungi International Airport, Freetown Sierra Leone - METAR TAFFew clouds at a height of 2600 ft, Cumulonimbus. light rain. Tempo...</span></span></span>
+Many apparently mysterious events become easier to interpret once atmospheric and aviation factors are considered together.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.allmetsat.com/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.allmetsat.com">[Allmetsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.allmetsat.com</span><span class="citation-popover-title">Lungi International Airport, Freetown Sierra Leone</span><span class="citation-popover-snippet">Lungi International Airport, Freetown Sierra Leone - METAR TAFFew clouds at a height of 2600 ft, Cumulonimbus. light rain. Tempo...</span></span></span>
 
 ### Separate “unidentified” from “unexplainable”
 
@@ -409,194 +409,194 @@ Most publicly documented Sierra Leone cases currently fall into the first catego
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lnePCAK5GoU" title="Wright Patterson Drone Sightings - Metabunk says not" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lnePCAK5GoU" target="_blank" rel="noopener noreferrer">Wright Patterson Drone Sightings - Metabunk says not</a></p><p class="youtube-embed-meta">Channel: Drone &amp; Sundry &middot; Views: 946 &middot; Uploaded: July 2025 &middot; Length: 3 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lnePCAK5GoU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lnePCAK5GoU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Ordinary Skies Become UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Ordinary Skies Become UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explains how social, media and cultural forces turn sightings into UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how social, media and cultural forces turn sightings into UFO stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings, witness reports and ordinary explanations versus genuine unknowns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings, witness reports and ordinary explanations versus genuine unknowns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines how many reports emerge from misidentification and incomplete information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how many reports emerge from misidentification and incomplete information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how aviation observations are assessed and why evidence quality matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how aviation observations are assessed and why evidence quality matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ordinary-skies-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ordinary-skies-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ Most publicly documented Sierra Leone cases currently fall into the first catego
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ Most publicly documented Sierra Leone cases currently fall into the first catego
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ Most publicly documented Sierra Leone cases currently fall into the first catego
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ Most publicly documented Sierra Leone cases currently fall into the first catego
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ Most publicly documented Sierra Leone cases currently fall into the first catego
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,153 +802,153 @@ Most publicly documented Sierra Leone cases currently fall into the first catego
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sierraloaded.sl  
    Title: Mysterious Bright Line from Sky in Lungi Sparks Curiosity  
-   Link: <a href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</p></details>
+   Link:<a href="https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/local/mysterious-bright-line-lungi-citizens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Bright Line from Sky in Lungi Sparks Curiosity...June 7, 2025 — 7 Jun 2025 — Multiple witnesses reported a bright...</p></details>
    Published: June 7, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Freetown International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Freetown_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Freetown_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Freetown_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Freetown_International_Airport</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: List of airports in Sierra Leone  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_airports_in_Sierra_Leone" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_airports_in_Sierra_Leone</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_airports_in_Sierra_Leone" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_airports_in_Sierra_Leone</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Hastings Airport (Sierra Leone)  
-   Link: <a href="https://en.wikipedia.org/wiki/Hastings_Airport_%28Sierra_Leone%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hastings_Airport_%28Sierra_Leone%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hastings_Airport_%28Sierra_Leone%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hastings_Airport_%28Sierra_Leone%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/</a>  
+   Link:<a href="https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sierraloaded/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516109595973/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sierraloaded.news/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1196646369146921/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sierraloaded.news/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1196646369146921/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June, 2025.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/sierraloaded.news/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1196646369146921/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sierraloaded.news/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1196646369146921/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June, 2025.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/harmattan" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/harmattan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harmattan | SKYbrary Aviation SafetyHarmattan haze. In some countries in West Africa, the heavy amount of dust in the air can sev...</p></details>
+   Link:<a href="https://skybrary.aero/articles/harmattan" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/harmattan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harmattan | SKYbrary Aviation SafetyHarmattan haze. In some countries in West Africa, the heavy amount of dust in the air can sev...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/calabashnewspaper/posts/air-travel-warning-slcaa-orders-strict-compliance-with-harmattan-safety-procedur/1472585820897709/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/calabashnewspaper/posts/air-travel-warning-slcaa-orders-strict-compliance-with-harmattan-safety-procedur/1472585820897709/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>inds and significantly reduced visibility, poses serious risks...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/calabashnewspaper/posts/air-travel-warning-slcaa-orders-strict-compliance-with-harmattan-safety-procedur/1472585820897709/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/calabashnewspaper/posts/air-travel-warning-slcaa-orders-strict-compliance-with-harmattan-safety-procedur/1472585820897709/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inds and significantly reduced visibility, poses serious risks...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sierraloaded.sl  
    Title: aviation authority hazardous weather alert  
-   Link: <a href="https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/" target="_blank" rel="noopener noreferrer nofollow">https://sierraloaded.sl/news/aviation-authority-hazardous-weather-alert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: en.allmetsat.com  
    Title: Lungi International Airport, Freetown Sierra Leone  
-   Link: <a href="https://en.allmetsat.com/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow">https://en.allmetsat.com/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lungi International Airport, Freetown Sierra Leone - METAR TAFFew clouds at a height of 2600 ft, Cumulonimbus. light rain. Tempo...</p></details>
+   Link:<a href="https://en.allmetsat.com/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL" target="_blank" rel="noopener noreferrer nofollow">https://en.allmetsat.com/metar-taf/ivory-coast-liberia-sierra-leone-guinea.php?icao=GFLL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lungi International Airport, Freetown Sierra Leone - METAR TAFFew clouds at a height of 2600 ft, Cumulonimbus. light rain. Tempo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: meteoblue.com  
    Title: Weather Today Freetown-Lungi International Airport250º 12kt  
-   Link: <a href="https://www.meteoblue.com/en/weather/today/freetown-lungi-international-airport_sierra-leone_2406918" target="_blank" rel="noopener noreferrer nofollow">https://www.meteoblue.com/en/weather/today/freetown-lungi-international-airport_sierra-leone_2406918</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visibility, 5000m. Weather, Haze. Clouds. Pressure. Change, -. Raw... Weather radar, Sierra Leone. Drizzle. Light. Moderate. Heavy. Very...</p></details>
+   Link:<a href="https://www.meteoblue.com/en/weather/today/freetown-lungi-international-airport_sierra-leone_2406918" target="_blank" rel="noopener noreferrer nofollow">https://www.meteoblue.com/en/weather/today/freetown-lungi-international-airport_sierra-leone_2406918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visibility, 5000m. Weather, Haze. Clouds. Pressure. Change, -. Raw... Weather radar, Sierra Leone. Drizzle. Light. Moderate. Heavy. Very...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: meteo365.es  
-   Link: <a href="https://meteo365.es/airport/GFLL" target="_blank" rel="noopener noreferrer nofollow">https://meteo365.es/airport/GFLL</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather for Lungi International Airport GFLL/FNALungi International Airport is in Freetown, Port Loko District, Sierra Leone...</p></details>
+   Link:<a href="https://meteo365.es/airport/GFLL" target="_blank" rel="noopener noreferrer nofollow">https://meteo365.es/airport/GFLL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather for Lungi International Airport GFLL/FNALungi International Airport is in Freetown, Port Loko District, Sierra Leone...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: meteoblue.com  
-   Link: <a href="https://www.meteoblue.com/en/weather/week/freetown-lungi-international-airport_sierra-leone_2406918" target="_blank" rel="noopener noreferrer nofollow">https://www.meteoblue.com/en/weather/week/freetown-lungi-international-airport_sierra-leone_2406918</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Freetown-Lungi International AirportUnfortunately, low clouds and fog are difficult to distinguish from ground temperatures and t...</p></details>
+   Link:<a href="https://www.meteoblue.com/en/weather/week/freetown-lungi-international-airport_sierra-leone_2406918" target="_blank" rel="noopener noreferrer nofollow">https://www.meteoblue.com/en/weather/week/freetown-lungi-international-airport_sierra-leone_2406918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Freetown-Lungi International AirportUnfortunately, low clouds and fog are difficult to distinguish from ground temperatures and t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/232musichq/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1203558848448460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/232musichq/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1203558848448460/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June, 2025.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/232musichq/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1203558848448460/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/232musichq/posts/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1203558848448460/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June, 2025.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: m.facebook.com  
    Title: a captivating event unfolded in the skies over the coastal town of port loko dis  
-   Link: <a href="https://m.facebook.com/sierraloaded/photos/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516052929312/" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/sierraloaded/photos/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516052929312/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>captivating event unfolded in the skies over the...A captivating event unfolded in the skies over the coastal town of Port Loko District...</p></details>
+   Link:<a href="https://m.facebook.com/sierraloaded/photos/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516052929312/" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/sierraloaded/photos/a-captivating-event-unfolded-in-the-skies-over-the-coastal-town-of-port-loko-dis/1026516052929312/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>captivating event unfolded in the skies over the...A captivating event unfolded in the skies over the coastal town of Port Loko District...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/457642028504052/posts/2055057522095820/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/457642028504052/posts/2055057522095820/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>em, but that will remain to be seen as there is still...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/457642028504052/posts/2055057522095820/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/457642028504052/posts/2055057522095820/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>em, but that will remain to be seen as there is still...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1726319524262899/posts/4525835304311293/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1726319524262899/posts/4525835304311293/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sierra Leone NewsAccording to the SLCAA, the onset of Harmattan, characterized by dust haze, dry winds and significantly reduced visibili...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1726319524262899/posts/4525835304311293/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1726319524262899/posts/4525835304311293/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sierra Leone NewsAccording to the SLCAA, the onset of Harmattan, characterized by dust haze, dry winds and significantly reduced visibili...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thecalabashnewspaper.com  
-   Link: <a href="https://thecalabashnewspaper.com/air-travel-warning-slcaa-orders-strict-compliance-with-harmattan-safety-procedures/" target="_blank" rel="noopener noreferrer nofollow">https://thecalabashnewspaper.com/air-travel-warning-slcaa-orders-strict-compliance-with-harmattan-safety-procedures/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calabash NewsAir Travel Warning: SLCAA Orders Strict Compliance with...12 Dec 2025 — According to the SLCAA, the onset of Harmattan, cha...</p></details>
+   Link:<a href="https://thecalabashnewspaper.com/air-travel-warning-slcaa-orders-strict-compliance-with-harmattan-safety-procedures/" target="_blank" rel="noopener noreferrer nofollow">https://thecalabashnewspaper.com/air-travel-warning-slcaa-orders-strict-compliance-with-harmattan-safety-procedures/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calabash NewsAir Travel Warning: SLCAA Orders Strict Compliance with...12 Dec 2025 — According to the SLCAA, the onset of Harmattan, cha...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: freetown-airport.com  
-   Link: <a href="https://www.freetown-airport.com/en/int/booking/meteo_airport.php?lg=en" target="_blank" rel="noopener noreferrer nofollow">https://www.freetown-airport.com/en/int/booking/meteo_airport.php?lg=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FREETOWN Airport weatherTHE WEATHER NOW: Clear Temperature: 25°C (76°F) Feels like temperature: 27°C (80°F) Cloud cover: 14% Precipitatio...</p></details>
+   Link:<a href="https://www.freetown-airport.com/en/int/booking/meteo_airport.php?lg=en" target="_blank" rel="noopener noreferrer nofollow">https://www.freetown-airport.com/en/int/booking/meteo_airport.php?lg=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FREETOWN Airport weatherTHE WEATHER NOW: Clear Temperature: 25°C (76°F) Feels like temperature: 27°C (80°F) Cloud cover: 14% Precipitatio...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: metar-taf.com  
-   Link: <a href="https://metar-taf.com/history/GFLL?station_id=GOTK" target="_blank" rel="noopener noreferrer nofollow">https://metar-taf.com/history/GFLL?station_id=GOTK</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>METAR history GFLL · Lungi International AirportView the flying weather (METAR and TAF) for Lungi International Airport, Freetown (Lungi...</p></details>
+   Link:<a href="https://metar-taf.com/history/GFLL?station_id=GOTK" target="_blank" rel="noopener noreferrer nofollow">https://metar-taf.com/history/GFLL?station_id=GOTK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>METAR history GFLL · Lungi International AirportView the flying weather (METAR and TAF) for Lungi International Airport, Freetown (Lungi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: m.foreca.it  
-   Link: <a href="https://m.foreca.it/Sierra-Leone/Northern-Province/Freetown----Lungi--International--Airport" target="_blank" rel="noopener noreferrer nofollow">https://m.foreca.it/Sierra-Leone/Northern-Province/Freetown----Lungi--International--Airport</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Freetown-Lungi International AirportLocal weather in Freetown-Lungi International Airport. Partly cloudy. °C. Wind 4 m/s. SW.Read more...</p></details>
+   Link:<a href="https://m.foreca.it/Sierra-Leone/Northern-Province/Freetown----Lungi--International--Airport" target="_blank" rel="noopener noreferrer nofollow">https://m.foreca.it/Sierra-Leone/Northern-Province/Freetown----Lungi--International--Airport</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Freetown-Lungi International AirportLocal weather in Freetown-Lungi International Airport. Partly cloudy. °C. Wind 4 m/s. SW.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: bigorre.org  
    Title: Lungi International airport in Freetown (Sierra Leone)Visibility is 5km = 3sm  
-   Link: <a href="https://www.bigorre.org/aero/meteo/gfll/en" target="_blank" rel="noopener noreferrer nofollow">https://www.bigorre.org/aero/meteo/gfll/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>broken at. Caution: Aviation weather forecasts predict the presence of cumulonimbus (CB), which are known to be dangerous for aircraft...</p></details>
+   Link:<a href="https://www.bigorre.org/aero/meteo/gfll/en" target="_blank" rel="noopener noreferrer nofollow">https://www.bigorre.org/aero/meteo/gfll/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>broken at. Caution: Aviation weather forecasts predict the presence of cumulonimbus (CB), which are known to be dangerous for aircraft...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: flightradar24.com  
-   Link: <a href="https://www.flightradar24.com/data/airports/fna/weather" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/fna/weather</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>View the latest GFLL METAR reports to find out the current weather conditions at the airport...</p></details>
+   Link:<a href="https://www.flightradar24.com/data/airports/fna/weather" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/fna/weather</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>View the latest GFLL METAR reports to find out the current weather conditions at the airport...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: academia.edu  
    Title: Analysis Of Temporal Variation Of Harmattan Dust  
-   Link: <a href="https://www.academia.edu/4627286/Analysis_Of_Temporal_Variation_Of_Harmattan_Dust" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4627286/Analysis_Of_Temporal_Variation_Of_Harmattan_Dust</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Analysis Of Temporal Variation Of Harmattan Dust11 Oct 2025 — The study finds that Harmattan dust haze predominantly occurs between...</p></details>
+   Link:<a href="https://www.academia.edu/4627286/Analysis_Of_Temporal_Variation_Of_Harmattan_Dust" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4627286/Analysis_Of_Temporal_Variation_Of_Harmattan_Dust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Analysis Of Temporal Variation Of Harmattan Dust11 Oct 2025 — The study finds that Harmattan dust haze predominantly occurs between...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nl.weather-forecast.com  
-   Link: <a href="https://nl.weather-forecast.com/weather-stations/Freetown-Lungi-Airport" target="_blank" rel="noopener noreferrer nofollow">https://nl.weather-forecast.com/weather-stations/Freetown-Lungi-Airport</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>weather-forecast.comFreetown/Lungi International Airport LocatiekaartDe tabel bevat windsnelheid, dauwpunt, zichtbaarheid en luchtdrukmet...</p></details>
+   Link:<a href="https://nl.weather-forecast.com/weather-stations/Freetown-Lungi-Airport" target="_blank" rel="noopener noreferrer nofollow">https://nl.weather-forecast.com/weather-stations/Freetown-Lungi-Airport</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>weather-forecast.comFreetown/Lungi International Airport LocatiekaartDe tabel bevat windsnelheid, dauwpunt, zichtbaarheid en luchtdrukmet...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/sp-files/environmental-protection/Documents/ActionPlan/Sierra-Leone-Action-Plan-to-Reduce-CO2-Emmission-from-International-Aviation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/environmental-protection/Documents/ActionPlan/Sierra-Leone-Action-Plan-to-Reduce-CO2-Emmission-from-International-Aviation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation, Ministry of Environment and relevant...Read more...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/sp-files/environmental-protection/Documents/ActionPlan/Sierra-Leone-Action-Plan-to-Reduce-CO2-Emmission-from-International-Aviation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/environmental-protection/Documents/ActionPlan/Sierra-Leone-Action-Plan-to-Reduce-CO2-Emmission-from-International-Aviation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation, Ministry of Environment and relevant...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Mick West Explaining Navy UAP Footage On CNN  
-   Link: <a href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q7jcBGLIpus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explanation: Fake, Morphing, Holographic, Shape Shifting, UFO, Drone, Plane...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q7jcBGLIpus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explanation: Fake, Morphing, Holographic, Shape Shifting, UFO, Drone, Plane...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Wright Patterson Drone Sightings  
-   Link: <a href="https://www.youtube.com/watch?v=lnePCAK5GoU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lnePCAK5GoU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why This UFO Sighting Was Different | Monstrum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lnePCAK5GoU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lnePCAK5GoU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why This UFO Sighting Was Different | Monstrum...</p></details>

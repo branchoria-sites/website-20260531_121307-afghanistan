@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /el-salvador-9b83b7-index/
 description: Focused pages that expand on What Really Flies Over El Salvador?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: El_Salvador_9b83b7
 parent_title: What Really Flies Over El Salvador?
@@ -16,7 +16,7 @@ parent_permalink: /what-really-flies-over-el-salvador/
 
 # Explore Topics in What Really Flies Over El Salvador?
 
-The following pages expand on the main **[What Really Flies Over El Salvador?]({{ '/what-really-flies-over-el-salvador/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Flies Over El Salvador?]({{ '/what-really-flies-over-el-salvador/' | relative_url }})** page and cover its key branches in.
 
 - [San Jacinto]({{ '/san-jacinto/' | relative_url }})
 - [Evidence Test]({{ '/evidence-test/' | relative_url }})

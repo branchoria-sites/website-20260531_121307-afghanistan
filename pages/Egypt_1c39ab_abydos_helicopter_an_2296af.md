@@ -248,14 +248,14 @@ image: /assets/images/Egypt_1c39ab_abydos_helicopter_an_2296af-Illustration-1-so
 
 ## Introduction
 
-The so-called “Abydos helicopter” is one of the most widely circulated ancient-Egypt UFO claims. Images from the Temple of Seti I at Abydos appear, at first glance, to show a helicopter, submarine and jet-like craft carved into stone thousands of years ago. In UFO and ancient-astronaut culture, the relief is often presented as evidence that the ancient Egyptians possessed advanced technology or received outside knowledge. Egyptologists and archaeologists, however, overwhelmingly regard the image as a textbook case of pareidolia combined with a damaged palimpsest inscription rather than evidence of lost machines or extraterrestrial contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Temple_of_Seti_I_%28Abydos%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Temple of Seti I (Abydos</span><span class="citation-popover-snippet">Temple of Seti I (Abydos</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Helicopter hieroglyphs - WikipediaThe helicopter hieroglyphs is a name given to part of an Egyptian hieroglyph carving from the Temple...</span></span></span>
+The so-called “Abydos helicopter” is one of the most widely circulated ancient-Egypt UFO claims. Images from the Temple of Seti I at Abydos appear, at first glance, to show a helicopter, submarine and jet-like craft carved into stone thousands of years ago. In UFO and ancient-astronaut culture, the relief is often presented as evidence that the ancient Egyptians possessed advanced technology or received outside knowledge. Egyptologists and archaeologists, however, overwhelmingly regard the image as a textbook case of pareidolia combined with a damaged palimpsest inscription rather than evidence of lost machines or extraterrestrial contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Temple_of_Seti_I_%28Abydos%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Temple of Seti I (Abydos</span><span class="citation-popover-snippet">Temple of Seti I (Abydos</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Helicopter hieroglyphs - WikipediaThe helicopter hieroglyphs is a name given to part of an Egyptian hieroglyph carving from the Temple...</span></span></span>
 
 <img src="{{ "/assets/images/Egypt_1c39ab_abydos_helicopter_an_2296af-Illustration-1-dark.svg" | relative_url }}" alt="Abydos Helicopter illustration 1" data-theme-src-dark="{{ "/assets/images/Egypt_1c39ab_abydos_helicopter_an_2296af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Egypt_1c39ab_abydos_helicopter_an_2296af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the Abydos case important is not simply whether the carving resembles a helicopter. It is that the resemblance emerges through a known physical process: overlapping royal inscriptions altered over time and partially eroded. The result demonstrates how modern viewers can project familiar contemporary shapes onto fragmentary ancient imagery, especially when the setting already carries strong associations with mystery and hidden knowledge.
 
 ## Why the Abydos “Helicopter” Became Famous
 
-The carving sits high on a beam in the Temple of Seti I at Abydos, one of ancient Egypt’s most important religious sites. Abydos itself was a major cult centre associated with Osiris and royal ritual long before modern UFO theories existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Abydos-ancient-city-Egypt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">The site, located in the low desert west of the Nile River.Read more</span><span class="citation-popover-snippet">Encyclopedia BritannicaAbydos &#124; Egypt, Map, History, &amp; FactsAbydos, prominent sacred city and one of the most important archaeological si...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.penn.museum/sites/expedition/abydos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: penn.museum">[Penn Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">penn.museum</span><span class="citation-popover-title">Museum Abydos</span><span class="citation-popover-snippet">Abydos - Expedition MagazineBy about 2000 B.C. the original god of Abydos, the dog-shaped funerary deity Khentamenty, had been absorbed b...</span></span></span>
+The carving sits high on a beam in the Temple of Seti I at Abydos, one of ancient Egypt’s most important religious sites. Abydos itself was a major cult centre associated with Osiris and royal ritual long before modern UFO theories existed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Abydos-ancient-city-Egypt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">The site, located in the low desert west of the Nile River.Read more</span><span class="citation-popover-snippet">Encyclopedia BritannicaAbydos &#124; Egypt, Map, History, &amp; FactsAbydos, prominent sacred city and one of the most important archaeological si...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.penn.museum/sites/expedition/abydos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: penn.museum">[Penn Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">penn.museum</span><span class="citation-popover-title">Museum Abydos</span><span class="citation-popover-snippet">Abydos - Expedition MagazineBy about 2000 B.C. the original god of Abydos, the dog-shaped funerary deity Khentamenty, had been absorbed b...</span></span></span>
 
 The image became especially popular during the late twentieth century through fringe archaeology books, television documentaries and early internet forums. Photographs cropped tightly around the damaged section made the effect appear even more striking. To many viewers, the central shape looked uncannily like a helicopter fuselage with rotor blades above it. Nearby marks were interpreted as submarines, airships or futuristic aircraft.
 
@@ -275,11 +275,11 @@ The result was a compelling visual meme: a single photograph seemingly bypassing
 
 ## The Palimpsest Effect Behind the Illusion
 
-The mainstream Egyptological explanation is neither speculative nor especially mysterious. The inscription is understood as a palimpsest: an older carved text that was modified and overwritten by a later one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://madainproject.com/helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madainproject.com">[Madain Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madainproject.com</span><span class="citation-popover-snippet">Madain ProjectHelicopter HieroglyphsThe so-called helicopter-hieroglyph, a palimpsest relief, is a result two overlapping inscriptions, t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pareidolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The mainstream Egyptological explanation is neither speculative nor especially mysterious. The inscription is understood as a palimpsest: an older carved text that was modified and overwritten by a later one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://madainproject.com/helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madainproject.com">[Madain Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madainproject.com</span><span class="citation-popover-snippet">Madain ProjectHelicopter HieroglyphsThe so-called helicopter-hieroglyph, a palimpsest relief, is a result two overlapping inscriptions, t...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pareidolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ### How overlapping inscriptions created the shapes
 
-The original inscription was carved during the reign of Seti I. Later, under Ramesses II, parts of the text were plastered over and recarved with a revised royal titulary. Over centuries, the plaster filling deteriorated and fell away. What remains visible today is a partial overlap of both inscriptions at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Abydos%2C_Egypt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Abydos, Egypt</span><span class="citation-popover-snippet">Abydos, EgyptOne of the oldest cities of ancient Egypt, and also of the eighth nome in Upper Egypt. It is located about 11 kilometres...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://madainproject.com/helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madainproject.com">[Madain Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madainproject.com</span><span class="citation-popover-snippet">Madain ProjectHelicopter HieroglyphsThe so-called helicopter-hieroglyph, a palimpsest relief, is a result two overlapping inscriptions, t...</span></span></span>
+The original inscription was carved during the reign of Seti I. Later, under Ramesses II, parts of the text were plastered over and recarved with a revised royal titulary. Over centuries, the plaster filling deteriorated and fell away. What remains visible today is a partial overlap of both inscriptions at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Abydos%2C_Egypt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Abydos, Egypt</span><span class="citation-popover-snippet">Abydos, EgyptOne of the oldest cities of ancient Egypt, and also of the eighth nome in Upper Egypt. It is located about 11 kilometres...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://madainproject.com/helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madainproject.com">[Madain Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madainproject.com</span><span class="citation-popover-snippet">Madain ProjectHelicopter HieroglyphsThe so-called helicopter-hieroglyph, a palimpsest relief, is a result two overlapping inscriptions, t...</span></span></span>
 
 This matters because Egyptian hieroglyphs are highly structured symbolic forms. When two different carved symbol systems partially survive in the same space, the resulting merged shapes can look unlike either original inscription.
 
@@ -300,7 +300,7 @@ Rather than depicting a machine, the carving effectively combines fragments from
 
 ### Why the illusion looks convincing
 
-The illusion succeeds because the human brain excels at recognising familiar shapes quickly, even when information is incomplete. This is especially true for silhouettes associated with strong visual identities, such as aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/basics/pareidolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-snippet">Pareidolia &#124; Psychology Today United KingdomPareidolia is a phenomenon wherein people perceive likenesses on random images—such as faces...</span></span></span>
+The illusion succeeds because the human brain excels at recognising familiar shapes quickly, even when information is incomplete. This is especially true for silhouettes associated with strong visual identities, such as aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/basics/pareidolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-snippet">Pareidolia &#124; Psychology Today United KingdomPareidolia is a phenomenon wherein people perceive likenesses on random images—such as faces...</span></span></span>
 
 Once a viewer is told “this looks like a helicopter”, the brain tends to stabilise the interpretation. The mind begins organising ambiguous lines into a coherent modern object. This process is difficult to reverse after the first impression.
 
@@ -308,7 +308,7 @@ Importantly, the effect depends heavily on selective framing. Wider photographs 
 
 ## Pareidolia and Why Humans See Machines in Ancient Art
 
-Pareidolia is the tendency to perceive meaningful images in ambiguous visual information. Common examples include seeing faces in clouds, animals in rock formations or human expressions in everyday objects. Psychologists describe it as a normal feature of perception rather than a disorder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/health-and-medicine/pareidolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Pareidolia &#124; Health and Medicine &#124; Research StartersPareidolia is a psychological phenomenon where people perceive familiar patterns...</span></span></span> The Abydos case is especially powerful because it combines pareidolia with expectation and cultural familiarity.
+Pareidolia is the tendency to perceive meaningful images in ambiguous visual information. Common examples include seeing faces in clouds, animals in rock formations or human expressions in everyday objects. Psychologists describe it as a normal feature of perception rather than a disorder.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/health-and-medicine/pareidolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Pareidolia &#124; Health and Medicine &#124; Research StartersPareidolia is a psychological phenomenon where people perceive familiar patterns...</span></span></span> The Abydos case is especially powerful because it combines pareidolia with expectation and cultural familiarity.
 
 ### Modern technology shapes interpretation
 
@@ -320,7 +320,7 @@ The same cognitive tendency appears elsewhere in UFO culture:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* rock formations interpreted as faces; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/basics/pareidolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[psychologytoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-snippet">Pareidolia &#124; Psychology Today United KingdomPareidolia is a phenomenon wherein people perceive likenesses on random images—such as faces...</span></span></span>
+* rock formations interpreted as faces;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/basics/pareidolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[psychologytoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-snippet">Pareidolia &#124; Psychology Today United KingdomPareidolia is a phenomenon wherein people perceive likenesses on random images—such as faces...</span></span></span>
 * blurred lights interpreted as structured craft;
 * erosion marks interpreted as artificial construction;
 * overlapping textures interpreted as hidden symbols.
@@ -350,7 +350,7 @@ Egyptologists point to several converging facts:
 * overwriting inscriptions was historically common;
 * erosion patterns match the palimpsest explanation;
 * no supporting evidence exists for ancient aircraft technology;
-* nearby inscriptions remain entirely consistent with New Kingdom religious and royal formulae. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Temple_of_Seti_I_%28Abydos%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Temple of Seti I (Abydos</span><span class="citation-popover-snippet">Temple of Seti I (Abydos</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://madainproject.com/temple_of_seti_i_%28abydos%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madainproject.com">[Madain Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madainproject.com</span><span class="citation-popover-snippet">eating a palimpsest-like effect of...Read more...</span></span></span>
+* nearby inscriptions remain entirely consistent with New Kingdom religious and royal formulae.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Temple_of_Seti_I_%28Abydos%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Temple of Seti I (Abydos</span><span class="citation-popover-snippet">Temple of Seti I (Abydos</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://madainproject.com/temple_of_seti_i_%28abydos%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madainproject.com">[Madain Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madainproject.com</span><span class="citation-popover-snippet">eating a palimpsest-like effect of...Read more...</span></span></span>
 
 </div>
 
@@ -383,7 +383,7 @@ Several misconceptions repeatedly appear in online discussions and documentaries
 
 ### “The carving is a single intact image”
 
-It is not. The image results from overlapping inscriptions and surface damage. The illusion depends on partial survival and erosion rather than a clean, intentional design. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Helicopter hieroglyphs - WikipediaThe helicopter hieroglyphs is a name given to part of an Egyptian hieroglyph carving from the Temple...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pareidolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+It is not. The image results from overlapping inscriptions and surface damage. The illusion depends on partial survival and erosion rather than a clean, intentional design.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Helicopter hieroglyphs - WikipediaThe helicopter hieroglyphs is a name given to part of an Egyptian hieroglyph carving from the Temple...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pareidolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ### “Archaeologists cannot explain it”
 
@@ -391,7 +391,7 @@ The explanation has existed for decades and is broadly accepted within Egyptolog
 
 ### “The resemblance is impossible by chance”
 
-Pareidolia regularly produces striking recognisable forms from ambiguous information. Humans see meaningful patterns extremely easily, particularly faces, animals and machines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9103170/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPareidolia in a Built Environment as a Complex</span><span class="citation-popover-snippet">by C Wang · 2022 · Cited by 22 — Pareidolia is a psychological phenomenon that perceives a dedifferentiated sensory stimulus as indica...</span></span></span>
+Pareidolia regularly produces striking recognisable forms from ambiguous information. Humans see meaningful patterns extremely easily, particularly faces, animals and machines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9103170/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPareidolia in a Built Environment as a Complex</span><span class="citation-popover-snippet">by C Wang · 2022 · Cited by 22 — Pareidolia is a psychological phenomenon that perceives a dedifferentiated sensory stimulus as indica...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pPxlh_VYquQ" title="Ancient Egyptian UFOs? The Mystery of Abydos Helicopter Hieroglyphs!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pPxlh_VYquQ" target="_blank" rel="noopener noreferrer">Ancient Egyptian UFOs? The Mystery of Abydos Helicopter Hieroglyphs!</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE Universe &middot; Views: 3.4K &middot; Uploaded: February 2025 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pPxlh_VYquQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pPxlh_VYquQ">Open on YouTube</a></p></div></div></div>
 
@@ -420,194 +420,194 @@ Unlike some modern UFO sightings, the Abydos case is not primarily a mystery of 
 For that reason, the “Abydos helicopter” has become less significant as archaeological evidence than as a case study in perception itself. The relief shows how quickly the human mind can transform damaged historical material into a modern technological narrative, especially in a setting already associated with mystery, antiquity and speculation about hidden knowledge.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Abydos Hieroglyphs Really Show Modern Aircraft?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Abydos Hieroglyphs Really Show Modern Aircraft?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Terrible Mistake on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9092162-M.jpg" alt="Cover for A Terrible Mistake" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Terrible Mistake">A Terrible Mistake</a>
-        </h4>
-        <p class="fr-book-author">By Jason Colavito</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Terrible Mistake on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9092162-M.jpg" alt="Cover for A Terrible Mistake" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Terrible Mistake">A Terrible Mistake</a>
+</h4>
+<p class="fr-book-author">By Jason Colavito</p>
         
-        <p class="fr-book-desc">Explains how archaeological anomalies become UFO narratives and addresses claims like Abydos.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how archaeological anomalies become UFO narratives and addresses claims like Abydos.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+complete+pyramids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The complete pyramids on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315784-M.jpg" alt="Cover for The complete pyramids" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+complete+pyramids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete pyramids">The complete pyramids</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+complete+pyramids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The complete pyramids on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315784-M.jpg" alt="Cover for The complete pyramids" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+complete+pyramids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete pyramids">The complete pyramids</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides archaeological context that counters speculative interpretations of Egyptian monuments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+complete+pyramids&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides archaeological context that counters speculative interpretations of Egyptian monuments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+complete+pyramids&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Clancy 2 boxed set on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clancy 2 boxed set">Clancy 2 boxed set</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Clancy 2 boxed set on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clancy 2 boxed set">Clancy 2 boxed set</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly connects ancient Egypt with extraterrestrial interpretations similar to the Abydos claim.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects ancient Egypt with extraterrestrial interpretations similar to the Abydos claim.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides the broader ancient-alien framework that popularized interpretations like the Abydos helicopter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the broader ancient-alien framework that popularized interpretations like the Abydos helicopter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Terrible+Mistake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Terrible Mistake</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+complete+pyramids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The complete pyramids</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Clancy 2 boxed set</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Terrible+Mistake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Terrible Mistake</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+complete+pyramids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The complete pyramids</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Clancy 2 boxed set</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-abydos-hieroglyphs-really-show-modern-aircraft-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -623,7 +623,7 @@ For that reason, the “Abydos helicopter” has become less significant as arch
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -643,7 +643,7 @@ For that reason, the “Abydos helicopter” has become less significant as arch
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -675,7 +675,7 @@ For that reason, the “Abydos helicopter” has become less significant as arch
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -727,7 +727,7 @@ For that reason, the “Abydos helicopter” has become less significant as arch
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -772,7 +772,7 @@ For that reason, the “Abydos helicopter” has become less significant as arch
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -813,135 +813,135 @@ For that reason, the “Abydos helicopter” has become less significant as arch
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Temple of Seti I (Abydos)  
-   Link: <a href="https://en.wikipedia.org/wiki/Temple_of_Seti_I_%28Abydos%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Temple_of_Seti_I_%28Abydos%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Temple_of_Seti_I_%28Abydos%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Temple_of_Seti_I_%28Abydos%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Helicopter_hieroglyphs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter hieroglyphs - WikipediaThe helicopter hieroglyphs is a name given to part of an Egyptian hieroglyph carving from the Temple...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Helicopter_hieroglyphs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter hieroglyphs - WikipediaThe helicopter hieroglyphs is a name given to part of an Egyptian hieroglyph carving from the Temple...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: britannica.com  
    Title: The site, located in the low desert west of the Nile River.Read more  
-   Link: <a href="https://www.britannica.com/place/Abydos-ancient-city-Egypt" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Abydos-ancient-city-Egypt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAbydos | Egypt, Map, History, &amp; FactsAbydos, prominent sacred city and one of the most important archaeological si...</p></details>
+   Link:<a href="https://www.britannica.com/place/Abydos-ancient-city-Egypt" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Abydos-ancient-city-Egypt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAbydos | Egypt, Map, History, &amp; FactsAbydos, prominent sacred city and one of the most important archaeological si...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: penn.museum  
    Title: Museum Abydos  
-   Link: <a href="https://www.penn.museum/sites/expedition/abydos/" target="_blank" rel="noopener noreferrer nofollow">https://www.penn.museum/sites/expedition/abydos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos - Expedition MagazineBy about 2000 B.C. the original god of Abydos, the dog-shaped funerary deity Khentamenty, had been absorbed b...</p></details>
+   Link:<a href="https://www.penn.museum/sites/expedition/abydos/" target="_blank" rel="noopener noreferrer nofollow">https://www.penn.museum/sites/expedition/abydos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos - Expedition MagazineBy about 2000 B.C. the original god of Abydos, the dog-shaped funerary deity Khentamenty, had been absorbed b...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Pareidolia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pareidolia</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pareidolia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pareidolia</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/health-and-medicine/pareidolia" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/health-and-medicine/pareidolia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pareidolia | Health and Medicine | Research StartersPareidolia is a psychological phenomenon where people perceive familiar patterns...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/health-and-medicine/pareidolia" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/health-and-medicine/pareidolia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pareidolia | Health and Medicine | Research StartersPareidolia is a psychological phenomenon where people perceive familiar patterns...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPareidolia in a Built Environment as a Complex  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9103170/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9103170/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Wang · 2022 · Cited by 22 — Pareidolia is a psychological phenomenon that perceives a dedifferentiated sensory stimulus as indica...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9103170/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9103170/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by C Wang · 2022 · Cited by 22 — Pareidolia is a psychological phenomenon that perceives a dedifferentiated sensory stimulus as indica...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Abydos, Egypt  
-   Link: <a href="https://en.wikipedia.org/wiki/Abydos%2C_Egypt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Abydos%2C_Egypt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos, EgyptOne of the oldest cities of ancient Egypt, and also of the eighth nome in Upper Egypt. It is located about 11 kilometres...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Abydos%2C_Egypt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Abydos%2C_Egypt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos, EgyptOne of the oldest cities of ancient Egypt, and also of the eighth nome in Upper Egypt. It is located about 11 kilometres...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: abydos.org  
-   Link: <a href="https://abydos.org/" target="_blank" rel="noopener noreferrer nofollow">https://abydos.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos ArchaeologyThe mission of Abydos Archaeology is to advance knowledge about ancient Egypt&#x27;s most sacred site—home of Egypt&#x27;s first...</p></details>
+   Link:<a href="https://abydos.org/" target="_blank" rel="noopener noreferrer nofollow">https://abydos.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos ArchaeologyThe mission of Abydos Archaeology is to advance knowledge about ancient Egypt&#x27;s most sacred site—home of Egypt&#x27;s first...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: HOW TO READ EGYPTIAN HIEROGLYPHS (and the Abydos Kinglists)  
-   Link: <a href="https://www.youtube.com/watch?v=JckR7_7xuW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JckR7_7xuW8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos Helicopter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JckR7_7xuW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JckR7_7xuW8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos Helicopter...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Abydos Helicopter  
-   Link: <a href="https://www.youtube.com/watch?v=QQBxl_TlY48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QQBxl_TlY48</a>  
+   Link:<a href="https://www.youtube.com/watch?v=QQBxl_TlY48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QQBxl_TlY48</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: madainproject.com  
-   Link: <a href="https://madainproject.com/helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow">https://madainproject.com/helicopter_hieroglyphs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Madain ProjectHelicopter HieroglyphsThe so-called helicopter-hieroglyph, a palimpsest relief, is a result two overlapping inscriptions, t...</p></details>
+   Link:<a href="https://madainproject.com/helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow">https://madainproject.com/helicopter_hieroglyphs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Madain ProjectHelicopter HieroglyphsThe so-called helicopter-hieroglyph, a palimpsest relief, is a result two overlapping inscriptions, t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/gb/basics/pareidolia" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/pareidolia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pareidolia | Psychology Today United KingdomPareidolia is a phenomenon wherein people perceive likenesses on random images—such as faces...</p></details>
+   Link:<a href="https://www.psychologytoday.com/gb/basics/pareidolia" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/pareidolia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pareidolia | Psychology Today United KingdomPareidolia is a phenomenon wherein people perceive likenesses on random images—such as faces...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: madainproject.com  
-   Link: <a href="https://madainproject.com/temple_of_seti_i_%28abydos%29" target="_blank" rel="noopener noreferrer nofollow">https://madainproject.com/temple_of_seti_i_%28abydos%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eating a palimpsest-like effect of...Read more...</p></details>
+   Link:<a href="https://madainproject.com/temple_of_seti_i_%28abydos%29" target="_blank" rel="noopener noreferrer nofollow">https://madainproject.com/temple_of_seti_i_%28abydos%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eating a palimpsest-like effect of...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: isida-project.org  
-   Link: <a href="https://isida-project.org/egypt_april_2018/rmss2_en.htm" target="_blank" rel="noopener noreferrer nofollow">https://isida-project.org/egypt_april_2018/rmss2_en.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Temple of Ramesses II - ISIDA ProjectOn the southern half of the surviving wall of the Temple Court one can see a preserved part of a...</p></details>
+   Link:<a href="https://isida-project.org/egypt_april_2018/rmss2_en.htm" target="_blank" rel="noopener noreferrer nofollow">https://isida-project.org/egypt_april_2018/rmss2_en.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Temple of Ramesses II - ISIDA ProjectOn the southern half of the surviving wall of the Temple Court one can see a preserved part of a...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g1051491-d4060390-Reviews-Abydos-Sohag_Sohag_Governorate_Nile_River_Valley.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g1051491-d4060390-Reviews-Abydos-Sohag_Sohag_Governorate_Nile_River_Valley.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos, SohagThe Temple of Seti I is located in Abydos which is 1.5 hours from Sohag. It&#x27;s very well preserved. The most famous attractio...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g1051491-d4060390-Reviews-Abydos-Sohag_Sohag_Governorate_Nile_River_Valley.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g1051491-d4060390-Reviews-Abydos-Sohag_Sohag_Governorate_Nile_River_Valley.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos, SohagThe Temple of Seti I is located in Abydos which is 1.5 hours from Sohag. It&#x27;s very well preserved. The most famous attractio...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: egypt-museum.com  
-   Link: <a href="https://egypt-museum.com/helicopter-hieroglyphs/" target="_blank" rel="noopener noreferrer nofollow">https://egypt-museum.com/helicopter-hieroglyphs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Hieroglyphs... Abydos are not depictions of futuristic machines, but the result of a palimpsest. This explanation may upset th...</p></details>
+   Link:<a href="https://egypt-museum.com/helicopter-hieroglyphs/" target="_blank" rel="noopener noreferrer nofollow">https://egypt-museum.com/helicopter-hieroglyphs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Hieroglyphs... Abydos are not depictions of futuristic machines, but the result of a palimpsest. This explanation may upset th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Egypt.Museum/posts/the-so-called-helicopter-hieroglyphs-high-upon-the-walls-of-the-temple-of-seti-i/1232529125569341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Egypt.Museum/posts/the-so-called-helicopter-hieroglyphs-high-upon-the-walls-of-the-temple-of-seti-i/1232529125569341/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Egypt MuseumThe term &quot;Helicopter Hieroglyphs&quot; refers to a modern interpretation of a set of certain ancient Egyptian reliefs, found in th...</p></details>
+   Link:<a href="https://www.facebook.com/Egypt.Museum/posts/the-so-called-helicopter-hieroglyphs-high-upon-the-walls-of-the-temple-of-seti-i/1232529125569341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Egypt.Museum/posts/the-so-called-helicopter-hieroglyphs-high-upon-the-walls-of-the-temple-of-seti-i/1232529125569341/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Egypt MuseumThe term &quot;Helicopter Hieroglyphs&quot; refers to a modern interpretation of a set of certain ancient Egyptian reliefs, found in th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: msu-anthropology.github.io  
-   Link: <a href="https://msu-anthropology.github.io/daea/sites/ramesses-ii.html" target="_blank" rel="noopener noreferrer nofollow">https://msu-anthropology.github.io/daea/sites/ramesses-ii.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramesses II Cenotaph Temple at AbydosRamesses II Temple is made of beautiful pink and black granite with painted limestone walls. The tem...</p></details>
+   Link:<a href="https://msu-anthropology.github.io/daea/sites/ramesses-ii.html" target="_blank" rel="noopener noreferrer nofollow">https://msu-anthropology.github.io/daea/sites/ramesses-ii.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramesses II Cenotaph Temple at AbydosRamesses II Temple is made of beautiful pink and black granite with painted limestone walls. The tem...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/145219775/Anatomy_of_a_Palimpsest_The_Not_So_Strange_Case_of_the_Abydos_Helicopter" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145219775/Anatomy_of_a_Palimpsest_The_Not_So_Strange_Case_of_the_Abydos_Helicopter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Not-So-Strange Case of the Abydos HelicopterA detailed discussion of a palimpsest, i.e. re-carved, inscription of Sety I and Ramesses...</p></details>
+   Link:<a href="https://www.academia.edu/145219775/Anatomy_of_a_Palimpsest_The_Not_So_Strange_Case_of_the_Abydos_Helicopter" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145219775/Anatomy_of_a_Palimpsest_The_Not_So_Strange_Case_of_the_Abydos_Helicopter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Not-So-Strange Case of the Abydos HelicopterA detailed discussion of a palimpsest, i.e. re-carved, inscription of Sety I and Ramesses...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/weeds-wildflowers/what-is-pareidolia-7d98ce6cd570" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/weeds-wildflowers/what-is-pareidolia-7d98ce6cd570</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Pareidolia?. Finding shapes in different thingsOur brains have evolved to recognize familiar patterns, for survival reasons. This...</p></details>
+   Link:<a href="https://medium.com/weeds-wildflowers/what-is-pareidolia-7d98ce6cd570" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/weeds-wildflowers/what-is-pareidolia-7d98ce6cd570</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Pareidolia?. Finding shapes in different thingsOur brains have evolved to recognize familiar patterns, for survival reasons. This...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/the-great-dedicatory-inscription-of-ramesses-ii-a-solar-osirian-tractate-at-abydos-9004170308-9789004170308.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-great-dedicatory-inscription-of-ramesses-ii-a-solar-osirian-tractate-at-abydos-9004170308-9789004170308.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“completed the decoration only after his father&#x27;s death and at a time when he had adopted his final...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/download/the-great-dedicatory-inscription-of-ramesses-ii-a-solar-osirian-tractate-at-abydos-9004170308-9789004170308.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-great-dedicatory-inscription-of-ramesses-ii-a-solar-osirian-tractate-at-abydos-9004170308-9789004170308.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“completed the decoration only after his father&#x27;s death and at a time when he had adopted his final...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ub.edu  
-   Link: <a href="https://www.ub.edu/ipoa/wp-content/uploads/2021/07/20172AuOrCosta.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ub.edu/ipoa/wp-content/uploads/2021/07/20172AuOrCosta.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the decoration of the temples constructed by him at Abydos and Gurna and the Great Hypostyle...Read more...</p></details>
+   Link:<a href="https://www.ub.edu/ipoa/wp-content/uploads/2021/07/20172AuOrCosta.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ub.edu/ipoa/wp-content/uploads/2021/07/20172AuOrCosta.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the decoration of the temples constructed by him at Abydos and Gurna and the Great Hypostyle...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: egyptianmuseum.org  
    Title: New Kingdom Monuments Abydos – The Temple of Seti Built ca  
-   Link: <a href="https://egyptianmuseum.org/explore/new-kingdom-monuments-abydos-the-temple-of-seti" target="_blank" rel="noopener noreferrer nofollow">https://egyptianmuseum.org/explore/new-kingdom-monuments-abydos-the-temple-of-seti</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1279 BCE... The Temple of Seti in Abydos (300 miles south of Cairo) was constructed by Seti I and his son, Rameses II. Seti was a pharao...</p></details>
+   Link:<a href="https://egyptianmuseum.org/explore/new-kingdom-monuments-abydos-the-temple-of-seti" target="_blank" rel="noopener noreferrer nofollow">https://egyptianmuseum.org/explore/new-kingdom-monuments-abydos-the-temple-of-seti</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1279 BCE... The Temple of Seti in Abydos (300 miles south of Cairo) was constructed by Seti I and his son, Rameses II. Seti was a pharao...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: hub.jhu.edu  
    Title: The Hub The science behind why we see faces in nature  
-   Link: <a href="https://hub.jhu.edu/magazine/2024/winter/pareidolia-faces-in-nature/" target="_blank" rel="noopener noreferrer nofollow">https://hub.jhu.edu/magazine/2024/winter/pareidolia-faces-in-nature/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The HubThe science behind why we see faces in nature - JHU HubAs humans, we&#x27;re hardwired to discern such recognizable and often meaningfu...</p></details>
+   Link:<a href="https://hub.jhu.edu/magazine/2024/winter/pareidolia-faces-in-nature/" target="_blank" rel="noopener noreferrer nofollow">https://hub.jhu.edu/magazine/2024/winter/pareidolia-faces-in-nature/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The HubThe science behind why we see faces in nature - JHU HubAs humans, we&#x27;re hardwired to discern such recognizable and often meaningfu...</p></details>

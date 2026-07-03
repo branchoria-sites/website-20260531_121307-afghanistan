@@ -1197,44 +1197,44 @@ image: /assets/images/Bulgaria_5c7772-overview-social.jpg
 Although early documented sightings are sparse, there are accounts of unusual aerial phenomena dating back to the late 19th and early 20th century. Local stories recall celestial lights observed near Petrich and other locations, interpreted by villagers of the time as extraordinary aerial occurrences. [ВАРНА новини]
 
 <img src="{{ "/assets/images/Bulgaria_5c7772-overview.webp" | relative_url }}" alt="Overview image for What Really Explains Bulgaria&#x27;s UFO Stories?" loading="eager" decoding="sync" fetchpriority="high">
-One of the most well‑known episodes in Bulgaria’s modern UFO lore occurred at the end of December 1978, when residents in Sofia and other regions such as Pleven and Vratsa reported bright, unidentified objects in the early morning sky. Witness descriptions included luminous objects with changing colours and unusual motion. Official statements from the Bulgarian News Agency identified the bright light as the planet Venus, unusually prominent in the sky, but some contemporaneous observers and later commentators questioned whether that fully accounted for dynamic aspects of the sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-disturb-bulgarians-at-the-end-of-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bta.bg">[BTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bta.bg</span><span class="citation-popover-title">1035595 unidentified aerial phenomena disturb bulgarians at the end of 1978</span><span class="citation-popover-snippet">BTA:: Unidentified Aerial Phenomena Reported across Bulgaria in Late 1978December 30, 2025...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
+One of the most well‑known episodes in Bulgaria’s modern UFO lore occurred at the end of December 1978, when residents in Sofia and other regions such as Pleven and Vratsa reported bright, unidentified objects in the early morning sky. Witness descriptions included luminous objects with changing colours and unusual motion. Official statements from the Bulgarian News Agency identified the bright light as the planet Venus, unusually prominent in the sky, but some contemporaneous observers and later commentators questioned whether that fully accounted for dynamic aspects of the sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-disturb-bulgarians-at-the-end-of-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bta.bg">[BTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bta.bg</span><span class="citation-popover-title">1035595 unidentified aerial phenomena disturb bulgarians at the end of 1978</span><span class="citation-popover-snippet">BTA:: Unidentified Aerial Phenomena Reported across Bulgaria in Late 1978December 30, 2025...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
 
 ## 1980s Pilot Encounters and Military Reports
 
-Claims of UFO encounters by Bulgarian pilots have surfaced in journalistic and internet reports, though formal military confirmation is lacking. In particular, helicopter pilots Georgi Dimitrov and Nikolay Belev reportedly sighted an unidentified object over the Rhodope Mountains in October 1984, describing a large glowing craft during a night flight. Equipment anomalies allegedly occurred when they approached the object, prompting their return to base. Such narratives appear in popular press and later retellings, but independent corroboration from defence records has not been produced in the public domain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://novini.bg/article/2025030510053223425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: novini.bg">[Novini.bg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">novini.bg</span><span class="citation-popover-snippet">Български пилоти признават за срещи с НЛО &#124; Новини.бгOctober 25, 2016...</span><span class="citation-popover-meta">Published: October 25, 2016</span></span></span>
+Claims of UFO encounters by Bulgarian pilots have surfaced in journalistic and internet reports, though formal military confirmation is lacking. In particular, helicopter pilots Georgi Dimitrov and Nikolay Belev reportedly sighted an unidentified object over the Rhodope Mountains in October 1984, describing a large glowing craft during a night flight. Equipment anomalies allegedly occurred when they approached the object, prompting their return to base. Such narratives appear in popular press and later retellings, but independent corroboration from defence records has not been produced in the public domain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://novini.bg/article/2025030510053223425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: novini.bg">[Novini.bg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">novini.bg</span><span class="citation-popover-snippet">Български пилоти признават за срещи с НЛО &#124; Новини.бгOctober 25, 2016...</span><span class="citation-popover-meta">Published: October 25, 2016</span></span></span>
 
-Other pilot‑related accounts, circulated online, extend back to 1960s fighter jet encounters and unnamed aircraft crews reporting unexplained lights or craft during routine flights. These accounts, however, must be treated as anecdotal in the absence of declassified military documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/s1rpao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Bulgarian Air Force pilots encounters with UFOs</span><span class="citation-popover-snippet">Bulgarian Air Force pilots encounters with UFOsJanuary 12, 2022...</span><span class="citation-popover-meta">Published: January 12, 2022</span></span></span>
+Other pilot‑related accounts, circulated online, extend back to 1960s fighter jet encounters and unnamed aircraft crews reporting unexplained lights or craft during routine flights. These accounts, however, must be treated as anecdotal in the absence of declassified military documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/s1rpao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Bulgarian Air Force pilots encounters with UFOs</span><span class="citation-popover-snippet">Bulgarian Air Force pilots encounters with UFOsJanuary 12, 2022...</span><span class="citation-popover-meta">Published: January 12, 2022</span></span></span>
 
 ## Reported Sightings in Recent Decades
 
 In the 21st century, Bulgaria continues to appear in UFO reporting databases and local news accounts, mostly centred on witness observations of unfamiliar aerial lights or shapes:
 
-* The UFO Hunters sightings map lists dozens of individual reports across Bulgarian cities and regions with varying object shapes – cylinders, star‑like lights, fireballs – and durations from seconds to minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/BGR/Bulgaria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Bulgaria</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Bulgaria - UFO Hunters...</span></span></span>
-* The National UFO Reporting Center (NUFORC), a US‑based database that collects voluntary public reports, includes multiple entries from Bulgarian locations such as Burgas, Varna, and Lovech, detailing lights and shapes inconsistent with immediate identification by observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189995" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 189995June 9, 2025...</span><span class="citation-popover-meta">Published: June 9, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">2 minutes No of observers: 2 Location: Plazovets, Burgas, Bulgaria Locat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=190864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 190864July 13, 2025 — NUFORC UFO SIGHTING 190864 Occurred: 2010-08-10 22:30 Local Reported: 2025-07-09 19:55 Pacific...</span><span class="citation-popover-meta">Published: August 10, 2010</span></span></span>
-* Local Bulgarian media periodically report fresh sightings, such as luminous disks and fireball‑like objects over the Dobrich region in 2026, followed by discussions among local enthusiast groups. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pronewsdobrich.bg/ognena-sfera-i-sveteshti-diskove-nad-dobrich-kakvo-opisvat-ochevidtsi-na-nlo-p665644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pronewsdobrich.bg">[Pro News Dobrich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pronewsdobrich.bg</span><span class="citation-popover-snippet">Про Нюз ДобричMarch 12, 2026...</span><span class="citation-popover-meta">Published: March 12, 2026</span></span></span>
-* Smaller rural sightings, such as a light described as a cross over Smolyan in 2020, have been shared within Bulgarian UFO community networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lupa.bg/news/nlo-shpionira-smolyansko-selo_43115news.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lupa.bg">[Lupa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lupa.bg</span><span class="citation-popover-title">НЛО шпионира смолянско село</span><span class="citation-popover-snippet">LupaНЛО шпионира смолянско село - Lupa BGFebruary 3, 2020...</span><span class="citation-popover-meta">Published: February 3, 2020</span></span></span>
+* The UFO Hunters sightings map lists dozens of individual reports across Bulgarian cities and regions with varying object shapes – cylinders, star‑like lights, fireballs – and durations from seconds to minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/BGR/Bulgaria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Bulgaria</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Bulgaria - UFO Hunters...</span></span></span>
+* The National UFO Reporting Center (NUFORC), a US‑based database that collects voluntary public reports, includes multiple entries from Bulgarian locations such as Burgas, Varna, and Lovech, detailing lights and shapes inconsistent with immediate identification by observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189995" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 189995June 9, 2025...</span><span class="citation-popover-meta">Published: June 9, 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">2 minutes No of observers: 2 Location: Plazovets, Burgas, Bulgaria Locat...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=190864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 190864July 13, 2025 — NUFORC UFO SIGHTING 190864 Occurred: 2010-08-10 22:30 Local Reported: 2025-07-09 19:55 Pacific...</span><span class="citation-popover-meta">Published: August 10, 2010</span></span></span>
+* Local Bulgarian media periodically report fresh sightings, such as luminous disks and fireball‑like objects over the Dobrich region in 2026, followed by discussions among local enthusiast groups.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pronewsdobrich.bg/ognena-sfera-i-sveteshti-diskove-nad-dobrich-kakvo-opisvat-ochevidtsi-na-nlo-p665644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pronewsdobrich.bg">[Pro News Dobrich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pronewsdobrich.bg</span><span class="citation-popover-snippet">Про Нюз ДобричMarch 12, 2026...</span><span class="citation-popover-meta">Published: March 12, 2026</span></span></span>
+* Smaller rural sightings, such as a light described as a cross over Smolyan in 2020, have been shared within Bulgarian UFO community networks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lupa.bg/news/nlo-shpionira-smolyansko-selo_43115news.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lupa.bg">[Lupa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lupa.bg</span><span class="citation-popover-title">НЛО шпионира смолянско село</span><span class="citation-popover-snippet">LupaНЛО шпионира смолянско село - Lupa BGFebruary 3, 2020...</span><span class="citation-popover-meta">Published: February 3, 2020</span></span></span>
 
 While these reports reflect ongoing public interest in aerial anomalies, they largely consist of eyewitness testimony without independent verification, and many can be plausibly associated with atmospheric, astronomical, or misidentified aircraft phenomena.
 
 <img src="{{ "/assets/images/Bulgaria_5c7772-Illustration-1-dark.svg" | relative_url }}" alt="What Really Explains Bulgaria&#x27;s UFO Stories? illustration 1" data-theme-src-dark="{{ "/assets/images/Bulgaria_5c7772-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bulgaria_5c7772-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Local UFO Investigators and Community Networks
 
-Bulgaria hosts local UFO enthusiast clubs and networks, such as regional “seekers of alternative life forms” and the United Bulgarian Ufologists network, which collect and discuss sightings. These grassroots groups compile witness reports, sometimes organise informal observations, and circulate narratives within Bulgarian language press and social media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pronewsdobrich.bg/ognena-sfera-i-sveteshti-diskove-nad-dobrich-kakvo-opisvat-ochevidtsi-na-nlo-p665644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pronewsdobrich.bg">[Pro News Dobrich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pronewsdobrich.bg</span><span class="citation-popover-snippet">Про Нюз ДобричMarch 12, 2026...</span><span class="citation-popover-meta">Published: March 12, 2026</span></span></span>
+Bulgaria hosts local UFO enthusiast clubs and networks, such as regional “seekers of alternative life forms” and the United Bulgarian Ufologists network, which collect and discuss sightings. These grassroots groups compile witness reports, sometimes organise informal observations, and circulate narratives within Bulgarian language press and social media.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pronewsdobrich.bg/ognena-sfera-i-sveteshti-diskove-nad-dobrich-kakvo-opisvat-ochevidtsi-na-nlo-p665644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pronewsdobrich.bg">[Pro News Dobrich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pronewsdobrich.bg</span><span class="citation-popover-snippet">Про Нюз ДобричMarch 12, 2026...</span><span class="citation-popover-meta">Published: March 12, 2026</span></span></span>
 
-In the past, the Bulgarian Academy of Sciences (BAS) considered investigating UFO claims in response to public curiosity, hosting discussions on the subject of unidentified aerial phenomena. Nevertheless, this has remained on the fringe of mainstream scientific activity, and no sustained formal research programme has yet produced definitive evidence for non‑conventional aerial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.novinite.com/articles/164917/BAS%2BTo%2BInvestigate%2BUFO%2BClaims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: novinite.com">[Novinite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">novinite.com</span><span class="citation-popover-title">BAS To Investigate UFO Claims</span><span class="citation-popover-snippet">BAS To Investigate UFO Claims - Novinite.com - Sofia News AgencyNovember 21, 2014...</span><span class="citation-popover-meta">Published: November 21, 2014</span></span></span>
+In the past, the Bulgarian Academy of Sciences (BAS) considered investigating UFO claims in response to public curiosity, hosting discussions on the subject of unidentified aerial phenomena. Nevertheless, this has remained on the fringe of mainstream scientific activity, and no sustained formal research programme has yet produced definitive evidence for non‑conventional aerial craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.novinite.com/articles/164917/BAS%2BTo%2BInvestigate%2BUFO%2BClaims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: novinite.com">[Novinite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">novinite.com</span><span class="citation-popover-title">BAS To Investigate UFO Claims</span><span class="citation-popover-snippet">BAS To Investigate UFO Claims - Novinite.com - Sofia News AgencyNovember 21, 2014...</span><span class="citation-popover-meta">Published: November 21, 2014</span></span></span>
 
 ## Skeptical Assessments and Explanations
 
-Mainstream scientific and astronomical authorities in Bulgaria have generally treated UFO sightings as misidentifications of known phenomena. In the 1978 case, astronomers cited Venus and other celestial objects as the likely sources of bright lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-disturb-bulgarians-at-the-end-of-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bta.bg">[BTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bta.bg</span><span class="citation-popover-title">1035595 unidentified aerial phenomena disturb bulgarians at the end of 1978</span><span class="citation-popover-snippet">BTA:: Unidentified Aerial Phenomena Reported across Bulgaria in Late 1978December 30, 2025...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
+Mainstream scientific and astronomical authorities in Bulgaria have generally treated UFO sightings as misidentifications of known phenomena. In the 1978 case, astronomers cited Venus and other celestial objects as the likely sources of bright lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-disturb-bulgarians-at-the-end-of-1978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bta.bg">[BTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bta.bg</span><span class="citation-popover-title">1035595 unidentified aerial phenomena disturb bulgarians at the end of 1978</span><span class="citation-popover-snippet">BTA:: Unidentified Aerial Phenomena Reported across Bulgaria in Late 1978December 30, 2025...</span><span class="citation-popover-meta">Published: December 30, 2025</span></span></span>
 
 Similarly, many modern sightings tracked in databases can often be explained by aircraft, satellites, planetary observations, meteors, atmospheric optics, or human‑made drones, although witnesses sometimes interpret unusual movements and lighting as extraordinary.
 
 <img src="{{ "/assets/images/Bulgaria_5c7772-Illustration-2-dark.svg" | relative_url }}" alt="What Really Explains Bulgaria&#x27;s UFO Stories? illustration 2" data-theme-src-dark="{{ "/assets/images/Bulgaria_5c7772-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bulgaria_5c7772-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence Quality: Confirmed, Contested, and Debunked
 
-* **Confirmed Natural Explanations:** Some historical records, particularly large bright objects in the sky, have official explanations (e.g. planets like Venus), indicating how natural astronomical phenomena can trigger large‑scale public reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fakti.bg">[fakti.bg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fakti.bg</span><span class="citation-popover-snippet">December 30, 1978. Unidentified flying objects disturb Bulgarians from Sofia, Vratsa and Pleven regions ᐉ News from Fakti.bg - Bulgaria &#124;...</span><span class="citation-popover-meta">Published: December 30, 1978</span></span></span>
+* **Confirmed Natural Explanations:** Some historical records, particularly large bright objects in the sky, have official explanations (e.g. planets like Venus), indicating how natural astronomical phenomena can trigger large‑scale public reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fakti.bg">[fakti.bg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fakti.bg</span><span class="citation-popover-snippet">December 30, 1978. Unidentified flying objects disturb Bulgarians from Sofia, Vratsa and Pleven regions ᐉ News from Fakti.bg - Bulgaria &#124;...</span><span class="citation-popover-meta">Published: December 30, 1978</span></span></span>
 * **Contested Sightings:** Numerous recent eyewitness accounts and database entries remain contested; they are unverified by independent measurement or radar tracking, and can be subject to observer error or lack of contextual data.
-* **Debunked or Mis‑attributed Reports:** Many anomalous claims in popular media, especially sensational reports online alleging alien contact experiences, lack credible evidence and are considered speculative at best. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bgdnes.bg/bulgaria/article/7681084" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bgdnes.bg">[bgdnes.bg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bgdnes.bg</span><span class="citation-popover-snippet">Извънземни взимат Динко на кораба сиSeptember 30, 2019...</span><span class="citation-popover-meta">Published: September 30, 2019</span></span></span>
+* **Debunked or Mis‑attributed Reports:** Many anomalous claims in popular media, especially sensational reports online alleging alien contact experiences, lack credible evidence and are considered speculative at best.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bgdnes.bg/bulgaria/article/7681084" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bgdnes.bg">[bgdnes.bg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bgdnes.bg</span><span class="citation-popover-snippet">Извънземни взимат Динко на кораба сиSeptember 30, 2019...</span><span class="citation-popover-meta">Published: September 30, 2019</span></span></span>
 
 ## National Context and Public Perception
 
@@ -1246,194 +1246,194 @@ In Bulgaria, UFO phenomena sit at the fringe of public discourse, often intersec
 The absence of a centralised, official Bulgarian archive for unidentified aerial phenomena, combined with the informal nature of much reporting, means that establishing high‑quality evidence is challenging. Without systematic observation, objective measurement, or transparent investigation, many cases will remain anecdotal. For those seeking deeper understanding, engagement with astronomical explanations and public data (such as satellite tracking and meteor databases) provides a grounded framework for interpreting unusual lights and movements in the sky.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Explains Bulgaria&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Explains Bulgaria&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are categorized and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are categorized and assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers credible cases, skepticism, and official responses relevant to Bulgaria&#x27;s stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers credible cases, skepticism, and official responses relevant to Bulgaria&#x27;s stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Links folklore, culture, and unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links folklore, culture, and unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides skeptical tools for evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides skeptical tools for evaluating extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-bulgaria-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-bulgaria-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1449,7 +1449,7 @@ The absence of a centralised, official Bulgarian archive for unidentified aerial
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1469,7 +1469,7 @@ The absence of a centralised, official Bulgarian archive for unidentified aerial
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1501,7 +1501,7 @@ The absence of a centralised, official Bulgarian archive for unidentified aerial
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1553,7 +1553,7 @@ The absence of a centralised, official Bulgarian archive for unidentified aerial
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1598,7 +1598,7 @@ The absence of a centralised, official Bulgarian archive for unidentified aerial
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1636,178 +1636,177 @@ The absence of a centralised, official Bulgarian archive for unidentified aerial
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bta.bg  
    Title: 1035595 unidentified aerial phenomena disturb bulgarians at the end of 1978  
-   Link: <a href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-disturb-bulgarians-at-the-end-of-1978" target="_blank" rel="noopener noreferrer nofollow">https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-disturb-bulgarians-at-the-end-of-1978</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BTA:: Unidentified Aerial Phenomena Reported across Bulgaria in Late 1978December 30, 2025...</p></details>
+   Link:<a href="https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-disturb-bulgarians-at-the-end-of-1978" target="_blank" rel="noopener noreferrer nofollow">https://www.bta.bg/en/news/archives/1035595-unidentified-aerial-phenomena-disturb-bulgarians-at-the-end-of-1978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BTA:: Unidentified Aerial Phenomena Reported across Bulgaria in Late 1978December 30, 2025...</p></details>
    Published: December 30, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fakti.bg  
-   Link: <a href="https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions" target="_blank" rel="noopener noreferrer nofollow">https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 30, 1978. Unidentified flying objects disturb Bulgarians from Sofia, Vratsa and Pleven regions ᐉ News from Fakti.bg - Bulgaria |...</p></details>
+   Link:<a href="https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions" target="_blank" rel="noopener noreferrer nofollow">https://fakti.bg/en/bulgaria/1024279-december-30-1978-unidentified-flying-objects-disturb-bulgarians-from-sofia-vratsa-and-pleven-regions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 30, 1978. Unidentified flying objects disturb Bulgarians from Sofia, Vratsa and Pleven regions ᐉ News from Fakti.bg - Bulgaria |...</p></details>
    Published: December 30, 1978  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: novini.bg  
-   Link: <a href="https://novini.bg/article/2025030510053223425" target="_blank" rel="noopener noreferrer nofollow">https://novini.bg/article/2025030510053223425</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Български пилоти признават за срещи с НЛО | Новини.бгOctober 25, 2016...</p></details>
+   Link:<a href="https://novini.bg/article/2025030510053223425" target="_blank" rel="noopener noreferrer nofollow">https://novini.bg/article/2025030510053223425</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Български пилоти признават за срещи с НЛО | Новини.бгOctober 25, 2016...</p></details>
    Published: October 25, 2016  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Bulgarian Air Force pilots encounters with UFOs  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/s1rpao" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/s1rpao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bulgarian Air Force pilots encounters with UFOsJanuary 12, 2022...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/s1rpao" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/s1rpao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bulgarian Air Force pilots encounters with UFOsJanuary 12, 2022...</p></details>
    Published: January 12, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufo-hunters.com  
    Title: UFO Hunters UFO Sightings map in Bulgaria  
-   Link: <a href="https://www.ufo-hunters.com/sightings/country/BGR/Bulgaria" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/BGR/Bulgaria</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Bulgaria - UFO Hunters...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/country/BGR/Bulgaria" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/BGR/Bulgaria</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Bulgaria - UFO Hunters...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=189995" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189995</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 189995June 9, 2025...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=189995" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189995</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 189995June 9, 2025...</p></details>
    Published: June 9, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=189993" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189993</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 minutes No of observers: 2 Location: Plazovets, Burgas, Bulgaria Locat...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=189993" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189993</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 minutes No of observers: 2 Location: Plazovets, Burgas, Bulgaria Locat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=190864" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190864</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 190864July 13, 2025 — NUFORC UFO SIGHTING 190864 Occurred: 2010-08-10 22:30 Local Reported: 2025-07-09 19:55 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=190864" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190864</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 190864July 13, 2025 — NUFORC UFO SIGHTING 190864 Occurred: 2010-08-10 22:30 Local Reported: 2025-07-09 19:55 Pacific...</p></details>
    Published: August 10, 2010  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=190353" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190353</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 190353June 20, 2025 — NUFORC UFO SIGHTING 190353 Occurred: 2021-06-27 21:05 Local - Approximate Reported: 2025-06-08...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=190353" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190353</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 190353June 20, 2025 — NUFORC UFO SIGHTING 190353 Occurred: 2021-06-27 21:05 Local - Approximate Reported: 2025-06-08...</p></details>
    Published: June 27, 2021  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lupa.bg  
    Title: НЛО шпионира смолянско село  
-   Link: <a href="https://lupa.bg/news/nlo-shpionira-smolyansko-selo_43115news.html" target="_blank" rel="noopener noreferrer nofollow">https://lupa.bg/news/nlo-shpionira-smolyansko-selo_43115news.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LupaНЛО шпионира смолянско село - Lupa BGFebruary 3, 2020...</p></details>
+   Link:<a href="https://lupa.bg/news/nlo-shpionira-smolyansko-selo_43115news.html" target="_blank" rel="noopener noreferrer nofollow">https://lupa.bg/news/nlo-shpionira-smolyansko-selo_43115news.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LupaНЛО шпионира смолянско село - Lupa BGFebruary 3, 2020...</p></details>
    Published: February 3, 2020  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: novinite.com  
    Title: BAS To Investigate UFO Claims  
-   Link: <a href="https://www.novinite.com/articles/164917/BAS%2BTo%2BInvestigate%2BUFO%2BClaims" target="_blank" rel="noopener noreferrer nofollow">https://www.novinite.com/articles/164917/BAS%2BTo%2BInvestigate%2BUFO%2BClaims</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BAS To Investigate UFO Claims - Novinite.com - Sofia News AgencyNovember 21, 2014...</p></details>
+   Link:<a href="https://www.novinite.com/articles/164917/BAS%2BTo%2BInvestigate%2BUFO%2BClaims" target="_blank" rel="noopener noreferrer nofollow">https://www.novinite.com/articles/164917/BAS%2BTo%2BInvestigate%2BUFO%2BClaims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BAS To Investigate UFO Claims - Novinite.com - Sofia News AgencyNovember 21, 2014...</p></details>
    Published: November 21, 2014  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bgdnes.bg  
-   Link: <a href="https://www.bgdnes.bg/bulgaria/article/7681084" target="_blank" rel="noopener noreferrer nofollow">https://www.bgdnes.bg/bulgaria/article/7681084</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Извънземни взимат Динко на кораба сиSeptember 30, 2019...</p></details>
+   Link:<a href="https://www.bgdnes.bg/bulgaria/article/7681084" target="_blank" rel="noopener noreferrer nofollow">https://www.bgdnes.bg/bulgaria/article/7681084</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Извънземни взимат Динко на кораба сиSeptember 30, 2019...</p></details>
    Published: September 30, 2019  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lupa.bg  
    Title: Нощна мистерия: НЛО прелетя над Румъния и България  
-   Link: <a href="https://lupa.bg/news/noshtna-misteriya-nlo-preletya-nad-rumaniya-i-balgariya_372022news.html" target="_blank" rel="noopener noreferrer nofollow">https://lupa.bg/news/noshtna-misteriya-nlo-preletya-nad-rumaniya-i-balgariya_372022news.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 23, 2025 — НОЩНА МИСТЕРИЯ: НЛО ПРЕЛЕТЯ НАД РУМЪНИЯ И БЪЛГАРИЯ Актуални новини 16:32 - 23 Септември 2025 3872 Image: Нощн...</p></details>
+   Link:<a href="https://lupa.bg/news/noshtna-misteriya-nlo-preletya-nad-rumaniya-i-balgariya_372022news.html" target="_blank" rel="noopener noreferrer nofollow">https://lupa.bg/news/noshtna-misteriya-nlo-preletya-nad-rumaniya-i-balgariya_372022news.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 23, 2025 — НОЩНА МИСТЕРИЯ: НЛО ПРЕЛЕТЯ НАД РУМЪНИЯ И БЪЛГАРИЯ Актуални новини 16:32 - 23 Септември 2025 3872 Image: Нощн...</p></details>
    Published: September 23, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bgdnes.bg  
    Title: Вече няколко семейства, о  
-   Link: <a href="https://www.bgdnes.bg/bulgaria/article/1808736" target="_blank" rel="noopener noreferrer nofollow">https://www.bgdnes.bg/bulgaria/article/1808736</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Синьо НЛО над Деветашката пещераFebruary 28, 2013 — СИНЬО НЛО НАД ДЕВЕТАШКАТА ПЕЩЕРА Публикувана: 28.02.2013, 19:55 9527 Автор: БД Онлайн...</p></details>
+   Link:<a href="https://www.bgdnes.bg/bulgaria/article/1808736" target="_blank" rel="noopener noreferrer nofollow">https://www.bgdnes.bg/bulgaria/article/1808736</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Синьо НЛО над Деветашката пещераFebruary 28, 2013 — СИНЬО НЛО НАД ДЕВЕТАШКАТА ПЕЩЕРА Публикувана: 28.02.2013, 19:55 9527 Автор: БД Онлайн...</p></details>
    Published: February 28, 2013  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
    Title: No of observers: 2 Location: Bulgaria,, Bulgaria Shape: Circle Character  
-   Link: <a href="https://nuforc.org/sighting/?id=76424" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=76424</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 76424July 19, 2010 — NUFORC UFO SIGHTING 76424 Occurred: 2010-06-11 02:05 Local - Approximate Reported: 2010-07-11 07...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=76424" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=76424</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 76424July 19, 2010 — NUFORC UFO SIGHTING 76424 Occurred: 2010-06-11 02:05 Local - Approximate Reported: 2010-07-11 07...</p></details>
    Published: June 11, 2010  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=60718" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=60718</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 60718January 21, 2008 — NUFORC UFO SIGHTING 60718 Occurred: 1991-08-26 00:00 Local Reported: 2008-01-07 18:23 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=60718" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=60718</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 60718January 21, 2008 — NUFORC UFO SIGHTING 60718 Occurred: 1991-08-26 00:00 Local Reported: 2008-01-07 18:23 Pacific...</p></details>
    Published: January 7, 2008  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pronewsdobrich.bg  
-   Link: <a href="https://pronewsdobrich.bg/ognena-sfera-i-sveteshti-diskove-nad-dobrich-kakvo-opisvat-ochevidtsi-na-nlo-p665644" target="_blank" rel="noopener noreferrer nofollow">https://pronewsdobrich.bg/ognena-sfera-i-sveteshti-diskove-nad-dobrich-kakvo-opisvat-ochevidtsi-na-nlo-p665644</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Про Нюз ДобричMarch 12, 2026...</p></details>
+   Link:<a href="https://pronewsdobrich.bg/ognena-sfera-i-sveteshti-diskove-nad-dobrich-kakvo-opisvat-ochevidtsi-na-nlo-p665644" target="_blank" rel="noopener noreferrer nofollow">https://pronewsdobrich.bg/ognena-sfera-i-sveteshti-diskove-nad-dobrich-kakvo-opisvat-ochevidtsi-na-nlo-p665644</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Про Нюз ДобричMarch 12, 2026...</p></details>
    Published: March 12, 2026  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: latest-ufo-sightings.net  
    Title: strange lights were filmed over stara zagora bulgaria 29 mar 2016  
-   Link: <a href="https://www.latest-ufo-sightings.net/2016/03/strange-lights-were-filmed-over-stara-zagora-bulgaria-29-mar-2016.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2016/03/strange-lights-were-filmed-over-stara-zagora-bulgaria-29-mar-2016.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights were filmed over Stara Zagora, Bulgaria 29-Feb-2016 • Latest UFO SightingsMarch 1, 2016 — STRANGE LIGHTS WERE FILMED OVER...</p></details>
+   Link:<a href="https://www.latest-ufo-sightings.net/2016/03/strange-lights-were-filmed-over-stara-zagora-bulgaria-29-mar-2016.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2016/03/strange-lights-were-filmed-over-stara-zagora-bulgaria-29-mar-2016.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights were filmed over Stara Zagora, Bulgaria 29-Feb-2016 • Latest UFO SightingsMarch 1, 2016 — STRANGE LIGHTS WERE FILMED OVER...</p></details>
    Published: March 1, 2016  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: flagman.bg  
    Title: Те са на десетки  
-   Link: <a href="https://www.flagman.bg/article/355578" target="_blank" rel="noopener noreferrer nofollow">https://www.flagman.bg/article/355578</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Уфолог снима огромни летателни апарати над Пловдив, вероятно са извънземниJuly 17, 2025 — УФОЛОГ СНИМА ОГРОМНИ ЛЕТАТЕЛНИ АПАРАТИ НАД ПЛОВ...</p></details>
+   Link:<a href="https://www.flagman.bg/article/355578" target="_blank" rel="noopener noreferrer nofollow">https://www.flagman.bg/article/355578</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Уфолог снима огромни летателни апарати над Пловдив, вероятно са извънземниJuly 17, 2025 — УФОЛОГ СНИМА ОГРОМНИ ЛЕТАТЕЛНИ АПАРАТИ НАД ПЛОВ...</p></details>
    Published: July 17, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: UFO Encounters Over the Rhodope Mountains: Pilot Testimonies  
-   Link: <a href="https://www.youtube.com/watch?v=W-rG1oO-1mQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W-rG1oO-1mQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balkan Skies: Analyzing Bulgarian UFO Lore and Sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W-rG1oO-1mQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W-rG1oO-1mQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balkan Skies: Analyzing Bulgarian UFO Lore and Sightings...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: trud.bg  
    Title: article 5685647  
-   Link: <a href="https://trud.bg/a/articles/article-5685647" target="_blank" rel="noopener noreferrer nofollow">https://trud.bg/a/articles/article-5685647</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Зодиак&quot;: НЛО засечено над ДобруждаAugust 2, 2016 — &quot;ЗОДИАК&quot;: НЛО ЗАСЕЧЕНО НАД ДОБРУЖДА Автор: Труд Лайфстайл 17:00 02.08.2016 Image: &quot;Зо...</p></details>
+   Link:<a href="https://trud.bg/a/articles/article-5685647" target="_blank" rel="noopener noreferrer nofollow">https://trud.bg/a/articles/article-5685647</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Зодиак&quot;: НЛО засечено над ДобруждаAugust 2, 2016 — &quot;ЗОДИАК&quot;: НЛО ЗАСЕЧЕНО НАД ДОБРУЖДА Автор: Труд Лайфстайл 17:00 02.08.2016 Image: &quot;Зо...</p></details>
    Published: August 2, 2016  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: flagman.bg  
-   Link: <a href="https://www.flagman.bg/article/313180" target="_blank" rel="noopener noreferrer nofollow">https://www.flagman.bg/article/313180</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>КОСМИЧЕСКАТА ГАЛАКТИЧЕСКА КОНФЕДЕРАЦИЯ НЯМА ДА ДОПУСНЕ ЯДРЕНА ВОЙНА Космическата галактическа конфедерация ползва високотехнологични енер...</p></details>
+   Link:<a href="https://www.flagman.bg/article/313180" target="_blank" rel="noopener noreferrer nofollow">https://www.flagman.bg/article/313180</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>КОСМИЧЕСКАТА ГАЛАКТИЧЕСКА КОНФЕДЕРАЦИЯ НЯМА ДА ДОПУСНЕ ЯДРЕНА ВОЙНА Космическата галактическа конфедерация ползва високотехнологични енер...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pik.bg  
-   Link: <a href="https://pik.bg/%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B8%D1%8F-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8-%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%B8-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82-%D0%B7%D0%B0-%D1%81%D1%80%D0%B5%D1%89%D0%B8-%D1%81-%D0%BD%D0%BB%D0%BE-news715827.html" target="_blank" rel="noopener noreferrer nofollow">https://pik.bg/%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B8%D1%8F-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8-%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%B8-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82-%D0%B7%D0%B0-%D1%81%D1%80%D0%B5%D1%89%D0%B8-%D1%81-%D0%BD%D0%BB%D0%BE-news715827.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Български пилоти признават за срещи с НЛО - Информационна агенция ПИКDecember 30, 2017 — МИСТЕРИЯ! БЪЛГАРСКИ ПИЛОТИ ПРИЗНАВАТ ЗА СРЕЩИ С...</p></details>
+   Link:<a href="https://pik.bg/%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B8%D1%8F-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8-%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%B8-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82-%D0%B7%D0%B0-%D1%81%D1%80%D0%B5%D1%89%D0%B8-%D1%81-%D0%BD%D0%BB%D0%BE-news715827.html" target="_blank" rel="noopener noreferrer nofollow">https://pik.bg/%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B8%D1%8F-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8-%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%B8-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82-%D0%B7%D0%B0-%D1%81%D1%80%D0%B5%D1%89%D0%B8-%D1%81-%D0%BD%D0%BB%D0%BE-news715827.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Български пилоти признават за срещи с НЛО - Информационна агенция ПИКDecember 30, 2017 — МИСТЕРИЯ! БЪЛГАРСКИ ПИЛОТИ ПРИЗНАВАТ ЗА СРЕЩИ С...</p></details>
    Published: December 30, 2017  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: petel.bg  
-   Link: <a href="https://petel.bg/Ochevidtsi-na-NLO-to-v-Sinemorets--Masata--i-legloto-se-tresyaha--pomislihme--che-e-iztrebitel-__623786" target="_blank" rel="noopener noreferrer nofollow">https://petel.bg/Ochevidtsi-na-NLO-to-v-Sinemorets--Masata--i-legloto-se-tresyaha--pomislihme--che-e-iztrebitel-__623786</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>новини - Очевидци на НЛО-то в Синеморец: Масата, и леглото се тресяха, помислихме, че е изтребителNovember 24, 2025 — ОЧЕВИДЦИ НА НЛО-ТО...</p></details>
+   Link:<a href="https://petel.bg/Ochevidtsi-na-NLO-to-v-Sinemorets--Masata--i-legloto-se-tresyaha--pomislihme--che-e-iztrebitel-__623786" target="_blank" rel="noopener noreferrer nofollow">https://petel.bg/Ochevidtsi-na-NLO-to-v-Sinemorets--Masata--i-legloto-se-tresyaha--pomislihme--che-e-iztrebitel-__623786</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>новини - Очевидци на НЛО-то в Синеморец: Масата, и леглото се тресяха, помислихме, че е изтребителNovember 24, 2025 — ОЧЕВИДЦИ НА НЛО-ТО...</p></details>
    Published: November 24, 2025  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Balkan Skies: Analyzing Bulgarian UFO Lore and Sightings  
-   Link: <a href="https://www.youtube.com/watch?v=aG_d_O_xM8Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG_d_O_xM8Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Aerial Anomalies in Eastern Europe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aG_d_O_xM8Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG_d_O_xM8Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Aerial Anomalies in Eastern Europe...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: varnanovini.bg  
    Title: ВАРНА новиниМестни твърдят, че са заснели НЛО над Аврен на Гергьовден (СНИМКА)  
-   Link: <a href="https://varnanovini.bg/2021/05/08/mestni-tvurdqt-che-sa-zasneli-nlo-nad-av/" target="_blank" rel="noopener noreferrer nofollow">https://varnanovini.bg/2021/05/08/mestni-tvurdqt-che-sa-zasneli-nlo-nad-av/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ВАРНА новиниMay 8, 2021...</p></details>
+   Link:<a href="https://varnanovini.bg/2021/05/08/mestni-tvurdqt-che-sa-zasneli-nlo-nad-av/" target="_blank" rel="noopener noreferrer nofollow">https://varnanovini.bg/2021/05/08/mestni-tvurdqt-che-sa-zasneli-nlo-nad-av/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ВАРНА новиниMay 8, 2021...</p></details>
    Published: May 8, 2021  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Bulgaria's Hidden History: Unexplained Aerial Phenomena  
-   Link: <a href="https://www.youtube.com/watch?v=s1R1hV27l6E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s1R1hV27l6E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1978 Sofia UFO Sightings Investigated...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s1R1hV27l6E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s1R1hV27l6E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1978 Sofia UFO Sightings Investigated...</p></details>

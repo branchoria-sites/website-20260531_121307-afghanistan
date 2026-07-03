@@ -1194,48 +1194,48 @@ image: /assets/images/Nauru_f648c7-overview-social.jpg
 
 ## What the record actually shows
 
-The clearest published signal is not a famous Nauruan sighting, but a statistical footnote. A cross-cultural UAP paper’s country table lists Nauru in Micronesia with two reports attributed to NUFORC, the National UFO Reporting Center, and dated to a 2019 source reference. The same table places Nauru alongside many other countries in an attempt to compare UAP reporting globally, but it does not provide detailed Nauru case narratives, witness names, official investigations, photographs, radar returns, or local press documentation. In other words, it is evidence that Nauru has appeared in a reporting database, not evidence that any Nauru incident has been validated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The clearest published signal is not a famous Nauruan sighting, but a statistical footnote. A cross-cultural UAP paper’s country table lists Nauru in Micronesia with two reports attributed to NUFORC, the National UFO Reporting Center, and dated to a 2019 source reference. The same table places Nauru alongside many other countries in an attempt to compare UAP reporting globally, but it does not provide detailed Nauru case narratives, witness names, official investigations, photographs, radar returns, or local press documentation. In other words, it is evidence that Nauru has appeared in a reporting database, not evidence that any Nauru incident has been validated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Nauru_f648c7-overview.webp" | relative_url }}" alt="Overview image for What Do Nauru UFO Reports Really Show?" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is important because UFO databases often combine first-person reports, imported records, historical listings and imperfect geolocation. A search result that seems relevant can unravel on inspection: one NUFORC-linked “amber lights” case indexed with text mentioning Nauru International Airport is actually a Tonopah, Nevada report, with the displayed location listed as Tonopah, NV, USA, and a brief account of three or four amber lights fading in and out for about ten seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-151165" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-title">Sentient Orbs Three amber lights slowly faded in and out twice. &#124; Sentient Orbs</span><span class="citation-popover-snippet">Sentient Orbs Three amber lights slowly faded in and out twice. &#124; Sentient Orbs</span></span></span> That kind of mismatch does not disprove every Nauru report, but it shows why raw database counts should not be treated as a clean national chronology.
+This distinction is important because UFO databases often combine first-person reports, imported records, historical listings and imperfect geolocation. A search result that seems relevant can unravel on inspection: one NUFORC-linked “amber lights” case indexed with text mentioning Nauru International Airport is actually a Tonopah, Nevada report, with the displayed location listed as Tonopah, NV, USA, and a brief account of three or four amber lights fading in and out for about ten seconds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-151165" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-title">Sentient Orbs Three amber lights slowly faded in and out twice. &#124; Sentient Orbs</span><span class="citation-popover-snippet">Sentient Orbs Three amber lights slowly faded in and out twice. &#124; Sentient Orbs</span></span></span> That kind of mismatch does not disprove every Nauru report, but it shows why raw database counts should not be treated as a clean national chronology.
 
-The weakest material comes from pages that claim to host “Nauru UFO sightings” but provide generic promotional or belief-led copy rather than verifiable incidents. One such page displays a “Date: Location: Details” line for March 2025 but then says reports are still being added, before moving into broad claims about alien contact and paranormal tours rather than a Nauru-specific investigated case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Nauru UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Nauru UFO Sightings &amp; Reports</span></span></span> For this page’s purposes, that belongs in the “contested or low-reliability” category, not the evidential core.
+The weakest material comes from pages that claim to host “Nauru UFO sightings” but provide generic promotional or belief-led copy rather than verifiable incidents. One such page displays a “Date: Location: Details” line for March 2025 but then says reports are still being added, before moving into broad claims about alien contact and paranormal tours rather than a Nauru-specific investigated case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Nauru UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Nauru UFO Sightings &amp; Reports</span></span></span> For this page’s purposes, that belongs in the “contested or low-reliability” category, not the evidential core.
 
 ## A cautious chronology for Nauru
 
 A strict Nauru chronology is very short because the public record is thin.
 
-The earliest useful entry is not a sighting date but the absence of a well-known archived case from the classic official UFO era. United States Project Blue Book is often invoked in global UFO writing, but it was a US Air Force programme, not a Nauruan archive; the modern US intelligence summary notes that older official work existed, while its own 2021 review focused mainly on military reporting between 2004 and 2021. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2021-06-26/us-report-pentagon-ufos-uap-sightings-unexplained/100246210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News US report on Pentagon-documented UFOs leaves</span><span class="citation-popover-snippet">ABC News US report on Pentagon-documented UFOs leaves</span></span></span> No accessible Project Blue Book-style public file has emerged for Nauru as a national case.
+The earliest useful entry is not a sighting date but the absence of a well-known archived case from the classic official UFO era. United States Project Blue Book is often invoked in global UFO writing, but it was a US Air Force programme, not a Nauruan archive; the modern US intelligence summary notes that older official work existed, while its own 2021 review focused mainly on military reporting between 2004 and 2021.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2021-06-26/us-report-pentagon-ufos-uap-sightings-unexplained/100246210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News US report on Pentagon-documented UFOs leaves</span><span class="citation-popover-snippet">ABC News US report on Pentagon-documented UFOs leaves</span></span></span> No accessible Project Blue Book-style public file has emerged for Nauru as a national case.
 
-The next anchor is the 2019 NUFORC-derived statistical entry: two Nauru reports in a global table, with no case-level detail visible in that source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These reports should be classified as “reported but uncorroborated” unless separate primary records can be matched to exact dates, times, locations and witness accounts.
+The next anchor is the 2019 NUFORC-derived statistical entry: two Nauru reports in a global table, with no case-level detail visible in that source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These reports should be classified as “reported but uncorroborated” unless separate primary records can be matched to exact dates, times, locations and witness accounts.
 
-A later 2025 web entry on a US UFO Center page claims a Nauru reporting forum or “Disclosure Project” entry but supplies no usable local incident record. It is best read as a call-for-reports page rather than a documented sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Nauru UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Nauru UFO Sightings &amp; Reports</span></span></span> The current public chronology is therefore: sparse database mentions, no confirmed official investigation, and several unreliable or generic pages that should not be inflated into evidence.
+A later 2025 web entry on a US UFO Center page claims a Nauru reporting forum or “Disclosure Project” entry but supplies no usable local incident record. It is best read as a call-for-reports page rather than a documented sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Nauru UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Nauru UFO Sightings &amp; Reports</span></span></span> The current public chronology is therefore: sparse database mentions, no confirmed official investigation, and several unreliable or generic pages that should not be inflated into evidence.
 
 <img src="{{ "/assets/images/Nauru_f648c7-Illustration-1-dark.svg" | relative_url }}" alt="What Do Nauru UFO Reports Really Show? illustration 1" data-theme-src-dark="{{ "/assets/images/Nauru_f648c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nauru_f648c7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Nauru is easy to misread from the sky
 
-Nauru’s small size compresses many possible explanations into a very small viewing area. The island is about 21 square kilometres, with government offices in Yaren and a coastline of roughly 30 kilometres; a light seen from one district can often be discussed island-wide because the country itself is so compact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://2009-2017.state.gov/outofdate/bgn/nauru/73368.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2009-2017.state.gov">[U.S. Department of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2009-2017.state.gov</span><span class="citation-popover-title">U.S. Department of State Nauru (09/05</span><span class="citation-popover-snippet">U.S. Department of State Nauru (09/05</span></span></span> That makes “national sighting” language potentially misleading: in a microstate, one ambiguous light near the airport, reef, harbour or horizon can quickly become “over Nauru”.
+Nauru’s small size compresses many possible explanations into a very small viewing area. The island is about 21 square kilometres, with government offices in Yaren and a coastline of roughly 30 kilometres; a light seen from one district can often be discussed island-wide because the country itself is so compact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://2009-2017.state.gov/outofdate/bgn/nauru/73368.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 2009-2017.state.gov">[U.S. Department of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">2009-2017.state.gov</span><span class="citation-popover-title">U.S. Department of State Nauru (09/05</span><span class="citation-popover-snippet">U.S. Department of State Nauru (09/05</span></span></span> That makes “national sighting” language potentially misleading: in a microstate, one ambiguous light near the airport, reef, harbour or horizon can quickly become “over Nauru”.
 
-The airport is especially relevant. Nauru International Airport is the country’s key aviation node, and Australian-backed project documents describe work to rehabilitate the runway and upgrade air traffic control equipment, with the aim of maintaining international connectivity for another 25 to 30 years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aiffp.gov.au/sites/default/files/2023-12/Business%20Case%20-%20Nauru%20Airport%20Refurbishment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiffp.gov.au">[AIFFP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiffp.gov.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Nauru’s own government has also reported civil aviation upgrades, including real-time weather-reading equipment for aircraft operations and bird deterrent equipment because bird strikes are a safety hazard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nauru.gov.nr">[Nauru Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nauru.gov.nr</span><span class="citation-popover-title">Nauru Government Transport upgrades air and land divisions</span><span class="citation-popover-snippet">Nauru Government Transport upgrades air and land divisions</span></span></span> Those are mundane aviation details, but they matter for UAP assessment: aircraft lights, approach paths, runway activity, weather instruments and bird activity are all part of the local sky environment.
+The airport is especially relevant. Nauru International Airport is the country’s key aviation node, and Australian-backed project documents describe work to rehabilitate the runway and upgrade air traffic control equipment, with the aim of maintaining international connectivity for another 25 to 30 years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aiffp.gov.au/sites/default/files/2023-12/Business%20Case%20-%20Nauru%20Airport%20Refurbishment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiffp.gov.au">[AIFFP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiffp.gov.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Nauru’s own government has also reported civil aviation upgrades, including real-time weather-reading equipment for aircraft operations and bird deterrent equipment because bird strikes are a safety hazard.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nauru.gov.nr">[Nauru Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nauru.gov.nr</span><span class="citation-popover-title">Nauru Government Transport upgrades air and land divisions</span><span class="citation-popover-snippet">Nauru Government Transport upgrades air and land divisions</span></span></span> Those are mundane aviation details, but they matter for UAP assessment: aircraft lights, approach paths, runway activity, weather instruments and bird activity are all part of the local sky environment.
 
-Weather adds another layer. Nauru Meteorological Service describes observations that include temperature, rainfall, humidity, wind, cloud cover and atmospheric pressure, with data collected at the Nauru Weather Station in Yaren near the international airport. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nauru.gov.nr">[nauru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nauru.gov.nr</span><span class="citation-popover-title">Nauru Government Transport upgrades air and land divisions</span><span class="citation-popover-snippet">Nauru Government Transport upgrades air and land divisions</span></span></span> Meteorological Services Tropical cloud, sea haze, rain bands and horizon effects can make lights appear to pulse, vanish, split or hover. That does not automatically explain every report, but it sets the first checklist for any Nauru sighting: weather, cloud height, wind direction, aircraft movements, satellites, meteors and birds should be checked before anything more exotic is proposed.
+Weather adds another layer. Nauru Meteorological Service describes observations that include temperature, rainfall, humidity, wind, cloud cover and atmospheric pressure, with data collected at the Nauru Weather Station in Yaren near the international airport.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nauru.gov.nr">[nauru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nauru.gov.nr</span><span class="citation-popover-title">Nauru Government Transport upgrades air and land divisions</span><span class="citation-popover-snippet">Nauru Government Transport upgrades air and land divisions</span></span></span> Meteorological Services Tropical cloud, sea haze, rain bands and horizon effects can make lights appear to pulse, vanish, split or hover. That does not automatically explain every report, but it sets the first checklist for any Nauru sighting: weather, cloud height, wind direction, aircraft movements, satellites, meteors and birds should be checked before anything more exotic is proposed.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SMM7mEwckxg" title="EXTREME! Nauru Airlines to the PACIFIC&#x27;s most ISOLATED AIRPORT!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SMM7mEwckxg" target="_blank" rel="noopener noreferrer">EXTREME! Nauru Airlines to the PACIFIC&#x27;s most ISOLATED AIRPORT!</a></p><p class="youtube-embed-meta">Channel: Josh Cahill &middot; Views: 294.3K &middot; Uploaded: October 2025 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SMM7mEwckxg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SMM7mEwckxg">Open on YouTube</a></p></div></div></div>
 
 ## Confirmed, contested and debunked claims
 
-No publicly accessible Nauru case found in the current evidence base deserves the label “confirmed UFO” in the strong sense of a well-documented, officially investigated event that remains unexplained after serious analysis. The confirmed part is narrower: Nauru appears in a global UAP reporting table with two NUFORC-attributed reports, and there are generic web pages inviting or claiming Nauru UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That confirms the existence of reporting claims, not the existence of anomalous craft.
+No publicly accessible Nauru case found in the current evidence base deserves the label “confirmed UFO” in the strong sense of a well-documented, officially investigated event that remains unexplained after serious analysis. The confirmed part is narrower: Nauru appears in a global UAP reporting table with two NUFORC-attributed reports, and there are generic web pages inviting or claiming Nauru UFO reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That confirms the existence of reporting claims, not the existence of anomalous craft.
 
-The contested category includes database entries without full records, anecdotal or promotional sites, and any social-media-style claim that lacks date, time, location, image metadata, independent witnesses and checks against flight or satellite data. The US UFO Center page is a good example: it asserts that Nauru reports are growing, but its available content is generic and belief-forward rather than evidential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Nauru UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Nauru UFO Sightings &amp; Reports</span></span></span> A careful reader should treat it as a lead at most.
+The contested category includes database entries without full records, anecdotal or promotional sites, and any social-media-style claim that lacks date, time, location, image metadata, independent witnesses and checks against flight or satellite data. The US UFO Center page is a good example: it asserts that Nauru reports are growing, but its available content is generic and belief-forward rather than evidential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Nauru UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">Global UFOs: Nauru UFO Sightings &amp; Reports</span></span></span> A careful reader should treat it as a lead at most.
 
-The debunked or probably misidentified category is not filled with famous Nauru debunkings; rather, it consists of common mechanisms that would apply strongly to Nauru if a report lacked better data. NASA’s fireball and bolide material notes that exceptionally bright meteors can produce impressive atmospheric light displays visible over wide areas, sometimes at night and more rarely in daylight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-title">CNEOSFireballs and bolides</span><span class="citation-popover-snippet">CNEOSFireballs and bolides</span></span></span> Starlink satellite trains are another modern source of confusion, with astronomy reporting noting that strings of bright satellites have been mistaken for UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">10 weird things about Space X&#x27;s Starlink internet satellites</span><span class="citation-popover-snippet">10 weird things about Space X&#x27;s Starlink internet satellites</span></span></span> AARO’s official imagery pages also show how some investigated UAP videos resolve as birds, balloons, or ordinary aircraft-like behaviour, while others remain unresolved mainly because data are insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+The debunked or probably misidentified category is not filled with famous Nauru debunkings; rather, it consists of common mechanisms that would apply strongly to Nauru if a report lacked better data. NASA’s fireball and bolide material notes that exceptionally bright meteors can produce impressive atmospheric light displays visible over wide areas, sometimes at night and more rarely in daylight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-title">CNEOSFireballs and bolides</span><span class="citation-popover-snippet">CNEOSFireballs and bolides</span></span></span> Starlink satellite trains are another modern source of confusion, with astronomy reporting noting that strings of bright satellites have been mistaken for UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">10 weird things about Space X&#x27;s Starlink internet satellites</span><span class="citation-popover-snippet">10 weird things about Space X&#x27;s Starlink internet satellites</span></span></span> AARO’s official imagery pages also show how some investigated UAP videos resolve as birds, balloons, or ordinary aircraft-like behaviour, while others remain unresolved mainly because data are insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 <img src="{{ "/assets/images/Nauru_f648c7-Illustration-2-dark.svg" | relative_url }}" alt="What Do Nauru UFO Reports Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Nauru_f648c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nauru_f648c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What an official Nauru investigation would need
 
-The standard for a serious Nauru case should be higher than “a strange light was seen”. NASA’s UAP material defines the problem in practical terms: observations that cannot be identified as aircraft or known natural phenomena need better data, and without an extensive dataset it is nearly impossible to verify or explain an observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span> For Nauru, that means a credible report would need exact time, direction, elevation, duration, weather, camera metadata, witness positions, and checks against aircraft, satellites, meteors, drones, birds and marine activity.
+The standard for a serious Nauru case should be higher than “a strange light was seen”. NASA’s UAP material defines the problem in practical terms: observations that cannot be identified as aircraft or known natural phenomena need better data, and without an extensive dataset it is nearly impossible to verify or explain an observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span> For Nauru, that means a credible report would need exact time, direction, elevation, duration, weather, camera metadata, witness positions, and checks against aircraft, satellites, meteors, drones, birds and marine activity.
 
-The US intelligence community’s 2021 assessment is useful here even though it is not about Nauru. It states that limited data and inconsistent reporting are key obstacles, and that UAP probably lack a single explanation, with possible categories including airborne clutter, natural atmospheric phenomena, developmental programmes, foreign systems and an “other” bin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span> That framework is well suited to a small-island setting because many ordinary explanations cluster in the same sky: airport traffic, seabirds, balloons, weather, satellites and bright meteors.
+The US intelligence community’s 2021 assessment is useful here even though it is not about Nauru. It states that limited data and inconsistent reporting are key obstacles, and that UAP probably lack a single explanation, with possible categories including airborne clutter, natural atmospheric phenomena, developmental programmes, foreign systems and an “other” bin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span> That framework is well suited to a small-island setting because many ordinary explanations cluster in the same sky: airport traffic, seabirds, balloons, weather, satellites and bright meteors.
 
 A strong Nauru case would therefore look different from the material currently visible. It would include multiple independent witnesses from different districts, a stable timestamp, original images or video rather than reposted clips, weather-station context from Yaren, airport or air traffic information where available, and enough angular movement data to tell whether the object was close and small, or distant and large. Without those elements, even an honest witness account remains an unresolved observation, not a confirmed anomaly.
 
@@ -1243,7 +1243,7 @@ A strong Nauru case would therefore look different from the material currently v
 
 ## How Nauru fits the wider Pacific UFO map
 
-Nauru’s sparse record should be read alongside, not swallowed by, nearby Pacific and Australasian branches. Compared with larger neighbours, it has fewer people, less media infrastructure, a smaller aviation environment and fewer searchable archives, so the lack of famous cases may reflect both reality and reporting limitations. The Australian Defence Department told the ABC in 2021 that it did not have a protocol covering recording or reporting UFO/UAP sightings, even in a much larger country with far more defence infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2021-06-26/us-report-pentagon-ufos-uap-sightings-unexplained/100246210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News US report on Pentagon-documented UFOs leaves</span><span class="citation-popover-snippet">ABC News US report on Pentagon-documented UFOs leaves</span></span></span> If a major regional power has limited official public reporting pathways, it is unsurprising that a small Pacific state would leave an even thinner public trail.
+Nauru’s sparse record should be read alongside, not swallowed by, nearby Pacific and Australasian branches. Compared with larger neighbours, it has fewer people, less media infrastructure, a smaller aviation environment and fewer searchable archives, so the lack of famous cases may reflect both reality and reporting limitations. The Australian Defence Department told the ABC in 2021 that it did not have a protocol covering recording or reporting UFO/UAP sightings, even in a much larger country with far more defence infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2021-06-26/us-report-pentagon-ufos-uap-sightings-unexplained/100246210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News US report on Pentagon-documented UFOs leaves</span><span class="citation-popover-snippet">ABC News US report on Pentagon-documented UFOs leaves</span></span></span> If a major regional power has limited official public reporting pathways, it is unsurprising that a small Pacific state would leave an even thinner public trail.
 
 This is where sibling country pages can help readers. Australia is useful for mass-witness school and military-adjacent cases; New Zealand is useful for aviation-linked photographic and radar debates; Pacific island branches are useful for open-ocean horizon effects, sparse archives and regional reporting gaps. Nauru’s own contribution is different: it is a case study in how not to overclaim. The island’s UFO record is small, database-based and weakly documented, but its sky environment is rich in ordinary sources of misidentification.
 
@@ -1255,194 +1255,194 @@ The responsible assessment is that Nauru has reported or indexed UFO/UAP claims,
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cd60SMyEN9g" title="🇦🇺 Australia under pressure to release detained child refugees | Al Jazeera English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cd60SMyEN9g" target="_blank" rel="noopener noreferrer">🇦🇺 Australia under pressure to release detained child refugees | Al Jazeera English</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 6.6K &middot; Uploaded: October 2018 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cd60SMyEN9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cd60SMyEN9g">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Nauru UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Nauru UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are documented and evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are documented and evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Helps contextualize thin national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps contextualize thin national UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Addresses weak documentation and questionable claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses weak documentation and questionable claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s evidence-focused approach to UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s evidence-focused approach to UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nauru-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nauru-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1458,7 +1458,7 @@ The responsible assessment is that Nauru has reported or indexed UFO/UAP claims,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1478,7 +1478,7 @@ The responsible assessment is that Nauru has reported or indexed UFO/UAP claims,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1510,7 +1510,7 @@ The responsible assessment is that Nauru has reported or indexed UFO/UAP claims,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1562,7 +1562,7 @@ The responsible assessment is that Nauru has reported or indexed UFO/UAP claims,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1607,7 +1607,7 @@ The responsible assessment is that Nauru has reported or indexed UFO/UAP claims,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1645,307 +1645,306 @@ The responsible assessment is that Nauru has reported or indexed UFO/UAP claims,
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Nauru UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/nauru-ufo-sightings.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: 2009-2017.state.gov  
    Title: U.S. Department of State Nauru (09/05)  
-   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/nauru/73368.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/nauru/73368.htm</a>  
+   Link:<a href="https://2009-2017.state.gov/outofdate/bgn/nauru/73368.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/nauru/73368.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aiffp.gov.au  
-   Link: <a href="https://www.aiffp.gov.au/sites/default/files/2023-12/Business%20Case%20-%20Nauru%20Airport%20Refurbishment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aiffp.gov.au/sites/default/files/2023-12/Business%20Case%20-%20Nauru%20Airport%20Refurbishment.pdf</a>  
+   Link:<a href="https://www.aiffp.gov.au/sites/default/files/2023-12/Business%20Case%20-%20Nauru%20Airport%20Refurbishment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aiffp.gov.au/sites/default/files/2023-12/Business%20Case%20-%20Nauru%20Airport%20Refurbishment.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cneos.jpl.nasa.gov  
    Title: CNEOSFireballs and bolides  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
    Title: 10 weird things about Space X's Starlink internet satellites  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
    Title: x starlink satellites  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: space.com  
    Title: red lightning  
-   Link: <a href="https://www.space.com/red-lightning" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/red-lightning</a>  
+   Link:<a href="https://www.space.com/red-lightning" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/red-lightning</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=64056" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=64056</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=64056" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=64056</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Athanasios-Valavanidis/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin/links/651a94fab0df2f20a2072826/UFOs-and-Unidentified-Anomalous-Phenomena-The-NASA-report-1492023-has-found-no-evidence-to-suggest-that-UAPs-are-extraterrestrial-in-origin.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Hughes 369D Helicopter Crashes into Pacific Ocean Near Republic of Nauru  
-   Link: <a href="https://www.youtube.com/watch?v=udmubIEl7q4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=udmubIEl7q4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nauru: The Tiny Island Nation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=udmubIEl7q4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=udmubIEl7q4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nauru: The Tiny Island Nation...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Nauru: The Tiny Island Nation  
-   Link: <a href="https://www.youtube.com/watch?v=aU6ha0aMw_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aU6ha0aMw_M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia under pressure to release detained child refugees | Al Jazeera English...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aU6ha0aMw_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aU6ha0aMw_M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia under pressure to release detained child refugees | Al Jazeera English...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sentientorbs.com  
    Title: Sentient Orbs Three amber lights slowly faded in and out twice. | Sentient Orbs  
-   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-151165" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-151165</a>  
+   Link:<a href="https://sentientorbs.com/explore/sightings/NUFORC-151165" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-151165</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: abc.net.au  
    Title: ABC News US report on Pentagon-documented UFOs leaves  
-   Link: <a href="https://www.abc.net.au/news/2021-06-26/us-report-pentagon-ufos-uap-sightings-unexplained/100246210" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/us-report-pentagon-ufos-uap-sightings-unexplained/100246210</a>  
+   Link:<a href="https://www.abc.net.au/news/2021-06-26/us-report-pentagon-ufos-uap-sightings-unexplained/100246210" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/us-report-pentagon-ufos-uap-sightings-unexplained/100246210</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nauru.gov.nr  
    Title: Nauru Government Transport upgrades air and land divisions  
-   Link: <a href="https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx</a>  
+   Link:<a href="https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.nauru.gov.nr/government-information-office/nauru-bulletin/nauru-bulletin-2024/nauru-bulletin-7/transport-upgrades-air-and-land-divisions-%281%29.aspx</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: naurumet.com  
-   Link: <a href="https://www.naurumet.com/observations" target="_blank" rel="noopener noreferrer nofollow">https://www.naurumet.com/observations</a>  
+   Link:<a href="https://www.naurumet.com/observations" target="_blank" rel="noopener noreferrer nofollow">https://www.naurumet.com/observations</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: abc.net.au  
    Title: ABC News Australian Defence not looking at UFOs despite landmark  
-   Link: <a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
+   Link:<a href="https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-06-26/australian-defence-dept-says-it-is-not-looking-at-ufos/100246652</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theprif.org  
    Title: NAUR U VNR REPORT & NSDS REVIE“Ekamawir Omo”  
-   Link: <a href="https://www.theprif.org/sites/theprif.org/files/2020-08/Nauru%20VNR%202019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theprif.org/sites/theprif.org/files/2020-08/Nauru%20VNR%202019.pdf</a>  
+   Link:<a href="https://www.theprif.org/sites/theprif.org/files/2020-08/Nauru%20VNR%202019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theprif.org/sites/theprif.org/files/2020-08/Nauru%20VNR%202019.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/978574213732574/posts/1154060299517297/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/978574213732574/posts/1154060299517297/</a>  
+   Link:<a href="https://www.facebook.com/groups/978574213732574/posts/1154060299517297/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/978574213732574/posts/1154060299517297/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/naurumetservice/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/naurumetservice/?locale=en_GB</a>  
+   Link:<a href="https://www.facebook.com/naurumetservice/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/naurumetservice/?locale=en_GB</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nauru.gov.nr  
    Title: gio notices wednesday 22 july 2020  
-   Link: <a href="https://www.nauru.gov.nr/media/132064/gio_notices_wednesday__22_july_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nauru.gov.nr/media/132064/gio_notices_wednesday__22_july_2020.pdf</a>  
+   Link:<a href="https://www.nauru.gov.nr/media/132064/gio_notices_wednesday__22_july_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nauru.gov.nr/media/132064/gio_notices_wednesday__22_july_2020.pdf</a>  
    Published: july 2020  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Nauru Airlines  
-   Link: <a href="https://en.wikipedia.org/wiki/Nauru_Airlines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nauru_Airlines</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nauru_Airlines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nauru_Airlines</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Nauru" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nauru</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nauru" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nauru</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bolide" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bolide</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bolide" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bolide</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: theatlantic.com  
    Title: spacex starlink astronomy  
-   Link: <a href="https://www.theatlantic.com/science/archive/2020/02/spacex-starlink-astronomy/606169/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/science/archive/2020/02/spacex-starlink-astronomy/606169/</a>  
+   Link:<a href="https://www.theatlantic.com/science/archive/2020/02/spacex-starlink-astronomy/606169/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/science/archive/2020/02/spacex-starlink-astronomy/606169/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: worldairops.com  
-   Link: <a href="https://worldairops.com/permits/nauru.html" target="_blank" rel="noopener noreferrer nofollow">https://worldairops.com/permits/nauru.html</a>  
+   Link:<a href="https://worldairops.com/permits/nauru.html" target="_blank" rel="noopener noreferrer nofollow">https://worldairops.com/permits/nauru.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/nauru" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/nauru</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/geography-and-cartography/nauru" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/nauru</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/science/bolide" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/bolide</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/science/bolide" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/science/bolide</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: flightsim.to  
    Title: Nauru International Airport ANYN  
-   Link: <a href="https://flightsim.to/addon/31020/nauru-international-airport-anyn" target="_blank" rel="noopener noreferrer nofollow">https://flightsim.to/addon/31020/nauru-international-airport-anyn</a>  
+   Link:<a href="https://flightsim.to/addon/31020/nauru-international-airport-anyn" target="_blank" rel="noopener noreferrer nofollow">https://flightsim.to/addon/31020/nauru-international-airport-anyn</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: simpleflying.com  
    Title: nauru airlines 737s connecting pacific  
-   Link: <a href="https://simpleflying.com/nauru-airlines-737s-connecting-pacific/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/nauru-airlines-737s-connecting-pacific/</a>  
+   Link:<a href="https://simpleflying.com/nauru-airlines-737s-connecting-pacific/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/nauru-airlines-737s-connecting-pacific/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: pacificpsdi.org  
-   Link: <a href="https://pacificpsdi.org/assets/Uploads/PSDI-TourismSnapshot-NAU.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pacificpsdi.org/assets/Uploads/PSDI-TourismSnapshot-NAU.pdf</a>  
+   Link:<a href="https://pacificpsdi.org/assets/Uploads/PSDI-TourismSnapshot-NAU.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pacificpsdi.org/assets/Uploads/PSDI-TourismSnapshot-NAU.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
+   Link:<a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: naurumet.com  
-   Link: <a href="https://www.naurumet.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.naurumet.com/</a>  
+   Link:<a href="https://www.naurumet.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.naurumet.com/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: naurumet.com  
    Title: Weather Forecasts  
-   Link: <a href="https://www.naurumet.com/weather-forecasts" target="_blank" rel="noopener noreferrer nofollow">https://www.naurumet.com/weather-forecasts</a>  
+   Link:<a href="https://www.naurumet.com/weather-forecasts" target="_blank" rel="noopener noreferrer nofollow">https://www.naurumet.com/weather-forecasts</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: dfat.gov.au  
-   Link: <a href="https://www.dfat.gov.au/geo/nauru/nauru-country-brief" target="_blank" rel="noopener noreferrer nofollow">https://www.dfat.gov.au/geo/nauru/nauru-country-brief</a>  
+   Link:<a href="https://www.dfat.gov.au/geo/nauru/nauru-country-brief" target="_blank" rel="noopener noreferrer nofollow">https://www.dfat.gov.au/geo/nauru/nauru-country-brief</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: ocindex.net  
-   Link: <a href="https://ocindex.net/assets/downloads/2023/english/ocindex_profile_nauru_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ocindex.net/assets/downloads/2023/english/ocindex_profile_nauru_2023.pdf</a>  
+   Link:<a href="https://ocindex.net/assets/downloads/2023/english/ocindex_profile_nauru_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ocindex.net/assets/downloads/2023/english/ocindex_profile_nauru_2023.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: spaceref.com  
    Title: strange lights are not ufos just atmospheric red sprites  
-   Link: <a href="https://spaceref.com/earth/strange-lights-are-not-ufos-just-atmospheric-red-sprites/" target="_blank" rel="noopener noreferrer nofollow">https://spaceref.com/earth/strange-lights-are-not-ufos-just-atmospheric-red-sprites/</a>  
+   Link:<a href="https://spaceref.com/earth/strange-lights-are-not-ufos-just-atmospheric-red-sprites/" target="_blank" rel="noopener noreferrer nofollow">https://spaceref.com/earth/strange-lights-are-not-ufos-just-atmospheric-red-sprites/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Nauru" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Nauru</a>  
+   Link:<a href="https://www.britannica.com/place/Nauru" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Nauru</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: earthsky.org  
    Title: spacex starlink satellites explained  
-   Link: <a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
+   Link:<a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: bom.gov.au  
-   Link: <a href="https://www.bom.gov.au/pacific/nauru/index.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/pacific/nauru/index.shtml</a>  
+   Link:<a href="https://www.bom.gov.au/pacific/nauru/index.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.bom.gov.au/pacific/nauru/index.shtml</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: clgf.org.uk  
-   Link: <a href="https://www.clgf.org.uk/regions/clgf-pacific/nauru/" target="_blank" rel="noopener noreferrer nofollow">https://www.clgf.org.uk/regions/clgf-pacific/nauru/</a>  
+   Link:<a href="https://www.clgf.org.uk/regions/clgf-pacific/nauru/" target="_blank" rel="noopener noreferrer nofollow">https://www.clgf.org.uk/regions/clgf-pacific/nauru/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: flaggeo.com  
    Title: nauru country data  
-   Link: <a href="https://www.flaggeo.com/nauru-country-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.flaggeo.com/nauru-country-data/</a>  
+   Link:<a href="https://www.flaggeo.com/nauru-country-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.flaggeo.com/nauru-country-data/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: haven.utsc.utoronto.ca  
    Title: nauru files  
-   Link: <a href="https://haven.utsc.utoronto.ca/index.php/data-drops/nauru-files/" target="_blank" rel="noopener noreferrer nofollow">https://haven.utsc.utoronto.ca/index.php/data-drops/nauru-files/</a>  
+   Link:<a href="https://haven.utsc.utoronto.ca/index.php/data-drops/nauru-files/" target="_blank" rel="noopener noreferrer nofollow">https://haven.utsc.utoronto.ca/index.php/data-drops/nauru-files/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: accuweather.com  
-   Link: <a href="https://www.accuweather.com/en/nr/nauru-international-airport/4230_poi/weather-forecast/4230_poi" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/nr/nauru-international-airport/4230_poi/weather-forecast/4230_poi</a>  
+   Link:<a href="https://www.accuweather.com/en/nr/nauru-international-airport/4230_poi/weather-forecast/4230_poi" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/nr/nauru-international-airport/4230_poi/weather-forecast/4230_poi</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: relief.unboundmedicine.com  
-   Link: <a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563170/all/Nauru?q=nauru" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563170/all/Nauru?q=nauru</a>  
+   Link:<a href="https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563170/all/Nauru?q=nauru" target="_blank" rel="noopener noreferrer nofollow">https://relief.unboundmedicine.com/relief/view/The-World-Factbook/563170/all/Nauru?q=nauru</a>  
 
 ### Additional References
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
    Title: Australia under pressure to release detained child refugees | Al Jazeera English  
-   Link: <a href="https://www.youtube.com/watch?v=cd60SMyEN9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cd60SMyEN9g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>President of Nauru: China recognizes everybody equally...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cd60SMyEN9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cd60SMyEN9g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>President of Nauru: China recognizes everybody equally...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: youtube.com  
    Title: President of Nauru: China recognizes everybody equally  
-   Link: <a href="https://www.youtube.com/watch?v=dCxHD7Itq_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dCxHD7Itq_Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Assay TV - Craig Shesky, Chief Financial Officer, The Metals Company (NASDAQ:TMC)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dCxHD7Itq_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dCxHD7Itq_Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Assay TV - Craig Shesky, Chief Financial Officer, The Metals Company (NASDAQ:TMC)...</p></details>
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: pacificclimatechangescience.org  
-   Link: <a href="https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/6_PACCSAP-Nauru-9pp_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/6_PACCSAP-Nauru-9pp_WEB.pdf</a>  
+   Link:<a href="https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/6_PACCSAP-Nauru-9pp_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacificclimatechangescience.org/wp-content/uploads/2013/06/6_PACCSAP-Nauru-9pp_WEB.pdf</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheNTNews/posts/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/1505194630956170/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNTNews/posts/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/1505194630956170/</a>  
+   Link:<a href="https://www.facebook.com/TheNTNews/posts/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/1505194630956170/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNTNews/posts/can-neither-confirm-or-deny-northern-territory-police-have-received-multiple-ufo/1505194630956170/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Stargazing/comments/17997ac/pulsing_satellitelike_object_that_took_a_90/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Stargazing/comments/17997ac/pulsing_satellitelike_object_that_took_a_90/</a>  
+   Link:<a href="https://www.reddit.com/r/Stargazing/comments/17997ac/pulsing_satellitelike_object_that_took_a_90/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Stargazing/comments/17997ac/pulsing_satellitelike_object_that_took_a_90/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: etsy.com  
-   Link: <a href="https://www.etsy.com/in-en/listing/763383987/5-ufo-flying-saucer-photos-project-blue" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/in-en/listing/763383987/5-ufo-flying-saucer-photos-project-blue</a>  
+   Link:<a href="https://www.etsy.com/in-en/listing/763383987/5-ufo-flying-saucer-photos-project-blue" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/in-en/listing/763383987/5-ufo-flying-saucer-photos-project-blue</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXBvY9FCY2P/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXBvY9FCY2P/</a>  
+   Link:<a href="https://www.instagram.com/reel/DXBvY9FCY2P/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXBvY9FCY2P/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theadvertiser/posts/a-strange-glowing-object-with-two-clear-beams-has-left-south-australian-witnesse/1350009997167754/?locale=zh_HK" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theadvertiser/posts/a-strange-glowing-object-with-two-clear-beams-has-left-south-australian-witnesse/1350009997167754/?locale=zh_HK</a>  
+   Link:<a href="https://www.facebook.com/theadvertiser/posts/a-strange-glowing-object-with-two-clear-beams-has-left-south-australian-witnesse/1350009997167754/?locale=zh_HK" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theadvertiser/posts/a-strange-glowing-object-with-two-clear-beams-has-left-south-australian-witnesse/1350009997167754/?locale=zh_HK</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en-gb</a>
+   Link:<a href="https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en-gb</a>

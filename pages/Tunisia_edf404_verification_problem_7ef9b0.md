@@ -274,7 +274,7 @@ For a case to move beyond anecdote, investigators would typically want:
 
 Most Tunisian reports available in public archives lack several of these elements simultaneously. The result is a category problem: many reports are not demonstrably false, but they are not demonstrably reliable either.
 
-The frequently cited 1997 Sfax sighting illustrates the issue. The case survives primarily through secondary UFO archives that describe a bright orange luminous mass observed above the city. The archived account includes descriptive details and references a local source network, but the publicly available version does not provide the original investigative file, official records, instrument data, or preserved witness documentation. Without those materials, the case remains difficult to evaluate despite being one of Tunisia’s most discussed UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">i analyzed 80000 ufo sightings from the nuforc</span><span class="citation-popover-snippet">I analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — I analyzed the comments (free text fields) that captured the...</span><span class="citation-popover-meta">Published: July 10, 2023</span></span></span>
+The frequently cited 1997 Sfax sighting illustrates the issue. The case survives primarily through secondary UFO archives that describe a bright orange luminous mass observed above the city. The archived account includes descriptive details and references a local source network, but the publicly available version does not provide the original investigative file, official records, instrument data, or preserved witness documentation. Without those materials, the case remains difficult to evaluate despite being one of Tunisia’s most discussed UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">i analyzed 80000 ufo sightings from the nuforc</span><span class="citation-popover-snippet">I analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — I analyzed the comments (free text fields) that captured the...</span><span class="citation-popover-meta">Published: July 10, 2023</span></span></span>
 
 A useful distinction is therefore between an unidentified event and an unverified report. Tunisia has examples of the latter far more often than the former.
 
@@ -352,9 +352,9 @@ This phenomenon is not unique to Tunisia, but it is especially significant in a 
 
 One of the strongest lessons from Tunisia’s record comes from events that were eventually identified.
 
-The 1931 Tatahouine meteorite fall remains a valuable reference point because it demonstrates how extraordinary aerial phenomena can look before scientific confirmation exists. Contemporary accounts described a bright event accompanied by explosive effects and widespread attention. Later recovery of meteorite fragments transformed the event from a mysterious sky occurrence into a documented astronomical incident. Scientific catalogues continue to classify the Tatahouine fall as an observed meteorite event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23884" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Meteoritical Bulletin: Entry for TatahouineName: Tatahouine This is an OFFICIAL meteorite name. Abbreviation: There is no official abb...</span></span></span> Mindat The significance is methodological rather than extraterrestrial. The case shows how dramatically interpretation changes when physical evidenc <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mindat.org/loc-30091.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindat.org">[mindat.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindat.org</span><span class="citation-popover-title">loc 30091</span><span class="citation-popover-snippet">Tatahouine meteorite, Tataouine (Foum...Fell at 1:30 am,June 27,1931,near village of Foum-Tataouine,south-Tunisian. The explosion and t...</span></span></span> e exists.
+The 1931 Tatahouine meteorite fall remains a valuable reference point because it demonstrates how extraordinary aerial phenomena can look before scientific confirmation exists. Contemporary accounts described a bright event accompanied by explosive effects and widespread attention. Later recovery of meteorite fragments transformed the event from a mysterious sky occurrence into a documented astronomical incident. Scientific catalogues continue to classify the Tatahouine fall as an observed meteorite event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lpi.usra.edu/meteor/metbull.php?code=23884" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lpi.usra.edu">[LPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lpi.usra.edu</span><span class="citation-popover-snippet">Meteoritical Bulletin: Entry for TatahouineName: Tatahouine This is an OFFICIAL meteorite name. Abbreviation: There is no official abb...</span></span></span> Mindat The significance is methodological rather than extraterrestrial. The case shows how dramatically interpretation changes when physical evidenc<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mindat.org/loc-30091.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindat.org">[mindat.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindat.org</span><span class="citation-popover-title">loc 30091</span><span class="citation-popover-snippet">Tatahouine meteorite, Tataouine (Foum...Fell at 1:30 am,June 27,1931,near village of Foum-Tataouine,south-Tunisian. The explosion and t...</span></span></span> e exists.
 
-Similarly, unusual cloud formations and atmospheric phenomena have occasionally been discussed as possible UFOs in North African media before meteorological explanations emerged. One widely circulated discussion involving unusual cloud formations over Tunisia illustrates how extraordinary visual appearances can trigger speculation long before atmospheric explanations receive attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=kxHebgcHxYQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Observers in Tunisia: A message from aliens? From God?Strange and beautiful cloud formations over Tunisia locals wondered if i...</span></span></span>
+Similarly, unusual cloud formations and atmospheric phenomena have occasionally been discussed as possible UFOs in North African media before meteorological explanations emerged. One widely circulated discussion involving unusual cloud formations over Tunisia illustrates how extraordinary visual appearances can trigger speculation long before atmospheric explanations receive attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=kxHebgcHxYQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Observers in Tunisia: A message from aliens? From God?Strange and beautiful cloud formations over Tunisia locals wondered if i...</span></span></span>
 
 These examples matter because they establish a baseline: unusual does not automatically mean unknown, and unknown does not automatically mean anomalous.
 
@@ -374,7 +374,7 @@ The most valuable evidence would include:
 
 **Documented investigation.** A preserved file showing how explanations were tested is often more valuable than dramatic witness claims alone.
 
-Modern UFO research organisations increasingly emphasise these standards because they allow competing explanations to be examined rather than merely asserted. Public UAP investigations in other countries increasingly rely on multi-sensor evidence and preserved records rather than narrative reports alone. The National Archives 3National Archives <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryOn April 26, 2013, an infrared sensor onboard a U.S. Customs and Border Protection aircraft captured footage of a UAP event ov...</span><span class="citation-popover-meta">Published: April 26, 2013</span></span></span>
+Modern UFO research organisations increasingly emphasise these standards because they allow competing explanations to be examined rather than merely asserted. Public UAP investigations in other countries increasingly rely on multi-sensor evidence and preserved records rather than narrative reports alone. The National Archives 3National Archives<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryOn April 26, 2013, an infrared sensor onboard a U.S. Customs and Border Protection aircraft captured footage of a UAP event ov...</span><span class="citation-popover-meta">Published: April 26, 2013</span></span></span>
 
 <img src="{{ "/assets/images/Tunisia_edf404_verification_problem_7ef9b0-Illustration-3-dark.svg" | relative_url }}" alt="Verification illustration 3" data-theme-src-dark="{{ "/assets/images/Tunisia_edf404_verification_problem_7ef9b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunisia_edf404_verification_problem_7ef9b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Difference Between “Unexplained” and “Uninvestigated”
@@ -401,197 +401,197 @@ A future report containing exact timing, multiple witnesses, original video file
 
 The current challenge is therefore less about secrecy than documentation. Tunisia’s UFO landscape is defined by missing originals, incomplete archives, recycled narratives, and limited technical corroboration. The result is a record where many events remain impossible to confirm or dismiss with confidence.
 
-For researchers, the most important conclusion is not that Tunisia hides a large body of unexplained UFO evidence. It is that the country’s public UFO history remains constrained by source quality. Until more cases are recorded with verifiable data and preserved documentation, the largest mystery is often the evidence gap itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Official reporting, analysis and recording of UFO sightings began in the early 1950s.... Read the article on Unidentified Flying Objects...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Other UFO and UAP-...Read more...</span></span></span>
+For researchers, the most important conclusion is not that Tunisia hides a large body of unexplained UFO evidence. It is that the country’s public UFO history remains constrained by source quality. Until more cases are recorded with verifiable data and preserved documentation, the largest mystery is often the evidence gap itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Official reporting, analysis and recording of UFO sightings began in the early 1950s.... Read the article on Unidentified Flying Objects...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Other UFO and UAP-...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Tunisia&#x27;s UFO Reports Be Verified?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Tunisia&#x27;s UFO Reports Be Verified?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are classified and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are classified and assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Demonstrates how competing interpretations emerge when evidence is incomplete.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how competing interpretations emerge when evidence is incomplete.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented cases and evidential standards relevant to verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented cases and evidential standards relevant to verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Addresses how narratives and beliefs shape UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how narratives and beliefs shape UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-tunisia-s-ufo-reports-be-verified-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-tunisia-s-ufo-reports-be-verified-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -607,7 +607,7 @@ For researchers, the most important conclusion is not that Tunisia hides a large
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -627,7 +627,7 @@ For researchers, the most important conclusion is not that Tunisia hides a large
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -659,7 +659,7 @@ For researchers, the most important conclusion is not that Tunisia hides a large
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -711,7 +711,7 @@ For researchers, the most important conclusion is not that Tunisia hides a large
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -756,7 +756,7 @@ For researchers, the most important conclusion is not that Tunisia hides a large
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -794,149 +794,148 @@ For researchers, the most important conclusion is not that Tunisia hides a large
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — I analyzed the comments (free text fields) that captured the...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseJuly 10, 2023 — I analyzed the comments (free text fields) that captured the...</p></details>
    Published: July 10, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lpi.usra.edu  
-   Link: <a href="https://www.lpi.usra.edu/meteor/metbull.php?code=23884" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=23884</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoritical Bulletin: Entry for TatahouineName: Tatahouine This is an OFFICIAL meteorite name. Abbreviation: There is no official abb...</p></details>
+   Link:<a href="https://www.lpi.usra.edu/meteor/metbull.php?code=23884" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/meteor/metbull.php?code=23884</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoritical Bulletin: Entry for TatahouineName: Tatahouine This is an OFFICIAL meteorite name. Abbreviation: There is no official abb...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mindat.org  
    Title: loc 30091  
-   Link: <a href="https://www.mindat.org/loc-30091.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mindat.org/loc-30091.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tatahouine meteorite, Tataouine (Foum...Fell at 1:30 am,June 27,1931,near village of Foum-Tataouine,south-Tunisian. The explosion and t...</p></details>
+   Link:<a href="https://www.mindat.org/loc-30091.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mindat.org/loc-30091.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tatahouine meteorite, Tataouine (Foum...Fell at 1:30 am,June 27,1931,near village of Foum-Tataouine,south-Tunisian. The explosion and t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kxHebgcHxYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kxHebgcHxYQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Observers in Tunisia: A message from aliens? From God?Strange and beautiful cloud formations over Tunisia locals wondered if i...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kxHebgcHxYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kxHebgcHxYQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Observers in Tunisia: A message from aliens? From God?Strange and beautiful cloud formations over Tunisia locals wondered if i...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Other UFO and UAP-...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Other UFO and UAP-...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryOn April 26, 2013, an infrared sensor onboard a U.S. Customs and Border Protection aircraft captured footage of a UAP event ov...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryOn April 26, 2013, an infrared sensor onboard a U.S. Customs and Border Protection aircraft captured footage of a UAP event ov...</p></details>
    Published: April 26, 2013  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Tunisia/comments/ojm35z/ufo_sightings_in_tunisia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Tunisia/comments/ojm35z/ufo_sightings_in_tunisia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in TunisiaGeofastmo · I See aliens everywhere here And their UFO&#x27;s clearly don&#x27;t have unsurance. DarkSoulManBat · Aliens we...</p></details>
+   Link:<a href="https://www.reddit.com/r/Tunisia/comments/ojm35z/ufo_sightings_in_tunisia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Tunisia/comments/ojm35z/ufo_sightings_in_tunisia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in TunisiaGeofastmo · I See aliens everywhere here And their UFO&#x27;s clearly don&#x27;t have unsurance. DarkSoulManBat · Aliens we...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mindat.org  
    Title: photo 614906  
-   Link: <a href="https://www.mindat.org/photo-614906.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mindat.org/photo-614906.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diogenite meteorite20 May 2014 — Tatahouine meteorite, Tataouine, Tataouine, Tunisia. How to use the... Achondrite Diogenite, fell June...</p></details>
+   Link:<a href="https://www.mindat.org/photo-614906.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mindat.org/photo-614906.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diogenite meteorite20 May 2014 — Tatahouine meteorite, Tataouine, Tataouine, Tunisia. How to use the... Achondrite Diogenite, fell June...</p></details>
    Published: May 2014  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Are These UFO Sightings Real Evidence? | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lvn_RoJN_Q0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Evidence I&#x27;m Taking Seriously...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lvn_RoJN_Q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lvn_RoJN_Q0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Evidence I&#x27;m Taking Seriously...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The UFO Evidence I'm Taking Seriously  
-   Link: <a href="https://www.youtube.com/watch?v=tdf9CCEypFk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tdf9CCEypFk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: Unidentified craft claims &amp; secret studies into aerial phenomena...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tdf9CCEypFk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tdf9CCEypFk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: Unidentified craft claims &amp; secret studies into aerial phenomena...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO files: Unidentified craft claims & secret studies into aerial phenomena  
-   Link: <a href="https://www.youtube.com/watch?v=PJk5cmxaCWQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PJk5cmxaCWQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My Search for Proof Aliens Exist | Avi Loeb | TED...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PJk5cmxaCWQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PJk5cmxaCWQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My Search for Proof Aliens Exist | Avi Loeb | TED...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: My Search for Proof Aliens Exist | Avi Loeb | TED  
-   Link: <a href="https://www.youtube.com/watch?v=Yd95LBhuSOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yd95LBhuSOk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Yd95LBhuSOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yd95LBhuSOk</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official reporting, analysis and recording of UFO sightings began in the early 1950s.... Read the article on Unidentified Flying Objects...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official reporting, analysis and recording of UFO sightings began in the early 1950s.... Read the article on Unidentified Flying Objects...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsSightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of Defence has kep...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsSightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of Defence has kep...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=177531" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=177531</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 17753110 Sept 2023 — The 10 videos are not of much use. The flightdeck was turned very dark from an hour before the f...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=177531" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=177531</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 17753110 Sept 2023 — The 10 videos are not of much use. The flightdeck was turned very dark from an hour before the f...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: onlineonly.christies.com  
-   Link: <a href="https://onlineonly.christies.com/s/deep-impact-martian-lunar-other-rare-meteorites/tatahouine-meteorite-sharing-same-name-luke-skywalkers-home-planet-50/112879" target="_blank" rel="noopener noreferrer nofollow">https://onlineonly.christies.com/s/deep-impact-martian-lunar-other-rare-meteorites/tatahouine-meteorite-sharing-same-name-luke-skywalkers-home-planet-50/112879</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>meteorite — sharing the same name as luke...Found by legendary collector Alain Carion, it features Tatahouine&#x27;s distinctive olive-green...</p></details>
+   Link:<a href="https://onlineonly.christies.com/s/deep-impact-martian-lunar-other-rare-meteorites/tatahouine-meteorite-sharing-same-name-luke-skywalkers-home-planet-50/112879" target="_blank" rel="noopener noreferrer nofollow">https://onlineonly.christies.com/s/deep-impact-martian-lunar-other-rare-meteorites/tatahouine-meteorite-sharing-same-name-luke-skywalkers-home-planet-50/112879</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meteorite — sharing the same name as luke...Found by legendary collector Alain Carion, it features Tatahouine&#x27;s distinctive olive-green...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/meteoriteclub/posts/tatahouine-legendary-green-meteorite-meteorite-tatahouine-fell-june-27-1931-4/10164387047656620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/tatahouine-legendary-green-meteorite-meteorite-tatahouine-fell-june-27-1931-4/10164387047656620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>june 27, 1931, 4 kilometers northeast of the city then called Foum Tatahouine. French soldiers from an Infantry...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/meteoriteclub/posts/tatahouine-legendary-green-meteorite-meteorite-tatahouine-fell-june-27-1931-4/10164387047656620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/tatahouine-legendary-green-meteorite-meteorite-tatahouine-fell-june-27-1931-4/10164387047656620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>june 27, 1931, 4 kilometers northeast of the city then called Foum Tatahouine. French soldiers from an Infantry...Read more...</p></details>
    Published: June 27, 1931  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: paranormalarabia.com  
    Title: ufo sightings across the arab world firsthand encounters  
-   Link: <a href="https://www.paranormalarabia.com/en/articles/2025/04/ufo-sightings-across-the-arab-world-firsthand-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalarabia.com/en/articles/2025/04/ufo-sightings-across-the-arab-world-firsthand-encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Across the Arab World: Firsthand Encounters29 Apr 2025 — On January 27, 2011, at 9:25 PM, a man known as Abu Mohammed obser...</p></details>
+   Link:<a href="https://www.paranormalarabia.com/en/articles/2025/04/ufo-sightings-across-the-arab-world-firsthand-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalarabia.com/en/articles/2025/04/ufo-sightings-across-the-arab-world-firsthand-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Across the Arab World: Firsthand Encounters29 Apr 2025 — On January 27, 2011, at 9:25 PM, a man known as Abu Mohammed obser...</p></details>
    Published: January 27, 2011  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</p></details>
+   Link:<a href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: meteorites-for-sale.com  
-   Link: <a href="https://www.meteorites-for-sale.com/tatahouine.html" target="_blank" rel="noopener noreferrer nofollow">https://www.meteorites-for-sale.com/tatahouine.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tatahouine meteorite is one of the finest examples of the rare...Read more...</p></details>
+   Link:<a href="https://www.meteorites-for-sale.com/tatahouine.html" target="_blank" rel="noopener noreferrer nofollow">https://www.meteorites-for-sale.com/tatahouine.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tatahouine meteorite is one of the finest examples of the rare...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: Tatahouine is a diogenite from the asteroid Vesta  
-   Link: <a href="https://www.facebook.com/groups/geologyoftheworld/posts/1172351599492192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/geologyoftheworld/posts/1172351599492192/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This rare...Tatahouine is a diogenite from the asteroid Vesta. This rare meteorite fell on June 27, 1931 at 0130 hours, about 2 1/2 mi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/geologyoftheworld/posts/1172351599492192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/geologyoftheworld/posts/1172351599492192/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This rare...Tatahouine is a diogenite from the asteroid Vesta. This rare meteorite fell on June 27, 1931 at 0130 hours, about 2 1/2 mi...</p></details>
    Published: June 27, 1931  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/striking-video-from-tunisia-shows-a-disc-shaped-object-in-the-sky-accompanied-by/859328610419895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/striking-video-from-tunisia-shows-a-disc-shaped-object-in-the-sky-accompanied-by/859328610419895/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e classic “flying saucer” shape often reported in UFO sightings.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/striking-video-from-tunisia-shows-a-disc-shaped-object-in-the-sky-accompanied-by/859328610419895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/striking-video-from-tunisia-shows-a-disc-shaped-object-in-the-sky-accompanied-by/859328610419895/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e classic “flying saucer” shape often reported in UFO sightings.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: about 500 g The meteorite of Tatahouine fell  
-   Link: <a href="https://www.facebook.com/groups/meteoriteclub/posts/10158844899501620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10158844899501620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>june 27, 1931...Tunisia Fell june 27, 1931 at 1.30 am Achondrite, diogenite Total mass estimated &gt; 50 kg Specimens in collections: abo...</p></details>
+   Link:<a href="https://www.facebook.com/groups/meteoriteclub/posts/10158844899501620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10158844899501620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>june 27, 1931...Tunisia Fell june 27, 1931 at 1.30 am Achondrite, diogenite Total mass estimated &gt; 50 kg Specimens in collections: abo...</p></details>
    Published: June 27, 1931  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: prehistoricfossils.com  
-   Link: <a href="https://prehistoricfossils.com/tunisia-meteorites-for-sale/?srsltid=AfmBOooNIRP_84nOdBpwmBOa3a3rcqo4IgTpMiHlokRjwoezNn6teK5b" target="_blank" rel="noopener noreferrer nofollow">https://prehistoricfossils.com/tunisia-meteorites-for-sale/?srsltid=AfmBOooNIRP_84nOdBpwmBOa3a3rcqo4IgTpMiHlokRjwoezNn6teK5b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tunisia Tatahouine Meteorites for SaleThe Tatahouine meteorite fell on June 27, 1931, near the town of Tataouine in southern Tunisia...</p></details>
+   Link:<a href="https://prehistoricfossils.com/tunisia-meteorites-for-sale/?srsltid=AfmBOooNIRP_84nOdBpwmBOa3a3rcqo4IgTpMiHlokRjwoezNn6teK5b" target="_blank" rel="noopener noreferrer nofollow">https://prehistoricfossils.com/tunisia-meteorites-for-sale/?srsltid=AfmBOooNIRP_84nOdBpwmBOa3a3rcqo4IgTpMiHlokRjwoezNn6teK5b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tunisia Tatahouine Meteorites for SaleThe Tatahouine meteorite fell on June 27, 1931, near the town of Tataouine in southern Tunisia...</p></details>
    Published: June 27, 1931  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesThe Gulf Breeze Six refers to a series of UFO sightings that took place in Gulf...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesThe Gulf Breeze Six refers to a series of UFO sightings that took place in Gulf...</p></details>

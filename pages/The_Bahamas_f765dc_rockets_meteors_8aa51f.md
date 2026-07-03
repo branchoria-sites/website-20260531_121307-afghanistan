@@ -261,8 +261,8 @@ Visitors and residents of [The Bahamas]({{ 'the-bahamas/' | relative_url }}) occ
 
 The space coast of Florida, including launch sites like Cape Canaveral Space Force Station, regularly sends rockets into orbit. These launches can produce spectacular visual effects that are visible far beyond Florida’s borders, including over Bahamian islands:
 
-* In December 2013, a **SpaceX Falcon 9 launch** carrying a communications satellite was photographed and reported as a “strange object” over Nassau, Abaco, Long Island and Inagua before observers realised it was the rocket’s ascent and booster separations. Witnesses described lights and objects in the sky across the archipelago as the rocket passed along its flight path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tribune242.com/news/2013/dec/04/strange-object-sky-identified-rocket-launched-flor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune242.com">[The Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune242.com</span><span class="citation-popover-snippet">December 4, 2013...</span><span class="citation-popover-meta">Published: December 4, 2013</span></span></span>
-* On 18 February 2025, another **SpaceX Falcon 9 mission’s first stage** landed on a droneship in **Exuma Sound** — the stretch of ocean southeast of Eleuthera and Cat Island — making a rare direct Bahamian connection with a spaceflight event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exuma_Sound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exuma Sound</span><span class="citation-popover-snippet">Exuma Sound</span></span></span>
+* In December 2013, a **SpaceX Falcon 9 launch** carrying a communications satellite was photographed and reported as a “strange object” over Nassau, Abaco, Long Island and Inagua before observers realised it was the rocket’s ascent and booster separations. Witnesses described lights and objects in the sky across the archipelago as the rocket passed along its flight path.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tribune242.com/news/2013/dec/04/strange-object-sky-identified-rocket-launched-flor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune242.com">[The Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune242.com</span><span class="citation-popover-snippet">December 4, 2013...</span><span class="citation-popover-meta">Published: December 4, 2013</span></span></span>
+* On 18 February 2025, another **SpaceX Falcon 9 mission’s first stage** landed on a droneship in **Exuma Sound** — the stretch of ocean southeast of Eleuthera and Cat Island — making a rare direct Bahamian connection with a spaceflight event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exuma_Sound" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exuma Sound</span><span class="citation-popover-snippet">Exuma Sound</span></span></span>
 
 For observers unfamiliar with rocket trajectories, the glowing plume of a rising launch stage and its stage‑separation events can easily resemble an unexplained light or craft moving across the sky. Trailing exhaust plumes can expand into diffuse “jellyfish”‑like clouds that appear to hover or change shape, especially when illuminated by the sun against a dark sky.
 
@@ -272,8 +272,8 @@ For observers unfamiliar with rocket trajectories, the glowing plume of a rising
 
 Meteor activity is another natural phenomenon that regularly produces spectacular displays visible across wide regions, including The Bahamas.
 
-* On 13 April 2021, a **bright fireball and bolide** was seen from Florida *and* the Bahamas, with more than 200 reports recorded by the American Meteor Society. NASA satellites and ground cameras tracked the event as a meteoroid burning up in the atmosphere, some observers even reporting audible shock waves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dongascience.com/en/news/45650" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Donga ScienceRocket Debris or Asteroid Fragment? The Mystery Behind the Florida Fireball - DongA ScienceApril 14, 2021...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span>
-* Fireballs, defined as meteors brighter than the planet Venus, occur many times a year over the Earth’s atmosphere but are often unremarkable when crossing remote skies. This background level of meteor activity means that unfamilar observers in Bahamian waters or islands occasionally mistake bright streaks or explosions for something anomalous without checking astronomical calendars or fireball networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wptv.com/news/national/nasa-confirms-65-reports-of-fireballs-across-florida-skies-tuesday-2-caught-on-video-in-bay-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wptv.com">[wptv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wptv.com</span><span class="citation-popover-title">News Channel 5 West Palm NASA: 65 reports of fireballs across Florida sky</span><span class="citation-popover-snippet">WPTV News Channel 5 West PalmNASA: 65 reports of fireballs across Florida sky...</span></span></span> News Channel 5 West Palm
+* On 13 April 2021, a **bright fireball and bolide** was seen from Florida *and* the Bahamas, with more than 200 reports recorded by the American Meteor Society. NASA satellites and ground cameras tracked the event as a meteoroid burning up in the atmosphere, some observers even reporting audible shock waves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dongascience.com/en/news/45650" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dongascience.com">[Donga Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dongascience.com</span><span class="citation-popover-snippet">Donga ScienceRocket Debris or Asteroid Fragment? The Mystery Behind the Florida Fireball - DongA ScienceApril 14, 2021...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span>
+* Fireballs, defined as meteors brighter than the planet Venus, occur many times a year over the Earth’s atmosphere but are often unremarkable when crossing remote skies. This background level of meteor activity means that unfamilar observers in Bahamian waters or islands occasionally mistake bright streaks or explosions for something anomalous without checking astronomical calendars or fireball networks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wptv.com/news/national/nasa-confirms-65-reports-of-fireballs-across-florida-skies-tuesday-2-caught-on-video-in-bay-area" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wptv.com">[wptv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wptv.com</span><span class="citation-popover-title">News Channel 5 West Palm NASA: 65 reports of fireballs across Florida sky</span><span class="citation-popover-snippet">WPTV News Channel 5 West PalmNASA: 65 reports of fireballs across Florida sky...</span></span></span> News Channel 5 West Palm
 
 These natural atmospheric events — fast, bright, short‑lived fireballs crossing the sky — are a recurring source of UFO‑style reports, particularly when viewed over open ocean and horizons where range and speed are hard to estimate.
 
@@ -282,7 +282,7 @@ These natural atmospheric events — fast, bright, short‑lived fireballs cross
 
 Beyond scheduled orbital launches and meteor activity, long‑range missile testing occasionally lights up skies in ways that prompt lay observers to think “UFO”.
 
-* In February 2021, local media in The Bahamas reported a strange bright object visible over parts of the islands and Florida, which official sources attributed to a **submarine‑launched Trident missile test** over the Atlantic. Meteorologists and investigators clarified that the sighting was unrelated to any aircraft or local flight, pointing instead to a long‑range weapon test that passed through Bahamian airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahamaslocal.com/newsitem/260129/UFO_was_US_missile_test.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahamaslocal.com">[Bahamas Local]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahamaslocal.com</span><span class="citation-popover-title">Bahamas Local&#x27;UFO&#x27; was U.S. missile test &#124; Bahamas Local News</span><span class="citation-popover-snippet">February 11, 2021...</span><span class="citation-popover-meta">Published: February 11, 2021</span></span></span>
+* In February 2021, local media in The Bahamas reported a strange bright object visible over parts of the islands and Florida, which official sources attributed to a **submarine‑launched Trident missile test** over the Atlantic. Meteorologists and investigators clarified that the sighting was unrelated to any aircraft or local flight, pointing instead to a long‑range weapon test that passed through Bahamian airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahamaslocal.com/newsitem/260129/UFO_was_US_missile_test.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahamaslocal.com">[Bahamas Local]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahamaslocal.com</span><span class="citation-popover-title">Bahamas Local&#x27;UFO&#x27; was U.S. missile test &#124; Bahamas Local News</span><span class="citation-popover-snippet">February 11, 2021...</span><span class="citation-popover-meta">Published: February 11, 2021</span></span></span>
 
 Such tests can produce contrails, bright sparks and re‑entry trails at high altitude, visible hundreds of miles distant from their launch area. Without awareness of scheduled tests, witnesses may interpret them as unidentified craft.
 
@@ -309,194 +309,194 @@ These checks don’t refute every sighting but often quickly link a dramatic sky
 The clear skies over The Bahamas offer dramatic views of both terrestrial and celestial activity. Rocket launches from Florida, bright meteors crossing the Atlantic, and occasional long‑range missile tests account for a significant portion of the “unidentified” reports once real‑time spaceflight and astronomical data are consulted. Recognising these known mechanisms — and using available tracking and reporting resources — helps readers separate genuinely curious observations from misinterpretations of routine but surprising sky events.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Bahamas UFOs Are Rockets or Meteors. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Bahamas UFOs Are Rockets or Meteors. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides contrast between unexplained cases and common misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contrast between unexplained cases and common misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Directly relevant to bright sky events mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to bright sky events mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry+by+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophysics for People in a Hurry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hx5DDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Astrophysics for People in a Hurry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry+by+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophysics for People in a Hurry">Astrophysics for People in a Hurry</a>
-        </h4>
-        <p class="fr-book-author">By Neil deGrasse Tyson</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Offers accessible background on astronomical phenomena visible in the night sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry+by+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry+by+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophysics for People in a Hurry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hx5DDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Astrophysics for People in a Hurry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry+by+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophysics for People in a Hurry">Astrophysics for People in a Hurry</a>
+</h4>
+<p class="fr-book-author">By Neil deGrasse Tyson</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Offers accessible background on astronomical phenomena visible in the night sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry+by+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">Introduces readers to spaceflight realities behind spectacular sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces readers to spaceflight realities behind spectacular sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astrophysics for People in a Hurry</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Astrophysics for People in a Hurry</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bahamas-ufos-are-rockets-or-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-bahamas-ufos-are-rockets-or-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -512,7 +512,7 @@ The clear skies over The Bahamas offer dramatic views of both terrestrial and ce
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -532,7 +532,7 @@ The clear skies over The Bahamas offer dramatic views of both terrestrial and ce
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -564,7 +564,7 @@ The clear skies over The Bahamas offer dramatic views of both terrestrial and ce
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -616,7 +616,7 @@ The clear skies over The Bahamas offer dramatic views of both terrestrial and ce
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -661,7 +661,7 @@ The clear skies over The Bahamas offer dramatic views of both terrestrial and ce
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -702,122 +702,122 @@ The clear skies over The Bahamas offer dramatic views of both terrestrial and ce
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Exuma Sound  
-   Link: <a href="https://en.wikipedia.org/wiki/Exuma_Sound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exuma_Sound</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Exuma_Sound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exuma_Sound</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wptv.com  
    Title: News Channel 5 West Palm NASA: 65 reports of fireballs across Florida sky  
-   Link: <a href="https://www.wptv.com/news/national/nasa-confirms-65-reports-of-fireballs-across-florida-skies-tuesday-2-caught-on-video-in-bay-area" target="_blank" rel="noopener noreferrer nofollow">https://www.wptv.com/news/national/nasa-confirms-65-reports-of-fireballs-across-florida-skies-tuesday-2-caught-on-video-in-bay-area</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WPTV News Channel 5 West PalmNASA: 65 reports of fireballs across Florida sky...</p></details>
+   Link:<a href="https://www.wptv.com/news/national/nasa-confirms-65-reports-of-fireballs-across-florida-skies-tuesday-2-caught-on-video-in-bay-area" target="_blank" rel="noopener noreferrer nofollow">https://www.wptv.com/news/national/nasa-confirms-65-reports-of-fireballs-across-florida-skies-tuesday-2-caught-on-video-in-bay-area</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WPTV News Channel 5 West PalmNASA: 65 reports of fireballs across Florida sky...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports (Video) | SpaceSeptember 30, 2013 — SPACEX ROCKET LAUNCH SPARKS &#x27;UFO&#x27; SIGHTINGS: REP...</p></details>
+   Link:<a href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports (Video) | SpaceSeptember 30, 2013 — SPACEX ROCKET LAUNCH SPARKS &#x27;UFO&#x27; SIGHTINGS: REP...</p></details>
    Published: September 30, 2013  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tribune242.com  
-   Link: <a href="https://www.tribune242.com/news/2013/dec/04/strange-object-sky-identified-rocket-launched-flor/" target="_blank" rel="noopener noreferrer nofollow">https://www.tribune242.com/news/2013/dec/04/strange-object-sky-identified-rocket-launched-flor/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2013...</p></details>
+   Link:<a href="https://www.tribune242.com/news/2013/dec/04/strange-object-sky-identified-rocket-launched-flor/" target="_blank" rel="noopener noreferrer nofollow">https://www.tribune242.com/news/2013/dec/04/strange-object-sky-identified-rocket-launched-flor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2013...</p></details>
    Published: December 4, 2013  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dongascience.com  
-   Link: <a href="https://www.dongascience.com/en/news/45650" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/45650</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Donga ScienceRocket Debris or Asteroid Fragment? The Mystery Behind the Florida Fireball - DongA ScienceApril 14, 2021...</p></details>
+   Link:<a href="https://www.dongascience.com/en/news/45650" target="_blank" rel="noopener noreferrer nofollow">https://www.dongascience.com/en/news/45650</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Donga ScienceRocket Debris or Asteroid Fragment? The Mystery Behind the Florida Fireball - DongA ScienceApril 14, 2021...</p></details>
    Published: April 14, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bahamaslocal.com  
    Title: Bahamas Local'UFO' was U.S. missile test | Bahamas Local News  
-   Link: <a href="https://www.bahamaslocal.com/newsitem/260129/UFO_was_US_missile_test.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bahamaslocal.com/newsitem/260129/UFO_was_US_missile_test.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 11, 2021...</p></details>
+   Link:<a href="https://www.bahamaslocal.com/newsitem/260129/UFO_was_US_missile_test.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bahamaslocal.com/newsitem/260129/UFO_was_US_missile_test.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 11, 2021...</p></details>
    Published: February 11, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tribune242.com  
    Title: ‘UFO’ was U.S  
-   Link: <a href="https://www.tribune242.com/news/2021/feb/11/ufo-was-us-missile-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.tribune242.com/news/2021/feb/11/ufo-was-us-missile-test/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>missile test | The TribuneFebruary 11, 2021 — ‘UFO’ WAS U.S. MISSILE TEST As of Thursday, February 11, 2021 AN IMAGE from video circulate...</p></details>
+   Link:<a href="https://www.tribune242.com/news/2021/feb/11/ufo-was-us-missile-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.tribune242.com/news/2021/feb/11/ufo-was-us-missile-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>missile test | The TribuneFebruary 11, 2021 — ‘UFO’ WAS U.S. MISSILE TEST As of Thursday, February 11, 2021 AN IMAGE from video circulate...</p></details>
    Published: February 11, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=56501" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=56501</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 56501June 12, 2007 — NUFORC UFO SIGHTING 56501 Occurred: 1984-08-01 02:30 Local Reported: 2007-05-02 14:22 Pacific Du...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=56501" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=56501</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 56501June 12, 2007 — NUFORC UFO SIGHTING 56501 Occurred: 1984-08-01 02:30 Local Reported: 2007-05-02 14:22 Pacific Du...</p></details>
    Published: May 2, 2007  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thephenomenon.app  
-   Link: <a href="https://thephenomenon.app/bahamas/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/bahamas/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, Cat Island, Bahamas Chevron [Button: View Detai...</p></details>
+   Link:<a href="https://thephenomenon.app/bahamas/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/bahamas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, Cat Island, Bahamas Chevron [Button: View Detai...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2021/apr/13/fireball-object-passes-close-to-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2021/apr/13/fireball-object-passes-close-to-earth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 2021 — Image: Florida meteor 0:50 Fireball lights up Florida sky as it &#x27;passes uncomfortably close to Earth&#x27; – video Space This...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2021/apr/13/fireball-object-passes-close-to-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2021/apr/13/fireball-object-passes-close-to-earth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 2021 — Image: Florida meteor 0:50 Fireball lights up Florida sky as it &#x27;passes uncomfortably close to Earth&#x27; – video Space This...</p></details>
    Published: April 13, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: foxweather.com  
-   Link: <a href="https://www.foxweather.com/earth-space/watch-spacex-starship-explodes-debris-fall-caribbean-florida" target="_blank" rel="noopener noreferrer nofollow">https://www.foxweather.com/earth-space/watch-spacex-starship-explodes-debris-fall-caribbean-florida</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VIDEO: SpaceX Starship explodes, creates debris fall visible overseas | Fox WeatherMarch 6, 2025 — Published March 6, 2025 9:17pm EST WAT...</p></details>
+   Link:<a href="https://www.foxweather.com/earth-space/watch-spacex-starship-explodes-debris-fall-caribbean-florida" target="_blank" rel="noopener noreferrer nofollow">https://www.foxweather.com/earth-space/watch-spacex-starship-explodes-debris-fall-caribbean-florida</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VIDEO: SpaceX Starship explodes, creates debris fall visible overseas | Fox WeatherMarch 6, 2025 — Published March 6, 2025 9:17pm EST WAT...</p></details>
    Published: March 6, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: caymancompass.com  
    Title: Fireball in sky over Cayman likely old space station falling to Earth  
-   Link: <a href="https://www.caymancompass.com/2025/09/03/fireball-in-sky-over-cayman-likely-old-space-station-falling-to-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.caymancompass.com/2025/09/03/fireball-in-sky-over-cayman-likely-old-space-station-falling-to-earth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cayman CompassSeptember 3, 2025 — FIREBALL IN SKY OVER CAYMAN LIKELY OLD SPACE STATION FALLING TO EARTH By Norma Connolly - 3 September 2...</p></details>
+   Link:<a href="https://www.caymancompass.com/2025/09/03/fireball-in-sky-over-cayman-likely-old-space-station-falling-to-earth/" target="_blank" rel="noopener noreferrer nofollow">https://www.caymancompass.com/2025/09/03/fireball-in-sky-over-cayman-likely-old-space-station-falling-to-earth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cayman CompassSeptember 3, 2025 — FIREBALL IN SKY OVER CAYMAN LIKELY OLD SPACE STATION FALLING TO EARTH By Norma Connolly - 3 September 2...</p></details>
    Published: September 3, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencetimes.com  
    Title: Science Times Meteor Seen Above Florida: Did It Light up the Skies? [WATCH]  
-   Link: <a href="https://www.sciencetimes.com/articles/30648/20210413/meteor-explodes-in-a-fireball-in-florida-did-it-light-up-the-skies-watch.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/30648/20210413/meteor-explodes-in-a-fireball-in-florida-did-it-light-up-the-skies-watch.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[WATCH]April 13, 2021 — METEOR SEEN ABOVE FLORIDA: DID IT LIGHT UP THE SKIES? [WATCH] By Tiziana Celine @tpiatos_...</p></details>
+   Link:<a href="https://www.sciencetimes.com/articles/30648/20210413/meteor-explodes-in-a-fireball-in-florida-did-it-light-up-the-skies-watch.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/30648/20210413/meteor-explodes-in-a-fireball-in-florida-did-it-light-up-the-skies-watch.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[WATCH]April 13, 2021 — METEOR SEEN ABOVE FLORIDA: DID IT LIGHT UP THE SKIES? [WATCH] By Tiziana Celine @tpiatos_...</p></details>
    Published: April 13, 2021  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufomagazines.com  
-   Link: <a href="https://www.ufomagazines.com/sunlite-tim-printy-sunlite-vol-07-no-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/sunlite-tim-printy-sunlite-vol-07-no-05/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recurring themes include the unreliability of witness testimony, the te...</p></details>
+   Link:<a href="https://www.ufomagazines.com/sunlite-tim-printy-sunlite-vol-07-no-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/sunlite-tim-printy-sunlite-vol-07-no-05/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recurring themes include the unreliability of witness testimony, the te...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: royalgazette.com  
    Title: `UFO' lights caused by US missile launch  
-   Link: <a href="https://www.royalgazette.com/other/news/article/20110209/ufo-lights-caused-by-us-missile-launch/" target="_blank" rel="noopener noreferrer nofollow">https://www.royalgazette.com/other/news/article/20110209/ufo-lights-caused-by-us-missile-launch/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Royal Gazette | Bermuda News, Business, Sports, Events, &amp;amp; Community |March 10, 1998 — `UFO&#x27; LIGHTS CAUSED BY US MISSILE LAUNCH Ra...</p></details>
+   Link:<a href="https://www.royalgazette.com/other/news/article/20110209/ufo-lights-caused-by-us-missile-launch/" target="_blank" rel="noopener noreferrer nofollow">https://www.royalgazette.com/other/news/article/20110209/ufo-lights-caused-by-us-missile-launch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Royal Gazette | Bermuda News, Business, Sports, Events, &amp;amp; Community |March 10, 1998 — `UFO&#x27; LIGHTS CAUSED BY US MISSILE LAUNCH Ra...</p></details>
    Published: March 10, 1998  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: royalgazette.com  
    Title: Unusual lights prompt flurry of calls  
-   Link: <a href="https://www.royalgazette.com/other/news/article/20150213/unusual-lights-prompt-flurry-of-calls/" target="_blank" rel="noopener noreferrer nofollow">https://www.royalgazette.com/other/news/article/20150213/unusual-lights-prompt-flurry-of-calls/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Royal Gazette | Bermuda News, Business, Sports, Events, &amp;amp; Community |February 13, 2015 — UNUSUAL LIGHTS PROMPT FLURRY OF CALLS Li...</p></details>
+   Link:<a href="https://www.royalgazette.com/other/news/article/20150213/unusual-lights-prompt-flurry-of-calls/" target="_blank" rel="noopener noreferrer nofollow">https://www.royalgazette.com/other/news/article/20150213/unusual-lights-prompt-flurry-of-calls/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Royal Gazette | Bermuda News, Business, Sports, Events, &amp;amp; Community |February 13, 2015 — UNUSUAL LIGHTS PROMPT FLURRY OF CALLS Li...</p></details>
    Published: February 13, 2015  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rt.com  
    Title: ‘Nuclear alien UFO from N  
-   Link: <a href="https://www.rt.com/news/414078-rocket-launches-ufo-rumors/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/news/414078-rocket-launches-ufo-rumors/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea!’ 5 times rocket launches triggered UFO frenzy (VIDEOS) — RT World NewsDecember 23, 2017 — ‘NUCLEAR ALIEN UFO FROM N. KOREA!’ 5 TIM...</p></details>
+   Link:<a href="https://www.rt.com/news/414078-rocket-launches-ufo-rumors/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/news/414078-rocket-launches-ufo-rumors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korea!’ 5 times rocket launches triggered UFO frenzy (VIDEOS) — RT World NewsDecember 23, 2017 — ‘NUCLEAR ALIEN UFO FROM N. KOREA!’ 5 TIM...</p></details>
    Published: December 23, 2017  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The science of twilight rocket plumes  
-   Link: <a href="https://www.youtube.com/watch?v=yYvK2gQ-JtA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yYvK2gQ-JtA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This selection of videos provides visual context for the &quot;twilight effect&quot; and &quot;space jellyfish&quot; phenomena that frequently lead to UFO re...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yYvK2gQ-JtA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yYvK2gQ-JtA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This selection of videos provides visual context for the &quot;twilight effect&quot; and &quot;space jellyfish&quot; phenomena that frequently lead to UFO re...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: techtimes.com  
-   Link: <a href="https://www.techtimes.com/articles/216797/20171208/florida-fireball-lights-up-the-night-sky-its-not-a-ufo-nasa-says.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/216797/20171208/florida-fireball-lights-up-the-night-sky-its-not-a-ufo-nasa-says.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Florida Fireball Lights Up The Night Sky: It&#x27;s Not A UFO, NASA SaysDecember 8, 2017 — FLORIDA FIREBALL LIGHTS UP THE NIGHT SKY: IT’S NOT...</p></details>
+   Link:<a href="https://www.techtimes.com/articles/216797/20171208/florida-fireball-lights-up-the-night-sky-its-not-a-ufo-nasa-says.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/216797/20171208/florida-fireball-lights-up-the-night-sky-its-not-a-ufo-nasa-says.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Florida Fireball Lights Up The Night Sky: It&#x27;s Not A UFO, NASA SaysDecember 8, 2017 — FLORIDA FIREBALL LIGHTS UP THE NIGHT SKY: IT’S NOT...</p></details>
    Published: December 8, 2017

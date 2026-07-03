@@ -254,16 +254,16 @@ image: /assets/images/Uzbekistan_db800e_regional_ufo_cluster_a4a5c4-Illustration
 
 ## Introduction
 
-Uzbekistan does not have a single recognised UFO hotspot. Instead, its reports tend to appear in distinct geographic bands shaped by terrain, visibility, population density, and industrial activity. The most persistent patterns emerge across three environments: the open desert and mining regions around Navoi and Zarafshan, the urban corridor linking Tashkent and Samarkand, and the densely populated eastern valleys around Fergana, Namangan, and neighbouring districts. The result is not a continuous chain of extraordinary cases but a patchwork of local clusters where unusual lights, falling objects, and atmospheric events are more likely to be noticed and discussed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caspianpost.com">[Caspian Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caspianpost.com</span><span class="citation-popover-title">Caspian Post Unidentified Object Falls in Uzbekistan, Shakes Ground</span><span class="citation-popover-snippet">Caspian PostUnidentified Object Falls in Uzbekistan, Shakes GroundFebruary 20, 2026 — Residents of eastern Uzbekistan were left startled...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTA darkred ball of fire was seen first; after about six seconds it reached the apex of a long-dirawn ou...</span></span></span>
+Uzbekistan does not have a single recognised UFO hotspot. Instead, its reports tend to appear in distinct geographic bands shaped by terrain, visibility, population density, and industrial activity. The most persistent patterns emerge across three environments: the open desert and mining regions around Navoi and Zarafshan, the urban corridor linking Tashkent and Samarkand, and the densely populated eastern valleys around Fergana, Namangan, and neighbouring districts. The result is not a continuous chain of extraordinary cases but a patchwork of local clusters where unusual lights, falling objects, and atmospheric events are more likely to be noticed and discussed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caspianpost.com">[Caspian Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caspianpost.com</span><span class="citation-popover-title">Caspian Post Unidentified Object Falls in Uzbekistan, Shakes Ground</span><span class="citation-popover-snippet">Caspian PostUnidentified Object Falls in Uzbekistan, Shakes GroundFebruary 20, 2026 — Residents of eastern Uzbekistan were left startled...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTA darkred ball of fire was seen first; after about six seconds it reached the apex of a long-dirawn ou...</span></span></span>
 
 <img src="{{ "/assets/images/Uzbekistan_db800e_regional_ufo_cluster_a4a5c4-Illustration-1-dark.svg" | relative_url }}" alt="Regional Clusters illustration 1" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e_regional_ufo_cluster_a4a5c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e_regional_ufo_cluster_a4a5c4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes these clusters interesting is that geography changes both observation quality and interpretation. A light over a remote desert can appear isolated and mysterious because there are few reference points. The same light over a crowded valley is likely to be filmed from multiple angles within minutes. Understanding Uzbekistan's UFO geography therefore means examining how deserts, mining zones, cities, and mountain-bordered valleys produce different kinds of reports rather than assuming a single national pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/dust-blankets-tashkent-149067/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceDust Blankets TashkentMeteorologists in Uzbekistan reported airborne levels of dust as high as they have been in 150 years of...</span></span></span>
+What makes these clusters interesting is that geography changes both observation quality and interpretation. A light over a remote desert can appear isolated and mysterious because there are few reference points. The same light over a crowded valley is likely to be filmed from multiple angles within minutes. Understanding Uzbekistan's UFO geography therefore means examining how deserts, mining zones, cities, and mountain-bordered valleys produce different kinds of reports rather than assuming a single national pattern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/dust-blankets-tashkent-149067/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceDust Blankets TashkentMeteorologists in Uzbekistan reported airborne levels of dust as high as they have been in 150 years of...</span></span></span>
 
 ## Desert and Mining-Zone Sightings
 
 The strongest long-term regional pattern lies in central Uzbekistan's vast open landscapes. The Navoi region, including Zarafshan and surrounding desert territory, offers unusually clear horizons and dark skies. These conditions make distant aircraft lights, meteors, satellite re-entries, and atmospheric effects easier to observe than in heavily urbanised areas.
 
-The region's geography matters. Navoi sits within a broad desert-steppe environment associated with large mining and industrial operations. At night, observers can watch objects travel across enormous sections of visible sky. Events that would disappear behind buildings in a city remain visible for extended periods, encouraging reports of slow-moving or apparently hovering lights. Open horizons also make it difficult for witnesses to judge distance, speed, and altitude accurately. A bright object hundreds of kilometres away can appear much closer than it actually is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Navoiy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The region's geography matters. Navoi sits within a broad desert-steppe environment associated with large mining and industrial operations. At night, observers can watch objects travel across enormous sections of visible sky. Events that would disappear behind buildings in a city remain visible for extended periods, encouraging reports of slow-moving or apparently hovering lights. Open horizons also make it difficult for witnesses to judge distance, speed, and altitude accurately. A bright object hundreds of kilometres away can appear much closer than it actually is.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Navoiy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Several researchers who have reviewed Central Asian UFO reporting note that sparsely populated desert regions often generate recurring stories about luminous objects without producing equally strong physical evidence. In Uzbekistan, the desert-mining belt fits this pattern. Reports are numerous enough to create a local reputation but rarely include radar records, multiple independent measurements, or recoverable material that would allow firm conclusions.
 
@@ -273,9 +273,9 @@ The region's industrial character also complicates interpretation. Mining operat
 
 Western and central desert reports differ sharply from those emerging around Uzbekistan's largest urban centres. The Tashkent-Samarkand corridor produces more videos, more public discussion, and more rapid attempts at explanation.
 
-The best-known historical example remains the declassified "Light Phenomena East of Tashkent" report describing repeated luminous objects observed during 1947 from a camp southwest of Tashkent. Witnesses described recurring fireball-like lights changing colour and appearing on repeated evenings. The report survives because it entered intelligence archives, not because investigators reached a definitive explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0000015282</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTThe phenomena were watched from the P7 camp in Palhta. Aral, about 50 km southwest of Tashkent (1918/69°1...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTA darkred ball of fire was seen first; after about six seconds it reached the apex of a long-dirawn ou...</span></span></span>
+The best-known historical example remains the declassified "Light Phenomena East of Tashkent" report describing repeated luminous objects observed during 1947 from a camp southwest of Tashkent. Witnesses described recurring fireball-like lights changing colour and appearing on repeated evenings. The report survives because it entered intelligence archives, not because investigators reached a definitive explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0000015282</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTThe phenomena were watched from the P7 camp in Palhta. Aral, about 50 km southwest of Tashkent (1918/69°1...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTA darkred ball of fire was seen first; after about six seconds it reached the apex of a long-dirawn ou...</span></span></span>
 
-Modern urban sightings follow a different pattern. Smartphones and social media allow unusual lights to spread nationally within hours. A recent example involved footage recorded near Tashkent's Kosmonavtlar area showing a bright object moving across the sky. The Astronomy Institute of the Academy of Sciences publicly commented on the footage and began preliminary analysis rather than endorsing extraordinary interpretations. That response reflects a broader pattern in Uzbekistan: unusual aerial events often become public before reliable technical information is available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...20 Feb 2026 — A video captured near the Kosmonavtlar metro station showing a bri...</span></span></span>
+Modern urban sightings follow a different pattern. Smartphones and social media allow unusual lights to spread nationally within hours. A recent example involved footage recorded near Tashkent's Kosmonavtlar area showing a bright object moving across the sky. The Astronomy Institute of the Academy of Sciences publicly commented on the footage and began preliminary analysis rather than endorsing extraordinary interpretations. That response reflects a broader pattern in Uzbekistan: unusual aerial events often become public before reliable technical information is available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...20 Feb 2026 — A video captured near the Kosmonavtlar metro station showing a bri...</span></span></span>
 
 Urban settings create advantages and disadvantages for UFO reporting:
 
@@ -296,7 +296,7 @@ As a result, Tashkent-area reports are often better documented than desert sight
 
 Eastern Uzbekistan has become one of the country's most active areas for recent unidentified-object discussions. The Fergana Valley's dense population means unusual sky events are likely to be observed by large numbers of people simultaneously.
 
-Namangan has become particularly notable because of reports connected to a February 2026 incident in which residents described a bright object, a burning trail, loud sounds, ground shaking, and alleged debris. Local media rapidly circulated photographs and eyewitness accounts, while videos from both Namangan and Tashkent appeared online. Official scientific assessment remained cautious, with specialists investigating possible explanations rather than immediately classifying the event as something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...20 Feb 2026 — A video captured near the Kosmonavtlar metro station showing a bri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caspianpost.com">[Caspian Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caspianpost.com</span><span class="citation-popover-title">Caspian Post Unidentified Object Falls in Uzbekistan, Shakes Ground</span><span class="citation-popover-snippet">Caspian PostUnidentified Object Falls in Uzbekistan, Shakes GroundFebruary 20, 2026 — Residents of eastern Uzbekistan were left startled...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://caliber.az/en/post/unidentified-object-sparks-bright-flash-tremor-smoke-in-uzbekistan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caliber.az">[caliber]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caliber.az</span><span class="citation-popover-title">unidentified object sparks bright flash tremor smoke in uzbekistan</span><span class="citation-popover-snippet">Unidentified object sparks bright flash, tremor, smoke in...20 Feb 2026 — Residents of the Namangan region, Uzbekistan, reported the fal...</span></span></span> The eastern valley environment encourages a different style of reporting from the desert regions:
+Namangan has become particularly notable because of reports connected to a February 2026 incident in which residents described a bright object, a burning trail, loud sounds, ground shaking, and alleged debris. Local media rapidly circulated photographs and eyewitness accounts, while videos from both Namangan and Tashkent appeared online. Official scientific assessment remained cautious, with specialists investigating possible explanations rather than immediately classifying the event as something extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...20 Feb 2026 — A video captured near the Kosmonavtlar metro station showing a bri...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caspianpost.com">[Caspian Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caspianpost.com</span><span class="citation-popover-title">Caspian Post Unidentified Object Falls in Uzbekistan, Shakes Ground</span><span class="citation-popover-snippet">Caspian PostUnidentified Object Falls in Uzbekistan, Shakes GroundFebruary 20, 2026 — Residents of eastern Uzbekistan were left startled...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://caliber.az/en/post/unidentified-object-sparks-bright-flash-tremor-smoke-in-uzbekistan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caliber.az">[caliber]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caliber.az</span><span class="citation-popover-title">unidentified object sparks bright flash tremor smoke in uzbekistan</span><span class="citation-popover-snippet">Unidentified object sparks bright flash, tremor, smoke in...20 Feb 2026 — Residents of the Namangan region, Uzbekistan, reported the fal...</span></span></span> The eastern valley environment encourages a different style of reporting from the desert regions:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,7 +307,7 @@ Namangan has become particularly notable because of reports connected to a Febru
 
 </div>
 
-The region has also experienced recurring public confusion between genuinely unidentified objects and atmospheric phenomena. Halo effects and other optical displays have periodically generated local discussion before being identified as natural atmospheric events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DUxzm6fChLW/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Binokl orqali kuzatish #koinot #astronomiya #binoklNamangan shahridagi ushbu holat atmosferada sodir bo&#x27;ladigan optik hodisa bo&#x27;...</span></span></span>
+The region has also experienced recurring public confusion between genuinely unidentified objects and atmospheric phenomena. Halo effects and other optical displays have periodically generated local discussion before being identified as natural atmospheric events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DUxzm6fChLW/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Binokl orqali kuzatish #koinot #astronomiya #binoklNamangan shahridagi ushbu holat atmosferada sodir bo&#x27;ladigan optik hodisa bo&#x27;...</span></span></span>
 
 This does not mean all eastern reports are explained. Rather, the valley's population density creates a constant stream of observations, some mundane and some unresolved, making it one of the most visible UFO-reporting environments in contemporary Uzbekistan.
 
@@ -332,216 +332,216 @@ Open horizons, dark skies, and sparse populations make unusual lights appear dra
 
 ### Cities favour documentation
 
-Urban centres generate videos, photographs, and multiple witness accounts. However, they also introduce light pollution, reflections, and rapid online speculation. A city sighting can become famous before experts have enough information to identify it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...20 Feb 2026 — A video captured near the Kosmonavtlar metro station showing a bri...</span></span></span>
+Urban centres generate videos, photographs, and multiple witness accounts. However, they also introduce light pollution, reflections, and rapid online speculation. A city sighting can become famous before experts have enough information to identify it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...20 Feb 2026 — A video captured near the Kosmonavtlar metro station showing a bri...</span></span></span>
 
 ### Valleys favour mass witnessing
 
-The Fergana Valley's population density means a single event can be seen by thousands of people. This improves corroboration but can also amplify rumours, especially when dramatic sounds, flashes, or alleged debris are involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caspianpost.com">[Caspian Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caspianpost.com</span><span class="citation-popover-title">Caspian Post Unidentified Object Falls in Uzbekistan, Shakes Ground</span><span class="citation-popover-snippet">Caspian PostUnidentified Object Falls in Uzbekistan, Shakes GroundFebruary 20, 2026 — Residents of eastern Uzbekistan were left startled...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
+The Fergana Valley's population density means a single event can be seen by thousands of people. This improves corroboration but can also amplify rumours, especially when dramatic sounds, flashes, or alleged debris are involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caspianpost.com">[Caspian Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caspianpost.com</span><span class="citation-popover-title">Caspian Post Unidentified Object Falls in Uzbekistan, Shakes Ground</span><span class="citation-popover-snippet">Caspian PostUnidentified Object Falls in Uzbekistan, Shakes GroundFebruary 20, 2026 — Residents of eastern Uzbekistan were left startled...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Uzbekistan_db800e_regional_ufo_cluster_a4a5c4-Illustration-3-dark.svg" | relative_url }}" alt="Regional Clusters illustration 3" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e_regional_ufo_cluster_a4a5c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e_regional_ufo_cluster_a4a5c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Dust and atmosphere complicate everything
 
-Uzbekistan's climate introduces another factor. Dust storms, haze, and unusual atmospheric conditions can alter visibility and colour perception. In some cases, bright objects may appear distorted or unusually luminous, contributing to reports that initially seem difficult to explain. NASA documentation of major dust events over Uzbekistan illustrates how dramatically local visibility conditions can change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/dust-blankets-tashkent-149067/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceDust Blankets TashkentMeteorologists in Uzbekistan reported airborne levels of dust as high as they have been in 150 years of...</span></span></span>
+Uzbekistan's climate introduces another factor. Dust storms, haze, and unusual atmospheric conditions can alter visibility and colour perception. In some cases, bright objects may appear distorted or unusually luminous, contributing to reports that initially seem difficult to explain. NASA documentation of major dust events over Uzbekistan illustrates how dramatically local visibility conditions can change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/dust-blankets-tashkent-149067/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceDust Blankets TashkentMeteorologists in Uzbekistan reported airborne levels of dust as high as they have been in 150 years of...</span></span></span>
 
 ## Are There Genuine Uzbek UFO Hotspots?
 
 The available evidence does not support the idea of a single, persistent UFO hotspot comparable to famous international cases. Instead, Uzbekistan shows a series of regional concentrations shaped by observation conditions.
 
-The desert belt around Navoi and Zarafshan produces long-range light reports. The Tashkent-Samarkand corridor generates historically significant archive cases and modern video sightings. The Fergana Valley, especially Namangan, has become the centre of recent public discussion because dense populations rapidly document unusual events. Qashqadaryo contributes scattered southern reports but remains less well documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...20 Feb 2026 — A video captured near the Kosmonavtlar metro station showing a bri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caspianpost.com">[Caspian Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caspianpost.com</span><span class="citation-popover-title">Caspian Post Unidentified Object Falls in Uzbekistan, Shakes Ground</span><span class="citation-popover-snippet">Caspian PostUnidentified Object Falls in Uzbekistan, Shakes GroundFebruary 20, 2026 — Residents of eastern Uzbekistan were left startled...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0000015282</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTThe phenomena were watched from the P7 camp in Palhta. Aral, about 50 km southwest of Tashkent (1918/69°1...</span></span></span>
+The desert belt around Navoi and Zarafshan produces long-range light reports. The Tashkent-Samarkand corridor generates historically significant archive cases and modern video sightings. The Fergana Valley, especially Namangan, has become the centre of recent public discussion because dense populations rapidly document unusual events. Qashqadaryo contributes scattered southern reports but remains less well documented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzdaily.uz">[UzDaily.uz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzdaily.uz</span><span class="citation-popover-snippet">Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...20 Feb 2026 — A video captured near the Kosmonavtlar metro station showing a bri...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caspianpost.com">[Caspian Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caspianpost.com</span><span class="citation-popover-title">Caspian Post Unidentified Object Falls in Uzbekistan, Shakes Ground</span><span class="citation-popover-snippet">Caspian PostUnidentified Object Falls in Uzbekistan, Shakes GroundFebruary 20, 2026 — Residents of eastern Uzbekistan were left startled...</span><span class="citation-popover-meta">Published: February 20, 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">DOC 0000015282</span><span class="citation-popover-snippet">LIGHT PHENOMENA EAST OF TASHKENTThe phenomena were watched from the P7 camp in Palhta. Aral, about 50 km southwest of Tashkent (1918/69°1...</span></span></span>
 
 Taken together, these clusters suggest that Uzbekistan's UFO story is primarily geographic rather than evidential. The country's deserts, cities, and valleys create different observation environments, and those environments shape the kinds of mysteries people report. The pattern is real; the extraordinary interpretation remains unproven.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhKyQkhOfoM" title="Schoolyard witnesses in mass UFO sighting demand answers | Australian Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer">Schoolyard witnesses in mass UFO sighting demand answers | Australian Story</a></p><p class="youtube-embed-meta">Channel: ABC News In-depth &middot; Views: 725.8K &middot; Uploaded: April 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhKyQkhOfoM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhKyQkhOfoM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Do Uzbekistan UFO Reports Cluster?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Do Uzbekistan UFO Reports Cluster?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers international examples of recurring sightings and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers international examples of recurring sightings and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating large groups of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating large groups of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Strong fit for understanding geographical clusters of unusual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for understanding geographical clusters of unusual reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Vallee</p>
         
-        <p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-uzbekistan-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-uzbekistan-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ Taken together, these clusters suggest that Uzbekistan's UFO story is primarily 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ Taken together, these clusters suggest that Uzbekistan's UFO story is primarily 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ Taken together, these clusters suggest that Uzbekistan's UFO story is primarily 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ Taken together, these clusters suggest that Uzbekistan's UFO story is primarily 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ Taken together, these clusters suggest that Uzbekistan's UFO story is primarily 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,109 +744,108 @@ Taken together, these clusters suggest that Uzbekistan's UFO story is primarily 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LIGHT PHENOMENA EAST OF TASHKENTA darkred ball of fire was seen first; after about six seconds it reached the apex of a long-dirawn ou...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005515708.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIGHT PHENOMENA EAST OF TASHKENTA darkred ball of fire was seen first; after about six seconds it reached the apex of a long-dirawn ou...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
    Title: DOC 0000015282  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LIGHT PHENOMENA EAST OF TASHKENTThe phenomena were watched from the P7 camp in Palhta. Aral, about 50 km southwest of Tashkent (1918/69°1...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015282.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LIGHT PHENOMENA EAST OF TASHKENTThe phenomena were watched from the P7 camp in Palhta. Aral, about 50 km southwest of Tashkent (1918/69°1...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/dust-blankets-tashkent-149067/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/dust-blankets-tashkent-149067/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceDust Blankets TashkentMeteorologists in Uzbekistan reported airborne levels of dust as high as they have been in 150 years of...</p></details>
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/dust-blankets-tashkent-149067/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/dust-blankets-tashkent-149067/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceDust Blankets TashkentMeteorologists in Uzbekistan reported airborne levels of dust as high as they have been in 150 years of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: uzdaily.uz  
-   Link: <a href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...20 Feb 2026 — A video captured near the Kosmonavtlar metro station showing a bri...</p></details>
+   Link:<a href="https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.uzdaily.uz/en/uzbekistans-academy-of-sciences-astronomy-institute-comments-on-video-of-mysterious-object-in-tashkent-sky/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uzbekistan&#x27;s Academy of Sciences&#x27; Astronomy Institute...20 Feb 2026 — A video captured near the Kosmonavtlar metro station showing a bri...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Navoiy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Navoiy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Navoiy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Navoiy</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: caliber.az  
    Title: unidentified object sparks bright flash tremor smoke in uzbekistan  
-   Link: <a href="https://caliber.az/en/post/unidentified-object-sparks-bright-flash-tremor-smoke-in-uzbekistan" target="_blank" rel="noopener noreferrer nofollow">https://caliber.az/en/post/unidentified-object-sparks-bright-flash-tremor-smoke-in-uzbekistan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified object sparks bright flash, tremor, smoke in...20 Feb 2026 — Residents of the Namangan region, Uzbekistan, reported the fal...</p></details>
+   Link:<a href="https://caliber.az/en/post/unidentified-object-sparks-bright-flash-tremor-smoke-in-uzbekistan" target="_blank" rel="noopener noreferrer nofollow">https://caliber.az/en/post/unidentified-object-sparks-bright-flash-tremor-smoke-in-uzbekistan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified object sparks bright flash, tremor, smoke in...20 Feb 2026 — Residents of the Namangan region, Uzbekistan, reported the fal...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DUxzm6fChLW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUxzm6fChLW/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Binokl orqali kuzatish #koinot #astronomiya #binoklNamangan shahridagi ushbu holat atmosferada sodir bo&#x27;ladigan optik hodisa bo&#x27;...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DUxzm6fChLW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUxzm6fChLW/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binokl orqali kuzatish #koinot #astronomiya #binoklNamangan shahridagi ushbu holat atmosferada sodir bo&#x27;ladigan optik hodisa bo&#x27;...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYueTmvoe4l/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYueTmvoe4l/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>gan is an optical phenomenon that occurs in the atmosphere...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYueTmvoe4l/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYueTmvoe4l/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gan is an optical phenomenon that occurs in the atmosphere...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: caspianpost.com  
    Title: Caspian Post Unidentified Object Falls in Uzbekistan, Shakes Ground  
-   Link: <a href="https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground" target="_blank" rel="noopener noreferrer nofollow">https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Caspian PostUnidentified Object Falls in Uzbekistan, Shakes GroundFebruary 20, 2026 — Residents of eastern Uzbekistan were left startled...</p></details>
+   Link:<a href="https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground" target="_blank" rel="noopener noreferrer nofollow">https://caspianpost.com/uzbekistan/unidentified-object-falls-in-uzbekistan-shakes-ground</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caspian PostUnidentified Object Falls in Uzbekistan, Shakes GroundFebruary 20, 2026 — Residents of eastern Uzbekistan were left startled...</p></details>
    Published: February 20, 2026  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/empire-in-asia-a-new-global-history-9781472596666-9781472596048-9781472596062-9781472596055-1472596668.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/empire-in-asia-a-new-global-history-9781472596666-9781472596048-9781472596062-9781472596055-1472596668.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Empire in Asia: A New Global History 9781472596666...In this context, 1931 was not a sharp break, and the attack on a railway position...</p></details>
+   Link:<a href="https://dokumen.pub/empire-in-asia-a-new-global-history-9781472596666-9781472596048-9781472596062-9781472596055-1472596668.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/empire-in-asia-a-new-global-history-9781472596666-9781472596048-9781472596062-9781472596055-1472596668.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Empire in Asia: A New Global History 9781472596666...In this context, 1931 was not a sharp break, and the attack on a railway position...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nsarchive.gwu.edu  
-   Link: <a href="https://nsarchive.gwu.edu/document/27531-document-13-cia-mission-6002-elint-and-comint-report-classification-unknown-june" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/document/27531-document-13-cia-mission-6002-elint-and-comint-report-classification-unknown-june</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gwu.eduCIA, Mission 6002 ELINT and COMINT Report, Classification...8 Mar 2022 — This is another of the small number of declassified post...</p></details>
+   Link:<a href="https://nsarchive.gwu.edu/document/27531-document-13-cia-mission-6002-elint-and-comint-report-classification-unknown-june" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/document/27531-document-13-cia-mission-6002-elint-and-comint-report-classification-unknown-june</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gwu.eduCIA, Mission 6002 ELINT and COMINT Report, Classification...8 Mar 2022 — This is another of the small number of declassified post...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aanda.org  
    Title: The afterglow light curve is modeled with both an analytical model using.Read m  
-   Link: <a href="https://www.aanda.org/articles/aa/pdf/2010/15/aa10340-08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/articles/aa/pdf/2010/15/aa10340-08.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photometry and spectroscopy of GRB 060526by CC Thöne · 2010 · Cited by 61 — Furthermore, we present low-resolution high signal-to-noise s...</p></details>
+   Link:<a href="https://www.aanda.org/articles/aa/pdf/2010/15/aa10340-08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/articles/aa/pdf/2010/15/aa10340-08.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photometry and spectroscopy of GRB 060526by CC Thöne · 2010 · Cited by 61 — Furthermore, we present low-resolution high signal-to-noise s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: zamin.uz  
    Title: 189865 an unknown object was observed in the skies of tashkent and namangan  
-   Link: <a href="https://zamin.uz/en/society/189865-an-unknown-object-was-observed-in-the-skies-of-tashkent-and-namangan.html" target="_blank" rel="noopener noreferrer nofollow">https://zamin.uz/en/society/189865-an-unknown-object-was-observed-in-the-skies-of-tashkent-and-namangan.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An unknown object was observed in the skies of Tashkent...20 Feb 2026 — On February 19, an unknown object was observed falling from the...</p></details>
+   Link:<a href="https://zamin.uz/en/society/189865-an-unknown-object-was-observed-in-the-skies-of-tashkent-and-namangan.html" target="_blank" rel="noopener noreferrer nofollow">https://zamin.uz/en/society/189865-an-unknown-object-was-observed-in-the-skies-of-tashkent-and-namangan.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An unknown object was observed in the skies of Tashkent...20 Feb 2026 — On February 19, an unknown object was observed falling from the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: downey-n1.cs.northwestern.edu  
    Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
-   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings sohnesliebe euskadiko pressly skeptical realmont storsponen kohima... ufo ufa splawie ufc northey kemnay stompe tesimond trety...</p></details>
+   Link:<a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sightings sohnesliebe euskadiko pressly skeptical realmont storsponen kohima... ufo ufa splawie ufc northey kemnay stompe tesimond trety...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unidir.org  
-   Link: <a href="https://unidir.org/files/publication/pdfs/the-small-arms-problem-in-central-asia-features-and-implications-117.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unidir.org/files/publication/pdfs/the-small-arms-problem-in-central-asia-features-and-implications-117.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Small Arms Problem in Central Asiaby B PIRSEYEDI · Cited by 49 — Heavy machine-guns, portable anti- aircraft and anti-tank guns and l...</p></details>
+   Link:<a href="https://unidir.org/files/publication/pdfs/the-small-arms-problem-in-central-asia-features-and-implications-117.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unidir.org/files/publication/pdfs/the-small-arms-problem-in-central-asia-features-and-implications-117.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Small Arms Problem in Central Asiaby B PIRSEYEDI · Cited by 49 — Heavy machine-guns, portable anti- aircraft and anti-tank guns and l...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufoac.com  
    Title: cia ufo report oo w 23602 weird sphere in uzbekistan  
-   Link: <a href="https://ufoac.com/cia-ufo-report-oo-w-23602-weird-sphere-in-uzbekistan.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/cia-ufo-report-oo-w-23602-weird-sphere-in-uzbekistan.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA UFO report OO-W-23602. The UFO in UzbekistanThis report is dedicated to UFOs that were recorded in Uzbekistan in the south-eastern di...</p></details>
+   Link:<a href="https://ufoac.com/cia-ufo-report-oo-w-23602-weird-sphere-in-uzbekistan.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/cia-ufo-report-oo-w-23602-weird-sphere-in-uzbekistan.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA UFO report OO-W-23602. The UFO in UzbekistanThis report is dedicated to UFOs that were recorded in Uzbekistan in the south-eastern di...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/u/uinta%2Bbasin%2Bwells" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/u/uinta%2Bbasin%2Bwells</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>than 150 km but less than 250 km away...Read more...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/u/uinta%2Bbasin%2Bwells" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/u/uinta%2Bbasin%2Bwells</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>than 150 km but less than 250 km away...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CVhqAGFZ6Is" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVhqAGFZ6Is</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Struck 23 Soviet Soldiers, Turned Them Into Stone? What Chilling CIA Files Revealed...| Watch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CVhqAGFZ6Is" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVhqAGFZ6Is</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Struck 23 Soviet Soldiers, Turned Them Into Stone? What Chilling CIA Files Revealed...| Watch...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: zamon.uz  
-   Link: <a href="https://zamon.uz/en/2026/02/20/an-unidentified-bright-object-was-observed-flying-in-the-skies-of-tashkent-and-namangan" target="_blank" rel="noopener noreferrer nofollow">https://zamon.uz/en/2026/02/20/an-unidentified-bright-object-was-observed-flying-in-the-skies-of-tashkent-and-namangan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video footage taken near the Kosmonavtlar metro station...Read more...</p></details>
+   Link:<a href="https://zamon.uz/en/2026/02/20/an-unidentified-bright-object-was-observed-flying-in-the-skies-of-tashkent-and-namangan" target="_blank" rel="noopener noreferrer nofollow">https://zamon.uz/en/2026/02/20/an-unidentified-bright-object-was-observed-flying-in-the-skies-of-tashkent-and-namangan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video footage taken near the Kosmonavtlar metro station...Read more...</p></details>

@@ -257,15 +257,15 @@ image: /assets/images/Venezuela_Bolivarian_3dc4c3_petare_close_encount_dabac8-Il
 The Petare encounter of November 1954 remains the most famous and most disputed UFO case in Venezuela. Unlike many aerial sighting reports from the same period, the story combined a claimed physical struggle, named witnesses, alleged injuries, police involvement, and descriptions of small humanoid beings associated with a glowing craft. It became a cornerstone of Venezuelan UFO folklore and is still regularly cited in books, documentaries, and online retellings. Yet the closer the case is examined, the more difficult it becomes to separate original testimony from decades of embellishment.
 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_petare_close_encount_dabac8-Illustration-1-dark.svg" | relative_url }}" alt="Petare Case illustration 1" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_petare_close_encount_dabac8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_petare_close_encount_dabac8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What survives is not a complete investigative file but a chain of newspaper reports, ufology summaries, later catalogues, and repeated retellings that often disagree on important details. That makes the Petare case valuable less as a confirmed encounter than as a case study in how a dramatic UFO story evolves over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span>
+What survives is not a complete investigative file but a chain of newspaper reports, ufology summaries, later catalogues, and repeated retellings that often disagree on important details. That makes the Petare case valuable less as a confirmed encounter than as a case study in how a dramatic UFO story evolves over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span>
 
 ## The Gonzales and Ponce account
 
-According to the version most commonly cited in UFO literature, the event occurred during the early hours of 29 November 1954 in or near Petare, then a growing suburb east of Caracas. Gustavo Gonzales, a young Cuban-born resident of Caracas, and his assistant José Ponce were travelling by truck to collect food products for market sales when they encountered a bright object blocking the road. Multiple sources place the time between roughly 2:00 and 2:30 a.m. and describe the object as a luminous sphere hovering above the ground rather than resting on visible landing gear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[2avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">to purchase foodstuffs</span><span class="citation-popover-snippet">Coral Lorenzen - Flying Saucers - The Startling Evidence...Gustavo Gonzales and his helper Jose Ponce had set out in a panel truck for P...</span></span></span>
+According to the version most commonly cited in UFO literature, the event occurred during the early hours of 29 November 1954 in or near Petare, then a growing suburb east of Caracas. Gustavo Gonzales, a young Cuban-born resident of Caracas, and his assistant José Ponce were travelling by truck to collect food products for market sales when they encountered a bright object blocking the road. Multiple sources place the time between roughly 2:00 and 2:30 a.m. and describe the object as a luminous sphere hovering above the ground rather than resting on visible landing gear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[2avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">to purchase foodstuffs</span><span class="citation-popover-snippet">Coral Lorenzen - Flying Saucers - The Startling Evidence...Gustavo Gonzales and his helper Jose Ponce had set out in a panel truck for P...</span></span></span>
 
-The most repeated version says the men stopped to investigate. They allegedly saw one or more small humanoid figures nearby. Gonzales reportedly approached one of them and attempted to grab it. Later accounts describe the being as around one metre tall, covered with coarse hair, possessing claw-like hands and glowing eyes. Gonzales claimed the creature felt surprisingly light when lifted but also extraordinarily strong. He said it broke free and threw him aside. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://intcat.blogspot.com/2018/09/intcat-1954.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intcat.blogspot.com">[2intcat.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intcat.blogspot.com</span><span class="citation-popover-title">intcat 1954</span><span class="citation-popover-snippet">November 28 1954. 0200 PETARE (MIRANDA: VENEZUELA). Two truck drivers, Gustavo Gonzales (25) and Jose Ponce, found the road blocked by a...</span></span></span>
+The most repeated version says the men stopped to investigate. They allegedly saw one or more small humanoid figures nearby. Gonzales reportedly approached one of them and attempted to grab it. Later accounts describe the being as around one metre tall, covered with coarse hair, possessing claw-like hands and glowing eyes. Gonzales claimed the creature felt surprisingly light when lifted but also extraordinarily strong. He said it broke free and threw him aside.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://intcat.blogspot.com/2018/09/intcat-1954.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intcat.blogspot.com">[2intcat.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intcat.blogspot.com</span><span class="citation-popover-title">intcat 1954</span><span class="citation-popover-snippet">November 28 1954. 0200 PETARE (MIRANDA: VENEZUELA). Two truck drivers, Gustavo Gonzales (25) and Jose Ponce, found the road blocked by a...</span></span></span>
 
-The narrative then becomes increasingly dramatic. In some retellings Gonzales drew a knife and tried to stab the creature, only for the blade to glance off its body as though striking metal. Other versions add that additional beings emerged from the darkness carrying stones or earth samples, while one allegedly used a tube-like device that emitted a bright beam of light toward Gonzales. The entities then returned to the hovering sphere and departed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[2avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">to purchase foodstuffs</span><span class="citation-popover-snippet">Coral Lorenzen - Flying Saucers - The Startling Evidence...Gustavo Gonzales and his helper Jose Ponce had set out in a panel truck for P...</span></span></span>
+The narrative then becomes increasingly dramatic. In some retellings Gonzales drew a knife and tried to stab the creature, only for the blade to glance off its body as though striking metal. Other versions add that additional beings emerged from the darkness carrying stones or earth samples, while one allegedly used a tube-like device that emitted a bright beam of light toward Gonzales. The entities then returned to the hovering sphere and departed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[2avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">to purchase foodstuffs</span><span class="citation-popover-snippet">Coral Lorenzen - Flying Saucers - The Startling Evidence...Gustavo Gonzales and his helper Jose Ponce had set out in a panel truck for P...</span></span></span>
 
 Several elements that later made the case famous were already present in early summaries:
 
@@ -275,7 +275,7 @@ Several elements that later made the case famous were already present in early s
 * A physical struggle between witness and entity.
 * A reported injury to Gonzales.
 * Named witnesses rather than anonymous observers.
-* An alleged report made immediately to authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span>
+* An alleged report made immediately to authorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span>
 
 </div>
 
@@ -285,13 +285,13 @@ These features distinguished Petare from many other Venezuelan UFO reports of th
 
 ## Police, press, and later retellings
 
-One reason the Petare story survived is that it appears to have entered official channels almost immediately. Later researchers repeatedly referred to a report registered with police authorities in Caracas. Some versions quote or paraphrase a police statement describing Gonzales as having suffered a nervous crisis after an encounter with an unknown being associated with a luminous object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span>
+One reason the Petare story survived is that it appears to have entered official channels almost immediately. Later researchers repeatedly referred to a report registered with police authorities in Caracas. Some versions quote or paraphrase a police statement describing Gonzales as having suffered a nervous crisis after an encounter with an unknown being associated with a luminous object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span>
 
-However, the original documentation is difficult to verify today. Most modern discussions rely not on a preserved police file but on secondary quotations published years or decades later. The surviving trail runs through newspaper reports, UFO books, catalogues of humanoid encounters, and compilations produced by researchers outside Venezuela. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[2avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">to purchase foodstuffs</span><span class="citation-popover-snippet">Coral Lorenzen - Flying Saucers - The Startling Evidence...Gustavo Gonzales and his helper Jose Ponce had set out in a panel truck for P...</span></span></span>
+However, the original documentation is difficult to verify today. Most modern discussions rely not on a preserved police file but on secondary quotations published years or decades later. The surviving trail runs through newspaper reports, UFO books, catalogues of humanoid encounters, and compilations produced by researchers outside Venezuela.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[2avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">to purchase foodstuffs</span><span class="citation-popover-snippet">Coral Lorenzen - Flying Saucers - The Startling Evidence...Gustavo Gonzales and his helper Jose Ponce had set out in a panel truck for P...</span></span></span>
 
-As the story spread internationally, details multiplied. Some accounts described the object as eight to ten feet in diameter; others suggested slightly different dimensions. The beings acquired increasingly vivid characteristics, including metallic skin beneath fur, glowing eyes, sharp teeth, and extraordinary strength. The number of entities present also varies across retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">to purchase foodstuffs</span><span class="citation-popover-snippet">Coral Lorenzen - Flying Saucers - The Startling Evidence...Gustavo Gonzales and his helper Jose Ponce had set out in a panel truck for P...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://intcat.blogspot.com/2018/09/intcat-1954.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intcat.blogspot.com">[2intcat.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intcat.blogspot.com</span><span class="citation-popover-title">intcat 1954</span><span class="citation-popover-snippet">November 28 1954. 0200 PETARE (MIRANDA: VENEZUELA). Two truck drivers, Gustavo Gonzales (25) and Jose Ponce, found the road blocked by a...</span></span></span>
+As the story spread internationally, details multiplied. Some accounts described the object as eight to ten feet in diameter; others suggested slightly different dimensions. The beings acquired increasingly vivid characteristics, including metallic skin beneath fur, glowing eyes, sharp teeth, and extraordinary strength. The number of entities present also varies across retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">to purchase foodstuffs</span><span class="citation-popover-snippet">Coral Lorenzen - Flying Saucers - The Startling Evidence...Gustavo Gonzales and his helper Jose Ponce had set out in a panel truck for P...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://intcat.blogspot.com/2018/09/intcat-1954.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intcat.blogspot.com">[2intcat.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intcat.blogspot.com</span><span class="citation-popover-title">intcat 1954</span><span class="citation-popover-snippet">November 28 1954. 0200 PETARE (MIRANDA: VENEZUELA). Two truck drivers, Gustavo Gonzales (25) and Jose Ponce, found the road blocked by a...</span></span></span>
 
-The Petare incident became linked to a broader cluster of Venezuelan humanoid reports from late 1954. Subsequent stories from other regions featured similarly described “hairy dwarfs” or small aggressive creatures associated with luminous craft. Within UFO culture, these reports were eventually grouped into a wider Venezuelan wave rather than treated as isolated incidents. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/earth-vs-the-hairy-dwarves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">earth vs the hairy dwarves</span><span class="citation-popover-snippet">1954: Earth Vs The Hairy DwarvesOn November 28, truck driver Gustavo Gonzalez and his assistant Jose Ponce were traveling to Petare when...</span></span></span>
+The Petare incident became linked to a broader cluster of Venezuelan humanoid reports from late 1954. Subsequent stories from other regions featured similarly described “hairy dwarfs” or small aggressive creatures associated with luminous craft. Within UFO culture, these reports were eventually grouped into a wider Venezuelan wave rather than treated as isolated incidents. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/earth-vs-the-hairy-dwarves/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">earth vs the hairy dwarves</span><span class="citation-popover-snippet">1954: Earth Vs The Hairy DwarvesOn November 28, truck driver Gustavo Gonzalez and his assistant Jose Ponce were traveling to Petare when...</span></span></span>
 
 That broader context helped preserve the Petare story, but it also complicated assessment. Later writers often treated separate incidents as mutual confirmation even when the underlying documentation was weak.
 
@@ -300,9 +300,9 @@ That broader context helped preserve the Petare story, but it also complicated a
 
 Many classic UFO cases involve distant lights that cannot be identified. Petare was different because it offered a narrative that readers could easily visualise. Two working men driving before dawn encounter a strange object, confront its occupants, and return with a story of physical contact. The encounter reads almost like a crime report rather than a conventional sighting.
 
-Another reason for its longevity is that the witnesses were not initially presented as occult enthusiasts or professional UFO researchers. Gonzales and Ponce were portrayed as ordinary workers engaged in routine business activity. Supporters of the case have long argued that this makes deliberate fabrication less likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span>
+Another reason for its longevity is that the witnesses were not initially presented as occult enthusiasts or professional UFO researchers. Gonzales and Ponce were portrayed as ordinary workers engaged in routine business activity. Supporters of the case have long argued that this makes deliberate fabrication less likely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span>
 
-The alleged injury also became central to the story's credibility. Some accounts state that police officers and medical personnel observed scratches or wounds on Gonzales after the encounter. For believers, this provided a physical component lacking in many UFO reports. Yet descriptions of the injuries differ substantially depending on the source consulted, and surviving medical documentation has not been widely produced for independent examination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span>
+The alleged injury also became central to the story's credibility. Some accounts state that police officers and medical personnel observed scratches or wounds on Gonzales after the encounter. For believers, this provided a physical component lacking in many UFO reports. Yet descriptions of the injuries differ substantially depending on the source consulted, and surviving medical documentation has not been widely produced for independent examination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span>
 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_petare_close_encount_dabac8-Illustration-3-dark.svg" | relative_url }}" alt="Petare Case illustration 3" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_petare_close_encount_dabac8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3_petare_close_encount_dabac8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case remains contested
@@ -311,13 +311,13 @@ The strongest argument against treating Petare as a proven close encounter is th
 
 Several problems recur.
 
-**The original records are difficult to inspect.** Much of the modern narrative depends on later reproductions and summaries rather than a complete contemporaneous investigative file. The distance between event and source makes verification difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span>
+**The original records are difficult to inspect.** Much of the modern narrative depends on later reproductions and summaries rather than a complete contemporaneous investigative file. The distance between event and source makes verification difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span>
 
-**Descriptions changed over time.** Different versions disagree on the object's dimensions, the number of entities, the nature of the injuries, and the sequence of events. Such variation is common in folklore but weakens confidence in precise details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intcat.blogspot.com/2018/09/intcat-1954.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intcat.blogspot.com">[intcat.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intcat.blogspot.com</span><span class="citation-popover-title">intcat 1954</span><span class="citation-popover-snippet">November 28 1954. 0200 PETARE (MIRANDA: VENEZUELA). Two truck drivers, Gustavo Gonzales (25) and Jose Ponce, found the road blocked by a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[2avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">to purchase foodstuffs</span><span class="citation-popover-snippet">Coral Lorenzen - Flying Saucers - The Startling Evidence...Gustavo Gonzales and his helper Jose Ponce had set out in a panel truck for P...</span></span></span>
+**Descriptions changed over time.** Different versions disagree on the object's dimensions, the number of entities, the nature of the injuries, and the sequence of events. Such variation is common in folklore but weakens confidence in precise details.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intcat.blogspot.com/2018/09/intcat-1954.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intcat.blogspot.com">[intcat.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intcat.blogspot.com</span><span class="citation-popover-title">intcat 1954</span><span class="citation-popover-snippet">November 28 1954. 0200 PETARE (MIRANDA: VENEZUELA). Two truck drivers, Gustavo Gonzales (25) and Jose Ponce, found the road blocked by a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[2avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-title">to purchase foodstuffs</span><span class="citation-popover-snippet">Coral Lorenzen - Flying Saucers - The Startling Evidence...Gustavo Gonzales and his helper Jose Ponce had set out in a panel truck for P...</span></span></span>
 
-**Alternative explanations were never conclusively eliminated.** Skeptical researchers have suggested possibilities ranging from misidentification of an animal to exaggeration, media distortion, or outright newspaper invention. The International Catalogue of UFO-related reports notes that some investigators suspected a newspaper hoax and argued that the creature descriptions could fit a more ordinary animal encounter transformed by storytelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://intcat.blogspot.com/2018/09/intcat-1954.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intcat.blogspot.com">[intcat.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intcat.blogspot.com</span><span class="citation-popover-title">intcat 1954</span><span class="citation-popover-snippet">November 28 1954. 0200 PETARE (MIRANDA: VENEZUELA). Two truck drivers, Gustavo Gonzales (25) and Jose Ponce, found the road blocked by a...</span></span></span>
+**Alternative explanations were never conclusively eliminated.** Skeptical researchers have suggested possibilities ranging from misidentification of an animal to exaggeration, media distortion, or outright newspaper invention. The International Catalogue of UFO-related reports notes that some investigators suspected a newspaper hoax and argued that the creature descriptions could fit a more ordinary animal encounter transformed by storytelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intcat.blogspot.com/2018/09/intcat-1954.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intcat.blogspot.com">[intcat.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intcat.blogspot.com</span><span class="citation-popover-title">intcat 1954</span><span class="citation-popover-snippet">November 28 1954. 0200 PETARE (MIRANDA: VENEZUELA). Two truck drivers, Gustavo Gonzales (25) and Jose Ponce, found the road blocked by a...</span></span></span>
 
-**The story fits a broader 1954 humanoid pattern.** During the international UFO wave of 1954, reports from several countries featured unusual small beings, hairy humanoids, and close encounters. Critics argue that Petare may reflect the cultural atmosphere of that period as much as an independent event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1954-Nov-Dec-SN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sohp.us">[sohp.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sohp.us</span><span class="citation-popover-title">GROSS 1954 Nov Dec SN</span><span class="citation-popover-snippet">UFOs: A History, 1954The UFO wave of 1954 was primarily an &quot;overseas&quot; phenomenon. Coverage of regions outside the U.S. was limited for Am...</span></span></span>
+**The story fits a broader 1954 humanoid pattern.** During the international UFO wave of 1954, reports from several countries featured unusual small beings, hairy humanoids, and close encounters. Critics argue that Petare may reflect the cultural atmosphere of that period as much as an independent event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1954-Nov-Dec-SN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sohp.us">[sohp.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sohp.us</span><span class="citation-popover-title">GROSS 1954 Nov Dec SN</span><span class="citation-popover-snippet">UFOs: A History, 1954The UFO wave of 1954 was primarily an &quot;overseas&quot; phenomenon. Coverage of regions outside the U.S. was limited for Am...</span></span></span>
 
 Perhaps most importantly, no physical evidence linked to the encounter has remained available for modern analysis. There are no authenticated photographs, recovered materials, radar records, or preserved forensic samples that can independently support the extraordinary aspects of the claim. The case therefore rests almost entirely on witness testimony and the reliability of subsequent reporting.
 
@@ -329,199 +329,199 @@ Even with its weaknesses, the Petare encounter occupies a unique place in Venezu
 
 For believers, it remains one of Latin America's most dramatic humanoid reports because it combines physical interaction, alleged injuries, and multiple witnesses. For skeptics, it demonstrates how a striking story can gain authority through repetition even when the underlying evidence remains fragmentary.
 
-More than seventy years later, the central question has not changed. The issue is not whether Gustavo Gonzales and José Ponce reported an extraordinary experience. Multiple sources indicate that they did. The unresolved question is whether their report reflected an external event, a misinterpreted encounter, a media-amplified story, or something that cannot now be reconstructed from the surviving record. That uncertainty is precisely why the Petare case continues to be discussed whenever Venezuela's UFO history is examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://intcat.blogspot.com/2018/09/intcat-1954.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intcat.blogspot.com">[2intcat.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intcat.blogspot.com</span><span class="citation-popover-title">intcat 1954</span><span class="citation-popover-snippet">November 28 1954. 0200 PETARE (MIRANDA: VENEZUELA). Two truck drivers, Gustavo Gonzales (25) and Jose Ponce, found the road blocked by a...</span></span></span>
+More than seventy years later, the central question has not changed. The issue is not whether Gustavo Gonzales and José Ponce reported an extraordinary experience. Multiple sources indicate that they did. The unresolved question is whether their report reflected an external event, a misinterpreted encounter, a media-amplified story, or something that cannot now be reconstructed from the surviving record. That uncertainty is precisely why the Petare case continues to be discussed whenever Venezuela's UFO history is examined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">URECA T</span><span class="citation-popover-snippet">URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</span><span class="citation-popover-meta">Published: November 29, 1954</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://intcat.blogspot.com/2018/09/intcat-1954.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intcat.blogspot.com">[2intcat.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intcat.blogspot.com</span><span class="citation-popover-title">intcat 1954</span><span class="citation-popover-snippet">November 28 1954. 0200 PETARE (MIRANDA: VENEZUELA). Two truck drivers, Gustavo Gonzales (25) and Jose Ponce, found the road blocked by a...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NjZ8UBeKPaE" title="UFOs Revisited: The Tall Whites of Nellis Air Force Base | Episode 4 | Extraterrestrials Among Us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NjZ8UBeKPaE" target="_blank" rel="noopener noreferrer">UFOs Revisited: The Tall Whites of Nellis Air Force Base | Episode 4 | Extraterrestrials Among Us</a></p><p class="youtube-embed-meta">Channel: Free4All &middot; Views: 1.7K &middot; Uploaded: October 2025 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NjZ8UBeKPaE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NjZ8UBeKPaE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Is the Petare Encounter?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Is the Petare Encounter?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to assessing close-encounter claims and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to assessing close-encounter claims and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for evaluating extraordinary encounter reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for evaluating extraordinary encounter reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers a more evidence-focused contrast to legendary encounter stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a more evidence-focused contrast to legendary encounter stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding how folklore and encounter stories evolve.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how folklore and encounter stories evolve.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-petare-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-petare-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ More than seventy years later, the central question has not changed. The issue i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ More than seventy years later, the central question has not changed. The issue i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ More than seventy years later, the central question has not changed. The issue i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ More than seventy years later, the central question has not changed. The issue i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ More than seventy years later, the central question has not changed. The issue i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,110 +724,109 @@ More than seventy years later, the central question has not changed. The issue i
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufologie.patrickgross.org  
    Title: URECA T  
-   Link: <a href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>URECAT - UFO Related Entities Catalog - Patrick Gross4 Nov 2006 — ufo - UFOS at close sight: URECAT-000061 - November 29, 1954, Petare, M...</p></details>
    Published: November 29, 1954  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: intcat.blogspot.com  
    Title: intcat 1954  
-   Link: <a href="https://intcat.blogspot.com/2018/09/intcat-1954.html" target="_blank" rel="noopener noreferrer nofollow">https://intcat.blogspot.com/2018/09/intcat-1954.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 28 1954. 0200 PETARE (MIRANDA: VENEZUELA). Two truck drivers, Gustavo Gonzales (25) and Jose Ponce, found the road blocked by a...</p></details>
+   Link:<a href="https://intcat.blogspot.com/2018/09/intcat-1954.html" target="_blank" rel="noopener noreferrer nofollow">https://intcat.blogspot.com/2018/09/intcat-1954.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 28 1954. 0200 PETARE (MIRANDA: VENEZUELA). Two truck drivers, Gustavo Gonzales (25) and Jose Ponce, found the road blocked by a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: avalonlibrary.net  
    Title: to purchase foodstuffs  
-   Link: <a href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coral Lorenzen - Flying Saucers - The Startling Evidence...Gustavo Gonzales and his helper Jose Ponce had set out in a panel truck for P...</p></details>
+   Link:<a href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coral Lorenzen - Flying Saucers - The Startling Evidence...Gustavo Gonzales and his helper Jose Ponce had set out in a panel truck for P...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Around 2am on that evening,  
-   Link: <a href="https://www.reddit.com/r/Experiencers/comments/1qyn91t/the_venezuelan_ufo_wave_of_1954_invasion_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Experiencers/comments/1qyn91t/the_venezuelan_ufo_wave_of_1954_invasion_of_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Venezuelan UFO Wave of 1954: Invasion of the Hairy...February 7, 2026 — But it was the encounter on the night of November 28...</p></details>
+   Link:<a href="https://www.reddit.com/r/Experiencers/comments/1qyn91t/the_venezuelan_ufo_wave_of_1954_invasion_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Experiencers/comments/1qyn91t/the_venezuelan_ufo_wave_of_1954_invasion_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Venezuelan UFO Wave of 1954: Invasion of the Hairy...February 7, 2026 — But it was the encounter on the night of November 28...</p></details>
    Published: February 7, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sohp.us  
    Title: GROSS 1954 Nov Dec SN  
-   Link: <a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1954-Nov-Dec-SN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1954-Nov-Dec-SN.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A History, 1954The UFO wave of 1954 was primarily an &quot;overseas&quot; phenomenon. Coverage of regions outside the U.S. was limited for Am...</p></details>
+   Link:<a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1954-Nov-Dec-SN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1954-Nov-Dec-SN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A History, 1954The UFO wave of 1954 was primarily an &quot;overseas&quot; phenomenon. Coverage of regions outside the U.S. was limited for Am...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1qyrtpc/the_venezuelan_ufo_wave_of_1954_invasion_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1qyrtpc/the_venezuelan_ufo_wave_of_1954_invasion_of_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Venezuelan UFO Wave of 1954: Invasion of the Hairy...On December 15, 1954, three men reported another hairy humanoid encounter in Sa...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1qyrtpc/the_venezuelan_ufo_wave_of_1954_invasion_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1qyrtpc/the_venezuelan_ufo_wave_of_1954_invasion_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Venezuelan UFO Wave of 1954: Invasion of the Hairy...On December 15, 1954, three men reported another hairy humanoid encounter in Sa...</p></details>
    Published: December 15, 1954  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thinkaboutitdocs.com  
    Title: earth vs the hairy dwarves  
-   Link: <a href="https://thinkaboutitdocs.com/earth-vs-the-hairy-dwarves/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/earth-vs-the-hairy-dwarves/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1954: Earth Vs The Hairy DwarvesOn November 28, truck driver Gustavo Gonzalez and his assistant Jose Ponce were traveling to Petare when...</p></details>
+   Link:<a href="https://thinkaboutitdocs.com/earth-vs-the-hairy-dwarves/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/earth-vs-the-hairy-dwarves/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1954: Earth Vs The Hairy DwarvesOn November 28, truck driver Gustavo Gonzalez and his assistant Jose Ponce were traveling to Petare when...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/43941612171/posts/10161522798787172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/43941612171/posts/10161522798787172/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident of Jose Ponce and Gustavo GonzalesIncident of Jose Ponce and Gustavo Gonzales - Truckers fight with UFOnauts in Venezuela (Novem...</p></details>
+   Link:<a href="https://www.facebook.com/groups/43941612171/posts/10161522798787172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/43941612171/posts/10161522798787172/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident of Jose Ponce and Gustavo GonzalesIncident of Jose Ponce and Gustavo Gonzales - Truckers fight with UFOnauts in Venezuela (Novem...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DUd9bsWk-dw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUd9bsWk-dw/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>#theETsareG01NGT0TXRTUREY0UifyouDONTCONFESS #...This case occurred at 2 AM on November 28, 1954 in Patare, Venezuela and yeah, this occu...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DUd9bsWk-dw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUd9bsWk-dw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#theETsareG01NGT0TXRTUREY0UifyouDONTCONFESS #...This case occurred at 2 AM on November 28, 1954 in Patare, Venezuela and yeah, this occu...</p></details>
    Published: November 28, 1954  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: 71 years ago today while encounters with otherworldly beings strange inhuman vis  
-   Link: <a href="https://www.facebook.com/creepyacres/posts/71-years-ago-today-while-encounters-with-otherworldly-beings-strange-inhuman-vis/1193788265472730/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/creepyacres/posts/71-years-ago-today-while-encounters-with-otherworldly-beings-strange-inhuman-vis/1193788265472730/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Creepy AcresHumanoid encounter at Caracas, Venezuela 1954 Location: Petare... But historically, there is no verified evidence that a rea...</p></details>
+   Link:<a href="https://www.facebook.com/creepyacres/posts/71-years-ago-today-while-encounters-with-otherworldly-beings-strange-inhuman-vis/1193788265472730/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/creepyacres/posts/71-years-ago-today-while-encounters-with-otherworldly-beings-strange-inhuman-vis/1193788265472730/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creepy AcresHumanoid encounter at Caracas, Venezuela 1954 Location: Petare... But historically, there is no verified evidence that a rea...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: on december 22nd 1954 gustavo gonzales and jose ponce claimed to have witnessed  
-   Link: <a href="https://www.facebook.com/instituteofmetaphysics/posts/on-december-22nd-1954-gustavo-gonzales-and-jose-ponce-claimed-to-have-witnessed-/1407714374418098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/instituteofmetaphysics/posts/on-december-22nd-1954-gustavo-gonzales-and-jose-ponce-claimed-to-have-witnessed-/1407714374418098/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On December 22nd, 1954, Gustavo Gonzales and Jose...On December 22nd, 1954, Gustavo Gonzales and Jose Ponce claimed to have witnessed ha...</p></details>
+   Link:<a href="https://www.facebook.com/instituteofmetaphysics/posts/on-december-22nd-1954-gustavo-gonzales-and-jose-ponce-claimed-to-have-witnessed-/1407714374418098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/instituteofmetaphysics/posts/on-december-22nd-1954-gustavo-gonzales-and-jose-ponce-claimed-to-have-witnessed-/1407714374418098/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On December 22nd, 1954, Gustavo Gonzales and Jose...On December 22nd, 1954, Gustavo Gonzales and Jose Ponce claimed to have witnessed ha...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 28, 1954 was on his way from Caracas to Petare with his assistant...Read more...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 28, 1954 was on his way from Caracas to Petare with his assistant...Read more...</p></details>
    Published: November 28, 1954  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTQ3FUXjRMJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTQ3FUXjRMJ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident of Jose Ponce and Gustavo GonzalesIn the early morning of November 29, 1954, between 2 am and 2:30 am, in Petare, suburb of Cara...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DTQ3FUXjRMJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTQ3FUXjRMJ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident of Jose Ponce and Gustavo GonzalesIn the early morning of November 29, 1954, between 2 am and 2:30 am, in Petare, suburb of Cara...</p></details>
    Published: November 29, 1954  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 28, 1954, Gustavo Gonzalez and Jose Ponce were driving through Petare in Venezuela when they came upon a glowing...</p></details>
+   Link:<a href="https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/watch-as-witnesses-share-their-chilling-ufo-encounters-that-left-lasting-physica/964858869020699/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 28, 1954, Gustavo Gonzalez and Jose Ponce were driving through Petare in Venezuela when they came upon a glowing...</p></details>
    Published: November 28, 1954  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: paranormal-world.fandom.com  
    Title: Caracas Incident: The Littlefoot in Venezuela  
-   Link: <a href="https://paranormal-world.fandom.com/wiki/Caracas_Incident%3A_The_Littlefoot_in_Venezuela" target="_blank" rel="noopener noreferrer nofollow">https://paranormal-world.fandom.com/wiki/Caracas_Incident%3A_The_Littlefoot_in_Venezuela</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident: The Littlefoot in VenezuelaSometimes hairy dwarfs are linked with reports of larger hairy humanoids that are either reported as...</p></details>
+   Link:<a href="https://paranormal-world.fandom.com/wiki/Caracas_Incident%3A_The_Littlefoot_in_Venezuela" target="_blank" rel="noopener noreferrer nofollow">https://paranormal-world.fandom.com/wiki/Caracas_Incident%3A_The_Littlefoot_in_Venezuela</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident: The Littlefoot in VenezuelaSometimes hairy dwarfs are linked with reports of larger hairy humanoids that are either reported as...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iheart.com  
    Title: from curiosity to chaos the perils 311305251  
-   Link: <a href="https://www.iheart.com/podcast/1333-the-unconventional-ufolog-307268996/episode/from-curiosity-to-chaos-the-perils-311305251/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1333-the-unconventional-ufolog-307268996/episode/from-curiosity-to-chaos-the-perils-311305251/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Perils of Alien Abduction Attempts in 1954 Venezuela6 Dec 2025 — In this episode, we revisit the wild 1954 wave in Venezuela, where a...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/1333-the-unconventional-ufolog-307268996/episode/from-curiosity-to-chaos-the-perils-311305251/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1333-the-unconventional-ufolog-307268996/episode/from-curiosity-to-chaos-the-perils-311305251/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Perils of Alien Abduction Attempts in 1954 Venezuela6 Dec 2025 — In this episode, we revisit the wild 1954 wave in Venezuela, where a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spreaker.com  
    Title: ufos paranormal with preston dennett 6865165  
-   Link: <a href="https://www.spreaker.com/podcast/ufos-paranormal-with-preston-dennett--6865165" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/podcast/ufos-paranormal-with-preston-dennett--6865165</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS &amp; PARANORMAL WITH PRESTON DENNETTAt 2am on Nov 28, 1954, Gustavo Gonzalez and Jose Ponce were driving through Petare, Venezuela when...</p></details>
+   Link:<a href="https://www.spreaker.com/podcast/ufos-paranormal-with-preston-dennett--6865165" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/podcast/ufos-paranormal-with-preston-dennett--6865165</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS &amp; PARANORMAL WITH PRESTON DENNETTAt 2am on Nov 28, 1954, Gustavo Gonzalez and Jose Ponce were driving through Petare, Venezuela when...</p></details>

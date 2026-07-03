@@ -254,14 +254,14 @@ image: /assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration
 
 ## Introduction
 
-The best-known Cabo Verde “UFO” photograph is not a radar case, a pilot encounter, or a military file. It is a holiday image reportedly examined only after the travellers returned home. That detail matters more than the object itself. The 2017 metallic-blue object claim became notable precisely because it follows one of the most common patterns in modern UFO reporting: an unusual shape appears in a photograph that nobody noticed at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives</span><span class="citation-popover-snippet">A British couple has released fantastic photos that baffled them much.Read more...</span></span></span>
+The best-known Cabo Verde “UFO” photograph is not a radar case, a pilot encounter, or a military file. It is a holiday image reportedly examined only after the travellers returned home. That detail matters more than the object itself. The 2017 metallic-blue object claim became notable precisely because it follows one of the most common patterns in modern UFO reporting: an unusual shape appears in a photograph that nobody noticed at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives</span><span class="citation-popover-snippet">A British couple has released fantastic photos that baffled them much.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-1-dark.svg" | relative_url }}" alt="Photo Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Cabo Verde is especially vulnerable to this kind of claim. The islands are heavily photographed by tourists, cruise passengers and drone hobbyists. Long coastlines, bright reflected sunlight, haze, sea spray and fast-moving birds create conditions where tiny visual anomalies can appear dramatic once enlarged on a screen. A photograph can look mysterious while still containing very little usable evidence. The key question is not whether the image looks strange, but whether investigators can reconstruct what actually happened when the picture was taken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tui.co.uk">[TUI.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tui.co.uk</span><span class="citation-popover-title">7 photos to get in cape verde</span><span class="citation-popover-snippet">7 photos you have to get in Cape Verde &#124; Discover29 Jun 2016 — Looking for breathtaking photos that capture the essence of Cape Verde? Lo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capeverde.co.uk/blog/photos-which-will-make-you-want-to-visit-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capeverde.co.uk">[Cape Verde Experience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capeverde.co.uk</span><span class="citation-popover-title">photos which will make you want to visit cape verde</span><span class="citation-popover-snippet">Cape Verde ExperiencePhotos which will make you want to visit Cape Verde30 Apr 2021 — Here&#x27;s a collection of our favourite images from th...</span></span></span>
+Cabo Verde is especially vulnerable to this kind of claim. The islands are heavily photographed by tourists, cruise passengers and drone hobbyists. Long coastlines, bright reflected sunlight, haze, sea spray and fast-moving birds create conditions where tiny visual anomalies can appear dramatic once enlarged on a screen. A photograph can look mysterious while still containing very little usable evidence. The key question is not whether the image looks strange, but whether investigators can reconstruct what actually happened when the picture was taken.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tui.co.uk">[TUI.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tui.co.uk</span><span class="citation-popover-title">7 photos to get in cape verde</span><span class="citation-popover-snippet">7 photos you have to get in Cape Verde &#124; Discover29 Jun 2016 — Looking for breathtaking photos that capture the essence of Cape Verde? Lo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capeverde.co.uk/blog/photos-which-will-make-you-want-to-visit-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capeverde.co.uk">[Cape Verde Experience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capeverde.co.uk</span><span class="citation-popover-title">photos which will make you want to visit cape verde</span><span class="citation-popover-snippet">Cape Verde ExperiencePhotos which will make you want to visit Cape Verde30 Apr 2021 — Here&#x27;s a collection of our favourite images from th...</span></span></span>
 
 ## The 2017 coast-photo claim
 
-The most widely repeated Cabo Verde holiday-photo story appeared in 2017 on UFO enthusiast sites. According to the circulating account, a British couple later noticed a metallic-blue object in photographs taken near the Cape Verde coast during a holiday. The object reportedly had not been seen with the naked eye at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives</span><span class="citation-popover-snippet">A British couple has released fantastic photos that baffled them much.Read more...</span></span></span>
+The most widely repeated Cabo Verde holiday-photo story appeared in 2017 on UFO enthusiast sites. According to the circulating account, a British couple later noticed a metallic-blue object in photographs taken near the Cape Verde coast during a holiday. The object reportedly had not been seen with the naked eye at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives</span><span class="citation-popover-snippet">A British couple has released fantastic photos that baffled them much.Read more...</span></span></span>
 
 That immediately places the case in a lower-evidence category than a real-time sighting. In stronger UFO reports, witnesses usually describe motion, duration, sound, direction, changing appearance, weather conditions and reactions from other observers. In after-the-fact photo discoveries, nearly all of that information is absent. The image becomes detached from direct observation.
 
@@ -278,9 +278,9 @@ The publicly available versions of the Cabo Verde claim also appear to suffer fr
 
 </div>
 
-Without those elements, almost any interpretation remains speculative. A small nearby object can mimic a distant structured craft. A reflection can resemble metallic surfaces. Compression artefacts can sharpen edges unnaturally after zooming and reposting online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">ally means “Unidentified Flying Object”. It does not...</span></span></span>
+Without those elements, almost any interpretation remains speculative. A small nearby object can mimic a distant structured craft. A reflection can resemble metallic surfaces. Compression artefacts can sharpen edges unnaturally after zooming and reposting online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">ally means “Unidentified Flying Object”. It does not...</span></span></span>
 
-The “metallic blue” description itself is also less informative than it first appears. Coastal photography around Cabo Verde often contains intense blue colour spill from sea reflection and sky saturation, especially in bright tropical conditions. Consumer phone cameras and travel compact cameras aggressively process colour and contrast, sometimes creating vivid edges around moving or reflective objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tui.co.uk">[TUI.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tui.co.uk</span><span class="citation-popover-title">7 photos to get in cape verde</span><span class="citation-popover-snippet">7 photos you have to get in Cape Verde &#124; Discover29 Jun 2016 — Looking for breathtaking photos that capture the essence of Cape Verde? Lo...</span></span></span>
+The “metallic blue” description itself is also less informative than it first appears. Coastal photography around Cabo Verde often contains intense blue colour spill from sea reflection and sky saturation, especially in bright tropical conditions. Consumer phone cameras and travel compact cameras aggressively process colour and contrast, sometimes creating vivid edges around moving or reflective objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tui.co.uk">[TUI.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tui.co.uk</span><span class="citation-popover-title">7 photos to get in cape verde</span><span class="citation-popover-snippet">7 photos you have to get in Cape Verde &#124; Discover29 Jun 2016 — Looking for breathtaking photos that capture the essence of Cape Verde? Lo...</span></span></span>
 
 ## Why after-the-fact images mislead so easily
 
@@ -310,13 +310,13 @@ Holiday photographs are commonly resized, filtered and reposted through social m
 
 People examining hundreds of holiday images often zoom into backgrounds searching for unusual details. Once an object is framed as a possible UFO, viewers tend to interpret ambiguity in the most dramatic direction.
 
-This last effect is especially important. Investigators sometimes call it retrospective anomaly discovery: the object becomes significant only after repeated viewing. The witness memory then changes around the photograph rather than around a live event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comparativemedia.columbia.edu">[Center for Comparative Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comparativemedia.columbia.edu</span><span class="citation-popover-snippet">Center for Comparative MediaUFO PhotographyIf such epistemological ambiguity outlasts the act of judgment itself, it is because UFO photo...</span></span></span>
+This last effect is especially important. Investigators sometimes call it retrospective anomaly discovery: the object becomes significant only after repeated viewing. The witness memory then changes around the photograph rather than around a live event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comparativemedia.columbia.edu">[Center for Comparative Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comparativemedia.columbia.edu</span><span class="citation-popover-snippet">Center for Comparative MediaUFO PhotographyIf such epistemological ambiguity outlasts the act of judgment itself, it is because UFO photo...</span></span></span>
 
 ## Why Cabo Verde produces this kind of case
 
 Cabo Verde’s tourism profile creates ideal conditions for accidental anomaly photography.
 
-The islands attract visitors specifically for beaches, coastlines, sunsets and open-air excursions. That means huge numbers of sky-facing images are taken every year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tui.co.uk">[TUI.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tui.co.uk</span><span class="citation-popover-title">7 photos to get in cape verde</span><span class="citation-popover-snippet">7 photos you have to get in Cape Verde &#124; Discover29 Jun 2016 — Looking for breathtaking photos that capture the essence of Cape Verde? Lo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capeverde.co.uk/blog/photos-which-will-make-you-want-to-visit-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capeverde.co.uk">[Cape Verde Experience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capeverde.co.uk</span><span class="citation-popover-title">photos which will make you want to visit cape verde</span><span class="citation-popover-snippet">Cape Verde ExperiencePhotos which will make you want to visit Cape Verde30 Apr 2021 — Here&#x27;s a collection of our favourite images from th...</span></span></span>
+The islands attract visitors specifically for beaches, coastlines, sunsets and open-air excursions. That means huge numbers of sky-facing images are taken every year.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tui.co.uk">[TUI.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tui.co.uk</span><span class="citation-popover-title">7 photos to get in cape verde</span><span class="citation-popover-snippet">7 photos you have to get in Cape Verde &#124; Discover29 Jun 2016 — Looking for breathtaking photos that capture the essence of Cape Verde? Lo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capeverde.co.uk/blog/photos-which-will-make-you-want-to-visit-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capeverde.co.uk">[Cape Verde Experience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capeverde.co.uk</span><span class="citation-popover-title">photos which will make you want to visit cape verde</span><span class="citation-popover-snippet">Cape Verde ExperiencePhotos which will make you want to visit Cape Verde30 Apr 2021 — Here&#x27;s a collection of our favourite images from th...</span></span></span>
 
 Several local conditions increase the chance of misleading aerial photographs:
 
@@ -332,7 +332,7 @@ Several local conditions increase the chance of misleading aerial photographs:
 
 </div>
 
-The islands of Sal and Boa Vista are especially relevant because tourism photography dominates much of the visible online imagery from those locations. A strange object against empty sea or sky naturally attracts attention because there are few nearby landmarks to stabilise perspective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shutterstock.com/search/boa-vista-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shutterstock.com">[Shutterstock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shutterstock.com</span><span class="citation-popover-title">boa vista cape verde</span><span class="citation-popover-snippet">Boa Vista Cape Verde royalty-free imagesFind 3512 Boa Vista Cape Verde stock images in HD and millions of other royalty-free...</span></span></span>
+The islands of Sal and Boa Vista are especially relevant because tourism photography dominates much of the visible online imagery from those locations. A strange object against empty sea or sky naturally attracts attention because there are few nearby landmarks to stabilise perspective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shutterstock.com/search/boa-vista-cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shutterstock.com">[Shutterstock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shutterstock.com</span><span class="citation-popover-title">boa vista cape verde</span><span class="citation-popover-snippet">Boa Vista Cape Verde royalty-free imagesFind 3512 Boa Vista Cape Verde stock images in HD and millions of other royalty-free...</span></span></span>
 
 This helps explain why Cabo Verde’s UFO record contains more image-based claims than documented investigative cases. The environment produces photographs first and narratives second.
 
@@ -378,7 +378,7 @@ If ten photographs were taken within a few seconds, investigators can check whet
 
 </div>
 
-Many famous UFO photographs weaken once neighbouring frames become available. A single dramatic image can turn out to be one odd moment within an otherwise ordinary sequence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">ally means “Unidentified Flying Object”. It does not...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — To him, the government&#x27;s appar...</span></span></span>
+Many famous UFO photographs weaken once neighbouring frames become available. A single dramatic image can turn out to be one odd moment within an otherwise ordinary sequence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">ally means “Unidentified Flying Object”. It does not...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tustinhistory.com">[Tustin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tustinhistory.com</span><span class="citation-popover-title">Reanalysis of the 1965 Heflin UFO Photos Society for Scientific</span><span class="citation-popover-snippet">Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — To him, the government&#x27;s appar...</span></span></span>
 
 <img src="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-3-dark.svg" | relative_url }}" alt="Photo Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cabo_Verde_2a5bf1_holiday_photo_claims_9e085f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Compression history can distort the object
@@ -409,197 +409,197 @@ The 2017 Cabo Verde claim remains interesting mainly as a textbook example of ho
 
 That shift changes the balance of evidence. Older UFO cases often depended on testimony and duration. Newer ones increasingly depend on isolated pixels detached from context. The result is a large number of visually intriguing but analytically fragile reports.
 
-For Cabo Verde specifically, this pattern probably says more about tourism, photography habits and online sharing culture than about a concentrated cluster of unexplained aerial phenomena. The islands produce enormous numbers of atmospheric coastal images, but very few cases survive rigorous verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives</span><span class="citation-popover-snippet">A British couple has released fantastic photos that baffled them much.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">ally means “Unidentified Flying Object”. It does not...</span></span></span>
+For Cabo Verde specifically, this pattern probably says more about tourism, photography habits and online sharing culture than about a concentrated cluster of unexplained aerial phenomena. The islands produce enormous numbers of atmospheric coastal images, but very few cases survive rigorous verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives</span><span class="citation-popover-snippet">A British couple has released fantastic photos that baffled them much.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bufora.org.uk">[BUFORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bufora.org.uk</span><span class="citation-popover-snippet">ally means “Unidentified Flying Object”. It does not...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a Holiday Photo Prove a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a Holiday Photo Prove a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines witness reports, evidence categories, and investigative methodology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines witness reports, evidence categories, and investigative methodology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evaluating evidence quality and separating stronger cases from weak photographic claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating evidence quality and separating stronger cases from weak photographic claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores how UFO claims are assessed and why evidence standards matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO claims are assessed and why evidence standards matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Caught on Film on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kynJDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs Caught on Film" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Caught on Film">UFOs Caught on Film</a>
-        </h4>
-        <p class="fr-book-author">By B J Booth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Caught on Film on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kynJDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs Caught on Film" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Caught on Film">UFOs Caught on Film</a>
+</h4>
+<p class="fr-book-author">By B J Booth</p>
         
-        <p class="fr-book-desc">Centres on UFO imagery and the interpretation of unusual photographs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres on UFO imagery and the interpretation of unusual photographs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Caught+on+Film+by+B+J+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-a-holiday-photo-prove-a-ufo-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-a-holiday-photo-prove-a-ufo-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ For Cabo Verde specifically, this pattern probably says more about tourism, phot
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ For Cabo Verde specifically, this pattern probably says more about tourism, phot
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ For Cabo Verde specifically, this pattern probably says more about tourism, phot
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ For Cabo Verde specifically, this pattern probably says more about tourism, phot
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -764,7 +764,7 @@ For Cabo Verde specifically, this pattern probably says more about tourism, phot
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,106 +802,105 @@ For Cabo Verde specifically, this pattern probably says more about tourism, phot
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: latest-ufo-sightings.net  
    Title: Latest UFO Sightings Cape Verde Archives  
-   Link: <a href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/tag/cape-verde</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A British couple has released fantastic photos that baffled them much.Read more...</p></details>
+   Link:<a href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/tag/cape-verde</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A British couple has released fantastic photos that baffled them much.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bufora.org.uk  
-   Link: <a href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ally means “Unidentified Flying Object”. It does not...</p></details>
+   Link:<a href="https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/sightings/analysis-of-ufo-photographs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ally means “Unidentified Flying Object”. It does not...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tui.co.uk  
    Title: 7 photos to get in cape verde  
-   Link: <a href="https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 photos you have to get in Cape Verde | Discover29 Jun 2016 — Looking for breathtaking photos that capture the essence of Cape Verde? Lo...</p></details>
+   Link:<a href="https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.tui.co.uk/discover/7-photos-to-get-in-cape-verde</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 photos you have to get in Cape Verde | Discover29 Jun 2016 — Looking for breathtaking photos that capture the essence of Cape Verde? Lo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: shutterstock.com  
    Title: boa vista cape verde  
-   Link: <a href="https://www.shutterstock.com/search/boa-vista-cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.shutterstock.com/search/boa-vista-cape-verde</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boa Vista Cape Verde royalty-free imagesFind 3512 Boa Vista Cape Verde stock images in HD and millions of other royalty-free...</p></details>
+   Link:<a href="https://www.shutterstock.com/search/boa-vista-cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.shutterstock.com/search/boa-vista-cape-verde</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boa Vista Cape Verde royalty-free imagesFind 3512 Boa Vista Cape Verde stock images in HD and millions of other royalty-free...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: capeverde.co.uk  
    Title: photos which will make you want to visit cape verde  
-   Link: <a href="https://www.capeverde.co.uk/blog/photos-which-will-make-you-want-to-visit-cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.capeverde.co.uk/blog/photos-which-will-make-you-want-to-visit-cape-verde</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cape Verde ExperiencePhotos which will make you want to visit Cape Verde30 Apr 2021 — Here&#x27;s a collection of our favourite images from th...</p></details>
+   Link:<a href="https://www.capeverde.co.uk/blog/photos-which-will-make-you-want-to-visit-cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.capeverde.co.uk/blog/photos-which-will-make-you-want-to-visit-cape-verde</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cape Verde ExperiencePhotos which will make you want to visit Cape Verde30 Apr 2021 — Here&#x27;s a collection of our favourite images from th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gettyimages.co.uk  
    Title: cape verde  
-   Link: <a href="https://www.gettyimages.co.uk/photos/cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/photos/cape-verde</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>18073 Cape Verde Stock Photos, High-Res Pictures, and...Browse 18,073 authentic cape verde stock photos, high-res images, and pictures...</p></details>
+   Link:<a href="https://www.gettyimages.co.uk/photos/cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/photos/cape-verde</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18073 Cape Verde Stock Photos, High-Res Pictures, and...Browse 18,073 authentic cape verde stock photos, high-res images, and pictures...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: comparativemedia.columbia.edu  
-   Link: <a href="https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Comparative MediaUFO PhotographyIf such epistemological ambiguity outlasts the act of judgment itself, it is because UFO photo...</p></details>
+   Link:<a href="https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Comparative MediaUFO PhotographyIf such epistemological ambiguity outlasts the act of judgment itself, it is because UFO photo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tustinhistory.com  
    Title: Reanalysis of the 1965 Heflin UFO Photos Society for Scientific  
-   Link: <a href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — To him, the government&#x27;s appar...</p></details>
+   Link:<a href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tustin Area Historical SocietyReanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — To him, the government&#x27;s appar...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalparksatnight.com  
-   Link: <a href="https://www.nationalparksatnight.com/blog/tag/Big%2BBend%2BNational%2BPark" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalparksatnight.com/blog/tag/Big%2BBend%2BNational%2BPark</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Big Bend National Park — Night Photography BlogMy favorite photo of the year is from our Lassen Volcanic National Park workshop, at the C...</p></details>
+   Link:<a href="https://www.nationalparksatnight.com/blog/tag/Big%2BBend%2BNational%2BPark" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalparksatnight.com/blog/tag/Big%2BBend%2BNational%2BPark</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Big Bend National Park — Night Photography BlogMy favorite photo of the year is from our Lassen Volcanic National Park workshop, at the C...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/easyJet/posts/nothing-beats-the-colours-of-a-cape-verde-camera-roll-ahonori0/1387318263423112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/easyJet/posts/nothing-beats-the-colours-of-a-cape-verde-camera-roll-ahonori0/1387318263423112/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nothing beats the colours of a Cape Verde camera rollA few shots from my holiday to Cape Verde, such a beautiful place and wonderful peop...</p></details>
+   Link:<a href="https://www.facebook.com/easyJet/posts/nothing-beats-the-colours-of-a-cape-verde-camera-roll-ahonori0/1387318263423112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/easyJet/posts/nothing-beats-the-colours-of-a-cape-verde-camera-roll-ahonori0/1387318263423112/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nothing beats the colours of a Cape Verde camera rollA few shots from my holiday to Cape Verde, such a beautiful place and wonderful peop...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacemansluck/posts/2146724955567547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacemansluck/posts/2146724955567547/</a>  
+   Link:<a href="https://www.facebook.com/groups/spacemansluck/posts/2146724955567547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacemansluck/posts/2146724955567547/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: Museum of Science, Boston NEW UFO LAW, ALIENS EXIST BUT REMAIN ON THE SIDELINES  
-   Link: <a href="https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Museum of Science, BostonNEW UFO LAW, ALIENS EXIST BUT REMAIN ON THE SIDELINES - YET IT&#x27;S ALL ABOUT MONEY Joe Biden has signed into law a...</p></details>
+   Link:<a href="https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Museum of Science, BostonNEW UFO LAW, ALIENS EXIST BUT REMAIN ON THE SIDELINES - YET IT&#x27;S ALL ABOUT MONEY Joe Biden has signed into law a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OkTukKgXfaw&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OkTukKgXfaw&amp;vl=en</a>  
+   Link:<a href="https://www.youtube.com/watch?v=OkTukKgXfaw&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OkTukKgXfaw&amp;vl=en</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: clickstay.com  
    Title: 9 photos that will inspire you to visit cape verde  
-   Link: <a href="https://www.clickstay.com/blog/9-photos-that-will-inspire-you-to-visit-cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.clickstay.com/blog/9-photos-that-will-inspire-you-to-visit-cape-verde</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Mar 2020 — With it&#x27;s unbelievably clear waters and breathtaking natural allures, Cape Verde should definitely be on your bucket list...</p></details>
+   Link:<a href="https://www.clickstay.com/blog/9-photos-that-will-inspire-you-to-visit-cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.clickstay.com/blog/9-photos-that-will-inspire-you-to-visit-cape-verde</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Mar 2020 — With it&#x27;s unbelievably clear waters and breathtaking natural allures, Cape Verde should definitely be on your bucket list...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/ujxdze/new_and_extremely_clear_high_res_scan_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ujxdze/new_and_extremely_clear_high_res_scan_of_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>historic 1971...New high resolution scan of one of the best UFO photos in history - 1971 Lake Cote UFO. Link to download full res versio...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/ujxdze/new_and_extremely_clear_high_res_scan_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ujxdze/new_and_extremely_clear_high_res_scan_of_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>historic 1971...New high resolution scan of one of the best UFO photos in history - 1971 Lake Cote UFO. Link to download full res versio...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: widgety-assets.s3.amazonaws.com  
    Title: PO Cruises September 2016 to October 2018  
-   Link: <a href="https://widgety-assets.s3.amazonaws.com/2017/02/07/04/18/40/269/PO_Cruises_September_2016_to_October_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://widgety-assets.s3.amazonaws.com/2017/02/07/04/18/40/269/PO_Cruises_September_2016_to_October_2018.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 2016 - October 20182 Sept 2016 — Of course, behind the scenes it&#x27;s all a little less spontaneous (some might say meticulously p...</p></details>
+   Link:<a href="https://widgety-assets.s3.amazonaws.com/2017/02/07/04/18/40/269/PO_Cruises_September_2016_to_October_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://widgety-assets.s3.amazonaws.com/2017/02/07/04/18/40/269/PO_Cruises_September_2016_to_October_2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 2016 - October 20182 Sept 2016 — Of course, behind the scenes it&#x27;s all a little less spontaneous (some might say meticulously p...</p></details>
    Published: September 2016  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newyorker.com  
    Title: the enticing mysteries of ufo photography  
-   Link: <a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Enticing Mysteries of U.F.O. Photography3 Aug 2023 — Chris Wiley on photos of U.F.O.s and the debate surrounding their...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Enticing Mysteries of U.F.O. Photography3 Aug 2023 — Chris Wiley on photos of U.F.O.s and the debate surrounding their...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CzJkSn5LE2D/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CzJkSn5LE2D/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apture UFOs near US military testing sites and...</p></details>
+   Link:<a href="https://www.instagram.com/p/CzJkSn5LE2D/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CzJkSn5LE2D/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apture UFOs near US military testing sites and...</p></details>

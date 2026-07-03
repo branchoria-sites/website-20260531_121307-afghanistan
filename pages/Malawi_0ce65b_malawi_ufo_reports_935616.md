@@ -255,7 +255,7 @@ Unidentified aerial phenomena — often called Unidentified Flying Objects (UFOs
 
 ### 2016 Ntcheu Helicopter Incident
 
-One early widely circulated report came from Ntcheu District in southern Malawi in mid‑2016. Residents observed an object on the ground at a local bus depot that many initially labelled a “UFO”. Upon investigation, law enforcement and media confirmed the object was a **helicopter forced to land due to navigational issues**, not an unexplained craft. The occupants were later identified, and the aircraft was guarded by police until resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://malawi24.com/2016/06/30/ufo-lands-malawi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malawi24.com">[Malawi24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malawi24.com</span><span class="citation-popover-title">‘UFO’ lands in Malawi</span><span class="citation-popover-snippet">Malawi24‘UFO’ lands in Malawi - Malawi24June 30, 2016...</span><span class="citation-popover-meta">Published: June 30, 2016</span></span></span>
+One early widely circulated report came from Ntcheu District in southern Malawi in mid‑2016. Residents observed an object on the ground at a local bus depot that many initially labelled a “UFO”. Upon investigation, law enforcement and media confirmed the object was a **helicopter forced to land due to navigational issues**, not an unexplained craft. The occupants were later identified, and the aircraft was guarded by police until resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://malawi24.com/2016/06/30/ufo-lands-malawi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malawi24.com">[Malawi24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malawi24.com</span><span class="citation-popover-title">‘UFO’ lands in Malawi</span><span class="citation-popover-snippet">Malawi24‘UFO’ lands in Malawi - Malawi24June 30, 2016...</span><span class="citation-popover-meta">Published: June 30, 2016</span></span></span>
 
 This outcome conforms with many casual “UFO” reports globally: ordinary aircraft, particularly under unusual lighting or unfamiliar circumstances, are mistaken for unidentified objects until clarified by authorities.
 
@@ -265,15 +265,15 @@ This outcome conforms with many casual “UFO” reports globally: ordinary airc
 
 ### April 2025 Karonga Metallic Object
 
-A sequence of reports from early April 2025 in Malimbalimba Village, Karonga District (northern Malawi) represents one of the most discussed recent cases. Locals reported a **mysterious metallic object falling from the sky with a loud impact**, prompting rapid response by police officers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://malawi24.com/2025/04/05/mysterious-object-falls-in-karonga-district/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malawi24.com">[Malawi24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malawi24.com</span><span class="citation-popover-title">Mysterious object falls in Karonga District</span><span class="citation-popover-snippet">Mysterious object falls in Karonga District - Malawi24April 5, 2025...</span><span class="citation-popover-meta">Published: April 5, 2025</span></span></span>
+A sequence of reports from early April 2025 in Malimbalimba Village, Karonga District (northern Malawi) represents one of the most discussed recent cases. Locals reported a **mysterious metallic object falling from the sky with a loud impact**, prompting rapid response by police officers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://malawi24.com/2025/04/05/mysterious-object-falls-in-karonga-district/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malawi24.com">[Malawi24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malawi24.com</span><span class="citation-popover-title">Mysterious object falls in Karonga District</span><span class="citation-popover-snippet">Mysterious object falls in Karonga District - Malawi24April 5, 2025...</span><span class="citation-popover-meta">Published: April 5, 2025</span></span></span>
 
-The **Karonga police** immediately cordoned off the area for public safety and notified regional security and defence personnel, highlighting how local authorities treat such events seriously when public safety could be at stake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.capitalradiomalawi.com/2025/04/05/mysterious-object-falls-from-the-sky-in-karonga/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capitalradiomalawi.com">[capitalradiomalawi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capitalradiomalawi.com</span><span class="citation-popover-title">Mysterious object falls from the sky in Karonga</span><span class="citation-popover-snippet">April 5, 2025...</span><span class="citation-popover-meta">Published: April 5, 2025</span></span></span>
+The **Karonga police** immediately cordoned off the area for public safety and notified regional security and defence personnel, highlighting how local authorities treat such events seriously when public safety could be at stake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.capitalradiomalawi.com/2025/04/05/mysterious-object-falls-from-the-sky-in-karonga/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capitalradiomalawi.com">[capitalradiomalawi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capitalradiomalawi.com</span><span class="citation-popover-title">Mysterious object falls from the sky in Karonga</span><span class="citation-popover-snippet">April 5, 2025...</span><span class="citation-popover-meta">Published: April 5, 2025</span></span></span>
 
-Police described the object as *partially burnt and metallic*, and subsequent assessments involved **police bomb‑squad experts and external technical support**. The initial investigation confirmed that the object was **not explosive, not a bomb, and not radioactive**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://malawi24.com/2025/04/06/police-rule-out-danger-on-karonga-mystery-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malawi24.com">[Malawi24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malawi24.com</span><span class="citation-popover-title">Police rule out danger on Karonga mystery object</span><span class="citation-popover-snippet">Police rule out danger on Karonga mystery object - Malawi24April 6, 2025...</span><span class="citation-popover-meta">Published: April 6, 2025</span></span></span>
+Police described the object as *partially burnt and metallic*, and subsequent assessments involved **police bomb‑squad experts and external technical support**. The initial investigation confirmed that the object was **not explosive, not a bomb, and not radioactive**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://malawi24.com/2025/04/06/police-rule-out-danger-on-karonga-mystery-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malawi24.com">[Malawi24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malawi24.com</span><span class="citation-popover-title">Police rule out danger on Karonga mystery object</span><span class="citation-popover-snippet">Police rule out danger on Karonga mystery object - Malawi24April 6, 2025...</span><span class="citation-popover-meta">Published: April 6, 2025</span></span></span>
 
-Later coverage indicated that **police explosive experts retrieved the object for further scrutiny**, with some officials speculating it could be *space debris*, such as satellite fragments, though that remained unconfirmed at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.maraviexpress.com/national-police-explosive-experts-retrieve-mysterious-object-that-fell-from-the-sky-on-friday-in-karonga/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maraviexpress.com">[Maravi Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maraviexpress.com</span><span class="citation-popover-snippet">Maravi ExpressNational police explosive experts retrieve mysterious object that fell from the sky on Friday in Karonga – Maravi Express –...</span></span></span>
+Later coverage indicated that **police explosive experts retrieved the object for further scrutiny**, with some officials speculating it could be *space debris*, such as satellite fragments, though that remained unconfirmed at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.maraviexpress.com/national-police-explosive-experts-retrieve-mysterious-object-that-fell-from-the-sky-on-friday-in-karonga/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maraviexpress.com">[Maravi Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maraviexpress.com</span><span class="citation-popover-snippet">Maravi ExpressNational police explosive experts retrieve mysterious object that fell from the sky on Friday in Karonga – Maravi Express –...</span></span></span>
 
-A complicating factor in this case was that **someone reportedly removed the object from the scene after it was initially documented**, altering its condition and prompting further inquiry by investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://malawi24.com/2025/04/05/unknown-metallic-object-taken-from-scene-tampered-with/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malawi24.com">[Malawi24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malawi24.com</span><span class="citation-popover-snippet">Unknown Metallic object taken from scene, tampered with - Malawi24April 5, 2025...</span><span class="citation-popover-meta">Published: April 5, 2025</span></span></span>
+A complicating factor in this case was that **someone reportedly removed the object from the scene after it was initially documented**, altering its condition and prompting further inquiry by investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://malawi24.com/2025/04/05/unknown-metallic-object-taken-from-scene-tampered-with/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malawi24.com">[Malawi24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malawi24.com</span><span class="citation-popover-snippet">Unknown Metallic object taken from scene, tampered with - Malawi24April 5, 2025...</span><span class="citation-popover-meta">Published: April 5, 2025</span></span></span>
 
 Despite prompt police engagement and preliminary testing, **no definitive origin or classification has been publicly confirmed** for the Karonga object. At the time of reporting, officials did not have evidence tying it to extraterrestrial craft or similar phenomena, and the investigation remained open or unresolved in public sources.
 
@@ -282,7 +282,7 @@ Despite prompt police engagement and preliminary testing, **no definitive origin
 
 ### Law Enforcement Involvement
 
-In both the 2016 helicopter misidentification and the 2025 Karonga case, the Malawi Police Service played a central investigative role. Police responsibilities include securing scenes, liaising with technical experts, and warning the public against tampering with unknown objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://malawi24.com/2021/12/03/chimwendo-defends-display-of-dead-helicopter-during-police-celebrations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malawi24.com">[Malawi24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malawi24.com</span><span class="citation-popover-snippet">December 3, 2021 — CHIMWENDO DEFENDS DISPLAY OF ‘DEAD HELICOPTER’ DURING MALAWI POLICE CELEBRATIONS Dec 03, 2021 Russell Kondowe Politics...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+In both the 2016 helicopter misidentification and the 2025 Karonga case, the Malawi Police Service played a central investigative role. Police responsibilities include securing scenes, liaising with technical experts, and warning the public against tampering with unknown objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://malawi24.com/2021/12/03/chimwendo-defends-display-of-dead-helicopter-during-police-celebrations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malawi24.com">[Malawi24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malawi24.com</span><span class="citation-popover-snippet">December 3, 2021 — CHIMWENDO DEFENDS DISPLAY OF ‘DEAD HELICOPTER’ DURING MALAWI POLICE CELEBRATIONS Dec 03, 2021 Russell Kondowe Politics...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
 The Karonga object’s handling — involving bomb experts, radioactivity tests, and coordination with other authorities — illustrates a systematic approach to **public safety and preliminary technical assessment**, even if the final characterization of the object remains unresolved.
 
@@ -290,7 +290,7 @@ The Karonga object’s handling — involving bomb experts, radioactivity tests,
 
 ### Limits of Public Reporting
 
-Beyond these documented cases, references to “UFO sightings” in online databases or enthusiast sites often lack independent verification or follow‑up reporting from reliable local or scientific sources. For example, listings on international UFO reporting websites may describe sightings or experiences without grounding them in documented investigations or official findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/malawi-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Malawi UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">March 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
+Beyond these documented cases, references to “UFO sightings” in online databases or enthusiast sites often lack independent verification or follow‑up reporting from reliable local or scientific sources. For example, listings on international UFO reporting websites may describe sightings or experiences without grounding them in documented investigations or official findings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/malawi-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Malawi UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">March 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
 
 This means that while public interest exists, **most reports remain anecdotal** and have not led to corroborated conclusions.
 
@@ -308,7 +308,7 @@ Across Malawi’s documented cases:
 
 </div>
 
-None of the documented Malawian cases has been scientifically or officially confirmed as evidence of extraterrestrial craft. At present, explanations range from **human‑made aircraft** to **natural phenomena or space debris**, with investigations oriented toward public safety rather than endorsing speculative interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://malawi24.com/2016/06/30/ufo-lands-malawi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malawi24.com">[Malawi24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malawi24.com</span><span class="citation-popover-title">‘UFO’ lands in Malawi</span><span class="citation-popover-snippet">Malawi24‘UFO’ lands in Malawi - Malawi24June 30, 2016...</span><span class="citation-popover-meta">Published: June 30, 2016</span></span></span>
+None of the documented Malawian cases has been scientifically or officially confirmed as evidence of extraterrestrial craft. At present, explanations range from **human‑made aircraft** to **natural phenomena or space debris**, with investigations oriented toward public safety rather than endorsing speculative interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://malawi24.com/2016/06/30/ufo-lands-malawi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malawi24.com">[Malawi24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malawi24.com</span><span class="citation-popover-title">‘UFO’ lands in Malawi</span><span class="citation-popover-snippet">Malawi24‘UFO’ lands in Malawi - Malawi24June 30, 2016...</span><span class="citation-popover-meta">Published: June 30, 2016</span></span></span>
 
 <img src="{{ "/assets/images/Malawi_0ce65b_malawi_ufo_reports_935616-Illustration-3-dark.svg" | relative_url }}" alt="UFO Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Malawi_0ce65b_malawi_ufo_reports_935616-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malawi_0ce65b_malawi_ufo_reports_935616-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What These Cases Reveal About UFO Reporting in Malawi
@@ -318,194 +318,194 @@ Malawi’s documented encounters with unidentified aerial objects show a pattern
 Future reports that include **verified data**, such as radar tracking, scientific analysis, or corroborated third‑party evidence, would be needed to shift the nature of investigative outcomes beyond the current pattern of misidentification and inconclusive results.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Investigated UFO Reports in Malawi. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Investigated UFO Reports in Malawi. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides context for investigated sightings and recurring explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for investigated sightings and recurring explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Examines famous reports, investigations, and evidential limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines famous reports, investigations, and evidential limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Discusses how reported UFO events are assessed and categorized.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses how reported UFO events are assessed and categorized.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
+</h4>
+<p class="fr-book-author">By Donald Keyhoe</p>
         
-        <p class="fr-book-desc">Historic treatment of sighting reports and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Historic treatment of sighting reports and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigated-ufo-reports-in-malawi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigated-ufo-reports-in-malawi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ Future reports that include **verified data**, such as radar tracking, scientifi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ Future reports that include **verified data**, such as radar tracking, scientifi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ Future reports that include **verified data**, such as radar tracking, scientifi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ Future reports that include **verified data**, such as radar tracking, scientifi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ Future reports that include **verified data**, such as radar tracking, scientifi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -708,133 +708,132 @@ Future reports that include **verified data**, such as radar tracking, scientifi
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: malawi24.com  
    Title: ‘UFO’ lands in Malawi  
-   Link: <a href="https://malawi24.com/2016/06/30/ufo-lands-malawi/" target="_blank" rel="noopener noreferrer nofollow">https://malawi24.com/2016/06/30/ufo-lands-malawi/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malawi24‘UFO’ lands in Malawi - Malawi24June 30, 2016...</p></details>
+   Link:<a href="https://malawi24.com/2016/06/30/ufo-lands-malawi/" target="_blank" rel="noopener noreferrer nofollow">https://malawi24.com/2016/06/30/ufo-lands-malawi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malawi24‘UFO’ lands in Malawi - Malawi24June 30, 2016...</p></details>
    Published: June 30, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: malawi24.com  
    Title: Mysterious object falls in Karonga District  
-   Link: <a href="https://malawi24.com/2025/04/05/mysterious-object-falls-in-karonga-district/" target="_blank" rel="noopener noreferrer nofollow">https://malawi24.com/2025/04/05/mysterious-object-falls-in-karonga-district/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious object falls in Karonga District - Malawi24April 5, 2025...</p></details>
+   Link:<a href="https://malawi24.com/2025/04/05/mysterious-object-falls-in-karonga-district/" target="_blank" rel="noopener noreferrer nofollow">https://malawi24.com/2025/04/05/mysterious-object-falls-in-karonga-district/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious object falls in Karonga District - Malawi24April 5, 2025...</p></details>
    Published: April 5, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: capitalradiomalawi.com  
    Title: Mysterious object falls from the sky in Karonga  
-   Link: <a href="https://www.capitalradiomalawi.com/2025/04/05/mysterious-object-falls-from-the-sky-in-karonga/" target="_blank" rel="noopener noreferrer nofollow">https://www.capitalradiomalawi.com/2025/04/05/mysterious-object-falls-from-the-sky-in-karonga/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 5, 2025...</p></details>
+   Link:<a href="https://www.capitalradiomalawi.com/2025/04/05/mysterious-object-falls-from-the-sky-in-karonga/" target="_blank" rel="noopener noreferrer nofollow">https://www.capitalradiomalawi.com/2025/04/05/mysterious-object-falls-from-the-sky-in-karonga/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 5, 2025...</p></details>
    Published: April 5, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: malawi24.com  
    Title: Police rule out danger on Karonga mystery object  
-   Link: <a href="https://malawi24.com/2025/04/06/police-rule-out-danger-on-karonga-mystery-object/" target="_blank" rel="noopener noreferrer nofollow">https://malawi24.com/2025/04/06/police-rule-out-danger-on-karonga-mystery-object/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Police rule out danger on Karonga mystery object - Malawi24April 6, 2025...</p></details>
+   Link:<a href="https://malawi24.com/2025/04/06/police-rule-out-danger-on-karonga-mystery-object/" target="_blank" rel="noopener noreferrer nofollow">https://malawi24.com/2025/04/06/police-rule-out-danger-on-karonga-mystery-object/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police rule out danger on Karonga mystery object - Malawi24April 6, 2025...</p></details>
    Published: April 6, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: malawi24.com  
-   Link: <a href="https://malawi24.com/2025/04/05/unknown-metallic-object-taken-from-scene-tampered-with/" target="_blank" rel="noopener noreferrer nofollow">https://malawi24.com/2025/04/05/unknown-metallic-object-taken-from-scene-tampered-with/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown Metallic object taken from scene, tampered with - Malawi24April 5, 2025...</p></details>
+   Link:<a href="https://malawi24.com/2025/04/05/unknown-metallic-object-taken-from-scene-tampered-with/" target="_blank" rel="noopener noreferrer nofollow">https://malawi24.com/2025/04/05/unknown-metallic-object-taken-from-scene-tampered-with/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown Metallic object taken from scene, tampered with - Malawi24April 5, 2025...</p></details>
    Published: April 5, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Malawi UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/malawi-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/malawi-ufo-sightings.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/malawi-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/malawi-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025...</p></details>
    Published: March 22, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: capitalradiomalawi.com  
    Title: Police say mysterious Metallic object taken from scene  
-   Link: <a href="https://www.capitalradiomalawi.com/2025/04/05/police-say-mysterious-metallic-object-taken-from-scene/" target="_blank" rel="noopener noreferrer nofollow">https://www.capitalradiomalawi.com/2025/04/05/police-say-mysterious-metallic-object-taken-from-scene/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 5, 2025 — POLICE SAY MYSTERIOUS METALLIC OBJECT TAKEN FROM SCENE Capital FM 5 April, 2025 Image: WhatsApp Image 2025-04-05 at 11.47...</p></details>
+   Link:<a href="https://www.capitalradiomalawi.com/2025/04/05/police-say-mysterious-metallic-object-taken-from-scene/" target="_blank" rel="noopener noreferrer nofollow">https://www.capitalradiomalawi.com/2025/04/05/police-say-mysterious-metallic-object-taken-from-scene/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 5, 2025 — POLICE SAY MYSTERIOUS METALLIC OBJECT TAKEN FROM SCENE Capital FM 5 April, 2025 Image: WhatsApp Image 2025-04-05 at 11.47...</p></details>
    Published: April 5, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: malawi24.com  
-   Link: <a href="https://malawi24.com/2021/12/03/chimwendo-defends-display-of-dead-helicopter-during-police-celebrations/" target="_blank" rel="noopener noreferrer nofollow">https://malawi24.com/2021/12/03/chimwendo-defends-display-of-dead-helicopter-during-police-celebrations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2021 — CHIMWENDO DEFENDS DISPLAY OF ‘DEAD HELICOPTER’ DURING MALAWI POLICE CELEBRATIONS Dec 03, 2021 Russell Kondowe Politics...</p></details>
+   Link:<a href="https://malawi24.com/2021/12/03/chimwendo-defends-display-of-dead-helicopter-during-police-celebrations/" target="_blank" rel="noopener noreferrer nofollow">https://malawi24.com/2021/12/03/chimwendo-defends-display-of-dead-helicopter-during-police-celebrations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2021 — CHIMWENDO DEFENDS DISPLAY OF ‘DEAD HELICOPTER’ DURING MALAWI POLICE CELEBRATIONS Dec 03, 2021 Russell Kondowe Politics...</p></details>
    Published: December 3, 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: maraviexpress.com  
-   Link: <a href="https://www.maraviexpress.com/national-police-explosive-experts-retrieve-mysterious-object-that-fell-from-the-sky-on-friday-in-karonga/" target="_blank" rel="noopener noreferrer nofollow">https://www.maraviexpress.com/national-police-explosive-experts-retrieve-mysterious-object-that-fell-from-the-sky-on-friday-in-karonga/</a>  
+   Link:<a href="https://www.maraviexpress.com/national-police-explosive-experts-retrieve-mysterious-object-that-fell-from-the-sky-on-friday-in-karonga/" target="_blank" rel="noopener noreferrer nofollow">https://www.maraviexpress.com/national-police-explosive-experts-retrieve-mysterious-object-that-fell-from-the-sky-on-friday-in-karonga/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: malawitourism.com  
    Title: It has an interesting but turbulent history as a centre fo  
-   Link: <a href="https://www.malawitourism.com/regions/north-malawi/karonga/" target="_blank" rel="noopener noreferrer nofollow">https://www.malawitourism.com/regions/north-malawi/karonga/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Karonga | North Malawi | Malawi TourismKARONGA Image * * * Set on the shores of Lake Malawi, Karonga is one of Malawi’s most northern tow...</p></details>
+   Link:<a href="https://www.malawitourism.com/regions/north-malawi/karonga/" target="_blank" rel="noopener noreferrer nofollow">https://www.malawitourism.com/regions/north-malawi/karonga/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Karonga | North Malawi | Malawi TourismKARONGA Image * * * Set on the shores of Lake Malawi, Karonga is one of Malawi’s most northern tow...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufoencounters.co.uk  
-   Link: <a href="https://www.ufoencounters.co.uk/the-brighton-police-helicopter-chases-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoencounters.co.uk/the-brighton-police-helicopter-chases-ufo.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters: The Brighton Police Helicopter Chases a UFOTHE BRIGHTON POLICE HELICOPTER CHASES A UFO Author: Paul Geraghty Ask a Questi...</p></details>
+   Link:<a href="https://www.ufoencounters.co.uk/the-brighton-police-helicopter-chases-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoencounters.co.uk/the-brighton-police-helicopter-chases-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters: The Brighton Police Helicopter Chases a UFOTHE BRIGHTON POLICE HELICOPTER CHASES A UFO Author: Paul Geraghty Ask a Questi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mg.co.za  
    Title: UF O alert: Police helicopter spots ‘unusual aircraft’ – The Mail & Guardian  
-   Link: <a href="https://mg.co.za/article/2008-06-21-ufo-alert-police-helicopter-spots-unusual-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2008-06-21-ufo-alert-police-helicopter-spots-unusual-aircraft/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO alert: Police helicopter spots ‘unusual aircraft’ – The Mail &amp; GuardianJune 21, 2008 — / 21 June 2008 UFO ALERT: POLICE HELICOPTER SP...</p></details>
+   Link:<a href="https://mg.co.za/article/2008-06-21-ufo-alert-police-helicopter-spots-unusual-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2008-06-21-ufo-alert-police-helicopter-spots-unusual-aircraft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO alert: Police helicopter spots ‘unusual aircraft’ – The Mail &amp; GuardianJune 21, 2008 — / 21 June 2008 UFO ALERT: POLICE HELICOPTER SP...</p></details>
    Published: June 21, 2008  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: maravipost.com  
    Title: Karonga Police warns residents about unidentified metallic object  
-   Link: <a href="https://www.maravipost.com/karonga-police-warns-residents-about-unidentified-metallic-object/" target="_blank" rel="noopener noreferrer nofollow">https://www.maravipost.com/karonga-police-warns-residents-about-unidentified-metallic-object/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Maravi PostApril 5, 2025 — KARONGA POLICE WARNS RESIDENTS ABOUT UNIDENTIFIED METALLIC OBJECT By Burnett Munthali - April 5, 2025 1 Ka...</p></details>
+   Link:<a href="https://www.maravipost.com/karonga-police-warns-residents-about-unidentified-metallic-object/" target="_blank" rel="noopener noreferrer nofollow">https://www.maravipost.com/karonga-police-warns-residents-about-unidentified-metallic-object/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Maravi PostApril 5, 2025 — KARONGA POLICE WARNS RESIDENTS ABOUT UNIDENTIFIED METALLIC OBJECT By Burnett Munthali - April 5, 2025 1 Ka...</p></details>
    Published: April 5, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: faceofmalawi.com  
    Title: Ndondocha Attack in Karonga – Face of Malawi  
-   Link: <a href="https://www.faceofmalawi.com/2020/12/09/ndondocha-attack-in-karonga/" target="_blank" rel="noopener noreferrer nofollow">https://www.faceofmalawi.com/2020/12/09/ndondocha-attack-in-karonga/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2020 — Image: Ndondocha Attack in Karonga NDONDOCHA ATTACK IN KARONGA Published on December 9, 2020 at 8:52 AM by Flora Mitum...</p></details>
+   Link:<a href="https://www.faceofmalawi.com/2020/12/09/ndondocha-attack-in-karonga/" target="_blank" rel="noopener noreferrer nofollow">https://www.faceofmalawi.com/2020/12/09/ndondocha-attack-in-karonga/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 9, 2020 — Image: Ndondocha Attack in Karonga NDONDOCHA ATTACK IN KARONGA Published on December 9, 2020 at 8:52 AM by Flora Mitum...</p></details>
    Published: December 9, 2020  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: police.gov.mw  
    Title: Some of the incidents may include: * Tr  
-   Link: <a href="https://www.police.gov.mw/index.php/services/police-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.police.gov.mw/index.php/services/police-reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Police Reports | Malawi Police ServicePOLICE REPORTS A police report is an official and confidential document that details all facts, cir...</p></details>
+   Link:<a href="https://www.police.gov.mw/index.php/services/police-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.police.gov.mw/index.php/services/police-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Police Reports | Malawi Police ServicePOLICE REPORTS A police report is an official and confidential document that details all facts, cir...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abc.net.au  
    Title: Welsh police confirm 'UFO' sighting  
-   Link: <a href="https://www.abc.net.au/news/2008-06-21/welsh-police-confirm-ufo-sighting/2479208" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2008-06-21/welsh-police-confirm-ufo-sighting/2479208</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsJune 21, 2008 — Welsh police confirm &#x27;UFO&#x27; sighting Share Share article WELSH POLICE CONFIRM &#x27;UFO&#x27; SIGHTING * Topic:Human Interes...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2008-06-21/welsh-police-confirm-ufo-sighting/2479208" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2008-06-21/welsh-police-confirm-ufo-sighting/2479208</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsJune 21, 2008 — Welsh police confirm &#x27;UFO&#x27; sighting Share Share article WELSH POLICE CONFIRM &#x27;UFO&#x27; SIGHTING * Topic:Human Interes...</p></details>
    Published: June 21, 2008  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: police.gov.mw  
-   Link: <a href="https://www.police.gov.mw/" target="_blank" rel="noopener noreferrer nofollow">https://www.police.gov.mw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ions professionalism, integrity and women empowerment during Regional tours Read more *...</p></details>
+   Link:<a href="https://www.police.gov.mw/" target="_blank" rel="noopener noreferrer nofollow">https://www.police.gov.mw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ions professionalism, integrity and women empowerment during Regional tours Read more *...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: “Something Non-Human Has Been Here A Long Time” | Dr. Garry Nolan | EP 563  
-   Link: <a href="https://www.youtube.com/watch?v=HxVVz2Jorzk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HxVVz2Jorzk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;What is That?!&quot; UFOs and National Security | The World Unpacked...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HxVVz2Jorzk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HxVVz2Jorzk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;What is That?!&quot; UFOs and National Security | The World Unpacked...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: New UFO videos: Deep analysis with Ross Coulthart | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=r_xevi3rSQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r_xevi3rSQI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Something Non-Human Has Been Here A Long Time” | Dr. Garry Nolan | EP 563...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r_xevi3rSQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r_xevi3rSQI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Something Non-Human Has Been Here A Long Time” | Dr. Garry Nolan | EP 563...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Zinzinsi za ma UFO ndi ma Alien zayamba kubwera poyera  
-   Link: <a href="https://www.youtube.com/watch?v=xQyM-deZPgI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xQyM-deZPgI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO videos: Deep analysis with Ross Coulthart | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xQyM-deZPgI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xQyM-deZPgI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO videos: Deep analysis with Ross Coulthart | Reality Check...</p></details>

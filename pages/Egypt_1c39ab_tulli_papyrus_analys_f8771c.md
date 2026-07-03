@@ -251,11 +251,11 @@ image: /assets/images/Egypt_1c39ab_tulli_papyrus_analys_f8771c-Illustration-1-so
 The so-called Tulli Papyrus is one of the most famous ancient “UFO” stories connected to Egypt. It is often presented as a 3,500-year-old eyewitness report describing fiery discs in the sky during the reign of Pharaoh Thutmose III. In UFO literature, the story is treated as possible evidence that ancient Egyptians witnessed extraterrestrial craft. In mainstream Egyptology and historical scholarship, however, the case is regarded as deeply unreliable and possibly fraudulent.
 
 <img src="{{ "/assets/images/Egypt_1c39ab_tulli_papyrus_analys_f8771c-Illustration-1-dark.svg" | relative_url }}" alt="Tulli Papyrus illustration 1" data-theme-src-dark="{{ "/assets/images/Egypt_1c39ab_tulli_papyrus_analys_f8771c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Egypt_1c39ab_tulli_papyrus_analys_f8771c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central problem is simple: no verified original papyrus has ever been produced for examination. The story survives only through modern retellings, disputed transcriptions and secondary translations. That missing chain of custody has made the Tulli Papyrus less important as evidence of an ancient aerial phenomenon than as a case study in how modern UFO mythology grows around fragmentary and poorly sourced material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catchpenny.org/tulli.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catchpenny.org">[2catchpenny.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catchpenny.org</span><span class="citation-popover-snippet">The Tulli PapyrusThe so-called Tulli Papyrus is oft cited as evidence of visitations to Egypt by &quot;ancient astronauts;&quot; indeed, any mentio...</span></span></span>
+The central problem is simple: no verified original papyrus has ever been produced for examination. The story survives only through modern retellings, disputed transcriptions and secondary translations. That missing chain of custody has made the Tulli Papyrus less important as evidence of an ancient aerial phenomenon than as a case study in how modern UFO mythology grows around fragmentary and poorly sourced material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catchpenny.org/tulli.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catchpenny.org">[2catchpenny.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catchpenny.org</span><span class="citation-popover-snippet">The Tulli PapyrusThe so-called Tulli Papyrus is oft cited as evidence of visitations to Egypt by &quot;ancient astronauts;&quot; indeed, any mentio...</span></span></span>
 
 ## How the Tulli Papyrus story entered UFO culture
 
-The story usually begins with Alberto Tulli, a former director associated with the Vatican Museums’ Egyptian section. According to later accounts, Tulli allegedly saw an ancient papyrus in a Cairo antiques shop during the 1930s. Because the document was supposedly too expensive to buy, he is said to have copied the text instead. The original papyrus then disappeared from view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/history/the-tulli-papyrus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">The Tulli Papyrus &#124; History</span><span class="citation-popover-snippet">The Tulli Papyrus &#124; History - Vocal MediaIt is believed to be an account of a massive UFO encounter that took place during the reign...</span></span></span> Wikipedia The account entered wider circulation through Fortean and UFO writers rather than through archaeological publication. A major early source wa <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tulli Papyrus</span><span class="citation-popover-snippet">November 21, 2025 —... Vatican Museums, suspected that &quot;Tulli was taken in and that the papyrus is a fake&quot;. Samuel Rosenberg, in his 196...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span> s Tiffany Thayer’s 1953 article in the Fortean Society magazine *Doubt*, which relied on material attributed to Boris de Rachewiltz, an Egyptologist and writer connected to esoteric and alternative-history circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://voynich.fandom.com/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voynich.fandom.com">[voynich.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voynich.fandom.com</span><span class="citation-popover-title">Tulli Papyrus &#124; Voynich manuscript Wiki</span><span class="citation-popover-snippet">According to Thayer, the transcription was sent to him by Boris de Rachewiltz who supposedly found the original transcription of th...</span></span></span>
+The story usually begins with Alberto Tulli, a former director associated with the Vatican Museums’ Egyptian section. According to later accounts, Tulli allegedly saw an ancient papyrus in a Cairo antiques shop during the 1930s. Because the document was supposedly too expensive to buy, he is said to have copied the text instead. The original papyrus then disappeared from view.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/history/the-tulli-papyrus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">The Tulli Papyrus &#124; History</span><span class="citation-popover-snippet">The Tulli Papyrus &#124; History - Vocal MediaIt is believed to be an account of a massive UFO encounter that took place during the reign...</span></span></span> Wikipedia The account entered wider circulation through Fortean and UFO writers rather than through archaeological publication. A major early source wa<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tulli Papyrus</span><span class="citation-popover-snippet">November 21, 2025 —... Vatican Museums, suspected that &quot;Tulli was taken in and that the papyrus is a fake&quot;. Samuel Rosenberg, in his 196...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span> s Tiffany Thayer’s 1953 article in the Fortean Society magazine *Doubt*, which relied on material attributed to Boris de Rachewiltz, an Egyptologist and writer connected to esoteric and alternative-history circles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://voynich.fandom.com/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voynich.fandom.com">[voynich.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voynich.fandom.com</span><span class="citation-popover-title">Tulli Papyrus &#124; Voynich manuscript Wiki</span><span class="citation-popover-snippet">According to Thayer, the transcription was sent to him by Boris de Rachewiltz who supposedly found the original transcription of th...</span></span></span>
 
 The translated narrative became famous because of its striking imagery. In most versions, Egyptian scribes report “circles of fire” or fiery discs appearing in the sky, growing in number and brightness, then moving southward before “fish and fowl” supposedly fell from the sky. UFO writers later framed this as an ancient flying-saucer encounter.
 
@@ -281,13 +281,13 @@ The strongest criticism of the Tulli Papyrus is not that the reported event soun
 
 The absence of the original artefact is the core issue. Without the papyrus itself, researchers cannot test the ink, fibres, dating, handwriting style or archaeological provenance. Those are basic requirements for authenticating ancient Egyptian documents.
 
-Attempts to trace the document produced little confidence. Investigators associated with the 1968 Condon Report — the US Air Force-sponsored study of UFOs led by physicist Edward Condon — contacted the Vatican regarding the papyrus. The response from Vatican official Gianfranco Nolli reportedly stated that the “Papyrus Tulli” was not Vatican property and was “dispersed and no more traceable”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anomalien.com/ufos-in-ancient-egypt-the-mystery-of-the-tulli-papyrus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalien.com">[Anomalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalien.com</span><span class="citation-popover-title">UF Os in ancient Egypt?</span><span class="citation-popover-snippet">The Mystery of the Tulli PapyrusFeb 20, 2021 — “Papyrus Tulli not propriety [sic] of Vatican Museum. Now it is dispersed and no more trac...</span></span></span> 3Wikipedia 3catchpenny.org(#endnote-2 "Snippet: The Tulli PapyrusThe <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/history/the-tulli-papyrus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[vocal.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">The Tulli Papyrus &#124; History</span><span class="citation-popover-snippet">The Tulli Papyrus &#124; History - Vocal MediaIt is believed to be an account of a massive UFO encounter that took place during the reign...</span></span></span> so-called Tulli Papyrus is oft cited as evidence of visitations to Egypt by 'ancient astronauts;' indeed, any mentio...")
+Attempts to trace the document produced little confidence. Investigators associated with the 1968 Condon Report — the US Air Force-sponsored study of UFOs led by physicist Edward Condon — contacted the Vatican regarding the papyrus. The response from Vatican official Gianfranco Nolli reportedly stated that the “Papyrus Tulli” was not Vatican property and was “dispersed and no more traceable”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://anomalien.com/ufos-in-ancient-egypt-the-mystery-of-the-tulli-papyrus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anomalien.com">[Anomalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anomalien.com</span><span class="citation-popover-title">UF Os in ancient Egypt?</span><span class="citation-popover-snippet">The Mystery of the Tulli PapyrusFeb 20, 2021 — “Papyrus Tulli not propriety [sic] of Vatican Museum. Now it is dispersed and no more trac...</span></span></span> 3Wikipedia 3catchpenny.org(#endnote-2 "Snippet: The Tulli PapyrusThe<span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/history/the-tulli-papyrus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[vocal.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">The Tulli Papyrus &#124; History</span><span class="citation-popover-snippet">The Tulli Papyrus &#124; History - Vocal MediaIt is believed to be an account of a massive UFO encounter that took place during the reign...</span></span></span> so-called Tulli Papyrus is oft cited as evidence of visitations to Egypt by 'ancient astronauts;' indeed, any mentio...")
 
 That reply did not authenticate the papyrus. If anything, it reinforced doubts about whether a verifiable document had ever existed in the form later described by UFO writers.
 
 ### The text may have been assembled or altered
 
-Critics have also argued that the surviving wording resembles modern literary construction more than authentic Egyptian administrative writing. Some researchers connected to the Condon Report suspected the text may have borrowed imagery from biblical and apocalyptic traditions, including passages from Ezekiel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tulli Papyrus</span><span class="citation-popover-snippet">November 21, 2025 —... Vatican Museums, suspected that &quot;Tulli was taken in and that the papyrus is a fake&quot;. Samuel Rosenberg, in his 196...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
+Critics have also argued that the surviving wording resembles modern literary construction more than authentic Egyptian administrative writing. Some researchers connected to the Condon Report suspected the text may have borrowed imagery from biblical and apocalyptic traditions, including passages from Ezekiel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tulli Papyrus</span><span class="citation-popover-snippet">November 21, 2025 —... Vatican Museums, suspected that &quot;Tulli was taken in and that the papyrus is a fake&quot;. Samuel Rosenberg, in his 196...</span><span class="citation-popover-meta">Published: November 21, 2025</span></span></span>
 
 Another issue is linguistic inconsistency. Egyptologists who examined the available transcriptions noted awkward phrasing and uncertainties about how the hieroglyphic text was reconstructed. Since the surviving versions are already modern copies of alleged copies, it is difficult to determine where translation ends and creative rewriting begins.
 
@@ -386,13 +386,13 @@ The Tulli Papyrus rarely appears alone. It is usually grouped with other Egyptia
 
 ### The Abydos “helicopter” and pareidolia
 
-At the Temple of Seti I in Abydos, overlapping inscriptions create shapes that modern viewers sometimes interpret as helicopters, submarines or aircraft. The effect became widely circulated in ancient-astronaut media and internet UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://egypt-museum.com/helicopter-hieroglyphs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: egypt-museum.com">[Egypt Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">egypt-museum.com</span><span class="citation-popover-snippet">Helicopter Hieroglyphs... Abydos are not depictions of futuristic machines, but the result of a palimpsest. This explanation may upset th...</span></span></span>
+At the Temple of Seti I in Abydos, overlapping inscriptions create shapes that modern viewers sometimes interpret as helicopters, submarines or aircraft. The effect became widely circulated in ancient-astronaut media and internet UFO culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://egypt-museum.com/helicopter-hieroglyphs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: egypt-museum.com">[Egypt Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">egypt-museum.com</span><span class="citation-popover-snippet">Helicopter Hieroglyphs... Abydos are not depictions of futuristic machines, but the result of a palimpsest. This explanation may upset th...</span></span></span>
 
-Egyptologists explain the effect as a palimpsest: one royal inscription carved over another. Over centuries, plaster and stone erosion exposed parts of both texts simultaneously, producing accidental composite shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://madainproject.com/helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madainproject.com">[Madain Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madainproject.com</span><span class="citation-popover-snippet">Helicopter HieroglyphsThe so-called helicopter-hieroglyph, a palimpsest relief, is a result two overlapping inscriptions, the titles of R...</span></span></span>
+Egyptologists explain the effect as a palimpsest: one royal inscription carved over another. Over centuries, plaster and stone erosion exposed parts of both texts simultaneously, producing accidental composite shapes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://madainproject.com/helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: madainproject.com">[Madain Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">madainproject.com</span><span class="citation-popover-snippet">Helicopter HieroglyphsThe so-called helicopter-hieroglyph, a palimpsest relief, is a result two overlapping inscriptions, the titles of R...</span></span></span>
 
-This explanation is strongly supported by the known history of Egyptian temple reuse and recarving practices. The “helicopter” shape emerges only when fragments of two inscriptions visually overlap. It is an example of pareidolia — the human tendency to see meaningful modern forms in ambiguous patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://egypt-museum.com/helicopter-hieroglyphs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: egypt-museum.com">[Egypt Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">egypt-museum.com</span><span class="citation-popover-snippet">Helicopter Hieroglyphs... Abydos are not depictions of futuristic machines, but the result of a palimpsest. This explanation may upset th...</span></span></span>
+This explanation is strongly supported by the known history of Egyptian temple reuse and recarving practices. The “helicopter” shape emerges only when fragments of two inscriptions visually overlap. It is an example of pareidolia — the human tendency to see meaningful modern forms in ambiguous patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://egypt-museum.com/helicopter-hieroglyphs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: egypt-museum.com">[Egypt Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">egypt-museum.com</span><span class="citation-popover-snippet">Helicopter Hieroglyphs... Abydos are not depictions of futuristic machines, but the result of a palimpsest. This explanation may upset th...</span></span></span>
 
-The comparison matters because the Tulli Papyrus operates in a similar cultural space: <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/history/the-tulli-papyrus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[vocal.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">The Tulli Papyrus &#124; History</span><span class="citation-popover-snippet">The Tulli Papyrus &#124; History - Vocal MediaIt is believed to be an account of a massive UFO encounter that took place during the reign...</span></span></span>
+The comparison matters because the Tulli Papyrus operates in a similar cultural space:<span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/history/the-tulli-papyrus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[vocal.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">The Tulli Papyrus &#124; History</span><span class="citation-popover-snippet">The Tulli Papyrus &#124; History - Vocal MediaIt is believed to be an account of a massive UFO encounter that took place during the reign...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -424,7 +424,7 @@ Ironically, the absence of the original papyrus increased its mystique. Lost doc
 
 ### Repetition created perceived legitimacy
 
-The Tulli Papyrus became widely cited through repeated appearance in books, documentaries and online articles. Over time, repetition created the impression of authenticity. Yet many later sources simply quoted earlier UFO literature rather than returning to primary evidence. The Condon Report specifically criticised this pattern of secondary-source recycling in ancient UFO claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Helicopter hieroglyphs</span><span class="citation-popover-snippet">Helicopter hieroglyphs</span></span></span>
+The Tulli Papyrus became widely cited through repeated appearance in books, documentaries and online articles. Over time, repetition created the impression of authenticity. Yet many later sources simply quoted earlier UFO literature rather than returning to primary evidence. The Condon Report specifically criticised this pattern of secondary-source recycling in ancient UFO claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Helicopter hieroglyphs</span><span class="citation-popover-snippet">Helicopter hieroglyphs</span></span></span>
 
 ## What the Tulli Papyrus actually demonstrates
 
@@ -442,194 +442,194 @@ But the evidence quality is too poor for stronger claims.
 What makes the case historically important is not its value as proof of UFOs, but its role in showing how ancient mysteries become modern mythology. The Tulli Papyrus sits at the intersection of archaeology, popular culture, esoteric speculation and media repetition. Within the broader Egyptian UFO narrative, it remains one of the clearest examples of how weak documentation can evolve into a globally recognised paranormal legend.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the Tulli Papyrus a Real UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the Tulli Papyrus a Real UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Directly relates to ancient and premodern sky-event claims like the Tulli Papyrus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to ancient and premodern sky-event claims like the Tulli Papyrus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Terrible Mistake on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9092162-M.jpg" alt="Cover for A Terrible Mistake" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Terrible Mistake">A Terrible Mistake</a>
-        </h4>
-        <p class="fr-book-author">By Jason Colavito</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Terrible Mistake on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9092162-M.jpg" alt="Cover for A Terrible Mistake" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Terrible Mistake">A Terrible Mistake</a>
+</h4>
+<p class="fr-book-author">By Jason Colavito</p>
         
-        <p class="fr-book-desc">Critically examines questionable ancient-alien evidence and source chains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Critically examines questionable ancient-alien evidence and source chains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Terrible+Mistake+Jason+Colavito&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Helped create the cultural environment in which the Tulli Papyrus became famous.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helped create the cultural environment in which the Tulli Papyrus became famous.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Clancy 2 boxed set on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clancy 2 boxed set">Clancy 2 boxed set</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Clancy 2 boxed set on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clancy 2 boxed set">Clancy 2 boxed set</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Links Egyptian history with extraterrestrial interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links Egyptian history with extraterrestrial interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Clancy+2+boxed+set&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Terrible+Mistake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Terrible Mistake</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chariots of the gods?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Terrible+Mistake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Terrible Mistake</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chariots of the gods?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-tulli-papyrus-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-tulli-papyrus-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -645,7 +645,7 @@ What makes the case historically important is not its value as proof of UFOs, bu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -665,7 +665,7 @@ What makes the case historically important is not its value as proof of UFOs, bu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -697,7 +697,7 @@ What makes the case historically important is not its value as proof of UFOs, bu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -749,7 +749,7 @@ What makes the case historically important is not its value as proof of UFOs, bu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -794,7 +794,7 @@ What makes the case historically important is not its value as proof of UFOs, bu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -832,153 +832,152 @@ What makes the case historically important is not its value as proof of UFOs, bu
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Tulli Papyrus  
-   Link: <a href="https://en.wikipedia.org/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tulli_Papyrus</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 21, 2025 —... Vatican Museums, suspected that &quot;Tulli was taken in and that the papyrus is a fake&quot;. Samuel Rosenberg, in his 196...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tulli_Papyrus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 21, 2025 —... Vatican Museums, suspected that &quot;Tulli was taken in and that the papyrus is a fake&quot;. Samuel Rosenberg, in his 196...</p></details>
    Published: November 21, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: catchpenny.org  
-   Link: <a href="https://www.catchpenny.org/tulli.html" target="_blank" rel="noopener noreferrer nofollow">https://www.catchpenny.org/tulli.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tulli PapyrusThe so-called Tulli Papyrus is oft cited as evidence of visitations to Egypt by &quot;ancient astronauts;&quot; indeed, any mentio...</p></details>
+   Link:<a href="https://www.catchpenny.org/tulli.html" target="_blank" rel="noopener noreferrer nofollow">https://www.catchpenny.org/tulli.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tulli PapyrusThe so-called Tulli Papyrus is oft cited as evidence of visitations to Egypt by &quot;ancient astronauts;&quot; indeed, any mentio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: vocal.media  
    Title: The Tulli Papyrus | History  
-   Link: <a href="https://vocal.media/history/the-tulli-papyrus" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/history/the-tulli-papyrus</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tulli Papyrus | History - Vocal MediaIt is believed to be an account of a massive UFO encounter that took place during the reign...</p></details>
+   Link:<a href="https://vocal.media/history/the-tulli-papyrus" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/history/the-tulli-papyrus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tulli Papyrus | History - Vocal MediaIt is believed to be an account of a massive UFO encounter that took place during the reign...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: voynich.fandom.com  
    Title: Tulli Papyrus | Voynich manuscript Wiki  
-   Link: <a href="https://voynich.fandom.com/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow">https://voynich.fandom.com/wiki/Tulli_Papyrus</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to Thayer, the transcription was sent to him by Boris de Rachewiltz who supposedly found the original transcription of th...</p></details>
+   Link:<a href="https://voynich.fandom.com/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow">https://voynich.fandom.com/wiki/Tulli_Papyrus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to Thayer, the transcription was sent to him by Boris de Rachewiltz who supposedly found the original transcription of th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: anomalien.com  
    Title: UF Os in ancient Egypt?  
-   Link: <a href="https://anomalien.com/ufos-in-ancient-egypt-the-mystery-of-the-tulli-papyrus/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/ufos-in-ancient-egypt-the-mystery-of-the-tulli-papyrus/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Tulli PapyrusFeb 20, 2021 — “Papyrus Tulli not propriety [sic] of Vatican Museum. Now it is dispersed and no more trac...</p></details>
+   Link:<a href="https://anomalien.com/ufos-in-ancient-egypt-the-mystery-of-the-tulli-papyrus/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/ufos-in-ancient-egypt-the-mystery-of-the-tulli-papyrus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Tulli PapyrusFeb 20, 2021 — “Papyrus Tulli not propriety [sic] of Vatican Museum. Now it is dispersed and no more trac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Helicopter hieroglyphs  
-   Link: <a href="https://en.wikipedia.org/wiki/Helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Helicopter_hieroglyphs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Helicopter_hieroglyphs</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: egypt-museum.com  
-   Link: <a href="https://egypt-museum.com/helicopter-hieroglyphs/" target="_blank" rel="noopener noreferrer nofollow">https://egypt-museum.com/helicopter-hieroglyphs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Hieroglyphs... Abydos are not depictions of futuristic machines, but the result of a palimpsest. This explanation may upset th...</p></details>
+   Link:<a href="https://egypt-museum.com/helicopter-hieroglyphs/" target="_blank" rel="noopener noreferrer nofollow">https://egypt-museum.com/helicopter-hieroglyphs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter Hieroglyphs... Abydos are not depictions of futuristic machines, but the result of a palimpsest. This explanation may upset th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Abydos, Egypt  
-   Link: <a href="https://en.wikipedia.org/wiki/Abydos%2C_Egypt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Abydos%2C_Egypt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos, EgyptOne of the oldest cities of ancient Egypt, and also of the eighth nome in Upper Egypt. It is located about 11 kilometres...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Abydos%2C_Egypt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Abydos%2C_Egypt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos, EgyptOne of the oldest cities of ancient Egypt, and also of the eighth nome in Upper Egypt. It is located about 11 kilometres...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: abydos.org  
-   Link: <a href="https://abydos.org/" target="_blank" rel="noopener noreferrer nofollow">https://abydos.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos ArchaeologyThe mission of Abydos Archaeology is to advance knowledge about ancient Egypt&#x27;s most sacred site—home of Egypt&#x27;s first...</p></details>
+   Link:<a href="https://abydos.org/" target="_blank" rel="noopener noreferrer nofollow">https://abydos.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos ArchaeologyThe mission of Abydos Archaeology is to advance knowledge about ancient Egypt&#x27;s most sacred site—home of Egypt&#x27;s first...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: justapedia.org  
-   Link: <a href="https://justapedia.org/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow">https://justapedia.org/wiki/Tulli_Papyrus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tulli PapyrusAccording to Thayer, the transcription was sent to him by Boris de Rachewiltz who supposedly found the original transcriptio...</p></details>
+   Link:<a href="https://justapedia.org/wiki/Tulli_Papyrus" target="_blank" rel="noopener noreferrer nofollow">https://justapedia.org/wiki/Tulli_Papyrus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tulli PapyrusAccording to Thayer, the transcription was sent to him by Boris de Rachewiltz who supposedly found the original transcriptio...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: madainproject.com  
-   Link: <a href="https://madainproject.com/helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow">https://madainproject.com/helicopter_hieroglyphs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter HieroglyphsThe so-called helicopter-hieroglyph, a palimpsest relief, is a result two overlapping inscriptions, the titles of R...</p></details>
+   Link:<a href="https://madainproject.com/helicopter_hieroglyphs" target="_blank" rel="noopener noreferrer nofollow">https://madainproject.com/helicopter_hieroglyphs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helicopter HieroglyphsThe so-called helicopter-hieroglyph, a palimpsest relief, is a result two overlapping inscriptions, the titles of R...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: xaluannews.com  
    Title: A copy of the Tulli Papyrus using hieroglyphics  
-   Link: <a href="https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3263188" target="_blank" rel="noopener noreferrer nofollow">https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3263188</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tulli Papyrus: An Ancient Document That Reveals Flying &#x27;Fiery...16 Sept 2021 — The Tulli “papyrus” is a translation of a modern transcri...</p></details>
+   Link:<a href="https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3263188" target="_blank" rel="noopener noreferrer nofollow">https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3263188</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tulli Papyrus: An Ancient Document That Reveals Flying &#x27;Fiery...16 Sept 2021 — The Tulli “papyrus” is a translation of a modern transcri...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/487928085829929/posts/1616875699601823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/487928085829929/posts/1616875699601823/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tulli papyrus describes ancient ufo sighting in EgyptAccording to a translation of the Papyrus by one Boris de Rachewiltz, an Italian-Rus...</p></details>
+   Link:<a href="https://www.facebook.com/groups/487928085829929/posts/1616875699601823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/487928085829929/posts/1616875699601823/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tulli papyrus describes ancient ufo sighting in EgyptAccording to a translation of the Papyrus by one Boris de Rachewiltz, an Italian-Rus...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Egypt.Museum/posts/the-so-called-helicopter-hieroglyphs-high-upon-the-walls-of-the-temple-of-seti-i/1232529125569341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Egypt.Museum/posts/the-so-called-helicopter-hieroglyphs-high-upon-the-walls-of-the-temple-of-seti-i/1232529125569341/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Egypt MuseumThe term &quot;Helicopter Hieroglyphs&quot; refers to a modern interpretation of a set of certain ancient Egyptian reliefs, found in th...</p></details>
+   Link:<a href="https://www.facebook.com/Egypt.Museum/posts/the-so-called-helicopter-hieroglyphs-high-upon-the-walls-of-the-temple-of-seti-i/1232529125569341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Egypt.Museum/posts/the-so-called-helicopter-hieroglyphs-high-upon-the-walls-of-the-temple-of-seti-i/1232529125569341/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Egypt MuseumThe term &quot;Helicopter Hieroglyphs&quot; refers to a modern interpretation of a set of certain ancient Egyptian reliefs, found in th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Abydos-ancient-city-Egypt" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Abydos-ancient-city-Egypt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos | Egypt, Map, History, &amp; FactsAbydos, prominent sacred city and one of the most important archaeological sites of ancient Egypt. T...</p></details>
+   Link:<a href="https://www.britannica.com/place/Abydos-ancient-city-Egypt" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Abydos-ancient-city-Egypt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos | Egypt, Map, History, &amp; FactsAbydos, prominent sacred city and one of the most important archaeological sites of ancient Egypt. T...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: penn.museum  
-   Link: <a href="https://www.penn.museum/sites/expedition/abydos/" target="_blank" rel="noopener noreferrer nofollow">https://www.penn.museum/sites/expedition/abydos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition MagazineBy about 2000 B.C. the original god of Abydos, the dog-shaped funerary deity Khentamenty, had been absorbed by Osiris...</p></details>
+   Link:<a href="https://www.penn.museum/sites/expedition/abydos/" target="_blank" rel="noopener noreferrer nofollow">https://www.penn.museum/sites/expedition/abydos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Expedition MagazineBy about 2000 B.C. the original god of Abydos, the dog-shaped funerary deity Khentamenty, had been absorbed by Osiris...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discover.hubpages.com  
    Title: It is not available and is no longer traceable." They inquired after Tulli's  
-   Link: <a href="https://discover.hubpages.com/religion-philosophy/the-tulli-papyrus-proof-of-alien-visitors-or-masterful-forgery" target="_blank" rel="noopener noreferrer nofollow">https://discover.hubpages.com/religion-philosophy/the-tulli-papyrus-proof-of-alien-visitors-or-masterful-forgery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tulli Papyrus: Proof of Alien Visitors or Masterful...Jul 4, 2023 — “The Tulli Papyrus is not in possession of the Vatican Museum...</p></details>
+   Link:<a href="https://discover.hubpages.com/religion-philosophy/the-tulli-papyrus-proof-of-alien-visitors-or-masterful-forgery" target="_blank" rel="noopener noreferrer nofollow">https://discover.hubpages.com/religion-philosophy/the-tulli-papyrus-proof-of-alien-visitors-or-masterful-forgery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tulli Papyrus: Proof of Alien Visitors or Masterful...Jul 4, 2023 — “The Tulli Papyrus is not in possession of the Vatican Museum...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g1051491-d4060390-Reviews-Abydos-Sohag_Sohag_Governorate_Nile_River_Valley.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g1051491-d4060390-Reviews-Abydos-Sohag_Sohag_Governorate_Nile_River_Valley.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos, SohagThe Temple of Seti I is located in Abydos which is 1.5 hours from Sohag. It&#x27;s very well preserved. The most famous attractio...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g1051491-d4060390-Reviews-Abydos-Sohag_Sohag_Governorate_Nile_River_Valley.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g1051491-d4060390-Reviews-Abydos-Sohag_Sohag_Governorate_Nile_River_Valley.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abydos, SohagThe Temple of Seti I is located in Abydos which is 1.5 hours from Sohag. It&#x27;s very well preserved. The most famous attractio...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jasoncolavito.com  
-   Link: <a href="https://www.jasoncolavito.com/the-condon-report-on-ancient-astronauts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/the-condon-report-on-ancient-astronauts.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report on Ancient AstronautsPapyrus Tulli not propriety [sic] of Vatican Museum. Now it is dispersed and no more traceable. Th...</p></details>
+   Link:<a href="https://www.jasoncolavito.com/the-condon-report-on-ancient-astronauts.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/the-condon-report-on-ancient-astronauts.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report on Ancient AstronautsPapyrus Tulli not propriety [sic] of Vatican Museum. Now it is dispersed and no more traceable. Th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/323792193/Tulli-Papyrus" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/323792193/Tulli-Papyrus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revised Translation of Tulli Papyrus | PDF | Ancient EgyptThis document provides a revised translation of the Tulli Papyrus, an ancient E...</p></details>
+   Link:<a href="https://www.scribd.com/document/323792193/Tulli-Papyrus" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/323792193/Tulli-Papyrus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revised Translation of Tulli Papyrus | PDF | Ancient EgyptThis document provides a revised translation of the Tulli Papyrus, an ancient E...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/the-ancient-egyptian-ufo-b5a6a52024f5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-ancient-egyptian-ufo-b5a6a52024f5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ancient Egyptian UFO | Point of ContactThe purported ancient Egyptian account of a UFO derives from a single source known as the Tull...</p></details>
+   Link:<a href="https://medium.com/on-the-trail-of-the-saucers/the-ancient-egyptian-ufo-b5a6a52024f5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-ancient-egyptian-ufo-b5a6a52024f5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ancient Egyptian UFO | Point of ContactThe purported ancient Egyptian account of a UFO derives from a single source known as the Tull...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/145219775/Anatomy_of_a_Palimpsest_The_Not_So_Strange_Case_of_the_Abydos_Helicopter" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145219775/Anatomy_of_a_Palimpsest_The_Not_So_Strange_Case_of_the_Abydos_Helicopter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Not-So-Strange Case of the Abydos HelicopterA detailed discussion of a palimpsest, i.e. re-carved, inscription of Sety I and Ramesses...</p></details>
+   Link:<a href="https://www.academia.edu/145219775/Anatomy_of_a_Palimpsest_The_Not_So_Strange_Case_of_the_Abydos_Helicopter" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145219775/Anatomy_of_a_Palimpsest_The_Not_So_Strange_Case_of_the_Abydos_Helicopter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Not-So-Strange Case of the Abydos HelicopterA detailed discussion of a palimpsest, i.e. re-carved, inscription of Sety I and Ramesses...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: a 3000 year old record of something not humanthe papyrus that tells of visitors  
-   Link: <a href="https://www.facebook.com/lifesbiggestquestionsofficial/posts/a-3000-year-old-record-of-something-not-humanthe-papyrus-that-tells-of-visitors-/1251923443623186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lifesbiggestquestionsofficial/posts/a-3000-year-old-record-of-something-not-humanthe-papyrus-that-tells-of-visitors-/1251923443623186/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A 3000-year-old record of something NOT human The...This image is a depiction of an ancient Egyptian papyrus, believed to originate arou...</p></details>
+   Link:<a href="https://www.facebook.com/lifesbiggestquestionsofficial/posts/a-3000-year-old-record-of-something-not-humanthe-papyrus-that-tells-of-visitors-/1251923443623186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lifesbiggestquestionsofficial/posts/a-3000-year-old-record-of-something-not-humanthe-papyrus-that-tells-of-visitors-/1251923443623186/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 3000-year-old record of something NOT human The...This image is a depiction of an ancient Egyptian papyrus, believed to originate arou...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archaeo-acoustics.com  
    Title: the [abydos helicopter](&#123;&#123; 'abydos-helicopter/' | relative_url &#125;&#125;) a masterclass in perception palimpsests and patience  
-   Link: <a href="https://www.archaeo-acoustics.com/post/the-abydos-helicopter-a-masterclass-in-perception-palimpsests-and-patience" target="_blank" rel="noopener noreferrer nofollow">https://www.archaeo-acoustics.com/post/the-abydos-helicopter-a-masterclass-in-perception-palimpsests-and-patience</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead, it reveals us. It shows how our modern minds project their own world onto...Read more...</p></details>
+   Link:<a href="https://www.archaeo-acoustics.com/post/the-abydos-helicopter-a-masterclass-in-perception-palimpsests-and-patience" target="_blank" rel="noopener noreferrer nofollow">https://www.archaeo-acoustics.com/post/the-abydos-helicopter-a-masterclass-in-perception-palimpsests-and-patience</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instead, it reveals us. It shows how our modern minds project their own world onto...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/136ru1c/these_ancient_egyptian_carvings_show_a_helicopter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/136ru1c/these_ancient_egyptian_carvings_show_a_helicopter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I and eventually eroded by thousands of years.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/136ru1c/these_ancient_egyptian_carvings_show_a_helicopter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/136ru1c/these_ancient_egyptian_carvings_show_a_helicopter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I and eventually eroded by thousands of years.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thearchaeologist.org  
    Title: the abydos helicopter hieroglyphics  
-   Link: <a href="https://www.thearchaeologist.org/blog/the-abydos-helicopter-hieroglyphics" target="_blank" rel="noopener noreferrer nofollow">https://www.thearchaeologist.org/blog/the-abydos-helicopter-hieroglyphics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Egypt ancient HELICOPTER hieroglyph mystery solved17 Dec 2022 — The helicopter hieroglyphs is a name given to part of an Egyptian hierogl...</p></details>
+   Link:<a href="https://www.thearchaeologist.org/blog/the-abydos-helicopter-hieroglyphics" target="_blank" rel="noopener noreferrer nofollow">https://www.thearchaeologist.org/blog/the-abydos-helicopter-hieroglyphics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Egypt ancient HELICOPTER hieroglyph mystery solved17 Dec 2022 — The helicopter hieroglyphs is a name given to part of an Egyptian hierogl...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14qxunf/the_tulli_papyrus_proof_of_alien_visitors_or/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14qxunf/the_tulli_papyrus_proof_of_alien_visitors_or/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;dispersed &amp; no longer traceable&quot;. That Tulli guy was...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14qxunf/the_tulli_papyrus_proof_of_alien_visitors_or/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14qxunf/the_tulli_papyrus_proof_of_alien_visitors_or/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;dispersed &amp; no longer traceable&quot;. That Tulli guy was...</p></details>

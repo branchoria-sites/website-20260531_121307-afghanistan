@@ -1197,42 +1197,42 @@ image: /assets/images/Azerbaijan_213598-overview-social.jpg
 Azerbaijan has seen several reported instances of unidentified aerial phenomena, primarily documented in local news outlets or civilian reporting platforms. While such reports are interesting culturally and sociologically, none have been corroborated by official national aerospace or scientific bodies.
 
 <img src="{{ "/assets/images/Azerbaijan_213598-overview.webp" | relative_url }}" alt="Overview image for What Is Behind Azerbaijan&#x27;s UFO Reports?" loading="eager" decoding="sync" fetchpriority="high">
-**Goychay Region, 2012 and 2014:** <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.apa.az/incident/-182307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.apa.az">[en.apa.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.apa.az</span><span class="citation-popover-title">az Unidentified flying object appears in Azerbaijan’s Goychay region</span><span class="citation-popover-snippet">flying object appears in Azerbaijan’s Goychay regionNovember 10, 2012...</span><span class="citation-popover-meta">Published: November 10, 2012</span></span></span>
+**Goychay Region, 2012 and 2014:**<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.apa.az/incident/-182307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.apa.az">[en.apa.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.apa.az</span><span class="citation-popover-title">az Unidentified flying object appears in Azerbaijan’s Goychay region</span><span class="citation-popover-snippet">flying object appears in Azerbaijan’s Goychay regionNovember 10, 2012...</span><span class="citation-popover-meta">Published: November 10, 2012</span></span></span>
 
-In November **2012**, local news reported a shining UFO over the central Goychay region that glowed brightly in the night sky, moved laterally, and then disappeared after two minutes, according to witness accounts. Residents claimed it was visible well above ground level and appeared at considerable height. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.apa.az/incident/-182307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.apa.az">[Apa.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.apa.az</span><span class="citation-popover-title">az Unidentified flying object appears in Azerbaijan’s Goychay region</span><span class="citation-popover-snippet">flying object appears in Azerbaijan’s Goychay regionNovember 10, 2012...</span><span class="citation-popover-meta">Published: November 10, 2012</span></span></span>
+In November **2012**, local news reported a shining UFO over the central Goychay region that glowed brightly in the night sky, moved laterally, and then disappeared after two minutes, according to witness accounts. Residents claimed it was visible well above ground level and appeared at considerable height.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.apa.az/incident/-182307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.apa.az">[Apa.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.apa.az</span><span class="citation-popover-title">az Unidentified flying object appears in Azerbaijan’s Goychay region</span><span class="citation-popover-snippet">flying object appears in Azerbaijan’s Goychay regionNovember 10, 2012...</span><span class="citation-popover-meta">Published: November 10, 2012</span></span></span>
 
-A similar type of sighting occurred in May **2014** over the Guba region in northern Azerbaijan, where a mass of flashing lights was observed and filmed by residents on mobile phones. Witnesses described the formation as growing and branching in the sky before dissipating, though no official explanation was provided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.apa.az/incident/-182307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.apa.az">[Apa.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.apa.az</span><span class="citation-popover-title">az Unidentified flying object appears in Azerbaijan’s Goychay region</span><span class="citation-popover-snippet">flying object appears in Azerbaijan’s Goychay regionNovember 10, 2012...</span><span class="citation-popover-meta">Published: November 10, 2012</span></span></span>
+A similar type of sighting occurred in May **2014** over the Guba region in northern Azerbaijan, where a mass of flashing lights was observed and filmed by residents on mobile phones. Witnesses described the formation as growing and branching in the sky before dissipating, though no official explanation was provided.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.apa.az/incident/-182307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.apa.az">[Apa.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.apa.az</span><span class="citation-popover-title">az Unidentified flying object appears in Azerbaijan’s Goychay region</span><span class="citation-popover-snippet">flying object appears in Azerbaijan’s Goychay regionNovember 10, 2012...</span><span class="citation-popover-meta">Published: November 10, 2012</span></span></span>
 
 **Baku and Other Regions:**
 
-In **August 2012**, a resident of the Ahmadli district in Baku claimed to have filmed an unidentified object moving in the night sky before it vanished. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.today.az/view.php?id=111707" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.az">[Today.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.az</span><span class="citation-popover-snippet">UFO spotted over Baku? VIDEO29 Aug 2012 A UFO was detected in Baku sky yesterday. The flying object was observed in the Ahmadli dist...</span></span></span>
+In **August 2012**, a resident of the Ahmadli district in Baku claimed to have filmed an unidentified object moving in the night sky before it vanished.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.today.az/view.php?id=111707" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.az">[Today.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.az</span><span class="citation-popover-snippet">UFO spotted over Baku? VIDEO29 Aug 2012 A UFO was detected in Baku sky yesterday. The flying object was observed in the Ahmadli dist...</span></span></span>
 
-In **July 2012**, reports from the Shamakhi region described a bright object lighting up the sky before disappearing, with local authorities indicating an observatory might make a statement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.today.az/view.php?id=110590" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.az">[Today.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.az</span><span class="citation-popover-snippet">UFO in sky over Azerbaijan againLast night, UFO was spotted in the Shamakhi region of Azerbaijan, the Olaylar reported with reference to...</span></span></span>
+In **July 2012**, reports from the Shamakhi region described a bright object lighting up the sky before disappearing, with local authorities indicating an observatory might make a statement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.today.az/view.php?id=110590" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.az">[Today.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.az</span><span class="citation-popover-snippet">UFO in sky over Azerbaijan againLast night, UFO was spotted in the Shamakhi region of Azerbaijan, the Olaylar reported with reference to...</span></span></span>
 
-Older local press from May **2008** described an object allegedly seen over the Caspian Sea near Baku, reported by witnesses to be stationary at 500600m altitude before suddenly disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.today.az/news/society/45178.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.az">[Today.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.az</span><span class="citation-popover-snippet">UFO spotted over the Caspian Sea near BakuMay 23, 2008...</span><span class="citation-popover-meta">Published: May 23, 2008</span></span></span>
+Older local press from May **2008** described an object allegedly seen over the Caspian Sea near Baku, reported by witnesses to be stationary at 500600m altitude before suddenly disappearing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.today.az/news/society/45178.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.az">[Today.az]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.az</span><span class="citation-popover-snippet">UFO spotted over the Caspian Sea near BakuMay 23, 2008...</span><span class="citation-popover-meta">Published: May 23, 2008</span></span></span>
 
 **Other Accounts (Civilian Reports):**
 
-Publicly accessible UFO databases also include alleged sightings from Azerbaijan, such as a reported event in **Tovuz in 2009** involving sensory anomalies and supposed physical effects on witnesses. These reports are typically submitted by individuals to civilian UFO organisation webpages rather than peerreviewed or verified sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187377" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 187377February 5, 2025...</span><span class="citation-popover-meta">Published: February 5, 2025</span></span></span>
+Publicly accessible UFO databases also include alleged sightings from Azerbaijan, such as a reported event in **Tovuz in 2009** involving sensory anomalies and supposed physical effects on witnesses. These reports are typically submitted by individuals to civilian UFO organisation webpages rather than peerreviewed or verified sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187377" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 187377February 5, 2025...</span><span class="citation-popover-meta">Published: February 5, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Azerbaijan_213598-Illustration-1-dark.svg" | relative_url }}" alt="What Is Behind Azerbaijan&#x27;s UFO Reports? illustration 1" data-theme-src-dark="{{ "/assets/images/Azerbaijan_213598-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Azerbaijan_213598-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scientific and Official Responses
 
-Azerbaijani scientific institutions have not produced sustained, formal investigations into these phenomena akin to established scientific UAP programmes elsewhere. When local media circulated images of purported UFOs captured by amateurs in Baku, Ganja, and Barda, an astrophysics expert at the Shamakhi Observatory publicly dismissed such interpretations, suggesting viewers were likely observing atmospheric phenomena or manmade devices misidentified as unusual objects. The expert noted that local researchers had forwarded odd cloudrelated phenomena data to international scientific bodies for assessment but had not received definitive feedback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.azernews.az/nation/41254.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azernews.az">[AzerNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azernews.az</span><span class="citation-popover-title">Azer News Azeri expert dismisses reports on UFOs</span><span class="citation-popover-snippet">Azeri expert dismisses reports on UFOsFebruary 11, 2012 11 Feb 2012 An Azerbaijani scholar has dismissed media reports saying...</span><span class="citation-popover-meta">Published: February 11, 2012</span></span></span>
+Azerbaijani scientific institutions have not produced sustained, formal investigations into these phenomena akin to established scientific UAP programmes elsewhere. When local media circulated images of purported UFOs captured by amateurs in Baku, Ganja, and Barda, an astrophysics expert at the Shamakhi Observatory publicly dismissed such interpretations, suggesting viewers were likely observing atmospheric phenomena or manmade devices misidentified as unusual objects. The expert noted that local researchers had forwarded odd cloudrelated phenomena data to international scientific bodies for assessment but had not received definitive feedback.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.azernews.az/nation/41254.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azernews.az">[AzerNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azernews.az</span><span class="citation-popover-title">Azer News Azeri expert dismisses reports on UFOs</span><span class="citation-popover-snippet">Azeri expert dismisses reports on UFOsFebruary 11, 2012 11 Feb 2012 An Azerbaijani scholar has dismissed media reports saying...</span><span class="citation-popover-meta">Published: February 11, 2012</span></span></span>
 
-There is no known Azerbaijani space or defence agency that has released official sighting reports, declassified files, or sustained archival documentation of UAP experiences within the region a marked contrast to the increasing transparency seen in UAP documentation by the United States Department of Defences AllDomain Anomaly Resolution Office (AARO) or NASA studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This release follows an earlier drop of 162 files, which drew over a billion views online. The new footage includes sightings from the Mi...</span></span></span>
+There is no known Azerbaijani space or defence agency that has released official sighting reports, declassified files, or sustained archival documentation of UAP experiences within the region a marked contrast to the increasing transparency seen in UAP documentation by the United States Department of Defences AllDomain Anomaly Resolution Office (AARO) or NASA studies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This release follows an earlier drop of 162 files, which drew over a billion views online. The new footage includes sightings from the Mi...</span></span></span>
 
 <img src="{{ "/assets/images/Azerbaijan_213598-Illustration-3-dark.svg" | relative_url }}" alt="What Is Behind Azerbaijan&#x27;s UFO Reports? illustration 3" data-theme-src-dark="{{ "/assets/images/Azerbaijan_213598-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Azerbaijan_213598-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Credibility and Evidence Quality
 
 The majority of Azerbaijani UFO reports stem from local news, individual eyewitness testimony, or participation in civilian reporting platforms. These sources lack the systematic verification protocols seen in scientific or military UAP programmes (such as corroborating radar tracks, multisensor recordings, or expert calibration). Many sightings could plausibly be atmospheric phenomena (e.g., satellites, aircraft, meteorological phenomena, atmospheric optics), camera artefacts, or misidentified aerial objects such as drones explanations typical in many sighting archives globally.
 
-Independent databases such as Enigma Labs list only a handful of reports from Azerbaijan relative to global datasets, underscoring both lower submission rates and the tentative nature of these records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/az" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Enigma Labs &#124; UFO Sightings in Azerbaijan</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Enigma Labs &#124; UFO Sightings in Azerbaijan</span></span></span> | Report a UFO sighting
+Independent databases such as Enigma Labs list only a handful of reports from Azerbaijan relative to global datasets, underscoring both lower submission rates and the tentative nature of these records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/az" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Enigma Labs &#124; UFO Sightings in Azerbaijan</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Enigma Labs &#124; UFO Sightings in Azerbaijan</span></span></span> | Report a UFO sighting
 
 <img src="{{ "/assets/images/Azerbaijan_213598-Illustration-2-dark.svg" | relative_url }}" alt="What Is Behind Azerbaijan&#x27;s UFO Reports? illustration 2" data-theme-src-dark="{{ "/assets/images/Azerbaijan_213598-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Azerbaijan_213598-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Contextual Factors and Regional Comparisons
 
-Azerbaijan has a small but growing space infrastructure, including its national satellite operator Azercosmos, which deploys Earth observation and communications satellites. While not directly related to UAP research, the presence of orbiting satellites and groundbased telemetry infrastructure suggests the country has some capacity to observe the sky systematically though not currently, as far as public records indicate, dedicated to UAP study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Azercosmos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Azerbaijan has a small but growing space infrastructure, including its national satellite operator Azercosmos, which deploys Earth observation and communications satellites. While not directly related to UAP research, the presence of orbiting satellites and groundbased telemetry infrastructure suggests the country has some capacity to observe the sky systematically though not currently, as far as public records indicate, dedicated to UAP study.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Azercosmos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Across neighbouring regions and former Soviet states, anecdotal reports have occasionally circulated without strong official documentation, reflecting a broader pattern where civilian sightings often outnumber structured scientific inquiry.
 
@@ -1243,194 +1243,194 @@ Within Azerbaijan, UFO/UAP phenomena remain largely at the level of sporadic eye
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R0KOKI0asAI" title="Пентагон рассекретил архив документов про НЛО - Baku TV | RU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R0KOKI0asAI" target="_blank" rel="noopener noreferrer">Пентагон рассекретил архив документов про НЛО - Baku TV | RU</a></p><p class="youtube-embed-meta">Channel: Baku TV | RU &middot; Views: 5.2K &middot; Uploaded: May 2026 &middot; Length: 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R0KOKI0asAI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R0KOKI0asAI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Behind Azerbaijan&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Behind Azerbaijan&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating isolated sightings where formal investigations are sparse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating isolated sightings where formal investigations are sparse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Gives readers a wider official-records framework for sparse Azerbaijani reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers a wider official-records framework for sparse Azerbaijani reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Supports conventional explanations and misidentification analysis for Azerbaijani light reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports conventional explanations and misidentification analysis for Azerbaijani light reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Fits the page’s caution about weak evidence, eyewitness claims, and extraordinary interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the page’s caution about weak evidence, eyewitness claims, and extraordinary interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-behind-azerbaijan-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-behind-azerbaijan-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1446,7 +1446,7 @@ Within Azerbaijan, UFO/UAP phenomena remain largely at the level of sporadic eye
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1466,7 +1466,7 @@ Within Azerbaijan, UFO/UAP phenomena remain largely at the level of sporadic eye
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1498,7 +1498,7 @@ Within Azerbaijan, UFO/UAP phenomena remain largely at the level of sporadic eye
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1550,7 +1550,7 @@ Within Azerbaijan, UFO/UAP phenomena remain largely at the level of sporadic eye
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1595,7 +1595,7 @@ Within Azerbaijan, UFO/UAP phenomena remain largely at the level of sporadic eye
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1633,155 +1633,154 @@ Within Azerbaijan, UFO/UAP phenomena remain largely at the level of sporadic eye
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: en.apa.az  
    Title: az Unidentified flying object appears in Azerbaijan’s Goychay region  
-   Link: <a href="https://en.apa.az/incident/-182307" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-182307</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object appears in Azerbaijan’s Goychay regionNovember 10, 2012...</p></details>
+   Link:<a href="https://en.apa.az/incident/-182307" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/-182307</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flying object appears in Azerbaijan’s Goychay regionNovember 10, 2012...</p></details>
    Published: November 10, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: en.apa.az  
-   Link: <a href="https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>appears over Azerbaijan’s Guba regionResidents observing the UFO recorded the image via mobile phones. People were startled upon seeing...</p></details>
+   Link:<a href="https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854" target="_blank" rel="noopener noreferrer nofollow">https://en.apa.az/incident/xeber_ufo_appears_over_azerbaijan___s_guba_regio_-211854</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>appears over Azerbaijan’s Guba regionResidents observing the UFO recorded the image via mobile phones. People were startled upon seeing...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: today.az  
-   Link: <a href="https://www.today.az/view.php?id=111707" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/view.php?id=111707</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Baku? VIDEO29 Aug 2012 A UFO was detected in Baku sky yesterday. The flying object was observed in the Ahmadli dist...</p></details>
+   Link:<a href="https://www.today.az/view.php?id=111707" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/view.php?id=111707</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Baku? VIDEO29 Aug 2012 A UFO was detected in Baku sky yesterday. The flying object was observed in the Ahmadli dist...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: today.az  
-   Link: <a href="https://www.today.az/view.php?id=110590" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/view.php?id=110590</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in sky over Azerbaijan againLast night, UFO was spotted in the Shamakhi region of Azerbaijan, the Olaylar reported with reference to...</p></details>
+   Link:<a href="https://www.today.az/view.php?id=110590" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/view.php?id=110590</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in sky over Azerbaijan againLast night, UFO was spotted in the Shamakhi region of Azerbaijan, the Olaylar reported with reference to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: today.az  
-   Link: <a href="https://www.today.az/news/society/45178.html" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/news/society/45178.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over the Caspian Sea near BakuMay 23, 2008...</p></details>
+   Link:<a href="https://www.today.az/news/society/45178.html" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/news/society/45178.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over the Caspian Sea near BakuMay 23, 2008...</p></details>
    Published: May 23, 2008  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=187377" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187377</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 187377February 5, 2025...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=187377" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187377</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 187377February 5, 2025...</p></details>
    Published: February 5, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: azernews.az  
    Title: Azer News Azeri expert dismisses reports on UFOs  
-   Link: <a href="https://www.azernews.az/nation/41254.html" target="_blank" rel="noopener noreferrer nofollow">https://www.azernews.az/nation/41254.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Azeri expert dismisses reports on UFOsFebruary 11, 2012 11 Feb 2012 An Azerbaijani scholar has dismissed media reports saying...</p></details>
+   Link:<a href="https://www.azernews.az/nation/41254.html" target="_blank" rel="noopener noreferrer nofollow">https://www.azernews.az/nation/41254.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Azeri expert dismisses reports on UFOsFebruary 11, 2012 11 Feb 2012 An Azerbaijani scholar has dismissed media reports saying...</p></details>
    Published: February 11, 2012  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Enigma Labs | UFO Sightings in Azerbaijan  
-   Link: <a href="https://enigmalabs.io/explore/az" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/az</a>  
+   Link:<a href="https://enigmalabs.io/explore/az" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/az</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Azercosmos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Azercosmos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Azercosmos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Azercosmos</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=85439" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=85439</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 85439December 12, 2011 NUFORC UFO SIGHTING 85439 Occurred: 2011-11-22 02:10 Local Reported: 2011-11-21 22:55 Pacifi...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=85439" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=85439</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 85439December 12, 2011 NUFORC UFO SIGHTING 85439 Occurred: 2011-11-22 02:10 Local Reported: 2011-11-21 22:55 Pacifi...</p></details>
    Published: November 22, 2011  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: today.az  
-   Link: <a href="https://www.today.az/print/news/society/45178.html" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/print/news/society/45178.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over the Caspian Sea near BakuMay 23, 2008 Image 23 May 2008 [09:47] - Today.Az Image An unidentified flying object was spo...</p></details>
+   Link:<a href="https://www.today.az/print/news/society/45178.html" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/print/news/society/45178.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over the Caspian Sea near BakuMay 23, 2008 Image 23 May 2008 [09:47] - Today.Az Image An unidentified flying object was spo...</p></details>
    Published: May 23, 2008  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: today.az  
-   Link: <a href="https://www.today.az/news/society/44172.html" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/news/society/44172.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Aghstafa region, AzerbaijanApril 9, 2008 UFO SPOTTED OVER AGHSTAFA REGION, AZERBAIJAN 09 APRIL 2008 [15:29] - TODAY.AZ...</p></details>
+   Link:<a href="https://www.today.az/news/society/44172.html" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/news/society/44172.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Aghstafa region, AzerbaijanApril 9, 2008 UFO SPOTTED OVER AGHSTAFA REGION, AZERBAIJAN 09 APRIL 2008 [15:29] - TODAY.AZ...</p></details>
    Published: April 9, 2008  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: today.az  
-   Link: <a href="https://today.az/view.php?id=44172" target="_blank" rel="noopener noreferrer nofollow">https://today.az/view.php?id=44172</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Aghstafa region, AzerbaijanApril 9, 2008 TODAY.AZ / SOCIETY UFO SPOTTED OVER AGHSTAFA REGION, AZERBAIJAN 09 APRIL 2008...</p></details>
+   Link:<a href="https://today.az/view.php?id=44172" target="_blank" rel="noopener noreferrer nofollow">https://today.az/view.php?id=44172</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Aghstafa region, AzerbaijanApril 9, 2008 TODAY.AZ / SOCIETY UFO SPOTTED OVER AGHSTAFA REGION, AZERBAIJAN 09 APRIL 2008...</p></details>
    Published: April 9, 2008  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: today.az  
    Title: UF O seen over Goychay region  
-   Link: <a href="https://www.today.az/print/news/interesting/133368.html" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/print/news/interesting/133368.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO seen over Goychay region - VIDEO6 May 2014 Unknown flying object has been seen over the Goychay region of Azerbaijan. The mentioned...</p></details>
+   Link:<a href="https://www.today.az/print/news/interesting/133368.html" target="_blank" rel="noopener noreferrer nofollow">https://www.today.az/print/news/interesting/133368.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO seen over Goychay region - VIDEO6 May 2014 Unknown flying object has been seen over the Goychay region of Azerbaijan. The mentioned...</p></details>
    Published: May 2014  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ground.news  
-   Link: <a href="https://ground.news/daily-briefing/us-releases-second-batch-of-declassified-uap-files_b3db01" target="_blank" rel="noopener noreferrer nofollow">https://ground.news/daily-briefing/us-releases-second-batch-of-declassified-uap-files_b3db01</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What happened: The Pentagon released over 50 declassified videos and hundreds of pages...Read more...</p></details>
+   Link:<a href="https://ground.news/daily-briefing/us-releases-second-batch-of-declassified-uap-files_b3db01" target="_blank" rel="noopener noreferrer nofollow">https://ground.news/daily-briefing/us-releases-second-batch-of-declassified-uap-files_b3db01</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happened: The Pentagon released over 50 declassified videos and hundreds of pages...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This release follows an earlier drop of 162 files, which drew over a billion views online. The new footage includes sightings from the Mi...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This release follows an earlier drop of 162 files, which drew over a billion views online. The new footage includes sightings from the Mi...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: report.az  
-   Link: <a href="https://report.az/en/interesting/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades" target="_blank" rel="noopener noreferrer nofollow">https://report.az/en/interesting/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon study finds no sign of alien life in reported UFO...9 Mar 2024 A Pentagon study released Friday that examined reported sighti...</p></details>
+   Link:<a href="https://report.az/en/interesting/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades" target="_blank" rel="noopener noreferrer nofollow">https://report.az/en/interesting/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon study finds no sign of alien life in reported UFO...9 Mar 2024 A Pentagon study released Friday that examined reported sighti...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopEnK-UvsPGfQ_TYBXlIuPxL7eiKNzCnQiUn0rzrtWU4bXjd3Sh" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopEnK-UvsPGfQ_TYBXlIuPxL7eiKNzCnQiUn0rzrtWU4bXjd3Sh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The University of Utah study confirmed the &quot;historical relationship&quot; between UFOs and the...Read more...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopEnK-UvsPGfQ_TYBXlIuPxL7eiKNzCnQiUn0rzrtWU4bXjd3Sh" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOopEnK-UvsPGfQ_TYBXlIuPxL7eiKNzCnQiUn0rzrtWU4bXjd3Sh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The University of Utah study confirmed the &quot;historical relationship&quot; between UFOs and the...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Azerbaijan UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/azerbaijan-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/azerbaijan-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 AZERBAIJAN UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT AZERBAIJAN UFO UAP USO SIGHTINGS &amp; CLOSE ENCOUNTERS Date...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/azerbaijan-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/azerbaijan-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 AZERBAIJAN UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT AZERBAIJAN UFO UAP USO SIGHTINGS &amp; CLOSE ENCOUNTERS Date...</p></details>
    Published: March 22, 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
    Title: similar triangular ufo was witnessed hovering  
-   Link: <a href="https://www.reddit.com/r/azerbaijan/comments/i1dnek/similar_triangular_ufo_was_witnessed_hovering/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/azerbaijan/comments/i1dnek/similar_triangular_ufo_was_witnessed_hovering/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular ufo was witnessed hovering over Mardakan in 1990, following the Belgium ufo wave as seen on Azerbaijan news st...</p></details>
+   Link:<a href="https://www.reddit.com/r/azerbaijan/comments/i1dnek/similar_triangular_ufo_was_witnessed_hovering/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/azerbaijan/comments/i1dnek/similar_triangular_ufo_was_witnessed_hovering/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Triangular ufo was witnessed hovering over Mardakan in 1990, following the Belgium ufo wave as seen on Azerbaijan news st...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WATE6OnYourSide/posts/the-second-drop-includes-over-40-videos-requested-by-lawmakers-along-with-a-few-/1430706552427995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WATE6OnYourSide/posts/the-second-drop-includes-over-40-videos-requested-by-lawmakers-along-with-a-few-/1430706552427995/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ings #ovni #extraterrestrial #ancientaliens #ufofiles #...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WATE6OnYourSide/posts/the-second-drop-includes-over-40-videos-requested-by-lawmakers-along-with-a-few-/1430706552427995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WATE6OnYourSide/posts/the-second-drop-includes-over-40-videos-requested-by-lawmakers-along-with-a-few-/1430706552427995/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ings #ovni #extraterrestrial #ancientaliens #ufofiles #...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: anews.az  
    Title: UF O appears over Azerbaijans Guba region  
-   Link: <a href="https://anews.az/en/ufo-appears-over-azerbaijans-guba-region/" target="_blank" rel="noopener noreferrer nofollow">https://anews.az/en/ufo-appears-over-azerbaijans-guba-region/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO appears over Azerbaijans Guba regionMay 26, 2014 UFO APPEARS OVER AZERBAIJANS GUBA REGION Image: UFO appears over Azerbaijans Gu...</p></details>
+   Link:<a href="https://anews.az/en/ufo-appears-over-azerbaijans-guba-region/" target="_blank" rel="noopener noreferrer nofollow">https://anews.az/en/ufo-appears-over-azerbaijans-guba-region/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO appears over Azerbaijans Guba regionMay 26, 2014 UFO APPEARS OVER AZERBAIJANS GUBA REGION Image: UFO appears over Azerbaijans Gu...</p></details>
    Published: May 26, 2014  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/anewztv/posts/the-us-department-of-defense-released-a-second-batch-of-previously-classified-fi/122187915710397875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anewztv/posts/the-us-department-of-defense-released-a-second-batch-of-previously-classified-fi/122187915710397875/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e past century and found no evidence of aliens or...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/anewztv/posts/the-us-department-of-defense-released-a-second-batch-of-previously-classified-fi/122187915710397875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anewztv/posts/the-us-department-of-defense-released-a-second-batch-of-previously-classified-fi/122187915710397875/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e past century and found no evidence of aliens or...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Understanding Scientific Methods in UAP Research  
-   Link: <a href="https://www.youtube.com/watch?v=5c07u34-31w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5c07u34-31w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide relevant context on the recent Pentagon-led declassification of UAP archival documents and offer broader scientific...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5c07u34-31w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5c07u34-31w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide relevant context on the recent Pentagon-led declassification of UAP archival documents and offer broader scientific...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: bp.com  
    Title: 2013 btc annua lenders report  
-   Link: <a href="https://www.bp.com/content/dam/bp/country-sites/en_az/azerbaijan/home/pdfs/esias/scpxaddendum/2013-btc-annua-lenders-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bp.com/content/dam/bp/country-sites/en_az/azerbaijan/home/pdfs/esias/scpxaddendum/2013-btc-annua-lenders-report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BTC Project Environmental and Social Annual Report (...31 Jan 2013 In the Shamkir region in north-western Azerbaijan, BTC has been sup...</p></details>
+   Link:<a href="https://www.bp.com/content/dam/bp/country-sites/en_az/azerbaijan/home/pdfs/esias/scpxaddendum/2013-btc-annua-lenders-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bp.com/content/dam/bp/country-sites/en_az/azerbaijan/home/pdfs/esias/scpxaddendum/2013-btc-annua-lenders-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BTC Project Environmental and Social Annual Report (...31 Jan 2013 In the Shamkir region in north-western Azerbaijan, BTC has been sup...</p></details>

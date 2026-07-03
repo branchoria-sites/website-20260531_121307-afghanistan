@@ -254,26 +254,26 @@ image: /assets/images/Japan_fcf29f_ufo_tourism_japan_7febb2-Illustration-1-socia
 
 ## Introduction
 
-Japan’s UFO culture is not built mainly on government files or dramatic confirmed incidents. Instead, much of its public life has developed through local tourism, community museums, enthusiast archives, and regional identity projects. The best-known example is Iino in Fukushima Prefecture, a rural district that transformed recurring stories about strange lights near Mount Senganmori into a long-running tourist brand. Over several decades, UFO claims became part folklore, part economic development strategy, and part local heritage project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/japan-aliens-iino/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">japan aliens iino</span><span class="citation-popover-snippet">Inside a Dying Japanese Town Obsessed With Aliens17 Jan 2022 — Long before Iino&#x27;s alien research lab was created in 2020, the town ha...</span></span></span>
+Japan’s UFO culture is not built mainly on government files or dramatic confirmed incidents. Instead, much of its public life has developed through local tourism, community museums, enthusiast archives, and regional identity projects. The best-known example is Iino in Fukushima Prefecture, a rural district that transformed recurring stories about strange lights near Mount Senganmori into a long-running tourist brand. Over several decades, UFO claims became part folklore, part economic development strategy, and part local heritage project.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/japan-aliens-iino/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">japan aliens iino</span><span class="citation-popover-snippet">Inside a Dying Japanese Town Obsessed With Aliens17 Jan 2022 — Long before Iino&#x27;s alien research lab was created in 2020, the town ha...</span></span></span>
 
 <img src="{{ "/assets/images/Japan_fcf29f_ufo_tourism_japan_7febb2-Illustration-1-dark.svg" | relative_url }}" alt="UFO Tourism illustration 1" data-theme-src-dark="{{ "/assets/images/Japan_fcf29f_ufo_tourism_japan_7febb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Japan_fcf29f_ufo_tourism_japan_7febb2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This makes Japan unusual within the wider UFO landscape. In many countries, UFO stories remain scattered across private organisations and internet communities. In Japan, some municipalities have openly incorporated them into museums, festivals, promotional campaigns, and place-based archives. The result is less a search for proof of extraterrestrial visitors than a case study in how unexplained stories become local culture.
 
 ## Iino and Mount Senganmori
 
-No place is more closely associated with Japanese UFO tourism than the former town of Iino, now part of Fukushima City. Local authorities and tourism organisations have promoted the area as “UFO Village” for decades, linking the identity of the community to reports of unusual aerial lights and sightings around nearby Mount Senganmori. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://japantravel.navitime.com/en/area/jp/spot/02301-14300090/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: japantravel.navitime.com">[Japan Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">japantravel.navitime.com</span><span class="citation-popover-snippet">Japan TravelUFO Fureaikan - Japan Travel by NAVITIMEThis facility in Senganmori Park, Otegamimori, Aoki, Iino-machi, Fukushima City featu...</span></span></span>
+No place is more closely associated with Japanese UFO tourism than the former town of Iino, now part of Fukushima City. Local authorities and tourism organisations have promoted the area as “UFO Village” for decades, linking the identity of the community to reports of unusual aerial lights and sightings around nearby Mount Senganmori.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://japantravel.navitime.com/en/area/jp/spot/02301-14300090/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: japantravel.navitime.com">[Japan Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">japantravel.navitime.com</span><span class="citation-popover-snippet">Japan TravelUFO Fureaikan - Japan Travel by NAVITIMEThis facility in Senganmori Park, Otegamimori, Aoki, Iino-machi, Fukushima City featu...</span></span></span>
 
-Mount Senganmori occupies a central place in local UFO lore. Residents and enthusiasts have argued that the mountain's unusual shape, geological features, and reported magnetic anomalies make it a focal point for unexplained phenomena. These claims remain unverified, but they have become a powerful narrative tool. Tourism materials often present the mountain not simply as scenery but as a landscape associated with mystery and observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://soranews24.com/2024/09/01/japans-ufo-village-where-the-magnetic-field-is-said-to-attract-visitors-from-outer-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soranews24.com">[SoraNews24 —Japan News—]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soranews24.com</span><span class="citation-popover-snippet">The reason behind all the UFO sightings in this area is said to be connected to Senganmori Forest.Read more...</span></span></span>
+Mount Senganmori occupies a central place in local UFO lore. Residents and enthusiasts have argued that the mountain's unusual shape, geological features, and reported magnetic anomalies make it a focal point for unexplained phenomena. These claims remain unverified, but they have become a powerful narrative tool. Tourism materials often present the mountain not simply as scenery but as a landscape associated with mystery and observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://soranews24.com/2024/09/01/japans-ufo-village-where-the-magnetic-field-is-said-to-attract-visitors-from-outer-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soranews24.com">[SoraNews24 —Japan News—]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soranews24.com</span><span class="citation-popover-snippet">The reason behind all the UFO sightings in this area is said to be connected to Senganmori Forest.Read more...</span></span></span>
 
-The area’s reputation expanded significantly during the late twentieth century. Rather than treating sightings as isolated stories, local promoters assembled them into a coherent regional mythology. Roads, signs, monuments, and themed attractions reinforced the image of Iino as Japan’s UFO capital. By the early 1990s, this branding had become substantial enough to support a dedicated museum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/japan-aliens-iino/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">japan aliens iino</span><span class="citation-popover-snippet">Inside a Dying Japanese Town Obsessed With Aliens17 Jan 2022 — Long before Iino&#x27;s alien research lab was created in 2020, the town ha...</span></span></span>
+The area’s reputation expanded significantly during the late twentieth century. Rather than treating sightings as isolated stories, local promoters assembled them into a coherent regional mythology. Roads, signs, monuments, and themed attractions reinforced the image of Iino as Japan’s UFO capital. By the early 1990s, this branding had become substantial enough to support a dedicated museum.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/japan-aliens-iino/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">japan aliens iino</span><span class="citation-popover-snippet">Inside a Dying Japanese Town Obsessed With Aliens17 Jan 2022 — Long before Iino&#x27;s alien research lab was created in 2020, the town ha...</span></span></span>
 
-Population decline also played a role. Like many rural Japanese communities, Iino faced ageing demographics and economic contraction. UFO tourism offered a distinctive identity that separated it from countless other small towns competing for visitors. Several reports have noted that the attraction of alien-themed tourism became intertwined with broader efforts at regional revitalisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/japan-aliens-iino/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">japan aliens iino</span><span class="citation-popover-snippet">Inside a Dying Japanese Town Obsessed With Aliens17 Jan 2022 — Long before Iino&#x27;s alien research lab was created in 2020, the town ha...</span></span></span>
+Population decline also played a role. Like many rural Japanese communities, Iino faced ageing demographics and economic contraction. UFO tourism offered a distinctive identity that separated it from countless other small towns competing for visitors. Several reports have noted that the attraction of alien-themed tourism became intertwined with broader efforts at regional revitalisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/japan-aliens-iino/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">japan aliens iino</span><span class="citation-popover-snippet">Inside a Dying Japanese Town Obsessed With Aliens17 Jan 2022 — Long before Iino&#x27;s alien research lab was created in 2020, the town ha...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RGyhtUtGgxM" title="This Small Japanese Town Is A UFO Hotspot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RGyhtUtGgxM" target="_blank" rel="noopener noreferrer">This Small Japanese Town Is A UFO Hotspot</a></p><p class="youtube-embed-meta">Channel: VICE News &middot; Views: 2.3M &middot; Uploaded: January 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RGyhtUtGgxM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RGyhtUtGgxM">Open on YouTube</a></p></div></div></div>
 
 ## Museums, Archives, and Local Identity
 
-The centrepiece of Iino’s tourism strategy is the UFO Fureaikan, commonly known as the Iino UFO Museum. Opened in 1992, the museum presents both local sighting reports and a broader history of UFO culture. Its exhibits include photographs, documents, witness accounts, models, media reports, and international UFO material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://japanjourneys.jp/fukushima/attractions/museum/ufo-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: japanjourneys.jp">[Japan Journeys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">japanjourneys.jp</span><span class="citation-popover-title">There are a good number of interesting exhibits.Read more</span><span class="citation-popover-snippet">Japan JourneysFukushima UFO Museum: Have You Seen a UFO Lately?5 Nov 2021 — The museum houses exhibits on UFOs, their history, photo pane...</span></span></span>
+The centrepiece of Iino’s tourism strategy is the UFO Fureaikan, commonly known as the Iino UFO Museum. Opened in 1992, the museum presents both local sighting reports and a broader history of UFO culture. Its exhibits include photographs, documents, witness accounts, models, media reports, and international UFO material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://japanjourneys.jp/fukushima/attractions/museum/ufo-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: japanjourneys.jp">[Japan Journeys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">japanjourneys.jp</span><span class="citation-popover-title">There are a good number of interesting exhibits.Read more</span><span class="citation-popover-snippet">Japan JourneysFukushima UFO Museum: Have You Seen a UFO Lately?5 Nov 2021 — The museum houses exhibits on UFOs, their history, photo pane...</span></span></span>
 
 What makes the museum notable is not the strength of its evidence but the scale of its archival ambition. Tourism and media sources describe collections containing thousands of UFO-related documents, including foreign research material and declassified records gathered from outside Japan. Staff and promotional materials have repeatedly characterised it as the country's largest specialised UFO archive. [JAPAN Forward](#endnote-5 "Snippet: JAPAN Forward<span class="citation-chip-wrap"><a class="citation-chip" href="https://japan-forward.com/hidden-wonders-of-japan-have-you-seen-a-ufo-lately/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: japan-forward.com">[Hidden Wonders of Japan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">japan-forward.com</span><span class="citation-popover-snippet">JAPAN Forward[Hidden Wonders of Japan] Have You Seen a UFO Lately?August 7, 2020 — 7 Aug 2020 — Thousands of UFO related materials, such...</span><span class="citation-popover-meta">Published: August 7, 2020</span></span></span> Have You Seen a UFO Lately?August 7, 2020 — 7 Aug 2020 — Thousands of UFO related materials, such...")
 
@@ -282,9 +282,9 @@ The archive serves several overlapping functions:
 * It preserves local sighting narratives that might otherwise disappear.
 * It links regional stories to global UFO culture.
 * It creates a destination experience rather than a simple exhibition.
-* It provides a physical repository for materials that would otherwise remain scattered among private enthusiasts. [JAPAN Forward](#endnote-5 "Snippet: JAPAN Forward<span class="citation-chip-wrap"><a class="citation-chip" href="https://japan-forward.com/hidden-wonders-of-japan-have-you-seen-a-ufo-lately/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: japan-forward.com">[Hidden Wonders of Japan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">japan-forward.com</span><span class="citation-popover-snippet">JAPAN Forward[Hidden Wonders of Japan] Have You Seen a UFO Lately?August 7, 2020 — 7 Aug 2020 — Thousands of UFO related materials, such...</span><span class="citation-popover-meta">Published: August 7, 2020</span></span></span> Have You Seen a UFO Lately?August 7, 2020 — 7 Aug 2020 — Thousands of UFO related materials, such...") <span class="citation-chip-wrap"><a class="citation-chip" href="https://thediplomat.com/2021/07/a-brief-history-of-ufos-in-japan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thediplomat.com">[The Diplomat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thediplomat.com</span><span class="citation-popover-title">a brief history of ufos in japan</span><span class="citation-popover-snippet">The DiplomatA Brief History of UFOs in Japan3 Jul 2021 — The laboratory is Japan&#x27;s first and only research institute devoted to unidentif...</span></span></span>
+* It provides a physical repository for materials that would otherwise remain scattered among private enthusiasts. [JAPAN Forward](#endnote-5 "Snippet: JAPAN Forward<span class="citation-chip-wrap"><a class="citation-chip" href="https://japan-forward.com/hidden-wonders-of-japan-have-you-seen-a-ufo-lately/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: japan-forward.com">[Hidden Wonders of Japan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">japan-forward.com</span><span class="citation-popover-snippet">JAPAN Forward[Hidden Wonders of Japan] Have You Seen a UFO Lately?August 7, 2020 — 7 Aug 2020 — Thousands of UFO related materials, such...</span><span class="citation-popover-meta">Published: August 7, 2020</span></span></span> Have You Seen a UFO Lately?August 7, 2020 — 7 Aug 2020 — Thousands of UFO related materials, such...")<span class="citation-chip-wrap"><a class="citation-chip" href="https://thediplomat.com/2021/07/a-brief-history-of-ufos-in-japan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thediplomat.com">[The Diplomat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thediplomat.com</span><span class="citation-popover-title">a brief history of ufos in japan</span><span class="citation-popover-snippet">The DiplomatA Brief History of UFOs in Japan3 Jul 2021 — The laboratory is Japan&#x27;s first and only research institute devoted to unidentif...</span></span></span>
 
-In 2021, the area expanded this role with the establishment of the International UFO Laboratory. The project was presented as Japan’s first dedicated UFO research institute and was designed to collect reports, analyse photographs, and maintain databases of alleged sightings. Although it does not function as a conventional scientific institution, its creation demonstrates how local authorities and enthusiasts have attempted to formalise UFO preservation as part of regional culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thediplomat.com/2021/07/a-brief-history-of-ufos-in-japan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thediplomat.com">[The Diplomat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thediplomat.com</span><span class="citation-popover-title">a brief history of ufos in japan</span><span class="citation-popover-snippet">The DiplomatA Brief History of UFOs in Japan3 Jul 2021 — The laboratory is Japan&#x27;s first and only research institute devoted to unidentif...</span></span></span>
+In 2021, the area expanded this role with the establishment of the International UFO Laboratory. The project was presented as Japan’s first dedicated UFO research institute and was designed to collect reports, analyse photographs, and maintain databases of alleged sightings. Although it does not function as a conventional scientific institution, its creation demonstrates how local authorities and enthusiasts have attempted to formalise UFO preservation as part of regional culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thediplomat.com/2021/07/a-brief-history-of-ufos-in-japan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thediplomat.com">[The Diplomat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thediplomat.com</span><span class="citation-popover-title">a brief history of ufos in japan</span><span class="citation-popover-snippet">The DiplomatA Brief History of UFOs in Japan3 Jul 2021 — The laboratory is Japan&#x27;s first and only research institute devoted to unidentif...</span></span></span>
 
 The significance of these institutions lies less in their investigative conclusions than in their role as cultural archives. They preserve stories, rumours, photographs, newspaper clippings, and witness recollections that reveal how Japanese communities have interpreted unexplained events over time.
 
@@ -293,11 +293,11 @@ The significance of these institutions lies less in their investigative conclusi
 
 Many UFO stories lose visibility after a few years. In Iino, the opposite happened. Reports accumulated into a shared local narrative that became self-reinforcing.
 
-Museums display historical sightings. Visitors arrive because they have heard the stories. New reports are then added to local collections and publicity. This process gradually transforms scattered claims into a continuing regional tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://astonishinglegends.com/astonishing-legends/2022/1/18/iino-a-town-dedicated-to-the-ufo-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astonishinglegends.com">[Astonishing Legends]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astonishinglegends.com</span><span class="citation-popover-title">iino a town dedicated to the ufo phenomena</span><span class="citation-popover-snippet">Iino: A Town Dedicated to the UFO Phenomena18 Jan 2022 — Iino is known as &#x27;The Home of UFOs&#x27; (UFO no Sato) and there are a range of extra...</span></span></span>
+Museums display historical sightings. Visitors arrive because they have heard the stories. New reports are then added to local collections and publicity. This process gradually transforms scattered claims into a continuing regional tradition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://astonishinglegends.com/astonishing-legends/2022/1/18/iino-a-town-dedicated-to-the-ufo-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astonishinglegends.com">[Astonishing Legends]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astonishinglegends.com</span><span class="citation-popover-title">iino a town dedicated to the ufo phenomena</span><span class="citation-popover-snippet">Iino: A Town Dedicated to the UFO Phenomena18 Jan 2022 — Iino is known as &#x27;The Home of UFOs&#x27; (UFO no Sato) and there are a range of extra...</span></span></span>
 
 The mechanism resembles the way folklore is preserved. Rather than proving whether a sighting occurred exactly as reported, institutions preserve the fact that people told the story, believed it, discussed it, and integrated it into local memory. In that sense, UFO archives function similarly to folklore archives, recording community narratives regardless of whether the underlying event can be verified.
 
-Japan's long history of mysterious-object stories also helps this process. Enthusiasts often connect modern UFO narratives to older legends such as the nineteenth-century tale of the Utsuro-bune, or “hollow boat,” in which a strange vessel allegedly washed ashore carrying a mysterious woman. Historians generally treat the story as folklore rather than evidence of extraterrestrial contact, but its continued appearance in UFO discussions illustrates how older legends are incorporated into contemporary interpretations of unexplained phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Iino%2C_Fukushima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Iino, Fukushima</span><span class="citation-popover-snippet">Iino, FukushimaJapan&#x27;s first-ever &quot;UFO lab&quot; for study and observation was opened here in 2020. The UFO Fureaikan museum is also locate...</span></span></span>
+Japan's long history of mysterious-object stories also helps this process. Enthusiasts often connect modern UFO narratives to older legends such as the nineteenth-century tale of the Utsuro-bune, or “hollow boat,” in which a strange vessel allegedly washed ashore carrying a mysterious woman. Historians generally treat the story as folklore rather than evidence of extraterrestrial contact, but its continued appearance in UFO discussions illustrates how older legends are incorporated into contemporary interpretations of unexplained phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Iino%2C_Fukushima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Iino, Fukushima</span><span class="citation-popover-snippet">Iino, FukushimaJapan&#x27;s first-ever &quot;UFO lab&quot; for study and observation was opened here in 2020. The UFO Fureaikan museum is also locate...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/geZH_dCMQr0" title="Josh Gates Is Chasing A Silent UFO Incident In Japan | Expedition X S4 E15" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=geZH_dCMQr0" target="_blank" rel="noopener noreferrer">Josh Gates Is Chasing A Silent UFO Incident In Japan | Expedition X S4 E15</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 65.5K &middot; Uploaded: March 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=geZH_dCMQr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=geZH_dCMQr0">Open on YouTube</a></p></div></div></div>
 
@@ -305,9 +305,9 @@ Japan's long history of mysterious-object stories also helps this process. Enthu
 
 Although Iino dominates Japan’s UFO tourism landscape, it is not the only location where local authorities have attempted to build attractions around unexplained aerial stories.
 
-The city of Kofu in Yamanashi Prefecture has increasingly promoted its connection to the famous 1975 Kofu incident, one of Japan’s best-known alleged close encounters. The fiftieth anniversary of the event generated renewed publicity, tourism campaigns, and public interest. Local branding efforts have increasingly linked the story to regional tourism around the Mount Fuji area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://matadornetwork.com/read/japan-ufo-tourism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matadornetwork.com">[Matador Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matadornetwork.com</span><span class="citation-popover-title">japan ufo tourism</span><span class="citation-popover-snippet">Matador NetworkUFOs, Folklore, and Fears: Welcome to Japan&#x27;s Alien...Apr 15, 2025 — Japan&#x27;s UFO tourism industry is growing, with many s...</span></span></span>
+The city of Kofu in Yamanashi Prefecture has increasingly promoted its connection to the famous 1975 Kofu incident, one of Japan’s best-known alleged close encounters. The fiftieth anniversary of the event generated renewed publicity, tourism campaigns, and public interest. Local branding efforts have increasingly linked the story to regional tourism around the Mount Fuji area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://matadornetwork.com/read/japan-ufo-tourism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matadornetwork.com">[Matador Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matadornetwork.com</span><span class="citation-popover-title">japan ufo tourism</span><span class="citation-popover-snippet">Matador NetworkUFOs, Folklore, and Fears: Welcome to Japan&#x27;s Alien...Apr 15, 2025 — Japan&#x27;s UFO tourism industry is growing, with many s...</span></span></span>
 
-Another example is the Cosmo Isle Hakui museum in Ishikawa Prefecture. Unlike Iino’s more specialised focus, Hakui combines conventional space exploration exhibits with displays about UFO reports and extraterrestrial speculation. The institution demonstrates a broader Japanese tendency to blend scientific space education with popular curiosity about unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://matadornetwork.com/read/japan-ufo-tourism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matadornetwork.com">[Matador Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matadornetwork.com</span><span class="citation-popover-title">japan ufo tourism</span><span class="citation-popover-snippet">Matador NetworkUFOs, Folklore, and Fears: Welcome to Japan&#x27;s Alien...Apr 15, 2025 — Japan&#x27;s UFO tourism industry is growing, with many s...</span></span></span>
+Another example is the Cosmo Isle Hakui museum in Ishikawa Prefecture. Unlike Iino’s more specialised focus, Hakui combines conventional space exploration exhibits with displays about UFO reports and extraterrestrial speculation. The institution demonstrates a broader Japanese tendency to blend scientific space education with popular curiosity about unexplained aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://matadornetwork.com/read/japan-ufo-tourism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matadornetwork.com">[Matador Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matadornetwork.com</span><span class="citation-popover-title">japan ufo tourism</span><span class="citation-popover-snippet">Matador NetworkUFOs, Folklore, and Fears: Welcome to Japan&#x27;s Alien...Apr 15, 2025 — Japan&#x27;s UFO tourism industry is growing, with many s...</span></span></span>
 
 These sites differ in emphasis, but they share a common pattern: UFO narratives become tools for regional distinctiveness. Rather than competing solely through historical monuments or natural scenery, communities cultivate unusual stories that can attract visitors seeking niche experiences.
 
@@ -316,9 +316,9 @@ These sites differ in emphasis, but they share a common pattern: UFO narratives 
 
 The success of UFO tourism should not be confused with strong evidence for UFO claims. This distinction is essential when evaluating Japanese UFO destinations.
 
-The museums and archives preserve reports, photographs, testimony, and local traditions. They do not generally provide independently verified proof that extraterrestrial craft visited the regions they celebrate. Most exhibits document claims rather than establish conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</span></span></span>
+The museums and archives preserve reports, photographs, testimony, and local traditions. They do not generally provide independently verified proof that extraterrestrial craft visited the regions they celebrate. Most exhibits document claims rather than establish conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</span></span></span>
 
-Sceptics have argued that tourism incentives can encourage the continued circulation of UFO stories. Journalists and investigators have noted that communities benefiting from a UFO reputation may become more likely to interpret ambiguous lights, photographs, or unusual atmospheric events through an extraterrestrial lens. The concentration of reports near famous UFO locations may therefore reflect cultural attention as much as any underlying phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://matadornetwork.com/read/japan-ufo-tourism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matadornetwork.com">[Matador Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matadornetwork.com</span><span class="citation-popover-title">japan ufo tourism</span><span class="citation-popover-snippet">Matador NetworkUFOs, Folklore, and Fears: Welcome to Japan&#x27;s Alien...Apr 15, 2025 — Japan&#x27;s UFO tourism industry is growing, with many s...</span></span></span>
+Sceptics have argued that tourism incentives can encourage the continued circulation of UFO stories. Journalists and investigators have noted that communities benefiting from a UFO reputation may become more likely to interpret ambiguous lights, photographs, or unusual atmospheric events through an extraterrestrial lens. The concentration of reports near famous UFO locations may therefore reflect cultural attention as much as any underlying phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://matadornetwork.com/read/japan-ufo-tourism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matadornetwork.com">[Matador Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matadornetwork.com</span><span class="citation-popover-title">japan ufo tourism</span><span class="citation-popover-snippet">Matador NetworkUFOs, Folklore, and Fears: Welcome to Japan&#x27;s Alien...Apr 15, 2025 — Japan&#x27;s UFO tourism industry is growing, with many s...</span></span></span>
 
 This does not necessarily mean witnesses are fabricating experiences. Instead, it highlights a recurring issue in UFO research: local expectations shape observation. Once an area becomes known as a UFO hotspot, ordinary aerial events may be more likely to receive extraordinary interpretations.
 
@@ -330,199 +330,199 @@ The archives themselves therefore have two kinds of value. For believers, they p
 
 Japan’s UFO museums and local archives are significant even if none of the underlying claims are ever proven. They document a rare process in which unexplained aerial stories moved from individual testimony into municipal identity.
 
-Iino's museums, research groups, themed landmarks, and preserved sighting records show how a rural community converted uncertainty into heritage. The archives reveal not only what people claimed to see in the sky, but how those claims affected local economies, tourism strategies, and collective memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/japan-aliens-iino/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">japan aliens iino</span><span class="citation-popover-snippet">Inside a Dying Japanese Town Obsessed With Aliens17 Jan 2022 — Long before Iino&#x27;s alien research lab was created in 2020, the town ha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thediplomat.com/2021/07/a-brief-history-of-ufos-in-japan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thediplomat.com">[The Diplomat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thediplomat.com</span><span class="citation-popover-title">a brief history of ufos in japan</span><span class="citation-popover-snippet">The DiplomatA Brief History of UFOs in Japan3 Jul 2021 — The laboratory is Japan&#x27;s first and only research institute devoted to unidentif...</span></span></span>
+Iino's museums, research groups, themed landmarks, and preserved sighting records show how a rural community converted uncertainty into heritage. The archives reveal not only what people claimed to see in the sky, but how those claims affected local economies, tourism strategies, and collective memory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/japan-aliens-iino/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">japan aliens iino</span><span class="citation-popover-snippet">Inside a Dying Japanese Town Obsessed With Aliens17 Jan 2022 — Long before Iino&#x27;s alien research lab was created in 2020, the town ha...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://thediplomat.com/2021/07/a-brief-history-of-ufos-in-japan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thediplomat.com">[The Diplomat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thediplomat.com</span><span class="citation-popover-title">a brief history of ufos in japan</span><span class="citation-popover-snippet">The DiplomatA Brief History of UFOs in Japan3 Jul 2021 — The laboratory is Japan&#x27;s first and only research institute devoted to unidentif...</span></span></span>
 
-In that sense, Japan’s UFO tourism sites occupy a space between folklore museum, local history archive, and curiosity attraction. Their enduring importance lies less in resolving the UFO question than in demonstrating how stories about the unknown can become part of a place’s identity for generations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://astonishinglegends.com/astonishing-legends/2022/1/18/iino-a-town-dedicated-to-the-ufo-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astonishinglegends.com">[Astonishing Legends]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astonishinglegends.com</span><span class="citation-popover-title">iino a town dedicated to the ufo phenomena</span><span class="citation-popover-snippet">Iino: A Town Dedicated to the UFO Phenomena18 Jan 2022 — Iino is known as &#x27;The Home of UFOs&#x27; (UFO no Sato) and there are a range of extra...</span></span></span>
+In that sense, Japan’s UFO tourism sites occupy a space between folklore museum, local history archive, and curiosity attraction. Their enduring importance lies less in resolving the UFO question than in demonstrating how stories about the unknown can become part of a place’s identity for generations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fukushima.travel">[Fukushima Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fukushima.travel</span><span class="citation-popover-title">Travel Iino UFO Museum</span><span class="citation-popover-snippet">Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://astonishinglegends.com/astonishing-legends/2022/1/18/iino-a-town-dedicated-to-the-ufo-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astonishinglegends.com">[Astonishing Legends]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astonishinglegends.com</span><span class="citation-popover-title">iino a town dedicated to the ufo phenomena</span><span class="citation-popover-snippet">Iino: A Town Dedicated to the UFO Phenomena18 Jan 2022 — Iino is known as &#x27;The Home of UFOs&#x27; (UFO no Sato) and there are a range of extra...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How UFO Stories Became Local Culture in Japan. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How UFO Stories Became Local Culture in Japan. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/725969-M.jpg" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
-        </h4>
-        <p class="fr-book-author">By John A. Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/725969-M.jpg" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
+</h4>
+<p class="fr-book-author">By John A. Keel</p>
         
-        <p class="fr-book-desc">First published 1975. Subjects: Unidentified flying objects, Curiosities and wonders, Human-alien encounters, Sightings and encounters, U...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1975. Subjects: Unidentified flying objects, Curiosities and wonders, Human-alien encounters, Sightings and encounters, U...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides context for contemporary public fascination with UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for contemporary public fascination with UFO stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly relevant to how local legends become enduring UFO traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to how local legends become enduring UFO traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from folklore to flying saucers">Passport to Magonia: from folklore to flying saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Vallee</p>
         
-        <p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1969. Subjects: Unidentified flying objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-stories-became-local-culture-in-japan-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-ufo-stories-became-local-culture-in-japan-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ In that sense, Japan’s UFO tourism sites occupy a space between folklore museu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ In that sense, Japan’s UFO tourism sites occupy a space between folklore museu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ In that sense, Japan’s UFO tourism sites occupy a space between folklore museu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ In that sense, Japan’s UFO tourism sites occupy a space between folklore museu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ In that sense, Japan’s UFO tourism sites occupy a space between folklore museu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,132 +725,131 @@ In that sense, Japan’s UFO tourism sites occupy a space between folklore museu
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fukushima.travel  
    Title: Travel Iino UFO Museum  
-   Link: <a href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow">https://fukushima.travel/destination/iino-ufo-museum/389</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</p></details>
+   Link:<a href="https://fukushima.travel/destination/iino-ufo-museum/389" target="_blank" rel="noopener noreferrer nofollow">https://fukushima.travel/destination/iino-ufo-museum/389</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iino UFO Museum - DestinationsIino is known as the &#x27;UFO no Sato&#x27; (UFO Village) for its track record of sightings of luminous or unexplain...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vice.com  
    Title: japan aliens iino  
-   Link: <a href="https://www.vice.com/en/article/japan-aliens-iino/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/japan-aliens-iino/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside a Dying Japanese Town Obsessed With Aliens17 Jan 2022 — Long before Iino&#x27;s alien research lab was created in 2020, the town ha...</p></details>
+   Link:<a href="https://www.vice.com/en/article/japan-aliens-iino/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/japan-aliens-iino/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside a Dying Japanese Town Obsessed With Aliens17 Jan 2022 — Long before Iino&#x27;s alien research lab was created in 2020, the town ha...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Iino, Fukushima  
-   Link: <a href="https://en.wikipedia.org/wiki/Iino%2C_Fukushima" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Iino%2C_Fukushima</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Iino, FukushimaJapan&#x27;s first-ever &quot;UFO lab&quot; for study and observation was opened here in 2020. The UFO Fureaikan museum is also locate...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Iino%2C_Fukushima" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Iino%2C_Fukushima</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iino, FukushimaJapan&#x27;s first-ever &quot;UFO lab&quot; for study and observation was opened here in 2020. The UFO Fureaikan museum is also locate...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: soranews24.com  
-   Link: <a href="https://soranews24.com/2024/09/01/japans-ufo-village-where-the-magnetic-field-is-said-to-attract-visitors-from-outer-space/" target="_blank" rel="noopener noreferrer nofollow">https://soranews24.com/2024/09/01/japans-ufo-village-where-the-magnetic-field-is-said-to-attract-visitors-from-outer-space/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The reason behind all the UFO sightings in this area is said to be connected to Senganmori Forest.Read more...</p></details>
+   Link:<a href="https://soranews24.com/2024/09/01/japans-ufo-village-where-the-magnetic-field-is-said-to-attract-visitors-from-outer-space/" target="_blank" rel="noopener noreferrer nofollow">https://soranews24.com/2024/09/01/japans-ufo-village-where-the-magnetic-field-is-said-to-attract-visitors-from-outer-space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The reason behind all the UFO sightings in this area is said to be connected to Senganmori Forest.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: japan-forward.com  
-   Link: <a href="https://japan-forward.com/hidden-wonders-of-japan-have-you-seen-a-ufo-lately/" target="_blank" rel="noopener noreferrer nofollow">https://japan-forward.com/hidden-wonders-of-japan-have-you-seen-a-ufo-lately/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JAPAN Forward[Hidden Wonders of Japan] Have You Seen a UFO Lately?August 7, 2020 — 7 Aug 2020 — Thousands of UFO related materials, such...</p></details>
+   Link:<a href="https://japan-forward.com/hidden-wonders-of-japan-have-you-seen-a-ufo-lately/" target="_blank" rel="noopener noreferrer nofollow">https://japan-forward.com/hidden-wonders-of-japan-have-you-seen-a-ufo-lately/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JAPAN Forward[Hidden Wonders of Japan] Have You Seen a UFO Lately?August 7, 2020 — 7 Aug 2020 — Thousands of UFO related materials, such...</p></details>
    Published: August 7, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Utsuro-bune" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Utsuro-bune</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Utsuro-bune" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Utsuro-bune</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thediplomat.com  
    Title: a brief history of ufos in japan  
-   Link: <a href="https://thediplomat.com/2021/07/a-brief-history-of-ufos-in-japan/" target="_blank" rel="noopener noreferrer nofollow">https://thediplomat.com/2021/07/a-brief-history-of-ufos-in-japan/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The DiplomatA Brief History of UFOs in Japan3 Jul 2021 — The laboratory is Japan&#x27;s first and only research institute devoted to unidentif...</p></details>
+   Link:<a href="https://thediplomat.com/2021/07/a-brief-history-of-ufos-in-japan/" target="_blank" rel="noopener noreferrer nofollow">https://thediplomat.com/2021/07/a-brief-history-of-ufos-in-japan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DiplomatA Brief History of UFOs in Japan3 Jul 2021 — The laboratory is Japan&#x27;s first and only research institute devoted to unidentif...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: japantravel.navitime.com  
-   Link: <a href="https://japantravel.navitime.com/en/area/jp/spot/02301-14300090/" target="_blank" rel="noopener noreferrer nofollow">https://japantravel.navitime.com/en/area/jp/spot/02301-14300090/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan TravelUFO Fureaikan - Japan Travel by NAVITIMEThis facility in Senganmori Park, Otegamimori, Aoki, Iino-machi, Fukushima City featu...</p></details>
+   Link:<a href="https://japantravel.navitime.com/en/area/jp/spot/02301-14300090/" target="_blank" rel="noopener noreferrer nofollow">https://japantravel.navitime.com/en/area/jp/spot/02301-14300090/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Japan TravelUFO Fureaikan - Japan Travel by NAVITIMEThis facility in Senganmori Park, Otegamimori, Aoki, Iino-machi, Fukushima City featu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: astonishinglegends.com  
    Title: iino a town dedicated to the ufo phenomena  
-   Link: <a href="https://astonishinglegends.com/astonishing-legends/2022/1/18/iino-a-town-dedicated-to-the-ufo-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/astonishing-legends/2022/1/18/iino-a-town-dedicated-to-the-ufo-phenomena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Iino: A Town Dedicated to the UFO Phenomena18 Jan 2022 — Iino is known as &#x27;The Home of UFOs&#x27; (UFO no Sato) and there are a range of extra...</p></details>
+   Link:<a href="https://astonishinglegends.com/astonishing-legends/2022/1/18/iino-a-town-dedicated-to-the-ufo-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/astonishing-legends/2022/1/18/iino-a-town-dedicated-to-the-ufo-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iino: A Town Dedicated to the UFO Phenomena18 Jan 2022 — Iino is known as &#x27;The Home of UFOs&#x27; (UFO no Sato) and there are a range of extra...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: matadornetwork.com  
    Title: japan ufo tourism  
-   Link: <a href="https://matadornetwork.com/read/japan-ufo-tourism/" target="_blank" rel="noopener noreferrer nofollow">https://matadornetwork.com/read/japan-ufo-tourism/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matador NetworkUFOs, Folklore, and Fears: Welcome to Japan&#x27;s Alien...Apr 15, 2025 — Japan&#x27;s UFO tourism industry is growing, with many s...</p></details>
+   Link:<a href="https://matadornetwork.com/read/japan-ufo-tourism/" target="_blank" rel="noopener noreferrer nofollow">https://matadornetwork.com/read/japan-ufo-tourism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matador NetworkUFOs, Folklore, and Fears: Welcome to Japan&#x27;s Alien...Apr 15, 2025 — Japan&#x27;s UFO tourism industry is growing, with many s...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: japanjourneys.jp  
    Title: There are a good number of interesting exhibits.Read more  
-   Link: <a href="https://japanjourneys.jp/fukushima/attractions/museum/ufo-museum/" target="_blank" rel="noopener noreferrer nofollow">https://japanjourneys.jp/fukushima/attractions/museum/ufo-museum/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan JourneysFukushima UFO Museum: Have You Seen a UFO Lately?5 Nov 2021 — The museum houses exhibits on UFOs, their history, photo pane...</p></details>
+   Link:<a href="https://japanjourneys.jp/fukushima/attractions/museum/ufo-museum/" target="_blank" rel="noopener noreferrer nofollow">https://japanjourneys.jp/fukushima/attractions/museum/ufo-museum/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Japan JourneysFukushima UFO Museum: Have You Seen a UFO Lately?5 Nov 2021 — The museum houses exhibits on UFOs, their history, photo pane...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: f-kankou.jp  
    Title: sport culture  
-   Link: <a href="https://www.f-kankou.jp/en/discover/sport-culture/706/" target="_blank" rel="noopener noreferrer nofollow">https://www.f-kankou.jp/en/discover/sport-culture/706/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iino UFO Museum | Fukushima Guide22 Jun 2021 — The museum was opened in 1992 and contains a wide range of documents and exhibits relating...</p></details>
+   Link:<a href="https://www.f-kankou.jp/en/discover/sport-culture/706/" target="_blank" rel="noopener noreferrer nofollow">https://www.f-kankou.jp/en/discover/sport-culture/706/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iino UFO Museum | Fukushima Guide22 Jun 2021 — The museum was opened in 1992 and contains a wide range of documents and exhibits relating...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tokyochase.com  
-   Link: <a href="https://www.tokyochase.com/articles/ufo-museum" target="_blank" rel="noopener noreferrer nofollow">https://www.tokyochase.com/articles/ufo-museum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO MuseumHave you ever wanted to be abducted by aliens, but, like, in a safe and air-conditioned environment? Then pack your bags and be...</p></details>
+   Link:<a href="https://www.tokyochase.com/articles/ufo-museum" target="_blank" rel="noopener noreferrer nofollow">https://www.tokyochase.com/articles/ufo-museum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO MuseumHave you ever wanted to be abducted by aliens, but, like, in a safe and air-conditioned environment? Then pack your bags and be...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nypost.com  
    Title: japan is full of ufo hotspots and they all have this in common  
-   Link: <a href="https://nypost.com/2023/09/05/japan-is-full-of-ufo-hotspots-and-they-all-have-this-in-common/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/09/05/japan-is-full-of-ufo-hotspots-and-they-all-have-this-in-common/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan is full of UFO &#x27;hot spots&#x27; — and they all have this in...5 Sept 2023 — Japan has become one of the world&#x27;s biggest “hot spots” to...</p></details>
+   Link:<a href="https://nypost.com/2023/09/05/japan-is-full-of-ufo-hotspots-and-they-all-have-this-in-common/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/09/05/japan-is-full-of-ufo-hotspots-and-they-all-have-this-in-common/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Japan is full of UFO &#x27;hot spots&#x27; — and they all have this in...5 Sept 2023 — Japan has become one of the world&#x27;s biggest “hot spots” to...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abroadinjapan/posts/new-video-this-small-japanese-town-is-a-ufo-hotspot-whats-really-going-onsomethi/1206618594161275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abroadinjapan/posts/new-video-this-small-japanese-town-is-a-ufo-hotspot-whats-really-going-onsomethi/1206618594161275/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>home of aliens in Japan. &quot;The local UFO Fureaikan Museum...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/abroadinjapan/posts/new-video-this-small-japanese-town-is-a-ufo-hotspot-whats-really-going-onsomethi/1206618594161275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abroadinjapan/posts/new-video-this-small-japanese-town-is-a-ufo-hotspot-whats-really-going-onsomethi/1206618594161275/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>home of aliens in Japan. &quot;The local UFO Fureaikan Museum...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: avclub.com  
-   Link: <a href="https://www.avclub.com/japanese-town-ufo-hub-iino-1848391834" target="_blank" rel="noopener noreferrer nofollow">https://www.avclub.com/japanese-town-ufo-hub-iino-1848391834</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By Andrew Paul | January 20, 2022 | 7:04pm. Aux Features UFO.Read more...</p></details>
+   Link:<a href="https://www.avclub.com/japanese-town-ufo-hub-iino-1848391834" target="_blank" rel="noopener noreferrer nofollow">https://www.avclub.com/japanese-town-ufo-hub-iino-1848391834</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By Andrew Paul | January 20, 2022 | 7:04pm. Aux Features UFO.Read more...</p></details>
    Published: January 20, 2022  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: "The local UFO Fureaikan Museum, which works  
-   Link: <a href="https://www.facebook.com/100064674762297/posts/902940258538458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064674762297/posts/902940258538458/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan&#x27;s UFO village, where the magnetic field is said to attract...&quot;The authorities have put a lot of effort into promoting Iinomachi di...</p></details>
+   Link:<a href="https://www.facebook.com/100064674762297/posts/902940258538458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064674762297/posts/902940258538458/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Japan&#x27;s UFO village, where the magnetic field is said to attract...&quot;The authorities have put a lot of effort into promoting Iinomachi di...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ABroadInJapan/comments/1jnpdb4/this_remote_japanese_town_is_a_ufo_hotspot_whats/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ABroadInJapan/comments/1jnpdb4/this_remote_japanese_town_is_a_ufo_hotspot_whats/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>describes a small remote town. There are few busses that come though...</p></details>
+   Link:<a href="https://www.reddit.com/r/ABroadInJapan/comments/1jnpdb4/this_remote_japanese_town_is_a_ufo_hotspot_whats/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ABroadInJapan/comments/1jnpdb4/this_remote_japanese_town_is_a_ufo_hotspot_whats/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>describes a small remote town. There are few busses that come though...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wanderlog.com  
    Title: Iino UFO Museum, Fukushima, Japan  
-   Link: <a href="https://wanderlog.com/place/details/2544045/iino-ufo-museum" target="_blank" rel="noopener noreferrer nofollow">https://wanderlog.com/place/details/2544045/iino-ufo-museum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reviews, Ratings...This unique museum chronicles both local and global UFO sightings through an array of photographs and historical doc...</p></details>
+   Link:<a href="https://wanderlog.com/place/details/2544045/iino-ufo-museum" target="_blank" rel="noopener noreferrer nofollow">https://wanderlog.com/place/details/2544045/iino-ufo-museum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reviews, Ratings...This unique museum chronicles both local and global UFO sightings through an array of photographs and historical doc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: japantoday.com  
    Title: inside iino fukushima ufo village  
-   Link: <a href="https://japantoday.com/category/features/lifestyle/inside-iino-fukushima-ufo-village" target="_blank" rel="noopener noreferrer nofollow">https://japantoday.com/category/features/lifestyle/inside-iino-fukushima-ufo-village</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Iino, Fukushima&#x27;s UFO village11 Dec 2025 — Every November, Iino becomes Japan&#x27;s center of extraterrestrial excitement during the U...</p></details>
+   Link:<a href="https://japantoday.com/category/features/lifestyle/inside-iino-fukushima-ufo-village" target="_blank" rel="noopener noreferrer nofollow">https://japantoday.com/category/features/lifestyle/inside-iino-fukushima-ufo-village</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Iino, Fukushima&#x27;s UFO village11 Dec 2025 — Every November, Iino becomes Japan&#x27;s center of extraterrestrial excitement during the U...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: practicalenglishworld.com  
    Title: fukushimas ufo centre  
-   Link: <a href="https://www.practicalenglishworld.com/blog/fukushimas-ufo-centre" target="_blank" rel="noopener noreferrer nofollow">https://www.practicalenglishworld.com/blog/fukushimas-ufo-centre</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fukushima&#x27;s UFO centreNov 6, 2025 — Iino believes it is a UFO hotspot in Japan. Local researchers reported that 450 UFOs were spotted nea...</p></details>
+   Link:<a href="https://www.practicalenglishworld.com/blog/fukushimas-ufo-centre" target="_blank" rel="noopener noreferrer nofollow">https://www.practicalenglishworld.com/blog/fukushimas-ufo-centre</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fukushima&#x27;s UFO centreNov 6, 2025 — Iino believes it is a UFO hotspot in Japan. Local researchers reported that 450 UFOs were spotted nea...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Josh Gates Is Chasing A Silent UFO Incident In Japan | Expedition X S4 E15  
-   Link: <a href="https://www.youtube.com/watch?v=geZH_dCMQr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=geZH_dCMQr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Skies in Japan: UFOs in Fukushima...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=geZH_dCMQr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=geZH_dCMQr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Skies in Japan: UFOs in Fukushima...</p></details>

@@ -263,13 +263,13 @@ That pattern matters because Doha is one of the Gulf’s most heavily observed u
 
 ### The 1997 highway sighting that still appears in UFO databases
 
-The most frequently cited early Doha case comes from a report later entered into the National UFO Reporting Center (NUFORC) database. According to the witness account, two people travelling by car near Doha on 18 September 1997 observed three round lights or discs arranged in a triangular formation. The report claims the objects moved in a zig-zag pattern and that an AM radio experienced interference during the sighting. The event reportedly lasted between ten and fifteen seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=18060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18060Occurred: 1997-09-18 22:15 Local · Reported: 2001-06-16 00:00 Pacific · Duration: 10-15 sec · No of observ...</span><span class="citation-popover-meta">Published: June 16, 2001</span></span></span>
+The most frequently cited early Doha case comes from a report later entered into the National UFO Reporting Center (NUFORC) database. According to the witness account, two people travelling by car near Doha on 18 September 1997 observed three round lights or discs arranged in a triangular formation. The report claims the objects moved in a zig-zag pattern and that an AM radio experienced interference during the sighting. The event reportedly lasted between ten and fifteen seconds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=18060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18060Occurred: 1997-09-18 22:15 Local · Reported: 2001-06-16 00:00 Pacific · Duration: 10-15 sec · No of observ...</span><span class="citation-popover-meta">Published: June 16, 2001</span></span></span>
 
 The report remains one of the more detailed Qatar entries because it includes a date, approximate time, witness count and behavioural description. Yet its evidential problems are equally clear:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The report was submitted roughly four years after the event rather than immediately after it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185845" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18584524 Dec 2024 — NUFORC UFO Sighting 185845. Occurred: 2024-12-21 18:30 Local Reported: 2024-12-23 02:31 Pac...</span><span class="citation-popover-meta">Published: December 21, 2024</span></span></span>
+* The report was submitted roughly four years after the event rather than immediately after it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185845" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 18584524 Dec 2024 — NUFORC UFO Sighting 185845. Occurred: 2024-12-21 18:30 Local Reported: 2024-12-23 02:31 Pac...</span><span class="citation-popover-meta">Published: December 21, 2024</span></span></span>
 * No photographs, video or physical traces were attached.
 * No public aviation records, military observations or radar correlations have emerged.
 * The radio-interference claim cannot be independently tested because it survives only as witness memory.
@@ -280,9 +280,9 @@ This leaves the case in an unusual category. It is not explained, but neither is
 
 ### The 2008 Doha lights discussion
 
-A second notable moment came in January 2008, when reports of unusual bright lights over Doha spread through online discussion forums and regional blogs. Witnesses described bright flame-like lights moving across the sky before disappearing into cloud cover. The discussion quickly produced competing explanations, including aircraft lights, meteors and more speculative UFO interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalvoices.org">[Global Voices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalvoices.org</span><span class="citation-popover-title">Global Voices Qatar: Strange Lights Over Doha</span><span class="citation-popover-snippet">Global VoicesQatar: Strange Lights Over DohaJanuary 28, 2008 — 28 Jan 2008 — Readers were quick to respond, with reactions ranging from t...</span><span class="citation-popover-meta">Published: January 28, 2008</span></span></span>
+A second notable moment came in January 2008, when reports of unusual bright lights over Doha spread through online discussion forums and regional blogs. Witnesses described bright flame-like lights moving across the sky before disappearing into cloud cover. The discussion quickly produced competing explanations, including aircraft lights, meteors and more speculative UFO interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalvoices.org">[Global Voices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalvoices.org</span><span class="citation-popover-title">Global Voices Qatar: Strange Lights Over Doha</span><span class="citation-popover-snippet">Global VoicesQatar: Strange Lights Over DohaJanuary 28, 2008 — 28 Jan 2008 — Readers were quick to respond, with reactions ranging from t...</span><span class="citation-popover-meta">Published: January 28, 2008</span></span></span>
 
-What makes the 2008 episode useful is not the sighting itself but the public reaction. Unlike the 1997 report, it generated immediate discussion among multiple observers. Yet even here, the evidence remained weak. No widely accepted photographs emerged, witness descriptions varied and no technical investigation followed. The event demonstrates a recurring Doha pattern: a brief burst of attention followed by an evidential dead end. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalvoices.org">[Global Voices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalvoices.org</span><span class="citation-popover-title">Global Voices Qatar: Strange Lights Over Doha</span><span class="citation-popover-snippet">Global VoicesQatar: Strange Lights Over DohaJanuary 28, 2008 — 28 Jan 2008 — Readers were quick to respond, with reactions ranging from t...</span><span class="citation-popover-meta">Published: January 28, 2008</span></span></span>
+What makes the 2008 episode useful is not the sighting itself but the public reaction. Unlike the 1997 report, it generated immediate discussion among multiple observers. Yet even here, the evidence remained weak. No widely accepted photographs emerged, witness descriptions varied and no technical investigation followed. The event demonstrates a recurring Doha pattern: a brief burst of attention followed by an evidential dead end.<span class="citation-chip-wrap"><a class="citation-chip" href="https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalvoices.org">[Global Voices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalvoices.org</span><span class="citation-popover-title">Global Voices Qatar: Strange Lights Over Doha</span><span class="citation-popover-snippet">Global VoicesQatar: Strange Lights Over DohaJanuary 28, 2008 — 28 Jan 2008 — Readers were quick to respond, with reactions ranging from t...</span><span class="citation-popover-meta">Published: January 28, 2008</span></span></span>
 
 ### Why early Doha cases remain difficult to revisit
 
@@ -307,7 +307,7 @@ As a result, older Doha incidents often survive as narratives rather than eviden
 
 ### The Barwa City report and the problem of distant lights
 
-One of the more recent Doha-area entries appeared in NUFORC in December 2024. The witness described blue-white circular lights seen from the vicinity of Barwa City, south of central Doha. The report estimated the object appeared similar in size to a hot-air balloon and remained visible for an extended period. Significantly, the reporting database itself notes a possible astronomical explanation, identifying a planet or star as a candidate interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
+One of the more recent Doha-area entries appeared in NUFORC in December 2024. The witness described blue-white circular lights seen from the vicinity of Barwa City, south of central Doha. The report estimated the object appeared similar in size to a hot-air balloon and remained visible for an extended period. Significantly, the reporting database itself notes a possible astronomical explanation, identifying a planet or star as a candidate interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span>
 
 The case illustrates how modern reports can still encounter the same verification problems as older ones. Despite being filed quickly after the event, key questions remain unanswered:
 
@@ -320,7 +320,7 @@ The case illustrates how modern reports can still encounter the same verificatio
 
 </div>
 
-Without those steps, the report remains an observation rather than an investigated case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 199210NUFORC Reports for Month 199210; Open, 10/31/1992 21:30, Connellsville; Open, 10/31/1992 19:00, Ostervil...</span></span></span>
+Without those steps, the report remains an observation rather than an investigated case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 199210NUFORC Reports for Month 199210; Open, 10/31/1992 21:30, Connellsville; Open, 10/31/1992 19:00, Ostervil...</span></span></span>
 
 ### Sea-entry narratives and coastal visibility
 
@@ -377,7 +377,7 @@ A light that appears stationary can in fact be an approaching aircraft whose rel
 
 Astronomical explanations appear repeatedly in discussions of Qatar sightings. Venus is particularly relevant because it can appear exceptionally bright near the horizon and is often reported worldwide as a UFO.
 
-Satellite visibility has become another major factor. Large constellations such as Starlink have produced numerous regional UFO discussions because multiple lights can appear in organised formations. Regional reporting on unusual lights has frequently moved from UFO speculation to satellite explanations once orbital data became available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalvoices.org">[Global Voices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalvoices.org</span><span class="citation-popover-title">Global Voices Qatar: Strange Lights Over Doha</span><span class="citation-popover-snippet">Global VoicesQatar: Strange Lights Over DohaJanuary 28, 2008 — 28 Jan 2008 — Readers were quick to respond, with reactions ranging from t...</span><span class="citation-popover-meta">Published: January 28, 2008</span></span></span>
+Satellite visibility has become another major factor. Large constellations such as Starlink have produced numerous regional UFO discussions because multiple lights can appear in organised formations. Regional reporting on unusual lights has frequently moved from UFO speculation to satellite explanations once orbital data became available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalvoices.org">[Global Voices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalvoices.org</span><span class="citation-popover-title">Global Voices Qatar: Strange Lights Over Doha</span><span class="citation-popover-snippet">Global VoicesQatar: Strange Lights Over DohaJanuary 28, 2008 — 28 Jan 2008 — Readers were quick to respond, with reactions ranging from t...</span><span class="citation-popover-meta">Published: January 28, 2008</span></span></span>
 
 ### Heat, haze and distance distort perception
 
@@ -403,203 +403,203 @@ These conditions can make ordinary objects appear larger, slower or stranger tha
 
 The answer is narrower than many UFO enthusiasts might expect.
 
-The 1997 highway report remains noteworthy because it contains a relatively detailed witness narrative and unusual movement claims. Yet it lacks the supporting evidence needed for a stronger assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The 1997 highway report remains noteworthy because it contains a relatively detailed witness narrative and unusual movement claims. Yet it lacks the supporting evidence needed for a stronger assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The 2008 lights episode remains useful because it shows how UFO discussions developed within Doha's online communities and demonstrates the range of ordinary explanations proposed immediately by observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalvoices.org">[Global Voices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalvoices.org</span><span class="citation-popover-title">Global Voices Qatar: Strange Lights Over Doha</span><span class="citation-popover-snippet">Global VoicesQatar: Strange Lights Over DohaJanuary 28, 2008 — 28 Jan 2008 — Readers were quick to respond, with reactions ranging from t...</span><span class="citation-popover-meta">Published: January 28, 2008</span></span></span>
+The 2008 lights episode remains useful because it shows how UFO discussions developed within Doha's online communities and demonstrates the range of ordinary explanations proposed immediately by observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalvoices.org">[Global Voices]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalvoices.org</span><span class="citation-popover-title">Global Voices Qatar: Strange Lights Over Doha</span><span class="citation-popover-snippet">Global VoicesQatar: Strange Lights Over DohaJanuary 28, 2008 — 28 Jan 2008 — Readers were quick to respond, with reactions ranging from t...</span><span class="citation-popover-meta">Published: January 28, 2008</span></span></span>
 
-Recent Barwa City and coastal reports show that unusual-light sightings continue to occur, but they also demonstrate how little progress is made when cases stop at witness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/04, 180. 2026/03, 196. 2026/02, 174. 2026/01, 277. 2025/12, 262. 2025/11...</span></span></span>
+Recent Barwa City and coastal reports show that unusual-light sightings continue to occur, but they also demonstrate how little progress is made when cases stop at witness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/04, 180. 2026/03, 196. 2026/02, 174. 2026/01, 277. 2025/12, 262. 2025/11...</span></span></span>
 
 Across the chronology, the most striking pattern is not a single unexplained object. It is the persistent absence of corroborating evidence. Doha's UFO record contains enough reports to sustain interest, but very few cases advance beyond the first stage of investigation. For that reason, the city's sightings are best understood as unresolved observations rather than established anomalies, with the central question remaining the same across nearly three decades: not whether witnesses saw something unusual, but why so little independent evidence followed.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Doha UFO Reports Still Matter?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Doha UFO Reports Still Matter?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines notable sightings and how cases are assessed when evidence is incomplete.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines notable sightings and how cases are assessed when evidence is incomplete.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores classification and evaluation of sightings rather than simple belief claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores classification and evaluation of sightings rather than simple belief claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Shows how UFO narratives develop around uncertain evidence and public perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how UFO narratives develop around uncertain evidence and public perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evaluating witness reports and evidence quality, matching Doha case-analysis themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating witness reports and evidence quality, matching Doha case-analysis themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-doha-ufo-reports-still-matter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-doha-ufo-reports-still-matter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ Across the chronology, the most striking pattern is not a single unexplained obj
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ Across the chronology, the most striking pattern is not a single unexplained obj
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ Across the chronology, the most striking pattern is not a single unexplained obj
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ Across the chronology, the most striking pattern is not a single unexplained obj
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -764,7 +764,7 @@ Across the chronology, the most striking pattern is not a single unexplained obj
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,147 +802,146 @@ Across the chronology, the most striking pattern is not a single unexplained obj
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=18060" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=18060</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18060Occurred: 1997-09-18 22:15 Local · Reported: 2001-06-16 00:00 Pacific · Duration: 10-15 sec · No of observ...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=18060" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=18060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18060Occurred: 1997-09-18 22:15 Local · Reported: 2001-06-16 00:00 Pacific · Duration: 10-15 sec · No of observ...</p></details>
    Published: June 16, 2001  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=185845" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185845</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18584524 Dec 2024 — NUFORC UFO Sighting 185845. Occurred: 2024-12-21 18:30 Local Reported: 2024-12-23 02:31 Pac...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=185845" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185845</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18584524 Dec 2024 — NUFORC UFO Sighting 185845. Occurred: 2024-12-21 18:30 Local Reported: 2024-12-23 02:31 Pac...</p></details>
    Published: December 21, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199210</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 199210NUFORC Reports for Month 199210; Open, 10/31/1992 21:30, Connellsville; Open, 10/31/1992 19:00, Ostervil...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e199210" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e199210</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 199210NUFORC Reports for Month 199210; Open, 10/31/1992 21:30, Connellsville; Open, 10/31/1992 19:00, Ostervil...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/04, 180. 2026/03, 196. 2026/02, 174. 2026/01, 277. 2025/12, 262. 2025/11...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/04, 180. 2026/03, 196. 2026/02, 174. 2026/01, 277. 2025/12, 262. 2025/11...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationQatar... Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Ro...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationQatar... Asher Salido on NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Ro...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
+   Link:<a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
    Title: Qatar Day on Instagram: "A UFO in Qatar?  
-   Link: <a href="https://www.instagram.com/reel/DEAJEo5Ikk9/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DEAJEo5Ikk9/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A very futuristic hot......: @hmhdrone &amp;middot; #Qatar #Doha #DohaQatar #QatarBalloonFestival2024 #QatarBalloonFestival #QBF2024 #UFO #...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DEAJEo5Ikk9/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DEAJEo5Ikk9/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A very futuristic hot......: @hmhdrone &amp;middot; #Qatar #Doha #DohaQatar #QatarBalloonFestival2024 #QatarBalloonFestival #QBF2024 #UFO #...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
    Title: There's NO WAY  
-   Link: <a href="https://www.instagram.com/reel/DWXIOJ6jM34/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWXIOJ6jM34/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more. View all 2 comments &amp;middot; surferkeithj. Looks like a large sting ray or...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWXIOJ6jM34/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWXIOJ6jM34/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more. View all 2 comments &amp;middot; surferkeithj. Looks like a large sting ray or...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: globalvoices.org  
    Title: Global Voices Qatar: Strange Lights Over Doha  
-   Link: <a href="https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/" target="_blank" rel="noopener noreferrer nofollow">https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global VoicesQatar: Strange Lights Over DohaJanuary 28, 2008 — 28 Jan 2008 — Readers were quick to respond, with reactions ranging from t...</p></details>
+   Link:<a href="https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/" target="_blank" rel="noopener noreferrer nofollow">https://globalvoices.org/2008/01/28/qatar-strange-lights-over-doha/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global VoicesQatar: Strange Lights Over DohaJanuary 28, 2008 — 28 Jan 2008 — Readers were quick to respond, with reactions ranging from t...</p></details>
    Published: January 28, 2008  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: globalvoices.org  
-   Link: <a href="https://globalvoices.org/-/world/middle-east-north-africa/qatar/?m=200801" target="_blank" rel="noopener noreferrer nofollow">https://globalvoices.org/-/world/middle-east-north-africa/qatar/?m=200801</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· January, 2008Qatar: Strange Lights Over Doha. Qatar&#x27;s bloggers are looking at the night&#x27;s... Is it a UFO, an aircraft, a meteor or Spi...</p></details>
+   Link:<a href="https://globalvoices.org/-/world/middle-east-north-africa/qatar/?m=200801" target="_blank" rel="noopener noreferrer nofollow">https://globalvoices.org/-/world/middle-east-north-africa/qatar/?m=200801</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· January, 2008Qatar: Strange Lights Over Doha. Qatar&#x27;s bloggers are looking at the night&#x27;s... Is it a UFO, an aircraft, a meteor or Spi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: globalvoices.org  
-   Link: <a href="https://globalvoices.org/-/type/video/page/2/?m=200801" target="_blank" rel="noopener noreferrer nofollow">https://globalvoices.org/-/type/video/page/2/?m=200801</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video · January, 2008 · Global VoicesGlobal Voices is an international, multilingual community of writers, translators, academics, and di...</p></details>
+   Link:<a href="https://globalvoices.org/-/type/video/page/2/?m=200801" target="_blank" rel="noopener noreferrer nofollow">https://globalvoices.org/-/type/video/page/2/?m=200801</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video · January, 2008 · Global VoicesGlobal Voices is an international, multilingual community of writers, translators, academics, and di...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O file release video transcript  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of this programme of release for the UFO files and it is often said about UFOs that &#x27;the truth is out there,&#x27; in my opinion the truth is...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-video-transcript.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of this programme of release for the UFO files and it is often said about UFOs that &#x27;the truth is out there,&#x27; in my opinion the truth is...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: research.bangor.ac.uk  
-   Link: <a href="https://research.bangor.ac.uk/files/72818436/2024_Manickam_PhD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.bangor.ac.uk/files/72818436/2024_Manickam_PhD.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sabah Al Ahmad Sea City (hereafter Sea City) is the largest coastal township...Read more...</p></details>
+   Link:<a href="https://research.bangor.ac.uk/files/72818436/2024_Manickam_PhD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.bangor.ac.uk/files/72818436/2024_Manickam_PhD.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sabah Al Ahmad Sea City (hereafter Sea City) is the largest coastal township...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dokumen.pub  
    Title: Sustainable Development: An Appraisal from the Gulf  
-   Link: <a href="https://dokumen.pub/sustainable-development-an-appraisal-from-the-gulf-region-9781782383727.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/sustainable-development-an-appraisal-from-the-gulf-region-9781782383727.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien values on people who have quite different views. This relates to a human-rights approach to development and sustainability, notably...</p></details>
+   Link:<a href="https://dokumen.pub/sustainable-development-an-appraisal-from-the-gulf-region-9781782383727.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/sustainable-development-an-appraisal-from-the-gulf-region-9781782383727.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien values on people who have quite different views. This relates to a human-rights approach to development and sustainability, notably...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: deewanbittal.files.wordpress.com  
    Title: current affairs study pdf july 2018 by affairscloud  
-   Link: <a href="https://deewanbittal.files.wordpress.com/2018/09/current-affairs-study-pdf-july-2018-by-affairscloud.pdf" target="_blank" rel="noopener noreferrer nofollow">https://deewanbittal.files.wordpress.com/2018/09/current-affairs-study-pdf-july-2018-by-affairscloud.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affairs July 2018 PDF Capsule2 Jul 2018 — UFO sightings. WAPCOS celebrates 50th foundation day. On 3rd July 2018, the 50th Foundation Day...</p></details>
+   Link:<a href="https://deewanbittal.files.wordpress.com/2018/09/current-affairs-study-pdf-july-2018-by-affairscloud.pdf" target="_blank" rel="noopener noreferrer nofollow">https://deewanbittal.files.wordpress.com/2018/09/current-affairs-study-pdf-july-2018-by-affairscloud.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affairs July 2018 PDF Capsule2 Jul 2018 — UFO sightings. WAPCOS celebrates 50th foundation day. On 3rd July 2018, the 50th Foundation Day...</p></details>
    Published: july 2018  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>city some world would where later up such used many can state about national... ufo neoclassical environmentally radios packing conform...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>city some world would where later up such used many can state about national... ufo neoclassical environmentally radios packing conform...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: esd.whs.mil  
    Title: FOID FOIA Log FY2020 updated 6 16 2023.xlsx  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/FOIA_Log/FOID_FOIA_Log-FY2020-updated-6-16-2023.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/FOIA_Log/FOID_FOIA_Log-FY2020-updated-6-16-2023.xlsx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All information available regarding Project Blue Book Request 2. All information available regarding U.F.O. sightings, claimed abductions...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/FOIA_Log/FOID_FOIA_Log-FY2020-updated-6-16-2023.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/FOIA_Log/FOID_FOIA_Log-FY2020-updated-6-16-2023.xlsx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All information available regarding Project Blue Book Request 2. All information available regarding U.F.O. sightings, claimed abductions...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/803385438510648/posts/1315669540615566/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/803385438510648/posts/1315669540615566/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>S. aviation history, made stranger by the fact...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/803385438510648/posts/1315669540615566/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/803385438510648/posts/1315669540615566/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>S. aviation history, made stranger by the fact...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: uapmonitor.org  
    Title: Interactive map, credibility scoring,  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map...UAP Monitor aggregates 198000+ UFO and UAP sighting reports from 15 verified so...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map...UAP Monitor aggregates 198000+ UFO and UAP sighting reports from 15 verified so...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: spotting an unknown object in texas  
-   Link: <a href="https://www.facebook.com/NatGeoUK/videos/spotting-an-unknown-object-in-texas/190598367189588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NatGeoUK/videos/spotting-an-unknown-object-in-texas/190598367189588/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On January 8th, 2008 in Stephenville, Texas a local pilot sees...We saw craft coming from the East going west had extremely large lights...</p></details>
+   Link:<a href="https://www.facebook.com/NatGeoUK/videos/spotting-an-unknown-object-in-texas/190598367189588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NatGeoUK/videos/spotting-an-unknown-object-in-texas/190598367189588/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On January 8th, 2008 in Stephenville, Texas a local pilot sees...We saw craft coming from the East going west had extremely large lights...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: resetdoc.org  
    Title: doha qatar 2008 media and dialogue  
-   Link: <a href="https://www.resetdoc.org/story/doha-qatar-2008-media-and-dialogue/" target="_blank" rel="noopener noreferrer nofollow">https://www.resetdoc.org/story/doha-qatar-2008-media-and-dialogue/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Events: Doha, Qatar 2008 - Media and DialogueIntellectuals, politicians and mass-media experts from all over the world gathered in Doha...</p></details>
+   Link:<a href="https://www.resetdoc.org/story/doha-qatar-2008-media-and-dialogue/" target="_blank" rel="noopener noreferrer nofollow">https://www.resetdoc.org/story/doha-qatar-2008-media-and-dialogue/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Events: Doha, Qatar 2008 - Media and DialogueIntellectuals, politicians and mass-media experts from all over the world gathered in Doha...</p></details>

@@ -1199,11 +1199,11 @@ The best case to take seriously is the 1994 Tajik Air crew report, not because i
 <img src="{{ "/assets/images/Tajikistan_279c77-overview.webp" | relative_url }}" alt="Overview image for What Do Tajikistan&#x27;s UFO Reports Really..." loading="eager" decoding="sync" fetchpriority="high">
 ## The strongest documented case is tied to Tajik Air, but happened over Kazakhstan
 
-The most substantial Tajikistan-linked UFO document is a U.S. Embassy Dushanbe cable dated 31 January 1994, titled “Tajik Air Pilots Report Unidentified Flying Object”. It says a Tajik Air chief pilot, American citizen Ed Rhodes, and two American pilot colleagues reported an encounter on 27 January while flying a Boeing 747SP at 41,000 feet at latitude 45 north and longitude 55 east, over Kazakhstan. The crew described a bright light approaching from the east, apparently at higher altitude, then manoeuvring for about forty minutes in circles, corkscrews and 90-degree turns before disappearing over the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1")
+The most substantial Tajikistan-linked UFO document is a U.S. Embassy Dushanbe cable dated 31 January 1994, titled “Tajik Air Pilots Report Unidentified Flying Object”. It says a Tajik Air chief pilot, American citizen Ed Rhodes, and two American pilot colleagues reported an encounter on 27 January while flying a Boeing 747SP at 41,000 feet at latitude 45 north and longitude 55 east, over Kazakhstan. The crew described a bright light approaching from the east, apparently at higher altitude, then manoeuvring for about forty minutes in circles, corkscrews and 90-degree turns before disappearing over the horizon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1")
 
-The cable is unusually valuable because it is not just a later UFO-book retelling. It appears in a government cable from Dushanbe, was addressed to U.S. officials and neighbouring embassies, and was later released in full. The same text had also appeared in CUFON’s archive of State Department UFO documents after a Freedom of Information Act process that retrieved 22 responsive documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/staterepts.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The cable is unusually valuable because it is not just a later UFO-book retelling. It appears in a government cable from Dushanbe, was addressed to U.S. officials and neighbouring embassies, and was later released in full. The same text had also appeared in CUFON’s archive of State Department UFO documents after a Freedom of Information Act process that retrieved 22 responsive documents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/staterepts.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case still has limits. The crew could not discern the object’s shape because it was dark. The “contrails” were seen later, after sunrise, and the pilot’s estimate of their altitude was not an instrumented measurement. The cable itself ends with a restrained diplomatic comment: “We have no opinion and report the above for what it may be worth.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1")
+The case still has limits. The crew could not discern the object’s shape because it was dark. The “contrails” were seen later, after sunrise, and the pilot’s estimate of their altitude was not an instrumented measurement. The cable itself ends with a restrained diplomatic comment: “We have no opinion and report the above for what it may be worth.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1")
 
 For this Tajikistan page, the key classification is therefore: **officially recorded but unresolved, not confirmed**. It belongs naturally to both the Tajikistan branch and a Kazakhstan sibling branch, because the reporting channel and crew were Tajik Air-related, while the reported location was over Kazakhstan. Treating it as purely “Tajikistan UFO evidence” would be misleading; ignoring it would also miss the strongest Tajikistan-linked archival record.
 
@@ -1211,28 +1211,28 @@ For this Tajikistan page, the key classification is therefore: **officially reco
 
 Local Tajik media contain a small number of UFO stories, especially around Khujand in Sughd Region. These accounts are useful as cultural and witness-history material, but they generally lack the evidence needed to move beyond “reported sighting”.
 
-One 2011 Asia-Plus report says residents of Khujand saw a strange object at about two in the morning on 4 July. A woman living near Spartak stadium described a large, bright, round object with smaller blinking lights around it, moving silently over a four-storey building towards the Panjshanbe market area. The same report says Khujand airport air-traffic staff did not see anything unusual on radar and had received no aircraft reports, while adding that such objects would not necessarily be registered by radar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+One 2011 Asia-Plus report says residents of Khujand saw a strange object at about two in the morning on 4 July. A woman living near Spartak stadium described a large, bright, round object with smaller blinking lights around it, moving silently over a four-storey building towards the Panjshanbe market area. The same report says Khujand airport air-traffic staff did not see anything unusual on radar and had received no aircraft reports, while adding that such objects would not necessarily be registered by radar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
 
-A separate 2010 Asia-Plus story from Khujand reported a schoolboy’s mobile-phone video of a red object emitting white light, moving towards the mountains and then accelerating. The article also noted that Khujand airport air-traffic control had not detected an unidentified object, and it quoted a resident recalling an earlier cigar-shaped, silent light over the city in the late 1990s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+A separate 2010 Asia-Plus story from Khujand reported a schoolboy’s mobile-phone video of a red object emitting white light, moving towards the mountains and then accelerating. The article also noted that Khujand airport air-traffic control had not detected an unidentified object, and it quoted a resident recalling an earlier cigar-shaped, silent light over the city in the late 1990s.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
 
-A later UFO-themed Asia-Plus feature collected personal memories from Tajik witnesses rather than presenting a new investigation. It included Saida Rajabova’s account from Khujand: for years she noticed a vertical bright glow between two mountains near the Mogoltau range, and she later connected that long-running light source with an oval object she said she saw on 26 August 2009. The same feature also included Dushanbe-linked recollections, including Farangis Sharif-Zoda’s story of seeing a close object during a road journey towards Samarkand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+A later UFO-themed Asia-Plus feature collected personal memories from Tajik witnesses rather than presenting a new investigation. It included Saida Rajabova’s account from Khujand: for years she noticed a vertical bright glow between two mountains near the Mogoltau range, and she later connected that long-running light source with an oval object she said she saw on 26 August 2009. The same feature also included Dushanbe-linked recollections, including Farangis Sharif-Zoda’s story of seeing a close object during a road journey towards Samarkand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
 
 These reports show a regional pattern: Khujand and northern Tajikistan appear more often in the accessible local press record than the Pamirs or southern lowlands. That may reflect actual sighting distribution, but it may also reflect media reach, urban observers, aircraft routes, mountain horizons, and the availability of Russian-language local reporting. The evidence does not support a claim that Khujand is a confirmed UFO hotspot; it supports the narrower claim that Khujand has a visible cluster of reported sightings in Tajik local media.
 
 <img src="{{ "/assets/images/Tajikistan_279c77-Illustration-1-dark.svg" | relative_url }}" alt="What Do Tajikistan&#x27;s UFO Reports Really... illustration 1" data-theme-src-dark="{{ "/assets/images/Tajikistan_279c77-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tajikistan_279c77-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hissar “anomalous zone” is folklore-rich, not evidence-rich
 
-Tajikistan’s most distinctive UFO-adjacent tradition is not an airliner case or a city sighting, but the Hissar mountain “anomalous zone” narrative. Travel and local-interest articles associate places such as Lake Timurdara, the Karatag gorge and the wider Hissar area with stories of UFOs, “wild man” searches, strange lights and other unexplained phenomena. Asia-Plus and MegaFon travel content describe Lake Timurdara as being in a so-called Hissar anomalous zone where people searched for a snowman-like figure and observed UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+Tajikistan’s most distinctive UFO-adjacent tradition is not an airliner case or a city sighting, but the Hissar mountain “anomalous zone” narrative. Travel and local-interest articles associate places such as Lake Timurdara, the Karatag gorge and the wider Hissar area with stories of UFOs, “wild man” searches, strange lights and other unexplained phenomena. Asia-Plus and MegaFon travel content describe Lake Timurdara as being in a so-called Hissar anomalous zone where people searched for a snowman-like figure and observed UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
 
-The most detailed recent Asia-Plus treatment presents the Hissar material as a collection of mountain legends and expedition stories, including accounts of lights, fireballs, equipment failures, strange dreams and cryptid-like encounters in the Siyoma valley and nearby “Gorge of Fear”. It places these claims in the orbit of older searches for a relict hominoid rather than in a clean UFO-investigation framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+The most detailed recent Asia-Plus treatment presents the Hissar material as a collection of mountain legends and expedition stories, including accounts of lights, fireballs, equipment failures, strange dreams and cryptid-like encounters in the Siyoma valley and nearby “Gorge of Fear”. It places these claims in the orbit of older searches for a relict hominoid rather than in a clean UFO-investigation framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
 
-That matters for reliability. The Hissar stories are memorable and locally textured, but they mix multiple categories: aerial lights, folklore, expedition anxiety, cryptozoology, mountain hazards and supernatural interpretation. They are not supported by radar tracks, calibrated photographs, recovered material or official incident reports. A sceptical hiking account about Lake Timurdara says the 1980s–1990s fashion for such mysteries faded and that many alleged traces or proofs later turned out to have been invented by local herders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://m.ok.ru/dushanbint/topic/67966172102758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.ok.ru">[OK &#124; OK.ru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.ok.ru</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That matters for reliability. The Hissar stories are memorable and locally textured, but they mix multiple categories: aerial lights, folklore, expedition anxiety, cryptozoology, mountain hazards and supernatural interpretation. They are not supported by radar tracks, calibrated photographs, recovered material or official incident reports. A sceptical hiking account about Lake Timurdara says the 1980s–1990s fashion for such mysteries faded and that many alleged traces or proofs later turned out to have been invented by local herders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://m.ok.ru/dushanbint/topic/67966172102758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: m.ok.ru">[OK &#124; OK.ru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">m.ok.ru</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The fairest classification is: **contested folklore and field-legend material**. It should be preserved as part of Tajikistan’s UFO culture, but not treated as strong evidence for anomalous craft.
 
 ## One northern Tajikistan “UFO photo” has a clear mundane explanation
 
-The 2010 Khujand/Sughd mobile-phone case is especially useful because it shows how quickly a reported UFO can collapse into an optical or camera artefact. A UFO-com analysis discussed the same northern Tajikistan report and argued that the supposed object near the Sun was a familiar digital-camera effect: overexposure and sensor or white-balance behaviour when photographing the Sun. The article also noted that the object did not appear on Khujand airport radar, which it considered unsurprising if the “object” existed only as an imaging artefact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/ufolenta/detail.php?ELEMENT_ID=4055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[UfoCom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-title">Ufo ComЧерные круги под глазами у Солнца</span><span class="citation-popover-snippet">Ufo ComЧерные круги под глазами у Солнца</span></span></span>
+The 2010 Khujand/Sughd mobile-phone case is especially useful because it shows how quickly a reported UFO can collapse into an optical or camera artefact. A UFO-com analysis discussed the same northern Tajikistan report and argued that the supposed object near the Sun was a familiar digital-camera effect: overexposure and sensor or white-balance behaviour when photographing the Sun. The article also noted that the object did not appear on Khujand airport radar, which it considered unsurprising if the “object” existed only as an imaging artefact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/ufolenta/detail.php?ELEMENT_ID=4055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[UfoCom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-title">Ufo ComЧерные круги под глазами у Солнца</span><span class="citation-popover-snippet">Ufo ComЧерные круги под глазами у Солнца</span></span></span>
 
 This is the clearest debunked claim in the accessible Tajikistan material. It does not prove that every Tajik report is mistaken, but it does show why image-only cases, especially phone images taken near the Sun, deserve caution. It also explains a wider pattern common in UFO reporting: the object becomes impressive in a compressed or low-resolution image, but less persuasive once camera behaviour, glare, exposure and context are considered.
 
@@ -1242,19 +1242,19 @@ The Khujand photo case should therefore be classified as: **debunked or strongly
 
 ## Tajikistan’s meteor science is a useful control against UFO overreach
 
-A striking feature of Tajikistan’s sky-observation landscape is that the country has serious meteor research. The Tajikistan fireball network, operated through researchers connected with the Institute of Astrophysics of the Tajik Academy of Sciences, has been used to photograph and analyse meteor fireballs. A 2011 Astronomy & Astrophysics paper reports that the network had operated since 2009 and photographed 16 Leonid fireballs during observations from 13 to 21 November 2009, allowing researchers to calculate trajectories, velocities, orbits, light curves and photometric masses for multiple events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aanda.org/articles/aa/pdf/2011/09/aa17527-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aanda.org">[A&amp;A]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aanda.org</span><span class="citation-popover-title">aa17527 11</span><span class="citation-popover-snippet">aa17527 11</span></span></span>
+A striking feature of Tajikistan’s sky-observation landscape is that the country has serious meteor research. The Tajikistan fireball network, operated through researchers connected with the Institute of Astrophysics of the Tajik Academy of Sciences, has been used to photograph and analyse meteor fireballs. A 2011 Astronomy & Astrophysics paper reports that the network had operated since 2009 and photographed 16 Leonid fireballs during observations from 13 to 21 November 2009, allowing researchers to calculate trajectories, velocities, orbits, light curves and photometric masses for multiple events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aanda.org/articles/aa/pdf/2011/09/aa17527-11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aanda.org">[A&amp;A]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aanda.org</span><span class="citation-popover-title">aa17527 11</span><span class="citation-popover-snippet">aa17527 11</span></span></span>
 
-This does not explain every UFO report in Tajikistan. The 1994 Tajik Air crew rejected a meteor explanation, saying they had seen many meteors and space-junk entries during their aviation careers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1") But the existence of a Tajik fireball network is important for interpretation. It shows that bright, dramatic sky phenomena over Tajikistan and the wider region are not automatically mysterious; some are exactly the kind of natural events that can be documented scientifically when the right instruments are in place.
+This does not explain every UFO report in Tajikistan. The 1994 Tajik Air crew rejected a meteor explanation, saying they had seen many meteors and space-junk entries during their aviation careers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1") But the existence of a Tajik fireball network is important for interpretation. It shows that bright, dramatic sky phenomena over Tajikistan and the wider region are not automatically mysterious; some are exactly the kind of natural events that can be documented scientifically when the right instruments are in place.
 
-International meteor organisations define fireballs as especially bright meteors, and bright meteors can be seen across large areas, sometimes producing memorable witness reports that vary by viewing angle and local horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In a mountainous country where observers often see lights over ridges, passes or valleys, this matters. Without time, direction, duration, angular speed, weather, camera metadata and multiple independent observation points, a dramatic “object” can remain unidentified simply because the data are weak.
+International meteor organisations define fireballs as especially bright meteors, and bright meteors can be seen across large areas, sometimes producing memorable witness reports that vary by viewing angle and local horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In a mountainous country where observers often see lights over ridges, passes or valleys, this matters. Without time, direction, duration, angular speed, weather, camera metadata and multiple independent observation points, a dramatic “object” can remain unidentified simply because the data are weak.
 
 ## What official material does and does not show
 
-There is no accessible evidence of a dedicated Tajik state UFO investigation programme comparable to U.S. AARO, France’s GEIPAN, or historical Soviet-era commissions. The public official record most relevant to Tajikistan is external: the U.S. Embassy Dushanbe cable on the 1994 Tajik Air report, later incorporated into U.S. UAP release coverage. The Associated Press described the wider U.S. release as a trove of UFO files that left interpretation to the public, and specifically cited the Tajikistan embassy cable as one example of a brightly lit UAP report involving a Tajik pilot and Americans over Kazakhstan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3e658d2cf3742465127c0049c872240a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+There is no accessible evidence of a dedicated Tajik state UFO investigation programme comparable to U.S. AARO, France’s GEIPAN, or historical Soviet-era commissions. The public official record most relevant to Tajikistan is external: the U.S. Embassy Dushanbe cable on the 1994 Tajik Air report, later incorporated into U.S. UAP release coverage. The Associated Press described the wider U.S. release as a trove of UFO files that left interpretation to the public, and specifically cited the Tajikistan embassy cable as one example of a brightly lit UAP report involving a Tajik pilot and Americans over Kazakhstan.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3e658d2cf3742465127c0049c872240a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The broader official UAP literature also argues against overconfident alien conclusions. The U.S. ODNI’s 2022 annual report said UAP reporting had increased to 510 reports by 30 August 2022, partly because of reduced stigma and flight-safety concerns, but it also said many cases suffered from limited data and that more than half of the newly characterised reports had unremarkable features such as drones, balloons or clutter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+The broader official UAP literature also argues against overconfident alien conclusions. The U.S. ODNI’s 2022 annual report said UAP reporting had increased to 510 reports by 30 August 2022, partly because of reduced stigma and flight-safety concerns, but it also said many cases suffered from limited data and that more than half of the newly characterised reports had unremarkable features such as drones, balloons or clutter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
-AARO’s 2024 historical review found no evidence that U.S. government or industry had possessed off-world technology and concluded that the vast majority of UAP reports reviewed by official, foreign and academic efforts could be resolved as ordinary objects, natural phenomena, optical illusions or misidentifications, even though some cases remained unresolved because of poor data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1") NASA’s independent UAP study reached a similar practical lesson: progress depends on standardised reporting, calibrated sensors, well-curated data and multiple independent observations, because at any given time most of Earth is not covered by high-resolution satellite imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+AARO’s 2024 historical review found no evidence that U.S. government or industry had possessed off-world technology and concluded that the vast majority of UAP reports reviewed by official, foreign and academic efforts could be resolved as ordinary objects, natural phenomena, optical illusions or misidentifications, even though some cases remained unresolved because of poor data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1") NASA’s independent UAP study reached a similar practical lesson: progress depends on standardised reporting, calibrated sensors, well-curated data and multiple independent observations, because at any given time most of Earth is not covered by high-resolution satellite imagery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Applied to Tajikistan, this means the right question is not “which Tajik UFO was alien?” but “which reports have enough data to test?” At present, only the 1994 [Tajik Air cable]({{ 'tajik-air-cable/' | relative_url }}) rises above anecdote, and even that lacks the photos, sensor data and independent technical analysis needed for a firm identification.
 
@@ -1263,13 +1263,13 @@ Applied to Tajikistan, this means the right question is not “which Tajik UFO w
 
 A useful way to read the Tajikistan record is to separate the reports by evidence quality rather than by how strange they sound.
 
-**Officially recorded but unresolved:** the 1994 Tajik Air crew report. It has named aviation witnesses, a diplomatic cable, a date, altitude, location and a detailed description. It does not have publicly available photos, radar confirmation, recovered material or a resolved explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1")
+**Officially recorded but unresolved:** the 1994 Tajik Air crew report. It has named aviation witnesses, a diplomatic cable, a date, altitude, location and a detailed description. It does not have publicly available photos, radar confirmation, recovered material or a resolved explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span><span class="citation-popover-snippet">U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,</span></span></span>(#endnote-1 "Endnote 1")
 
-**Locally reported but unconfirmed:** the Khujand 2011 night sighting, the 2010 Sughd/Khujand mobile-phone report as originally published, and the 2024 Asia-Plus witness recollections. These accounts are useful for mapping local UFO culture and witness memory, but they rest mainly on testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+**Locally reported but unconfirmed:** the Khujand 2011 night sighting, the 2010 Sughd/Khujand mobile-phone report as originally published, and the 2024 Asia-Plus witness recollections. These accounts are useful for mapping local UFO culture and witness memory, but they rest mainly on testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
 
-**Folklore and anomalous-zone tradition:** the Hissar, Siyoma and Timurdara material. These stories are regionally distinctive, but they blend UFO motifs with cryptids, mountain fear, strange lights and supernatural framing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
+**Folklore and anomalous-zone tradition:** the Hissar, Siyoma and Timurdara material. These stories are regionally distinctive, but they blend UFO motifs with cryptids, mountain fear, strange lights and supernatural framing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asiaplustj.info">[Asia-Plus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asiaplustj.info</span><span class="citation-popover-title">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span><span class="citation-popover-snippet">Asia-PlusЖители Худжанда утверждают, что видели НЛО</span></span></span>
 
-**Debunked or strongly explained:** the “black circle” or object near the Sun in the northern Tajikistan phone-camera case, where a specialist UFO-com analysis identified a known camera/sensor effect rather than an aerial object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/ufolenta/detail.php?ELEMENT_ID=4055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[UfoCom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-title">Ufo ComЧерные круги под глазами у Солнца</span><span class="citation-popover-snippet">Ufo ComЧерные круги под глазами у Солнца</span></span></span>
+**Debunked or strongly explained:** the “black circle” or object near the Sun in the northern Tajikistan phone-camera case, where a specialist UFO-com analysis identified a known camera/sensor effect rather than an aerial object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-com.net/ufolenta/detail.php?ELEMENT_ID=4055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-com.net">[UfoCom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-com.net</span><span class="citation-popover-title">Ufo ComЧерные круги под глазами у Солнца</span><span class="citation-popover-snippet">Ufo ComЧерные круги под глазами у Солнца</span></span></span>
 
 This grading is not hostile to witnesses. It simply keeps categories clear. A witness can be sincere and still misperceive distance, altitude, speed or size; a photograph can look striking and still be a sensor artefact; an official document can be genuine while the event it describes remains unexplained.
 
@@ -1279,7 +1279,7 @@ This grading is not hostile to witnesses. It simply keeps categories clear. A wi
 
 Tajikistan’s UFO narratives are shaped by the country’s terrain and observation conditions. Much of the country is mountainous, and many reported lights are described in relation to ridges, passes, valleys or the horizon. In such settings, distance cues are poor. A light seen “between two mountains” may be a local ground light, aircraft, astronomical object, atmospheric effect, meteor, searchlight or reflection, depending on position and timing.
 
-The social setting also matters. The country’s most accessible UFO stories are mostly carried by local media, travel writing, personal memory and Russian-language UFO/sceptical websites. That produces a record that is vivid but uneven: strong on narrative, weak on instrument data. The 2010 Avesta piece jokingly complained that UFOs seemed to avoid Tajikistan, which itself suggests that local UFO reporting has often been treated lightly, as curiosity or humour rather than as a sustained investigative field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://avesta.tj/2010/08/12/pochemu-k-nam-ne-priletaet-nlo-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avesta.tj">[Новости Таджикистана - Avesta.tj]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avesta.tj</span><span class="citation-popover-title">Новости Таджикистана</span><span class="citation-popover-snippet">Новости Таджикистана</span></span></span>
+The social setting also matters. The country’s most accessible UFO stories are mostly carried by local media, travel writing, personal memory and Russian-language UFO/sceptical websites. That produces a record that is vivid but uneven: strong on narrative, weak on instrument data. The 2010 Avesta piece jokingly complained that UFOs seemed to avoid Tajikistan, which itself suggests that local UFO reporting has often been treated lightly, as curiosity or humour rather than as a sustained investigative field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://avesta.tj/2010/08/12/pochemu-k-nam-ne-priletaet-nlo-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avesta.tj">[Новости Таджикистана - Avesta.tj]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avesta.tj</span><span class="citation-popover-title">Новости Таджикистана</span><span class="citation-popover-snippet">Новости Таджикистана</span></span></span>
 
 The most productive future standard for Tajikistan would be simple rather than sensational: exact time, location, direction, elevation above the horizon, duration, weather, camera original files, witness separation, aircraft-track checks, meteor/fireball checks, satellite checks and, where possible, multiple calibrated observations. That is the difference between a story that remains interesting and a case that can actually be investigated.
 
@@ -1294,194 +1294,194 @@ The most honest assessment is therefore modest: Tajikistan is not, on the public
 <img src="{{ "/assets/images/Tajikistan_279c77-Illustration-3-dark.svg" | relative_url }}" alt="What Do Tajikistan&#x27;s UFO Reports Really... illustration 3" data-theme-src-dark="{{ "/assets/images/Tajikistan_279c77-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tajikistan_279c77-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Tajikistan&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Tajikistan&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for distinguishing strong and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for distinguishing strong and weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Provides broader context for official UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for official UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits the aviation and official-document angle present in Tajikistan cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the aviation and official-document angle present in Tajikistan cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Matches a page evaluating evidence rather than claiming proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches a page evaluating evidence rather than claiming proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-tajikistan-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-tajikistan-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1497,7 +1497,7 @@ The most honest assessment is therefore modest: Tajikistan is not, on the public
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1517,7 +1517,7 @@ The most honest assessment is therefore modest: Tajikistan is not, on the public
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1549,7 +1549,7 @@ The most honest assessment is therefore modest: Tajikistan is not, on the public
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1601,7 +1601,7 @@ The most honest assessment is therefore modest: Tajikistan is not, on the public
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1646,7 +1646,7 @@ The most honest assessment is therefore modest: Tajikistan is not, on the public
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1684,264 +1684,263 @@ The most honest assessment is therefore modest: Tajikistan is not, on the public
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
    Title: U.S. Department of War State Department UAP Cable 2, Dushanbe Tajikistan,  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dos-uap-d2-cable-2-kazakhstan-january-1994.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cufon.org  
-   Link: <a href="https://www.cufon.org/cufon/staterepts.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/staterepts.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/staterepts.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/staterepts.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: megafon.tj  
-   Link: <a href="https://megafon.tj/news/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo-14796" target="_blank" rel="noopener noreferrer nofollow">https://megafon.tj/news/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo-14796</a>  
+   Link:<a href="https://megafon.tj/news/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo-14796" target="_blank" rel="noopener noreferrer nofollow">https://megafon.tj/news/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo-14796</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufo-com.net  
    Title: Ufo ComЧерные круги под глазами у Солнца  
-   Link: <a href="https://www.ufo-com.net/ufolenta/detail.php?ELEMENT_ID=4055" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/ufolenta/detail.php?ELEMENT_ID=4055</a>  
+   Link:<a href="https://www.ufo-com.net/ufolenta/detail.php?ELEMENT_ID=4055" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/ufolenta/detail.php?ELEMENT_ID=4055</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aanda.org  
    Title: aa17527 11  
-   Link: <a href="https://www.aanda.org/articles/aa/pdf/2011/09/aa17527-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/articles/aa/pdf/2011/09/aa17527-11.pdf</a>  
+   Link:<a href="https://www.aanda.org/articles/aa/pdf/2011/09/aa17527-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/articles/aa/pdf/2011/09/aa17527-11.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: avesta.tj  
    Title: Новости Таджикистана  
-   Link: <a href="https://avesta.tj/2010/08/12/pochemu-k-nam-ne-priletaet-nlo-2/" target="_blank" rel="noopener noreferrer nofollow">https://avesta.tj/2010/08/12/pochemu-k-nam-ne-priletaet-nlo-2/</a>  
+   Link:<a href="https://avesta.tj/2010/08/12/pochemu-k-nam-ne-priletaet-nlo-2/" target="_blank" rel="noopener noreferrer nofollow">https://avesta.tj/2010/08/12/pochemu-k-nam-ne-priletaet-nlo-2/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufo-com.net  
    Title: o fenomenakh gissarskogo khrebta v tadzhikistane  
-   Link: <a href="https://www.ufo-com.net/kolonka/ekaterina-ageenkova/o-fenomenakh-gissarskogo-khrebta-v-tadzhikistane/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/kolonka/ekaterina-ageenkova/o-fenomenakh-gissarskogo-khrebta-v-tadzhikistane/</a>  
+   Link:<a href="https://www.ufo-com.net/kolonka/ekaterina-ageenkova/o-fenomenakh-gissarskogo-khrebta-v-tadzhikistane/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-com.net/kolonka/ekaterina-ageenkova/o-fenomenakh-gissarskogo-khrebta-v-tadzhikistane/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20110016620/downloads/20110016620.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20110016620/downloads/20110016620.pdf</a>  
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20110016620/downloads/20110016620.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20110016620/downloads/20110016620.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2017/04/580931main_nasa_cp_2011_216469.pdf?emrc=ca6c60" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2017/04/580931main_nasa_cp_2011_216469.pdf?emrc=ca6c60</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2017/04/580931main_nasa_cp_2011_216469.pdf?emrc=ca6c60" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2017/04/580931main_nasa_cp_2011_216469.pdf?emrc=ca6c60</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: avesta.tj  
-   Link: <a href="https://avesta.tj/2022/07/01/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo/" target="_blank" rel="noopener noreferrer nofollow">https://avesta.tj/2022/07/01/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo/</a>  
+   Link:<a href="https://avesta.tj/2022/07/01/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo/" target="_blank" rel="noopener noreferrer nofollow">https://avesta.tj/2022/07/01/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
    Title: pentagon releases never before seen files on ufos 13541565  
-   Link: <a href="https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565</a>  
+   Link:<a href="https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: asiaplustj.info  
    Title: Asia-PlusЖители Худжанда утверждают, что видели НЛО  
-   Link: <a href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow">https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo</a>  
+   Link:<a href="https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo" target="_blank" rel="noopener noreferrer nofollow">https://www.asiaplustj.info/news/life/person/20110704/zhiteli-khudzhanda-utverzhdayut-chto-videli-nlo</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: asiaplustj.info  
    Title: Asia-PlusНад Согдом пролетел неопознанный летающий объект  
-   Link: <a href="https://www.asiaplustj.info/ru/news/tajikistan/incidents/20100323/nad-sogdom-proletel-neopoznannyi-letayushchii-obekt" target="_blank" rel="noopener noreferrer nofollow">https://www.asiaplustj.info/ru/news/tajikistan/incidents/20100323/nad-sogdom-proletel-neopoznannyi-letayushchii-obekt</a>  
+   Link:<a href="https://www.asiaplustj.info/ru/news/tajikistan/incidents/20100323/nad-sogdom-proletel-neopoznannyi-letayushchii-obekt" target="_blank" rel="noopener noreferrer nofollow">https://www.asiaplustj.info/ru/news/tajikistan/incidents/20100323/nad-sogdom-proletel-neopoznannyi-letayushchii-obekt</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: asiaplustj.info  
-   Link: <a href="https://www.asiaplustj.info/ru/news/tajikistan/society/20240702/eto-bilo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazi-tadzhikistantsev-nablyudavshih-za-nlo" target="_blank" rel="noopener noreferrer nofollow">https://www.asiaplustj.info/ru/news/tajikistan/society/20240702/eto-bilo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazi-tadzhikistantsev-nablyudavshih-za-nlo</a>  
+   Link:<a href="https://www.asiaplustj.info/ru/news/tajikistan/society/20240702/eto-bilo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazi-tadzhikistantsev-nablyudavshih-za-nlo" target="_blank" rel="noopener noreferrer nofollow">https://www.asiaplustj.info/ru/news/tajikistan/society/20240702/eto-bilo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazi-tadzhikistantsev-nablyudavshih-za-nlo</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: asiaplustj.info  
-   Link: <a href="https://asiaplustj.info/tj/node/323759" target="_blank" rel="noopener noreferrer nofollow">https://asiaplustj.info/tj/node/323759</a>  
+   Link:<a href="https://asiaplustj.info/tj/node/323759" target="_blank" rel="noopener noreferrer nofollow">https://asiaplustj.info/tj/node/323759</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: asiaplustj.info  
    Title: Asia-PlusПутешествие на север Таджикистана: крепости, замки,  
-   Link: <a href="https://asiaplustj.info/tj/node/313673" target="_blank" rel="noopener noreferrer nofollow">https://asiaplustj.info/tj/node/313673</a>  
+   Link:<a href="https://asiaplustj.info/tj/node/313673" target="_blank" rel="noopener noreferrer nofollow">https://asiaplustj.info/tj/node/313673</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: asiaplus.news  
    Title: Asia-PlusДухи гор, управляемые сны и иная реальность. Загадочный Таджикистан  
-   Link: <a href="https://asiaplus.news/2026/05/17/duhi-gor-upravlyaemye-sny-i-inaya-realnost-zagadochnyj-tadzhikistan/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2026/05/17/duhi-gor-upravlyaemye-sny-i-inaya-realnost-zagadochnyj-tadzhikistan/</a>  
+   Link:<a href="https://asiaplus.news/2026/05/17/duhi-gor-upravlyaemye-sny-i-inaya-realnost-zagadochnyj-tadzhikistan/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2026/05/17/duhi-gor-upravlyaemye-sny-i-inaya-realnost-zagadochnyj-tadzhikistan/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: m.ok.ru  
-   Link: <a href="https://m.ok.ru/dushanbint/topic/67966172102758" target="_blank" rel="noopener noreferrer nofollow">https://m.ok.ru/dushanbint/topic/67966172102758</a>  
+   Link:<a href="https://m.ok.ru/dushanbint/topic/67966172102758" target="_blank" rel="noopener noreferrer nofollow">https://m.ok.ru/dushanbint/topic/67966172102758</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/3e658d2cf3742465127c0049c872240a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3e658d2cf3742465127c0049c872240a</a>  
+   Link:<a href="https://apnews.com/article/3e658d2cf3742465127c0049c872240a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3e658d2cf3742465127c0049c872240a</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: asiaplustj.info  
-   Link: <a href="https://www.asiaplustj.info/ru/news/tajikistan/society/20220701/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledi-snezhnogo-cheloveka-i-nlo" target="_blank" rel="noopener noreferrer nofollow">https://www.asiaplustj.info/ru/news/tajikistan/society/20220701/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledi-snezhnogo-cheloveka-i-nlo</a>  
+   Link:<a href="https://www.asiaplustj.info/ru/news/tajikistan/society/20220701/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledi-snezhnogo-cheloveka-i-nlo" target="_blank" rel="noopener noreferrer nofollow">https://www.asiaplustj.info/ru/news/tajikistan/society/20220701/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledi-snezhnogo-cheloveka-i-nlo</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: asiaplustj.info  
-   Link: <a href="https://asiaplustj.info/en/node/280085" target="_blank" rel="noopener noreferrer nofollow">https://asiaplustj.info/en/node/280085</a>  
+   Link:<a href="https://asiaplustj.info/en/node/280085" target="_blank" rel="noopener noreferrer nofollow">https://asiaplustj.info/en/node/280085</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: old.asiaplustj.info  
-   Link: <a href="https://old.asiaplustj.info/ru/news/tajikistan/20250702/salom-aleikum-tadzhikistan-anonsi-sobitii-den-v-istorii-prognoz-pogodi-na-2-iyulya-2025-goda" target="_blank" rel="noopener noreferrer nofollow">https://old.asiaplustj.info/ru/news/tajikistan/20250702/salom-aleikum-tadzhikistan-anonsi-sobitii-den-v-istorii-prognoz-pogodi-na-2-iyulya-2025-goda</a>  
+   Link:<a href="https://old.asiaplustj.info/ru/news/tajikistan/20250702/salom-aleikum-tadzhikistan-anonsi-sobitii-den-v-istorii-prognoz-pogodi-na-2-iyulya-2025-goda" target="_blank" rel="noopener noreferrer nofollow">https://old.asiaplustj.info/ru/news/tajikistan/20250702/salom-aleikum-tadzhikistan-anonsi-sobitii-den-v-istorii-prognoz-pogodi-na-2-iyulya-2025-goda</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: asiaplustj.info  
-   Link: <a href="https://asiaplustj.info/ru/node/284973" target="_blank" rel="noopener noreferrer nofollow">https://asiaplustj.info/ru/node/284973</a>  
+   Link:<a href="https://asiaplustj.info/ru/node/284973" target="_blank" rel="noopener noreferrer nofollow">https://asiaplustj.info/ru/node/284973</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: asiaplustj.info  
-   Link: <a href="https://asiaplustj.info/en/node/338176" target="_blank" rel="noopener noreferrer nofollow">https://asiaplustj.info/en/node/338176</a>  
+   Link:<a href="https://asiaplustj.info/en/node/338176" target="_blank" rel="noopener noreferrer nofollow">https://asiaplustj.info/en/node/338176</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: old.asiaplustj.info  
    Title: na yuge tadzhikistana devochka uvidela bozhe znamenie foto  
-   Link: <a href="https://old.asiaplustj.info/ru/news/tajikistan/society/20110707/na-yuge-tadzhikistana-devochka-uvidela-bozhe-znamenie-foto" target="_blank" rel="noopener noreferrer nofollow">https://old.asiaplustj.info/ru/news/tajikistan/society/20110707/na-yuge-tadzhikistana-devochka-uvidela-bozhe-znamenie-foto</a>  
+   Link:<a href="https://old.asiaplustj.info/ru/news/tajikistan/society/20110707/na-yuge-tadzhikistana-devochka-uvidela-bozhe-znamenie-foto" target="_blank" rel="noopener noreferrer nofollow">https://old.asiaplustj.info/ru/news/tajikistan/society/20110707/na-yuge-tadzhikistana-devochka-uvidela-bozhe-znamenie-foto</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: asiaplustj.info  
-   Link: <a href="https://asiaplustj.info/%26quot%3B%26gt%3BAsia-Plus%26lt%3B/ru/news/tajikistan/society/20200714/ru/news/life/person/20200714/ru/news/life/person/20200714/ru/news/life/person/20200714/ru/news/tajikistan/society/20200719/ru/news/tajikistan/society/20200816/ru/news/tajikistan/society/20210311/ru/news/life/food/20211108/ru/news/tajikistan/security/20220816/ru/news/centralasia/20231006/ru/news/tajikistan/society/20231009/ru/news/sports/20240312/ru/news/tajikistan/society/20240702/ru/news/tajikistan/society/20240702/eto-bilo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazi-tadzhikistantsev-nablyudavshih-za-nlo" target="_blank" rel="noopener noreferrer nofollow">https://asiaplustj.info/%26quot%3B%26gt%3BAsia-Plus%26lt%3B/ru/news/tajikistan/society/20200714/ru/news/life/person/20200714/ru/news/life/person/20200714/ru/news/life/person/20200714/ru/news/tajikistan/society/20200719/ru/news/tajikistan/society/20200816/ru/news/tajikistan/society/20210311/ru/news/life/food/20211108/ru/news/tajikistan/security/20220816/ru/news/centralasia/20231006/ru/news/tajikistan/society/20231009/ru/news/sports/20240312/ru/news/tajikistan/society/20240702/ru/news/tajikistan/society/20240702/eto-bilo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazi-tadzhikistantsev-nablyudavshih-za-nlo</a>  
+   Link:<a href="https://asiaplustj.info/%26quot%3B%26gt%3BAsia-Plus%26lt%3B/ru/news/tajikistan/society/20200714/ru/news/life/person/20200714/ru/news/life/person/20200714/ru/news/life/person/20200714/ru/news/tajikistan/society/20200719/ru/news/tajikistan/society/20200816/ru/news/tajikistan/society/20210311/ru/news/life/food/20211108/ru/news/tajikistan/security/20220816/ru/news/centralasia/20231006/ru/news/tajikistan/society/20231009/ru/news/sports/20240312/ru/news/tajikistan/society/20240702/ru/news/tajikistan/society/20240702/eto-bilo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazi-tadzhikistantsev-nablyudavshih-za-nlo" target="_blank" rel="noopener noreferrer nofollow">https://asiaplustj.info/%26quot%3B%26gt%3BAsia-Plus%26lt%3B/ru/news/tajikistan/society/20200714/ru/news/life/person/20200714/ru/news/life/person/20200714/ru/news/life/person/20200714/ru/news/tajikistan/society/20200719/ru/news/tajikistan/society/20200816/ru/news/tajikistan/society/20210311/ru/news/life/food/20211108/ru/news/tajikistan/security/20220816/ru/news/centralasia/20231006/ru/news/tajikistan/society/20231009/ru/news/sports/20240312/ru/news/tajikistan/society/20240702/ru/news/tajikistan/society/20240702/eto-bilo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazi-tadzhikistantsev-nablyudavshih-za-nlo</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: asiaplus.news  
    Title: zhiteli hudzhanda utverzhdayut chto videli nlo  
-   Link: <a href="https://asiaplus.news/2011/07/04/zhiteli-hudzhanda-utverzhdayut-chto-videli-nlo/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2011/07/04/zhiteli-hudzhanda-utverzhdayut-chto-videli-nlo/</a>  
+   Link:<a href="https://asiaplus.news/2011/07/04/zhiteli-hudzhanda-utverzhdayut-chto-videli-nlo/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2011/07/04/zhiteli-hudzhanda-utverzhdayut-chto-videli-nlo/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: asiaplus.news  
-   Link: <a href="https://asiaplus.news/2024/07/02/eto-bylo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazy-tadzhikistanczev-nablyudavshih-za-nlo/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2024/07/02/eto-bylo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazy-tadzhikistanczev-nablyudavshih-za-nlo/</a>  
+   Link:<a href="https://asiaplus.news/2024/07/02/eto-bylo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazy-tadzhikistanczev-nablyudavshih-za-nlo/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2024/07/02/eto-bylo-nastolko-blizko-chto-ya-sumela-razglyadet-obshivku-rasskazy-tadzhikistanczev-nablyudavshih-za-nlo/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: asiaplus.news  
    Title: nad sogdom proletel neopoznannyj letayushhij obekt  
-   Link: <a href="https://asiaplus.news/2010/03/23/nad-sogdom-proletel-neopoznannyj-letayushhij-obekt/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2010/03/23/nad-sogdom-proletel-neopoznannyj-letayushhij-obekt/</a>  
+   Link:<a href="https://asiaplus.news/2010/03/23/nad-sogdom-proletel-neopoznannyj-letayushhij-obekt/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2010/03/23/nad-sogdom-proletel-neopoznannyj-letayushhij-obekt/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: asiaplus.news  
-   Link: <a href="https://asiaplus.news/2022/07/01/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2022/07/01/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo/</a>  
+   Link:<a href="https://asiaplus.news/2022/07/01/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2022/07/01/puteshestvie-na-sever-tadzhikistana-kreposti-zamki-sledy-snezhnogo-cheloveka-i-nlo/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: asiaplus.news  
-   Link: <a href="https://asiaplus.news/2025/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2025-goda/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2025/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2025-goda/</a>  
+   Link:<a href="https://asiaplus.news/2025/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2025-goda/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2025/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2025-goda/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: asiaplus.news  
-   Link: <a href="https://asiaplus.news/2024/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2024-goda/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2024/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2024-goda/</a>  
+   Link:<a href="https://asiaplus.news/2024/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2024-goda/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2024/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2024-goda/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: asiaplus.news  
-   Link: <a href="https://asiaplus.news/2023/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2023-goda/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2023/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2023-goda/</a>  
+   Link:<a href="https://asiaplus.news/2023/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2023-goda/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2023/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2023-goda/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: asiaplus.news  
    Title: hlopkovaya strada v tadzhikistane v etom godu startuet ranshe obychnogo  
-   Link: <a href="https://asiaplus.news/2011/07/04/hlopkovaya-strada-v-tadzhikistane-v-etom-godu-startuet-ranshe-obychnogo/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2011/07/04/hlopkovaya-strada-v-tadzhikistane-v-etom-godu-startuet-ranshe-obychnogo/</a>  
+   Link:<a href="https://asiaplus.news/2011/07/04/hlopkovaya-strada-v-tadzhikistane-v-etom-godu-startuet-ranshe-obychnogo/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2011/07/04/hlopkovaya-strada-v-tadzhikistane-v-etom-godu-startuet-ranshe-obychnogo/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: asiaplus.news  
-   Link: <a href="https://asiaplus.news/2022/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2022-goda/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2022/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2022-goda/</a>  
+   Link:<a href="https://asiaplus.news/2022/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2022-goda/" target="_blank" rel="noopener noreferrer nofollow">https://asiaplus.news/2022/07/02/salom-alejkum-tadzhikistan-anonsy-sobytij-den-v-istorii-prognoz-pogody-na-2-iyulya-2022-goda/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: scispace.com  
    Title: Tajik Academy of Sciences | 805 Authors | 927 Publications  
-   Link: <a href="https://scispace.com/institutions/tajik-academy-of-sciences-3me4txhr?paper_page=153" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/institutions/tajik-academy-of-sciences-3me4txhr?paper_page=153</a>  
+   Link:<a href="https://scispace.com/institutions/tajik-academy-of-sciences-3me4txhr?paper_page=153" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/institutions/tajik-academy-of-sciences-3me4txhr?paper_page=153</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: beannames.com  
    Title: Tajik Air Pilots Report Unidentified Flying Object  
-   Link: <a href="https://beannames.com/documents/2533" target="_blank" rel="noopener noreferrer nofollow">https://beannames.com/documents/2533</a>  
+   Link:<a href="https://beannames.com/documents/2533" target="_blank" rel="noopener noreferrer nofollow">https://beannames.com/documents/2533</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: marcianitosverdes.haaan.com  
-   Link: <a href="https://marcianitosverdes.haaan.com/page/2/?dur=50603" target="_blank" rel="noopener noreferrer nofollow">https://marcianitosverdes.haaan.com/page/2/?dur=50603</a>  
+   Link:<a href="https://marcianitosverdes.haaan.com/page/2/?dur=50603" target="_blank" rel="noopener noreferrer nofollow">https://marcianitosverdes.haaan.com/page/2/?dur=50603</a>  
 
 ### Additional References
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8ng1-I7uB_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ng1-I7uB_c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here are the released videos from Pentagon&#x27;s first batch of UFO files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8ng1-I7uB_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ng1-I7uB_c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here are the released videos from Pentagon&#x27;s first batch of UFO files...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: Here are the released videos from Pentagon's first batch of UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADMcelTgWYo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADMcelTgWYo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BvO5BUTJ-SA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BvO5BUTJ-SA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/282637899_Tajikistan_fireball_network_and_results_of_photographic_observations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282637899_Tajikistan_fireball_network_and_results_of_photographic_observations</a>  
+   Link:<a href="https://www.researchgate.net/publication/282637899_Tajikistan_fireball_network_and_results_of_photographic_observations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282637899_Tajikistan_fireball_network_and_results_of_photographic_observations</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401374502_Meteor_observations_in_Tajikistan_within_the_global_meteor_network_project_Preliminary_results" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401374502_Meteor_observations_in_Tajikistan_within_the_global_meteor_network_project_Preliminary_results</a>  
+   Link:<a href="https://www.researchgate.net/publication/401374502_Meteor_observations_in_Tajikistan_within_the_global_meteor_network_project_Preliminary_results" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401374502_Meteor_observations_in_Tajikistan_within_the_global_meteor_network_project_Preliminary_results</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: news.rambler.ru  
-   Link: <a href="https://news.rambler.ru/other/44277825-chetyre-zhivopisnyh-mesta-nedaleko-ot-dushanbe-gde-mozhno-otdohnut-ot-gorodskoy-suety/" target="_blank" rel="noopener noreferrer nofollow">https://news.rambler.ru/other/44277825-chetyre-zhivopisnyh-mesta-nedaleko-ot-dushanbe-gde-mozhno-otdohnut-ot-gorodskoy-suety/</a>  
+   Link:<a href="https://news.rambler.ru/other/44277825-chetyre-zhivopisnyh-mesta-nedaleko-ot-dushanbe-gde-mozhno-otdohnut-ot-gorodskoy-suety/" target="_blank" rel="noopener noreferrer nofollow">https://news.rambler.ru/other/44277825-chetyre-zhivopisnyh-mesta-nedaleko-ot-dushanbe-gde-mozhno-otdohnut-ot-gorodskoy-suety/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/Collective-Security-Treaty-Organization" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Collective-Security-Treaty-Organization</a>  
+   Link:<a href="https://www.britannica.com/topic/Collective-Security-Treaty-Organization" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Collective-Security-Treaty-Organization</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: uforeleases.com  
-   Link: <a href="https://uforeleases.com/topics/state-dept-nasa/dos-uap-d2-cable-2-kazakhstan-january-1994" target="_blank" rel="noopener noreferrer nofollow">https://uforeleases.com/topics/state-dept-nasa/dos-uap-d2-cable-2-kazakhstan-january-1994</a>  
+   Link:<a href="https://uforeleases.com/topics/state-dept-nasa/dos-uap-d2-cable-2-kazakhstan-january-1994" target="_blank" rel="noopener noreferrer nofollow">https://uforeleases.com/topics/state-dept-nasa/dos-uap-d2-cable-2-kazakhstan-january-1994</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: psi.edu  
-   Link: <a href="https://www.psi.edu/epo/resources/special-topics-in-planetary-science/explosions-in-the-sky-fireballs-that-produce-meteorites/" target="_blank" rel="noopener noreferrer nofollow">https://www.psi.edu/epo/resources/special-topics-in-planetary-science/explosions-in-the-sky-fireballs-that-produce-meteorites/</a>  
+   Link:<a href="https://www.psi.edu/epo/resources/special-topics-in-planetary-science/explosions-in-the-sky-fireballs-that-produce-meteorites/" target="_blank" rel="noopener noreferrer nofollow">https://www.psi.edu/epo/resources/special-topics-in-planetary-science/explosions-in-the-sky-fireballs-that-produce-meteorites/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: news4sanantonio.com  
-   Link: <a href="https://news4sanantonio.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://news4sanantonio.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>
+   Link:<a href="https://news4sanantonio.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://news4sanantonio.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>

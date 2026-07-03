@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /czechia-045e2f-index/
 description: Focused pages that expand on Czechia.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Czechia_045e2f
 parent_title: Czechia
@@ -16,7 +16,7 @@ parent_permalink: /czechia/
 
 # Explore Topics in Czechia
 
-The following pages expand on the main **[Czechia]({{ '/czechia/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Czechia]({{ '/czechia/' | relative_url }})** page and cover its key branches in.
 
 - [Czech Science]({{ '/czech-science/' | relative_url }})
 - [Miličín 1991]({{ '/miličín-1991/' | relative_url }})

@@ -295,11 +295,11 @@ That distinction has become a recurring theme across Uruguay’s strongest UFO f
 
 If Palmar is remembered for pursuit narratives, Santa Bernardina is remembered for repeated reports of glowing spheres observed around a military airfield environment.
 
-Santa Bernardina Air Base, near Durazno in central Uruguay, has appeared repeatedly in discussions of official UFO investigations. One of the most frequently cited episodes involved military pilots conducting exercises over the base who reported observing two luminous spherical objects. According to accounts later associated with declassified Uruguayan Air Force discussions, the objects were also observed from the airport control tower, giving the case both airborne and ground-based witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[Inexplicata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">uruguay air force declassifies ufo</span><span class="citation-popover-snippet">Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was corroborated by the airport&#x27;s control tow...</span></span></span>
+Santa Bernardina Air Base, near Durazno in central Uruguay, has appeared repeatedly in discussions of official UFO investigations. One of the most frequently cited episodes involved military pilots conducting exercises over the base who reported observing two luminous spherical objects. According to accounts later associated with declassified Uruguayan Air Force discussions, the objects were also observed from the airport control tower, giving the case both airborne and ground-based witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[Inexplicata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">uruguay air force declassifies ufo</span><span class="citation-popover-snippet">Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was corroborated by the airport&#x27;s control tow...</span></span></span>
 
-Reports describing the incident state that the objects maintained a spherical appearance while displaying intense luminosity. Witnesses allegedly observed changes in brightness as the objects departed, eventually seeing the glow diminish while the outlines remained visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[Inexplicata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">uruguay air force declassifies ufo</span><span class="citation-popover-snippet">Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was corroborated by the airport&#x27;s control tow...</span></span></span>
+Reports describing the incident state that the objects maintained a spherical appearance while displaying intense luminosity. Witnesses allegedly observed changes in brightness as the objects departed, eventually seeing the glow diminish while the outlines remained visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[Inexplicata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">uruguay air force declassifies ufo</span><span class="citation-popover-snippet">Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was corroborated by the airport&#x27;s control tow...</span></span></span>
 
-The Santa Bernardina reports gained additional attention because similar descriptions appeared in more than one period. Sources discussing Uruguayan Air Force files refer to observations in the mid-1980s and again during military exercises in 1996, creating the impression of a recurring pattern rather than a single isolated event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[Inexplicata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">uruguay air force declassifies ufo</span><span class="citation-popover-snippet">Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was corroborated by the airport&#x27;s control tow...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colinandrews.net/UFO-UruguayDeclassify.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colinandrews.net">[Colin Andrews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colinandrews.net</span><span class="citation-popover-title">Colin Andrews Uruguay Government release UFO documents</span><span class="citation-popover-snippet">Colin Andrewsexercises over the Santa Bernardina Base in Durazno. They saw two luminous spheres at 10,000 feet (3,000 meters), whose pres...</span></span></span>
+The Santa Bernardina reports gained additional attention because similar descriptions appeared in more than one period. Sources discussing Uruguayan Air Force files refer to observations in the mid-1980s and again during military exercises in 1996, creating the impression of a recurring pattern rather than a single isolated event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[Inexplicata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">uruguay air force declassifies ufo</span><span class="citation-popover-snippet">Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was corroborated by the airport&#x27;s control tow...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colinandrews.net/UFO-UruguayDeclassify.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colinandrews.net">[Colin Andrews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colinandrews.net</span><span class="citation-popover-title">Colin Andrews Uruguay Government release UFO documents</span><span class="citation-popover-snippet">Colin Andrewsexercises over the Santa Bernardina Base in Durazno. They saw two luminous spheres at 10,000 feet (3,000 meters), whose pres...</span></span></span>
 
 ### Why control-tower corroboration matters
 
@@ -326,7 +326,7 @@ Even so, corroboration does not automatically reveal the nature of an object. Mu
 
 One of the striking features of the Santa Bernardina accounts is how little they ultimately establish.
 
-Witnesses described luminous spheres. They reported changes in brightness and apparent movement. The objects were considered unusual enough to enter the body of cases discussed by official investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[Inexplicata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">uruguay air force declassifies ufo</span><span class="citation-popover-snippet">Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was corroborated by the airport&#x27;s control tow...</span></span></span>
+Witnesses described luminous spheres. They reported changes in brightness and apparent movement. The objects were considered unusual enough to enter the body of cases discussed by official investigators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[Inexplicata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">uruguay air force declassifies ufo</span><span class="citation-popover-snippet">Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was corroborated by the airport&#x27;s control tow...</span></span></span>
 
 Yet the available public descriptions do not provide decisive measurements. There is no publicly known dataset allowing researchers to calculate exact trajectories, verify extraordinary speeds or demonstrate technological capabilities beyond known aerospace systems. As a result, the case remains suspended between two positions:
 
@@ -340,7 +340,7 @@ That uncertainty is precisely why the case remains in circulation decades later.
 
 The Palmar and Santa Bernardina incidents occupy a special place in Uruguay’s UFO history because they avoid one of the field’s biggest weaknesses: reliance on a single civilian witness with no supporting context.
 
-In both cases, the central appeal comes from trained observers operating in military or aviation environments. Uruguay’s official investigative tradition, particularly through the Air Force-linked [CRIDOVNI]({{ 'cridovni/' | relative_url }}) structure, has long treated such reports as worthy of examination rather than immediate dismissal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1jj7n5n/the_uruguayan_air_forces_cridovni_40_years_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">r/UFOs - The Uruguayan Air Force&#x27;s CRIDOVNI: 40 Years...March 25, 2025 — The official body for the investigation of UFO sightings...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span>
+In both cases, the central appeal comes from trained observers operating in military or aviation environments. Uruguay’s official investigative tradition, particularly through the Air Force-linked [CRIDOVNI]({{ 'cridovni/' | relative_url }}) structure, has long treated such reports as worthy of examination rather than immediate dismissal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1jj7n5n/the_uruguayan_air_forces_cridovni_40_years_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">r/UFOs - The Uruguayan Air Force&#x27;s CRIDOVNI: 40 Years...March 25, 2025 — The official body for the investigation of UFO sightings...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span>
 
 However, these cases also demonstrate the limits of witness quality as evidence.
 
@@ -376,199 +376,199 @@ Many Uruguayan UFO reports faded because they depended on a single light in the 
 
 They also fit a broader pattern seen in Uruguay’s unresolved files. The most persistent cases are rarely the most sensational. Instead, they are the incidents where investigators could neither confirm a conventional explanation nor gather enough evidence to reach a definitive conclusion.
 
-That is why these military cases continue to stand out. Their significance lies less in what they prove than in what they leave unresolved: trained observers reported unusual aerial phenomena, official channels took the reports seriously, and the surviving public record still does not provide a universally accepted explanation. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[Inexplicata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">uruguay air force declassifies ufo</span><span class="citation-popover-snippet">Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was corroborated by the airport&#x27;s control tow...</span></span></span>
+That is why these military cases continue to stand out. Their significance lies less in what they prove than in what they leave unresolved: trained observers reported unusual aerial phenomena, official channels took the reports seriously, and the surviving public record still does not provide a universally accepted explanation. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[Inexplicata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-title">uruguay air force declassifies ufo</span><span class="citation-popover-snippet">Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was corroborated by the airport&#x27;s control tow...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F9Q2uVsxRCI" title="FAU investiga presencia de ovnis en Uruguay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F9Q2uVsxRCI" target="_blank" rel="noopener noreferrer">FAU investiga presencia de ovnis en Uruguay</a></p><p class="youtube-embed-meta">Channel: Canal 10 Uruguay &middot; Views: 8.3K &middot; Uploaded: February 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F9Q2uVsxRCI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F9Q2uVsxRCI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Military UFO Cases That Still Stand Out. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Military UFO Cases That Still Stand Out. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Built around major official case files and unexplained incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around major official case files and unexplained incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains witness categories and the strengths and limits of testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains witness categories and the strengths and limits of testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses pilot, military, and official UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses pilot, military, and official UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Focuses on a famous military witness case and evidence debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on a famous military witness case and evidence debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-military-ufo-cases-that-still-stand-out-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-military-ufo-cases-that-still-stand-out-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ That is why these military cases continue to stand out. Their significance lies 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ That is why these military cases continue to stand out. Their significance lies 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ That is why these military cases continue to stand out. Their significance lies 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ That is why these military cases continue to stand out. Their significance lies 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ That is why these military cases continue to stand out. Their significance lies 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,93 +771,92 @@ That is why these military cases continue to stand out. Their significance lies 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jj7n5n/the_uruguayan_air_forces_cridovni_40_years_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jj7n5n/the_uruguayan_air_forces_cridovni_40_years_of/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - The Uruguayan Air Force&#x27;s CRIDOVNI: 40 Years...March 25, 2025 — The official body for the investigation of UFO sightings...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1jj7n5n/the_uruguayan_air_forces_cridovni_40_years_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jj7n5n/the_uruguayan_air_forces_cridovni_40_years_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - The Uruguayan Air Force&#x27;s CRIDOVNI: 40 Years...March 25, 2025 — The official body for the investigation of UFO sightings...</p></details>
    Published: March 25, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/110gmpk/uruguay_air_force_official_statement_about_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/110gmpk/uruguay_air_force_official_statement_about_ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Uruguay Air Force official statement about UFO sightingBasically it says there has been a lot of reports of strange lights, and a special...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/110gmpk/uruguay_air_force_official_statement_about_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/110gmpk/uruguay_air_force_official_statement_about_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uruguay Air Force official statement about UFO sightingBasically it says there has been a lot of reports of strange lights, and a special...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/newcenturyrefere08unse/newcenturyrefere08unse_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/newcenturyrefere08unse/newcenturyrefere08unse_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nowledge... (Vol. 8, TOPICAL INDEX)&quot;. See other formats.Read more...</p></details>
+   Link:<a href="https://archive.org/stream/newcenturyrefere08unse/newcenturyrefere08unse_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/newcenturyrefere08unse/newcenturyrefere08unse_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nowledge... (Vol. 8, TOPICAL INDEX)&quot;. See other formats.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: inexplicata.blogspot.com  
    Title: uruguay air force declassifies ufo  
-   Link: <a href="https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was corroborated by the airport&#x27;s control tow...</p></details>
+   Link:<a href="https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2009/06/uruguay-air-force-declassifies-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was corroborated by the airport&#x27;s control tow...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: colinandrews.net  
    Title: Colin Andrews Uruguay Government release UFO documents  
-   Link: <a href="https://www.colinandrews.net/UFO-UruguayDeclassify.html" target="_blank" rel="noopener noreferrer nofollow">https://www.colinandrews.net/UFO-UruguayDeclassify.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colin Andrewsexercises over the Santa Bernardina Base in Durazno. They saw two luminous spheres at 10,000 feet (3,000 meters), whose pres...</p></details>
+   Link:<a href="https://www.colinandrews.net/UFO-UruguayDeclassify.html" target="_blank" rel="noopener noreferrer nofollow">https://www.colinandrews.net/UFO-UruguayDeclassify.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colin Andrewsexercises over the Santa Bernardina Base in Durazno. They saw two luminous spheres at 10,000 feet (3,000 meters), whose pres...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/code/angevalli/entity-disambiguation" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/code/angevalli/entity-disambiguation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Entity disambiguationClark Field Clark Air Base is a Philippine Air Force base on Luzon Island in the Philippines, located 3 miles west o...</p></details>
+   Link:<a href="https://www.kaggle.com/code/angevalli/entity-disambiguation" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/code/angevalli/entity-disambiguation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Entity disambiguationClark Field Clark Air Base is a Philippine Air Force base on Luzon Island in the Philippines, located 3 miles west o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tweaktown.com  
    Title: Investigation launched into UFO that air traffic control didn't detect  
-   Link: <a href="https://www.tweaktown.com/news/90366/investigation-launched-into-ufo-that-air-traffic-control-didnt-detect/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tweaktown.com/news/90366/investigation-launched-into-ufo-that-air-traffic-control-didnt-detect/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 15, 2023 — Military personnel has launched an investigation into a recent UFO sighting that was reported by 20 people and not de...</p></details>
+   Link:<a href="https://www.tweaktown.com/news/90366/investigation-launched-into-ufo-that-air-traffic-control-didnt-detect/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tweaktown.com/news/90366/investigation-launched-into-ufo-that-air-traffic-control-didnt-detect/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 15, 2023 — Military personnel has launched an investigation into a recent UFO sighting that was reported by 20 people and not de...</p></details>
    Published: February 15, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/americanveteranscenter/posts/ufos-and-the-military-a-combat-pilots-experience-with-the-unknown/1355865653255845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/americanveteranscenter/posts/ufos-and-the-military-a-combat-pilots-experience-with-the-unknown/1355865653255845/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and The Military: A Combat Pilot&#x27;s Experience with... - FacebookApril 7, 2026 — I was in Nam in 67-68 aboard an Ammunition ship. St...</p></details>
+   Link:<a href="https://www.facebook.com/americanveteranscenter/posts/ufos-and-the-military-a-combat-pilots-experience-with-the-unknown/1355865653255845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/americanveteranscenter/posts/ufos-and-the-military-a-combat-pilots-experience-with-the-unknown/1355865653255845/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and The Military: A Combat Pilot&#x27;s Experience with... - FacebookApril 7, 2026 — I was in Nam in 67-68 aboard an Ammunition ship. St...</p></details>
    Published: April 7, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: static1.squarespace.com  
-   Link: <a href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Years of Pilot Sightings A Catalog of Military, Airliner...9 Apr 2000 — Of these (UFO) reports, the radar-visual sightings are the most...</p></details>
+   Link:<a href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Years of Pilot Sightings A Catalog of Military, Airliner...9 Apr 2000 — Of these (UFO) reports, the radar-visual sightings are the most...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>army law 2013 five said old country what road do — 2005 development english third u.s. among air community great included king much stude...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>army law 2013 five said old country what road do — 2005 development english third u.s. among air community great included king much stude...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: governmentattic.org  
    Title: An Annotated Bibliography, Lynn E  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared bySurvey of activities of official and private organizations engaged in UFO research. Maney, Charles A. Scientific aspect...</p></details>
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared bySurvey of activities of official and private organizations engaged in UFO research. Maney, Charles A. Scientific aspect...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: susanrennison.co.uk  
    Title: Best oftheblog UFO disclosure  
-   Link: <a href="https://www.susanrennison.co.uk/Best_oftheblog_UFO_disclosure.php" target="_blank" rel="noopener noreferrer nofollow">https://www.susanrennison.co.uk/Best_oftheblog_UFO_disclosure.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best of the Blog UFO/UAP Disclosure... Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was co...</p></details>
+   Link:<a href="https://www.susanrennison.co.uk/Best_oftheblog_UFO_disclosure.php" target="_blank" rel="noopener noreferrer nofollow">https://www.susanrennison.co.uk/Best_oftheblog_UFO_disclosure.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best of the Blog UFO/UAP Disclosure... Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, whose presence was co...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rense.com  
    Title: Uruguay Declassified Files  
-   Link: <a href="https://rense.com/general86/urg.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general86/urg.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Uruguay Declassified Files - ET Hypothesis Stands... Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, wh...</p></details>
+   Link:<a href="https://rense.com/general86/urg.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general86/urg.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uruguay Declassified Files - ET Hypothesis Stands... Santa Bernardina base in Durazno. As in 1986, they saw two luminous spheres, wh...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
    Title: UFO Evidence 1964  
-   Link: <a href="https://www.scribd.com/doc/204587152/UFO-Evidence-1964" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/204587152/UFO-Evidence-1964</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harris, a real estate broker, investigated the object in his light aircraft as 8-10 ground personnel at the airport watched. Mr. Harris...</p></details>
+   Link:<a href="https://www.scribd.com/doc/204587152/UFO-Evidence-1964" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/204587152/UFO-Evidence-1964</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harris, a real estate broker, investigated the object in his light aircraft as 8-10 ground personnel at the airport watched. Mr. Harris...</p></details>

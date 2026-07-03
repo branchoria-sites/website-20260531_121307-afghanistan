@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bulgaria-5c7772-index/
 description: Focused pages that expand on What Really Explains Bulgaria's UFO Stories?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Bulgaria_5c7772
 parent_title: What Really Explains Bulgaria's UFO Stories?
@@ -16,7 +16,7 @@ parent_permalink: /what-really-explains-bulgarias-ufo/
 
 # Explore Topics in What Really Explains Bulgaria's UFO Stories?
 
-The following pages expand on the main **[What Really Explains Bulgaria's UFO Stories?]({{ '/what-really-explains-bulgarias-ufo/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Really Explains Bulgaria's UFO Stories?]({{ '/what-really-explains-bulgarias-ufo/' | relative_url }})** page and cover its key branches in.
 
 - [1978 Sightings]({{ '/1978-sightings/' | relative_url }})
 - [Modern Reports]({{ '/modern-reports-114d9e/' | relative_url }})

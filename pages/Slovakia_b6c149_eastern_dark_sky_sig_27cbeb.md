@@ -254,7 +254,7 @@ image: /assets/images/Slovakia_b6c149_eastern_dark_sky_sig_27cbeb-Illustration-1
 
 ## Introduction
 
-Eastern Slovakia generates a recurring pattern in Slovak UFO reporting: witnesses describe bright lights, silent objects, unusual movement, or vivid night-sky events, especially around Košice, Prešov and the more rural districts stretching towards the Ukrainian and Polish borders. Yet the same region is also home to some of the darkest skies in Central Europe. That combination matters. The darker the sky, the more visible ordinary astronomical and atmospheric phenomena become, often to people who rarely observe them under ideal conditions. In many cases, eastern Slovakia's UFO stories are best understood not as evidence of exotic craft, but as a collision between exceptional viewing conditions and normal sky events. At the same time, some reports remain unresolved simply because the available evidence is too limited to identify what was seen with confidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Poloniny Dark-Sky Park</span><span class="citation-popover-snippet">Poloniny Dark-Sky Park</span></span></span>
+Eastern Slovakia generates a recurring pattern in Slovak UFO reporting: witnesses describe bright lights, silent objects, unusual movement, or vivid night-sky events, especially around Košice, Prešov and the more rural districts stretching towards the Ukrainian and Polish borders. Yet the same region is also home to some of the darkest skies in Central Europe. That combination matters. The darker the sky, the more visible ordinary astronomical and atmospheric phenomena become, often to people who rarely observe them under ideal conditions. In many cases, eastern Slovakia's UFO stories are best understood not as evidence of exotic craft, but as a collision between exceptional viewing conditions and normal sky events. At the same time, some reports remain unresolved simply because the available evidence is too limited to identify what was seen with confidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Poloniny Dark-Sky Park</span><span class="citation-popover-snippet">Poloniny Dark-Sky Park</span></span></span>
 
 <img src="{{ "/assets/images/Slovakia_b6c149_eastern_dark_sky_sig_27cbeb-Illustration-1-dark.svg" | relative_url }}" alt="Eastern Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Slovakia_b6c149_eastern_dark_sky_sig_27cbeb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovakia_b6c149_eastern_dark_sky_sig_27cbeb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within Slovakia's broader UFO record, the Košice and Prešov regions stand out less because they contain uniquely strange incidents and more because they provide conditions in which lights, meteors, satellites and aircraft can appear unusually dramatic to observers.
@@ -263,9 +263,9 @@ Within Slovakia's broader UFO record, the Košice and Prešov regions stand out 
 
 The strongest environmental factor behind many eastern Slovak sighting reports is darkness itself.
 
-Northeastern Slovakia contains the Poloniny Dark-Sky Park, established in 2010 within and around Poloniny National Park. Astronomical organisations describe it as the darkest area in Slovakia, with exceptionally low population density and minimal artificial light. Under good conditions, observers can see the Milky Way clearly and nearly 2,000 stars with the naked eye, far more than are visible from major urban areas. Mountains also block direct glare from surrounding settlements, preserving natural night conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Poloniny Dark-Sky Park</span><span class="citation-popover-snippet">Poloniny Dark-Sky Park</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Poloniny Dark Sky Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Poloniny Dark-Sky Park</span><span class="citation-popover-snippet">Poloniny Dark-Sky Park</span></span></span>
+Northeastern Slovakia contains the Poloniny Dark-Sky Park, established in 2010 within and around Poloniny National Park. Astronomical organisations describe it as the darkest area in Slovakia, with exceptionally low population density and minimal artificial light. Under good conditions, observers can see the Milky Way clearly and nearly 2,000 stars with the naked eye, far more than are visible from major urban areas. Mountains also block direct glare from surrounding settlements, preserving natural night conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Poloniny Dark-Sky Park</span><span class="citation-popover-snippet">Poloniny Dark-Sky Park</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Poloniny Dark Sky Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Poloniny Dark-Sky Park</span><span class="citation-popover-snippet">Poloniny Dark-Sky Park</span></span></span>
 
-The region has become significant enough for professional astronomy that observatories connected to Slovak universities operate in the area. The observatory at Kolonické sedlo specifically highlights its location within the dark-sky zone as a major advantage for astronomical observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomy.science.upjs.sk/observatory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.science.upjs.sk">[Astronomy@UPJS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.science.upjs.sk</span><span class="citation-popover-snippet">Astronomy@UPJSObservatoryThe observatory is located in the northeastern part of Slovakia, in the area of Dark-Sky Park Poloniny, a place...</span></span></span>
+The region has become significant enough for professional astronomy that observatories connected to Slovak universities operate in the area. The observatory at Kolonické sedlo specifically highlights its location within the dark-sky zone as a major advantage for astronomical observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomy.science.upjs.sk/observatory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.science.upjs.sk">[Astronomy@UPJS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.science.upjs.sk</span><span class="citation-popover-snippet">Astronomy@UPJSObservatoryThe observatory is located in the northeastern part of Slovakia, in the area of Dark-Sky Park Poloniny, a place...</span></span></span>
 
 For UFO reporting, this creates a simple but important effect: people can see more.
 
@@ -283,7 +283,7 @@ The eastern regions also contain large rural areas where fewer observers are pre
 
 ## Why dark skies change what people notice
 
-Dark skies alter human perception in ways that often surprise casual observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=9emEiTCjWOk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">DARK-SKY PARK POLONINY &#124; SLOVAKIA</span><span class="citation-popover-snippet">Under the Dark Skies &#124; National Geographic...</span></span></span>
+Dark skies alter human perception in ways that often surprise casual observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=9emEiTCjWOk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">DARK-SKY PARK POLONINY &#124; SLOVAKIA</span><span class="citation-popover-snippet">Under the Dark Skies &#124; National Geographic...</span></span></span>
 
 In urban environments, artificial lighting washes out faint stars and reduces contrast. Under truly dark conditions, several effects become much more noticeable:
 
@@ -298,7 +298,7 @@ In urban environments, artificial lighting washes out faint stars and reduces co
 
 </div>
 
-Researchers studying light pollution consistently find that darker environments reveal vastly more celestial detail than city skies. The difference is not subtle. A person accustomed to seeing only a few dozen stars above a brightly illuminated area can suddenly encounter thousands in a dark-sky reserve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kralovastudna.com/en/dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kralovastudna.com">[Kráľova Studňa Hotel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kralovastudna.com</span><span class="citation-popover-snippet">Kráľova Studňa HotelDark Sky ParkIn Veľká Fatra Dark Sky Park, the night sky is of exceptional quality. Even without a telescope, we can...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.beautifulslovakia.sk/park-tmavej-oblohy-poloniny" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beautifulslovakia.sk">[Beautiful Slovakia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beautifulslovakia.sk</span><span class="citation-popover-snippet">Park tmavej oblohy PoloninyOblasť sa vyznačuje tým, ze má výnimočne malú hustotu osidlenia (6 obyvateľov na km²). Bez d&#x27;alekohľadu tu môž...</span></span></span>
+Researchers studying light pollution consistently find that darker environments reveal vastly more celestial detail than city skies. The difference is not subtle. A person accustomed to seeing only a few dozen stars above a brightly illuminated area can suddenly encounter thousands in a dark-sky reserve.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kralovastudna.com/en/dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kralovastudna.com">[Kráľova Studňa Hotel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kralovastudna.com</span><span class="citation-popover-snippet">Kráľova Studňa HotelDark Sky ParkIn Veľká Fatra Dark Sky Park, the night sky is of exceptional quality. Even without a telescope, we can...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.beautifulslovakia.sk/park-tmavej-oblohy-poloniny" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beautifulslovakia.sk">[Beautiful Slovakia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beautifulslovakia.sk</span><span class="citation-popover-snippet">Park tmavej oblohy PoloninyOblasť sa vyznačuje tým, ze má výnimočne malú hustotu osidlenia (6 obyvateľov na km²). Bez d&#x27;alekohľadu tu môž...</span></span></span>
 
 This shift can make ordinary events appear unfamiliar. A satellite slowly crossing the sky may seem intelligent because it moves steadily without blinking. A bright meteor can appear startlingly close. A distant aircraft changing direction relative to the observer's viewpoint may appear to accelerate or hover.
 
@@ -320,9 +320,9 @@ The region's popularity among amateur astronomers and stargazers means many legi
 
 A modern factor increasingly relevant to UFO reports is the expanding number of visible satellites.
 
-Researchers from Slovak scientific institutions have contributed to studies showing that the growing population of satellites and space debris is altering the appearance of the night sky itself. These objects can reflect sunlight long after sunset, creating moving points of light that appear detached from ordinary aircraft traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sav.sk/?doc=services-news&amp;lang=en&amp;news_no=13572&amp;source_no=20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sav.sk">[SAV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sav.sk</span><span class="citation-popover-snippet">“Our results show that light pollution is...Read more...</span></span></span>
+Researchers from Slovak scientific institutions have contributed to studies showing that the growing population of satellites and space debris is altering the appearance of the night sky itself. These objects can reflect sunlight long after sunset, creating moving points of light that appear detached from ordinary aircraft traffic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sav.sk/?doc=services-news&amp;lang=en&amp;news_no=13572&amp;source_no=20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sav.sk">[SAV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sav.sk</span><span class="citation-popover-snippet">“Our results show that light pollution is...Read more...</span></span></span>
 
-In dark regions such as Poloniny, satellite visibility becomes particularly striking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Poloniny Dark-Sky Park</span><span class="citation-popover-snippet">Poloniny Dark-Sky Park</span></span></span>
+In dark regions such as Poloniny, satellite visibility becomes particularly striking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Poloniny Dark-Sky Park</span><span class="citation-popover-snippet">Poloniny Dark-Sky Park</span></span></span>
 
 Witnesses may observe:
 
@@ -390,199 +390,199 @@ This pattern mirrors findings from many international UFO investigations. An uni
 
 The most distinctive feature of Košice and the wider eastern Slovak region is not a concentration of uniquely convincing UFO incidents. It is the region's unusual ability to reveal the night sky itself.
 
-Poloniny and the surrounding eastern districts preserve some of the darkest skies in Slovakia, allowing people to see celestial events that are largely hidden from residents of brighter urban areas. That visibility increases both astronomical awareness and the likelihood of misidentification. A bright meteor, satellite train or distant aircraft can become a memorable experience precisely because the sky is dark enough to display it clearly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Poloniny Dark-Sky Park</span><span class="citation-popover-snippet">Poloniny Dark-Sky Park</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://darksitefinder.com/placemarks/poloniny-dark-sky-park-slovakia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darksitefinder.com">[Dark Site Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darksitefinder.com</span><span class="citation-popover-snippet">Dark Site FinderPoloniny Dark Sky Park, Slovakia31 Jan 2019 — The park is the darkest place in Slovakia, where the night sky is preserved...</span></span></span>
+Poloniny and the surrounding eastern districts preserve some of the darkest skies in Slovakia, allowing people to see celestial events that are largely hidden from residents of brighter urban areas. That visibility increases both astronomical awareness and the likelihood of misidentification. A bright meteor, satellite train or distant aircraft can become a memorable experience precisely because the sky is dark enough to display it clearly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Poloniny Dark-Sky Park</span><span class="citation-popover-snippet">Poloniny Dark-Sky Park</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://darksitefinder.com/placemarks/poloniny-dark-sky-park-slovakia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darksitefinder.com">[Dark Site Finder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darksitefinder.com</span><span class="citation-popover-snippet">Dark Site FinderPoloniny Dark Sky Park, Slovakia31 Jan 2019 — The park is the darkest place in Slovakia, where the night sky is preserved...</span></span></span>
 
 For that reason, many eastern Slovak UFO stories are best read as a mixture of genuine observation and imperfect interpretation. The witnesses often saw something real. The mystery usually lies in identifying exactly what that real thing was.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Eastern Slovakia&#x27;s UFOs Dark Sky Mysteries?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Eastern Slovakia&#x27;s UFOs Dark Sky Mysteries?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses how observers interpret lights, astronomical events and unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how observers interpret lights, astronomical events and unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a balanced framework for assessing unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced framework for assessing unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify celestial objects often mistaken for UFOs under dark skies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify celestial objects often mistaken for UFOs under dark skies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Relevant to meteor and fireball explanations discussed in eastern Slovakia reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to meteor and fireball explanations discussed in eastern Slovakia reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-eastern-slovakia-s-ufos-dark-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ For that reason, many eastern Slovak UFO stories are best read as a mixture of g
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ For that reason, many eastern Slovak UFO stories are best read as a mixture of g
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ For that reason, many eastern Slovak UFO stories are best read as a mixture of g
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ For that reason, many eastern Slovak UFO stories are best read as a mixture of g
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ For that reason, many eastern Slovak UFO stories are best read as a mixture of g
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,118 +788,118 @@ For that reason, many eastern Slovak UFO stories are best read as a mixture of g
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Poloniny Dark-Sky Park  
-   Link: <a href="https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Poloniny_Dark-Sky_Park</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: astronomy.science.upjs.sk  
-   Link: <a href="https://astronomy.science.upjs.sk/observatory/" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.science.upjs.sk/observatory/</a>  
+   Link:<a href="https://astronomy.science.upjs.sk/observatory/" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.science.upjs.sk/observatory/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sav.sk  
-   Link: <a href="https://www.sav.sk/?doc=services-news&amp;lang=en&amp;news_no=13572&amp;source_no=20" target="_blank" rel="noopener noreferrer nofollow">https://www.sav.sk/?doc=services-news&amp;lang=en&amp;news_no=13572&amp;source_no=20</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“Our results show that light pollution is...Read more...</p></details>
+   Link:<a href="https://www.sav.sk/?doc=services-news&amp;lang=en&amp;news_no=13572&amp;source_no=20" target="_blank" rel="noopener noreferrer nofollow">https://www.sav.sk/?doc=services-news&amp;lang=en&amp;news_no=13572&amp;source_no=20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Our results show that light pollution is...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: DARK-SKY PARK POLONINY | SLOVAKIA  
-   Link: <a href="https://www.youtube.com/watch?v=9emEiTCjWOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9emEiTCjWOk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Under the Dark Skies | National Geographic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9emEiTCjWOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9emEiTCjWOk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Under the Dark Skies | National Geographic...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: darksitefinder.com  
-   Link: <a href="https://darksitefinder.com/placemarks/poloniny-dark-sky-park-slovakia/" target="_blank" rel="noopener noreferrer nofollow">https://darksitefinder.com/placemarks/poloniny-dark-sky-park-slovakia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Site FinderPoloniny Dark Sky Park, Slovakia31 Jan 2019 — The park is the darkest place in Slovakia, where the night sky is preserved...</p></details>
+   Link:<a href="https://darksitefinder.com/placemarks/poloniny-dark-sky-park-slovakia/" target="_blank" rel="noopener noreferrer nofollow">https://darksitefinder.com/placemarks/poloniny-dark-sky-park-slovakia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Site FinderPoloniny Dark Sky Park, Slovakia31 Jan 2019 — The park is the darkest place in Slovakia, where the night sky is preserved...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: poloniny.svetelneznecistenie.sk  
    Title: Poloniny Dark Sky Park Park tmavej oblohy Poloniny  
-   Link: <a href="https://poloniny.svetelneznecistenie.sk/" target="_blank" rel="noopener noreferrer nofollow">https://poloniny.svetelneznecistenie.sk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Poloniny Dark Sky ParkPark tmavej oblohy Poloniny - Svetelné znečisteniePralesy Havešová, Rožok a Stužica sú v našom Parku tmavej oblohy...</p></details>
+   Link:<a href="https://poloniny.svetelneznecistenie.sk/" target="_blank" rel="noopener noreferrer nofollow">https://poloniny.svetelneznecistenie.sk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poloniny Dark Sky ParkPark tmavej oblohy Poloniny - Svetelné znečisteniePralesy Havešová, Rožok a Stužica sú v našom Parku tmavej oblohy...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kralovastudna.com  
-   Link: <a href="https://www.kralovastudna.com/en/dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.kralovastudna.com/en/dark-sky-park/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kráľova Studňa HotelDark Sky ParkIn Veľká Fatra Dark Sky Park, the night sky is of exceptional quality. Even without a telescope, we can...</p></details>
+   Link:<a href="https://www.kralovastudna.com/en/dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.kralovastudna.com/en/dark-sky-park/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kráľova Studňa HotelDark Sky ParkIn Veľká Fatra Dark Sky Park, the night sky is of exceptional quality. Even without a telescope, we can...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: beautifulslovakia.sk  
-   Link: <a href="https://www.beautifulslovakia.sk/park-tmavej-oblohy-poloniny" target="_blank" rel="noopener noreferrer nofollow">https://www.beautifulslovakia.sk/park-tmavej-oblohy-poloniny</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Park tmavej oblohy PoloninyOblasť sa vyznačuje tým, ze má výnimočne malú hustotu osidlenia (6 obyvateľov na km²). Bez d&#x27;alekohľadu tu môž...</p></details>
+   Link:<a href="https://www.beautifulslovakia.sk/park-tmavej-oblohy-poloniny" target="_blank" rel="noopener noreferrer nofollow">https://www.beautifulslovakia.sk/park-tmavej-oblohy-poloniny</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Park tmavej oblohy PoloninyOblasť sa vyznačuje tým, ze má výnimočne malú hustotu osidlenia (6 obyvateľov na km²). Bez d&#x27;alekohľadu tu môž...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/twanight/posts/-poloniny-dark-sky-park-ondrej-kr%C3%A1lik-twanightorgguestfrom-the-photographer-woul/980083904146659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/twanight/posts/-poloniny-dark-sky-park-ondrej-kr%C3%A1lik-twanightorgguestfrom-the-photographer-woul/980083904146659/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nd Ukraine, where a dark sky park has been created.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/twanight/posts/-poloniny-dark-sky-park-ondrej-kr%C3%A1lik-twanightorgguestfrom-the-photographer-woul/980083904146659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/twanight/posts/-poloniny-dark-sky-park-ondrej-kr%C3%A1lik-twanightorgguestfrom-the-photographer-woul/980083904146659/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd Ukraine, where a dark sky park has been created.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: earthsky.org  
    Title: poloniny dark sky park  
-   Link: <a href="https://earthsky.org/star_map/poloniny-dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/star_map/poloniny-dark-sky-park/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Poloniny Dark-Sky Park7 Apr 2018 — The dark-sky park is accessible all year round and around-the clock, with camping allowed in designate...</p></details>
+   Link:<a href="https://earthsky.org/star_map/poloniny-dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/star_map/poloniny-dark-sky-park/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poloniny Dark-Sky Park7 Apr 2018 — The dark-sky park is accessible all year round and around-the clock, with camping allowed in designate...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: twanight.org  
-   Link: <a href="https://twanight.org/gallery/poloniny-dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow">https://twanight.org/gallery/poloniny-dark-sky-park/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Poloniny Dark Sky ParkIf you want to enjoy the view of the night sky in comfort, there is an astronomical observatory called “Observatory...</p></details>
+   Link:<a href="https://twanight.org/gallery/poloniny-dark-sky-park/" target="_blank" rel="noopener noreferrer nofollow">https://twanight.org/gallery/poloniny-dark-sky-park/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poloniny Dark Sky ParkIf you want to enjoy the view of the night sky in comfort, there is an astronomical observatory called “Observatory...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mapy.com  
-   Link: <a href="https://mapy.com/en/?id=136281315&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=136281315&amp;source=osm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Poloniny Dark-Sky ParkPoloniny Dark-Sky Park (Garden, park) Map – detailed map of the area (base, outdoor, aerial, panorama, etc.), route...</p></details>
+   Link:<a href="https://mapy.com/en/?id=136281315&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=136281315&amp;source=osm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poloniny Dark-Sky ParkPoloniny Dark-Sky Park (Garden, park) Map – detailed map of the area (base, outdoor, aerial, panorama, etc.), route...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: carnivoreconservation.org  
-   Link: <a href="https://www.carnivoreconservation.org/files/meetings/eccb_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.carnivoreconservation.org/files/meetings/eccb_2009.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ECCB... alien plants. Studies of alien species in nature reserves located in the Czech Republic, central Europe, have shown that the degr...</p></details>
+   Link:<a href="https://www.carnivoreconservation.org/files/meetings/eccb_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.carnivoreconservation.org/files/meetings/eccb_2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ECCB... alien plants. Studies of alien species in nature reserves located in the Czech Republic, central Europe, have shown that the degr...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: darksky.org  
-   Link: <a href="https://darksky.org/what-we-do/international-dark-sky-places/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/what-we-do/international-dark-sky-places/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Dark Sky PlacesThe International Dark Sky Places (IDSP) program certifies communities, parks, and protected areas around th...</p></details>
+   Link:<a href="https://darksky.org/what-we-do/international-dark-sky-places/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/what-we-do/international-dark-sky-places/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Dark Sky PlacesThe International Dark Sky Places (IDSP) program certifies communities, parks, and protected areas around th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: slavic.sk  
-   Link: <a href="https://www.slavic.sk/en/poloniny-national-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.slavic.sk/en/poloniny-national-park/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Poloniny National ParkDiscover UNSECO primeval forests and a charm of dark sky. Poloniny National Park is formed by mountain meadows over...</p></details>
+   Link:<a href="https://www.slavic.sk/en/poloniny-national-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.slavic.sk/en/poloniny-national-park/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poloniny National ParkDiscover UNSECO primeval forests and a charm of dark sky. Poloniny National Park is formed by mountain meadows over...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: visiteurope.com  
-   Link: <a href="https://visiteurope.com/experiences/slovakias-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow">https://visiteurope.com/experiences/slovakias-dark-sky-park</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slovakia&#x27;s Dark Sky ParkA remarkable part of the park is the Dark Sky Park, a protected area for stargazing with minimal light pollution...</p></details>
+   Link:<a href="https://visiteurope.com/experiences/slovakias-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow">https://visiteurope.com/experiences/slovakias-dark-sky-park</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slovakia&#x27;s Dark Sky ParkA remarkable part of the park is the Dark Sky Park, a protected area for stargazing with minimal light pollution...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: evendo.com  
-   Link: <a href="https://evendo.com/locations/slovakia/poloniny-national-park/attraction/poloniny-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow">https://evendo.com/locations/slovakia/poloniny-national-park/attraction/poloniny-dark-sky-park</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bring a telescope or binoculars for enhanced views of celestial objects. Dress warmly in...Read more...</p></details>
+   Link:<a href="https://evendo.com/locations/slovakia/poloniny-national-park/attraction/poloniny-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow">https://evendo.com/locations/slovakia/poloniny-national-park/attraction/poloniny-dark-sky-park</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bring a telescope or binoculars for enhanced views of celestial objects. Dress warmly in...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g799591-d4743937-Reviews-National_Park_Poloniny-Presov_Presov_Region.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g799591-d4743937-Reviews-National_Park_Poloniny-Presov_Presov_Region.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We went there in the early night and spent several hours looking at the stars, it was...Read more...</p></details>
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g799591-d4743937-Reviews-National_Park_Poloniny-Presov_Presov_Region.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g799591-d4743937-Reviews-National_Park_Poloniny-Presov_Presov_Region.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We went there in the early night and spent several hours looking at the stars, it was...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dokumen.pub  
    Title: East Central Europe in Exile Volume 1: Transatlantic  
-   Link: <a href="https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Contract Labour Law of 1885 the importation and migration of foreigners and aliens under contract or agreement to perform labour wa...</p></details>
+   Link:<a href="https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Contract Labour Law of 1885 the importation and migration of foreigners and aliens under contract or agreement to perform labour wa...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100093372537024/posts/last-nights-bright-and-slow-moving-fireball-over-moscow-by-kirill-bakanov-space-/716648744790870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100093372537024/posts/last-nights-bright-and-slow-moving-fireball-over-moscow-by-kirill-bakanov-space-/716648744790870/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ve Satellite ▻ Universe Science technology Aliens UFO. 2y...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100093372537024/posts/last-nights-bright-and-slow-moving-fireball-over-moscow-by-kirill-bakanov-space-/716648744790870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100093372537024/posts/last-nights-bright-and-slow-moving-fireball-over-moscow-by-kirill-bakanov-space-/716648744790870/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ve Satellite ▻ Universe Science technology Aliens UFO. 2y...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/saudiarabiabuzz/posts/meteor-streaking-across-the-night-sky-above-t%C3%BCrkiyes-black-sea-region%EF%B8%8F/1005356164324541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/saudiarabiabuzz/posts/meteor-streaking-across-the-night-sky-above-t%C3%BCrkiyes-black-sea-region%EF%B8%8F/1005356164324541/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pollution in the night sky when meteor viewing. Whilst the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/saudiarabiabuzz/posts/meteor-streaking-across-the-night-sky-above-t%C3%BCrkiyes-black-sea-region%EF%B8%8F/1005356164324541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/saudiarabiabuzz/posts/meteor-streaking-across-the-night-sky-above-t%C3%BCrkiyes-black-sea-region%EF%B8%8F/1005356164324541/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pollution in the night sky when meteor viewing. Whilst the...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aroundus.com  
    Title: Dark-sky preserve in Prešov Region, Slovakia  
-   Link: <a href="https://aroundus.com/p/9561504-poloniny-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow">https://aroundus.com/p/9561504-poloniny-dark-sky-park</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Around Us12 Dec 2025 — Poloniny Dark-Sky Park is a protected area in northeastern Slovakia where natural darkness is preserved with very...</p></details>
+   Link:<a href="https://aroundus.com/p/9561504-poloniny-dark-sky-park" target="_blank" rel="noopener noreferrer nofollow">https://aroundus.com/p/9561504-poloniny-dark-sky-park</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Around Us12 Dec 2025 — Poloniny Dark-Sky Park is a protected area in northeastern Slovakia where natural darkness is preserved with very...</p></details>

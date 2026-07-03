@@ -1201,7 +1201,7 @@ For a reader asking whether the UAE has “real UFO cases”, the careful answer
 
 In this page, “UFO” is used in its older, plain-language sense: an unidentified flying object at the moment it is reported. “UAP”, or unidentified anomalous phenomenon, is the newer official term used by US agencies for unexplained observations in air, sea, space, or transmedium environments. A UAE case may be national in three different ways: it may be seen by residents over UAE territory; captured by UAE or regional astronomy systems; or recorded by foreign military platforms operating near UAE waters.
 
-That distinction matters because the evidentiary quality differs sharply. A smartphone clip from Dubai Marina is not equivalent to an infrared military recording, and a social-media caption is not the same as a camera network operated for meteor detection. NASA’s UAP work has stressed that the subject suffers from limited high-quality observations and that better data, standardised reporting, and calibrated sensors are essential before unusual sightings can be analysed scientifically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
+That distinction matters because the evidentiary quality differs sharply. A smartphone clip from Dubai Marina is not equivalent to an infrared military recording, and a social-media caption is not the same as a camera network operated for meteor detection. NASA’s UAP work has stressed that the subject suffers from limited high-quality observations and that better data, standardised reporting, and calibrated sensors are essential before unusual sightings can be analysed scientifically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
 For the UAE, the best public evidence base sits in three buckets:
 
@@ -1218,11 +1218,11 @@ The result is a country profile where the “mystery” often shrinks once timin
 <img src="{{ "/assets/images/United_Arab_Emirates_c92b89-Illustration-1-dark.svg" | relative_url }}" alt="United Arab Emirates illustration 1" data-theme-src-dark="{{ "/assets/images/United_Arab_Emirates_c92b89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Arab_Emirates_c92b89-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest public case: Gulf of Oman, June 2024
 
-The most important UAE-linked UAP record now in public view is the June 2024 infrared video labelled by DVIDS as “DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024”. Its description says the clip shows an area of contrast resembling an inverted teardrop with a vertically linear trailing mass beneath it, remaining near the centre of the sensor’s field of view for the 21-second video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006074/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most important UAE-linked UAP record now in public view is the June 2024 infrared video labelled by DVIDS as “DOW-UAP-PR29, Unresolved UAP Report, United Arab Emirates, June 2024”. Its description says the clip shows an area of contrast resembling an inverted teardrop with a vertically linear trailing mass beneath it, remaining near the centre of the sensor’s field of view for the 21-second video.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006074/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The National reported in May 2026 that at least three newly released US defence files related to unusual sightings over waters off the UAE, including a 1 June 2024 infrared recording from a US aircraft over the Gulf of Oman. That geography is important: this is not a Dubai rooftop video or a desert campfire anecdote, but a military-platform observation near one of the world’s most strategically sensitive maritime regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The National reported in May 2026 that at least three newly released US defence files related to unusual sightings over waters off the UAE, including a 1 June 2024 infrared recording from a US aircraft over the Gulf of Oman. That geography is important: this is not a Dubai rooftop video or a desert campfire anecdote, but a military-platform observation near one of the world’s most strategically sensitive maritime regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case remains interesting precisely because it is limited. AARO’s broader public imagery page includes unresolved Middle East infrared cases where apparent thermal contrast might be consistent with a physical object, but where the office says the absence of corroborating telemetry or multi-modal sensor data prevents a conclusive evaluation. In other words, “unresolved” does not mean “extraordinary craft”; it means the available data cannot settle whether the source was a physical object, a reflection, a thermal effect, a sensor artefact, or something else. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+The case remains interesting precisely because it is limited. AARO’s broader public imagery page includes unresolved Middle East infrared cases where apparent thermal contrast might be consistent with a physical object, but where the office says the absence of corroborating telemetry or multi-modal sensor data prevents a conclusive evaluation. In other words, “unresolved” does not mean “extraordinary craft”; it means the available data cannot settle whether the source was a physical object, a reflection, a thermal effect, a sensor artefact, or something else.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 That puts the Gulf of Oman case in a useful middle category. It is stronger than most viral UAE sightings because it comes from an official release and a military sensor. It is weaker than a genuinely decisive case because the public record does not show independent radar, visual witness chains, recovered material, flight-path reconstruction, or a clear exclusion of mundane explanations.
 
@@ -1230,17 +1230,17 @@ That puts the Gulf of Oman case in a useful middle category. It is stronger than
 
 The UAE’s publicly visible UFO record is best understood as a chronology of misidentifications, a few genuine astronomical events, and a small number of official UAP releases.
 
-**2017: a dramatic “UFO” becomes a cargo spacecraft re-entry.** In October 2017, residents saw a bright object crossing the Dubai sky. Khaleej Times later framed the answer bluntly: it was not a UFO, colliding stars, or a meteor shower, but a cargo spacecraft disintegrating on re-entry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**2017: a dramatic “UFO” becomes a cargo spacecraft re-entry.** In October 2017, residents saw a bright object crossing the Dubai sky. Khaleej Times later framed the answer bluntly: it was not a UFO, colliding stars, or a meteor shower, but a cargo spacecraft disintegrating on re-entry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**2019: flares and flight activity over Dubai.** In November 2019, Gulf News reported public concern over bright, descending flare-like objects seen from Dubai. Hasan Al Hariri of Dubai Astronomy Group said the objects were not celestial, and another astronomy official described the sighting as flight activity rather than a meteorite or natural object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News Watch: Was that a UFO in the Dubai sky?</span><span class="citation-popover-snippet">Gulf News Watch: Was that a UFO in the Dubai sky?</span></span></span>
+**2019: flares and flight activity over Dubai.** In November 2019, Gulf News reported public concern over bright, descending flare-like objects seen from Dubai. Hasan Al Hariri of Dubai Astronomy Group said the objects were not celestial, and another astronomy official described the sighting as flight activity rather than a meteorite or natural object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News Watch: Was that a UFO in the Dubai sky?</span><span class="citation-popover-snippet">Gulf News Watch: Was that a UFO in the Dubai sky?</span></span></span>
 
-**2020: a Starlink-related re-entry.** In September 2020, residents saw a bright light moving across UAE skies. Gulf News cited the International Astronomical Centre as identifying it as Starlink 40, a SpaceX satellite re-entering the atmosphere. The National similarly reported that the “mysterious fireball” over the UAE was a SpaceX satellite. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News Watch: Was that a UFO in the Dubai sky?</span><span class="citation-popover-snippet">Gulf News Watch: Was that a UFO in the Dubai sky?</span></span></span>
+**2020: a Starlink-related re-entry.** In September 2020, residents saw a bright light moving across UAE skies. Gulf News cited the International Astronomical Centre as identifying it as Starlink 40, a SpaceX satellite re-entering the atmosphere. The National similarly reported that the “mysterious fireball” over the UAE was a SpaceX satellite.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News Watch: Was that a UFO in the Dubai sky?</span><span class="citation-popover-snippet">Gulf News Watch: Was that a UFO in the Dubai sky?</span></span></span>
 
-**2022: red lights over Dubai point to skydivers.** In December 2022, videos of bright-red lights above Dubai prompted speculation about meteor showers or space junk. The National reported that commenters and witnesses identified the display as skydivers or wingsuit performers using flares or pyrotechnics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**2022: red lights over Dubai point to skydivers.** In December 2022, videos of bright-red lights above Dubai prompted speculation about meteor showers or space junk. The National reported that commenters and witnesses identified the display as skydivers or wingsuit performers using flares or pyrotechnics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**2023: a genuine bright meteor over Abu Dhabi.** In February 2023, Khaleej Times reported a rare bright meteor over UAE skies, captured by International Astronomy Centre cameras at 2.23am. The same report noted that the centre’s camera network records meteors and that specialists assess whether fragments may have reached the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**2023: a genuine bright meteor over Abu Dhabi.** In February 2023, Khaleej Times reported a rare bright meteor over UAE skies, captured by International Astronomy Centre cameras at 2.23am. The same report noted that the centre’s camera network records meteors and that specialists assess whether fragments may have reached the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**2024: official US UAP imagery near the UAE.** The June 2024 Gulf of Oman case is the standout official record. It has an exact year, an official release route, a sensor type, and a concise description, but it remains unresolved because the public data are too limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006074/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**2024: official US UAP imagery near the UAE.** The June 2024 Gulf of Oman case is the standout official record. It has an exact year, an official release route, a sensor type, and a concise description, but it remains unresolved because the public data are too limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006074/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This chronology shows a pattern: the UAE produces many striking sky reports, but the better-documented civilian ones usually move toward ordinary explanations once astronomy groups, satellite records, or local activity are considered.
 
@@ -1250,7 +1250,7 @@ This chronology shows a pattern: the UAE produces many striking sky reports, but
 
 The UAE is almost designed to produce spectacular misidentifications. Dubai and Abu Dhabi combine bright skylines, heavy air traffic, drone and display culture, dense tourism, coastal reflections, and a population quick to film and share unusual lights. A slow-moving flare over a dark desert might look obvious to a specialist; the same light seen between towers, reflected in haze, and clipped into a 12-second social video can become “UFO over Dubai” within minutes.
 
-Light pollution also changes how people perceive the sky. AP reported from Al Quaa Desert in May 2026 that the UAE is among the world’s most light-polluted countries, with a 2016 study suggesting 99% of the Emirates population could not see the Milky Way from home because of artificial lighting. The same report described Al Quaa, south-east of Abu Dhabi, as one of the country’s remaining dark-sky locations where Dubai Astronomy Group volunteers help residents see stars, meteors, and the Milky Way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/ee678e1b535df81edc96f5140ad5e998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Light pollution also changes how people perceive the sky. AP reported from Al Quaa Desert in May 2026 that the UAE is among the world’s most light-polluted countries, with a 2016 study suggesting 99% of the Emirates population could not see the Milky Way from home because of artificial lighting. The same report described Al Quaa, south-east of Abu Dhabi, as one of the country’s remaining dark-sky locations where Dubai Astronomy Group volunteers help residents see stars, meteors, and the Milky Way.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/ee678e1b535df81edc96f5140ad5e998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That matters for UFO interpretation because people who rarely see a dark sky are more likely to be surprised by normal celestial events. Meteors, satellite trains, re-entries, aircraft landing lights, and high-altitude reflections can look extraordinary when seen without context. The UAE’s contrast is especially sharp: huge urban light domes dominate daily life, while desert locations can still provide unusually clear skies.
 
@@ -1258,9 +1258,9 @@ That matters for UFO interpretation because people who rarely see a dark sky are
 
 The UAE has a stronger scientific sky-monitoring infrastructure than a casual reader might expect. The UAE Meteor Monitoring Network is funded by the UAE Space Agency and operated by the Sharjah Center for Astronomy and Space Sciences. Its stated purpose is to monitor the sky for human-made space debris, satellites, meteors, and fireballs, using three towers at Sharjah, Al Ain, and Liwa. [وكالة الإمارات للفضاء]
 
-Academic reporting on the network describes three towers in different UAE locations, each equipped with 17 cameras around a ring-like structure directed at the sky. The system automatically captures movement from sunset to sunrise, and researchers use specialist software to analyse fireballs by apparent magnitude and visual assessment. From September 2018 to December 2020, the network classified 223 fireballs, with detections increasing near the Leonids and Geminids meteor showers in November and December. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-snippet">Observations of Fireballs with the UAE Meteor Monitoring Network - United Arab Emirates University...</span></span></span>
+Academic reporting on the network describes three towers in different UAE locations, each equipped with 17 cameras around a ring-like structure directed at the sky. The system automatically captures movement from sunset to sunrise, and researchers use specialist software to analyse fireballs by apparent magnitude and visual assessment. From September 2018 to December 2020, the network classified 223 fireballs, with detections increasing near the Leonids and Geminids meteor showers in November and December.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-snippet">Observations of Fireballs with the UAE Meteor Monitoring Network - United Arab Emirates University...</span></span></span>
 
-This is highly relevant to UFO claims. A country with distributed meteor cameras can often test whether a “mysterious fireball” had the speed, direction, brightness, and timing of a meteor or re-entry. It also means some genuine sky events are not dismissed; they are measured. The February 2023 Abu Dhabi fireball, for example, was not treated as fantasy, but as a real meteor event captured by camera systems and subject to follow-up calculations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is highly relevant to UFO claims. A country with distributed meteor cameras can often test whether a “mysterious fireball” had the speed, direction, brightness, and timing of a meteor or re-entry. It also means some genuine sky events are not dismissed; they are measured. The February 2023 Abu Dhabi fireball, for example, was not treated as fantasy, but as a real meteor event captured by camera systems and subject to follow-up calculations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Dubai Astronomy Group and the International Astronomical Centre also appear repeatedly in local reporting as practical explainers. Their role is not to run a formal UFO office, but to provide immediate reality checks: celestial object or not, meteor or space debris, natural sky event or human activity.
 
@@ -1269,11 +1269,11 @@ Dubai Astronomy Group and the International Astronomical Centre also appear repe
 
 The UAE record is useful because it shows the whole spectrum of evidence quality in a compact national setting.
 
-**Confirmed ordinary explanations** are the largest category. The 2017 Dubai fireball was identified in local reporting as a cargo spacecraft re-entry; the 2020 UAE fireball was identified as a SpaceX Starlink-related satellite re-entry; and some Dubai red-light videos were plausibly linked to skydivers with flares. These cases are not worthless because they were “debunked”. They are valuable because they teach the visual signatures that can mislead witnesses: slow descent, fragmentation, glowing trails, repeated points of light, and unusual motion against urban skylines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News Watch: Was that a UFO in the Dubai sky?</span><span class="citation-popover-snippet">Gulf News Watch: Was that a UFO in the Dubai sky?</span></span></span>
+**Confirmed ordinary explanations** are the largest category. The 2017 Dubai fireball was identified in local reporting as a cargo spacecraft re-entry; the 2020 UAE fireball was identified as a SpaceX Starlink-related satellite re-entry; and some Dubai red-light videos were plausibly linked to skydivers with flares. These cases are not worthless because they were “debunked”. They are valuable because they teach the visual signatures that can mislead witnesses: slow descent, fragmentation, glowing trails, repeated points of light, and unusual motion against urban skylines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News Watch: Was that a UFO in the Dubai sky?</span><span class="citation-popover-snippet">Gulf News Watch: Was that a UFO in the Dubai sky?</span></span></span>
 
-**Genuine but ordinary astronomical events** are also present. The 2023 Abu Dhabi meteor was not a hoax or a party stunt; it was a real fireball seen for several seconds and captured by monitoring equipment. The distinction is important: sceptical analysis does not mean assuming nothing happened. It means asking what happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Genuine but ordinary astronomical events** are also present. The 2023 Abu Dhabi meteor was not a hoax or a party stunt; it was a real fireball seen for several seconds and captured by monitoring equipment. The distinction is important: sceptical analysis does not mean assuming nothing happened. It means asking what happened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested or unresolved official cases** are rarer. The 2024 Gulf of Oman infrared clip is the key example. Its official release and sensor origin make it more serious than a social-media video, but its short duration and lack of public corroborating data keep it from supporting stronger claims. AARO’s own language around comparable Middle East cases is cautious: apparent thermal contrast may be consistent with a physical object, but without corroborating telemetry or multi-sensor data, no conclusive analysis is possible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol 1 2024</span><span class="citation-popover-snippet">AARO Historical Record Report Vol 1 2024</span></span></span>
+**Contested or unresolved official cases** are rarer. The 2024 Gulf of Oman infrared clip is the key example. Its official release and sensor origin make it more serious than a social-media video, but its short duration and lack of public corroborating data keep it from supporting stronger claims. AARO’s own language around comparable Middle East cases is cautious: apparent thermal contrast may be consistent with a physical object, but without corroborating telemetry or multi-sensor data, no conclusive analysis is possible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Historical Record Report Vol</span><span class="citation-popover-snippet">AARO Historical Record Report Vol</span></span></span>
 
 **Low-reliability viral claims** are the weakest category. These are clips with no original file, no stable timestamp, no direction of view, no witness chain, no flight or satellite check, and no independent capture from another location. In the UAE, many such posts benefit from the dramatic visual setting of Dubai or Abu Dhabi, but that same setting increases the number of mundane sources.
 
@@ -1283,7 +1283,7 @@ There is no prominent, public, UAE-government UFO archive equivalent to AARO’s
 
 The closest thing to a systematic UAE sky-event archive is not a UFO archive at all, but the meteor and space-debris monitoring infrastructure. The UAE Space Agency page describes the UAE Meteor Monitoring Network as a project for monitoring space debris, satellites, meteors, and fireballs; the academic paper linked through United Arab Emirates University shows how its camera network classifies fireballs. [وكالة الإمارات للفضاء]
 
-For official UAP material, the relevant archive is currently foreign: AARO and associated US defence-release channels. ODNI and the US Department of Defense published their Fiscal Year 2024 consolidated UAP report in November 2024, and AARO’s public imagery page includes Middle East cases as well as resolved cases such as a consumer-grade reflective foil balloon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
+For official UAP material, the relevant archive is currently foreign: AARO and associated US defence-release channels. ODNI and the US Department of Defense published their Fiscal Year 2024 consolidated UAP report in November 2024, and AARO’s public imagery page includes Middle East cases as well as resolved cases such as a consumer-grade reflective foil balloon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
 
 This creates a source problem for the UAE page. The country is not absent from UAP records, but much of the higher-quality UAP documentation comes through US military or intelligence structures rather than UAE civil institutions. That limits what can responsibly be said about local investigation, classification, or national policy.
 
@@ -1293,13 +1293,13 @@ This creates a source problem for the UAE page. The country is not absent from U
 
 Different parts of the UAE produce different kinds of reports.
 
-**Dubai** is the centre of viral light sightings. Its high-rise skyline, public displays, skydiving culture, aviation density, coastal haze, and social-media visibility make it the most likely place for ordinary lights to become “UFO” clips. The 2019 flare-like sighting and 2022 red-light reports both fit this pattern: dramatic urban visuals, quick online speculation, and later explanations involving flight activity or skydivers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News Watch: Was that a UFO in the Dubai sky?</span><span class="citation-popover-snippet">Gulf News Watch: Was that a UFO in the Dubai sky?</span></span></span>
+**Dubai** is the centre of viral light sightings. Its high-rise skyline, public displays, skydiving culture, aviation density, coastal haze, and social-media visibility make it the most likely place for ordinary lights to become “UFO” clips. The 2019 flare-like sighting and 2022 red-light reports both fit this pattern: dramatic urban visuals, quick online speculation, and later explanations involving flight activity or skydivers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News Watch: Was that a UFO in the Dubai sky?</span><span class="citation-popover-snippet">Gulf News Watch: Was that a UFO in the Dubai sky?</span></span></span>
 
 **Abu Dhabi and Al Ain** are more important for astronomy and monitoring. Abu Dhabi appears in meteor reporting, while Al Ain is one of the UAE Meteor Monitoring Network’s tower locations. Liwa, in the far west, is another monitoring site and makes sense as a darker-sky region with better conditions for detecting meteors and fireballs. [وكالة الإمارات للفضاء]
 
-**Al Quaa and desert locations** matter because they preserve darker skies. AP’s 2026 report from Al Quaa shows why desert observation differs from urban observation: under darker conditions, meteors and the Milky Way become visible in ways many residents do not experience from home. That improves sky awareness but can also produce more reports simply because people are watching the sky more carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/ee678e1b535df81edc96f5140ad5e998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Al Quaa and desert locations** matter because they preserve darker skies. AP’s 2026 report from Al Quaa shows why desert observation differs from urban observation: under darker conditions, meteors and the Milky Way become visible in ways many residents do not experience from home. That improves sky awareness but can also produce more reports simply because people are watching the sky more carefully.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/ee678e1b535df81edc96f5140ad5e998" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**The Gulf of Oman and offshore approaches** form the most sensitive UAP zone in the public record. The 2024 official infrared case is linked to waters off the UAE, not a city skyline. In a maritime region used by military, commercial, and surveillance platforms, unidentified objects can have security relevance even when they do not imply anything exotic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**The Gulf of Oman and offshore approaches** form the most sensitive UAP zone in the public record. The 2024 official infrared case is linked to waters off the UAE, not a city skyline. In a maritime region used by military, commercial, and surveillance platforms, unidentified objects can have security relevance even when they do not imply anything exotic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nw3u65Z4ZHw" title="Mideast Conflict: Dubai Drone Incidents Add to Regional Flight Disruptions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nw3u65Z4ZHw" target="_blank" rel="noopener noreferrer">Mideast Conflict: Dubai Drone Incidents Add to Regional Flight Disruptions</a></p><p class="youtube-embed-meta">Channel: Bloomberg Television &middot; Views: 11.6K &middot; Uploaded: March 2026 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nw3u65Z4ZHw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nw3u65Z4ZHw">Open on YouTube</a></p></div></div></div>
 
@@ -1307,13 +1307,13 @@ Different parts of the UAE produce different kinds of reports.
 
 A useful UAE-specific test starts with the most common explanations before moving to extraordinary ones.
 
-First, check whether the object behaved like a re-entry: bright, fragmenting, moving across a large part of the sky, and visible over a wide region. The 2017 and 2020 UAE examples show how spacecraft or satellite debris can look spectacular enough to trigger UFO speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+First, check whether the object behaved like a re-entry: bright, fragmenting, moving across a large part of the sky, and visible over a wide region. The 2017 and 2020 UAE examples show how spacecraft or satellite debris can look spectacular enough to trigger UFO speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Second, check whether the sighting occurred near a display, event, skydiving zone, aviation corridor, or dense urban area. The Dubai cases involving flare-like trails and red lights demonstrate how human activity can look strange when filmed at night from a distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News Watch: Was that a UFO in the Dubai sky?</span><span class="citation-popover-snippet">Gulf News Watch: Was that a UFO in the Dubai sky?</span></span></span>
+Second, check whether the sighting occurred near a display, event, skydiving zone, aviation corridor, or dense urban area. The Dubai cases involving flare-like trails and red lights demonstrate how human activity can look strange when filmed at night from a distance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gulfnews.com">[Gulf News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gulfnews.com</span><span class="citation-popover-title">Gulf News Watch: Was that a UFO in the Dubai sky?</span><span class="citation-popover-snippet">Gulf News Watch: Was that a UFO in the Dubai sky?</span></span></span>
 
 Third, look for multi-point confirmation. A real meteor or re-entry is often captured by several observers and, ideally, by meteor cameras. The UAE’s monitoring networks make this especially valuable: a claim supported by camera-station data is much stronger than a reposted clip with a dramatic caption. [وكالة الإمارات للفضاء]
 
-Finally, treat “unresolved” as a technical status, not a conclusion. The Gulf of Oman case is unresolved because public evidence does not permit a conclusive identification. That is different from evidence of alien technology, secret aircraft, or a physics-defying object. NASA and AARO-style approaches both point in the same direction: better data are the difference between mystery as entertainment and mystery as an analysable event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
+Finally, treat “unresolved” as a technical status, not a conclusion. The Gulf of Oman case is unresolved because public evidence does not permit a conclusive identification. That is different from evidence of alien technology, secret aircraft, or a physics-defying object. NASA and AARO-style approaches both point in the same direction: better data are the difference between mystery as entertainment and mystery as an analysable event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
 <img src="{{ "/assets/images/United_Arab_Emirates_c92b89-Illustration-3-dark.svg" | relative_url }}" alt="United Arab Emirates illustration 3" data-theme-src-dark="{{ "/assets/images/United_Arab_Emirates_c92b89-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Arab_Emirates_c92b89-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line for the United Arab Emirates
@@ -1323,194 +1323,194 @@ The UAE’s UFO record is real but uneven. It contains one notable official UAP-
 The most credible unresolved item is the 2024 Gulf of Oman infrared case, because it comes from an official military release and has not been publicly resolved. The most instructive UAE cases, however, may be the debunked ones: the 2017 cargo spacecraft re-entry, the 2020 Starlink-related re-entry, and Dubai flare or skydiving reports. They show why the Emirates needs careful sky-event literacy more than sensational certainty.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Seen Over UAE Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Really Seen Over UAE Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a balanced framework for evaluating modern UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced framework for evaluating modern UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for interpreting sightings in aviation-heavy environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting sightings in aviation-heavy environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Adds cultural context to recurring UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds cultural context to recurring UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Relevant to contemporary military and intelligence-linked cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to contemporary military and intelligence-linked cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-seen-over-uae-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-seen-over-uae-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1526,7 +1526,7 @@ The most credible unresolved item is the 2024 Gulf of Oman infrared case, becaus
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1546,7 +1546,7 @@ The most credible unresolved item is the 2024 Gulf of Oman infrared case, becaus
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1578,7 +1578,7 @@ The most credible unresolved item is the 2024 Gulf of Oman infrared case, becaus
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1630,7 +1630,7 @@ The most credible unresolved item is the 2024 Gulf of Oman infrared case, becaus
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1675,7 +1675,7 @@ The most credible unresolved item is the 2024 Gulf of Oman infrared case, becaus
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1713,178 +1713,177 @@ The most credible unresolved item is the 2024 Gulf of Oman infrared case, becaus
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: research.uaeu.ac.ae  
    Title: United Arab Emirates University  
-   Link: <a href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow">https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observations of Fireballs with the UAE Meteor Monitoring Network - United Arab Emirates University...</p></details>
+   Link:<a href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow">https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observations of Fireballs with the UAE Meteor Monitoring Network - United Arab Emirates University...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: apod.nasa.gov  
    Title: archivepix Full  
-   Link: <a href="https://apod.nasa.gov/apod/archivepixFull.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/archivepixFull.html</a>  
+   Link:<a href="https://apod.nasa.gov/apod/archivepixFull.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/archivepixFull.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/1006074/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006074/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/1006074/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006074/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thenationalnews.com  
-   Link: <a href="https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/</a>  
+   Link:<a href="https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/news/us/2026/05/08/ufos-uae-middle-east/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: khaleejtimes.com  
-   Link: <a href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night</a>  
+   Link:<a href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: gulfnews.com  
    Title: Gulf News Watch: Was that a UFO in the Dubai sky?  
-   Link: <a href="https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630</a>  
+   Link:<a href="https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/watch-was-that-a-ufo-in-the-dubai-sky-1.1573719405630</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gulfnews.com  
    Title: Gulf News Watch: Mysterious blaze of light spotted flying across UAE sky  
-   Link: <a href="https://gulfnews.com/uae/watch-mysterious-blaze-of-light-spotted-flying-across-uae-sky-1.1599372013617" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/watch-mysterious-blaze-of-light-spotted-flying-across-uae-sky-1.1599372013617</a>  
+   Link:<a href="https://gulfnews.com/uae/watch-mysterious-blaze-of-light-spotted-flying-across-uae-sky-1.1599372013617" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/watch-mysterious-blaze-of-light-spotted-flying-across-uae-sky-1.1599372013617</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thenationalnews.com  
    Title: what was that streak of light spotted across the uae sky 1.1073535  
-   Link: <a href="https://www.thenationalnews.com/uae/science/what-was-that-streak-of-light-spotted-across-the-uae-sky-1.1073535" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/uae/science/what-was-that-streak-of-light-spotted-across-the-uae-sky-1.1073535</a>  
+   Link:<a href="https://www.thenationalnews.com/uae/science/what-was-that-streak-of-light-spotted-across-the-uae-sky-1.1073535" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/uae/science/what-was-that-streak-of-light-spotted-across-the-uae-sky-1.1073535</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thenationalnews.com  
-   Link: <a href="https://www.thenationalnews.com/uae/2022/12/07/skydivers-or-space-junk-mystery-objects-spotted-flying-across-uae-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/uae/2022/12/07/skydivers-or-space-junk-mystery-objects-spotted-flying-across-uae-skies/</a>  
+   Link:<a href="https://www.thenationalnews.com/uae/2022/12/07/skydivers-or-space-junk-mystery-objects-spotted-flying-across-uae-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/uae/2022/12/07/skydivers-or-space-junk-mystery-objects-spotted-flying-across-uae-skies/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: khaleejtimes.com  
-   Link: <a href="https://www.khaleejtimes.com/uae/look-fireball-blazes-through-uae-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/look-fireball-blazes-through-uae-sky</a>  
+   Link:<a href="https://www.khaleejtimes.com/uae/look-fireball-blazes-through-uae-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/look-fireball-blazes-through-uae-sky</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/ee678e1b535df81edc96f5140ad5e998" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ee678e1b535df81edc96f5140ad5e998</a>  
+   Link:<a href="https://apnews.com/article/ee678e1b535df81edc96f5140ad5e998" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ee678e1b535df81edc96f5140ad5e998</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gulfnews.com  
    Title: light streaking through dubais night sky meteorite or satellite 1.2107170  
-   Link: <a href="https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170</a>  
+   Link:<a href="https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: gulfnews.com  
    Title: video the reason why the uae saw a row of lights in the sky 1.1559198771594  
-   Link: <a href="https://gulfnews.com/uae/science/video-the-reason-why-the-uae-saw-a-row-of-lights-in-the-sky-1.1559198771594" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/science/video-the-reason-why-the-uae-saw-a-row-of-lights-in-the-sky-1.1559198771594</a>  
+   Link:<a href="https://gulfnews.com/uae/science/video-the-reason-why-the-uae-saw-a-row-of-lights-in-the-sky-1.1559198771594" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/science/video-the-reason-why-the-uae-saw-a-row-of-lights-in-the-sky-1.1559198771594</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gulfnews.com  
    Title: fireball in the uae not a meteor just space junk 1.2107814  
-   Link: <a href="https://gulfnews.com/going-out/society/fireball-in-the-uae-not-a-meteor-just-space-junk-1.2107814" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/going-out/society/fireball-in-the-uae-not-a-meteor-just-space-junk-1.2107814</a>  
+   Link:<a href="https://gulfnews.com/going-out/society/fireball-in-the-uae-not-a-meteor-just-space-junk-1.2107814" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/going-out/society/fireball-in-the-uae-not-a-meteor-just-space-junk-1.2107814</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: khaleejtimes.com  
-   Link: <a href="https://www.khaleejtimes.com/uae/uae-spotted-a-mysterious-flying-object-last-night-expert-explains-what-it-could-be" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/uae-spotted-a-mysterious-flying-object-last-night-expert-explains-what-it-could-be</a>  
+   Link:<a href="https://www.khaleejtimes.com/uae/uae-spotted-a-mysterious-flying-object-last-night-expert-explains-what-it-could-be" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/uae-spotted-a-mysterious-flying-object-last-night-expert-explains-what-it-could-be</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/?type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?type=.vid</a>  
+   Link:<a href="https://www.war.gov/ufo/?type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?type=.vid</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufotransparency.com  
    Title: dow uap pr29 unresolved uap report united arab emirates june 2024  
-   Link: <a href="https://ufotransparency.com/files/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024</a>  
+   Link:<a href="https://ufotransparency.com/files/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/dow-uap-pr29-unresolved-uap-report-united-arab-emirates-june-2024</a>  
    Published: june 2024  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Coverage of Space Debris Event. Dubai Astronomy Group Press Conference  
-   Link: <a href="https://www.youtube.com/watch?v=TpPx9ApDFGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TpPx9ApDFGQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones Spotted Over Dubai Night Sky Trigger Panic Among Residents In Populated Areas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TpPx9ApDFGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TpPx9ApDFGQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drones Spotted Over Dubai Night Sky Trigger Panic Among Residents In Populated Areas...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x-W3IcVYPzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x-W3IcVYPzQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coverage of Space Debris Event. Dubai Astronomy Group Press Conference - Khaleej Times...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x-W3IcVYPzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x-W3IcVYPzQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coverage of Space Debris Event. Dubai Astronomy Group Press Conference - Khaleej Times...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1T4WTfhCrkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1T4WTfhCrkQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases second set of videos as part of Trump&#x27;s UFO transparency directive...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1T4WTfhCrkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1T4WTfhCrkQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases second set of videos as part of Trump&#x27;s UFO transparency directive...</p></details>
    Published: October 2017  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WX0tsGYi5nE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WX0tsGYi5nE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geminid Meteor Shower Peaks for Stargazers in UAE...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WX0tsGYi5nE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WX0tsGYi5nE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geminid Meteor Shower Peaks for Stargazers in UAE...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVk9yAzEjN0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVk9yAzEjN0/</a>  
+   Link:<a href="https://www.instagram.com/reel/DVk9yAzEjN0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVk9yAzEjN0/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: esquireme.com  
-   Link: <a href="https://www.esquireme.com/news/52261-aliens-in-dubai-flaming-ufo-falls-from-dubais-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.esquireme.com/news/52261-aliens-in-dubai-flaming-ufo-falls-from-dubais-sky</a>  
+   Link:<a href="https://www.esquireme.com/news/52261-aliens-in-dubai-flaming-ufo-falls-from-dubais-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.esquireme.com/news/52261-aliens-in-dubai-flaming-ufo-falls-from-dubais-sky</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: astronomycast.com  
-   Link: <a href="https://www.astronomycast.com/category/amateur-astronomy/feed/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomycast.com/category/amateur-astronomy/feed/</a>  
+   Link:<a href="https://www.astronomycast.com/category/amateur-astronomy/feed/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomycast.com/category/amateur-astronomy/feed/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Reuters/posts/amazons-cloud-computing-facilities-in-the-middle-east-faced-power-and-connectivi/1482677300389664/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/amazons-cloud-computing-facilities-in-the-middle-east-faced-power-and-connectivi/1482677300389664/</a>
+   Link:<a href="https://www.facebook.com/Reuters/posts/amazons-cloud-computing-facilities-in-the-middle-east-faced-power-and-connectivi/1482677300389664/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/amazons-cloud-computing-facilities-in-the-middle-east-faced-power-and-connectivi/1482677300389664/</a>

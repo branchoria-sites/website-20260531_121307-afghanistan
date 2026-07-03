@@ -1194,32 +1194,32 @@ That makes San Marino an unusual page in a UFO country project. It is less a “
 <img src="{{ "/assets/images/San_Marino_8ff2c5-overview.webp" | relative_url }}" alt="Overview image for Why San Marino Became a UFO Meeting Point" loading="eager" decoding="sync" fetchpriority="high">
 ## Why San Marino became a UFO meeting point
 
-San Marino’s UFO profile largely begins with the World Symposium on unidentified flying objects and related phenomena, organised by Italy’s Centro Ufologico Nazionale, or CUN. A San Marino parliamentary document supporting Project Titan states that the symposium had been held under the aegis of the San Marino government since the early 1990s and had helped make the republic a reference point in ufological circles. The same document frames this continuity as a political asset: San Marino could use its long hosting history to propose a more formal international role on UAP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/documento17134957.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consigliograndeegenerale.sm">[consigliograndeegenerale.sm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consigliograndeegenerale.sm</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+San Marino’s UFO profile largely begins with the World Symposium on unidentified flying objects and related phenomena, organised by Italy’s Centro Ufologico Nazionale, or CUN. A San Marino parliamentary document supporting Project Titan states that the symposium had been held under the aegis of the San Marino government since the early 1990s and had helped make the republic a reference point in ufological circles. The same document frames this continuity as a political asset: San Marino could use its long hosting history to propose a more formal international role on UAP.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/documento17134957.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consigliograndeegenerale.sm">[consigliograndeegenerale.sm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consigliograndeegenerale.sm</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The public tourism and event record supports the idea that this was not merely a private club meeting in the margins. Visit San Marino listed the 32nd symposium in November 2023 at the Kursaal Congress Centre in Città di San Marino, with speakers from the United States, United Kingdom, China, Portugal, Spain, Italy and San Marino, and named CUN as organiser. San Marino RTV listed the 34th edition for June 2025 at the same congress centre, again describing it as the annual world symposium on UFOs, UAP and related phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20231020_Simposio_Ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitsanmarino.com">[Visita San Marino, portale ufficiale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitsanmarino.com</span><span class="citation-popover-title">Visita San Marino, portale ufficiale32th UFO Symposium &#124; Visit San Marino</span><span class="citation-popover-snippet">Visita San Marino, portale ufficiale32th UFO Symposium &#124; Visit San Marino</span></span></span>
+The public tourism and event record supports the idea that this was not merely a private club meeting in the margins. Visit San Marino listed the 32nd symposium in November 2023 at the Kursaal Congress Centre in Città di San Marino, with speakers from the United States, United Kingdom, China, Portugal, Spain, Italy and San Marino, and named CUN as organiser. San Marino RTV listed the 34th edition for June 2025 at the same congress centre, again describing it as the annual world symposium on UFOs, UAP and related phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20231020_Simposio_Ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitsanmarino.com">[Visita San Marino, portale ufficiale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitsanmarino.com</span><span class="citation-popover-title">Visita San Marino, portale ufficiale32th UFO Symposium &#124; Visit San Marino</span><span class="citation-popover-snippet">Visita San Marino, portale ufficiale32th UFO Symposium &#124; Visit San Marino</span></span></span>
 
 This concentration matters for interpreting the country’s UFO history. Most of the visible San Marino material is not a spread of local sightings from different municipalities; it is clustered around Città di San Marino, Monte Titano and the congress venues where visiting speakers and enthusiasts gather. In a larger country, “regional variation” might mean comparing northern military-airbase cases with coastal light sightings. In San Marino, the variation is more social than geographical: public UFO attention peaks around symposium dates, visiting delegations and press coverage rather than around a broad national incident map.
 
 ## The Project Titan episode
 
-Project Titan is the clearest point where San Marino moved from hosting UFO events to considering a formal international initiative. ICER, the International Coalition for Extraterrestrial Research, describes Project Titan as a plan centred on San Marino that aims to create an international periodic conference to assess and improve UAP study, held in San Marino under United Nations aegis. ICER’s own description is advocacy-facing, so it should be read as the project sponsor’s account rather than as evidence that the UN has adopted the plan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[icerassociation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-title">ICE R ASSOCIATION</span><span class="citation-popover-snippet">ICE R ASSOCIATION</span></span></span>
+Project Titan is the clearest point where San Marino moved from hosting UFO events to considering a formal international initiative. ICER, the International Coalition for Extraterrestrial Research, describes Project Titan as a plan centred on San Marino that aims to create an international periodic conference to assess and improve UAP study, held in San Marino under United Nations aegis. ICER’s own description is advocacy-facing, so it should be read as the project sponsor’s account rather than as evidence that the UN has adopted the plan.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[icerassociation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-title">ICE R ASSOCIATION</span><span class="citation-popover-snippet">ICE R ASSOCIATION</span></span></span>
 
-The official San Marino element is stronger on the domestic parliamentary side. A report on the Consiglio Grande e Generale session of 19 January 2023 records approval of Istanza d’Arengo no. 9, concerning San Marino’s adherence to the “Progetto Titano” action plan developed by CUN and ICER. The vote was reported as 25 in favour, 2 against, 2 abstentions and 2 not voting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dire.it">[Agenzia Dire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dire.it</span><span class="citation-popover-title">Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio</span><span class="citation-popover-snippet">Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio</span></span></span>
+The official San Marino element is stronger on the domestic parliamentary side. A report on the Consiglio Grande e Generale session of 19 January 2023 records approval of Istanza d’Arengo no. 9, concerning San Marino’s adherence to the “Progetto Titano” action plan developed by CUN and ICER. The vote was reported as 25 in favour, 2 against, 2 abstentions and 2 not voting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dire.it">[Agenzia Dire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dire.it</span><span class="citation-popover-title">Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio</span><span class="citation-popover-snippet">Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio</span></span></span>
 
-The underlying petition document is revealing because it does not claim that San Marino possesses a major archive of anomalous incidents. Instead, it argues that the republic’s value lies in continuity, neutrality and convening power. It cites the long-running symposium, references earlier international initiatives on UFOs, and points to examples of official study elsewhere, including France’s GEIPAN and Uruguay’s CRIDOVNI. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/documento17134957.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consigliograndeegenerale.sm">[consigliograndeegenerale.sm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consigliograndeegenerale.sm</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The underlying petition document is revealing because it does not claim that San Marino possesses a major archive of anomalous incidents. Instead, it argues that the republic’s value lies in continuity, neutrality and convening power. It cites the long-running symposium, references earlier international initiatives on UFOs, and points to examples of official study elsewhere, including France’s GEIPAN and Uruguay’s CRIDOVNI.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/documento17134957.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consigliograndeegenerale.sm">[consigliograndeegenerale.sm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consigliograndeegenerale.sm</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most cautious reading is therefore this: San Marino did not become an official world UFO authority by parliamentary vote. It did, however, give political recognition to an advocacy proposal that sought to use the republic’s small-state neutrality and established symposium infrastructure as a platform for international UAP discussion.
 
 <img src="{{ "/assets/images/San_Marino_8ff2c5-Illustration-1-dark.svg" | relative_url }}" alt="Why San Marino Became a UFO Meeting Point illustration 1" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What is actually recorded over San Marino?
 
-The most specific public incident repeatedly associated with San Marino is the reported 14 May 2017 sighting over Monte Titano during the 25th symposium. Teleromagna reported CUN’s claim that a “flotilla” of UFOs had passed over San Marino between 10:15 and 10:40, that only around 30 of the more than 300 symposium attendees visually followed the phenomenon, and that some recorded it on mobile phones. The same report quoted CUN figures linking it to an alleged similar nocturnal “swarm” in 2016. <span class="citation-chip-wrap"><a class="citation-chip" href="https://teleromagna.it/it/Attualit%C3%A0/2017/5/22/san-marino-avvistata-flottiglia-di-ufo-lo-dice-il-cun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teleromagna.it">[teleromagna.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teleromagna.it</span><span class="citation-popover-title">SA N MARINO: Avvistata &quot;flottiglia&quot; di UFO, lo dice il CUN</span><span class="citation-popover-snippet">SA N MARINO: Avvistata &quot;flottiglia&quot; di UFO, lo dice il CUN</span></span></span>
+The most specific public incident repeatedly associated with San Marino is the reported 14 May 2017 sighting over Monte Titano during the 25th symposium. Teleromagna reported CUN’s claim that a “flotilla” of UFOs had passed over San Marino between 10:15 and 10:40, that only around 30 of the more than 300 symposium attendees visually followed the phenomenon, and that some recorded it on mobile phones. The same report quoted CUN figures linking it to an alleged similar nocturnal “swarm” in 2016.<span class="citation-chip-wrap"><a class="citation-chip" href="https://teleromagna.it/it/Attualit%C3%A0/2017/5/22/san-marino-avvistata-flottiglia-di-ufo-lo-dice-il-cun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teleromagna.it">[teleromagna.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teleromagna.it</span><span class="citation-popover-title">SA N MARINO: Avvistata &quot;flottiglia&quot; di UFO, lo dice il CUN</span><span class="citation-popover-snippet">SA N MARINO: Avvistata &quot;flottiglia&quot; di UFO, lo dice il CUN</span></span></span>
 
-Mediaset’s Studio Aperto also carried a short item titled “UFO sighting in the sky of San Marino” on 26 May 2017, describing the images as coming directly from CUN. That establishes media circulation, but not independent technical verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mediasetinfinity.mediaset.it/video/studioaperto/avvistamento-ufo-nel-cielo-di-san-marino_F307966501292C06" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediasetinfinity.mediaset.it">[Mediaset Infinity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediasetinfinity.mediaset.it</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Mediaset’s Studio Aperto also carried a short item titled “UFO sighting in the sky of San Marino” on 26 May 2017, describing the images as coming directly from CUN. That establishes media circulation, but not independent technical verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mediasetinfinity.mediaset.it/video/studioaperto/avvistamento-ufo-nel-cielo-di-san-marino_F307966501292C06" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediasetinfinity.mediaset.it">[Mediaset Infinity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediasetinfinity.mediaset.it</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The evidential weaknesses are important. The 2017 claim appears in media reports that rely heavily on CUN’s account; the public material does not show a transparent chain of custody for the images, independent meteorological and astronomical checks, air-traffic correlation, drone or balloon exclusion, or a formal official conclusion from a state investigative body. In UFO terms, this leaves the case in the “contested” category: interesting because of its setting and claimed multiple witnesses, but not confirmed as anomalous.
 
-There are also casual database-style claims that San Marino has few or no confirmed UFO sightings. One 2021 article, based on National UFO Reporting Center-derived data analysed by PsychicWorld, stated that San Marino was the least represented European country in that dataset, with no confirmed sightings. This is useful only as a rough warning against inflated claims; it is not a high-grade national archive and should not be treated as a definitive absence of events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://extra.ie/2021/01/29/news/ireland-europe-ufo-sightings-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ie">[Extra.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ie</span><span class="citation-popover-title">Ireland has the most alien visits in Europe, according to UFO spotting data</span><span class="citation-popover-snippet">Ireland has the most alien visits in Europe, according to UFO spotting data</span></span></span>
+There are also casual database-style claims that San Marino has few or no confirmed UFO sightings. One 2021 article, based on National UFO Reporting Center-derived data analysed by PsychicWorld, stated that San Marino was the least represented European country in that dataset, with no confirmed sightings. This is useful only as a rough warning against inflated claims; it is not a high-grade national archive and should not be treated as a definitive absence of events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://extra.ie/2021/01/29/news/ireland-europe-ufo-sightings-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ie">[Extra.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ie</span><span class="citation-popover-title">Ireland has the most alien visits in Europe, according to UFO spotting data</span><span class="citation-popover-snippet">Ireland has the most alien visits in Europe, according to UFO spotting data</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q3BpTZXmDns" title="UAP Whistleblower David Grusch on “Non-human” Biologics &amp; Craft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q3BpTZXmDns" target="_blank" rel="noopener noreferrer">UAP Whistleblower David Grusch on “Non-human” Biologics &amp; Craft</a></p><p class="youtube-embed-meta">Channel: Judicial Watch &middot; Views: 44.4K &middot; Uploaded: May 2026 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q3BpTZXmDns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q3BpTZXmDns">Open on YouTube</a></p></div></div></div>
 
@@ -1227,9 +1227,9 @@ There are also casual database-style claims that San Marino has few or no confir
 
 San Marino does not appear to maintain a public national UAP archive comparable to Italy’s military OVNI page or France’s GEIPAN database. This matters because the credibility of UFO claims often depends less on witness enthusiasm than on process: who took the report, what checks were run, what data were preserved, and whether alternative explanations were tested.
 
-Italy’s official Air Force OVNI page gives a useful nearby contrast. After the 1978 wave of sightings, Italy designated the Aeronautica Militare as the institutional body to collect, verify and monitor OVNI reports. Its process asks witnesses to submit a form through the Carabinieri; the Air Force then looks for correlations with human activity or natural phenomena and classifies a case as unidentified only if no technical or natural explanation can be found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[aeronautica.difesa.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Italy’s official Air Force OVNI page gives a useful nearby contrast. After the 1978 wave of sightings, Italy designated the Aeronautica Militare as the institutional body to collect, verify and monitor OVNI reports. Its process asks witnesses to submit a form through the Carabinieri; the Air Force then looks for correlations with human activity or natural phenomena and classifies a case as unidentified only if no technical or natural explanation can be found.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeronautica.difesa.it">[aeronautica.difesa.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeronautica.difesa.it</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-France’s GEIPAN is another relevant comparison because it shows what a more mature public UAP archive looks like. GEIPAN, within the French space agency CNES, collects witness reports, compares them with known phenomena, anonymises and archives files, publishes conclusions, and works with institutional partners such as the gendarmerie, air and space forces, civil aviation, weather services, universities and scientific experts. GEIPAN also explicitly states that it is not an extraterrestrial-life research organisation and uses “UAP” partly to avoid the saucer and alien connotations of “UFO”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
+France’s GEIPAN is another relevant comparison because it shows what a more mature public UAP archive looks like. GEIPAN, within the French space agency CNES, collects witness reports, compares them with known phenomena, anonymises and archives files, publishes conclusions, and works with institutional partners such as the gendarmerie, air and space forces, civil aviation, weather services, universities and scientific experts. GEIPAN also explicitly states that it is not an extraterrestrial-life research organisation and uses “UAP” partly to avoid the saucer and alien connotations of “UFO”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
 Against that benchmark, San Marino’s public record is light. Its confirmed record is about hosting, parliamentary engagement and conference activity. Its sighting record is scattered, media-driven and largely tied to CUN. That does not prove that nothing unusual has ever been seen over San Marino; it means the public evidence base is not strong enough to support confident claims about a national pattern of anomalous events.
 
@@ -1238,11 +1238,11 @@ Against that benchmark, San Marino’s public record is light. Its confirmed rec
 
 A practical way to read San Marino’s UFO material is to separate institutional facts from anomaly claims.
 
-**Confirmed institutional facts:** San Marino has hosted major UFO and UAP symposia for decades; the Kursaal Congress Centre and Città di San Marino have been recurring venues; CUN is the central organiser; and the San Marino parliament approved an Arengo petition supporting involvement with Project Titan in January 2023. These are public, documentable claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sanmarinortv.sm/eventi/appuntamenti/simposio-internazionale-su-ufo-uap-e4073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sanmarinortv.sm">[San Marino Rtv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sanmarinortv.sm</span><span class="citation-popover-title">San Marino Rtv Simposio internazionale su UFO/UAP</span><span class="citation-popover-snippet">San Marino Rtv Simposio internazionale su UFO/UAP</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/documento17134957.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consigliograndeegenerale.sm">[3consigliograndeegenerale.sm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consigliograndeegenerale.sm</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dire.it">[Agenzia Dire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dire.it</span><span class="citation-popover-title">Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio</span><span class="citation-popover-snippet">Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio</span></span></span>
+**Confirmed institutional facts:** San Marino has hosted major UFO and UAP symposia for decades; the Kursaal Congress Centre and Città di San Marino have been recurring venues; CUN is the central organiser; and the San Marino parliament approved an Arengo petition supporting involvement with Project Titan in January 2023. These are public, documentable claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sanmarinortv.sm/eventi/appuntamenti/simposio-internazionale-su-ufo-uap-e4073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sanmarinortv.sm">[San Marino Rtv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sanmarinortv.sm</span><span class="citation-popover-title">San Marino Rtv Simposio internazionale su UFO/UAP</span><span class="citation-popover-snippet">San Marino Rtv Simposio internazionale su UFO/UAP</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/documento17134957.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consigliograndeegenerale.sm">[3consigliograndeegenerale.sm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consigliograndeegenerale.sm</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dire.it">[Agenzia Dire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dire.it</span><span class="citation-popover-title">Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio</span><span class="citation-popover-snippet">Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio</span></span></span>
 
-**Contested incident claims:** The 2017 Monte Titano “flotilla” is the leading local case. It has named context, a date, a location, reported witnesses and media attention, but the public trail remains dependent on CUN’s framing and lacks the sort of independent technical file that would lift it into a stronger category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://teleromagna.it/it/Attualit%C3%A0/2017/5/22/san-marino-avvistata-flottiglia-di-ufo-lo-dice-il-cun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teleromagna.it">[teleromagna.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teleromagna.it</span><span class="citation-popover-title">SA N MARINO: Avvistata &quot;flottiglia&quot; di UFO, lo dice il CUN</span><span class="citation-popover-snippet">SA N MARINO: Avvistata &quot;flottiglia&quot; di UFO, lo dice il CUN</span></span></span>
+**Contested incident claims:** The 2017 Monte Titano “flotilla” is the leading local case. It has named context, a date, a location, reported witnesses and media attention, but the public trail remains dependent on CUN’s framing and lacks the sort of independent technical file that would lift it into a stronger category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://teleromagna.it/it/Attualit%C3%A0/2017/5/22/san-marino-avvistata-flottiglia-di-ufo-lo-dice-il-cun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teleromagna.it">[teleromagna.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teleromagna.it</span><span class="citation-popover-title">SA N MARINO: Avvistata &quot;flottiglia&quot; di UFO, lo dice il CUN</span><span class="citation-popover-snippet">SA N MARINO: Avvistata &quot;flottiglia&quot; di UFO, lo dice il CUN</span></span></span>
 
-**Weak or non-evidential claims:** Broad claims that San Marino is a special “UFO hotspot” are not supported by the accessible public record. Likewise, claims made in event promotion about alien contact, non-human control or historical certainty should be treated as conference rhetoric unless accompanied by independently reviewable evidence. San Marino RTV’s 2025 event listing, for example, records ambitious claims around contact and non-terrestrial explanations, but those claims are part of the symposium’s promotional framing, not official verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sanmarinortv.sm/eventi/appuntamenti/simposio-internazionale-su-ufo-uap-e4073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sanmarinortv.sm">[San Marino Rtv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sanmarinortv.sm</span><span class="citation-popover-title">San Marino Rtv Simposio internazionale su UFO/UAP</span><span class="citation-popover-snippet">San Marino Rtv Simposio internazionale su UFO/UAP</span></span></span>
+**Weak or non-evidential claims:** Broad claims that San Marino is a special “UFO hotspot” are not supported by the accessible public record. Likewise, claims made in event promotion about alien contact, non-human control or historical certainty should be treated as conference rhetoric unless accompanied by independently reviewable evidence. San Marino RTV’s 2025 event listing, for example, records ambitious claims around contact and non-terrestrial explanations, but those claims are part of the symposium’s promotional framing, not official verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sanmarinortv.sm/eventi/appuntamenti/simposio-internazionale-su-ufo-uap-e4073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sanmarinortv.sm">[San Marino Rtv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sanmarinortv.sm</span><span class="citation-popover-title">San Marino Rtv Simposio internazionale su UFO/UAP</span><span class="citation-popover-snippet">San Marino Rtv Simposio internazionale su UFO/UAP</span></span></span>
 
 **Debunked material:** There is no prominent, well-documented San Marino case in the available public record that has become a classic debunked incident in the way some international UFO photographs, hoaxes or misidentified astronomical events have. The absence of a famous debunking should not be misread as strength; it more likely reflects the small number of public cases and the limited technical documentation around them.
 
@@ -1254,7 +1254,7 @@ A sceptical assessment would start by asking whether San Marino’s strongest UF
 
 This does not mean witnesses lied or that every observation was trivial. It means that the setting raises the evidential threshold. A daytime cluster of small moving objects over a mountain during a public event could have several mundane explanations, and without raw footage, camera metadata, triangulation, wind data and independent aviation checks, the case remains unresolved only in the weak sense: not publicly explained, but not robustly anomalous either.
 
-The wider UFO field shows why method matters. GEIPAN’s official framework emphasises comparison with known phenomena and multidisciplinary review, while sceptical reviewers of French official UFO studies have argued that even long-running institutional systems can suffer from classification problems and methodological weaknesses. The lesson for San Marino is straightforward: a neutral venue and a long symposium tradition do not replace casework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
+The wider UFO field shows why method matters. GEIPAN’s official framework emphasises comparison with known phenomena and multidisciplinary review, while sceptical reviewers of French official UFO studies have argued that even long-running institutional systems can suffer from classification problems and methodological weaknesses. The lesson for San Marino is straightforward: a neutral venue and a long symposium tradition do not replace casework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KFQ1uz6irPc" title="Lue Elizondo - Max Moszkowicz San Marino interview teaser #UFO #UAP #Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KFQ1uz6irPc" target="_blank" rel="noopener noreferrer">Lue Elizondo - Max Moszkowicz San Marino interview teaser #UFO #UAP #Elizondo</a></p><p class="youtube-embed-meta">Channel: Moszkowicz Show &middot; Views: 3.0K &middot; Uploaded: September 2021 &middot; Length: 4 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KFQ1uz6irPc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KFQ1uz6irPc">Open on YouTube</a></p></div></div></div>
 
@@ -1264,206 +1264,206 @@ San Marino’s value in UFO history is disproportionate to its size, but not bec
 
 First, it functions as a bridge from Italian ufology into a sovereign microstate setting. CUN is Italian, but San Marino supplies a distinct political and symbolic stage. That makes it a natural sibling page to Italy in any country-by-country UFO project: many of the people, methods and claims overlap, but the institutional wrapper changes.
 
-Second, San Marino offers a case study in how small states can become diplomatic amplifiers. Project Titan’s argument depends on the idea that a small neutral republic can host discussion more easily than a large power with military and intelligence baggage. That is a political claim, not evidence for UFO reality, but it explains why advocates have invested so much in the San Marino setting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[icerassociation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-title">ICE R ASSOCIATION</span><span class="citation-popover-snippet">ICE R ASSOCIATION</span></span></span>
+Second, San Marino offers a case study in how small states can become diplomatic amplifiers. Project Titan’s argument depends on the idea that a small neutral republic can host discussion more easily than a large power with military and intelligence baggage. That is a political claim, not evidence for UFO reality, but it explains why advocates have invested so much in the San Marino setting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[icerassociation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-title">ICE R ASSOCIATION</span><span class="citation-popover-snippet">ICE R ASSOCIATION</span></span></span>
 
 Third, San Marino highlights the difference between UAP governance and UAP evidence. A country may be important to UFO culture because it hosts conferences, issues stamps, welcomes speakers or debates UN-facing proposals. That is not the same as possessing verified anomalous craft cases. For San Marino, the governance-and-culture file is strong; the incident file is thin.
 
 <img src="{{ "/assets/images/San_Marino_8ff2c5-Illustration-3-dark.svg" | relative_url }}" alt="Why San Marino Became a UFO Meeting Point illustration 3" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line
 
-San Marino should be understood as a UFO diplomacy and conference hub rather than a country with a substantial public record of confirmed sightings. The republic’s long-running symposium tradition, its recurring Kursaal events and the 2023 parliamentary approval of participation in Project Titan are well documented. The local anomaly record is much less secure: the 2017 Monte Titano “flotilla” remains the key public sighting claim, but it is best classed as contested because the accessible evidence is mediated through organisers and media summaries rather than a transparent official investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dire.it">[Agenzia Dire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dire.it</span><span class="citation-popover-title">Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio</span><span class="citation-popover-snippet">Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20231020_Simposio_Ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitsanmarino.com">[Visita San Marino, portale ufficiale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitsanmarino.com</span><span class="citation-popover-title">Visita San Marino, portale ufficiale32th UFO Symposium &#124; Visit San Marino</span><span class="citation-popover-snippet">Visita San Marino, portale ufficiale32th UFO Symposium &#124; Visit San Marino</span></span></span>
+San Marino should be understood as a UFO diplomacy and conference hub rather than a country with a substantial public record of confirmed sightings. The republic’s long-running symposium tradition, its recurring Kursaal events and the 2023 parliamentary approval of participation in Project Titan are well documented. The local anomaly record is much less secure: the 2017 Monte Titano “flotilla” remains the key public sighting claim, but it is best classed as contested because the accessible evidence is mediated through organisers and media summaries rather than a transparent official investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dire.it">[Agenzia Dire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dire.it</span><span class="citation-popover-title">Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio</span><span class="citation-popover-snippet">Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20231020_Simposio_Ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitsanmarino.com">[Visita San Marino, portale ufficiale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitsanmarino.com</span><span class="citation-popover-title">Visita San Marino, portale ufficiale32th UFO Symposium &#124; Visit San Marino</span><span class="citation-popover-snippet">Visita San Marino, portale ufficiale32th UFO Symposium &#124; Visit San Marino</span></span></span>
 
 For readers comparing San Marino with nearby or sibling branches, the most useful contrast is with Italy’s Air Force OVNI process and France’s GEIPAN archive. Those systems show what formal case collection looks like. San Marino’s contribution is different: it is a symbolic venue where the argument over how UFO and UAP claims should be internationalised has been staged, not a proven national archive of extraordinary aerial events.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why San Marino Became a UFO Meeting Point. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why San Marino Became a UFO Meeting Point. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Explores government, policy and public debate around UAPs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores government, policy and public debate around UAPs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers contemporary advocacy and investigation themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers contemporary advocacy and investigation themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
-        </h4>
-        <p class="fr-book-author">By Greg Eghigian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
+</h4>
+<p class="fr-book-author">By Greg Eghigian</p>
         
-        <p class="fr-book-desc">Matches San Marino&#x27;s role as an international UFO meeting point.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches San Marino&#x27;s role as an international UFO meeting point.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page focused on institutions, conferences and official engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page focused on institutions, conferences and official engagement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-became-a-ufo-meeting-point-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-became-a-ufo-meeting-point-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1479,7 +1479,7 @@ For readers comparing San Marino with nearby or sibling branches, the most usefu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1499,7 +1499,7 @@ For readers comparing San Marino with nearby or sibling branches, the most usefu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1531,7 +1531,7 @@ For readers comparing San Marino with nearby or sibling branches, the most usefu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1583,7 +1583,7 @@ For readers comparing San Marino with nearby or sibling branches, the most usefu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1628,7 +1628,7 @@ For readers comparing San Marino with nearby or sibling branches, the most usefu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1666,87 +1666,86 @@ For readers comparing San Marino with nearby or sibling branches, the most usefu
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dire.it  
    Title: Agenzia Dire Report del Consiglio Grande e Generale di San Marino del 19 gennaio  
-   Link: <a href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow">https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/</a>  
+   Link:<a href="https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/" target="_blank" rel="noopener noreferrer nofollow">https://www.dire.it/19-01-2023/870153-report-del-consiglio-grande-e-generale-di-san-marino-del-19-gennaio/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: icerassociation.org  
    Title: ICE R ASSOCIATION  
-   Link: <a href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow">https://www.icerassociation.org/about/project-titan</a>  
+   Link:<a href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow">https://www.icerassociation.org/about/project-titan</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: teleromagna.it  
    Title: SA N MARINO: Avvistata "flottiglia" di UFO, lo dice il CUN  
-   Link: <a href="https://teleromagna.it/it/Attualit%C3%A0/2017/5/22/san-marino-avvistata-flottiglia-di-ufo-lo-dice-il-cun" target="_blank" rel="noopener noreferrer nofollow">https://teleromagna.it/it/Attualit%C3%A0/2017/5/22/san-marino-avvistata-flottiglia-di-ufo-lo-dice-il-cun</a>  
+   Link:<a href="https://teleromagna.it/it/Attualit%C3%A0/2017/5/22/san-marino-avvistata-flottiglia-di-ufo-lo-dice-il-cun" target="_blank" rel="noopener noreferrer nofollow">https://teleromagna.it/it/Attualit%C3%A0/2017/5/22/san-marino-avvistata-flottiglia-di-ufo-lo-dice-il-cun</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: consigliograndeegenerale.sm  
-   Link: <a href="https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/documento17134957.html" target="_blank" rel="noopener noreferrer nofollow">https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/documento17134957.html</a>  
+   Link:<a href="https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/documento17134957.html" target="_blank" rel="noopener noreferrer nofollow">https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/documento17134957.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mediasetinfinity.mediaset.it  
-   Link: <a href="https://mediasetinfinity.mediaset.it/video/studioaperto/avvistamento-ufo-nel-cielo-di-san-marino_F307966501292C06" target="_blank" rel="noopener noreferrer nofollow">https://mediasetinfinity.mediaset.it/video/studioaperto/avvistamento-ufo-nel-cielo-di-san-marino_F307966501292C06</a>  
+   Link:<a href="https://mediasetinfinity.mediaset.it/video/studioaperto/avvistamento-ufo-nel-cielo-di-san-marino_F307966501292C06" target="_blank" rel="noopener noreferrer nofollow">https://mediasetinfinity.mediaset.it/video/studioaperto/avvistamento-ufo-nel-cielo-di-san-marino_F307966501292C06</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: extra.ie  
    Title: Ireland has the most alien visits in Europe, according to UFO spotting data  
-   Link: <a href="https://extra.ie/2021/01/29/news/ireland-europe-ufo-sightings-aliens" target="_blank" rel="noopener noreferrer nofollow">https://extra.ie/2021/01/29/news/ireland-europe-ufo-sightings-aliens</a>  
+   Link:<a href="https://extra.ie/2021/01/29/news/ireland-europe-ufo-sightings-aliens" target="_blank" rel="noopener noreferrer nofollow">https://extra.ie/2021/01/29/news/ireland-europe-ufo-sightings-aliens</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aeronautica.difesa.it  
-   Link: <a href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ovni/</a>  
+   Link:<a href="https://www.aeronautica.difesa.it/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.aeronautica.difesa.it/ovni/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cnes-geipan.fr  
    Title: Mission & Geipan | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: visitsanmarino.com  
    Title: Visita San Marino, portale ufficiale32th UFO Symposium | Visit San Marino  
-   Link: <a href="https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20231020_Simposio_Ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20231020_Simposio_Ufo.html</a>  
+   Link:<a href="https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20231020_Simposio_Ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visitsanmarino.com/pub2/VisitSM/en/evento/20231020_Simposio_Ufo.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sanmarinortv.sm  
    Title: San Marino Rtv Simposio internazionale su UFO/UAP  
-   Link: <a href="https://www.sanmarinortv.sm/eventi/appuntamenti/simposio-internazionale-su-ufo-uap-e4073" target="_blank" rel="noopener noreferrer nofollow">https://www.sanmarinortv.sm/eventi/appuntamenti/simposio-internazionale-su-ufo-uap-e4073</a>  
+   Link:<a href="https://www.sanmarinortv.sm/eventi/appuntamenti/simposio-internazionale-su-ufo-uap-e4073" target="_blank" rel="noopener noreferrer nofollow">https://www.sanmarinortv.sm/eventi/appuntamenti/simposio-internazionale-su-ufo-uap-e4073</a>  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: That UFO Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=Q3BpTZXmDns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q3BpTZXmDns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Pentagon Documents: What Does Science Really Say About Unidentified Objects?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q3BpTZXmDns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q3BpTZXmDns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Pentagon Documents: What Does Science Really Say About Unidentified Objects?...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Giornata Mondiale degli UFO/UAP  
-   Link: <a href="https://www.youtube.com/watch?v=G4vXzx52SSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G4vXzx52SSk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lue Elizondo - Max Moszkowicz San Marino interview teaser #UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G4vXzx52SSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G4vXzx52SSk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lue Elizondo - Max Moszkowicz San Marino interview teaser #UFO...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Paolo Guizzardi  
-   Link: <a href="https://www.youtube.com/watch?v=md89jyOXG-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=md89jyOXG-Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Giornata Mondiale degli UFO/UAP - Intervista all&#x27;ufologo Paolo Guizzardi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=md89jyOXG-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=md89jyOXG-Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Giornata Mondiale degli UFO/UAP - Intervista all&#x27;ufologo Paolo Guizzardi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SbfdZvj0iSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SbfdZvj0iSo</a>  
+   Link:<a href="https://www.youtube.com/watch?v=SbfdZvj0iSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SbfdZvj0iSo</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Lue Elizondo  
-   Link: <a href="https://www.youtube.com/watch?v=KFQ1uz6irPc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KFQ1uz6irPc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KFQ1uz6irPc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KFQ1uz6irPc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>

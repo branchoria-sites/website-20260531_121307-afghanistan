@@ -1194,90 +1194,90 @@ image: /assets/images/Nepal_0e1d58-overview-social.jpg
 
 ## Introduction
 
-The useful way to read Nepal’s UFO history is therefore not as a catalogue of confirmed exotic craft. It is a case study in how difficult aerial events become “UFOs” when they occur over mountains, borderlands and thinly documented rural regions. Some claims remain unresolved because physical evidence is missing; others are probably misidentified astronomical or human-made objects; and a few modern database entries are simply low-evidence witness reports with no independent corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-title">CNEOSFireballs and bolides</span><span class="citation-popover-snippet">CNEOSFireballs and bolides</span></span></span>
+The useful way to read Nepal’s UFO history is therefore not as a catalogue of confirmed exotic craft. It is a case study in how difficult aerial events become “UFOs” when they occur over mountains, borderlands and thinly documented rural regions. Some claims remain unresolved because physical evidence is missing; others are probably misidentified astronomical or human-made objects; and a few modern database entries are simply low-evidence witness reports with no independent corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-title">CNEOSFireballs and bolides</span><span class="citation-popover-snippet">CNEOSFireballs and bolides</span></span></span>
 
 <img src="{{ "/assets/images/Nepal_0e1d58-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Nepal&#x27;s UFO Record?" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Nepal’s UFO record is concentrated in a few places
 
-Nepal’s reported UFO material is not evenly distributed across the country. The strongest historical cluster sits along the Himalayan arc and the northern border zone, especially the 1968 reports involving north-eastern Nepal, Kaski and the wider Himalayan region from Ladakh to Bhutan. That geography matters because high-altitude terrain, sparse observation networks, Cold War military interest and cross-border flight paths all complicate identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
+Nepal’s reported UFO material is not evenly distributed across the country. The strongest historical cluster sits along the Himalayan arc and the northern border zone, especially the 1968 reports involving north-eastern Nepal, Kaski and the wider Himalayan region from Ladakh to Bhutan. That geography matters because high-altitude terrain, sparse observation networks, Cold War military interest and cross-border flight paths all complicate identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
 
-Pokhara and Kaski dominate the national memory because the 25 March 1968 incident combined three features that most UFO claims lack: multiple local recollections, an alleged physical fall, and inclusion in declassified intelligence reporting. The Kathmandu Valley appears more often in modern public-reporting databases, but those entries tend to be single-witness sightings of lights, flashes or “saucer-like” objects rather than investigated cases. NUFORC, the United States-based National UFO Reporting Center, lists 11 reports under Nepal, illustrating that the open public archive is very small for a country of Nepal’s size. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=63576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Pokhara and Kaski dominate the national memory because the 25 March 1968 incident combined three features that most UFO claims lack: multiple local recollections, an alleged physical fall, and inclusion in declassified intelligence reporting. The Kathmandu Valley appears more often in modern public-reporting databases, but those entries tend to be single-witness sightings of lights, flashes or “saucer-like” objects rather than investigated cases. NUFORC, the United States-based National UFO Reporting Center, lists 11 reports under Nepal, illustrating that the open public archive is very small for a country of Nepal’s size.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=63576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-This creates a sharp evidence split. Western Nepal and the Pokhara area supply the most discussed historical case. Kathmandu supplies scattered modern light-in-the-sky reports. The Tarai and border belt enter the record mainly through newer drone-like or satellite-like observations, including a 2025 India-Nepal border alert in which security personnel reported luminous objects and speculation quickly turned to drones or a possible Starlink satellite train. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/patna/high-alert-at-india-nepal-border-after-spotting-of-drone-like-luminous-objects/articleshow/121438702.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This creates a sharp evidence split. Western Nepal and the Pokhara area supply the most discussed historical case. Kathmandu supplies scattered modern light-in-the-sky reports. The Tarai and border belt enter the record mainly through newer drone-like or satellite-like observations, including a 2025 India-Nepal border alert in which security personnel reported luminous objects and speculation quickly turned to drones or a possible Starlink satellite train.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/patna/high-alert-at-india-nepal-border-after-spotting-of-drone-like-luminous-objects/articleshow/121438702.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The 1968 Himalayan cases: Nepal’s core UFO file
 
-The key Nepal UFO chronology begins on 19 February 1968, when a bright, fast-moving object was reportedly seen over Olangchung Gola and Ghunsa in Taplejung district, close to the border with China. The Himalayan Times, summarising a confidential CIA information report, says the object was seen between 21:00 and 21:25 local time and moved from north-east to south-west. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
+The key Nepal UFO chronology begins on 19 February 1968, when a bright, fast-moving object was reportedly seen over Olangchung Gola and Ghunsa in Taplejung district, close to the border with China. The Himalayan Times, summarising a confidential CIA information report, says the object was seen between 21:00 and 21:25 local time and moved from north-east to south-west.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
 
-The more famous case followed on 25 March 1968 in Kaski, near Pokhara. The CIA-linked description says a blazing object, flashing intermittently and accompanied by a loud thunder-like sound, disintegrated over the region. The report then described a metallic disc-shaped object, said to be six feet at the base and four feet high, found in a crater at Baltichaur, with additional portions reportedly found at Talakot and Turepasal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
+The more famous case followed on 25 March 1968 in Kaski, near Pokhara. The CIA-linked description says a blazing object, flashing intermittently and accompanied by a loud thunder-like sound, disintegrated over the region. The report then described a metallic disc-shaped object, said to be six feet at the base and four feet high, found in a crater at Baltichaur, with additional portions reportedly found at Talakot and Turepasal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
 
-Nepali Times revisited the Pokhara story in 2024 and added local memory to the archival record. Its reporting places the event at about 8.15 pm in Batulechaur, where residents recalled a bright object, a loud sound and later a sheet-like metal fragment retrieved from a field. The article also notes that witness recollections diverge on what happened to the material afterwards: some accounts say it passed through local official hands, while others suggest it was eventually packed and taken away by American officials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span>
+Nepali Times revisited the Pokhara story in 2024 and added local memory to the archival record. Its reporting places the event at about 8.15 pm in Batulechaur, where residents recalled a bright object, a loud sound and later a sheet-like metal fragment retrieved from a field. The article also notes that witness recollections diverge on what happened to the material afterwards: some accounts say it passed through local official hands, while others suggest it was eventually packed and taken away by American officials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span>
 
-The 1968 cases are compelling as historical UFO records, but not as proof of extraterrestrial craft. They are official enough to show that US intelligence paid attention; they are not complete enough to identify the object. The surviving public record does not provide a chain of custody for the alleged fragments, laboratory analysis, photographs sufficient for independent assessment, radar data, or a final technical conclusion. Kathmandu Post’s later commentary made this point plainly: the object cannot be identified because the remains are missing from the accessible record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kathmandupost.com">[Kathmandu Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kathmandupost.com</span><span class="citation-popover-title">on ufos and yetis</span><span class="citation-popover-snippet">on ufos and yetis</span></span></span>
+The 1968 cases are compelling as historical UFO records, but not as proof of extraterrestrial craft. They are official enough to show that US intelligence paid attention; they are not complete enough to identify the object. The surviving public record does not provide a chain of custody for the alleged fragments, laboratory analysis, photographs sufficient for independent assessment, radar data, or a final technical conclusion. Kathmandu Post’s later commentary made this point plainly: the object cannot be identified because the remains are missing from the accessible record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kathmandupost.com">[Kathmandu Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kathmandupost.com</span><span class="citation-popover-title">on ufos and yetis</span><span class="citation-popover-snippet">on ufos and yetis</span></span></span>
 
 <img src="{{ "/assets/images/Nepal_0e1d58-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Nepal&#x27;s UFO Record? illustration 1" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest ordinary explanations for 1968
 
 The most plausible explanations for the 1968 Nepal incidents fall into three broad categories: re-entering space hardware, military activity, or a natural fireball. None is proven from the public record, but each explains part of the evidence better than an alien-craft hypothesis.
 
-A re-entry explanation fits the bright, fragmenting, thunderous nature of the Kaski event. Nepali Times reported that on 28 August 1968 the US Embassy in Kathmandu suggested the object could have been of Soviet origin, possibly connected to the re-entry of a rocket associated with the Kosmos 208 satellite. That does not close the case, especially because the timing and multiple Himalayan sightings remain awkward, but it gives the claim a historically grounded Cold War context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span>
+A re-entry explanation fits the bright, fragmenting, thunderous nature of the Kaski event. Nepali Times reported that on 28 August 1968 the US Embassy in Kathmandu suggested the object could have been of Soviet origin, possibly connected to the re-entry of a rocket associated with the Kosmos 208 satellite. That does not close the case, especially because the timing and multiple Himalayan sightings remain awkward, but it gives the claim a historically grounded Cold War context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span>
 
-A military explanation is also credible because the region was strategically sensitive. Nepali Times notes that US military aircraft were flying night-time supply missions from Indian bases to Khampa guerrilla camps in Mustang, north of Pokhara, during the period. The same article raises the possibility that some sightings could have involved aircraft, missiles, contrails or other military activity rather than unknown technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span>
+A military explanation is also credible because the region was strategically sensitive. Nepali Times notes that US military aircraft were flying night-time supply missions from Indian bases to Khampa guerrilla camps in Mustang, north of Pokhara, during the period. The same article raises the possibility that some sightings could have involved aircraft, missiles, contrails or other military activity rather than unknown technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span>
 
-A meteor or bolide explanation is possible for parts of the story, especially the bright flash, fragmentation and loud report. NASA defines a fireball as an unusually bright meteor, and bolides can produce explosive flashes or sonic phenomena when entering the atmosphere. However, a pure meteor explanation struggles with the reported recovery of sizeable metal fragments unless those fragments were misdescribed, later conflated with another object, or came from human-made debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+A meteor or bolide explanation is possible for parts of the story, especially the bright flash, fragmentation and loud report. NASA defines a fireball as an unusually bright meteor, and bolides can produce explosive flashes or sonic phenomena when entering the atmosphere. However, a pure meteor explanation struggles with the reported recovery of sizeable metal fragments unless those fragments were misdescribed, later conflated with another object, or came from human-made debris.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-The fairest classification is therefore “contested and unresolved”, not “confirmed”. The [1968 Pokhara]({{ '1968-pokhara/' | relative_url }})/Kaski case is Nepal’s most important UFO incident because it has an official archival trace and local testimony; it is also the clearest example of why missing physical evidence prevents a confident conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kathmandupost.com">[Kathmandu Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kathmandupost.com</span><span class="citation-popover-title">on ufos and yetis</span><span class="citation-popover-snippet">on ufos and yetis</span></span></span>
+The fairest classification is therefore “contested and unresolved”, not “confirmed”. The [1968 Pokhara]({{ '1968-pokhara/' | relative_url }})/Kaski case is Nepal’s most important UFO incident because it has an official archival trace and local testimony; it is also the clearest example of why missing physical evidence prevents a confident conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kathmandupost.com">[Kathmandu Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kathmandupost.com</span><span class="citation-popover-title">on ufos and yetis</span><span class="citation-popover-snippet">on ufos and yetis</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wU0utG9RdC0" title="My balloon like UFO encounter at Chandra Taal, Indian Himalayas 2015" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wU0utG9RdC0" target="_blank" rel="noopener noreferrer">My balloon like UFO encounter at Chandra Taal, Indian Himalayas 2015</a></p><p class="youtube-embed-meta">Channel: Ronnie &amp; Barty &middot; Views: 1.7M &middot; Uploaded: September 2018 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wU0utG9RdC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wU0utG9RdC0">Open on YouTube</a></p></div></div></div>
 
 ## Modern Nepal sightings are mostly light-in-the-sky reports
 
-After 1968, Nepal’s public UFO record becomes thinner and more familiar: lights, flashes, brief objects, and isolated reports. NUFORC entries include a 2008 Kathmandu report of a sphere or “horizontal moving star”, a 2011 Kathmandu claim of about a dozen bright objects in the western sky, a 2016 Kathmandu blinking object that NUFORC itself annotated with the possibility of a star, and a 2024 Biratnagar report of a small silver object that allegedly disappeared quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85883" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=183133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=190619" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+After 1968, Nepal’s public UFO record becomes thinner and more familiar: lights, flashes, brief objects, and isolated reports. NUFORC entries include a 2008 Kathmandu report of a sphere or “horizontal moving star”, a 2011 Kathmandu claim of about a dozen bright objects in the western sky, a 2016 Kathmandu blinking object that NUFORC itself annotated with the possibility of a star, and a 2024 Biratnagar report of a small silver object that allegedly disappeared quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=85883" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=183133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=190619" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-These entries are useful as folklore and public-reporting data, but weak as evidence. They generally lack multiple independent witnesses, triangulation, original instrument data, air-traffic correlation, astronomical checks or recovered material. They also show a common pattern in UFO archives worldwide: ordinary celestial objects, satellites, aircraft lights, drones, balloons and perception errors can look strange when viewed briefly, at night, or without distance cues. NASA’s UAP guidance is directly relevant here: most sightings provide very limited data, making firm scientific conclusions difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+These entries are useful as folklore and public-reporting data, but weak as evidence. They generally lack multiple independent witnesses, triangulation, original instrument data, air-traffic correlation, astronomical checks or recovered material. They also show a common pattern in UFO archives worldwide: ordinary celestial objects, satellites, aircraft lights, drones, balloons and perception errors can look strange when viewed briefly, at night, or without distance cues. NASA’s UAP guidance is directly relevant here: most sightings provide very limited data, making firm scientific conclusions difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
-The 2016 Kathmandu case illustrates the problem. The witness described a blinking multi-coloured object in the northern sky for about an hour; NUFORC’s note suggested “Star??”, which is a reasonable possibility because bright stars and planets can appear to flicker and change colour near the horizon or through turbulent air. That does not prove the witness was wrong; it shows why long-duration blinking lights need astronomical cross-checking before being treated as anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The 2016 Kathmandu case illustrates the problem. The witness described a blinking multi-coloured object in the northern sky for about an hour; NUFORC’s note suggested “Star??”, which is a reasonable possibility because bright stars and planets can appear to flicker and change colour near the horizon or through turbulent air. That does not prove the witness was wrong; it shows why long-duration blinking lights need astronomical cross-checking before being treated as anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 ## The 2020 Gandaki fireball shows how a UFO becomes identifiable
 
-The 2020 Gandaki event is one of the best examples of a Nepal sighting moving towards a conventional explanation. On 27 March 2020, The Himalayan Times reported that people in Gandaki Province had seen a bright object in the evening sky, prompting speculation online. The Nepal Astronomical Society urged witnesses to provide evidence and said the object was probably a fireball or bolide, meaning a very bright meteor, possibly one that explodes in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
+The 2020 Gandaki event is one of the best examples of a Nepal sighting moving towards a conventional explanation. On 27 March 2020, The Himalayan Times reported that people in Gandaki Province had seen a bright object in the evening sky, prompting speculation online. The Nepal Astronomical Society urged witnesses to provide evidence and said the object was probably a fireball or bolide, meaning a very bright meteor, possibly one that explodes in the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
 
-This is exactly how a healthy UFO investigation should work. The first public label may be “unknown”, but the next step is not to jump to aliens; it is to collect time, direction, location, video, sound reports and possible fragments. NASA’s fireball definitions support the Society’s cautious interpretation: bright meteors can be dramatic, visible across wide areas, and sometimes accompanied by fragmentation or delayed sound. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-title">CNEOSFireballs and bolides</span><span class="citation-popover-snippet">CNEOSFireballs and bolides</span></span></span>
+This is exactly how a healthy UFO investigation should work. The first public label may be “unknown”, but the next step is not to jump to aliens; it is to collect time, direction, location, video, sound reports and possible fragments. NASA’s fireball definitions support the Society’s cautious interpretation: bright meteors can be dramatic, visible across wide areas, and sometimes accompanied by fragmentation or delayed sound.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-title">CNEOSFireballs and bolides</span><span class="citation-popover-snippet">CNEOSFireballs and bolides</span></span></span>
 
-The Gandaki case is therefore best classified as “probably identified”, not “debunked as a hoax”. There is no need to accuse witnesses of inventing anything. A real sky event can be sincerely reported, widely discussed, and still have a natural explanation. For readers assessing Nepal UFO claims, this distinction is crucial: many sightings are genuine experiences without being evidence of exotic craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
+The Gandaki case is therefore best classified as “probably identified”, not “debunked as a hoax”. There is no need to accuse witnesses of inventing anything. A real sky event can be sincerely reported, widely discussed, and still have a natural explanation. For readers assessing Nepal UFO claims, this distinction is crucial: many sightings are genuine experiences without being evidence of exotic craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
 
 <img src="{{ "/assets/images/Nepal_0e1d58-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Nepal&#x27;s UFO Record? illustration 2" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Satellites, drones and border confusion are now part of the Nepal picture
 
-Modern Nepal sightings increasingly occur in a sky full of human-made objects. Drone use, satellite constellations and cross-border security concerns all create new ways for lights to be misread as UFOs. Nepal’s aviation authority maintains a dedicated drone registration and requirements page, which shows that unmanned aircraft are now a regulated part of the national airspace environment rather than a rare novelty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://caanepal.gov.np/drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caanepal.gov.np">[caanepal.gov.np]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caanepal.gov.np</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Modern Nepal sightings increasingly occur in a sky full of human-made objects. Drone use, satellite constellations and cross-border security concerns all create new ways for lights to be misread as UFOs. Nepal’s aviation authority maintains a dedicated drone registration and requirements page, which shows that unmanned aircraft are now a regulated part of the national airspace environment rather than a rare novelty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://caanepal.gov.np/drone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caanepal.gov.np">[caanepal.gov.np]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caanepal.gov.np</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The 2025 India-Nepal border episode shows how quickly an aerial ambiguity can become a security story. The Times of India reported that around 15 to 20 luminous, drone-like objects were seen near the Kamala Border Outpost in Jaynagar, prompting alert measures and communication with Nepalese security officials. The same report noted speculation that the lights could have been a Starlink satellite train, a plausible category because newly launched Starlink satellites can appear as a chain of bright moving lights shortly after sunset or before sunrise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/patna/high-alert-at-india-nepal-border-after-spotting-of-drone-like-luminous-objects/articleshow/121438702.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 2025 India-Nepal border episode shows how quickly an aerial ambiguity can become a security story. The Times of India reported that around 15 to 20 luminous, drone-like objects were seen near the Kamala Border Outpost in Jaynagar, prompting alert measures and communication with Nepalese security officials. The same report noted speculation that the lights could have been a Starlink satellite train, a plausible category because newly launched Starlink satellites can appear as a chain of bright moving lights shortly after sunset or before sunrise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/patna/high-alert-at-india-nepal-border-after-spotting-of-drone-like-luminous-objects/articleshow/121438702.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This matters for Nepal because the country’s geography makes distance and altitude judgement difficult. A satellite train far above Earth, a drone near a border post, a high aircraft catching sunlight, or a meteor over the hills may all be described as “lights moving over Nepal”. Without precise timing, compass direction, elevation angle and video metadata, the same sighting can support several competing stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</span></span></span>
+This matters for Nepal because the country’s geography makes distance and altitude judgement difficult. A satellite train far above Earth, a drone near a border post, a high aircraft catching sunlight, or a meteor over the hills may all be described as “lights moving over Nepal”. Without precise timing, compass direction, elevation angle and video metadata, the same sighting can support several competing stories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</span></span></span>
 
 ## Confirmed, contested and debunked: a practical evidence split
 
 Nepal’s UFO material becomes much clearer when sorted by evidence quality rather than by mystery value.
 
-**Confirmed as reported, not confirmed as exotic:** The 1968 Himalayan reports are confirmed in the limited sense that declassified US intelligence material and later Nepali reporting record them as reported sightings. They are not confirmed as alien craft, advanced vehicles or even a single type of object. The key missing piece is the alleged Kaski material itself, along with any public laboratory analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kathmandupost.com">[Kathmandu Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kathmandupost.com</span><span class="citation-popover-title">on ufos and yetis</span><span class="citation-popover-snippet">on ufos and yetis</span></span></span>
+**Confirmed as reported, not confirmed as exotic:** The 1968 Himalayan reports are confirmed in the limited sense that declassified US intelligence material and later Nepali reporting record them as reported sightings. They are not confirmed as alien craft, advanced vehicles or even a single type of object. The key missing piece is the alleged Kaski material itself, along with any public laboratory analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kathmandupost.com">[Kathmandu Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kathmandupost.com</span><span class="citation-popover-title">on ufos and yetis</span><span class="citation-popover-snippet">on ufos and yetis</span></span></span>
 
-**Contested and unresolved:** The Pokhara/Kaski incident remains the strongest unresolved case because it combines a sky event with alleged debris. Its competing explanations include re-entering space hardware, military debris, aircraft-related activity, or a natural bolide with later confusion about recovered fragments. No public source currently resolves those alternatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span>
+**Contested and unresolved:** The Pokhara/Kaski incident remains the strongest unresolved case because it combines a sky event with alleged debris. Its competing explanations include re-entering space hardware, military debris, aircraft-related activity, or a natural bolide with later confusion about recovered fragments. No public source currently resolves those alternatives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span>
 
-**Probably identified:** The 2020 Gandaki event is best treated as a likely fireball or bolide, following Nepal Astronomical Society’s public response and the known behaviour of bright meteors. It is a good example of a “UFO” in the literal sense becoming less mysterious once specialists ask for evidence and compare it with known sky phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
+**Probably identified:** The 2020 Gandaki event is best treated as a likely fireball or bolide, following Nepal Astronomical Society’s public response and the known behaviour of bright meteors. It is a good example of a “UFO” in the literal sense becoming less mysterious once specialists ask for evidence and compare it with known sky phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
 
-**Low-evidence public reports:** Kathmandu, Biratnagar and Butwal entries in open UFO databases are worth noting but should not be over-weighted. NUFORC’s Nepal list is small, and individual entries are mostly witness descriptions rather than investigated case files. They may still be useful for mapping public perception, but they do not by themselves establish anomalous technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=63576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Low-evidence public reports:** Kathmandu, Biratnagar and Butwal entries in open UFO databases are worth noting but should not be over-weighted. NUFORC’s Nepal list is small, and individual entries are mostly witness descriptions rather than investigated case files. They may still be useful for mapping public perception, but they do not by themselves establish anomalous technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=63576" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Likely misidentifications in the modern sky:** Satellite trains, drones, aircraft lights and bright astronomical objects are increasingly strong candidates for many present-day sightings. The more a report describes multiple lights moving in formation shortly after sunset, the more satellite checks become essential before any stronger claim is made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</span></span></span>
+**Likely misidentifications in the modern sky:** Satellite trains, drones, aircraft lights and bright astronomical objects are increasingly strong candidates for many present-day sightings. The more a report describes multiple lights moving in formation shortly after sunset, the more satellite checks become essential before any stronger claim is made.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lc4HZC1G1FY" title="The Strange UFO CRASH in POKHARA 60 years ago || Misguided Nepal)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lc4HZC1G1FY" target="_blank" rel="noopener noreferrer">The Strange UFO CRASH in POKHARA 60 years ago || Misguided Nepal)</a></p><p class="youtube-embed-meta">Channel: Misguided Nepal &middot; Views: 40.2K &middot; Uploaded: May 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lc4HZC1G1FY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lc4HZC1G1FY">Open on YouTube</a></p></div></div></div>
 
 ## What official records do and do not show
 
-The most important official material connected to Nepal is the declassified CIA reporting on the 1968 Himalayan sightings. It shows that American intelligence took reports from Nepal and neighbouring Himalayan areas seriously enough to record and circulate them. It does not show that the CIA identified the objects as extraterrestrial, recovered alien technology, or reached a hidden public conclusion in the available record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070007-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cia rdp81r00560r000100070007 8</span><span class="citation-popover-snippet">cia rdp81r00560r000100070007 8</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
+The most important official material connected to Nepal is the declassified CIA reporting on the 1968 Himalayan sightings. It shows that American intelligence took reports from Nepal and neighbouring Himalayan areas seriously enough to record and circulate them. It does not show that the CIA identified the objects as extraterrestrial, recovered alien technology, or reached a hidden public conclusion in the available record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070007-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cia rdp81r00560r000100070007 8</span><span class="citation-popover-snippet">cia rdp81r00560r000100070007 8</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-title">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span><span class="citation-popover-snippet">The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years</span></span></span>
 
-This distinction is often lost in retellings. A government document about a UFO is not the same as a government document proving an alien craft. “UFO” and “UAP” mean unidentified at the time of reporting, not necessarily extraordinary in origin. AARO, the US office now responsible for UAP work, defines UAP broadly as objects or phenomena that are not immediately identifiable across air, sea, space or transmedium contexts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+This distinction is often lost in retellings. A government document about a UFO is not the same as a government document proving an alien craft. “UFO” and “UAP” mean unidentified at the time of reporting, not necessarily extraordinary in origin. AARO, the US office now responsible for UAP work, defines UAP broadly as objects or phenomena that are not immediately identifiable across air, sea, space or transmedium contexts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-NASA’s recent public position also supports a cautious reading of Nepal’s cases. NASA says there are no data supporting UAP as evidence of alien technologies, and that most sightings produce limited data. Its independent study emphasised better collection and analysis rather than sensational conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+NASA’s recent public position also supports a cautious reading of Nepal’s cases. NASA says there are no data supporting UAP as evidence of alien technologies, and that most sightings produce limited data. Its independent study emphasised better collection and analysis rather than sensational conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 For Nepal, that means the most honest position is neither ridicule nor belief. The official record confirms that unusual Himalayan reports existed. It does not confirm what they were.
 
@@ -1285,208 +1285,208 @@ For Nepal, that means the most honest position is neither ridicule nor belief. T
 
 ## How to evaluate a Nepal UFO claim
 
-A strong Nepal UFO report should answer basic questions before it is treated as anomalous. The most useful details are exact time, location, direction of travel, elevation above the horizon, duration, sound, weather, camera metadata, nearby airports or drone activity, and whether other observers saw the same thing from different places. A short phone video without metadata is helpful, but rarely decisive on its own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+A strong Nepal UFO report should answer basic questions before it is treated as anomalous. The most useful details are exact time, location, direction of travel, elevation above the horizon, duration, sound, weather, camera metadata, nearby airports or drone activity, and whether other observers saw the same thing from different places. A short phone video without metadata is helpful, but rarely decisive on its own.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
-The first checks should be ordinary-sky checks: bright planets, aircraft routes, satellite passes, recent rocket launches, Starlink trains, meteor reports and local drone activity. This is especially important in Nepal because valleys and mountains can distort impressions of altitude and distance, while clear Himalayan skies make satellites and meteors visually striking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</span></span></span> Physical evidence would change the standard of discussion. The reason the 1968 Kaski case still attracts attention is the alleged recovery of material. If a comparable incident happened today, the most important evidence would be secure preservation of fragments, independent laboratory analysis, photographs of the site before disturbance, documented custody, and correlation with satellite re-entry or aviation records. Without those, even an impressive story remains unresolved rather than confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kathmandupost.com">[Kathmandu Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kathmandupost.com</span><span class="citation-popover-title">on ufos and yetis</span><span class="citation-popover-snippet">on ufos and yetis</span></span></span>
+The first checks should be ordinary-sky checks: bright planets, aircraft routes, satellite passes, recent rocket launches, Starlink trains, meteor reports and local drone activity. This is especially important in Nepal because valleys and mountains can distort impressions of altitude and distance, while clear Himalayan skies make satellites and meteors visually striking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</span></span></span> Physical evidence would change the standard of discussion. The reason the 1968 Kaski case still attracts attention is the alleged recovery of material. If a comparable incident happened today, the most important evidence would be secure preservation of fragments, independent laboratory analysis, photographs of the site before disturbance, documented custody, and correlation with satellite re-entry or aviation records. Without those, even an impressive story remains unresolved rather than confirmed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kathmandupost.com">[Kathmandu Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kathmandupost.com</span><span class="citation-popover-title">on ufos and yetis</span><span class="citation-popover-snippet">on ufos and yetis</span></span></span>
 
 <img src="{{ "/assets/images/Nepal_0e1d58-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Nepal&#x27;s UFO Record? illustration 3" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Nepal adds to the wider country-by-country UFO project
 
-Nepal’s page in a country-by-country UFO project should be read alongside sibling branches on India, Bhutan, Tibet-facing Himalayan regions and Cold War-era South Asia. The 1968 cases were not isolated inside Nepal’s borders; they were part of a Himalayan sequence spanning Ladakh, Sikkim, Bhutan and Nepal, with directions and locations that made strategic geography hard to ignore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asianage.com">[asian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asianage.com</span><span class="citation-popover-title">6 ufos sighted over india nepal bhutan in 1968 cia report</span><span class="citation-popover-snippet">6 ufos sighted over india nepal bhutan in 1968 cia report</span></span></span>
+Nepal’s page in a country-by-country UFO project should be read alongside sibling branches on India, Bhutan, Tibet-facing Himalayan regions and Cold War-era South Asia. The 1968 cases were not isolated inside Nepal’s borders; they were part of a Himalayan sequence spanning Ladakh, Sikkim, Bhutan and Nepal, with directions and locations that made strategic geography hard to ignore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asianage.com">[asian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asianage.com</span><span class="citation-popover-title">6 ufos sighted over india nepal bhutan in 1968 cia report</span><span class="citation-popover-snippet">6 ufos sighted over india nepal bhutan in 1968 cia report</span></span></span>
 
-Nepal’s distinctive contribution is the Pokhara/Kaski debris claim. Many countries have light-in-the-sky reports; fewer have a case where a declassified intelligence summary mentions an alleged metallic object in a crater and local witnesses later recall a fallen sheet-like object. That does not make it extraterrestrial. It makes it historically valuable, because it sits at the intersection of local memory, intelligence archives, Cold War aviation, possible space debris and the limits of public evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kathmandupost.com">[Kathmandu Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kathmandupost.com</span><span class="citation-popover-title">on ufos and yetis</span><span class="citation-popover-snippet">on ufos and yetis</span></span></span>
+Nepal’s distinctive contribution is the Pokhara/Kaski debris claim. Many countries have light-in-the-sky reports; fewer have a case where a declassified intelligence summary mentions an alleged metallic object in a crater and local witnesses later recall a fallen sheet-like object. That does not make it extraterrestrial. It makes it historically valuable, because it sits at the intersection of local memory, intelligence archives, Cold War aviation, possible space debris and the limits of public evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">ufo over pokhara</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kathmandupost.com">[Kathmandu Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kathmandupost.com</span><span class="citation-popover-title">on ufos and yetis</span><span class="citation-popover-snippet">on ufos and yetis</span></span></span>
 
 The overall verdict is restrained but interesting: Nepal has one genuinely significant historical UFO file, a few modern probable misidentifications, and a thin scattering of public reports. Its strongest lesson is that the word “unidentified” should be preserved carefully. It marks a gap in evidence, not a licence to fill that gap with the most dramatic explanation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Nepal&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Nepal&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how unexplained aerial events are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how unexplained aerial events are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Places regional UFO stories within wider global patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places regional UFO stories within wider global patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page focused on weighing evidence and documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page focused on weighing evidence and documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Donald William Robert McKinley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Science and Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BSAIAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteor Science and Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Science and Engineering">Meteor Science and Engineering</a>
+</h4>
+<p class="fr-book-author">By Donald William Robert McKinley</p>
         
-        <p class="fr-book-desc">Relevant to Nepal&#x27;s meteor and sonic-boom-related incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to Nepal&#x27;s meteor and sonic-boom-related incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Science+and+Engineering+by+Donald+William+Robert+McKinley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nepal-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-nepal-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1502,7 +1502,7 @@ The overall verdict is restrained but interesting: Nepal has one genuinely signi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1522,7 +1522,7 @@ The overall verdict is restrained but interesting: Nepal has one genuinely signi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1554,7 +1554,7 @@ The overall verdict is restrained but interesting: Nepal has one genuinely signi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1606,7 +1606,7 @@ The overall verdict is restrained but interesting: Nepal has one genuinely signi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1651,7 +1651,7 @@ The overall verdict is restrained but interesting: Nepal has one genuinely signi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1689,223 +1689,222 @@ The overall verdict is restrained but interesting: Nepal has one genuinely signi
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cneos.jpl.nasa.gov  
    Title: CNEOSFireballs and bolides  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=63576" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=63576</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=63576" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=63576</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=130025</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=130025" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=130025</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=85883" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=85883</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=85883" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=85883</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=183133" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183133</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=183133" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183133</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: caanepal.gov.np  
-   Link: <a href="https://caanepal.gov.np/drone" target="_blank" rel="noopener noreferrer nofollow">https://caanepal.gov.np/drone</a>  
+   Link:<a href="https://caanepal.gov.np/drone" target="_blank" rel="noopener noreferrer nofollow">https://caanepal.gov.np/drone</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
+   Link:<a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=190619" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190619</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=190619" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190619</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cia.gov  
    Title: cia rdp81r00560r000100070007 8  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070007-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070007-8</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070007-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070007-8</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070007-8.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-1423.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-1423.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-1423.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-1423.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: heavens-above.com  
-   Link: <a href="https://heavens-above.com/StarLink.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/StarLink.aspx</a>  
+   Link:<a href="https://heavens-above.com/StarLink.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/StarLink.aspx</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: heavens-above.com  
-   Link: <a href="https://www.heavens-above.com/starlinklaunchpasses.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/starlinklaunchpasses.aspx</a>  
+   Link:<a href="https://www.heavens-above.com/starlinklaunchpasses.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/starlinklaunchpasses.aspx</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: in-the-sky.org  
-   Link: <a href="https://in-the-sky.org/satpasses.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/satpasses.php</a>  
+   Link:<a href="https://in-the-sky.org/satpasses.php" target="_blank" rel="noopener noreferrer nofollow">https://in-the-sky.org/satpasses.php</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thehimalayantimes.com  
    Title: The Himalayan Times UFOs over Nepal? CIA had reported two sightings 49 years  
-   Link: <a href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago</a>  
+   Link:<a href="https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/nepal/ufos-nepal-cia-reported-two-sightings-49-years-ago</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: kathmandupost.com  
    Title: on ufos and yetis  
-   Link: <a href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow">https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis</a>  
+   Link:<a href="https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis" target="_blank" rel="noopener noreferrer nofollow">https://kathmandupost.com/opinion/2019/02/08/on-ufos-and-yetis</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: thehimalayantimes.com  
    Title: astronomical society urges people to send evidence on sighting  
-   Link: <a href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting</a>  
+   Link:<a href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nepalitimes.com  
    Title: ufo over pokhara  
-   Link: <a href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/ufo-over-pokhara</a>  
+   Link:<a href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/ufo-over-pokhara</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: timesofindia.indiatimes.com  
-   Link: <a href="https://timesofindia.indiatimes.com/city/patna/high-alert-at-india-nepal-border-after-spotting-of-drone-like-luminous-objects/articleshow/121438702.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/patna/high-alert-at-india-nepal-border-after-spotting-of-drone-like-luminous-objects/articleshow/121438702.cms</a>  
+   Link:<a href="https://timesofindia.indiatimes.com/city/patna/high-alert-at-india-nepal-border-after-spotting-of-drone-like-luminous-objects/articleshow/121438702.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/patna/high-alert-at-india-nepal-border-after-spotting-of-drone-like-luminous-objects/articleshow/121438702.cms</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
    Title: Nepal Astronomical Society  
-   Link: <a href="https://www.facebook.com/NASONepal/posts/pressreleasethe-object-seen-in-the-nepali-sky-this-evening-is-probably-a-firebal/3025232930820885/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASONepal/posts/pressreleasethe-object-seen-in-the-nepali-sky-this-evening-is-probably-a-firebal/3025232930820885/</a>  
+   Link:<a href="https://www.facebook.com/NASONepal/posts/pressreleasethe-object-seen-in-the-nepali-sky-this-evening-is-probably-a-firebal/3025232930820885/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASONepal/posts/pressreleasethe-object-seen-in-the-nepali-sky-this-evening-is-probably-a-firebal/3025232930820885/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: asianage.com  
    Title: 6 ufos sighted over india nepal bhutan in 1968 cia report  
-   Link: <a href="https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html</a>  
+   Link:<a href="https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asianage.com/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Pokhara" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pokhara</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pokhara" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pokhara</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bolide" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bolide</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bolide" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bolide</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: thehimalayantimes.com  
    Title: there is stuff enduring mysteries trail us report on ufos  
-   Link: <a href="https://thehimalayantimes.com/science-and-tech/there-is-stuff-enduring-mysteries-trail-us-report-on-ufos" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/science-and-tech/there-is-stuff-enduring-mysteries-trail-us-report-on-ufos</a>  
+   Link:<a href="https://thehimalayantimes.com/science-and-tech/there-is-stuff-enduring-mysteries-trail-us-report-on-ufos" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/science-and-tech/there-is-stuff-enduring-mysteries-trail-us-report-on-ufos</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: thehimalayantimes.com  
    Title: school times the mystery  
-   Link: <a href="https://thehimalayantimes.com/entertainment/school-times-the-mystery" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/entertainment/school-times-the-mystery</a>  
+   Link:<a href="https://thehimalayantimes.com/entertainment/school-times-the-mystery" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/entertainment/school-times-the-mystery</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: thehimalayantimes.com  
    Title: govt shuts down ufo hunting unit  
-   Link: <a href="https://thehimalayantimes.com/news-archives/govt-shuts-down-ufo-hunting-unit" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/news-archives/govt-shuts-down-ufo-hunting-unit</a>  
+   Link:<a href="https://thehimalayantimes.com/news-archives/govt-shuts-down-ufo-hunting-unit" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/news-archives/govt-shuts-down-ufo-hunting-unit</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: space.stackexchange.com  
    Title: how do the starlink satellites shine  
-   Link: <a href="https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine</a>  
+   Link:<a href="https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TWRP06hGvEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TWRP06hGvEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange UFO CRASH in POKHARA 60 years ago || Misguided Nepal...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TWRP06hGvEs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TWRP06hGvEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange UFO CRASH in POKHARA 60 years ago || Misguided Nepal...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: The Strange UFO CRASH in POKHARA 60 years ago || Misguided Nepal  
-   Link: <a href="https://www.youtube.com/watch?v=Lc4HZC1G1FY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lc4HZC1G1FY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lc4HZC1G1FY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lc4HZC1G1FY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: UFO Videos Explained: Mick West's Expert Analysis  
-   Link: <a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files show no alien evidence, analyst says...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files show no alien evidence, analyst says...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/onTHT/posts/the-object-seen-in-the-nepali-sky-this-evening-is-probably-a-fireball-or-a-bolid/3006929359346380/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/onTHT/posts/the-object-seen-in-the-nepali-sky-this-evening-is-probably-a-fireball-or-a-bolid/3006929359346380/</a>  
+   Link:<a href="https://www.facebook.com/onTHT/posts/the-object-seen-in-the-nepali-sky-this-evening-is-probably-a-fireball-or-a-bolid/3006929359346380/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/onTHT/posts/the-object-seen-in-the-nepali-sky-this-evening-is-probably-a-fireball-or-a-bolid/3006929359346380/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cbsphiladelphia/posts/a-fireball-also-known-as-a-boldie-is-an-astronomical-term-for-a-bright-meteor-th/618287180447794/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cbsphiladelphia/posts/a-fireball-also-known-as-a-boldie-is-an-astronomical-term-for-a-bright-meteor-th/618287180447794/</a>  
+   Link:<a href="https://www.facebook.com/cbsphiladelphia/posts/a-fireball-also-known-as-a-boldie-is-an-astronomical-term-for-a-bright-meteor-th/618287180447794/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cbsphiladelphia/posts/a-fireball-also-known-as-a-boldie-is-an-astronomical-term-for-a-bright-meteor-th/618287180447794/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nonextquestion/posts/a-mysterious-bright-object-with-a-long-glowing-tail-was-seen-in-the-sky-across-s/913087574969414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nonextquestion/posts/a-mysterious-bright-object-with-a-long-glowing-tail-was-seen-in-the-sky-across-s/913087574969414/</a>  
+   Link:<a href="https://www.facebook.com/nonextquestion/posts/a-mysterious-bright-object-with-a-long-glowing-tail-was-seen-in-the-sky-across-s/913087574969414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nonextquestion/posts/a-mysterious-bright-object-with-a-long-glowing-tail-was-seen-in-the-sky-across-s/913087574969414/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/</a>  
+   Link:<a href="https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/an-independent-team-appointed-by-nasa-says-it-hasnt-found-evidence-of-extraterre/700299601956640/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40souravmohile/analysing-fireball-and-bolide-events-using-nasa-data-33945b7af4ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40souravmohile/analysing-fireball-and-bolide-events-using-nasa-data-33945b7af4ac</a>  
+   Link:<a href="https://medium.com/%40souravmohile/analysing-fireball-and-bolide-events-using-nasa-data-33945b7af4ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40souravmohile/analysing-fireball-and-bolide-events-using-nasa-data-33945b7af4ac</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/</a>
+   Link:<a href="https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1i7inn7/can_someone_explain_why_im_seeing_these/</a>

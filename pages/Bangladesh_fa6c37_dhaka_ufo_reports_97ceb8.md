@@ -248,7 +248,7 @@ image: /assets/images/Bangladesh_fa6c37_dhaka_ufo_reports_97ceb8-Illustration-1-
 
 ## Introduction
 
-Dhaka’s UFO record is small, fragmented and heavily dependent on self-submitted civilian testimony, yet a handful of reports stand out because they contain more observational detail than the typical anonymous “light in the sky” claim. The most discussed case is the April 2011 Bashundhara triangular-object sighting, which remains the closest thing Dhaka has to a structured multi-witness UFO account. A smaller cluster of 2012 “strange lights” reports also appears in online databases, though with much weaker supporting evidence. Taken together, these cases reveal less about extraterrestrial hypotheses than about the quality limits of [Bangladesh]({{ 'bangladesh/' | relative_url }})’s civilian UFO archive: incomplete timestamps, missing imagery, no radar corroboration, inconsistent witness follow-up and heavy reliance on reposted database material. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-cfeef4ce" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 cfeef4ce</span><span class="citation-popover-snippet">NUFORCUNVERIFIED. dhaka... National UFO Reporting Center — NUFORC Sighting Database. NUFORC2014-01-01.Read more...</span></span></span>
+Dhaka’s UFO record is small, fragmented and heavily dependent on self-submitted civilian testimony, yet a handful of reports stand out because they contain more observational detail than the typical anonymous “light in the sky” claim. The most discussed case is the April 2011 Bashundhara triangular-object sighting, which remains the closest thing Dhaka has to a structured multi-witness UFO account. A smaller cluster of 2012 “strange lights” reports also appears in online databases, though with much weaker supporting evidence. Taken together, these cases reveal less about extraterrestrial hypotheses than about the quality limits of [Bangladesh]({{ 'bangladesh/' | relative_url }})’s civilian UFO archive: incomplete timestamps, missing imagery, no radar corroboration, inconsistent witness follow-up and heavy reliance on reposted database material. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-cfeef4ce" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 cfeef4ce</span><span class="citation-popover-snippet">NUFORCUNVERIFIED. dhaka... National UFO Reporting Center — NUFORC Sighting Database. NUFORC2014-01-01.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Bangladesh_fa6c37_dhaka_ufo_reports_97ceb8-Illustration-1-dark.svg" | relative_url }}" alt="Dhaka Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Bangladesh_fa6c37_dhaka_ufo_reports_97ceb8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bangladesh_fa6c37_dhaka_ufo_reports_97ceb8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The central question is therefore not whether Dhaka has “real UFOs”, but which reports survive basic scrutiny better than others. When examined carefully, the Dhaka cases separate into three broad categories: unusually detailed but unverified witness testimony, low-information light sightings that are probably explainable, and recycled internet-era claims whose evidential value collapses under source checking.
@@ -270,13 +270,13 @@ Unlike military-linked UFO cases elsewhere, Dhaka incidents almost never include
 
 </div>
 
-Most reports instead emerge through international civilian databases such as the National UFO Reporting Center (NUFORC), reposting sites and paranormal aggregators. These platforms preserve witness narratives but rarely authenticate them. Even long-running UFO archives acknowledge that unresolved reports often remain unresolved because the evidence is insufficient, not because the event demonstrates extraordinary technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span> Wikipedia That distinction matters when evaluating Dhaka cases. A report can be sincere <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>, emotionally vivid and internally consistent while still lacking enough data to establish what was actually seen.
+Most reports instead emerge through international civilian databases such as the National UFO Reporting Center (NUFORC), reposting sites and paranormal aggregators. These platforms preserve witness narratives but rarely authenticate them. Even long-running UFO archives acknowledge that unresolved reports often remain unresolved because the evidence is insufficient, not because the event demonstrates extraordinary technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span> Wikipedia That distinction matters when evaluating Dhaka cases. A report can be sincere<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>, emotionally vivid and internally consistent while still lacking enough data to establish what was actually seen.
 
 ## The 2011 Bashundhara triangular object case
 
 ### What the witnesses claimed
 
-The strongest publicly accessible Dhaka case is the NUFORC report dated 19 April 2011 from Bashundhara Residential Area. According to the submission, four people observed a massive triangular object moving silently above them during an evening rooftop gathering. The witness described star-like lights on the object, partial obscuration of stars behind it, a slow gliding motion and a faint “aura or haze” surrounding the craft. The report states that the sighting lasted roughly two to three minutes before the object disappeared into darkness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 80992August 20, 2023 — We saw a HUGE triangular shaped object right on top of us, gliding slowly away from us...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The strongest publicly accessible Dhaka case is the NUFORC report dated 19 April 2011 from Bashundhara Residential Area. According to the submission, four people observed a massive triangular object moving silently above them during an evening rooftop gathering. The witness described star-like lights on the object, partial obscuration of stars behind it, a slow gliding motion and a faint “aura or haze” surrounding the craft. The report states that the sighting lasted roughly two to three minutes before the object disappeared into darkness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 80992August 20, 2023 — We saw a HUGE triangular shaped object right on top of us, gliding slowly away from us...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 Several elements make this report more substantial than most Bangladesh UFO entries:
 
@@ -295,7 +295,7 @@ These details give investigators at least a minimal framework for analysis. Most
 
 ### What strengthens the case
 
-From an evidence-quality perspective, the Bashundhara account scores relatively well in internal consistency. The narrative does not constantly change shape or behaviour, and the witnesses reportedly observed the object long enough to notice directional movement and the apparent blocking of background stars. Silent triangular craft are also a recurring motif in international UFO reporting, which at least places the account within a known observational pattern rather than an entirely idiosyncratic claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/396-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">396 new ufo reports</span><span class="citation-popover-snippet">Dramatic Triangle Sightings – 396 New UFO Reports Posted28 Apr 2024 — The National UFO Reporting Center Data Bank has been updated with 3...</span></span></span>
+From an evidence-quality perspective, the Bashundhara account scores relatively well in internal consistency. The narrative does not constantly change shape or behaviour, and the witnesses reportedly observed the object long enough to notice directional movement and the apparent blocking of background stars. Silent triangular craft are also a recurring motif in international UFO reporting, which at least places the account within a known observational pattern rather than an entirely idiosyncratic claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/396-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">396 new ufo reports</span><span class="citation-popover-snippet">Dramatic Triangle Sightings – 396 New UFO Reports Posted28 Apr 2024 — The National UFO Reporting Center Data Bank has been updated with 3...</span></span></span>
 
 Another important feature is the absence of overt sensationalism. The report does not describe alien beings, attacks or impossible physics. Instead, it remains focused on visual perception: shape, movement, lighting and silence. Reports that stay narrowly observational tend to be treated more seriously by investigators than narratives that rapidly escalate into conspiracy claims.
 
@@ -319,7 +319,7 @@ The major weaknesses are substantial:
 
 </div>
 
-The report also depends entirely on one written submission hosted in an open civilian database. NUFORC archives witness reports but does not certify that the reported object was genuinely anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">the order they were received, with...Read more...</span></span></span>
+The report also depends entirely on one written submission hosted in an open civilian database. NUFORC archives witness reports but does not certify that the reported object was genuinely anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">the order they were received, with...Read more...</span></span></span>
 
 The triangular description itself, while intriguing, is not uniquely exotic. Under night-time viewing conditions, ordinary aircraft formations, helicopters, drones or even perspective distortions can produce triangular impressions. Silent movement is likewise difficult to assess in a noisy urban environment such as Dhaka, especially from rooftop observation points.
 
@@ -340,7 +340,7 @@ In practical terms, the Bashundhara case is best classified as:
 
 ### A weaker and less complete evidence trail
 
-Online UFO indexing sites reference Dhaka sightings from 2012 involving unusual lights or unidentified aerial objects, but the available documentation is sparse. One publicly indexed entry on the SENTINEL-style mapping platform points back to NUFORC material while offering little original investigative substance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-cfeef4ce" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 cfeef4ce</span><span class="citation-popover-snippet">NUFORCUNVERIFIED. dhaka... National UFO Reporting Center — NUFORC Sighting Database. NUFORC2014-01-01.Read more...</span></span></span>
+Online UFO indexing sites reference Dhaka sightings from 2012 involving unusual lights or unidentified aerial objects, but the available documentation is sparse. One publicly indexed entry on the SENTINEL-style mapping platform points back to NUFORC material while offering little original investigative substance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-cfeef4ce" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 cfeef4ce</span><span class="citation-popover-snippet">NUFORCUNVERIFIED. dhaka... National UFO Reporting Center — NUFORC Sighting Database. NUFORC2014-01-01.Read more...</span></span></span>
 
 This is a recurring problem in Dhaka UFO research: many reports are effectively duplicates of duplicates. A claim first appears in one database, is copied to another aggregation site and eventually gains the appearance of independent corroboration even though all versions derive from the same initial testimony.
 
@@ -356,7 +356,7 @@ Compared with the Bashundhara report, the 2012 entries generally suffer from:
 
 </div>
 
-The phrase “strange lights” is also too broad to support strong interpretation. Across international UFO archives, reports involving distant lights are among the least reliable categories because they overlap heavily with aircraft, satellites, drones, lanterns, celestial bodies and atmospheric effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
+The phrase “strange lights” is also too broad to support strong interpretation. Across international UFO archives, reports involving distant lights are among the least reliable categories because they overlap heavily with aircraft, satellites, drones, lanterns, celestial bodies and atmospheric effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
 <img src="{{ "/assets/images/Bangladesh_fa6c37_dhaka_ufo_reports_97ceb8-Illustration-2-dark.svg" | relative_url }}" alt="Dhaka Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Bangladesh_fa6c37_dhaka_ufo_reports_97ceb8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bangladesh_fa6c37_dhaka_ufo_reports_97ceb8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The problem of retrospective internet amplification
@@ -383,7 +383,7 @@ The evidential gap is especially important in Bangladesh because there is no kno
 
 ### Strongest available civilian case: Bashundhara 2011
 
-Among known Dhaka reports, the Bashundhara sighting remains the most analytically useful because it contains enough observational detail to evaluate basic credibility markers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/2025-best-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">2025 best ufos</span><span class="citation-popover-snippet">Octahedrons – and 2025&#x27;s Best UFO Reports so Far11 May 2025 — The best reports describe a diverse array of objects ranging from classic t...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Among known Dhaka reports, the Bashundhara sighting remains the most analytically useful because it contains enough observational detail to evaluate basic credibility markers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/2025-best-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">2025 best ufos</span><span class="citation-popover-snippet">Octahedrons – and 2025&#x27;s Best UFO Reports so Far11 May 2025 — The best reports describe a diverse array of objects ranging from classic t...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 Its strengths include:
 
@@ -407,7 +407,7 @@ This leaves the case unresolved rather than persuasive.
 <img src="{{ "/assets/images/Bangladesh_fa6c37_dhaka_ufo_reports_97ceb8-Illustration-3-dark.svg" | relative_url }}" alt="Dhaka Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Bangladesh_fa6c37_dhaka_ufo_reports_97ceb8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bangladesh_fa6c37_dhaka_ufo_reports_97ceb8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Moderate-to-weak cases: 2012 light reports
 
-The 2012 reports rank lower because they provide too little technical information for meaningful assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-cfeef4ce" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 cfeef4ce</span><span class="citation-popover-snippet">NUFORCUNVERIFIED. dhaka... National UFO Reporting Center — NUFORC Sighting Database. NUFORC2014-01-01.Read more...</span></span></span>
+The 2012 reports rank lower because they provide too little technical information for meaningful assessment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-cfeef4ce" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 cfeef4ce</span><span class="citation-popover-snippet">NUFORCUNVERIFIED. dhaka... National UFO Reporting Center — NUFORC Sighting Database. NUFORC2014-01-01.Read more...</span></span></span>
 
 Key shortcomings include:
 
@@ -439,7 +439,7 @@ The Dhaka record demonstrates how UFO narratives develop in information-poor env
 
 Three broader conclusions emerge from the evidence:
 
-First, detailed witness testimony does exist in Bangladesh, especially in Dhaka, and some accounts are more coherent than casual internet folklore suggests. The Bashundhara report is a legitimate example of a structured civilian observation rather than a one-line rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1875829 Feb 2025 — Shape &amp; Appearance: Triangular prism-shaped, illuminated with lights that looked like a city at ni...</span></span></span>
+First, detailed witness testimony does exist in Bangladesh, especially in Dhaka, and some accounts are more coherent than casual internet folklore suggests. The Bashundhara report is a legitimate example of a structured civilian observation rather than a one-line rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187582" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1875829 Feb 2025 — Shape &amp; Appearance: Triangular prism-shaped, illuminated with lights that looked like a city at ni...</span></span></span>
 
 Second, the evidential ceiling remains extremely low. Even the strongest Dhaka case lacks the independent corroboration that would elevate it beyond anecdotal status.
 
@@ -448,194 +448,194 @@ Third, the city’s UFO archive reflects modern urban information culture more t
 That combination leaves Dhaka with a recognisable UFO history, yet not a convincing body of proof. The strongest cases remain intriguing because they are unresolved, not because they conclusively demonstrate extraordinary phenomena.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Examining Dhaka UFO Reports and Witness Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Examining Dhaka UFO Reports and Witness Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits witness-based sightings and evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits witness-based sightings and evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Discusses witness testimony and investigation limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses witness testimony and investigation limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Examines credibility issues in witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines credibility issues in witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides benchmarks for stronger evidence cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides benchmarks for stronger evidence cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="examining-dhaka-ufo-reports-and-witness-evidence-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -651,7 +651,7 @@ That combination leaves Dhaka with a recognisable UFO history, yet not a convinc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -671,7 +671,7 @@ That combination leaves Dhaka with a recognisable UFO history, yet not a convinc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -703,7 +703,7 @@ That combination leaves Dhaka with a recognisable UFO history, yet not a convinc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -755,7 +755,7 @@ That combination leaves Dhaka with a recognisable UFO history, yet not a convinc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -800,7 +800,7 @@ That combination leaves Dhaka with a recognisable UFO history, yet not a convinc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -838,108 +838,107 @@ That combination leaves Dhaka with a recognisable UFO history, yet not a convinc
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=80992</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 80992August 20, 2023 — We saw a HUGE triangular shaped object right on top of us, gliding slowly away from us...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=80992</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 80992August 20, 2023 — We saw a HUGE triangular shaped object right on top of us, gliding slowly away from us...</p></details>
    Published: August 20, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: 396 new ufo reports  
-   Link: <a href="https://nuforc.org/396-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/396-new-ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dramatic Triangle Sightings – 396 New UFO Reports Posted28 Apr 2024 — The National UFO Reporting Center Data Bank has been updated with 3...</p></details>
+   Link:<a href="https://nuforc.org/396-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/396-new-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dramatic Triangle Sightings – 396 New UFO Reports Posted28 Apr 2024 — The National UFO Reporting Center Data Bank has been updated with 3...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the order they were received, with...Read more...</p></details>
+   Link:<a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the order they were received, with...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
    Title: 2025 best ufos  
-   Link: <a href="https://nuforc.org/2025-best-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2025-best-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Octahedrons – and 2025&#x27;s Best UFO Reports so Far11 May 2025 — The best reports describe a diverse array of objects ranging from classic t...</p></details>
+   Link:<a href="https://nuforc.org/2025-best-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2025-best-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Octahedrons – and 2025&#x27;s Best UFO Reports so Far11 May 2025 — The best reports describe a diverse array of objects ranging from classic t...</p></details>
    Published: May 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=187582" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187582</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1875829 Feb 2025 — Shape &amp; Appearance: Triangular prism-shaped, illuminated with lights that looked like a city at ni...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=187582" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187582</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1875829 Feb 2025 — Shape &amp; Appearance: Triangular prism-shaped, illuminated with lights that looked like a city at ni...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mapuap.com  
    Title: dhaka bangladesh 2012 cfeef4ce  
-   Link: <a href="https://mapuap.com/sighting/dhaka-bangladesh-2012-cfeef4ce" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/dhaka-bangladesh-2012-cfeef4ce</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCUNVERIFIED. dhaka... National UFO Reporting Center — NUFORC Sighting Database. NUFORC2014-01-01.Read more...</p></details>
+   Link:<a href="https://mapuap.com/sighting/dhaka-bangladesh-2012-cfeef4ce" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/dhaka-bangladesh-2012-cfeef4ce</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCUNVERIFIED. dhaka... National UFO Reporting Center — NUFORC Sighting Database. NUFORC2014-01-01.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aas.org  
-   Link: <a href="https://aas.org/" target="_blank" rel="noopener noreferrer nofollow">https://aas.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Astronomical Society: HomepageThe 248th AAS meeting (joint with the High Energy Astrophysics and Laboratory Astrophysics Divisio...</p></details>
+   Link:<a href="https://aas.org/" target="_blank" rel="noopener noreferrer nofollow">https://aas.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Astronomical Society: HomepageThe 248th AAS meeting (joint with the High Energy Astrophysics and Laboratory Astrophysics Divisio...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: datadoghq.com  
-   Link: <a href="https://www.datadoghq.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.datadoghq.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Datadog: Cloud Monitoring as a ServiceWe are building the monitoring and security platform for developers, IT operations teams and busine...</p></details>
+   Link:<a href="https://www.datadoghq.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.datadoghq.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Datadog: Cloud Monitoring as a ServiceWe are building the monitoring and security platform for developers, IT operations teams and busine...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: artangel.org.uk  
-   Link: <a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings from around the worldStrange lights came out of UFOs fuselage, but without any noise. As an eyewitness, shepherd Trantos Ka...</p></details>
+   Link:<a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings from around the worldStrange lights came out of UFOs fuselage, but without any noise. As an eyewitness, shepherd Trantos Ka...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newsflare.com  
-   Link: <a href="https://www.newsflare.com/video/2876/ufos-strange-lights-captured-flying-over-the-sea-finally-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.newsflare.com/video/2876/ufos-strange-lights-captured-flying-over-the-sea-finally-proof</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s- Strange Lights Captured Flying Over The Sea- Finally...UFO&#x27;s- Strange Lights Captured Flying Over The Sea- Finally Proof - Stock...</p></details>
+   Link:<a href="https://www.newsflare.com/video/2876/ufos-strange-lights-captured-flying-over-the-sea-finally-proof" target="_blank" rel="noopener noreferrer nofollow">https://www.newsflare.com/video/2876/ufos-strange-lights-captured-flying-over-the-sea-finally-proof</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s- Strange Lights Captured Flying Over The Sea- Finally...UFO&#x27;s- Strange Lights Captured Flying Over The Sea- Finally Proof - Stock...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xzmK7tKcn9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xzmK7tKcn9A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first video is particularly relevant as it features the CTO of the National UFO Reporting Center discussing the specific challenges o...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xzmK7tKcn9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xzmK7tKcn9A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first video is particularly relevant as it features the CTO of the National UFO Reporting Center discussing the specific challenges o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7carMw8ndvM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7carMw8ndvM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=7carMw8ndvM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7carMw8ndvM</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ofac.treasury.gov  
-   Link: <a href="https://ofac.treasury.gov/recent-actions/20250328" target="_blank" rel="noopener noreferrer nofollow">https://ofac.treasury.gov/recent-actions/20250328</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Secondary Sanctions Information28 Mar 2025 — AL-HARAMAIN: BANGLADESH BRANCH, House 1, Road 1, S-6, Uttara, Dhaka, Bangladesh [SDGT]...</p></details>
+   Link:<a href="https://ofac.treasury.gov/recent-actions/20250328" target="_blank" rel="noopener noreferrer nofollow">https://ofac.treasury.gov/recent-actions/20250328</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Secondary Sanctions Information28 Mar 2025 — AL-HARAMAIN: BANGLADESH BRANCH, House 1, Road 1, S-6, Uttara, Dhaka, Bangladesh [SDGT]...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 348002595 Invasive Alien Species of Bangladesh  
-   Link: <a href="https://www.researchgate.net/publication/348002595_Invasive_Alien_Species_of_Bangladesh" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348002595_Invasive_Alien_Species_of_Bangladesh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Invasive Alien Species of Bangladesh15 Feb 2026 — Here we provide an overview of the invasive alien species in Bangladesh, likely p...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/348002595_Invasive_Alien_Species_of_Bangladesh" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348002595_Invasive_Alien_Species_of_Bangladesh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Invasive Alien Species of Bangladesh15 Feb 2026 — Here we provide an overview of the invasive alien species in Bangladesh, likely p...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>thusiasts and researchers investigating unexplained aerial phenomena...</p></details>
+   Link:<a href="https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>thusiasts and researchers investigating unexplained aerial phenomena...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBCRadio4/videos/when-mysterious-orb-like-lights-were-recorded-in-the-sky-above-koge-a-small-port/967357605567223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCRadio4/videos/when-mysterious-orb-like-lights-were-recorded-in-the-sky-above-koge-a-small-port/967357605567223/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>port town in Denmark, the UFO scene took notice...</p></details>
+   Link:<a href="https://www.facebook.com/BBCRadio4/videos/when-mysterious-orb-like-lights-were-recorded-in-the-sky-above-koge-a-small-port/967357605567223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCRadio4/videos/when-mysterious-orb-like-lights-were-recorded-in-the-sky-above-koge-a-small-port/967357605567223/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>port town in Denmark, the UFO scene took notice...</p></details>

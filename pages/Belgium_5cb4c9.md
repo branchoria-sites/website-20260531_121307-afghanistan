@@ -1199,7 +1199,7 @@ The so‑called **Belgian UFO wave** began on **29 November 1989**, near Eupen i
 <img src="{{ "/assets/images/Belgium_5cb4c9-overview.webp" | relative_url }}" alt="Overview image for What Really Happened During Belgium&#x27;s..." loading="eager" decoding="sync" fetchpriority="high">
 ### Military Engagement and Radar Corroboration
 
-The event peaked on **the night of 30–31 March 1990**, known in ufology as “La Nuit des F‑16”. On that night, **two Belgian Air Force F‑16 fighter jets were scrambled** to investigate objects that appeared on multiple radar installations. Radar data showed unidentified targets moving in ways that did not match known aircraft behaviour, prompting internal reports by the Force Aérienne Belge (Belgian Air Force). These logs and trace reports, released in archives decades later, detail radar locks and manoeuvres that confounded conventional explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar-1990-03-31" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl be salmon radar report rapport lt col salmon f16 radar 1990 03 31</span><span class="citation-popover-snippet">UFO TransparencyLt. Col. Salmon F-16 Radar Trace Report — Night of 30–31 March 1990, Belgian Air Force (Force Aérienne Belge) · 1990 · UF...</span><span class="citation-popover-meta">Published: March 1990</span></span></span>
+The event peaked on **the night of 30–31 March 1990**, known in ufology as “La Nuit des F‑16”. On that night, **two Belgian Air Force F‑16 fighter jets were scrambled** to investigate objects that appeared on multiple radar installations. Radar data showed unidentified targets moving in ways that did not match known aircraft behaviour, prompting internal reports by the Force Aérienne Belge (Belgian Air Force). These logs and trace reports, released in archives decades later, detail radar locks and manoeuvres that confounded conventional explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl be salmon radar report rapport lt col salmon f16 radar</span><span class="citation-popover-snippet">UFO TransparencyLt. Col. Salmon F-16 Radar Trace Report — Night of 30–31 March 1990, Belgian Air Force (Force Aérienne Belge) · 1990 · UF...</span><span class="citation-popover-meta">Published: March 1990</span></span></span>
 
 Thousands of civilian witnesses also submitted sighting reports during this period — estimates range widely depending on source and methodology, but figures often cited exceed several **thousands of individual accounts**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nowdeclassified.com/incidents/belgian-ufo-wave-1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nowdeclassified.com">[Now Declassified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nowdeclassified.com</span><span class="citation-popover-snippet">Now DeclassifiedBelgian UFO Wave — NATO F-16 Pursuit — State Dept Declassified UAP File &#124; Now DeclassifiedMarch 30, 1990...</span><span class="citation-popover-meta">Published: March 30, 1990</span></span></span>
 
@@ -1216,7 +1216,7 @@ The **Société belge d’étude des phénomènes spatiaux** (SOBEPS) was a Belg
 
 ### Official Military Documentation
 
-Official files from the Belgian Air Force, including the Lt. Col. Salmon radar report, record detailed operational data from the March 1990 intercepts. These reports are noteworthy because they represent an unusual instance of a national air force publicly acknowledging radar tracks and interceptor engagement with unidentified phenomena, even if they stop short of attributing them to specific non‑terrestrial origins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar-1990-03-31" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl be salmon radar report rapport lt col salmon f16 radar 1990 03 31</span><span class="citation-popover-snippet">UFO TransparencyLt. Col. Salmon F-16 Radar Trace Report — Night of 30–31 March 1990, Belgian Air Force (Force Aérienne Belge) · 1990 · UF...</span><span class="citation-popover-meta">Published: March 1990</span></span></span>
+Official files from the Belgian Air Force, including the Lt. Col. Salmon radar report, record detailed operational data from the March 1990 intercepts. These reports are noteworthy because they represent an unusual instance of a national air force publicly acknowledging radar tracks and interceptor engagement with unidentified phenomena, even if they stop short of attributing them to specific non‑terrestrial origins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl be salmon radar report rapport lt col salmon f16 radar</span><span class="citation-popover-snippet">UFO TransparencyLt. Col. Salmon F-16 Radar Trace Report — Night of 30–31 March 1990, Belgian Air Force (Force Aérienne Belge) · 1990 · UF...</span><span class="citation-popover-meta">Published: March 1990</span></span></span>
 
 ### Sceptical and Scientific Analysis
 
@@ -1235,7 +1235,7 @@ The Belgian UFO wave has left a notable imprint on cultural memory within Belgiu
 
 ### Confirmed Observations
 
-* **Radar tracks** from Belgian Air Force networks in March 1990, showing echo returns inconsistent with standard aircraft transponders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar-1990-03-31" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl be salmon radar report rapport lt col salmon f16 radar 1990 03 31</span><span class="citation-popover-snippet">UFO TransparencyLt. Col. Salmon F-16 Radar Trace Report — Night of 30–31 March 1990, Belgian Air Force (Force Aérienne Belge) · 1990 · UF...</span><span class="citation-popover-meta">Published: March 1990</span></span></span>
+* **Radar tracks** from Belgian Air Force networks in March 1990, showing echo returns inconsistent with standard aircraft transponders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">intl be salmon radar report rapport lt col salmon f16 radar</span><span class="citation-popover-snippet">UFO TransparencyLt. Col. Salmon F-16 Radar Trace Report — Night of 30–31 March 1990, Belgian Air Force (Force Aérienne Belge) · 1990 · UF...</span><span class="citation-popover-meta">Published: March 1990</span></span></span>
 * **F‑16 scramble logs** confirming interceptor flights and operational engagement with unidentified targets.[Wikipedia]
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6zikRBV8DwQ" title="Episode 337 LIVE: The Belgian UFO Wave" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer">Episode 337 LIVE: The Belgian UFO Wave</a></p><p class="youtube-embed-meta">Channel: 13 O&#x27;Clock Podcast &middot; Views: 2.7K &middot; Uploaded: February 2023 &middot; Length: 2 hours 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6zikRBV8DwQ">Open on YouTube</a></p></div></div></div>
@@ -1255,194 +1255,194 @@ Many reported sightings remain officially **unexplained** due to insufficient da
 Belgium’s role in UFO/UAP history is anchored in the **1989–1990 wave of sightings**, an episode distinguished by widespread reporting, military engagement, and sustained debate. While no consensus exists on the ultimate nature of these phenomena, the Belgian case stands as a central example of how unidentified aerial reports can intersect with official records, media coverage, civilian research, scepticism, and cultural memory within a national context. The legacy persists in both contemporary reporting patterns and ongoing interest from researchers and the general public.[Wikipedia]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened During Belgium&#x27;s 1989–1990 UFO Wave?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened During Belgium&#x27;s 1989–1990 UFO Wave?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides investigative context for major sighting waves.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides investigative context for major sighting waves.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores recurring patterns behind large-scale UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recurring patterns behind large-scale UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Helps place the Belgian wave within wider UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps place the Belgian wave within wider UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes discussion of high-profile international UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of high-profile international UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-during-belgium-s-1989-1990-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1458,7 +1458,7 @@ Belgium’s role in UFO/UAP history is anchored in the **1989–1990 wave of sig
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1478,7 +1478,7 @@ Belgium’s role in UFO/UAP history is anchored in the **1989–1990 wave of sig
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1510,7 +1510,7 @@ Belgium’s role in UFO/UAP history is anchored in the **1989–1990 wave of sig
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1562,7 +1562,7 @@ Belgium’s role in UFO/UAP history is anchored in the **1989–1990 wave of sig
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1607,7 +1607,7 @@ Belgium’s role in UFO/UAP history is anchored in the **1989–1990 wave of sig
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1648,134 +1648,134 @@ Belgium’s role in UFO/UAP history is anchored in the **1989–1990 wave of sig
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO sightings in Belgium  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Belgium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Belgium</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Belgium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Belgium</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufos.wiki  
    Title: Wiki Belgium UFO Wave  
-   Link: <a href="https://www.ufos.wiki/case/belgium-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufos.wiki/case/belgium-ufo-wave/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgium UFO Wave - UFOs Wiki...</p></details>
+   Link:<a href="https://www.ufos.wiki/case/belgium-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufos.wiki/case/belgium-ufo-wave/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belgium UFO Wave - UFOs Wiki...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bibliotecapleyades.net  
    Title: UF O Briefing Doc  
-   Link: <a href="https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1990.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1990.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Briefing Doc - 1989-1990: UFO SIGHTING WAVE IN BELGIUM...</p></details>
+   Link:<a href="https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1990.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1990.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Briefing Doc - 1989-1990: UFO SIGHTING WAVE IN BELGIUM...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufotransparency.com  
    Title: intl be salmon radar report rapport lt col salmon f16 radar 1990 03 31  
-   Link: <a href="https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar-1990-03-31" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar-1990-03-31</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyLt. Col. Salmon F-16 Radar Trace Report — Night of 30–31 March 1990, Belgian Air Force (Force Aérienne Belge) · 1990 · UF...</p></details>
+   Link:<a href="https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-be-salmon-radar-report-rapport-lt-col-salmon-f16-radar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyLt. Col. Salmon F-16 Radar Trace Report — Night of 30–31 March 1990, Belgian Air Force (Force Aérienne Belge) · 1990 · UF...</p></details>
    Published: March 1990  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nowdeclassified.com  
-   Link: <a href="https://www.nowdeclassified.com/incidents/belgian-ufo-wave-1990" target="_blank" rel="noopener noreferrer nofollow">https://www.nowdeclassified.com/incidents/belgian-ufo-wave-1990</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Now DeclassifiedBelgian UFO Wave — NATO F-16 Pursuit — State Dept Declassified UAP File | Now DeclassifiedMarch 30, 1990...</p></details>
+   Link:<a href="https://www.nowdeclassified.com/incidents/belgian-ufo-wave-1990" target="_blank" rel="noopener noreferrer nofollow">https://www.nowdeclassified.com/incidents/belgian-ufo-wave-1990</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now DeclassifiedBelgian UFO Wave — NATO F-16 Pursuit — State Dept Declassified UAP File | Now DeclassifiedMarch 30, 1990...</p></details>
    Published: March 30, 1990  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: brusselstimes.com  
    Title: The Brussels Times UFO sightings drop in Belgium 'unexplained'  
-   Link: <a href="https://www.brusselstimes.com/belgium/1375246/ufo-sightings-drop-in-belgium-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.brusselstimes.com/belgium/1375246/ufo-sightings-drop-in-belgium-unexplained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brussels TimesUFO sightings drop in Belgium &#x27;unexplained&#x27;January 2, 2025...</p></details>
+   Link:<a href="https://www.brusselstimes.com/belgium/1375246/ufo-sightings-drop-in-belgium-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.brusselstimes.com/belgium/1375246/ufo-sightings-drop-in-belgium-unexplained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brussels TimesUFO sightings drop in Belgium &#x27;unexplained&#x27;January 2, 2025...</p></details>
    Published: January 2, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thetimes.co.uk  
    Title: The Times Belgian UFO sighting memorial removed at family's request  
-   Link: <a href="https://www.thetimes.co.uk/article/belgian-ufo-sighting-memorial-removed-at-familys-request-7mmv2bbqh" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/belgian-ufo-sighting-memorial-removed-at-familys-request-7mmv2bbqh</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The marble stone, which had been restored earlier in 2025 to mark the 70th anniversary of the event, honored Vandercruyssen’s claim that...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/belgian-ufo-sighting-memorial-removed-at-familys-request-7mmv2bbqh" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/belgian-ufo-sighting-memorial-removed-at-familys-request-7mmv2bbqh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The marble stone, which had been restored earlier in 2025 to mark the 70th anniversary of the event, honored Vandercruyssen’s claim that...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: viralufos.com  
    Title: belgian ufo wave  
-   Link: <a href="https://www.viralufos.com/modern-encounters/belgian-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://www.viralufos.com/modern-encounters/belgian-ufo-wave/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Sightings of 1989-1990June 10, 2024 — BELGIAN UFO WAVE (1989-1990) ByOrion Hathway June 10, 2024June 11, 2024 The Belgian UFO...</p></details>
+   Link:<a href="https://www.viralufos.com/modern-encounters/belgian-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://www.viralufos.com/modern-encounters/belgian-ufo-wave/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Sightings of 1989-1990June 10, 2024 — BELGIAN UFO WAVE (1989-1990) ByOrion Hathway June 10, 2024June 11, 2024 The Belgian UFO...</p></details>
    Published: June 10, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/Belgium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/Belgium.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgium UFO Wave, 1989, UFO Casebook Case FilesTHE BELGIUM UFO WAVE Image: UFO photo, Belgium Of all the reports of UFO sightings, so...</p></details>
+   Link:<a href="https://www.ufocasebook.com/Belgium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/Belgium.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgium UFO Wave, 1989, UFO Casebook Case FilesTHE BELGIUM UFO WAVE Image: UFO photo, Belgium Of all the reports of UFO sightings, so...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufofiles.app  
-   Link: <a href="https://ufofiles.app/case-files/belgian-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://ufofiles.app/case-files/belgian-ufo-wave/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>76 /100 QUICK FACTS Date 1989-1990 Location Belgium Case Ty...</p></details>
+   Link:<a href="https://ufofiles.app/case-files/belgian-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://ufofiles.app/case-files/belgian-ufo-wave/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>76 /100 QUICK FACTS Date 1989-1990 Location Belgium Case Ty...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/be" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/be</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Belgium | Enigma LabsShare UFO Sighting MOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join E...</p></details>
+   Link:<a href="https://enigmalabs.io/explore/be" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/be</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Belgium | Enigma LabsShare UFO Sighting MOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join E...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: brusselstimes.com  
    Title: more ufo reports in flanders but fewer in french speaking belgium in 2023  
-   Link: <a href="https://www.brusselstimes.com/belgium/859309/more-ufo-reports-in-flanders-but-fewer-in-french-speaking-belgium-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.brusselstimes.com/belgium/859309/more-ufo-reports-in-flanders-but-fewer-in-french-speaking-belgium-in-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More UFO reports in Flanders, but fewer in French-speaking Belgium in 2023January 2, 2024 — More UFO reports in Flanders, but fewer in Fr...</p></details>
+   Link:<a href="https://www.brusselstimes.com/belgium/859309/more-ufo-reports-in-flanders-but-fewer-in-french-speaking-belgium-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.brusselstimes.com/belgium/859309/more-ufo-reports-in-flanders-but-fewer-in-french-speaking-belgium-in-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More UFO reports in Flanders, but fewer in French-speaking Belgium in 2023January 2, 2024 — More UFO reports in Flanders, but fewer in Fr...</p></details>
    Published: January 2, 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufoinsight.com  
    Title: The Belgian UFO Wave – A Truly Unique Display Of The Unknown  
-   Link: <a href="https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMarch 12, 2018 — THE BELGIAN UFO WAVE – A TRULY UNIQUE DISPLAY OF THE UNKNOWN By Marcus Lowth Image: Published Date March 12...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMarch 12, 2018 — THE BELGIAN UFO WAVE – A TRULY UNIQUE DISPLAY OF THE UNKNOWN By Marcus Lowth Image: Published Date March 12...</p></details>
    Published: March 12, 2018  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufomeldpunt.be  
    Title: be Iets gespot in het luchtruim dat u niet meteen kan verklaren?  
-   Link: <a href="https://ufomeldpunt.be/" target="_blank" rel="noopener noreferrer nofollow">https://ufomeldpunt.be/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MELD HET BIJ HET BELGISCH UFO-MELDPUNT UFO melden Aantal UFO-meldingen sinds oprichting meldpunt in 2007: 4156 UFO-meldingen 2026: 1...</p></details>
+   Link:<a href="https://ufomeldpunt.be/" target="_blank" rel="noopener noreferrer nofollow">https://ufomeldpunt.be/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MELD HET BIJ HET BELGISCH UFO-MELDPUNT UFO melden Aantal UFO-meldingen sinds oprichting meldpunt in 2007: 4156 UFO-meldingen 2026: 1...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: discoveryuk.com  
    Title: The Belgian UFO Wave: Close Encounter or Mass Hysteria?  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKSeptember 3, 2024 — THE BELGIAN UFO WAVE: CLOSE ENCOUNTER OR MASS HYSTERIA? Between November 1989 and March 1990 all over Bel...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKSeptember 3, 2024 — THE BELGIAN UFO WAVE: CLOSE ENCOUNTER OR MASS HYSTERIA? Between November 1989 and March 1990 all over Bel...</p></details>
    Published: September 3, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cde.news  
    Title: belgium records sharp rise in ufo sightings in 2025  
-   Link: <a href="https://cde.news/belgium-records-sharp-rise-in-ufo-sightings-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://cde.news/belgium-records-sharp-rise-in-ufo-sightings-in-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 5, 2026 — BELGIUM RECORDS SHARP RISE IN UFO SIGHTINGS IN 2025 5th January 20265th January 2026 408 1 Min Read Image Belgium’s UFO...</p></details>
+   Link:<a href="https://cde.news/belgium-records-sharp-rise-in-ufo-sightings-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://cde.news/belgium-records-sharp-rise-in-ufo-sightings-in-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 5, 2026 — BELGIUM RECORDS SHARP RISE IN UFO SIGHTINGS IN 2025 5th January 20265th January 2026 408 1 Min Read Image Belgium’s UFO...</p></details>
    Published: January 5, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: brusselstimes.com  
    Title: Hundreds of reported UFO sightings in Belgium  
-   Link: <a href="https://www.brusselstimes.com/belgium/1041838/hundreds-of-reported-ufo-sightings-in-belgium/" target="_blank" rel="noopener noreferrer nofollow">https://www.brusselstimes.com/belgium/1041838/hundreds-of-reported-ufo-sightings-in-belgium/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2024 — Hundreds of reported UFO sightings in Belgium MOST READ HUNDREDS OF REPORTED UFO SIGHTINGS IN BELGIUM Saturday 11 May 2024...</p></details>
+   Link:<a href="https://www.brusselstimes.com/belgium/1041838/hundreds-of-reported-ufo-sightings-in-belgium/" target="_blank" rel="noopener noreferrer nofollow">https://www.brusselstimes.com/belgium/1041838/hundreds-of-reported-ufo-sightings-in-belgium/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2024 — Hundreds of reported UFO sightings in Belgium MOST READ HUNDREDS OF REPORTED UFO SIGHTINGS IN BELGIUM Saturday 11 May 2024...</p></details>
    Published: May 11, 2024  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: spacepage.be  
    Title: De Belgische UFO-golf: het luchtruimmysterie dat België in zijn greep hield  
-   Link: <a href="https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/de-belgische-ufo-golf-het-luchtruimmysterie-dat-belgi%C3%AB-in-zijn-greep-hield.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/de-belgische-ufo-golf-het-luchtruimmysterie-dat-belgi%C3%AB-in-zijn-greep-hield.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christiaens Hoofdcategorie: Buitenaards leven Image Foto: Kris Christiaens De Belgische UFO-g...</p></details>
+   Link:<a href="https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/de-belgische-ufo-golf-het-luchtruimmysterie-dat-belgi%C3%AB-in-zijn-greep-hield.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/de-belgische-ufo-golf-het-luchtruimmysterie-dat-belgi%C3%AB-in-zijn-greep-hield.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christiaens Hoofdcategorie: Buitenaards leven Image Foto: Kris Christiaens De Belgische UFO-g...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sciencetechniz.com  
    Title: Belgium Declassified UFO Historical Archives  
-   Link: <a href="https://www.sciencetechniz.com/2026/01/belgium-declassified-ufo-historical.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetechniz.com/2026/01/belgium-declassified-ufo-historical.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 19, 2026 — Belgium Declassified UFO Historical Archives - Science Techniz BELGIUM DECLASSIFIED UFO HISTORICAL ARCHIVES January 19...</p></details>
+   Link:<a href="https://www.sciencetechniz.com/2026/01/belgium-declassified-ufo-historical.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetechniz.com/2026/01/belgium-declassified-ufo-historical.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 19, 2026 — Belgium Declassified UFO Historical Archives - Science Techniz BELGIUM DECLASSIFIED UFO HISTORICAL ARCHIVES January 19...</p></details>
    Published: January 19, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tvi.show  
    Title: Witness accounts and radar data together re  
-   Link: <a href="https://www.tvi.show/skywatch-files/the-1989-belgium-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1989-belgium-ufo-wave</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1989 Belgium UFO Wave: Radar Confirmed Triangular UFOs &amp; Military Jet PursuitsANALYSIS OF TRIANGULAR UFOS AND AERIAL PHENOMENA YouTub...</p></details>
+   Link:<a href="https://www.tvi.show/skywatch-files/the-1989-belgium-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1989-belgium-ufo-wave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1989 Belgium UFO Wave: Radar Confirmed Triangular UFOs &amp; Military Jet PursuitsANALYSIS OF TRIANGULAR UFOS AND AERIAL PHENOMENA YouTub...</p></details>

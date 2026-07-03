@@ -248,18 +248,18 @@ image: /assets/images/Mongolia_f54da3_regional_reporting_p_7595c3-Illustration-1
 
 ## Introduction
 
-Reports of unidentified flying objects (UFOs) or unidentified aerial phenomena (UAP) in Mongolia are notably sparse compared with global hotspots such as the United States or Western Europe. That scarcity does not necessarily indicate fewer anomalous sky events; rather it reflects how **population distribution and reporting infrastructure shape the visible record**. Mongolia’s extremely low population density, vast uninhabited landscapes and limited formal reporting channels mean that few sightings ever enter public databases or reach international awareness. Occasional entries in civilian reporting sites and informal online discussions suggest that most publicly accessible accounts come from where people live and carry cameras — particularly the capital — while remote regions remain largely silent in official archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/country/MNG/Mongolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Mongolia</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Mongolia - UFO Hunters...</span></span></span>
+Reports of unidentified flying objects (UFOs) or unidentified aerial phenomena (UAP) in Mongolia are notably sparse compared with global hotspots such as the United States or Western Europe. That scarcity does not necessarily indicate fewer anomalous sky events; rather it reflects how **population distribution and reporting infrastructure shape the visible record**. Mongolia’s extremely low population density, vast uninhabited landscapes and limited formal reporting channels mean that few sightings ever enter public databases or reach international awareness. Occasional entries in civilian reporting sites and informal online discussions suggest that most publicly accessible accounts come from where people live and carry cameras — particularly the capital — while remote regions remain largely silent in official archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/country/MNG/Mongolia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Mongolia</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Mongolia - UFO Hunters...</span></span></span>
 
 <img src="{{ "/assets/images/Mongolia_f54da3_regional_reporting_p_7595c3-Illustration-1-dark.svg" | relative_url }}" alt="Where Reports Appear illustration 1" data-theme-src-dark="{{ "/assets/images/Mongolia_f54da3_regional_reporting_p_7595c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mongolia_f54da3_regional_reporting_p_7595c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Urban Concentration: Ulaanbaatar’s Larger Footprint
 
-Almost all documented sightings indexed in international civilian databases, such as UFO Hunters or MUFON‑sourced archives, occur in or near **Ulaanbaatar**, Mongolia’s capital. This pattern mirrors the underlying demographic reality: the city holds a significant share of the national population and nearly all the country’s media, transport infrastructure and internet access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mongolianatlas.ac.mn/en/atlas/population/population-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mongolianatlas.ac.mn">[mongolianatlas.ac.mn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mongolianatlas.ac.mn</span><span class="citation-popover-title">Population and society – National Digital Atlas of Mongolia</span><span class="citation-popover-snippet">Population and society – National Digital Atlas of Mongolia</span></span></span>
+Almost all documented sightings indexed in international civilian databases, such as UFO Hunters or MUFON‑sourced archives, occur in or near **Ulaanbaatar**, Mongolia’s capital. This pattern mirrors the underlying demographic reality: the city holds a significant share of the national population and nearly all the country’s media, transport infrastructure and internet access.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mongolianatlas.ac.mn/en/atlas/population/population-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mongolianatlas.ac.mn">[mongolianatlas.ac.mn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mongolianatlas.ac.mn</span><span class="citation-popover-title">Population and society – National Digital Atlas of Mongolia</span><span class="citation-popover-snippet">Population and society – National Digital Atlas of Mongolia</span></span></span>
 
 Reported events range from brief, unexplained lights and fast‑moving objects to longer observations:
 
-* A **disk‑shaped object over Ulaanbaatar in 2005**, described with light flares and unusual motion, remains one of the more detailed entries in the public domain, lasting several minutes before vanishing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/51439b8c0ad2e1e9be452f21/UFO%20Sighting%20in%20Ulaanbaatar%20%28Outer%20Mongolia%29%20on%20Friday%2030%20September%202005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Ulaanbaatar (Outer Mongolia) on Friday 30 September 2005</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Ulaanbaatar (Outer Mongolia) on Friday 30 September 2005 - UFO HuntersOctober 1, 2005...</span><span class="citation-popover-meta">Published: September 2005</span></span></span>
-* In **May 2012** a witness reported a geometric object in the sky, taking photographs before its disappearance over a period of a few minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/5192aaab83c78d384ec2577c/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Thursday%2031%20May%202012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Thursday 31 May 2012</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Thursday 31 May 2012 - UFO HuntersAugust 17, 2012...</span><span class="citation-popover-meta">Published: May 2012</span></span></span>
-* A **very short oval sighting in 2017** and a **fast disc‑like event captured on video in 2018** also appear on crowd‑sourced listings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/598b065c6157470007000001/UFO%20Sighting%20in%20Ulaanbaatar%20%28Mongolia%29%20on%20Sunday%2028%20May%202017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Ulaanbaatar (Mongolia) on Sunday 28 May 2017</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Ulaanbaatar (Mongolia) on Sunday 28 May 2017 - UFO HuntersAugust 9, 2017...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+* A **disk‑shaped object over Ulaanbaatar in 2005**, described with light flares and unusual motion, remains one of the more detailed entries in the public domain, lasting several minutes before vanishing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/51439b8c0ad2e1e9be452f21/UFO%20Sighting%20in%20Ulaanbaatar%20%28Outer%20Mongolia%29%20on%20Friday%2030%20September%202005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Ulaanbaatar (Outer Mongolia) on Friday 30 September 2005</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Ulaanbaatar (Outer Mongolia) on Friday 30 September 2005 - UFO HuntersOctober 1, 2005...</span><span class="citation-popover-meta">Published: September 2005</span></span></span>
+* In **May 2012** a witness reported a geometric object in the sky, taking photographs before its disappearance over a period of a few minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/5192aaab83c78d384ec2577c/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Thursday%2031%20May%202012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Thursday 31 May 2012</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Thursday 31 May 2012 - UFO HuntersAugust 17, 2012...</span><span class="citation-popover-meta">Published: May 2012</span></span></span>
+* A **very short oval sighting in 2017** and a **fast disc‑like event captured on video in 2018** also appear on crowd‑sourced listings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/598b065c6157470007000001/UFO%20Sighting%20in%20Ulaanbaatar%20%28Mongolia%29%20on%20Sunday%2028%20May%202017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Ulaanbaatar (Mongolia) on Sunday 28 May 2017</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Ulaanbaatar (Mongolia) on Sunday 28 May 2017 - UFO HuntersAugust 9, 2017...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 
 These urban reports are largely civilian witness accounts submitted to international tracking platforms. They lack official investigation, radar correlation, or detailed verification, but their concentration around the capital reflects where observers and reporting mechanisms exist.
 
@@ -269,15 +269,15 @@ These urban reports are largely civilian witness accounts submitted to internati
 
 Beyond Ulaanbaatar’s vicinity, the publicly visible catalog of sightings drops dramatically. A few entries on global UFO tracking sites cite events in other regions:
 
-* An object described “just like a star” reportedly seen over **Ulgii** in the west of Mongolia in 2015. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/5e92f2f098d717765610acc3/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Gorkhi Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Gorkhi-Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018 - UFO Hunters...</span><span class="citation-popover-meta">Published: June 2018</span></span></span>
-* A 2007 sighting near the **Gobi Desert** appears in some aggregated lists, though details are minimal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/56704fea07db29000c000009/UFO%20Sighting%20in%20Ulgii%20%28Mongolia%29%20on%20Tuesday%2015%20December%202015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Ulgii (Mongolia) on Tuesday 15 December 2015</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Ulgii (Mongolia) on Tuesday 15 December 2015 - UFO HuntersDecember 15, 2015...</span><span class="citation-popover-meta">Published: December 2015</span></span></span>
+* An object described “just like a star” reportedly seen over **Ulgii** in the west of Mongolia in 2015.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/5e92f2f098d717765610acc3/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Gorkhi Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Gorkhi-Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018 - UFO Hunters...</span><span class="citation-popover-meta">Published: June 2018</span></span></span>
+* A 2007 sighting near the **Gobi Desert** appears in some aggregated lists, though details are minimal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/56704fea07db29000c000009/UFO%20Sighting%20in%20Ulgii%20%28Mongolia%29%20on%20Tuesday%2015%20December%202015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Ulgii (Mongolia) on Tuesday 15 December 2015</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Ulgii (Mongolia) on Tuesday 15 December 2015 - UFO HuntersDecember 15, 2015...</span><span class="citation-popover-meta">Published: December 2015</span></span></span>
 
 No structured archives appear to exist that systematically collect province‑level reports across Mongolia’s 21 aimags (provinces) and hundreds of soums (districts). Where such sightings do surface — such as in rural internet forums or personal online anecdotes — they remain anecdotal and unverifiable from a research perspective.
 
 <img src="{{ "/assets/images/Mongolia_f54da3_regional_reporting_p_7595c3-Illustration-2-dark.svg" | relative_url }}" alt="Where Reports Appear illustration 2" data-theme-src-dark="{{ "/assets/images/Mongolia_f54da3_regional_reporting_p_7595c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mongolia_f54da3_regional_reporting_p_7595c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Population, Geography and Reporting Mechanisms
 
-Mongolia is one of the **least densely populated countries in the world**, and its population is unevenly distributed, with nearly half living in Ulaanbaatar and the rest spread thinly across vast steppe, mountain and desert regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mongolianatlas.ac.mn/en/atlas/population/population-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mongolianatlas.ac.mn">[mongolianatlas.ac.mn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mongolianatlas.ac.mn</span><span class="citation-popover-title">Population and society – National Digital Atlas of Mongolia</span><span class="citation-popover-snippet">Population and society – National Digital Atlas of Mongolia</span></span></span> This demographic pattern has several implications for UFO/UAP reporting:
+Mongolia is one of the **least densely populated countries in the world**, and its population is unevenly distributed, with nearly half living in Ulaanbaatar and the rest spread thinly across vast steppe, mountain and desert regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mongolianatlas.ac.mn/en/atlas/population/population-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mongolianatlas.ac.mn">[mongolianatlas.ac.mn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mongolianatlas.ac.mn</span><span class="citation-popover-title">Population and society – National Digital Atlas of Mongolia</span><span class="citation-popover-snippet">Population and society – National Digital Atlas of Mongolia</span></span></span> This demographic pattern has several implications for UFO/UAP reporting:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -287,7 +287,7 @@ Mongolia is one of the **least densely populated countries in the world**, and i
 
 </div>
 
-Informal online discussions by residents of rural areas sometimes mention unusual lights or aerial observations, but these posts typically lack precise location data, timing, or corroboration, and are not included in formal sighting databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/mongolia/comments/17nnmun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Mongolia UFO Stories</span><span class="citation-popover-snippet">Mongolia UFO StoriesNovember 4, 2023...</span><span class="citation-popover-meta">Published: November 4, 2023</span></span></span>
+Informal online discussions by residents of rural areas sometimes mention unusual lights or aerial observations, but these posts typically lack precise location data, timing, or corroboration, and are not included in formal sighting databases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/mongolia/comments/17nnmun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Mongolia UFO Stories</span><span class="citation-popover-snippet">Mongolia UFO StoriesNovember 4, 2023...</span><span class="citation-popover-meta">Published: November 4, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Be2KbXY5lTw" title="Why 3.5 Million People Are Crammed Into 0.3% of Mongolia ??" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Be2KbXY5lTw" target="_blank" rel="noopener noreferrer">Why 3.5 Million People Are Crammed Into 0.3% of Mongolia ??</a></p><p class="youtube-embed-meta">Channel: Geomany &middot; Views: 1.0K &middot; Uploaded: February 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Be2KbXY5lTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Be2KbXY5lTw">Open on YouTube</a></p></div></div></div>
 
@@ -295,7 +295,7 @@ Informal online discussions by residents of rural areas sometimes mention unusua
 
 In the context of Mongolia, **an absence of reports does not necessarily mean an absence of events**. The combination of low population, limited reporting pathways, and cultural priorities means that many sky events — atmospheric phenomena, rare astronomical displays, satellites, or aircraft — may go unwitnessed or unrecorded in formal archives.
 
-Researchers who consider global UFO/UAP distributions often note that databases like NUFORC or UAP Monitor reflect where people report sightings, not where phenomena occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span> This is especially true in countries with large uninhabited regions and limited civilian reporting infrastructure like Mongolia.
+Researchers who consider global UFO/UAP distributions often note that databases like NUFORC or UAP Monitor reflect where people report sightings, not where phenomena occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span> This is especially true in countries with large uninhabited regions and limited civilian reporting infrastructure like Mongolia.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/srv6Eu5tATU" title="EXTREME MONGOLIA: The Most Remote Places on Earth | 4K Travel Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=srv6Eu5tATU" target="_blank" rel="noopener noreferrer">EXTREME MONGOLIA: The Most Remote Places on Earth | 4K Travel Documentary</a></p><p class="youtube-embed-meta">Channel: Trip For You &middot; Views: 312 &middot; Uploaded: March 2026 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=srv6Eu5tATU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=srv6Eu5tATU">Open on YouTube</a></p></div></div></div>
 
@@ -311,199 +311,199 @@ Within Mongolia’s human geography, potential reporting “clusters” align wi
 
 </div>
 
-In summary, Mongolia’s publicly visible UFO/UAP report record clusters around population centres, most notably the capital, because that is where observers and reporting channels are most active. Elsewhere, the silence in official databases reflects the nation’s demographic and logistical realities more than a lack of aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/5c54a24c9d2e4cd486334e70/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">and growing GORKHI-TERELJ, ULAANBAATAR (MONGOLIA) Sighted on Monday 25</span><span class="citation-popover-snippet">UFO Sighting in Gorkhi-Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018 - UFO HuntersDecember 24, 2018 — UFO Sighting in Gorkhi-Tere...</span><span class="citation-popover-meta">Published: December 24, 2018</span></span></span>
+In summary, Mongolia’s publicly visible UFO/UAP report record clusters around population centres, most notably the capital, because that is where observers and reporting channels are most active. Elsewhere, the silence in official databases reflects the nation’s demographic and logistical realities more than a lack of aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/5c54a24c9d2e4cd486334e70/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">and growing GORKHI-TERELJ, ULAANBAATAR (MONGOLIA) Sighted on Monday 25</span><span class="citation-popover-snippet">UFO Sighting in Gorkhi-Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018 - UFO HuntersDecember 24, 2018 — UFO Sighting in Gorkhi-Tere...</span><span class="citation-popover-meta">Published: December 24, 2018</span></span></span>
 
 <img src="{{ "/assets/images/Mongolia_f54da3_regional_reporting_p_7595c3-Illustration-3-dark.svg" | relative_url }}" alt="Where Reports Appear illustration 3" data-theme-src-dark="{{ "/assets/images/Mongolia_f54da3_regional_reporting_p_7595c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mongolia_f54da3_regional_reporting_p_7595c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Mongolia UFO Reports Cluster in Cities?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Mongolia UFO Reports Cluster in Cities?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines patterns in witness reporting and sighting distribution.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines patterns in witness reporting and sighting distribution.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides broad context for regional reporting differences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad context for regional reporting differences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how reporting systems affect public UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how reporting systems affect public UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for comparing cultural and geographic reporting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing cultural and geographic reporting patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mongolia-ufo-reports-cluster-in-cities-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -519,7 +519,7 @@ In summary, Mongolia’s publicly visible UFO/UAP report record clusters around 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -539,7 +539,7 @@ In summary, Mongolia’s publicly visible UFO/UAP report record clusters around 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -571,7 +571,7 @@ In summary, Mongolia’s publicly visible UFO/UAP report record clusters around 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -623,7 +623,7 @@ In summary, Mongolia’s publicly visible UFO/UAP report record clusters around 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -668,7 +668,7 @@ In summary, Mongolia’s publicly visible UFO/UAP report record clusters around 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -706,143 +706,142 @@ In summary, Mongolia’s publicly visible UFO/UAP report record clusters around 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufo-hunters.com  
    Title: UFO Hunters UFO Sightings map in Mongolia  
-   Link: <a href="https://www.ufo-hunters.com/sightings/country/MNG/Mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/MNG/Mongolia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Mongolia - UFO Hunters...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/country/MNG/Mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/MNG/Mongolia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Mongolia - UFO Hunters...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mongolianatlas.ac.mn  
    Title: Population and society – National Digital Atlas of Mongolia  
-   Link: <a href="https://www.mongolianatlas.ac.mn/en/atlas/population/population-data" target="_blank" rel="noopener noreferrer nofollow">https://www.mongolianatlas.ac.mn/en/atlas/population/population-data</a>  
+   Link:<a href="https://www.mongolianatlas.ac.mn/en/atlas/population/population-data" target="_blank" rel="noopener noreferrer nofollow">https://www.mongolianatlas.ac.mn/en/atlas/population/population-data</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Ulaanbaatar (Outer Mongolia) on Friday 30 September 2005  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/51439b8c0ad2e1e9be452f21/UFO%20Sighting%20in%20Ulaanbaatar%20%28Outer%20Mongolia%29%20on%20Friday%2030%20September%202005" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/51439b8c0ad2e1e9be452f21/UFO%20Sighting%20in%20Ulaanbaatar%20%28Outer%20Mongolia%29%20on%20Friday%2030%20September%202005</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Ulaanbaatar (Outer Mongolia) on Friday 30 September 2005 - UFO HuntersOctober 1, 2005...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/51439b8c0ad2e1e9be452f21/UFO%20Sighting%20in%20Ulaanbaatar%20%28Outer%20Mongolia%29%20on%20Friday%2030%20September%202005" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/51439b8c0ad2e1e9be452f21/UFO%20Sighting%20in%20Ulaanbaatar%20%28Outer%20Mongolia%29%20on%20Friday%2030%20September%202005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Ulaanbaatar (Outer Mongolia) on Friday 30 September 2005 - UFO HuntersOctober 1, 2005...</p></details>
    Published: September 2005  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Thursday 31 May 2012  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/5192aaab83c78d384ec2577c/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Thursday%2031%20May%202012" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5192aaab83c78d384ec2577c/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Thursday%2031%20May%202012</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Thursday 31 May 2012 - UFO HuntersAugust 17, 2012...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/5192aaab83c78d384ec2577c/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Thursday%2031%20May%202012" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5192aaab83c78d384ec2577c/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Thursday%2031%20May%202012</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Thursday 31 May 2012 - UFO HuntersAugust 17, 2012...</p></details>
    Published: May 2012  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Ulaanbaatar (Mongolia) on Sunday 28 May 2017  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/598b065c6157470007000001/UFO%20Sighting%20in%20Ulaanbaatar%20%28Mongolia%29%20on%20Sunday%2028%20May%202017" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/598b065c6157470007000001/UFO%20Sighting%20in%20Ulaanbaatar%20%28Mongolia%29%20on%20Sunday%2028%20May%202017</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Ulaanbaatar (Mongolia) on Sunday 28 May 2017 - UFO HuntersAugust 9, 2017...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/598b065c6157470007000001/UFO%20Sighting%20in%20Ulaanbaatar%20%28Mongolia%29%20on%20Sunday%2028%20May%202017" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/598b065c6157470007000001/UFO%20Sighting%20in%20Ulaanbaatar%20%28Mongolia%29%20on%20Sunday%2028%20May%202017</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Ulaanbaatar (Mongolia) on Sunday 28 May 2017 - UFO HuntersAugust 9, 2017...</p></details>
    Published: May 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Gorkhi Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/5e92f2f098d717765610acc3/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5e92f2f098d717765610acc3/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Gorkhi-Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018 - UFO Hunters...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/5e92f2f098d717765610acc3/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5e92f2f098d717765610acc3/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Gorkhi-Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018 - UFO Hunters...</p></details>
    Published: June 2018  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Ulgii (Mongolia) on Tuesday 15 December 2015  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/56704fea07db29000c000009/UFO%20Sighting%20in%20Ulgii%20%28Mongolia%29%20on%20Tuesday%2015%20December%202015" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/56704fea07db29000c000009/UFO%20Sighting%20in%20Ulgii%20%28Mongolia%29%20on%20Tuesday%2015%20December%202015</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Ulgii (Mongolia) on Tuesday 15 December 2015 - UFO HuntersDecember 15, 2015...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/56704fea07db29000c000009/UFO%20Sighting%20in%20Ulgii%20%28Mongolia%29%20on%20Tuesday%2015%20December%202015" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/56704fea07db29000c000009/UFO%20Sighting%20in%20Ulgii%20%28Mongolia%29%20on%20Tuesday%2015%20December%202015</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Ulgii (Mongolia) on Tuesday 15 December 2015 - UFO HuntersDecember 15, 2015...</p></details>
    Published: December 2015  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: Mongolia UFO Stories  
-   Link: <a href="https://www.reddit.com/r/mongolia/comments/17nnmun" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mongolia/comments/17nnmun</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mongolia UFO StoriesNovember 4, 2023...</p></details>
+   Link:<a href="https://www.reddit.com/r/mongolia/comments/17nnmun" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mongolia/comments/17nnmun</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mongolia UFO StoriesNovember 4, 2023...</p></details>
    Published: November 4, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufo-hunters.com  
    Title: and growing GORKHI-TERELJ, ULAANBAATAR (MONGOLIA) Sighted on Monday 25  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/5c54a24c9d2e4cd486334e70/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5c54a24c9d2e4cd486334e70/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting in Gorkhi-Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018 - UFO HuntersDecember 24, 2018 — UFO Sighting in Gorkhi-Tere...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/5c54a24c9d2e4cd486334e70/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5c54a24c9d2e4cd486334e70/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting in Gorkhi-Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018 - UFO HuntersDecember 24, 2018 — UFO Sighting in Gorkhi-Tere...</p></details>
    Published: December 24, 2018  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Friday 19 February 2010  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/5194009d83c78d384ec29fa6/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Friday%2019%20February%202010" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5194009d83c78d384ec29fa6/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Friday%2019%20February%202010</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersFebruary 23, 2010 — UFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Friday 19 February 2010 - UFO Hunters - ULAANBAATAR...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/5194009d83c78d384ec29fa6/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Friday%2019%20February%202010" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5194009d83c78d384ec29fa6/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Friday%2019%20February%202010</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersFebruary 23, 2010 — UFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Friday 19 February 2010 - UFO Hunters - ULAANBAATAR...</p></details>
    Published: February 2010  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: citypopulation.de  
-   Link: <a href="https://www.citypopulation.de/en/mongolia/" target="_blank" rel="noopener noreferrer nofollow">https://www.citypopulation.de/en/mongolia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Provinces, Districts, Cities, Urban Settlements - Population Statistics in Maps and ChartsMONGOLIA * Provinces &amp; Cities The provinces (ai...</p></details>
+   Link:<a href="https://www.citypopulation.de/en/mongolia/" target="_blank" rel="noopener noreferrer nofollow">https://www.citypopulation.de/en/mongolia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Provinces, Districts, Cities, Urban Settlements - Population Statistics in Maps and ChartsMONGOLIA * Provinces &amp; Cities The provinces (ai...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oxben.com.tr  
-   Link: <a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
+   Link:<a href="https://oxben.com.tr/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://oxben.com.tr/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oXben UFO – Global UFO &amp; Alien Sightings Trackero X ben UFO [Button: ⓘ Legend] TRACKER Events: 54 Countries: 21 Recent: 14 Decades: 11 [I...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: places-in-the-world.com  
    Title: Regions in Mongolia | Find information on all Regions in Mongolia  
-   Link: <a href="https://places-in-the-world.com/mongolia/regions" target="_blank" rel="noopener noreferrer nofollow">https://places-in-the-world.com/mongolia/regions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IN MONGOLIA 22 PRIMARY ADMINISTRATIVE REGIONS IN MONGOLIA | REGION | POPULATION | CAPITAL | POPULATION --- | --- | --- | --- | --- 1 | Ar...</p></details>
+   Link:<a href="https://places-in-the-world.com/mongolia/regions" target="_blank" rel="noopener noreferrer nofollow">https://places-in-the-world.com/mongolia/regions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IN MONGOLIA 22 PRIMARY ADMINISTRATIVE REGIONS IN MONGOLIA | REGION | POPULATION | CAPITAL | POPULATION --- | --- | --- | --- | --- 1 | Ar...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: montsame.mn  
-   Link: <a href="https://montsame.mn/en/read/257058" target="_blank" rel="noopener noreferrer nofollow">https://montsame.mn/en/read/257058</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mongolia released the results of its first nationwide snow leopard survey, showing that there are 9...</p></details>
+   Link:<a href="https://montsame.mn/en/read/257058" target="_blank" rel="noopener noreferrer nofollow">https://montsame.mn/en/read/257058</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mongolia released the results of its first nationwide snow leopard survey, showing that there are 9...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discovermongolia.mn  
-   Link: <a href="https://www.discovermongolia.mn/kr/about-mongolia/people-society/administrative-territorial-units-Mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermongolia.mn/kr/about-mongolia/people-society/administrative-territorial-units-Mongolia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Administrative unitsImage: hero ABOUT MONGOLIA MONGOLIA IS TRULY ONE OF THE WORLD&#x27;S LAST UNDISCOVERED TRAVEL DESTINATIONS AND THE SAFEST...</p></details>
+   Link:<a href="https://www.discovermongolia.mn/kr/about-mongolia/people-society/administrative-territorial-units-Mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermongolia.mn/kr/about-mongolia/people-society/administrative-territorial-units-Mongolia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Administrative unitsImage: hero ABOUT MONGOLIA MONGOLIA IS TRULY ONE OF THE WORLD&#x27;S LAST UNDISCOVERED TRAVEL DESTINATIONS AND THE SAFEST...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mof.montsame.mn  
-   Link: <a href="https://www.mof.montsame.mn/en/read/373538" target="_blank" rel="noopener noreferrer nofollow">https://www.mof.montsame.mn/en/read/373538</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports Rising Risk of Floods and Wildfires Across MongoliaJuly 4, 2025 — * * * * #### NEMA Reports Rising Risk of Floods and Wildfires A...</p></details>
+   Link:<a href="https://www.mof.montsame.mn/en/read/373538" target="_blank" rel="noopener noreferrer nofollow">https://www.mof.montsame.mn/en/read/373538</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports Rising Risk of Floods and Wildfires Across MongoliaJuly 4, 2025 — * * * * #### NEMA Reports Rising Risk of Floods and Wildfires A...</p></details>
    Published: July 4, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: infobae.com  
    Title: TAMBIÉN SE PODRÍA TRATAR DE BASURA ESPACIAL, QUE CADA VEZ  
-   Link: <a href="https://www.infobae.com/2010/02/25/502581-caen-dos-objetos-extranos-mongolia/" target="_blank" rel="noopener noreferrer nofollow">https://www.infobae.com/2010/02/25/502581-caen-dos-objetos-extranos-mongolia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caen dos objetos extraños en Mongolia - InfobaeFebruary 25, 2010 — CAEN DOS OBJETOS EXTRAÑOS EN MONGOLIA ESTIMAN QUE SE TRATEN DE RESTOS...</p></details>
+   Link:<a href="https://www.infobae.com/2010/02/25/502581-caen-dos-objetos-extranos-mongolia/" target="_blank" rel="noopener noreferrer nofollow">https://www.infobae.com/2010/02/25/502581-caen-dos-objetos-extranos-mongolia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caen dos objetos extraños en Mongolia - InfobaeFebruary 25, 2010 — CAEN DOS OBJETOS EXTRAÑOS EN MONGOLIA ESTIMAN QUE SE TRATEN DE RESTOS...</p></details>
    Published: February 25, 2010  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: universetoday.com  
    Title: Report: Two Objects Crash to Ground in Mongolia  
-   Link: <a href="https://www.universetoday.com/articles/report-two-objects-crash-to-ground-in-mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/report-two-objects-crash-to-ground-in-mongolia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayFebruary 24, 2010 — REPORT: TWO OBJECTS CRASH TO GROUND IN MONGOLIA By Nancy Atkinson - February 24, 2010 12:51 PM UTC | Pl...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/report-two-objects-crash-to-ground-in-mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/report-two-objects-crash-to-ground-in-mongolia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodayFebruary 24, 2010 — REPORT: TWO OBJECTS CRASH TO GROUND IN MONGOLIA By Nancy Atkinson - February 24, 2010 12:51 PM UTC | Pl...</p></details>
    Published: February 24, 2010  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: legendtour.mn  
    Title: Dundgov aimag (Middle Gobi Region) of Mongolia  
-   Link: <a href="https://legendtour.mn/eng/mongolia/regions/dundgov-aimag.shtml" target="_blank" rel="noopener noreferrer nofollow">https://legendtour.mn/eng/mongolia/regions/dundgov-aimag.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sights of interest.DUNDGOV (MIDDLE GOBI). MANDALGOBI. MIDDLE KHALHASAIN PLAIN. ABOUT MONGOLIA THE REGIONS OF MONGOLIA DUNDGOVI AIMAG Imag...</p></details>
+   Link:<a href="https://legendtour.mn/eng/mongolia/regions/dundgov-aimag.shtml" target="_blank" rel="noopener noreferrer nofollow">https://legendtour.mn/eng/mongolia/regions/dundgov-aimag.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sights of interest.DUNDGOV (MIDDLE GOBI). MANDALGOBI. MIDDLE KHALHASAIN PLAIN. ABOUT MONGOLIA THE REGIONS OF MONGOLIA DUNDGOVI AIMAG Imag...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: discovermongolia.mn  
-   Link: <a href="https://www.discovermongolia.mn/about-mongolia/people-society/administrative-territorial-units-Mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermongolia.mn/about-mongolia/people-society/administrative-territorial-units-Mongolia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practical Information Destinations Things to do Culture, Art &amp; History...</p></details>
+   Link:<a href="https://www.discovermongolia.mn/about-mongolia/people-society/administrative-territorial-units-Mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermongolia.mn/about-mongolia/people-society/administrative-territorial-units-Mongolia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practical Information Destinations Things to do Culture, Art &amp; History...</p></details>

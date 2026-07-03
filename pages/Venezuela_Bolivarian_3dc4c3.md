@@ -1194,37 +1194,37 @@ image: /assets/images/Venezuela_Bolivarian_3dc4c3-overview-social.jpg
 
 ## Why Venezuela’s UFO file is unusually uneven
 
-Venezuela does not have a widely accessible, central official UFO archive comparable to the United States’ declassified Project Blue Book records or the public-facing case portals now maintained by the All-domain Anomaly Resolution Office. The U.S. National Archives states that Project Blue Book was declassified, closed in 1969, and contains no information on later sightings; AARO, meanwhile, publishes UAP records, imagery, reporting trends and case-resolution material, but these are U.S.-centred systems rather than Venezuelan national archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Venezuela does not have a widely accessible, central official UFO archive comparable to the United States’ declassified Project Blue Book records or the public-facing case portals now maintained by the All-domain Anomaly Resolution Office. The U.S. National Archives states that Project Blue Book was declassified, closed in 1969, and contains no information on later sightings; AARO, meanwhile, publishes UAP records, imagery, reporting trends and case-resolution material, but these are U.S.-centred systems rather than Venezuelan national archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3-overview.webp" | relative_url }}" alt="Overview image for Venezuela Bolivarian Republic of" loading="eager" decoding="sync" fetchpriority="high">
-That absence does not mean Venezuela lacks sources. It means the evidence is scattered. A 1969 Library of Congress bibliography prepared by Lynn E. Catoe listed Horacio Gonzales Ganteaume’s 1961 book, *Platillos voladores sobre Venezuela*, as an account of Venezuelan UFO sightings from 1959 based on published and unpublished official reports. That entry is important because it shows that Venezuelan-focused UFO documentation existed early, but it is not the same as a searchable, standardised state archive with case files, photographs, radar data and witness interviews available for independent review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">UFOsRelatedSubjBiblio Catoe 1969</span><span class="citation-popover-snippet">UFOsRelatedSubjBiblio Catoe 1969</span></span></span>
+That absence does not mean Venezuela lacks sources. It means the evidence is scattered. A 1969 Library of Congress bibliography prepared by Lynn E. Catoe listed Horacio Gonzales Ganteaume’s 1961 book, *Platillos voladores sobre Venezuela*, as an account of Venezuelan UFO sightings from 1959 based on published and unpublished official reports. That entry is important because it shows that Venezuelan-focused UFO documentation existed early, but it is not the same as a searchable, standardised state archive with case files, photographs, radar data and witness interviews available for independent review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">UFOsRelatedSubjBiblio Catoe 1969</span><span class="citation-popover-snippet">UFOsRelatedSubjBiblio Catoe 1969</span></span></span>
 
 For readers, this changes the burden of interpretation. Venezuelan UFO cases should be separated into three baskets: reports with named witnesses and aviation context; contested stories preserved mainly through newspapers, ufology books and catalogues; and cases where a prosaic explanation or admitted hoax is already known.
 
 ## The mid-century aviation cluster is the strongest documentary thread
 
-The most useful backbone for a Venezuelan chronology comes from pilot and airliner reports. Dominique Weinstein’s NARCAP catalogue, *Eighty Years of Pilot Sightings*, is not an official Venezuelan government record, but it is a structured aviation-focused compilation of more than 1,300 pilot and crew reports worldwide. Its introduction argues that [pilot reports]({{ 'pilot-reports-9654fc/' | relative_url }}) are valuable because pilots are trained observers, accustomed to unusual weather, and sometimes have corroboration from radar, other aircraft, ground observers or aircraft effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span>
+The most useful backbone for a Venezuelan chronology comes from pilot and airliner reports. Dominique Weinstein’s NARCAP catalogue, *Eighty Years of Pilot Sightings*, is not an official Venezuelan government record, but it is a structured aviation-focused compilation of more than 1,300 pilot and crew reports worldwide. Its introduction argues that [pilot reports]({{ 'pilot-reports-9654fc/' | relative_url }}) are valuable because pilots are trained observers, accustomed to unusual weather, and sometimes have corroboration from radar, other aircraft, ground observers or aircraft effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span>
 
-The Venezuelan entries begin before the famous 1954 wave. On 28 March 1950, the catalogue lists a Venezuelan Airlines DC-3 north-west of Caracas, where the pilot and co-pilot reportedly saw a large “turtle-shaped” object at about 7,000 feet. This is a compact report, but it has two features that matter: it is aviation-based, and it places early Venezuelan UFO reporting in the capital-region air corridor rather than in later folklore about landed craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span>
+The Venezuelan entries begin before the famous 1954 wave. On 28 March 1950, the catalogue lists a Venezuelan Airlines DC-3 north-west of Caracas, where the pilot and co-pilot reportedly saw a large “turtle-shaped” object at about 7,000 feet. This is a compact report, but it has two features that matter: it is aviation-based, and it places early Venezuelan UFO reporting in the capital-region air corridor rather than in later folklore about landed craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span>
 
-The next major concentration appears in 1954 and early 1955. The NARCAP catalogue lists a February 1954 airliner report near Barquisimeto involving a rotating, top-shaped object with portholes and beams of light; a 30 November 1954 DC-3 report in the Pascua valley near Caracas; a 2 December 1954 private-plane report near Maracaibo in which a saucer-shaped object allegedly crossed the flight path; a 7 December LAV airliner report near Maracaibo; a 17 December LAV report near Puerto Píritu in Anzoátegui; a 22 December LAV airliner report near Maracaibo with crew and 27 passengers; and January-February 1955 reports near Punta San Juan and between Mérida and Maiquetía. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span>
+The next major concentration appears in 1954 and early 1955. The NARCAP catalogue lists a February 1954 airliner report near Barquisimeto involving a rotating, top-shaped object with portholes and beams of light; a 30 November 1954 DC-3 report in the Pascua valley near Caracas; a 2 December 1954 private-plane report near Maracaibo in which a saucer-shaped object allegedly crossed the flight path; a 7 December LAV airliner report near Maracaibo; a 17 December LAV report near Puerto Píritu in Anzoátegui; a 22 December LAV airliner report near Maracaibo with crew and 27 passengers; and January-February 1955 reports near Punta San Juan and between Mérida and Maiquetía.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span>
 
 The geography is revealing. Caracas and Maiquetía point towards the country’s central aviation corridor; Maracaibo and western Venezuela point towards the Lake Maracaibo basin; Puerto Píritu and Punta San Juan move the pattern towards the Caribbean-facing coast and eastern air routes. That spread does not prove a single phenomenon, but it does show that the best-documented Venezuelan UFO material is not only urban legend. It is entangled with post-war civil aviation, pilots, airliners, and recurring luminous-object reports.
 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3-Illustration-1-dark.svg" | relative_url }}" alt="Venezuela Bolivarian Republic of illustration 1" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Petare in 1954: the most famous story is also the hardest to verify
 
-The [Petare case]({{ 'petare-case/' | relative_url }}), usually dated to late November 1954, is Venezuela’s best-known close-encounter story. In the common version, Gustavo Gonzales and José Ponce were travelling by van in the Caracas suburb of Petare when they encountered a luminous sphere blocking the road and small, hairy humanoid beings. Later retellings include claims of a physical struggle, a beam of light, scratches or bruising, a police report, and local press coverage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">1954 11 29 venezuela petare</span><span class="citation-popover-snippet">1954 11 29 venezuela petare</span></span></span>
+The [Petare case]({{ 'petare-case/' | relative_url }}), usually dated to late November 1954, is Venezuela’s best-known close-encounter story. In the common version, Gustavo Gonzales and José Ponce were travelling by van in the Caracas suburb of Petare when they encountered a luminous sphere blocking the road and small, hairy humanoid beings. Later retellings include claims of a physical struggle, a beam of light, scratches or bruising, a police report, and local press coverage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">1954 11 29 venezuela petare</span><span class="citation-popover-snippet">1954 11 29 venezuela petare</span></span></span>
 
-The reason the case remains memorable is not just its content, but its texture. The account has named witnesses, a specific suburb, an early-morning setting, an alleged visit to a traffic or police office, and a description of the witnesses being checked for alcohol or mental disturbance. URECAT’s collected summary preserves several layers of the story, including references to police or press-office statements, *El Universal*, later ufology writers and a later *El Nacional* retrospective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">1954 11 29 venezuela petare</span><span class="citation-popover-snippet">1954 11 29 venezuela petare</span></span></span>
+The reason the case remains memorable is not just its content, but its texture. The account has named witnesses, a specific suburb, an early-morning setting, an alleged visit to a traffic or police office, and a description of the witnesses being checked for alcohol or mental disturbance. URECAT’s collected summary preserves several layers of the story, including references to police or press-office statements, *El Universal*, later ufology writers and a later *El Nacional* retrospective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">1954 11 29 venezuela petare</span><span class="citation-popover-snippet">1954 11 29 venezuela petare</span></span></span>
 
 Its weakness is also clear. Much of what circulates today is not a fresh primary file but a chain of retellings: press accounts, APRO-linked material, book summaries, later catalogues and folklore adaptations. The details vary across versions: dates shift between 28 and 29 November; the object’s size and height vary; the number and behaviour of the beings differ; and later retellings often amplify the most dramatic elements. The sensible classification is therefore “contested”, not “debunked” and not “confirmed”. It is historically important to Venezuelan ufology, but its evidential value depends on whether original police, medical and newspaper records can be examined directly.
 
 ## Maracaibo changes how luminous reports should be read
 
-The Lake Maracaibo region matters because it is not an ordinary sky environment. NASA reported in 2016 that Lake Maracaibo had become Earth’s top lightning hotspot in a study using 16 years of observations from the Lightning Imaging Sensor, averaging about 233 flashes per square kilometre per year. NASA also notes that the area’s geography and climate are unusually favourable to nocturnal thunderstorms: mountain breezes converge over warm, moist air above the lake, producing persistent deep convection and an average of 297 nocturnal thunderstorms per year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Earth&#x27;s New Lightning Capital Revealed</span><span class="citation-popover-snippet">Earth&#x27;s New Lightning Capital Revealed</span></span></span>
+The Lake Maracaibo region matters because it is not an ordinary sky environment. NASA reported in 2016 that Lake Maracaibo had become Earth’s top lightning hotspot in a study using 16 years of observations from the Lightning Imaging Sensor, averaging about 233 flashes per square kilometre per year. NASA also notes that the area’s geography and climate are unusually favourable to nocturnal thunderstorms: mountain breezes converge over warm, moist air above the lake, producing persistent deep convection and an average of 297 nocturnal thunderstorms per year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Earth&#x27;s New Lightning Capital Revealed</span><span class="citation-popover-snippet">Earth&#x27;s New Lightning Capital Revealed</span></span></span>
 
-NASA Earthdata describes the phenomenon in unusually vivid terms: shortly after dusk, lightning can strike Lake Maracaibo around twenty-eight times a minute for up to nine hours, and the flashes can be continuous enough to illuminate the surroundings. It also notes that the region’s fishing communities face real lightning danger, not just picturesque night skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">Earthdata The Maracaibo Beacon &#124; NASA Earthdata</span><span class="citation-popover-snippet">Earthdata The Maracaibo Beacon &#124; NASA Earthdata</span></span></span>
+NASA Earthdata describes the phenomenon in unusually vivid terms: shortly after dusk, lightning can strike Lake Maracaibo around twenty-eight times a minute for up to nine hours, and the flashes can be continuous enough to illuminate the surroundings. It also notes that the region’s fishing communities face real lightning danger, not just picturesque night skies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">Earthdata The Maracaibo Beacon &#124; NASA Earthdata</span><span class="citation-popover-snippet">Earthdata The Maracaibo Beacon &#124; NASA Earthdata</span></span></span>
 
 This matters for UFO assessment because several Venezuelan reports cluster around Maracaibo or western air routes. Extreme lightning does not explain every pilot report, especially those describing structured objects, apparent flight-path crossings or formations. But it does raise the probability that some “dazzling lights”, “orange beams”, “bright objects” and sudden luminous events in the north-west could involve thunderstorms, electrical effects, glare, distance misjudgement or unusual cloud illumination. In Venezuela, serious UFO analysis has to treat meteorology as central evidence, not as an afterthought.
 
@@ -1232,31 +1232,31 @@ This matters for UFO assessment because several Venezuelan reports cluster aroun
 
 ## The 1886 Maracaibo incident belongs in the natural-phenomena basket
 
-One older case often pulled into Venezuelan UFO lists is the 1886 “curious phenomenon” near Maracaibo, described in *Scientific American* through a letter from Warner Cowgill of the U.S. Consulate. The report describes a rainy, tempestuous night, a family of nine in a hut, a loud humming noise, intense light, vomiting, swelling, later skin injury and withered trees. Later paranormal sources have sometimes rebranded the episode as a pre-modern UAP encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsforums.com/threads/a-curious-phenomenon-in-venezuela-scientific-american-dec-18th-1886.492074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsforums.com">[Physics Forums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsforums.com</span><span class="citation-popover-title">Physics Forums A curious phenomenon in Venezuela</span><span class="citation-popover-snippet">Physics Forums A curious phenomenon in Venezuela</span></span></span>
+One older case often pulled into Venezuelan UFO lists is the 1886 “curious phenomenon” near Maracaibo, described in *Scientific American* through a letter from Warner Cowgill of the U.S. Consulate. The report describes a rainy, tempestuous night, a family of nine in a hut, a loud humming noise, intense light, vomiting, swelling, later skin injury and withered trees. Later paranormal sources have sometimes rebranded the episode as a pre-modern UAP encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.physicsforums.com/threads/a-curious-phenomenon-in-venezuela-scientific-american-dec-18th-1886.492074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physicsforums.com">[Physics Forums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physicsforums.com</span><span class="citation-popover-title">Physics Forums A curious phenomenon in Venezuela</span><span class="citation-popover-snippet">Physics Forums A curious phenomenon in Venezuela</span></span></span>
 
-That is an overreach. The original framing itself reportedly presented the event as a meteorological or electrical oddity, and the location sits near one of the world’s most extraordinary lightning regions. The symptoms and environmental effects are strange, and the old account is worth preserving, but it should not be treated as evidence of a craft or occupants. The most careful classification is “historical anomalous electrical event, possibly related to lightning or ball-lightning-like phenomena”, with the caveat that nineteenth-century reporting lacks the measurements needed for a firm modern diagnosis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science-frontiers.com/sf132/sf132p11.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science-frontiers.com">[science-frontiers.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science-frontiers.com</span><span class="citation-popover-title">Curious Phenomena in Venezuala</span><span class="citation-popover-snippet">Curious Phenomena in Venezuala</span></span></span>
+That is an overreach. The original framing itself reportedly presented the event as a meteorological or electrical oddity, and the location sits near one of the world’s most extraordinary lightning regions. The symptoms and environmental effects are strange, and the old account is worth preserving, but it should not be treated as evidence of a craft or occupants. The most careful classification is “historical anomalous electrical event, possibly related to lightning or ball-lightning-like phenomena”, with the caveat that nineteenth-century reporting lacks the measurements needed for a firm modern diagnosis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science-frontiers.com/sf132/sf132p11.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science-frontiers.com">[science-frontiers.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science-frontiers.com</span><span class="citation-popover-title">Curious Phenomena in Venezuala</span><span class="citation-popover-snippet">Curious Phenomena in Venezuala</span></span></span>
 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3-Illustration-3-dark.svg" | relative_url }}" alt="Venezuela Bolivarian Republic of illustration 3" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested and debunked claims
 
 A useful Venezuelan UFO page should not treat every report as equally mysterious. The evidence quality varies sharply.
 
-**Confirmed as reports, not confirmed as exotic objects:** The mid-century aviation cases are confirmed in the limited sense that they appear in a structured pilot-sighting catalogue with dates, locations, aircraft types and witnesses. That does not confirm the objects were extraordinary craft; it confirms that the reports entered the aviation-UFO record. The 1954-55 sequence around Barquisimeto, Caracas, Maracaibo, Puerto Píritu, Punta San Juan and Mérida-Maiquetía is the most important national cluster on that basis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span>
+**Confirmed as reports, not confirmed as exotic objects:** The mid-century aviation cases are confirmed in the limited sense that they appear in a structured pilot-sighting catalogue with dates, locations, aircraft types and witnesses. That does not confirm the objects were extraordinary craft; it confirms that the reports entered the aviation-UFO record. The 1954-55 sequence around Barquisimeto, Caracas, Maracaibo, Puerto Píritu, Punta San Juan and Mérida-Maiquetía is the most important national cluster on that basis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span>
 
-**Contested but culturally important:** Petare is Venezuela’s signature humanoid case. It is memorable, locally rooted and repeatedly cited, but its modern availability is mostly through secondary ufology compilations and retrospective press references. It should be presented as a famous claim, not as a verified encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">1954 11 29 venezuela petare</span><span class="citation-popover-snippet">1954 11 29 venezuela petare</span></span></span>
+**Contested but culturally important:** Petare is Venezuela’s signature humanoid case. It is memorable, locally rooted and repeatedly cited, but its modern availability is mostly through secondary ufology compilations and retrospective press references. It should be presented as a famous claim, not as a verified encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">1954 11 29 venezuela petare</span><span class="citation-popover-snippet">1954 11 29 venezuela petare</span></span></span>
 
-**Debunked or strongly weakened:** The reported 1963 photograph “over Venezuela”, allegedly taken by an Avensa or Avena Airlines pilot between Barcelona and Maiquetía, has been circulated as a classic UFO image, but a stock-image archive identifies it as an admitted hoax, with the “UFO” being a button. That places it outside the serious evidence pool except as a useful warning about recycled images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mauritius-images.com/en/asset/ME-PI-6259851_mauritius_images_image_number_11922413_ufo-over-venezuela-1963-photographed-by-avena-airlines-pilot-flying-between-barcelona-and-maiquetia-airport-admitted-hoax-the-ufo-is-a-button-for-more-details-see-ronald-story-encyclopedia-of-ufos-pp-34-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mauritius-images.com">[mauritius-images.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mauritius-images.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Debunked or strongly weakened:** The reported 1963 photograph “over Venezuela”, allegedly taken by an Avensa or Avena Airlines pilot between Barcelona and Maiquetía, has been circulated as a classic UFO image, but a stock-image archive identifies it as an admitted hoax, with the “UFO” being a button. That places it outside the serious evidence pool except as a useful warning about recycled images.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mauritius-images.com/en/asset/ME-PI-6259851_mauritius_images_image_number_11922413_ufo-over-venezuela-1963-photographed-by-avena-airlines-pilot-flying-between-barcelona-and-maiquetia-airport-admitted-hoax-the-ufo-is-a-button-for-more-details-see-ronald-story-encyclopedia-of-ufos-pp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mauritius-images.com">[mauritius-images.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mauritius-images.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Natural-explanation candidates:** Maracaibo-region luminous events need to be checked against Catatumbo lightning, thunderstorm conditions, aircraft lights, reflections and atmospheric effects before being treated as anomalous. NASA’s lightning data makes that especially important for western Venezuela. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">Earthdata The Maracaibo Beacon &#124; NASA Earthdata</span><span class="citation-popover-snippet">Earthdata The Maracaibo Beacon &#124; NASA Earthdata</span></span></span>
+**Natural-explanation candidates:** Maracaibo-region luminous events need to be checked against Catatumbo lightning, thunderstorm conditions, aircraft lights, reflections and atmospheric effects before being treated as anomalous. NASA’s lightning data makes that especially important for western Venezuela.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">Earthdata The Maracaibo Beacon &#124; NASA Earthdata</span><span class="citation-popover-snippet">Earthdata The Maracaibo Beacon &#124; NASA Earthdata</span></span></span>
 
 <img src="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3-Illustration-2-dark.svg" | relative_url }}" alt="Venezuela Bolivarian Republic of illustration 2" data-theme-src-dark="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_Bolivarian_3dc4c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What regional variation suggests
 
 Venezuela’s UFO reports do not distribute evenly in the available record. They seem to gather around three types of setting.
 
-The first is the capital and central air corridor: Caracas, Petare, Maiquetía and nearby valleys. This is where press visibility, population density, aviation activity and police or newspaper reporting were most likely to intersect. The 1950 DC-3 case north-west of Caracas, the 1954 Pascua valley report and the Petare story all sit in this central zone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span> The second is western Venezuela, especially Maracaibo. Here the interpretation changes because the region has both aviation reports and exceptional electrical weather. A report near Maracaibo may be significant, but it also demands stronger exclusion of lightning-related explanations than a similar report in a less electrically active region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span>
+The first is the capital and central air corridor: Caracas, Petare, Maiquetía and nearby valleys. This is where press visibility, population density, aviation activity and police or newspaper reporting were most likely to intersect. The 1950 DC-3 case north-west of Caracas, the 1954 Pascua valley report and the Petare story all sit in this central zone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span> The second is western Venezuela, especially Maracaibo. Here the interpretation changes because the region has both aviation reports and exceptional electrical weather. A report near Maracaibo may be significant, but it also demands stronger exclusion of lightning-related explanations than a similar report in a less electrically active region.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span>
 
-The third is the Caribbean and eastern coastal aviation space, including Puerto Píritu and Punta San Juan. These reports are less famous than Petare or Maracaibo, but they matter because they show that Venezuelan UFO claims were not only inland or folklore-driven. They also involved commercial aircraft, passengers and coastwise routes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span>
+The third is the Caribbean and eastern coastal aviation space, including Puerto Píritu and Punta San Juan. These reports are less famous than Petare or Maracaibo, but they matter because they show that Venezuelan UFO claims were not only inland or folklore-driven. They also involved commercial aircraft, passengers and coastwise routes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4pUDIADUYFw" title="OVNIS EN VENEZUELA: ENTRE EL MITO Y LA EVIDENCIA | EP. 73.-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4pUDIADUYFw" target="_blank" rel="noopener noreferrer">OVNIS EN VENEZUELA: ENTRE EL MITO Y LA EVIDENCIA | EP. 73.-</a></p><p class="youtube-embed-meta">Channel: El podcast de Rocío &middot; Views: 17.3K &middot; Uploaded: October 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4pUDIADUYFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4pUDIADUYFw">Open on YouTube</a></p></div></div></div>
 
@@ -1270,199 +1270,199 @@ That makes Venezuela a useful comparison branch. It shows why national UFO histo
 
 ## Best current reading of the Venezuelan record
 
-The Venezuelan UFO record is real as a cultural and reporting history, but not strong as proof of extraterrestrial visitation. The strongest material supports a more modest finding: pilots, crews, passengers and civilians reported unusual aerial phenomena in Venezuela, especially in the 1950s; some reports were preserved in international catalogues and bibliographies; one humanoid case became a national ufology legend; and at least one famous photograph was later identified as a hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mauritius-images.com/en/asset/ME-PI-6259851_mauritius_images_image_number_11922413_ufo-over-venezuela-1963-photographed-by-avena-airlines-pilot-flying-between-barcelona-and-maiquetia-airport-admitted-hoax-the-ufo-is-a-button-for-more-details-see-ronald-story-encyclopedia-of-ufos-pp-34-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mauritius-images.com">[mauritius-images.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mauritius-images.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">UFOsRelatedSubjBiblio Catoe 1969</span><span class="citation-popover-snippet">UFOsRelatedSubjBiblio Catoe 1969</span></span></span>
+The Venezuelan UFO record is real as a cultural and reporting history, but not strong as proof of extraterrestrial visitation. The strongest material supports a more modest finding: pilots, crews, passengers and civilians reported unusual aerial phenomena in Venezuela, especially in the 1950s; some reports were preserved in international catalogues and bibliographies; one humanoid case became a national ufology legend; and at least one famous photograph was later identified as a hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mauritius-images.com/en/asset/ME-PI-6259851_mauritius_images_image_number_11922413_ufo-over-venezuela-1963-photographed-by-avena-airlines-pilot-flying-between-barcelona-and-maiquetia-airport-admitted-hoax-the-ufo-is-a-button-for-more-details-see-ronald-story-encyclopedia-of-ufos-pp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mauritius-images.com">[mauritius-images.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mauritius-images.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">UFOsRelatedSubjBiblio Catoe 1969</span><span class="citation-popover-snippet">UFOsRelatedSubjBiblio Catoe 1969</span></span></span>
 
 The unresolved cases remain interesting precisely because they are incomplete. A convincing future reassessment would need original Venezuelan newspaper pages, police records, medical notes, aviation logs, weather data and, where relevant, radar or air-traffic records. Without that, the fairest public-facing judgement is cautious: Venezuela has a notable UFO tradition with a genuine mid-century reporting cluster, but the evidence splits sharply between aviation reports worth preserving, folklore-like close-encounter claims, natural luminous phenomena, and demonstrable hoaxes.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Shapes Venezuela&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Shapes Venezuela&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to discussions of archives, investigations and unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to discussions of archives, investigations and unexplained cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating mixed-quality UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating mixed-quality UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong fit for aviation reports, official records and international cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for aviation reports, official records and international cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for historical international case coverage including Latin America.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for historical international case coverage including Latin America.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-venezuela-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-venezuela-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1478,7 +1478,7 @@ The unresolved cases remain interesting precisely because they are incomplete. A
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1498,7 +1498,7 @@ The unresolved cases remain interesting precisely because they are incomplete. A
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1530,7 +1530,7 @@ The unresolved cases remain interesting precisely because they are incomplete. A
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1582,7 +1582,7 @@ The unresolved cases remain interesting precisely because they are incomplete. A
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1627,7 +1627,7 @@ The unresolved cases remain interesting precisely because they are incomplete. A
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1668,155 +1668,155 @@ The unresolved cases remain interesting precisely because they are incomplete. A
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nasa.gov  
    Title: Earth's New Lightning Capital Revealed  
-   Link: <a href="https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/</a>  
+   Link:<a href="https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/missions/trmm/earths-new-lightning-capital-revealed/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: earthdata.nasa.gov  
    Title: Earthdata The Maracaibo Beacon | NASA Earthdata  
-   Link: <a href="https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon</a>  
+   Link:<a href="https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/news/feature-articles/maracaibo-beacon</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: static1.squarespace.com  
    Title: Unidentified Aerial Phenomena  
-   Link: <a href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf</a>  
+   Link:<a href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufologie.patrickgross.org  
    Title: 1954 11 29 venezuela petare  
-   Link: <a href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1954-11-29-venezuela-petare.htm</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science-frontiers.com  
    Title: Curious Phenomena in Venezuala  
-   Link: <a href="https://www.science-frontiers.com/sf132/sf132p11.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.science-frontiers.com/sf132/sf132p11.htm</a>  
+   Link:<a href="https://www.science-frontiers.com/sf132/sf132p11.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.science-frontiers.com/sf132/sf132p11.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mauritius-images.com  
-   Link: <a href="https://www.mauritius-images.com/en/asset/ME-PI-6259851_mauritius_images_image_number_11922413_ufo-over-venezuela-1963-photographed-by-avena-airlines-pilot-flying-between-barcelona-and-maiquetia-airport-admitted-hoax-the-ufo-is-a-button-for-more-details-see-ronald-story-encyclopedia-of-ufos-pp-34-5" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritius-images.com/en/asset/ME-PI-6259851_mauritius_images_image_number_11922413_ufo-over-venezuela-1963-photographed-by-avena-airlines-pilot-flying-between-barcelona-and-maiquetia-airport-admitted-hoax-the-ufo-is-a-button-for-more-details-see-ronald-story-encyclopedia-of-ufos-pp-34-5</a>  
+   Link:<a href="https://www.mauritius-images.com/en/asset/ME-PI-6259851_mauritius_images_image_number_11922413_ufo-over-venezuela-1963-photographed-by-avena-airlines-pilot-flying-between-barcelona-and-maiquetia-airport-admitted-hoax-the-ufo-is-a-button-for-more-details-see-ronald-story-encyclopedia-of-ufos-pp" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritius-images.com/en/asset/ME-PI-6259851_mauritius_images_image_number_11922413_ufo-over-venezuela-1963-photographed-by-avena-airlines-pilot-flying-between-barcelona-and-maiquetia-airport-admitted-hoax-the-ufo-is-a-button-for-more-details-see-ronald-story-encyclopedia-of-ufos-pp</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: governmentattic.org  
    Title: UFOsRelatedSubjBiblio Catoe 1969  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: physicsforums.com  
    Title: Physics Forums A curious phenomenon in Venezuela  
-   Link: <a href="https://www.physicsforums.com/threads/a-curious-phenomenon-in-venezuela-scientific-american-dec-18th-1886.492074/" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsforums.com/threads/a-curious-phenomenon-in-venezuela-scientific-american-dec-18th-1886.492074/</a>  
+   Link:<a href="https://www.physicsforums.com/threads/a-curious-phenomenon-in-venezuela-scientific-american-dec-18th-1886.492074/" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsforums.com/threads/a-curious-phenomenon-in-venezuela-scientific-american-dec-18th-1886.492074/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Catatumbo lightning  
-   Link: <a href="https://en.wikipedia.org/wiki/Catatumbo_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Catatumbo_lightning</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Catatumbo_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Catatumbo_lightning</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thinkaboutitdocs.com  
    Title: 1886 maracaibo incident  
-   Link: <a href="https://thinkaboutitdocs.com/1886-maracaibo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1886-maracaibo-incident/</a>  
+   Link:<a href="https://thinkaboutitdocs.com/1886-maracaibo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1886-maracaibo-incident/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yrmDQc-wakk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yrmDQc-wakk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNIS EN VENEZUELA: ENTRE EL MITO Y LA EVIDENCIA | EP. 73...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yrmDQc-wakk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yrmDQc-wakk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNIS EN VENEZUELA: ENTRE EL MITO Y LA EVIDENCIA | EP. 73...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: New UFO Files Reveal Risks To Commercial Flights | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GeMvmwEBcC0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GeMvmwEBcC0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: OVNIS EN VENEZUELA: ENTRE EL MITO Y LA EVIDENCIA | EP. 73  
-   Link: <a href="https://www.youtube.com/watch?v=4pUDIADUYFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4pUDIADUYFw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO Files Reveal Risks To Commercial Flights | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4pUDIADUYFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4pUDIADUYFw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New UFO Files Reveal Risks To Commercial Flights | WION Podcast...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0FqCRPpg57c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reality of UFOs UAP with Leslie Kean...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0FqCRPpg57c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Reality of UFOs UAP with Leslie Kean...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/yosoyelcapioficial/posts/ultimo-evo-acorralado-miami-ofrece-ciudadan%C3%ADa-y-el-pent%C3%A1gono-soltando-archivos-o/1573726864312507/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yosoyelcapioficial/posts/ultimo-evo-acorralado-miami-ofrece-ciudadan%C3%ADa-y-el-pent%C3%A1gono-soltando-archivos-o/1573726864312507/</a>  
+   Link:<a href="https://www.facebook.com/yosoyelcapioficial/posts/ultimo-evo-acorralado-miami-ofrece-ciudadan%C3%ADa-y-el-pent%C3%A1gono-soltando-archivos-o/1573726864312507/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yosoyelcapioficial/posts/ultimo-evo-acorralado-miami-ofrece-ciudadan%C3%ADa-y-el-pent%C3%A1gono-soltando-archivos-o/1573726864312507/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/586879391415561/posts/3600344996735637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/586879391415561/posts/3600344996735637/</a>  
+   Link:<a href="https://www.facebook.com/groups/586879391415561/posts/3600344996735637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/586879391415561/posts/3600344996735637/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>

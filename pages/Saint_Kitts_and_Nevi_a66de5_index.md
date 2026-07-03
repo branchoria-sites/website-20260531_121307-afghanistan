@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /saint-kitts-and-nevi-a66de5-index/
 description: Focused pages that expand on Saint Kitts and Nevis.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Saint_Kitts_and_Nevi_a66de5
 parent_title: Saint Kitts and Nevis
@@ -16,7 +16,7 @@ parent_permalink: /saint-kitts-and-nevis/
 
 # Explore Topics in Saint Kitts and Nevis
 
-The following pages expand on the main **[Saint Kitts and Nevis]({{ '/saint-kitts-and-nevis/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Saint Kitts and Nevis]({{ '/saint-kitts-and-nevis/' | relative_url }})** page and cover its key branches in.
 
 - [Basseterre Cases]({{ '/basseterre-cases/' | relative_url }})
 - [Sky Traps]({{ '/sky-traps/' | relative_url }})

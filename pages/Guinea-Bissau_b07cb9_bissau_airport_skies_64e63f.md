@@ -254,14 +254,14 @@ image: /assets/images/Guinea-Bissau_b07cb9_bissau_airport_skies_64e63f-Illustrat
 
 ## Introduction
 
-In *GuineaBissau* the stretch of night sky around **Osvaldo Vieira International Airport** (IATA: OXB; ICAO: GGOV) is the most plausible locus for people to report unidentified flying objects that later turn out to be ordinary aircraft or aviation lighting. The airport is the countrys sole international air facility serving the *Bissau metropolitan region*, with regular civil aviation activity in and out of its one paved runway. Skywatchers who lack access to flight data or basic aviation context sometimes interpret approaching or departing lights as mysterious if they arent recognised as standard aircraft indicators. This report examines why sightings tend to cluster near Bissaus airport, how aircraft lights and approach geometry create perceptual confusion, and what kinds of verification data would help distinguish routine air traffic from genuinely unexplained aerial reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Osvaldo Vieira International Airport</span><span class="citation-popover-snippet">Osvaldo Vieira International Airport</span></span></span>
+In *GuineaBissau* the stretch of night sky around **Osvaldo Vieira International Airport** (IATA: OXB; ICAO: GGOV) is the most plausible locus for people to report unidentified flying objects that later turn out to be ordinary aircraft or aviation lighting. The airport is the countrys sole international air facility serving the *Bissau metropolitan region*, with regular civil aviation activity in and out of its one paved runway. Skywatchers who lack access to flight data or basic aviation context sometimes interpret approaching or departing lights as mysterious if they arent recognised as standard aircraft indicators. This report examines why sightings tend to cluster near Bissaus airport, how aircraft lights and approach geometry create perceptual confusion, and what kinds of verification data would help distinguish routine air traffic from genuinely unexplained aerial reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Osvaldo Vieira International Airport</span><span class="citation-popover-snippet">Osvaldo Vieira International Airport</span></span></span>
 
 <img src="{{ "/assets/images/Guinea-Bissau_b07cb9_bissau_airport_skies_64e63f-Illustration-1-dark.svg" | relative_url }}" alt="Airport Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Guinea-Bissau_b07cb9_bissau_airport_skies_64e63f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea-Bissau_b07cb9_bissau_airport_skies_64e63f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Sightings Cluster Near Bissau
 
-Bissaus airport dominates the regions aerial landscape. It lies on the edge of the cityregion of Bissau and is the hub for the countrys limited but regular international and regional flights. Because civil aviation in GuineaBissau is concentrated at this single node, most aircraft people see at night in clear weather are arriving at or departing from it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Osvaldo Vieira International Airport</span><span class="citation-popover-snippet">Osvaldo Vieira International Airport</span></span></span>
+Bissaus airport dominates the regions aerial landscape. It lies on the edge of the cityregion of Bissau and is the hub for the countrys limited but regular international and regional flights. Because civil aviation in GuineaBissau is concentrated at this single node, most aircraft people see at night in clear weather are arriving at or departing from it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Osvaldo Vieira International Airport</span><span class="citation-popover-snippet">Osvaldo Vieira International Airport</span></span></span>
 
-Human patternseeking in the sky naturally focuses on bright, moving lights against a dark background. When such lights appear without context or radar/flighttracking information especially at twilight or after dark it is common for observers unfamiliar with aviation to describe them as unidentified initially. This effect is compounded in Bissaus metropolitan area because there are no other major airfields or hightraffic aviation corridors to normalise unfamiliar aerial lighting. Public UFO report aggregators offer *generic claims* of increasing GuineaBissau reports, but no case archive identifies specific sightings tied to airport approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Guinea Bissau UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">March 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
+Human patternseeking in the sky naturally focuses on bright, moving lights against a dark background. When such lights appear without context or radar/flighttracking information especially at twilight or after dark it is common for observers unfamiliar with aviation to describe them as unidentified initially. This effect is compounded in Bissaus metropolitan area because there are no other major airfields or hightraffic aviation corridors to normalise unfamiliar aerial lighting. Public UFO report aggregators offer *generic claims* of increasing GuineaBissau reports, but no case archive identifies specific sightings tied to airport approaches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Guinea Bissau UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">March 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T1XmTlvNjS8" title="Final Approach BOEING 767-300ER into Bissau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T1XmTlvNjS8" target="_blank" rel="noopener noreferrer">Final Approach BOEING 767-300ER into Bissau</a></p><p class="youtube-embed-meta">Channel: Just Planes &middot; Views: 16.5K &middot; Uploaded: August 2018 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T1XmTlvNjS8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T1XmTlvNjS8">Open on YouTube</a></p></div></div></div>
 
@@ -279,12 +279,12 @@ Modern aircraft are fitted with multiple lights primarily to aid visibility and 
 
 </div>
 
-These same lights that help pilots and air traffic control remain visible to ground observers can look unusual when observed without framing context. Aircraft making a final approach toward an observer may appear to slow, change bearing or hover a perceptual effect caused by lineofsight geometry rather than actual manoeuvres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+These same lights that help pilots and air traffic control remain visible to ground observers can look unusual when observed without framing context. Aircraft making a final approach toward an observer may appear to slow, change bearing or hover a perceptual effect caused by lineofsight geometry rather than actual manoeuvres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Guinea-Bissau_b07cb9_bissau_airport_skies_64e63f-Illustration-2-dark.svg" | relative_url }}" alt="Airport Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Guinea-Bissau_b07cb9_bissau_airport_skies_64e63f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea-Bissau_b07cb9_bissau_airport_skies_64e63f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Approach Geometry and Misperception
 
-When a plane descends on its final approach to a runway like 03/21 at Bissau, its lights point roughly towards onlookers on the ground. From a distance, the sequence of strobe flashes, steady solid lights, and brief alignment can seem to flicker or shift in ways that look unusual. Observers without range or altitude cues may interpret these as unexplained motion or hovering. In aviation psychology research, this is one of the most frequent sources of socalled UFO reports near airports worldwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+When a plane descends on its final approach to a runway like 03/21 at Bissau, its lights point roughly towards onlookers on the ground. From a distance, the sequence of strobe flashes, steady solid lights, and brief alignment can seem to flicker or shift in ways that look unusual. Observers without range or altitude cues may interpret these as unexplained motion or hovering. In aviation psychology research, this is one of the most frequent sources of socalled UFO reports near airports worldwide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">May 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 Visibility conditions around Bissau further accentuate this effect. On clear tropical nights, stable air and minimal cloud cover allow lights from aircraft hundreds of metres away to be sharply visible. If a flight path takes an aircraft toward or away from a viewer on the ground, the changing aspect can make steady lights appear to speed, slow, or change colour. Without flight data or timing, human perception can misattribute such observations to anomalous phenomena.
 
@@ -304,204 +304,204 @@ The difference between a *mistaken aircraft sighting* and a *genuinely unexplain
 
 Without at least two of these three elements, most aviationrelated sightings remain ambiguous but *plausibly explainable* as aircraft or conventional aerial phenomena rather than genuinely unknown objects.
 
-While there are claims compiled by enthusiast groups of numerous UFO reports from GuineaBissau, these lack detailed timestamps, positions, or data that would allow correlation with known flights. As a result, analysts treat such claims with caution, and the *airport vicinity remains the default explanation for many night sky reports in Bissau*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Unidentified Flying Objects: History and FolkloreImage: UFO Photo 14 Image: UFO Photo 127 The Extraterrestrial Hypothesis While technical...</span></span></span>
+While there are claims compiled by enthusiast groups of numerous UFO reports from GuineaBissau, these lack detailed timestamps, positions, or data that would allow correlation with known flights. As a result, analysts treat such claims with caution, and the *airport vicinity remains the default explanation for many night sky reports in Bissau*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Unidentified Flying Objects: History and FolkloreImage: UFO Photo 14 Image: UFO Photo 127 The Extraterrestrial Hypothesis While technical...</span></span></span>
 
 <img src="{{ "/assets/images/Guinea-Bissau_b07cb9_bissau_airport_skies_64e63f-Illustration-3-dark.svg" | relative_url }}" alt="Airport Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Guinea-Bissau_b07cb9_bissau_airport_skies_64e63f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea-Bissau_b07cb9_bissau_airport_skies_64e63f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
 
-Sightings of lights in the sky around Bissau frequently stem from standard aviation activity at **Osvaldo Vieira International Airport** and the way aircraft lights and approach trajectories are perceived by observers without access to flight data. The clustering of reports near the capitals airport reflects the concentration of flights and the distinctive visual cues produced by aircraft at night. Distinguishing these from genuinely unexplained phenomena requires independent verification such as flight tracks or radar data elements that are generally absent from existing GuineaBissau UFO claim databases. Because of this, most local UFO reports near the airport are consistent with misidentified aviation activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Osvaldo Vieira International Airport</span><span class="citation-popover-snippet">Osvaldo Vieira International Airport</span></span></span>
+Sightings of lights in the sky around Bissau frequently stem from standard aviation activity at **Osvaldo Vieira International Airport** and the way aircraft lights and approach trajectories are perceived by observers without access to flight data. The clustering of reports near the capitals airport reflects the concentration of flights and the distinctive visual cues produced by aircraft at night. Distinguishing these from genuinely unexplained phenomena requires independent verification such as flight tracks or radar data elements that are generally absent from existing GuineaBissau UFO claim databases. Because of this, most local UFO reports near the airport are consistent with misidentified aviation activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Osvaldo Vieira International Airport</span><span class="citation-popover-snippet">Osvaldo Vieira International Airport</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/avwmG6tC8zw" title="Osvaldo Vieira International Airport | Wikipedia audio article" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=avwmG6tC8zw" target="_blank" rel="noopener noreferrer">Osvaldo Vieira International Airport | Wikipedia audio article</a></p><p class="youtube-embed-meta">Channel: wikipedia tts &middot; Views: 600 &middot; Uploaded: December 2018 &middot; Length: 2 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=avwmG6tC8zw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=avwmG6tC8zw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Do Bissau Airport Lights Look Unexplained?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Do Bissau Airport Lights Look Unexplained?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines credible reporting standards and aviation-related UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines credible reporting standards and aviation-related UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating sightings and distinguishing unusual reports from ordinary aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating sightings and distinguishing unusual reports from ordinary aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Covers investigation methods and common explanations for sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers investigation methods and common explanations for sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores interpretation of unusual aerial reports and witness narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores interpretation of unusual aerial reports and witness narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-do-bissau-airport-lights-look-unexplained-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-do-bissau-airport-lights-look-unexplained-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -517,7 +517,7 @@ Sightings of lights in the sky around Bissau frequently stem from standard aviat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -537,7 +537,7 @@ Sightings of lights in the sky around Bissau frequently stem from standard aviat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -569,7 +569,7 @@ Sightings of lights in the sky around Bissau frequently stem from standard aviat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -621,7 +621,7 @@ Sightings of lights in the sky around Bissau frequently stem from standard aviat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -666,7 +666,7 @@ Sightings of lights in the sky around Bissau frequently stem from standard aviat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -704,102 +704,101 @@ Sightings of lights in the sky around Bissau frequently stem from standard aviat
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Osvaldo Vieira International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Guinea Bissau UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025...</p></details>
    Published: March 22, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects: History and FolkloreImage: UFO Photo 14 Image: UFO Photo 127 The Extraterrestrial Hypothesis While technical...</p></details>
+   Link:<a href="https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects: History and FolkloreImage: UFO Photo 14 Image: UFO Photo 127 The Extraterrestrial Hypothesis While technical...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Final Approach BOEING 767-300ER into Bissau  
-   Link: <a href="https://www.youtube.com/watch?v=T1XmTlvNjS8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T1XmTlvNjS8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Osvaldo Vieira International Airport | Wikipedia audio article...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T1XmTlvNjS8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T1XmTlvNjS8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Osvaldo Vieira International Airport | Wikipedia audio article...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Osvaldo Vieira International Airport | Wikipedia audio article  
-   Link: <a href="https://www.youtube.com/watch?v=avwmG6tC8zw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=avwmG6tC8zw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lights: Red and Green Airplane Light Meaning...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=avwmG6tC8zw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=avwmG6tC8zw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lights: Red and Green Airplane Light Meaning...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skyatnightmagazine.com  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026...</p></details>
    Published: May 11, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: airborn.co  
-   Link: <a href="https://www.airborn.co/Airports/Airport/GGOV" target="_blank" rel="noopener noreferrer nofollow">https://www.airborn.co/Airports/Airport/GGOV</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GGOV - Osvaldo Vieira International Airport Airport | Airborn.co - Airborn.coAirport Identifier GGOV Airport Name Osvaldo Vieira Internat...</p></details>
+   Link:<a href="https://www.airborn.co/Airports/Airport/GGOV" target="_blank" rel="noopener noreferrer nofollow">https://www.airborn.co/Airports/Airport/GGOV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GGOV - Osvaldo Vieira International Airport Airport | Airborn.co - Airborn.coAirport Identifier GGOV Airport Name Osvaldo Vieira Internat...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bigorre.org  
-   Link: <a href="https://www.bigorre.org/aero/notam/ggov/en" target="_blank" rel="noopener noreferrer nofollow">https://www.bigorre.org/aero/notam/ggov/en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SAU (GUINEA-BISSAU) NOTAM AND INFORMATIONS GGOV OXB A- A+ [Button: Bright][Button: Dark] [Button: C][Button: F] [Input: ggov] [Input][I...</p></details>
+   Link:<a href="https://www.bigorre.org/aero/notam/ggov/en" target="_blank" rel="noopener noreferrer nofollow">https://www.bigorre.org/aero/notam/ggov/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SAU (GUINEA-BISSAU) NOTAM AND INFORMATIONS GGOV OXB A- A+ [Button: Bright][Button: Dark] [Button: C][Button: F] [Input: ggov] [Input][I...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/gn" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gn</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Guinea | Enigma LabsShare UFO Sighting MOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join En...</p></details>
+   Link:<a href="https://enigmalabs.io/explore/gn" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Guinea | Enigma LabsShare UFO Sighting MOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join En...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/gw" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Guinea-Bissau | Enigma LabsMOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join Enigma Discord...</p></details>
+   Link:<a href="https://enigmalabs.io/explore/gw" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/gw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Guinea-Bissau | Enigma LabsMOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join Enigma Discord...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/index.php/airports/ggov" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/index.php/airports/ggov</a>  
+   Link:<a href="https://skybrary.aero/index.php/airports/ggov" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/index.php/airports/ggov</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: acukwik.com  
-   Link: <a href="https://acukwik.com/Airport-Info/GGOV" target="_blank" rel="noopener noreferrer nofollow">https://acukwik.com/Airport-Info/GGOV</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GGOV/Bissau-Bissalanca/Oswaldo Vieira International General Airport InformationGGOV - BISSAU-BISSALANCA/OSWALDO VIEIRA INTERNATIONAL LOCA...</p></details>
+   Link:<a href="https://acukwik.com/Airport-Info/GGOV" target="_blank" rel="noopener noreferrer nofollow">https://acukwik.com/Airport-Info/GGOV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GGOV/Bissau-Bissalanca/Oswaldo Vieira International General Airport InformationGGOV - BISSAU-BISSALANCA/OSWALDO VIEIRA INTERNATIONAL LOCA...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bigorre.org  
-   Link: <a href="https://www.bigorre.org/aero/meteo/gggb/en" target="_blank" rel="noopener noreferrer nofollow">https://www.bigorre.org/aero/meteo/gggb/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gabu airport (Guinea-Bissau) information GGGBGABU AIRPORT (GUINEA-BISSAU) INFORMATION GGGB Airport information, from map to hotels via ae...</p></details>
+   Link:<a href="https://www.bigorre.org/aero/meteo/gggb/en" target="_blank" rel="noopener noreferrer nofollow">https://www.bigorre.org/aero/meteo/gggb/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gabu airport (Guinea-Bissau) information GGGBGABU AIRPORT (GUINEA-BISSAU) INFORMATION GGGB Airport information, from map to hotels via ae...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cnbc.com  
    Title: UF O sightings by pilots are being investigated by Ireland's Aviation Authority  
-   Link: <a href="https://www.cnbc.com/2018/11/13/ufo-sightings-by-pilots-are-being-investigated-by-irelands-aviation-authority.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cnbc.com/2018/11/13/ufo-sightings-by-pilots-are-being-investigated-by-irelands-aviation-authority.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings by pilots are being investigated by Ireland&#x27;s Aviation AuthorityNovember 13, 2018 UFO SIGHTINGS BY PILOTS ARE BEING INVES...</p></details>
+   Link:<a href="https://www.cnbc.com/2018/11/13/ufo-sightings-by-pilots-are-being-investigated-by-irelands-aviation-authority.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cnbc.com/2018/11/13/ufo-sightings-by-pilots-are-being-investigated-by-irelands-aviation-authority.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings by pilots are being investigated by Ireland&#x27;s Aviation AuthorityNovember 13, 2018 UFO SIGHTINGS BY PILOTS ARE BEING INVES...</p></details>
    Published: November 13, 2018  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wildandweirdwv.com  
-   Link: <a href="https://www.wildandweirdwv.com/hmap" target="_blank" rel="noopener noreferrer nofollow">https://www.wildandweirdwv.com/hmap</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A FAST MOVING INTENSE SAUCER SHAPED LIGHT SILENTLY MOVING THROUGH THE CLOUDS. IF YOU LIVE NEAR AN AIRPORT OR...</p></details>
+   Link:<a href="https://www.wildandweirdwv.com/hmap" target="_blank" rel="noopener noreferrer nofollow">https://www.wildandweirdwv.com/hmap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A FAST MOVING INTENSE SAUCER SHAPED LIGHT SILENTLY MOVING THROUGH THE CLOUDS. IF YOU LIVE NEAR AN AIRPORT OR...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: maoc.eu  
    Title: aircraft seized upon arrival in guinea bissau with 2633 kg of cocaine  
-   Link: <a href="https://maoc.eu/aircraft-seized-upon-arrival-in-guinea-bissau-with-2633-kg-of-cocaine/" target="_blank" rel="noopener noreferrer nofollow">https://maoc.eu/aircraft-seized-upon-arrival-in-guinea-bissau-with-2633-kg-of-cocaine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Seized Upon Arrival in Guinea-Bissau with 2633 Kg of Cocaine MAOC (N)September 11, 2024 AIRCRAFT SEIZED UPON ARRIVAL IN GU...</p></details>
+   Link:<a href="https://maoc.eu/aircraft-seized-upon-arrival-in-guinea-bissau-with-2633-kg-of-cocaine/" target="_blank" rel="noopener noreferrer nofollow">https://maoc.eu/aircraft-seized-upon-arrival-in-guinea-bissau-with-2633-kg-of-cocaine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Seized Upon Arrival in Guinea-Bissau with 2633 Kg of Cocaine MAOC (N)September 11, 2024 AIRCRAFT SEIZED UPON ARRIVAL IN GU...</p></details>
    Published: September 11, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: voaportugues.com  
    Title: Avio de propriedade desconhecida impedido de deixar Bissau  
-   Link: <a href="https://www.voaportugues.com/a/avi%C3%A3o-de-propriedade-desconhecida-impedido-de-deixar-bissau/6304280.html" target="_blank" rel="noopener noreferrer nofollow">https://www.voaportugues.com/a/avi%C3%A3o-de-propriedade-desconhecida-impedido-de-deixar-bissau/6304280.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 8, 2021 AVIO DE PROPRIEDADE DESCONHECIDA IMPEDIDO DE DEIXAR BISSAU novembro 08, 2021 * Lassana Cassam * * * Image: Salo de...</p></details>
+   Link:<a href="https://www.voaportugues.com/a/avi%C3%A3o-de-propriedade-desconhecida-impedido-de-deixar-bissau/6304280.html" target="_blank" rel="noopener noreferrer nofollow">https://www.voaportugues.com/a/avi%C3%A3o-de-propriedade-desconhecida-impedido-de-deixar-bissau/6304280.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 8, 2021 AVIO DE PROPRIEDADE DESCONHECIDA IMPEDIDO DE DEIXAR BISSAU novembro 08, 2021 * Lassana Cassam * * * Image: Salo de...</p></details>
    Published: November 8, 2021

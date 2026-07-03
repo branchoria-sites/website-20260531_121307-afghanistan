@@ -257,13 +257,13 @@ image: /assets/images/Estonia_f0a96d_sky_explanations_cf8447-Illustration-1-soci
 Many modern Estonian UFO reports become less mysterious once they are compared with known atmospheric and aerospace phenomena. The change is not because witnesses are dishonest. It is because phones now record bright meteors, aircraft contrails, satellite flares and rocket exhaust effects in far greater detail than before, while social media spreads dramatic clips faster than explanations can catch up.
 
 <img src="{{ "/assets/images/Estonia_f0a96d_sky_explanations_cf8447-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Estonia_f0a96d_sky_explanations_cf8447-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Estonia_f0a96d_sky_explanations_cf8447-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In Estonia, several widely discussed “UFO” sightings from the 2020s were later linked to ordinary but visually unusual sky events: bolide meteors crossing the Baltic region, aircraft contrails illuminated by low-angle sunlight, and spiralling rocket fuel clouds from SpaceX launches. Estonian astronomers, meteor observers and science commentators increasingly treat these incidents as examples of how perception, camera optics and atmospheric conditions can transform familiar objects into apparently extraordinary ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">UFO&#x27; filmed over central Estonian skies likely airplane</span><span class="citation-popover-snippet">ERR&#x27;UFO&#x27; filmed over central Estonian skies likely airplane...February 25, 2026 — 25 Feb 2026 — &#x27;UFO&#x27; filmed over central Estonian skies...</span><span class="citation-popover-meta">Published: February 25, 2026</span></span></span>
+In Estonia, several widely discussed “UFO” sightings from the 2020s were later linked to ordinary but visually unusual sky events: bolide meteors crossing the Baltic region, aircraft contrails illuminated by low-angle sunlight, and spiralling rocket fuel clouds from SpaceX launches. Estonian astronomers, meteor observers and science commentators increasingly treat these incidents as examples of how perception, camera optics and atmospheric conditions can transform familiar objects into apparently extraordinary ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">UFO&#x27; filmed over central Estonian skies likely airplane</span><span class="citation-popover-snippet">ERR&#x27;UFO&#x27; filmed over central Estonian skies likely airplane...February 25, 2026 — 25 Feb 2026 — &#x27;UFO&#x27; filmed over central Estonian skies...</span><span class="citation-popover-meta">Published: February 25, 2026</span></span></span>
 
 ## Bolides and bright meteors over Estonia
 
-The strongest natural explanation for many sudden “fireball UFO” reports in Estonia is the bolide meteor. A bolide is an exceptionally bright meteor that can explode or fragment while entering the atmosphere. Because Estonia has long winter nights, clear coastal skies and a population spread across relatively dark regions, these events can appear unusually dramatic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+The strongest natural explanation for many sudden “fireball UFO” reports in Estonia is the bolide meteor. A bolide is an exceptionally bright meteor that can explode or fragment while entering the atmosphere. Because Estonia has long winter nights, clear coastal skies and a population spread across relatively dark regions, these events can appear unusually dramatic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Recent Estonian reporting shows how quickly bright meteors trigger UFO speculation. ERR has repeatedly covered incidents where glowing objects crossing the sky led to online theories before astronomers identified them as meteors or atmospheric fireballs. In several cases, volunteer sky-camera networks and timing comparisons across the Baltic region helped reconstruct the objects’ paths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">mysterious glowing spiral over estonian skies likely spacex rocket debris</span><span class="citation-popover-snippet">Mysterious glowing spiral over Estonian skies likely...3 May 2024 — Experts believe an expiring rocket booster, probably one used by...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Recent Estonian reporting shows how quickly bright meteors trigger UFO speculation. ERR has repeatedly covered incidents where glowing objects crossing the sky led to online theories before astronomers identified them as meteors or atmospheric fireballs. In several cases, volunteer sky-camera networks and timing comparisons across the Baltic region helped reconstruct the objects’ paths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">mysterious glowing spiral over estonian skies likely spacex rocket debris</span><span class="citation-popover-snippet">Mysterious glowing spiral over Estonian skies likely...3 May 2024 — Experts believe an expiring rocket booster, probably one used by...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 The visual features that confuse observers are predictable:
 
@@ -287,7 +287,7 @@ The Baltic region also has a cultural sensitivity to meteor events because of ol
 
 ## Why contrails suddenly look like burning objects
 
-One of the clearest examples of modern misidentification in Estonia involved dramatic cloud-like streaks filmed over central Estonia and widely described online as a UFO or burning object. ERR later reported that the phenomenon was likely caused by aircraft contrails illuminated under particular atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">UFO&#x27; filmed over central Estonian skies likely airplane</span><span class="citation-popover-snippet">ERR&#x27;UFO&#x27; filmed over central Estonian skies likely airplane...February 25, 2026 — 25 Feb 2026 — &#x27;UFO&#x27; filmed over central Estonian skies...</span><span class="citation-popover-meta">Published: February 25, 2026</span></span></span>
+One of the clearest examples of modern misidentification in Estonia involved dramatic cloud-like streaks filmed over central Estonia and widely described online as a UFO or burning object. ERR later reported that the phenomenon was likely caused by aircraft contrails illuminated under particular atmospheric conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">UFO&#x27; filmed over central Estonian skies likely airplane</span><span class="citation-popover-snippet">ERR&#x27;UFO&#x27; filmed over central Estonian skies likely airplane...February 25, 2026 — 25 Feb 2026 — &#x27;UFO&#x27; filmed over central Estonian skies...</span><span class="citation-popover-meta">Published: February 25, 2026</span></span></span>
 
 Contrails become visually deceptive when several factors combine at once:
 
@@ -305,7 +305,7 @@ From the ground, a jet flying directly toward the observer may appear almost sta
 
 Estonia’s latitude makes this especially common during winter and transitional seasons. The long twilight periods over the Baltic allow high-altitude contrails to remain illuminated long after sunset. In some cases, expanding contrails develop orange or reddish edges that resemble flames.
 
-This pattern closely matches international “missile UFO” incidents that were later identified as ordinary contrails viewed from unusual angles. Atmospheric optics researchers have documented how perspective compression and twilight illumination repeatedly create false impressions of vertical launches or giant glowing craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
+This pattern closely matches international “missile UFO” incidents that were later identified as ordinary contrails viewed from unusual angles. Atmospheric optics researchers have documented how perspective compression and twilight illumination repeatedly create false impressions of vertical launches or giant glowing craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>
 
 In Estonia, the confusion is reinforced by geography. Commercial flight paths crossing northern Europe are highly visible over the country, especially near Tallinn and the Gulf of Finland. Under cold upper-atmosphere conditions, persistent contrails can remain visible for long periods and evolve into shapes that seem unnatural to casual observers.
 
@@ -322,9 +322,9 @@ This is one reason modern UFO footage can look more convincing than older eyewit
 <img src="{{ "/assets/images/Estonia_f0a96d_sky_explanations_cf8447-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Estonia_f0a96d_sky_explanations_cf8447-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Estonia_f0a96d_sky_explanations_cf8447-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rocket-stage spirals and satellite confusion
 
-The most striking recent Estonian sky event linked to UFO speculation was the glowing spiral seen over Estonia and much of Europe in 2024. Social media users described it as a portal, vortex or unknown craft. Estonian reporting later pointed toward a SpaceX rocket stage as the cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">mysterious glowing spiral over estonian skies likely spacex rocket debris</span><span class="citation-popover-snippet">Mysterious glowing spiral over Estonian skies likely...3 May 2024 — Experts believe an expiring rocket booster, probably one used by...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The most striking recent Estonian sky event linked to UFO speculation was the glowing spiral seen over Estonia and much of Europe in 2024. Social media users described it as a portal, vortex or unknown craft. Estonian reporting later pointed toward a SpaceX rocket stage as the cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">mysterious glowing spiral over estonian skies likely spacex rocket debris</span><span class="citation-popover-snippet">Mysterious glowing spiral over Estonian skies likely...3 May 2024 — Experts believe an expiring rocket booster, probably one used by...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
-The phenomenon fits a now well-documented aerospace effect. During some launches, upper rocket stages vent excess fuel while rotating in sunlight at high altitude. The expelled gases freeze into reflective ice crystals, creating a bright expanding spiral visible across huge distances. International coverage of similar European sightings in 2025 described the same mechanism in connection with Falcon 9 launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.March 25, 2025 — On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a myst...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span>
+The phenomenon fits a now well-documented aerospace effect. During some launches, upper rocket stages vent excess fuel while rotating in sunlight at high altitude. The expelled gases freeze into reflective ice crystals, creating a bright expanding spiral visible across huge distances. International coverage of similar European sightings in 2025 described the same mechanism in connection with Falcon 9 launches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.March 25, 2025 — On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a myst...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span>
 
 To observers unfamiliar with orbital operations, the effect appears extraordinary because it behaves unlike ordinary aircraft:
 
@@ -342,7 +342,7 @@ Ironically, the object is artificial — but not extraterrestrial. It is a side 
 
 Estonia is geographically well positioned to see such phenomena. High-latitude twilight conditions allow rocket exhaust plumes above the atmosphere to remain sunlit long after local darkness begins. A launch from Florida or elsewhere may therefore create visible effects over northern Europe hours later.
 
-As launch frequency increases, these reports are likely to become more common rather than less common. SpaceX activity has already normalised spiral sightings across parts of Europe that rarely saw them a decade ago. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.March 25, 2025 — On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a myst...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span>
+As launch frequency increases, these reports are likely to become more common rather than less common. SpaceX activity has already normalised spiral sightings across parts of Europe that rarely saw them a decade ago.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.March 25, 2025 — On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a myst...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/88kbPcfGXpQ" title="Mysterious sight in sky over Massachusetts was likely rocket launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=88kbPcfGXpQ" target="_blank" rel="noopener noreferrer">Mysterious sight in sky over Massachusetts was likely rocket launch</a></p><p class="youtube-embed-meta">Channel: CBS Boston &middot; Views: 14.5K &middot; Uploaded: August 2025 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=88kbPcfGXpQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=88kbPcfGXpQ">Open on YouTube</a></p></div></div></div>
 
@@ -380,7 +380,7 @@ Volunteer meteor cameras and sky-monitoring systems across northern Europe can t
 Commercial aircraft, satellites and rocket launches are now easy to check using open data.
 3. Faster expert response
 
-Estonian scientists and science communicators increasingly comment publicly on unusual sky events soon after they occur. ERR coverage in particular has tended to frame recent “UFO” sightings through astronomy and atmospheric science rather than mystery narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">mysterious glowing spiral over estonian skies likely spacex rocket debris</span><span class="citation-popover-snippet">Mysterious glowing spiral over Estonian skies likely...3 May 2024 — Experts believe an expiring rocket booster, probably one used by...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+Estonian scientists and science communicators increasingly comment publicly on unusual sky events soon after they occur. ERR coverage in particular has tended to frame recent “UFO” sightings through astronomy and atmospheric science rather than mystery narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">mysterious glowing spiral over estonian skies likely spacex rocket debris</span><span class="citation-popover-snippet">Mysterious glowing spiral over Estonian skies likely...3 May 2024 — Experts believe an expiring rocket booster, probably one used by...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 This does not mean every report is immediately solved. Poor-quality footage, uncertain timestamps and incomplete witness information still leave some incidents unresolved. But the balance of evidence in modern Estonian cases increasingly favours identifiable natural or technological explanations over unknown craft.
 
@@ -405,194 +405,194 @@ The result is a cycle in which dramatic videos spread rapidly, sceptical explana
 In Estonia, this has gradually moved the discussion away from classic close-encounter stories and toward a more practical question: how often do unfamiliar sky phenomena become UFO reports simply because modern observers encounter complex aerospace and atmospheric effects without recognising them in real time?
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Estonia&#x27;s UFOs Become Sky Science. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Estonia&#x27;s UFOs Become Sky Science. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides contrast between unexplained reports and events later identified by science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contrast between unexplained reports and events later identified by science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
-        </h4>
-        <p class="fr-book-author">By Will Gater</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
+</h4>
+<p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Helps explain meteors, planets, satellites and other commonly misidentified sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain meteors, planets, satellites and other commonly misidentified sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Provides observational context for interpreting unusual lights in the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides observational context for interpreting unusual lights in the sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Directly relevant to bolides and bright meteor events discussed on the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to bolides and bright meteor events discussed on the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-estonia-s-ufos-become-sky-science-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-estonia-s-ufos-become-sky-science-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -608,7 +608,7 @@ In Estonia, this has gradually moved the discussion away from classic close-enco
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -628,7 +628,7 @@ In Estonia, this has gradually moved the discussion away from classic close-enco
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -660,7 +660,7 @@ In Estonia, this has gradually moved the discussion away from classic close-enco
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -712,7 +712,7 @@ In Estonia, this has gradually moved the discussion away from classic close-enco
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -757,7 +757,7 @@ In Estonia, this has gradually moved the discussion away from classic close-enco
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,130 +795,129 @@ In Estonia, this has gradually moved the discussion away from classic close-enco
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.err.ee  
    Title: 'UFO' filmed over central Estonian skies likely airplane  
-   Link: <a href="https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERR&#x27;UFO&#x27; filmed over central Estonian skies likely airplane...February 25, 2026 — 25 Feb 2026 — &#x27;UFO&#x27; filmed over central Estonian skies...</p></details>
+   Link:<a href="https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERR&#x27;UFO&#x27; filmed over central Estonian skies likely airplane...February 25, 2026 — 25 Feb 2026 — &#x27;UFO&#x27; filmed over central Estonian skies...</p></details>
    Published: February 25, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.err.ee  
    Title: mysterious glowing spiral over estonian skies likely spacex rocket debris  
-   Link: <a href="https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious glowing spiral over Estonian skies likely...3 May 2024 — Experts believe an expiring rocket booster, probably one used by...</p></details>
+   Link:<a href="https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious glowing spiral over Estonian skies likely...3 May 2024 — Experts believe an expiring rocket booster, probably one used by...</p></details>
    Published: May 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: a mysterious unidentified burning object spotted in the skies over central eston  
-   Link: <a href="https://www.facebook.com/ERRNews/posts/a-mysterious-unidentified-burning-object-spotted-in-the-skies-over-central-eston/1355388669939163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ERRNews/posts/a-mysterious-unidentified-burning-object-spotted-in-the-skies-over-central-eston/1355388669939163/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A peek inside the rare Kaali Crater meteor from Estonia. I just...</p></details>
+   Link:<a href="https://www.facebook.com/ERRNews/posts/a-mysterious-unidentified-burning-object-spotted-in-the-skies-over-central-eston/1355388669939163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ERRNews/posts/a-mysterious-unidentified-burning-object-spotted-in-the-skies-over-central-eston/1355388669939163/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A peek inside the rare Kaali Crater meteor from Estonia. I just...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: Too fast for a plane and too controlled for a meteor, its motion has  
-   Link: <a href="https://www.facebook.com/rarerealitiess/posts/glowing-streak-in-estonias-sky-made-locals-wonder-if-a-ufo-was-passing-overheads/914038878026661/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rarerealitiess/posts/glowing-streak-in-estonias-sky-made-locals-wonder-if-a-ufo-was-passing-overheads/914038878026661/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing streak in Estonia&#x27;s sky made locals wonder if a...3 Mar 2026 — Epic World News ▻ UFO, Aliens, Other Planets and Paranormal Activ...</p></details>
+   Link:<a href="https://www.facebook.com/rarerealitiess/posts/glowing-streak-in-estonias-sky-made-locals-wonder-if-a-ufo-was-passing-overheads/914038878026661/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rarerealitiess/posts/glowing-streak-in-estonias-sky-made-locals-wonder-if-a-ufo-was-passing-overheads/914038878026661/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing streak in Estonia&#x27;s sky made locals wonder if a...3 Mar 2026 — Epic World News ▻ UFO, Aliens, Other Planets and Paranormal Activ...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/physdashastro/posts/1200522514771979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physdashastro/posts/1200522514771979/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing Spiral in the Night Sky: SpaceX Rocket Launch or...￼ Observers across Europe reported seeing these spirals around 8 p.m...</p></details>
+   Link:<a href="https://www.facebook.com/groups/physdashastro/posts/1200522514771979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physdashastro/posts/1200522514771979/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing Spiral in the Night Sky: SpaceX Rocket Launch or...￼ Observers across Europe reported seeing these spirals around 8 p.m...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: the tallinn ufo sighting 1980 a mysterious encounter over estonias capitalin 19  
-   Link: <a href="https://www.facebook.com/ancientrelicslostcities.thnguyen/videos/-the-tallinn-ufo-sighting-1980-a-mysterious-encounter-over-estonias-capitalin-19/1969919560271108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientrelicslostcities.thnguyen/videos/-the-tallinn-ufo-sighting-1980-a-mysterious-encounter-over-estonias-capitalin-19/1969919560271108/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tallinn UFO Sighting (1980): A Mysterious Encounter...21 Mar 2026 — Known as the Tallinn UFO Sighting, the incident involved reports...</p></details>
+   Link:<a href="https://www.facebook.com/ancientrelicslostcities.thnguyen/videos/-the-tallinn-ufo-sighting-1980-a-mysterious-encounter-over-estonias-capitalin-19/1969919560271108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientrelicslostcities.thnguyen/videos/-the-tallinn-ufo-sighting-1980-a-mysterious-encounter-over-estonias-capitalin-19/1969919560271108/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tallinn UFO Sighting (1980): A Mysterious Encounter...21 Mar 2026 — Known as the Tallinn UFO Sighting, the incident involved reports...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theforgottenchronicles.thnguyen/videos/1682770966058146/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theforgottenchronicles.thnguyen/videos/1682770966058146/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>📰 The Tallinn UFO Sighting (1980): A Baltic Mystery in...20 Mar 2026 — Known as The Tallinn UFO Sighting, the event involved mysterious...</p></details>
+   Link:<a href="https://www.facebook.com/theforgottenchronicles.thnguyen/videos/1682770966058146/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theforgottenchronicles.thnguyen/videos/1682770966058146/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>📰 The Tallinn UFO Sighting (1980): A Baltic Mystery in...20 Mar 2026 — Known as The Tallinn UFO Sighting, the event involved mysterious...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/9News/videos/a-strange-spiral-seen-drifting-in-the-sky-above-europe-has-been-caught-on-multip/957942226374637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9News/videos/a-strange-spiral-seen-drifting-in-the-sky-above-europe-has-been-caught-on-multip/957942226374637/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A strange spiral seen drifting in the sky above Europe has...The glow is believed to be from a SpaceX Falcon 9 rocket that launched from...</p></details>
+   Link:<a href="https://www.facebook.com/9News/videos/a-strange-spiral-seen-drifting-in-the-sky-above-europe-has-been-caught-on-multip/957942226374637/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9News/videos/a-strange-spiral-seen-drifting-in-the-sky-above-europe-has-been-caught-on-multip/957942226374637/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A strange spiral seen drifting in the sky above Europe has...The glow is believed to be from a SpaceX Falcon 9 rocket that launched from...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Did you see an alien-looking swirl in the sky?  
-   Link: <a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.March 25, 2025 — On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a myst...</p></details>
+   Link:<a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.March 25, 2025 — On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a myst...</p></details>
    Published: March 25, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/telescopes/comments/1jj0uop/help_identifying_this_weird_spiral/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/telescopes/comments/1jj0uop/help_identifying_this_weird_spiral/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Help identifying this weird spiral: r/telescopesThis is from a rocket launch. What you saw was basically a rocket moving directly away f...</p></details>
+   Link:<a href="https://www.reddit.com/r/telescopes/comments/1jj0uop/help_identifying_this_weird_spiral/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/telescopes/comments/1jj0uop/help_identifying_this_weird_spiral/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Help identifying this weird spiral: r/telescopesThis is from a rocket launch. What you saw was basically a rocket moving directly away f...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/spectacular-spirals-in-the-sky-over-europe-traced-to-classified-spacex-mission-78545" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/spectacular-spirals-in-the-sky-over-europe-traced-to-classified-spacex-mission-78545</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spectacular Spirals In The Sky Over Europe Traced To...25 Mar 2025 — The spiral pattern is believed to have been caused by the launch of...</p></details>
+   Link:<a href="https://www.iflscience.com/spectacular-spirals-in-the-sky-over-europe-traced-to-classified-spacex-mission-78545" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/spectacular-spirals-in-the-sky-over-europe-traced-to-classified-spacex-mission-78545</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spectacular Spirals In The Sky Over Europe Traced To...25 Mar 2025 — The spiral pattern is believed to have been caused by the launch of...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ngoreport.org  
    Title: an impressive spiral of light caused by a spacex rocket spotted in the arctic  
-   Link: <a href="https://ngoreport.org/an-impressive-spiral-of-light-caused-by-a-spacex-rocket-spotted-in-the-arctic/" target="_blank" rel="noopener noreferrer nofollow">https://ngoreport.org/an-impressive-spiral-of-light-caused-by-a-spacex-rocket-spotted-in-the-arctic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An impressive spiral of light caused by a SpaceX rocket...14 Mar 2024 — On the night of Monday March 4 to Tuesday March 5, 2024, a whirl...</p></details>
+   Link:<a href="https://ngoreport.org/an-impressive-spiral-of-light-caused-by-a-spacex-rocket-spotted-in-the-arctic/" target="_blank" rel="noopener noreferrer nofollow">https://ngoreport.org/an-impressive-spiral-of-light-caused-by-a-spacex-rocket-spotted-in-the-arctic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An impressive spiral of light caused by a SpaceX rocket...14 Mar 2024 — On the night of Monday March 4 to Tuesday March 5, 2024, a whirl...</p></details>
    Published: March 5, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jOOcYtOjtQU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launch creates glowing spiral over UK skyA large glowing spiral was visible in the night sky above the UK on Monday, perplexing st...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jOOcYtOjtQU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launch creates glowing spiral over UK skyA large glowing spiral was visible in the night sky above the UK on Monday, perplexing st...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oR-dAN-BQ4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oR-dAN-BQ4M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Ufo disaster in EstoniaZacznij wspierać ten kanał, a dostaniesz te bonusy: [https://www.youtube.com/channel/UCDL9_rYNgXl7xoH9eF9zffw/join...&quot;](https://www.youtube.com/channel/UCDL9_rYNgXl7xoH9eF9zffw/join...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oR-dAN-BQ4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oR-dAN-BQ4M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Ufo disaster in EstoniaZacznij wspierać ten kanał, a dostaniesz te bonusy: [https://www.youtube.com/channel/UCDL9_rYNgXl7xoH9eF9zffw/join...&quot;](https://www.youtube.com/channel/UCDL9_rYNgXl7xoH9eF9zffw/join...&quot;)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Dxpvx9dS1oU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dxpvx9dS1oU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lled to act upon instincts and intuition...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Dxpvx9dS1oU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dxpvx9dS1oU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lled to act upon instincts and intuition...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Mysterious sight in sky over Massachusetts was likely rocket launch  
-   Link: <a href="https://www.youtube.com/watch?v=88kbPcfGXpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=88kbPcfGXpQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket with glowing light mistaken for UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=88kbPcfGXpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=88kbPcfGXpQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket with glowing light mistaken for UFO...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Space X Rocket with glowing light mistaken for UFO  
-   Link: <a href="https://www.youtube.com/watch?v=43GtQesBTFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=43GtQesBTFU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Valley residents mistake skydivers&#x27; parachutes for possible UFOs, meteor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=43GtQesBTFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=43GtQesBTFU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Valley residents mistake skydivers&#x27; parachutes for possible UFOs, meteor...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1702.03968" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1702.03968</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The January 7, 2015, superbolide over Romania and structural diversity of meter-sized asteroids...</p></details>
+   Link:<a href="https://arxiv.org/abs/1702.03968" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1702.03968</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The January 7, 2015, superbolide over Romania and structural diversity of meter-sized asteroids...</p></details>
    Published: January 7, 2015

@@ -254,20 +254,20 @@ image: /assets/images/Serbia_6d31bf_belgrade_triangle_re_ac92fc-Illustration-1-s
 
 ## Introduction
 
-Belgrade appears only sporadically in major UFO reporting archives, yet the city is one of the few Serbian locations that repeatedly surfaces in searchable international databases. The reports are usually brief: a handful of witnesses describe triangular arrangements of lights, dark triangular shapes, or three bright points moving together over the capital at night. What makes these cases interesting is not the strength of the evidence, but the contrast between visibility and verification. The reports are easy to find, timestamped, and publicly archived, yet they rarely contain the photographs, radar records, multiple witness interviews, or official investigations that would allow a stronger conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=87461" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 87461August 20, 2023 — Triangular ufo with lights near their corners 03/02/2012 flew over Belgrade from south to nort...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Belgrade appears only sporadically in major UFO reporting archives, yet the city is one of the few Serbian locations that repeatedly surfaces in searchable international databases. The reports are usually brief: a handful of witnesses describe triangular arrangements of lights, dark triangular shapes, or three bright points moving together over the capital at night. What makes these cases interesting is not the strength of the evidence, but the contrast between visibility and verification. The reports are easy to find, timestamped, and publicly archived, yet they rarely contain the photographs, radar records, multiple witness interviews, or official investigations that would allow a stronger conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=87461" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 87461August 20, 2023 — Triangular ufo with lights near their corners 03/02/2012 flew over Belgrade from south to nort...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 <img src="{{ "/assets/images/Serbia_6d31bf_belgrade_triangle_re_ac92fc-Illustration-1-dark.svg" | relative_url }}" alt="Belgrade Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Serbia_6d31bf_belgrade_triangle_re_ac92fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Serbia_6d31bf_belgrade_triangle_re_ac92fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers examining Serbian UFO claims, Belgrade's triangle sightings are best understood as a case study in how modern public databases work. They preserve witness testimony and reveal recurring patterns, but they do not automatically transform sightings into confirmed events. The result is a small but useful record of urban UFO reporting rather than a collection of convincing proof.
 
 ## What the Public Database Entries Actually Say
 
-The most frequently cited Belgrade triangle reports come from the National UFO Reporting Center (NUFORC), one of the largest publicly accessible UFO reporting archives. The database accepts direct witness submissions and publishes them with varying levels of detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">On April 12, 2026 NUFORC received a report from a retired Air... Over the past few months, NUFORC investigators dug into several of our...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
+The most frequently cited Belgrade triangle reports come from the National UFO Reporting Center (NUFORC), one of the largest publicly accessible UFO reporting archives. The database accepts direct witness submissions and publishes them with varying levels of detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">On April 12, 2026 NUFORC received a report from a retired Air... Over the past few months, NUFORC investigators dug into several of our...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
 
-One of the better-known Belgrade entries was reported as occurring on 2 March 2012. According to the witness account, a triangular object with lights near its corners travelled from south to north over the city and remained visible for roughly thirty seconds. The report listed a single observer and described lights and a surrounding glow or haze. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=88140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 88140NUFORC UFO Sighting 88140. Occurred: 2012-03-27 23:00 Local Reported: 2012-03-31 21:39 Pacific Duration: 2-3 min...</span><span class="citation-popover-meta">Published: March 27, 2012</span></span></span>
+One of the better-known Belgrade entries was reported as occurring on 2 March 2012. According to the witness account, a triangular object with lights near its corners travelled from south to north over the city and remained visible for roughly thirty seconds. The report listed a single observer and described lights and a surrounding glow or haze.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=88140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 88140NUFORC UFO Sighting 88140. Occurred: 2012-03-27 23:00 Local Reported: 2012-03-31 21:39 Pacific Duration: 2-3 min...</span><span class="citation-popover-meta">Published: March 27, 2012</span></span></span>
 
-A second Belgrade report from 2012 described three points of light arranged in a triangular formation. The reported duration was only a few seconds. Such entries are common throughout international UFO databases because geometric arrangements of lights are highly memorable to observers, even when the underlying objects are difficult to identify. Public databases preserve the witness description, but they usually do not contain the additional evidence needed for a formal investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO directly overhead me moving...Read more...</span></span></span>
+A second Belgrade report from 2012 described three points of light arranged in a triangular formation. The reported duration was only a few seconds. Such entries are common throughout international UFO databases because geometric arrangements of lights are highly memorable to observers, even when the underlying objects are difficult to identify. Public databases preserve the witness description, but they usually do not contain the additional evidence needed for a formal investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO directly overhead me moving...Read more...</span></span></span>
 
-Belgrade also appears in earlier NUFORC-derived records. One 2008 entry described three bright objects moving together in a triangular pattern and remaining visible for around ten minutes. The report was attributed to two witnesses, including a journalist. Even so, the public record consists largely of the witness narrative rather than independently verified data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-63595" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-title">NUFORC 63595</span><span class="citation-popover-snippet">Sentient OrbsUFO in Belgrade &#124; Sentient OrbsMay 29, 2008 — 29 May 2008 — triangular ufo with lights near their corners 03/02/2012 flew ov...</span><span class="citation-popover-meta">Published: May 29, 2008</span></span></span>
+Belgrade also appears in earlier NUFORC-derived records. One 2008 entry described three bright objects moving together in a triangular pattern and remaining visible for around ten minutes. The report was attributed to two witnesses, including a journalist. Even so, the public record consists largely of the witness narrative rather than independently verified data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-63595" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-title">NUFORC 63595</span><span class="citation-popover-snippet">Sentient OrbsUFO in Belgrade &#124; Sentient OrbsMay 29, 2008 — 29 May 2008 — triangular ufo with lights near their corners 03/02/2012 flew ov...</span><span class="citation-popover-meta">Published: May 29, 2008</span></span></span>
 
 The important point is that these reports are real database entries, not later internet retellings. However, being archived is not the same as being confirmed. The databases generally preserve claims rather than resolve them.
 
@@ -292,13 +292,13 @@ Several local conditions increase the likelihood of triangle-style sightings:
 
 These factors do not prove that Belgrade sightings are misidentifications, but they explain why the city generates a larger pool of reports than rural regions. A city of this scale creates more opportunities for unusual visual impressions than sparsely populated areas.
 
-The same pattern appears internationally. Major metropolitan areas often dominate UFO databases because witness numbers are higher, not necessarily because extraordinary objects are more common. Researchers examining large NUFORC datasets have repeatedly noted that report frequency is strongly influenced by population density and reporting behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huggingface.co">[Hugging Face]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huggingface.co</span><span class="citation-popover-title">Hugging Facekcimc/NUFORC · Datasets at Hugging Face NUFORC</span><span class="citation-popover-snippet">147,890 UFO sightings from NUFORC, scraped on January 16, 2024. The best representation of the data is nuforc.json, but I also converted...</span><span class="citation-popover-meta">Published: January 16, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">i analyzed 80000 ufo sightings from the nuforc</span><span class="citation-popover-snippet">databaseThis analysis suggests that orange, white, and red are the most frequently observed colors in the reported UFO sightings, accordi...</span></span></span>
+The same pattern appears internationally. Major metropolitan areas often dominate UFO databases because witness numbers are higher, not necessarily because extraordinary objects are more common. Researchers examining large NUFORC datasets have repeatedly noted that report frequency is strongly influenced by population density and reporting behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: huggingface.co">[Hugging Face]</a><span class="citation-popover" role="note"><span class="citation-popover-source">huggingface.co</span><span class="citation-popover-title">Hugging Facekcimc/NUFORC · Datasets at Hugging Face NUFORC</span><span class="citation-popover-snippet">147,890 UFO sightings from NUFORC, scraped on January 16, 2024. The best representation of the data is nuforc.json, but I also converted...</span><span class="citation-popover-meta">Published: January 16, 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">i analyzed 80000 ufo sightings from the nuforc</span><span class="citation-popover-snippet">databaseThis analysis suggests that orange, white, and red are the most frequently observed colors in the reported UFO sightings, accordi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iEluCNsOjww" title="UAPTF Report - Sean Cahill, Ret. U.S. Navy Chief Master-At-Arms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iEluCNsOjww" target="_blank" rel="noopener noreferrer">UAPTF Report - Sean Cahill, Ret. U.S. Navy Chief Master-At-Arms</a></p><p class="youtube-embed-meta">Channel: Unidentified Anomalous Phenomena &middot; Views: 11.3K &middot; Uploaded: June 2021 &middot; Length: 3 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iEluCNsOjww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iEluCNsOjww">Open on YouTube</a></p></div></div></div>
 
 ## Why Triangle Shapes Appear So Often
 
-Triangle reports occupy a special place in UFO culture. Since the late twentieth century, witnesses across Europe and North America have repeatedly described triangular or V-shaped formations of lights. Famous examples include the Belgian UFO wave and the Phoenix Lights, both of which helped popularise the idea of large silent triangular craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span>
+Triangle reports occupy a special place in UFO culture. Since the late twentieth century, witnesses across Europe and North America have repeatedly described triangular or V-shaped formations of lights. Famous examples include the Belgian UFO wave and the Phoenix Lights, both of which helped popularise the idea of large silent triangular craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span>
 
 That cultural background matters when evaluating Belgrade reports. Once a shape becomes part of public UFO imagery, witnesses may be more likely to interpret ambiguous lights through that framework.
 
@@ -331,7 +331,7 @@ As consumer drones became more common, reports of unusual light patterns increas
 
 ### Atmospheric Conditions
 
-Haze, humidity, cloud layers, and urban light pollution can distort perceived motion and size. The 2012 Belgrade report's mention of an aura or haze around the object is consistent with the kinds of visual effects often produced by atmospheric scattering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=87461" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 87461August 20, 2023 — Triangular ufo with lights near their corners 03/02/2012 flew over Belgrade from south to nort...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Haze, humidity, cloud layers, and urban light pollution can distort perceived motion and size. The 2012 Belgrade report's mention of an aura or haze around the object is consistent with the kinds of visual effects often produced by atmospheric scattering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=87461" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 87461August 20, 2023 — Triangular ufo with lights near their corners 03/02/2012 flew over Belgrade from south to nort...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 ### Misjudged Distance
 
@@ -356,206 +356,206 @@ None of the commonly cited public-database entries include:
 
 Without those elements, the reports remain unresolved observations rather than strong UFO cases.
 
-This distinction is important because public databases serve an archival function. They preserve testimony that might otherwise disappear. Researchers can use them to identify patterns and compare reports across time and geography. But a database entry alone rarely settles the question of what was actually seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuny.manifoldapp.org">[cuny.manifoldapp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuny.manifoldapp.org</span><span class="citation-popover-snippet">National UFO Reporting Center14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchable...</span></span></span>
+This distinction is important because public databases serve an archival function. They preserve testimony that might otherwise disappear. Researchers can use them to identify patterns and compare reports across time and geography. But a database entry alone rarely settles the question of what was actually seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuny.manifoldapp.org">[cuny.manifoldapp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuny.manifoldapp.org</span><span class="citation-popover-snippet">National UFO Reporting Center14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchable...</span></span></span>
 
 <img src="{{ "/assets/images/Serbia_6d31bf_belgrade_triangle_re_ac92fc-Illustration-3-dark.svg" | relative_url }}" alt="Belgrade Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Serbia_6d31bf_belgrade_triangle_re_ac92fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Serbia_6d31bf_belgrade_triangle_re_ac92fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Are the Belgrade Triangle Reports Convincing?
 
-As evidence for extraordinary aerial phenomena, the Belgrade triangle reports are weak. The available records are short, largely anonymous, and unsupported by independent documentation. Most involve exactly the circumstances that make identification difficult: night-time observation, brief duration, uncertain distance, and limited corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">On April 12, 2026 NUFORC received a report from a retired Air... Over the past few months, NUFORC investigators dug into several of our...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
+As evidence for extraordinary aerial phenomena, the Belgrade triangle reports are weak. The available records are short, largely anonymous, and unsupported by independent documentation. Most involve exactly the circumstances that make identification difficult: night-time observation, brief duration, uncertain distance, and limited corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">On April 12, 2026 NUFORC received a report from a retired Air... Over the past few months, NUFORC investigators dug into several of our...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
 
 As records of genuine witness experiences, however, they remain useful. They show that Belgrade participates in the same reporting patterns seen across many large cities. Witnesses repeatedly describe triangular arrangements of lights, yet the underlying causes remain unclear because the reports arrive without the supporting evidence needed for verification.
 
-In the wider Serbian UFO landscape, these entries are best viewed as searchable examples of urban sighting culture rather than landmark cases. They demonstrate how public databases preserve reports and reveal recurring themes, while also illustrating the central problem of UFO research in Serbia and elsewhere: many sightings are intriguing enough to record, but too thinly documented to prove much beyond the fact that someone saw something unusual in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuny.manifoldapp.org">[2cuny.manifoldapp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuny.manifoldapp.org</span><span class="citation-popover-snippet">National UFO Reporting Center14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchable...</span></span></span>
+In the wider Serbian UFO landscape, these entries are best viewed as searchable examples of urban sighting culture rather than landmark cases. They demonstrate how public databases preserve reports and reveal recurring themes, while also illustrating the central problem of UFO research in Serbia and elsewhere: many sightings are intriguing enough to record, but too thinly documented to prove much beyond the fact that someone saw something unusual in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuny.manifoldapp.org">[2cuny.manifoldapp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuny.manifoldapp.org</span><span class="citation-popover-snippet">National UFO Reporting Center14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchable...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Belgrade Triangle UFO Reports Convincing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Belgrade Triangle UFO Reports Convincing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing database reports with historically investigated cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing database reports with historically investigated cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains sighting classifications and how unexplained aerial reports are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sighting classifications and how unexplained aerial reports are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating witness reports and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating witness reports and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores broader interpretations of recurring UFO patterns and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores broader interpretations of recurring UFO patterns and reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-belgrade-triangle-ufo-reports-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-belgrade-triangle-ufo-reports-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ In the wider Serbian UFO landscape, these entries are best viewed as searchable 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ In the wider Serbian UFO landscape, these entries are best viewed as searchable 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ In the wider Serbian UFO landscape, these entries are best viewed as searchable 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ In the wider Serbian UFO landscape, these entries are best viewed as searchable 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ In the wider Serbian UFO landscape, these entries are best viewed as searchable 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,151 +758,150 @@ In the wider Serbian UFO landscape, these entries are best viewed as searchable 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=87461" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=87461</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 87461August 20, 2023 — Triangular ufo with lights near their corners 03/02/2012 flew over Belgrade from south to nort...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=87461" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=87461</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 87461August 20, 2023 — Triangular ufo with lights near their corners 03/02/2012 flew over Belgrade from south to nort...</p></details>
    Published: August 20, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cuny.manifoldapp.org  
-   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchable...</p></details>
+   Link:<a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center/section/fcbc8a38-68e6-4d00-927c-a9f799775599/resource/3e3a208c-fcc6-4ff4-a8e5-b42d60a7dfa5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center14 Apr 2025 — The National UFO Reporting Center (NUFORC) is a text-heavy web-based archive with a searchable...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On April 12, 2026 NUFORC received a report from a retired Air... Over the past few months, NUFORC investigators dug into several of our...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On April 12, 2026 NUFORC received a report from a retired Air... Over the past few months, NUFORC investigators dug into several of our...</p></details>
    Published: April 12, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>databaseThis analysis suggests that orange, white, and red are the most frequently observed colors in the reported UFO sightings, accordi...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>databaseThis analysis suggests that orange, white, and red are the most frequently observed colors in the reported UFO sightings, accordi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Black triangle (UFO)  
-   Link: <a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=88140" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=88140</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 88140NUFORC UFO Sighting 88140. Occurred: 2012-03-27 23:00 Local Reported: 2012-03-31 21:39 Pacific Duration: 2-3 min...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=88140" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=88140</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 88140NUFORC UFO Sighting 88140. Occurred: 2012-03-27 23:00 Local Reported: 2012-03-31 21:39 Pacific Duration: 2-3 min...</p></details>
    Published: March 27, 2012  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO directly overhead me moving...Read more...</p></details>
+   Link:<a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO directly overhead me moving...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1gt1kkv/video_showing_an_extremely_close_up_view_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1gt1kkv/video_showing_an_extremely_close_up_view_of_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>interested in any alien, ufo, uap, discussions. Whenever I attempt...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1gt1kkv/video_showing_an_extremely_close_up_view_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1gt1kkv/video_showing_an_extremely_close_up_view_of_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>interested in any alien, ufo, uap, discussions. Whenever I attempt...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/mvjaqe/if_youve_have_witnessed_a_triangle_ufo_please/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/mvjaqe/if_youve_have_witnessed_a_triangle_ufo_please/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Black Triangle UFO - stabilized (BEST UFO FOOTAGE)... Why do most UFO/alien incidents seem to come from the US? r/UFOs...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/mvjaqe/if_youve_have_witnessed_a_triangle_ufo_please/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/mvjaqe/if_youve_have_witnessed_a_triangle_ufo_please/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black Triangle UFO - stabilized (BEST UFO FOOTAGE)... Why do most UFO/alien incidents seem to come from the US? r/UFOs...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: UF O above Belegrade, Serbia: r/UFOBr/UFOs  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1lbxdtu/ufo_above_belegrade_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1lbxdtu/ufo_above_belegrade_serbia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO above Belegrade, Serbia: r/UFOBr/UFOs - Ufo sighting in Serbia. 1:32. 114. 40. The Russian UFO Files... r/UFOB - 614,505 UFO sighti...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1lbxdtu/ufo_above_belegrade_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1lbxdtu/ufo_above_belegrade_serbia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO above Belegrade, Serbia: r/UFOBr/UFOs - Ufo sighting in Serbia. 1:32. 114. 40. The Russian UFO Files... r/UFOB - 614,505 UFO sighti...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird UFO recently filmed over Belgrade, Serbia: r/aliensSERIOUS UFO intel documents stolen out of Russia reveal decade-long probes into...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird UFO recently filmed over Belgrade, Serbia: r/aliensSERIOUS UFO intel documents stolen out of Russia reveal decade-long probes into...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1n9hgyj/the_classic_footage_of_the_diamond_ufo_recorded/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1n9hgyj/the_classic_footage_of_the_diamond_ufo_recorded/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens. Impact of UFO sightings on society. Documentaries on...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1n9hgyj/the_classic_footage_of_the_diamond_ufo_recorded/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1n9hgyj/the_classic_footage_of_the_diamond_ufo_recorded/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens. Impact of UFO sightings on society. Documentaries on...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sentientorbs.com  
    Title: NUFORC 63595  
-   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-63595" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-63595</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsUFO in Belgrade | Sentient OrbsMay 29, 2008 — 29 May 2008 — triangular ufo with lights near their corners 03/02/2012 flew ov...</p></details>
+   Link:<a href="https://sentientorbs.com/explore/sightings/NUFORC-63595" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-63595</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsUFO in Belgrade | Sentient OrbsMay 29, 2008 — 29 May 2008 — triangular ufo with lights near their corners 03/02/2012 flew ov...</p></details>
    Published: May 29, 2008  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: huggingface.co  
    Title: Hugging Facekcimc/NUFORC · Datasets at Hugging Face NUFORC  
-   Link: <a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>147,890 UFO sightings from NUFORC, scraped on January 16, 2024. The best representation of the data is nuforc.json, but I also converted...</p></details>
+   Link:<a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>147,890 UFO sightings from NUFORC, scraped on January 16, 2024. The best representation of the data is nuforc.json, but I also converted...</p></details>
    Published: January 16, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sentientorbs.com  
-   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-87461" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-87461</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>triangular ufo with lights near their corners 03/02/2012 flew...The UFO was the shape of a triangle, and each corner of the triangle was...</p></details>
+   Link:<a href="https://sentientorbs.com/explore/sightings/NUFORC-87461" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-87461</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>triangular ufo with lights near their corners 03/02/2012 flew...The UFO was the shape of a triangle, and each corner of the triangle was...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: github.com  
-   Link: <a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
+   Link:<a href="https://github.com/timothyrenner/nuforc_sightings_data" target="_blank" rel="noopener noreferrer nofollow">https://github.com/timothyrenner/nuforc_sightings_data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>timothyrenner/nuforc_sightings_data: Data collection and...The Nationa UFO Research Center (NUFORC) maintains an online database of over...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ken.abgett/posts/ufo-sighting-caught-on-my-camera-above-the-columbia-river-gorgesince-1969-the-go/1257804428812912/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ken.abgett/posts/ufo-sighting-caught-on-my-camera-above-the-columbia-river-gorgesince-1969-the-go/1257804428812912/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting caught on my Camera above The Columbia...I am writing you because my wife and I had an astounding UFO sighting, lasting two...</p></details>
+   Link:<a href="https://www.facebook.com/ken.abgett/posts/ufo-sighting-caught-on-my-camera-above-the-columbia-river-gorgesince-1969-the-go/1257804428812912/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ken.abgett/posts/ufo-sighting-caught-on-my-camera-above-the-columbia-river-gorgesince-1969-the-go/1257804428812912/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting caught on my Camera above The Columbia...I am writing you because my wife and I had an astounding UFO sighting, lasting two...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nbi.dk  
-   Link: <a href="https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOdata.txt... UFO!&#x27; My other friend stayed outside to watch. They had seen three fireballs, in a triangle formation (an upright triangle...</p></details>
+   Link:<a href="https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOdata.txt... UFO!&#x27; My other friend stayed outside to watch. They had seen three fireballs, in a triangle formation (an upright triangle...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Also, it must be added that these reports are a cumulative total of reports gathered since The National UFO...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Also, it must be added that these reports are a cumulative total of reports gathered since The National UFO...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: mysterioustimes.co.uk  
    Title: october 1st today in ufo history  
-   Link: <a href="https://mysterioustimes.co.uk/2024/10/31/october-1st-today-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://mysterioustimes.co.uk/2024/10/31/october-1st-today-in-ufo-history/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Several UFOs, some described as spear-shaped and others as egg-shaped, speed over Belgrade, Yugoslavia [now Serbia]...Read more...</p></details>
+   Link:<a href="https://mysterioustimes.co.uk/2024/10/31/october-1st-today-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://mysterioustimes.co.uk/2024/10/31/october-1st-today-in-ufo-history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Several UFOs, some described as spear-shaped and others as egg-shaped, speed over Belgrade, Yugoslavia [now Serbia]...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Pentagon Press Sec. Clarifies Role Of New Do D UFO Group (AOIMSG)  
-   Link: <a href="http://www.youtube.com/watch?v=0THdphNE6eY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0THdphNE6eY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO database triangular sightings lights analysis Data Mining Black Triangle UFOs Enigmatic Devices...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0THdphNE6eY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0THdphNE6eY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO database triangular sightings lights analysis Data Mining Black Triangle UFOs Enigmatic Devices...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s World UFO Day, we want to share this photo of a...(Carl Feindt, Reference: Irene McDonald, Delaware MUFON; UFOCAT PRN 123407) July...</p></details>
+   Link:<a href="https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usacefortworth/posts/its-world-ufo-day-we-want-to-share-this-photo-of-a-ufo-flying-over-belton-lake-i/1126484966177472/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s World UFO Day, we want to share this photo of a...(Carl Feindt, Reference: Irene McDonald, Delaware MUFON; UFOCAT PRN 123407) July...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: UAPTF Report  
-   Link: <a href="http://www.youtube.com/watch?v=iEluCNsOjww" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=iEluCNsOjww</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Press Sec. Clarifies Role Of New DoD UFO Group (AOIMSG)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=iEluCNsOjww" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=iEluCNsOjww</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Press Sec. Clarifies Role Of New DoD UFO Group (AOIMSG)...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Data Mining Black Triangle UFOs  
-   Link: <a href="http://www.youtube.com/watch?v=f3yyg5ToeBw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=f3yyg5ToeBw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases declassified UFO files detailing more than 400 incidents...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=f3yyg5ToeBw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=f3yyg5ToeBw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases declassified UFO files detailing more than 400 incidents...</p></details>

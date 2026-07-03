@@ -251,7 +251,7 @@ image: /assets/images/Bahrain_3ae11c_sky_rumours_95f1af-Illustration-1-social.jp
 Most Bahrain UFO stories do not begin with elaborate alien narratives. They begin with ordinary but visually striking events: a bright object over the Gulf at night, an unusual cloud formation near the coast, a missile trail glimpsed at dusk, or a blurred mobile-phone video shared before anyone identifies what was actually seen. Bahrain’s geography makes this process unusually fast. The country is small, densely connected online, surrounded by open water and busy air corridors, and positioned inside a region where military tension and dramatic skies often overlap.
 
 <img src="{{ "/assets/images/Bahrain_3ae11c_sky_rumours_95f1af-Illustration-1-dark.svg" | relative_url }}" alt="Sky Rumours illustration 1" data-theme-src-dark="{{ "/assets/images/Bahrain_3ae11c_sky_rumours_95f1af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bahrain_3ae11c_sky_rumours_95f1af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That combination creates ideal conditions for sky rumours. A light over Manama can be visible across the Gulf within minutes. A meteor can appear enormous against humid coastal haze. Missile-defence activity can resemble science-fiction imagery when filmed from a distance. By the time aviation officials, astronomers or meteorological agencies respond, the “unidentified object” may already have become a viral UFO claim. Bahrain’s UFO culture is therefore less about sustained extraterrestrial [evidence]({{ 'evidence/' | relative_url }}) than about how uncertainty spreads in real time through modern Gulf media ecosystems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNEPhotographs of what is believed to be an Unidentified Flying Object (UFO) have been swa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNEPhotographs of what is believed to be an Unidentified Flying Object (UFO) have been swa...</span></span></span>
+That combination creates ideal conditions for sky rumours. A light over Manama can be visible across the Gulf within minutes. A meteor can appear enormous against humid coastal haze. Missile-defence activity can resemble science-fiction imagery when filmed from a distance. By the time aviation officials, astronomers or meteorological agencies respond, the “unidentified object” may already have become a viral UFO claim. Bahrain’s UFO culture is therefore less about sustained extraterrestrial [evidence]({{ 'evidence/' | relative_url }}) than about how uncertainty spreads in real time through modern Gulf media ecosystems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNEPhotographs of what is believed to be an Unidentified Flying Object (UFO) have been swa...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNEPhotographs of what is believed to be an Unidentified Flying Object (UFO) have been swa...</span></span></span>
 
 ## Coastal Weather and the Illusion of Strange Skies
 
@@ -259,7 +259,7 @@ Bahrain’s skies are unusually exposed. Unlike mountainous countries where terr
 
 Humidity and heat distortion are especially important. Warm Gulf air frequently produces haze layers that magnify or blur lights at night. Aircraft descending toward Bahrain International Airport can appear stationary, oversized or oddly coloured when viewed through coastal moisture. Reflections from offshore infrastructure, ships and industrial zones can also create floating-looking lights over the sea.
 
-Cloud formations contribute to the effect. The 2015 Hidd incident is a good example of how quickly ambiguous visuals become UFO claims. Images circulated on Bahraini social media allegedly showed a huge object emerging from clouds over the eastern coast of Hidd. Local reporting noted that the photographs spread rapidly across Twitter, Facebook and Instagram, while many viewers questioned whether the image was simply a strange cloud formation or digital manipulation. No strong supporting evidence emerged: there were no radar records, no verified multiple-angle photographs, and no official aviation anomaly associated with the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNEPhotographs of what is believed to be an Unidentified Flying Object (UFO) have been swa...</span></span></span>
+Cloud formations contribute to the effect. The 2015 Hidd incident is a good example of how quickly ambiguous visuals become UFO claims. Images circulated on Bahraini social media allegedly showed a huge object emerging from clouds over the eastern coast of Hidd. Local reporting noted that the photographs spread rapidly across Twitter, Facebook and Instagram, while many viewers questioned whether the image was simply a strange cloud formation or digital manipulation. No strong supporting evidence emerged: there were no radar records, no verified multiple-angle photographs, and no official aviation anomaly associated with the claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNEPhotographs of what is believed to be an Unidentified Flying Object (UFO) have been swa...</span></span></span>
 
 The incident nevertheless travelled widely because the visual conditions suited UFO interpretation. Hidd sits near the coast, close to major aviation routes and industrial lighting. In hazy evening conditions, ordinary atmospheric effects can appear dramatic on compressed smartphone images. Once reposted repeatedly online, the lack of clarity itself becomes part of the mystery. Poor-quality imagery often strengthens UFO rumours because viewers mentally “fill in” missing detail.
 
@@ -277,7 +277,7 @@ Bright moving lights are among the most common triggers for Bahrain UFO stories.
 
 </div>
 
-The 2017 Bahrain sky incident shows how this process works. Residents reported a bright object moving across the night sky, and social media quickly labelled it a UFO. Bahrain’s Meteorological Department later stated that the object was not an alien craft but most likely a meteor or satellite debris entering the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNEPhotographs of what is believed to be an Unidentified Flying Object (UFO) have been swa...</span></span></span>
+The 2017 Bahrain sky incident shows how this process works. Residents reported a bright object moving across the night sky, and social media quickly labelled it a UFO. Bahrain’s Meteorological Department later stated that the object was not an alien craft but most likely a meteor or satellite debris entering the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNEPhotographs of what is believed to be an Unidentified Flying Object (UFO) have been swa...</span></span></span>
 
 This pattern is common because fireballs are visually extreme. A meteor entering the atmosphere can appear silent, glowing and unnaturally fast, sometimes leaving green or orange trails. Over water, without buildings or terrain for scale, observers may interpret such objects as hovering or manoeuvring. Satellite debris re-entry can appear even stranger because fragments may break apart into multiple glowing lights moving together.
 
@@ -292,7 +292,7 @@ The Gulf environment amplifies these misunderstandings:
 
 </div>
 
-Astronomy-related events also gain traction because many residents are not regular sky-watchers. A rare celestial event may therefore appear unprecedented even when it is scientifically ordinary. During annual meteor showers visible over Bahrain, local media routinely publish explanations encouraging viewers not to mistake bright streaks for unexplained craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/GDNOnline/posts/a-bright-object-seen-falling-from-the-sky-over-bahrain-last-night-was-a-satellit/10156815746042796/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">tellite debris, according to an expert...</span></span></span>
+Astronomy-related events also gain traction because many residents are not regular sky-watchers. A rare celestial event may therefore appear unprecedented even when it is scientifically ordinary. During annual meteor showers visible over Bahrain, local media routinely publish explanations encouraging viewers not to mistake bright streaks for unexplained craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/GDNOnline/posts/a-bright-object-seen-falling-from-the-sky-over-bahrain-last-night-was-a-satellit/10156815746042796/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">tellite debris, according to an expert...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UK7t1LkejLI" title="Gulf air defences intercept Iranian missiles targeting Saudi, Bahrain and Kuwait" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UK7t1LkejLI" target="_blank" rel="noopener noreferrer">Gulf air defences intercept Iranian missiles targeting Saudi, Bahrain and Kuwait</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 243.6K &middot; Uploaded: March 2026 &middot; Length: 3 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UK7t1LkejLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UK7t1LkejLI">Open on YouTube</a></p></div></div></div>
 
@@ -349,9 +349,9 @@ This matters because the visual language of missile defence is inherently dramat
 
 For observers without context, such events can appear surreal or extraterrestrial.
 
-Regional conflict has repeatedly generated footage from Bahrain and neighbouring Gulf states showing unusual lights over the sea or high-altitude streaks at night. Social-media users frequently describe these scenes as “missiles”, “drones”, “fireballs” or “UFOs” interchangeably before verification occurs. Instagram <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.i24news.tv/en/news/middle-east/the-gulf/artc-video-shows-ballistic-missiles-launched-from-bahrain-in-direction-of-iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: i24news.tv">[2i24NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">i24news.tv</span><span class="citation-popover-title">artc video shows ballistic missiles launched from bahrain in direction of iran</span><span class="citation-popover-snippet">It is unclear from the video whether U.S. or Bahraini forces fired...Read more...</span></span></span>
+Regional conflict has repeatedly generated footage from Bahrain and neighbouring Gulf states showing unusual lights over the sea or high-altitude streaks at night. Social-media users frequently describe these scenes as “missiles”, “drones”, “fireballs” or “UFOs” interchangeably before verification occurs. Instagram<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.i24news.tv/en/news/middle-east/the-gulf/artc-video-shows-ballistic-missiles-launched-from-bahrain-in-direction-of-iran" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: i24news.tv">[2i24NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">i24news.tv</span><span class="citation-popover-title">artc video shows ballistic missiles launched from bahrain in direction of iran</span><span class="citation-popover-snippet">It is unclear from the video whether U.S. or Bahraini forces fired...Read more...</span></span></span>
 
-The March 2026 Bahrain explosion controversy illustrates how quickly confusion can spread during military tension. Initial narratives blamed an Iranian drone strike, while later open-source analysis suggested a Patriot interceptor missile may have detonated over a residential area after launch from a nearby defence battery. Witness videos showed bright objects crossing the night sky before a flash and explosion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/investigations/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds-2026-03-22/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Although Bahrain and the U.S. attribute the explosion to an Iranian drone attack intercepted mid-air, an independent analysis by experts...</span></span></span>
+The March 2026 Bahrain explosion controversy illustrates how quickly confusion can spread during military tension. Initial narratives blamed an Iranian drone strike, while later open-source analysis suggested a Patriot interceptor missile may have detonated over a residential area after launch from a nearby defence battery. Witness videos showed bright objects crossing the night sky before a flash and explosion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/investigations/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds-2026-03-22/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Although Bahrain and the U.S. attribute the explosion to an Iranian drone attack intercepted mid-air, an independent analysis by experts...</span></span></span>
 
 Even when events are eventually identified, the imagery leaves a cultural residue. Residents who witness glowing interceptors or atmospheric detonations may later reinterpret unrelated lights through the same lens. In periods of regional anxiety, people become primed to interpret ambiguous aerial events as threatening or extraordinary.
 
@@ -400,7 +400,7 @@ Several recurring weaknesses appear in Bahrain UFO claims:
 
 </div>
 
-The strongest Bahrain cases therefore tend to become weaker over time rather than stronger. The 2015 Hidd image remained unresolved largely because evidence quality was poor, not because evidence for something extraordinary increased. The 2017 bright-sky event moved rapidly toward a meteor explanation once specialists commented publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNEPhotographs of what is believed to be an Unidentified Flying Object (UFO) have been swa...</span></span></span>
+The strongest Bahrain cases therefore tend to become weaker over time rather than stronger. The 2015 Hidd image remained unresolved largely because evidence quality was poor, not because evidence for something extraordinary increased. The 2017 bright-sky event moved rapidly toward a meteor explanation once specialists commented publicly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsofbahrain.com">[News of Bahrain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsofbahrain.com</span><span class="citation-popover-snippet">News of BahrainUFO in Bahrain? &#124; THE DAILY TRIBUNEPhotographs of what is believed to be an Unidentified Flying Object (UFO) have been swa...</span></span></span>
 
 This does not mean witnesses are inventing stories. Most observers are reporting something genuinely unusual-looking. The key issue is interpretation. Bahrain’s environment naturally produces brief, ambiguous sky events that appear dramatic when viewed under Gulf atmospheric conditions or through phone cameras.
 
@@ -417,194 +417,194 @@ That combination means Bahrain repeatedly produces UFO rumours even when the und
 The pattern is less a story about extraterrestrials than about modern perception under pressure: how people interpret incomplete visual information, how online audiences reward mystery, and how quickly ordinary sky events can become culturally memorable once labelled “unidentified”.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Bahrain Sky Events Become UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Bahrain Sky Events Become UFO Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores recurring patterns in witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores recurring patterns in witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Addresses mistaken identifications involving lights, planets, aircraft and satellites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses mistaken identifications involving lights, planets, aircraft and satellites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating reports of unusual aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating reports of unusual aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how misinformation and misinterpretation spread around unusual events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how misinformation and misinterpretation spread around unusual events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-bahrain-sky-events-become-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-bahrain-sky-events-become-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ The pattern is less a story about extraterrestrials than about modern perception
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ The pattern is less a story about extraterrestrials than about modern perception
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ The pattern is less a story about extraterrestrials than about modern perception
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ The pattern is less a story about extraterrestrials than about modern perception
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -769,7 +769,7 @@ The pattern is less a story about extraterrestrials than about modern perception
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -807,141 +807,140 @@ The pattern is less a story about extraterrestrials than about modern perception
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/investigations/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds-2026-03-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/investigations/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds-2026-03-22/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Although Bahrain and the U.S. attribute the explosion to an Iranian drone attack intercepted mid-air, an independent analysis by experts...</p></details>
+   Link:<a href="https://www.reuters.com/investigations/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds-2026-03-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/investigations/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds-2026-03-22/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although Bahrain and the U.S. attribute the explosion to an Iranian drone attack intercepted mid-air, an independent analysis by experts...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GDNOnline/posts/a-bright-object-seen-falling-from-the-sky-over-bahrain-last-night-was-a-satellit/10156815746042796/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GDNOnline/posts/a-bright-object-seen-falling-from-the-sky-over-bahrain-last-night-was-a-satellit/10156815746042796/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tellite debris, according to an expert...</p></details>
+   Link:<a href="https://www.facebook.com/GDNOnline/posts/a-bright-object-seen-falling-from-the-sky-over-bahrain-last-night-was-a-satellit/10156815746042796/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GDNOnline/posts/a-bright-object-seen-falling-from-the-sky-over-bahrain-last-night-was-a-satellit/10156815746042796/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tellite debris, according to an expert...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GDNOnline/posts/a-unique-cosmic-phenomenon-is-taking-place-in-bahrains-skiesone-of-the-most-prol/10161401671577796/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GDNOnline/posts/a-unique-cosmic-phenomenon-is-taking-place-in-bahrains-skiesone-of-the-most-prol/10161401671577796/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(File photo) · Bahrain...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/GDNOnline/posts/a-unique-cosmic-phenomenon-is-taking-place-in-bahrains-skiesone-of-the-most-prol/10161401671577796/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GDNOnline/posts/a-unique-cosmic-phenomenon-is-taking-place-in-bahrains-skiesone-of-the-most-prol/10161401671577796/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(File photo) · Bahrain...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DK9tovQITC0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DK9tovQITC0/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Residents in Kuwait, Bahrain and several Gulf regions...Residents in Kuwait, Bahrain and several Gulf regions, including Hafar...</p></details>
+   Link:<a href="https://www.instagram.com/p/DK9tovQITC0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DK9tovQITC0/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Residents in Kuwait, Bahrain and several Gulf regions...Residents in Kuwait, Bahrain and several Gulf regions, including Hafar...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: i24news.tv  
    Title: artc video shows ballistic missiles launched from bahrain in direction of iran  
-   Link: <a href="https://www.i24news.tv/en/news/middle-east/the-gulf/artc-video-shows-ballistic-missiles-launched-from-bahrain-in-direction-of-iran" target="_blank" rel="noopener noreferrer nofollow">https://www.i24news.tv/en/news/middle-east/the-gulf/artc-video-shows-ballistic-missiles-launched-from-bahrain-in-direction-of-iran</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is unclear from the video whether U.S. or Bahraini forces fired...Read more...</p></details>
+   Link:<a href="https://www.i24news.tv/en/news/middle-east/the-gulf/artc-video-shows-ballistic-missiles-launched-from-bahrain-in-direction-of-iran" target="_blank" rel="noopener noreferrer nofollow">https://www.i24news.tv/en/news/middle-east/the-gulf/artc-video-shows-ballistic-missiles-launched-from-bahrain-in-direction-of-iran</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is unclear from the video whether U.S. or Bahraini forces fired...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/middle-east/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds-2026-03-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds-2026-03-22/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bahrain and the U.S. attributed the incident to an Iranian drone, claiming the missile intercepted the drone mid-air. However, no visual...</p></details>
+   Link:<a href="https://www.reuters.com/world/middle-east/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds-2026-03-22/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds-2026-03-22/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bahrain and the U.S. attributed the incident to an Iranian drone, claiming the missile intercepted the drone mid-air. However, no visual...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cctvcom/posts/updates-after-us-israel-struck-iran-missile-attack-on-bahrain-targets-us-fifth-f/1471253677693056/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cctvcom/posts/updates-after-us-israel-struck-iran-missile-attack-on-bahrain-targets-us-fifth-f/1471253677693056/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Iranian missile intercepted over Qatar: Al JazeeraVerified footage from OSINTtechnical and local witnesses shows a high-velocity impact f...</p></details>
+   Link:<a href="https://www.facebook.com/cctvcom/posts/updates-after-us-israel-struck-iran-missile-attack-on-bahrain-targets-us-fifth-f/1471253677693056/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cctvcom/posts/updates-after-us-israel-struck-iran-missile-attack-on-bahrain-targets-us-fifth-f/1471253677693056/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iranian missile intercepted over Qatar: Al JazeeraVerified footage from OSINTtechnical and local witnesses shows a high-velocity impact f...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVYCStSApGt/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVYCStSApGt/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>naval base in Manama, Bahrain, triggering massive explosions and...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DVYCStSApGt/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVYCStSApGt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>naval base in Manama, Bahrain, triggering massive explosions and...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DBygKZcszdA/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DBygKZcszdA/?hl=en-gb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>🚨 UFO over Bahrain?! 👽 One of our followers spotted this...UFO over Bahrain?! One of our followers spotted this strange light near Zalla...</p></details>
+   Link:<a href="https://www.instagram.com/p/DBygKZcszdA/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DBygKZcszdA/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🚨 UFO over Bahrain?! 👽 One of our followers spotted this...UFO over Bahrain?! One of our followers spotted this strange light near Zalla...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DGYLoB3qgwU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGYLoB3qgwU/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ial beings. Are they here as saviors or conquerors? #...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DGYLoB3qgwU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGYLoB3qgwU/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ial beings. Are they here as saviors or conquerors? #...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYuP-imDr9W/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYuP-imDr9W/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War has published War.Gov/UFO to release &quot;never before seen&quot; government documents relating to &quot;Unidentified Anomalous...Re...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYuP-imDr9W/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYuP-imDr9W/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War has published War.Gov/UFO to release &quot;never before seen&quot; government documents relating to &quot;Unidentified Anomalous...Re...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: newsofbahrain.com  
-   Link: <a href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newsofbahrain.com/bahrain/9387.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News of BahrainUFO in Bahrain? | THE DAILY TRIBUNEPhotographs of what is believed to be an Unidentified Flying Object (UFO) have been swa...</p></details>
+   Link:<a href="https://www.newsofbahrain.com/bahrain/9387.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newsofbahrain.com/bahrain/9387.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News of BahrainUFO in Bahrain? | THE DAILY TRIBUNEPhotographs of what is believed to be an Unidentified Flying Object (UFO) have been swa...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newsofbahrain.com  
-   Link: <a href="https://www.newsofbahrain.com/bahrain/38761.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newsofbahrain.com/bahrain/38761.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News of BahrainObject that lit up Bahrain skies was not UFO18 Oct 2017 — Manama: The mysterious object that lit up the Bahrain skies on...</p></details>
+   Link:<a href="https://www.newsofbahrain.com/bahrain/38761.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newsofbahrain.com/bahrain/38761.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News of BahrainObject that lit up Bahrain skies was not UFO18 Oct 2017 — Manama: The mysterious object that lit up the Bahrain skies on...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: newsofbahrain.com  
    Title: PDF 14 08 2022 1660453491 H1jJTDU8Rm 14 08 2022  
-   Link: <a href="https://www.newsofbahrain.com/epaper/14-08-2022/PDF_14-08-2022_1660453491_H1jJTDU8Rm_14-08-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.newsofbahrain.com/epaper/14-08-2022/PDF_14-08-2022_1660453491_H1jJTDU8Rm_14-08-2022.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;most spectacular UFO photo ever captured&#x27;14 Aug 2022 — Here, for the first time, we can reveal that missing picture — a photograph o...</p></details>
+   Link:<a href="https://www.newsofbahrain.com/epaper/14-08-2022/PDF_14-08-2022_1660453491_H1jJTDU8Rm_14-08-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.newsofbahrain.com/epaper/14-08-2022/PDF_14-08-2022_1660453491_H1jJTDU8Rm_14-08-2022.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;most spectacular UFO photo ever captured&#x27;14 Aug 2022 — Here, for the first time, we can reveal that missing picture — a photograph o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: newsofbahrain.com  
-   Link: <a href="https://www.newsofbahrain.com/world/83242.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newsofbahrain.com/world/83242.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most spectacular UFO photo ever captured14 Aug 2022 — Here, for the first time, we can reveal that missing picture — a photograph one...</p></details>
+   Link:<a href="https://www.newsofbahrain.com/world/83242.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newsofbahrain.com/world/83242.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most spectacular UFO photo ever captured14 Aug 2022 — Here, for the first time, we can reveal that missing picture — a photograph one...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: documents1.worldbank.org  
-   Link: <a href="https://documents1.worldbank.org/curated/en/833831644296462061/txt/Blue-Skies-Blue-Seas-Air-Pollution-Marine-Plastics-and-Coastal-Erosion-in-the-Middle-East-and-North-Africa.txt" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/833831644296462061/txt/Blue-Skies-Blue-Seas-Air-Pollution-Marine-Plastics-and-Coastal-Erosion-in-the-Middle-East-and-North-Africa.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien species, and transportation of additives and organic pollutants to habitats and throughout the food chain (OSPAR 2020). A main conc...</p></details>
+   Link:<a href="https://documents1.worldbank.org/curated/en/833831644296462061/txt/Blue-Skies-Blue-Seas-Air-Pollution-Marine-Plastics-and-Coastal-Erosion-in-the-Middle-East-and-North-Africa.txt" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/833831644296462061/txt/Blue-Skies-Blue-Seas-Air-Pollution-Marine-Plastics-and-Coastal-Erosion-in-the-Middle-East-and-North-Africa.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien species, and transportation of additives and organic pollutants to habitats and throughout the food chain (OSPAR 2020). A main conc...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aa.com.tr  
-   Link: <a href="https://www.aa.com.tr/en/middle-east/missiles-launched-from-bahrain-toward-iran-in-possible-1st-gulf-origin-attack-report/3864721" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/middle-east/missiles-launched-from-bahrain-toward-iran-in-possible-1st-gulf-origin-attack-report/3864721</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anadolu AjansıMissiles launched from Bahrain toward Iran in possible 1st...14 Mar 2026 — Video verified by New York Times shows ballisti...</p></details>
+   Link:<a href="https://www.aa.com.tr/en/middle-east/missiles-launched-from-bahrain-toward-iran-in-possible-1st-gulf-origin-attack-report/3864721" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/middle-east/missiles-launched-from-bahrain-toward-iran-in-possible-1st-gulf-origin-attack-report/3864721</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anadolu AjansıMissiles launched from Bahrain toward Iran in possible 1st...14 Mar 2026 — Video verified by New York Times shows ballisti...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newarab.com  
    Title: patriot missile involved bahrain blast likely us operated analysis finds  
-   Link: <a href="https://www.newarab.com/news/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.newarab.com/news/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Patriot missile involved in Bahrain blast likely US-operated...22 Mar 2026 — An American-operated Patriot air defence battery likely fir...</p></details>
+   Link:<a href="https://www.newarab.com/news/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.newarab.com/news/patriot-missile-involved-bahrain-blast-likely-us-operated-analysis-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Patriot missile involved in Bahrain blast likely US-operated...22 Mar 2026 — An American-operated Patriot air defence battery likely fir...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ndl.ethernet.edu.et  
-   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/35830/1/37.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/35830/1/37.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ordinary practitioners of the city live “down below,” below the threshold at which...Read more...</p></details>
+   Link:<a href="https://ndl.ethernet.edu.et/bitstream/123456789/35830/1/37.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/35830/1/37.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ordinary practitioners of the city live “down below,” below the threshold at which...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: globalnation.inquirer.net  
    Title: dozens wounded in bahrain as gulf suffers missile drone attacks  
-   Link: <a href="https://globalnation.inquirer.net/313154/dozens-wounded-in-bahrain-as-gulf-suffers-missile-drone-attacks" target="_blank" rel="noopener noreferrer nofollow">https://globalnation.inquirer.net/313154/dozens-wounded-in-bahrain-as-gulf-suffers-missile-drone-attacks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wounded in Bahrain as Gulf suffers missile, drone...9 Mar 2026 — Bahrain said Monday that an Iranian drone attack on the island of Sitra...</p></details>
+   Link:<a href="https://globalnation.inquirer.net/313154/dozens-wounded-in-bahrain-as-gulf-suffers-missile-drone-attacks" target="_blank" rel="noopener noreferrer nofollow">https://globalnation.inquirer.net/313154/dozens-wounded-in-bahrain-as-gulf-suffers-missile-drone-attacks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wounded in Bahrain as Gulf suffers missile, drone...9 Mar 2026 — Bahrain said Monday that an Iranian drone attack on the island of Sitra...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: academia.edu  
    Title: Instrumentalisation of Migration in the Populist era (pp.168  
-   Link: <a href="https://www.academia.edu/126310424/Instrumentalisation_of_Migration_in_the_Populist_era_pp_168_174_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/126310424/Instrumentalisation_of_Migration_in_the_Populist_era_pp_168_174_</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bahrain&#x27;s Al-Hidd deportation centre. Alshammari, Y. (2024) Op-ed: Kuwait&#x27;s... Aliens Act (Vreemdelingenwet), a law that protects the ri...</p></details>
+   Link:<a href="https://www.academia.edu/126310424/Instrumentalisation_of_Migration_in_the_Populist_era_pp_168_174_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/126310424/Instrumentalisation_of_Migration_in_the_Populist_era_pp_168_174_</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bahrain&#x27;s Al-Hidd deportation centre. Alshammari, Y. (2024) Op-ed: Kuwait&#x27;s... Aliens Act (Vreemdelingenwet), a law that protects the ri...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gdnonline.com  
    Title: Nasa releases footage of UFO flying through Mideast  
-   Link: <a href="https://www.gdnonline.com/Details/1243432/Nasa-releases-footage-of-UFO-flying-through-Mideast" target="_blank" rel="noopener noreferrer nofollow">https://www.gdnonline.com/Details/1243432/Nasa-releases-footage-of-UFO-flying-through-Mideast</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Jun 2023 — One video appears to show a metallic, spherical orb flying over a desert in the Middle East, sometime in 2022.Read more...</p></details>
+   Link:<a href="https://www.gdnonline.com/Details/1243432/Nasa-releases-footage-of-UFO-flying-through-Mideast" target="_blank" rel="noopener noreferrer nofollow">https://www.gdnonline.com/Details/1243432/Nasa-releases-footage-of-UFO-flying-through-Mideast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Jun 2023 — One video appears to show a metallic, spherical orb flying over a desert in the Middle East, sometime in 2022.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
    Title: So just a normal day, Nothing to see here, move along citizens.Read more  
-   Link: <a href="https://www.reddit.com/r/Bahrain/comments/1c0bz45/is_this_a_shooting_star_i_saw_in_bahrain_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Bahrain/comments/1c0bz45/is_this_a_shooting_star_i_saw_in_bahrain_this/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is this a shooting star I saw in Bahrain this morning around...No, it&#x27;s just a Kryptonian ship that got attacked by Bahrain Defence Forc...</p></details>
+   Link:<a href="https://www.reddit.com/r/Bahrain/comments/1c0bz45/is_this_a_shooting_star_i_saw_in_bahrain_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Bahrain/comments/1c0bz45/is_this_a_shooting_star_i_saw_in_bahrain_this/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is this a shooting star I saw in Bahrain this morning around...No, it&#x27;s just a Kryptonian ship that got attacked by Bahrain Defence Forc...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ia801707.us.archive.org  
    Title: 2015.244420.Vidyajoti Vol 57 text  
-   Link: <a href="https://ia801707.us.archive.org/7/items/in.ernet.dli.2015.244420/2015.244420.Vidyajoti-Vol-57_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801707.us.archive.org/7/items/in.ernet.dli.2015.244420/2015.244420.Vidyajoti-Vol-57_text.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Quarterlymstitutkiaalise participation as alien to its needs and conditions. The Leninist vanguard party, the most typical politica...</p></details>
+   Link:<a href="https://ia801707.us.archive.org/7/items/in.ernet.dli.2015.244420/2015.244420.Vidyajoti-Vol-57_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801707.us.archive.org/7/items/in.ernet.dli.2015.244420/2015.244420.Vidyajoti-Vol-57_text.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Quarterlymstitutkiaalise participation as alien to its needs and conditions. The Leninist vanguard party, the most typical politica...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: mixedmigration.org  
    Title: Mixed Migration Review 2024  
-   Link: <a href="https://mixedmigration.org/wp-content/uploads/2024/11/Mixed-Migration-Review-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mixedmigration.org/wp-content/uploads/2024/11/Mixed-Migration-Review-2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Nov 2024 —... Aliens Act (Vreemdelingenwet), a law that protects the rights of asylum seekers, and temporarily bypass both the parliam...</p></details>
+   Link:<a href="https://mixedmigration.org/wp-content/uploads/2024/11/Mixed-Migration-Review-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mixedmigration.org/wp-content/uploads/2024/11/Mixed-Migration-Review-2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Nov 2024 —... Aliens Act (Vreemdelingenwet), a law that protects the rights of asylum seekers, and temporarily bypass both the parliam...</p></details>

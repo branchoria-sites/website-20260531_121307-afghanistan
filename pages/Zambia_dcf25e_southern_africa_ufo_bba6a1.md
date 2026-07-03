@@ -251,7 +251,7 @@ image: /assets/images/Zambia_dcf25e_southern_africa_ufo_bba6a1-Illustration-1-so
 Zambia appears only faintly in southern Africa’s UFO history. While neighbouring countries produced cases that entered international UFO literature, Zambia’s public record is mostly a handful of scattered sighting reports with limited documentation. That contrast helps explain an important pattern in UFO research: famous cases do not become famous simply because witnesses report unusual objects. They become famous because they generate large numbers of witnesses, sustained investigation, media coverage, interviews, drawings, photographs, official attention, or long-term public memory.
 
 <img src="{{ "/assets/images/Zambia_dcf25e_southern_africa_ufo_bba6a1-Illustration-1-dark.svg" | relative_url }}" alt="Regional Context illustration 1" data-theme-src-dark="{{ "/assets/images/Zambia_dcf25e_southern_africa_ufo_bba6a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Zambia_dcf25e_southern_africa_ufo_bba6a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The comparison is especially striking beside Zimbabwe’s Ariel School incident of 1994, one of the most widely discussed UFO cases in the world. Zambia has reports of strange lights and unexplained aerial observations, but it lacks a single event that created the same combination of witnesses, publicity and archival preservation. Looking at Zambia alongside Zimbabwe and South Africa therefore clarifies both the strengths and weaknesses of the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-title">2014 09 04 remembering zimbabwes great alien invasion</span><span class="citation-popover-snippet">She also received several reports of alien sightings around the same...Read more...</span></span></span>
+The comparison is especially striking beside Zimbabwe’s Ariel School incident of 1994, one of the most widely discussed UFO cases in the world. Zambia has reports of strange lights and unexplained aerial observations, but it lacks a single event that created the same combination of witnesses, publicity and archival preservation. Looking at Zambia alongside Zimbabwe and South Africa therefore clarifies both the strengths and weaknesses of the available evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-title">2014 09 04 remembering zimbabwes great alien invasion</span><span class="citation-popover-snippet">She also received several reports of alien sightings around the same...Read more...</span></span></span>
 
 ## Why Zambia's public UFO trail stays small
 
@@ -269,27 +269,27 @@ Several factors help explain this scarcity:
 
 </div>
 
-This does not mean fewer unusual aerial events occurred over Zambia. It means fewer reports entered the public archive and even fewer generated long-term documentation. By comparison, South Africa developed recurring civilian reporting networks and dedicated UFO researchers, while Zimbabwe became associated with a highly publicised school encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/2015-07-03-is-that-a-ufo-no-its-just-a-bird/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">2015 07 03 is that a ufo no its just a bird</span><span class="citation-popover-snippet">Is that a UFO? No, it&#x27;s just a bird03 Jul 2015 — There have been multiple reported sightings, dating all the way back to 1956. UFO Resear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/2015-07-03-is-that-a-ufo-no-its-just-a-bird/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">2015 07 03 is that a ufo no its just a bird</span><span class="citation-popover-snippet">Is that a UFO? No, it&#x27;s just a bird03 Jul 2015 — There have been multiple reported sightings, dating all the way back to 1956. UFO Resear...</span></span></span>
+This does not mean fewer unusual aerial events occurred over Zambia. It means fewer reports entered the public archive and even fewer generated long-term documentation. By comparison, South Africa developed recurring civilian reporting networks and dedicated UFO researchers, while Zimbabwe became associated with a highly publicised school encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/2015-07-03-is-that-a-ufo-no-its-just-a-bird/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">2015 07 03 is that a ufo no its just a bird</span><span class="citation-popover-snippet">Is that a UFO? No, it&#x27;s just a bird03 Jul 2015 — There have been multiple reported sightings, dating all the way back to 1956. UFO Resear...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/2015-07-03-is-that-a-ufo-no-its-just-a-bird/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">2015 07 03 is that a ufo no its just a bird</span><span class="citation-popover-snippet">Is that a UFO? No, it&#x27;s just a bird03 Jul 2015 — There have been multiple reported sightings, dating all the way back to 1956. UFO Resear...</span></span></span>
 
 ## What made Ariel School a larger case?
 
 The Ariel School case near Ruwa, Zimbabwe, became famous because it possessed several features absent from most Zambian reports.
 
-On 16 September 1994, more than sixty schoolchildren reported seeing an unusual craft and figures near their school grounds during a break period. Witnesses produced drawings, gave interviews and described broadly similar events despite differences in detail. The case quickly moved beyond a local sighting and became an international story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-title">2014 09 04 remembering zimbabwes great alien invasion</span><span class="citation-popover-snippet">She also received several reports of alien sightings around the same...Read more...</span></span></span>
+On 16 September 1994, more than sixty schoolchildren reported seeing an unusual craft and figures near their school grounds during a break period. Witnesses produced drawings, gave interviews and described broadly similar events despite differences in detail. The case quickly moved beyond a local sighting and became an international story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-title">2014 09 04 remembering zimbabwes great alien invasion</span><span class="citation-popover-snippet">She also received several reports of alien sightings around the same...Read more...</span></span></span>
 
-Three elements especially elevated Ariel School above ordinary UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">November 23, 2025 — On 16 September 1994, there was a UFO sighting outside Ruwa, Zimbabwe. [1] Sixty-two pupils at the Ariel School aged...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
+Three elements especially elevated Ariel School above ordinary UFO reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">November 23, 2025 — On 16 September 1994, there was a UFO sighting outside Ruwa, Zimbabwe. [1] Sixty-two pupils at the Ariel School aged...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
 
 ### Many witnesses in one place
 
 Most UFO reports involve one observer or a small group. Ariel involved dozens of children observing the same alleged event at roughly the same time and location.
 
-That does not automatically prove the extraordinary interpretation. Large groups can still misinterpret events, influence one another or reconstruct memories collectively. However, a large witness pool gives investigators more material to compare. Researchers could examine agreements, contradictions and recurring descriptions across many accounts rather than relying on a single testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">November 23, 2025 — On 16 September 1994, there was a UFO sighting outside Ruwa, Zimbabwe. [1] Sixty-two pupils at the Ariel School aged...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
+That does not automatically prove the extraordinary interpretation. Large groups can still misinterpret events, influence one another or reconstruct memories collectively. However, a large witness pool gives investigators more material to compare. Researchers could examine agreements, contradictions and recurring descriptions across many accounts rather than relying on a single testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">November 23, 2025 — On 16 September 1994, there was a UFO sighting outside Ruwa, Zimbabwe. [1] Sixty-two pupils at the Ariel School aged...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V9pH3cEF3VA" title="The Remarkable Ariel School UFO Incident: 60+ Students Saw Aliens Land On The Playground - MHP #222" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V9pH3cEF3VA" target="_blank" rel="noopener noreferrer">The Remarkable Ariel School UFO Incident: 60+ Students Saw Aliens Land On The Playground - MHP #222</a></p><p class="youtube-embed-meta">Channel: Mile Higher &middot; Views: 249.4K &middot; Uploaded: October 2022 &middot; Length: 1 hour 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V9pH3cEF3VA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V9pH3cEF3VA">Open on YouTube</a></p></div></div></div>
 
 ### Immediate interviews and preserved testimony
 
-The event generated witness drawings, recorded interviews and later follow-up investigations. Journalist Tim Leach and psychiatrist John Mack became closely associated with the case, and decades later documentaries and interviews continued to revisit the witnesses. John Mack Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt20216382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Ariel Phenomenon (2022)The film follows a BBC war reporter and Harvard psychiatrist Dr. John Mack... The gravity of the UFO/EBE even...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whyy.org">[WHYY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whyy.org</span><span class="citation-popover-snippet">Documentary explores the UFO sighting that changed...23 Oct 2023 — But UFOs and alien abductions were a bridge too far for Harvard...</span></span></span>
+The event generated witness drawings, recorded interviews and later follow-up investigations. Journalist Tim Leach and psychiatrist John Mack became closely associated with the case, and decades later documentaries and interviews continued to revisit the witnesses. John Mack Institute<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt20216382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Ariel Phenomenon (2022)The film follows a BBC war reporter and Harvard psychiatrist Dr. John Mack... The gravity of the UFO/EBE even...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whyy.org">[WHYY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whyy.org</span><span class="citation-popover-snippet">Documentary explores the UFO sighting that changed...23 Oct 2023 — But UFOs and alien abductions were a bridge too far for Harvard...</span></span></span>
 
 By contrast, Zambia's reported cases are usually preserved as short written submissions with relatively little supporting material. There are few known collections of interviews, sketches, site examinations or long-form investigations.
 
@@ -297,13 +297,13 @@ By contrast, Zambia's reported cases are usually preserved as short written subm
 
 Many UFO sightings involve distant lights. Ariel School offered a dramatic narrative: children, a schoolyard, alleged landed craft, reported occupants and claimed communication. Whether one accepts the story or not, it contains the kind of concrete details that attract journalists, filmmakers and UFO researchers.
 
-That narrative quality helped keep the case alive long after the original reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brattlefilm.org/movies/ariel-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brattlefilm.org">[2brattlefilm.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brattlefilm.org</span><span class="citation-popover-title">ariel phenomenon</span><span class="citation-popover-snippet">explores an African extraterrestrial encounter witnessed by over sixty schoolchildren in 1994. As a Harvard professor, a BBC war reporter...</span></span></span>
+That narrative quality helped keep the case alive long after the original reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brattlefilm.org/movies/ariel-phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brattlefilm.org">[2brattlefilm.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brattlefilm.org</span><span class="citation-popover-title">ariel phenomenon</span><span class="citation-popover-snippet">explores an African extraterrestrial encounter witnessed by over sixty schoolchildren in 1994. As a Harvard professor, a BBC war reporter...</span></span></span>
 
 ## South Africa shows a different path to UFO prominence
 
 South Africa became known for UFO reports through accumulation rather than through one dominant school encounter.
 
-Over decades, researchers, enthusiasts and media outlets documented numerous sightings across different provinces. South Africa also developed civilian UFO organisations and newsletters that collected reports and attempted investigations. This created a much larger public archive than Zambia's. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/2015-07-03-is-that-a-ufo-no-its-just-a-bird/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">2015 07 03 is that a ufo no its just a bird</span><span class="citation-popover-snippet">Is that a UFO? No, it&#x27;s just a bird03 Jul 2015 — There have been multiple reported sightings, dating all the way back to 1956. UFO Resear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/2015-07-03-is-that-a-ufo-no-its-just-a-bird/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">2015 07 03 is that a ufo no its just a bird</span><span class="citation-popover-snippet">Is that a UFO? No, it&#x27;s just a bird03 Jul 2015 — There have been multiple reported sightings, dating all the way back to 1956. UFO Resear...</span></span></span>
+Over decades, researchers, enthusiasts and media outlets documented numerous sightings across different provinces. South Africa also developed civilian UFO organisations and newsletters that collected reports and attempted investigations. This created a much larger public archive than Zambia's.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/2015-07-03-is-that-a-ufo-no-its-just-a-bird/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">2015 07 03 is that a ufo no its just a bird</span><span class="citation-popover-snippet">Is that a UFO? No, it&#x27;s just a bird03 Jul 2015 — There have been multiple reported sightings, dating all the way back to 1956. UFO Resear...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/2015-07-03-is-that-a-ufo-no-its-just-a-bird/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">2015 07 03 is that a ufo no its just a bird</span><span class="citation-popover-snippet">Is that a UFO? No, it&#x27;s just a bird03 Jul 2015 — There have been multiple reported sightings, dating all the way back to 1956. UFO Resear...</span></span></span>
 
 The South African record illustrates another route to UFO visibility:
 
@@ -317,7 +317,7 @@ The South African record illustrates another route to UFO visibility:
 
 </div>
 
-Yet a larger archive does not necessarily mean stronger evidence. Some of South Africa's best-known stories eventually became associated with hoaxes, unsupported rumours or unverifiable claims. The alleged Kalahari crash narrative is a good example. It circulated widely in UFO culture but has long faced serious credibility problems, with purported documents and supporting material repeatedly challenged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
+Yet a larger archive does not necessarily mean stronger evidence. Some of South Africa's best-known stories eventually became associated with hoaxes, unsupported rumours or unverifiable claims. The alleged Kalahari crash narrative is a good example. It circulated widely in UFO culture but has long faced serious credibility problems, with purported documents and supporting material repeatedly challenged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
 
 This distinction matters when comparing Zambia. A country can have a large UFO folklore tradition without possessing stronger evidence than a country with fewer reports.
 
@@ -326,7 +326,7 @@ This distinction matters when comparing Zambia. A country can have a large UFO f
 
 The scarcity of Zambian cases creates a different analytical situation.
 
-In famous cases, investigators must untangle decades of retellings, documentaries, internet debates and mythology. Ariel School, for example, has accumulated thousands of pages of commentary, sceptical analysis and believer interpretation since 1994. The amount of discussion often exceeds the amount of original evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-title">2014 09 04 remembering zimbabwes great alien invasion</span><span class="citation-popover-snippet">She also received several reports of alien sightings around the same...Read more...</span></span></span>
+In famous cases, investigators must untangle decades of retellings, documentaries, internet debates and mythology. Ariel School, for example, has accumulated thousands of pages of commentary, sceptical analysis and believer interpretation since 1994. The amount of discussion often exceeds the amount of original evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mg.co.za">[The Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mg.co.za</span><span class="citation-popover-title">2014 09 04 remembering zimbabwes great alien invasion</span><span class="citation-popover-snippet">She also received several reports of alien sightings around the same...Read more...</span></span></span>
 
 Zambia's reports are usually more straightforward:
 
@@ -346,13 +346,13 @@ This may seem less exciting, but it can produce a clearer evidential picture. In
 
 Comparing Zambia with its neighbours highlights several useful standards for evaluating UFO claims.
 
-**Witness quantity is not proof.** Ariel School gained attention partly because many children reported an event, but witness numbers alone cannot establish what was seen. Independent corroboration remains important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</span></span></span>
+**Witness quantity is not proof.** Ariel School gained attention partly because many children reported an event, but witness numbers alone cannot establish what was seen. Independent corroboration remains important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</span></span></span>
 
-**Documentation matters more than publicity.** South Africa contains numerous famous stories, but some of the most publicised examples remain poorly supported. Publicity can preserve a case without necessarily strengthening it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">November 23, 2025 — On 16 September 1994, there was a UFO sighting outside Ruwa, Zimbabwe. [1] Sixty-two pupils at the Ariel School aged...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
+**Documentation matters more than publicity.** South Africa contains numerous famous stories, but some of the most publicised examples remain poorly supported. Publicity can preserve a case without necessarily strengthening it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">November 23, 2025 — On 16 September 1994, there was a UFO sighting outside Ruwa, Zimbabwe. [1] Sixty-two pupils at the Ariel School aged...</span><span class="citation-popover-meta">Published: November 23, 2025</span></span></span>
 
 **Sparse evidence should remain sparse.** Zambia's small collection of reports does not justify dramatic conclusions. In many instances, the most accurate description is simply that an unusual aerial observation was reported and never conclusively identified.
 
-**Alternative explanations deserve equal attention.** Astronomical objects, aircraft, satellites, atmospheric effects and perceptual errors remain plausible explanations for many southern African sightings. Astronomical organisations routinely encourage detailed reporting because accurate timing, direction and duration often resolve apparently mysterious observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assa.saao.ac.za/contact-us/report-a-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assa.saao.ac.za">[assa.saao.ac.za]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assa.saao.ac.za</span><span class="citation-popover-snippet">Team will try and solve the mystery.Read more...</span></span></span>
+**Alternative explanations deserve equal attention.** Astronomical objects, aircraft, satellites, atmospheric effects and perceptual errors remain plausible explanations for many southern African sightings. Astronomical organisations routinely encourage detailed reporting because accurate timing, direction and duration often resolve apparently mysterious observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assa.saao.ac.za/contact-us/report-a-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assa.saao.ac.za">[assa.saao.ac.za]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assa.saao.ac.za</span><span class="citation-popover-snippet">Team will try and solve the mystery.Read more...</span></span></span>
 
 ## Why Zambia never acquired an "Ariel School" moment
 
@@ -372,199 +372,199 @@ A famous UFO case typically needs several factors at once:
 
 Zambia's public record contains reports of unusual lights and unexplained observations, but not a widely documented event that satisfied all of those conditions. As a result, Zambia occupies a quieter place in southern Africa's UFO history.
 
-That quieter position may actually provide a useful reminder. The region's most famous stories are not necessarily the strongest evidence for extraordinary phenomena. Often they are simply the cases that generated the largest surviving archive. Zambia's limited record demonstrates the other side of the equation: sightings can occur, be reported and remain unresolved without ever becoming part of global UFO folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close ·...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
+That quieter position may actually provide a useful reminder. The region's most famous stories are not necessarily the strongest evidence for extraordinary phenomena. Often they are simply the cases that generated the largest surviving archive. Zambia's limited record demonstrates the other side of the equation: sightings can occur, be reported and remain unresolved without ever becoming part of global UFO folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close ·...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MDRhQ2doBR4" title="The Untold Mysteries of UFOs in Zimbabwe | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MDRhQ2doBR4" target="_blank" rel="noopener noreferrer">The Untold Mysteries of UFOs in Zimbabwe | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Gemini Blessed TV &middot; Views: 8.5K &middot; Uploaded: December 2024 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MDRhQ2doBR4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MDRhQ2doBR4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Is Zambia Quieter Than Ariel School?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Is Zambia Quieter Than Ariel School?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Useful for comparing evidence quality across international UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing evidence quality across international UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Helps readers compare how major UFO cases become famous through documentation and publicity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare how major UFO cases become famous through documentation and publicity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains why some cases gain significance while others remain weakly documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why some cases gain significance while others remain weakly documented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides historical context for comparing reports across countries and cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for comparing reports across countries and cultures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-zambia-quieter-than-ariel-school-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-zambia-quieter-than-ariel-school-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ That quieter position may actually provide a useful reminder. The region's most 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ That quieter position may actually provide a useful reminder. The region's most 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ That quieter position may actually provide a useful reminder. The region's most 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ That quieter position may actually provide a useful reminder. The region's most 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ That quieter position may actually provide a useful reminder. The region's most 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,121 +767,120 @@ That quieter position may actually provide a useful reminder. The region's most 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 23, 2025 — On 16 September 1994, there was a UFO sighting outside Ruwa, Zimbabwe. [1] Sixty-two pupils at the Ariel School aged...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 23, 2025 — On 16 September 1994, there was a UFO sighting outside Ruwa, Zimbabwe. [1] Sixty-two pupils at the Ariel School aged...</p></details>
    Published: November 23, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close ·...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationData Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close ·...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: iol.co.za  
    Title: 2015 07 03 is that a ufo no its just a bird  
-   Link: <a href="https://iol.co.za/news/2015-07-03-is-that-a-ufo-no-its-just-a-bird/" target="_blank" rel="noopener noreferrer nofollow">https://iol.co.za/news/2015-07-03-is-that-a-ufo-no-its-just-a-bird/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is that a UFO? No, it&#x27;s just a bird03 Jul 2015 — There have been multiple reported sightings, dating all the way back to 1956. UFO Resear...</p></details>
+   Link:<a href="https://iol.co.za/news/2015-07-03-is-that-a-ufo-no-its-just-a-bird/" target="_blank" rel="noopener noreferrer nofollow">https://iol.co.za/news/2015-07-03-is-that-a-ufo-no-its-just-a-bird/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is that a UFO? No, it&#x27;s just a bird03 Jul 2015 — There have been multiple reported sightings, dating all the way back to 1956. UFO Resear...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt20216382/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt20216382/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel Phenomenon (2022)The film follows a BBC war reporter and Harvard psychiatrist Dr. John Mack... The gravity of the UFO/EBE even...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt20216382/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt20216382/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel Phenomenon (2022)The film follows a BBC war reporter and Harvard psychiatrist Dr. John Mack... The gravity of the UFO/EBE even...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: whyy.org  
-   Link: <a href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow">https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Documentary explores the UFO sighting that changed...23 Oct 2023 — But UFOs and alien abductions were a bridge too far for Harvard...</p></details>
+   Link:<a href="https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/" target="_blank" rel="noopener noreferrer nofollow">https://whyy.org/segments/documentary-explores-the-ufo-sighting-that-changed-the-course-of-62-childrens-lives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Documentary explores the UFO sighting that changed...23 Oct 2023 — But UFOs and alien abductions were a bridge too far for Harvard...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: brattlefilm.org  
    Title: ariel phenomenon  
-   Link: <a href="https://brattlefilm.org/movies/ariel-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://brattlefilm.org/movies/ariel-phenomenon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>explores an African extraterrestrial encounter witnessed by over sixty schoolchildren in 1994. As a Harvard professor, a BBC war reporter...</p></details>
+   Link:<a href="https://brattlefilm.org/movies/ariel-phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://brattlefilm.org/movies/ariel-phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>explores an African extraterrestrial encounter witnessed by over sixty schoolchildren in 1994. As a Harvard professor, a BBC war reporter...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO sightings in South Africa  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assa.saao.ac.za  
-   Link: <a href="https://assa.saao.ac.za/contact-us/report-a-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://assa.saao.ac.za/contact-us/report-a-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Team will try and solve the mystery.Read more...</p></details>
+   Link:<a href="https://assa.saao.ac.za/contact-us/report-a-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://assa.saao.ac.za/contact-us/report-a-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Team will try and solve the mystery.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.org  
    Title: UFO Register Vol 09 Parts 1 2 1978 djvu.txt  
-   Link: <a href="https://archive.org/stream/UFO_Register_Vol_09_Parts_1-2_1978/UFO_Register_Vol_09_Parts_1-2_1978_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_Register_Vol_09_Parts_1-2_1978/UFO_Register_Vol_09_Parts_1-2_1978_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Genuine UFOs s reports containing abundant data permitting thorough investigation.Read more...</p></details>
+   Link:<a href="https://archive.org/stream/UFO_Register_Vol_09_Parts_1-2_1978/UFO_Register_Vol_09_Parts_1-2_1978_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_Register_Vol_09_Parts_1-2_1978/UFO_Register_Vol_09_Parts_1-2_1978_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Genuine UFOs s reports containing abundant data permitting thorough investigation.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mg.co.za  
    Title: 2014 09 04 remembering zimbabwes great alien invasion  
-   Link: <a href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>She also received several reports of alien sightings around the same...Read more...</p></details>
+   Link:<a href="https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/article/2014-09-04-remembering-zimbabwes-great-alien-invasion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She also received several reports of alien sightings around the same...Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cu9a2z/bbc_journalist_allegedly_threatened_by_cia_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cu9a2z/bbc_journalist_allegedly_threatened_by_cia_over/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BBC Journalist Allegedly Threatened by CIA Over Ariel...Why do most UFO/alien incidents seem to come from the US?... r/UFOs - Why do mo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cu9a2z/bbc_journalist_allegedly_threatened_by_cia_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cu9a2z/bbc_journalist_allegedly_threatened_by_cia_over/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BBC Journalist Allegedly Threatened by CIA Over Ariel...Why do most UFO/alien incidents seem to come from the US?... r/UFOs - Why do mo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: svmoa.org  
-   Link: <a href="https://svmoa.org/node/4895?language=es" target="_blank" rel="noopener noreferrer nofollow">https://svmoa.org/node/4895?language=es</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FILM: Ariel PhenomenonIn this first feature documentary about the Ariel School UFO incident, a young woman returns to her school in rural...</p></details>
+   Link:<a href="https://svmoa.org/node/4895?language=es" target="_blank" rel="noopener noreferrer nofollow">https://svmoa.org/node/4895?language=es</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FILM: Ariel PhenomenonIn this first feature documentary about the Ariel School UFO incident, a young woman returns to her school in rural...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I never heard about the Kalahari UfO crash before, is it true...There was also an Art Bell interview with a South African pilot who clai...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I never heard about the Kalahari UfO crash before, is it true...There was also an Art Bell interview with a South African pilot who clai...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCK IN SOUTHERN AFRICA: Mysterious “Alien Beings”...What also makes this case interesting is reports of possible UFOs... UFO sighting...</p></details>
+   Link:<a href="https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61555361222634/posts/-shock-in-southern-africa-mysterious-alien-beings-allegedly-discovered-in-zimbab/122290146248178707/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCK IN SOUTHERN AFRICA: Mysterious “Alien Beings”...What also makes this case interesting is reports of possible UFOs... UFO sighting...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/zimcelebsofficial/posts/zctalk-how-old-were-you-when-you-knew-that-in-1994-there-was-a-ufo-sighting-outs/1038037983415013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/zimcelebsofficial/posts/zctalk-how-old-were-you-when-you-knew-that-in-1994-there-was-a-ufo-sighting-outs/1038037983415013/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ZimCelebs Official#alienatedstudio #aliensarereal #UFO #UAP #ufology #designstudio #space #artist #gift #alien #alienart #ufosighting #ro...</p></details>
+   Link:<a href="https://www.facebook.com/zimcelebsofficial/posts/zctalk-how-old-were-you-when-you-knew-that-in-1994-there-was-a-ufo-sighting-outs/1038037983415013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/zimcelebsofficial/posts/zctalk-how-old-were-you-when-you-knew-that-in-1994-there-was-a-ufo-sighting-outs/1038037983415013/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ZimCelebs Official#alienatedstudio #aliensarereal #UFO #UAP #ufology #designstudio #space #artist #gift #alien #alienart #ufosighting #ro...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and Other Paranormal InformationUFO and Other Paranormal Information... Review the search terms in response to requests for informat...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and Other Paranormal InformationUFO and Other Paranormal Information... Review the search terms in response to requests for informat...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: in september 1994 people in the rural town of ruwa in zimbabwe reported a strang  
-   Link: <a href="https://www.facebook.com/bbcworldservice/posts/in-september-1994-people-in-the-rural-town-of-ruwa-in-zimbabwe-reported-a-strang/4553995787952845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/posts/in-september-1994-people-in-the-rural-town-of-ruwa-in-zimbabwe-reported-a-strang/4553995787952845/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In September 1994, people in the rural town of Ruwa...The Ariel School UFO In September of 1994, over 60 pupils of the Ariel School near...</p></details>
+   Link:<a href="https://www.facebook.com/bbcworldservice/posts/in-september-1994-people-in-the-rural-town-of-ruwa-in-zimbabwe-reported-a-strang/4553995787952845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/posts/in-september-1994-people-in-the-rural-town-of-ruwa-in-zimbabwe-reported-a-strang/4553995787952845/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In September 1994, people in the rural town of Ruwa...The Ariel School UFO In September of 1994, over 60 pupils of the Ariel School near...</p></details>
    Published: september 1994  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mykss.com  
    Title: latest ufo sighting report 47 diamond shaped object over cape town south africa  
-   Link: <a href="https://mykss.com/en/article/latest-ufo-sighting-report-47-diamond-shaped-object-over-cape-town-south-africa/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/latest-ufo-sighting-report-47-diamond-shaped-object-over-cape-town-south-africa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO Sighting Report 47 Diamond Shaped Object Over...Apr 18, 2026 — UFO sighting report 47: diamond shaped object over Cape Town...</p></details>
+   Link:<a href="https://mykss.com/en/article/latest-ufo-sighting-report-47-diamond-shaped-object-over-cape-town-south-africa/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/latest-ufo-sighting-report-47-diamond-shaped-object-over-cape-town-south-africa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO Sighting Report 47 Diamond Shaped Object Over...Apr 18, 2026 — UFO sighting report 47: diamond shaped object over Cape Town...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/147q3he/building_18_at_wright_patterson_af_base/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/147q3he/building_18_at_wright_patterson_af_base/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s also interesting to note that the alien drawn on this South African declassified document has...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/147q3he/building_18_at_wright_patterson_af_base/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/147q3he/building_18_at_wright_patterson_af_base/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s also interesting to note that the alien drawn on this South African declassified document has...Read more...</p></details>

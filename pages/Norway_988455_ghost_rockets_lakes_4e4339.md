@@ -254,20 +254,20 @@ image: /assets/images/Norway_988455_ghost_rockets_lakes_4e4339-Illustration-1-so
 
 ## Introduction
 
-Stories about mysterious objects falling into Norwegian lakes sit at the intersection of Cold War fear, local testimony, UFO folklore, and repeated failed searches. The core question is simple: did anything unusual really crash into [Norway]({{ 'what-makes-norways-ufo-record-different/' | relative_url }})’s lakes during the Scandinavian ghost-rocket era and the decades that followed? The answer is more complicated. A handful of Norwegian cases contain credible witness testimony and enough detail to attract military attention, divers, and modern sonar teams. Yet none has produced verified wreckage, clear photographs of an object underwater, or conclusive physical evidence. What survives instead is a chain of reports, investigations, rumours, and recurring attempts to solve mysteries that never quite disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
+Stories about mysterious objects falling into Norwegian lakes sit at the intersection of Cold War fear, local testimony, UFO folklore, and repeated failed searches. The core question is simple: did anything unusual really crash into [Norway]({{ 'what-makes-norways-ufo-record-different/' | relative_url }})’s lakes during the Scandinavian ghost-rocket era and the decades that followed? The answer is more complicated. A handful of Norwegian cases contain credible witness testimony and enough detail to attract military attention, divers, and modern sonar teams. Yet none has produced verified wreckage, clear photographs of an object underwater, or conclusive physical evidence. What survives instead is a chain of reports, investigations, rumours, and recurring attempts to solve mysteries that never quite disappear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
 
 <img src="{{ "/assets/images/Norway_988455_ghost_rockets_lakes_4e4339-Illustration-1-dark.svg" | relative_url }}" alt="Lake Stories illustration 1" data-theme-src-dark="{{ "/assets/images/Norway_988455_ghost_rockets_lakes_4e4339-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norway_988455_ghost_rockets_lakes_4e4339-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Unlike many UFO stories, the Norwegian lake cases are not mainly about lights in the sky. They are about alleged impacts, splashdowns, and submerged objects. That difference matters because a claimed crash creates an expectation of recoverable evidence. Decades later, the absence of such evidence remains the central problem for every Norwegian lake-crash story.
 
 ## The 1946 Ghost-Rocket Backdrop
 
-Norway’s lake mysteries cannot be separated from the wider Scandinavian ghost-rocket wave of 1946. Hundreds of reports emerged across Sweden, Finland, and Norway, describing rocket-like or cigar-shaped objects crossing the sky. At the time, many observers suspected secret Soviet tests of captured German missile technology. Military authorities took the reports seriously enough to launch investigations, restrict some reporting details, and examine alleged debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
+Norway’s lake mysteries cannot be separated from the wider Scandinavian ghost-rocket wave of 1946. Hundreds of reports emerged across Sweden, Finland, and Norway, describing rocket-like or cigar-shaped objects crossing the sky. At the time, many observers suspected secret Soviet tests of captured German missile technology. Military authorities took the reports seriously enough to launch investigations, restrict some reporting details, and examine alleged debris.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
 
-One feature of the ghost-rocket wave became especially influential: repeated claims that objects entered lakes. Witnesses across Scandinavia reported missiles or aircraft-like objects descending into water, sometimes accompanied by loud noises, splashes, or shockwaves. Swedish military teams conducted several underwater searches, finding disturbed lake bottoms in some cases but no recovered craft. Those unsuccessful searches established a pattern that would later appear in Norway as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
+One feature of the ghost-rocket wave became especially influential: repeated claims that objects entered lakes. Witnesses across Scandinavia reported missiles or aircraft-like objects descending into water, sometimes accompanied by loud noises, splashes, or shockwaves. Swedish military teams conducted several underwater searches, finding disturbed lake bottoms in some cases but no recovered craft. Those unsuccessful searches established a pattern that would later appear in Norway as well.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
 
 The historical context is important because Norway was observing these events during a period of intense uncertainty. The Second World War had ended only recently. German rocket technology was still poorly understood by the public. Early Cold War tensions were growing. In that environment, reports of strange aerial objects naturally acquired military significance even when evidence remained thin.
 
-Modern sceptical assessments note that many ghost-rocket sightings coincided with meteor activity and may have involved fireballs, atmospheric phenomena, or ordinary misperceptions of distance and speed. Yet investigators also acknowledged that some reports contained details that did not fit straightforward meteor explanations. The result was a mixture of explainable cases and a smaller number that remained unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
+Modern sceptical assessments note that many ghost-rocket sightings coincided with meteor activity and may have involved fireballs, atmospheric phenomena, or ordinary misperceptions of distance and speed. Yet investigators also acknowledged that some reports contained details that did not fit straightforward meteor explanations. The result was a mixture of explainable cases and a smaller number that remained unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
 
 ## Why Lake-Crash Stories Persist Longer Than Sky Sightings
 
@@ -283,9 +283,9 @@ For this reason, Norwegian lake-crash stories tend to exist in a permanent state
 
 ## Djupsjøen: Norway’s Most Famous Lake-Crash Case
 
-The strongest and most discussed Norwegian lake story centres on Lake Djupsjøen near Røros. The event allegedly occurred in early August 1947 and has become one of Norway’s best-known ghost-rocket-related cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
+The strongest and most discussed Norwegian lake story centres on Lake Djupsjøen near Røros. The event allegedly occurred in early August 1947 and has become one of Norway’s best-known ghost-rocket-related cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
 
-According to later witness accounts, farmer Bernhard Sollie and Harald Engvik heard a deep roaring sound before seeing a metallic blue-grey object approaching at high speed. Sollie described it as egg-shaped with wing-like protrusions. The object reportedly slowed, altered course to avoid an island, struck the water, and then floated on the lake surface. When the witnesses returned later, it had vanished. Sollie’s wife and daughter reportedly heard the noise and observed the object after it had reached the lake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
+According to later witness accounts, farmer Bernhard Sollie and Harald Engvik heard a deep roaring sound before seeing a metallic blue-grey object approaching at high speed. Sollie described it as egg-shaped with wing-like protrusions. The object reportedly slowed, altered course to avoid an island, struck the water, and then floated on the lake surface. When the witnesses returned later, it had vanished. Sollie’s wife and daughter reportedly heard the noise and observed the object after it had reached the lake.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
 
 Several aspects of the story have made it unusually durable:
 
@@ -298,11 +298,11 @@ Several aspects of the story have made it unusually durable:
 
 </div>
 
-At the same time, important limitations remain. The account did not become widely public until years later. One key witness died before extensive interviewing. Much of the documentation from early investigations was eventually lost. As a result, modern researchers rely heavily on surviving reports and newspaper material rather than complete original [records]({{ 'records-2b5d25/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
+At the same time, important limitations remain. The account did not become widely public until years later. One key witness died before extensive interviewing. Much of the documentation from early investigations was eventually lost. As a result, modern researchers rely heavily on surviving reports and newspaper material rather than complete original [records]({{ 'records-2b5d25/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
 
 ### The Searches of 1967 and 1973
 
-Once the story entered public circulation, local UFO investigators organised underwater searches. Divers examined the lake in 1967 and again in 1973. Neither operation recovered an object or produced definitive evidence supporting a crash narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
+Once the story entered public circulation, local UFO investigators organised underwater searches. Divers examined the lake in 1967 and again in 1973. Neither operation recovered an object or produced definitive evidence supporting a crash narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
 
 These failures are often overlooked in popular retellings. The fact that modern searches continue sometimes creates the impression that the lake has never been investigated. In reality, several generations of investigators have already looked for evidence.
 
@@ -311,9 +311,9 @@ The historical significance of those early searches lies less in what they found
 <img src="{{ "/assets/images/Norway_988455_ghost_rockets_lakes_4e4339-Illustration-2-dark.svg" | relative_url }}" alt="Lake Stories illustration 2" data-theme-src-dark="{{ "/assets/images/Norway_988455_ghost_rockets_lakes_4e4339-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Norway_988455_ghost_rockets_lakes_4e4339-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern Sonar Claims and the Return to Djupsjøen
 
-Interest in Djupsjøen surged again in the 2020s when Norwegian researchers and enthusiasts launched new surveys using modern underwater technology. The effort was connected partly to renewed interest in historical Scandinavian UFO cases and partly to documentary projects focused on Norwegian anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
+Interest in Djupsjøen surged again in the 2020s when Norwegian researchers and enthusiasts launched new surveys using modern underwater technology. The effort was connected partly to renewed interest in historical Scandinavian UFO cases and partly to documentary projects focused on Norwegian anomalies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
 
-A detailed sonar mapping operation identified what participants described as an “object of interest” roughly twenty metres below the surface. Estimates placed the anomaly at approximately fifteen metres long and several metres wide. Remote vehicle inspections suggested that thick mud covered the relevant area. Divers later reported substantial sediment and extremely hard clay beneath it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
+A detailed sonar mapping operation identified what participants described as an “object of interest” roughly twenty metres below the surface. Estimates placed the anomaly at approximately fifteen metres long and several metres wide. Remote vehicle inspections suggested that thick mud covered the relevant area. Divers later reported substantial sediment and extremely hard clay beneath it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
 
 The discovery immediately generated headlines because it appeared to offer a tangible target after decades of speculation. Yet the evidence remained far less dramatic than some news summaries suggested.
 
@@ -325,7 +325,7 @@ Several cautionary points are worth keeping in mind:
 * The reported dimensions are much larger than many witness descriptions from 1947.
 * Divers did not expose a craft, hull, or identifiable structure.
 * No material sample linked to an aircraft or unknown object was recovered.
-* Investigators themselves acknowledged that the anomaly remained buried beneath sediment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
+* Investigators themselves acknowledged that the anomaly remained buried beneath sediment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
 
 </div>
 
@@ -373,197 +373,197 @@ The [Hessdalen]({{ 'hessdalen/' | relative_url }}) lights became important becau
 
 Djupsjøen in particular demonstrates how a single report can survive for generations. Witness testimony led to diver searches. Failed searches led to renewed curiosity. Modern sonar produced a fresh anomaly. That anomaly created another round of investigation without delivering a final answer.
 
-For historians, the most reasonable assessment remains cautious. Norwegian lake-crash stories are genuine parts of the country’s UFO history and deserve attention as documented cultural and investigative events. Yet the available evidence still supports uncertainty rather than confirmation. The lakes have produced intriguing narratives, a handful of serious searches, and a few unexplained findings on sonar. They have not produced a recovered ghost rocket. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
+For historians, the most reasonable assessment remains cautious. Norwegian lake-crash stories are genuine parts of the country’s UFO history and deserve attention as documented cultural and investigative events. Yet the available evidence still supports uncertainty rather than confirmation. The lakes have produced intriguing narratives, a handful of serious searches, and a few unexplained findings on sonar. They have not produced a recovered ghost rocket.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcheck.com">[UAP Check]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcheck.com</span><span class="citation-popover-snippet">UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Anything Really Fall Into Norway&#x27;s Lakes?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Anything Really Fall Into Norway&#x27;s Lakes?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Useful for analysing crash claims, rumours, and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for analysing crash claims, rumours, and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparison cases involving stronger documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison cases involving stronger documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Addresses how crash and sighting reports should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how crash and sighting reports should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
+</h4>
+<p class="fr-book-author">By Donald Keyhoe</p>
         
-        <p class="fr-book-desc">Reflects the era and mindset that shaped ghost-rocket interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reflects the era and mindset that shaped ghost-rocket interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anything-really-fall-into-norway-s-lakes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-anything-really-fall-into-norway-s-lakes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ For historians, the most reasonable assessment remains cautious. Norwegian lake-
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ For historians, the most reasonable assessment remains cautious. Norwegian lake-
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ For historians, the most reasonable assessment remains cautious. Norwegian lake-
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ For historians, the most reasonable assessment remains cautious. Norwegian lake-
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ For historians, the most reasonable assessment remains cautious. Norwegian lake-
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,79 +766,78 @@ For historians, the most reasonable assessment remains cautious. Norwegian lake-
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ghost rockets  
-   Link: <a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: uapcheck.com  
-   Link: <a href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</p></details>
+   Link:<a href="https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/it/notizie/id/2397/a-ghost-rocket-found-in-a-norwegian-lake/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP CheckA Ghost Rocket Found in a Norwegian Lake?&quot;Ghost rocket&quot; sightings were even stranger than UFOs. And when one was reported as fal...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: uapcheck.com  
-   Link: <a href="https://www.uapcheck.com/news/tag/lake%20Djupsj%C3%B8en/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/tag/lake%20Djupsj%C3%B8en/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search by tag: « lake DjupsjøenUAP Check is the first online investigation tool allowing you to quickly check whether an observed phenome...</p></details>
+   Link:<a href="https://www.uapcheck.com/news/tag/lake%20Djupsj%C3%B8en/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcheck.com/news/tag/lake%20Djupsj%C3%B8en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search by tag: « lake DjupsjøenUAP Check is the first online investigation tool allowing you to quickly check whether an observed phenome...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.iheart.com  
    Title: 2024 03 05 norwegian researchers search frozen lake for ufo spotted 77 years ago  
-   Link: <a href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-03-05-norwegian-researchers-search-frozen-lake-for-ufo-spotted-77-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2024-03-05-norwegian-researchers-search-frozen-lake-for-ufo-spotted-77-years-ago/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers Search Frozen Lake for UFO...5 Mar 2024 — Researchers in Norway are searching a frozen lake for an apocryphal UFO that was s...</p></details>
+   Link:<a href="https://news.iheart.com/featured/coast-to-coast-am/content/2024-03-05-norwegian-researchers-search-frozen-lake-for-ufo-spotted-77-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2024-03-05-norwegian-researchers-search-frozen-lake-for-ufo-spotted-77-years-ago/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers Search Frozen Lake for UFO...5 Mar 2024 — Researchers in Norway are searching a frozen lake for an apocryphal UFO that was s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Top 10 Government Files About UFOs That Should Never Have Been Released  
-   Link: <a href="https://www.youtube.com/watch?v=oMKOfpu68Go" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oMKOfpu68Go</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sweden&#x27;s Secret Crash Retrievals Night Hawk337 · 5 views Massive &#x27;Rocket&#x27; Hits Lake But Leaves No Debris | Close Encounters Science Chann...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oMKOfpu68Go" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oMKOfpu68Go</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sweden&#x27;s Secret Crash Retrievals Night Hawk337 · 5 views Massive &#x27;Rocket&#x27; Hits Lake But Leaves No Debris | Close Encounters Science Chann...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: x.com  
-   Link: <a href="https://x.com/dailystar/status/1765387372160508214" target="_blank" rel="noopener noreferrer nofollow">https://x.com/dailystar/status/1765387372160508214</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>g and around 10 feet wide object under the surface of Lake...Read more...</p></details>
+   Link:<a href="https://x.com/dailystar/status/1765387372160508214" target="_blank" rel="noopener noreferrer nofollow">https://x.com/dailystar/status/1765387372160508214</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g and around 10 feet wide object under the surface of Lake...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Side-Scan Sonar IMAGE of Unknown Object bottom Lake  
-   Link: <a href="https://www.youtube.com/watch?v=UhQYryJ2qSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UhQYryJ2qSk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost Rockets in Lake Gypsjon - called Operation Arctic Seals.... / reels. Side-Scan Sonar IMAGE of Unknown Object bottom Lake Djupsjøen...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UhQYryJ2qSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UhQYryJ2qSk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost Rockets in Lake Gypsjon - called Operation Arctic Seals.... / reels. Side-Scan Sonar IMAGE of Unknown Object bottom Lake Djupsjøen...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: norway ufo crashed in 1947 spotted underwater by  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b6652x/norway_ufo_crashed_in_1947_spotted_underwater_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b6652x/norway_ufo_crashed_in_1947_spotted_underwater_by/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weirdly, this spot is not to far from another interesting UFO hotspot in Norway.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b6652x/norway_ufo_crashed_in_1947_spotted_underwater_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b6652x/norway_ufo_crashed_in_1947_spotted_underwater_by/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weirdly, this spot is not to far from another interesting UFO hotspot in Norway.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Massive 'Rocket' Hits Lake But Leaves No Debris | Close Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=xMtAjrLEuLM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xMtAjrLEuLM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MYSTERIOUS LIGHTS over Norway | The Proof is Out There (Season 2) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xMtAjrLEuLM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xMtAjrLEuLM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MYSTERIOUS LIGHTS over Norway | The Proof is Out There (Season 2) | History...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Diving in FROZEN LAKE for Crashed UFO! 🥶 Expedition X BEST BITS  
-   Link: <a href="https://www.youtube.com/watch?v=L1FUV919Wvk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L1FUV919Wvk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Massive &#x27;Rocket&#x27; Hits Lake But Leaves No Debris | Close Encounters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=L1FUV919Wvk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L1FUV919Wvk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Massive &#x27;Rocket&#x27; Hits Lake But Leaves No Debris | Close Encounters...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Sweden's Secret Crash Retrievals  
-   Link: <a href="https://www.youtube.com/watch?v=EM07QA6GpAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EM07QA6GpAk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Government Files About UFOs That Should Never Have Been Released...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EM07QA6GpAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EM07QA6GpAk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Government Files About UFOs That Should Never Have Been Released...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: MYSTERIOUS LIGHTS over Norway | The Proof is Out There (Season 2) | History  
-   Link: <a href="https://www.youtube.com/watch?v=7hBUk13yE8s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7hBUk13yE8s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sweden&#x27;s Secret Crash Retrievals...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7hBUk13yE8s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7hBUk13yE8s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sweden&#x27;s Secret Crash Retrievals...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Tt_ahkGBB14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tt_ahkGBB14</a>
+   Link:<a href="https://www.youtube.com/watch?v=Tt_ahkGBB14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tt_ahkGBB14</a>

@@ -248,16 +248,16 @@ image: /assets/images/Antigua_and_Barbuda_0f8518_antigua_air_station_4f67a0-Illu
 
 ## Introduction
 
-Antigua Air Station occupies a distinctive place in the UFO folklore of [Antigua and Barbuda]({{ 'antigua-and-barbuda/' | relative_url }}) because it was a real Cold War and space-era tracking facility, not a rumoured secret base. For decades the station formed part of the United States Eastern Range network used to monitor rockets, missiles, telemetry and space launches linked to Cape Canaveral. That military and aerospace role gave unusual lights in the Antiguan sky an official-looking backdrop that could make UFO interpretations seem more plausible to local observers. At the same time, the station also provides one of the strongest ordinary explanations for many sightings: sophisticated tracking operations, launch-related activity, aircraft traffic and atmospheric effects connected to space missions were all genuine features of the island’s environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sailingweek.com/antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sailingweek.com">[Antigua]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sailingweek.com</span><span class="citation-popover-title">antigua air station</span><span class="citation-popover-snippet">Antigua Sailing WeekAntigua Air StationAug 18, 2012 — The Antigua Air Station was established in the early 1960&#x27;s as a downrange tracking...</span></span></span>
+Antigua Air Station occupies a distinctive place in the UFO folklore of [Antigua and Barbuda]({{ 'antigua-and-barbuda/' | relative_url }}) because it was a real Cold War and space-era tracking facility, not a rumoured secret base. For decades the station formed part of the United States Eastern Range network used to monitor rockets, missiles, telemetry and space launches linked to Cape Canaveral. That military and aerospace role gave unusual lights in the Antiguan sky an official-looking backdrop that could make UFO interpretations seem more plausible to local observers. At the same time, the station also provides one of the strongest ordinary explanations for many sightings: sophisticated tracking operations, launch-related activity, aircraft traffic and atmospheric effects connected to space missions were all genuine features of the island’s environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sailingweek.com/antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sailingweek.com">[Antigua]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sailingweek.com</span><span class="citation-popover-title">antigua air station</span><span class="citation-popover-snippet">Antigua Sailing WeekAntigua Air StationAug 18, 2012 — The Antigua Air Station was established in the early 1960&#x27;s as a downrange tracking...</span></span></span>
 
 <img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_antigua_air_station_4f67a0-Illustration-1-dark.svg" | relative_url }}" alt="Air Station illustration 1" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_antigua_air_station_4f67a0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_antigua_air_station_4f67a0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is a recurring tension in Antigua’s UFO narrative. The existence of a US Air Force-linked installation encouraged speculation that unusual aerial events might be monitored, hidden or quietly investigated. Yet the historical record points more strongly towards the station creating opportunities for misinterpretation than towards documented evidence of extraterrestrial craft. Antigua’s UFO stories are therefore inseparable from the island’s role in the wider infrastructure of American space tracking during the Cold War and after.
 
 ## What the tracking facility actually did
 
-Antigua Air Station was established in the early 1960s as part of the Eastern Range system associated with Cape Canaveral missile and space operations. The station’s mission was technical rather than defensive: it handled telemetry, communications and tracking support for rockets and launch vehicles travelling over the Atlantic. Contemporary Air Force material later described it as one of the primary instrumentation sites for “space and launch vehicle tracking support”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airandspaceforces.com/antigua-air-station-inactivated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">antigua air station inactivated</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineAntigua Air Station InactivatedJul 16, 2015 — The Air Force inactivated Antigua Air Station, which has served...</span></span></span>
+Antigua Air Station was established in the early 1960s as part of the Eastern Range system associated with Cape Canaveral missile and space operations. The station’s mission was technical rather than defensive: it handled telemetry, communications and tracking support for rockets and launch vehicles travelling over the Atlantic. Contemporary Air Force material later described it as one of the primary instrumentation sites for “space and launch vehicle tracking support”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airandspaceforces.com/antigua-air-station-inactivated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspaceforces.com">[Air &amp; Space Forces Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspaceforces.com</span><span class="citation-popover-title">antigua air station inactivated</span><span class="citation-popover-snippet">Air &amp; Space Forces MagazineAntigua Air Station InactivatedJul 16, 2015 — The Air Force inactivated Antigua Air Station, which has served...</span></span></span>
 
-This matters because many later UFO references to Antigua treat the station as though it were a radar base searching for unknown craft. In reality, the facility was principally part of a network built to follow known objects launched from Earth. Telemetry stations gathered data from rockets and spacecraft, monitored vehicle performance and relayed information back to range controllers in Florida. NASA and Air Force range systems routinely depended on downrange island sites across the Caribbean and Atlantic to maintain line-of-sight coverage after launch. NASA TechDoc <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</span></span></span>
+This matters because many later UFO references to Antigua treat the station as though it were a radar base searching for unknown craft. In reality, the facility was principally part of a network built to follow known objects launched from Earth. Telemetry stations gathered data from rockets and spacecraft, monitored vehicle performance and relayed information back to range controllers in Florida. NASA and Air Force range systems routinely depended on downrange island sites across the Caribbean and Atlantic to maintain line-of-sight coverage after launch. NASA TechDoc<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</span></span></span>
 
 The station’s technical role still produced visually unusual activity:
 
@@ -279,7 +279,7 @@ To a civilian observer with no access to mission schedules, these events could a
 
 One reason Antigua Air Station became tied to UFO speculation is psychological rather than evidential. Military or intelligence-linked facilities often attract rumours because observers assume authorities possess hidden knowledge. In Antigua, the existence of a real US tracking station gave local UFO stories an institutional frame that made them sound more credible than ordinary light sightings elsewhere in the Caribbean.
 
-This pattern appears directly in one of Antigua’s few publicly indexed UFO reports. A National UFO Reporting Center entry describing a late-1990s sighting in St John’s states that the witness reported the event to the “USAF Air Station Antigua”. The report describes a meteor-like object that appeared to stop and flash. Although the account lacks corroborating evidence, the reference to the air station adds an aura of official seriousness that likely influenced later retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</span></span></span>
+This pattern appears directly in one of Antigua’s few publicly indexed UFO reports. A National UFO Reporting Center entry describing a late-1990s sighting in St John’s states that the witness reported the event to the “USAF Air Station Antigua”. The report describes a meteor-like object that appeared to stop and flash. Although the account lacks corroborating evidence, the reference to the air station adds an aura of official seriousness that likely influenced later retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</span></span></span>
 
 Importantly, there is no public evidence that the station confirmed the sighting as anomalous. No released records indicate intercepts, emergency procedures or classified investigations connected to UFOs in Antigua. The station’s documented mission remained telemetry and range support.
 
@@ -316,7 +316,7 @@ The historical role of Antigua Air Station arguably weakens extraordinary UFO cl
 
 Several factors stand out.
 
-**Telemetry and launch tracking:** The station existed precisely because rockets and spacecraft crossed this region of the Atlantic. Unusual lights were therefore expected, not exceptional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</span></span></span>
+**Telemetry and launch tracking:** The station existed precisely because rockets and spacecraft crossed this region of the Atlantic. Unusual lights were therefore expected, not exceptional.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</span></span></span>
 
 **High-altitude optical effects:** Rocket exhaust plumes and reflective objects can appear to change direction or brightness rapidly when viewed from long distances over water.
 
@@ -331,7 +331,7 @@ This does not prove every sighting was mundane. It does mean the historical envi
 <img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_antigua_air_station_4f67a0-Illustration-3-dark.svg" | relative_url }}" alt="Air Station illustration 3" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_antigua_air_station_4f67a0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_antigua_air_station_4f67a0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How closure of the station changed the UFO narrative
 
-Antigua Air Station was formally deactivated in 2015 after more than fifty years of operation. The US Air Force stated that mission requirements could be met through revised telemetry arrangements and other instrumentation systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</span></span></span>
+Antigua Air Station was formally deactivated in 2015 after more than fifty years of operation. The US Air Force stated that mission requirements could be met through revised telemetry arrangements and other instrumentation systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Patrick Space Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</span></span></span>
 
 Its closure altered the character of local UFO speculation in several ways.
 
@@ -364,194 +364,194 @@ What Antigua does offer is a useful example of how genuine aerospace infrastruct
 In that sense, Antigua Air Station is less important as a source of UFO data than as a case study in how Cold War military technology, secrecy and space-age imagery influenced Caribbean interpretations of unexplained lights in the sky.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Antigua Air Station Make UFO Stories Plausible?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Antigua Air Station Make UFO Stories Plausible?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines official investigations and ordinary explanations for reported aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official investigations and ordinary explanations for reported aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how unusual observations become UFO narratives, matching the article&#x27;s misinterpretation theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how unusual observations become UFO narratives, matching the article&#x27;s misinterpretation theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
-        </h4>
-        <p class="fr-book-author">By Mark O&#x27;Connell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Close Encounters Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjLWDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Close Encounters Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Close Encounters Man">The Close Encounters Man</a>
+</h4>
+<p class="fr-book-author">By Mark O&#x27;Connell</p>
         
-        <p class="fr-book-desc">Provides context on the intersection of aerospace institutions and UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on the intersection of aerospace institutions and UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Close+Encounters+Man+by+Mark+O%27Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Connects military observation, aviation reporting, and official records relevant to Cold War tracking facilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects military observation, aviation reporting, and official records relevant to Cold War tracking facilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Close+Encounters+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Close Encounters Man</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-antigua-air-station-make-ufo-stories-plausible-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-antigua-air-station-make-ufo-stories-plausible-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ In that sense, Antigua Air Station is less important as a source of UFO data tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ In that sense, Antigua Air Station is less important as a source of UFO data tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ In that sense, Antigua Air Station is less important as a source of UFO data tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ In that sense, Antigua Air Station is less important as a source of UFO data tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ In that sense, Antigua Air Station is less important as a source of UFO data tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,108 +754,107 @@ In that sense, Antigua Air Station is less important as a source of UFO data tha
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: patrick.spaceforce.mil  
    Title: 45th sw says farewell to antigua air station  
-   Link: <a href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Space Force Base45th SW says Farewell to Antigua Air StationJul 13, 2015 — After more than 50 years of operations, Antigua Air St...</p></details>
+   Link:<a href="https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.patrick.spaceforce.mil/News/Article-Display/Article/732961/45th-sw-says-farewell-to-antigua-air-station/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Space Force Base45th SW says Farewell to Antigua Air StationJul 13, 2015 — After more than 50 years of operations, Antigua Air St...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sailingweek.com  
    Title: antigua air station  
-   Link: <a href="https://sailingweek.com/antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow">https://sailingweek.com/antigua-air-station/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Antigua Sailing WeekAntigua Air StationAug 18, 2012 — The Antigua Air Station was established in the early 1960&#x27;s as a downrange tracking...</p></details>
+   Link:<a href="https://sailingweek.com/antigua-air-station/" target="_blank" rel="noopener noreferrer nofollow">https://sailingweek.com/antigua-air-station/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Antigua Sailing WeekAntigua Air StationAug 18, 2012 — The Antigua Air Station was established in the early 1960&#x27;s as a downrange tracking...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: airandspaceforces.com  
    Title: antigua air station inactivated  
-   Link: <a href="https://www.airandspaceforces.com/antigua-air-station-inactivated/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/antigua-air-station-inactivated/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineAntigua Air Station InactivatedJul 16, 2015 — The Air Force inactivated Antigua Air Station, which has served...</p></details>
+   Link:<a href="https://www.airandspaceforces.com/antigua-air-station-inactivated/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/antigua-air-station-inactivated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air &amp; Space Forces MagazineAntigua Air Station InactivatedJul 16, 2015 — The Air Force inactivated Antigua Air Station, which has served...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tdglobal.ksc.nasa.gov  
    Title: ET Eastern Range Instrumentation Update images  
-   Link: <a href="https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released" target="_blank" rel="noopener noreferrer nofollow">https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canaveral Air Force Station (missile row shown in the picture at right) and. Patrick Air...Read more...</p></details>
+   Link:<a href="https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released" target="_blank" rel="noopener noreferrer nofollow">https://tdglobal.ksc.nasa.gov/servlet/sm.web.Fetch/ET-Eastern-Range-Instrumentation-Update-images.pdf?did=933727&amp;rhid=1000&amp;type=released</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canaveral Air Force Station (missile row shown in the picture at right) and. Patrick Air...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: patrick.spaceforce.mil  
-   Link: <a href="https://www.patrick.spaceforce.mil/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.patrick.spaceforce.mil/history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Space Force BaseSpace Launch Delta 45 &gt; About Us &gt; HistoryNonetheless, the unit has a long and distinguished history dating back...</p></details>
+   Link:<a href="https://www.patrick.spaceforce.mil/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.patrick.spaceforce.mil/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Space Force BaseSpace Launch Delta 45 &gt; About Us &gt; HistoryNonetheless, the unit has a long and distinguished history dating back...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/antiguaobserver/photos/the-united-states-government-has-released-a-second-batch-of-declassified-ufo-fil/1473905308090109/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/antiguaobserver/photos/the-united-states-government-has-released-a-second-batch-of-declassified-ufo-fil/1473905308090109/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AntiguaAntigua - The United States government has released a second batch of declassified UFO files, making public hundreds of pages of r...</p></details>
+   Link:<a href="https://www.facebook.com/antiguaobserver/photos/the-united-states-government-has-released-a-second-batch-of-declassified-ufo-fil/1473905308090109/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/antiguaobserver/photos/the-united-states-government-has-released-a-second-batch-of-declassified-ufo-fil/1473905308090109/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AntiguaAntigua - The United States government has released a second batch of declassified UFO files, making public hundreds of pages of r...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Eastern Range  
-   Link: <a href="https://en.wikipedia.org/wiki/Eastern_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eastern_Range</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eastern RangeThe Eastern Range (ER) is an American rocket range (Spaceport) that supports missile and rocket launches from the two maj...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Eastern_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eastern_Range</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eastern RangeThe Eastern Range (ER) is an American rocket range (Spaceport) that supports missile and rocket launches from the two maj...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Patrick Space Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Patrick_Space_Force_Base</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Patrick_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Patrick_Space_Force_Base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Space Force BasePatrick Space Force Base is a United States Space Force installation located between Satellite Beach and Cocoa...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: spaceforce.com  
-   Link: <a href="https://www.spaceforce.com/bases/patrick-sfb" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.com/bases/patrick-sfb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Space Force BasePatrick SFB is located between Satellite Beach and Cocoa Beach in Brevard County, Florida. It is home to Space Launc...</p></details>
+   Link:<a href="https://www.spaceforce.com/bases/patrick-sfb" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.com/bases/patrick-sfb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Space Force BasePatrick SFB is located between Satellite Beach and Cocoa Beach in Brevard County, Florida. It is home to Space Launc...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AshleighBanfield/posts/a-ufo-reporting-app-has-logged-thousands-of-sightings-of-unidentified-submerged-/1409390473882278/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/a-ufo-reporting-app-has-logged-thousands-of-sightings-of-unidentified-submerged-/1409390473882278/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO reporting app has logged thousands of sightings...UFOs Beneath the Waves? Scientists Are Taking Notice. UFO-tracking platform Enig...</p></details>
+   Link:<a href="https://www.facebook.com/AshleighBanfield/posts/a-ufo-reporting-app-has-logged-thousands-of-sightings-of-unidentified-submerged-/1409390473882278/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/a-ufo-reporting-app-has-logged-thousands-of-sightings-of-unidentified-submerged-/1409390473882278/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO reporting app has logged thousands of sightings...UFOs Beneath the Waves? Scientists Are Taking Notice. UFO-tracking platform Enig...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: clui.org  
-   Link: <a href="https://clui.org/ludb/site/patrick-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://clui.org/ludb/site/patrick-air-force-base</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Air Force Base, FloridaIt is a 2,300-acre base, south of the Cape Canaveral Air Station, the complex&#x27;s main launching area near N...</p></details>
+   Link:<a href="https://clui.org/ludb/site/patrick-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://clui.org/ludb/site/patrick-air-force-base</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Patrick Air Force Base, FloridaIt is a 2,300-acre base, south of the Cape Canaveral Air Station, the complex&#x27;s main launching area near N...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYkHsb2KoyI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkHsb2KoyI/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYkHsb2KoyI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYkHsb2KoyI/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news.uscg.mil  
-   Link: <a href="https://www.news.uscg.mil/News-Home/All-News/" target="_blank" rel="noopener noreferrer nofollow">https://www.news.uscg.mil/News-Home/All-News/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>States Coast Guard News &gt; News Home &gt; All NewsA Coast Guard boarding team assigned to the 154-foot fast response cutter USCGC John McCorm...</p></details>
+   Link:<a href="https://www.news.uscg.mil/News-Home/All-News/" target="_blank" rel="noopener noreferrer nofollow">https://www.news.uscg.mil/News-Home/All-News/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>States Coast Guard News &gt; News Home &gt; All NewsA Coast Guard boarding team assigned to the 154-foot fast response cutter USCGC John McCorm...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: kayakingksc.com  
-   Link: <a href="https://www.kayakingksc.com/Air-Force-Eastern-Test-Range-History.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kayakingksc.com/Air-Force-Eastern-Test-Range-History.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2015 in a ceremony held on the island. Brig. Gen. Nina Armagno...Read more...</p></details>
+   Link:<a href="https://www.kayakingksc.com/Air-Force-Eastern-Test-Range-History.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kayakingksc.com/Air-Force-Eastern-Test-Range-History.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 7, 2015 in a ceremony held on the island. Brig. Gen. Nina Armagno...Read more...</p></details>
    Published: July 7, 2015  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/antiguaobserver/photos/the-pentagon-has-begun-releasing-a-new-batch-of-files-on-ufos-opening-decades-of/1460941032719870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/antiguaobserver/photos/the-pentagon-has-begun-releasing-a-new-batch-of-files-on-ufos-opening-decades-of/1460941032719870/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon has begun releasing a new batch of files on UFOs, opening decades of government material on what officials now refer...Read...</p></details>
+   Link:<a href="https://www.facebook.com/antiguaobserver/photos/the-pentagon-has-begun-releasing-a-new-batch-of-files-on-ufos-opening-decades-of/1460941032719870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/antiguaobserver/photos/the-pentagon-has-begun-releasing-a-new-batch-of-files-on-ufos-opening-decades-of/1460941032719870/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon has begun releasing a new batch of files on UFOs, opening decades of government material on what officials now refer...Read...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYchkV7ji93/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYchkV7ji93/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s of sightings SEPTEMBER 2ND, 1987 What do you think...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYchkV7ji93/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYchkV7ji93/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s of sightings SEPTEMBER 2ND, 1987 What do you think...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYfMHIJlfWc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYfMHIJlfWc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>itional flight #Aliens #UFO #UAP #FlyingSaucers #...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYfMHIJlfWc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYfMHIJlfWc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>itional flight #Aliens #UFO #UAP #FlyingSaucers #...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/oceanic-ufo-sightings?srsltid=AfmBOopa269FbGVDydKsTAw3H0bFzKAVJudOHOfay6CVyWDvRiinauJP" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/oceanic-ufo-sightings?srsltid=AfmBOopa269FbGVDydKsTAw3H0bFzKAVJudOHOfay6CVyWDvRiinauJP</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens · Technology · UFO ·. Oceanic UFO Sightings: The Underwater Truth. Oceanic UFO...Read more...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/oceanic-ufo-sightings?srsltid=AfmBOopa269FbGVDydKsTAw3H0bFzKAVJudOHOfay6CVyWDvRiinauJP" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/oceanic-ufo-sightings?srsltid=AfmBOopa269FbGVDydKsTAw3H0bFzKAVJudOHOfay6CVyWDvRiinauJP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens · Technology · UFO ·. Oceanic UFO Sightings: The Underwater Truth. Oceanic UFO...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ccspacemuseum.org  
-   Link: <a href="https://ccspacemuseum.org/facilities/advanced-range-instrumentation-aircraft-aria/" target="_blank" rel="noopener noreferrer nofollow">https://ccspacemuseum.org/facilities/advanced-range-instrumentation-aircraft-aria/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Range Instrumentation Aircraft (ARIA)During the Apollo Program, the Patrick Air Force Base flight line hosted these remarkable a...</p></details>
+   Link:<a href="https://ccspacemuseum.org/facilities/advanced-range-instrumentation-aircraft-aria/" target="_blank" rel="noopener noreferrer nofollow">https://ccspacemuseum.org/facilities/advanced-range-instrumentation-aircraft-aria/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Range Instrumentation Aircraft (ARIA)During the Apollo Program, the Patrick Air Force Base flight line hosted these remarkable a...</p></details>

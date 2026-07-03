@@ -254,18 +254,18 @@ image: /assets/images/United_Kingdom_d25561_mod_ufo_files_ec837b-Illustration-1-
 
 ## Introduction
 
-Britain’s Ministry of Defence (MoD) did not spend decades investigating UFO reports because it believed extraterrestrial spacecraft were visiting the UK. Its interest was far narrower and more bureaucratic: unidentified objects in British airspace could, in principle, indicate foreign aircraft, missile technology, radar problems, aviation hazards or public reports that contained defence-relevant information. That distinction shaped the entire history of the UK’s UFO programme, from the early Cold War through to the closure of the so-called “UFO desk” in 2009. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
+Britain’s Ministry of Defence (MoD) did not spend decades investigating UFO reports because it believed extraterrestrial spacecraft were visiting the UK. Its interest was far narrower and more bureaucratic: unidentified objects in British airspace could, in principle, indicate foreign aircraft, missile technology, radar problems, aviation hazards or public reports that contained defence-relevant information. That distinction shaped the entire history of the UK’s UFO programme, from the early Cold War through to the closure of the so-called “UFO desk” in 2009.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
 
 <img src="{{ "/assets/images/United_Kingdom_d25561_mod_ufo_files_ec837b-Illustration-1-dark.svg" | relative_url }}" alt="Mo D Files illustration 1" data-theme-src-dark="{{ "/assets/images/United_Kingdom_d25561_mod_ufo_files_ec837b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Kingdom_d25561_mod_ufo_files_ec837b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The declassified files now held by The National Archives reveal a system that logged sightings, answered thousands of letters, briefed ministers, handled media attention and occasionally examined unusual incidents. They also show growing frustration inside government that the workload generated public interest but produced no evidence of a military threat. By 2009, the MoD concluded that continuing the activity served little defence purpose and formally ended it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">national archives ufo files 7</span><span class="citation-popover-snippet">David ClarkeNational Archives UFO Files &#124; - David ClarkeThe files originate from two MoD branches, the Directorate Air Staff (DAS) – whic...</span></span></span>
+The declassified files now held by The National Archives reveal a system that logged sightings, answered thousands of letters, briefed ministers, handled media attention and occasionally examined unusual incidents. They also show growing frustration inside government that the workload generated public interest but produced no evidence of a military threat. By 2009, the MoD concluded that continuing the activity served little defence purpose and formally ended it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">national archives ufo files 7</span><span class="citation-popover-snippet">David ClarkeNational Archives UFO Files &#124; - David ClarkeThe files originate from two MoD branches, the Directorate Air Staff (DAS) – whic...</span></span></span>
 
 ## Why the MoD collected UFO reports in the first place
 
-The origins of Britain’s UFO files lie in Cold War defence concerns rather than paranormal investigation. During the 1950s, unidentified aerial reports could not simply be dismissed as strange stories. Britain faced genuine worries about Soviet aircraft, intelligence gathering, radar surveillance and technological surprise. Officials therefore treated unusual aerial observations as potential security information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
+The origins of Britain’s UFO files lie in Cold War defence concerns rather than paranormal investigation. During the 1950s, unidentified aerial reports could not simply be dismissed as strange stories. Britain faced genuine worries about Soviet aircraft, intelligence gathering, radar surveillance and technological surprise. Officials therefore treated unusual aerial observations as potential security information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
 
-This approach explains a feature that often surprises readers of the files: the MoD repeatedly stated that it was not trying to prove or disprove alien visitation. Instead, the key question was whether a report revealed anything of defence significance. If a sighting suggested an unknown aircraft, a threat to airspace or a military technology issue, it mattered. If it did not, official interest quickly diminished. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">The MoD&#x27;s UFO project ran from 1953 to 2009, and in that time over 12,000 UFO sightings were logged and investigated. The MoD&#x27;s role was...</span></span></span>
+This approach explains a feature that often surprises readers of the files: the MoD repeatedly stated that it was not trying to prove or disprove alien visitation. Instead, the key question was whether a report revealed anything of defence significance. If a sighting suggested an unknown aircraft, a threat to airspace or a military technology issue, it mattered. If it did not, official interest quickly diminished.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">The MoD&#x27;s UFO project ran from 1953 to 2009, and in that time over 12,000 UFO sightings were logged and investigated. The MoD&#x27;s role was...</span></span></span>
 
-Even some of the most discussed cases were evaluated through that lens. Reports involving military personnel, radar contacts or activity near bases attracted more attention because they touched defence responsibilities. Cases lacking those elements were generally recorded, acknowledged and filed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
+Even some of the most discussed cases were evaluated through that lens. Reports involving military personnel, radar contacts or activity near bases attracted more attention because they touched defence responsibilities. Cases lacking those elements were generally recorded, acknowledged and filed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
 
 ## What the UFO desk actually did
 
@@ -280,13 +280,13 @@ The unit responsible for UFO correspondence moved through different organisation
 * Liaising with the Royal Air Force when necessary.
 * Responding to parliamentary questions.
 * Managing press enquiries.
-* Maintaining records and correspondence. Dr. David Clarke <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.org/the-uks-ufo-desk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.org">[Flickr Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.org</span><span class="citation-popover-title">the uks ufo desk</span><span class="citation-popover-snippet">Flickr Foundation2. The UK&#x27;s UFO Desk16 Jan 2024 — The UFO Desk received reports via a hotline and dedicated email address. These were cl...</span></span></span>
+* Maintaining records and correspondence. Dr. David Clarke<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.org/the-uks-ufo-desk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.org">[Flickr Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.org</span><span class="citation-popover-title">the uks ufo desk</span><span class="citation-popover-snippet">Flickr Foundation2. The UK&#x27;s UFO Desk16 Jan 2024 — The UFO Desk received reports via a hotline and dedicated email address. These were cl...</span></span></span>
 
 </div>
 
-The files show that a surprisingly large proportion of the work involved administration rather than investigation. Staff answered letters about alien abductions, crop circles, government conspiracies and requests for information. Some correspondents sent sketches, photographs or lengthy personal theories. Others demanded disclosure of supposed secret knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
+The files show that a surprisingly large proportion of the work involved administration rather than investigation. Staff answered letters about alien abductions, crop circles, government conspiracies and requests for information. Some correspondents sent sketches, photographs or lengthy personal theories. Others demanded disclosure of supposed secret knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
 
-This bureaucratic reality is one reason the archives are so valuable. They document not only sightings but also how government officials interpreted public interest in UFOs and how they attempted to separate possible defence information from speculation and folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
+This bureaucratic reality is one reason the archives are so valuable. They document not only sightings but also how government officials interpreted public interest in UFOs and how they attempted to separate possible defence information from speculation and folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dwZGlFL0PHI" title="UFOs: Britains Secret Files | Nick Pope Secret UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dwZGlFL0PHI" target="_blank" rel="noopener noreferrer">UFOs: Britains Secret Files | Nick Pope Secret UFO Files</a></p><p class="youtube-embed-meta">Channel: Extreme Mysteries &middot; Views: 30.2K &middot; Uploaded: August 2024 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dwZGlFL0PHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dwZGlFL0PHI">Open on YouTube</a></p></div></div></div>
 
@@ -294,28 +294,28 @@ This bureaucratic reality is one reason the archives are so valuable. They docum
 
 The surviving files contain a mixture of ordinary, unusual and genuinely puzzling reports.
 
-Many entries were later explained as aircraft lights, satellites, meteors, atmospheric effects, balloons or misidentified astronomical objects. The records include cases that initially sounded dramatic but eventually acquired mundane explanations. The archives themselves repeatedly show officials attempting to identify conventional causes before considering anything more unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
+Many entries were later explained as aircraft lights, satellites, meteors, atmospheric effects, balloons or misidentified astronomical objects. The records include cases that initially sounded dramatic but eventually acquired mundane explanations. The archives themselves repeatedly show officials attempting to identify conventional causes before considering anything more unusual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
 
-At the same time, the files contain incidents that remained unresolved because evidence was insufficient rather than because officials concluded something extraordinary had occurred. A report might involve multiple witnesses yet lack radar confirmation. Another might include radar data without enough supporting information. The result was often a classification of “unexplained” rather than a declaration of alien origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
+At the same time, the files contain incidents that remained unresolved because evidence was insufficient rather than because officials concluded something extraordinary had occurred. A report might involve multiple witnesses yet lack radar confirmation. Another might include radar data without enough supporting information. The result was often a classification of “unexplained” rather than a declaration of alien origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
 
-This distinction is one of the most important lessons from the archive. In official usage, “unidentified” usually meant exactly that: the available evidence did not permit a confident explanation. It did not automatically imply a non-human source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">Project CondignProject Condign was a study of the UFO phenomenon undertaken by the UK Ministry of Defence in the late Nineties, and publi...</span></span></span>
+This distinction is one of the most important lessons from the archive. In official usage, “unidentified” usually meant exactly that: the available evidence did not permit a confident explanation. It did not automatically imply a non-human source.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">Project CondignProject Condign was a study of the UFO phenomenon undertaken by the UK Ministry of Defence in the late Nineties, and publi...</span></span></span>
 
 ## Project Condign and the search for a defence explanation
 
-One of the most revealing episodes in the MoD archive is Project Condign, a classified Defence Intelligence study conducted during the late 1990s and completed around 2000. Unlike routine sighting logging, this project attempted a broader assessment of the UFO phenomenon itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/mod-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">MoD UFO FilesThe British Government has declassified and released most of its UFO files. Nick Pope worked on these files, wrote many of t...</span></span></span>
+One of the most revealing episodes in the MoD archive is Project Condign, a classified Defence Intelligence study conducted during the late 1990s and completed around 2000. Unlike routine sighting logging, this project attempted a broader assessment of the UFO phenomenon itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/mod-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">MoD UFO FilesThe British Government has declassified and released most of its UFO files. Nick Pope worked on these files, wrote many of t...</span></span></span>
 
-The resulting report did not conclude that Britain faced extraterrestrial visitors. Instead, it argued that some reports might be linked to poorly understood atmospheric and plasma-related phenomena. The study suggested that unusual electrical or atmospheric effects could potentially account for at least some observations that witnesses interpreted as structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">The MoD&#x27;s UFO project ran from 1953 to 2009, and in that time over 12,000 UFO sightings were logged and investigated. The MoD&#x27;s role was...</span></span></span>
+The resulting report did not conclude that Britain faced extraterrestrial visitors. Instead, it argued that some reports might be linked to poorly understood atmospheric and plasma-related phenomena. The study suggested that unusual electrical or atmospheric effects could potentially account for at least some observations that witnesses interpreted as structured craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">The MoD&#x27;s UFO project ran from 1953 to 2009, and in that time over 12,000 UFO sightings were logged and investigated. The MoD&#x27;s role was...</span></span></span>
 
-Project Condign remains controversial. Supporters view it as evidence that the government seriously examined difficult cases. Critics argue that some of its explanations were speculative and lacked strong empirical support. What is clear from the released material is that the report sought a terrestrial explanation rather than an alien one. It represented an attempt to reduce uncertainty, not to confirm extraordinary claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">Project CondignProject Condign was a study of the UFO phenomenon undertaken by the UK Ministry of Defence in the late Nineties, and publi...</span></span></span>
+Project Condign remains controversial. Supporters view it as evidence that the government seriously examined difficult cases. Critics argue that some of its explanations were speculative and lacked strong empirical support. What is clear from the released material is that the report sought a terrestrial explanation rather than an alien one. It represented an attempt to reduce uncertainty, not to confirm extraordinary claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">Project CondignProject Condign was a study of the UFO phenomenon undertaken by the UK Ministry of Defence in the late Nineties, and publi...</span></span></span>
 
 <img src="{{ "/assets/images/United_Kingdom_d25561_mod_ufo_files_ec837b-Illustration-2-dark.svg" | relative_url }}" alt="Mo D Files illustration 2" data-theme-src-dark="{{ "/assets/images/United_Kingdom_d25561_mod_ufo_files_ec837b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Kingdom_d25561_mod_ufo_files_ec837b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The growing burden of public interest
 
 By the 2000s, the MoD faced a situation very different from the Cold War environment that had originally justified collecting reports.
 
-The internet increased public awareness of UFO stories and made reporting easier. Media coverage generated spikes in correspondence. Freedom of Information requests also created additional work. Officials found themselves spending time responding to public enquiries that rarely produced information relevant to defence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">the end of the ufo files</span><span class="citation-popover-snippet">David ClarkeThe End of the UFO Files &#124; - Dr David Clarke20 Jun 2013 — The 10th tranche of papers cover the period from 2007 until Novembe...</span></span></span>
+The internet increased public awareness of UFO stories and made reporting easier. Media coverage generated spikes in correspondence. Freedom of Information requests also created additional work. Officials found themselves spending time responding to public enquiries that rarely produced information relevant to defence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">the end of the ufo files</span><span class="citation-popover-snippet">David ClarkeThe End of the UFO Files &#124; - Dr David Clarke20 Jun 2013 — The 10th tranche of papers cover the period from 2007 until Novembe...</span></span></span>
 
-The files released by The National Archives reveal discussions about workload, resource allocation and whether the activity continued to justify its costs. Internal reviews repeatedly returned to the same conclusion: reports were consuming staff time while providing little practical intelligence value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
+The files released by The National Archives reveal discussions about workload, resource allocation and whether the activity continued to justify its costs. Internal reviews repeatedly returned to the same conclusion: reports were consuming staff time while providing little practical intelligence value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
 
 This administrative pressure helps explain why the closure decision emerged from a governance and resource-management perspective rather than from a dramatic new discovery.
 
@@ -323,19 +323,19 @@ This administrative pressure helps explain why the closure decision emerged from
 
 The official closure was not triggered by a single case or a sudden policy reversal. Instead, it followed decades of accumulated experience.
 
-The MoD concluded that no reported UFO had demonstrated a threat to the [United Kingdom]({{ 'united-kingdom/' | relative_url }}). Officials stated that more than fifty years of reporting had failed to produce evidence of hostile aircraft, extraterrestrial visitation or any defence-relevant phenomenon requiring continued investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span>
+The MoD concluded that no reported UFO had demonstrated a threat to the [United Kingdom]({{ 'united-kingdom/' | relative_url }}). Officials stated that more than fifty years of reporting had failed to produce evidence of hostile aircraft, extraterrestrial visitation or any defence-relevant phenomenon requiring continued investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span>
 
-A briefing prepared for ministers in 2009 summarised the position bluntly. According to the released documents, no UFO report had ever revealed anything suggesting either an extraterrestrial presence or a military threat. Continuing to devote resources to processing reports therefore could not be justified as a defence priority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span>
+A briefing prepared for ministers in 2009 summarised the position bluntly. According to the released documents, no UFO report had ever revealed anything suggesting either an extraterrestrial presence or a military threat. Continuing to devote resources to processing reports therefore could not be justified as a defence priority.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span>
 
 The consequences were practical:
 
-* The UFO hotline was closed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.org/the-uks-ufo-desk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.org">[flickr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.org</span><span class="citation-popover-title">the uks ufo desk</span><span class="citation-popover-snippet">Flickr Foundation2. The UK&#x27;s UFO Desk16 Jan 2024 — The UFO Desk received reports via a hotline and dedicated email address. These were cl...</span></span></span>
+* The UFO hotline was closed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.org/the-uks-ufo-desk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.org">[flickr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.org</span><span class="citation-popover-title">the uks ufo desk</span><span class="citation-popover-snippet">Flickr Foundation2. The UK&#x27;s UFO Desk16 Jan 2024 — The UFO Desk received reports via a hotline and dedicated email address. These were cl...</span></span></span>
 * Dedicated email reporting channels ended.
 * Routine investigation of sightings ceased.
 * Responsibility for collecting public UFO reports was discontinued.
-* Existing files were prepared for transfer and release through The National Archives. Dr. David Clarke <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.org/the-uks-ufo-desk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.org">[Flickr Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.org</span><span class="citation-popover-title">the uks ufo desk</span><span class="citation-popover-snippet">Flickr Foundation2. The UK&#x27;s UFO Desk16 Jan 2024 — The UFO Desk received reports via a hotline and dedicated email address. These were cl...</span></span></span>
+* Existing files were prepared for transfer and release through The National Archives. Dr. David Clarke<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.org/the-uks-ufo-desk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.org">[Flickr Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.org</span><span class="citation-popover-title">the uks ufo desk</span><span class="citation-popover-snippet">Flickr Foundation2. The UK&#x27;s UFO Desk16 Jan 2024 — The UFO Desk received reports via a hotline and dedicated email address. These were cl...</span></span></span>
 
-The closure marked the end of an official programme that had operated, in various forms, since the early 1950s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/mod-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">MoD UFO FilesThe British Government has declassified and released most of its UFO files. Nick Pope worked on these files, wrote many of t...</span></span></span>
+The closure marked the end of an official programme that had operated, in various forms, since the early 1950s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nickpope.net/wpte19/mod-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nickpope.net">[nickpope.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nickpope.net</span><span class="citation-popover-snippet">MoD UFO FilesThe British Government has declassified and released most of its UFO files. Nick Pope worked on these files, wrote many of t...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kcIF5INyAec" title="UFO file release August 2009" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer">UFO file release August 2009</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 86.2K &middot; Uploaded: August 2009 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kcIF5INyAec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kcIF5INyAec">Open on YouTube</a></p></div></div></div>
 
@@ -343,217 +343,217 @@ The closure marked the end of an official programme that had operated, in variou
 
 The publication programme that followed transformed British UFO research.
 
-Instead of relying solely on witness testimony, researchers gained access to policy papers, ministerial correspondence, intelligence assessments, press briefings and internal debates. Thousands of pages became available through The National Archives, creating one of the most extensive government UFO archives in the world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">national archives ufo files 7</span><span class="citation-popover-snippet">David ClarkeNational Archives UFO Files &#124; - David ClarkeThe files originate from two MoD branches, the Directorate Air Staff (DAS) – whic...</span></span></span>
+Instead of relying solely on witness testimony, researchers gained access to policy papers, ministerial correspondence, intelligence assessments, press briefings and internal debates. Thousands of pages became available through The National Archives, creating one of the most extensive government UFO archives in the world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">national archives ufo files 7</span><span class="citation-popover-snippet">David ClarkeNational Archives UFO Files &#124; - David ClarkeThe files originate from two MoD branches, the Directorate Air Staff (DAS) – whic...</span></span></span>
 
 The files also corrected several myths.
 
-One common belief held that the government possessed secret proof of alien visitation hidden within classified records. The releases did not support that claim. They showed concern about air defence, intelligence gathering and public communication far more often than discussions of extraterrestrial hypotheses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">the end of the ufo files</span><span class="citation-popover-snippet">David ClarkeThe End of the UFO Files &#124; - Dr David Clarke20 Jun 2013 — The 10th tranche of papers cover the period from 2007 until Novembe...</span></span></span>
+One common belief held that the government possessed secret proof of alien visitation hidden within classified records. The releases did not support that claim. They showed concern about air defence, intelligence gathering and public communication far more often than discussions of extraterrestrial hypotheses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[Dr. David Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">the end of the ufo files</span><span class="citation-popover-snippet">David ClarkeThe End of the UFO Files &#124; - Dr David Clarke20 Jun 2013 — The 10th tranche of papers cover the period from 2007 until Novembe...</span></span></span>
 
-At the same time, the archive did not eliminate every mystery. Some incidents remained unresolved because the evidence was incomplete, contradictory or too limited for firm conclusions. The files therefore reinforced a more nuanced picture: most reports appear explainable or poorly evidenced, while a smaller number remain unexplained without becoming proof of anything extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
+At the same time, the archive did not eliminate every mystery. Some incidents remained unresolved because the evidence was incomplete, contradictory or too limited for firm conclusions. The files therefore reinforced a more nuanced picture: most reports appear explainable or poorly evidenced, while a smaller number remain unexplained without becoming proof of anything extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 research guide</span><span class="citation-popover-snippet">National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</span><span class="citation-popover-meta">Published: March 2009</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vrt5LdhcxWw" title="UFO file release June 2012" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vrt5LdhcxWw" target="_blank" rel="noopener noreferrer">UFO file release June 2012</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 45.2K &middot; Uploaded: July 2012 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vrt5LdhcxWw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vrt5LdhcxWw">Open on YouTube</a></p></div></div></div>
 
 ## Did Britain stop caring about unidentified aerial phenomena?
 
-Officially, the MoD's dedicated UFO reporting system ended in 2009 and the department has repeatedly stated that it no longer investigates such reports. The government position is that the programme produced no defence benefit sufficient to justify its continuation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span>
+Officially, the MoD's dedicated UFO reporting system ended in 2009 and the department has repeatedly stated that it no longer investigates such reports. The government position is that the programme produced no defence benefit sufficient to justify its continuation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span>
 
-Yet the wider debate did not disappear. International attention to unidentified aerial phenomena, especially after renewed discussion in the United States, prompted questions in Parliament and among former officials about whether unidentified objects should once again be considered through aviation-safety or national-security frameworks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/Lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Unidentified Flying Objects - UK Parliament - HansardJun 30, 2021 — The recent report does not require us to accept the reality of...</span></span></span>
+Yet the wider debate did not disappear. International attention to unidentified aerial phenomena, especially after renewed discussion in the United States, prompted questions in Parliament and among former officials about whether unidentified objects should once again be considered through aviation-safety or national-security frameworks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/Lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">Unidentified Flying Objects - UK Parliament - HansardJun 30, 2021 — The recent report does not require us to accept the reality of...</span></span></span>
 
 That discussion differs from the old UFO desk model. The modern question is less about collecting public stories and more about how military organisations should respond when trained observers, sensors or defence systems encounter objects they cannot immediately identify.
 
-The historical significance of Britain's UFO files lies precisely in that distinction. The archive shows a government trying to manage uncertainty, not endorse extraordinary claims. For more than half a century, the MoD treated UFO reports as a potential defence issue, investigated where necessary, and eventually concluded that the effort no longer served a useful military purpose. The closure of the UFO desk was therefore not the end of a search for aliens; it was the end of a long-running administrative programme that had failed to uncover evidence of a threat to Britain’s airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span>
+The historical significance of Britain's UFO files lies precisely in that distinction. The archive shows a government trying to manage uncertainty, not endorse extraordinary claims. For more than half a century, the MoD treated UFO reports as a potential defence issue, investigated where necessary, and eventually concluded that the effort no longer served a useful military purpose. The closure of the UFO desk was therefore not the end of a search for aliens; it was the end of a long-running administrative programme that had failed to uncover evidence of a threat to Britain’s airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">ufo desk why mod shut real life x files 10442364</span><span class="citation-popover-snippet">Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files &#124; UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</span></span></span>
 
 <img src="{{ "/assets/images/United_Kingdom_d25561_mod_ufo_files_ec837b-Illustration-3-dark.svg" | relative_url }}" alt="Mo D Files illustration 3" data-theme-src-dark="{{ "/assets/images/United_Kingdom_d25561_mod_ufo_files_ec837b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Kingdom_d25561_mod_ufo_files_ec837b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Britain&#x27;s UFO Desk Actually Do?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Britain&#x27;s UFO Desk Actually Do?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Explains how the UFO desk operated and evaluated reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how the UFO desk operated and evaluated reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides continuity from historical files to present-day debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides continuity from historical files to present-day debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how governments and officials have approached UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how governments and officials have approached UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Best single-volume match for the MoD UFO desk topic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Best single-volume match for the MoD UFO desk topic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-britain-s-ufo-desk-actually-do-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-britain-s-ufo-desk-actually-do-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ The historical significance of Britain's UFO files lies precisely in that distin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ The historical significance of Britain's UFO files lies precisely in that distin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ The historical significance of Britain's UFO files lies precisely in that distin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ The historical significance of Britain's UFO files lies precisely in that distin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ The historical significance of Britain's UFO files lies precisely in that distin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,152 +756,151 @@ The historical significance of Britain's UFO files lies precisely in that distin
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nickpope.net  
-   Link: <a href="https://nickpope.net/wpte19/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The MoD&#x27;s UFO project ran from 1953 to 2009, and in that time over 12,000 UFO sightings were logged and investigated. The MoD&#x27;s role was...</p></details>
+   Link:<a href="https://nickpope.net/wpte19/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The MoD&#x27;s UFO project ran from 1953 to 2009, and in that time over 12,000 UFO sightings were logged and investigated. The MoD&#x27;s role was...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.sky.com  
    Title: ufo desk why mod shut real life x files 10442364  
-   Link: <a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</p></details>
+   Link:<a href="https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-desk-why-mod-shut-real-life-x-files-10442364</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUFO Desk: Why MoD Shut Real-Life X-Files | UK News20 Jun 2013 — They include accounts of alleged abductions, contact with aliens...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: flickr.org  
    Title: the uks ufo desk  
-   Link: <a href="https://www.flickr.org/the-uks-ufo-desk/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.org/the-uks-ufo-desk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flickr Foundation2. The UK&#x27;s UFO Desk16 Jan 2024 — The UFO Desk received reports via a hotline and dedicated email address. These were cl...</p></details>
+   Link:<a href="https://www.flickr.org/the-uks-ufo-desk/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.org/the-uks-ufo-desk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flickr Foundation2. The UK&#x27;s UFO Desk16 Jan 2024 — The UFO Desk received reports via a hotline and dedicated email address. These were cl...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nickpope.net  
-   Link: <a href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/project-condign/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project CondignProject Condign was a study of the UFO phenomenon undertaken by the UK Ministry of Defence in the late Nineties, and publi...</p></details>
+   Link:<a href="https://nickpope.net/wpte19/project-condign/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/project-condign/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project CondignProject Condign was a study of the UFO phenomenon undertaken by the UK Ministry of Defence in the late Nineties, and publi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
-   Link: <a href="https://hansard.parliament.uk/Lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects - UK Parliament - HansardJun 30, 2021 — The recent report does not require us to accept the reality of...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Lords/2021-06-30/debates/C3B3E127-A168-4315-A1C9-B4D7CC80895D/UnidentifiedFlyingObjects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects - UK Parliament - HansardJun 30, 2021 — The recent report does not require us to accept the reality of...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nickpope.net  
-   Link: <a href="https://nickpope.net/wpte19/mod-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/mod-ufo-files/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MoD UFO FilesThe British Government has declassified and released most of its UFO files. Nick Pope worked on these files, wrote many of t...</p></details>
+   Link:<a href="https://nickpope.net/wpte19/mod-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://nickpope.net/wpte19/mod-ufo-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MoD UFO FilesThe British Government has declassified and released most of its UFO files. Nick Pope worked on these files, wrote many of t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 research guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUnidentified Flying Objects (UFOs)Six DI55 UFO files were opened in March 2009. DEFE 31/1976/1... One of the first UFO...</p></details>
    Published: March 2009  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: drdavidclarke.co.uk  
    Title: national archives ufo files 7  
-   Link: <a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David ClarkeNational Archives UFO Files | - David ClarkeThe files originate from two MoD branches, the Directorate Air Staff (DAS) – whic...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/national-archives-ufo-files-7/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/national-archives-ufo-files-7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David ClarkeNational Archives UFO Files | - David ClarkeThe files originate from two MoD branches, the Directorate Air Staff (DAS) – whic...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files reveal behind the scenes of the &#x27;UFO Desk&#x27;were to be believed, alien technology was far superior to ours and g...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files reveal behind the scenes of the &#x27;UFO Desk&#x27;were to be believed, alien technology was far superior to ours and g...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO Desk: Closedabductions and contact with aliens and UFO sightings near UK landmarks. Dr David Clarke, author of the b...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO Desk: Closedabductions and contact with aliens and UFO sightings near UK landmarks. Dr David Clarke, author of the b...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBriefing documentFurther files have been added, the most recent in July 2012. One of the first UFO files to be released...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBriefing documentFurther files have been added, the most recent in July 2012. One of the first UFO files to be released...</p></details>
    Published: July 2012  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives UFO files  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files - August 2009 podcastThis was one UFO that eventually became an I-F-O: “identified flying object.” Can you tel...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesUFO files - August 2009 podcastThis was one UFO that eventually became an I-F-O: “identified flying object.” Can you tel...</p></details>
    Published: August 2009  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: drdavidclarke.co.uk  
    Title: the end of the ufo files  
-   Link: <a href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David ClarkeThe End of the UFO Files | - Dr David Clarke20 Jun 2013 — The 10th tranche of papers cover the period from 2007 until Novembe...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2013/06/20/the-end-of-the-ufo-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David ClarkeThe End of the UFO Files | - Dr David Clarke20 Jun 2013 — The 10th tranche of papers cover the period from 2007 until Novembe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESThis book is largely based upon the real-life accounts of UFO experiences recorded in files collected by Britain&#x27;s Ministry of D...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESThis book is largely based upon the real-life accounts of UFO experiences recorded in files collected by Britain&#x27;s Ministry of D...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GuideThe file includes more than 30 sightings during a six- hour period. The MoD‟s UFO desk asked the RAF to replay radar tapes but this...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GuideThe file includes more than 30 sightings during a six- hour period. The MoD‟s UFO desk asked the RAF to replay radar tapes but this...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidep157 – 158. Defensive press lines are prepared by the MoD after colour photographs of a large diamond-shaped UFO hovering over Calvi...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/mar-2009-highlights-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidep157 – 158. Defensive press lines are prepared by the MoD after colour photographs of a large diamond-shaped UFO hovering over Calvi...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-discusses-what-make/1350455960452754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-discusses-what-make/1350455960452754/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Head of the British Government&#x27;s UFO Project Nick...Nick Pope, a former British Ministry of Defence (MoD) employee who investigat...</p></details>
+   Link:<a href="https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-discusses-what-make/1350455960452754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/former-head-of-the-british-governments-ufo-project-nick-pope-discusses-what-make/1350455960452754/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Head of the British Government&#x27;s UFO Project Nick...Nick Pope, a former British Ministry of Defence (MoD) employee who investigat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: curiousarchive.com  
    Title: the history of the british governments ufo files and how you can access them  
-   Link: <a href="https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The History of the British Government&#x27;s UFO Files (and How...8 Apr 2021 — Nick Pope, who worked for the MoD for 21 years and the UFO div...</p></details>
+   Link:<a href="https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The History of the British Government&#x27;s UFO Files (and How...8 Apr 2021 — Nick Pope, who worked for the MoD for 21 years and the UFO div...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dwZGlFL0PHI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dwZGlFL0PHI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Britains Secret Files | Nick Pope Secret UFO FilesMeet Nick Pope, the man that ran the Secret UFO Files of Great Britain for twenty...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dwZGlFL0PHI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dwZGlFL0PHI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Britains Secret Files | Nick Pope Secret UFO FilesMeet Nick Pope, the man that ran the Secret UFO Files of Great Britain for twenty...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: csmonitor.com  
    Title: UFO Britain releases documents explaining closure of military UFO desk  
-   Link: <a href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Britain releases documents explaining closure of...21 Jun 2013 — The 25 files detail reports of alien abductions, sightings, offers...</p></details>
+   Link:<a href="https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/Science/2013/0621/UFO-Britain-releases-documents-explaining-closure-of-military-UFO-desk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Britain releases documents explaining closure of...21 Jun 2013 — The 25 files detail reports of alien abductions, sightings, offers...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
    Title: The truth is out there: National Archives lifts lid on UFO files  
-   Link: <a href="https://www.theguardian.com/science/2008/may/14/spaceexploration.military" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2008/may/14/spaceexploration.military</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2008 — Some of the incidents are truly bizarre, but although some UFO sightings remain unexplained there is no evidence in the fi...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2008/may/14/spaceexploration.military" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2008/may/14/spaceexploration.military</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2008 — Some of the incidents are truly bizarre, but although some UFO sightings remain unexplained there is no evidence in the fi...</p></details>
    Published: May 14, 2008  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: independent.co.uk  
    Title: nick pope ufo mod ministry of defence northern ireland b2474519  
-   Link: <a href="https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK urged to &#x27;follow US&#x27; and take UFO sightings seriously...Jan 7, 2024 — Nick Pope, who used to investigate reports of UFO sightings for...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/uk/nick-pope-ufo-mod-ministry-of-defence-northern-ireland-b2474519.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK urged to &#x27;follow US&#x27; and take UFO sightings seriously...Jan 7, 2024 — Nick Pope, who used to investigate reports of UFO sightings for...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: shura.shu.ac.uk  
-   Link: <a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects (UFOs)by D Clarke · 2008 · Cited by 1 — From 2000-2009, when MoD announced the closure of its &#x27;UFO desk&#x27;, the...</p></details>
+   Link:<a href="https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/25206/3/Clarke_National_Archives_Research%28AM%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects (UFOs)by D Clarke · 2008 · Cited by 1 — From 2000-2009, when MoD announced the closure of its &#x27;UFO desk&#x27;, the...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>trials, he has found cases in the MoD&#x27;s files that left him stumped...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/s3a5my/the_ultimate_dirty_secret_about_ufos_according_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>trials, he has found cases in the MoD&#x27;s files that left him stumped...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: lumebooks.co.uk  
-   Link: <a href="https://www.lumebooks.co.uk/nick-pope-guest-post-ufos-fact-or-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://www.lumebooks.co.uk/nick-pope-guest-post-ufos-fact-or-fiction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rfighting concepts that I&#x27;m familiar with as a result of other MoD...Read more...</p></details>
+   Link:<a href="https://www.lumebooks.co.uk/nick-pope-guest-post-ufos-fact-or-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://www.lumebooks.co.uk/nick-pope-guest-post-ufos-fact-or-fiction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rfighting concepts that I&#x27;m familiar with as a result of other MoD...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nytimes/posts/nick-pope-who-investigated-ufo-sightings-for-britains-ministry-of-defense-and-wa/1357246976257762/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nytimes/posts/nick-pope-who-investigated-ufo-sightings-for-britains-ministry-of-defense-and-wa/1357246976257762/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d was often likened to FBI agent Fox Mulder on “The X-Files,” died...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/nytimes/posts/nick-pope-who-investigated-ufo-sightings-for-britains-ministry-of-defense-and-wa/1357246976257762/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nytimes/posts/nick-pope-who-investigated-ufo-sightings-for-britains-ministry-of-defense-and-wa/1357246976257762/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d was often likened to FBI agent Fox Mulder on “The X-Files,” died...Read more...</p></details>

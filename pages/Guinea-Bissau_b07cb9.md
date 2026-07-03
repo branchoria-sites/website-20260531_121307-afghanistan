@@ -1194,31 +1194,31 @@ image: /assets/images/Guinea-Bissau_b07cb9-overview-social.jpg
 
 ## What is actually documented?
 
-The clearest public case located in current open sources is NUFORC sighting 187616. It was reported in February 2025, but the witness said the event occurred on 4 January 1967 at about 20:00 local time in Guinea-Bissau, when the witness was about 13. The report describes two observers, a yellow sphere “like a star”, a roughly 30-second duration, movement that appeared to change direction, and a sudden disappearance “like a flash”. The account also includes a period detail: the witness’s father reportedly wondered whether it could be “Russia spying” because the PAIGC independence struggle was under way and Soviet support for anti-colonial forces was part of the wider Cold War context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=187616" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The clearest public case located in current open sources is NUFORC sighting 187616. It was reported in February 2025, but the witness said the event occurred on 4 January 1967 at about 20:00 local time in Guinea-Bissau, when the witness was about 13. The report describes two observers, a yellow sphere “like a star”, a roughly 30-second duration, movement that appeared to change direction, and a sudden disappearance “like a flash”. The account also includes a period detail: the witness’s father reportedly wondered whether it could be “Russia spying” because the PAIGC independence struggle was under way and Soviet support for anti-colonial forces was part of the wider Cold War context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=187616" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Guinea-Bissau_b07cb9-overview.webp" | relative_url }}" alt="Overview image for What Do Guinea Bissau&#x27;s UFO Reports Really..." loading="eager" decoding="sync" fetchpriority="high">
-That report is interesting, but it is not strong evidence by itself. It was filed almost 58 years after the alleged event, lacks a precise town or coordinates, gives no photographs or contemporaneous documents, and depends on memory from childhood. NASA’s UAP study makes the general evidentiary point directly: eyewitness reports can be compelling, but are insufficient on their own for definitive conclusions without robust follow-up data. AARO, the US office that analyses unidentified anomalous phenomena, has made a similar point about many UAP reports: most have little more than a vague narrative, and even sensor data can be incomplete or poor quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+That report is interesting, but it is not strong evidence by itself. It was filed almost 58 years after the alleged event, lacks a precise town or coordinates, gives no photographs or contemporaneous documents, and depends on memory from childhood. NASA’s UAP study makes the general evidentiary point directly: eyewitness reports can be compelling, but are insufficient on their own for definitive conclusions without robust follow-up data. AARO, the US office that analyses unidentified anomalous phenomena, has made a similar point about many UAP reports: most have little more than a vague narrative, and even sensor data can be incomplete or poor quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-A second source, the United States UFO Information and Research Center page for Guinea-Bissau, says it has received “a number” of reports and is working to add them, but the page currently shows no usable case catalogue beyond a 2025 notice about disseminating submitted cases. It also uses broad promotional language about alien contact and abductions, which lowers its value as a neutral archive. It is best treated as a lead for possible future claims, not as verified evidence of specific incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A second source, the United States UFO Information and Research Center page for Guinea-Bissau, says it has received “a number” of reports and is working to add them, but the page currently shows no usable case catalogue beyond a 2025 notice about disseminating submitted cases. It also uses broad promotional language about alien contact and abductions, which lowers its value as a neutral archive. It is best treated as a lead for possible future claims, not as verified evidence of specific incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why Guinea-Bissau produces a difficult UFO record
 
-Guinea-Bissau is a small Atlantic coastal state with Bissau as its capital, low-lying coastal plains, swampy terrain, mangroves, and the Bijagós archipelago offshore. Those geography facts matter for UFO analysis because reported sky events are shaped by where people live, where they can see the horizon, how dark the skies are, and what ordinary aerial activity passes overhead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Guinea-Bissau" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Guinea-Bissau &#124; Capital, President, Population, Religion</span><span class="citation-popover-snippet">Encyclopedia Britannica Guinea-Bissau &#124; Capital, President, Population, Religion</span></span></span>
+Guinea-Bissau is a small Atlantic coastal state with Bissau as its capital, low-lying coastal plains, swampy terrain, mangroves, and the Bijagós archipelago offshore. Those geography facts matter for UFO analysis because reported sky events are shaped by where people live, where they can see the horizon, how dark the skies are, and what ordinary aerial activity passes overhead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Guinea-Bissau" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Guinea-Bissau &#124; Capital, President, Population, Religion</span><span class="citation-popover-snippet">Encyclopedia Britannica Guinea-Bissau &#124; Capital, President, Population, Religion</span></span></span>
 
-The country’s aviation footprint is also concentrated. Osvaldo Vieira International Airport at Bissau is the country’s main international airport, and aviation reference sources identify it by IATA code OXB and ICAO code GGOV. ASECNA, the regional air navigation body, includes Guinea-Bissau among its member states and provides a framework for regional airspace management, while FAA aeronautical information lists Guinea-Bissau civil aviation authorities and ASECNA representation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/GW.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The country’s aviation footprint is also concentrated. Osvaldo Vieira International Airport at Bissau is the country’s main international airport, and aviation reference sources identify it by IATA code OXB and ICAO code GGOV. ASECNA, the regional air navigation body, includes Guinea-Bissau among its member states and provides a framework for regional airspace management, while FAA aeronautical information lists Guinea-Bissau civil aviation authorities and ASECNA representation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/GW.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This concentration cuts both ways. On one hand, a real unusual aerial incident near Bissau might have some chance of intersecting with airport, air traffic, military, or police reporting. On the other hand, many ordinary sources of “mystery lights” would also cluster around the capital and airport corridor: aircraft on approach, navigation lights, aircraft at unusual angles, satellite passes, re-entering space debris, distant lightning, bright planets low on the horizon, and occasional meteors.
 
-The 1967 NUFORC report also sits inside a historically charged period. Guinea-Bissau’s war of independence was fought between Portugal and the PAIGC from the 1960s into the 1970s, and US diplomatic records from 1973 described Soviet-supplied weapons, including ground-to-air missiles, as part of the conflict environment. A witness’s family interpreting an unexplained light through the lens of “spying” therefore fits the period’s political atmosphere, even if it does not identify the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1969-76ve06/d69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Office of the Historian Historical Documents</span></span></span>
+The 1967 NUFORC report also sits inside a historically charged period. Guinea-Bissau’s war of independence was fought between Portugal and the PAIGC from the 1960s into the 1970s, and US diplomatic records from 1973 described Soviet-supplied weapons, including ground-to-air missiles, as part of the conflict environment. A witness’s family interpreting an unexplained light through the lens of “spying” therefore fits the period’s political atmosphere, even if it does not identify the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1969-76ve06/d69" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Office of the Historian Historical Documents</span></span></span>
 
 <img src="{{ "/assets/images/Guinea-Bissau_b07cb9-Illustration-1-dark.svg" | relative_url }}" alt="What Do Guinea Bissau&#x27;s UFO Reports Really... illustration 1" data-theme-src-dark="{{ "/assets/images/Guinea-Bissau_b07cb9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea-Bissau_b07cb9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical chronology of known public claims
 
 The public chronology is short and uneven.
 
-**1967: remembered yellow sphere over Guinea-Bissau.** The NUFORC report describes a yellow, star-like sphere seen from land by two observers for around 30 seconds. Its apparent motion — horizontal, downwards, then upwards and away — is the main anomalous feature in the witness account. The report remains contested or unverified because it was filed decades later and has no independent corroborating material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=187616" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**1967: remembered yellow sphere over Guinea-Bissau.** The NUFORC report describes a yellow, star-like sphere seen from land by two observers for around 30 seconds. Its apparent motion — horizontal, downwards, then upwards and away — is the main anomalous feature in the witness account. The report remains contested or unverified because it was filed decades later and has no independent corroborating material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=187616" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**2025: US-based database notice, not a case release.** The US UFO Center page for Guinea-Bissau says its “Disclosure Project” began on 22 March 2025 and that it was working to add reports received through its Guinea-Bissau reporting page. As of the available page text, it does not provide enough detail to build a verified incident list. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**2025: US-based database notice, not a case release.** The US UFO Center page for Guinea-Bissau says its “Disclosure Project” began on 22 March 2025 and that it was working to add reports received through its Guinea-Bissau reporting page. As of the available page text, it does not provide enough detail to build a verified incident list.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **No confirmed national declassification trail located.** Searches of accessible public material do not reveal a Guinea-Bissau government UFO archive, a civil aviation UAP release, or a declassified national investigation comparable to better-known state UFO files elsewhere. That absence should be read carefully: it may reflect limited digitisation, language barriers, institutional fragility, or lack of reporting channels, not necessarily the absence of sightings.
 
@@ -1226,9 +1226,9 @@ The public chronology is short and uneven.
 
 A useful Guinea-Bissau page needs a strict evidence split, because the available record is too sparse for dramatic claims.
 
-**Confirmed as reports:** the 1967 NUFORC entry is confirmed as a report made to NUFORC, not confirmed as an unexplained craft. The 2025 US UFO Center page is confirmed as a reporting portal or placeholder claiming future Guinea-Bissau material, not as a verified incident archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=187616" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed as reports:** the 1967 NUFORC entry is confirmed as a report made to NUFORC, not confirmed as an unexplained craft. The 2025 US UFO Center page is confirmed as a reporting portal or placeholder claiming future Guinea-Bissau material, not as a verified incident archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=187616" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested or unresolved:** the 1967 sighting remains unresolved in the weak sense that no public explanation is attached to it. However, “unresolved” here means “not enough data to resolve”, not “evidence of extraordinary technology”. NASA and AARO both caution that incomplete narratives and poor data are a major reason UAP cases remain unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+**Contested or unresolved:** the 1967 sighting remains unresolved in the weak sense that no public explanation is attached to it. However, “unresolved” here means “not enough data to resolve”, not “evidence of extraordinary technology”. NASA and AARO both caution that incomplete narratives and poor data are a major reason UAP cases remain unidentified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 **Debunked:** no Guinea-Bissau-specific public UFO case located here has a documented debunking with matched astronomical, aviation, meteorological, or radar evidence. That is not unusual for thinly documented reports: without precise date, time, direction, elevation, and location, even mundane explanations cannot be tested properly.
 
@@ -1238,11 +1238,11 @@ A useful Guinea-Bissau page needs a strict evidence split, because the available
 
 The 1967 NUFORC case cannot be solved from the published details, but several ordinary possibilities remain plausible.
 
-Bright planets are a recurring source of UFO reports worldwide. NASA’s Night Sky Network notes that Venus, especially when bright and low, has often been reported as a UFO; Sirius, Jupiter, and Mercury can also be misread as strange lights, and bright planets near the horizon can seem to hover or form unusual alignments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Bright planets are a recurring source of UFO reports worldwide. NASA’s Night Sky Network notes that Venus, especially when bright and low, has often been reported as a UFO; Sirius, Jupiter, and Mercury can also be misread as strange lights, and bright planets near the horizon can seem to hover or form unusual alignments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Meteors and fireballs are another possibility for brief bright events, but the NUFORC report’s claimed duration of around 30 seconds is longer than a typical meteor. The International Meteor Organization explains that fireballs usually last only a few seconds and that objects lasting more than 10 seconds are more likely to be satellites or aircraft. The American Meteor Society similarly warns that slow blinking objects, recurring events, and long-duration lights should not be reported as fireballs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Meteors and fireballs are another possibility for brief bright events, but the NUFORC report’s claimed duration of around 30 seconds is longer than a typical meteor. The International Meteor Organization explains that fireballs usually last only a few seconds and that objects lasting more than 10 seconds are more likely to be satellites or aircraft. The American Meteor Society similarly warns that slow blinking objects, recurring events, and long-duration lights should not be reported as fireballs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Satellites and space debris are also plausible for slow, bright, silent lights, particularly when a report describes a light moving across the sky and then disappearing. Disappearance can occur when a satellite enters Earth’s shadow, though the reported direction changes in the 1967 account would need better positional detail before that explanation could be tested. NASA’s general fireball database also makes clear that fireball data are not real-time and not all events are reported, which limits retrospective checking for older events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Satellites and space debris are also plausible for slow, bright, silent lights, particularly when a report describes a light moving across the sky and then disappearing. Disappearance can occur when a satellite enters Earth’s shadow, though the reported direction changes in the 1967 account would need better positional detail before that explanation could be tested. NASA’s general fireball database also makes clear that fireball data are not real-time and not all events are reported, which limits retrospective checking for older events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Aircraft remain an obvious category, especially around Bissau and coastal routes, but the 1967 report lacks a location precise enough to compare with known flight paths or military activity. The witness’s father’s “Russia spying” suggestion is historically understandable in a Cold War independence-war setting, yet it is not evidence of a Soviet aircraft, drone, or surveillance platform.
 
@@ -1251,9 +1251,9 @@ Aircraft remain an obvious category, especially around Bissau and coastal routes
 
 The country’s likely sighting geography can be divided into three broad zones.
 
-**Bissau and the airport corridor** would be the most likely place for reports involving aircraft, airport lighting, military or police interpretation, and possible official records. Osvaldo Vieira International Airport is the main aviation anchor, and the presence of formal aviation authorities gives this zone the best chance of cross-checking a serious report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/GW.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Bissau and the airport corridor** would be the most likely place for reports involving aircraft, airport lighting, military or police interpretation, and possible official records. Osvaldo Vieira International Airport is the main aviation anchor, and the presence of formal aviation authorities gives this zone the best chance of cross-checking a serious report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/GW.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**The coastal mangrove and Bijagós island zone** offers darker horizons, broad water views, and fewer reference points. That makes genuine skywatching easier but misperception more likely: lights from vessels, aircraft over the Atlantic, weather, distant lightning, fishing activity, satellites, or reflections can be harder to judge over water. Guinea-Bissau’s island and coastal geography is therefore important for any future case assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Guinea-Bissau" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Guinea-Bissau &#124; Capital, President, Population, Religion</span><span class="citation-popover-snippet">Encyclopedia Britannica Guinea-Bissau &#124; Capital, President, Population, Religion</span></span></span>
+**The coastal mangrove and Bijagós island zone** offers darker horizons, broad water views, and fewer reference points. That makes genuine skywatching easier but misperception more likely: lights from vessels, aircraft over the Atlantic, weather, distant lightning, fishing activity, satellites, or reflections can be harder to judge over water. Guinea-Bissau’s island and coastal geography is therefore important for any future case assessment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Guinea-Bissau" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Guinea-Bissau &#124; Capital, President, Population, Religion</span><span class="citation-popover-snippet">Encyclopedia Britannica Guinea-Bissau &#124; Capital, President, Population, Religion</span></span></span>
 
 **The inland east and rural settlements** may have darker skies and fewer artificial lights, but also fewer reporting channels, less camera coverage, and weaker archival visibility. A rural sighting may be visually impressive but difficult to verify unless several independent witnesses record time, direction, duration, and environmental conditions.
 
@@ -1261,9 +1261,9 @@ The country’s likely sighting geography can be divided into three broad zones.
 
 ## Official records and local-source reliability
 
-There is no strong public sign of a dedicated Guinea-Bissau UFO investigation office. The most credible official pathways for future cases would probably be ordinary aviation and security channels: civil aviation authorities, airport control, ASECNA-linked air navigation records, military or police incident logs, and meteorological services. FAA aeronautical information identifies Guinea-Bissau’s civil aviation authority contacts, while ASECNA describes its role in regional air navigation cooperation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/GW.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+There is no strong public sign of a dedicated Guinea-Bissau UFO investigation office. The most credible official pathways for future cases would probably be ordinary aviation and security channels: civil aviation authorities, airport control, ASECNA-linked air navigation records, military or police incident logs, and meteorological services. FAA aeronautical information identifies Guinea-Bissau’s civil aviation authority contacts, while ASECNA describes its role in regional air navigation cooperation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/GW.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Local-source reliability is complicated by Guinea-Bissau’s political and institutional environment. The country has experienced recurring instability, and a November 2025 military takeover disrupted elections and closed borders, according to contemporary reporting. Such instability can affect preservation, digitisation, and public access to records, including records that have nothing to do with UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Guinea-Bissau military takes &#x27;total control&#x27; amid election chaos</span><span class="citation-popover-snippet">The military has formed a high command body to govern and restore order, continuing a turbulent pattern of coups in Guinea-Bissau since i...</span></span></span>
+Local-source reliability is complicated by Guinea-Bissau’s political and institutional environment. The country has experienced recurring instability, and a November 2025 military takeover disrupted elections and closed borders, according to contemporary reporting. Such instability can affect preservation, digitisation, and public access to records, including records that have nothing to do with UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Guinea-Bissau military takes &#x27;total control&#x27; amid election chaos</span><span class="citation-popover-snippet">The military has formed a high command body to govern and restore order, continuing a turbulent pattern of coups in Guinea-Bissau since i...</span></span></span>
 
 That makes foreign databases useful but limited. NUFORC can preserve a witness account that might otherwise disappear, but it is not a Guinea-Bissau investigative authority. A US-based UFO portal can solicit reports, but without transparent methods, documents, witness checks, and case-by-case analysis, it should not be treated as proof.
 
@@ -1285,7 +1285,7 @@ A strong future case from Guinea-Bissau would need more than an intriguing story
 
 </div>
 
-NASA’s UAP study recommends moving away from stigma and towards systematic, high-quality data, while AARO’s public case material shows that some UAP reports can be resolved as balloons, birds, or other ordinary objects once enough data are available. That standard is especially important for Guinea-Bissau because the public record is currently too small to carry much weight on its own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+NASA’s UAP study recommends moving away from stigma and towards systematic, high-quality data, while AARO’s public case material shows that some UAP reports can be resolved as balloons, birds, or other ordinary objects once enough data are available. That standard is especially important for Guinea-Bissau because the public record is currently too small to carry much weight on its own.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 <img src="{{ "/assets/images/Guinea-Bissau_b07cb9-Illustration-3-dark.svg" | relative_url }}" alt="What Do Guinea Bissau&#x27;s UFO Reports Really... illustration 3" data-theme-src-dark="{{ "/assets/images/Guinea-Bissau_b07cb9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea-Bissau_b07cb9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Takeaway for the Guinea-Bissau branch
@@ -1295,194 +1295,194 @@ Guinea-Bissau’s UFO record is best classified as sparse and mostly unverified.
 For the wider country-by-country UFO project, Guinea-Bissau is therefore a “thin-evidence” branch rather than an incident-rich one. Its value lies in showing how much UFO history depends on reporting infrastructure: dark skies and vivid memories are not enough. Without precise data, local archives, aviation checks, and independent corroboration, the line between an unexplained object, a misidentified natural event, an aircraft, a satellite, and a Cold War-era interpretation remains unresolved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Guinea Bissau&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Guinea Bissau&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Highly relevant to assessing sparse and uncertain reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to assessing sparse and uncertain reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a benchmark for comparing weakly documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a benchmark for comparing weakly documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Travis Walton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+</h4>
+<p class="fr-book-author">By Travis Walton</p>
         
-        <p class="fr-book-desc">Useful for understanding how limited evidence becomes part of UFO lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how limited evidence becomes part of UFO lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oczosgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
+</h4>
+<p class="fr-book-author">By John Keel</p>
         
-        <p class="fr-book-desc">Addresses recurring witness interpretations of unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses recurring witness interpretations of unusual aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-guinea-bissau-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1498,7 +1498,7 @@ For the wider country-by-country UFO project, Guinea-Bissau is therefore a “th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1518,7 +1518,7 @@ For the wider country-by-country UFO project, Guinea-Bissau is therefore a “th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1550,7 +1550,7 @@ For the wider country-by-country UFO project, Guinea-Bissau is therefore a “th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1602,7 +1602,7 @@ For the wider country-by-country UFO project, Guinea-Bissau is therefore a “th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1647,7 +1647,7 @@ For the wider country-by-country UFO project, Guinea-Bissau is therefore a “th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1688,207 +1688,207 @@ For the wider country-by-country UFO project, Guinea-Bissau is therefore a “th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=187616" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187616</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=187616" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187616</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.state.gov  
    Title: Office of the Historian Historical Documents  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1969-76ve06/d69" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1969-76ve06/d69</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1969-76ve06/d69" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1969-76ve06/d69</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/guinea-bissau-ufo-sightings.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Guinea-Bissau | Capital, President, Population, Religion  
-   Link: <a href="https://www.britannica.com/place/Guinea-Bissau" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Guinea-Bissau</a>  
+   Link:<a href="https://www.britannica.com/place/Guinea-Bissau" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Guinea-Bissau</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/GW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/GW.pdf</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/GW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/GW.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: asecna.aero  
    Title: ASECN A online  
-   Link: <a href="https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/etats-membres-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/etats-membres-en</a>  
+   Link:<a href="https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/etats-membres-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/etats-membres-en</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Guinea-Bissau  
-   Link: <a href="https://www.britannica.com/place/Guinea-Bissau/Independence" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Guinea-Bissau/Independence</a>  
+   Link:<a href="https://www.britannica.com/place/Guinea-Bissau/Independence" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Guinea-Bissau/Independence</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1969-76ve06/d55" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1969-76ve06/d55</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1969-76ve06/d55" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1969-76ve06/d55</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: 2001-2009.state.gov  
-   Link: <a href="https://2001-2009.state.gov/documents/organization/70562.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2001-2009.state.gov/documents/organization/70562.pdf</a>  
+   Link:<a href="https://2001-2009.state.gov/documents/organization/70562.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2001-2009.state.gov/documents/organization/70562.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: kids.britannica.com  
    Title: Guinea Bissau  
-   Link: <a href="https://kids.britannica.com/kids/article/Guinea-Bissau/345701" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/kids/article/Guinea-Bissau/345701</a>  
+   Link:<a href="https://kids.britannica.com/kids/article/Guinea-Bissau/345701" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/kids/article/Guinea-Bissau/345701</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aim.asecna.aero  
-   Link: <a href="https://aim.asecna.aero/" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/</a>  
+   Link:<a href="https://aim.asecna.aero/" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: asecna.aero  
    Title: ASECN A online  
-   Link: <a href="https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/cooperation-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/cooperation-en</a>  
+   Link:<a href="https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/cooperation-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/cooperation-en</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aim.asecna.aero  
-   Link: <a href="https://aim.asecna.aero/html/eAIP/cartes/atlas/guinee%20bissau/Bissau%20-%20Osvaldo/17AD2-GGOV-IAC-ILSZ21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/html/eAIP/cartes/atlas/guinee%20bissau/Bissau%20-%20Osvaldo/17AD2-GGOV-IAC-ILSZ21.pdf</a>  
+   Link:<a href="https://aim.asecna.aero/html/eAIP/cartes/atlas/guinee%20bissau/Bissau%20-%20Osvaldo/17AD2-GGOV-IAC-ILSZ21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/html/eAIP/cartes/atlas/guinee%20bissau/Bissau%20-%20Osvaldo/17AD2-GGOV-IAC-ILSZ21.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: asecna.aero  
-   Link: <a href="https://www.asecna.aero/images/Docs/Publications/Convention/Convention_ASECNA_Version_Anglaise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/images/Docs/Publications/Convention/Convention_ASECNA_Version_Anglaise.pdf</a>  
+   Link:<a href="https://www.asecna.aero/images/Docs/Publications/Convention/Convention_ASECNA_Version_Anglaise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/images/Docs/Publications/Convention/Convention_ASECNA_Version_Anglaise.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: icao.int  
    Title: S3 PPT 2a ASECNA  
-   Link: <a href="https://www.icao.int/sites/default/files/ESAF/MeetingDocs/AFI-Week/8th-AFI-Week/Symposium/4Session-3_Air-Navigation_Capacity_and_Efficiency/S3_PPT_2a_ASECNA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/ESAF/MeetingDocs/AFI-Week/8th-AFI-Week/Symposium/4Session-3_Air-Navigation_Capacity_and_Efficiency/S3_PPT_2a_ASECNA.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/ESAF/MeetingDocs/AFI-Week/8th-AFI-Week/Symposium/4Session-3_Air-Navigation_Capacity_and_Efficiency/S3_PPT_2a_ASECNA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/ESAF/MeetingDocs/AFI-Week/8th-AFI-Week/Symposium/4Session-3_Air-Navigation_Capacity_and_Efficiency/S3_PPT_2a_ASECNA.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: The Guardian Guinea-Bissau military takes 'total control' amid election chaos  
-   Link: <a href="https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The military has formed a high command body to govern and restore order, continuing a turbulent pattern of coups in Guinea-Bissau since i...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/nov/26/guinea-bissau-officers-take-total-control-close-borders-amid-election-chaos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The military has formed a high command body to govern and restore order, continuing a turbulent pattern of coups in Guinea-Bissau since i...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Osvaldo Vieira International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Guinea Bissau  
-   Link: <a href="https://en.wikipedia.org/wiki/Guinea-Bissau" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guinea-Bissau</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Guinea-Bissau" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guinea-Bissau</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/photo.php?fbid=810549244403466&amp;id=100063451937609&amp;set=a.538427484948978" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=810549244403466&amp;id=100063451937609&amp;set=a.538427484948978</a>  
+   Link:<a href="https://www.facebook.com/photo.php?fbid=810549244403466&amp;id=100063451937609&amp;set=a.538427484948978" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=810549244403466&amp;id=100063451937609&amp;set=a.538427484948978</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: en.wikisource.org  
    Title: Guinea Bissau  
-   Link: <a href="https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Guinea-Bissau" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Guinea-Bissau</a>  
+   Link:<a href="https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Guinea-Bissau" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/CIA_World_Fact_Book%2C_2004/Guinea-Bissau</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/guinea-bissau" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/guinea-bissau</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/geography-and-cartography/guinea-bissau" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/guinea-bissau</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: metar-taf.com  
-   Link: <a href="https://metar-taf.com/airport/GGOV-osvaldo-vieira-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://metar-taf.com/airport/GGOV-osvaldo-vieira-international-airport</a>  
+   Link:<a href="https://metar-taf.com/airport/GGOV-osvaldo-vieira-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://metar-taf.com/airport/GGOV-osvaldo-vieira-international-airport</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: world-airport-codes.com  
    Title: Osvaldo Vieira International  
-   Link: <a href="https://www.world-airport-codes.com/guinea-bissau/osvaldo-vieira-international-7990.html" target="_blank" rel="noopener noreferrer nofollow">https://www.world-airport-codes.com/guinea-bissau/osvaldo-vieira-international-7990.html</a>  
+   Link:<a href="https://www.world-airport-codes.com/guinea-bissau/osvaldo-vieira-international-7990.html" target="_blank" rel="noopener noreferrer nofollow">https://www.world-airport-codes.com/guinea-bissau/osvaldo-vieira-international-7990.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: 1flt.com  
-   Link: <a href="https://www.1flt.com/country-route-info/guinea-bissau" target="_blank" rel="noopener noreferrer nofollow">https://www.1flt.com/country-route-info/guinea-bissau</a>  
+   Link:<a href="https://www.1flt.com/country-route-info/guinea-bissau" target="_blank" rel="noopener noreferrer nofollow">https://www.1flt.com/country-route-info/guinea-bissau</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: tradingeconomics.com  
    Title: Guinea Bissau  
-   Link: <a href="https://tradingeconomics.com/guinea-bissau/access-to-electricity-percent-of-population-wb-data.html" target="_blank" rel="noopener noreferrer nofollow">https://tradingeconomics.com/guinea-bissau/access-to-electricity-percent-of-population-wb-data.html</a>  
+   Link:<a href="https://tradingeconomics.com/guinea-bissau/access-to-electricity-percent-of-population-wb-data.html" target="_blank" rel="noopener noreferrer nofollow">https://tradingeconomics.com/guinea-bissau/access-to-electricity-percent-of-population-wb-data.html</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/africa/guinea-bissau-junta-releases-opposition-leader-vows-inclusive-government-2026-02-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/guinea-bissau-junta-releases-opposition-leader-vows-inclusive-government-2026-02-02/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The junta has pledged to include the PAIGC and the Party for Social Renewal (PRS), led by Fernando Dias, in a power-sharing government by...</p></details>
+   Link:<a href="https://www.reuters.com/world/africa/guinea-bissau-junta-releases-opposition-leader-vows-inclusive-government-2026-02-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/guinea-bissau-junta-releases-opposition-leader-vows-inclusive-government-2026-02-02/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The junta has pledged to include the PAIGC and the Party for Social Renewal (PRS), led by Fernando Dias, in a power-sharing government by...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience  
-   Link: <a href="https://www.youtube.com/watch?v=4npE-Fgh6M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4npE-Fgh6M4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Convincing UFO Story From South Africa: The Kalahari Event...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4npE-Fgh6M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4npE-Fgh6M4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Convincing UFO Story From South Africa: The Kalahari Event...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: The Most Convincing UFO Story From South Africa: The Kalahari Event  
-   Link: <a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel Phenomenon UFO Documentary | Talking Strange...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel Phenomenon UFO Documentary | Talking Strange...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp86t00608r000500200017-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp86t00608r000500200017-8</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp86t00608r000500200017-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp86t00608r000500200017-8</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Every Country WITHOUT A World Heritage Site  
-   Link: <a href="https://www.youtube.com/watch?v=1PTKa5syScU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1PTKa5syScU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1PTKa5syScU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1PTKa5syScU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Ariel Phenomenon UFO Documentary | Talking Strange  
-   Link: <a href="https://www.youtube.com/watch?v=gRtp_jUCq0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gRtp_jUCq0o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gRtp_jUCq0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gRtp_jUCq0o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/41703364/Australian_Acacia_longifolia_Invasibility_Geographic_Climate_and_Taxonomic_Scales_in_Invaded_Ranges" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41703364/Australian_Acacia_longifolia_Invasibility_Geographic_Climate_and_Taxonomic_Scales_in_Invaded_Ranges</a>  
+   Link:<a href="https://www.academia.edu/41703364/Australian_Acacia_longifolia_Invasibility_Geographic_Climate_and_Taxonomic_Scales_in_Invaded_Ranges" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/41703364/Australian_Acacia_longifolia_Invasibility_Geographic_Climate_and_Taxonomic_Scales_in_Invaded_Ranges</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WorldBankAfrica/posts/75-of-countries-in-africa-face-limited-electricity-access-how-do-we-change-this-/1377303577758641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WorldBankAfrica/posts/75-of-countries-in-africa-face-limited-electricity-access-how-do-we-change-this-/1377303577758641/</a>  
+   Link:<a href="https://www.facebook.com/WorldBankAfrica/posts/75-of-countries-in-africa-face-limited-electricity-access-how-do-we-change-this-/1377303577758641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WorldBankAfrica/posts/75-of-countries-in-africa-face-limited-electricity-access-how-do-we-change-this-/1377303577758641/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>
+   Link:<a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>

@@ -248,14 +248,14 @@ image: /assets/images/Seychelles_3d2d7b_mahe_1978_lights_1cad59-Illustration-1-s
 
 ## Introduction
 
-The alleged UFO sighting over Mahé on 2 January 1978 occupies an unusual place in Seychelles folklore because the strongest claim attached to it is not the sighting itself but a missing piece of corroboration. According to a witness account later submitted to the National UFO Reporting Center (NUFORC), strange greenish lights were seen near Victoria and the event was reportedly covered by a local newspaper the following day. More than four decades later, the witness narrative remains publicly accessible, but the newspaper article has not been widely reproduced, archived online, or independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=7099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 7099August 20, 2023 — NUFORC UFO Sighting 7099. Occurred: 1978-01-02 20:00 Local - Approximate Reported: 1999-04-24 0...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The alleged UFO sighting over Mahé on 2 January 1978 occupies an unusual place in Seychelles folklore because the strongest claim attached to it is not the sighting itself but a missing piece of corroboration. According to a witness account later submitted to the National UFO Reporting Center (NUFORC), strange greenish lights were seen near Victoria and the event was reportedly covered by a local newspaper the following day. More than four decades later, the witness narrative remains publicly accessible, but the newspaper article has not been widely reproduced, archived online, or independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=7099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 7099August 20, 2023 — NUFORC UFO Sighting 7099. Occurred: 1978-01-02 20:00 Local - Approximate Reported: 1999-04-24 0...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 <img src="{{ "/assets/images/Seychelles_3d2d7b_mahe_1978_lights_1cad59-Illustration-1-dark.svg" | relative_url }}" alt="1978 Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Seychelles_3d2d7b_mahe_1978_lights_1cad59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Seychelles_3d2d7b_mahe_1978_lights_1cad59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That gap matters. Many UFO reports survive only as memories. A contemporaneous newspaper report would not automatically prove that an extraordinary object crossed the skies above Mahé, but it would establish that unusual lights were discussed publicly at the time rather than reconstructed decades later. As a result, the 1978 Mahé lights have become less a story about a mysterious object and more a case study in how missing local records shape the credibility of small-country UFO histories.
 
 ## Did Mahé See Something Unusual in 1978?
 
-The public version of the case comes primarily from a NUFORC report filed in April 1999 concerning an event said to have occurred on 2 January 1978 near Victoria on Mahé. The witness claimed that four people observed a formation of bright greenish lights moving silently down a valley. According to the account, the lights initially appeared triangular, with visible trails, before changing form, shrinking into a single light and accelerating away at high speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1543042. Location: Mahe (Seychelles),, Seychelles Shape: Light From what was observed there was initially 2 lights m...</span></span></span>
+The public version of the case comes primarily from a NUFORC report filed in April 1999 concerning an event said to have occurred on 2 January 1978 near Victoria on Mahé. The witness claimed that four people observed a formation of bright greenish lights moving silently down a valley. According to the account, the lights initially appeared triangular, with visible trails, before changing form, shrinking into a single light and accelerating away at high speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1543042. Location: Mahe (Seychelles),, Seychelles Shape: Light From what was observed there was initially 2 lights m...</span></span></span>
 
 Several details distinguish the report from a simple single-observer sighting.
 
@@ -264,11 +264,11 @@ Several details distinguish the report from a simple single-observer sighting.
 * The witness claimed multiple observers were present.
 * The object was described as silent despite apparently moving at low altitude.
 * The report alleged that other people elsewhere on Mahé described related observations from different perspectives.
-* The witness stated that a local newspaper carried illustrations and reports of the event the next day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197801NUFORC Reports for Month 197801; Open, 01/02/1978 20:00, Victoria, Mahe (Seychelles), Seychelles; Open...</span></span></span>
+* The witness stated that a local newspaper carried illustrations and reports of the event the next day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197801NUFORC Reports for Month 197801; Open, 01/02/1978 20:00, Victoria, Mahe (Seychelles), Seychelles; Open...</span></span></span>
 
 </div>
 
-The account also contains descriptions that sound unusually specific for a memory reported roughly twenty-one years after the event. The witness recalled not only the apparent shape and colour of the lights but also reports of a disc-like object near the airport, a cylindrical formation observed from a tracking facility and a spherical object over the sea. Those additional claims make the story more interesting, yet they also increase the need for contemporary documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197806NUFORC Reports for Month 197806.; Open, 06/30/1978 22:00, Piscataway, NJ, USA; Open, 06/30/1978 22:00, M...</span></span></span>
+The account also contains descriptions that sound unusually specific for a memory reported roughly twenty-one years after the event. The witness recalled not only the apparent shape and colour of the lights but also reports of a disc-like object near the airport, a cylindrical formation observed from a tracking facility and a spherical object over the sea. Those additional claims make the story more interesting, yet they also increase the need for contemporary documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197806NUFORC Reports for Month 197806.; Open, 06/30/1978 22:00, Piscataway, NJ, USA; Open, 06/30/1978 22:00, M...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5RqB14CSbHQ" title="The UnXplained: Pilot Spots a UFO Before Disappearing Forever (Season 7) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5RqB14CSbHQ" target="_blank" rel="noopener noreferrer">The UnXplained: Pilot Spots a UFO Before Disappearing Forever (Season 7) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 74.6K &middot; Uploaded: November 2024 &middot; Length: 4 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5RqB14CSbHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5RqB14CSbHQ">Open on YouTube</a></p></div></div></div>
 
@@ -276,7 +276,7 @@ The account also contains descriptions that sound unusually specific for a memor
 
 The central evidential problem is chronology.
 
-The sighting allegedly happened in January 1978, but the publicly available report was submitted to NUFORC in 1999. That does not make the witness dishonest. Late reporting is common in UFO databases. However, long delays increase the possibility of memory drift, unintentional embellishment and the blending of separate events into a single narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197802" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197802NUFORC Reports for Month 197802... Bright orange glow. Stationary.... A brilliant, white,silent circular...</span></span></span>
+The sighting allegedly happened in January 1978, but the publicly available report was submitted to NUFORC in 1999. That does not make the witness dishonest. Late reporting is common in UFO databases. However, long delays increase the possibility of memory drift, unintentional embellishment and the blending of separate events into a single narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197802" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197802NUFORC Reports for Month 197802... Bright orange glow. Stationary.... A brilliant, white,silent circular...</span></span></span>
 
 A newspaper article from January 1978 would address several of those concerns at once.
 
@@ -294,7 +294,7 @@ Conversely, a newspaper article could also weaken the UFO interpretation. Contem
 
 The absence of an easily accessible newspaper record is not necessarily suspicious. It may reflect the practical realities of researching a small island nation's media history.
 
-Unlike major UFO cases in the United States, Britain or Australia, Seychelles in the late 1970s did not generate extensive digitised newspaper archives. Researchers looking for January 1978 coverage face a much narrower documentary landscape. Modern archive portals exist for Seychellois newspapers, but comprehensive searchable digital runs covering the period have not become widely available to international researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seychellesnation.com/archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seychellesnation.com">[Seychelles Nation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seychellesnation.com</span><span class="citation-popover-title">Seychelles Nation Archives</span><span class="citation-popover-snippet">Seychelles NationArchives - Seychelles NationSeychelles Nation. Be part of it. Menu. Home · Breaking News · Media Corner... Archives. Ar...</span></span></span>
+Unlike major UFO cases in the United States, Britain or Australia, Seychelles in the late 1970s did not generate extensive digitised newspaper archives. Researchers looking for January 1978 coverage face a much narrower documentary landscape. Modern archive portals exist for Seychellois newspapers, but comprehensive searchable digital runs covering the period have not become widely available to international researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://seychellesnation.com/archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seychellesnation.com">[Seychelles Nation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seychellesnation.com</span><span class="citation-popover-title">Seychelles Nation Archives</span><span class="citation-popover-snippet">Seychelles NationArchives - Seychelles NationSeychelles Nation. Be part of it. Menu. Home · Breaking News · Media Corner... Archives. Ar...</span></span></span>
 
 This creates a familiar problem in historical UFO research. A witness may remember seeing a report in print, yet later investigators cannot easily check whether the article survives, whether it described the same event or whether it was reproduced accurately in memory.
 
@@ -313,7 +313,7 @@ The result is an evidential deadlock:
 
 The newspaper trail is not the only potential route to verification.
 
-The witness account mentioned observations allegedly made near an airport and at a tracking station. Mahé hosted strategic tracking facilities during the Cold War era, including installations connected with satellite observation and space-tracking operations. Such facilities existed on the island during the broader period and monitored activity over the Indian Ocean. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1988-11-06-mn-284-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1988 11 06 mn 284 story</span><span class="citation-popover-snippet">Los Angeles TimesSeychelles Station Tracks U.S. Satellites: Air Force Facility...6 Nov 1988 — A US Air Force space tracking station has...</span></span></span>
+The witness account mentioned observations allegedly made near an airport and at a tracking station. Mahé hosted strategic tracking facilities during the Cold War era, including installations connected with satellite observation and space-tracking operations. Such facilities existed on the island during the broader period and monitored activity over the Indian Ocean.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1988-11-06-mn-284-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1988 11 06 mn 284 story</span><span class="citation-popover-snippet">Los Angeles TimesSeychelles Station Tracks U.S. Satellites: Air Force Facility...6 Nov 1988 — A US Air Force space tracking station has...</span></span></span>
 
 In theory, several categories of records could clarify the case:
 
@@ -329,220 +329,220 @@ Weather conditions on the night of 2 January 1978 could help assess possibilitie
 
 ### Tracking-station documentation
 
-If personnel at a space-tracking or satellite-monitoring installation genuinely reported unusual lights, internal reports or maintenance logs would be especially valuable because they would come from trained observers. No publicly released document has yet surfaced showing such a report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1988-11-06-mn-284-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1988 11 06 mn 284 story</span><span class="citation-popover-snippet">Los Angeles TimesSeychelles Station Tracks U.S. Satellites: Air Force Facility...6 Nov 1988 — A US Air Force space tracking station has...</span></span></span>
+If personnel at a space-tracking or satellite-monitoring installation genuinely reported unusual lights, internal reports or maintenance logs would be especially valuable because they would come from trained observers. No publicly released document has yet surfaced showing such a report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1988-11-06-mn-284-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 1988 11 06 mn 284 story</span><span class="citation-popover-snippet">Los Angeles TimesSeychelles Station Tracks U.S. Satellites: Air Force Facility...6 Nov 1988 — A US Air Force space tracking station has...</span></span></span>
 
 ### Government archives
 
-Former colonial and diplomatic archives occasionally preserve correspondence about unusual public events. British archival collections contain many records relating to Seychelles administration and foreign affairs, although no widely cited document has emerged connecting them to the Mahé sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/category/records-2/page/28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives Help with your research Archives</span><span class="citation-popover-snippet">The records...Read more...</span></span></span>
+Former colonial and diplomatic archives occasionally preserve correspondence about unusual public events. British archival collections contain many records relating to Seychelles administration and foreign affairs, although no widely cited document has emerged connecting them to the Mahé sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/category/records-2/page/28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives Help with your research Archives</span><span class="citation-popover-snippet">The records...Read more...</span></span></span>
 
 ## What Can Be Said With Confidence?
 
 The strongest verified facts are relatively limited.
 
-A NUFORC report exists describing an alleged sighting over Victoria, Mahé, on or around 2 January 1978. The report was filed in 1999 and includes a detailed narrative involving greenish lights, multiple observers and a claim of local newspaper coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=7099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 7099August 20, 2023 — NUFORC UFO Sighting 7099. Occurred: 1978-01-02 20:00 Local - Approximate Reported: 1999-04-24 0...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+A NUFORC report exists describing an alleged sighting over Victoria, Mahé, on or around 2 January 1978. The report was filed in 1999 and includes a detailed narrative involving greenish lights, multiple observers and a claim of local newspaper coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=7099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 7099August 20, 2023 — NUFORC UFO Sighting 7099. Occurred: 1978-01-02 20:00 Local - Approximate Reported: 1999-04-24 0...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 What remains unverified is equally important.
 
-There is no publicly available scan of the alleged newspaper article attached to the NUFORC record. No known official investigation has been released. No radar data, photographs, government memoranda or contemporaneous witness statements have become part of the public record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1543042. Location: Mahe (Seychelles),, Seychelles Shape: Light From what was observed there was initially 2 lights m...</span></span></span>
+There is no publicly available scan of the alleged newspaper article attached to the NUFORC record. No known official investigation has been released. No radar data, photographs, government memoranda or contemporaneous witness statements have become part of the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1543042. Location: Mahe (Seychelles),, Seychelles Shape: Light From what was observed there was initially 2 lights m...</span></span></span>
 
 That places the Mahé lights in a middle category often overlooked in UFO discussions. The case is neither a clear hoax nor a well-documented unexplained event. Instead, it is a historical claim with one potentially significant lead that remains unresolved.
 
 <img src="{{ "/assets/images/Seychelles_3d2d7b_mahe_1978_lights_1cad59-Illustration-3-dark.svg" | relative_url }}" alt="1978 Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Seychelles_3d2d7b_mahe_1978_lights_1cad59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Seychelles_3d2d7b_mahe_1978_lights_1cad59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Case Still Attracts Attention
 
-The 1978 Mahé lights continue to stand out within Seychelles UFO history precisely because the country's public UFO record is so small. The later 2020 Mahé report in the NUFORC database was explicitly associated with [Starlink]({{ 'starlink/' | relative_url }}) satellites, reflecting a modern pattern of misidentified satellite trains. The 1978 account belongs to an earlier era and carries a different kind of intrigue: not advanced sensor data or photographs, but the possibility that local documentation once existed and has not yet been recovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197801NUFORC Reports for Month 197801; Open, 01/02/1978 20:00, Victoria, Mahe (Seychelles), Seychelles; Open...</span></span></span>
+The 1978 Mahé lights continue to stand out within Seychelles UFO history precisely because the country's public UFO record is so small. The later 2020 Mahé report in the NUFORC database was explicitly associated with [Starlink]({{ 'starlink/' | relative_url }}) satellites, reflecting a modern pattern of misidentified satellite trains. The 1978 account belongs to an earlier era and carries a different kind of intrigue: not advanced sensor data or photographs, but the possibility that local documentation once existed and has not yet been recovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197801NUFORC Reports for Month 197801; Open, 01/02/1978 20:00, Victoria, Mahe (Seychelles), Seychelles; Open...</span></span></span>
 
 For researchers, the unresolved newspaper reference is more important than debates about extraterrestrial explanations. If the article can eventually be located, it would move the event from the realm of long-delayed testimony into the category of contemporaneously documented local history. Until then, the Mahé lights remain Seychelles' most notable UFO-related case not because the evidence is strong, but because a potentially important piece of evidence is still missing.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Mahé See Something Unusual in 1978?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Mahé See Something Unusual in 1978?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Excellent guide for assessing historical witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent guide for assessing historical witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on how historical cases are documented and reviewed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on how historical cases are documented and reviewed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides examples of stronger corroborated cases for comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides examples of stronger corroborated cases for comparison.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines how folklore and historical reports persist over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how folklore and historical reports persist over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mah-see-something-unusual-in-1978-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-mah-see-something-unusual-in-1978-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ For researchers, the unresolved newspaper reference is more important than debat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ For researchers, the unresolved newspaper reference is more important than debat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ For researchers, the unresolved newspaper reference is more important than debat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ For researchers, the unresolved newspaper reference is more important than debat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ For researchers, the unresolved newspaper reference is more important than debat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,116 +745,115 @@ For researchers, the unresolved newspaper reference is more important than debat
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=7099" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=7099</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 7099August 20, 2023 — NUFORC UFO Sighting 7099. Occurred: 1978-01-02 20:00 Local - Approximate Reported: 1999-04-24 0...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=7099" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=7099</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 7099August 20, 2023 — NUFORC UFO Sighting 7099. Occurred: 1978-01-02 20:00 Local - Approximate Reported: 1999-04-24 0...</p></details>
    Published: August 20, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154304</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1543042. Location: Mahe (Seychelles),, Seychelles Shape: Light From what was observed there was initially 2 lights m...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154304</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1543042. Location: Mahe (Seychelles),, Seychelles Shape: Light From what was observed there was initially 2 lights m...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e197801" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197801</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197801NUFORC Reports for Month 197801; Open, 01/02/1978 20:00, Victoria, Mahe (Seychelles), Seychelles; Open...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e197801" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197801</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197801NUFORC Reports for Month 197801; Open, 01/02/1978 20:00, Victoria, Mahe (Seychelles), Seychelles; Open...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e197806" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197806</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197806NUFORC Reports for Month 197806.; Open, 06/30/1978 22:00, Piscataway, NJ, USA; Open, 06/30/1978 22:00, M...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e197806" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197806</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197806NUFORC Reports for Month 197806.; Open, 06/30/1978 22:00, Piscataway, NJ, USA; Open, 06/30/1978 22:00, M...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e197802" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197802</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197802NUFORC Reports for Month 197802... Bright orange glow. Stationary.... A brilliant, white,silent circular...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e197802" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197802</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197802NUFORC Reports for Month 197802... Bright orange glow. Stationary.... A brilliant, white,silent circular...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thephenomenon.app  
-   Link: <a href="https://thephenomenon.app/seychelles/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/seychelles/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The PhenomenonThe UFO flew down the valley below the block of flats from which I and my friends witnessed it. At first it appeared as a t...</p></details>
+   Link:<a href="https://thephenomenon.app/seychelles/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/seychelles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The PhenomenonThe UFO flew down the valley below the block of flats from which I and my friends witnessed it. At first it appeared as a t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: seychellesnation.com  
    Title: Seychelles Nation Archives  
-   Link: <a href="https://seychellesnation.com/archives/" target="_blank" rel="noopener noreferrer nofollow">https://seychellesnation.com/archives/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seychelles NationArchives - Seychelles NationSeychelles Nation. Be part of it. Menu. Home · Breaking News · Media Corner... Archives. Ar...</p></details>
+   Link:<a href="https://seychellesnation.com/archives/" target="_blank" rel="noopener noreferrer nofollow">https://seychellesnation.com/archives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seychelles NationArchives - Seychelles NationSeychelles Nation. Be part of it. Menu. Home · Breaking News · Media Corner... Archives. Ar...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: latimes.com  
    Title: la xpm 1988 11 06 mn 284 story  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1988-11-06-mn-284-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1988-11-06-mn-284-story.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesSeychelles Station Tracks U.S. Satellites: Air Force Facility...6 Nov 1988 — A US Air Force space tracking station has...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1988-11-06-mn-284-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1988-11-06-mn-284-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesSeychelles Station Tracks U.S. Satellites: Air Force Facility...6 Nov 1988 — A US Air Force space tracking station has...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives Help with your research Archives  
-   Link: <a href="https://www.nationalarchives.gov.uk/category/records-2/page/28/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/28/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The records...Read more...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/category/records-2/page/28/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/category/records-2/page/28/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The records...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/264829583" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/264829583</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>which must raise doubts in. the minds of the most con-. firmed UFO cynics&quot;. First UFO reports rece-. ived by the &quot;News&quot; in re-. cent...R...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/264829583" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/264829583</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>which must raise doubts in. the minds of the most con-. firmed UFO cynics&quot;. First UFO reports rece-. ived by the &quot;News&quot; in re-. cent...R...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: in 1978 new zealand a journalist covering a routine mission captures chilling fo  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/in-1978-new-zealand-a-journalist-covering-a-routine-mission-captures-chilling-fo/1421199929572979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-1978-new-zealand-a-journalist-covering-a-routine-mission-captures-chilling-fo/1421199929572979/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1978 New Zealand, a journalist covering a routine mission...In 1978 New Zealand, a journalist covering a routine mission captures chi...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/in-1978-new-zealand-a-journalist-covering-a-routine-mission-captures-chilling-fo/1421199929572979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-1978-new-zealand-a-journalist-covering-a-routine-mission-captures-chilling-fo/1421199929572979/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1978 New Zealand, a journalist covering a routine mission...In 1978 New Zealand, a journalist covering a routine mission captures chi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5RqB14CSbHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RqB14CSbHQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UnXplained: Pilot Spots a UFO Before Disappearing...Giant UFO in Texas (Full Episode) | UFOs: Investigating the Unknown. National Ge...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5RqB14CSbHQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RqB14CSbHQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UnXplained: Pilot Spots a UFO Before Disappearing...Giant UFO in Texas (Full Episode) | UFOs: Investigating the Unknown. National Ge...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/details/a/A13530175" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530175</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our vision is to lead and transform information management, guarantee the survival of today&#x27;s information for...</p></details>
+   Link:<a href="https://discovery.nationalarchives.gov.uk/details/a/A13530175" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/details/a/A13530175</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our vision is to lead and transform information management, guarantee the survival of today&#x27;s information for...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: africaintelligence.com  
    Title: Africa Intelligence SATELLITE TRACKING STATION MAY CLOSE  
-   Link: <a href="https://www.africaintelligence.com/southern-africa-and-islands/1995/03/04/satellite-tracking-station-may-close%2C29906-art" target="_blank" rel="noopener noreferrer nofollow">https://www.africaintelligence.com/southern-africa-and-islands/1995/03/04/satellite-tracking-station-may-close%2C29906-art</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SATELLITE TRACKING STATION MAY CLOSE - 04/03/19954 Mar 1995 — Observations are made daily of between twenty and forty satellites and data...</p></details>
+   Link:<a href="https://www.africaintelligence.com/southern-africa-and-islands/1995/03/04/satellite-tracking-station-may-close%2C29906-art" target="_blank" rel="noopener noreferrer nofollow">https://www.africaintelligence.com/southern-africa-and-islands/1995/03/04/satellite-tracking-station-may-close%2C29906-art</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SATELLITE TRACKING STATION MAY CLOSE - 04/03/19954 Mar 1995 — Observations are made daily of between twenty and forty satellites and data...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/vda56r/what_is_the_most_genuinely_convincing_ufo_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vda56r/what_is_the_most_genuinely_convincing_ufo_story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>every once in a while where I get interested again. And I don’t...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/vda56r/what_is_the_most_genuinely_convincing_ufo_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vda56r/what_is_the_most_genuinely_convincing_ufo_story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>every once in a while where I get interested again. And I don’t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KR5hzBQGzLQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KR5hzBQGzLQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KR5hzBQGzLQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KR5hzBQGzLQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: blogs.slv.vic.gov.au  
-   Link: <a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lights in the sky: The Westall UFO event, 19666 Apr 2024 — Witnesses also described &#x27;many private aircraft, mainly Cessna&#x27; flying toward...</p></details>
+   Link:<a href="https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.slv.vic.gov.au/our-stories/strange-lights-in-the-sky-the-westall-ufo-event-1966/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lights in the sky: The Westall UFO event, 19666 Apr 2024 — Witnesses also described &#x27;many private aircraft, mainly Cessna&#x27; flying toward...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: GOV.UK  
    Title: Archive inventory.csv  
-   Link: <a href="https://www.gov.uk/csv-preview/5a74eb88ed915d3c7d528fb6/Archive_inventory.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/csv-preview/5a74eb88ed915d3c7d528fb6/Archive_inventory.csv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archive inventory (version 2) 6 November 201328 May 2019 — Plus a set of four consolidated bound volumes of &#x27;departmental series&#x27; papers...</p></details>
+   Link:<a href="https://www.gov.uk/csv-preview/5a74eb88ed915d3c7d528fb6/Archive_inventory.csv" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/csv-preview/5a74eb88ed915d3c7d528fb6/Archive_inventory.csv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archive inventory (version 2) 6 November 201328 May 2019 — Plus a set of four consolidated bound volumes of &#x27;departmental series&#x27; papers...</p></details>
    Published: May 2019

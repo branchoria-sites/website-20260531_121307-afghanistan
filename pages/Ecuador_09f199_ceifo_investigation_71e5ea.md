@@ -253,11 +253,11 @@ Ecuador’s **Comisión Ecuatoriana para la Investigación del Fenómeno OVNI (C
 <img src="{{ "/assets/images/Ecuador_09f199_ceifo_investigation_71e5ea-Illustration-1-dark.svg" | relative_url }}" alt="CEIFO Archive illustration 1" data-theme-src-dark="{{ "/assets/images/Ecuador_09f199_ceifo_investigation_71e5ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ecuador_09f199_ceifo_investigation_71e5ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Formation and Mandate
 
-CEIFO was established in **2005 by decree of the Ecuadorian Ministry of Defence**, with formal ties to the **Fuerza Aérea Ecuatoriana (Ecuadorian Air Force)** as part of a broader aerospace development project within the Defence plan of that year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fae.mil.ec/direccion-de-desarrollo-aeroespacial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fae.mil.ec">[fae.mil.ec]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fae.mil.ec</span><span class="citation-popover-title">DIRECCIO N DE DESARROLLO AEROESPACIAL – Fuerza Aérea Ecuatoriana</span><span class="citation-popover-snippet">DIRECCIO N DE DESARROLLO AEROESPACIAL – Fuerza Aérea Ecuatoriana</span></span></span>
+CEIFO was established in **2005 by decree of the Ecuadorian Ministry of Defence**, with formal ties to the **Fuerza Aérea Ecuatoriana (Ecuadorian Air Force)** as part of a broader aerospace development project within the Defence plan of that year.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fae.mil.ec/direccion-de-desarrollo-aeroespacial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fae.mil.ec">[fae.mil.ec]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fae.mil.ec</span><span class="citation-popover-title">DIRECCIO N DE DESARROLLO AEROESPACIAL – Fuerza Aérea Ecuatoriana</span><span class="citation-popover-snippet">DIRECCIO N DE DESARROLLO AEROESPACIAL – Fuerza Aérea Ecuatoriana</span></span></span>
 
-* The commission emerged after **years of pressure from civilian researchers and ufologists** for official recognition of aerial mysteries recorded by military and civilian witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://navegantesdelcosmos.ec/blog/ceifo-comision-ecuatoriana-para-la-investigacion-del-fenomeno-ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navegantesdelcosmos.ec">[navegantesdelcosmos.ec]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navegantesdelcosmos.ec</span><span class="citation-popover-snippet">CEIFO: Comision Ecuatoriana para la Investigación del Fenómeno Ovni &#124; Navegantes del Cosmos &#124; Ufólogo Jaime RodríguezOctober 1, 2021...</span><span class="citation-popover-meta">Published: October 1, 2021</span></span></span>
-* Its creation was backed at least implicitly by successive administrations: firstly under President **Lucio Gutiérrez** and later with institutional support continuing into the period of President **Rafael Correa**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
-* The official purpose was to **review, catalogue and analyse archival reports, photographs, videos and witness accounts** of unidentified aerial phenomena held by defence forces, with an aim to **declassify and make this material available for analysis**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+* The commission emerged after **years of pressure from civilian researchers and ufologists** for official recognition of aerial mysteries recorded by military and civilian witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://navegantesdelcosmos.ec/blog/ceifo-comision-ecuatoriana-para-la-investigacion-del-fenomeno-ovni/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navegantesdelcosmos.ec">[navegantesdelcosmos.ec]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navegantesdelcosmos.ec</span><span class="citation-popover-snippet">CEIFO: Comision Ecuatoriana para la Investigación del Fenómeno Ovni &#124; Navegantes del Cosmos &#124; Ufólogo Jaime RodríguezOctober 1, 2021...</span><span class="citation-popover-meta">Published: October 1, 2021</span></span></span>
+* Its creation was backed at least implicitly by successive administrations: firstly under President **Lucio Gutiérrez** and later with institutional support continuing into the period of President **Rafael Correa**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+* The official purpose was to **review, catalogue and analyse archival reports, photographs, videos and witness accounts** of unidentified aerial phenomena held by defence forces, with an aim to **declassify and make this material available for analysis**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
 
 CEIFO’s mandate therefore sat at the intersection of **military record‑keeping and public transparency**, seeking to transform formerly private reports into an accessible set of cases.
 
@@ -267,21 +267,21 @@ CEIFO’s mandate therefore sat at the intersection of **military record‑keepi
 
 CEIFO’s operational work centred on a **corpus of evidentiary material** collected over decades by military observers, defence archives and civilian witnesses. According to reporting based on material released to media:
 
-* **412 photographic and video items** were recorded in official archives, but only **44 of these were formally examined** by CEIFO researchers during the commission’s active period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
-* The cases reviewed combined **military testimony and civilian sightings**, including accounts from **senior officers and trained pilots**, alongside non‑expert citizens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
-* Richie examples include claims that a **colonel fired on a luminous object near Loja province**, and that an **Air Force pilot observed an unexplained craft during a flight mission**—both incorporated into the CEIFO records as reviewed cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
-* Other civilian material included archival footage such as a 1992 video from former vice‑presidential residence in Guayaquil showing an erratic object in the sky, and similar aerial phenomena captured in Quito in 2005. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+* **412 photographic and video items** were recorded in official archives, but only **44 of these were formally examined** by CEIFO researchers during the commission’s active period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+* The cases reviewed combined **military testimony and civilian sightings**, including accounts from **senior officers and trained pilots**, alongside non‑expert citizens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+* Richie examples include claims that a **colonel fired on a luminous object near Loja province**, and that an **Air Force pilot observed an unexplained craft during a flight mission**—both incorporated into the CEIFO records as reviewed cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+* Other civilian material included archival footage such as a 1992 video from former vice‑presidential residence in Guayaquil showing an erratic object in the sky, and similar aerial phenomena captured in Quito in 2005.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
 
-Despite the breadth of material captured, **CEIFO’s review process was limited in scope**: the vast majority of archived evidence (approximately 368 items) never underwent formal analysis, and documentation related to these cases remains held by military authorities rather than in a public archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prensamercosur.org/2026/05/11/los-archivos-secretos-de-ecuador-sobre-ovnis-412-casos-pilotos-y-una-investigacion-inconclusa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prensamercosur.org">[Prensa Mercosur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prensamercosur.org</span><span class="citation-popover-snippet">Prensa MercosurLos archivos secretos de Ecuador sobre ovnis: 412 casos, pilotos y una investigación inconclusa &#124; Prensa MercosurMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+Despite the breadth of material captured, **CEIFO’s review process was limited in scope**: the vast majority of archived evidence (approximately 368 items) never underwent formal analysis, and documentation related to these cases remains held by military authorities rather than in a public archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prensamercosur.org/2026/05/11/los-archivos-secretos-de-ecuador-sobre-ovnis-412-casos-pilotos-y-una-investigacion-inconclusa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prensamercosur.org">[Prensa Mercosur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prensamercosur.org</span><span class="citation-popover-snippet">Prensa MercosurLos archivos secretos de Ecuador sobre ovnis: 412 casos, pilotos y una investigación inconclusa &#124; Prensa MercosurMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Ecuador_09f199_ceifo_investigation_71e5ea-Illustration-2-dark.svg" | relative_url }}" alt="CEIFO Archive illustration 2" data-theme-src-dark="{{ "/assets/images/Ecuador_09f199_ceifo_investigation_71e5ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ecuador_09f199_ceifo_investigation_71e5ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Partial Disclosure and Public Access
 
 Public access to CEIFO’s findings was **partial rather than comprehensive**, and the commission’s dissolution in 2007 left a legacy of **incomplete transparency**:
 
-* Only a **subset of the analysed cases**—the 44 items—was discussed publicly or shared with journalists and civilian researchers, often through intermediaries such as ufologist Jaime Rodríguez, who led CEIFO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
-* Rodríguez and others have claimed that **external intelligence personnel, allegedly from the CIA, participated in the commission and limited access to certain files**, though there is no official documentation publicly confirming this interference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
-* After 2007 there was **no successor body** established to continue systematic study. The larger archive of unexamined material remained under military control, and Ecuador has not since developed a permanent, publicly accessible repository or investigatory framework comparable to those in some neighbouring countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prensamercosur.org/2026/05/11/los-archivos-secretos-de-ecuador-sobre-ovnis-412-casos-pilotos-y-una-investigacion-inconclusa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prensamercosur.org">[Prensa Mercosur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prensamercosur.org</span><span class="citation-popover-snippet">Prensa MercosurLos archivos secretos de Ecuador sobre ovnis: 412 casos, pilotos y una investigación inconclusa &#124; Prensa MercosurMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+* Only a **subset of the analysed cases**—the 44 items—was discussed publicly or shared with journalists and civilian researchers, often through intermediaries such as ufologist Jaime Rodríguez, who led CEIFO.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+* Rodríguez and others have claimed that **external intelligence personnel, allegedly from the CIA, participated in the commission and limited access to certain files**, though there is no official documentation publicly confirming this interference.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+* After 2007 there was **no successor body** established to continue systematic study. The larger archive of unexamined material remained under military control, and Ecuador has not since developed a permanent, publicly accessible repository or investigatory framework comparable to those in some neighbouring countries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prensamercosur.org/2026/05/11/los-archivos-secretos-de-ecuador-sobre-ovnis-412-casos-pilotos-y-una-investigacion-inconclusa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prensamercosur.org">[Prensa Mercosur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prensamercosur.org</span><span class="citation-popover-snippet">Prensa MercosurLos archivos secretos de Ecuador sobre ovnis: 412 casos, pilotos y una investigación inconclusa &#124; Prensa MercosurMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 The result was a **mixed public understanding**: while Ecuador gained **documented acknowledgements** of official investigation into unidentified aerial reports, the **absence of a full public archive** and the **lack of conclusive classification outcomes** have left CEIFO’s work more open‑ended than definitive.
 
@@ -291,9 +291,9 @@ The result was a **mixed public understanding**: while Ecuador gained **document
 
 CEIFO’s documentation and later publicised material illustrate the **challenge of balancing official record‑keeping with scientific scrutiny**:
 
-* The cases reviewed included **visual records and first‑hand narratives**, but lacked **physical evidence** that could be studied independently of eyewitness accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
-* Methodological limitations—such as incomplete metadata, absence of simultaneous corroboration from independent instruments, and restricted access to baseline data—mean that many recorded phenomena remain **classified as “unidentified”** rather than attributed to specific causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prensamercosur.org/2026/05/11/los-archivos-secretos-de-ecuador-sobre-ovnis-412-casos-pilotos-y-una-investigacion-inconclusa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prensamercosur.org">[Prensa Mercosur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prensamercosur.org</span><span class="citation-popover-snippet">Prensa MercosurLos archivos secretos de Ecuador sobre ovnis: 412 casos, pilotos y una investigación inconclusa &#124; Prensa MercosurMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
-* In public media, the mix of military testimonies and civilian sightings has sometimes been interpreted in speculative ways (e.g. assertions of submerged bases), but these claims exceed what the official records analysed by CEIFO substantiate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eldiario.ec/portoviejo/investigador-afirma-existencia-de-base-ovni-submarina-frente-a-crucita-portoviejo-17022026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eldiario.ec">[El Diario]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eldiario.ec</span><span class="citation-popover-title">El Diario Ufólogo dice que hay base OVNI submarina frente a Crucita</span><span class="citation-popover-snippet">El DiarioUfólogo dice que hay base OVNI submarina frente a CrucitaFebruary 17, 2026...</span><span class="citation-popover-meta">Published: February 17, 2026</span></span></span>
+* The cases reviewed included **visual records and first‑hand narratives**, but lacked **physical evidence** that could be studied independently of eyewitness accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: extra.ec">[Diario Extra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">extra.ec</span><span class="citation-popover-snippet">Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+* Methodological limitations—such as incomplete metadata, absence of simultaneous corroboration from independent instruments, and restricted access to baseline data—mean that many recorded phenomena remain **classified as “unidentified”** rather than attributed to specific causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prensamercosur.org/2026/05/11/los-archivos-secretos-de-ecuador-sobre-ovnis-412-casos-pilotos-y-una-investigacion-inconclusa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prensamercosur.org">[Prensa Mercosur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prensamercosur.org</span><span class="citation-popover-snippet">Prensa MercosurLos archivos secretos de Ecuador sobre ovnis: 412 casos, pilotos y una investigación inconclusa &#124; Prensa MercosurMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+* In public media, the mix of military testimonies and civilian sightings has sometimes been interpreted in speculative ways (e.g. assertions of submerged bases), but these claims exceed what the official records analysed by CEIFO substantiate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eldiario.ec/portoviejo/investigador-afirma-existencia-de-base-ovni-submarina-frente-a-crucita-portoviejo-17022026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eldiario.ec">[El Diario]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eldiario.ec</span><span class="citation-popover-title">El Diario Ufólogo dice que hay base OVNI submarina frente a Crucita</span><span class="citation-popover-snippet">El DiarioUfólogo dice que hay base OVNI submarina frente a CrucitaFebruary 17, 2026...</span><span class="citation-popover-meta">Published: February 17, 2026</span></span></span>
 
 Official statements from Ecuadorian authorities stop short of endorsing **extraterrestrial origin hypotheses**, instead framing the phenomena in terms of **non‑identified aerial objects** without conclusive explanations.
 
@@ -310,199 +310,199 @@ CEIFO’s existence, although brief, marks Ecuador’s **only government‑linke
 
 </div>
 
-While CEIFO did not produce definitive scientific conclusions, it remains a **reference point for understanding how Ecuador’s institutions have engaged with unidentified aerial reports** and how transparency challenges intersect with national security, archival practice and public interest in the unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prensamercosur.org/2026/05/11/los-archivos-secretos-de-ecuador-sobre-ovnis-412-casos-pilotos-y-una-investigacion-inconclusa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prensamercosur.org">[Prensa Mercosur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prensamercosur.org</span><span class="citation-popover-snippet">Prensa MercosurLos archivos secretos de Ecuador sobre ovnis: 412 casos, pilotos y una investigación inconclusa &#124; Prensa MercosurMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+While CEIFO did not produce definitive scientific conclusions, it remains a **reference point for understanding how Ecuador’s institutions have engaged with unidentified aerial reports** and how transparency challenges intersect with national security, archival practice and public interest in the unexplained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prensamercosur.org/2026/05/11/los-archivos-secretos-de-ecuador-sobre-ovnis-412-casos-pilotos-y-una-investigacion-inconclusa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prensamercosur.org">[Prensa Mercosur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prensamercosur.org</span><span class="citation-popover-snippet">Prensa MercosurLos archivos secretos de Ecuador sobre ovnis: 412 casos, pilotos y una investigación inconclusa &#124; Prensa MercosurMay 11, 2026...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_x4WHJo84Io" title="Casos Reales de Contacto Extraterrestre en Ecuador | Militares, Testigos y Mensajes Ocultos 🇪🇨✨" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_x4WHJo84Io" target="_blank" rel="noopener noreferrer">Casos Reales de Contacto Extraterrestre en Ecuador | Militares, Testigos y Mensajes Ocultos 🇪🇨✨</a></p><p class="youtube-embed-meta">Channel: Mil Historias &middot; Views: 8.4K &middot; Uploaded: January 2026 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_x4WHJo84Io" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_x4WHJo84Io">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Inside Ecuador&#x27;s CEIFO UFO Investigation Commission. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Inside Ecuador&#x27;s CEIFO UFO Investigation Commission. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines formal UFO case review processes similar to CEIFO&#x27;s mission.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines formal UFO case review processes similar to CEIFO&#x27;s mission.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for how state-backed investigations operate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how state-backed investigations operate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Closest commercial match to Ecuador&#x27;s government-linked CEIFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closest commercial match to Ecuador&#x27;s government-linked CEIFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Inside+The+Black+Vault+by+John+Greenewald%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside The Black Vault on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ctaFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Inside The Black Vault" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Inside+The+Black+Vault+by+John+Greenewald%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside The Black Vault">Inside The Black Vault</a>
-        </h4>
-        <p class="fr-book-author">By John Greenewald, Jr.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Inside+The+Black+Vault+by+John+Greenewald%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside The Black Vault on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ctaFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Inside The Black Vault" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Inside+The+Black+Vault+by+John+Greenewald%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside The Black Vault">Inside The Black Vault</a>
+</h4>
+<p class="fr-book-author">By John Greenewald, Jr.</p>
         
-        <p class="fr-book-desc">Strong fit for discussions of archives, disclosure, and restricted files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Inside+The+Black+Vault+by+John+Greenewald%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for discussions of archives, disclosure, and restricted files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Inside+The+Black+Vault+by+John+Greenewald%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-ecuador-s-ceifo-ufo-investigation-commission-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -518,7 +518,7 @@ While CEIFO did not produce definitive scientific conclusions, it remains a **re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -538,7 +538,7 @@ While CEIFO did not produce definitive scientific conclusions, it remains a **re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -570,7 +570,7 @@ While CEIFO did not produce definitive scientific conclusions, it remains a **re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -622,7 +622,7 @@ While CEIFO did not produce definitive scientific conclusions, it remains a **re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -667,7 +667,7 @@ While CEIFO did not produce definitive scientific conclusions, it remains a **re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -708,120 +708,120 @@ While CEIFO did not produce definitive scientific conclusions, it remains a **re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fae.mil.ec  
    Title: DIRECCIO N DE DESARROLLO AEROESPACIAL – Fuerza Aérea Ecuatoriana  
-   Link: <a href="https://www.fae.mil.ec/direccion-de-desarrollo-aeroespacial/" target="_blank" rel="noopener noreferrer nofollow">https://www.fae.mil.ec/direccion-de-desarrollo-aeroespacial/</a>  
+   Link:<a href="https://www.fae.mil.ec/direccion-de-desarrollo-aeroespacial/" target="_blank" rel="noopener noreferrer nofollow">https://www.fae.mil.ec/direccion-de-desarrollo-aeroespacial/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: navegantesdelcosmos.ec  
-   Link: <a href="https://navegantesdelcosmos.ec/blog/ceifo-comision-ecuatoriana-para-la-investigacion-del-fenomeno-ovni/" target="_blank" rel="noopener noreferrer nofollow">https://navegantesdelcosmos.ec/blog/ceifo-comision-ecuatoriana-para-la-investigacion-del-fenomeno-ovni/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CEIFO: Comision Ecuatoriana para la Investigación del Fenómeno Ovni | Navegantes del Cosmos | Ufólogo Jaime RodríguezOctober 1, 2021...</p></details>
+   Link:<a href="https://navegantesdelcosmos.ec/blog/ceifo-comision-ecuatoriana-para-la-investigacion-del-fenomeno-ovni/" target="_blank" rel="noopener noreferrer nofollow">https://navegantesdelcosmos.ec/blog/ceifo-comision-ecuatoriana-para-la-investigacion-del-fenomeno-ovni/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CEIFO: Comision Ecuatoriana para la Investigación del Fenómeno Ovni | Navegantes del Cosmos | Ufólogo Jaime RodríguezOctober 1, 2021...</p></details>
    Published: October 1, 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: extra.ec  
-   Link: <a href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow">https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</p></details>
+   Link:<a href="https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow">https://www.extra.ec/noticia/actualidad/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diario ExtraAvistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidenciasMarch 19, 2025...</p></details>
    Published: March 19, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: extra.ec  
-   Link: <a href="https://www.extra.ec/noticia/actualidad/enigmas-ecuador-evidencias-avistamientos-ovnis-88825.html" target="_blank" rel="noopener noreferrer nofollow">https://www.extra.ec/noticia/actualidad/enigmas-ecuador-evidencias-avistamientos-ovnis-88825.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Diario ExtraEnigmas: Ecuador tiene evidencias de avistamientos ovnis | Noticias EcuadorAugust 2, 2023...</p></details>
+   Link:<a href="https://www.extra.ec/noticia/actualidad/enigmas-ecuador-evidencias-avistamientos-ovnis-88825.html" target="_blank" rel="noopener noreferrer nofollow">https://www.extra.ec/noticia/actualidad/enigmas-ecuador-evidencias-avistamientos-ovnis-88825.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diario ExtraEnigmas: Ecuador tiene evidencias de avistamientos ovnis | Noticias EcuadorAugust 2, 2023...</p></details>
    Published: August 2, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: extra.ec  
    Title: Avistamientos ovni en Ecuador: El Ministerio de Defensa tiene las evidencias  
-   Link: <a href="https://www.extra.ec/noticia/ecuador/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow">https://www.extra.ec/noticia/ecuador/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2025 — AVISTAMIENTOS OVNI EN ECUADOR: EL MINISTERIO DE DEFENSA TIENE LAS EVIDENCIAS CEIFO fue la comisión clave en la investiga...</p></details>
+   Link:<a href="https://www.extra.ec/noticia/ecuador/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html" target="_blank" rel="noopener noreferrer nofollow">https://www.extra.ec/noticia/ecuador/avistamientos-ovni-ecuador-ministerio-defensa-evidencias-123644.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2025 — AVISTAMIENTOS OVNI EN ECUADOR: EL MINISTERIO DE DEFENSA TIENE LAS EVIDENCIAS CEIFO fue la comisión clave en la investiga...</p></details>
    Published: March 19, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: prensamercosur.org  
-   Link: <a href="https://prensamercosur.org/2026/05/11/los-archivos-secretos-de-ecuador-sobre-ovnis-412-casos-pilotos-y-una-investigacion-inconclusa/" target="_blank" rel="noopener noreferrer nofollow">https://prensamercosur.org/2026/05/11/los-archivos-secretos-de-ecuador-sobre-ovnis-412-casos-pilotos-y-una-investigacion-inconclusa/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prensa MercosurLos archivos secretos de Ecuador sobre ovnis: 412 casos, pilotos y una investigación inconclusa | Prensa MercosurMay 11, 2026...</p></details>
+   Link:<a href="https://prensamercosur.org/2026/05/11/los-archivos-secretos-de-ecuador-sobre-ovnis-412-casos-pilotos-y-una-investigacion-inconclusa/" target="_blank" rel="noopener noreferrer nofollow">https://prensamercosur.org/2026/05/11/los-archivos-secretos-de-ecuador-sobre-ovnis-412-casos-pilotos-y-una-investigacion-inconclusa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prensa MercosurLos archivos secretos de Ecuador sobre ovnis: 412 casos, pilotos y una investigación inconclusa | Prensa MercosurMay 11, 2026...</p></details>
    Published: May 11, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eldiario.ec  
    Title: El Diario Ufólogo dice que hay base OVNI submarina frente a Crucita  
-   Link: <a href="https://www.eldiario.ec/portoviejo/investigador-afirma-existencia-de-base-ovni-submarina-frente-a-crucita-portoviejo-17022026/" target="_blank" rel="noopener noreferrer nofollow">https://www.eldiario.ec/portoviejo/investigador-afirma-existencia-de-base-ovni-submarina-frente-a-crucita-portoviejo-17022026/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>El DiarioUfólogo dice que hay base OVNI submarina frente a CrucitaFebruary 17, 2026...</p></details>
+   Link:<a href="https://www.eldiario.ec/portoviejo/investigador-afirma-existencia-de-base-ovni-submarina-frente-a-crucita-portoviejo-17022026/" target="_blank" rel="noopener noreferrer nofollow">https://www.eldiario.ec/portoviejo/investigador-afirma-existencia-de-base-ovni-submarina-frente-a-crucita-portoviejo-17022026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>El DiarioUfólogo dice que hay base OVNI submarina frente a CrucitaFebruary 17, 2026...</p></details>
    Published: February 17, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: marcianitosverdes.haaan.com  
    Title: “Desde pequeño las he visto”, comentó con naturalidad. Uno de los e  
-   Link: <a href="https://marcianitosverdes.haaan.com/2025/08/ovnis-en-ecuador/" target="_blank" rel="noopener noreferrer nofollow">https://marcianitosverdes.haaan.com/2025/08/ovnis-en-ecuador/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>en Ecuador | Marcianitos VerdesAugust 4, 2025 — Los ovnis lo siguen Este tipo de avistamientos no es nuevo para Pazmiño, quien asegura ha...</p></details>
+   Link:<a href="https://marcianitosverdes.haaan.com/2025/08/ovnis-en-ecuador/" target="_blank" rel="noopener noreferrer nofollow">https://marcianitosverdes.haaan.com/2025/08/ovnis-en-ecuador/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>en Ecuador | Marcianitos VerdesAugust 4, 2025 — Los ovnis lo siguen Este tipo de avistamientos no es nuevo para Pazmiño, quien asegura ha...</p></details>
    Published: August 4, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: expreso.ec  
    Title: OVNIS EN ECUADOR: REGISTROS OFICIALES Y TESTIGOS MILITAR  
-   Link: <a href="https://www.expreso.ec/temas/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.expreso.ec/temas/ovni/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ovni | Diario ExpresoOVNI Image: El ufólogo Jaime Rodríguez lideró CEIFO, organización del Ministerio de Defensa que investigó los avista...</p></details>
+   Link:<a href="https://www.expreso.ec/temas/ovni/" target="_blank" rel="noopener noreferrer nofollow">https://www.expreso.ec/temas/ovni/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ovni | Diario ExpresoOVNI Image: El ufólogo Jaime Rodríguez lideró CEIFO, organización del Ministerio de Defensa que investigó los avista...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: esnoticia.co  
-   Link: <a href="https://esnoticia.co/noticia-16383-entrevista-jaime-rodriguez-investigador-ufologo-ecuador-" target="_blank" rel="noopener noreferrer nofollow">https://esnoticia.co/noticia-16383-entrevista-jaime-rodriguez-investigador-ufologo-ecuador-</a>  
+   Link:<a href="https://esnoticia.co/noticia-16383-entrevista-jaime-rodriguez-investigador-ufologo-ecuador-" target="_blank" rel="noopener noreferrer nofollow">https://esnoticia.co/noticia-16383-entrevista-jaime-rodriguez-investigador-ufologo-ecuador-</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: expreso.ec  
-   Link: <a href="https://www.expreso.ec/buenavida/ovnis-ecuador-registros-oficiales-testigos-militares-revelan-encuentros-235688.html" target="_blank" rel="noopener noreferrer nofollow">https://www.expreso.ec/buenavida/ovnis-ecuador-registros-oficiales-testigos-militares-revelan-encuentros-235688.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2025 — OVNIS EN ECUADOR: REGISTROS OFICIALES Y TESTIGOS MILITARES REVELAN SUS ENCUENTROS Estos son los avistamientos OVNI más i...</p></details>
+   Link:<a href="https://www.expreso.ec/buenavida/ovnis-ecuador-registros-oficiales-testigos-militares-revelan-encuentros-235688.html" target="_blank" rel="noopener noreferrer nofollow">https://www.expreso.ec/buenavida/ovnis-ecuador-registros-oficiales-testigos-militares-revelan-encuentros-235688.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2025 — OVNIS EN ECUADOR: REGISTROS OFICIALES Y TESTIGOS MILITARES REVELAN SUS ENCUENTROS Estos son los avistamientos OVNI más i...</p></details>
    Published: March 19, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: altrogiornale.org  
    Title: UF O: L'ECUADOR NE AMMETTE UFFICIALMENTE L'ESISTENZA – Altrogiornale.org  
-   Link: <a href="https://www.altrogiornale.org/ufo-lecuador-ne-ammette-ufficialmente-lesistenza/" target="_blank" rel="noopener noreferrer nofollow">https://www.altrogiornale.org/ufo-lecuador-ne-ammette-ufficialmente-lesistenza/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: L&#x27;ECUADOR NE AMMETTE UFFICIALMENTE L&#x27;ESISTENZA – Altrogiornale.orgMarch 27, 2008 — 13 Ottobre 2025 UFO: L&#x27;ECUADOR NE AMMETTE UFFICIA...</p></details>
+   Link:<a href="https://www.altrogiornale.org/ufo-lecuador-ne-ammette-ufficialmente-lesistenza/" target="_blank" rel="noopener noreferrer nofollow">https://www.altrogiornale.org/ufo-lecuador-ne-ammette-ufficialmente-lesistenza/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: L&#x27;ECUADOR NE AMMETTE UFFICIALMENTE L&#x27;ESISTENZA – Altrogiornale.orgMarch 27, 2008 — 13 Ottobre 2025 UFO: L&#x27;ECUADOR NE AMMETTE UFFICIA...</p></details>
    Published: March 27, 2008  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: radiocentro.com.ec  
    Title: El experto afirma que un alto oficial le confirmó el dato  
-   Link: <a href="https://radiocentro.com.ec/ufologo-ecuatoriano-afirma-que-hay-una-base-submarina-extraterrestre-en-manabi/" target="_blank" rel="noopener noreferrer nofollow">https://radiocentro.com.ec/ufologo-ecuatoriano-afirma-que-hay-una-base-submarina-extraterrestre-en-manabi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 18, 2026 — ECUADOR: MAYO 6, 2026 Ecuador, mayo 06, 2026 Ecuador Continental: 12:20 Ecuador Insular: 12:20 Ecuador, mayo 06, 2026...</p></details>
+   Link:<a href="https://radiocentro.com.ec/ufologo-ecuatoriano-afirma-que-hay-una-base-submarina-extraterrestre-en-manabi/" target="_blank" rel="noopener noreferrer nofollow">https://radiocentro.com.ec/ufologo-ecuatoriano-afirma-que-hay-una-base-submarina-extraterrestre-en-manabi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 18, 2026 — ECUADOR: MAYO 6, 2026 Ecuador, mayo 06, 2026 Ecuador Continental: 12:20 Ecuador Insular: 12:20 Ecuador, mayo 06, 2026...</p></details>
    Published: February 18, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: larepublica.ec  
    Title: la historia desclasificada de base ovni en manabi  
-   Link: <a href="https://www.larepublica.ec/blog/2018/02/09/la-historia-desclasificada-de-base-ovni-en-manabi/" target="_blank" rel="noopener noreferrer nofollow">https://www.larepublica.ec/blog/2018/02/09/la-historia-desclasificada-de-base-ovni-en-manabi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>La historia desclasificada de la base OVNI en Manabí | La República ECFebruary 9, 2018 — LA HISTORIA DESCLASIFICADA DE LA «BASE OVNI» EN...</p></details>
+   Link:<a href="https://www.larepublica.ec/blog/2018/02/09/la-historia-desclasificada-de-base-ovni-en-manabi/" target="_blank" rel="noopener noreferrer nofollow">https://www.larepublica.ec/blog/2018/02/09/la-historia-desclasificada-de-base-ovni-en-manabi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La historia desclasificada de la base OVNI en Manabí | La República ECFebruary 9, 2018 — LA HISTORIA DESCLASIFICADA DE LA «BASE OVNI» EN...</p></details>
    Published: February 9, 2018  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ecoactivo.com  
    Title: ECUADO R: Desclasificación Extraterrestre y OVNI  
-   Link: <a href="https://www.ecoactivo.com/extraterrestres/ecuador-desclasificacion-extraterrestre" target="_blank" rel="noopener noreferrer nofollow">https://www.ecoactivo.com/extraterrestres/ecuador-desclasificacion-extraterrestre</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ECUADOR: Desclasificación Extraterrestre y OVNI - EcoActivoMay 4, 2021 — Image: ECUADOR: Desclasificación Extraterrestre ECUADOR: DESCLAS...</p></details>
+   Link:<a href="https://www.ecoactivo.com/extraterrestres/ecuador-desclasificacion-extraterrestre" target="_blank" rel="noopener noreferrer nofollow">https://www.ecoactivo.com/extraterrestres/ecuador-desclasificacion-extraterrestre</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ECUADOR: Desclasificación Extraterrestre y OVNI - EcoActivoMay 4, 2021 — Image: ECUADOR: Desclasificación Extraterrestre ECUADOR: DESCLAS...</p></details>
    Published: May 4, 2021  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nexusnewsfeed.com  
    Title: Barely 44 of 412 items of evidence  
-   Link: <a href="https://nexusnewsfeed.com/article/unexplained/ecuador-ministry-has-proof-of-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://nexusnewsfeed.com/article/unexplained/ecuador-ministry-has-proof-of-ufo-sightings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecuador: Ministry has proof of UFO sightings - Nexus NewsfeedFebruary 24, 2024 — ECUADOR: MINISTRY HAS PROOF OF UFO SIGHTINGS They have v...</p></details>
+   Link:<a href="https://nexusnewsfeed.com/article/unexplained/ecuador-ministry-has-proof-of-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://nexusnewsfeed.com/article/unexplained/ecuador-ministry-has-proof-of-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ecuador: Ministry has proof of UFO sightings - Nexus NewsfeedFebruary 24, 2024 — ECUADOR: MINISTRY HAS PROOF OF UFO SIGHTINGS They have v...</p></details>
    Published: February 24, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thebongiovannifamily.com  
    Title: OVNI S: Ecuador desclasifica  
-   Link: <a href="https://www.thebongiovannifamily.com/ufologia/ufologia/80-ovnis-ecuador-desclasifica.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thebongiovannifamily.com/ufologia/ufologia/80-ovnis-ecuador-desclasifica.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNIS: Ecuador desclasificaAugust 23, 2008 — UFOLOGÍA OVNIS: ECUADOR DESCLASIFICA * Imprimir * Correo electrónico Visto: 4149 ECUADOR DES...</p></details>
+   Link:<a href="https://www.thebongiovannifamily.com/ufologia/ufologia/80-ovnis-ecuador-desclasifica.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thebongiovannifamily.com/ufologia/ufologia/80-ovnis-ecuador-desclasifica.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVNIS: Ecuador desclasificaAugust 23, 2008 — UFOLOGÍA OVNIS: ECUADOR DESCLASIFICA * Imprimir * Correo electrónico Visto: 4149 ECUADOR DES...</p></details>
    Published: August 23, 2008  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jrNO4NZQITk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jrNO4NZQITk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=jrNO4NZQITk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jrNO4NZQITk</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ybx6KNyYK5Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ybx6KNyYK5Q</a>
+   Link:<a href="https://www.youtube.com/watch?v=ybx6KNyYK5Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ybx6KNyYK5Q</a>

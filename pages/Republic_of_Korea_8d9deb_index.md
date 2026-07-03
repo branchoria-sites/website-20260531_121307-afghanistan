@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /republic-of-korea-8d9deb-index/
 description: Focused pages that expand on Republic of Korea.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Republic_of_Korea_8d9deb
 parent_title: Republic of Korea
@@ -16,7 +16,7 @@ parent_permalink: /republic-of-korea/
 
 # Explore Topics in Republic of Korea
 
-The following pages expand on the main **[Republic of Korea]({{ '/republic-of-korea/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Republic of Korea]({{ '/republic-of-korea/' | relative_url }})** page and cover its key branches in.
 
 - [Gapyeong Photo]({{ '/gapyeong-photo/' | relative_url }})
 - [Explained Lights]({{ '/explained-lights/' | relative_url }})

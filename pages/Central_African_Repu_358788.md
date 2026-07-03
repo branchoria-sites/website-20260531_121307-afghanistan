@@ -1201,22 +1201,22 @@ That thinness matters. In Central African Republic, unusual lights, aircraft, dr
 
 The most important finding is negative: public, searchable sources do not reveal a robust catalogue of Central African Republic UFO sightings with dates, named witnesses, investigation files, photographs, radar data, or official civil-aviation conclusions. Searches of common UFO-reporting terms in English and French mainly return unrelated uses of “UFO”, regional material from other African countries, social media noise, or generic UFO pages rather than Central African case files.
 
-The closest country-specific item is not a classic UFO sighting but a conflict-zone aviation incident. Safe Airspace’s Central African Republic risk summary records a November 2022 event in which an unidentified aircraft dropped bombs targeting a militant group roughly 150 nautical miles north of Bangui, after which the group responded with small-arms fire. The same summary notes that low-flying aircraft in the area may face increased risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span> A specialist defence outlet separately reported that a 26 November 2022 airstrike targeted a base housing Central African troops and Russian Wagner personnel, and argued that the Chadian air force was a likely candidate, though that attribution was analytical rather than a confirmed public finding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The closest country-specific item is not a classic UFO sighting but a conflict-zone aviation incident. Safe Airspace’s Central African Republic risk summary records a November 2022 event in which an unidentified aircraft dropped bombs targeting a militant group roughly 150 nautical miles north of Bangui, after which the group responded with small-arms fire. The same summary notes that low-flying aircraft in the area may face increased risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span> A specialist defence outlet separately reported that a 26 November 2022 airstrike targeted a base housing Central African troops and Russian Wagner personnel, and argued that the Chadian air force was a likely candidate, though that attribution was analytical rather than a confirmed public finding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military.africa">[Military Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military.africa</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That incident belongs in a Central African Republic UFO chronology only with careful wording. It was “unidentified” because the aircraft’s operator was not publicly confirmed, not because the object displayed extraordinary performance. In practical terms, it is better understood as an unresolved military aviation event in a conflict zone than as evidence for exotic aerial phenomena.
 
 ## Why Central African Republic has so few public UFO records
 
-Central African Republic is not an ideal environment for the kind of public, searchable sighting archive that exists in parts of North America or Europe. The country has endured repeated cycles of conflict, heavy peacekeeping involvement, armed-group activity, and outside military influence, all of which make sky reports harder to separate from ordinary security events. The United States State Department’s 2024 human-rights reporting describes serious abuses and international humanitarian law violations involving state forces, Wagner-linked forces, and armed groups, while UN and Security Council sources continue to describe a fragile security environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: state.gov">[State Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">state.gov</span><span class="citation-popover-title">Department Central African Republic</span><span class="citation-popover-snippet">Department Central African Republic</span></span></span>
+Central African Republic is not an ideal environment for the kind of public, searchable sighting archive that exists in parts of North America or Europe. The country has endured repeated cycles of conflict, heavy peacekeeping involvement, armed-group activity, and outside military influence, all of which make sky reports harder to separate from ordinary security events. The United States State Department’s 2024 human-rights reporting describes serious abuses and international humanitarian law violations involving state forces, Wagner-linked forces, and armed groups, while UN and Security Council sources continue to describe a fragile security environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: state.gov">[State Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">state.gov</span><span class="citation-popover-title">Department Central African Republic</span><span class="citation-popover-snippet">Department Central African Republic</span></span></span>
 
-The information environment is also uneven. DataReportal estimated 839,000 internet users in Central African Republic in January 2025, equal to only 15.5% of the population, while a 2024 digital-rights report placed the country among those with especially expensive mobile data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://datareportal.com/reports/digital-2025-central-african-republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datareportal.com">[DataReportal – Global Digital Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datareportal.com</span><span class="citation-popover-title">digital 2025 central african republic</span><span class="citation-popover-snippet">digital 2025 central african republic</span></span></span> That does not mean sightings do not happen; it means that many possible observations are unlikely to become timestamped, geolocated, publicly searchable reports with images and witness follow-up.
+The information environment is also uneven. DataReportal estimated 839,000 internet users in Central African Republic in January 2025, equal to only 15.5% of the population, while a 2024 digital-rights report placed the country among those with especially expensive mobile data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://datareportal.com/reports/digital-2025-central-african-republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: datareportal.com">[DataReportal – Global Digital Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">datareportal.com</span><span class="citation-popover-title">digital 2025 central african republic</span><span class="citation-popover-snippet">digital 2025 central african republic</span></span></span> That does not mean sightings do not happen; it means that many possible observations are unlikely to become timestamped, geolocated, publicly searchable reports with images and witness follow-up.
 
-Local media constraints further complicate the record. Reporting on Central African Republic has often prioritised urgent security, displacement, humanitarian, and political issues. Studies and media-support reports from the crisis period emphasised the importance of local radio and conflict-sensitive journalism, with security needs dominating public information demands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://odihpn.org/en/publication/supporting-local-media-in-the-central-african-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odihpn.org">[Humanitarian Practice Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odihpn.org</span><span class="citation-popover-title">supporting local media in the central african republic</span><span class="citation-popover-snippet">supporting local media in the central african republic</span></span></span> In such conditions, a strange light seen over a rural prefecture may never become a durable public case unless it is linked to an aircraft crash, a military incident, or a viral image.
+Local media constraints further complicate the record. Reporting on Central African Republic has often prioritised urgent security, displacement, humanitarian, and political issues. Studies and media-support reports from the crisis period emphasised the importance of local radio and conflict-sensitive journalism, with security needs dominating public information demands.<span class="citation-chip-wrap"><a class="citation-chip" href="https://odihpn.org/en/publication/supporting-local-media-in-the-central-african-republic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odihpn.org">[Humanitarian Practice Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odihpn.org</span><span class="citation-popover-title">supporting local media in the central african republic</span><span class="citation-popover-snippet">supporting local media in the central african republic</span></span></span> In such conditions, a strange light seen over a rural prefecture may never become a durable public case unless it is linked to an aircraft crash, a military incident, or a viral image.
 
 <img src="{{ "/assets/images/Central_African_Repu_358788-Illustration-1-dark.svg" | relative_url }}" alt="Central African Republic illustration 1" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2022 unidentified aircraft strike: a real case, but not a paranormal one
 
-The November [2022 strike]({{ '2022-strike/' | relative_url }}) is the strongest concrete aerial incident tied to the country. It appears in aviation-risk monitoring because it could affect civil or humanitarian flights, not because it was treated as an unexplained object in the ufological sense. Safe Airspace describes an unidentified aircraft dropping bombs 150 nautical miles north of Bangui; Military Africa described a strike against Central African and Wagner-linked forces and assessed that Chad may have been involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span>
+The November [2022 strike]({{ '2022-strike/' | relative_url }}) is the strongest concrete aerial incident tied to the country. It appears in aviation-risk monitoring because it could affect civil or humanitarian flights, not because it was treated as an unexplained object in the ufological sense. Safe Airspace describes an unidentified aircraft dropping bombs 150 nautical miles north of Bangui; Military Africa described a strike against Central African and Wagner-linked forces and assessed that Chad may have been involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span>
 
 For readers comparing Central African Republic with sibling country pages in an African UFO project, this is an important distinction. Some national UFO pages revolve around civilian witnesses, school sightings, pilots, or photographic claims. Central African Republic’s best-attested “unidentified flying object” material is instead entangled with war, airspace control, and attribution. It is a reminder that “UFO” originally means an unidentified object in the sky; it does not automatically imply alien craft, unknown physics, or a close encounter.
 
@@ -1224,19 +1224,19 @@ The likely explanation category is therefore “contested military aircraft or d
 
 ## AARO’s Africa UAP releases and why they do not identify Central African Republic
 
-The United States All-domain Anomaly Resolution Office, or AARO, is relevant because it has released official UAP imagery labelled “Africa”. Its public imagery page includes Africa cases from 2022, 2023, and 2024, using infrared sensor footage from United States Africa Command platforms. Some remain unresolved because the data are insufficient; at least one 2024 Africa case was assessed with high confidence as migratory birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+The United States All-domain Anomaly Resolution Office, or AARO, is relevant because it has released official UAP imagery labelled “Africa”. Its public imagery page includes Africa cases from 2022, 2023, and 2024, using infrared sensor footage from United States Africa Command platforms. Some remain unresolved because the data are insufficient; at least one 2024 Africa case was assessed with high confidence as migratory birds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
-These releases should not be casually mapped onto Central African Republic. The public labels say “Africa”, not “Central African Republic”, and the clips are tied to military sensors rather than local witnesses. AARO’s own language repeatedly stresses limitations: apparent heat signatures may be physical objects, thermal reflections, environmental differences, or sensor-display issues, and some clips lack enough data to evaluate performance characteristics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+These releases should not be casually mapped onto Central African Republic. The public labels say “Africa”, not “Central African Republic”, and the clips are tied to military sensors rather than local witnesses. AARO’s own language repeatedly stresses limitations: apparent heat signatures may be physical objects, thermal reflections, environmental differences, or sensor-display issues, and some clips lack enough data to evaluate performance characteristics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
-The broader lesson is still useful for Central African Republic. The same kinds of objects and effects that AARO discusses elsewhere—birds, balloons, aircraft, sensor artefacts, and insufficient telemetry—are exactly the mundane categories that would need to be checked before treating any future CAR report as extraordinary. AARO’s site describes its role as applying a scientific and data-driven framework to UAP, and its public archive is a reminder that official “unresolved” does not mean “unexplainable”; it often means “not enough data”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Congressional Press Products</span><span class="citation-popover-snippet">AARO Congressional/Press Products...</span></span></span>
+The broader lesson is still useful for Central African Republic. The same kinds of objects and effects that AARO discusses elsewhere—birds, balloons, aircraft, sensor artefacts, and insufficient telemetry—are exactly the mundane categories that would need to be checked before treating any future CAR report as extraordinary. AARO’s site describes its role as applying a scientific and data-driven framework to UAP, and its public archive is a reminder that official “unresolved” does not mean “unexplainable”; it often means “not enough data”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Congressional Press Products</span><span class="citation-popover-snippet">AARO Congressional/Press Products...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u4v6rSzXPjU" title="Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3 | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer">Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3 | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 23.8K &middot; Uploaded: January 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u4v6rSzXPjU">Open on YouTube</a></p></div></div></div>
 
 ## The Bangui magnetic anomaly is real, but it is not a UFO archive
 
-The Bangui magnetic anomaly is one of the most interesting scientific features associated with Central African Republic, and it is easy to see why it attracts speculation. USGS and NASA work in the 1970s treated it as a major satellite-detected magnetic anomaly of geological origin, centred near Bangui. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span> The European Space Agency has also highlighted the Bangui-centred magnetic field variation in Swarm satellite mapping, describing a sharper and stronger magnetic field over Central African Republic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space Agency ESA</span></span></span>
+The Bangui magnetic anomaly is one of the most interesting scientific features associated with Central African Republic, and it is easy to see why it attracts speculation. USGS and NASA work in the 1970s treated it as a major satellite-detected magnetic anomaly of geological origin, centred near Bangui.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span> The European Space Agency has also highlighted the Bangui-centred magnetic field variation in Swarm satellite mapping, describing a sharper and stronger magnetic field over Central African Republic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space Agency ESA</span></span></span>
 
-Scientific debate over the anomaly concerns geology, not UFOs. Published research has discussed possible explanations including deep crustal bodies, tectonic structure, and an ancient impact hypothesis, while more recent work continues to analyse its crustal architecture, gravity coherence, and topographic relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB087iB02p01107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agupubs.onlinelibrary.wiley.com">[AGU Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agupubs.onlinelibrary.wiley.com</span><span class="citation-popover-title">AGU Publications The Bangui Magnetic Anomaly: Its geological origin</span><span class="citation-popover-snippet">AGU Publications The Bangui Magnetic Anomaly: Its geological origin</span></span></span> ScienceDirect None of that amounts to evidence of craft <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S026437072400005X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>, visitors, or modern aerial phenomena.
+Scientific debate over the anomaly concerns geology, not UFOs. Published research has discussed possible explanations including deep crustal bodies, tectonic structure, and an ancient impact hypothesis, while more recent work continues to analyse its crustal architecture, gravity coherence, and topographic relationships.<span class="citation-chip-wrap"><a class="citation-chip" href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB087iB02p01107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agupubs.onlinelibrary.wiley.com">[AGU Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agupubs.onlinelibrary.wiley.com</span><span class="citation-popover-title">AGU Publications The Bangui Magnetic Anomaly: Its geological origin</span><span class="citation-popover-snippet">AGU Publications The Bangui Magnetic Anomaly: Its geological origin</span></span></span> ScienceDirect None of that amounts to evidence of craft<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S026437072400005X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>, visitors, or modern aerial phenomena.
 
 The anomaly matters to a UFO-focused page because it is a good example of a genuine mystery that can be misread. A real scientific unknown can become a magnet for unsupported stories when stripped of its discipline. The responsible reading is simple: the [Bangui anomaly]({{ 'bangui-anomaly/' | relative_url }}) is a major geophysical feature; it may shape scientific curiosity about Central African Republic; it does not provide a sighting chronology or proof of anomalous aerial technology.
 
@@ -1246,232 +1246,232 @@ The anomaly matters to a UFO-focused page because it is a good example of a genu
 
 If a new Central African Republic UFO report appeared, the first checks should be ordinary but rigorous. The country’s geography and security environment make several explanations plausible before reaching for extraordinary ones.
 
-**Military and security aircraft.** Central African Republic has seen national forces, UN peacekeepers, foreign military partners, humanitarian aviation, and conflict-related aircraft activity. Unidentified aircraft in such an environment can reflect attribution gaps, not anomalous performance. The 2022 strike north of Bangui is the clearest example. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span>
+**Military and security aircraft.** Central African Republic has seen national forces, UN peacekeepers, foreign military partners, humanitarian aviation, and conflict-related aircraft activity. Unidentified aircraft in such an environment can reflect attribution gaps, not anomalous performance. The 2022 strike north of Bangui is the clearest example.<span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span>
 
-**Civil and humanitarian flights around Bangui.** Bangui M’Poko is the main international airport and an airport of entry, and aviation sources list it as the country’s primary airport serving the capital. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universalweather.com/airports/FEFF-BGF-BANGUI-M-POKO-AIRPORT-BANGUI-BANGUI-BASSE-KOTTO-CENTRAL-AFRICAN-REPUBLIC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universalweather.com">[Universal Weather and Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universalweather.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Aircraft lights, approach paths, cargo flights, and irregular security-related movements can all produce reports that sound unusual when seen from the ground without flight data.
+**Civil and humanitarian flights around Bangui.** Bangui M’Poko is the main international airport and an airport of entry, and aviation sources list it as the country’s primary airport serving the capital.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universalweather.com/airports/FEFF-BGF-BANGUI-M-POKO-AIRPORT-BANGUI-BANGUI-BASSE-KOTTO-CENTRAL-AFRICAN-REPUBLIC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universalweather.com">[Universal Weather and Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universalweather.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Aircraft lights, approach paths, cargo flights, and irregular security-related movements can all produce reports that sound unusual when seen from the ground without flight data.
 
-**Satellites and satellite-internet constellations.** Satellite trains are now a common source of UFO reports worldwide. Starlink’s availability in Central African Republic was reported in March 2026, adding a local reason to treat moving chains of lights as a first-pass satellite possibility rather than an exotic claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techafricanews.com">[TechAfrica News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techafricanews.com</span><span class="citation-popover-title">Tech Africa News Starlink Officially Launches in the Central African Republic</span><span class="citation-popover-snippet">Tech Africa News Starlink Officially Launches in the Central African Republic</span></span></span>
+**Satellites and satellite-internet constellations.** Satellite trains are now a common source of UFO reports worldwide. Starlink’s availability in Central African Republic was reported in March 2026, adding a local reason to treat moving chains of lights as a first-pass satellite possibility rather than an exotic claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techafricanews.com">[TechAfrica News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techafricanews.com</span><span class="citation-popover-title">Tech Africa News Starlink Officially Launches in the Central African Republic</span><span class="citation-popover-snippet">Tech Africa News Starlink Officially Launches in the Central African Republic</span></span></span>
 
-**Meteors and fireballs.** Bright meteors can be dramatic, silent or delayed in sound, and visible across large areas. Meteor organisations describe fireballs as unusually bright meteors, and public confusion is common when a rare bright event crosses the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A credible CAR case would need direction of travel, duration, fragmentation, sound timing, and reports from multiple towns to distinguish a meteor from an aircraft or satellite.
+**Meteors and fireballs.** Bright meteors can be dramatic, silent or delayed in sound, and visible across large areas. Meteor organisations describe fireballs as unusually bright meteors, and public confusion is common when a rare bright event crosses the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A credible CAR case would need direction of travel, duration, fragmentation, sound timing, and reports from multiple towns to distinguish a meteor from an aircraft or satellite.
 
-**Birds, balloons, and sensor artefacts.** AARO’s Africa cases show how infrared footage can produce ambiguous heat signatures and how some reports resolve into birds or balloons when morphology and motion are analysed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO FAQ...</span></span></span> This is especially relevant where a report is based on a short clip rather than multiple independent observations.
+**Birds, balloons, and sensor artefacts.** AARO’s Africa cases show how infrared footage can produce ambiguous heat signatures and how some reports resolve into birds or balloons when morphology and motion are analysed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO FAQ...</span></span></span> This is especially relevant where a report is based on a short clip rather than multiple independent observations.
 
 <img src="{{ "/assets/images/Central_African_Repu_358788-Illustration-2-dark.svg" | relative_url }}" alt="Central African Republic illustration 2" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to grade Central African Republic UFO claims
 
-A useful evidence scale for Central African Republic should separate three categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: state.gov">[state.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">state.gov</span><span class="citation-popover-title">Department Central African Republic</span><span class="citation-popover-snippet">Department Central African Republic</span></span></span>
+A useful evidence scale for Central African Republic should separate three categories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: state.gov">[state.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">state.gov</span><span class="citation-popover-title">Department Central African Republic</span><span class="citation-popover-snippet">Department Central African Republic</span></span></span>
 
-**Confirmed ordinary events** include cases where the object is identified as an aircraft, balloon, satellite, meteor, drone, or bird. AARO’s resolved Africa migratory-bird case is a good model for what a proper resolution looks like: it ties visual characteristics and behaviour to a known explanation, rather than simply dismissing the report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+**Confirmed ordinary events** include cases where the object is identified as an aircraft, balloon, satellite, meteor, drone, or bird. AARO’s resolved Africa migratory-bird case is a good model for what a proper resolution looks like: it ties visual characteristics and behaviour to a known explanation, rather than simply dismissing the report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
-**Contested but non-extraordinary events** include incidents such as the 2022 unidentified aircraft strike. The event is real enough to matter for aviation risk, but the dispute concerns who operated the aircraft and why, not whether it used unknown technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span>
+**Contested but non-extraordinary events** include incidents such as the 2022 unidentified aircraft strike. The event is real enough to matter for aviation risk, but the dispute concerns who operated the aircraft and why, not whether it used unknown technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span>
 
-**Unresolved anomalous claims** would require more than a story. The most useful future report would include precise time and location, multiple independent witnesses, original images or video with metadata, direction and elevation, weather, aircraft and satellite checks, and any radar or aviation records. AARO’s public materials make the same point indirectly: unresolved cases often remain unresolved because sensor data, telemetry, or corroborating information are missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+**Unresolved anomalous claims** would require more than a story. The most useful future report would include precise time and location, multiple independent witnesses, original images or video with metadata, direction and elevation, weather, aircraft and satellite checks, and any radar or aviation records. AARO’s public materials make the same point indirectly: unresolved cases often remain unresolved because sensor data, telemetry, or corroborating information are missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y3vKUkjFhvI" title="Bangui Magnetic Anomaly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y3vKUkjFhvI" target="_blank" rel="noopener noreferrer">Bangui Magnetic Anomaly</a></p><p class="youtube-embed-meta">Channel: Wiki4All &middot; Views: 1.6K &middot; Uploaded: February 2021 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y3vKUkjFhvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y3vKUkjFhvI">Open on YouTube</a></p></div></div></div>
 
 ## Bottom line for the national chronology
 
-A cautious chronology for Central African Republic is short:(#endnote-4 "Endnote 4") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: state.gov">[state.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">state.gov</span><span class="citation-popover-title">Department Central African Republic</span><span class="citation-popover-snippet">Department Central African Republic</span></span></span>
+A cautious chronology for Central African Republic is short:(#endnote-4 "Endnote 4")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: state.gov">[state.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">state.gov</span><span class="citation-popover-title">Department Central African Republic</span><span class="citation-popover-snippet">Department Central African Republic</span></span></span>
 
-* **1950s–1980s: scientific discovery and naming of the Bangui magnetic anomaly.** This is a geophysical milestone, not a UFO case, but it is the country’s best-known “anomaly” in sky-and-space-adjacent discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/ofr781006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
-* **2010s–2020s: conflict and aviation ambiguity dominate the record.** Public reporting is shaped by insecurity, peacekeeping, foreign military involvement, and limited digital access rather than by civilian UFO archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: state.gov">[State Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">state.gov</span><span class="citation-popover-title">Department Central African Republic</span><span class="citation-popover-snippet">Department Central African Republic</span></span></span>
-* **November 2022: unidentified aircraft strike north of Bangui.** This is the most concrete open-source “unidentified flying” event, but it fits military-aviation uncertainty rather than extraordinary UFO evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span>
-* **2022–2025: official AARO Africa UAP releases.** These are relevant to regional UAP methodology, but public releases do not identify Central African Republic as the location and should not be claimed as CAR cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Congressional Press Products</span><span class="citation-popover-snippet">AARO Congressional/Press Products...</span></span></span>
-* **2026 onward: satellite visibility becomes a stronger mundane explanation.** Starlink’s reported launch in Central African Republic increases the need to check satellite passes when evaluating chains of moving lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techafricanews.com">[TechAfrica News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techafricanews.com</span><span class="citation-popover-title">Tech Africa News Starlink Officially Launches in the Central African Republic</span><span class="citation-popover-snippet">Tech Africa News Starlink Officially Launches in the Central African Republic</span></span></span>
+* **1950s–1980s: scientific discovery and naming of the Bangui magnetic anomaly.** This is a geophysical milestone, not a UFO case, but it is the country’s best-known “anomaly” in sky-and-space-adjacent discussions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/ofr781006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-snippet">Open source on usgs.gov.</span></span></span>
+* **2010s–2020s: conflict and aviation ambiguity dominate the record.** Public reporting is shaped by insecurity, peacekeeping, foreign military involvement, and limited digital access rather than by civilian UFO archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: state.gov">[State Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">state.gov</span><span class="citation-popover-title">Department Central African Republic</span><span class="citation-popover-snippet">Department Central African Republic</span></span></span>
+* **November 2022: unidentified aircraft strike north of Bangui.** This is the most concrete open-source “unidentified flying” event, but it fits military-aviation uncertainty rather than extraordinary UFO evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeairspace.net">[Safe Airspace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeairspace.net</span><span class="citation-popover-title">Safe Airspace Risk</span><span class="citation-popover-snippet">Safe Airspace Risk</span></span></span>
+* **2022–2025: official AARO Africa UAP releases.** These are relevant to regional UAP methodology, but public releases do not identify Central African Republic as the location and should not be claimed as CAR cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Congressional Press Products</span><span class="citation-popover-snippet">AARO Congressional/Press Products...</span></span></span>
+* **2026 onward: satellite visibility becomes a stronger mundane explanation.** Starlink’s reported launch in Central African Republic increases the need to check satellite passes when evaluating chains of moving lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techafricanews.com">[TechAfrica News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techafricanews.com</span><span class="citation-popover-title">Tech Africa News Starlink Officially Launches in the Central African Republic</span><span class="citation-popover-snippet">Tech Africa News Starlink Officially Launches in the Central African Republic</span></span></span>
 
 The most honest assessment is that Central African Republic is currently a thin-evidence UFO country. It has real aerial ambiguities, real geophysical anomalies, and real conflict-zone attribution problems, but no strong public record of confirmed extraordinary UFO incidents. Future claims should be judged less by how strange they sound and more by whether they survive the basic checks that the existing record so often lacks.
 
 <img src="{{ "/assets/images/Central_African_Repu_358788-Illustration-3-dark.svg" | relative_url }}" alt="Central African Republic illustration 3" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Counts as a UFO in CAR?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Counts as a UFO in CAR?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Allan Hendry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ATZGAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Handbook">The UFO Handbook</a>
+</h4>
+<p class="fr-book-author">By Allan Hendry</p>
         
-        <p class="fr-book-desc">Helps readers distinguish unidentified observations from extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish unidentified observations from extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Handbook+by+Allan+Hendry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how reports become classified as UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how reports become classified as UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Useful broad foundation where country-specific UFO literature is extremely limited.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful broad foundation where country-specific UFO literature is extremely limited.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding cultural interpretation of unusual aerial stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding cultural interpretation of unusual aerial stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-a-ufo-in-car-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-counts-as-a-ufo-in-car-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1487,7 +1487,7 @@ The most honest assessment is that Central African Republic is currently a thin-
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1507,7 +1507,7 @@ The most honest assessment is that Central African Republic is currently a thin-
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1539,7 +1539,7 @@ The most honest assessment is that Central African Republic is currently a thin-
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1591,7 +1591,7 @@ The most honest assessment is that Central African Republic is currently a thin-
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1636,7 +1636,7 @@ The most honest assessment is that Central African Republic is currently a thin-
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1674,188 +1674,187 @@ The most honest assessment is that Central African Republic is currently a thin-
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: usgs.gov  
-   Link: <a href="https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report</a>  
+   Link:<a href="https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/bangui-magnetic-anomaly-central-african-empire-final-trip-report</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: military.africa  
-   Link: <a href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow">https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/</a>  
+   Link:<a href="https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/" target="_blank" rel="noopener noreferrer nofollow">https://www.military.africa/2022/12/chadian-air-force-likely-behind-airstrike-against-wagner-in-car/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: state.gov  
    Title: Department Central African Republic  
-   Link: <a href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic</a>  
+   Link:<a href="https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2024-country-reports-on-human-rights-practices/central-african-republic</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: datareportal.com  
    Title: digital 2025 central african republic  
-   Link: <a href="https://datareportal.com/reports/digital-2025-central-african-republic" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/reports/digital-2025-central-african-republic</a>  
+   Link:<a href="https://datareportal.com/reports/digital-2025-central-african-republic" target="_blank" rel="noopener noreferrer nofollow">https://datareportal.com/reports/digital-2025-central-african-republic</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Congressional/Press Products...</p></details>
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Congressional/Press Products...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S026437072400005X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S026437072400005X</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S026437072400005X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S026437072400005X</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQ...</p></details>
+   Link:<a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQ...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/Multimedia/Videos?videoid=1006159" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Videos?videoid=1006159</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/Multimedia/Videos?videoid=1006159" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Videos?videoid=1006159</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Videos | U.S. Department of War...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1464343X21001072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1464343X21001072</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1464343X21001072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1464343X21001072</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+   Link:<a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/citations/19770018759" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19770018759</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/19770018759" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19770018759</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: time.com  
    Title: flooding central african republic  
-   Link: <a href="https://time.com/5753900/flooding-central-african-republic/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5753900/flooding-central-african-republic/</a>  
+   Link:<a href="https://time.com/5753900/flooding-central-african-republic/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5753900/flooding-central-african-republic/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubs.usgs.gov  
-   Link: <a href="https://pubs.usgs.gov/publication/ofr781006" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/ofr781006</a>  
+   Link:<a href="https://pubs.usgs.gov/publication/ofr781006" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/ofr781006</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: 2021-2025.state.gov  
    Title: ICS AF Central African Republic Public  
-   Link: <a href="https://2021-2025.state.gov/wp-content/uploads/2024/03/ICS_AF_Central-African-Republic_Public.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/wp-content/uploads/2024/03/ICS_AF_Central-African-Republic_Public.pdf</a>  
+   Link:<a href="https://2021-2025.state.gov/wp-content/uploads/2024/03/ICS_AF_Central-African-Republic_Public.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/wp-content/uploads/2024/03/ICS_AF_Central-African-Republic_Public.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: state.gov  
    Title: Central African Republic  
-   Link: <a href="https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/central-african-republic</a>  
+   Link:<a href="https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/central-african-republic" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/central-african-republic</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Bangui Magnetic Anomaly  
-   Link: <a href="https://www.youtube.com/watch?v=Y3vKUkjFhvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y3vKUkjFhvI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nobody Knows... 7 Mysteries Science Can&#x27;t Explain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y3vKUkjFhvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y3vKUkjFhvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nobody Knows... 7 Mysteries Science Can&#x27;t Explain...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: safeairspace.net  
    Title: Safe Airspace Risk  
-   Link: <a href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/summary/</a>  
+   Link:<a href="https://safeairspace.net/summary/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/summary/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: odihpn.org  
    Title: supporting local media in the central african republic  
-   Link: <a href="https://odihpn.org/en/publication/supporting-local-media-in-the-central-african-republic/" target="_blank" rel="noopener noreferrer nofollow">https://odihpn.org/en/publication/supporting-local-media-in-the-central-african-republic/</a>  
+   Link:<a href="https://odihpn.org/en/publication/supporting-local-media-in-the-central-african-republic/" target="_blank" rel="noopener noreferrer nofollow">https://odihpn.org/en/publication/supporting-local-media-in-the-central-african-republic/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: <a href="https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui</a>  
+   Link:<a href="https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Images/2017/03/Magnetic_anomaly_Bangui</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: agupubs.onlinelibrary.wiley.com  
    Title: AGU Publications The Bangui Magnetic Anomaly: Its geological origin  
-   Link: <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB087iB02p01107" target="_blank" rel="noopener noreferrer nofollow">https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB087iB02p01107</a>  
+   Link:<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB087iB02p01107" target="_blank" rel="noopener noreferrer nofollow">https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JB087iB02p01107</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: universalweather.com  
-   Link: <a href="https://www.universalweather.com/airports/FEFF-BGF-BANGUI-M-POKO-AIRPORT-BANGUI-BANGUI-BASSE-KOTTO-CENTRAL-AFRICAN-REPUBLIC/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalweather.com/airports/FEFF-BGF-BANGUI-M-POKO-AIRPORT-BANGUI-BANGUI-BASSE-KOTTO-CENTRAL-AFRICAN-REPUBLIC/</a>  
+   Link:<a href="https://www.universalweather.com/airports/FEFF-BGF-BANGUI-M-POKO-AIRPORT-BANGUI-BANGUI-BASSE-KOTTO-CENTRAL-AFRICAN-REPUBLIC/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalweather.com/airports/FEFF-BGF-BANGUI-M-POKO-AIRPORT-BANGUI-BANGUI-BASSE-KOTTO-CENTRAL-AFRICAN-REPUBLIC/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: techafricanews.com  
    Title: Tech Africa News Starlink Officially Launches in the Central African Republic  
-   Link: <a href="https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/" target="_blank" rel="noopener noreferrer nofollow">https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/</a>  
+   Link:<a href="https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/" target="_blank" rel="noopener noreferrer nofollow">https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Bangui magnetic anomaly  
-   Link: <a href="https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: safeairspace.net  
-   Link: <a href="https://safeairspace.net/map/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/map/</a>  
+   Link:<a href="https://safeairspace.net/map/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/map/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: snap.berkeley.edu  
-   Link: <a href="https://snap.berkeley.edu/project/11166188" target="_blank" rel="noopener noreferrer nofollow">https://snap.berkeley.edu/project/11166188</a>  
+   Link:<a href="https://snap.berkeley.edu/project/11166188" target="_blank" rel="noopener noreferrer nofollow">https://snap.berkeley.edu/project/11166188</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Ariel School's UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3  
-   Link: <a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO / DoD UAP Footage – PR 018, Unresolved UAP Report, Europe 2024...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO / DoD UAP Footage – PR 018, Unresolved UAP Report, Europe 2024...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=w3AQpVRHjzg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3AQpVRHjzg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=w3AQpVRHjzg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3AQpVRHjzg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp80-01444r000100010001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80-01444r000100010001-7</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp80-01444r000100010001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80-01444r000100010001-7</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000112343.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000112343.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000112343.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000112343.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: businessmirror.com.ph  
-   Link: <a href="https://businessmirror.com.ph/2021/06/06/there-is-stuff-enduring-mysteries-trail-us-report-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://businessmirror.com.ph/2021/06/06/there-is-stuff-enduring-mysteries-trail-us-report-on-ufos/</a>  
+   Link:<a href="https://businessmirror.com.ph/2021/06/06/there-is-stuff-enduring-mysteries-trail-us-report-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://businessmirror.com.ph/2021/06/06/there-is-stuff-enduring-mysteries-trail-us-report-on-ufos/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385572008_Russia%27s_Soft_Power_Strategies_in_the_MENA_Region_and_Africa" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385572008_Russia%27s_Soft_Power_Strategies_in_the_MENA_Region_and_Africa</a>  
+   Link:<a href="https://www.researchgate.net/publication/385572008_Russia%27s_Soft_Power_Strategies_in_the_MENA_Region_and_Africa" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385572008_Russia%27s_Soft_Power_Strategies_in_the_MENA_Region_and_Africa</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/editorial-images/news/event/muslims-flee-the-central-african-republic/476010761" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/editorial-images/news/event/muslims-flee-the-central-african-republic/476010761</a>  
+   Link:<a href="https://www.gettyimages.com/editorial-images/news/event/muslims-flee-the-central-african-republic/476010761" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/editorial-images/news/event/muslims-flee-the-central-african-republic/476010761</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ArianeGroup/posts/a-magnetic-anomaly-above-the-space-centre-in-french-guianawell-yes-but-you-wont-/856821819815008/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArianeGroup/posts/a-magnetic-anomaly-above-the-space-centre-in-french-guianawell-yes-but-you-wont-/856821819815008/</a>  
+   Link:<a href="https://www.facebook.com/ArianeGroup/posts/a-magnetic-anomaly-above-the-space-centre-in-french-guianawell-yes-but-you-wont-/856821819815008/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArianeGroup/posts/a-magnetic-anomaly-above-the-space-centre-in-french-guianawell-yes-but-you-wont-/856821819815008/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321596273412877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321596273412877/</a>
+   Link:<a href="https://www.facebook.com/WIONews/posts/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321596273412877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321596273412877/</a>

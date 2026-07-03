@@ -261,9 +261,9 @@ The Jordan Valley sighting often cited in international UFO databases illustrate
 
 ## The Jordan Valley Formation Report
 
-The most frequently referenced Jordanian civilian UFO case comes from the Jordan Valley region near the Dead Sea and Jordan River area. A report archived by the National UFO Reporting Center (NUFORC) describes an event said to have occurred on 15 July 2000. According to the account, three bright lights appeared in a triangular formation, seemed to vibrate, rotate and then separate before disappearing. The observation reportedly lasted around thirty minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sweetstudy.com">[SweetStudy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sweetstudy.com</span><span class="citation-popover-title">ufo sightings large csv 8453183</span><span class="citation-popover-snippet">ufo sighting data explorationjordan valley (jordan), formation, 1800.0, 30 minutes, VIBRATING LIGHTS FORMING... Several witnes...</span></span></span>
+The most frequently referenced Jordanian civilian UFO case comes from the Jordan Valley region near the Dead Sea and Jordan River area. A report archived by the National UFO Reporting Center (NUFORC) describes an event said to have occurred on 15 July 2000. According to the account, three bright lights appeared in a triangular formation, seemed to vibrate, rotate and then separate before disappearing. The observation reportedly lasted around thirty minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sweetstudy.com">[SweetStudy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sweetstudy.com</span><span class="citation-popover-title">ufo sightings large csv 8453183</span><span class="citation-popover-snippet">ufo sighting data explorationjordan valley (jordan), formation, 1800.0, 30 minutes, VIBRATING LIGHTS FORMING... Several witnes...</span></span></span>
 
-What makes the report notable is not the phenomenon itself but the amount of narrative detail compared with most Jordanian sightings. The account attempts to describe shape, movement, duration and witness reaction. It also includes follow-up correspondence from the database operator rather than simply listing the event and moving on. NUFORC's notes raised the possibility that projected or advertising lights might explain the observation, although no definitive identification was offered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sweetstudy.com">[SweetStudy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sweetstudy.com</span><span class="citation-popover-title">ufo sightings large csv 8453183</span><span class="citation-popover-snippet">ufo sighting data explorationjordan valley (jordan), formation, 1800.0, 30 minutes, VIBRATING LIGHTS FORMING... Several witnes...</span></span></span>
+What makes the report notable is not the phenomenon itself but the amount of narrative detail compared with most Jordanian sightings. The account attempts to describe shape, movement, duration and witness reaction. It also includes follow-up correspondence from the database operator rather than simply listing the event and moving on. NUFORC's notes raised the possibility that projected or advertising lights might explain the observation, although no definitive identification was offered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sweetstudy.com">[SweetStudy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sweetstudy.com</span><span class="citation-popover-title">ufo sightings large csv 8453183</span><span class="citation-popover-snippet">ufo sighting data explorationjordan valley (jordan), formation, 1800.0, 30 minutes, VIBRATING LIGHTS FORMING... Several witnes...</span></span></span>
 
 Several factors limit the report's evidential value:
 
@@ -273,7 +273,7 @@ Several factors limit the report's evidential value:
 * The person submitting it was reportedly not the direct witness.
 * No known photograph, video or radar record accompanies the claim.
 * No published Jordanian government investigation is associated with the event.
-* No independently documented second witness statement has surfaced publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sweetstudy.com">[SweetStudy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sweetstudy.com</span><span class="citation-popover-title">ufo sightings large csv 8453183</span><span class="citation-popover-snippet">ufo sighting data explorationjordan valley (jordan), formation, 1800.0, 30 minutes, VIBRATING LIGHTS FORMING... Several witnes...</span></span></span>
+* No independently documented second witness statement has surfaced publicly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sweetstudy.com">[SweetStudy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sweetstudy.com</span><span class="citation-popover-title">ufo sightings large csv 8453183</span><span class="citation-popover-snippet">ufo sighting data explorationjordan valley (jordan), formation, 1800.0, 30 minutes, VIBRATING LIGHTS FORMING... Several witnes...</span></span></span>
 
 </div>
 
@@ -285,7 +285,7 @@ These limitations do not prove the sighting was misidentified. They simply mean 
 
 The Jordan Valley report survives in discussions largely because Jordan has relatively few documented civilian UFO cases available in international archives. In countries with thousands of reports, a single anecdotal account quickly disappears into a larger database. In Jordan, the small number of accessible cases gives individual reports disproportionate visibility.
 
-Another reason is that triangular formations have long occupied a special place in UFO literature. Reports involving three lights arranged in geometric patterns often attract attention because observers perceive them as structured and purposeful rather than random. Yet the shape itself is not evidence of an extraordinary object. Human observers frequently connect separate lights into patterns, especially at night when depth, distance and scale are difficult to judge. Similar interpretive problems have appeared in famous UFO waves elsewhere, where later investigations found that groups of conventional aircraft or ground-based lights created apparently coordinated formations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-snippet">Unsolved MysteriesHudson Valley UFO - Unsolved MysteriesIt appeared that the UFOs were a hoax, nothing more than small aircraft flying in...</span></span></span>
+Another reason is that triangular formations have long occupied a special place in UFO literature. Reports involving three lights arranged in geometric patterns often attract attention because observers perceive them as structured and purposeful rather than random. Yet the shape itself is not evidence of an extraordinary object. Human observers frequently connect separate lights into patterns, especially at night when depth, distance and scale are difficult to judge. Similar interpretive problems have appeared in famous UFO waves elsewhere, where later investigations found that groups of conventional aircraft or ground-based lights created apparently coordinated formations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-snippet">Unsolved MysteriesHudson Valley UFO - Unsolved MysteriesIt appeared that the UFOs were a hoax, nothing more than small aircraft flying in...</span></span></span>
 
 The Jordan Valley case therefore remains unresolved rather than compelling. It is remembered because it is one of the few detailed Jordanian narratives, not because it provides unusually strong evidence.
 
@@ -295,7 +295,7 @@ Reports from Amman present a different challenge. Jordan's capital generates occ
 
 Urban environments make sky observations especially difficult to evaluate. Amman contains dense lighting, heavy air traffic, changing weather conditions and significant atmospheric haze during parts of the year. Under those conditions, observers can misjudge altitude, speed and direction. A stationary light can appear to move because of cloud movement, while distant aircraft approaching the observer may seem motionless before abruptly changing position.
 
-More recent social media discussions about unusual lights over Jordan have demonstrated how quickly speculation can outpace evidence. Reports of glowing objects over Amman and other areas have sometimes been labelled UFOs before any attempt was made to determine whether satellites, drones, aircraft, missiles or atmospheric phenomena were involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/RoyaNewsEnglish/posts/aerial-objects-spotted-over-amman/1135239655310740/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Aerial objects spotted over AmmanEyewitnesses described the UFO as glowing and pulsating with bright lights, briefly hovering bef...</span></span></span>
+More recent social media discussions about unusual lights over Jordan have demonstrated how quickly speculation can outpace evidence. Reports of glowing objects over Amman and other areas have sometimes been labelled UFOs before any attempt was made to determine whether satellites, drones, aircraft, missiles or atmospheric phenomena were involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/RoyaNewsEnglish/posts/aerial-objects-spotted-over-amman/1135239655310740/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Aerial objects spotted over AmmanEyewitnesses described the UFO as glowing and pulsating with bright lights, briefly hovering bef...</span></span></span>
 
 The problem is amplified by the region's security environment. Since the 2010s, and especially during periods of regional conflict, Jordanian skies have seen military aircraft, surveillance systems, drones, missile interceptions and debris events. An observer may genuinely witness something unfamiliar without that object being mysterious in a scientific sense.
 
@@ -333,7 +333,7 @@ Unlike some famous international cases, Jordan's better-known sightings generall
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Radar tracking data.
-* Air traffic control records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-snippet">Unsolved MysteriesHudson Valley UFO - Unsolved MysteriesIt appeared that the UFOs were a hoax, nothing more than small aircraft flying in...</span></span></span>
+* Air traffic control records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[unsolved.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-snippet">Unsolved MysteriesHudson Valley UFO - Unsolved MysteriesIt appeared that the UFOs were a hoax, nothing more than small aircraft flying in...</span></span></span>
 * Military sensor information.
 * Multiple documented witness interviews.
 * Photographic material that can be independently analysed.
@@ -358,194 +358,194 @@ Some reports may involve astronomical objects observed under unusual conditions.
 That is why Jordan's civilian UFO history is less a catalogue of mysteries than a lesson in evidential standards. The Jordan Valley lights and scattered Amman reports show how detailed witness narratives can coexist with weak verification. They remain part of Jordan's UFO record because they were reported, not because they were proven. The enduring story is therefore not one of confirmed unidentified craft, but of how difficult it is to transform a fleeting observation into reliable evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Are Jordan&#x27;s Civilian UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Are Jordan&#x27;s Civilian UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights cases with stronger corroboration than ordinary civilian sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights cases with stronger corroboration than ordinary civilian sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses witness testimony, case classification and evidential limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses witness testimony, case classification and evidential limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Contrasts weak anecdotal reports with stronger documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts weak anecdotal reports with stronger documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for understanding why eyewitness reports alone are often unreliable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why eyewitness reports alone are often unreliable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-strong-are-jordan-s-civilian-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ That is why Jordan's civilian UFO history is less a catalogue of mysteries than 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ That is why Jordan's civilian UFO history is less a catalogue of mysteries than 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ That is why Jordan's civilian UFO history is less a catalogue of mysteries than 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ That is why Jordan's civilian UFO history is less a catalogue of mysteries than 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ That is why Jordan's civilian UFO history is less a catalogue of mysteries than 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,138 +751,138 @@ That is why Jordan's civilian UFO history is less a catalogue of mysteries than 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sweetstudy.com  
    Title: ufo sightings large csv 8453183  
-   Link: <a href="https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183" target="_blank" rel="noopener noreferrer nofollow">https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo sighting data explorationjordan valley (jordan), formation, 1800.0, 30 minutes, VIBRATING LIGHTS FORMING... Several witnes...</p></details>
+   Link:<a href="https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183" target="_blank" rel="noopener noreferrer nofollow">https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo sighting data explorationjordan valley (jordan), formation, 1800.0, 30 minutes, VIBRATING LIGHTS FORMING... Several witnes...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=54754" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=54754</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 54754So basically, I was looking a a big green-rimmed triangle with a circular orange light in the center. When I fir...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=54754" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=54754</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 54754So basically, I was looking a a big green-rimmed triangle with a circular orange light in the center. When I fir...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unsolved.com  
-   Link: <a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesHudson Valley UFO - Unsolved MysteriesIt appeared that the UFOs were a hoax, nothing more than small aircraft flying in...</p></details>
+   Link:<a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesHudson Valley UFO - Unsolved MysteriesIt appeared that the UFOs were a hoax, nothing more than small aircraft flying in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RoyaNewsEnglish/posts/aerial-objects-spotted-over-amman/1135239655310740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/posts/aerial-objects-spotted-over-amman/1135239655310740/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial objects spotted over AmmanEyewitnesses described the UFO as glowing and pulsating with bright lights, briefly hovering bef...</p></details>
+   Link:<a href="https://www.facebook.com/RoyaNewsEnglish/posts/aerial-objects-spotted-over-amman/1135239655310740/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/posts/aerial-objects-spotted-over-amman/1135239655310740/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial objects spotted over AmmanEyewitnesses described the UFO as glowing and pulsating with bright lights, briefly hovering bef...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/deepuniversee/posts/a-mysterious-event-has-captured-the-attention-of-both-locals-and-ufo-enthusiasts/781300341334523/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-mysterious-event-has-captured-the-attention-of-both-locals-and-ufo-enthusiasts/781300341334523/</a>  
+   Link:<a href="https://www.facebook.com/deepuniversee/posts/a-mysterious-event-has-captured-the-attention-of-both-locals-and-ufo-enthusiasts/781300341334523/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-mysterious-event-has-captured-the-attention-of-both-locals-and-ufo-enthusiasts/781300341334523/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/deepuniversee/photos/a-mysterious-event-has-captured-the-attention-of-both-locals-and-ufo-enthusiasts/781300328001191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/photos/a-mysterious-event-has-captured-the-attention-of-both-locals-and-ufo-enthusiasts/781300328001191/</a>  
+   Link:<a href="https://www.facebook.com/deepuniversee/photos/a-mysterious-event-has-captured-the-attention-of-both-locals-and-ufo-enthusiasts/781300328001191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/photos/a-mysterious-event-has-captured-the-attention-of-both-locals-and-ufo-enthusiasts/781300328001191/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: UF O seen over john street illuminations UFO seen over john street illuminations  
-   Link: <a href="https://www.facebook.com/groups/357985745006547/posts/1832857794185994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/357985745006547/posts/1832857794185994/</a>  
+   Link:<a href="https://www.facebook.com/groups/357985745006547/posts/1832857794185994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/357985745006547/posts/1832857794185994/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RoyaNewsEnglish/posts/unidentified-flying-objects-spotted-in-the-sky-over-jordan/1135481741953198/?locale=hi_IN" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/posts/unidentified-flying-objects-spotted-in-the-sky-over-jordan/1135481741953198/?locale=hi_IN</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objects spotted in the sky over JordanA mysterious sighting in Jordan&#x27;s Wadi Rum desert has captured global attention...</p></details>
+   Link:<a href="https://www.facebook.com/RoyaNewsEnglish/posts/unidentified-flying-objects-spotted-in-the-sky-over-jordan/1135481741953198/?locale=hi_IN" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/posts/unidentified-flying-objects-spotted-in-the-sky-over-jordan/1135481741953198/?locale=hi_IN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objects spotted in the sky over JordanA mysterious sighting in Jordan&#x27;s Wadi Rum desert has captured global attention...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/826989972281091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/826989972281091/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 2004 Location: Lewisburg, Ohio, United States The object was...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/348704483442978/posts/826989972281091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/826989972281091/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 2004 Location: Lewisburg, Ohio, United States The object was...Read more...</p></details>
    Published: July 24, 2004  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2177135245931362/posts/4311726162472249/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2177135245931362/posts/4311726162472249/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n the **Wadi Rum** desert, leaving witnesses stunned...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2177135245931362/posts/4311726162472249/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2177135245931362/posts/4311726162472249/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n the **Wadi Rum** desert, leaving witnesses stunned...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/whatthefacttttt/posts/wadi-rum-the-ancient-desert-of-jordan-often-called-the-valley-of-the-moon-just-b/891563900290105/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whatthefacttttt/posts/wadi-rum-the-ancient-desert-of-jordan-often-called-the-valley-of-the-moon-just-b/891563900290105/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the red sands, its light pulsing in rhythmic bursts before the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/whatthefacttttt/posts/wadi-rum-the-ancient-desert-of-jordan-often-called-the-valley-of-the-moon-just-b/891563900290105/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whatthefacttttt/posts/wadi-rum-the-ancient-desert-of-jordan-often-called-the-valley-of-the-moon-just-b/891563900290105/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the red sands, its light pulsing in rhythmic bursts before the...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/frankleppardphotography/posts/so-i-was-out-snapping-the-sunset-without-my-tinfoil-hat-on-lol-and-i-saw-a-ufo-h/1378491060302836/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/frankleppardphotography/posts/so-i-was-out-snapping-the-sunset-without-my-tinfoil-hat-on-lol-and-i-saw-a-ufo-h/1378491060302836/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.facebook.com/frankleppardphotography/posts/so-i-was-out-snapping-the-sunset-without-my-tinfoil-hat-on-lol-and-i-saw-a-ufo-h/1378491060302836/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/frankleppardphotography/posts/so-i-was-out-snapping-the-sunset-without-my-tinfoil-hat-on-lol-and-i-saw-a-ufo-h/1378491060302836/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: Here's a new video of a UFO seen in Al-Zarqaa, Jordan  
-   Link: <a href="https://www.facebook.com/disclosureparty/posts/heres-a-new-video-of-a-ufo-seen-in-al-zarqaa-jordan/122247534980145264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/disclosureparty/posts/heres-a-new-video-of-a-ufo-seen-in-al-zarqaa-jordan/122247534980145264/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious sighting in Jordan&#x27;s Wadi Rum desert has captured global attention after locals reported a blinking object descending from t...</p></details>
+   Link:<a href="https://www.facebook.com/disclosureparty/posts/heres-a-new-video-of-a-ufo-seen-in-al-zarqaa-jordan/122247534980145264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/disclosureparty/posts/heres-a-new-video-of-a-ufo-seen-in-al-zarqaa-jordan/122247534980145264/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious sighting in Jordan&#x27;s Wadi Rum desert has captured global attention after locals reported a blinking object descending from t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: We want *you* to vote in our  
-   Link: <a href="https://www.facebook.com/WKRG.News.5/posts/over-2000-ufo-sightings-have-been-reported-in-the-first-half-of-2025-according-t/1175942311239194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WKRG.News.5/posts/over-2000-ufo-sightings-have-been-reported-in-the-first-half-of-2025-according-t/1175942311239194/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Over 2000 UFO sightings have been reported in the first...Over 2,000 UFO sightings have been reported in the first half of 2025, accordi...</p></details>
+   Link:<a href="https://www.facebook.com/WKRG.News.5/posts/over-2000-ufo-sightings-have-been-reported-in-the-first-half-of-2025-according-t/1175942311239194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WKRG.News.5/posts/over-2000-ufo-sightings-have-been-reported-in-the-first-half-of-2025-according-t/1175942311239194/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over 2000 UFO sightings have been reported in the first...Over 2,000 UFO sightings have been reported in the first half of 2025, accordi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
    Title: 2025 best ufos  
-   Link: <a href="https://nuforc.org/2025-best-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2025-best-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Octahedrons – and 2025&#x27;s Best UFO Reports so Far11 May 2025 — The best reports describe a diverse array of objects ranging from classic t...</p></details>
+   Link:<a href="https://nuforc.org/2025-best-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2025-best-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Octahedrons – and 2025&#x27;s Best UFO Reports so Far11 May 2025 — The best reports describe a diverse array of objects ranging from classic t...</p></details>
    Published: May 2025  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesTop 10 Mysterious UFO Sightings That Still Haunt Witnesses. By. SPYSCAPE. 5 min...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesTop 10 Mysterious UFO Sightings That Still Haunt Witnesses. By. SPYSCAPE. 5 min...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dawn.com  
-   Link: <a href="https://www.dawn.com/news/2002290/us-releases-second-batch-of-government-declassified-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/2002290/us-releases-second-batch-of-government-declassified-ufo-files</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US releases second batch of government declassified UFO...1 day ago — The US Defense Department on Friday released a second batch of pre...</p></details>
+   Link:<a href="https://www.dawn.com/news/2002290/us-releases-second-batch-of-government-declassified-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/2002290/us-releases-second-batch-of-government-declassified-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US releases second batch of government declassified UFO...1 day ago — The US Defense Department on Friday released a second batch of pre...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nypost.com  
    Title: leaked us air force drone footage shows ufos in airspace over the middle east  
-   Link: <a href="https://nypost.com/2026/02/07/us-news/leaked-us-air-force-drone-footage-shows-ufos-in-airspace-over-the-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/02/07/us-news/leaked-us-air-force-drone-footage-shows-ufos-in-airspace-over-the-middle-east/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked US Air Force drone footage shows UFOs in...7 Feb 2026 — Two leaked videos recorded by the US military purportedly show UFOs opera...</p></details>
+   Link:<a href="https://nypost.com/2026/02/07/us-news/leaked-us-air-force-drone-footage-shows-ufos-in-airspace-over-the-middle-east/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/02/07/us-news/leaked-us-air-force-drone-footage-shows-ufos-in-airspace-over-the-middle-east/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked US Air Force drone footage shows UFOs in...7 Feb 2026 — Two leaked videos recorded by the US military purportedly show UFOs opera...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/code/utkarshx27/predicting-aliens-preferred-ufo-shapes-using-ml" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/code/utkarshx27/predicting-aliens-preferred-ufo-shapes-using-ml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A large craft with 4... Strange lights over Central Valley, CA. Large amber light turns into 5 and...Read more...</p></details>
+   Link:<a href="https://www.kaggle.com/code/utkarshx27/predicting-aliens-preferred-ufo-shapes-using-ml" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/code/utkarshx27/predicting-aliens-preferred-ufo-shapes-using-ml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A large craft with 4... Strange lights over Central Valley, CA. Large amber light turns into 5 and...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dokumen.pub  
    Title: The Outsider's Guide to UFOs Volume 2: What are They?  
-   Link: <a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The light eventually resolved as three lights in triangular formation which... Valley wave listing events where UFOs seemed to shine lig...</p></details>
+   Link:<a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The light eventually resolved as three lights in triangular formation which... Valley wave listing events where UFOs seemed to shine lig...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: allarab.news  
    Title: us drone operating in middle east spots mysterious orb  
-   Link: <a href="https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/" target="_blank" rel="noopener noreferrer nofollow">https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings are related to alien activity. “I should also state clearly for the record that, in our research, AARO has found no credible...</p></details>
+   Link:<a href="https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/" target="_blank" rel="noopener noreferrer nofollow">https://allarab.news/us-drone-operating-in-middle-east-spots-mysterious-orb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sightings are related to alien activity. “I should also state clearly for the record that, in our research, AARO has found no credible...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dn721804.ca.archive.org  
-   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad UFOs_ Critical Thinking About UFO Claims14 Jan 2016 — This book contains mostly new cases, as well as updates on important older cases...</p></details>
+   Link:<a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad UFOs_ Critical Thinking About UFO Claims14 Jan 2016 — This book contains mostly new cases, as well as updates on important older cases...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/C1VryC3gK9Y/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C1VryC3gK9Y/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, illuminated by enigmatic lights beneath. ✨ This...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/C1VryC3gK9Y/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C1VryC3gK9Y/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, illuminated by enigmatic lights beneath. ✨ This...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: datascience.scholar.bucknell.edu  
    Title: Tableau Sample 2016 UFO Sightings.xlsx  
-   Link: <a href="https://datascience.scholar.bucknell.edu/files/2023/03/Tableau-Sample-2016-UFO-Sightings.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://datascience.scholar.bucknell.edu/files/2023/03/Tableau-Sample-2016-UFO-Sightings.xlsx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Light balls hovering, splitting, hovering and then vanishing with no change in elevation for 5 minutes. 5, 3871, 42370, Vernon, CT, Spher...</p></details>
+   Link:<a href="https://datascience.scholar.bucknell.edu/files/2023/03/Tableau-Sample-2016-UFO-Sightings.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://datascience.scholar.bucknell.edu/files/2023/03/Tableau-Sample-2016-UFO-Sightings.xlsx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Light balls hovering, splitting, hovering and then vanishing with no change in elevation for 5 minutes. 5, 3871, 42370, Vernon, CT, Spher...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: albawaba.com  
    Title: Al Bawaba UFO, Starlink or missile?  
-   Link: <a href="https://www.albawaba.com/node/ufo-starlink-or-missile-purple-light-1607901" target="_blank" rel="noopener noreferrer nofollow">https://www.albawaba.com/node/ufo-starlink-or-missile-purple-light-1607901</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purple light appears in Jordan skiesJul 2, 2025 —... Weird lights in Egypt&#x27;s sky, UFO debate swarm social media... Tags:StarlinkUFOalie...</p></details>
+   Link:<a href="https://www.albawaba.com/node/ufo-starlink-or-missile-purple-light-1607901" target="_blank" rel="noopener noreferrer nofollow">https://www.albawaba.com/node/ufo-starlink-or-missile-purple-light-1607901</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purple light appears in Jordan skiesJul 2, 2025 —... Weird lights in Egypt&#x27;s sky, UFO debate swarm social media... Tags:StarlinkUFOalie...</p></details>

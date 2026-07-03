@@ -1194,23 +1194,23 @@ image: /assets/images/Guyana_bc88a2-overview-social.jpg
 
 ## Introduction
 
-The practical value of the Guyana page is therefore evidential: it helps separate memorable claims from verifiable records. Guyana’s geography also matters. Reports cluster where people, cameras, roads, and internet access are concentrated, especially around Georgetown and the coast, while interior claims from river, forest, and Rupununi settings are harder to corroborate. The Guyana Civil Aviation Authority itself notes that the country’s forested and mountainous hinterland creates aviation-safety challenges, which is important context for any report involving lights, aircraft-like movement, or remote-sky observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gcaa-gy.org/pdf/AC023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa-gy.org">[gcaa-gy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa-gy.org</span><span class="citation-popover-snippet">Open source on gcaa-gy.org.</span></span></span>
+The practical value of the Guyana page is therefore evidential: it helps separate memorable claims from verifiable records. Guyana’s geography also matters. Reports cluster where people, cameras, roads, and internet access are concentrated, especially around Georgetown and the coast, while interior claims from river, forest, and Rupununi settings are harder to corroborate. The Guyana Civil Aviation Authority itself notes that the country’s forested and mountainous hinterland creates aviation-safety challenges, which is important context for any report involving lights, aircraft-like movement, or remote-sky observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gcaa-gy.org/pdf/AC023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa-gy.org">[gcaa-gy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa-gy.org</span><span class="citation-popover-snippet">Open source on gcaa-gy.org.</span></span></span>
 
 <img src="{{ "/assets/images/Guyana_bc88a2-overview.webp" | relative_url }}" alt="Overview image for What We Know About UFO Sightings in Guyana" loading="eager" decoding="sync" fetchpriority="high">
 ## What the public record actually contains
 
-The most compact public chronology comes from NUFORC’s country listing for Guyana. It records seven entries: New River in 1971; unspecified Guyana entries in 1975, 1987, and 2006; Georgetown in 2007 and 2012; and Crabwood Creek in 2013. This is a very small sample, and it is not an official Guyanese government record. It is a witness-submission database, useful for mapping claims but not sufficient on its own to establish that an anomalous object was present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cGuyana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Guyana</span><span class="citation-popover-snippet">Reports for Country Guyana</span></span></span>
+The most compact public chronology comes from NUFORC’s country listing for Guyana. It records seven entries: New River in 1971; unspecified Guyana entries in 1975, 1987, and 2006; Georgetown in 2007 and 2012; and Crabwood Creek in 2013. This is a very small sample, and it is not an official Guyanese government record. It is a witness-submission database, useful for mapping claims but not sufficient on its own to establish that an anomalous object was present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cGuyana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Guyana</span><span class="citation-popover-snippet">Reports for Country Guyana</span></span></span>
 
-The 1971 New River report is the most dramatic of the listed claims. The witness, reporting decades later, described four observers on a surveying trip in the New River/Corentyne River area, a “large silver saucer” over the river, water allegedly drawn upwards, and later strange campsite-like traces. As a story, it has the texture of a classic remote-interior UFO encounter; as evidence, it is weak because the report was filed in 2002 for an event dated approximately August 1971, with no attached official investigation, photographs, contemporaneous press record, or named corroborating documents in the public entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=23213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The 1971 New River report is the most dramatic of the listed claims. The witness, reporting decades later, described four observers on a surveying trip in the New River/Corentyne River area, a “large silver saucer” over the river, water allegedly drawn upwards, and later strange campsite-like traces. As a story, it has the texture of a classic remote-interior UFO encounter; as evidence, it is weak because the report was filed in 2002 for an event dated approximately August 1971, with no attached official investigation, photographs, contemporaneous press record, or named corroborating documents in the public entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=23213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The later NUFORC reports are less elaborate but still difficult to verify. A 1987 entry describes a reddish-orange object streaking upwards for five seconds; a 2006 entry describes seven observers seeing a silent cigar-shaped object with apparent flames; a 2007 Georgetown entry describes a low, aircraft-like object with blinking lights that allegedly stopped and reversed direction; and a 2012 Georgetown entry is based on something noticed only after photographs were reviewed on a computer. Each contains an interesting witness description, but none presents enough independent data to move the case beyond “reported and unconfirmed”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=26722" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=49411" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=55426" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The later NUFORC reports are less elaborate but still difficult to verify. A 1987 entry describes a reddish-orange object streaking upwards for five seconds; a 2006 entry describes seven observers seeing a silent cigar-shaped object with apparent flames; a 2007 Georgetown entry describes a low, aircraft-like object with blinking lights that allegedly stopped and reversed direction; and a 2012 Georgetown entry is based on something noticed only after photographs were reviewed on a computer. Each contains an interesting witness description, but none presents enough independent data to move the case beyond “reported and unconfirmed”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=26722" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=49411" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=55426" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Guyana_bc88a2-Illustration-1-dark.svg" | relative_url }}" alt="What We Know About UFO Sightings in Guyana illustration 1" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A useful chronology, with credibility split
 
 Guyana’s UFO chronology is best read as a small evidence ladder rather than a list of mysteries. The farther a report moves from immediate documentation, independent witnesses, sensor records, or official follow-up, the weaker it becomes.
 
-Period or caseLocationMain claimBest current assessment1971 New RiverInterior near New River/Corentyne RiverSilver disc over river, alleged water effect, later strange tracesHighly contested; vivid retrospective testimony but no public corroborating record in the listing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=92289" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 1975 light reportGuyana, unspecifiedFast light apparently circling starsContested; single retrospective report, difficult to test against satellites, aircraft, or visual perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=61057" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 1987 streaking objectGuyana, unspecifiedRed-orange object rising rapidly, five-second durationWeakly evidenced; brief meteor-like or re-entry-like description cannot be resolved from the report alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 2006 cigar-shaped objectGuyana, unspecifiedSilent, lit object with apparent flame, seven observersMore witness-rich than most entries, but still unconfirmed without flight, meteorological, photographic, or [official records]({{ 'official-records-b5d75e/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 2007 GeorgetownGeorgetownAircraft-like lights stopped and reversed directionContested; urban observation with aircraft-like lights, no independent data in the entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=122373" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 2012 Georgetown photographGeorgetownBluish disc noticed after reviewing imagesWeak as a UFO case; post-event image discovery is especially vulnerable to lens artefacts, birds, insects, or distant aircraft unless original files are analysed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 2016 Canal Number One sky glowRegion 3, Essequibo Islands-West DemeraraViral “UFO” photographs of a glowing objectBetter treated as explained or probably ordinary; local reporting explicitly raised meteor, comet, image-source, and rocket-launch comparisons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guyanatimesgy.com/meteor-sighting-in-canal-no-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guyanatimesgy.com">[Guyana Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guyanatimesgy.com</span><span class="citation-popover-title">meteor sighting in canal no 1</span><span class="citation-popover-snippet">meteor sighting in canal no 1</span></span></span>
+Period or caseLocationMain claimBest current assessment1971 New RiverInterior near New River/Corentyne RiverSilver disc over river, alleged water effect, later strange tracesHighly contested; vivid retrospective testimony but no public corroborating record in the listing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=92289" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 1975 light reportGuyana, unspecifiedFast light apparently circling starsContested; single retrospective report, difficult to test against satellites, aircraft, or visual perception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=61057" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 1987 streaking objectGuyana, unspecifiedRed-orange object rising rapidly, five-second durationWeakly evidenced; brief meteor-like or re-entry-like description cannot be resolved from the report alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 2006 cigar-shaped objectGuyana, unspecifiedSilent, lit object with apparent flame, seven observersMore witness-rich than most entries, but still unconfirmed without flight, meteorological, photographic, or [official records]({{ 'official-records-b5d75e/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 2007 GeorgetownGeorgetownAircraft-like lights stopped and reversed directionContested; urban observation with aircraft-like lights, no independent data in the entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=122373" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 2012 Georgetown photographGeorgetownBluish disc noticed after reviewing imagesWeak as a UFO case; post-event image discovery is especially vulnerable to lens artefacts, birds, insects, or distant aircraft unless original files are analysed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 2016 Canal Number One sky glowRegion 3, Essequibo Islands-West DemeraraViral “UFO” photographs of a glowing objectBetter treated as explained or probably ordinary; local reporting explicitly raised meteor, comet, image-source, and rocket-launch comparisons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://guyanatimesgy.com/meteor-sighting-in-canal-no-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guyanatimesgy.com">[Guyana Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guyanatimesgy.com</span><span class="citation-popover-title">meteor sighting in canal no 1</span><span class="citation-popover-snippet">meteor sighting in canal no 1</span></span></span>
 
 This split matters because it prevents two common mistakes. Believers sometimes treat every Guyana listing as a confirmed encounter, while sceptics sometimes dismiss local testimony because the country has no famous case. A better reading is narrower: Guyana has a small set of public claims, a few visually interesting local sky events, and little publicly available institutional follow-up.
 
@@ -1220,28 +1220,28 @@ This split matters because it prevents two common mistakes. Believers sometimes 
 
 The pattern of reports says as much about visibility as about the sky. Georgetown appears in NUFORC entries because it is Guyana’s capital and main urban centre, where more people are outdoors under artificial lighting, more aircraft-like objects are visible, and more witnesses have access to cameras and internet reporting. By contrast, the interior has darker skies and fewer obstructions, but also fewer observers, fewer roads, weaker communications in some areas, and fewer chances for immediate corroboration.
 
-Guyana’s official administrative structure also helps explain the reporting geography. The country has ten administrative regions, including Region 4 Demerara-Mahaica, which contains Georgetown, and Region 9 Upper Takutu-Upper Essequibo in the Rupununi interior. These regions differ sharply in population density, infrastructure, terrain, and aviation exposure, so a “Guyana UFO sighting” from the coast is not evidentially equivalent to one from a remote river or savannah setting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://factpage.glsc.gov.gy/admin-regions-detailed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factpage.glsc.gov.gy">[Fact Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factpage.glsc.gov.gy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Guyana’s official administrative structure also helps explain the reporting geography. The country has ten administrative regions, including Region 4 Demerara-Mahaica, which contains Georgetown, and Region 9 Upper Takutu-Upper Essequibo in the Rupununi interior. These regions differ sharply in population density, infrastructure, terrain, and aviation exposure, so a “Guyana UFO sighting” from the coast is not evidentially equivalent to one from a remote river or savannah setting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://factpage.glsc.gov.gy/admin-regions-detailed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factpage.glsc.gov.gy">[Fact Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factpage.glsc.gov.gy</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The aviation context is especially important in Guyana because aircraft serve remote communities, mining districts, tourism sites, and border-adjacent areas. The Guyana Civil Aviation Authority’s voluntary reporting circular says its system covers aircraft owners and operators, aviation personnel, and the general public, and it is designed to collect actual or potential safety-deficiency information outside the mandatory occurrence system. That is not a UFO programme, but it does show that unusual aviation-related observations have a safety route if they involve aircraft operations or hazards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gcaa-gy.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa-gy.org">[gcaa-gy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa-gy.org</span><span class="citation-popover-snippet">Open source on gcaa-gy.org.</span></span></span>
+The aviation context is especially important in Guyana because aircraft serve remote communities, mining districts, tourism sites, and border-adjacent areas. The Guyana Civil Aviation Authority’s voluntary reporting circular says its system covers aircraft owners and operators, aviation personnel, and the general public, and it is designed to collect actual or potential safety-deficiency information outside the mandatory occurrence system. That is not a UFO programme, but it does show that unusual aviation-related observations have a safety route if they involve aircraft operations or hazards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gcaa-gy.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa-gy.org">[gcaa-gy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa-gy.org</span><span class="citation-popover-snippet">Open source on gcaa-gy.org.</span></span></span>
 
 ## Official records: what exists, and what seems absent
 
 No strong public evidence surfaced of a dedicated Guyanese government UFO or UAP investigation office equivalent to France’s GEIPAN or the United States’ AARO. That absence should not be overread. It does not prove that unusual reports were never made to police, military, aviation, or local authorities; it means that a central, searchable, official Guyana UFO archive is not presently visible in the open public record.
 
-The closest relevant official channels are broader record and safety systems. The National Archives of Guyana says it preserves public records of historical or official value, including government records, newspapers, photographs, maps, plans, and other recorded information. That makes it a plausible place to verify older newspaper reports, colonial-era correspondence, civil-defence material, or official notices, but not proof that a UFO collection exists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Archives_of_Guyana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Archives of Guyana -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Archives of Guyana</span><span class="citation-popover-snippet">National Archives of Guyana</span></span></span>
+The closest relevant official channels are broader record and safety systems. The National Archives of Guyana says it preserves public records of historical or official value, including government records, newspapers, photographs, maps, plans, and other recorded information. That makes it a plausible place to verify older newspaper reports, colonial-era correspondence, civil-defence material, or official notices, but not proof that a UFO collection exists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Archives_of_Guyana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Archives of Guyana -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Archives of Guyana</span><span class="citation-popover-snippet">National Archives of Guyana</span></span></span>
 
-For aviation, the GCAA has accident and incident reporting routes, including a 24-hour safety hotline and email contact for aircraft accidents, while ICAO lists Guyana’s Aircraft Accident Investigation Unit under the Civil Aviation Authority. Again, this is not a UFO database. It is relevant because reports involving aircraft, airspace hazards, drones, near misses, or unidentified lights that affect flight safety are more likely to enter aviation systems than folklore or paranormal archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gcaa-gy.org/AAID.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa-gy.org">[gcaa-gy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa-gy.org</span><span class="citation-popover-snippet">Open source on gcaa-gy.org.</span></span></span>
+For aviation, the GCAA has accident and incident reporting routes, including a 24-hour safety hotline and email contact for aircraft accidents, while ICAO lists Guyana’s Aircraft Accident Investigation Unit under the Civil Aviation Authority. Again, this is not a UFO database. It is relevant because reports involving aircraft, airspace hazards, drones, near misses, or unidentified lights that affect flight safety are more likely to enter aviation systems than folklore or paranormal archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gcaa-gy.org/AAID.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gcaa-gy.org">[gcaa-gy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gcaa-gy.org</span><span class="citation-popover-snippet">Open source on gcaa-gy.org.</span></span></span>
 
 <img src="{{ "/assets/images/Guyana_bc88a2-Illustration-2-dark.svg" | relative_url }}" alt="What We Know About UFO Sightings in Guyana illustration 2" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested, and debunked: a Guyana evidence map
 
 A careful Guyana UFO page should use three categories.
 
-**Confirmed reports** are confirmed only in the limited sense that a report exists in a public source. NUFORC confirms that entries were filed and indexed under Guyana; Guyana Times confirms that a 2016 Canal Number One sighting became a local viral story. That is not the same as confirming an anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lWV" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Confirmed reports** are confirmed only in the limited sense that a report exists in a public source. NUFORC confirms that entries were filed and indexed under Guyana; Guyana Times confirms that a 2016 Canal Number One sighting became a local viral story. That is not the same as confirming an anomalous craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lWV" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Contested claims** include the New River story, the 2006 cigar-shaped object, the 2007 Georgetown reversal, and the 2012 photographic disc. These are worth preserving because they are part of the public UFO record for Guyana, but each lacks the kind of independent documentation needed for a stronger conclusion: original images with metadata, multiple named witnesses, radar or air-traffic data, weather data, astronomical checks, or contemporaneous local reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cGuyana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Guyana</span><span class="citation-popover-snippet">Reports for Country Guyana</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=23213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=26722" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested claims** include the New River story, the 2006 cigar-shaped object, the 2007 Georgetown reversal, and the 2012 photographic disc. These are worth preserving because they are part of the public UFO record for Guyana, but each lacks the kind of independent documentation needed for a stronger conclusion: original images with metadata, multiple named witnesses, radar or air-traffic data, weather data, astronomical checks, or contemporaneous local reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cGuyana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Guyana</span><span class="citation-popover-snippet">Reports for Country Guyana</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=23213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=26722" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Debunked or probably ordinary cases** are clearest where the report itself points towards ordinary sky phenomena. The 2016 Canal Number One story is the best example: the local article reported that observers and commenters proposed UFO, Photoshop, comet, and other explanations, while the article also compared the appearance with a Miami case that news agencies had attributed to an Atlas V rocket launch from Cape Canaveral. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guyanatimesgy.com/meteor-sighting-in-canal-no-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guyanatimesgy.com">[Guyana Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guyanatimesgy.com</span><span class="citation-popover-title">meteor sighting in canal no 1</span><span class="citation-popover-snippet">meteor sighting in canal no 1</span></span></span>
+**Debunked or probably ordinary cases** are clearest where the report itself points towards ordinary sky phenomena. The 2016 Canal Number One story is the best example: the local article reported that observers and commenters proposed UFO, Photoshop, comet, and other explanations, while the article also compared the appearance with a Miami case that news agencies had attributed to an Atlas V rocket launch from Cape Canaveral.<span class="citation-chip-wrap"><a class="citation-chip" href="https://guyanatimesgy.com/meteor-sighting-in-canal-no-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guyanatimesgy.com">[Guyana Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guyanatimesgy.com</span><span class="citation-popover-title">meteor sighting in canal no 1</span><span class="citation-popover-snippet">meteor sighting in canal no 1</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fXRnkVZ0L3Q" title="Watch Pentagon address questions about mystery drone sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fXRnkVZ0L3Q" target="_blank" rel="noopener noreferrer">Watch Pentagon address questions about mystery drone sightings</a></p><p class="youtube-embed-meta">Channel: Face the Nation &middot; Views: 91.9K &middot; Uploaded: December 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fXRnkVZ0L3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fXRnkVZ0L3Q">Open on YouTube</a></p></div></div></div>
 
@@ -1249,16 +1249,16 @@ A careful Guyana UFO page should use three categories.
 
 Many Guyana reports involve the same features that commonly generate UFO claims elsewhere: brief duration, lights at dusk or night, apparent stopping or reversal, fiery trails, or objects noticed only after reviewing photographs. None of these features automatically means the witness is wrong or dishonest. They do, however, widen the range of ordinary explanations: aircraft seen head-on, helicopters, drones, meteors, re-entering debris, lens reflections, insects near a camera, birds caught in motion blur, and rocket plumes visible at twilight.
 
-Modern rocket activity makes this more important, not less. Around the world, luminous spirals, jellyfish-like plumes, and expanding clouds have repeatedly been mistaken for UFOs when upper-stage fuel vents or rocket exhaust catch sunlight above a darkened observer. Recent reporting on Ariane 6 and SpaceX-related sky displays shows how launches far from the observer can still create spectacular, alien-looking effects over a wide area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Strange spiral in the night sky was a rocket fuel dump</span><span class="citation-popover-snippet">Earth Sky Strange spiral in the night sky was a rocket fuel dump</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/philadelphia/news/meteor-shower-lights-pennsylvania-ariane-6-rocket/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">meteor shower lights pennsylvania ariane 6 rocket</span><span class="citation-popover-snippet">meteor shower lights pennsylvania ariane 6 rocket</span></span></span>
+Modern rocket activity makes this more important, not less. Around the world, luminous spirals, jellyfish-like plumes, and expanding clouds have repeatedly been mistaken for UFOs when upper-stage fuel vents or rocket exhaust catch sunlight above a darkened observer. Recent reporting on Ariane 6 and SpaceX-related sky displays shows how launches far from the observer can still create spectacular, alien-looking effects over a wide area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Strange spiral in the night sky was a rocket fuel dump</span><span class="citation-popover-snippet">Earth Sky Strange spiral in the night sky was a rocket fuel dump</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/philadelphia/news/meteor-shower-lights-pennsylvania-ariane-6-rocket/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">meteor shower lights pennsylvania ariane 6 rocket</span><span class="citation-popover-snippet">meteor shower lights pennsylvania ariane 6 rocket</span></span></span>
 
 Guyana’s regional setting adds another reason for caution. It is not isolated from the wider Atlantic, Caribbean, and northern South American sky environment. Aircraft routes, satellite passes, meteor showers, re-entries, and launches from nearby or regional space infrastructure can all create sightings that look local from the ground. This is especially relevant for coastal Guyana, where low horizons and twilight conditions can make distant high-altitude events appear strange.
 
 <img src="{{ "/assets/images/Guyana_bc88a2-Illustration-3-dark.svg" | relative_url }}" alt="What We Know About UFO Sightings in Guyana illustration 3" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Guyana fits the wider UAP research problem
 
-Guyana’s thin public record mirrors a broader problem in UAP research: sightings are globally distributed, but reliable data are uneven. NASA’s 2023 UAP study framed the problem as a scientific data issue, focusing on what data exist, how future data should be collected, and how NASA’s tools might improve understanding. The Office of the Director of National Intelligence’s 2021 UAP assessment similarly treated UAP as a reporting and analysis challenge rather than a solved mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
+Guyana’s thin public record mirrors a broader problem in UAP research: sightings are globally distributed, but reliable data are uneven. NASA’s 2023 UAP study framed the problem as a scientific data issue, focusing on what data exist, how future data should be collected, and how NASA’s tools might improve understanding. The Office of the Director of National Intelligence’s 2021 UAP assessment similarly treated UAP as a reporting and analysis challenge rather than a solved mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
-The United States’ AARO describes its work as a rigorous, data-driven effort to address UAP and lists common explanatory questions such as reporting routes, leading explanations, and frequently reported objects or causes. That framework is useful for Guyana even though AARO is not a Guyanese body: the same evidential standards apply. A sighting becomes more valuable when it can be checked against time, location, direction, elevation, weather, known aircraft, satellites, launches, astronomical objects, and original media files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+The United States’ AARO describes its work as a rigorous, data-driven effort to address UAP and lists common explanatory questions such as reporting routes, leading explanations, and frequently reported objects or causes. That framework is useful for Guyana even though AARO is not a Guyanese body: the same evidential standards apply. A sighting becomes more valuable when it can be checked against time, location, direction, elevation, weather, known aircraft, satellites, launches, astronomical objects, and original media files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
 For sibling country pages in a wider root-country UFO project, Guyana is best linked as a low-volume, high-uncertainty case. It contrasts naturally with countries that have official UFO offices, large media flaps, military case files, or long-running civilian research groups. Its strongest contribution is not a headline incident but a demonstration of how sparse archives, remote geography, and imported reporting databases shape what later readers think a national UFO record contains.
 
@@ -1266,199 +1266,199 @@ For sibling country pages in a wider root-country UFO project, Guyana is best li
 
 ## What would change the assessment
 
-The assessment would become stronger if new material connected Guyana sightings to independent records. The most useful additions would be contemporaneous Guyanese newspaper reports, police or civil-defence logs, GCAA or air-traffic records, original photographs with metadata, named multi-witness interviews, meteorological data, or documented checks against satellites and rocket launches. For older cases, the National Archives’ newspaper and official-record holdings are the most plausible starting point; for aviation-related cases, GCAA safety and occurrence systems are more relevant than paranormal databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Archives_of_Guyana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Archives of Guyana -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Archives of Guyana</span><span class="citation-popover-snippet">National Archives of Guyana</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Archives_of_Guyana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Archives of Guyana -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Archives of Guyana</span><span class="citation-popover-snippet">National Archives of Guyana</span></span></span>
+The assessment would become stronger if new material connected Guyana sightings to independent records. The most useful additions would be contemporaneous Guyanese newspaper reports, police or civil-defence logs, GCAA or air-traffic records, original photographs with metadata, named multi-witness interviews, meteorological data, or documented checks against satellites and rocket launches. For older cases, the National Archives’ newspaper and official-record holdings are the most plausible starting point; for aviation-related cases, GCAA safety and occurrence systems are more relevant than paranormal databases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Archives_of_Guyana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Archives of Guyana -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Archives of Guyana</span><span class="citation-popover-snippet">National Archives of Guyana</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Archives_of_Guyana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[National Archives of Guyana -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Archives of Guyana</span><span class="citation-popover-snippet">National Archives of Guyana</span></span></span>
 
 Until that evidence appears, Guyana’s UFO record should be presented with restraint. The country has public UFO claims, including vivid interior and Georgetown reports, but no publicly demonstrated landmark case and no visible dedicated official UAP archive. The best reading is therefore balanced: Guyana belongs in a global UFO chronology, but its known public cases remain mostly unverified witness reports, with at least one locally prominent sky event better understood through ordinary astronomical or aerospace explanations.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What We Know About UFO Sightings in Guyana. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What We Know About UFO Sightings in Guyana. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides methods for assessing limited and uneven sighting data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides methods for assessing limited and uneven sighting data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains official approaches to UFO case review.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains official approaches to UFO case review.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Broadly applicable to evaluating Guyana&#x27;s sparse UFO record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broadly applicable to evaluating Guyana&#x27;s sparse UFO record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Addresses folklore, perception, and interpretation of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses folklore, perception, and interpretation of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-we-know-about-ufo-sightings-in-guyana-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-we-know-about-ufo-sightings-in-guyana-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1474,7 +1474,7 @@ Until that evidence appears, Guyana’s UFO record should be presented with rest
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1494,7 +1494,7 @@ Until that evidence appears, Guyana’s UFO record should be presented with rest
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1526,7 +1526,7 @@ Until that evidence appears, Guyana’s UFO record should be presented with rest
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1578,7 +1578,7 @@ Until that evidence appears, Guyana’s UFO record should be presented with rest
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1623,7 +1623,7 @@ Until that evidence appears, Guyana’s UFO record should be presented with rest
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1661,248 +1661,247 @@ Until that evidence appears, Guyana’s UFO record should be presented with rest
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Guyana  
-   Link: <a href="https://nuforc.org/subndx/?id=cGuyana" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cGuyana</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cGuyana" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cGuyana</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gcaa-gy.org  
-   Link: <a href="https://www.gcaa-gy.org/pdf/AC023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa-gy.org/pdf/AC023.pdf</a>  
+   Link:<a href="https://www.gcaa-gy.org/pdf/AC023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa-gy.org/pdf/AC023.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gcaa-gy.org  
-   Link: <a href="https://www.gcaa-gy.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa-gy.org/</a>  
+   Link:<a href="https://www.gcaa-gy.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa-gy.org/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=23213" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=23213</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=23213" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=23213</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=26722" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=26722</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=26722" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=26722</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=49411" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=49411</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=49411" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=49411</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=55426" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=55426</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=55426" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=55426</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=92289" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=92289</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=92289" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=92289</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=61057" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61057</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=61057" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61057</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gcaa-gy.org  
-   Link: <a href="https://www.gcaa-gy.org/AAID.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa-gy.org/AAID.html</a>  
+   Link:<a href="https://www.gcaa-gy.org/AAID.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gcaa-gy.org/AAID.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/safety/AIG/AIA</a>  
+   Link:<a href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/safety/AIG/AIA</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: earthsky.org  
    Title: Earth Sky Strange spiral in the night sky was a rocket fuel dump  
-   Link: <a href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/</a>  
+   Link:<a href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=122373" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=122373</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=122373" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=122373</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=lWV" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lWV</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=lWV" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lWV</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.mil  
    Title: 2025 UAP Workshop Paper  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/safety/GASP/GASP%20Library/National%20aviation%20safety%20plans/Guyana-NASP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/safety/GASP/GASP%20Library/National%20aviation%20safety%20plans/Guyana-NASP.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/safety/GASP/GASP%20Library/National%20aviation%20safety%20plans/Guyana-NASP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/safety/GASP/GASP%20Library/National%20aviation%20safety%20plans/Guyana-NASP.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/sp-files/publications/journalsreports/2019/2019_OACI_ICAO_States_today.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/publications/journalsreports/2019/2019_OACI_ICAO_States_today.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/sp-files/publications/journalsreports/2019/2019_OACI_ICAO_States_today.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/sp-files/publications/journalsreports/2019/2019_OACI_ICAO_States_today.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051</a>  
+   Link:<a href="https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: devon-cornwall.police.uk  
    Title: ufo sightings  
-   Link: <a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2025-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2025-disclosures/ufo-sightings/</a>  
+   Link:<a href="https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2025-disclosures/ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon-cornwall.police.uk/foi-ai/devon--cornwall-police/disclosure-logs/2025-disclosures/ufo-sightings/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
+   Link:<a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: guyanatimesgy.com  
    Title: meteor sighting in canal no 1  
-   Link: <a href="https://guyanatimesgy.com/meteor-sighting-in-canal-no-1/" target="_blank" rel="noopener noreferrer nofollow">https://guyanatimesgy.com/meteor-sighting-in-canal-no-1/</a>  
+   Link:<a href="https://guyanatimesgy.com/meteor-sighting-in-canal-no-1/" target="_blank" rel="noopener noreferrer nofollow">https://guyanatimesgy.com/meteor-sighting-in-canal-no-1/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: factpage.glsc.gov.gy  
-   Link: <a href="https://factpage.glsc.gov.gy/admin-regions-detailed/" target="_blank" rel="noopener noreferrer nofollow">https://factpage.glsc.gov.gy/admin-regions-detailed/</a>  
+   Link:<a href="https://factpage.glsc.gov.gy/admin-regions-detailed/" target="_blank" rel="noopener noreferrer nofollow">https://factpage.glsc.gov.gy/admin-regions-detailed/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nationalarchives.gov.gy  
    Title: National Archives of Guyana -National Archives of Guyana: Home  
-   Link: <a href="https://nationalarchives.gov.gy/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.gov.gy/</a>  
+   Link:<a href="https://nationalarchives.gov.gy/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.gov.gy/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nationalarchives.gov.gy  
-   Link: <a href="https://nationalarchives.gov.gy/about/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.gov.gy/about/</a>  
+   Link:<a href="https://nationalarchives.gov.gy/about/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.gov.gy/about/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cbsnews.com  
    Title: meteor shower lights pennsylvania ariane 6 rocket  
-   Link: <a href="https://www.cbsnews.com/philadelphia/news/meteor-shower-lights-pennsylvania-ariane-6-rocket/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/philadelphia/news/meteor-shower-lights-pennsylvania-ariane-6-rocket/</a>  
+   Link:<a href="https://www.cbsnews.com/philadelphia/news/meteor-shower-lights-pennsylvania-ariane-6-rocket/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/philadelphia/news/meteor-shower-lights-pennsylvania-ariane-6-rocket/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: nationalarchives.gov.gy  
    Title: newspaper records  
-   Link: <a href="https://nationalarchives.gov.gy/newspaper-records/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.gov.gy/newspaper-records/</a>  
+   Link:<a href="https://nationalarchives.gov.gy/newspaper-records/" target="_blank" rel="noopener noreferrer nofollow">https://nationalarchives.gov.gy/newspaper-records/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: history.state.gov  
-   Link: <a href="https://history.state.gov/countries/archives/guyana" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/countries/archives/guyana</a>  
+   Link:<a href="https://history.state.gov/countries/archives/guyana" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/countries/archives/guyana</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: guyanatimesgy.com  
    Title: image sitemap 2.xml  
-   Link: <a href="https://guyanatimesgy.com/image-sitemap-2.xml" target="_blank" rel="noopener noreferrer nofollow">https://guyanatimesgy.com/image-sitemap-2.xml</a>  
+   Link:<a href="https://guyanatimesgy.com/image-sitemap-2.xml" target="_blank" rel="noopener noreferrer nofollow">https://guyanatimesgy.com/image-sitemap-2.xml</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: National Archives of Guyana  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Archives_of_Guyana" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_of_Guyana</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Archives_of_Guyana" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Archives_of_Guyana</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Guyana" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guyana</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Guyana" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Guyana</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/guyana" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/guyana</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/geography-and-cartography/guyana" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/guyana</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
+   Link:<a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: uaparchive.com  
-   Link: <a href="https://uaparchive.com/documents.html" target="_blank" rel="noopener noreferrer nofollow">https://uaparchive.com/documents.html</a>  
+   Link:<a href="https://uaparchive.com/documents.html" target="_blank" rel="noopener noreferrer nofollow">https://uaparchive.com/documents.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: geofactbook.com  
-   Link: <a href="https://geofactbook.com/countries/guyana" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/guyana</a>  
+   Link:<a href="https://geofactbook.com/countries/guyana" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/guyana</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
 ### Additional References
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TWVSgomDPr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TWVSgomDPr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TWVSgomDPr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TWVSgomDPr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: All the videos from Pentagon's first batch of UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World-changing confession: Doctor describes studying live alien | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World-changing confession: Doctor describes studying live alien | Reality Check...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: noaa.gov  
-   Link: <a href="https://www.noaa.gov/information-technology/foia-reading-room/unidentified-anomalous-phenomena-uap-and-aaro-records" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/information-technology/foia-reading-room/unidentified-anomalous-phenomena-uap-and-aaro-records</a>  
+   Link:<a href="https://www.noaa.gov/information-technology/foia-reading-room/unidentified-anomalous-phenomena-uap-and-aaro-records" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/information-technology/foia-reading-room/unidentified-anomalous-phenomena-uap-and-aaro-records</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: Video shows UAP surviving missile hit  
-   Link: <a href="https://www.youtube.com/watch?v=OL6H0fODiMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OL6H0fODiMU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructing the 1971 Costa Rica UFO in &quot;Blender&quot; - maybe there IS something to it...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OL6H0fODiMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OL6H0fODiMU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructing the 1971 Costa Rica UFO in &quot;Blender&quot; - maybe there IS something to it...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/video/2021/mar/26/what-is-that-spacex-rocket-debris-causes-strange-lights-in-night-sky-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/video/2021/mar/26/what-is-that-spacex-rocket-debris-causes-strange-lights-in-night-sky-video</a>  
+   Link:<a href="https://www.theguardian.com/science/video/2021/mar/26/what-is-that-spacex-rocket-debris-causes-strange-lights-in-night-sky-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/video/2021/mar/26/what-is-that-spacex-rocket-debris-causes-strange-lights-in-night-sky-video</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>

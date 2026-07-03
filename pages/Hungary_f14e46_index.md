@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hungary-f14e46-index/
 description: Focused pages that expand on What Do Hungary's UFO Stories Really Show?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Hungary_f14e46
 parent_title: What Do Hungary's UFO Stories Really Show?
@@ -16,7 +16,7 @@ parent_permalink: /what-do-hungarys-ufo-stories-really-show/
 
 # Explore Topics in What Do Hungary's UFO Stories Really Show?
 
-The following pages expand on the main **[What Do Hungary's UFO Stories Really Show?]({{ '/what-do-hungarys-ufo-stories-really-show/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Do Hungary's UFO Stories Really Show?]({{ '/what-do-hungarys-ufo-stories-really-show/' | relative_url }})** page and cover its key branches in.
 
 - [Sighting Map]({{ '/sighting-map/' | relative_url }})
 - [Air Force]({{ '/air-force/' | relative_url }})

@@ -255,7 +255,7 @@ Unlike many dramatic UFO stories, the Kabwe report is brief, contains only one w
 
 ## What the Kabwe witness reported
 
-The report entered the National UFO Reporting Center archive as a “Fireball” sighting from Kabwe, Zambia, on 5 May 2012. According to the witness, the object was first noticed at around 20:00 local time. It appeared roughly star-like but was described as red and flickering. The observer estimated it was about five kilometres away and stated that it remained visible for several minutes before suddenly moving away at great speed and disappearing within a couple of seconds. The reported duration was four minutes, with one witness recorded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-88809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-title">Sentient Orbs Fireball type object seen over Zambia last night</span><span class="citation-popover-snippet">Sentient OrbsMay 5, 2012 — May 5, 2012, 8:00 PM. LOCATION. Kabwe (Zambia),, Zambia. CATEGORY. UAP. DURATION. 00:04:00. NUFORC FIELDS. Op...</span><span class="citation-popover-meta">Published: May 5, 2012</span></span></span>
+The report entered the National UFO Reporting Center archive as a “Fireball” sighting from Kabwe, Zambia, on 5 May 2012. According to the witness, the object was first noticed at around 20:00 local time. It appeared roughly star-like but was described as red and flickering. The observer estimated it was about five kilometres away and stated that it remained visible for several minutes before suddenly moving away at great speed and disappearing within a couple of seconds. The reported duration was four minutes, with one witness recorded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-88809" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-title">Sentient Orbs Fireball type object seen over Zambia last night</span><span class="citation-popover-snippet">Sentient OrbsMay 5, 2012 — May 5, 2012, 8:00 PM. LOCATION. Kabwe (Zambia),, Zambia. CATEGORY. UAP. DURATION. 00:04:00. NUFORC FIELDS. Op...</span><span class="citation-popover-meta">Published: May 5, 2012</span></span></span>
 
 Several details immediately stand out:
 
@@ -274,9 +274,9 @@ Those features make the report unusual if interpreted literally as a meteor. The
 
 The strongest argument against a straightforward meteor explanation is duration.
 
-Astronomical organisations that collect fireball reports consistently note that meteors are brief events. The International Meteor Organization explains that most fireballs remain visible only for a few seconds and that even unusually large examples rarely last more than five to ten seconds. Objects visible for longer than about ten seconds are more likely to be satellites or aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.international.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.com">[international]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.com</span><span class="citation-popover-snippet">ional durability and pioneering innovation to reduce costs and grow your...</span></span></span>
+Astronomical organisations that collect fireball reports consistently note that meteors are brief events. The International Meteor Organization explains that most fireballs remain visible only for a few seconds and that even unusually large examples rarely last more than five to ten seconds. Objects visible for longer than about ten seconds are more likely to be satellites or aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.international.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.com">[international]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.com</span><span class="citation-popover-snippet">ional durability and pioneering innovation to reduce costs and grow your...</span></span></span>
 
-The American Meteor Society gives similar guidance, noting that bright meteors can leave glowing ionisation trails behind them, but the meteor itself normally crosses the sky in seconds. Persistent trains can linger much longer and may slowly change shape in upper-atmospheric winds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
+The American Meteor Society gives similar guidance, noting that bright meteors can leave glowing ionisation trails behind them, but the meteor itself normally crosses the sky in seconds. Persistent trains can linger much longer and may slowly change shape in upper-atmospheric winds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
 
 This creates a puzzle:
 
@@ -288,7 +288,7 @@ This creates a puzzle:
 
 </div>
 
-Human observers often overestimate the length of unusual events, especially when they are emotionally striking. A fireball visible for six or seven seconds can feel much longer than it really was. Modern well-documented meteor events that were recorded by cameras across Europe have generally remained visible for only a few seconds despite appearing spectacular to thousands of witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyESA analysing fireball over Europe on 8 March 2026The fireball glowed for approximately six seconds, leaving a visib...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sunday-mornings-european-fireball-was-probably-only-a-few-meters-in-diameter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-snippet">Sunday Morning&#x27;s European Fireball Was Probably Only a...4 days ago — Multiple mobile phones, dashcams, and dedicated meteor cameras cap...</span></span></span>
+Human observers often overestimate the length of unusual events, especially when they are emotionally striking. A fireball visible for six or seven seconds can feel much longer than it really was. Modern well-documented meteor events that were recorded by cameras across Europe have generally remained visible for only a few seconds despite appearing spectacular to thousands of witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyESA analysing fireball over Europe on 8 March 2026The fireball glowed for approximately six seconds, leaving a visib...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sunday-mornings-european-fireball-was-probably-only-a-few-meters-in-diameter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-snippet">Sunday Morning&#x27;s European Fireball Was Probably Only a...4 days ago — Multiple mobile phones, dashcams, and dedicated meteor cameras cap...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuDfZ2Md5x8" title="Meteors: Crash Course Astronomy #23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuDfZ2Md5x8" target="_blank" rel="noopener noreferrer">Meteors: Crash Course Astronomy #23</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 1.1M &middot; Uploaded: July 2015 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuDfZ2Md5x8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuDfZ2Md5x8">Open on YouTube</a></p></div></div></div>
 
@@ -296,7 +296,7 @@ Human observers often overestimate the length of unusual events, especially when
 
 One of the more plausible natural explanations is that the witness combined two related observations into a single memory.
 
-A bright meteor can create a glowing trail of ionised air known as a persistent train. The meteor itself vanishes quickly, but the train can remain visible for much longer. According to the American Meteor Society, such trains occasionally persist for several minutes and can slowly distort as high-altitude winds move them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/fireball-or-contrail/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">ireballs only last few seconds. Contrails...Read more...</span></span></span>
+A bright meteor can create a glowing trail of ionised air known as a persistent train. The meteor itself vanishes quickly, but the train can remain visible for much longer. According to the American Meteor Society, such trains occasionally persist for several minutes and can slowly distort as high-altitude winds move them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/fireball-or-contrail/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">ireballs only last few seconds. Contrails...Read more...</span></span></span>
 
 That possibility matches some parts of the Kabwe description:
 
@@ -316,7 +316,7 @@ However, the witness specifically described the object itself “taking off” a
 
 A slowly moving satellite is another candidate.
 
-Many satellites become visible shortly after sunset because they remain illuminated by sunlight while the ground is already dark. Some can appear nearly stationary when moving toward or away from the observer's line of sight. Others brighten dramatically because of reflective surfaces and then fade rapidly. Astronomical observing guides regularly note that satellites can be mistaken for unusual aerial phenomena, particularly when witnesses are unfamiliar with their behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewatch.lpl.arizona.edu">[SPACEWATCH®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewatch.lpl.arizona.edu</span><span class="citation-popover-title">SPACEWATCH®I saw something moving across the sky last night!</span><span class="citation-popover-snippet">What was it?Most likely, what you saw was a fireball, or a very bright meteor (shooting star). Usually, fireballs streak across the sky i...</span></span></span>
+Many satellites become visible shortly after sunset because they remain illuminated by sunlight while the ground is already dark. Some can appear nearly stationary when moving toward or away from the observer's line of sight. Others brighten dramatically because of reflective surfaces and then fade rapidly. Astronomical observing guides regularly note that satellites can be mistaken for unusual aerial phenomena, particularly when witnesses are unfamiliar with their behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewatch.lpl.arizona.edu">[SPACEWATCH®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewatch.lpl.arizona.edu</span><span class="citation-popover-title">SPACEWATCH®I saw something moving across the sky last night!</span><span class="citation-popover-snippet">What was it?Most likely, what you saw was a fireball, or a very bright meteor (shooting star). Usually, fireballs streak across the sky i...</span></span></span>
 
 The Kabwe report contains several elements consistent with a satellite misidentification:
 
@@ -355,7 +355,7 @@ The weakness of the aircraft explanation is that the witness apparently found th
 
 The most overlooked factor in the Kabwe case may be timing accuracy.
 
-Meteor researchers place great importance on precise time estimates because eyewitness memory often compresses or stretches unusual events. The International Meteor Organization specifically advises witnesses to record the time immediately after an event because memories degrade rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.international.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.com">[international]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.com</span><span class="citation-popover-snippet">ional durability and pioneering innovation to reduce costs and grow your...</span></span></span>
+Meteor researchers place great importance on precise time estimates because eyewitness memory often compresses or stretches unusual events. The International Meteor Organization specifically advises witnesses to record the time immediately after an event because memories degrade rapidly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.international.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.com">[international]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.com</span><span class="citation-popover-snippet">ional durability and pioneering innovation to reduce costs and grow your...</span></span></span>
 
 Consider how different interpretations emerge from small timing errors:
 
@@ -380,7 +380,7 @@ Several factors keep it unresolved:
 
 </div>
 
-Among those natural explanations, a satellite or distant aircraft generally fits the reported duration better than a true fireball. A meteor accompanied by a lingering train remains possible if the witness merged separate visual stages of the event into one memory. A straightforward meteor crossing lasting four full minutes is the least likely interpretation according to established meteor observation guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.international.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.com">[international]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.com</span><span class="citation-popover-snippet">ional durability and pioneering innovation to reduce costs and grow your...</span></span></span>
+Among those natural explanations, a satellite or distant aircraft generally fits the reported duration better than a true fireball. A meteor accompanied by a lingering train remains possible if the witness merged separate visual stages of the event into one memory. A straightforward meteor crossing lasting four full minutes is the least likely interpretation according to established meteor observation guidance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.international.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: international.com">[international]</a><span class="citation-popover" role="note"><span class="citation-popover-source">international.com</span><span class="citation-popover-snippet">ional durability and pioneering innovation to reduce costs and grow your...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B75xmeeKH0c" title="Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer">Meteoroids, Meteorites, Fireballs - What&#x27;s the Difference?</a></p><p class="youtube-embed-meta">Channel: NASA&#x27;s Marshall Space Flight Center &middot; Views: 4.3K &middot; Uploaded: March 2014 &middot; Length: 4 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B75xmeeKH0c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B75xmeeKH0c">Open on YouTube</a></p></div></div></div>
 
@@ -393,194 +393,194 @@ Many UFO discussions begin with a label such as “fireball”, “orb”, or �
 Within Zambia’s limited public UFO archive, Kabwe stands as the clearest example of a report that sounds unusual at first reading but becomes more complicated once basic astronomical explanations are examined. The event remains unidentified in the narrow sense that no definitive cause was established. Yet the available evidence points more strongly toward a misunderstood natural or human-made sky object than toward anything demonstrably exotic.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Kabwe&#x27;s Fireball Really a Meteor?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Kabwe&#x27;s Fireball Really a Meteor?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Helps readers understand how unusual aerial reports are interpreted, compared, and classified across cultures and time periods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how unusual aerial reports are interpreted, compared, and classified across cultures and time periods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating witness reports and distinguishing categories of aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating witness reports and distinguishing categories of aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines credible reports while emphasizing evidence standards and investigative limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines credible reports while emphasizing evidence standards and investigative limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explores case analysis methods relevant to unresolved sightings such as the Kabwe report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores case analysis methods relevant to unresolved sightings such as the Kabwe report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-kabwe-s-fireball-really-a-meteor-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-kabwe-s-fireball-really-a-meteor-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ Within Zambia’s limited public UFO archive, Kabwe stands as the clearest examp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ Within Zambia’s limited public UFO archive, Kabwe stands as the clearest examp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ Within Zambia’s limited public UFO archive, Kabwe stands as the clearest examp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -700,7 +700,7 @@ Within Zambia’s limited public UFO archive, Kabwe stands as the clearest examp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -745,7 +745,7 @@ Within Zambia’s limited public UFO archive, Kabwe stands as the clearest examp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,118 +783,117 @@ Within Zambia’s limited public UFO archive, Kabwe stands as the clearest examp
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
+   Link:<a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-or-contrail/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-or-contrail/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ireballs only last few seconds. Contrails...Read more...</p></details>
+   Link:<a href="https://www.amsmeteors.org/fireballs/fireball-or-contrail/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-or-contrail/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ireballs only last few seconds. Contrails...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: international.com  
-   Link: <a href="https://www.international.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.international.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ional durability and pioneering innovation to reduce costs and grow your...</p></details>
+   Link:<a href="https://www.international.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.international.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ional durability and pioneering innovation to reduce costs and grow your...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sentientorbs.com  
    Title: Sentient Orbs Fireball type object seen over Zambia last night  
-   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-88809" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-88809</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsMay 5, 2012 — May 5, 2012, 8:00 PM. LOCATION. Kabwe (Zambia),, Zambia. CATEGORY. UAP. DURATION. 00:04:00. NUFORC FIELDS. Op...</p></details>
+   Link:<a href="https://sentientorbs.com/explore/sightings/NUFORC-88809" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-88809</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsMay 5, 2012 — May 5, 2012, 8:00 PM. LOCATION. Kabwe (Zambia),, Zambia. CATEGORY. UAP. DURATION. 00:04:00. NUFORC FIELDS. Op...</p></details>
    Published: May 5, 2012  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Meteor OrganizationFireballsRarely a very large fireball will last 5-10 seconds before it is extinguished. If your object l...</p></details>
+   Link:<a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Meteor OrganizationFireballsRarely a very large fireball will last 5-10 seconds before it is extinguished. If your object l...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA analysing fireball over Europe on 8 March 2026The fireball glowed for approximately six seconds, leaving a visib...</p></details>
+   Link:<a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA analysing fireball over Europe on 8 March 2026The fireball glowed for approximately six seconds, leaving a visib...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: universetoday.com  
-   Link: <a href="https://www.universetoday.com/articles/sunday-mornings-european-fireball-was-probably-only-a-few-meters-in-diameter" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/sunday-mornings-european-fireball-was-probably-only-a-few-meters-in-diameter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunday Morning&#x27;s European Fireball Was Probably Only a...4 days ago — Multiple mobile phones, dashcams, and dedicated meteor cameras cap...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/sunday-mornings-european-fireball-was-probably-only-a-few-meters-in-diameter" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/sunday-mornings-european-fireball-was-probably-only-a-few-meters-in-diameter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sunday Morning&#x27;s European Fireball Was Probably Only a...4 days ago — Multiple mobile phones, dashcams, and dedicated meteor cameras cap...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spacewatch.lpl.arizona.edu  
    Title: SPACEWATCH®I saw something moving across the sky last night!  
-   Link: <a href="https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it" target="_blank" rel="noopener noreferrer nofollow">https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What was it?Most likely, what you saw was a fireball, or a very bright meteor (shooting star). Usually, fireballs streak across the sky i...</p></details>
+   Link:<a href="https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it" target="_blank" rel="noopener noreferrer nofollow">https://spacewatch.lpl.arizona.edu/faq/i-saw-something-moving-across-sky-last-night-what-was-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What was it?Most likely, what you saw was a fireball, or a very bright meteor (shooting star). Usually, fireballs streak across the sky i...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/observations/fireballs/observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/observations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Meteor OrganizationObservations of Fireballs | IMOImmediately after the fireball&#x27;s appearance you should look at your watch...</p></details>
+   Link:<a href="https://www.imo.net/observations/fireballs/observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/observations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Meteor OrganizationObservations of Fireballs | IMOImmediately after the fireball&#x27;s appearance you should look at your watch...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: neo.ssa.esa.int  
    Title: int Fireballs  
-   Link: <a href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/search-for-fireballs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEOCC - European Space AgencyFireballs and bright meteors are small-sized NEOs, typically centimetres to metres in diameter, that c...</p></details>
+   Link:<a href="https://neo.ssa.esa.int/search-for-fireballs" target="_blank" rel="noopener noreferrer nofollow">https://neo.ssa.esa.int/search-for-fireballs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEOCC - European Space AgencyFireballs and bright meteors are small-sized NEOs, typically centimetres to metres in diameter, that c...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorA meteor, known colloquially as a shooting star, is a glowing streak of a small body (usually meteoroid) going through Earth&#x27;s a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorA meteor, known colloquially as a shooting star, is a glowing streak of a small body (usually meteoroid) going through Earth&#x27;s a...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: livescience.com  
-   Link: <a href="https://www.livescience.com/space/meteoroids/falling-meteorite-smashes-hole-in-roof-of-german-house-after-spectacular-fireball-explosion-over-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/falling-meteorite-smashes-hole-in-roof-of-german-house-after-spectacular-fireball-explosion-over-europe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falling meteorite smashes hole in roof of German house...4 days ago — A German town has been peppered by meteorites after a stunning &quot;fi...</p></details>
+   Link:<a href="https://www.livescience.com/space/meteoroids/falling-meteorite-smashes-hole-in-roof-of-german-house-after-spectacular-fireball-explosion-over-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/falling-meteorite-smashes-hole-in-roof-of-german-house-after-spectacular-fireball-explosion-over-europe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falling meteorite smashes hole in roof of German house...4 days ago — A German town has been peppered by meteorites after a stunning &quot;fi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: imo.net  
-   Link: <a href="https://www.imo.net/resources/faq/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/resources/faq/</a>  
+   Link:<a href="https://www.imo.net/resources/faq/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/resources/faq/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vice.com  
-   Link: <a href="https://www.vice.com/en/article/a-fireball-meteorite-smashed-into-someones-bedroom-in-germany/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/a-fireball-meteorite-smashed-into-someones-bedroom-in-germany/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>seconds before breaking apart, and footage from the AllSky7 fireball network...Read more...</p></details>
+   Link:<a href="https://www.vice.com/en/article/a-fireball-meteorite-smashed-into-someones-bedroom-in-germany/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/a-fireball-meteorite-smashed-into-someones-bedroom-in-germany/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seconds before breaking apart, and footage from the AllSky7 fireball network...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: popsci.com  
-   Link: <a href="https://www.popsci.com/science/meteor-hits-house-europe/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/meteor-hits-house-europe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t lit up the early evening sky across at least five countries on March...Read more...</p></details>
+   Link:<a href="https://www.popsci.com/science/meteor-hits-house-europe/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/meteor-hits-house-europe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t lit up the early evening sky across at least five countries on March...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hackaday.com  
-   Link: <a href="https://hackaday.com/2026/03/11/german-fireballs-15-minutes-of-fame/" target="_blank" rel="noopener noreferrer nofollow">https://hackaday.com/2026/03/11/german-fireballs-15-minutes-of-fame/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>erman sky, exploded, and rained chunks of space rock...Read more...</p></details>
+   Link:<a href="https://hackaday.com/2026/03/11/german-fireballs-15-minutes-of-fame/" target="_blank" rel="noopener noreferrer nofollow">https://hackaday.com/2026/03/11/german-fireballs-15-minutes-of-fame/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>erman sky, exploded, and rained chunks of space rock...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/weekendtraveler195/posts/-brilliant-fireball-explodes-over-european-skies-%EF%B8%8Fa-massive-fireball-meteor-lit-/860370803698847/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/weekendtraveler195/posts/-brilliant-fireball-explodes-over-european-skies-%EF%B8%8Fa-massive-fireball-meteor-lit-/860370803698847/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>said it received 61 reports of the fireball across...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/weekendtraveler195/posts/-brilliant-fireball-explodes-over-european-skies-%EF%B8%8Fa-massive-fireball-meteor-lit-/860370803698847/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/weekendtraveler195/posts/-brilliant-fireball-explodes-over-european-skies-%EF%B8%8Fa-massive-fireball-meteor-lit-/860370803698847/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>said it received 61 reports of the fireball across...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ares.jsc.nasa.gov  
    Title: how to find meteorites  
-   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/how-to-find-meteorites/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/how-to-find-meteorites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Find MeteoritesIn most meteorite falls, the first meteorites show up on radar 90 seconds to 2 minutes after the fireball terminus, and...</p></details>
+   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/how-to-find-meteorites/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/how-to-find-meteorites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Find MeteoritesIn most meteorite falls, the first meteorites show up on radar 90 seconds to 2 minutes after the fireball terminus, and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: popastro.com  
    Title: Detailed Fireball Reporting Guide  
-   Link: <a href="https://www.popastro.com/meteor/detailed-fireball-reporting-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/detailed-fireball-reporting-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor SectionVery few fireballs last more than 5 or 10 seconds, and only man-made re-entry fireballs are likely to last for several tens...</p></details>
+   Link:<a href="https://www.popastro.com/meteor/detailed-fireball-reporting-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/meteor/detailed-fireball-reporting-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor SectionVery few fireballs last more than 5 or 10 seconds, and only man-made re-entry fireballs are likely to last for several tens...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Comet? Fireball? UFO? What was that light flying above Utah skies last night?  
-   Link: <a href="https://www.youtube.com/watch?v=sZ_Pecy07pc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sZ_Pecy07pc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sZ_Pecy07pc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sZ_Pecy07pc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Meteors: Crash Course Astronomy #23  
-   Link: <a href="https://www.youtube.com/watch?v=TuDfZ2Md5x8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuDfZ2Md5x8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comet? Fireball? UFO? What was that light flying above Utah skies last night?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TuDfZ2Md5x8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuDfZ2Md5x8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comet? Fireball? UFO? What was that light flying above Utah skies last night?...</p></details>

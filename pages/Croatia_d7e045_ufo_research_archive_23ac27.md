@@ -248,18 +248,18 @@ image: /assets/images/Croatia_d7e045_ufo_research_archive_23ac27-Illustration-1-
 
 ## Introduction
 
-Croatia has never developed a large, state-backed UFO investigation office, but a small network of private researchers, enthusiasts, archivists, aviation historians, and media collectors has played an outsized role in preserving the country’s unidentified-object record. Much of what survives about Croatian UFO incidents exists because volunteer groups gathered newspaper clippings, copied pilot testimony, archived television reports, or translated material from the Yugoslav period before records disappeared into fragmented post-Cold War archives. The best-known organisation in this space is DUAP Polaris, a long-running Croatian UFO association that has attempted to document regional sightings, preserve aviation-linked reports, and connect Croatian cases to wider European UFO research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">101 nickpope</span><span class="citation-popover-snippet">Nick Pope (2017.)Nick Pope used to run the British Government&#x27;s UFO project. From 1991 to 1994 he researched and investigated UFOs, alien...</span></span></span>
+Croatia has never developed a large, state-backed UFO investigation office, but a small network of private researchers, enthusiasts, archivists, aviation historians, and media collectors has played an outsized role in preserving the country’s unidentified-object record. Much of what survives about Croatian UFO incidents exists because volunteer groups gathered newspaper clippings, copied pilot testimony, archived television reports, or translated material from the Yugoslav period before records disappeared into fragmented post-Cold War archives. The best-known organisation in this space is DUAP Polaris, a long-running Croatian UFO association that has attempted to document regional sightings, preserve aviation-linked reports, and connect Croatian cases to wider European UFO research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">101 nickpope</span><span class="citation-popover-snippet">Nick Pope (2017.)Nick Pope used to run the British Government&#x27;s UFO project. From 1991 to 1994 he researched and investigated UFOs, alien...</span></span></span>
 
 <img src="{{ "/assets/images/Croatia_d7e045_ufo_research_archive_23ac27-Illustration-1-dark.svg" | relative_url }}" alt="Research Groups illustration 1" data-theme-src-dark="{{ "/assets/images/Croatia_d7e045_ufo_research_archive_23ac27-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Croatia_d7e045_ufo_research_archive_23ac27-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 These groups matter less because they “prove” extraordinary claims and more because they preserve evidence that would otherwise vanish. Croatia’s UFO record is scattered across local newspapers, private collections, radio broadcasts, military memories, and online forums rather than centralised government databases. That fragmentation has shaped both the strengths and weaknesses of Croatian UFO research: some older cases survive in remarkable detail, while many modern sightings remain impossible to verify because the original records were never systematically archived.
 
 ## DUAP Polaris and the attempt to build a Croatian UFO archive
 
-DUAP Polaris emerged as the most visible Croatian UFO research group during the post-Yugoslav period. Its website became a central repository for translated interviews, historical case summaries, witness accounts, foreign UFO research, and archived regional incidents. The group’s role has been partly investigative and partly preservational: collecting material from newspapers, aviation witnesses, and older Yugoslav-era ufology before it disappeared from public circulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">101 nickpope</span><span class="citation-popover-snippet">Nick Pope (2017.)Nick Pope used to run the British Government&#x27;s UFO project. From 1991 to 1994 he researched and investigated UFOs, alien...</span></span></span>
+DUAP Polaris emerged as the most visible Croatian UFO research group during the post-Yugoslav period. Its website became a central repository for translated interviews, historical case summaries, witness accounts, foreign UFO research, and archived regional incidents. The group’s role has been partly investigative and partly preservational: collecting material from newspapers, aviation witnesses, and older Yugoslav-era ufology before it disappeared from public circulation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">101 nickpope</span><span class="citation-popover-snippet">Nick Pope (2017.)Nick Pope used to run the British Government&#x27;s UFO project. From 1991 to 1994 he researched and investigated UFOs, alien...</span></span></span>
 
-One of the organisation’s recurring themes has been the preservation of aviation-linked cases connected to Croatian airspace. DUAP Polaris has repeatedly revisited the 1976 Pan Adria incident, one of the strongest UFO cases associated with the former Yugoslavia and the Adriatic region. Copies of pilot statements, radar references, and later commentary circulated through the group’s archive long after mainstream media interest faded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1k3y9cw/pan_adria_pilots_written_report_about_1976_pan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">pan adria pilots written report about 1976 pan</span><span class="citation-popover-snippet">Pan Adria pilots written report about 1976 Pan Adria UFO...Report can be seen at Croatian ufologist group DUAP Polaris... r/UFOs...</span></span></span>
+One of the organisation’s recurring themes has been the preservation of aviation-linked cases connected to Croatian airspace. DUAP Polaris has repeatedly revisited the 1976 Pan Adria incident, one of the strongest UFO cases associated with the former Yugoslavia and the Adriatic region. Copies of pilot statements, radar references, and later commentary circulated through the group’s archive long after mainstream media interest faded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1k3y9cw/pan_adria_pilots_written_report_about_1976_pan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">pan adria pilots written report about 1976 pan</span><span class="citation-popover-snippet">Pan Adria pilots written report about 1976 Pan Adria UFO...Report can be seen at Croatian ufologist group DUAP Polaris... r/UFOs...</span></span></span>
 
-The organisation also functioned as a translation bridge between Croatian readers and international UFO culture. Interviews with foreign researchers such as Nick Pope, the former British Ministry of Defence UFO investigator, were published for Croatian audiences and framed within local debates about evidence standards, government secrecy, and military sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">101 nickpope</span><span class="citation-popover-snippet">Nick Pope (2017.)Nick Pope used to run the British Government&#x27;s UFO project. From 1991 to 1994 he researched and investigated UFOs, alien...</span></span></span>
+The organisation also functioned as a translation bridge between Croatian readers and international UFO culture. Interviews with foreign researchers such as Nick Pope, the former British Ministry of Defence UFO investigator, were published for Croatian audiences and framed within local debates about evidence standards, government secrecy, and military sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">101 nickpope</span><span class="citation-popover-snippet">Nick Pope (2017.)Nick Pope used to run the British Government&#x27;s UFO project. From 1991 to 1994 he researched and investigated UFOs, alien...</span></span></span>
 
 That international orientation mattered because Croatia never developed a large domestic research infrastructure comparable to France’s GEIPAN or the Scandinavian UFO archives. Croatian groups therefore relied heavily on networking with foreign researchers, adapting international classification systems, and comparing Croatian incidents with better-documented foreign cases.
 
@@ -282,7 +282,7 @@ As a result, volunteer groups often became the practical custodians of surviving
 
 This is especially important for cases from the 1970s and 1980s. Researchers working today frequently rely on secondary reproductions because original military documentation is inaccessible, incomplete, or never formally released. DUAP Polaris and similar groups therefore act less like formal scientific institutions and more like preservation networks trying to prevent the permanent loss of regional aviation folklore and witness testimony.
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U9N8O8-4Uhs" title="UFO flying in the sea on Island of Pag, Croatia on 10 08 2013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U9N8O8-4Uhs" target="_blank" rel="noopener noreferrer">UFO flying in the sea on Island of Pag, Croatia on 10 08 2013</a></p><p class="youtube-embed-meta">Channel: PuzzleHome készházak &middot; Views: 1.7K &middot; Uploaded: October 2013 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U9N8O8-4Uhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U9N8O8-4Uhs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U9N8O8-4Uhs" title="UFO flying in the sea on Island of Pag, Croatia on" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U9N8O8-4Uhs" target="_blank" rel="noopener noreferrer">UFO flying in the sea on Island of Pag, Croatia on</a></p><p class="youtube-embed-meta">Channel: PuzzleHome készházak &middot; Views: 1.7K &middot; Uploaded: October 2013 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U9N8O8-4Uhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U9N8O8-4Uhs">Open on YouTube</a></p></div></div></div>
 
 ## Media archives as Croatia’s unofficial UFO database
 
@@ -290,7 +290,7 @@ Because Croatia lacks a central public UFO reporting authority, newspapers and b
 
 This media dependence has produced a mixed historical record. On one hand, Croatian newspapers preserved details that would otherwise be lost, including witness names, dates, sketches, and reactions from local police or pilots. On the other hand, media framing often amplified speculative interpretations before technical explanations emerged.
 
-The 2008 Zagreb “UFO” reports illustrate this pattern clearly. Witnesses reported strange lights over the city, generating public concern and widespread press attention before police downplayed the event and urged calm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://balkaninsight.com/2008/12/10/croat-police-calm-public-amid-ufo-sighting/bi/all-balkan-countries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: balkaninsight.com">[Balkan Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">balkaninsight.com</span><span class="citation-popover-title">all balkan countries</span><span class="citation-popover-snippet">Balkan InsightCroat Police Calm Public amid &#x27;UFO Sighting&#x27;10 Dec 2008 — Croatian police have said there is no need for alarm after reside...</span></span></span> The story survived largely because newspapers and online portals archived the coverage, not because any official UFO investigation followed.
+The 2008 Zagreb “UFO” reports illustrate this pattern clearly. Witnesses reported strange lights over the city, generating public concern and widespread press attention before police downplayed the event and urged calm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://balkaninsight.com/2008/12/10/croat-police-calm-public-amid-ufo-sighting/bi/all-balkan-countries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: balkaninsight.com">[Balkan Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">balkaninsight.com</span><span class="citation-popover-title">all balkan countries</span><span class="citation-popover-snippet">Balkan InsightCroat Police Calm Public amid &#x27;UFO Sighting&#x27;10 Dec 2008 — Croatian police have said there is no need for alarm after reside...</span></span></span> The story survived largely because newspapers and online portals archived the coverage, not because any official UFO investigation followed.
 
 Croatian UFO researchers therefore spend considerable effort reconstructing timelines from media fragments rather than analysing structured government case files. A single case may require comparison between television reports, newspaper archives, witness interviews, and later internet reposts to determine what was actually observed.
 
@@ -310,7 +310,7 @@ Several recurring Croatian UFO themes became exaggerated through repetition:
 
 </div>
 
-The Pag Triangle became a particularly revealing example. Media coverage transformed a rocky geometric land formation on Pag Island into a supposed paranormal site associated with UFO lore and tourist mythology, despite the lack of scientific evidence supporting extraterrestrial explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pag_Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pag Triangle</span><span class="citation-popover-snippet">Pag Triangle</span></span></span> Croatian UFO researchers themselves were divided over such stories: some treated them as potentially anomalous, while more cautious investigators argued that sensational coverage damaged the credibility of aviation-related cases with stronger evidence.
+The Pag Triangle became a particularly revealing example. Media coverage transformed a rocky geometric land formation on Pag Island into a supposed paranormal site associated with UFO lore and tourist mythology, despite the lack of scientific evidence supporting extraterrestrial explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pag_Triangle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pag Triangle</span><span class="citation-popover-snippet">Pag Triangle</span></span></span> Croatian UFO researchers themselves were divided over such stories: some treated them as potentially anomalous, while more cautious investigators argued that sensational coverage damaged the credibility of aviation-related cases with stronger evidence.
 
 This tension remains one of the defining features of Croatian ufology. Research groups often rely on media attention to attract witnesses and preserve reports, yet the same publicity can weaken the perceived seriousness of the field.
 
@@ -335,7 +335,7 @@ These collections may include:
 
 The problem is that many of these archives remain inaccessible, poorly catalogued, or vulnerable to permanent loss. Unlike formal state archives, private collections often depend entirely on individual caretakers.
 
-Croatia’s official archival institutions, including the Croatian State Archives and the Croatian Film Archive, preserve vast amounts of historical and audiovisual material, but they were not designed specifically for UFO-related preservation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Croatian_Film_Archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Croatian Film Archive</span><span class="citation-popover-snippet">Croatian Film Archive</span></span></span> Researchers therefore face practical obstacles when attempting to trace old television broadcasts, military references, or regional newspaper coverage connected to unexplained aerial events.
+Croatia’s official archival institutions, including the Croatian State Archives and the Croatian Film Archive, preserve vast amounts of historical and audiovisual material, but they were not designed specifically for UFO-related preservation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Croatian_Film_Archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Croatian Film Archive</span><span class="citation-popover-snippet">Croatian Film Archive</span></span></span> Researchers therefore face practical obstacles when attempting to trace old television broadcasts, military references, or regional newspaper coverage connected to unexplained aerial events.
 
 This fragmented structure helps explain why Croatian UFO history contains repeated citation loops. Modern websites often quote older UFO groups, which themselves relied on newspaper summaries of oral testimony rather than direct access to original military files.
 
@@ -357,7 +357,7 @@ The most serious Croatian researchers generally place greatest weight on:
 
 </div>
 
-By contrast, internet-era videos of lights over the Adriatic coast are usually treated more cautiously because they are difficult to authenticate and frequently resemble drones, satellites, aircraft, lanterns, or camera artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/croatia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Croatia Archives</span><span class="citation-popover-snippet">Europe · Latest posts · UFO News · Strange circles in the sea in front of Croatian...Read more...</span></span></span>
+By contrast, internet-era videos of lights over the Adriatic coast are usually treated more cautiously because they are difficult to authenticate and frequently resemble drones, satellites, aircraft, lanterns, or camera artefacts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/croatia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Croatia Archives</span><span class="citation-popover-snippet">Europe · Latest posts · UFO News · Strange circles in the sea in front of Croatian...Read more...</span></span></span>
 
 This internal credibility divide is important because Croatian UFO archives contain both potentially valuable historical material and highly questionable folklore. Serious researchers often spend as much effort filtering unreliable reports as collecting new ones.
 
@@ -366,7 +366,7 @@ This internal credibility divide is important because Croatian UFO archives cont
 
 Croatian groups have also been shaped heavily by international ufology. American television programmes, British UFO debates, internet forums, and global disclosure movements influenced how Croatian cases were interpreted and categorised.
 
-DUAP Polaris and related communities frequently translated or discussed foreign investigators, helping integrate Croatian cases into wider UFO discourse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">101 nickpope</span><span class="citation-popover-snippet">Nick Pope (2017.)Nick Pope used to run the British Government&#x27;s UFO project. From 1991 to 1994 he researched and investigated UFOs, alien...</span></span></span> This created benefits and drawbacks simultaneously:
+DUAP Polaris and related communities frequently translated or discussed foreign investigators, helping integrate Croatian cases into wider UFO discourse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: duap-polaris.hr">[duap-polaris.hr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">duap-polaris.hr</span><span class="citation-popover-title">101 nickpope</span><span class="citation-popover-snippet">Nick Pope (2017.)Nick Pope used to run the British Government&#x27;s UFO project. From 1991 to 1994 he researched and investigated UFOs, alien...</span></span></span> This created benefits and drawbacks simultaneously:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -377,7 +377,7 @@ DUAP Polaris and related communities frequently translated or discussed foreign 
 
 </div>
 
-The internet intensified this effect. Croatian sightings now circulate quickly across Reddit, YouTube, and social media, often detached from local context or verification standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1h5nnjn/ufo_orbs_over_the_island_of_krk_in_croatia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">ufo orbs over the island of krk in croatia</span><span class="citation-popover-snippet">02.12.2024Saw these 3 lights/spheres show up above Croatia last night · Here is a photo of UFOs above a town on the island Krk in Croatia...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/%40duap.polaris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">DUAP Polaris@duap.polaris. 362 subscribers•23 videos. More about this channel...more. More about... UAP / UFO / NLO Witness / Svjedočan...</span></span></span>
+The internet intensified this effect. Croatian sightings now circulate quickly across Reddit, YouTube, and social media, often detached from local context or verification standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1h5nnjn/ufo_orbs_over_the_island_of_krk_in_croatia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">ufo orbs over the island of krk in croatia</span><span class="citation-popover-snippet">02.12.2024Saw these 3 lights/spheres show up above Croatia last night · Here is a photo of UFOs above a town on the island Krk in Croatia...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/%40duap.polaris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">DUAP Polaris@duap.polaris. 362 subscribers•23 videos. More about this channel...more. More about... UAP / UFO / NLO Witness / Svjedočan...</span></span></span>
 
 ## Why Croatian UFO archives remain historically important
 
@@ -402,194 +402,194 @@ The central challenge today is preservation rather than revelation. Croatia does
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YbgbviR6NtM" title="UFO(orb) sightings above Hvar, Croatia 28.Aug.2016." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YbgbviR6NtM" target="_blank" rel="noopener noreferrer">UFO(orb) sightings above Hvar, Croatia 28.Aug.2016.</a></p><p class="youtube-embed-meta">Channel: Hvar Live &middot; Views: 10.7K &middot; Uploaded: August 2016 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YbgbviR6NtM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YbgbviR6NtM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Croatia’s UFO Researchers and Archival Records. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Croatia’s UFO Researchers and Archival Records. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relevant to preserving and reviewing historical case records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to preserving and reviewing historical case records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides investigative methodology useful for archive interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides investigative methodology useful for archive interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Built around documented cases and source records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around documented cases and source records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Often referenced in serious UFO research discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Often referenced in serious UFO research discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=croatia-s-ufo-researchers-and-archival-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="croatia-s-ufo-researchers-and-archival-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ The central challenge today is preservation rather than revelation. Croatia does
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ The central challenge today is preservation rather than revelation. Croatia does
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ The central challenge today is preservation rather than revelation. Croatia does
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -709,7 +709,7 @@ The central challenge today is preservation rather than revelation. Croatia does
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -754,7 +754,7 @@ The central challenge today is preservation rather than revelation. Croatia does
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,127 +795,127 @@ The central challenge today is preservation rather than revelation. Croatia does
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: duap-polaris.hr  
    Title: 101 nickpope  
-   Link: <a href="https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope (2017.)Nick Pope used to run the British Government&#x27;s UFO project. From 1991 to 1994 he researched and investigated UFOs, alien...</p></details>
+   Link:<a href="https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html" target="_blank" rel="noopener noreferrer nofollow">https://duap-polaris.hr/polaris/index.php/intervjui/101-nickpope.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Pope (2017.)Nick Pope used to run the British Government&#x27;s UFO project. From 1991 to 1994 he researched and investigated UFOs, alien...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: pan adria pilots written report about 1976 pan  
-   Link: <a href="https://www.reddit.com/r/UFOs_Archive/comments/1k3y9cw/pan_adria_pilots_written_report_about_1976_pan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1k3y9cw/pan_adria_pilots_written_report_about_1976_pan/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pan Adria pilots written report about 1976 Pan Adria UFO...Report can be seen at Croatian ufologist group DUAP Polaris... r/UFOs...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs_Archive/comments/1k3y9cw/pan_adria_pilots_written_report_about_1976_pan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1k3y9cw/pan_adria_pilots_written_report_about_1976_pan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pan Adria pilots written report about 1976 Pan Adria UFO...Report can be seen at Croatian ufologist group DUAP Polaris... r/UFOs...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Pag Triangle  
-   Link: <a href="https://en.wikipedia.org/wiki/Pag_Triangle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pag_Triangle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pag_Triangle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pag_Triangle</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Croatian Film Archive  
-   Link: <a href="https://en.wikipedia.org/wiki/Croatian_Film_Archive" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Croatian_Film_Archive</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Croatian_Film_Archive" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Croatian_Film_Archive</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Croatian State Archives  
-   Link: <a href="https://en.wikipedia.org/wiki/Croatian_State_Archives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Croatian_State_Archives</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Croatian_State_Archives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Croatian_State_Archives</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: latest-ufo-sightings.net  
    Title: Latest UFO Sightings Croatia Archives  
-   Link: <a href="https://www.latest-ufo-sightings.net/tag/croatia" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/tag/croatia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Europe · Latest posts · UFO News · Strange circles in the sea in front of Croatian...Read more...</p></details>
+   Link:<a href="https://www.latest-ufo-sightings.net/tag/croatia" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/tag/croatia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Europe · Latest posts · UFO News · Strange circles in the sea in front of Croatian...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: ufo orbs over the island of krk in croatia  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1h5nnjn/ufo_orbs_over_the_island_of_krk_in_croatia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1h5nnjn/ufo_orbs_over_the_island_of_krk_in_croatia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>02.12.2024Saw these 3 lights/spheres show up above Croatia last night · Here is a photo of UFOs above a town on the island Krk in Croatia...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1h5nnjn/ufo_orbs_over_the_island_of_krk_in_croatia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1h5nnjn/ufo_orbs_over_the_island_of_krk_in_croatia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>02.12.2024Saw these 3 lights/spheres show up above Croatia last night · Here is a photo of UFOs above a town on the island Krk in Croatia...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40duap.polaris" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40duap.polaris</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DUAP Polaris@duap.polaris. 362 subscribers•23 videos. More about this channel...more. More about... UAP / UFO / NLO Witness / Svjedočan...</p></details>
+   Link:<a href="https://www.youtube.com/%40duap.polaris" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40duap.polaris</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DUAP Polaris@duap.polaris. 362 subscribers•23 videos. More about this channel...more. More about... UAP / UFO / NLO Witness / Svjedočan...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: UF O Sightings Compilation April  
-   Link: <a href="https://www.youtube.com/watch?v=X6QwOXnUojk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X6QwOXnUojk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then | UFO Mysteries.Read more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X6QwOXnUojk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X6QwOXnUojk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files: Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then | UFO Mysteries.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YbgbviR6NtM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YbgbviR6NtM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO(orb) sightings above Hvar, Croatia 28.Aug.2016.... flying towards the woods. It was only visible on the camera using... UFO(orb) sig...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YbgbviR6NtM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YbgbviR6NtM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO(orb) sightings above Hvar, Croatia 28.Aug.2016.... flying towards the woods. It was only visible on the camera using... UFO(orb) sig...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/ykkfxl/what_are_the_best_ufo_cases_indepth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ykkfxl/what_are_the_best_ufo_cases_indepth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>iteria for such lists vary widely. We&#x27;ve based the few...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/ykkfxl/what_are_the_best_ufo_cases_indepth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ykkfxl/what_are_the_best_ufo_cases_indepth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iteria for such lists vary widely. We&#x27;ve based the few...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=s4LerLs1DVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s4LerLs1DVA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bliski susret 4. vrste...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s4LerLs1DVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s4LerLs1DVA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bliski susret 4. vrste...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Bliski susret 4. vrste  
-   Link: <a href="https://www.youtube.com/watch?v=1Hb8dc3_bJk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Hb8dc3_bJk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Connection: Yugoslavian Pan Adria Incident &amp; Wow! Signal in 1977...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1Hb8dc3_bJk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Hb8dc3_bJk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Connection: Yugoslavian Pan Adria Incident &amp; Wow! Signal in 1977...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=npl7uuMe_u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=npl7uuMe_u8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous UFO case of Yugoslav pilot in 70s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=npl7uuMe_u8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=npl7uuMe_u8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Famous UFO case of Yugoslav pilot in 70s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Famous UFO case of Yugoslav pilot in 70s  
-   Link: <a href="https://www.youtube.com/watch?v=-9LZimu90ps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-9LZimu90ps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO flying in the sea on Island of Pag, Croatia on 10 08 2013...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-9LZimu90ps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-9LZimu90ps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO flying in the sea on Island of Pag, Croatia on 10 08 2013...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=U9N8O8-4Uhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U9N8O8-4Uhs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=U9N8O8-4Uhs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U9N8O8-4Uhs</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: balkaninsight.com  
    Title: all balkan countries  
-   Link: <a href="https://balkaninsight.com/2008/12/10/croat-police-calm-public-amid-ufo-sighting/bi/all-balkan-countries/" target="_blank" rel="noopener noreferrer nofollow">https://balkaninsight.com/2008/12/10/croat-police-calm-public-amid-ufo-sighting/bi/all-balkan-countries/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balkan InsightCroat Police Calm Public amid &#x27;UFO Sighting&#x27;10 Dec 2008 — Croatian police have said there is no need for alarm after reside...</p></details>
+   Link:<a href="https://balkaninsight.com/2008/12/10/croat-police-calm-public-amid-ufo-sighting/bi/all-balkan-countries/" target="_blank" rel="noopener noreferrer nofollow">https://balkaninsight.com/2008/12/10/croat-police-calm-public-amid-ufo-sighting/bi/all-balkan-countries/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balkan InsightCroat Police Calm Public amid &#x27;UFO Sighting&#x27;10 Dec 2008 — Croatian police have said there is no need for alarm after reside...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ca.finance.yahoo.com  
    Title: 2014 05 15 ufo mysterious circles sea off croatia  
-   Link: <a href="https://ca.finance.yahoo.com/news/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAIwWSDZwP5yUYwwqxtwfHJ-bUO6i2Z8kxOiOzH_zO6_ufgaswOOI04N0-AZt5SceSiqzHpDnS8wyKMf1yHCPFVnlBYUEvHN_My9dc40jqtSr7k5JMqiT3t1t9AKOpQwhlceuxch-jOvIwj_kYXiCuFcGELPGxDLDhv-youXLyN57" target="_blank" rel="noopener noreferrer nofollow">https://ca.finance.yahoo.com/news/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAIwWSDZwP5yUYwwqxtwfHJ-bUO6i2Z8kxOiOzH_zO6_ufgaswOOI04N0-AZt5SceSiqzHpDnS8wyKMf1yHCPFVnlBYUEvHN_My9dc40jqtSr7k5JMqiT3t1t9AKOpQwhlceuxch-jOvIwj_kYXiCuFcGELPGxDLDhv-youXLyN57</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious circles appear in the sea off Croatia14 Aug 2014 — UFOs? Mysterious circles appear in the sea off Croatia... A series of myst...</p></details>
+   Link:<a href="https://ca.finance.yahoo.com/news/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAIwWSDZwP5yUYwwqxtwfHJ-bUO6i2Z8kxOiOzH_zO6_ufgaswOOI04N0-AZt5SceSiqzHpDnS8wyKMf1yHCPFVnlBYUEvHN_My9dc40jqtSr7k5JMqiT3t1t9AKOpQwhlceuxch-jOvIwj_kYXiCuFcGELPGxDLDhv-youXLyN57" target="_blank" rel="noopener noreferrer nofollow">https://ca.finance.yahoo.com/news/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAIwWSDZwP5yUYwwqxtwfHJ-bUO6i2Z8kxOiOzH_zO6_ufgaswOOI04N0-AZt5SceSiqzHpDnS8wyKMf1yHCPFVnlBYUEvHN_My9dc40jqtSr7k5JMqiT3t1t9AKOpQwhlceuxch-jOvIwj_kYXiCuFcGELPGxDLDhv-youXLyN57</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious circles appear in the sea off Croatia14 Aug 2014 — UFOs? Mysterious circles appear in the sea off Croatia... A series of myst...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arabnews.com  
    Title: Files on UFOs, released Friday,  
-   Link: <a href="https://www.arabnews.com/node/2642966/%7B%7B" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2642966/%7B%7B</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright lights and hot orbs: UFO files shed light on sightings...9 May 2026 — Bright lights and hot orbs: UFO files shed light on sightin...</p></details>
+   Link:<a href="https://www.arabnews.com/node/2642966/%7B%7B" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2642966/%7B%7B</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bright lights and hot orbs: UFO files shed light on sightings...9 May 2026 — Bright lights and hot orbs: UFO files shed light on sightin...</p></details>
    Published: May 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: instagram.com  
    Title: “I say, old chap!  
-   Link: <a href="https://www.instagram.com/p/DYkVyuckSiB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYkVyuckSiB/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I do believe I&#x27;ve just witnessed the most...Europe&#x27;s UFO Reports Map World-wide, UFO reports are concentrated in English-speaking countr...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYkVyuckSiB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYkVyuckSiB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I do believe I&#x27;ve just witnessed the most...Europe&#x27;s UFO Reports Map World-wide, UFO reports are concentrated in English-speaking countr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: The UFO  
-   Link: <a href="https://www.facebook.com/groups/Urbexau/posts/6141907132495743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Urbexau/posts/6141907132495743/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I saw the photo of a flying saucer-shaped...Three UFOs Hover Over Croatia Before Moving Off in Different Directions [http://www.educating...&quot;](http://www.educating...&quot;)...</p></details>
+   Link:<a href="https://www.facebook.com/groups/Urbexau/posts/6141907132495743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Urbexau/posts/6141907132495743/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I saw the photo of a flying saucer-shaped...Three UFOs Hover Over Croatia Before Moving Off in Different Directions [http://www.educating...&quot;](http://www.educating...&quot;)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aol.co.uk  
    Title: UF Os?  
-   Link: <a href="https://www.aol.co.uk/lifestyle/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.co.uk/lifestyle/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious circles appear in the sea off Croatia14 Aug 2014 — UFOs? Mysterious circles appear in the sea off Croatia... A series of myst...</p></details>
+   Link:<a href="https://www.aol.co.uk/lifestyle/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.co.uk/lifestyle/2014-05-15-ufo-mysterious-circles-sea-off-croatia.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious circles appear in the sea off Croatia14 Aug 2014 — UFOs? Mysterious circles appear in the sea off Croatia... A series of myst...</p></details>

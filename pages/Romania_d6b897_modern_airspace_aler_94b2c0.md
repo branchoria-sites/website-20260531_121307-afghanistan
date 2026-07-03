@@ -251,17 +251,17 @@ image: /assets/images/Romania_d6b897_modern_airspace_aler_94b2c0-Illustration-1-
 Romania’s newest “UFO problem” looks very different from the classic era of strange lights, pilot encounters, or the famous Hoia-Baciu photographs. Since 2022, the country has found itself on the edge of a major European war, sharing a long border with Ukraine and hosting NATO air-policing missions. As a result, Romanian authorities now regularly track unidentified aerial targets that may turn out to be balloons, drones, radar anomalies, debris, or genuine military threats. The important lesson is that “unidentified” no longer automatically means mysterious in the traditional UFO sense.
 
 <img src="{{ "/assets/images/Romania_d6b897_modern_airspace_aler_94b2c0-Illustration-1-dark.svg" | relative_url }}" alt="Airspace Alerts illustration 1" data-theme-src-dark="{{ "/assets/images/Romania_d6b897_modern_airspace_aler_94b2c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Romania_d6b897_modern_airspace_aler_94b2c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Recent Romanian incidents show how modern airspace monitoring creates a new category of reports. Military radar can detect small targets that civilians never see. Fighter aircraft can be scrambled against objects that later disappear from sensors. Drone fragments can fall onto Romanian territory without anyone witnessing the original flight. These cases sit at the intersection of defence, surveillance technology, and regional security rather than the older folklore and extraterrestrial speculation associated with UFO culture. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">mig 21 jets scrambled after weather balloon is detected in romanias airspace</span><span class="citation-popover-snippet">The AviationistMiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets...</span></span></span>
+Recent Romanian incidents show how modern airspace monitoring creates a new category of reports. Military radar can detect small targets that civilians never see. Fighter aircraft can be scrambled against objects that later disappear from sensors. Drone fragments can fall onto Romanian territory without anyone witnessing the original flight. These cases sit at the intersection of defence, surveillance technology, and regional security rather than the older folklore and extraterrestrial speculation associated with UFO culture. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">mig 21 jets scrambled after weather balloon is detected in romanias airspace</span><span class="citation-popover-snippet">The AviationistMiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets...</span></span></span>
 
 ## The 2023 balloon alert that looked like a UFO story
 
-The clearest example came in February 2023, during the global wave of concern that followed the Chinese surveillance balloon incident over North America. Romanian military surveillance systems detected a small aerial target in south-eastern Romania at roughly 11,000 metres altitude. Officials described its behaviour as resembling a weather balloon. Two MiG-21 LanceR fighters were launched under NATO air-policing procedures and directed toward the target area. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.romaniajournal.ro/society-people/social/unidentified-flying-object-detected-over-romania-the-army-sends-migs-to-search-for-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: romaniajournal.ro">[The Romania Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">romaniajournal.ro</span><span class="citation-popover-snippet">The Romania JournalUnidentified flying object detected over Romania, the army...14 Feb 2023 — The aerial surveillance system of the Roma...</span></span></span>
+The clearest example came in February 2023, during the global wave of concern that followed the Chinese surveillance balloon incident over North America. Romanian military surveillance systems detected a small aerial target in south-eastern Romania at roughly 11,000 metres altitude. Officials described its behaviour as resembling a weather balloon. Two MiG-21 LanceR fighters were launched under NATO air-policing procedures and directed toward the target area. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.romaniajournal.ro/society-people/social/unidentified-flying-object-detected-over-romania-the-army-sends-migs-to-search-for-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: romaniajournal.ro">[The Romania Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">romaniajournal.ro</span><span class="citation-popover-snippet">The Romania JournalUnidentified flying object detected over Romania, the army...14 Feb 2023 — The aerial surveillance system of the Roma...</span></span></span>
 
-What happened next is exactly why modern airspace incidents differ from classic UFO cases. The fighter crews reached the area but could not visually identify the object. Their onboard systems also failed to confirm it. After roughly half an hour of searching, the aircraft returned to base. The target remained unresolved rather than spectacularly explained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">mig 21 jets scrambled after weather balloon is detected in romanias airspace</span><span class="citation-popover-snippet">The AviationistMiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/romania-scrambles-fighter-jets-after-detecting-suspicious-weather-balloon-in-its-airspace-12810949" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">scrambles fighter jets after detecting suspicious &#x27;...14 Feb 2023 — The country&#x27;s air force scrambled two MiG 21 LanceR jets to the area...</span></span></span>
+What happened next is exactly why modern airspace incidents differ from classic UFO cases. The fighter crews reached the area but could not visually identify the object. Their onboard systems also failed to confirm it. After roughly half an hour of searching, the aircraft returned to base. The target remained unresolved rather than spectacularly explained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">mig 21 jets scrambled after weather balloon is detected in romanias airspace</span><span class="citation-popover-snippet">The AviationistMiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/romania-scrambles-fighter-jets-after-detecting-suspicious-weather-balloon-in-its-airspace-12810949" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">scrambles fighter jets after detecting suspicious &#x27;...14 Feb 2023 — The country&#x27;s air force scrambled two MiG 21 LanceR jets to the area...</span></span></span>
 
 For UFO researchers, the case is interesting because it demonstrates how military detection systems can generate an “unidentified” event without producing a compelling UFO narrative. There was no dramatic witness testimony, no unusual manoeuvring object, and no physical evidence. Instead, there was a radar track, an intercept attempt, and an inconclusive outcome.
 
-The timing also mattered. Romania’s alert occurred amid similar reports in neighbouring Moldova and during a period when governments across Europe and North America were reassessing how they responded to high-altitude objects. Several countries suddenly became more willing to investigate and publicly discuss previously ignored aerial contacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/world/europe/article/3210227/moldova-closes-airspace-amid-reports-spy-balloon-over-ukraine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">moldova closes airspace amid reports spy balloon over ukraine</span><span class="citation-popover-snippet">South China Morning PostRomania, Moldova both report strange objects in their skies15 Feb 2023 — Romania briefly scrambled military jets...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intellinews.com/flights-suspended-after-mystery-objects-spotted-in-sky-above-romania-and-moldova-270066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intellinews.com">[IntelliNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intellinews.com</span><span class="citation-popover-snippet">Flights suspended after mystery objects spotted in sky...15 Feb 2023 — Romania&#x27;s defence ministry dispatched two jets to investigate an...</span></span></span>
+The timing also mattered. Romania’s alert occurred amid similar reports in neighbouring Moldova and during a period when governments across Europe and North America were reassessing how they responded to high-altitude objects. Several countries suddenly became more willing to investigate and publicly discuss previously ignored aerial contacts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/world/europe/article/3210227/moldova-closes-airspace-amid-reports-spy-balloon-over-ukraine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">moldova closes airspace amid reports spy balloon over ukraine</span><span class="citation-popover-snippet">South China Morning PostRomania, Moldova both report strange objects in their skies15 Feb 2023 — Romania briefly scrambled military jets...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intellinews.com/flights-suspended-after-mystery-objects-spotted-in-sky-above-romania-and-moldova-270066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intellinews.com">[IntelliNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intellinews.com</span><span class="citation-popover-snippet">Flights suspended after mystery objects spotted in sky...15 Feb 2023 — Romania&#x27;s defence ministry dispatched two jets to investigate an...</span></span></span>
 
 ## Why radar contacts increasingly become “unidentified targets”
 
@@ -280,7 +280,7 @@ Several factors contribute to this:
 
 </div>
 
-The Romanian balloon alert illustrates this gap between detection and explanation. A target was considered important enough to trigger an interceptor launch, yet the available evidence never established exactly what it was. That is a very different evidential situation from a close-range witness encounter, even though both can end up described publicly as “unidentified objects”. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/romania-scrambles-fighter-jets-after-detecting-suspicious-weather-balloon-in-its-airspace-12810949" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">scrambles fighter jets after detecting suspicious &#x27;...14 Feb 2023 — The country&#x27;s air force scrambled two MiG 21 LanceR jets to the area...</span></span></span>
+The Romanian balloon alert illustrates this gap between detection and explanation. A target was considered important enough to trigger an interceptor launch, yet the available evidence never established exactly what it was. That is a very different evidential situation from a close-range witness encounter, even though both can end up described publicly as “unidentified objects”. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/romania-scrambles-fighter-jets-after-detecting-suspicious-weather-balloon-in-its-airspace-12810949" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">scrambles fighter jets after detecting suspicious &#x27;...14 Feb 2023 — The country&#x27;s air force scrambled two MiG 21 LanceR jets to the area...</span></span></span>
 
 This distinction has become increasingly important in Romania because modern sensors generate many more alerts than would have been possible during the Cold War UFO era.
 
@@ -290,17 +290,17 @@ This distinction has become increasingly important in Romania because modern sen
 
 The Russian invasion of Ukraine transformed Romania’s south-east from a relatively quiet frontier into one of NATO’s most sensitive monitoring zones.
 
-Russian missile and drone attacks against Ukrainian Danube ports have repeatedly occurred close to the Romanian border. As attacks intensified, Romanian authorities began issuing air-raid warnings, scrambling aircraft, and investigating reports of possible drone incursions. In several cases, fragments believed to originate from military drones were found on Romanian territory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3c9322b0e24a2128da84699a8a08910d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Defense officials deployed helicopters and specialist teams to investigate the fragments in Tulcea County. The Ministry of National Defen...</span></span></span>
+Russian missile and drone attacks against Ukrainian Danube ports have repeatedly occurred close to the Romanian border. As attacks intensified, Romanian authorities began issuing air-raid warnings, scrambling aircraft, and investigating reports of possible drone incursions. In several cases, fragments believed to originate from military drones were found on Romanian territory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3c9322b0e24a2128da84699a8a08910d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Defense officials deployed helicopters and specialist teams to investigate the fragments in Tulcea County. The Ministry of National Defen...</span></span></span>
 
-The geography is crucial. The Danube delta region places Romanian communities only a short distance from Ukrainian targets. Residents can hear explosions, observe flashes, and sometimes witness aircraft activity connected to the conflict. In such an environment, reports of unknown aerial objects are no longer isolated mysteries. They are often part of a broader military picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3c9322b0e24a2128da84699a8a08910d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Defense officials deployed helicopters and specialist teams to investigate the fragments in Tulcea County. The Ministry of National Defen...</span></span></span>
+The geography is crucial. The Danube delta region places Romanian communities only a short distance from Ukrainian targets. Residents can hear explosions, observe flashes, and sometimes witness aircraft activity connected to the conflict. In such an environment, reports of unknown aerial objects are no longer isolated mysteries. They are often part of a broader military picture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3c9322b0e24a2128da84699a8a08910d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Defense officials deployed helicopters and specialist teams to investigate the fragments in Tulcea County. The Ministry of National Defen...</span></span></span>
 
-Romania's defence ministry has repeatedly emphasised that investigations found no evidence of deliberate attacks against Romanian territory in many of these incidents. Nevertheless, every unexplained aerial contact carries greater significance because it occurs within the security framework of NATO airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">romania detects suspicious weather balloon its airspace ministry says 2023 02 14</span><span class="citation-popover-snippet">Romania detects suspicious weather balloon in its...14 Feb 2023 — The Romanian Air Force&#x27;s surveillance system detected an aerial...</span></span></span>
+Romania's defence ministry has repeatedly emphasised that investigations found no evidence of deliberate attacks against Romanian territory in many of these incidents. Nevertheless, every unexplained aerial contact carries greater significance because it occurs within the security framework of NATO airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">romania detects suspicious weather balloon its airspace ministry says</span><span class="citation-popover-snippet">Romania detects suspicious weather balloon in its...14 Feb 2023 — The Romanian Air Force&#x27;s surveillance system detected an aerial...</span></span></span>
 
 ## Tulcea, the Danube border, and repeated drone incidents
 
 No Romanian region better illustrates the new reality than Tulcea County in the south-east.
 
-Beginning in 2023 and continuing through 2024, authorities repeatedly investigated reports of drone debris, airspace violations, and suspected incursions near the Ukrainian border. Some incidents produced physical fragments believed to resemble components of Russian military drones. Romanian and NATO aircraft were periodically scrambled during periods of heightened activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3c9322b0e24a2128da84699a8a08910d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Defense officials deployed helicopters and specialist teams to investigate the fragments in Tulcea County. The Ministry of National Defen...</span></span></span> Reuters These events differ from traditional UFO cases in several important ways: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">romania detects suspicious weather balloon its airspace ministry says 2023 02 14</span><span class="citation-popover-snippet">Romania detects suspicious weather balloon in its...14 Feb 2023 — The Romanian Air Force&#x27;s surveillance system detected an aerial...</span></span></span>
+Beginning in 2023 and continuing through 2024, authorities repeatedly investigated reports of drone debris, airspace violations, and suspected incursions near the Ukrainian border. Some incidents produced physical fragments believed to resemble components of Russian military drones. Romanian and NATO aircraft were periodically scrambled during periods of heightened activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3c9322b0e24a2128da84699a8a08910d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Defense officials deployed helicopters and specialist teams to investigate the fragments in Tulcea County. The Ministry of National Defen...</span></span></span> Reuters These events differ from traditional UFO cases in several important ways:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">romania detects suspicious weather balloon its airspace ministry says</span><span class="citation-popover-snippet">Romania detects suspicious weather balloon in its...14 Feb 2023 — The Romanian Air Force&#x27;s surveillance system detected an aerial...</span></span></span>
 
 **Physical evidence often exists.** Investigators may recover fragments, impact sites, or debris fields rather than relying solely on testimony.
 
@@ -310,14 +310,14 @@ Beginning in 2023 and continuing through 2024, authorities repeatedly investigat
 
 **The central question is attribution.** Investigators usually ask whose drone it was, where it came from, and whether it posed a threat—not whether it represented an unknown technology.
 
-As a result, the most significant Romanian unidentified aerial incidents of the 2020s are often security events rather than classic UFO mysteries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3c9322b0e24a2128da84699a8a08910d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Defense officials deployed helicopters and specialist teams to investigate the fragments in Tulcea County. The Ministry of National Defen...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romanian-radar-picks-up-two-likely-drone-signals-breaching-territory-ministry-2024-10-23/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Despite scrambling two F-16 fighter jets, the aircraft did not visually confirm the drones before radar contact was lost. This marks the...</span></span></span>
+As a result, the most significant Romanian unidentified aerial incidents of the 2020s are often security events rather than classic UFO mysteries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/3c9322b0e24a2128da84699a8a08910d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Defense officials deployed helicopters and specialist teams to investigate the fragments in Tulcea County. The Ministry of National Defen...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romanian-radar-picks-up-two-likely-drone-signals-breaching-territory-ministry-2024-10-23/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Despite scrambling two F-16 fighter jets, the aircraft did not visually confirm the drones before radar contact was lost. This marks the...</span></span></span>
 
 <img src="{{ "/assets/images/Romania_d6b897_modern_airspace_aler_94b2c0-Illustration-2-dark.svg" | relative_url }}" alt="Airspace Alerts illustration 2" data-theme-src-dark="{{ "/assets/images/Romania_d6b897_modern_airspace_aler_94b2c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Romania_d6b897_modern_airspace_aler_94b2c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When fighters are scrambled but nothing is found
 
 One recurring pattern in Romanian airspace alerts is the scramble-without-confirmation scenario.
 
-In multiple cases, radar systems detected suspicious contacts and fighter aircraft were launched, yet pilots failed to establish visual contact before the target disappeared or tracking was lost. Reports from 2024 described suspected drone signals entering Romanian airspace in the Constanța and Tulcea regions. Aircraft were dispatched, but no visual confirmation followed. Officials acknowledged uncertainty about what exactly had been detected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romania-says-it-finds-drone-fragments-near-border-with-ukraine-2024-03-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This finding comes amidst Russia&#x27;s ongoing nighttime missile and drone attacks on western and central Ukraine. Romania&#x27;s Ministry of Nati...</span></span></span>
+In multiple cases, radar systems detected suspicious contacts and fighter aircraft were launched, yet pilots failed to establish visual contact before the target disappeared or tracking was lost. Reports from 2024 described suspected drone signals entering Romanian airspace in the Constanța and Tulcea regions. Aircraft were dispatched, but no visual confirmation followed. Officials acknowledged uncertainty about what exactly had been detected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romania-says-it-finds-drone-fragments-near-border-with-ukraine-2024-03-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This finding comes amidst Russia&#x27;s ongoing nighttime missile and drone attacks on western and central Ukraine. Romania&#x27;s Ministry of Nati...</span></span></span>
 
 For the public, such cases can sound remarkably similar to older UFO reports. Something appears on sensors, authorities react, and no final explanation emerges.
 
@@ -331,7 +331,7 @@ The current wave of alerts operates under a different logic.
 
 Classic Romanian UFO casesModern Romanian airspace alertsUsually begin with human observationUsually begin with radar or surveillance detectionOften involve unusual lights or shapesOften involve balloons, drones, or suspected military objectsFocus on what witnesses sawFocus on what sensors recordedRarely involve immediate military mobilisationFrequently trigger NATO air-policing responsesPhysical evidence is uncommonDebris or fragments may be recoveredExplanations often remain speculativeInvestigations usually centre on security and attribution
 
-This does not mean all modern alerts are fully explained. Rather, it means they emerge from a fundamentally different environment. Romania now possesses far more sophisticated surveillance systems than during the country's famous UFO waves of the 1960s and 1970s, while simultaneously facing real aerial risks linked to a nearby war. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">mig 21 jets scrambled after weather balloon is detected in romanias airspace</span><span class="citation-popover-snippet">The AviationistMiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">romania detects suspicious weather balloon its airspace ministry says 2023 02 14</span><span class="citation-popover-snippet">Romania detects suspicious weather balloon in its...14 Feb 2023 — The Romanian Air Force&#x27;s surveillance system detected an aerial...</span></span></span>
+This does not mean all modern alerts are fully explained. Rather, it means they emerge from a fundamentally different environment. Romania now possesses far more sophisticated surveillance systems than during the country's famous UFO waves of the 1960s and 1970s, while simultaneously facing real aerial risks linked to a nearby war.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">mig 21 jets scrambled after weather balloon is detected in romanias airspace</span><span class="citation-popover-snippet">The AviationistMiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">romania detects suspicious weather balloon its airspace ministry says</span><span class="citation-popover-snippet">Romania detects suspicious weather balloon in its...14 Feb 2023 — The Romanian Air Force&#x27;s surveillance system detected an aerial...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y15Z3MNzOIE" title="Romania expels Russian consul general after drone hits apartment building" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y15Z3MNzOIE" target="_blank" rel="noopener noreferrer">Romania expels Russian consul general after drone hits apartment building</a></p><p class="youtube-embed-meta">Channel: Guardian News &middot; Views: 13.0K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y15Z3MNzOIE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y15Z3MNzOIE">Open on YouTube</a></p></div></div></div>
 
@@ -339,9 +339,9 @@ This does not mean all modern alerts are fully explained. Rather, it means they 
 
 One reason these cases matter to UFO researchers is that they show how easily categories can become mixed together.
 
-A headline about an “unidentified flying object” detected over Romania may evoke images of classic UFO encounters. Yet the underlying event may actually involve a radar contact with weather-balloon characteristics, a drone crossing a border zone, or a target that cannot be tracked long enough for identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.romaniajournal.ro/society-people/social/unidentified-flying-object-detected-over-romania-the-army-sends-migs-to-search-for-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: romaniajournal.ro">[The Romania Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">romaniajournal.ro</span><span class="citation-popover-snippet">The Romania JournalUnidentified flying object detected over Romania, the army...14 Feb 2023 — The aerial surveillance system of the Roma...</span></span></span>
+A headline about an “unidentified flying object” detected over Romania may evoke images of classic UFO encounters. Yet the underlying event may actually involve a radar contact with weather-balloon characteristics, a drone crossing a border zone, or a target that cannot be tracked long enough for identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.romaniajournal.ro/society-people/social/unidentified-flying-object-detected-over-romania-the-army-sends-migs-to-search-for-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: romaniajournal.ro">[The Romania Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">romaniajournal.ro</span><span class="citation-popover-snippet">The Romania JournalUnidentified flying object detected over Romania, the army...14 Feb 2023 — The aerial surveillance system of the Roma...</span></span></span>
 
-The 2023 balloon alert is a useful case study. It produced military concern, media attention, and public discussion of an unidentified object. At the same time, the available evidence pointed toward a mundane aerial target rather than an extraordinary phenomenon. The fact that fighter aircraft never located it does not automatically strengthen exotic explanations; it mainly highlights the limitations of real-world detection and interception. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">mig 21 jets scrambled after weather balloon is detected in romanias airspace</span><span class="citation-popover-snippet">The AviationistMiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets...</span></span></span>
+The 2023 balloon alert is a useful case study. It produced military concern, media attention, and public discussion of an unidentified object. At the same time, the available evidence pointed toward a mundane aerial target rather than an extraordinary phenomenon. The fact that fighter aircraft never located it does not automatically strengthen exotic explanations; it mainly highlights the limitations of real-world detection and interception. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">mig 21 jets scrambled after weather balloon is detected in romanias airspace</span><span class="citation-popover-snippet">The AviationistMiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets...</span></span></span>
 
 For Romania, this distinction has become increasingly important. The country now sits in a security environment where unidentified aerial contacts are common enough to require routine military responses. That reality generates more reports of unknown objects, but it does not necessarily generate stronger evidence for classic UFO claims.
 
@@ -353,199 +353,199 @@ Romania’s modern airspace alerts reveal a shift from folklore-era mysteries to
 
 Some incidents remain unresolved because the available evidence is incomplete. Others are eventually connected to known military or atmospheric causes. What unites them is that they emerge from a heavily monitored airspace where security agencies are looking for threats rather than searching for extraterrestrial explanations.
 
-That makes recent Romanian alerts historically significant even when they are ultimately mundane. They show how the meaning of “unidentified” changes when a country moves from the classic UFO age into an era of NATO surveillance networks, persistent drone warfare, and continuous airspace monitoring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romanian-radar-picks-up-two-likely-drone-signals-breaching-territory-ministry-2024-10-23/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Despite scrambling two F-16 fighter jets, the aircraft did not visually confirm the drones before radar contact was lost. This marks the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romania-says-it-finds-drone-fragments-near-border-with-ukraine-2024-03-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This finding comes amidst Russia&#x27;s ongoing nighttime missile and drone attacks on western and central Ukraine. Romania&#x27;s Ministry of Nati...</span></span></span>
+That makes recent Romanian alerts historically significant even when they are ultimately mundane. They show how the meaning of “unidentified” changes when a country moves from the classic UFO age into an era of NATO surveillance networks, persistent drone warfare, and continuous airspace monitoring.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romanian-radar-picks-up-two-likely-drone-signals-breaching-territory-ministry-2024-10-23/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Despite scrambling two F-16 fighter jets, the aircraft did not visually confirm the drones before radar contact was lost. This marks the...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/romania-says-it-finds-drone-fragments-near-border-with-ukraine-2024-03-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">This finding comes amidst Russia&#x27;s ongoing nighttime missile and drone attacks on western and central Ukraine. Romania&#x27;s Ministry of Nati...</span></span></span>
 
 <img src="{{ "/assets/images/Romania_d6b897_modern_airspace_aler_94b2c0-Illustration-3-dark.svg" | relative_url }}" alt="Airspace Alerts illustration 3" data-theme-src-dark="{{ "/assets/images/Romania_d6b897_modern_airspace_aler_94b2c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Romania_d6b897_modern_airspace_aler_94b2c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Balloons, Drones, and Romania&#x27;s New UFO Problem. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Balloons, Drones, and Romania&#x27;s New UFO Problem. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains classification and identification issues relevant to balloons and drones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains classification and identification issues relevant to balloons and drones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful background on official responses to unidentified aerial targets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background on official responses to unidentified aerial targets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Best match for modern military and airspace-related unidentified-object cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Best match for modern military and airspace-related unidentified-object cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides real-world context for advanced aircraft and defence technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides real-world context for advanced aircraft and defence technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-drones-and-romania-s-new-ufo-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="balloons-drones-and-romania-s-new-ufo-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ That makes recent Romanian alerts historically significant even when they are ul
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ That makes recent Romanian alerts historically significant even when they are ul
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ That makes recent Romanian alerts historically significant even when they are ul
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ That makes recent Romanian alerts historically significant even when they are ul
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ That makes recent Romanian alerts historically significant even when they are ul
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,106 +748,105 @@ That makes recent Romanian alerts historically significant even when they are ul
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: romania detects suspicious weather balloon its airspace ministry says 2023 02 14  
-   Link: <a href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Romania detects suspicious weather balloon in its...14 Feb 2023 — The Romanian Air Force&#x27;s surveillance system detected an aerial...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Romania detects suspicious weather balloon in its...14 Feb 2023 — The Romanian Air Force&#x27;s surveillance system detected an aerial...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/europe/romanian-radar-picks-up-two-likely-drone-signals-breaching-territory-ministry-2024-10-23/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romanian-radar-picks-up-two-likely-drone-signals-breaching-territory-ministry-2024-10-23/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite scrambling two F-16 fighter jets, the aircraft did not visually confirm the drones before radar contact was lost. This marks the...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/romanian-radar-picks-up-two-likely-drone-signals-breaching-territory-ministry-2024-10-23/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romanian-radar-picks-up-two-likely-drone-signals-breaching-territory-ministry-2024-10-23/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite scrambling two F-16 fighter jets, the aircraft did not visually confirm the drones before radar contact was lost. This marks the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/romania-scrambles-fighter-jets-after-detecting-suspicious-weather-balloon-in-its-airspace-12810949" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/romania-scrambles-fighter-jets-after-detecting-suspicious-weather-balloon-in-its-airspace-12810949</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>scrambles fighter jets after detecting suspicious &#x27;...14 Feb 2023 — The country&#x27;s air force scrambled two MiG 21 LanceR jets to the area...</p></details>
+   Link:<a href="https://news.sky.com/story/romania-scrambles-fighter-jets-after-detecting-suspicious-weather-balloon-in-its-airspace-12810949" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/romania-scrambles-fighter-jets-after-detecting-suspicious-weather-balloon-in-its-airspace-12810949</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>scrambles fighter jets after detecting suspicious &#x27;...14 Feb 2023 — The country&#x27;s air force scrambled two MiG 21 LanceR jets to the area...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: intellinews.com  
-   Link: <a href="https://www.intellinews.com/flights-suspended-after-mystery-objects-spotted-in-sky-above-romania-and-moldova-270066/" target="_blank" rel="noopener noreferrer nofollow">https://www.intellinews.com/flights-suspended-after-mystery-objects-spotted-in-sky-above-romania-and-moldova-270066/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flights suspended after mystery objects spotted in sky...15 Feb 2023 — Romania&#x27;s defence ministry dispatched two jets to investigate an...</p></details>
+   Link:<a href="https://www.intellinews.com/flights-suspended-after-mystery-objects-spotted-in-sky-above-romania-and-moldova-270066/" target="_blank" rel="noopener noreferrer nofollow">https://www.intellinews.com/flights-suspended-after-mystery-objects-spotted-in-sky-above-romania-and-moldova-270066/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flights suspended after mystery objects spotted in sky...15 Feb 2023 — Romania&#x27;s defence ministry dispatched two jets to investigate an...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/europe/romania-says-it-finds-drone-fragments-near-border-with-ukraine-2024-03-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romania-says-it-finds-drone-fragments-near-border-with-ukraine-2024-03-29/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This finding comes amidst Russia&#x27;s ongoing nighttime missile and drone attacks on western and central Ukraine. Romania&#x27;s Ministry of Nati...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/romania-says-it-finds-drone-fragments-near-border-with-ukraine-2024-03-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romania-says-it-finds-drone-fragments-near-border-with-ukraine-2024-03-29/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This finding comes amidst Russia&#x27;s ongoing nighttime missile and drone attacks on western and central Ukraine. Romania&#x27;s Ministry of Nati...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theaviationist.com  
    Title: mig 21 jets scrambled after weather balloon is detected in romanias airspace  
-   Link: <a href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AviationistMiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets...</p></details>
+   Link:<a href="https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2023/02/14/mig-21-jets-scrambled-after-weather-balloon-is-detected-in-romanias-airspace/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AviationistMiG-21 Jets Scrambled After Weather Balloon Is Detected...14 Feb 2023 — Two RoAF (Romanian Air Force) MiG-21 LanceR jets...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: romaniajournal.ro  
-   Link: <a href="https://www.romaniajournal.ro/society-people/social/unidentified-flying-object-detected-over-romania-the-army-sends-migs-to-search-for-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.romaniajournal.ro/society-people/social/unidentified-flying-object-detected-over-romania-the-army-sends-migs-to-search-for-it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Romania JournalUnidentified flying object detected over Romania, the army...14 Feb 2023 — The aerial surveillance system of the Roma...</p></details>
+   Link:<a href="https://www.romaniajournal.ro/society-people/social/unidentified-flying-object-detected-over-romania-the-army-sends-migs-to-search-for-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.romaniajournal.ro/society-people/social/unidentified-flying-object-detected-over-romania-the-army-sends-migs-to-search-for-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Romania JournalUnidentified flying object detected over Romania, the army...14 Feb 2023 — The aerial surveillance system of the Roma...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scmp.com  
    Title: moldova closes airspace amid reports spy balloon over ukraine  
-   Link: <a href="https://www.scmp.com/news/world/europe/article/3210227/moldova-closes-airspace-amid-reports-spy-balloon-over-ukraine" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/news/world/europe/article/3210227/moldova-closes-airspace-amid-reports-spy-balloon-over-ukraine</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>South China Morning PostRomania, Moldova both report strange objects in their skies15 Feb 2023 — Romania briefly scrambled military jets...</p></details>
+   Link:<a href="https://www.scmp.com/news/world/europe/article/3210227/moldova-closes-airspace-amid-reports-spy-balloon-over-ukraine" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/news/world/europe/article/3210227/moldova-closes-airspace-amid-reports-spy-balloon-over-ukraine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South China Morning PostRomania, Moldova both report strange objects in their skies15 Feb 2023 — Romania briefly scrambled military jets...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/3c9322b0e24a2128da84699a8a08910d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3c9322b0e24a2128da84699a8a08910d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense officials deployed helicopters and specialist teams to investigate the fragments in Tulcea County. The Ministry of National Defen...</p></details>
+   Link:<a href="https://apnews.com/article/3c9322b0e24a2128da84699a8a08910d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3c9322b0e24a2128da84699a8a08910d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense officials deployed helicopters and specialist teams to investigate the fragments in Tulcea County. The Ministry of National Defen...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AsiaOneNewsOfficial/posts/drone-incident-raises-security-concerns-in-romania-william-denselow-asia-one-new/122177470976898741/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AsiaOneNewsOfficial/posts/drone-incident-raises-security-concerns-in-romania-william-denselow-asia-one-new/122177470976898741/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Incident Raises Security Concerns In RomaniaThe area in which this drone flew illegally over Romanian airspace is the Romanian Army...</p></details>
+   Link:<a href="https://www.facebook.com/AsiaOneNewsOfficial/posts/drone-incident-raises-security-concerns-in-romania-william-denselow-asia-one-new/122177470976898741/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AsiaOneNewsOfficial/posts/drone-incident-raises-security-concerns-in-romania-william-denselow-asia-one-new/122177470976898741/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Incident Raises Security Concerns In RomaniaThe area in which this drone flew illegally over Romanian airspace is the Romanian Army...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/10/19/world-news/two-drones-breach-romanian-airspace-in-as-many-days/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/19/world-news/two-drones-breach-romanian-airspace-in-as-many-days/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The incidents involved small flying objects detected by army radars near the coastal city of Constanta on consecutive nights. Fighter jet...</p></details>
+   Link:<a href="https://nypost.com/2024/10/19/world-news/two-drones-breach-romanian-airspace-in-as-many-days/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/19/world-news/two-drones-breach-romanian-airspace-in-as-many-days/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The incidents involved small flying objects detected by army radars near the coastal city of Constanta on consecutive nights. Fighter jet...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: airlive.net  
-   Link: <a href="https://airlive.net/military/2023/02/14/romanian-mig-21-fighter-jets-scrambled-after-a-balloon-has-been-spotted-in-the-national-airspace/?srsltid=AfmBOoorGULeKUaarVPGroEmbSOOC9Q4RuZfZD8Kx3cyymBhOVoXWjUQ" target="_blank" rel="noopener noreferrer nofollow">https://airlive.net/military/2023/02/14/romanian-mig-21-fighter-jets-scrambled-after-a-balloon-has-been-spotted-in-the-national-airspace/?srsltid=AfmBOoorGULeKUaarVPGroEmbSOOC9Q4RuZfZD8Kx3cyymBhOVoXWjUQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Romanian MiG-21 fighter jets scrambled after a balloon...14 Feb 2023 — The aerial surveillance system of the Romanian Air Force detected...</p></details>
+   Link:<a href="https://airlive.net/military/2023/02/14/romanian-mig-21-fighter-jets-scrambled-after-a-balloon-has-been-spotted-in-the-national-airspace/?srsltid=AfmBOoorGULeKUaarVPGroEmbSOOC9Q4RuZfZD8Kx3cyymBhOVoXWjUQ" target="_blank" rel="noopener noreferrer nofollow">https://airlive.net/military/2023/02/14/romanian-mig-21-fighter-jets-scrambled-after-a-balloon-has-been-spotted-in-the-national-airspace/?srsltid=AfmBOoorGULeKUaarVPGroEmbSOOC9Q4RuZfZD8Kx3cyymBhOVoXWjUQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Romanian MiG-21 fighter jets scrambled after a balloon...14 Feb 2023 — The aerial surveillance system of the Romanian Air Force detected...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: airlive.net  
-   Link: <a href="https://airlive.net/military/2023/02/14/romanian-mig-21-fighter-jets-scrambled-after-a-balloon-has-been-spotted-in-the-national-airspace/?srsltid=AfmBOopB_TWHlCvdP1xC0FLFhw6X62pCVtlT33FN0mT48Pa1-_Qgaf02" target="_blank" rel="noopener noreferrer nofollow">https://airlive.net/military/2023/02/14/romanian-mig-21-fighter-jets-scrambled-after-a-balloon-has-been-spotted-in-the-national-airspace/?srsltid=AfmBOopB_TWHlCvdP1xC0FLFhw6X62pCVtlT33FN0mT48Pa1-_Qgaf02</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Romanian MiG-21 fighter jets scrambled after a balloon...14 Feb 2023 — The aerial surveillance system of the Romanian Air Force detected...</p></details>
+   Link:<a href="https://airlive.net/military/2023/02/14/romanian-mig-21-fighter-jets-scrambled-after-a-balloon-has-been-spotted-in-the-national-airspace/?srsltid=AfmBOopB_TWHlCvdP1xC0FLFhw6X62pCVtlT33FN0mT48Pa1-_Qgaf02" target="_blank" rel="noopener noreferrer nofollow">https://airlive.net/military/2023/02/14/romanian-mig-21-fighter-jets-scrambled-after-a-balloon-has-been-spotted-in-the-national-airspace/?srsltid=AfmBOopB_TWHlCvdP1xC0FLFhw6X62pCVtlT33FN0mT48Pa1-_Qgaf02</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Romanian MiG-21 fighter jets scrambled after a balloon...14 Feb 2023 — The aerial surveillance system of the Romanian Air Force detected...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: radiomoldova.md  
-   Link: <a href="https://radiomoldova.md/p/6417/what-the-british-secret-services-say-about-the-unidentified-object-that-led-to-the-closure-of-the-airspace-of-the-republic-of-moldova" target="_blank" rel="noopener noreferrer nofollow">https://radiomoldova.md/p/6417/what-the-british-secret-services-say-about-the-unidentified-object-that-led-to-the-closure-of-the-airspace-of-the-republic-of-moldova</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the British secret services say about the unidentified...19 Feb 2023 — The British secret services believe that the balloons seen a...</p></details>
+   Link:<a href="https://radiomoldova.md/p/6417/what-the-british-secret-services-say-about-the-unidentified-object-that-led-to-the-closure-of-the-airspace-of-the-republic-of-moldova" target="_blank" rel="noopener noreferrer nofollow">https://radiomoldova.md/p/6417/what-the-british-secret-services-say-about-the-unidentified-object-that-led-to-the-closure-of-the-airspace-of-the-republic-of-moldova</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the British secret services say about the unidentified...19 Feb 2023 — The British secret services believe that the balloons seen a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheAviationist/posts/the-romanian-air-force-mig-21-lancer-were-scrambled-to-investigate-a-suspicious-/171596552285020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAviationist/posts/the-romanian-air-force-mig-21-lancer-were-scrambled-to-investigate-a-suspicious-/171596552285020/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Romanian Air Force MiG-21 LanceR were scrambled...The Romanian Air Force MiG-21 LanceR were scrambled to investigate a &quot;suspicious&quot;...</p></details>
+   Link:<a href="https://www.facebook.com/TheAviationist/posts/the-romanian-air-force-mig-21-lancer-were-scrambled-to-investigate-a-suspicious-/171596552285020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAviationist/posts/the-romanian-air-force-mig-21-lancer-were-scrambled-to-investigate-a-suspicious-/171596552285020/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Romanian Air Force MiG-21 LanceR were scrambled...The Romanian Air Force MiG-21 LanceR were scrambled to investigate a &quot;suspicious&quot;...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: londonlovesbusiness.com  
-   Link: <a href="https://londonlovesbusiness.com/mig-fighter-jets-scrambled-after-detecting-an-aerial-surveillance-target-in-nato-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://londonlovesbusiness.com/mig-fighter-jets-scrambled-after-detecting-an-aerial-surveillance-target-in-nato-airspace/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIG fighter jets scrambled after detecting an &#x27;aerial...14 Feb 2023 — Romania scrambled MIG fighter jets on Tuesday after detecting an “...</p></details>
+   Link:<a href="https://londonlovesbusiness.com/mig-fighter-jets-scrambled-after-detecting-an-aerial-surveillance-target-in-nato-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://londonlovesbusiness.com/mig-fighter-jets-scrambled-after-detecting-an-aerial-surveillance-target-in-nato-airspace/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIG fighter jets scrambled after detecting an &#x27;aerial...14 Feb 2023 — Romania scrambled MIG fighter jets on Tuesday after detecting an “...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pravda.com.ua  
-   Link: <a href="https://www.pravda.com.ua/eng/news/2023/02/16/7389637/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2023/02/16/7389637/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On 14 February, Moldova closed its airspace for some time in order to ensure the security of its citizens after an unidentified flying ob...</p></details>
+   Link:<a href="https://www.pravda.com.ua/eng/news/2023/02/16/7389637/" target="_blank" rel="noopener noreferrer nofollow">https://www.pravda.com.ua/eng/news/2023/02/16/7389637/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On 14 February, Moldova closed its airspace for some time in order to ensure the security of its citizens after an unidentified flying ob...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UkraineUA.MFA/posts/a-russian-drone-entered-romanian-airspace-and-exploded-in-a-residential-area-of-/1447467720745506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UkraineUA.MFA/posts/a-russian-drone-entered-romanian-airspace-and-exploded-in-a-residential-area-of-/1447467720745506/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Russian drone entered Romanian airspace and...29.09.2023 Romania bolsters air defenses near Ukraine border due to Russian drones - Reu...</p></details>
+   Link:<a href="https://www.facebook.com/UkraineUA.MFA/posts/a-russian-drone-entered-romanian-airspace-and-exploded-in-a-residential-area-of-/1447467720745506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UkraineUA.MFA/posts/a-russian-drone-entered-romanian-airspace-and-exploded-in-a-residential-area-of-/1447467720745506/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Russian drone entered Romanian airspace and...29.09.2023 Romania bolsters air defenses near Ukraine border due to Russian drones - Reu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: twz.com  
    Title: balloon like object closed down moldovas airspace next to ukraine today  
-   Link: <a href="https://www.twz.com/balloon-like-object-closed-down-moldovas-airspace-next-to-ukraine-today" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/balloon-like-object-closed-down-moldovas-airspace-next-to-ukraine-today</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneBalloon-Like Object Closed Down Moldova&#x27;s Airspace Next...14 Feb 2023 — Moldova&#x27;s neighbor Romania also reported that it had...</p></details>
+   Link:<a href="https://www.twz.com/balloon-like-object-closed-down-moldovas-airspace-next-to-ukraine-today" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/balloon-like-object-closed-down-moldovas-airspace-next-to-ukraine-today</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneBalloon-Like Object Closed Down Moldova&#x27;s Airspace Next...14 Feb 2023 — Moldova&#x27;s neighbor Romania also reported that it had...</p></details>

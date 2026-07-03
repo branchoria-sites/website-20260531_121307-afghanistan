@@ -254,10 +254,10 @@ image: /assets/images/Fiji_bbb7ef_fiji_ufo_explanation_51fbb5-Illustration-1-soc
 
 ## Introduction
 
-Most reported UFO sightings in Fiji have far more ordinary explanations than extraterrestrial ones. The country’s scattered reports — from mysterious lights over Taveuni to moving objects seen near Suva or over coastal waters — usually emerge from conditions that make misidentification especially easy: bright tropical skies, strong atmospheric reflections over the ocean, limited reference points at night, and increasing numbers of satellites, aircraft and drones. Unlike countries with large military tracking systems or extensive declassified archives, Fiji has little formal investigative infrastructure for unidentified aerial reports, meaning many cases remain unresolved simply because they were never examined in detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fijitimes.com.fj/ufos-are-we-closer-than-ever-to-an-answer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fijitimes.com.fj">[fijitimes.com.fj]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fijitimes.com.fj</span><span class="citation-popover-title">UF Os &#124; Are we closer than ever to an answer?</span><span class="citation-popover-snippet">And should they be investigated? &#x27;A lot of UFO hunting&#x27;. UFOs have held our attention for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://trove.nla.gov.au/newspaper/article/120905530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[2trove.nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1989 - Fiji UFO: warning to aircraft - TroveSUVA: Fiji&#x27;s Civil Aviation Authority issued a UFO warning to aircraft on Thursday aft...</span></span></span>
+Most reported UFO sightings in Fiji have far more ordinary explanations than extraterrestrial ones. The country’s scattered reports — from mysterious lights over Taveuni to moving objects seen near Suva or over coastal waters — usually emerge from conditions that make misidentification especially easy: bright tropical skies, strong atmospheric reflections over the ocean, limited reference points at night, and increasing numbers of satellites, aircraft and drones. Unlike countries with large military tracking systems or extensive declassified archives, Fiji has little formal investigative infrastructure for unidentified aerial reports, meaning many cases remain unresolved simply because they were never examined in detail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fijitimes.com.fj/ufos-are-we-closer-than-ever-to-an-answer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fijitimes.com.fj">[fijitimes.com.fj]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fijitimes.com.fj</span><span class="citation-popover-title">UF Os &#124; Are we closer than ever to an answer?</span><span class="citation-popover-snippet">And should they be investigated? &#x27;A lot of UFO hunting&#x27;. UFOs have held our attention for...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://trove.nla.gov.au/newspaper/article/120905530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[2trove.nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1989 - Fiji UFO: warning to aircraft - TroveSUVA: Fiji&#x27;s Civil Aviation Authority issued a UFO warning to aircraft on Thursday aft...</span></span></span>
 
 <img src="{{ "/assets/images/Fiji_bbb7ef_fiji_ufo_explanation_51fbb5-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Fiji_bbb7ef_fiji_ufo_explanation_51fbb5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fiji_bbb7ef_fiji_ufo_explanation_51fbb5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That lack of investigation matters. An unexplained sighting is not automatically evidence of something extraordinary. In Fiji, many reports fit patterns seen worldwide, where observers mistake planets, meteors, balloons, aircraft lights, atmospheric effects or human-made technology for anomalous craft. The geography of the islands — surrounded by open ocean and with relatively dark night skies away from urban centres — can make ordinary objects appear unusually dramatic or difficult to judge accurately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-snippet">Popular ScienceYou didn&#x27;t see a UFO. It was probably one of these things.The classic culprit for UFO sightings is a group of clouds movin...</span></span></span>
+That lack of investigation matters. An unexplained sighting is not automatically evidence of something extraordinary. In Fiji, many reports fit patterns seen worldwide, where observers mistake planets, meteors, balloons, aircraft lights, atmospheric effects or human-made technology for anomalous craft. The geography of the islands — surrounded by open ocean and with relatively dark night skies away from urban centres — can make ordinary objects appear unusually dramatic or difficult to judge accurately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-snippet">Popular ScienceYou didn&#x27;t see a UFO. It was probably one of these things.The classic culprit for UFO sightings is a group of clouds movin...</span></span></span>
 
 ## Celestial Misidentifications in Fiji’s Night Sky
 
@@ -265,7 +265,7 @@ One of the strongest explanations for many Fiji UFO reports is simple astronomic
 
 ### Venus and bright planets
 
-Astronomers and UFO researchers alike frequently identify Venus as the single most common source of UFO reports worldwide. Because Venus can appear extremely bright near sunrise or sunset, it is often described as hovering, pulsing, changing colour or following observers. Atmospheric distortion near the horizon can exaggerate these effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astrojack.com/the-truth-is-probably-out-there/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrojack.com">[astrojack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrojack.com</span><span class="citation-popover-title">The Truth is (Probably) Out There</span><span class="citation-popover-snippet">Brian JacksonJuly 10, 2021 — But just because a phenomenon is bizarre and unexplained, that doesn&#x27;t mean it&#x27;s aliens. That strange light...</span><span class="citation-popover-meta">Published: July 10, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-snippet">Popular ScienceYou didn&#x27;t see a UFO. It was probably one of these things.The classic culprit for UFO sightings is a group of clouds movin...</span></span></span>
+Astronomers and UFO researchers alike frequently identify Venus as the single most common source of UFO reports worldwide. Because Venus can appear extremely bright near sunrise or sunset, it is often described as hovering, pulsing, changing colour or following observers. Atmospheric distortion near the horizon can exaggerate these effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astrojack.com/the-truth-is-probably-out-there/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astrojack.com">[astrojack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astrojack.com</span><span class="citation-popover-title">The Truth is (Probably) Out There</span><span class="citation-popover-snippet">Brian JacksonJuly 10, 2021 — But just because a phenomenon is bizarre and unexplained, that doesn&#x27;t mean it&#x27;s aliens. That strange light...</span><span class="citation-popover-meta">Published: July 10, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-snippet">Popular ScienceYou didn&#x27;t see a UFO. It was probably one of these things.The classic culprit for UFO sightings is a group of clouds movin...</span></span></span>
 
 In Fiji, where many populated areas face wide unobstructed ocean horizons, Venus can appear unusually striking. Witnesses observing from beaches, villages or boats may see a brilliant stationary light reflected through humid air layers. Without nearby buildings or terrain for scale, the object can seem suspended at low altitude or moving unpredictably.
 
@@ -284,7 +284,7 @@ These characteristics match well-known atmospheric effects around bright celesti
 
 ### Meteors and fireballs over the Pacific
 
-The Pacific region regularly experiences visible meteors and re-entering space debris. Fiji’s relatively dark skies can make these events especially dramatic. Long-lasting fireballs, fragmenting meteors or satellite re-entries are commonly interpreted as crashing UFOs or mysterious craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-snippet">Popular ScienceYou didn&#x27;t see a UFO. It was probably one of these things.The classic culprit for UFO sightings is a group of clouds movin...</span></span></span>
+The Pacific region regularly experiences visible meteors and re-entering space debris. Fiji’s relatively dark skies can make these events especially dramatic. Long-lasting fireballs, fragmenting meteors or satellite re-entries are commonly interpreted as crashing UFOs or mysterious craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-snippet">Popular ScienceYou didn&#x27;t see a UFO. It was probably one of these things.The classic culprit for UFO sightings is a group of clouds movin...</span></span></span>
 
 Witnesses often misjudge both speed and distance. A meteor high in the atmosphere may appear close enough to fall behind nearby hills or into the sea. Fragmentation during atmospheric entry can create the illusion of multiple controlled objects manoeuvring together.
 
@@ -303,7 +303,7 @@ closely resemble known meteor behaviour and space-debris re-entry patterns rathe
 
 ### Satellites and Starlink confusion
 
-Modern satellite constellations have added a new source of UFO reports globally, including in Pacific island nations. Lines of Starlink satellites are particularly confusing to observers unfamiliar with orbital launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-snippet">Popular ScienceYou didn&#x27;t see a UFO. It was probably one of these things.The classic culprit for UFO sightings is a group of clouds movin...</span></span></span>
+Modern satellite constellations have added a new source of UFO reports globally, including in Pacific island nations. Lines of Starlink satellites are particularly confusing to observers unfamiliar with orbital launches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-snippet">Popular ScienceYou didn&#x27;t see a UFO. It was probably one of these things.The classic culprit for UFO sightings is a group of clouds movin...</span></span></span>
 
 In Fiji, these satellite trains can appear over dark ocean skies with little light pollution, creating impressions of:
 
@@ -326,7 +326,7 @@ Fiji’s expanding aviation links and increasing recreational drone use provide 
 
 ### Aircraft lights over ocean approaches
 
-Commercial aircraft approaching Nadi International Airport or crossing Pacific air routes can appear highly unusual at night. Landing lights aimed directly towards observers may seem stationary for long periods before suddenly shifting direction. This optical effect is common worldwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects...</span></span></span>
+Commercial aircraft approaching Nadi International Airport or crossing Pacific air routes can appear highly unusual at night. Landing lights aimed directly towards observers may seem stationary for long periods before suddenly shifting direction. This optical effect is common worldwide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects...</span></span></span>
 
 Over water, depth perception becomes even less reliable. Observers may incorrectly assume:
 
@@ -368,7 +368,7 @@ Navigation lights blinking through cloud layers or reflected by moisture can cre
 
 as structured anomalous craft rather than standard aviation activity.
 
-Globally, classified or unfamiliar aircraft have historically contributed to UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena?srsltid=AfmBOooyiSsHAF6vkhvcA8Qvuy_LLvyDwGHkOqjG64E2Zoyp_trX8U-s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">Other celestial</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena: What Science Really KnowsVenus is particularly problematic, as it can appear surprisingly...</span></span></span> While there is no evidence linking Fiji sightings to secret aerospace programmes, ordinary unfamiliar aircraft behaviour is sufficient to explain many local accounts.
+Globally, classified or unfamiliar aircraft have historically contributed to UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena?srsltid=AfmBOooyiSsHAF6vkhvcA8Qvuy_LLvyDwGHkOqjG64E2Zoyp_trX8U-s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">Other celestial</span><span class="citation-popover-snippet">Unidentified Aerial Phenomena: What Science Really KnowsVenus is particularly problematic, as it can appear surprisingly...</span></span></span> While there is no evidence linking Fiji sightings to secret aerospace programmes, ordinary unfamiliar aircraft behaviour is sufficient to explain many local accounts.
 
 ### Drones and modern aerial technology
 
@@ -390,7 +390,7 @@ Fiji’s tropical climate creates ideal conditions for visual distortions that c
 
 ### Temperature layers and mirages
 
-Warm ocean air interacting with cooler atmospheric layers can create superior mirages and distorted light effects. These atmospheric conditions bend light and alter the apparent position or shape of distant objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects...</span></span></span>
+Warm ocean air interacting with cooler atmospheric layers can create superior mirages and distorted light effects. These atmospheric conditions bend light and alter the apparent position or shape of distant objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects...</span></span></span>
 
 From coastal Fiji locations, distant ships, fishing vessels or aircraft lights may appear:
 
@@ -413,17 +413,17 @@ These effects become more convincing when:
 * observed from moving vehicles or boats;
 * interpreted during emotionally heightened moments.
 
-Psychologists studying UFO sightings note that human perception fills gaps when visual information is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-snippet">Popular ScienceYou didn&#x27;t see a UFO. It was probably one of these things.The classic culprit for UFO sightings is a group of clouds movin...</span></span></span> Once an observer suspects something unusual, ambiguous lights may quickly be interpreted as controlled objects.
+Psychologists studying UFO sightings note that human perception fills gaps when visual information is incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-snippet">Popular ScienceYou didn&#x27;t see a UFO. It was probably one of these things.The classic culprit for UFO sightings is a group of clouds movin...</span></span></span> Once an observer suspects something unusual, ambiguous lights may quickly be interpreted as controlled objects.
 
 ### The 1989 Taveuni “UFO” case
 
-One of Fiji’s better-known UFO incidents occurred in January 1989 near Taveuni, where hundreds reportedly saw a silver object in the sky. Contemporary reports described a shape that changed appearance and seemed transparent through binoculars. Some witnesses compared it to a balloon or rugby ball. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trove.nla.gov.au/newspaper/article/120905530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[trove.nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1989 - Fiji UFO: warning to aircraft - TroveSUVA: Fiji&#x27;s Civil Aviation Authority issued a UFO warning to aircraft on Thursday aft...</span></span></span>
+One of Fiji’s better-known UFO incidents occurred in January 1989 near Taveuni, where hundreds reportedly saw a silver object in the sky. Contemporary reports described a shape that changed appearance and seemed transparent through binoculars. Some witnesses compared it to a balloon or rugby ball.<span class="citation-chip-wrap"><a class="citation-chip" href="https://trove.nla.gov.au/newspaper/article/120905530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trove.nla.gov.au">[trove.nla.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trove.nla.gov.au</span><span class="citation-popover-snippet">21 Jan 1989 - Fiji UFO: warning to aircraft - TroveSUVA: Fiji&#x27;s Civil Aviation Authority issued a UFO warning to aircraft on Thursday aft...</span></span></span>
 
 Those details strongly resemble atmospheric distortion acting on either:
 
 * a high-altitude balloon;
 * reflective airborne debris;
-* a weather-related optical effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[skyatnightmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects...</span></span></span>
+* a weather-related optical effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[skyatnightmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Here we&#x27;ll look at some of the most likely suspects...</span></span></span>
 
 The reported changing shape is especially important. Genuine structured craft would not normally appear to morph continuously between oval and circular forms under magnification, whereas atmospheric turbulence routinely distorts distant reflective objects.
 
@@ -445,13 +445,13 @@ Typical limitations include:
 
 Without these elements, many cases cannot be conclusively solved even when ordinary explanations are likely. This distinction matters: “unidentified” does not mean alien or technologically impossible. It often simply means there was insufficient information to determine the source confidently.
 
-The situation is amplified in Fiji because there is no dedicated national UAP investigation body or public archive equivalent to those found in some larger countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fijitimes.com.fj/ufos-are-we-closer-than-ever-to-an-answer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fijitimes.com.fj">[fijitimes.com.fj]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fijitimes.com.fj</span><span class="citation-popover-title">UF Os &#124; Are we closer than ever to an answer?</span><span class="citation-popover-snippet">And should they be investigated? &#x27;A lot of UFO hunting&#x27;. UFOs have held our attention for...</span></span></span> Many sightings therefore persist mainly through retellings, online reposts and folklore rather than systematic analysis.
+The situation is amplified in Fiji because there is no dedicated national UAP investigation body or public archive equivalent to those found in some larger countries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fijitimes.com.fj/ufos-are-we-closer-than-ever-to-an-answer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fijitimes.com.fj">[fijitimes.com.fj]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fijitimes.com.fj</span><span class="citation-popover-title">UF Os &#124; Are we closer than ever to an answer?</span><span class="citation-popover-snippet">And should they be investigated? &#x27;A lot of UFO hunting&#x27;. UFOs have held our attention for...</span></span></span> Many sightings therefore persist mainly through retellings, online reposts and folklore rather than systematic analysis.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jOOcYtOjtQU" title="SpaceX launch creates glowing spiral over UK sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer">SpaceX launch creates glowing spiral over UK sky</a></p><p class="youtube-embed-meta">Channel: Times News &middot; Views: 127.2K &middot; Uploaded: March 2025 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jOOcYtOjtQU">Open on YouTube</a></p></div></div></div>
 
 ## Social Media, Rumours and the Spread of UFO Narratives
 
-Modern Fiji UFO stories increasingly circulate through Facebook, TikTok, YouTube and messaging apps before verification occurs. This accelerates speculation and encourages dramatic interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/2765284703531222/posts/4231820556877622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Seen from the Fiji island last night</span><span class="citation-popover-snippet">Can anybody explain this...June 18, 2021 — Footage posted on social media shows the spiral shape expanding in size over a matter of seco...</span><span class="citation-popover-meta">Published: June 18, 2021</span></span></span>
+Modern Fiji UFO stories increasingly circulate through Facebook, TikTok, YouTube and messaging apps before verification occurs. This accelerates speculation and encourages dramatic interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/2765284703531222/posts/4231820556877622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Seen from the Fiji island last night</span><span class="citation-popover-snippet">Can anybody explain this...June 18, 2021 — Footage posted on social media shows the spiral shape expanding in size over a matter of seco...</span><span class="citation-popover-meta">Published: June 18, 2021</span></span></span>
 
 Several Fiji social-media incidents involving glowing lights or unusual sky patterns were later linked to:
 
@@ -484,194 +484,194 @@ Most Fiji cases fit categories already recognised by astronomers, aviation exper
 A small number of reports remain unresolved, but unresolved does not automatically imply extraordinary origins. In Fiji, as elsewhere, the available evidence generally supports cautious terrestrial explanations over claims of alien craft or unknown non-human technology.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Natural and Human Causes Behind Fiji UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Natural and Human Causes Behind Fiji UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses critical evaluation of unusual claims and sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses critical evaluation of unusual claims and sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Explains astronomical objects commonly mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains astronomical objects commonly mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify planets, satellites, and celestial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify planets, satellites, and celestial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Relevant to bright fireballs and atmospheric events mistaken for craft.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to bright fireballs and atmospheric events mistaken for craft.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="natural-and-human-causes-behind-fiji-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -687,7 +687,7 @@ A small number of reports remain unresolved, but unresolved does not automatical
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -707,7 +707,7 @@ A small number of reports remain unresolved, but unresolved does not automatical
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -739,7 +739,7 @@ A small number of reports remain unresolved, but unresolved does not automatical
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -791,7 +791,7 @@ A small number of reports remain unresolved, but unresolved does not automatical
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -836,7 +836,7 @@ A small number of reports remain unresolved, but unresolved does not automatical
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -877,163 +877,163 @@ A small number of reports remain unresolved, but unresolved does not automatical
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fijitimes.com.fj  
    Title: UF Os | Are we closer than ever to an answer?  
-   Link: <a href="https://www.fijitimes.com.fj/ufos-are-we-closer-than-ever-to-an-answer/" target="_blank" rel="noopener noreferrer nofollow">https://www.fijitimes.com.fj/ufos-are-we-closer-than-ever-to-an-answer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>And should they be investigated? &#x27;A lot of UFO hunting&#x27;. UFOs have held our attention for...</p></details>
+   Link:<a href="https://www.fijitimes.com.fj/ufos-are-we-closer-than-ever-to-an-answer/" target="_blank" rel="noopener noreferrer nofollow">https://www.fijitimes.com.fj/ufos-are-we-closer-than-ever-to-an-answer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And should they be investigated? &#x27;A lot of UFO hunting&#x27;. UFOs have held our attention for...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/120905530" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/120905530</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 1989 - Fiji UFO: warning to aircraft - TroveSUVA: Fiji&#x27;s Civil Aviation Authority issued a UFO warning to aircraft on Thursday aft...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/120905530" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/120905530</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 1989 - Fiji UFO: warning to aircraft - TroveSUVA: Fiji&#x27;s Civil Aviation Authority issued a UFO warning to aircraft on Thursday aft...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hangar1publishing.com  
    Title: Other celestial  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena?srsltid=AfmBOooyiSsHAF6vkhvcA8Qvuy_LLvyDwGHkOqjG64E2Zoyp_trX8U-s" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena?srsltid=AfmBOooyiSsHAF6vkhvcA8Qvuy_LLvyDwGHkOqjG64E2Zoyp_trX8U-s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena: What Science Really KnowsVenus is particularly problematic, as it can appear surprisingly...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena?srsltid=AfmBOooyiSsHAF6vkhvcA8Qvuy_LLvyDwGHkOqjG64E2Zoyp_trX8U-s" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena?srsltid=AfmBOooyiSsHAF6vkhvcA8Qvuy_LLvyDwGHkOqjG64E2Zoyp_trX8U-s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena: What Science Really KnowsVenus is particularly problematic, as it can appear surprisingly...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: astrojack.com  
    Title: The Truth is (Probably) Out There  
-   Link: <a href="https://www.astrojack.com/the-truth-is-probably-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.astrojack.com/the-truth-is-probably-out-there/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brian JacksonJuly 10, 2021 — But just because a phenomenon is bizarre and unexplained, that doesn&#x27;t mean it&#x27;s aliens. That strange light...</p></details>
+   Link:<a href="https://www.astrojack.com/the-truth-is-probably-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.astrojack.com/the-truth-is-probably-out-there/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brian JacksonJuly 10, 2021 — But just because a phenomenon is bizarre and unexplained, that doesn&#x27;t mean it&#x27;s aliens. That strange light...</p></details>
    Published: July 10, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena?srsltid=AfmBOoojCbzFUBtuilhc6IMemdHpPuReReYyuQVIrjoasJIjYS5T41_W" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena?srsltid=AfmBOoojCbzFUBtuilhc6IMemdHpPuReReYyuQVIrjoasJIjYS5T41_W</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena: What Science Really KnowsMarch 14, 2025 — The U-2 and SR-71 spy planes, flying at unprece...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena?srsltid=AfmBOoojCbzFUBtuilhc6IMemdHpPuReReYyuQVIrjoasJIjYS5T41_W" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena?srsltid=AfmBOoojCbzFUBtuilhc6IMemdHpPuReReYyuQVIrjoasJIjYS5T41_W</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena: What Science Really KnowsMarch 14, 2025 — The U-2 and SR-71 spy planes, flying at unprece...</p></details>
    Published: March 14, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: Seen from the Fiji island last night  
-   Link: <a href="https://www.facebook.com/groups/2765284703531222/posts/4231820556877622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2765284703531222/posts/4231820556877622/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can anybody explain this...June 18, 2021 — Footage posted on social media shows the spiral shape expanding in size over a matter of seco...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2765284703531222/posts/4231820556877622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2765284703531222/posts/4231820556877622/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can anybody explain this...June 18, 2021 — Footage posted on social media shows the spiral shape expanding in size over a matter of seco...</p></details>
    Published: June 18, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fijivillage/posts/flares-in-the-sky-not-aliensfijinews/543345324610065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fijivillage/posts/flares-in-the-sky-not-aliensfijinews/543345324610065/</a>  
+   Link:<a href="https://www.facebook.com/fijivillage/posts/flares-in-the-sky-not-aliensfijinews/543345324610065/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fijivillage/posts/flares-in-the-sky-not-aliensfijinews/543345324610065/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/504232366322711/posts/26902396162746305/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/504232366322711/posts/26902396162746305/</a>  
+   Link:<a href="https://www.facebook.com/groups/504232366322711/posts/26902396162746305/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/504232366322711/posts/26902396162746305/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/11139090710/posts/10174550250410711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/11139090710/posts/10174550250410711/</a>  
+   Link:<a href="https://www.facebook.com/groups/11139090710/posts/10174550250410711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/11139090710/posts/10174550250410711/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fm96fiji/posts/isouuu-fiji-almost-had-aliens-in-nadi-lmao/10160480046496624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fm96fiji/posts/isouuu-fiji-almost-had-aliens-in-nadi-lmao/10160480046496624/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vailable...</p></details>
+   Link:<a href="https://www.facebook.com/fm96fiji/posts/isouuu-fiji-almost-had-aliens-in-nadi-lmao/10160480046496624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fm96fiji/posts/isouuu-fiji-almost-had-aliens-in-nadi-lmao/10160480046496624/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vailable...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCPacific/posts/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693353926332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCPacific/posts/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693353926332/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC PacificCycil Tyonai Read the full story here: 1) [https://www.facebook.com/share/p/1TxJqKh2Vv/](https://www.facebook.com/share/p/1TxJqKh2Vv/) 2) [https://www.ufoinsight](https://www.ufoinsight). com/aliens/e...</p></details>
+   Link:<a href="https://www.facebook.com/ABCPacific/posts/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693353926332/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCPacific/posts/the-truth-is-out-there-the-files-mention-two-sightings-in-png-one-was-an-unknown/1415693353926332/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC PacificCycil Tyonai Read the full story here: 1) [https://www.facebook.com/share/p/1TxJqKh2Vv/](https://www.facebook.com/share/p/1TxJqKh2Vv/) 2) [https://www.ufoinsight](https://www.ufoinsight). com/aliens/e...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ia801803.us.archive.org  
-   Link: <a href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>archive.org[PDF] The Cometa Report [UFO&#x27;s And DefenseWhat Should We Prepare For? -An independent report on UFOs written by the French ass...</p></details>
+   Link:<a href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>archive.org[PDF] The Cometa Report [UFO&#x27;s And DefenseWhat Should We Prepare For? -An independent report on UFOs written by the French ass...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: You Tube Share your videos with friends, family, and the world  
-   Link: <a href="https://www.youtube.com/shorts/mXJu9HclHg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/mXJu9HclHg8</a>  
+   Link:<a href="https://www.youtube.com/shorts/mXJu9HclHg8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/mXJu9HclHg8</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Strange spiral spotted in sky above South Pacific Islands  
-   Link: <a href="https://www.youtube.com/watch?v=K04JXsXYmSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K04JXsXYmSA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launch creates glowing spiral over UK sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K04JXsXYmSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K04JXsXYmSA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launch creates glowing spiral over UK sky...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Space X launch creates glowing spiral over UK sky  
-   Link: <a href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jOOcYtOjtQU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BBC Sky at Night Magazine...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jOOcYtOjtQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jOOcYtOjtQU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BBC Sky at Night Magazine...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: New UFO Files Reveal Risks To Commercial Flights | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GeMvmwEBcC0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Good Luck With Aliens&#x27;: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GeMvmwEBcC0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Good Luck With Aliens&#x27;: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eJJCHOMajGo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Light Disappears Over the Pacific (S5) | The Proof Is Out There | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eJJCHOMajGo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre Light Disappears Over the Pacific (S5) | The Proof Is Out There | History...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Km6tgYaNcD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Km6tgYaNcD0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Km6tgYaNcD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Km6tgYaNcD0</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skyatnightmagazine.com  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here we&#x27;ll look at some of the most likely suspects...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here we&#x27;ll look at some of the most likely suspects...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: popsci.com  
-   Link: <a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceYou didn&#x27;t see a UFO. It was probably one of these things.The classic culprit for UFO sightings is a group of clouds movin...</p></details>
+   Link:<a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceYou didn&#x27;t see a UFO. It was probably one of these things.The classic culprit for UFO sightings is a group of clouds movin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: taipeitimes.com  
-   Link: <a href="https://www.taipeitimes.com/News/world/archives/2026/05/10/2003857084" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/world/archives/2026/05/10/2003857084</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file drop adds old files, but little proof10 May 2026 — The Pentagon on Friday released an initial group of previously secret files d...</p></details>
+   Link:<a href="https://www.taipeitimes.com/News/world/archives/2026/05/10/2003857084" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/world/archives/2026/05/10/2003857084</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file drop adds old files, but little proof10 May 2026 — The Pentagon on Friday released an initial group of previously secret files d...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cia.gov  
    Title: TH E NATIONAL INVESTIGATIONS COMMITTEE ON AERIAL  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON AERIAL... - CIABlue Book UFO investigation, prepared analyses of UFO data for AF, liaison offic...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON AERIAL... - CIABlue Book UFO investigation, prepared analyses of UFO data for AF, liaison offic...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: blog.myheritage.com  
    Title: chronicles of the unexplained ufo sighting reports in 1960s news  
-   Link: <a href="https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/" target="_blank" rel="noopener noreferrer nofollow">https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MyHeritage BlogChronicles of the Unexplained: UFO Sighting Reports in...9 Aug 2023 — Discover the UFO sighting reports that captivated t...</p></details>
+   Link:<a href="https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/" target="_blank" rel="noopener noreferrer nofollow">https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MyHeritage BlogChronicles of the Unexplained: UFO Sighting Reports in...9 Aug 2023 — Discover the UFO sighting reports that captivated t...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOopj6pDyCM-bM4cXQdF4R1op0kq4_eWjt0afYzphvBCPKc4rzKV2" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOopj6pDyCM-bM4cXQdF4R1op0kq4_eWjt0afYzphvBCPKc4rzKV2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
+   Link:<a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOopj6pDyCM-bM4cXQdF4R1op0kq4_eWjt0afYzphvBCPKc4rzKV2" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOopj6pDyCM-bM4cXQdF4R1op0kq4_eWjt0afYzphvBCPKc4rzKV2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
    Title: flying triangle ufo 9171960 it was a standard  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/ccgafe/flying_triangle_ufo_9171960_it_was_a_standard/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ccgafe/flying_triangle_ufo_9171960_it_was_a_standard/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Triangle UFO- 9/17/1960. It was a standard...What are, in your opinion, the most credible UFO stories? r/UFOs. • 19d ago...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/ccgafe/flying_triangle_ufo_9171960_it_was_a_standard/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ccgafe/flying_triangle_ufo_9171960_it_was_a_standard/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Triangle UFO- 9/17/1960. It was a standard...What are, in your opinion, the most credible UFO stories? r/UFOs. • 19d ago...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sciencenews.org  
    Title: scientists serious ufo uap security  
-   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science NewsScientists are getting serious about UFOs. Here&#x27;s why7 Aug 2024 — UFOs have been rebranded as UAPs (unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science NewsScientists are getting serious about UFOs. Here&#x27;s why7 Aug 2024 — UFOs have been rebranded as UAPs (unidentified anomalous ph...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CNN.... Gill, W. (1978). The Gill sightings, June 1959: Anglican missionary...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CNN.... Gill, W. (1978). The Gill sightings, June 1959: Anglican missionary...Read more...</p></details>
    Published: June 1959  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: globalpeatlands.org  
-   Link: <a href="https://globalpeatlands.org/sites/default/files/2024-09/202210_GPA%20The%20State%20of%20the%20World%E2%80%99s%20Peatlands_14%20MAIN_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://globalpeatlands.org/sites/default/files/2024-09/202210_GPA%20The%20State%20of%20the%20World%E2%80%99s%20Peatlands_14%20MAIN_1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oration and wise use in a manner that maximises...</p></details>
+   Link:<a href="https://globalpeatlands.org/sites/default/files/2024-09/202210_GPA%20The%20State%20of%20the%20World%E2%80%99s%20Peatlands_14%20MAIN_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://globalpeatlands.org/sites/default/files/2024-09/202210_GPA%20The%20State%20of%20the%20World%E2%80%99s%20Peatlands_14%20MAIN_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oration and wise use in a manner that maximises...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>

@@ -257,25 +257,25 @@ image: /assets/images/Pakistan_82d220_pia_pk304_sighting_1ba151-Illustration-1-s
 The January 2021 sighting from Pakistan International Airlines flight PK-304 is often described as Pakistan’s strongest modern UFO case, but not because the evidence is overwhelming. It stands out because it involved trained aviation personnel, generated cockpit imagery, attracted national media attention, and was acknowledged by the airline itself. Yet the same case also demonstrates why many UFO reports remain unresolved without becoming truly mysterious.
 
 <img src="{{ "/assets/images/Pakistan_82d220_pia_pk304_sighting_1ba151-Illustration-1-dark.svg" | relative_url }}" alt="PIA Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220_pia_pk304_sighting_1ba151-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220_pia_pk304_sighting_1ba151-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the PK-304 incident important is the gap between what was reported and what was actually documented. The crew reported an unusually bright object seen during a routine domestic flight from Karachi to Lahore. A short cockpit video and still images circulated publicly. The airline confirmed that the sighting had been reported through normal channels. However, no publicly released radar data, flight-analysis package, air traffic control records, astronomical reconstruction, or formal investigation report ever appeared. The result is a case that remains intriguing but evidentially incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
+What makes the PK-304 incident important is the gap between what was reported and what was actually documented. The crew reported an unusually bright object seen during a routine domestic flight from Karachi to Lahore. A short cockpit video and still images circulated publicly. The airline confirmed that the sighting had been reported through normal channels. However, no publicly released radar data, flight-analysis package, air traffic control records, astronomical reconstruction, or formal investigation report ever appeared. The result is a case that remains intriguing but evidentially incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
 
 ## What the pilots reported
 
-On 23 January 2021, the crew of Pakistan International Airlines flight PK-304, an Airbus A320 travelling from Karachi to Lahore, reported seeing a bright object near Rahim Yar Khan during the afternoon. According to media accounts quoting airline sources, the object appeared exceptionally luminous despite broad daylight conditions. The captain reportedly stated that such brightness was unusual and speculated that it was not a planet, suggesting it might instead be some kind of artificial object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
+On 23 January 2021, the crew of Pakistan International Airlines flight PK-304, an Airbus A320 travelling from Karachi to Lahore, reported seeing a bright object near Rahim Yar Khan during the afternoon. According to media accounts quoting airline sources, the object appeared exceptionally luminous despite broad daylight conditions. The captain reportedly stated that such brightness was unusual and speculated that it was not a planet, suggesting it might instead be some kind of artificial object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
 
-The case gained immediate attention because it was not presented as a passenger sighting or a social-media rumour. The witness was a commercial flight crew operating an active airline service. PIA spokespersons confirmed that the object had been observed and that the crew reported it to operational authorities in accordance with standard procedure. At the same time, airline representatives were careful not to endorse any extraordinary interpretation. They repeatedly stated that they could not determine what the object actually was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
+The case gained immediate attention because it was not presented as a passenger sighting or a social-media rumour. The witness was a commercial flight crew operating an active airline service. PIA spokespersons confirmed that the object had been observed and that the crew reported it to operational authorities in accordance with standard procedure. At the same time, airline representatives were careful not to endorse any extraordinary interpretation. They repeatedly stated that they could not determine what the object actually was.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
 
-That distinction matters. A pilot reporting an unidentified object is not the same thing as a pilot identifying an extraordinary object. The public reporting consistently showed that the crew observed something unusual, but the available record never demonstrated that the object displayed impossible flight characteristics, sudden acceleration, or behaviour beyond known aircraft, atmospheric, or astronomical phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
+That distinction matters. A pilot reporting an unidentified object is not the same thing as a pilot identifying an extraordinary object. The public reporting consistently showed that the crew observed something unusual, but the available record never demonstrated that the object displayed impossible flight characteristics, sudden acceleration, or behaviour beyond known aircraft, atmospheric, or astronomical phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
 
 ## What the video can and cannot show
 
-The public evidence largely rests on a short cockpit recording and a handful of still images that circulated through Pakistani television and social media. The footage appears to show a bright white object against the sky, but it is limited in several important ways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/etribune/posts/a-short-video-shot-by-the-cockpit-crew-of-a-pia-aircraft-set-off-frenzied-specul/4575205809163076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">a short video shot by the cockpit crew of a pia aircraft set off frenzied specul</span><span class="citation-popover-snippet">The video was shot over...Read more...</span></span></span>
+The public evidence largely rests on a short cockpit recording and a handful of still images that circulated through Pakistani television and social media. The footage appears to show a bright white object against the sky, but it is limited in several important ways.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/etribune/posts/a-short-video-shot-by-the-cockpit-crew-of-a-pia-aircraft-set-off-frenzied-specul/4575205809163076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">a short video shot by the cockpit crew of a pia aircraft set off frenzied specul</span><span class="citation-popover-snippet">The video was shot over...Read more...</span></span></span>
 
 First, the recording provides almost no reliable information about distance. A bright object viewed through a cockpit window can appear large or unusual without revealing whether it is a few kilometres away, tens of kilometres away, or much farther. Without known range data, apparent size becomes difficult to interpret.
 
 Second, the footage does not establish speed. An object can appear stationary because it is extremely distant, because it is moving in a similar direction to the observing aircraft, or because of perspective effects. Conversely, apparent motion in handheld footage can be caused by aircraft movement, camera movement, zoom, or atmospheric distortion.
 
-Third, the publicly available material lacks supporting sensor information. Modern aviation investigations normally become much stronger when visual observations can be compared against radar returns, transponder records, meteorological data, satellite observations, or astronomical charts. None of that supporting evidence entered the public domain in a way that independent researchers could evaluate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
+Third, the publicly available material lacks supporting sensor information. Modern aviation investigations normally become much stronger when visual observations can be compared against radar returns, transponder records, meteorological data, satellite observations, or astronomical charts. None of that supporting evidence entered the public domain in a way that independent researchers could evaluate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
 
 The result is a familiar problem in UFO research: a potentially interesting visual observation exists, but the contextual data required to determine its nature are absent.
 
@@ -310,13 +310,13 @@ One reason the PK-304 sighting continues to attract debate is that several ordin
 
 ### A cloud phenomenon
 
-Shortly after the incident, Pakistani media reported comments from Punjab University space scientist Javed Sami, who argued that the object was likely a lenticular cloud. Lenticular clouds are stationary lens-shaped formations that can appear unusually bright and structured when illuminated by sunlight. Because they are often associated with dramatic visual appearances, they have frequently been mistaken for flying saucers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
+Shortly after the incident, Pakistani media reported comments from Punjab University space scientist Javed Sami, who argued that the object was likely a lenticular cloud. Lenticular clouds are stationary lens-shaped formations that can appear unusually bright and structured when illuminated by sunlight. Because they are often associated with dramatic visual appearances, they have frequently been mistaken for flying saucers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
 
-Sami also noted that aircraft speed and viewing angle can distort the apparent shape of distant objects in photographs. His explanation did not prove that the object was a lenticular cloud, but it demonstrated that a conventional atmospheric interpretation existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
+Sami also noted that aircraft speed and viewing angle can distort the apparent shape of distant objects in photographs. His explanation did not prove that the object was a lenticular cloud, but it demonstrated that a conventional atmospheric interpretation existed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
 
 ### A distant astronomical object
 
-Early reports quoted suggestions that the object might resemble a space station or some other bright object in the sky. Astronomical misidentifications are common in UFO history because bright celestial bodies can appear unexpectedly prominent under certain atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
+Early reports quoted suggestions that the object might resemble a space station or some other bright object in the sky. Astronomical misidentifications are common in UFO history because bright celestial bodies can appear unexpectedly prominent under certain atmospheric conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
 
 However, because no publicly released reconstruction matched the sighting time and location against astronomical data, this possibility was neither confirmed nor ruled out.
 
@@ -326,7 +326,7 @@ However, because no publicly released reconstruction matched the sighting time a
 
 Commercial crews occasionally encounter unusual visual conditions involving distant aircraft, balloons, atmospheric reflections, or sunlit objects at high altitude. Without radar data or independent tracking information, these possibilities remain open.
 
-Crucially, the public evidence never demonstrated behaviour that would eliminate these explanations. Reports focused on brightness and appearance rather than extraordinary manoeuvres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
+Crucially, the public evidence never demonstrated behaviour that would eliminate these explanations. Reports focused on brightness and appearance rather than extraordinary manoeuvres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ntHLVD2M2Mg" title="PIA Pilots Saw Something at 35,000 Feet – Yeh Kya Tha?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ntHLVD2M2Mg" target="_blank" rel="noopener noreferrer">PIA Pilots Saw Something at 35,000 Feet – Yeh Kya Tha?</a></p><p class="youtube-embed-meta">Channel: Your Flight Radar &middot; Views: 1.7K &middot; Uploaded: December 2025 &middot; Length: 4 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ntHLVD2M2Mg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ntHLVD2M2Mg">Open on YouTube</a></p></div></div></div>
 
@@ -341,201 +341,201 @@ In the PK-304 case, the pilots' credibility strengthens the report that somethin
 <img src="{{ "/assets/images/Pakistan_82d220_pia_pk304_sighting_1ba151-Illustration-3-dark.svg" | relative_url }}" alt="PIA Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Pakistan_82d220_pia_pk304_sighting_1ba151-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pakistan_82d220_pia_pk304_sighting_1ba151-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case remains important in Pakistan's UFO record
 
-Pakistan has relatively few well-publicised UFO cases involving commercial aviation crews. Most local reports consist of civilian sightings, social-media videos, or brief accounts with little supporting documentation. Against that background, the PK-304 incident stands out because it involved identifiable witnesses, a specific flight, a known location, and acknowledgement from the airline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
+Pakistan has relatively few well-publicised UFO cases involving commercial aviation crews. Most local reports consist of civilian sightings, social-media videos, or brief accounts with little supporting documentation. Against that background, the PK-304 incident stands out because it involved identifiable witnesses, a specific flight, a known location, and acknowledgement from the airline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span>
 
 At the same time, the case illustrates a broader pattern visible across Pakistan’s UFO record. Public attention often centres on dramatic imagery or witness statements, while the decisive evidence needed for rigorous analysis never becomes available. The result is a category of cases that are neither convincingly explained nor convincingly anomalous.
 
-For readers looking for a single Pakistani incident that captures the strengths and weaknesses of modern UFO reporting, the PK-304 sighting is probably the clearest example. It is noteworthy because there was a real aviation report and a real visual observation. It remains unresolved because the evidence released to the public is not sufficient to determine what the crew actually saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune.com.pk">[The Express Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune.com.pk</span><span class="citation-popover-title">pia pilot spots ufo maybe not</span><span class="citation-popover-snippet">The Express TribunePIA pilot spots UFO. Maybe not27 Jan 2021 — As the UFO sighting started trending on social media, netizens came up wit...</span></span></span>
+For readers looking for a single Pakistani incident that captures the strengths and weaknesses of modern UFO reporting, the PK-304 sighting is probably the clearest example. It is noteworthy because there was a real aviation report and a real visual observation. It remains unresolved because the evidence released to the public is not sufficient to determine what the crew actually saw.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geo.tv">[Geo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geo.tv</span><span class="citation-popover-title">It was seen at around 4pm</span><span class="citation-popover-snippet">Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</span><span class="citation-popover-meta">Published: January 27, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune.com.pk">[The Express Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune.com.pk</span><span class="citation-popover-title">pia pilot spots ufo maybe not</span><span class="citation-popover-snippet">The Express TribunePIA pilot spots UFO. Maybe not27 Jan 2021 — As the UFO sighting started trending on social media, netizens came up wit...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was the PIA UFO a Real Mystery?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was the PIA UFO a Real Mystery?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing aviation sightings with historical reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing aviation sightings with historical reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how witness testimony and evidence should be assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how witness testimony and evidence should be assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Closely matches a cockpit sighting involving trained aviation personnel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches a cockpit sighting involving trained aviation personnel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines modern pilot and military encounters with unidentified objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern pilot and military encounters with unidentified objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-pia-ufo-a-real-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-pia-ufo-a-real-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ For readers looking for a single Pakistani incident that captures the strengths 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ For readers looking for a single Pakistani incident that captures the strengths 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ For readers looking for a single Pakistani incident that captures the strengths 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ For readers looking for a single Pakistani incident that captures the strengths 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ For readers looking for a single Pakistani incident that captures the strengths 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,112 +738,111 @@ For readers looking for a single Pakistani incident that captures the strengths 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: geo.tv  
    Title: It was seen at around 4pm  
-   Link: <a href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</p></details>
+   Link:<a href="https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/332053-pia-pilots-see-ufo-on-domestic-flight</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geo NewsUFO spotted by Pakistani pilots near Rahim Yar Khan, new...January 27, 2021 — 27 Jan 2021 — A PIA spokesperson said that the UFO...</p></details>
    Published: January 27, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
    Title: a short video shot by the cockpit crew of a pia aircraft set off frenzied specul  
-   Link: <a href="https://www.facebook.com/etribune/posts/a-short-video-shot-by-the-cockpit-crew-of-a-pia-aircraft-set-off-frenzied-specul/4575205809163076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/etribune/posts/a-short-video-shot-by-the-cockpit-crew-of-a-pia-aircraft-set-off-frenzied-specul/4575205809163076/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The video was shot over...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/etribune/posts/a-short-video-shot-by-the-cockpit-crew-of-a-pia-aircraft-set-off-frenzied-specul/4575205809163076/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/etribune/posts/a-short-video-shot-by-the-cockpit-crew-of-a-pia-aircraft-set-off-frenzied-specul/4575205809163076/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The video was shot over...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
    Title: mysterious pakistan on 23 january 2021 a pakistan international airline flight p  
-   Link: <a href="https://www.facebook.com/TBPOfficial1/videos/mysterious-pakistan-on-23-january-2021-a-pakistan-international-airline-flight-p/4427131014227453/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TBPOfficial1/videos/mysterious-pakistan-on-23-january-2021-a-pakistan-international-airline-flight-p/4427131014227453/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Pakistan: On 23 January 2021, a Pakistan...When it reached Rahim Yar Khan at around 4 PM, the pilot was stunned to see a whit...</p></details>
+   Link:<a href="https://www.facebook.com/TBPOfficial1/videos/mysterious-pakistan-on-23-january-2021-a-pakistan-international-airline-flight-p/4427131014227453/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TBPOfficial1/videos/mysterious-pakistan-on-23-january-2021-a-pakistan-international-airline-flight-p/4427131014227453/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Pakistan: On 23 January 2021, a Pakistan...When it reached Rahim Yar Khan at around 4 PM, the pilot was stunned to see a whit...</p></details>
    Published: january 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: geo.tv  
    Title: · The UFO was extremely bright despite the presence of sunlight,  
-   Link: <a href="https://www.geo.tv/latest/332468-false-alarm-pia-pilot-mistook-saucer-like-cloud-for-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/332468-false-alarm-pia-pilot-mistook-saucer-like-cloud-for-a-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geo NewsFalse alarm: PIA pilot mistook saucer-like cloud for a UFOJanuary 30, 2021 — 29 Jan 2021 — False alarm: PIA pilot mistook saucer...</p></details>
+   Link:<a href="https://www.geo.tv/latest/332468-false-alarm-pia-pilot-mistook-saucer-like-cloud-for-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/332468-false-alarm-pia-pilot-mistook-saucer-like-cloud-for-a-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geo NewsFalse alarm: PIA pilot mistook saucer-like cloud for a UFOJanuary 30, 2021 — 29 Jan 2021 — False alarm: PIA pilot mistook saucer...</p></details>
    Published: January 30, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: mysterious pakistan on 23 january 2021 a pakistan international airline flight p  
-   Link: <a href="https://www.facebook.com/TBPOfficial1/posts/mysterious-pakistan-on-23-january-2021-a-pakistan-international-airline-flight-p/1622324649897553/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TBPOfficial1/posts/mysterious-pakistan-on-23-january-2021-a-pakistan-international-airline-flight-p/1622324649897553/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On 23 January 2021, a Pakistan International Airline flight, PK...</p></details>
+   Link:<a href="https://www.facebook.com/TBPOfficial1/posts/mysterious-pakistan-on-23-january-2021-a-pakistan-international-airline-flight-p/1622324649897553/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TBPOfficial1/posts/mysterious-pakistan-on-23-january-2021-a-pakistan-international-airline-flight-p/1622324649897553/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On 23 January 2021, a Pakistan International Airline flight, PK...</p></details>
    Published: january 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DekhloTv/posts/a-pilot-of-the-pakistan-international-airlines-pia-captured-a-video-of-a-very-sh/1064367174058496/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DekhloTv/posts/a-pilot-of-the-pakistan-international-airlines-pia-captured-a-video-of-a-very-sh/1064367174058496/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shiny ❇, Unidentified Flying object (#UFO) hovering in the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/DekhloTv/posts/a-pilot-of-the-pakistan-international-airlines-pia-captured-a-video-of-a-very-sh/1064367174058496/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DekhloTv/posts/a-pilot-of-the-pakistan-international-airlines-pia-captured-a-video-of-a-very-sh/1064367174058496/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shiny ❇, Unidentified Flying object (#UFO) hovering in the...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PediastanOfficial/posts/pakistans-most-famous-ufo-encounter-caught-by-pia-pilots-at-35000-feet/122237441840514082/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PediastanOfficial/posts/pakistans-most-famous-ufo-encounter-caught-by-pia-pilots-at-35000-feet/122237441840514082/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ots estimating it was roughly 1,000 feet above them. The...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PediastanOfficial/posts/pakistans-most-famous-ufo-encounter-caught-by-pia-pilots-at-35000-feet/122237441840514082/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PediastanOfficial/posts/pakistans-most-famous-ufo-encounter-caught-by-pia-pilots-at-35000-feet/122237441840514082/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ots estimating it was roughly 1,000 feet above them. The...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tribune.com.pk  
    Title: pia pilot spots ufo maybe not  
-   Link: <a href="https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not" target="_blank" rel="noopener noreferrer nofollow">https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Express TribunePIA pilot spots UFO. Maybe not27 Jan 2021 — As the UFO sighting started trending on social media, netizens came up wit...</p></details>
+   Link:<a href="https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not" target="_blank" rel="noopener noreferrer nofollow">https://tribune.com.pk/story/2281596/pia-pilot-spots-ufo-maybe-not</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Express TribunePIA pilot spots UFO. Maybe not27 Jan 2021 — As the UFO sighting started trending on social media, netizens came up wit...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DDkkwKuvJ96/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DDkkwKuvJ96/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO? Pilots Stunned by Strange Lights Moving Up and Down...UFO Sightings: My Unbelievable Encounter Near Dallas! #UFO #UFOs #Aliens #Con...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DDkkwKuvJ96/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DDkkwKuvJ96/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO? Pilots Stunned by Strange Lights Moving Up and Down...UFO Sightings: My Unbelievable Encounter Near Dallas! #UFO #UFOs #Aliens #Con...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=B2WXp3WtN4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B2WXp3WtN4w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PIA pilot Reports Seeing UFO In Pakistan&#x27;s Airspace...PIA pilot Reports Seeing UFO In Pakistan&#x27;s Airspace | Pakistan Observer... PIA Pa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B2WXp3WtN4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B2WXp3WtN4w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PIA pilot Reports Seeing UFO In Pakistan&#x27;s Airspace...PIA pilot Reports Seeing UFO In Pakistan&#x27;s Airspace | Pakistan Observer... PIA Pa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dortmund.de  
-   Link: <a href="https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/institut-fuer-zeitungsforschung/dokumente/jbkg-bibliographie-kommunikationshistorischer-aufsa%CC%88tze-2021-druckversion-ohne-heftnummern.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/institut-fuer-zeitungsforschung/dokumente/jbkg-bibliographie-kommunikationshistorischer-aufsa%CC%88tze-2021-druckversion-ohne-heftnummern.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6-11, 22-23. [Über die... In: The Review of English studies N.S. 72 (2021) 304, S. 280-300. [Über gedruckte...</p></details>
+   Link:<a href="https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/institut-fuer-zeitungsforschung/dokumente/jbkg-bibliographie-kommunikationshistorischer-aufsa%CC%88tze-2021-druckversion-ohne-heftnummern.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dortmund.de/dortmund/projekte/rathaus/verwaltung/institut-fuer-zeitungsforschung/dokumente/jbkg-bibliographie-kommunikationshistorischer-aufsa%CC%88tze-2021-druckversion-ohne-heftnummern.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6-11, 22-23. [Über die... In: The Review of English studies N.S. 72 (2021) 304, S. 280-300. [Über gedruckte...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: finance.gov.pk  
-   Link: <a href="https://finance.gov.pk/budget/PMR_2024_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://finance.gov.pk/budget/PMR_2024_2025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PERFORMANCE MONITORING REPORT...The report provides an overview of the implementation and monitoring of performance-based budgeting duri...</p></details>
+   Link:<a href="https://finance.gov.pk/budget/PMR_2024_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://finance.gov.pk/budget/PMR_2024_2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PERFORMANCE MONITORING REPORT...The report provides an overview of the implementation and monitoring of performance-based budgeting duri...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: icao.int  
    Title: Final Report ATM SG 10 Rev 1 all appendices  
-   Link: <a href="https://www.icao.int/sites/default/files/APAC/Meetings/2022/2022%20ATM-SG-10/1-Report/Final-Report-ATM-SG-10-Rev-1-all-appendices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2022/2022%20ATM-SG-10/1-Report/Final-Report-ATM-SG-10-Rev-1-all-appendices.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Final-Report-ATM-SG-10-Rev-1-all-appendices.pdf21 Oct 2022 — The status reports were again presented to AAITF/16 in 2021 and... instruct...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/APAC/Meetings/2022/2022%20ATM-SG-10/1-Report/Final-Report-ATM-SG-10-Rev-1-all-appendices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/APAC/Meetings/2022/2022%20ATM-SG-10/1-Report/Final-Report-ATM-SG-10-Rev-1-all-appendices.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Final-Report-ATM-SG-10-Rev-1-all-appendices.pdf21 Oct 2022 — The status reports were again presented to AAITF/16 in 2021 and... instruct...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dawn.com  
    Title: 'Extraordinary' object spotted in sky: PIA  
-   Link: <a href="https://www.dawn.com/news/1604030" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/1604030</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tech28 Jan 2021 — May be the UFO was checking which PIA flight they can seize.... Aliens want to befriend mighty country will rule over...</p></details>
+   Link:<a href="https://www.dawn.com/news/1604030" target="_blank" rel="noopener noreferrer nofollow">https://www.dawn.com/news/1604030</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tech28 Jan 2021 — May be the UFO was checking which PIA flight they can seize.... Aliens want to befriend mighty country will rule over...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hrcp-web.org  
    Title: 2024 State of human rights in 2023 EN  
-   Link: <a href="https://hrcp-web.org/hrcpweb/wp-content/uploads/2020/09/2024-State-of-human-rights-in-2023-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hrcp-web.org/hrcpweb/wp-content/uploads/2020/09/2024-State-of-human-rights-in-2023-EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>State of Human Rights in 2023 - HRCPThe Human Rights Commission of Pakistan has reproduced the images included in this publication under...</p></details>
+   Link:<a href="https://hrcp-web.org/hrcpweb/wp-content/uploads/2020/09/2024-State-of-human-rights-in-2023-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hrcp-web.org/hrcpweb/wp-content/uploads/2020/09/2024-State-of-human-rights-in-2023-EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State of Human Rights in 2023 - HRCPThe Human Rights Commission of Pakistan has reproduced the images included in this publication under...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: geneva-academy.ch  
    Title: WarWATCH IHL in Focus Report 2024 25  
-   Link: <a href="https://geneva-academy.ch/wp-content/uploads/2026/01/WarWATCH-IHL-in-Focus-Report-2024-25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geneva-academy.ch/wp-content/uploads/2026/01/WarWATCH-IHL-in-Focus-Report-2024-25.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WAR WATCH IHL IN FOCUS REPORT12 Jan 2026 —... sighting in real time, and video footage from these cameras has been wide- ly disseminated...</p></details>
+   Link:<a href="https://geneva-academy.ch/wp-content/uploads/2026/01/WarWATCH-IHL-in-Focus-Report-2024-25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geneva-academy.ch/wp-content/uploads/2026/01/WarWATCH-IHL-in-Focus-Report-2024-25.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WAR WATCH IHL IN FOCUS REPORT12 Jan 2026 —... sighting in real time, and video footage from these cameras has been wide- ly disseminated...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Rafale Or Aliens | Netizens Take Guesses After Pak Pilot Claims He Saw UFO  
-   Link: <a href="https://www.youtube.com/watch?v=o0XTnTes3g0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o0XTnTes3g0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=o0XTnTes3g0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o0XTnTes3g0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves...</p></details>

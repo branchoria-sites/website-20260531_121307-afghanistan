@@ -1194,16 +1194,16 @@ image: /assets/images/Seychelles_3d2d7b-overview-social.jpg
 
 ## What the Seychelles UFO record actually contains
 
-Publicly accessible UFO databases do not show a large Seychelles case history. NUFORC’s country index lists Seychelles with two reports, a strikingly low number even beside other small island states and far below countries with larger populations, higher aviation traffic, or more active reporting cultures. This should not be read as proof that unusual sightings never occur in Seychelles. It is better read as proof that the accessible, English-language, internationally indexed record is narrow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
+Publicly accessible UFO databases do not show a large Seychelles case history. NUFORC’s country index lists Seychelles with two reports, a strikingly low number even beside other small island states and far below countries with larger populations, higher aviation traffic, or more active reporting cultures. This should not be read as proof that unusual sightings never occur in Seychelles. It is better read as proof that the accessible, English-language, internationally indexed record is narrow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/Seychelles_3d2d7b-overview.webp" | relative_url }}" alt="Overview image for What Do Seychelles UFO Reports Really Show?" loading="eager" decoding="sync" fetchpriority="high">
-The two visible NUFORC entries are both Mahé-related. The first is an approximate 2 January 1978 sighting from Victoria, Mahé, reported in 1999, in which four observers allegedly saw a silent changing formation of greenish lights moving down a valley before accelerating away. The second is a 21 March 2020 Mahé sighting, reported the same day, in which two observers saw multiple moving lights for about 90 minutes; NUFORC’s entry includes the parenthetical assessment “Starlink satellites”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=7099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The two visible NUFORC entries are both Mahé-related. The first is an approximate 2 January 1978 sighting from Victoria, Mahé, reported in 1999, in which four observers allegedly saw a silent changing formation of greenish lights moving down a valley before accelerating away. The second is a 21 March 2020 Mahé sighting, reported the same day, in which two observers saw multiple moving lights for about 90 minutes; NUFORC’s entry includes the parenthetical assessment “Starlink satellites”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=7099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 That split gives Seychelles a useful miniature chronology. The 1978 account belongs to the classic witness-testimony era: no public photograph, no sensor record, no preserved official investigation, and a claim that contemporary local press coverage existed. The 2020 account belongs to the satellite-constellation era, when unfamiliar strings of moving lights became a common source of UFO reports worldwide. In both cases, the report is valuable as a record of what witnesses said they saw, but neither is strong enough on its own to establish an extraordinary aerial event.
 
 ## The 1978 Mahé lights: the strongest local case, but not a closed case
 
-The 1978 Victoria/Mahé report is the most substantial Seychelles UFO claim currently visible in a major international database. The witness described a triangular or delta-like pattern of bright greenish lights, silent movement below or along a valley, a change into a single light, and rapid departure. The report also claims that the object was seen from several other locations on Mahé and over the surrounding sea, with varying descriptions: a disc near the airport, a cylinder of lights at a tracking station, and a sphere over the ocean. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The 1978 Victoria/Mahé report is the most substantial Seychelles UFO claim currently visible in a major international database. The witness described a triangular or delta-like pattern of bright greenish lights, silent movement below or along a valley, a change into a single light, and rapid departure. The report also claims that the object was seen from several other locations on Mahé and over the surrounding sea, with varying descriptions: a disc near the airport, a cylinder of lights at a tracking station, and a sphere over the ocean.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 Those details make the account memorable, but they also show why it should be treated cautiously. The sighting was said to have occurred in 1978 but was submitted to NUFORC in 1999, roughly two decades later. Memories can be sincere and still change over time, especially when an event is retold within families or local communities. The claim of next-day newspaper illustrations would be important corroboration, but the NUFORC page does not itself reproduce the article, identify the paper by name, or provide scans. Without that local press record, the case remains a late narrative report rather than a documented investigation.
 
@@ -1212,7 +1212,7 @@ A fair assessment is therefore “contested and potentially researchable”. It 
 <img src="{{ "/assets/images/Seychelles_3d2d7b-Illustration-1-dark.svg" | relative_url }}" alt="What Do Seychelles UFO Reports Really Show? illustration 1" data-theme-src-dark="{{ "/assets/images/Seychelles_3d2d7b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Seychelles_3d2d7b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2020 Mahé lights: a modern case with a likely mundane explanation
 
-The 21 March 2020 Mahé report is much easier to classify. NUFORC records it as a 90-minute sighting of lights moving in different directions and adds “Starlink satellites” in parentheses. That does not prove every light seen by the witnesses was a Starlink satellite, but it strongly indicates that the database reviewer considered satellite activity a likely explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
+The 21 March 2020 Mahé report is much easier to classify. NUFORC records it as a 90-minute sighting of lights moving in different directions and adds “Starlink satellites” in parentheses. That does not prove every light seen by the witnesses was a Starlink satellite, but it strongly indicates that the database reviewer considered satellite activity a likely explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
 
 This matters because Starlink and similar satellite constellations have changed the UFO-reporting environment. Shortly after launch, groups of satellites can appear as strings or clusters of moving lights, especially to observers who have not seen them before. Even when individual satellites spread out, multiple moving points can still be visible across a dark sky. Seychelles’ low-latitude island setting and tourism-oriented night-sky visibility can make such observations more noticeable, particularly away from heavy urban lighting.
 
@@ -1220,7 +1220,7 @@ The 2020 case is best classed as debunked or strongly explained, not as a high-v
 
 ## Why Mahé dominates the record
 
-The apparent concentration on Mahé is not necessarily evidence that Mahé has more unusual aerial phenomena than Praslin, La Digue or the outer islands. It is more likely a reporting artefact. Mahé contains Victoria, the main population centre, the main airport, national institutions, and more observers likely to describe a sighting in English to an international database. The NUFORC entries themselves are Mahé-centred: one in Victoria and one simply listed as Mahé. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=7099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The apparent concentration on Mahé is not necessarily evidence that Mahé has more unusual aerial phenomena than Praslin, La Digue or the outer islands. It is more likely a reporting artefact. Mahé contains Victoria, the main population centre, the main airport, national institutions, and more observers likely to describe a sighting in English to an international database. The NUFORC entries themselves are Mahé-centred: one in Victoria and one simply listed as Mahé.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=7099" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The geography of Seychelles also matters. The country sits across a wide Indian Ocean setting where an observer may see aircraft, satellites, meteors, distant ships, weather effects, drones, and reflected lights over water with few fixed reference points. Over the ocean, distance and speed are hard to judge. A silent light can seem close when it is high and far away; a low cloud, aircraft landing light, or satellite flare can look stranger than it would in a dense urban sky.
 
@@ -1230,30 +1230,30 @@ That is why a Seychelles-specific UFO page should not force a dramatic regional 
 
 ## Official records: aviation and weather exist, but a Seychelles UFO file trail is not visible
 
-No prominent public Seychelles government UFO archive surfaced in the accessible record. That contrasts with countries such as the United Kingdom and the United States, where national archives now provide structured access to historic UFO or UAP material. The UK National Archives, for example, hosts a public guide to Ministry of Defence UFO reports, while the US National Archives has established a UAP records collection under Record Group 615 for material transferred under the 2024 National Defense Authorization Act. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+No prominent public Seychelles government UFO archive surfaced in the accessible record. That contrasts with countries such as the United Kingdom and the United States, where national archives now provide structured access to historic UFO or UAP material. The UK National Archives, for example, hosts a public guide to Ministry of Defence UFO reports, while the US National Archives has established a UAP records collection under Record Group 615 for material transferred under the 2024 National Defense Authorization Act.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-For Seychelles, the most relevant official bodies are not UFO offices but ordinary aviation and environmental agencies. The Seychelles Civil Aviation Authority manages air navigation services in the Seychelles Flight Information Region, and local reporting in 2022 described modernisation of the air traffic management system and a move towards surveillance control using ground- and space-based ADS-B technology. Aireon, a space-based ADS-B provider, described the Seychelles FIR as covering about 2.63 million square kilometres, mostly oceanic airspace, bordering the flight information regions of Kenya, Somalia, India, Mauritius, Madagascar and Tanzania. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nation.sc/articles/15772/major-air-traffic-system-modernisation-to-enhance-seychelles-air-navigation-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nation.sc">[Seychelles Nation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nation.sc</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For Seychelles, the most relevant official bodies are not UFO offices but ordinary aviation and environmental agencies. The Seychelles Civil Aviation Authority manages air navigation services in the Seychelles Flight Information Region, and local reporting in 2022 described modernisation of the air traffic management system and a move towards surveillance control using ground- and space-based ADS-B technology. Aireon, a space-based ADS-B provider, described the Seychelles FIR as covering about 2.63 million square kilometres, mostly oceanic airspace, bordering the flight information regions of Kenya, Somalia, India, Mauritius, Madagascar and Tanzania.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nation.sc/articles/15772/major-air-traffic-system-modernisation-to-enhance-seychelles-air-navigation-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nation.sc">[Seychelles Nation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nation.sc</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That aviation context cuts both ways. Better aircraft surveillance makes ordinary air traffic easier to identify, but it does not automatically make every unusual light a formal UAP case. Many sightings reported by the public never reach aviation authorities; many aviation observations are resolved operationally and never become public stories; and some older cases predate modern tracking. For weather and natural-hazard context, the Seychelles Meteorological Authority provides forecasts, alerts, satellite imagery links and climate-related services, all of which would be relevant when checking whether a light, glow or apparent object might have had a meteorological explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.meteo.sc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteo.sc">[meteo.sc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteo.sc</span><span class="citation-popover-title">Seychelles Meteorological Authority</span><span class="citation-popover-snippet">Seychelles Meteorological Authority</span></span></span>
+That aviation context cuts both ways. Better aircraft surveillance makes ordinary air traffic easier to identify, but it does not automatically make every unusual light a formal UAP case. Many sightings reported by the public never reach aviation authorities; many aviation observations are resolved operationally and never become public stories; and some older cases predate modern tracking. For weather and natural-hazard context, the Seychelles Meteorological Authority provides forecasts, alerts, satellite imagery links and climate-related services, all of which would be relevant when checking whether a light, glow or apparent object might have had a meteorological explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.meteo.sc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteo.sc">[meteo.sc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteo.sc</span><span class="citation-popover-title">Seychelles Meteorological Authority</span><span class="citation-popover-snippet">Seychelles Meteorological Authority</span></span></span>
 
 ## Drones, satellites and skywatching have changed the meaning of “UFO” in Seychelles
 
-In a small island state, drones are especially important because they can appear near beaches, resorts, hillsides, boats and built-up areas where observers may not expect aircraft-like movement. Seychelles moved to regulate unmanned aircraft during the 2010s: a 2017 Seychelles Nation report said SCAA was developing rules to protect aircraft and create safer flying zones, while SCAA’s later drone safety guidelines state that drones weighing 200 grams or more must be registered before operation in Seychelles and that night operation is prohibited because of collision and injury risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nation.sc/articles/15772/major-air-traffic-system-modernisation-to-enhance-seychelles-air-navigation-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nation.sc">[Seychelles Nation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nation.sc</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In a small island state, drones are especially important because they can appear near beaches, resorts, hillsides, boats and built-up areas where observers may not expect aircraft-like movement. Seychelles moved to regulate unmanned aircraft during the 2010s: a 2017 Seychelles Nation report said SCAA was developing rules to protect aircraft and create safer flying zones, while SCAA’s later drone safety guidelines state that drones weighing 200 grams or more must be registered before operation in Seychelles and that night operation is prohibited because of collision and injury risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nation.sc/articles/15772/major-air-traffic-system-modernisation-to-enhance-seychelles-air-navigation-services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nation.sc">[Seychelles Nation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nation.sc</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is directly relevant to UFO assessment. A drone at dusk can hover, change direction sharply, show coloured lights, or seem silent if it is far enough away or masked by wind and surf. A satellite can cross the sky without sound and with steady brightness. A meteor can appear as a sudden bright streak or greenish fireball. A planet near the horizon can seem to pulse or move when seen through haze. Timeanddate’s Victoria sky page illustrates the practical point: visible planets, meteor showers, moon position and sky geometry vary by date and can be checked for a specific observation before treating it as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/night/seychelles/victoria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-title">Time and Date Night Sky Tonight: Visible Planets in Victoria</span><span class="citation-popover-snippet">Time and Date Night Sky Tonight: Visible Planets in Victoria</span></span></span>
+This is directly relevant to UFO assessment. A drone at dusk can hover, change direction sharply, show coloured lights, or seem silent if it is far enough away or masked by wind and surf. A satellite can cross the sky without sound and with steady brightness. A meteor can appear as a sudden bright streak or greenish fireball. A planet near the horizon can seem to pulse or move when seen through haze. Timeanddate’s Victoria sky page illustrates the practical point: visible planets, meteor showers, moon position and sky geometry vary by date and can be checked for a specific observation before treating it as anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/night/seychelles/victoria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-title">Time and Date Night Sky Tonight: Visible Planets in Victoria</span><span class="citation-popover-snippet">Time and Date Night Sky Tonight: Visible Planets in Victoria</span></span></span>
 
-The international UAP discussion also supports this cautious approach. The 2021 US intelligence preliminary assessment stated that UAP probably do not have a single explanation and listed possible categories including airborne clutter, natural atmospheric phenomena, US government or industry programmes, foreign systems and a residual “other” category. It also stressed limited data and the need for better collection and analysis. That framework is useful for Seychelles even though the report is not about Seychelles: it discourages both automatic debunking and automatic exotic interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
+The international UAP discussion also supports this cautious approach. The 2021 US intelligence preliminary assessment stated that UAP probably do not have a single explanation and listed possible categories including airborne clutter, natural atmospheric phenomena, US government or industry programmes, foreign systems and a residual “other” category. It also stressed limited data and the need for better collection and analysis. That framework is useful for Seychelles even though the report is not about Seychelles: it discourages both automatic debunking and automatic exotic interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
 <img src="{{ "/assets/images/Seychelles_3d2d7b-Illustration-2-dark.svg" | relative_url }}" alt="What Do Seychelles UFO Reports Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Seychelles_3d2d7b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Seychelles_3d2d7b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence quality: confirmed, contested and likely explained claims
 
 The Seychelles record is best understood by separating claims by evidential strength rather than treating every sighting as equal.
 
-**Confirmed public record:** Seychelles has two NUFORC-listed reports, both associated with Mahé. This is a confirmed fact about the public reporting record, not a confirmation that the reported objects were extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Confirmed public record:** Seychelles has two NUFORC-listed reports, both associated with Mahé. This is a confirmed fact about the public reporting record, not a confirmation that the reported objects were extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Contested case:** The 1978 Victoria/Mahé report is the key contested case. Its strengths are a vivid description, multiple alleged witnesses, and a claim of next-day local press coverage. Its weaknesses are the 1999 reporting date, lack of attached contemporaneous documents, no public sensor data, and no visible official investigation in the accessible online record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested case:** The 1978 Victoria/Mahé report is the key contested case. Its strengths are a vivid description, multiple alleged witnesses, and a claim of next-day local press coverage. Its weaknesses are the 1999 reporting date, lack of attached contemporaneous documents, no public sensor data, and no visible official investigation in the accessible online record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Likely explained case:** The 2020 Mahé lights are best treated as likely Starlink or satellite-related because NUFORC itself marks the entry with that explanation. The duration and multiple moving lights fit a modern satellite-observation context better than a single structured craft claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Likely explained case:** The 2020 Mahé lights are best treated as likely Starlink or satellite-related because NUFORC itself marks the entry with that explanation. The duration and multiple moving lights fit a modern satellite-observation context better than a single structured craft claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 **Unverified local and social-media material:** Searches surface scattered social-media-style “strange lights” material and generic UFO pages, but these are weaker than archived case entries, aviation records, meteorological sources or contemporaneous journalism. They may be useful leads, but not stable evidence unless they include date, location, original footage, witness details, and independent checks against satellites, aircraft, drones and weather.
 
@@ -1270,7 +1270,7 @@ A robust check would ask:
 1. **Where was the observer?** Mahé, Praslin, La Digue and the outer islands have different horizons, flight paths, sea views and light pollution.
 2. **What was the exact time and direction?** Without direction, altitude and duration, it is hard to distinguish aircraft, satellites, planets and meteors.
 3. **Were satellites visible?** The 2020 Mahé report shows why satellite checks are now essential.
-4. **Was there drone activity nearby?** Seychelles requires registration for drones of 200 grams or more, and SCAA’s rules make night operation a safety concern rather than a casual assumption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seychelles.cc/seychelles-general-info/seychelles-tips-and-tricks/421-seychelles-drone-laws" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seychelles.cc">[seychelles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seychelles.cc</span><span class="citation-popover-title">Drone Laws</span><span class="citation-popover-snippet">Drone Laws</span></span></span>
+4. **Was there drone activity nearby?** Seychelles requires registration for drones of 200 grams or more, and SCAA’s rules make night operation a safety concern rather than a casual assumption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seychelles.cc/seychelles-general-info/seychelles-tips-and-tricks/421-seychelles-drone-laws" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seychelles.cc">[seychelles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seychelles.cc</span><span class="citation-popover-title">Drone Laws</span><span class="citation-popover-snippet">Drone Laws</span></span></span>
 5. **Were weather or marine conditions unusual?** Haze, cloud layers, lightning, reflections over water and atmospheric distortion can all change how lights appear.
 6. **Did aviation systems or local media record anything?** For older cases, newspaper archives may be more valuable than modern retellings; for newer cases, SCAA, airport, ADS-B and weather data may matter more.
 
@@ -1288,194 +1288,194 @@ For sibling country pages in the same UFO project, Seychelles is most naturally 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6xl9u7dhOaM" title="UFO DISCOVERED IN SEYCHELLES ISLAND | AngelintheSkyPH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6xl9u7dhOaM" target="_blank" rel="noopener noreferrer">UFO DISCOVERED IN SEYCHELLES ISLAND | AngelintheSkyPH</a></p><p class="youtube-embed-meta">Channel: ANGELinTheSkyPH &middot; Views: 450 &middot; Uploaded: April 2021 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6xl9u7dhOaM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6xl9u7dhOaM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Seychelles UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Seychelles UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps compare weak and strong UFO case evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps compare weak and strong UFO case evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how reports should be categorized and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how reports should be categorized and assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores contemporary reporting and evidence debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores contemporary reporting and evidence debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Ideal overview for readers exploring sparse national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal overview for readers exploring sparse national UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-seychelles-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-seychelles-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1491,7 +1491,7 @@ For sibling country pages in the same UFO project, Seychelles is most naturally 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1511,7 +1511,7 @@ For sibling country pages in the same UFO project, Seychelles is most naturally 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1543,7 +1543,7 @@ For sibling country pages in the same UFO project, Seychelles is most naturally 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1595,7 +1595,7 @@ For sibling country pages in the same UFO project, Seychelles is most naturally 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1640,7 +1640,7 @@ For sibling country pages in the same UFO project, Seychelles is most naturally 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1681,231 +1681,231 @@ For sibling country pages in the same UFO project, Seychelles is most naturally 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=7099" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=7099</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=7099" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=7099</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154304</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=154304" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154304</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nation.sc  
-   Link: <a href="https://www.nation.sc/articles/15772/major-air-traffic-system-modernisation-to-enhance-seychelles-air-navigation-services" target="_blank" rel="noopener noreferrer nofollow">https://www.nation.sc/articles/15772/major-air-traffic-system-modernisation-to-enhance-seychelles-air-navigation-services</a>  
+   Link:<a href="https://www.nation.sc/articles/15772/major-air-traffic-system-modernisation-to-enhance-seychelles-air-navigation-services" target="_blank" rel="noopener noreferrer nofollow">https://www.nation.sc/articles/15772/major-air-traffic-system-modernisation-to-enhance-seychelles-air-navigation-services</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aireon.com  
-   Link: <a href="https://aireon.com/seychelles-signs-data-services-agreement-aireon-global-air-traffic-surveillance/" target="_blank" rel="noopener noreferrer nofollow">https://aireon.com/seychelles-signs-data-services-agreement-aireon-global-air-traffic-surveillance/</a>  
+   Link:<a href="https://aireon.com/seychelles-signs-data-services-agreement-aireon-global-air-traffic-surveillance/" target="_blank" rel="noopener noreferrer nofollow">https://aireon.com/seychelles-signs-data-services-agreement-aireon-global-air-traffic-surveillance/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: meteo.sc  
    Title: Seychelles Meteorological Authority  
-   Link: <a href="https://www.meteo.sc/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.sc/</a>  
+   Link:<a href="https://www.meteo.sc/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.sc/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nation.sc  
-   Link: <a href="https://www.nation.sc/archive/253660/scaa-to-implement-regulations-regarding-unmanned-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.nation.sc/archive/253660/scaa-to-implement-regulations-regarding-unmanned-aircraft</a>  
+   Link:<a href="https://www.nation.sc/archive/253660/scaa-to-implement-regulations-regarding-unmanned-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.nation.sc/archive/253660/scaa-to-implement-regulations-regarding-unmanned-aircraft</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scaa.sc  
    Title: Seychelles Aviation Authority Power Point Presentation  
-   Link: <a href="https://www.scaa.sc/files/Unmanned%20Aircraft%20-%20Drone%20Operation%20Safety%20Guidelines%20%28Rev.%205%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scaa.sc/files/Unmanned%20Aircraft%20-%20Drone%20Operation%20Safety%20Guidelines%20%28Rev.%205%29.pdf</a>  
+   Link:<a href="https://www.scaa.sc/files/Unmanned%20Aircraft%20-%20Drone%20Operation%20Safety%20Guidelines%20%28Rev.%205%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scaa.sc/files/Unmanned%20Aircraft%20-%20Drone%20Operation%20Safety%20Guidelines%20%28Rev.%205%29.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: timeanddate.com  
    Title: Time and Date Night Sky Tonight: Visible Planets in Victoria  
-   Link: <a href="https://www.timeanddate.com/astronomy/night/seychelles/victoria" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/seychelles/victoria</a>  
+   Link:<a href="https://www.timeanddate.com/astronomy/night/seychelles/victoria" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/seychelles/victoria</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
    Title: anon pdf from markdown djvu.txt  
-   Link: <a href="https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-uHw9zGct4dsyqXcU/Unidentified%20Flying%20Objects%20Briefing%20Document%20%5BThe%20Best%20Available%20Evidence%5D_djvu.txt</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/resourcesforrese00unit/resourcesforrese00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/resourcesforrese00unit/resourcesforrese00unit.pdf</a>  
+   Link:<a href="https://archive.org/download/resourcesforrese00unit/resourcesforrese00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/resourcesforrese00unit/resourcesforrese00unit.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
    Title: Nov 23 1995, The Times, #65432, UK (en) djvu.txt  
-   Link: <a href="https://archive.org/stream/NewsUK1995UKEnglish/Nov%2023%201995%2C%20The%20Times%2C%20%2365432%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewsUK1995UKEnglish/Nov%2023%201995%2C%20The%20Times%2C%20%2365432%2C%20UK%20%28en%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewsUK1995UKEnglish/Nov%2023%201995%2C%20The%20Times%2C%20%2365432%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewsUK1995UKEnglish/Nov%2023%201995%2C%20The%20Times%2C%20%2365432%2C%20UK%20%28en%29_djvu.txt</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/dli.venugopal.627/388_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dli.venugopal.627/388_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/dli.venugopal.627/388_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dli.venugopal.627/388_djvu.txt</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/livingbird2627corn/livingbird2627corn_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/livingbird2627corn/livingbird2627corn_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/livingbird2627corn/livingbird2627corn_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/livingbird2627corn/livingbird2627corn_djvu.txt</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archive.org  
    Title: 2015.146991.Whos Who 1969 An Annual Biographical Dictionary djvu.txt  
-   Link: <a href="https://archive.org/stream/in.ernet.dli.2015.146991/2015.146991.Whos-Who-1969-An-Annual-Biographical-Dictionary_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/in.ernet.dli.2015.146991/2015.146991.Whos-Who-1969-An-Annual-Biographical-Dictionary_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/in.ernet.dli.2015.146991/2015.146991.Whos-Who-1969-An-Annual-Biographical-Dictionary_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/in.ernet.dli.2015.146991/2015.146991.Whos-Who-1969-An-Annual-Biographical-Dictionary_djvu.txt</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/personalcomputergames-magazine-01/PersonalComputerGames_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/personalcomputergames-magazine-01/PersonalComputerGames_01.pdf</a>  
+   Link:<a href="https://archive.org/download/personalcomputergames-magazine-01/PersonalComputerGames_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/personalcomputergames-magazine-01/PersonalComputerGames_01.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/in.ernet.dli.2015.78778/2015.78778.Funk-And-Wagnalls-New-Encyclopedia-Volume-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/in.ernet.dli.2015.78778/2015.78778.Funk-And-Wagnalls-New-Encyclopedia-Volume-1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/in.ernet.dli.2015.78778/2015.78778.Funk-And-Wagnalls-New-Encyclopedia-Volume-1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/in.ernet.dli.2015.78778/2015.78778.Funk-And-Wagnalls-New-Encyclopedia-Volume-1_djvu.txt</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.org  
    Title: Nov 26 1985, Financial Times, #29789, UK (en) djvu.txt  
-   Link: <a href="https://archive.org/stream/FinancialTimes1985UKEnglish/Nov%2026%201985%2C%20Financial%20Times%2C%20%2329789%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FinancialTimes1985UKEnglish/Nov%2026%201985%2C%20Financial%20Times%2C%20%2329789%2C%20UK%20%28en%29_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/FinancialTimes1985UKEnglish/Nov%2026%201985%2C%20Financial%20Times%2C%20%2329789%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FinancialTimes1985UKEnglish/Nov%2026%201985%2C%20Financial%20Times%2C%20%2329789%2C%20UK%20%28en%29_djvu.txt</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/InternationalCodeOfSignalsUS/InternationalCodeOfSignalsUS_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/InternationalCodeOfSignalsUS/InternationalCodeOfSignalsUS_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/InternationalCodeOfSignalsUS/InternationalCodeOfSignalsUS_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/InternationalCodeOfSignalsUS/InternationalCodeOfSignalsUS_djvu.txt</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scaa.sc  
    Title: AIRAC AMDT 02 2015  
-   Link: <a href="https://www.scaa.sc/files/AIRAC%20AMDT%2002-2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scaa.sc/files/AIRAC%20AMDT%2002-2015.pdf</a>  
+   Link:<a href="https://www.scaa.sc/files/AIRAC%20AMDT%2002-2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scaa.sc/files/AIRAC%20AMDT%2002-2015.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: meteo.sc  
-   Link: <a href="https://www.meteo.sc/services/cyclone-warning/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.sc/services/cyclone-warning/</a>  
+   Link:<a href="https://www.meteo.sc/services/cyclone-warning/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.sc/services/cyclone-warning/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: meteo.sc  
-   Link: <a href="https://www.meteo.sc/satellite-imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.sc/satellite-imagery/</a>  
+   Link:<a href="https://www.meteo.sc/satellite-imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.sc/satellite-imagery/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: meteo.sc  
-   Link: <a href="https://www.meteo.sc/alerts/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.sc/alerts/</a>  
+   Link:<a href="https://www.meteo.sc/alerts/" target="_blank" rel="noopener noreferrer nofollow">https://www.meteo.sc/alerts/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: timeanddate.com  
    Title: Visible Planets in Seychelles  
-   Link: <a href="https://www.timeanddate.com/astronomy/night/%40241171" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/%40241171</a>  
+   Link:<a href="https://www.timeanddate.com/astronomy/night/%40241171" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/astronomy/night/%40241171</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: seychelles.cc  
    Title: Drone Laws  
-   Link: <a href="https://www.seychelles.cc/seychelles-general-info/seychelles-tips-and-tricks/421-seychelles-drone-laws" target="_blank" rel="noopener noreferrer nofollow">https://www.seychelles.cc/seychelles-general-info/seychelles-tips-and-tricks/421-seychelles-drone-laws</a>  
+   Link:<a href="https://www.seychelles.cc/seychelles-general-info/seychelles-tips-and-tricks/421-seychelles-drone-laws" target="_blank" rel="noopener noreferrer nofollow">https://www.seychelles.cc/seychelles-general-info/seychelles-tips-and-tricks/421-seychelles-drone-laws</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: usufocenter.com  
    Title: seychelles ufo sightings  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/seychelles-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/seychelles-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/seychelles-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/seychelles-ufo-sightings.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/240452330668920/posts/1261024695278340/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/240452330668920/posts/1261024695278340/</a>  
+   Link:<a href="https://www.facebook.com/groups/240452330668920/posts/1261024695278340/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/240452330668920/posts/1261024695278340/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100064792476768/?locale=hu_HU" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064792476768/?locale=hu_HU</a>  
+   Link:<a href="https://www.facebook.com/100064792476768/?locale=hu_HU" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064792476768/?locale=hu_HU</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100064792476768?locale=pl_PL" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064792476768?locale=pl_PL</a>  
+   Link:<a href="https://www.facebook.com/100064792476768?locale=pl_PL" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064792476768?locale=pl_PL</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40seychellesmetauthority" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40seychellesmetauthority</a>  
+   Link:<a href="https://www.youtube.com/%40seychellesmetauthority" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40seychellesmetauthority</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/SC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/SC.pdf</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/SC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/SC.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: seychellestravel-tips.com  
-   Link: <a href="https://seychellestravel-tips.com/infos-pratiques/drone-legislation/" target="_blank" rel="noopener noreferrer nofollow">https://seychellestravel-tips.com/infos-pratiques/drone-legislation/</a>  
+   Link:<a href="https://seychellestravel-tips.com/infos-pratiques/drone-legislation/" target="_blank" rel="noopener noreferrer nofollow">https://seychellestravel-tips.com/infos-pratiques/drone-legislation/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: flytag.co  
    Title: seychelles overflight and landing permits  
-   Link: <a href="https://flytag.co/locations/africa/seychelles-overflight-and-landing-permits.html" target="_blank" rel="noopener noreferrer nofollow">https://flytag.co/locations/africa/seychelles-overflight-and-landing-permits.html</a>  
+   Link:<a href="https://flytag.co/locations/africa/seychelles-overflight-and-landing-permits.html" target="_blank" rel="noopener noreferrer nofollow">https://flytag.co/locations/africa/seychelles-overflight-and-landing-permits.html</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: uavsystemsinternational.com  
-   Link: <a href="https://uavsystemsinternational.com/pages/seychelles-drone-laws?srsltid=AfmBOopIHCFGHQtOS6GyJRmBJnHfepdzKBSD-yKXrRFIVNrpw9urMqck" target="_blank" rel="noopener noreferrer nofollow">https://uavsystemsinternational.com/pages/seychelles-drone-laws?srsltid=AfmBOopIHCFGHQtOS6GyJRmBJnHfepdzKBSD-yKXrRFIVNrpw9urMqck</a>  
+   Link:<a href="https://uavsystemsinternational.com/pages/seychelles-drone-laws?srsltid=AfmBOopIHCFGHQtOS6GyJRmBJnHfepdzKBSD-yKXrRFIVNrpw9urMqck" target="_blank" rel="noopener noreferrer nofollow">https://uavsystemsinternational.com/pages/seychelles-drone-laws?srsltid=AfmBOopIHCFGHQtOS6GyJRmBJnHfepdzKBSD-yKXrRFIVNrpw9urMqck</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=sc.gov.meteo" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=sc.gov.meteo</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=sc.gov.meteo" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=sc.gov.meteo</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: sc.linkedin.com  
-   Link: <a href="https://sc.linkedin.com/company/seychellesmeteo" target="_blank" rel="noopener noreferrer nofollow">https://sc.linkedin.com/company/seychellesmeteo</a>  
+   Link:<a href="https://sc.linkedin.com/company/seychellesmeteo" target="_blank" rel="noopener noreferrer nofollow">https://sc.linkedin.com/company/seychellesmeteo</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: How Space X is continuing to reduce brightness of UFO like satellites  
-   Link: <a href="https://www.youtube.com/watch?v=vHW3clIokqk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vHW3clIokqk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens, the Ship of Death, and Starlink Satellites | Coincidences or the Execution of Project Blu...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vHW3clIokqk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vHW3clIokqk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens, the Ship of Death, and Starlink Satellites | Coincidences or the Execution of Project Blu...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=i5FPm9EVs1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i5FPm9EVs1E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Over Seychelles Relaxing 4K Nature Film...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i5FPm9EVs1E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i5FPm9EVs1E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Over Seychelles Relaxing 4K Nature Film...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/content/article/tonight-never-seen-meteor-shower-will-light-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/tonight-never-seen-meteor-shower-will-light-sky</a>  
+   Link:<a href="https://www.science.org/content/article/tonight-never-seen-meteor-shower-will-light-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/tonight-never-seen-meteor-shower-will-light-sky</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: UFOs have gone Mainstream! Eyewitness Reports  
-   Link: <a href="https://www.youtube.com/watch?v=Yjk4B4FMunM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yjk4B4FMunM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How SpaceX is continuing to reduce brightness of UFO like satellites...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Yjk4B4FMunM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yjk4B4FMunM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How SpaceX is continuing to reduce brightness of UFO like satellites...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: UFOs In American Culture: A History Of Intrigue And Denial  
-   Link: <a href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HhLI6W15nQU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs have gone Mainstream! Eyewitness Reports - Peter Davenport...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HhLI6W15nQU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs have gone Mainstream! Eyewitness Reports - Peter Davenport...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/218676792817854/posts/1500669211285266/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/218676792817854/posts/1500669211285266/</a>  
+   Link:<a href="https://www.facebook.com/groups/218676792817854/posts/1500669211285266/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/218676792817854/posts/1500669211285266/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXsQdaQESqc/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXsQdaQESqc/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DXsQdaQESqc/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXsQdaQESqc/?hl=en</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/simpleflyingnews/posts/defense-forces-intensify-after-mystery-drone-alert-grounds-flights-at-major-inte/1506447368166723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/simpleflyingnews/posts/defense-forces-intensify-after-mystery-drone-alert-grounds-flights-at-major-inte/1506447368166723/</a>  
+   Link:<a href="https://www.facebook.com/simpleflyingnews/posts/defense-forces-intensify-after-mystery-drone-alert-grounds-flights-at-major-inte/1506447368166723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/simpleflyingnews/posts/defense-forces-intensify-after-mystery-drone-alert-grounds-flights-at-major-inte/1506447368166723/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: d-fendsolutions.com  
-   Link: <a href="https://d-fendsolutions.com/drone-incident-tracker/" target="_blank" rel="noopener noreferrer nofollow">https://d-fendsolutions.com/drone-incident-tracker/</a>  
+   Link:<a href="https://d-fendsolutions.com/drone-incident-tracker/" target="_blank" rel="noopener noreferrer nofollow">https://d-fendsolutions.com/drone-incident-tracker/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: uavcoach.com  
-   Link: <a href="https://uavcoach.com/drone-laws-in-seychelles/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-seychelles/</a>
+   Link:<a href="https://uavcoach.com/drone-laws-in-seychelles/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/drone-laws-in-seychelles/</a>

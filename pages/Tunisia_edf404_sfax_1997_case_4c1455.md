@@ -254,18 +254,18 @@ image: /assets/images/Tunisia_edf404_sfax_1997_case_4c1455-Illustration-1-social
 
 ## Introduction
 
-The 1997 Sfax UFO report remains the most frequently cited unidentified aerial phenomenon case associated with Tunisia. It is notable not because the evidence is exceptionally strong, but because it sits in a rare middle ground: stronger than a casual social-media sighting, yet far weaker than cases supported by official investigations, radar records, physical samples, or extensive documentation. Nearly three decades later, the Sfax incident still appears in UFO catalogues and regional case lists, but the central question has barely changed: was it an unusual atmospheric or human-made event, or is it simply impossible to know because too much evidence is missing? <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
+The 1997 Sfax UFO report remains the most frequently cited unidentified aerial phenomenon case associated with Tunisia. It is notable not because the evidence is exceptionally strong, but because it sits in a rare middle ground: stronger than a casual social-media sighting, yet far weaker than cases supported by official investigations, radar records, physical samples, or extensive documentation. Nearly three decades later, the Sfax incident still appears in UFO catalogues and regional case lists, but the central question has barely changed: was it an unusual atmospheric or human-made event, or is it simply impossible to know because too much evidence is missing?<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
 
 <img src="{{ "/assets/images/Tunisia_edf404_sfax_1997_case_4c1455-Illustration-1-dark.svg" | relative_url }}" alt="Sfax 1997 illustration 1" data-theme-src-dark="{{ "/assets/images/Tunisia_edf404_sfax_1997_case_4c1455-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunisia_edf404_sfax_1997_case_4c1455-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the case important within Tunisia's UFO history is precisely that tension. The report contains multiple witness claims, detailed descriptions, and a specific time and location. At the same time, the surviving public record is thin enough that investigators cannot reliably reconstruct what happened. The Sfax case therefore functions as a lesson in evidence limits as much as a UFO mystery.
 
 ## What witnesses reportedly saw
 
-According to the version preserved in Patrick Gross's UFO archive, the sighting occurred in Sfax on 9 November 1997 at approximately 22:10 local time. Witnesses reportedly observed a bright orange luminous object or mass over the city. The phenomenon was described as having a dense central area surrounded by a more diffuse glow, producing an appearance compared to fire or plasma. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
+According to the version preserved in Patrick Gross's UFO archive, the sighting occurred in Sfax on 9 November 1997 at approximately 22:10 local time. Witnesses reportedly observed a bright orange luminous object or mass over the city. The phenomenon was described as having a dense central area surrounded by a more diffuse glow, producing an appearance compared to fire or plasma.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
 
-The account claims that numerous people watched the object for roughly four minutes. One witness estimated its apparent size as several centimetres at arm's length and suggested it might have been several kilometres away, although such estimates are notoriously unreliable without known reference points. The report also includes an unusual sensory detail: an alleged odour described as resembling a mixture of sulphuric acid and dead fish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
+The account claims that numerous people watched the object for roughly four minutes. One witness estimated its apparent size as several centimetres at arm's length and suggested it might have been several kilometres away, although such estimates are notoriously unreliable without known reference points. The report also includes an unusual sensory detail: an alleged odour described as resembling a mixture of sulphuric acid and dead fish.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
 
-According to the same narrative, the glow eventually appeared to dim or flicker before moving away rapidly toward the south-west, in the direction of the Chott Fejaj salt desert region. That directional detail has become one of the most repeated elements of the story because it gives the sighting a specific geographical trajectory rather than presenting it as a stationary light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
+According to the same narrative, the glow eventually appeared to dim or flicker before moving away rapidly toward the south-west, in the direction of the Chott Fejaj salt desert region. That directional detail has become one of the most repeated elements of the story because it gives the sighting a specific geographical trajectory rather than presenting it as a stationary light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
 
 Several aspects of the report make it more memorable than many brief UFO claims:
 
@@ -284,7 +284,7 @@ Those features help explain why the case remains prominent in discussions of Tun
 
 The central problem is not the witness description itself. The problem is the chain of evidence.
 
-The most widely circulated account originates from a secondary ufology archive that credits Mahmoud el-Mejdoub and "Banque OVNI-Tunisie" as sources. Publicly accessible versions of the case do not include original witness statements, police records, military records, airport logs, meteorological assessments, photographs, video recordings, radar traces, or a formally published investigative report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
+The most widely circulated account originates from a secondary ufology archive that credits Mahmoud el-Mejdoub and "Banque OVNI-Tunisie" as sources. Publicly accessible versions of the case do not include original witness statements, police records, military records, airport logs, meteorological assessments, photographs, video recordings, radar traces, or a formally published investigative report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
 
 That absence creates several difficulties.
 
@@ -310,7 +310,7 @@ Without the original material, later investigators must trust the intermediary s
 
 Modern UFO investigations place significant weight on independent measurements. Radar data, satellite observations, astronomical records, flight tracking information, and environmental measurements can often narrow the range of explanations.
 
-No such evidence is publicly attached to the Sfax case. The sighting therefore rests almost entirely on testimony. Testimony can be valuable, but without corroborating data it rarely allows confident conclusions about distance, speed, altitude, or physical size. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
+No such evidence is publicly attached to the Sfax case. The sighting therefore rests almost entirely on testimony. Testimony can be valuable, but without corroborating data it rarely allows confident conclusions about distance, speed, altitude, or physical size.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
 
 <img src="{{ "/assets/images/Tunisia_edf404_sfax_1997_case_4c1455-Illustration-2-dark.svg" | relative_url }}" alt="Sfax 1997 illustration 2" data-theme-src-dark="{{ "/assets/images/Tunisia_edf404_sfax_1997_case_4c1455-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunisia_edf404_sfax_1997_case_4c1455-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The duration cuts both ways
@@ -335,7 +335,7 @@ The available evidence does not permit a definitive explanation, but several pos
 
 Bright atmospheric events can appear larger, closer, and stranger than they really are, especially at night. Temperature inversions, haze, and unusual viewing angles can distort perceptions of colour and motion.
 
-The orange colour described in the Sfax report is consistent with several natural or atmospheric light sources. However, the reported movement and duration leave room for debate because the publicly available descriptions are too limited for a detailed reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
+The orange colour described in the Sfax report is consistent with several natural or atmospheric light sources. However, the reported movement and duration leave room for debate because the publicly available descriptions are too limited for a detailed reconstruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
 
 ### Aircraft, flare, or human-made light source
 
@@ -350,7 +350,7 @@ The weakness of this explanation is the same weakness affecting every other expl
 
 Tunisia has experienced dramatic sky events before. The country's most famous documented aerial phenomenon is arguably the Tataouine meteorite fall of 1931, which demonstrates how spectacular natural objects can generate extraordinary observations before scientific analysis clarifies their origin.
 
-Some researchers therefore consider whether the Sfax event might have involved a meteor, fragmenting object, or re-entering debris. Yet the reported duration of several minutes and the description of sustained visibility complicate a straightforward meteor interpretation. The available record is simply too incomplete to determine whether witness timing estimates were accurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
+Some researchers therefore consider whether the Sfax event might have involved a meteor, fragmenting object, or re-entering debris. Yet the reported duration of several minutes and the description of sustained visibility complicate a straightforward meteor interpretation. The available record is simply too incomplete to determine whether witness timing estimates were accurate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
 
 ### A genuinely unidentified event
 
@@ -360,205 +360,205 @@ Under that definition, Sfax remains unidentified. That does not mean extraterres
 
 ## Why the case still matters in Tunisia's UFO history
 
-The Sfax sighting occupies a unique place in Tunisia's public UFO record because so few cases from the country achieved lasting circulation beyond local discussion. Most later claims exist mainly as internet posts, reposted videos, or brief anecdotal accounts. The Sfax incident at least preserves a narrative with a date, location, witness descriptions, and a traceable publication history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
+The Sfax sighting occupies a unique place in Tunisia's public UFO record because so few cases from the country achieved lasting circulation beyond local discussion. Most later claims exist mainly as internet posts, reposted videos, or brief anecdotal accounts. The Sfax incident at least preserves a narrative with a date, location, witness descriptions, and a traceable publication history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</span></span></span>
 
 At the same time, the case highlights a recurring problem in UFO research across many countries: a report can become famous before it becomes well documented.
 
-In nations with formal investigative structures, unusual aerial reports may generate archived files, interviews, photographs, or technical assessments. Tunisia has no publicly known archive comparable to France's historical GEPAN and GEIPAN systems, where investigators sometimes collected physical and environmental evidence for later review. The result is that the Sfax case survived mainly as a story rather than as an investigative record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Trans-en-Provence case</span><span class="citation-popover-snippet">Trans-en-Provence case</span></span></span>
+In nations with formal investigative structures, unusual aerial reports may generate archived files, interviews, photographs, or technical assessments. Tunisia has no publicly known archive comparable to France's historical GEPAN and GEIPAN systems, where investigators sometimes collected physical and environmental evidence for later review. The result is that the Sfax case survived mainly as a story rather than as an investigative record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Trans-en-Provence case</span><span class="citation-popover-snippet">Trans-en-Provence case</span></span></span>
 
 That distinction matters. The strongest UFO cases are not necessarily those with the strangest descriptions. They are the cases with enough evidence to test competing explanations. The enduring significance of Sfax lies in the opposite lesson: it demonstrates how an apparently dramatic event can remain unresolved not because the phenomenon was necessarily extraordinary, but because the surviving evidence is too limited to reach a confident conclusion.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mJsvr6YzOy4" title="Did Someone Write in the Sand? Markings Seen from Space Above Tunisia | Earth from space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mJsvr6YzOy4" target="_blank" rel="noopener noreferrer">Did Someone Write in the Sand? Markings Seen from Space Above Tunisia | Earth from space</a></p><p class="youtube-embed-meta">Channel: Sen &middot; Views: 192.8K &middot; Uploaded: April 2025 &middot; Length: 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mJsvr6YzOy4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mJsvr6YzOy4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Sfax UFO Case Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Sfax UFO Case Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses how investigators assess sightings with incomplete evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how investigators assess sightings with incomplete evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding evidential limits in historic sighting cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding evidential limits in historic sighting cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers examples of stronger documented cases for comparison with Sfax.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers examples of stronger documented cases for comparison with Sfax.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Encourages broader interpretation of witness reports and unexplained observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages broader interpretation of witness reports and unexplained observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-sfax-ufo-case-still-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-sfax-ufo-case-still-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ That distinction matters. The strongest UFO cases are not necessarily those with
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ That distinction matters. The strongest UFO cases are not necessarily those with
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ That distinction matters. The strongest UFO cases are not necessarily those with
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ That distinction matters. The strongest UFO cases are not necessarily those with
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ That distinction matters. The strongest UFO cases are not necessarily those with
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,81 +761,80 @@ That distinction matters. The strongest UFO cases are not necessarily those with
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Trans-en-Provence case  
-   Link: <a href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trans-en-Provence_case</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trans-en-Provence_case</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix LightsThe Phoenix Lights were a series of widely sighted unidentified flying objects observed in the skies over the southweste...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix LightsThe Phoenix Lights were a series of widely sighted unidentified flying objects observed in the skies over the southweste...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/faqafrica.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/faqafrica.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/faqafrica.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: UFO sightings reports from AfricaAt 10:10pm, a strange phenomenon appeared in the sky over Sfax, a port city...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: downloads.cs.stanford.edu  
-   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... gross threats friedrich trips glen dozen prevention idaho jacques doubt 77... ufos adversity ru...</p></details>
+   Link:<a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>born became states including american... gross threats friedrich trips glen dozen prevention idaho jacques doubt 77... ufos adversity ru...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: yumpu.com  
    Title: 2011bibliography part v miscellaneous evidence mercyhurst  
-   Link: <a href="https://www.yumpu.com/en/document/view/17854293/2011bibliography-part-v-miscellaneous-evidence-mercyhurst-" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/17854293/2011bibliography-part-v-miscellaneous-evidence-mercyhurst-</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2011Bibliography Part V Miscellaneous Evidence15 Jul 2013 — 1979 UFOS (Unfounded Fingerprint Opinions) as &lt;strong&gt;Evidence... Gross, Ric...</p></details>
+   Link:<a href="https://www.yumpu.com/en/document/view/17854293/2011bibliography-part-v-miscellaneous-evidence-mercyhurst-" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/17854293/2011bibliography-part-v-miscellaneous-evidence-mercyhurst-</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2011Bibliography Part V Miscellaneous Evidence15 Jul 2013 — 1979 UFOS (Unfounded Fingerprint Opinions) as &lt;strong&gt;Evidence... Gross, Ric...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aparsis.gr  
    Title: Η Μάγδα Παπαδημητρίου Σαμοθράκη γράφει για το βιβλίο "  
-   Link: <a href="https://www.aparsis.gr/%CE%B7-%CE%BC%CE%AC%CE%B3%CE%B4%CE%B1-%CF%80%CE%B1%CF%80%CE%B1%CE%B4%CE%B7%CE%BC%CE%B7%CF%84%CF%81%CE%AF%CE%BF%CF%85-%CF%83%CE%B1%CE%BC%CE%BF%CE%B8%CF%81%CE%AC%CE%BA%CE%B7-%CE%B3%CF%81%CE%AC%CF%86%CE%B5%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF-%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B9%CE%BA%CF%8C-%CE%B1%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B9%CE%BA%CE%BF-%CF%84%CE%BF%CF%85-%CF%87%CF%81%CE%AE%CF%83%CF%84%CE%BF%CF%85-%CF%80%CE%BF%CE%B6%CE%AF%CE%B4%CE%B7" target="_blank" rel="noopener noreferrer nofollow">https://www.aparsis.gr/%CE%B7-%CE%BC%CE%AC%CE%B3%CE%B4%CE%B1-%CF%80%CE%B1%CF%80%CE%B1%CE%B4%CE%B7%CE%BC%CE%B7%CF%84%CF%81%CE%AF%CE%BF%CF%85-%CF%83%CE%B1%CE%BC%CE%BF%CE%B8%CF%81%CE%AC%CE%BA%CE%B7-%CE%B3%CF%81%CE%AC%CF%86%CE%B5%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF-%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B9%CE%BA%CF%8C-%CE%B1%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B9%CE%BA%CE%BF-%CF%84%CE%BF%CF%85-%CF%87%CF%81%CE%AE%CF%83%CF%84%CE%BF%CF%85-%CF%80%CE%BF%CE%B6%CE%AF%CE%B4%CE%B7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>gross domestic product growth remains below the 3 percent rate to which... UFOs began in the 1940s with an incident at Roswell N.M., in...</p></details>
+   Link:<a href="https://www.aparsis.gr/%CE%B7-%CE%BC%CE%AC%CE%B3%CE%B4%CE%B1-%CF%80%CE%B1%CF%80%CE%B1%CE%B4%CE%B7%CE%BC%CE%B7%CF%84%CF%81%CE%AF%CE%BF%CF%85-%CF%83%CE%B1%CE%BC%CE%BF%CE%B8%CF%81%CE%AC%CE%BA%CE%B7-%CE%B3%CF%81%CE%AC%CF%86%CE%B5%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF-%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B9%CE%BA%CF%8C-%CE%B1%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B9%CE%BA%CE%BF-%CF%84%CE%BF%CF%85-%CF%87%CF%81%CE%AE%CF%83%CF%84%CE%BF%CF%85-%CF%80%CE%BF%CE%B6%CE%AF%CE%B4%CE%B7" target="_blank" rel="noopener noreferrer nofollow">https://www.aparsis.gr/%CE%B7-%CE%BC%CE%AC%CE%B3%CE%B4%CE%B1-%CF%80%CE%B1%CF%80%CE%B1%CE%B4%CE%B7%CE%BC%CE%B7%CF%84%CF%81%CE%AF%CE%BF%CF%85-%CF%83%CE%B1%CE%BC%CE%BF%CE%B8%CF%81%CE%AC%CE%BA%CE%B7-%CE%B3%CF%81%CE%AC%CF%86%CE%B5%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF-%CE%B3%CE%BB%CF%89%CF%83%CF%83%CE%B9%CE%BA%CF%8C-%CE%B1%CE%BD%CF%84%CE%AC%CF%81%CF%84%CE%B9%CE%BA%CE%BF-%CF%84%CE%BF%CF%85-%CF%87%CF%81%CE%AE%CF%83%CF%84%CE%BF%CF%85-%CF%80%CE%BF%CE%B6%CE%AF%CE%B4%CE%B7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gross domestic product growth remains below the 3 percent rate to which... UFOs began in the 1940s with an incident at Roswell N.M., in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribd.com  
    Title: 2018 05 01 Skeptical Inquirer pdf  
-   Link: <a href="https://www.scribd.com/document/415349852/2018-05-01-Skeptical-Inquirer-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/415349852/2018-05-01-Skeptical-Inquirer-pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2018-05-01 Skeptical Inquirer PDF1 May 2018 — tory statement about UFO sightings. It read: “Experts caution that... Gross, Norman Levitt...</p></details>
+   Link:<a href="https://www.scribd.com/document/415349852/2018-05-01-Skeptical-Inquirer-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/415349852/2018-05-01-Skeptical-Inquirer-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2018-05-01 Skeptical Inquirer PDF1 May 2018 — tory statement about UFO sightings. It read: “Experts caution that... Gross, Norman Levitt...</p></details>
    Published: May 1, 2018  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hybrid-analysis.com  
-   Link: <a href="https://hybrid-analysis.com/sample/13c63f0260e6e125e71ea61cde53f9a67c4a2f5a5e616b7755424e8966127d40/5e626d0b0e98da4f03026854" target="_blank" rel="noopener noreferrer nofollow">https://hybrid-analysis.com/sample/13c63f0260e6e125e71ea61cde53f9a67c4a2f5a5e616b7755424e8966127d40/5e626d0b0e98da4f03026854</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>gross-lived twitchiness thermophone lushes ingratiates nephrotomise Hoopes... ufos hists revisionist cockatrice Europoort LC disrespectf...</p></details>
+   Link:<a href="https://hybrid-analysis.com/sample/13c63f0260e6e125e71ea61cde53f9a67c4a2f5a5e616b7755424e8966127d40/5e626d0b0e98da4f03026854" target="_blank" rel="noopener noreferrer nofollow">https://hybrid-analysis.com/sample/13c63f0260e6e125e71ea61cde53f9a67c4a2f5a5e616b7755424e8966127d40/5e626d0b0e98da4f03026854</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gross-lived twitchiness thermophone lushes ingratiates nephrotomise Hoopes... ufos hists revisionist cockatrice Europoort LC disrespectf...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ft.com  
    Title: archive 2023 7.xml  
-   Link: <a href="https://www.ft.com/sitemaps/archive-2023-7.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/sitemaps/archive-2023-7.xml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>archive-2023-7.xml... UFOs]]&gt;&lt;/image:caption&gt;&lt;/image:image&gt;&lt;/url&gt;&lt;url&gt;&lt;loc&gt;[https://www.ft.com](https://www.ft.com)... Gross&lt;/video:tag&gt;&lt;video:tag&gt;News in-dep...</p></details>
+   Link:<a href="https://www.ft.com/sitemaps/archive-2023-7.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/sitemaps/archive-2023-7.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>archive-2023-7.xml... UFOs]]&gt;&lt;/image:caption&gt;&lt;/image:image&gt;&lt;/url&gt;&lt;url&gt;&lt;loc&gt;[https://www.ft.com](https://www.ft.com)... Gross&lt;/video:tag&gt;&lt;video:tag&gt;News in-dep...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: novapublishers.com  
-   Link: <a href="https://novapublishers.com/wp-content/uploads/2019/05/Catalog_19_ST.pdf" target="_blank" rel="noopener noreferrer nofollow">https://novapublishers.com/wp-content/uploads/2019/05/Catalog_19_ST.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r TR6, are already flying;.Read more...</p></details>
+   Link:<a href="https://novapublishers.com/wp-content/uploads/2019/05/Catalog_19_ST.pdf" target="_blank" rel="noopener noreferrer nofollow">https://novapublishers.com/wp-content/uploads/2019/05/Catalog_19_ST.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r TR6, are already flying;.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Prof. Avi Loeb | The Crisis of Perception: UFOs, AI & Reality  
-   Link: <a href="https://www.youtube.com/watch?v=K47rhA2aaXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K47rhA2aaXs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Expert: “We Have Proof They Exist,” with Luis Elizondo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K47rhA2aaXs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K47rhA2aaXs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Expert: “We Have Proof They Exist,” with Luis Elizondo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: euronews.com  
    Title: images 2023 6.xml  
-   Link: <a href="https://www.euronews.com/sitemaps/en/images-2023-6.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/sitemaps/en/images-2023-6.xml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>images-2023-6.xml16 Jun 2023 —... Gross National Happiness instead of GDP&lt;/image:title&gt; &lt;/image:image&gt;... ufos-holds-first-public-meeti...</p></details>
+   Link:<a href="https://www.euronews.com/sitemaps/en/images-2023-6.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/sitemaps/en/images-2023-6.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>images-2023-6.xml16 Jun 2023 —... Gross National Happiness instead of GDP&lt;/image:title&gt; &lt;/image:image&gt;... ufos-holds-first-public-meeti...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 1997Brief Description of sighting. 02-Jan-97 20:58 Immingham. Lincolnshire. A large UFO, with all different colour of lights arou...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports 1997Brief Description of sighting. 02-Jan-97 20:58 Immingham. Lincolnshire. A large UFO, with all different colour of lights arou...</p></details>

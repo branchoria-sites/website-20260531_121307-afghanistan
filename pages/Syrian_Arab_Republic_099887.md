@@ -1194,29 +1194,29 @@ image: /assets/images/Syrian_Arab_Republic_099887-overview-social.jpg
 
 ## Introduction
 
-That makes Syria a useful but sobering UFO case page. It shows how real unidentified aerial observations can exist in a crowded combat theatre without justifying dramatic conclusions. The country’s civil war, foreign military operations, drones, aircraft, air-defence activity, missiles, balloons and surveillance platforms create exactly the sort of environment where ambiguous lights, heat signatures and fast sensor tracks can be reported sincerely and still remain poorly explained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/65648ea8c15d90dd6ce13cbe5d7f2d5d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News US military downs Iranian-made drone in Syria</span><span class="citation-popover-snippet">AP News US military downs Iranian-made drone in Syria</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/65648ea8c15d90dd6ce13cbe5d7f2d5d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News US military downs Iranian-made drone in Syria</span><span class="citation-popover-snippet">AP News US military downs Iranian-made drone in Syria</span></span></span>
+That makes Syria a useful but sobering UFO case page. It shows how real unidentified aerial observations can exist in a crowded combat theatre without justifying dramatic conclusions. The country’s civil war, foreign military operations, drones, aircraft, air-defence activity, missiles, balloons and surveillance platforms create exactly the sort of environment where ambiguous lights, heat signatures and fast sensor tracks can be reported sincerely and still remain poorly explained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/65648ea8c15d90dd6ce13cbe5d7f2d5d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News US military downs Iranian-made drone in Syria</span><span class="citation-popover-snippet">AP News US military downs Iranian-made drone in Syria</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/65648ea8c15d90dd6ce13cbe5d7f2d5d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News US military downs Iranian-made drone in Syria</span><span class="citation-popover-snippet">AP News US military downs Iranian-made drone in Syria</span></span></span>
 
 <img src="{{ "/assets/images/Syrian_Arab_Republic_099887-overview.webp" | relative_url }}" alt="Overview image for Syrian Arab Republic" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Syria’s UFO record is mostly a military-airspace story
 
-The Syrian Arab Republic does not have a large, well-documented public UFO archive comparable with the United States, France, the United Kingdom or several Latin American countries. Civilian reports exist, but they are sparse, unevenly sourced and often posted long after the alleged event. The National UFO Reporting Center’s location index lists only a small number of Syria reports, and at least one recent entry describes an alleged 1997 circular object in Idlib Governorate that was reported in 2026, nearly three decades after the claimed sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The Syrian Arab Republic does not have a large, well-documented public UFO archive comparable with the United States, France, the United Kingdom or several Latin American countries. Civilian reports exist, but they are sparse, unevenly sourced and often posted long after the alleged event. The National UFO Reporting Center’s location index lists only a small number of Syria reports, and at least one recent entry describes an alleged 1997 circular object in Idlib Governorate that was reported in 2026, nearly three decades after the claimed sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-The better-documented Syrian cases come from foreign military sensors and reports, particularly U.S. material tied to CENTCOM and Operation Inherent Resolve. That matters because these sources have both strengths and limits. Their strengths are obvious: they may include date stamps, sensor context, mission paperwork and internal reporting language. Their limits are just as important: large sections are redacted, the sensor platform may be unknown, distance and object size may be uncertain, and a camera track can exaggerate apparent speed or direction if the range to the target is not known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
+The better-documented Syrian cases come from foreign military sensors and reports, particularly U.S. material tied to CENTCOM and Operation Inherent Resolve. That matters because these sources have both strengths and limits. Their strengths are obvious: they may include date stamps, sensor context, mission paperwork and internal reporting language. Their limits are just as important: large sections are redacted, the sensor platform may be unknown, distance and object size may be uncertain, and a camera track can exaggerate apparent speed or direction if the range to the target is not known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
 
-Syria’s recent airspace also differs from an ordinary civilian sky. U.S. troops and partner forces have operated against ISIS in Syria; U.S. bases and partner sites have been attacked by drones; and Iranian drones and missiles have crossed or been intercepted over Syrian-linked airspace during regional escalations. Those facts do not explain every UAP report, but they make “unknown aircraft, drone, munition, balloon, sensor artefact or misidentified conventional object” much more plausible as a first line of inquiry than exotic technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/65648ea8c15d90dd6ce13cbe5d7f2d5d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News US military downs Iranian-made drone in Syria</span><span class="citation-popover-snippet">AP News US military downs Iranian-made drone in Syria</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c1fa21bfc2d4d1ffe523e9e735e8ca47" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Open source on apnews.com.</span></span></span>
+Syria’s recent airspace also differs from an ordinary civilian sky. U.S. troops and partner forces have operated against ISIS in Syria; U.S. bases and partner sites have been attacked by drones; and Iranian drones and missiles have crossed or been intercepted over Syrian-linked airspace during regional escalations. Those facts do not explain every UAP report, but they make “unknown aircraft, drone, munition, balloon, sensor artefact or misidentified conventional object” much more plausible as a first line of inquiry than exotic technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/65648ea8c15d90dd6ce13cbe5d7f2d5d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News US military downs Iranian-made drone in Syria</span><span class="citation-popover-snippet">AP News US military downs Iranian-made drone in Syria</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/c1fa21bfc2d4d1ffe523e9e735e8ca47" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Open source on apnews.com.</span></span></span>
 
 <img src="{{ "/assets/images/Syrian_Arab_Republic_099887-Illustration-1-dark.svg" | relative_url }}" alt="Syrian Arab Republic illustration 1" data-theme-src-dark="{{ "/assets/images/Syrian_Arab_Republic_099887-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syrian_Arab_Republic_099887-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The main public cases in Syria
 
 The currently public Syrian record has two anchor cases that deserve most of the attention: the [2021 video]({{ '2021-video/' | relative_url }}) labelled “Syrian UAP instant acceleration” and the November 2023 “bouncy ball” mission report. They are interesting because they are official or near-[official records]({{ 'official-records-e35499/' | relative_url }}), not because they settle what the objects were.
 
-The 2021 case is a five-minute public-domain video hosted by the U.S. military’s DVIDS platform under the title DOW-UAP-PR051, “Syrian UAP instant acceleration”. Its metadata gives a date taken of 1 January 2021, a posting date of 22 May 2026, and a Syria location marker. The title itself is powerful, but the available public description does not by itself prove extraordinary acceleration; it indicates that the object was captured in infrared footage and later released as part of a UAP tranche. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSDOW-UAP-PR051, &quot;Syrian UAP instant acceleration</span><span class="citation-popover-snippet">DVIDSDOW-UAP-PR051, &quot;Syrian UAP instant acceleration</span></span></span>
+The 2021 case is a five-minute public-domain video hosted by the U.S. military’s DVIDS platform under the title DOW-UAP-PR051, “Syrian UAP instant acceleration”. Its metadata gives a date taken of 1 January 2021, a posting date of 22 May 2026, and a Syria location marker. The title itself is powerful, but the available public description does not by itself prove extraordinary acceleration; it indicates that the object was captured in infrared footage and later released as part of a UAP tranche.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSDOW-UAP-PR051, &quot;Syrian UAP instant acceleration</span><span class="citation-popover-snippet">DVIDSDOW-UAP-PR051, &quot;Syrian UAP instant acceleration</span></span></span>
 
-News accounts summarising the release describe the 2021 Syrian video as showing an object that moves through the sky before abruptly changing direction or being lost by the sensor. Those accounts are useful for orientation, but they should not be treated as independent technical analysis. The crucial missing variables are distance, size, wind, sensor motion, platform motion and tracking behaviour. Without those, an apparent “instant acceleration” on screen may be physically impressive, or it may be a range-and-camera effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+News accounts summarising the release describe the 2021 Syrian video as showing an object that moves through the sky before abruptly changing direction or being lost by the sensor. Those accounts are useful for orientation, but they should not be treated as independent technical analysis. The crucial missing variables are distance, size, wind, sensor motion, platform motion and tracking behaviour. Without those, an apparent “instant acceleration” on screen may be physically impressive, or it may be a range-and-camera effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The November 2023 case is more textually detailed. A released CENTCOM mission report records an initial contact at 21:53Z on 9 November 2023 and classifies the event as a UAP incident. The object is described in the report as solid, with unknown propulsion, no radio-frequency emission, no effects on persons or equipment, no recovered material, and no observation that it was under intelligent control. The report also records “UAP manoeuvrability observations: none” and “observer assessment of UAP: benign”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
+The November 2023 case is more textually detailed. A released CENTCOM mission report records an initial contact at 21:53Z on 9 November 2023 and classifies the event as a UAP incident. The object is described in the report as solid, with unknown propulsion, no radio-frequency emission, no effects on persons or equipment, no recovered material, and no observation that it was under intelligent control. The report also records “UAP manoeuvrability observations: none” and “observer assessment of UAP: benign”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
 
-The striking line in the 2023 file is the reported speed and shape. The object was described as shaped like a “bouncy ball” and as maintaining roughly 424 knots for at least seven minutes while safely passing the aircraft, before becoming out of range. Yet the same report says the velocity and altitude were estimated, records no anomalous behaviour, and says the UAP was not considered a threat to aircraft or public safety. That combination should lower confidence in dramatic readings: the case is worth keeping as unidentified or insufficiently explained, but it is not strong evidence of non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
+The striking line in the 2023 file is the reported speed and shape. The object was described as shaped like a “bouncy ball” and as maintaining roughly 424 knots for at least seven minutes while safely passing the aircraft, before becoming out of range. Yet the same report says the velocity and altitude were estimated, records no anomalous behaviour, and says the UAP was not considered a threat to aircraft or public safety. That combination should lower confidence in dramatic readings: the case is worth keeping as unidentified or insufficiently explained, but it is not strong evidence of non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ADMcelTgWYo" title="Here are the released videos from Pentagon&#x27;s first batch of UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer">Here are the released videos from Pentagon&#x27;s first batch of UFO files</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 445.3K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ADMcelTgWYo">Open on YouTube</a></p></div></div></div>
 
@@ -1224,20 +1224,20 @@ The striking line in the 2023 file is the reported speed and shape. The object w
 
 A useful way to read Syrian UFO material is to separate what is confirmed, what is contested, and what is too weak to carry much weight.
 
-**Confirmed public record:** there are declassified or public U.S. materials connected to UAP observations over or near Syria, including the 2021 “Syrian UAP instant acceleration” video and the November 2023 CENTCOM mission report. The 2023 report’s internal details confirm that an observer recorded an unidentified aerial event, but also that the object was assessed as benign and produced no recorded harmful effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSDOW-UAP-PR051, &quot;Syrian UAP instant acceleration</span><span class="citation-popover-snippet">DVIDSDOW-UAP-PR051, &quot;Syrian UAP instant acceleration</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[3U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>
+**Confirmed public record:** there are declassified or public U.S. materials connected to UAP observations over or near Syria, including the 2021 “Syrian UAP instant acceleration” video and the November 2023 CENTCOM mission report. The 2023 report’s internal details confirm that an observer recorded an unidentified aerial event, but also that the object was assessed as benign and produced no recorded harmful effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSDOW-UAP-PR051, &quot;Syrian UAP instant acceleration</span><span class="citation-popover-snippet">DVIDSDOW-UAP-PR051, &quot;Syrian UAP instant acceleration</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[3U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>
 
-**Contested interpretation:** some commentators and news headlines frame the 2021 video as an object accelerating in a way that may seem unusual. That interpretation remains contested because the public record does not provide all the technical data needed to calculate true acceleration. Even Avi Loeb, a prominent scientist open to further UAP study, has cautioned in relation to the Syria video that without knowing the object’s distance, acceleration cannot be properly assessed and human-made possibilities must be considered first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested interpretation:** some commentators and news headlines frame the 2021 video as an object accelerating in a way that may seem unusual. That interpretation remains contested because the public record does not provide all the technical data needed to calculate true acceleration. Even Avi Loeb, a prominent scientist open to further UAP study, has cautioned in relation to the Syria video that without knowing the object’s distance, acceleration cannot be properly assessed and human-made possibilities must be considered first.<span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Weak civilian and viral claims:** older or social-media-based Syria UFO material is much less reliable. A Dailymotion video claiming large UFOs over Aleppo during the war contains dramatic assertions about unknown craft “hunting” the city, but the posting context, sourcing and evidential chain are weak, and the claim sits in a war environment full of aircraft, munitions, drones and propaganda. Such material can be mentioned as part of the folklore around Syrian UFO claims, but it should not be treated as a credible incident record without corroborating primary evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailymotion.com/video/x2hztez" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymotion.com">[Dailymotion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymotion.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Weak civilian and viral claims:** older or social-media-based Syria UFO material is much less reliable. A Dailymotion video claiming large UFOs over Aleppo during the war contains dramatic assertions about unknown craft “hunting” the city, but the posting context, sourcing and evidential chain are weak, and the claim sits in a war environment full of aircraft, munitions, drones and propaganda. Such material can be mentioned as part of the folklore around Syrian UFO claims, but it should not be treated as a credible incident record without corroborating primary evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailymotion.com/video/x2hztez" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymotion.com">[Dailymotion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymotion.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Syrian_Arab_Republic_099887-Illustration-2-dark.svg" | relative_url }}" alt="Syrian Arab Republic illustration 2" data-theme-src-dark="{{ "/assets/images/Syrian_Arab_Republic_099887-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syrian_Arab_Republic_099887-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why region-level variation matters inside Syria
 
 The geography of Syrian UAP claims follows the geography of conflict and surveillance more than it follows a classic civilian UFO pattern. Northwest Syria, eastern Syria and areas near coalition or cross-border military activity are more likely to appear in public military-adjacent UAP discussion because that is where foreign sensors, drones, aircraft and operational reporting have been concentrated.
 
-Eastern and north-eastern Syria are especially important because U.S. and partner forces have operated there against ISIS, while bases and support sites have also faced drone threats. In February 2023, U.S. forces shot down an Iranian-made drone over Mission Support Site Conoco in north-eastern Syria, and in January 2023 three suicide drones struck the al-Tanf base area, with two shot down and one causing injuries to Syrian opposition fighters. These incidents are not UFO cases, but they show that small aerial objects, hostile drones and air-defence responses are normal features of the same theatre in which UAP reports arise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/65648ea8c15d90dd6ce13cbe5d7f2d5d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News US military downs Iranian-made drone in Syria</span><span class="citation-popover-snippet">AP News US military downs Iranian-made drone in Syria</span></span></span>
+Eastern and north-eastern Syria are especially important because U.S. and partner forces have operated there against ISIS, while bases and support sites have also faced drone threats. In February 2023, U.S. forces shot down an Iranian-made drone over Mission Support Site Conoco in north-eastern Syria, and in January 2023 three suicide drones struck the al-Tanf base area, with two shot down and one causing injuries to Syrian opposition fighters. These incidents are not UFO cases, but they show that small aerial objects, hostile drones and air-defence responses are normal features of the same theatre in which UAP reports arise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/65648ea8c15d90dd6ce13cbe5d7f2d5d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News US military downs Iranian-made drone in Syria</span><span class="citation-popover-snippet">AP News US military downs Iranian-made drone in Syria</span></span></span>
 
-Southern and western Syrian airspace also matters because regional missile and drone activity can pass through or near it. During Iran’s April 2024 attack on Israel, Reuters reported that most Iranian drones over Syria were downed by Israeli and U.S. forces, with interceptions over areas including Deraa province, the Golan Heights and the Iraq-Syria border. A civilian witness seeing lights, intercepts or debris in such a context might reasonably describe something as unidentified, even when the broader cause is military. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/middle-east/most-iranian-drones-over-syria-were-downed-by-israelus-intelligence-sources-say-2024-04-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Southern and western Syrian airspace also matters because regional missile and drone activity can pass through or near it. During Iran’s April 2024 attack on Israel, Reuters reported that most Iranian drones over Syria were downed by Israeli and U.S. forces, with interceptions over areas including Deraa province, the Golan Heights and the Iraq-Syria border. A civilian witness seeing lights, intercepts or debris in such a context might reasonably describe something as unidentified, even when the broader cause is military.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/middle-east/most-iranian-drones-over-syria-were-downed-by-israelus-intelligence-sources-say-2024-04-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Aleppo, Idlib and Damascus-linked viral claims need extra caution. These are densely documented war zones in which footage can be old, miscaptioned, reposted, edited or stripped of context. A dark dot, flare, missile, aircraft, drone, balloon or debris field can become a “UFO” once separated from location, time, weather, camera direction and battlefield context. For Syria, regional variation is therefore not just a map question; it is an evidence-quality question.
 
@@ -1245,9 +1245,9 @@ Aleppo, Idlib and Damascus-linked viral claims need extra caution. These are den
 
 ## What official UAP findings imply for Syria
 
-The broader official U.S. UAP position is directly relevant to Syrian cases because the best Syrian records currently come from U.S. military channels. AARO, the All-domain Anomaly Resolution Office, has repeatedly said that it has found no verifiable evidence of extraterrestrial beings, activity or technology. In 2024, a Department of Defense summary of the annual UAP report said AARO had received 757 reports in the covered period, had resolved hundreds of cases as balloons, birds, drones, satellites and aircraft, and retained more than 900 reports in an active archive because they lacked sufficient scientific data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
+The broader official U.S. UAP position is directly relevant to Syrian cases because the best Syrian records currently come from U.S. military channels. AARO, the All-domain Anomaly Resolution Office, has repeatedly said that it has found no verifiable evidence of extraterrestrial beings, activity or technology. In 2024, a Department of Defense summary of the annual UAP report said AARO had received 757 reports in the covered period, had resolved hundreds of cases as balloons, birds, drones, satellites and aircraft, and retained more than 900 reports in an active archive because they lacked sufficient scientific data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
 
-AARO’s historical review is also useful because it explains why “unidentified” does not mean “extraordinary”. Reviewing earlier U.S. and foreign investigations, AARO found that most reports were ordinary objects, natural phenomena, optical illusions or misidentifications, while many unresolved cases suffered from missing data such as speed, altitude and size. That is precisely the problem with much Syria-related UAP material: a sensor image or witness description may be real, but the measurements needed to make a strong scientific claim are often missing or estimated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
+AARO’s historical review is also useful because it explains why “unidentified” does not mean “extraordinary”. Reviewing earlier U.S. and foreign investigations, AARO found that most reports were ordinary objects, natural phenomena, optical illusions or misidentifications, while many unresolved cases suffered from missing data such as speed, altitude and size. That is precisely the problem with much Syria-related UAP material: a sensor image or witness description may be real, but the measurements needed to make a strong scientific claim are often missing or estimated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")
 
 This does not mean Syrian UAP reports should be dismissed. A crowded conflict theatre has genuine aviation-safety and security reasons to track unknown objects. The responsible reading is narrower: some Syrian observations are real reports of unidentified aerial phenomena, but the available public evidence does not support claims of alien craft, recovered technology or confirmed advanced non-human capability.
 
@@ -1256,7 +1256,7 @@ This does not mean Syrian UAP reports should be dismissed. A crowded conflict th
 
 A Syrian UFO claim becomes more useful when it answers ordinary verification questions. The most important are: who recorded it, when was it recorded, where was the camera or aircraft, what sensor was used, what was the estimated range, and what other aircraft, drones, munitions, balloons or astronomical objects were in the area? Claims that cannot answer those questions should be treated as anecdotes or viral media, not as strong evidence.
 
-The 2023 CENTCOM report is a good example of both better evidence and persistent uncertainty. It gives a date, operational setting, estimated speed, shape description and effects assessment. Yet it also includes redactions, estimated rather than fully measured kinematic values, no third-party observers, no interrogation return, no recovered material and no indication of intelligent control. That makes it stronger than a social-media clip, but still far from a complete identification-quality record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>
+The 2023 CENTCOM report is a good example of both better evidence and persistent uncertainty. It gives a date, operational setting, estimated speed, shape description and effects assessment. Yet it also includes redactions, estimated rather than fully measured kinematic values, no third-party observers, no interrogation return, no recovered material and no indication of intelligent control. That makes it stronger than a social-media clip, but still far from a complete identification-quality record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>
 
 For Syria specifically, the default checklist should include conflict-zone explanations before exotic ones: drones, loitering munitions, aircraft seen from unusual angles, flares, air-defence intercepts, balloons, debris, sensor glare, compression artefacts, parallax and lost tracking. A claim rises above that baseline only when it includes multi-sensor data, reliable chain of custody, independent witnesses, clear location and time, and enough range information to calculate real speed and acceleration.
 
@@ -1264,199 +1264,199 @@ For Syria specifically, the default checklist should include conflict-zone expla
 
 ## What remains unresolved
 
-The unresolved part of the Syrian Arab Republic’s UFO record is not a hidden national mystery with a clear trail of alien evidence. It is a set of limited, sometimes intriguing observations from one of the world’s most complex airspaces. The 2021 Syria video remains interesting because of its official release and its “instant acceleration” label, but the public material is not enough to establish extraordinary performance. The 2023 “bouncy ball” report remains interesting because it records a sustained unidentified object near an aircraft, but the same document frames it as benign, non-manoeuvring and without observed intelligent control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSDOW-UAP-PR051, &quot;Syrian UAP instant acceleration</span><span class="citation-popover-snippet">DVIDSDOW-UAP-PR051, &quot;Syrian UAP instant acceleration</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The unresolved part of the Syrian Arab Republic’s UFO record is not a hidden national mystery with a clear trail of alien evidence. It is a set of limited, sometimes intriguing observations from one of the world’s most complex airspaces. The 2021 Syria video remains interesting because of its official release and its “instant acceleration” label, but the public material is not enough to establish extraordinary performance. The 2023 “bouncy ball” report remains interesting because it records a sustained unidentified object near an aircraft, but the same document frames it as benign, non-manoeuvring and without observed intelligent control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Do W-UAP-D42</span><span class="citation-popover-snippet">U.S. Department of War Do W-UAP-D42</span></span></span>(#endnote-5 "Snippet: DOD Examining Unidentified Anomalous Phenomena > U.S. Department of War > Defense Department News | U.S. Department of War")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSDOW-UAP-PR051, &quot;Syrian UAP instant acceleration</span><span class="citation-popover-snippet">DVIDSDOW-UAP-PR051, &quot;Syrian UAP instant acceleration</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most defensible conclusion is modest. Syria has credible modern UAP records in the sense that official U.S. military documents and videos record unidentified aerial observations in Syrian airspace. It does not currently have credible public evidence that those observations were extraterrestrial, non-human, or beyond known human capability. The value of the Syrian branch of UFO research lies in showing how unresolved aerial events behave in a real military environment: not as clean science-fiction encounters, but as fragmentary tracks, estimated speeds, redacted reports and contested interpretations in a sky already full of machines.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Syria&#x27;s UFO Files Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Syria&#x27;s UFO Files Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Focuses on modern military UAP reporting and analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on modern military UAP reporting and analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers military reporting and contemporary UAP debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers military reporting and contemporary UAP debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on military observations and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on military observations and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Helps frame official unidentified-object reports without sensationalism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps frame official unidentified-object reports without sensationalism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-syria-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-syria-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1472,7 +1472,7 @@ The most defensible conclusion is modest. Syria has credible modern UAP records 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1492,7 +1492,7 @@ The most defensible conclusion is modest. Syria has credible modern UAP records 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1524,7 +1524,7 @@ The most defensible conclusion is modest. Syria has credible modern UAP records 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1576,7 +1576,7 @@ The most defensible conclusion is modest. Syria has credible modern UAP records 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1621,7 +1621,7 @@ The most defensible conclusion is modest. Syria has credible modern UAP records 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1659,172 +1659,171 @@ The most defensible conclusion is modest. Syria has credible modern UAP records 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
    Title: U.S. Department of War Do W-UAP-D42  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/middle-east/most-iranian-drones-over-syria-were-downed-by-israelus-intelligence-sources-say-2024-04-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/most-iranian-drones-over-syria-were-downed-by-israelus-intelligence-sources-say-2024-04-14/</a>  
+   Link:<a href="https://www.reuters.com/world/middle-east/most-iranian-drones-over-syria-were-downed-by-israelus-intelligence-sources-say-2024-04-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/most-iranian-drones-over-syria-were-downed-by-israelus-intelligence-sources-say-2024-04-14/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=197426" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197426</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=197426" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197426</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
+   Link:<a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
+   Link:<a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073</a>  
+   Link:<a href="https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/analysis-of-the-second-batch-of-ufo-files-released-by-the-pentagon-1d76e7724073</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dailymotion.com  
-   Link: <a href="https://www.dailymotion.com/video/x2hztez" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x2hztez</a>  
+   Link:<a href="https://www.dailymotion.com/video/x2hztez" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x2hztez</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: centcom.mil  
-   Link: <a href="https://www.centcom.mil/MEDIA/PRESS-RELEASES/Article/1133268/operation-inherent-resolve-non-combat-related-casualty/" target="_blank" rel="noopener noreferrer nofollow">https://www.centcom.mil/MEDIA/PRESS-RELEASES/Article/1133268/operation-inherent-resolve-non-combat-related-casualty/</a>  
+   Link:<a href="https://www.centcom.mil/MEDIA/PRESS-RELEASES/Article/1133268/operation-inherent-resolve-non-combat-related-casualty/" target="_blank" rel="noopener noreferrer nofollow">https://www.centcom.mil/MEDIA/PRESS-RELEASES/Article/1133268/operation-inherent-resolve-non-combat-related-casualty/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: centcom.mil  
    Title: may 3 2023 investigation findings  
-   Link: <a href="https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3763291/may-3-2023-investigation-findings/" target="_blank" rel="noopener noreferrer nofollow">https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3763291/may-3-2023-investigation-findings/</a>  
+   Link:<a href="https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3763291/may-3-2023-investigation-findings/" target="_blank" rel="noopener noreferrer nofollow">https://www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3763291/may-3-2023-investigation-findings/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: centcom.mil  
-   Link: <a href="https://www.centcom.mil/MEDIA/NEWS-ARTICLES/News-Article-View/Article/885255/operation-inherent-resolve-airstrikes-proving-effective-in-iraq-syria/" target="_blank" rel="noopener noreferrer nofollow">https://www.centcom.mil/MEDIA/NEWS-ARTICLES/News-Article-View/Article/885255/operation-inherent-resolve-airstrikes-proving-effective-in-iraq-syria/</a>  
+   Link:<a href="https://www.centcom.mil/MEDIA/NEWS-ARTICLES/News-Article-View/Article/885255/operation-inherent-resolve-airstrikes-proving-effective-in-iraq-syria/" target="_blank" rel="noopener noreferrer nofollow">https://www.centcom.mil/MEDIA/NEWS-ARTICLES/News-Article-View/Article/885255/operation-inherent-resolve-airstrikes-proving-effective-in-iraq-syria/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: centcom.mil  
    Title: POSTURE STATEMENT  
-   Link: <a href="https://www.centcom.mil/ABOUT-US/POSTURE-STATEMENT/" target="_blank" rel="noopener noreferrer nofollow">https://www.centcom.mil/ABOUT-US/POSTURE-STATEMENT/</a>  
+   Link:<a href="https://www.centcom.mil/ABOUT-US/POSTURE-STATEMENT/" target="_blank" rel="noopener noreferrer nofollow">https://www.centcom.mil/ABOUT-US/POSTURE-STATEMENT/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
    Title: inherent resolve mission in iraq and syria transitioning  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3920032/inherent-resolve-mission-in-iraq-and-syria-transitioning/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3920032/inherent-resolve-mission-in-iraq-and-syria-transitioning/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3920032/inherent-resolve-mission-in-iraq-and-syria-transitioning/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3920032/inherent-resolve-mission-in-iraq-and-syria-transitioning/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dvidshub.net  
    Title: DVIDSDOW-UAP-PR051, "Syrian UAP instant acceleration"  
-   Link: <a href="https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration</a>  
+   Link:<a href="https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1007707/dow-uap-pr051-syrian-uap-instant-acceleration</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: apnews.com  
    Title: AP News US military downs Iranian-made drone in Syria  
-   Link: <a href="https://apnews.com/article/65648ea8c15d90dd6ce13cbe5d7f2d5d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/65648ea8c15d90dd6ce13cbe5d7f2d5d</a>  
+   Link:<a href="https://apnews.com/article/65648ea8c15d90dd6ce13cbe5d7f2d5d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/65648ea8c15d90dd6ce13cbe5d7f2d5d</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/c1fa21bfc2d4d1ffe523e9e735e8ca47" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c1fa21bfc2d4d1ffe523e9e735e8ca47</a>  
+   Link:<a href="https://apnews.com/article/c1fa21bfc2d4d1ffe523e9e735e8ca47" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/c1fa21bfc2d4d1ffe523e9e735e8ca47</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Operation Inherent Resolve  
-   Link: <a href="https://en.wikipedia.org/wiki/Operation_Inherent_Resolve" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_Inherent_Resolve</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Operation_Inherent_Resolve" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Operation_Inherent_Resolve</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: warufo.com  
-   Link: <a href="https://www.warufo.com/document/81" target="_blank" rel="noopener noreferrer nofollow">https://www.warufo.com/document/81</a>  
+   Link:<a href="https://www.warufo.com/document/81" target="_blank" rel="noopener noreferrer nofollow">https://www.warufo.com/document/81</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: balloonstodrones.com  
-   Link: <a href="https://balloonstodrones.com/tag/operation-inherent-resolve/" target="_blank" rel="noopener noreferrer nofollow">https://balloonstodrones.com/tag/operation-inherent-resolve/</a>  
+   Link:<a href="https://balloonstodrones.com/tag/operation-inherent-resolve/" target="_blank" rel="noopener noreferrer nofollow">https://balloonstodrones.com/tag/operation-inherent-resolve/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Pentagon declassified UFO footage shows mystery 'metal orb' moving eerily  
-   Link: <a href="https://www.youtube.com/watch?v=CFMRuMDNwKI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CFMRuMDNwKI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Video Goes Viral... Unidentified Objects Flying Over the Battlefield? [News Now] / YTN...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CFMRuMDNwKI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CFMRuMDNwKI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Video Goes Viral... Unidentified Objects Flying Over the Battlefield? [News Now] / YTN...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Here are the released videos from Pentagon's first batch of UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADMcelTgWYo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every Pentagon UFO Video Explained - The 8 Pointed Star...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ADMcelTgWYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ADMcelTgWYo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every Pentagon UFO Video Explained - The 8 Pointed Star...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: stateoig.gov  
-   Link: <a href="https://www.stateoig.gov/uploads/report/report_pdf_file/oir_q4_sep2023_final_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stateoig.gov/uploads/report/report_pdf_file/oir_q4_sep2023_final_508.pdf</a>  
+   Link:<a href="https://www.stateoig.gov/uploads/report/report_pdf_file/oir_q4_sep2023_final_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stateoig.gov/uploads/report/report_pdf_file/oir_q4_sep2023_final_508.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: 16 Most Disturbing Videos From Pentagon UFO Release  
-   Link: <a href="https://www.youtube.com/watch?v=6dPNiN5nf0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6dPNiN5nf0E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon declassified UFO footage shows mystery &#x27;metal orb&#x27; moving eerily...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6dPNiN5nf0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6dPNiN5nf0E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon declassified UFO footage shows mystery &#x27;metal orb&#x27; moving eerily...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Every Pentagon UFO Video Explained  
-   Link: <a href="https://www.youtube.com/watch?v=d_-yNBQfP84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_-yNBQfP84</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Most Disturbing Videos From Pentagon UFO Release...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d_-yNBQfP84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_-yNBQfP84</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Most Disturbing Videos From Pentagon UFO Release...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/photos/ahmad-badreddin-hassoun" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/ahmad-badreddin-hassoun</a>  
+   Link:<a href="https://www.gettyimages.com/photos/ahmad-badreddin-hassoun" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/ahmad-badreddin-hassoun</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ahramonline/posts/a-white-thermal-object-appears-briefly-over-the-gulf-before-vanishing-from-a-us-/1419198113569310/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ahramonline/posts/a-white-thermal-object-appears-briefly-over-the-gulf-before-vanishing-from-a-us-/1419198113569310/</a>  
+   Link:<a href="https://www.facebook.com/ahramonline/posts/a-white-thermal-object-appears-briefly-over-the-gulf-before-vanishing-from-a-us-/1419198113569310/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ahramonline/posts/a-white-thermal-object-appears-briefly-over-the-gulf-before-vanishing-from-a-us-/1419198113569310/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/US/pentagon-releases-declassified-ufo-files-including-intelligence-officers/story?id=133209645" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/pentagon-releases-declassified-ufo-files-including-intelligence-officers/story?id=133209645</a>  
+   Link:<a href="https://abcnews.com/US/pentagon-releases-declassified-ufo-files-including-intelligence-officers/story?id=133209645" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/pentagon-releases-declassified-ufo-files-including-intelligence-officers/story?id=133209645</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/foxcarolinanews/posts/air-defenses-intercept-drone-attack-targeting-base-that-hosts-us-central-command/1364509842383338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxcarolinanews/posts/air-defenses-intercept-drone-attack-targeting-base-that-hosts-us-central-command/1364509842383338/</a>  
+   Link:<a href="https://www.facebook.com/foxcarolinanews/posts/air-defenses-intercept-drone-attack-targeting-base-that-hosts-us-central-command/1364509842383338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxcarolinanews/posts/air-defenses-intercept-drone-attack-targeting-base-that-hosts-us-central-command/1364509842383338/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/News13/posts/among-the-newly-released-materials-are-videos-reportedly-showing-unexplained-obj/1296069716063092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News13/posts/among-the-newly-released-materials-are-videos-reportedly-showing-unexplained-obj/1296069716063092/</a>
+   Link:<a href="https://www.facebook.com/News13/posts/among-the-newly-released-materials-are-videos-reportedly-showing-unexplained-obj/1296069716063092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News13/posts/among-the-newly-released-materials-are-videos-reportedly-showing-unexplained-obj/1296069716063092/</a>

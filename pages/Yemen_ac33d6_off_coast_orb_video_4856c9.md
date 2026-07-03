@@ -257,11 +257,11 @@ image: /assets/images/Yemen_ac33d6_off_coast_orb_video_4856c9-Illustration-1-soc
 The most discussed modern UFO case linked to Yemen is a short military video reportedly recorded on 30 October 2024 off the Yemeni coast and publicly shown during a United States congressional hearing in September 2025. In the clip, an object described as an orb is tracked from an MQ-9 Reaper drone platform while a Hellfire missile appears to pass into or strike the target area. The dramatic public claim was that the missile hit the object and effectively bounced off it without destroying it. That interpretation quickly became the headline. The evidence, however, is far less straightforward.
 
 <img src="{{ "/assets/images/Yemen_ac33d6_off_coast_orb_video_4856c9-Illustration-1-dark.svg" | relative_url }}" alt="Orb Video illustration 1" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_off_coast_orb_video_4856c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_off_coast_orb_video_4856c9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The footage is important because it appears to involve an actual military engagement in one of the world's most heavily monitored conflict zones. Yet the public release contains only a limited segment of video, with no accompanying radar data, targeting information, sensor logs, weapon telemetry or official Pentagon assessment. As a result, the Yemen orb case remains notable not because it proves something extraordinary, but because it sits in an unresolved space between genuine military footage and highly speculative interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
+The footage is important because it appears to involve an actual military engagement in one of the world's most heavily monitored conflict zones. Yet the public release contains only a limited segment of video, with no accompanying radar data, targeting information, sensor logs, weapon telemetry or official Pentagon assessment. As a result, the Yemen orb case remains notable not because it proves something extraordinary, but because it sits in an unresolved space between genuine military footage and highly speculative interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
 
 ## What the public video appears to show
 
-The footage was presented by Representative Eric Burlison during a congressional hearing focused on unidentified anomalous phenomena (UAPs). According to statements made at the hearing, the recording was dated 30 October 2024 and allegedly came from a whistleblower source. The object was said to have been tracked off the coast of Yemen by MQ-9 Reaper drones. CBS News <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Congressman shows never-before-seen video at military...Does a new video released by a congressman show a U.S. military Hellfire missile...</span></span></span>
+The footage was presented by Representative Eric Burlison during a congressional hearing focused on unidentified anomalous phenomena (UAPs). According to statements made at the hearing, the recording was dated 30 October 2024 and allegedly came from a whistleblower source. The object was said to have been tracked off the coast of Yemen by MQ-9 Reaper drones. CBS News<span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Congressman shows never-before-seen video at military...Does a new video released by a congressman show a U.S. military Hellfire missile...</span></span></span>
 
 In the publicly visible sequence:
 
@@ -270,9 +270,9 @@ In the publicly visible sequence:
 * A missile track enters the frame.
 * A moment of apparent contact or near-contact occurs.
 * Debris or fragments seem visible immediately afterward.
-* The object, or something in the same area of the frame, continues moving. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/ufo-video-congress-drone-strike-uap-2127452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">ufo video congress drone strike uap 2127452</span><span class="citation-popover-snippet">Declassified Video Shows US Trying to Shoot Down UFOSep 10, 2025 — The footage shows an MQ-9 Reaper drone tracking the object bef...</span></span></span>
+* The object, or something in the same area of the frame, continues moving.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/ufo-video-congress-drone-strike-uap-2127452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">ufo video congress drone strike uap 2127452</span><span class="citation-popover-snippet">Declassified Video Shows US Trying to Shoot Down UFOSep 10, 2025 — The footage shows an MQ-9 Reaper drone tracking the object bef...</span></span></span>
 
-The clip's power comes from the final moments. Viewers naturally focus on the fact that something remains visible after the engagement. This led to repeated media descriptions that the missile "bounced off" the object. Yet the available footage does not clearly establish what physically happened at the point of interaction. CBS News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tv/news/ufo-congress-hearing-video-yemen-b2823663.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">ufo congress hearing video yemen b2823663</span><span class="citation-popover-snippet">The IndependentVideo of US hellfire missile &#x27;bouncing&#x27; off speeding UFO...10 Sept 2025 — Never-before-seen footage shows a US military H...</span></span></span>
+The clip's power comes from the final moments. Viewers naturally focus on the fact that something remains visible after the engagement. This led to repeated media descriptions that the missile "bounced off" the object. Yet the available footage does not clearly establish what physically happened at the point of interaction. CBS News<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tv/news/ufo-congress-hearing-video-yemen-b2823663.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">ufo congress hearing video yemen b2823663</span><span class="citation-popover-snippet">The IndependentVideo of US hellfire missile &#x27;bouncing&#x27; off speeding UFO...10 Sept 2025 — Never-before-seen footage shows a US military H...</span></span></span>
 
 A key complication is that military infrared and targeting-camera footage often compresses depth, distance and relative motion. Objects that appear to collide in a two-dimensional image do not always occupy the same point in three-dimensional space.
 
@@ -284,11 +284,11 @@ The Yemen case is often discussed as if every major claim has already been estab
 
 Confirmed or strongly documented elements include:
 
-* A video was publicly shown during a congressional UAP hearing in September 2025. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
-* The footage was described as having been recorded on 30 October 2024. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
-* The event was claimed to have occurred off the coast of Yemen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
-* The platform was described as involving MQ-9 Reaper drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</span></span></span>
-* A missile consistent with a Hellfire-family weapon appears in the released footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
+* A video was publicly shown during a congressional UAP hearing in September 2025.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
+* The footage was described as having been recorded on 30 October 2024.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
+* The event was claimed to have occurred off the coast of Yemen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
+* The platform was described as involving MQ-9 Reaper drones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</span></span></span>
+* A missile consistent with a Hellfire-family weapon appears in the released footage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
 
 Much of the wider narrative remains unverified:
 
@@ -299,7 +299,7 @@ Much of the wider narrative remains unverified:
 * No radar track has been published.
 * No Pentagon report has authenticated the engagement details.
 * No independent chain of custody has been made public.
-* No official damage assessment has been released. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
+* No official damage assessment has been released.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span>
 
 </div>
 
@@ -315,30 +315,30 @@ That conclusion depends on several assumptions that the public footage does not 
 
 One possibility is that the missile passed extremely close to the target without making solid contact. At long range and through a tracking sensor, depth perception becomes difficult. Two objects can appear to overlap in a camera image even when separated by distance in real space.
 
-Several technical observers analysing the released footage pointed to parallax and perspective effects as potential explanations for the apparent collision. Under this interpretation, the missile and target merely crossed the same line of sight from the camera's viewpoint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/uap-hearing-new-video-yemen-orb.14427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">UAP Hearing New Video</span><span class="citation-popover-snippet">UAP Hearing New Video - Yemen Orb9 Sept 2025 —...</span></span></span>
+Several technical observers analysing the released footage pointed to parallax and perspective effects as potential explanations for the apparent collision. Under this interpretation, the missile and target merely crossed the same line of sight from the camera's viewpoint.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/uap-hearing-new-video-yemen-orb.14427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">UAP Hearing New Video</span><span class="citation-popover-snippet">UAP Hearing New Video - Yemen Orb9 Sept 2025 —...</span></span></span>
 
 <img src="{{ "/assets/images/Yemen_ac33d6_off_coast_orb_video_4856c9-Illustration-2-dark.svg" | relative_url }}" alt="Orb Video illustration 2" data-theme-src-dark="{{ "/assets/images/Yemen_ac33d6_off_coast_orb_video_4856c9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Yemen_ac33d6_off_coast_orb_video_4856c9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Debris does not necessarily mean an intact object survived
 
 Some viewers interpreted visible fragments as evidence that the missile struck the object but failed to damage it.
 
-An equally conventional reading is that the fragments were the damage. If the target were a drone, lightweight aerial vehicle or balloon-like object, a glancing impact could shed components while leaving part of the structure airborne for at least a short period. The public clip is too limited to determine which interpretation is correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/did-a-hellfire-missile-hit-a-samad-drone-launched-by-the-houthis-on-october-30-2024-fad0bacbda0b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-title">Did a Hellfire Missile Hit a Samad Drone Launched</span><span class="citation-popover-snippet">Avi LoebThe agreement between the expected size and speed of the UAP and the properties of Samad drones suggests that the UAP in the vide...</span></span></span>
+An equally conventional reading is that the fragments were the damage. If the target were a drone, lightweight aerial vehicle or balloon-like object, a glancing impact could shed components while leaving part of the structure airborne for at least a short period. The public clip is too limited to determine which interpretation is correct.<span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/did-a-hellfire-missile-hit-a-samad-drone-launched-by-the-houthis-on-october-30-2024-fad0bacbda0b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-title">Did a Hellfire Missile Hit a Samad Drone Launched</span><span class="citation-popover-snippet">Avi LoebThe agreement between the expected size and speed of the UAP and the properties of Samad drones suggests that the UAP in the vide...</span></span></span>
 
 ### The missile may not have functioned in the way viewers assume
 
 The phrase "Hellfire missile" often leads audiences to imagine a cinematic explosion. Real missile engagements are more varied.
 
-Different Hellfire variants use different guidance and warhead arrangements. Some observers noted that not every engagement necessarily produces the dramatic fireball viewers expect. In the absence of confirmed information about the exact weapon model, fuze behaviour and engagement profile, conclusions based solely on the visual appearance of the strike remain uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ncm8pc/new_video_shared_by_burlison_on_todays_uap_hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">New video shared by Burlison on today&#x27;s UAP HearingPotentially, although there is at least one type of hellfire missile that doesn&#x27;...</span></span></span>
+Different Hellfire variants use different guidance and warhead arrangements. Some observers noted that not every engagement necessarily produces the dramatic fireball viewers expect. In the absence of confirmed information about the exact weapon model, fuze behaviour and engagement profile, conclusions based solely on the visual appearance of the strike remain uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ncm8pc/new_video_shared_by_burlison_on_todays_uap_hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">New video shared by Burlison on today&#x27;s UAP HearingPotentially, although there is at least one type of hellfire missile that doesn&#x27;...</span></span></span>
 
 ## The drone explanation remains one of the strongest alternatives
 
 The Yemen setting is central to understanding the case.
 
-By late 2024, the waters around Yemen had become a major operational theatre involving Houthi drones, missiles, maritime attacks and extensive surveillance activity. In such an environment, unidentified airborne contacts are not unusual. What is unusual is seeing one become public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</span></span></span>
+By late 2024, the waters around Yemen had become a major operational theatre involving Houthi drones, missiles, maritime attacks and extensive surveillance activity. In such an environment, unidentified airborne contacts are not unusual. What is unusual is seeing one become public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</span></span></span>
 
-Astrophysicist Avi Loeb argued that the object's estimated behaviour could be consistent with a Houthi-launched Samad-series drone rather than an exotic craft. His interpretation suggested that a glancing encounter with a missile could account for the continued motion seen after the apparent impact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/did-a-hellfire-missile-hit-a-samad-drone-launched-by-the-houthis-on-october-30-2024-fad0bacbda0b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-title">Did a Hellfire Missile Hit a Samad Drone Launched</span><span class="citation-popover-snippet">Avi LoebThe agreement between the expected size and speed of the UAP and the properties of Samad drones suggests that the UAP in the vide...</span></span></span>
+Astrophysicist Avi Loeb argued that the object's estimated behaviour could be consistent with a Houthi-launched Samad-series drone rather than an exotic craft. His interpretation suggested that a glancing encounter with a missile could account for the continued motion seen after the apparent impact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/did-a-hellfire-missile-hit-a-samad-drone-launched-by-the-houthis-on-october-30-2024-fad0bacbda0b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-title">Did a Hellfire Missile Hit a Samad Drone Launched</span><span class="citation-popover-snippet">Avi LoebThe agreement between the expected size and speed of the UAP and the properties of Samad drones suggests that the UAP in the vide...</span></span></span>
 
-That explanation is not proven. However, it illustrates an important point: the existence of an unidentified target does not automatically imply a technologically extraordinary one. In a conflict zone saturated with drones, a military sensor may initially classify an object as unidentified simply because operators have not yet determined its type. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/did-a-hellfire-missile-hit-a-samad-drone-launched-by-the-houthis-on-october-30-2024-fad0bacbda0b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-title">Did a Hellfire Missile Hit a Samad Drone Launched</span><span class="citation-popover-snippet">Avi LoebThe agreement between the expected size and speed of the UAP and the properties of Samad drones suggests that the UAP in the vide...</span></span></span>
+That explanation is not proven. However, it illustrates an important point: the existence of an unidentified target does not automatically imply a technologically extraordinary one. In a conflict zone saturated with drones, a military sensor may initially classify an object as unidentified simply because operators have not yet determined its type.<span class="citation-chip-wrap"><a class="citation-chip" href="https://avi-loeb.medium.com/did-a-hellfire-missile-hit-a-samad-drone-launched-by-the-houthis-on-october-30-2024-fad0bacbda0b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avi-loeb.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avi-loeb.medium.com</span><span class="citation-popover-title">Did a Hellfire Missile Hit a Samad Drone Launched</span><span class="citation-popover-snippet">Avi LoebThe agreement between the expected size and speed of the UAP and the properties of Samad drones suggests that the UAP in the vide...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/37ooh5oNJDM" title="UFO Hearing: Bombshell video shows US military’s missile bounce off UAP in stunning new footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=37ooh5oNJDM" target="_blank" rel="noopener noreferrer">UFO Hearing: Bombshell video shows US military’s missile bounce off UAP in stunning new footage</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 955.2K &middot; Uploaded: September 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=37ooh5oNJDM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=37ooh5oNJDM">Open on YouTube</a></p></div></div></div>
 
@@ -356,7 +356,7 @@ The most valuable missing data would include:
 * Range and altitude information.
 * Missile telemetry.
 * Battle-damage assessment records.
-* Any intelligence reporting associated with the mission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</span></span></span>
+* Any intelligence reporting associated with the mission.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</span></span></span>
 
 </div>
 
@@ -369,7 +369,7 @@ Those records could answer basic questions that the public video cannot:
 * How fast was it moving?
 * Was it manoeuvring intelligently?
 * Did the target survive?
-* Was it later identified as a known drone or aircraft? <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.04126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Physical Analysis of a Reported Missile</span><span class="citation-popover-snippet">Physical Analysis of a Reported Missile - &quot;Orb&quot; Interaction in 2024: Momentum Constraints, Atmospheric Drag, Sensor Artifacts, and T...</span></span></span>
+* Was it later identified as a known drone or aircraft?<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2512.04126" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Physical Analysis of a Reported Missile</span><span class="citation-popover-snippet">Physical Analysis of a Reported Missile - &quot;Orb&quot; Interaction in 2024: Momentum Constraints, Atmospheric Drag, Sensor Artifacts, and T...</span></span></span>
 
 </div>
 
@@ -382,201 +382,201 @@ Yemen has relatively few public UFO incidents backed by military imagery. That m
 
 Its significance comes from three factors.
 
-First, the footage appears connected to an actual operational military mission rather than a civilian sighting. Second, it emerged through a congressional transparency process rather than through internet rumours alone. Third, it raises a concrete technical question: what exactly was the target, and what happened during the engagement? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</span></span></span>
+First, the footage appears connected to an actual operational military mission rather than a civilian sighting. Second, it emerged through a congressional transparency process rather than through internet rumours alone. Third, it raises a concrete technical question: what exactly was the target, and what happened during the engagement?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">video house ufo hearing us missile strikes unidentified object</span><span class="citation-popover-snippet">reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</span></span></span>
 
-At the same time, the case illustrates a recurring problem in modern UAP debates. A short clip can generate enormous attention while the underlying sensor data remains unavailable. The Yemen orb video may ultimately prove to involve a conventional aerial target, a sensor interpretation issue, an unusual weapon interaction or something genuinely difficult to classify. The currently available evidence does not allow a definitive choice among those possibilities. What it does show is that the headline claim — that a missile hit a mysterious orb and simply bounced off — remains an interpretation rather than an established fact. The [War Zone]({{ 'war-zone/' | relative_url }}) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/uap-hearing-new-video-yemen-orb.14427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">UAP Hearing New Video</span><span class="citation-popover-snippet">UAP Hearing New Video - Yemen Orb9 Sept 2025 —...</span></span></span>
+At the same time, the case illustrates a recurring problem in modern UAP debates. A short clip can generate enormous attention while the underlying sensor data remains unavailable. The Yemen orb video may ultimately prove to involve a conventional aerial target, a sensor interpretation issue, an unusual weapon interaction or something genuinely difficult to classify. The currently available evidence does not allow a definitive choice among those possibilities. What it does show is that the headline claim — that a missile hit a mysterious orb and simply bounced off — remains an interpretation rather than an established fact. The [War Zone]({{ 'war-zone/' | relative_url }})<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/uap-hearing-new-video-yemen-orb.14427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">UAP Hearing New Video</span><span class="citation-popover-snippet">UAP Hearing New Video - Yemen Orb9 Sept 2025 —...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IsCcEE-vrIk" title="New video allegedly shows UAP surviving Hellfire missile | House UAP hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IsCcEE-vrIk" target="_blank" rel="noopener noreferrer">New video allegedly shows UAP surviving Hellfire missile | House UAP hearing</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 697.7K &middot; Uploaded: September 2025 &middot; Length: 3 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IsCcEE-vrIk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IsCcEE-vrIk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did a Missile Really Hit Yemen&#x27;s Orb?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did a Missile Really Hit Yemen&#x27;s Orb?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Directly aligned with military video, sensors and contemporary UAP claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligned with military video, sensors and contemporary UAP claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers military footage and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers military footage and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Relevant to evaluating official-source claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to evaluating official-source claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides technological context for unusual aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides technological context for unusual aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-missile-really-hit-yemen-s-orb-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-missile-really-hit-yemen-s-orb-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ At the same time, the case illustrates a recurring problem in modern UAP debates
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ At the same time, the case illustrates a recurring problem in modern UAP debates
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ At the same time, the case illustrates a recurring problem in modern UAP debates
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ At the same time, the case illustrates a recurring problem in modern UAP debates
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ At the same time, the case illustrates a recurring problem in modern UAP debates
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,134 +782,134 @@ At the same time, the case illustrates a recurring problem in modern UAP debates
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newsweek.com  
    Title: ufo video congress drone strike uap 2127452  
-   Link: <a href="https://www.newsweek.com/ufo-video-congress-drone-strike-uap-2127452" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-video-congress-drone-strike-uap-2127452</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified Video Shows US Trying to Shoot Down UFOSep 10, 2025 — The footage shows an MQ-9 Reaper drone tracking the object bef...</p></details>
+   Link:<a href="https://www.newsweek.com/ufo-video-congress-drone-strike-uap-2127452" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-video-congress-drone-strike-uap-2127452</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified Video Shows US Trying to Shoot Down UFOSep 10, 2025 — The footage shows an MQ-9 Reaper drone tracking the object bef...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
    Title: UAP Hearing New Video  
-   Link: <a href="https://www.metabunk.org/threads/uap-hearing-new-video-yemen-orb.14427/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/uap-hearing-new-video-yemen-orb.14427/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Hearing New Video - Yemen Orb9 Sept 2025 —...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/uap-hearing-new-video-yemen-orb.14427/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/uap-hearing-new-video-yemen-orb.14427/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Hearing New Video - Yemen Orb9 Sept 2025 —...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Physical Analysis of a Reported Missile  
-   Link: <a href="https://arxiv.org/abs/2512.04126" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.04126</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Analysis of a Reported Missile - &quot;Orb&quot; Interaction in 2024: Momentum Constraints, Atmospheric Drag, Sensor Artifacts, and T...</p></details>
+   Link:<a href="https://arxiv.org/abs/2512.04126" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.04126</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Analysis of a Reported Missile - &quot;Orb&quot; Interaction in 2024: Momentum Constraints, Atmospheric Drag, Sensor Artifacts, and T...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: avi-loeb.medium.com  
    Title: Did a Hellfire Missile Hit a Samad Drone Launched  
-   Link: <a href="https://avi-loeb.medium.com/did-a-hellfire-missile-hit-a-samad-drone-launched-by-the-houthis-on-october-30-2024-fad0bacbda0b" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/did-a-hellfire-missile-hit-a-samad-drone-launched-by-the-houthis-on-october-30-2024-fad0bacbda0b</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Avi LoebThe agreement between the expected size and speed of the UAP and the properties of Samad drones suggests that the UAP in the vide...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/did-a-hellfire-missile-hit-a-samad-drone-launched-by-the-houthis-on-october-30-2024-fad0bacbda0b" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/did-a-hellfire-missile-hit-a-samad-drone-launched-by-the-houthis-on-october-30-2024-fad0bacbda0b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avi LoebThe agreement between the expected size and speed of the UAP and the properties of Samad drones suggests that the UAP in the vide...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ncm8pc/new_video_shared_by_burlison_on_todays_uap_hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ncm8pc/new_video_shared_by_burlison_on_todays_uap_hearing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New video shared by Burlison on today&#x27;s UAP HearingPotentially, although there is at least one type of hellfire missile that doesn&#x27;...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ncm8pc/new_video_shared_by_burlison_on_todays_uap_hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ncm8pc/new_video_shared_by_burlison_on_todays_uap_hearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New video shared by Burlison on today&#x27;s UAP HearingPotentially, although there is at least one type of hellfire missile that doesn&#x27;...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1ncmjdq/new_video_shared_by_burlison_on_todays_uap_hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ncmjdq/new_video_shared_by_burlison_on_todays_uap_hearing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2024: MQ-9 Reaper allegedly tracking orb off coast of Yemen.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1ncmjdq/new_video_shared_by_burlison_on_todays_uap_hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ncmjdq/new_video_shared_by_burlison_on_todays_uap_hearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2024: MQ-9 Reaper allegedly tracking orb off coast of Yemen.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/1nh9vll/yemen_mq1_reaper_footage_of_uap_hellfire_strike/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1nh9vll/yemen_mq1_reaper_footage_of_uap_hellfire_strike/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yemen MQ-1 Reaper footage of UAP Hellfire strike: r/skepticEric Burlison (R-MO), shows one Reaper drone tracking a small, glowing orb-sh...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/1nh9vll/yemen_mq1_reaper_footage_of_uap_hellfire_strike/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1nh9vll/yemen_mq1_reaper_footage_of_uap_hellfire_strike/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yemen MQ-1 Reaper footage of UAP Hellfire strike: r/skepticEric Burlison (R-MO), shows one Reaper drone tracking a small, glowing orb-sh...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cbsnews.com  
    Title: video house ufo hearing us missile strikes unidentified object  
-   Link: <a href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/video-house-ufo-hearing-us-missile-strikes-unidentified-object/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reaper drone shows a glowing orb off the coast of Yemen. Then in the video, a Hellfire missile...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</p></details>
+   Link:<a href="https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/revelation-that-mq-9-reapers-are-now-engaging-aerial-targets-comes-from-uap-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneRevelation That MQ-9 Reapers Are Now Engaging Aerial...9 Sept 2025 — A newly disclosed video claims to show an MQ-9 trying t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressman shows never-before-seen video at military...Does a new video released by a congressman show a U.S. military Hellfire missile...</p></details>
+   Link:<a href="https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/congressman-shows-video-military-ufo-hearing/story?id=125413475</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congressman shows never-before-seen video at military...Does a new video released by a congressman show a U.S. military Hellfire missile...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: independent.co.uk  
    Title: ufo congress hearing video yemen b2823663  
-   Link: <a href="https://www.independent.co.uk/tv/news/ufo-congress-hearing-video-yemen-b2823663.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tv/news/ufo-congress-hearing-video-yemen-b2823663.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentVideo of US hellfire missile &#x27;bouncing&#x27; off speeding UFO...10 Sept 2025 — Never-before-seen footage shows a US military H...</p></details>
+   Link:<a href="https://www.independent.co.uk/tv/news/ufo-congress-hearing-video-yemen-b2823663.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tv/news/ufo-congress-hearing-video-yemen-b2823663.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentVideo of US hellfire missile &#x27;bouncing&#x27; off speeding UFO...10 Sept 2025 — Never-before-seen footage shows a US military H...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cbsnews.com  
    Title: watch congressman shows video orb surviving missile strike ufo hearing  
-   Link: <a href="https://www.cbsnews.com/video/watch-congressman-shows-video-orb-surviving-missile-strike-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/watch-congressman-shows-video-orb-surviving-missile-strike-ufo-hearing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch: Congressman shows video of &quot;orb&quot; surviving missile...Rep. Eric Burlison of Missouri showed a video from Oct. 30, 2024, of what he...</p></details>
+   Link:<a href="https://www.cbsnews.com/video/watch-congressman-shows-video-orb-surviving-missile-strike-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/video/watch-congressman-shows-video-orb-surviving-missile-strike-ufo-hearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch: Congressman shows video of &quot;orb&quot; surviving missile...Rep. Eric Burlison of Missouri showed a video from Oct. 30, 2024, of what he...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DObD1BdkR6R/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DObD1BdkR6R/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News on Instagram: &quot;Video released at a UFO hearing in...Eric Burlison (R-MO), who asked journalist George Knapp about it. Knapp, wh...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DObD1BdkR6R/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DObD1BdkR6R/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News on Instagram: &quot;Video released at a UFO hearing in...Eric Burlison (R-MO), who asked journalist George Knapp about it. Knapp, wh...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/detroit/video/newly-released-video-raises-questions-at-house-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/detroit/video/newly-released-video-raises-questions-at-house-ufo-hearing/</a>  
+   Link:<a href="https://www.cbsnews.com/detroit/video/newly-released-video-raises-questions-at-house-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/detroit/video/newly-released-video-raises-questions-at-house-ufo-hearing/</a>  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/us-representative-eric-burlison-shared-the-footage-which-appears-to-show-a-us-mi/1185379110291429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/us-representative-eric-burlison-shared-the-footage-which-appears-to-show-a-us-mi/1185379110291429/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US representative Eric Burlison shared the footage, which...He said he was given the clip by a whistleblower and an independent review i...</p></details>
+   Link:<a href="https://www.facebook.com/itvnews/posts/us-representative-eric-burlison-shared-the-footage-which-appears-to-show-a-us-mi/1185379110291429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/us-representative-eric-burlison-shared-the-footage-which-appears-to-show-a-us-mi/1185379110291429/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US representative Eric Burlison shared the footage, which...He said he was given the clip by a whistleblower and an independent review i...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: the video taken on 30 october 2024 shows a missile appearing to strike the orb w  
-   Link: <a href="https://www.facebook.com/IFLScience/posts/the-video-taken-on-30-october-2024-shows-a-missile-appearing-to-strike-the-orb-w/1342894760834971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IFLScience/posts/the-video-taken-on-30-october-2024-shows-a-missile-appearing-to-strike-the-orb-w/1342894760834971/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video, taken on 30 October 2024, shows a missile...The Hellfire did not explode because it is an air to ground missile and t...</p></details>
+   Link:<a href="https://www.facebook.com/IFLScience/posts/the-video-taken-on-30-october-2024-shows-a-missile-appearing-to-strike-the-orb-w/1342894760834971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IFLScience/posts/the-video-taken-on-30-october-2024-shows-a-missile-appearing-to-strike-the-orb-w/1342894760834971/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The video, taken on 30 October 2024, shows a missile...The Hellfire did not explode because it is an air to ground missile and t...</p></details>
    Published: october 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: realcleardefense.com  
    Title: mq 9 reapers are now engaging aerial targets comes from uap hearing 1133927  
-   Link: <a href="https://www.realcleardefense.com/2025/09/10/mq-9_reapers_are_now_engaging_aerial_targets_comes_from_uap_hearing_1133927.html" target="_blank" rel="noopener noreferrer nofollow">https://www.realcleardefense.com/2025/09/10/mq-9_reapers_are_now_engaging_aerial_targets_comes_from_uap_hearing_1133927.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MQ-9 Reapers Are Now Engaging Aerial Targets Comes...Sep 10, 2025 — A newly disclosed video claims to show an MQ-9 trying to bring down...</p></details>
+   Link:<a href="https://www.realcleardefense.com/2025/09/10/mq-9_reapers_are_now_engaging_aerial_targets_comes_from_uap_hearing_1133927.html" target="_blank" rel="noopener noreferrer nofollow">https://www.realcleardefense.com/2025/09/10/mq-9_reapers_are_now_engaging_aerial_targets_comes_from_uap_hearing_1133927.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MQ-9 Reapers Are Now Engaging Aerial Targets Comes...Sep 10, 2025 — A newly disclosed video claims to show an MQ-9 trying to bring down...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wbznewsradio.iheart.com  
-   Link: <a href="https://wbznewsradio.iheart.com/content/2025-09-10-shocking-video-shows-hellfire-missile-bouncing-off-ufo-seen-near-yemen/" target="_blank" rel="noopener noreferrer nofollow">https://wbznewsradio.iheart.com/content/2025-09-10-shocking-video-shows-hellfire-missile-bouncing-off-ufo-seen-near-yemen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Burlison, R-Mo., captured a U.S. drone firing a Hellfire missile at a mysterious orb off the coast of Yemen on...Read more...</p></details>
+   Link:<a href="https://wbznewsradio.iheart.com/content/2025-09-10-shocking-video-shows-hellfire-missile-bouncing-off-ufo-seen-near-yemen/" target="_blank" rel="noopener noreferrer nofollow">https://wbznewsradio.iheart.com/content/2025-09-10-shocking-video-shows-hellfire-missile-bouncing-off-ufo-seen-near-yemen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Burlison, R-Mo., captured a U.S. drone firing a Hellfire missile at a mysterious orb off the coast of Yemen on...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IsCcEE-vrIk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IsCcEE-vrIk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New video allegedly shows UAP surviving Hellfire missileThis video is of an mq9 drone tracking an orb or this object off the coast of yem...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IsCcEE-vrIk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IsCcEE-vrIk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New video allegedly shows UAP surviving Hellfire missileThis video is of an mq9 drone tracking an orb or this object off the coast of yem...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=37ooh5oNJDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=37ooh5oNJDM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hearing: Bombshell video shows US military&#x27;s missile...A shocking new video revealed at a congressional hearing has reignited the UF...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=37ooh5oNJDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=37ooh5oNJDM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hearing: Bombshell video shows US military&#x27;s missile...A shocking new video revealed at a congressional hearing has reignited the UF...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sofx.com  
-   Link: <a href="https://www.sofx.com/video-shows-drone-missile-strike-on-unidentified-object-off-yemen/" target="_blank" rel="noopener noreferrer nofollow">https://www.sofx.com/video-shows-drone-missile-strike-on-unidentified-object-off-yemen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Shows Drone Missile Strike on Unidentified Object...Sep 12, 2025 — A video shown Tuesday in a House hearing appears to capture a U.S...</p></details>
+   Link:<a href="https://www.sofx.com/video-shows-drone-missile-strike-on-unidentified-object-off-yemen/" target="_blank" rel="noopener noreferrer nofollow">https://www.sofx.com/video-shows-drone-missile-strike-on-unidentified-object-off-yemen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video Shows Drone Missile Strike on Unidentified Object...Sep 12, 2025 — A video shown Tuesday in a House hearing appears to capture a U.S...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: foxnews.com  
    Title: hellfire missile bounces mysterious orb stunning uap footage shown congress  
-   Link: <a href="https://www.foxnews.com/politics/hellfire-missile-bounces-mysterious-orb-stunning-uap-footage-shown-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/hellfire-missile-bounces-mysterious-orb-stunning-uap-footage-shown-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>drone firing Hellfire missile at UAP orb off Yemen, with the object remaining intact and continuing to...</p></details>
+   Link:<a href="https://www.foxnews.com/politics/hellfire-missile-bounces-mysterious-orb-stunning-uap-footage-shown-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/politics/hellfire-missile-bounces-mysterious-orb-stunning-uap-footage-shown-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>drone firing Hellfire missile at UAP orb off Yemen, with the object remaining intact and continuing to...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fKfeZOdzp6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fKfeZOdzp6g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Eric Burlison&quot; Yemen orb video missile UAP hearing Congress reveals UFO footage of orb hit by missile off Yemen WFAA...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fKfeZOdzp6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fKfeZOdzp6g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Eric Burlison&quot; Yemen orb video missile UAP hearing Congress reveals UFO footage of orb hit by missile off Yemen WFAA...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/videos/a-new-video-of-an-alleged-uap-off-the-coast-of-yemen-in-oct-2024-was-shown-by-re/1485045069298458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/a-new-video-of-an-alleged-uap-off-the-coast-of-yemen-in-oct-2024-was-shown-by-re/1485045069298458/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>now has air to air capability also. 8mo. Tim Reed. But was it a...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/videos/a-new-video-of-an-alleged-uap-off-the-coast-of-yemen-in-oct-2024-was-shown-by-re/1485045069298458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/a-new-video-of-an-alleged-uap-off-the-coast-of-yemen-in-oct-2024-was-shown-by-re/1485045069298458/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>now has air to air capability also. 8mo. Tim Reed. But was it a...</p></details>

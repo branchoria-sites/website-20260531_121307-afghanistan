@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /egypt-1c39ab-index/
 description: Focused pages that expand on What Makes Egypt a Hotspot for UFO Legends?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Egypt_1c39ab
 parent_title: What Makes Egypt a Hotspot for UFO Legends?
@@ -16,7 +16,7 @@ parent_permalink: /what-makes-egypt-a-hotspot-for-ufo/
 
 # Explore Topics in What Makes Egypt a Hotspot for UFO Legends?
 
-The following pages expand on the main **[What Makes Egypt a Hotspot for UFO Legends?]({{ '/what-makes-egypt-a-hotspot-for-ufo/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Makes Egypt a Hotspot for UFO Legends?]({{ '/what-makes-egypt-a-hotspot-for-ufo/' | relative_url }})** page and cover its key branches in.
 
 - [Abydos Helicopter]({{ '/abydos-helicopter/' | relative_url }})
 - [Media Influence]({{ '/media-influence/' | relative_url }})

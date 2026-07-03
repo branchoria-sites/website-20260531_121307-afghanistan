@@ -254,16 +254,16 @@ image: /assets/images/Grenada_dbf2a2_gairy_un_ufo_campaig_080fa3-Illustration-1-
 
 ## Introduction
 
-Grenada’s most influential contribution to UFO history was not a famous sighting or military encounter. It was a diplomatic campaign. In the late 1970s, Prime Minister Sir Eric Gairy tried to persuade the United Nations to treat unidentified flying objects as a legitimate international issue worthy of scientific coordination and formal investigation. His effort briefly pushed UFOs from fringe discussion into official UN debate, making Grenada the only small Caribbean state to place the subject on a major global diplomatic stage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">General Assembly proposing an international study of UFO&#x27;s, as well as a study...Read more...</span></span></span> WikiLeaks The campaign mattered because it produced real documents <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1978USUNN05425 d</span><span class="citation-popover-snippet">Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</span></span></span>, speeches and committee proceedings rather than rumours alone. Yet its limits were equally important. Gairy never secured the permanent UN UFO body he wanted, major powers treated the proposal cautiously, and the initiative collapsed after he was removed from office in 1979. The result was a short-lived but historically unusual episode in which Grenada became associated internationally with UFO diplomacy rather than confirmed UFO evidence.
+Grenada’s most influential contribution to UFO history was not a famous sighting or military encounter. It was a diplomatic campaign. In the late 1970s, Prime Minister Sir Eric Gairy tried to persuade the United Nations to treat unidentified flying objects as a legitimate international issue worthy of scientific coordination and formal investigation. His effort briefly pushed UFOs from fringe discussion into official UN debate, making Grenada the only small Caribbean state to place the subject on a major global diplomatic stage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">General Assembly proposing an international study of UFO&#x27;s, as well as a study...Read more...</span></span></span> WikiLeaks The campaign mattered because it produced real documents<span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1978USUNN05425 d</span><span class="citation-popover-snippet">Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</span></span></span>, speeches and committee proceedings rather than rumours alone. Yet its limits were equally important. Gairy never secured the permanent UN UFO body he wanted, major powers treated the proposal cautiously, and the initiative collapsed after he was removed from office in 1979. The result was a short-lived but historically unusual episode in which Grenada became associated internationally with UFO diplomacy rather than confirmed UFO evidence.
 
 <img src="{{ "/assets/images/Grenada_dbf2a2_gairy_un_ufo_campaig_080fa3-Illustration-1-dark.svg" | relative_url }}" alt="Gairy at UN illustration 1" data-theme-src-dark="{{ "/assets/images/Grenada_dbf2a2_gairy_un_ufo_campaig_080fa3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Grenada_dbf2a2_gairy_un_ufo_campaig_080fa3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Gairy Raised UFOs Internationally
 
-Eric Gairy’s interest in UFOs combined personal conviction, political theatre and a broader attempt to raise Grenada’s international profile after independence in 1974. Unlike later conspiracy-oriented UFO activism, Gairy framed the issue as one of scientific inquiry and international cooperation. He argued that governments should collect data, share reports and investigate unexplained aerial phenomena through established institutions rather than secrecy or ridicule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">General Assembly proposing an international study of UFO&#x27;s, as well as a study...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitallibrary.un.org/record/660850/files/A_32_142_Add.1-EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitallibrary.un.org">[Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitallibrary.un.org</span><span class="citation-popover-snippet">Digital LibraryGENERAL ASSEMBLY31 Aug 1977 — by the Right Honorable Sir Eric Matthew Gairy. ~rime Jlinister of Grenada.. to the First In...</span></span></span>
+Eric Gairy’s interest in UFOs combined personal conviction, political theatre and a broader attempt to raise Grenada’s international profile after independence in 1974. Unlike later conspiracy-oriented UFO activism, Gairy framed the issue as one of scientific inquiry and international cooperation. He argued that governments should collect data, share reports and investigate unexplained aerial phenomena through established institutions rather than secrecy or ridicule.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">General Assembly proposing an international study of UFO&#x27;s, as well as a study...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://digitallibrary.un.org/record/660850/files/A_32_142_Add.1-EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitallibrary.un.org">[Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitallibrary.un.org</span><span class="citation-popover-snippet">Digital LibraryGENERAL ASSEMBLY31 Aug 1977 — by the Right Honorable Sir Eric Matthew Gairy. ~rime Jlinister of Grenada.. to the First In...</span></span></span>
 
-This was not merely an offhand fascination. Gairy repeatedly inserted the subject into formal diplomacy. In 1977 he used the UN General Assembly platform to discuss UFOs publicly, and he promoted proposals for a UN-linked research structure dealing with unidentified aerial phenomena and related mysteries such as the Bermuda Triangle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spartacus-educational.com/COLDgairy.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spartacus-educational.com">[Spartacus Educational]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spartacus-educational.com</span><span class="citation-popover-snippet">Spartacus EducationalEric GairyDuring his speech he urged the UN to establish an Agency for Psychic Research into Unidentified Flying Obj...</span></span></span>
+This was not merely an offhand fascination. Gairy repeatedly inserted the subject into formal diplomacy. In 1977 he used the UN General Assembly platform to discuss UFOs publicly, and he promoted proposals for a UN-linked research structure dealing with unidentified aerial phenomena and related mysteries such as the Bermuda Triangle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spartacus-educational.com/COLDgairy.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spartacus-educational.com">[Spartacus Educational]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spartacus-educational.com</span><span class="citation-popover-snippet">Spartacus EducationalEric GairyDuring his speech he urged the UN to establish an Agency for Psychic Research into Unidentified Flying Obj...</span></span></span>
 
-A particularly important primary source is the memorandum of conversation from Gairy’s September 1977 meeting with US President Jimmy Carter and Secretary of State Cyrus Vance. During that meeting, Gairy referred to a UN resolution proposing an international study of UFOs and related phenomena. Carter responded by mentioning earlier US investigations, while Vance referred to the Air Force’s previous UFO reviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">General Assembly proposing an international study of UFO&#x27;s, as well as a study...Read more...</span></span></span>
+A particularly important primary source is the memorandum of conversation from Gairy’s September 1977 meeting with US President Jimmy Carter and Secretary of State Cyrus Vance. During that meeting, Gairy referred to a UN resolution proposing an international study of UFOs and related phenomena. Carter responded by mentioning earlier US investigations, while Vance referred to the Air Force’s previous UFO reviews.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">General Assembly proposing an international study of UFO&#x27;s, as well as a study...Read more...</span></span></span>
 
 That White House record is significant because it confirms several things at once:
 
@@ -276,15 +276,15 @@ That White House record is significant because it confirms several things at onc
 
 </div>
 
-Gairy also appears to have believed that public stigma prevented serious investigation. Accounts from his speeches show that he argued governments and scientists should stop dismissing witnesses automatically. Some later UFO advocates portrayed him as an early disclosure campaigner, though his actual proposals were more limited and procedural than many later conspiracy narratives suggested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ancient-origins.net/news-mysterious-phenomena/eric-gairy-ufos-0021839" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ancient-origins.net">[Ancient Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ancient-origins.net</span><span class="citation-popover-title">eric gairy ufos 0021839</span><span class="citation-popover-snippet">Ancient OriginsPrime Minister of Grenada&#x27;s Push for UFO Disclosure at...19 Jan 2025 — In the 1970s, Grenadan Prime Minister Sir Eric Gai...</span></span></span>
+Gairy also appears to have believed that public stigma prevented serious investigation. Accounts from his speeches show that he argued governments and scientists should stop dismissing witnesses automatically. Some later UFO advocates portrayed him as an early disclosure campaigner, though his actual proposals were more limited and procedural than many later conspiracy narratives suggested.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ancient-origins.net/news-mysterious-phenomena/eric-gairy-ufos-0021839" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ancient-origins.net">[Ancient Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ancient-origins.net</span><span class="citation-popover-title">eric gairy ufos 0021839</span><span class="citation-popover-snippet">Ancient OriginsPrime Minister of Grenada&#x27;s Push for UFO Disclosure at...19 Jan 2025 — In the 1970s, Grenadan Prime Minister Sir Eric Gai...</span></span></span>
 
 ## What the UN Process Actually Produced
 
 The strongest misconception about the Grenadian initiative is that the United Nations nearly created a global UFO agency. In reality, the process produced a far narrower outcome.
 
-In November 1978, Gairy formally addressed the UN Special Political Committee on the issue. He introduced a resolution calling for an expert group that would establish guidelines for a UN study of UFOs and related phenomena. Supporting speakers included educators, researchers and prominent civilian UFO advocates who argued for international data exchange and coordinated research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1978USUNN05425 d</span><span class="citation-popover-snippet">Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</span></span></span>
+In November 1978, Gairy formally addressed the UN Special Political Committee on the issue. He introduced a resolution calling for an expert group that would establish guidelines for a UN study of UFOs and related phenomena. Supporting speakers included educators, researchers and prominent civilian UFO advocates who argued for international data exchange and coordinated research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1978USUNN05425 d</span><span class="citation-popover-snippet">Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</span></span></span>
 
-Photographic and UN archival material confirm that the discussions occurred as formal proceedings rather than fringe side events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/photo/en/asset/oun7/oun7603835" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[UN Multimedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-title">Multimedia Proposal to Appoint Expert Group to Study Nature and Origin</span><span class="citation-popover-snippet">UN study of &quot;&quot;the nature and origin of unidentified flying objects and related phenomena&quot;&quot;. The Prime Minister of Grenada, Sir Eric Gairy...</span></span></span>
+Photographic and UN archival material confirm that the discussions occurred as formal proceedings rather than fringe side events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.un.org/photo/en/asset/oun7/oun7603835" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.un.org">[UN Multimedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.un.org</span><span class="citation-popover-title">Multimedia Proposal to Appoint Expert Group to Study Nature and Origin</span><span class="citation-popover-snippet">UN study of &quot;&quot;the nature and origin of unidentified flying objects and related phenomena&quot;&quot;. The Prime Minister of Grenada, Sir Eric Gairy...</span></span></span>
 
 However, the proposal immediately ran into institutional caution.
 
@@ -292,9 +292,9 @@ However, the proposal immediately ran into institutional caution.
 
 ### The proposal became weaker during negotiations
 
-Grenada initially sought something comparatively ambitious: a UN mechanism that could coordinate investigation and information-sharing internationally. But major states showed little enthusiasm for creating a standing UFO institution inside the UN system. Diplomatic reporting from the period indicates that governments feared reputational damage, political distraction or association with speculative claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1978USUNN05425 d</span><span class="citation-popover-snippet">Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</span></span></span>
+Grenada initially sought something comparatively ambitious: a UN mechanism that could coordinate investigation and information-sharing internationally. But major states showed little enthusiasm for creating a standing UFO institution inside the UN system. Diplomatic reporting from the period indicates that governments feared reputational damage, political distraction or association with speculative claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1978USUNN05425 d</span><span class="citation-popover-snippet">Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</span></span></span>
 
-The final compromise was modest. Rather than establishing a permanent investigative body, the committee recommended that interested states continue their own research and that Grenada’s materials be forwarded to the Committee on the Peaceful Uses of Outer Space for consideration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1978USUNN05425 d</span><span class="citation-popover-snippet">Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</span></span></span>
+The final compromise was modest. Rather than establishing a permanent investigative body, the committee recommended that interested states continue their own research and that Grenada’s materials be forwarded to the Committee on the Peaceful Uses of Outer Space for consideration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1978USUNN05425 d</span><span class="citation-popover-snippet">Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</span></span></span>
 
 In practice, this meant:
 
@@ -311,9 +311,9 @@ The diplomatic language allowed the issue to be acknowledged without requiring g
 
 ### Britain and other governments resisted the idea
 
-Released British records later showed concern inside the UK government about legitimising the subject institutionally. Officials worried that a UN UFO office could damage the organisation’s credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofmalta.com/article/british-defence-ministry-releases-secret-close-encounter-documents.353069" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofmalta.com">[Times of Malta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofmalta.com</span><span class="citation-popover-title">british defence ministry releases secret close encounter documents.353069</span><span class="citation-popover-snippet">Times of MaltaBritish Defence Ministry releases secret close-encounter...3 Mar 2011 — The files reveal that in December 1977 the governm...</span><span class="citation-popover-meta">Published: December 1977</span></span></span>
+Released British records later showed concern inside the UK government about legitimising the subject institutionally. Officials worried that a UN UFO office could damage the organisation’s credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofmalta.com/article/british-defence-ministry-releases-secret-close-encounter-documents.353069" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofmalta.com">[Times of Malta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofmalta.com</span><span class="citation-popover-title">british defence ministry releases secret close encounter documents.353069</span><span class="citation-popover-snippet">Times of MaltaBritish Defence Ministry releases secret close-encounter...3 Mar 2011 — The files reveal that in December 1977 the governm...</span><span class="citation-popover-meta">Published: December 1977</span></span></span>
 
-Public discussion in the British House of Lords in early 1979 reflected both fascination and scepticism. Speakers referred to Gairy’s attempt to have the UN treat UFOs more seriously, but the debate also illustrated how easily the issue drifted into ridicule and speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Unidentified Flying Objects - Hansard - UK ParliamentJan 18, 1979 — In 1977, Sir Eric Gairy, the Prime Minister of Grenada, backed...</span></span></span>
+Public discussion in the British House of Lords in early 1979 reflected both fascination and scepticism. Speakers referred to Gairy’s attempt to have the UN treat UFOs more seriously, but the debate also illustrated how easily the issue drifted into ridicule and speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Unidentified Flying Objects</span><span class="citation-popover-snippet">Unidentified Flying Objects - Hansard - UK ParliamentJan 18, 1979 — In 1977, Sir Eric Gairy, the Prime Minister of Grenada, backed...</span></span></span>
 
 This resistance revealed a central limit of the campaign: even governments willing to tolerate discussion of unexplained sightings were unwilling to create institutions that implied official validation of extraterrestrial interpretations.
 
@@ -322,9 +322,9 @@ This resistance revealed a central limit of the campaign: even governments willi
 
 The UN initiative cannot be separated from Gairy’s increasingly controversial political image at home and abroad.
 
-By the late 1970s, Grenada was politically unstable. Gairy’s administration faced accusations of authoritarianism, intimidation and corruption. Critics associated his government with the feared “Mongoose Gang”, a paramilitary force accused of violence against opponents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eric_Gairy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eric Gairy</span><span class="citation-popover-snippet">Eric Gairy</span></span></span>
+By the late 1970s, Grenada was politically unstable. Gairy’s administration faced accusations of authoritarianism, intimidation and corruption. Critics associated his government with the feared “Mongoose Gang”, a paramilitary force accused of violence against opponents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eric_Gairy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eric Gairy</span><span class="citation-popover-snippet">Eric Gairy</span></span></span>
 
-Within that atmosphere, Gairy’s UFO advocacy became politically damaging. Foreign media often portrayed him less as a statesman pursuing scientific inquiry and more as an eccentric leader obsessed with flying saucers. Contemporary reporting regularly used mocking language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6850486/grenada-the-fall-of-a-warlock/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">grenada the fall of a warlock</span><span class="citation-popover-snippet">GRENADA: The Fall of a Warlock1 Apr 1979 — Everyone in Grenada suspected that the island&#x27;s Prime Minister, Sir Eric Gairy, 56, was a...</span></span></span>
+Within that atmosphere, Gairy’s UFO advocacy became politically damaging. Foreign media often portrayed him less as a statesman pursuing scientific inquiry and more as an eccentric leader obsessed with flying saucers. Contemporary reporting regularly used mocking language.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6850486/grenada-the-fall-of-a-warlock/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">grenada the fall of a warlock</span><span class="citation-popover-snippet">GRENADA: The Fall of a Warlock1 Apr 1979 — Everyone in Grenada suspected that the island&#x27;s Prime Minister, Sir Eric Gairy, 56, was a...</span></span></span>
 
 That framing mattered because it changed how the proposal itself was received. The campaign increasingly became personalised around Gairy rather than evaluated on procedural or scientific grounds. Even a cautious proposal for data-sharing became associated with sensationalism because of the prime minister promoting it.
 
@@ -339,11 +339,11 @@ Unlike later state-sponsored aerospace investigations, Grenada’s initiative di
 
 ## Why the Campaign Ended After 1979
 
-The decisive end came in March 1979, when Maurice Bishop and the New Jewel Movement overthrew Gairy in a bloodless coup while he was abroad. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure movement</span><span class="citation-popover-snippet">Disclosure movement... (June 1947). While the roots of the disclosure movement can be traced to the... UFO phenomenon, sanctioned by...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
+The decisive end came in March 1979, when Maurice Bishop and the New Jewel Movement overthrew Gairy in a bloodless coup while he was abroad.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure movement</span><span class="citation-popover-snippet">Disclosure movement... (June 1947). While the roots of the disclosure movement can be traced to the... UFO phenomenon, sanctioned by...</span><span class="citation-popover-meta">Published: June 1947</span></span></span>
 
 The timing became part of UFO folklore because Gairy was associated with ongoing discussions connected to his UN initiative when the overthrow occurred. But politically, the outcome was straightforward: the new revolutionary government had no interest in continuing a programme strongly identified with the deposed leader.
 
-Bishop’s administration instead treated the UFO issue as evidence of Gairy’s eccentricity and misrule. In later commentary and speeches, opponents referred mockingly to his international reputation as “Mr. U.F.O.”, using the subject to symbolise the perceived irrationality of the old regime. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eric_Gairy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eric Gairy</span><span class="citation-popover-snippet">Eric Gairy</span></span></span>
+Bishop’s administration instead treated the UFO issue as evidence of Gairy’s eccentricity and misrule. In later commentary and speeches, opponents referred mockingly to his international reputation as “Mr. U.F.O.”, using the subject to symbolise the perceived irrationality of the old regime.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eric_Gairy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eric Gairy</span><span class="citation-popover-snippet">Eric Gairy</span></span></span>
 
 Several structural realities also ensured the initiative would fade:
 
@@ -370,13 +370,13 @@ There is strong documentary evidence that:
 * Grenada formally raised UFOs before the UN.
 * Gairy discussed the matter with major world leaders.
 * The Special Political Committee considered a UFO-related proposal.
-* Diplomatic correspondence and archival records survive from the process. UN Multimedia <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">General Assembly proposing an international study of UFO&#x27;s, as well as a study...Read more...</span></span></span> WikiLeaks This makes the episode historically real in a way many UFO legends are not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1978USUNN05425 d</span><span class="citation-popover-snippet">Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</span></span></span>
+* Diplomatic correspondence and archival records survive from the process. UN Multimedia<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">General Assembly proposing an international study of UFO&#x27;s, as well as a study...Read more...</span></span></span> WikiLeaks This makes the episode historically real in a way many UFO legends are not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[wikileaks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1978USUNN05425 d</span><span class="citation-popover-snippet">Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</span></span></span>
 
 ### What it did not achieve
 
 At the same time, the initiative did not produce evidence proving extraterrestrial visitation or hidden UN knowledge about alien life.
 
-No released UN records show that member states secretly accepted UFOs as extraterrestrial craft. The process remained procedural and exploratory. The final recommendations were cautious and non-binding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1978USUNN05425 d</span><span class="citation-popover-snippet">Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</span></span></span>
+No released UN records show that member states secretly accepted UFOs as extraterrestrial craft. The process remained procedural and exploratory. The final recommendations were cautious and non-binding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikileaks.org">[WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikileaks.org</span><span class="citation-popover-title">1978USUNN05425 d</span><span class="citation-popover-snippet">Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</span></span></span>
 
 Similarly, Grenada itself never produced a substantial body of verified UFO case evidence. The country’s historical importance comes primarily from diplomacy and political symbolism, not from a major national sighting archive.
 
@@ -391,194 +391,194 @@ In the 1970s, most states treated the UFO subject as either politically embarras
 The episode also shows how UFO history is often shaped less by confirmed sightings than by politics, personality and credibility. Grenada entered UFO history not because it produced overwhelming physical evidence, but because one small post-independence government briefly tried to move the topic into formal global governance.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Grenada Took UFOs to the UN. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Grenada Took UFOs to the UN. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Reflects the scientific-investigation framing Gairy publicly promoted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reflects the scientific-investigation framing Gairy publicly promoted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises official involvement and governmental engagement with UFO subjects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises official involvement and governmental engagement with UFO subjects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Travis Walton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+</h4>
+<p class="fr-book-author">By Travis Walton</p>
         
-        <p class="fr-book-desc">Explains how UFO politics and public narratives evolved internationally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how UFO politics and public narratives evolved internationally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucer Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tD7bAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Flying Saucer Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucer Conspiracy">The Flying Saucer Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Donald Edward Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucer Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tD7bAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Flying Saucer Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucer Conspiracy">The Flying Saucer Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Donald Edward Keyhoe</p>
         
-        <p class="fr-book-desc">Captures the Cold War-era UFO culture that formed the backdrop to UN lobbying.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the Cold War-era UFO culture that formed the backdrop to UN lobbying.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-grenada-took-ufos-to-the-un-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-grenada-took-ufos-to-the-un-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -594,7 +594,7 @@ The episode also shows how UFO history is often shaped less by confirmed sightin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -614,7 +614,7 @@ The episode also shows how UFO history is often shaped less by confirmed sightin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -646,7 +646,7 @@ The episode also shows how UFO history is often shaped less by confirmed sightin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -698,7 +698,7 @@ The episode also shows how UFO history is often shaped less by confirmed sightin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -743,7 +743,7 @@ The episode also shows how UFO history is often shaped less by confirmed sightin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,147 +781,146 @@ The episode also shows how UFO history is often shaped less by confirmed sightin
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.state.gov  
    Title: Office of the Historian Historical Documents  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1977-80v23/d304</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>General Assembly proposing an international study of UFO&#x27;s, as well as a study...Read more...</p></details>
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1977-80v23/d304" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1977-80v23/d304</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Assembly proposing an international study of UFO&#x27;s, as well as a study...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wikileaks.org  
    Title: 1978USUNN05425 d  
-   Link: <a href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/plusd/cables/1978USUNN05425_d.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</p></details>
+   Link:<a href="https://wikileaks.org/plusd/cables/1978USUNN05425_d.html" target="_blank" rel="noopener noreferrer nofollow">https://wikileaks.org/plusd/cables/1978USUNN05425_d.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cable: 1978USUNN05425_dBEGIN UNCLASSIFIED. 1. SUMMARY: AS ANTICIPATED, GRENADIAN PM SIR ERIC GAIRY ADDRESSED THE SPECIAL POLITIC...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spartacus-educational.com  
-   Link: <a href="https://spartacus-educational.com/COLDgairy.htm" target="_blank" rel="noopener noreferrer nofollow">https://spartacus-educational.com/COLDgairy.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spartacus EducationalEric GairyDuring his speech he urged the UN to establish an Agency for Psychic Research into Unidentified Flying Obj...</p></details>
+   Link:<a href="https://spartacus-educational.com/COLDgairy.htm" target="_blank" rel="noopener noreferrer nofollow">https://spartacus-educational.com/COLDgairy.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spartacus EducationalEric GairyDuring his speech he urged the UN to establish an Agency for Psychic Research into Unidentified Flying Obj...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ancient-origins.net  
    Title: eric gairy ufos 0021839  
-   Link: <a href="https://www.ancient-origins.net/news-mysterious-phenomena/eric-gairy-ufos-0021839" target="_blank" rel="noopener noreferrer nofollow">https://www.ancient-origins.net/news-mysterious-phenomena/eric-gairy-ufos-0021839</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient OriginsPrime Minister of Grenada&#x27;s Push for UFO Disclosure at...19 Jan 2025 — In the 1970s, Grenadan Prime Minister Sir Eric Gai...</p></details>
+   Link:<a href="https://www.ancient-origins.net/news-mysterious-phenomena/eric-gairy-ufos-0021839" target="_blank" rel="noopener noreferrer nofollow">https://www.ancient-origins.net/news-mysterious-phenomena/eric-gairy-ufos-0021839</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient OriginsPrime Minister of Grenada&#x27;s Push for UFO Disclosure at...19 Jan 2025 — In the 1970s, Grenadan Prime Minister Sir Eric Gai...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Eric Gairy  
-   Link: <a href="https://en.wikipedia.org/wiki/Eric_Gairy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eric_Gairy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eric_Gairy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eric_Gairy</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: time.com  
    Title: grenada the fall of a warlock  
-   Link: <a href="https://time.com/archive/6850486/grenada-the-fall-of-a-warlock/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6850486/grenada-the-fall-of-a-warlock/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GRENADA: The Fall of a Warlock1 Apr 1979 — Everyone in Grenada suspected that the island&#x27;s Prime Minister, Sir Eric Gairy, 56, was a...</p></details>
+   Link:<a href="https://time.com/archive/6850486/grenada-the-fall-of-a-warlock/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6850486/grenada-the-fall-of-a-warlock/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GRENADA: The Fall of a Warlock1 Apr 1979 — Everyone in Grenada suspected that the island&#x27;s Prime Minister, Sir Eric Gairy, 56, was a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs/comments/8u9owl/notes on eric daviss june 24th appearance on...Read more...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs/comments/8u9owl/notes on eric daviss june 24th appearance on...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Disclosure movement  
-   Link: <a href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_movement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure movement... (June 1947). While the roots of the disclosure movement can be traced to the... UFO phenomenon, sanctioned by...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_movement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure movement... (June 1947). While the roots of the disclosure movement can be traced to the... UFO phenomenon, sanctioned by...</p></details>
    Published: June 1947  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_MegsssaC-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_MegsssaC-A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 New Jewel Revolution in Grenada | Sir Eric Gairy Overthrown | Maurice Bishop Speaks | March 1979...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_MegsssaC-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_MegsssaC-A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 New Jewel Revolution in Grenada | Sir Eric Gairy Overthrown | Maurice Bishop Speaks | March 1979...</p></details>
    Published: March 1979  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: digitallibrary.un.org  
-   Link: <a href="https://digitallibrary.un.org/record/660850/files/A_32_142_Add.1-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/660850/files/A_32_142_Add.1-EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital LibraryGENERAL ASSEMBLY31 Aug 1977 — by the Right Honorable Sir Eric Matthew Gairy. ~rime Jlinister of Grenada.. to the First In...</p></details>
+   Link:<a href="https://digitallibrary.un.org/record/660850/files/A_32_142_Add.1-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/660850/files/A_32_142_Add.1-EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital LibraryGENERAL ASSEMBLY31 Aug 1977 — by the Right Honorable Sir Eric Matthew Gairy. ~rime Jlinister of Grenada.. to the First In...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: media.un.org  
    Title: Multimedia Proposal to Appoint Expert Group to Study Nature and Origin  
-   Link: <a href="https://media.un.org/photo/en/asset/oun7/oun7603835" target="_blank" rel="noopener noreferrer nofollow">https://media.un.org/photo/en/asset/oun7/oun7603835</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UN study of &quot;&quot;the nature and origin of unidentified flying objects and related phenomena&quot;&quot;. The Prime Minister of Grenada, Sir Eric Gairy...</p></details>
+   Link:<a href="https://media.un.org/photo/en/asset/oun7/oun7603835" target="_blank" rel="noopener noreferrer nofollow">https://media.un.org/photo/en/asset/oun7/oun7603835</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UN study of &quot;&quot;the nature and origin of unidentified flying objects and related phenomena&quot;&quot;. The Prime Minister of Grenada, Sir Eric Gairy...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: timesofmalta.com  
    Title: british defence ministry releases secret close encounter documents.353069  
-   Link: <a href="https://timesofmalta.com/article/british-defence-ministry-releases-secret-close-encounter-documents.353069" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/british-defence-ministry-releases-secret-close-encounter-documents.353069</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Times of MaltaBritish Defence Ministry releases secret close-encounter...3 Mar 2011 — The files reveal that in December 1977 the governm...</p></details>
+   Link:<a href="https://timesofmalta.com/article/british-defence-ministry-releases-secret-close-encounter-documents.353069" target="_blank" rel="noopener noreferrer nofollow">https://timesofmalta.com/article/british-defence-ministry-releases-secret-close-encounter-documents.353069</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Times of MaltaBritish Defence Ministry releases secret close-encounter...3 Mar 2011 — The files reveal that in December 1977 the governm...</p></details>
    Published: December 1977  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects - Hansard - UK ParliamentJan 18, 1979 — In 1977, Sir Eric Gairy, the Prime Minister of Grenada, backed...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects - Hansard - UK ParliamentJan 18, 1979 — In 1977, Sir Eric Gairy, the Prime Minister of Grenada, backed...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: api.parliament.uk  
    Title: unidentified flying objects  
-   Link: <a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parliament APIUNIDENTIFIED FLYING OBJECTS (Hansard, 18 January 1979)18 Jan 1979 — In 1977, Sir Eric Gairy, the Prime Minister of Grenada...</p></details>
+   Link:<a href="https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://api.parliament.uk/historic-hansard/lords/1979/jan/18/unidentified-flying-objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parliament APIUNIDENTIFIED FLYING OBJECTS (Hansard, 18 January 1979)18 Jan 1979 — In 1977, Sir Eric Gairy, the Prime Minister of Grenada...</p></details>
    Published: January 1979  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mdh.contentdm.oclc.org  
-   Link: <a href="https://mdh.contentdm.oclc.org/digital/api/collection/colmo7/id/81124/download" target="_blank" rel="noopener noreferrer nofollow">https://mdh.contentdm.oclc.org/digital/api/collection/colmo7/id/81124/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by UFO warningflying saucers. Eric Gairy, Grenada&#x27;s prime minister, opened the OAS meeting with a call for an international investigation...</p></details>
+   Link:<a href="https://mdh.contentdm.oclc.org/digital/api/collection/colmo7/id/81124/download" target="_blank" rel="noopener noreferrer nofollow">https://mdh.contentdm.oclc.org/digital/api/collection/colmo7/id/81124/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by UFO warningflying saucers. Eric Gairy, Grenada&#x27;s prime minister, opened the OAS meeting with a call for an international investigation...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: in the 1970s grenadan prime minister sir eric gairy made a noble effort to convi  
-   Link: <a href="https://www.facebook.com/ancientoriginsweb/posts/in-the-1970s-grenadan-prime-minister-sir-eric-gairy-made-a-noble-effort-to-convi/1045251560976707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientoriginsweb/posts/in-the-1970s-grenadan-prime-minister-sir-eric-gairy-made-a-noble-effort-to-convi/1045251560976707/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1970s, Grenadan Prime Minister Sir Eric Gairy made...19 Jan 2025 — He recounted his involvement in the UFO presentation at the Un...</p></details>
+   Link:<a href="https://www.facebook.com/ancientoriginsweb/posts/in-the-1970s-grenadan-prime-minister-sir-eric-gairy-made-a-noble-effort-to-convi/1045251560976707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientoriginsweb/posts/in-the-1970s-grenadan-prime-minister-sir-eric-gairy-made-a-noble-effort-to-convi/1045251560976707/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the 1970s, Grenadan Prime Minister Sir Eric Gairy made...19 Jan 2025 — He recounted his involvement in the UFO presentation at the Un...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7coDRQ9Nf5I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7coDRQ9Nf5I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEW DETAILS on the Jimmy Carter UFO BRIEFINGPhysicist Dr. Eric Davis recently claimed that President Jimmy Carter received a classified U...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7coDRQ9Nf5I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7coDRQ9Nf5I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEW DETAILS on the Jimmy Carter UFO BRIEFINGPhysicist Dr. Eric Davis recently claimed that President Jimmy Carter received a classified U...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: prime minister of grenadas push for ufo disclosure at the un in 1970s  
-   Link: <a href="https://www.facebook.com/ancientoriginsweb/videos/prime-minister-of-grenadas-push-for-ufo-disclosure-at-the-un-in-1970s/610304011834575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientoriginsweb/videos/prime-minister-of-grenadas-push-for-ufo-disclosure-at-the-un-in-1970s/610304011834575/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sir Eric Gairy’s bold actions in the 1970s brought UFO...1978 Sir Eric Gary Prime Minister of Grenada led a groundbreaking address at th...</p></details>
+   Link:<a href="https://www.facebook.com/ancientoriginsweb/videos/prime-minister-of-grenadas-push-for-ufo-disclosure-at-the-un-in-1970s/610304011834575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientoriginsweb/videos/prime-minister-of-grenadas-push-for-ufo-disclosure-at-the-un-in-1970s/610304011834575/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sir Eric Gairy’s bold actions in the 1970s brought UFO...1978 Sir Eric Gary Prime Minister of Grenada led a groundbreaking address at th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thenewtodaygrenada.com  
    Title: the enticing mystery of ufos has history vindicated sir eric gairy  
-   Link: <a href="https://www.thenewtodaygrenada.com/commentary/the-enticing-mystery-of-ufos-has-history-vindicated-sir-eric-gairy/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenewtodaygrenada.com/commentary/the-enticing-mystery-of-ufos-has-history-vindicated-sir-eric-gairy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The enticing mystery of UFO&#x27;s: has history vindicated Sir...7 Jun 2024 — A long-awaited US report concluding that unidentified flying ob...</p></details>
+   Link:<a href="https://www.thenewtodaygrenada.com/commentary/the-enticing-mystery-of-ufos-has-history-vindicated-sir-eric-gairy/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenewtodaygrenada.com/commentary/the-enticing-mystery-of-ufos-has-history-vindicated-sir-eric-gairy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The enticing mystery of UFO&#x27;s: has history vindicated Sir...7 Jun 2024 — A long-awaited US report concluding that unidentified flying ob...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: avalonlibrary.net  
-   Link: <a href="https://avalonlibrary.net/ebooks/Grant%20Cameron%20-%20Charlie%20Red%20Star%20-%20True%20Reports%20of%20One%20of%20North%20America%27s%20Biggest%20UFO%20Sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Grant%20Cameron%20-%20Charlie%20Red%20Star%20-%20True%20Reports%20of%20One%20of%20North%20America%27s%20Biggest%20UFO%20Sightings.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash/Landrum UFO sighting in Texas being &quot;a government exploitation of UFO technology...Read more...</p></details>
+   Link:<a href="https://avalonlibrary.net/ebooks/Grant%20Cameron%20-%20Charlie%20Red%20Star%20-%20True%20Reports%20of%20One%20of%20North%20America%27s%20Biggest%20UFO%20Sightings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Grant%20Cameron%20-%20Charlie%20Red%20Star%20-%20True%20Reports%20of%20One%20of%20North%20America%27s%20Biggest%20UFO%20Sightings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash/Landrum UFO sighting in Texas being &quot;a government exploitation of UFO technology...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dokumen.pub  
    Title: propaganda disinformation and you 9781578597406 1578597404  
-   Link: <a href="https://dokumen.pub/propaganda-disinformation-and-you-9781578597406-1578597404.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/propaganda-disinformation-and-you-9781578597406-1578597404.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Propaganda, Disinformation, and You 9781578597406...This list doesn&#x27;t include the various science-fiction alien invasion films that sym...</p></details>
+   Link:<a href="https://dokumen.pub/propaganda-disinformation-and-you-9781578597406-1578597404.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/propaganda-disinformation-and-you-9781578597406-1578597404.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Propaganda, Disinformation, and You 9781578597406...This list doesn&#x27;t include the various science-fiction alien invasion films that sym...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: richarddolanmembers.com  
    Title: NE W DETAILS on the Jimmy Carter UFO BRIEFINGPhysicist Dr  
-   Link: <a href="https://richarddolanmembers.com/ufo-history/new-details-on-the-jimmy-carter-ufo-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://richarddolanmembers.com/ufo-history/new-details-on-the-jimmy-carter-ufo-briefing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis recently claimed that President Jimmy Carter received a classified UFO briefing in June 1977, during which he was told that th...</p></details>
+   Link:<a href="https://richarddolanmembers.com/ufo-history/new-details-on-the-jimmy-carter-ufo-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://richarddolanmembers.com/ufo-history/new-details-on-the-jimmy-carter-ufo-briefing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis recently claimed that President Jimmy Carter received a classified UFO briefing in June 1977, during which he was told that th...</p></details>
    Published: June 1977  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: radar.brookes.ac.uk  
-   Link: <a href="https://radar.brookes.ac.uk/radar/file/1f74309b-d218-4317-9c6f-1c1b993938e7/1/Bashor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://radar.brookes.ac.uk/radar/file/1f74309b-d218-4317-9c6f-1c1b993938e7/1/Bashor.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>59 Various Memoranda [Jimmy Carter Presidential Library: Atlanta, GA]...Read more...</p></details>
+   Link:<a href="https://radar.brookes.ac.uk/radar/file/1f74309b-d218-4317-9c6f-1c1b993938e7/1/Bashor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://radar.brookes.ac.uk/radar/file/1f74309b-d218-4317-9c6f-1c1b993938e7/1/Bashor.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>59 Various Memoranda [Jimmy Carter Presidential Library: Atlanta, GA]...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/12sajoj/former_nasa_researcher_ed_harris_claims_that_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/12sajoj/former_nasa_researcher_ed_harris_claims_that_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secrecy. r/UFOB - Former NASA researcher...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/12sajoj/former_nasa_researcher_ed_harris_claims_that_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/12sajoj/former_nasa_researcher_ed_harris_claims_that_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secrecy. r/UFOB - Former NASA researcher...Read more...</p></details>

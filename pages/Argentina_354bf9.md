@@ -1253,194 +1253,194 @@ While no scientifically confirmed extraterrestrial visitation has been establish
 <img src="{{ "/assets/images/Argentina_354bf9-Illustration-3-dark.svg" | relative_url }}" alt="Argentina&#x27;s UFO Stories, Records, and... illustration 3" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Argentina&#x27;s UFO Stories, Records, and Reality Checks. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Argentina&#x27;s UFO Stories, Records, and Reality Checks. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for comparing historical sighting waves and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for comparing historical sighting waves and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Matches the mix of folklore, sightings, and interpretation found in Argentina&#x27;s UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the mix of folklore, sightings, and interpretation found in Argentina&#x27;s UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Places national UFO reports in a wider international context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places national UFO reports in a wider international context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Broad overview suitable for a country-level UFO history page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad overview suitable for a country-level UFO history page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=argentina-s-ufo-stories-records-and-reality-checks-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="argentina-s-ufo-stories-records-and-reality-checks-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1456,7 +1456,7 @@ While no scientifically confirmed extraterrestrial visitation has been establish
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1476,7 +1476,7 @@ While no scientifically confirmed extraterrestrial visitation has been establish
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1508,7 +1508,7 @@ While no scientifically confirmed extraterrestrial visitation has been establish
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1560,7 +1560,7 @@ While no scientifically confirmed extraterrestrial visitation has been establish
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1605,7 +1605,7 @@ While no scientifically confirmed extraterrestrial visitation has been establish
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1643,141 +1643,140 @@ While no scientifically confirmed extraterrestrial visitation has been establish
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in Argentina  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: discoveryuk.com  
    Title: Discovery UKSignal From the South: Argentina UFOs  
-   Link: <a href="https://www.discoveryuk.com/mysteries/signal-from-the-south-argentina-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/signal-from-the-south-argentina-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKMay 13, 2026...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/signal-from-the-south-argentina-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/signal-from-the-south-argentina-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKMay 13, 2026...</p></details>
    Published: May 13, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Visin Ovni  
-   Link: <a href="https://en.wikipedia.org/wiki/Visi%C3%B3n_Ovni" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Visi%C3%B3n_Ovni</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Visi%C3%B3n_Ovni" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Visi%C3%B3n_Ovni</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Cefora" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cefora</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cefora" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cefora</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: UFOs in the Uritorco Hidden History  
-   Link: <a href="https://www.youtube.com/watch?v=KwtMdcb-TCY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KwtMdcb-TCY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argentina&#x27;s Loch Ness Monster The Elusive Nahuelito...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KwtMdcb-TCY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KwtMdcb-TCY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argentina&#x27;s Loch Ness Monster The Elusive Nahuelito...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Argentina's Loch Ness Monster The Elusive Nahuelito  
-   Link: <a href="https://www.youtube.com/watch?v=BUzFxmAp3JM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BUzFxmAp3JM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide a historical and investigative overview of Argentina&#x27;s most significant UFO sightings, including the famous encounte...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BUzFxmAp3JM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BUzFxmAp3JM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide a historical and investigative overview of Argentina&#x27;s most significant UFO sightings, including the famous encounte...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: argentina.gob.ar  
    Title: Argentina Centro de Identificacin Aeroespacial | Argentina.gob.ar  
-   Link: <a href="https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial" target="_blank" rel="noopener noreferrer nofollow">https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial</a>  
+   Link:<a href="https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial" target="_blank" rel="noopener noreferrer nofollow">https://www.argentina.gob.ar/fuerzaaerea/centro-de-identificacion-aeroespacial</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufotransparency.com  
    Title: intl ar ciae annual 2023 informe ciae 2023  
-   Link: <a href="https://ufotransparency.com/files/intl-ar-ciae-annual-2023-informe-ciae-2023" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ar-ciae-annual-2023-informe-ciae-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyCIAE Informe de Casos 2023, Centro de Identificacin Aeroespacial (CIAE) / Fuerza Area Argentina 2024 UFO Transparen...</p></details>
+   Link:<a href="https://ufotransparency.com/files/intl-ar-ciae-annual-2023-informe-ciae-2023" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ar-ciae-annual-2023-informe-ciae-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyCIAE Informe de Casos 2023, Centro de Identificacin Aeroespacial (CIAE) / Fuerza Area Argentina 2024 UFO Transparen...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufotransparency.com  
    Title: intl ar ciae annual 2025 informe ciae 2025  
-   Link: <a href="https://ufotransparency.com/files/intl-ar-ciae-annual-2025-informe-ciae-2025" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ar-ciae-annual-2025-informe-ciae-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyCIAE Informe de Casos 2025, Centro de Investigacin Aeroespacial (CIAE, exCentro de Identificacin Aeroespacial) / Fuerz...</p></details>
+   Link:<a href="https://ufotransparency.com/files/intl-ar-ciae-annual-2025-informe-ciae-2025" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/intl-ar-ciae-annual-2025-informe-ciae-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyCIAE Informe de Casos 2025, Centro de Investigacin Aeroespacial (CIAE, exCentro de Identificacin Aeroespacial) / Fuerz...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: myufophotos.com  
    Title: Argentina UFO files (disclosure documents) ~ UFO archives  
-   Link: <a href="https://myufophotos.com/ufo-archives/argentina-ufo-files-disclosure-documents/" target="_blank" rel="noopener noreferrer nofollow">https://myufophotos.com/ufo-archives/argentina-ufo-files-disclosure-documents/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 31, 2019 ARGENTINA UFO FILES (DISCLOSURE DOCUMENTS) Posted on May 23, 2018March 31, 2019 by Brian Argentina UFO files (disclosure...</p></details>
+   Link:<a href="https://myufophotos.com/ufo-archives/argentina-ufo-files-disclosure-documents/" target="_blank" rel="noopener noreferrer nofollow">https://myufophotos.com/ufo-archives/argentina-ufo-files-disclosure-documents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 31, 2019 ARGENTINA UFO FILES (DISCLOSURE DOCUMENTS) Posted on May 23, 2018March 31, 2019 by Brian Argentina UFO files (disclosure...</p></details>
    Published: March 31, 2019  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufo.com.br  
    Title: Argentina: Comisso de Estudos de Fenmenos Areos rejeita 22 casos de UFOs  
-   Link: <a href="https://ufo.com.br/argentina-comissao-de-estudos-de-fenomenos-aereos-rejeita-22-casos-de-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/argentina-comissao-de-estudos-de-fenomenos-aereos-rejeita-22-casos-de-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revista UFOFebruary 11, 2019 ARGENTINA: COMISSO DE ESTUDOS DE FENMENOS AREOS REJEITA 22 CASOS DE UFOS Conhea os tipos mais comum de...</p></details>
+   Link:<a href="https://ufo.com.br/argentina-comissao-de-estudos-de-fenomenos-aereos-rejeita-22-casos-de-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/argentina-comissao-de-estudos-de-fenomenos-aereos-rejeita-22-casos-de-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revista UFOFebruary 11, 2019 ARGENTINA: COMISSO DE ESTUDOS DE FENMENOS AREOS REJEITA 22 CASOS DE UFOS Conhea os tipos mais comum de...</p></details>
    Published: February 11, 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: argentina.gob.ar  
-   Link: <a href="https://www.argentina.gob.ar/node/120772" target="_blank" rel="noopener noreferrer nofollow">https://www.argentina.gob.ar/node/120772</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centro de Identificacin Aeroespacial | Argentina.gob.arCENTRO DE IDENTIFICACIN AEROESPACIAL El Centro de Identificacin Aeroespacial fu...</p></details>
+   Link:<a href="https://www.argentina.gob.ar/node/120772" target="_blank" rel="noopener noreferrer nofollow">https://www.argentina.gob.ar/node/120772</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centro de Identificacin Aeroespacial | Argentina.gob.arCENTRO DE IDENTIFICACIN AEROESPACIAL El Centro de Identificacin Aeroespacial fu...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufoac.com  
-   Link: <a href="https://ufoac.com/analysis-of-ufo-cases-in-argentina.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/analysis-of-ufo-cases-in-argentina.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of UFO cases in ArgentinaANALYSIS OF UFO CASES IN ARGENTINA Report UFO sightings UFOlogist&#x27;s tools Send messages to extraterrest...</p></details>
+   Link:<a href="https://ufoac.com/analysis-of-ufo-cases-in-argentina.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/analysis-of-ufo-cases-in-argentina.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of UFO cases in ArgentinaANALYSIS OF UFO CASES IN ARGENTINA Report UFO sightings UFOlogist&#x27;s tools Send messages to extraterrest...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space-aliens.net  
    Title: The legend of unidentified flying objects developed throughout Argentina!  
-   Link: <a href="https://space-aliens.net/en/2025/08/06/of-unidentified-flying-objects-deployed-throughout-argentina/" target="_blank" rel="noopener noreferrer nofollow">https://space-aliens.net/en/2025/08/06/of-unidentified-flying-objects-deployed-throughout-argentina/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From bases to streets, what is the reality of UFO sightings? | Warewarewareha UCHUJIN UFO News MagazineAugust 6, 2025 THE LEGEND OF UNI...</p></details>
+   Link:<a href="https://space-aliens.net/en/2025/08/06/of-unidentified-flying-objects-deployed-throughout-argentina/" target="_blank" rel="noopener noreferrer nofollow">https://space-aliens.net/en/2025/08/06/of-unidentified-flying-objects-deployed-throughout-argentina/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From bases to streets, what is the reality of UFO sightings? | Warewarewareha UCHUJIN UFO News MagazineAugust 6, 2025 THE LEGEND OF UNI...</p></details>
    Published: August 6, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: visionovni.com.ar  
    Title: * NUEVO AVISTAMIENTO MULTIPLE EN VICTORIA * NUEVO INFORME EXPLOSION EN  
-   Link: <a href="https://www.visionovni.com.ar/archivos/indexes/indice-general" target="_blank" rel="noopener noreferrer nofollow">https://www.visionovni.com.ar/archivos/indexes/indice-general</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indice general Vision OVNI* NUEVA TEMPORADA DE ALIENIGENAS ANCESTRALES * NUEVO ASESOR EN VISION OVNI * NUEVO AVISTAMIENTO EN VICTORIA...</p></details>
+   Link:<a href="https://www.visionovni.com.ar/archivos/indexes/indice-general" target="_blank" rel="noopener noreferrer nofollow">https://www.visionovni.com.ar/archivos/indexes/indice-general</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indice general Vision OVNI* NUEVA TEMPORADA DE ALIENIGENAS ANCESTRALES * NUEVO ASESOR EN VISION OVNI * NUEVO AVISTAMIENTO EN VICTORIA...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mundoandino.com  
    Title: UF O sightings in Argentina and contributions to culture  
-   Link: <a href="https://www.mundoandino.com/Argentina/UFO-sightings-in-Argentina" target="_blank" rel="noopener noreferrer nofollow">https://www.mundoandino.com/Argentina/UFO-sightings-in-Argentina</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Argentina highlights. Mundo Andino culture and attractionsUFO SIGHTINGS IN ARGENTINA Argentine culture | Argentine cultu...</p></details>
+   Link:<a href="https://www.mundoandino.com/Argentina/UFO-sightings-in-Argentina" target="_blank" rel="noopener noreferrer nofollow">https://www.mundoandino.com/Argentina/UFO-sightings-in-Argentina</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Argentina highlights. Mundo Andino culture and attractionsUFO SIGHTINGS IN ARGENTINA Argentine culture | Argentine cultu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufodigest.com  
    Title: BELEIV E OR NOT, THE UFO PHENOMENON IN ARGENTINA  
-   Link: <a href="https://www.ufodigest.com/article/beleive-or-not-the-ufo-phenomenon-in-argentina/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/beleive-or-not-the-ufo-phenomenon-in-argentina/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BELEIVE OR NOT, THE UFO PHENOMENON IN ARGENTINA - UFO DigestNovember 12, 2013 BELEIVE OR NOT, THE UFO PHENOMENON IN ARGENTINA by Scott...</p></details>
+   Link:<a href="https://www.ufodigest.com/article/beleive-or-not-the-ufo-phenomenon-in-argentina/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/beleive-or-not-the-ufo-phenomenon-in-argentina/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BELEIVE OR NOT, THE UFO PHENOMENON IN ARGENTINA - UFO DigestNovember 12, 2013 BELEIVE OR NOT, THE UFO PHENOMENON IN ARGENTINA by Scott...</p></details>
    Published: November 12, 2013  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: commons.wikimedia.org  
    Title: Category:UFO sightings in Argentina  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Argentina</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:UFO sightings in Argentina - Wikimedia CommonsApril 5, 2026 CATEGORY:UFO SIGHTINGS IN ARGENTINA MEDIA IN CATEGORY...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Argentina</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:UFO sightings in Argentina - Wikimedia CommonsApril 5, 2026 CATEGORY:UFO SIGHTINGS IN ARGENTINA MEDIA IN CATEGORY...</p></details>
    Published: April 5, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: areufosreal.com  
    Title: UF O sightings in Argentina  
-   Link: <a href="https://www.areufosreal.com/en/sightings-argentina-ufo-sightings-in-argentina" target="_blank" rel="noopener noreferrer nofollow">https://www.areufosreal.com/en/sightings-argentina-ufo-sightings-in-argentina</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ArgentinaMarch 10, 2020 Are UFOs Real UFO SIGHTINGS IN ARGENTINA 2020-03-10 2024-01-31 - Argentina Table of contents [...</p></details>
+   Link:<a href="https://www.areufosreal.com/en/sightings-argentina-ufo-sightings-in-argentina" target="_blank" rel="noopener noreferrer nofollow">https://www.areufosreal.com/en/sightings-argentina-ufo-sightings-in-argentina</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in ArgentinaMarch 10, 2020 Are UFOs Real UFO SIGHTINGS IN ARGENTINA 2020-03-10 2024-01-31 - Argentina Table of contents [...</p></details>
    Published: March 10, 2020  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufo.com.br  
    Title: Conforme as dcadas foram  
-   Link: <a href="https://ufo.com.br/investigacoes-oficiais-sobre-o-fenomeno-ufo-na-argentina/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/investigacoes-oficiais-sobre-o-fenomeno-ufo-na-argentina/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigaes oficiais sobre o Fenmeno UFO na Argentina - Revista UFOJanuary 18, 2020 INVESTIGAES OFICIAIS SOBRE O FENMENO UFO NA A...</p></details>
+   Link:<a href="https://ufo.com.br/investigacoes-oficiais-sobre-o-fenomeno-ufo-na-argentina/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/investigacoes-oficiais-sobre-o-fenomeno-ufo-na-argentina/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigaes oficiais sobre o Fenmeno UFO na Argentina - Revista UFOJanuary 18, 2020 INVESTIGAES OFICIAIS SOBRE O FENMENO UFO NA A...</p></details>
    Published: January 18, 2020  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: loresandlegends.com  
    Title: Thousands of citizens rep  
-   Link: <a href="https://www.loresandlegends.com/extraterrestrial/the-argentine-ufo-flap-of-1995/" target="_blank" rel="noopener noreferrer nofollow">https://www.loresandlegends.com/extraterrestrial/the-argentine-ufo-flap-of-1995/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Argentine UFO Flap of 1995 Lores and LegendsOctober 20, 2025 THE ARGENTINE UFO FLAP OF 1995 October 20, 2025 Between July and Dec...</p></details>
+   Link:<a href="https://www.loresandlegends.com/extraterrestrial/the-argentine-ufo-flap-of-1995/" target="_blank" rel="noopener noreferrer nofollow">https://www.loresandlegends.com/extraterrestrial/the-argentine-ufo-flap-of-1995/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Argentine UFO Flap of 1995 Lores and LegendsOctober 20, 2025 THE ARGENTINE UFO FLAP OF 1995 October 20, 2025 Between July and Dec...</p></details>
    Published: October 20, 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: fenix951.com.ar  
-   Link: <a href="https://www.fenix951.com.ar/nuevo_2013/noticia.php?id=305844" target="_blank" rel="noopener noreferrer nofollow">https://www.fenix951.com.ar/nuevo_2013/noticia.php?id=305844</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ovnis en Argentina: los 36 casos que investig la Fuerza Area y cmo los resolviMay 25, 2025 OVNIS EN ARGENTINA: LOS 36 CASOS QUE INV...</p></details>
+   Link:<a href="https://www.fenix951.com.ar/nuevo_2013/noticia.php?id=305844" target="_blank" rel="noopener noreferrer nofollow">https://www.fenix951.com.ar/nuevo_2013/noticia.php?id=305844</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ovnis en Argentina: los 36 casos que investig la Fuerza Area y cmo los resolviMay 25, 2025 OVNIS EN ARGENTINA: LOS 36 CASOS QUE INV...</p></details>
    Published: May 25, 2025

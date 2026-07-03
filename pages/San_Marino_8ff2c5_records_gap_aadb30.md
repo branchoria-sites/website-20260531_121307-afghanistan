@@ -254,14 +254,14 @@ image: /assets/images/San_Marino_8ff2c5_records_gap_aadb30-Illustration-1-social
 
 ## Introduction
 
-San Marino occupies a curious place in modern UFO and UAP discussion. The republic is regularly mentioned in connection with international conferences, [Project Titan]({{ 'project-titan/' | relative_url }}) and proposals for broader United Nations engagement on unidentified aerial phenomena. Yet when researchers try to verify specific claims connected to San Marino itself, they encounter a basic problem: there is no widely accessible national UAP archive, no equivalent of a public government case database, and very little official documentation of local sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">san marino could become the u n s new geneva for ufos</span><span class="citation-popover-snippet">The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</span></span></span>
+San Marino occupies a curious place in modern UFO and UAP discussion. The republic is regularly mentioned in connection with international conferences, [Project Titan]({{ 'project-titan/' | relative_url }}) and proposals for broader United Nations engagement on unidentified aerial phenomena. Yet when researchers try to verify specific claims connected to San Marino itself, they encounter a basic problem: there is no widely accessible national UAP archive, no equivalent of a public government case database, and very little official documentation of local sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">san marino could become the u n s new geneva for ufos</span><span class="citation-popover-snippet">The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</span></span></span>
 
 <img src="{{ "/assets/images/San_Marino_8ff2c5_records_gap_aadb30-Illustration-1-dark.svg" | relative_url }}" alt="Records Gap illustration 1" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5_records_gap_aadb30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5_records_gap_aadb30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That records gap shapes almost every discussion of San Marino's UFO history. The country is easier to document as a meeting place for researchers than as a source of verifiable incident files. Unlike states that have released military reports, aviation records or decades of investigative files, San Marino's public UFO record is fragmented across symposium reports, media coverage, advocacy organisations and scattered witness claims. The result is not proof that unusual events did or did not occur. Rather, it creates a verification problem: many claims cannot be independently checked because the underlying documentation is unavailable, incomplete or never publicly archived.
 
 ## Why San Marino's UFO Record Is So Thin
 
-The central difficulty is structural rather than conspiratorial. San Marino is a microstate with a small territory, a small population and no publicly known long-term government programme dedicated to collecting and analysing UFO reports. Public attention around UFOs developed largely through conferences and private research networks rather than through a state archive system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">san marino could become the u n s new geneva for ufos</span><span class="citation-popover-snippet">The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tas-education.org">[TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tas-education.org</span><span class="citation-popover-title">TAS Education Project Titan and the United Nations</span><span class="citation-popover-snippet">TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</span><span class="citation-popover-meta">Published: January 2023</span></span></span>
+The central difficulty is structural rather than conspiratorial. San Marino is a microstate with a small territory, a small population and no publicly known long-term government programme dedicated to collecting and analysing UFO reports. Public attention around UFOs developed largely through conferences and private research networks rather than through a state archive system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">san marino could become the u n s new geneva for ufos</span><span class="citation-popover-snippet">The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tas-education.org">[TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tas-education.org</span><span class="citation-popover-title">TAS Education Project Titan and the United Nations</span><span class="citation-popover-snippet">TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</span><span class="citation-popover-meta">Published: January 2023</span></span></span>
 
 As a result, researchers looking for historical case files encounter several limitations:
 
@@ -336,7 +336,7 @@ Italy possesses decades of UFO reporting, including military releases and case c
 
 Even when Italian cases remain disputed, investigators often have access to original reports, newspaper coverage, military correspondence or archived research files. That creates opportunities for later reassessment.
 
-San Marino benefits indirectly from proximity to Italian UFO networks, especially through the Centro Ufologico Nazionale (CUN), which has played a major role in the republic's symposium culture. However, organisational archives and public state archives are not the same thing. Material held by researchers or private organisations may not be publicly searchable, systematically preserved or independently verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tas-education.org">[TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tas-education.org</span><span class="citation-popover-title">TAS Education Project Titan and the United Nations</span><span class="citation-popover-snippet">TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</span><span class="citation-popover-meta">Published: January 2023</span></span></span>
+San Marino benefits indirectly from proximity to Italian UFO networks, especially through the Centro Ufologico Nazionale (CUN), which has played a major role in the republic's symposium culture. However, organisational archives and public state archives are not the same thing. Material held by researchers or private organisations may not be publicly searchable, systematically preserved or independently verified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tas-education.org">[TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tas-education.org</span><span class="citation-popover-title">TAS Education Project Titan and the United Nations</span><span class="citation-popover-snippet">TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</span><span class="citation-popover-meta">Published: January 2023</span></span></span>
 
 <img src="{{ "/assets/images/San_Marino_8ff2c5_records_gap_aadb30-Illustration-2-dark.svg" | relative_url }}" alt="Records Gap illustration 2" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5_records_gap_aadb30-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5_records_gap_aadb30-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### France's Public Archive Model
@@ -382,11 +382,11 @@ Without documentation, neither side can decisively test its assumptions.
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Project Titan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">PROJEC T TITAN</span><span class="citation-popover-snippet">PROJECT TITAN - SAN MARINO, UFOS AND THE UNThe date of September 13, 2021 could represent a moment of great importance for world history...</span><span class="citation-popover-meta">Published: September 13, 2021</span></span></span> introduced an unusual tension into the San Marino discussion.
 
-Advocates presented the republic as a potential international centre for cooperation on UAP research, including periodic conferences and broader information sharing under a proposed UN-linked framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[Icer Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-title">Icer Association Project Titan</span><span class="citation-popover-snippet">Project Titan - ICER ASSOCIATIONProject Titan aims at the creation of an international periodic conference to assess and improve the stud...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">san marino could become the u n s new geneva for ufos</span><span class="citation-popover-snippet">The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tas-education.org">[TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tas-education.org</span><span class="citation-popover-title">TAS Education Project Titan and the United Nations</span><span class="citation-popover-snippet">TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</span><span class="citation-popover-meta">Published: January 2023</span></span></span>
+Advocates presented the republic as a potential international centre for cooperation on UAP research, including periodic conferences and broader information sharing under a proposed UN-linked framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icerassociation.org">[Icer Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icerassociation.org</span><span class="citation-popover-title">Icer Association Project Titan</span><span class="citation-popover-snippet">Project Titan - ICER ASSOCIATIONProject Titan aims at the creation of an international periodic conference to assess and improve the stud...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">san marino could become the u n s new geneva for ufos</span><span class="citation-popover-snippet">The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tas-education.org">[TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tas-education.org</span><span class="citation-popover-title">TAS Education Project Titan and the United Nations</span><span class="citation-popover-snippet">TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</span><span class="citation-popover-meta">Published: January 2023</span></span></span>
 
 Yet the very country proposed as a future hub for international discussion lacks a substantial public archive of its own.
 
-That does not necessarily undermine the project. San Marino's supporters generally emphasise neutrality, diplomatic visibility and long-standing conference activity rather than a large domestic body of UFO evidence. Parliamentary and advocacy materials surrounding Project Titan focus on convening researchers and governments rather than showcasing a national catalogue of sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">san marino could become the u n s new geneva for ufos</span><span class="citation-popover-snippet">The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tas-education.org">[TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tas-education.org</span><span class="citation-popover-title">TAS Education Project Titan and the United Nations</span><span class="citation-popover-snippet">TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</span><span class="citation-popover-meta">Published: January 2023</span></span></span>
+That does not necessarily undermine the project. San Marino's supporters generally emphasise neutrality, diplomatic visibility and long-standing conference activity rather than a large domestic body of UFO evidence. Parliamentary and advocacy materials surrounding Project Titan focus on convening researchers and governments rather than showcasing a national catalogue of sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">san marino could become the u n s new geneva for ufos</span><span class="citation-popover-snippet">The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tas-education.org">[TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tas-education.org</span><span class="citation-popover-title">TAS Education Project Titan and the United Nations</span><span class="citation-popover-snippet">TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</span><span class="citation-popover-meta">Published: January 2023</span></span></span>
 
 Still, the contrast is notable. Countries that have become important reference points in UFO history often possess extensive archival collections. San Marino's reputation instead rests on its role as a gathering place where discussions occur.
 
@@ -394,7 +394,7 @@ Still, the contrast is notable. Countries that have become important reference p
 
 The absence of a large archive also highlights a broader lesson in UAP research: the number of stories matters less than the quality of records.
 
-Countries with thousands of reports are not automatically better sources of evidence. Large databases can contain duplicates, misidentifications and inconsistent reporting. Researchers studying major UFO repositories frequently warn that self-reported databases require careful validation and may contain incomplete or inaccurate entries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nuforc sightings categorized by decade and shape.14610</span><span class="citation-popover-snippet">NUFORC sightings categorized by decade and shape1 Dec 2025 — The NUFORC database is completely based on self-reporting, and sight...</span></span></span>
+Countries with thousands of reports are not automatically better sources of evidence. Large databases can contain duplicates, misidentifications and inconsistent reporting. Researchers studying major UFO repositories frequently warn that self-reported databases require careful validation and may contain incomplete or inaccurate entries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nuforc sightings categorized by decade and shape.14610</span><span class="citation-popover-snippet">NUFORC sightings categorized by decade and shape1 Dec 2025 — The NUFORC database is completely based on self-reporting, and sight...</span></span></span>
 
 The challenge for San Marino is the opposite. The problem is not an overwhelming volume of data but a shortage of publicly inspectable data.
 
@@ -417,201 +417,201 @@ That leaves the republic with a distinctive place in the European UFO landscape.
 
 The most important fact about San Marino's UFO history may be the absence of documentation rather than any specific sighting.
 
-The country's modern UAP profile grew through symposiums, international networking and projects such as Project Titan rather than through a publicly accessible archive of national investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tas-education.org">[TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tas-education.org</span><span class="citation-popover-title">TAS Education Project Titan and the United Nations</span><span class="citation-popover-snippet">TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</span><span class="citation-popover-meta">Published: January 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://icer.pt/2023/01/20/press-relase-project-titan-approved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icer.pt">[Icer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icer.pt</span><span class="citation-popover-title">press relase project titan approved</span><span class="citation-popover-snippet">Press Relase: Project Titan Approved20 Jan 2023 — The recognition of the reality of UFOs indicated by the Pentagon since 2021 as “an obje...</span></span></span>
+The country's modern UAP profile grew through symposiums, international networking and projects such as Project Titan rather than through a publicly accessible archive of national investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tas-education.org">[TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tas-education.org</span><span class="citation-popover-title">TAS Education Project Titan and the United Nations</span><span class="citation-popover-snippet">TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</span><span class="citation-popover-meta">Published: January 2023</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://icer.pt/2023/01/20/press-relase-project-titan-approved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icer.pt">[Icer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icer.pt</span><span class="citation-popover-title">press relase project titan approved</span><span class="citation-popover-snippet">Press Relase: Project Titan Approved20 Jan 2023 — The recognition of the reality of UFOs indicated by the Pentagon since 2021 as “an obje...</span></span></span>
 
 For researchers, that means caution is essential. Claims connected to San Marino often require a different standard of interpretation than claims emerging from countries with extensive declassified files. The question is not whether unusual observations occurred. The question is whether enough original evidence survives to verify what witnesses believed they saw.
 
-Until a substantial archive becomes publicly available, San Marino will remain better documented as a venue for UFO discussion than as a source of independently verifiable UAP records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">san marino could become the u n s new geneva for ufos</span><span class="citation-popover-snippet">The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tas-education.org">[TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tas-education.org</span><span class="citation-popover-title">TAS Education Project Titan and the United Nations</span><span class="citation-popover-snippet">TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</span><span class="citation-popover-meta">Published: January 2023</span></span></span>
+Until a substantial archive becomes publicly available, San Marino will remain better documented as a venue for UFO discussion than as a source of independently verifiable UAP records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">san marino could become the u n s new geneva for ufos</span><span class="citation-popover-snippet">The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tas-education.org">[TAS Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tas-education.org</span><span class="citation-popover-title">TAS Education Project Titan and the United Nations</span><span class="citation-popover-snippet">TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</span><span class="citation-popover-meta">Published: January 2023</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why San Marino&#x27;s UFO Record Is So Thin. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why San Marino&#x27;s UFO Record Is So Thin. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses what strong UFO case documentation should contain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses what strong UFO case documentation should contain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines transparency, secrecy and the availability of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines transparency, secrecy and the availability of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the importance of official records and corroborated evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of official records and corroborated evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Shows how folklore and incomplete records shape UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how folklore and incomplete records shape UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-san-marino-s-ufo-record-is-so-thin-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-san-marino-s-ufo-record-is-so-thin-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -627,7 +627,7 @@ Until a substantial archive becomes publicly available, San Marino will remain b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -647,7 +647,7 @@ Until a substantial archive becomes publicly available, San Marino will remain b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -679,7 +679,7 @@ Until a substantial archive becomes publicly available, San Marino will remain b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -731,7 +731,7 @@ Until a substantial archive becomes publicly available, San Marino will remain b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -776,7 +776,7 @@ Until a substantial archive becomes publicly available, San Marino will remain b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -817,153 +817,153 @@ Until a substantial archive becomes publicly available, San Marino will remain b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tas-education.org  
    Title: TAS Education Project Titan and the United Nations  
-   Link: <a href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow">https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</p></details>
+   Link:<a href="https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/" target="_blank" rel="noopener noreferrer nofollow">https://tas-education.org/exostudies/timeline/project-titan-and-the-united-nations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TAS EducationProject Titan and the United Nations - Exo Studies ResourcesOn 19 January 2023, San Marino voted in favour of a proposal to...</p></details>
    Published: January 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: icer.pt  
    Title: press relase project titan approved  
-   Link: <a href="https://icer.pt/2023/01/20/press-relase-project-titan-approved/" target="_blank" rel="noopener noreferrer nofollow">https://icer.pt/2023/01/20/press-relase-project-titan-approved/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Press Relase: Project Titan Approved20 Jan 2023 — The recognition of the reality of UFOs indicated by the Pentagon since 2021 as “an obje...</p></details>
+   Link:<a href="https://icer.pt/2023/01/20/press-relase-project-titan-approved/" target="_blank" rel="noopener noreferrer nofollow">https://icer.pt/2023/01/20/press-relase-project-titan-approved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Press Relase: Project Titan Approved20 Jan 2023 — The recognition of the reality of UFOs indicated by the Pentagon since 2021 as “an obje...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: metabunk.org  
    Title: nuforc sightings categorized by decade and shape.14610  
-   Link: <a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shape1 Dec 2025 — The NUFORC database is completely based on self-reporting, and sight...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shape1 Dec 2025 — The NUFORC database is completely based on self-reporting, and sight...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recov...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recov...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>s for action, background information, position papers, UFO/ET sighting&#x27;s...</p></details>
+   Link:<a href="https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s for action, background information, position papers, UFO/ET sighting&#x27;s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thedebrief.org  
    Title: san marino could become the u n s new geneva for ufos  
-   Link: <a href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</p></details>
+   Link:<a href="https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/san-marino-could-become-the-u-n-s-new-geneva-for-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefSan Marino Could Become the U.N.&#x27;s New &quot;Geneva&quot; For...17 Sept 2021 — Dubbed “Project Titan,” if all goes according to plan, t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: icerassociation.org  
    Title: Icer Association Project Titan  
-   Link: <a href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow">https://www.icerassociation.org/about/project-titan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Titan - ICER ASSOCIATIONProject Titan aims at the creation of an international periodic conference to assess and improve the stud...</p></details>
+   Link:<a href="https://www.icerassociation.org/about/project-titan" target="_blank" rel="noopener noreferrer nofollow">https://www.icerassociation.org/about/project-titan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Titan - ICER ASSOCIATIONProject Titan aims at the creation of an international periodic conference to assess and improve the stud...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: icerassociation.org  
-   Link: <a href="https://www.icerassociation.org/news/project-titan-update" target="_blank" rel="noopener noreferrer nofollow">https://www.icerassociation.org/news/project-titan-update</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Icer AssociationProject Titan Update - ICER ASSOCIATIONPrepared by the new UN Office, the Conference would be held under the aegis of the...</p></details>
+   Link:<a href="https://www.icerassociation.org/news/project-titan-update" target="_blank" rel="noopener noreferrer nofollow">https://www.icerassociation.org/news/project-titan-update</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Icer AssociationProject Titan Update - ICER ASSOCIATIONPrepared by the new UN Office, the Conference would be held under the aegis of the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
    Title: Reports by Location NUFORC Reports by Location; USA  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Unspecified, 121; USA - Alaska, 676; USA - Alabama, 1526; USA - Arkansas...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Unspecified, 121; USA - Alaska, 676; USA - Alabama, 1526; USA - Arkansas...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: PROJEC T TITAN  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT TITAN - SAN MARINO, UFOS AND THE UNThe date of September 13, 2021 could represent a moment of great importance for world history...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rew0jk/project_titan_san_marino_ufos_and_the_un/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT TITAN - SAN MARINO, UFOS AND THE UNThe date of September 13, 2021 could represent a moment of great importance for world history...</p></details>
    Published: September 13, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: project titan the tiny republic taking ufo disclosure to the united nationsin wh  
-   Link: <a href="https://www.facebook.com/TheAnomalyArchives/posts/project-titan-the-tiny-republic-taking-ufo-disclosure-to-the-united-nationsin-wh/1591872422947571/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAnomalyArchives/posts/project-titan-the-tiny-republic-taking-ufo-disclosure-to-the-united-nationsin-wh/1591872422947571/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT TITAN: The Tiny Republic Taking UFO...24 Apr 2026 — The country has long hosted the annual San Marino UFO Symposium—one of Europ...</p></details>
+   Link:<a href="https://www.facebook.com/TheAnomalyArchives/posts/project-titan-the-tiny-republic-taking-ufo-disclosure-to-the-united-nationsin-wh/1591872422947571/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAnomalyArchives/posts/project-titan-the-tiny-republic-taking-ufo-disclosure-to-the-united-nationsin-wh/1591872422947571/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT TITAN: The Tiny Republic Taking UFO...24 Apr 2026 — The country has long hosted the annual San Marino UFO Symposium—one of Europ...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Defence policy was to destro...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official reporting, analysis and recording of UFO sightings began in the early 1950s. Until 1967 Ministry of Defence policy was to destro...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: liberationtimes.com  
-   Link: <a href="https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Titan Approved By San Marino: UFOs Set To Be...19 Jan 2023 — The nation of San Marino has made a momentous decision, meaning the...</p></details>
+   Link:<a href="https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations-for-first-time-since-1978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Titan Approved By San Marino: UFOs Set To Be...19 Jan 2023 — The nation of San Marino has made a momentous decision, meaning the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/4z0yleE9b9SYCbYy5NKxjo" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4z0yleE9b9SYCbYy5NKxjo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Titan. As the push for UFO Disclosure reaches a boiling point within the United Nations, Paolo reveals how the Republic of San Ma...</p></details>
+   Link:<a href="https://open.spotify.com/episode/4z0yleE9b9SYCbYy5NKxjo" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4z0yleE9b9SYCbYy5NKxjo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Titan. As the push for UFO Disclosure reaches a boiling point within the United Nations, Paolo reveals how the Republic of San Ma...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufotimeline.com  
    Title: project titan approved by san marino ufos set to be discussed at united nations  
-   Link: <a href="https://ufotimeline.com/2023/01/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations/" target="_blank" rel="noopener noreferrer nofollow">https://ufotimeline.com/2023/01/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>San Marino will submit a proposal to the UN for the creation of a permanent office tasked with the preparation of periodic global confere...</p></details>
+   Link:<a href="https://ufotimeline.com/2023/01/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations/" target="_blank" rel="noopener noreferrer nofollow">https://ufotimeline.com/2023/01/project-titan-approved-by-san-marino-ufos-set-to-be-discussed-at-united-nations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>San Marino will submit a proposal to the UN for the creation of a permanent office tasked with the preparation of periodic global confere...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: giornalesm.com  
    Title: San Marino  
-   Link: <a href="https://giornalesm.com/san-marino-ufo-onu-e-progetto-titano-il-mondo-si-chiede-a-che-punto-siamo-del-dr-roberto-pinotti-presidente-del-cun-e-dellicer/" target="_blank" rel="noopener noreferrer nofollow">https://giornalesm.com/san-marino-ufo-onu-e-progetto-titano-il-mondo-si-chiede-a-che-punto-siamo-del-dr-roberto-pinotti-presidente-del-cun-e-dellicer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, ONU E PROGETTO TITANO: IL MONDO...20 Jul 2023 — The UN General Assembly could discuss the Project Titan initiative next September...</p></details>
+   Link:<a href="https://giornalesm.com/san-marino-ufo-onu-e-progetto-titano-il-mondo-si-chiede-a-che-punto-siamo-del-dr-roberto-pinotti-presidente-del-cun-e-dellicer/" target="_blank" rel="noopener noreferrer nofollow">https://giornalesm.com/san-marino-ufo-onu-e-progetto-titano-il-mondo-si-chiede-a-che-punto-siamo-del-dr-roberto-pinotti-presidente-del-cun-e-dellicer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, ONU E PROGETTO TITANO: IL MONDO...20 Jul 2023 — The UN General Assembly could discuss the Project Titan initiative next September...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and Other Paranormal InformationUFO and Other Paranormal Related Information (No Records Exist); Ultra Terrestrials; Umbrella; Unconv...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and Other Paranormal InformationUFO and Other Paranormal Related Information (No Records Exist); Ultra Terrestrials; Umbrella; Unconv...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/pqqe7c/luis_elizondo_in_san_marino_to_build/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pqqe7c/luis_elizondo_in_san_marino_to_build/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo in San Marino to build international UFO...UFO Disclosure appears to have a new psychological reaction from society that i...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/pqqe7c/luis_elizondo_in_san_marino_to_build/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pqqe7c/luis_elizondo_in_san_marino_to_build/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo in San Marino to build international UFO...UFO Disclosure appears to have a new psychological reaction from society that i...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/san-marino-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/san-marino-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>San Marino UFO Sightings and Experience ReportsRead &amp; Report San Marino UFO UAP USO Sightings &amp; Close Encounters. Date... San Marino UFO...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/san-marino-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/san-marino-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>San Marino UFO Sightings and Experience ReportsRead &amp; Report San Marino UFO UAP USO Sightings &amp; Close Encounters. Date... San Marino UFO...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: science.org  
    Title: nasa ufo team calls higher quality data first public meeting  
-   Link: <a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — “It&#x27;s very unlikely there are space aliens that travel throu...</p></details>
+   Link:<a href="https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/nasa-ufo-team-calls-higher-quality-data-first-public-meeting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO team calls for higher quality data in first public...31 May 2023 — “It&#x27;s very unlikely there are space aliens that travel throu...</p></details>
    Published: May 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reaganlibrary.gov  
    Title: Materials Project Staff, National Archives and Records Adminis  
-   Link: <a href="https://www.reaganlibrary.gov/public/2021-06/40-654-209237722-045-010-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reaganlibrary.gov/public/2021-06/40-654-209237722-045-010-2021.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHORM Subject File Code: FE010-01 Case file Number(s)medical and intelligence information from UFO/IAC sightings and contacts with alien...</p></details>
+   Link:<a href="https://www.reaganlibrary.gov/public/2021-06/40-654-209237722-045-010-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reaganlibrary.gov/public/2021-06/40-654-209237722-045-010-2021.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHORM Subject File Code: FE010-01 Case file Number(s)medical and intelligence information from UFO/IAC sightings and contacts with alien...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: curiousarchive.com  
    Title: the history of the british governments ufo files and how you can access them  
-   Link: <a href="https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The History of the British Government&#x27;s UFO Files (and How...8 Apr 2021 — So while the UFO desk documents won&#x27;t shed any light on the &#x27;t...</p></details>
+   Link:<a href="https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.curiousarchive.com/the-history-of-the-british-governments-ufo-files-and-how-you-can-access-them/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The History of the British Government&#x27;s UFO Files (and How...8 Apr 2021 — So while the UFO desk documents won&#x27;t shed any light on the &#x27;t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: abc7chicago.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: <a href="https://abc7chicago.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs on...20 Jan 2015 — According to the National Archives, 12,618 UFO sightings were re...</p></details>
+   Link:<a href="https://abc7chicago.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs on...20 Jan 2015 — According to the National Archives, 12,618 UFO sightings were re...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=Wui4b5zmaFs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Wui4b5zmaFs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>San Marino Project Titan UN UFO Congress NATO Contemplating UFO Space Traffic, Project TITAN Approved by San Marino Spaced Out Radio...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Wui4b5zmaFs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Wui4b5zmaFs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>San Marino Project Titan UN UFO Congress NATO Contemplating UFO Space Traffic, Project TITAN Approved by San Marino Spaced Out Radio...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
    Title: San Marino will bring the UAP/UFO Phenomenon to the UNHistory is Made  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/10uhpvr/history_is_made_san_marino_will_bring_the_uapufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/10uhpvr/history_is_made_san_marino_will_bring_the_uapufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>San Marino will bring the UAP/UFO Phenomenon to the UN - UFOs Set To Be Discussed At United Nations For First Time Since 1978.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/10uhpvr/history_is_made_san_marino_will_bring_the_uapufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/10uhpvr/history_is_made_san_marino_will_bring_the_uapufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>San Marino will bring the UAP/UFO Phenomenon to the UN - UFOs Set To Be Discussed At United Nations For First Time Since 1978.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>

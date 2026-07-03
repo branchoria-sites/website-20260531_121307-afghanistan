@@ -248,21 +248,21 @@ image: /assets/images/Costa_Rica_fe586b_tarbaca_video_870cbb-Illustration-1-soci
 
 ## Introduction
 
-The 2007 Tarbaca UFO video occupies an awkward place in Costa Rica’s UFO history. Unlike the 1971 [Lake Cote]({{ 'lake-cote/' | relative_url }}) photograph, which came from a documented aerial survey with preserved negatives and identifiable institutional custody, the Tarbaca footage belongs to the era of viral mobile-phone clips: visually striking, easy to circulate online, and difficult to verify in a rigorous way. Supporters argue that the object’s motion, apparent solidity, and the witness’s reaction make the clip unusually compelling. Sceptics counter that the same features can be reproduced with a small suspended model, especially given the low resolution and unstable framing of early mobile-phone cameras. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telediario.cr">[Telediario Costa Rica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telediario.cr</span><span class="citation-popover-snippet">Telediario Costa RicaCostarricense aseguró que grabó un ovni desde Tarbaca...Costarricense aseguró que vio un Ovni: “abro la cámara y em...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espaciomisterio.com">[Espacio Misterio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espaciomisterio.com</span><span class="citation-popover-title">video caso tarbaca examen 58777</span><span class="citation-popover-snippet">Espacio MisterioEl vídeo del caso Tarbaca a examen17 Sept 2024 — Un trabajador de la construcción obtuvo en 2007 una de las mejores graba...</span></span></span>
+The 2007 Tarbaca UFO video occupies an awkward place in Costa Rica’s UFO history. Unlike the 1971 [Lake Cote]({{ 'lake-cote/' | relative_url }}) photograph, which came from a documented aerial survey with preserved negatives and identifiable institutional custody, the Tarbaca footage belongs to the era of viral mobile-phone clips: visually striking, easy to circulate online, and difficult to verify in a rigorous way. Supporters argue that the object’s motion, apparent solidity, and the witness’s reaction make the clip unusually compelling. Sceptics counter that the same features can be reproduced with a small suspended model, especially given the low resolution and unstable framing of early mobile-phone cameras.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telediario.cr">[Telediario Costa Rica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telediario.cr</span><span class="citation-popover-snippet">Telediario Costa RicaCostarricense aseguró que grabó un ovni desde Tarbaca...Costarricense aseguró que vio un Ovni: “abro la cámara y em...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espaciomisterio.com">[Espacio Misterio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espaciomisterio.com</span><span class="citation-popover-title">video caso tarbaca examen 58777</span><span class="citation-popover-snippet">Espacio MisterioEl vídeo del caso Tarbaca a examen17 Sept 2024 — Un trabajador de la construcción obtuvo en 2007 una de las mejores graba...</span></span></span>
 
 <img src="{{ "/assets/images/Costa_Rica_fe586b_tarbaca_video_870cbb-Illustration-1-dark.svg" | relative_url }}" alt="Tarbaca Video illustration 1" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b_tarbaca_video_870cbb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b_tarbaca_video_870cbb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The case matters less because it “proves” anything than because it captures a turning point in UFO culture in Costa Rica. By the late 2000s, sightings no longer depended on newspapers or government archives alone. Ordinary witnesses could instantly record and distribute footage, but that shift also created ideal conditions for hoaxes, exaggeration, selective editing, and endless online reinterpretation.
 
 ## What Marvin Badilla said he recorded
 
-According to repeated accounts in Costa Rican media and later UFO compilations, Marvin Badilla was working outdoors near Tarbaca, in the hills south of San José, on 22 November 2007 when he noticed a strange metallic object nearby. He reportedly used a Motorola RAZR V3 phone to film what appeared to be a disc-shaped craft hovering at low altitude before tilting and accelerating away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telediario.cr">[Telediario Costa Rica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telediario.cr</span><span class="citation-popover-snippet">Telediario Costa RicaCostarricense aseguró que grabó un ovni desde Tarbaca...Costarricense aseguró que vio un Ovni: “abro la cámara y em...</span></span></span> YouTube The basic narrative has remained fairly consistent across retellings: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=Ep7RlzMiuc0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Filmed on Motorola RAZR V3 by Marvin BadillaOn 22 November 2007, at approximately 3:49 pm, Marvin Badilla — described as a 35-year...</span><span class="citation-popover-meta">Published: November 2007</span></span></span>
+According to repeated accounts in Costa Rican media and later UFO compilations, Marvin Badilla was working outdoors near Tarbaca, in the hills south of San José, on 22 November 2007 when he noticed a strange metallic object nearby. He reportedly used a Motorola RAZR V3 phone to film what appeared to be a disc-shaped craft hovering at low altitude before tilting and accelerating away.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telediario.cr">[Telediario Costa Rica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telediario.cr</span><span class="citation-popover-snippet">Telediario Costa RicaCostarricense aseguró que grabó un ovni desde Tarbaca...Costarricense aseguró que vio un Ovni: “abro la cámara y em...</span></span></span> YouTube The basic narrative has remained fairly consistent across retellings:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=Ep7RlzMiuc0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Filmed on Motorola RAZR V3 by Marvin BadillaOn 22 November 2007, at approximately 3:49 pm, Marvin Badilla — described as a 35-year...</span><span class="citation-popover-meta">Published: November 2007</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Badilla described the object as metallic and reflective.
 * The object appeared relatively close rather than high in the sky.
 * The footage lasts only a short time.
-* The clip ends with a sudden movement that believers interpret as unusual acceleration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=Ep7RlzMiuc0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Filmed on Motorola RAZR V3 by Marvin BadillaOn 22 November 2007, at approximately 3:49 pm, Marvin Badilla — described as a 35-year...</span><span class="citation-popover-meta">Published: November 2007</span></span></span>
+* The clip ends with a sudden movement that believers interpret as unusual acceleration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=Ep7RlzMiuc0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Filmed on Motorola RAZR V3 by Marvin BadillaOn 22 November 2007, at approximately 3:49 pm, Marvin Badilla — described as a 35-year...</span><span class="citation-popover-meta">Published: November 2007</span></span></span>
 
 </div>
 
@@ -272,13 +272,13 @@ Yet almost everything important to technical verification is missing. The origin
 
 ## Why the video looks persuasive to some viewers
 
-Part of the Tarbaca video’s reputation comes from timing and aesthetics. In 2007, consumer CGI tools were already available, but convincing mobile-phone compositing was still less common among ordinary users than it would become in the following decade. Some viewers therefore treat the footage as more credible simply because it predates the modern AI-video era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/wkq40u/stabilized_and_slow_motion_video_of_the_tarbaca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Stabilized and slow motion video of the Tarbaca, Costa Rica...Skip to main content Stabilized and slow motion video of the Tarbaca...</span></span></span>
+Part of the Tarbaca video’s reputation comes from timing and aesthetics. In 2007, consumer CGI tools were already available, but convincing mobile-phone compositing was still less common among ordinary users than it would become in the following decade. Some viewers therefore treat the footage as more credible simply because it predates the modern AI-video era.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/wkq40u/stabilized_and_slow_motion_video_of_the_tarbaca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Stabilized and slow motion video of the Tarbaca, Costa Rica...Skip to main content Stabilized and slow motion video of the Tarbaca...</span></span></span>
 
 Believers usually focus on three aspects of the clip.
 
 ### The object appears physically present
 
-Supporters argue that the object seems embedded in the scene rather than pasted over it later. The lighting appears broadly consistent with the environment, and the object’s movement relative to the camera shake gives some viewers the impression of genuine depth. In slowed or stabilised versions shared online, enthusiasts claim the object rotates in a way that looks mechanically coherent rather than animated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1puy3y7/ufo_tilted_on_its_side_filmed_with_a_motorola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO tilted on its side filmed with a Motorola RAZR V3 by</span><span class="citation-popover-snippet">UFO tilted on its side filmed with a Motorola RAZR V3 by...December 24, 2025 — The film that Marvin recorded shows a classic flyin...</span><span class="citation-popover-meta">Published: December 24, 2025</span></span></span>
+Supporters argue that the object seems embedded in the scene rather than pasted over it later. The lighting appears broadly consistent with the environment, and the object’s movement relative to the camera shake gives some viewers the impression of genuine depth. In slowed or stabilised versions shared online, enthusiasts claim the object rotates in a way that looks mechanically coherent rather than animated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1puy3y7/ufo_tilted_on_its_side_filmed_with_a_motorola/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO tilted on its side filmed with a Motorola RAZR V3 by</span><span class="citation-popover-snippet">UFO tilted on its side filmed with a Motorola RAZR V3 by...December 24, 2025 — The film that Marvin recorded shows a classic flyin...</span><span class="citation-popover-meta">Published: December 24, 2025</span></span></span>
 
 This argument is largely intuitive rather than scientific. Most versions available online are heavily recompressed, making frame-level analysis unreliable. Compression artefacts can easily create misleading impressions of solidity or motion blur.
 
@@ -286,13 +286,13 @@ This argument is largely intuitive rather than scientific. Most versions availab
 
 ### The witness reaction feels spontaneous
 
-Some UFO enthusiasts cite Badilla’s audible reaction and shaky framing as signs that he was surprised rather than staging a controlled hoax. In online discussions, supporters often argue that fabricated clips tend to linger too neatly on the subject, while the Tarbaca footage feels improvised and unstable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1sipz2t/has_the_2007_costa_rica_ufo_sighting_already_been/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">has the 2007 costa rica ufo sighting already been</span><span class="citation-popover-snippet">has the 2007 Costa Rica UFO sighting already been...I remember seeing a debunk video on this case where it actually mentions the s...</span></span></span>
+Some UFO enthusiasts cite Badilla’s audible reaction and shaky framing as signs that he was surprised rather than staging a controlled hoax. In online discussions, supporters often argue that fabricated clips tend to linger too neatly on the subject, while the Tarbaca footage feels improvised and unstable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1sipz2t/has_the_2007_costa_rica_ufo_sighting_already_been/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">has the 2007 costa rica ufo sighting already been</span><span class="citation-popover-snippet">has the 2007 Costa Rica UFO sighting already been...I remember seeing a debunk video on this case where it actually mentions the s...</span></span></span>
 
 That reasoning is psychologically understandable but weak as evidence. Genuine surprise and performed surprise can look very similar on camera, especially in short clips.
 
 ### The “flip” movement looks unusual
 
-The most discussed moment occurs when the object tilts sideways and moves away. To believers, the manoeuvre appears too abrupt or oddly oriented for a suspended model or ordinary aircraft. Some viewers interpret the movement as resembling the “belly-first” acceleration described in older UFO lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=Ep7RlzMiuc0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Filmed on Motorola RAZR V3 by Marvin BadillaOn 22 November 2007, at approximately 3:49 pm, Marvin Badilla — described as a 35-year...</span><span class="citation-popover-meta">Published: November 2007</span></span></span>
+The most discussed moment occurs when the object tilts sideways and moves away. To believers, the manoeuvre appears too abrupt or oddly oriented for a suspended model or ordinary aircraft. Some viewers interpret the movement as resembling the “belly-first” acceleration described in older UFO lore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=Ep7RlzMiuc0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Filmed on Motorola RAZR V3 by Marvin BadillaOn 22 November 2007, at approximately 3:49 pm, Marvin Badilla — described as a 35-year...</span><span class="citation-popover-meta">Published: November 2007</span></span></span>
 
 However, this is also the exact moment where the footage becomes hardest to interpret because the camera abruptly loses stable framing. That ambiguity cuts both ways: believers see impossible motion, while sceptics see the ideal hiding place for a simple trick.
 
@@ -314,14 +314,14 @@ Low-resolution phone footage creates several problems simultaneously:
 
 Those limitations are especially important in the Tarbaca case because the object appears comparatively close to the witness. A small handmade model suspended on line or wire can look surprisingly convincing when filmed against a bright sky with limited focus depth.
 
-This is why sceptics repeatedly raise the “miniature on string” explanation. Online critics have argued that the object’s swinging and rotational behaviour resembles a lightweight suspended prop rather than an advanced craft. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://imgur.com/gallery/costa-rica-ufo-tarbaca-san-jos-2007-calle-azulillos-nf4Vy78" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imgur.com">[imgur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imgur.com</span><span class="citation-popover-title">costa rica ufo tarbaca san jos 2007 calle azulillos nf4Vy78</span><span class="citation-popover-snippet">Because it&#x27;s somebody with a bloody string and a fake ufo they flail around. No need to cgi when making crappy fake vids. 1. Collapse...</span></span></span> Several recurring sceptical observations appear in discussions of the clip:
+This is why sceptics repeatedly raise the “miniature on string” explanation. Online critics have argued that the object’s swinging and rotational behaviour resembles a lightweight suspended prop rather than an advanced craft. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://imgur.com/gallery/costa-rica-ufo-tarbaca-san-jos-2007-calle-azulillos-nf4Vy78" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imgur.com">[imgur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imgur.com</span><span class="citation-popover-title">costa rica ufo tarbaca san jos 2007 calle azulillos nf4Vy78</span><span class="citation-popover-snippet">Because it&#x27;s somebody with a bloody string and a fake ufo they flail around. No need to cgi when making crappy fake vids. 1. Collapse...</span></span></span> Several recurring sceptical observations appear in discussions of the clip:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The object sometimes seems to pivot around a central hanging point.
 * The shadows appear very dark and uniform, which critics associate with a nearby small object.
 * The sudden final motion coincides with major camera movement.
-* No corroborating footage from other witnesses emerged publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Damnthatsinteresting/comments/w251su/sideways_flying_ufo_filmed_with_a_motorola_razr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">osta Rica, 2007... Afterwards, he witnessed a UFO take off from...</span></span></span>
+* No corroborating footage from other witnesses emerged publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Damnthatsinteresting/comments/w251su/sideways_flying_ufo_filmed_with_a_motorola_razr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">osta Rica, 2007... Afterwards, he witnessed a UFO take off from...</span></span></span>
 
 </div>
 
@@ -330,7 +330,7 @@ None of these points conclusively proves fabrication. But collectively they expl
 <img src="{{ "/assets/images/Costa_Rica_fe586b_tarbaca_video_870cbb-Illustration-2-dark.svg" | relative_url }}" alt="Tarbaca Video illustration 2" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b_tarbaca_video_870cbb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b_tarbaca_video_870cbb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The unresolved issue of models and craftsmanship
 
-One reason the Tarbaca debate intensified online is the repeated claim that Badilla had experience making models or miniatures. In UFO forums, sceptics often cite this allegation as circumstantial support for a hoax hypothesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/wkq40u/stabilized_and_slow_motion_video_of_the_tarbaca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Stabilized and slow motion video of the Tarbaca, Costa Rica...Skip to main content Stabilized and slow motion video of the Tarbaca...</span></span></span>
+One reason the Tarbaca debate intensified online is the repeated claim that Badilla had experience making models or miniatures. In UFO forums, sceptics often cite this allegation as circumstantial support for a hoax hypothesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/wkq40u/stabilized_and_slow_motion_video_of_the_tarbaca/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Stabilized and slow motion video of the Tarbaca, Costa Rica...Skip to main content Stabilized and slow motion video of the Tarbaca...</span></span></span>
 
 That claim is difficult to evaluate cleanly because it usually appears in forum discussion rather than documented investigative reporting. Even if true, it would not automatically disprove the sighting. A person capable of building models can still witness something unexplained. But it changes how investigators think about opportunity and capability.
 
@@ -352,7 +352,7 @@ The Lake Cote photograph has identifiable provenance:
 * named personnel,
 * preserved photographic material,
 * known equipment,
-* and archival continuity inside Costa Rica’s national records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espaciomisterio.com">[Espacio Misterio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espaciomisterio.com</span><span class="citation-popover-title">video caso tarbaca examen 58777</span><span class="citation-popover-snippet">Espacio MisterioEl vídeo del caso Tarbaca a examen17 Sept 2024 — Un trabajador de la construcción obtuvo en 2007 una de las mejores graba...</span></span></span>
+* and archival continuity inside Costa Rica’s national records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espaciomisterio.com">[Espacio Misterio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espaciomisterio.com</span><span class="citation-popover-title">video caso tarbaca examen 58777</span><span class="citation-popover-snippet">Espacio MisterioEl vídeo del caso Tarbaca a examen17 Sept 2024 — Un trabajador de la construcción obtuvo en 2007 una de las mejores graba...</span></span></span>
 
 </div>
 
@@ -380,201 +380,201 @@ Modern UFO footage faces several recurring credibility problems:
 
 The Tarbaca case displays nearly all of those problems at once. It survives because it is visually memorable, not because it is technically strong evidence.
 
-That does not mean the footage is certainly fake. The honest conclusion is narrower and less dramatic: the video shows an unidentified object in low-quality footage, but the available material is insufficient to establish whether the object was extraordinary, misidentified, or deliberately fabricated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telediario.cr">[Telediario Costa Rica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telediario.cr</span><span class="citation-popover-snippet">Telediario Costa RicaCostarricense aseguró que grabó un ovni desde Tarbaca...Costarricense aseguró que vio un Ovni: “abro la cámara y em...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espaciomisterio.com">[Espacio Misterio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espaciomisterio.com</span><span class="citation-popover-title">video caso tarbaca examen 58777</span><span class="citation-popover-snippet">Espacio MisterioEl vídeo del caso Tarbaca a examen17 Sept 2024 — Un trabajador de la construcción obtuvo en 2007 una de las mejores graba...</span></span></span>
+That does not mean the footage is certainly fake. The honest conclusion is narrower and less dramatic: the video shows an unidentified object in low-quality footage, but the available material is insufficient to establish whether the object was extraordinary, misidentified, or deliberately fabricated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telediario.cr">[Telediario Costa Rica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telediario.cr</span><span class="citation-popover-snippet">Telediario Costa RicaCostarricense aseguró que grabó un ovni desde Tarbaca...Costarricense aseguró que vio un Ovni: “abro la cámara y em...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espaciomisterio.com">[Espacio Misterio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espaciomisterio.com</span><span class="citation-popover-title">video caso tarbaca examen 58777</span><span class="citation-popover-snippet">Espacio MisterioEl vídeo del caso Tarbaca a examen17 Sept 2024 — Un trabajador de la construcción obtuvo en 2007 una de las mejores graba...</span></span></span>
 
 Within Costa Rica’s UFO history, Tarbaca therefore functions less as a solved mystery than as a cautionary example. It demonstrates how easily a striking modern UFO clip can divide audiences into believers and debunkers while leaving the underlying question unresolved.
 
 <img src="{{ "/assets/images/Costa_Rica_fe586b_tarbaca_video_870cbb-Illustration-3-dark.svg" | relative_url }}" alt="Tarbaca Video illustration 3" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b_tarbaca_video_870cbb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b_tarbaca_video_870cbb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Tarbaca UFO Video Divides Viewers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Tarbaca UFO Video Divides Viewers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides methods for evaluating witness reports and recordings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides methods for evaluating witness reports and recordings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers comparison with better documented cases than viral videos.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers comparison with better documented cases than viral videos.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how internet-era UFO stories spread and evolve.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how internet-era UFO stories spread and evolve.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Ideal for a page examining disputed video evidence and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal for a page examining disputed video evidence and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-tarbaca-ufo-video-divides-viewers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-tarbaca-ufo-video-divides-viewers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ Within Costa Rica’s UFO history, Tarbaca therefore functions less as a solved 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ Within Costa Rica’s UFO history, Tarbaca therefore functions less as a solved 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ Within Costa Rica’s UFO history, Tarbaca therefore functions less as a solved 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ Within Costa Rica’s UFO history, Tarbaca therefore functions less as a solved 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ Within Costa Rica’s UFO history, Tarbaca therefore functions less as a solved 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,168 +777,167 @@ Within Costa Rica’s UFO history, Tarbaca therefore functions less as a solved 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: telediario.cr  
-   Link: <a href="https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar" target="_blank" rel="noopener noreferrer nofollow">https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Telediario Costa RicaCostarricense aseguró que grabó un ovni desde Tarbaca...Costarricense aseguró que vio un Ovni: “abro la cámara y em...</p></details>
+   Link:<a href="https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar" target="_blank" rel="noopener noreferrer nofollow">https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Telediario Costa RicaCostarricense aseguró que grabó un ovni desde Tarbaca...Costarricense aseguró que vio un Ovni: “abro la cámara y em...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/wkq40u/stabilized_and_slow_motion_video_of_the_tarbaca/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wkq40u/stabilized_and_slow_motion_video_of_the_tarbaca/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stabilized and slow motion video of the Tarbaca, Costa Rica...Skip to main content Stabilized and slow motion video of the Tarbaca...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/wkq40u/stabilized_and_slow_motion_video_of_the_tarbaca/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wkq40u/stabilized_and_slow_motion_video_of_the_tarbaca/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stabilized and slow motion video of the Tarbaca, Costa Rica...Skip to main content Stabilized and slow motion video of the Tarbaca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ep7RlzMiuc0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ep7RlzMiuc0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Filmed on Motorola RAZR V3 by Marvin BadillaOn 22 November 2007, at approximately 3:49 pm, Marvin Badilla — described as a 35-year...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ep7RlzMiuc0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ep7RlzMiuc0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Filmed on Motorola RAZR V3 by Marvin BadillaOn 22 November 2007, at approximately 3:49 pm, Marvin Badilla — described as a 35-year...</p></details>
    Published: November 2007  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: You Tube Costa Rica UFO (  
-   Link: <a href="https://www.youtube.com/watch?v=CeH8ZHeLpt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CeH8ZHeLpt4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Costa Rica UFO (November 22, 2007)Marvin Badilla records classic &quot;flying saucer&quot; with his Motorola Razr on November 2007 in Costa Rica. U...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CeH8ZHeLpt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CeH8ZHeLpt4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Costa Rica UFO (November 22, 2007)Marvin Badilla records classic &quot;flying saucer&quot; with his Motorola Razr on November 2007 in Costa Rica. U...</p></details>
    Published: November 22, 2007  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: UFO tilted on its side filmed with a Motorola RAZR V3 by  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1puy3y7/ufo_tilted_on_its_side_filmed_with_a_motorola/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1puy3y7/ufo_tilted_on_its_side_filmed_with_a_motorola/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO tilted on its side filmed with a Motorola RAZR V3 by...December 24, 2025 — The film that Marvin recorded shows a classic flyin...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1puy3y7/ufo_tilted_on_its_side_filmed_with_a_motorola/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1puy3y7/ufo_tilted_on_its_side_filmed_with_a_motorola/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO tilted on its side filmed with a Motorola RAZR V3 by...December 24, 2025 — The film that Marvin recorded shows a classic flyin...</p></details>
    Published: December 24, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: imgur.com  
    Title: costa rica ufo tarbaca san jos 2007 calle azulillos nf4Vy78  
-   Link: <a href="https://imgur.com/gallery/costa-rica-ufo-tarbaca-san-jos-2007-calle-azulillos-nf4Vy78" target="_blank" rel="noopener noreferrer nofollow">https://imgur.com/gallery/costa-rica-ufo-tarbaca-san-jos-2007-calle-azulillos-nf4Vy78</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Because it&#x27;s somebody with a bloody string and a fake ufo they flail around. No need to cgi when making crappy fake vids. 1. Collapse...</p></details>
+   Link:<a href="https://imgur.com/gallery/costa-rica-ufo-tarbaca-san-jos-2007-calle-azulillos-nf4Vy78" target="_blank" rel="noopener noreferrer nofollow">https://imgur.com/gallery/costa-rica-ufo-tarbaca-san-jos-2007-calle-azulillos-nf4Vy78</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Because it&#x27;s somebody with a bloody string and a fake ufo they flail around. No need to cgi when making crappy fake vids. 1. Collapse...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: has the 2007 costa rica ufo sighting already been  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sipz2t/has_the_2007_costa_rica_ufo_sighting_already_been/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sipz2t/has_the_2007_costa_rica_ufo_sighting_already_been/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>has the 2007 Costa Rica UFO sighting already been...I remember seeing a debunk video on this case where it actually mentions the s...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1sipz2t/has_the_2007_costa_rica_ufo_sighting_already_been/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sipz2t/has_the_2007_costa_rica_ufo_sighting_already_been/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>has the 2007 Costa Rica UFO sighting already been...I remember seeing a debunk video on this case where it actually mentions the s...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Damnthatsinteresting/comments/w251su/sideways_flying_ufo_filmed_with_a_motorola_razr/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/w251su/sideways_flying_ufo_filmed_with_a_motorola_razr/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>osta Rica, 2007... Afterwards, he witnessed a UFO take off from...</p></details>
+   Link:<a href="https://www.reddit.com/r/Damnthatsinteresting/comments/w251su/sideways_flying_ufo_filmed_with_a_motorola_razr/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Damnthatsinteresting/comments/w251su/sideways_flying_ufo_filmed_with_a_motorola_razr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>osta Rica, 2007... Afterwards, he witnessed a UFO take off from...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TWVSgomDPr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TWVSgomDPr0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructing the 1971 Costa Rica UFO in &quot;Blender&quot; - maybe...Reconstructing the 1971 Costa Rica UFO in &quot;Blender&quot; - maybe there IS somet...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TWVSgomDPr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TWVSgomDPr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructing the 1971 Costa Rica UFO in &quot;Blender&quot; - maybe...Reconstructing the 1971 Costa Rica UFO in &quot;Blender&quot; - maybe there IS somet...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: st MXPUQ4YIM  
-   Link: <a href="https://www.youtube.com/shorts/stMXPUQ4YIM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/stMXPUQ4YIM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucer Over Costa Rica? #UFO #UAPIn 2007, carpenter Marvin Badilla filmed a classic “... UFO #UAP #CostaRica...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/stMXPUQ4YIM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/stMXPUQ4YIM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucer Over Costa Rica? #UFO #UAPIn 2007, carpenter Marvin Badilla filmed a classic “... UFO #UAP #CostaRica...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jgN_U61lm08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jgN_U61lm08</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Filmed by Costa Rican Carpenter #uap #alien #costarica...On Thursday, November 2007, a carpenter working in Tarbaca, a man named, Ma...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jgN_U61lm08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jgN_U61lm08</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Filmed by Costa Rican Carpenter #uap #alien #costarica...On Thursday, November 2007, a carpenter working in Tarbaca, a man named, Ma...</p></details>
    Published: November 2007  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/playlist?list=PL92p6Xfu8H9xu5S6Ecq-1568JwjoJI3LD" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PL92p6Xfu8H9xu5S6Ecq-1568JwjoJI3LD</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO footageUFO tilted on its side filmed with a Motorola RAZR V3 by Marvin Badilla, Tarbaca, Costa Rica, 2007. Eyes On Cinema.Read more...</p></details>
+   Link:<a href="https://www.youtube.com/playlist?list=PL92p6Xfu8H9xu5S6Ecq-1568JwjoJI3LD" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PL92p6Xfu8H9xu5S6Ecq-1568JwjoJI3LD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO footageUFO tilted on its side filmed with a Motorola RAZR V3 by Marvin Badilla, Tarbaca, Costa Rica, 2007. Eyes On Cinema.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=rdZGhCi_7GY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rdZGhCi_7GY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marvin Badilla Tarbaca Costa Rica ufo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=rdZGhCi_7GY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rdZGhCi_7GY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marvin Badilla Tarbaca Costa Rica ufo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Marvin Badilla Tarbaca Costa Rica ufo  
-   Link: <a href="http://www.youtube.com/watch?v=FcvCdqSJqfE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FcvCdqSJqfE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Costa Rica UFO, 2007...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=FcvCdqSJqfE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FcvCdqSJqfE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Costa Rica UFO, 2007...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=vnZOsOvsWIM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vnZOsOvsWIM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo-filmed sideways...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vnZOsOvsWIM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vnZOsOvsWIM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo-filmed sideways...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: ufo-filmed sideways  
-   Link: <a href="http://www.youtube.com/watch?v=zdWPo_WuyQU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zdWPo_WuyQU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WILD Eyewitness Reports of Real UFOs | The Proof Is Out There | History...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=zdWPo_WuyQU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zdWPo_WuyQU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WILD Eyewitness Reports of Real UFOs | The Proof Is Out There | History...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: WILD Eyewitness Reports of Real UFOs | The Proof Is Out There | History  
-   Link: <a href="http://www.youtube.com/watch?v=7WI0KahPqxs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=7WI0KahPqxs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO tilted on its side filmed with a Motorola RAZR V3 by Marvin Badilla&quot; UFO tilted on its side filmed with a Motorola RAZR V3 by Marvin...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=7WI0KahPqxs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=7WI0KahPqxs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO tilted on its side filmed with a Motorola RAZR V3 by Marvin Badilla&quot; UFO tilted on its side filmed with a Motorola RAZR V3 by Marvin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: espaciomisterio.com  
    Title: video caso tarbaca examen 58777  
-   Link: <a href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow">https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Espacio MisterioEl vídeo del caso Tarbaca a examen17 Sept 2024 — Un trabajador de la construcción obtuvo en 2007 una de las mejores graba...</p></details>
+   Link:<a href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow">https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Espacio MisterioEl vídeo del caso Tarbaca a examen17 Sept 2024 — Un trabajador de la construcción obtuvo en 2007 una de las mejores graba...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DD8qhTgpV57/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DD8qhTgpV57/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gehr Industries. Available now on your fave podcast...#UFO #UAP #CostaRica. more. View all 5 comments. 5 hours ago... analyses have arg...</p></details>
+   Link:<a href="https://www.instagram.com/p/DD8qhTgpV57/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DD8qhTgpV57/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gehr Industries. Available now on your fave podcast...#UFO #UAP #CostaRica. more. View all 5 comments. 5 hours ago... analyses have arg...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/on-november-22-2007-at-approximately-349-pm-an-unusual-flying-object-was-filmed-/1506497891476845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/on-november-22-2007-at-approximately-349-pm-an-unusual-flying-object-was-filmed-/1506497891476845/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden FactsThe footage was captured by Marvin Badilla... Badilla footage continues to circulate as a significant early mobile- phone UF...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/on-november-22-2007-at-approximately-349-pm-an-unusual-flying-object-was-filmed-/1506497891476845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/on-november-22-2007-at-approximately-349-pm-an-unusual-flying-object-was-filmed-/1506497891476845/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden FactsThe footage was captured by Marvin Badilla... Badilla footage continues to circulate as a significant early mobile- phone UF...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: in 2007 carpenter marvin badilla filmed a metallic discshaped object near tarbac  
-   Link: <a href="https://www.facebook.com/thescarecast/videos/in-2007-carpenter-marvin-badilla-filmed-a-metallic-discshaped-object-near-tarbac/730746666762987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescarecast/videos/in-2007-carpenter-marvin-badilla-filmed-a-metallic-discshaped-object-near-tarbac/730746666762987/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2007, carpenter Marvin Badilla filmed a metallic, disc...In 2007, carpenter Marvin Badilla filmed a metallic, disc‑shaped object near...</p></details>
+   Link:<a href="https://www.facebook.com/thescarecast/videos/in-2007-carpenter-marvin-badilla-filmed-a-metallic-discshaped-object-near-tarbac/730746666762987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescarecast/videos/in-2007-carpenter-marvin-badilla-filmed-a-metallic-discshaped-object-near-tarbac/730746666762987/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2007, carpenter Marvin Badilla filmed a metallic, disc...In 2007, carpenter Marvin Badilla filmed a metallic, disc‑shaped object near...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: on november 22 2007 at approximately 349 pm an unusual flying object was filmed  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/photos/on-november-22-2007-at-approximately-349-pm-an-unusual-flying-object-was-filmed-/1506497861476848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/photos/on-november-22-2007-at-approximately-349-pm-an-unusual-flying-object-was-filmed-/1506497861476848/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On November 22, 2007, at approximately 3:49 PM, an...Facebook · A former Canadian defense leader has publicly confirmed the reality of U...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/photos/on-november-22-2007-at-approximately-349-pm-an-unusual-flying-object-was-filmed-/1506497861476848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/photos/on-november-22-2007-at-approximately-349-pm-an-unusual-flying-object-was-filmed-/1506497861476848/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On November 22, 2007, at approximately 3:49 PM, an...Facebook · A former Canadian defense leader has publicly confirmed the reality of U...</p></details>
    Published: November 22, 2007  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: spreaker.com  
    Title: real ufo caught on camera in costa rica 2007 analyzed 60815252  
-   Link: <a href="https://www.spreaker.com/episode/real-ufo-caught-on-camera-in-costa-rica-2007-analyzed--60815252" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/real-ufo-caught-on-camera-in-costa-rica-2007-analyzed--60815252</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real UFO Caught on Camera in Costa Rica (2007) - Analyzed!In 2007, Marvin Badilla, a local carpenter in Acosta, Costa Rica, captured a re...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/real-ufo-caught-on-camera-in-costa-rica-2007-analyzed--60815252" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/real-ufo-caught-on-camera-in-costa-rica-2007-analyzed--60815252</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real UFO Caught on Camera in Costa Rica (2007) - Analyzed!In 2007, Marvin Badilla, a local carpenter in Acosta, Costa Rica, captured a re...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYgnDZVIdqL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYgnDZVIdqL/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The... UFO | Acosta region of Costa Rica 22nd November 2007 UAP FILES We only post...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYgnDZVIdqL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYgnDZVIdqL/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The... UFO | Acosta region of Costa Rica 22nd November 2007 UAP FILES We only post...Read more...</p></details>
    Published: November 2007  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: amaranathine.medium.com  
    Title: i saw a ufo in costa rica 7abbe75cae07  
-   Link: <a href="https://amaranathine.medium.com/i-saw-a-ufo-in-costa-rica-7abbe75cae07" target="_blank" rel="noopener noreferrer nofollow">https://amaranathine.medium.com/i-saw-a-ufo-in-costa-rica-7abbe75cae07</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>saw a UFO in Costa Rica! - Emily Shell Gamage​ ​ ​​​ ​ ​​​ ​ ​​​Another classic Costa Rican UFO was witnessed by Marvin Badilla at 3:49 P...</p></details>
+   Link:<a href="https://amaranathine.medium.com/i-saw-a-ufo-in-costa-rica-7abbe75cae07" target="_blank" rel="noopener noreferrer nofollow">https://amaranathine.medium.com/i-saw-a-ufo-in-costa-rica-7abbe75cae07</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>saw a UFO in Costa Rica! - Emily Shell Gamage​ ​ ​​​ ​ ​​​ ​ ​​​Another classic Costa Rican UFO was witnessed by Marvin Badilla at 3:49 P...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: metabunk.org  
    Title: 2007 costa rica ufo.11775  
-   Link: <a href="https://www.metabunk.org/threads/2007-costa-rica-ufo.11775/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/2007-costa-rica-ufo.11775/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2007 Costa Rica UFO3 Jun 2021 — I was referring to the OP&#x27;s question asking if anyone had debunked the Costa Rica video. Then you replied...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/2007-costa-rica-ufo.11775/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/2007-costa-rica-ufo.11775/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2007 Costa Rica UFO3 Jun 2021 — I was referring to the OP&#x27;s question asking if anyone had debunked the Costa Rica video. Then you replied...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thescarecast/posts/in-2007-carpenter-marvin-badilla-filmed-a-classic-flying-saucer-over-tarbaca-cos/1785734309268202/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescarecast/posts/in-2007-carpenter-marvin-badilla-filmed-a-classic-flying-saucer-over-tarbaca-cos/1785734309268202/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2007, carpenter Marvin Badilla filmed a classic “flying...Watch the vintage phone footage and decide whether this is a genuine UAP, a...</p></details>
+   Link:<a href="https://www.facebook.com/thescarecast/posts/in-2007-carpenter-marvin-badilla-filmed-a-classic-flying-saucer-over-tarbaca-cos/1785734309268202/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescarecast/posts/in-2007-carpenter-marvin-badilla-filmed-a-classic-flying-saucer-over-tarbaca-cos/1785734309268202/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2007, carpenter Marvin Badilla filmed a classic “flying...Watch the vintage phone footage and decide whether this is a genuine UAP, a...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: #UFO #UAP #  
-   Link: <a href="https://www.facebook.com/thescarecast/videos/in-2007-carpenter-marvin-badilla-filmed-a-classic-flying-saucer-over-tarbaca-cos/3929037934063962/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescarecast/videos/in-2007-carpenter-marvin-badilla-filmed-a-classic-flying-saucer-over-tarbaca-cos/3929037934063962/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2007, carpenter Marvin Badilla filmed a classic “flying...In 2007, carpenter Marvin Badilla filmed a classic “flying saucer” over Tar...</p></details>
+   Link:<a href="https://www.facebook.com/thescarecast/videos/in-2007-carpenter-marvin-badilla-filmed-a-classic-flying-saucer-over-tarbaca-cos/3929037934063962/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thescarecast/videos/in-2007-carpenter-marvin-badilla-filmed-a-classic-flying-saucer-over-tarbaca-cos/3929037934063962/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2007, carpenter Marvin Badilla filmed a classic “flying...In 2007, carpenter Marvin Badilla filmed a classic “flying saucer” over Tar...</p></details>

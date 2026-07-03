@@ -248,14 +248,14 @@ image: /assets/images/Netherlands_Kingdom_d6d70a_soesterberg_air_base_ca18c3-Ill
 
 ## Introduction
 
-The Soesterberg Air Base incident occupies a special place in Dutch UFO history because it combined two elements that usually remain separate: a strategically important Cold War military installation and multiple trained witnesses. According to later witness accounts, a large illuminated object appeared over or near Soesterberg Air Base in the early hours of 3 February 1979, observed by Dutch military personnel responsible for guarding one of NATO's most sensitive sites in the Netherlands. Decades later, the case remains discussed not because it produced conclusive evidence, but because military witnesses continued to defend their observations while sceptics argued that memory, folklore, and later retellings transformed an ordinary event into a national UFO legend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie Magazines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">02 ufos</span><span class="citation-popover-snippet">Bereid gevonden. Uiteindelijk vindt de...Read more...</span></span></span>
+The Soesterberg Air Base incident occupies a special place in Dutch UFO history because it combined two elements that usually remain separate: a strategically important Cold War military installation and multiple trained witnesses. According to later witness accounts, a large illuminated object appeared over or near Soesterberg Air Base in the early hours of 3 February 1979, observed by Dutch military personnel responsible for guarding one of NATO's most sensitive sites in the Netherlands. Decades later, the case remains discussed not because it produced conclusive evidence, but because military witnesses continued to defend their observations while sceptics argued that memory, folklore, and later retellings transformed an ordinary event into a national UFO legend.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie Magazines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">02 ufos</span><span class="citation-popover-snippet">Bereid gevonden. Uiteindelijk vindt de...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Netherlands_Kingdom_d6d70a_soesterberg_air_base_ca18c3-Illustration-1-dark.svg" | relative_url }}" alt="Soesterberg illustration 1" data-theme-src-dark="{{ "/assets/images/Netherlands_Kingdom_d6d70a_soesterberg_air_base_ca18c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Netherlands_Kingdom_d6d70a_soesterberg_air_base_ca18c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike many Dutch UFO reports that emerged from civilian sightings, the Soesterberg story became attached to questions about air-defence readiness, military observation, and the reliability of testimony under unusual conditions. The result is one of the country's most enduring and contested UFO case families. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
+Unlike many Dutch UFO reports that emerged from civilian sightings, the Soesterberg story became attached to questions about air-defence readiness, military observation, and the reliability of testimony under unusual conditions. The result is one of the country's most enduring and contested UFO case families.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
 
 ## What was reported over the base?
 
-In 1979, Soesterberg Air Base was not an obscure airfield. It was a major Cold War military location used by the Royal Netherlands Air Force and closely integrated with NATO operations, while American forces also maintained a substantial presence there through Camp New Amsterdam. The base sat at the centre of Dutch and allied air-defence activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Soesterberg_Air_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Soesterberg Air Base</span><span class="citation-popover-snippet">Soesterberg Air Base</span></span></span>
+In 1979, Soesterberg Air Base was not an obscure airfield. It was a major Cold War military location used by the Royal Netherlands Air Force and closely integrated with NATO operations, while American forces also maintained a substantial presence there through Camp New Amsterdam. The base sat at the centre of Dutch and allied air-defence activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Soesterberg_Air_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Soesterberg Air Base</span><span class="citation-popover-snippet">Soesterberg Air Base</span></span></span>
 
 According to accounts that later emerged through investigators, journalists, and documentary interviews, a group of military personnel on guard duty reported seeing an unusual object above or near the airfield during the night of 3 February 1979. The descriptions vary in detail, but several recurring elements appear repeatedly:
 
@@ -263,17 +263,17 @@ According to accounts that later emerged through investigators, journalists, and
 * Bright lights arranged in a distinctive pattern.
 * Apparently silent or unusually quiet movement.
 * Slow passage over the area followed by rapid departure.
-* Observation by multiple military personnel rather than a lone witness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt27205596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">De UFO&#x27;s van Soesterberg (2023)De UFO&#x27;s van Soesterberg: Directed by Bram Roza. In the early morning of February 3, 1979, a giant bla...</span><span class="citation-popover-meta">Published: February 3, 1979</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
+* Observation by multiple military personnel rather than a lone witness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt27205596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">De UFO&#x27;s van Soesterberg (2023)De UFO&#x27;s van Soesterberg: Directed by Bram Roza. In the early morning of February 3, 1979, a giant bla...</span><span class="citation-popover-meta">Published: February 3, 1979</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
 
-Later reconstructions generally place the number of military witnesses at around twelve. Witnesses interviewed decades afterward described confusion rather than immediate certainty. Some recalled initially assuming they were observing a military aircraft before concluding that the object's behaviour did not fit anything familiar to them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt27205596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">De UFO&#x27;s van Soesterberg (2023)De UFO&#x27;s van Soesterberg: Directed by Bram Roza. In the early morning of February 3, 1979, a giant bla...</span><span class="citation-popover-meta">Published: February 3, 1979</span></span></span>
+Later reconstructions generally place the number of military witnesses at around twelve. Witnesses interviewed decades afterward described confusion rather than immediate certainty. Some recalled initially assuming they were observing a military aircraft before concluding that the object's behaviour did not fit anything familiar to them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt27205596/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">De UFO&#x27;s van Soesterberg (2023)De UFO&#x27;s van Soesterberg: Directed by Bram Roza. In the early morning of February 3, 1979, a giant bla...</span><span class="citation-popover-meta">Published: February 3, 1979</span></span></span>
 
-The incident did not become internationally famous at the time. Unlike some better-known European UFO cases, there was no dramatic fighter scramble, no widely circulated radar data, and no immediate public controversy. Instead, the story survived largely through oral accounts, UFO investigators, and the local culture surrounding the base. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufozaken.nl">[UFO Zaken]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufozaken.nl</span><span class="citation-popover-title">de ufo van soesterberg 1979</span><span class="citation-popover-snippet">UFO ZakenDe ufo van Soesterberg, 1979 - UFO Zaken3 Jan 2018 — Kent u iemand die getuige was van een ufo bij Soesterberg op 3 februari of...</span></span></span>
+The incident did not become internationally famous at the time. Unlike some better-known European UFO cases, there was no dramatic fighter scramble, no widely circulated radar data, and no immediate public controversy. Instead, the story survived largely through oral accounts, UFO investigators, and the local culture surrounding the base.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufozaken.nl">[UFO Zaken]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufozaken.nl</span><span class="citation-popover-title">de ufo van soesterberg 1979</span><span class="citation-popover-snippet">UFO ZakenDe ufo van Soesterberg, 1979 - UFO Zaken3 Jan 2018 — Kent u iemand die getuige was van een ufo bij Soesterberg op 3 februari of...</span></span></span>
 
 ## Why military witnesses changed the stakes
 
 The strongest reason the Soesterberg case remains discussed is not the object's reported shape. It is the status of the witnesses.
 
-Military guards at a Cold War air base were expected to identify aircraft, assess potential threats, and remain alert under difficult conditions. UFO researchers have long argued that testimony from trained observers deserves greater weight than reports from casual skywatchers. In the Soesterberg narrative, this point became central: if military personnel could not identify what they saw above a NATO facility, then the sighting appeared more significant than a typical civilian report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
+Military guards at a Cold War air base were expected to identify aircraft, assess potential threats, and remain alert under difficult conditions. UFO researchers have long argued that testimony from trained observers deserves greater weight than reports from casual skywatchers. In the Soesterberg narrative, this point became central: if military personnel could not identify what they saw above a NATO facility, then the sighting appeared more significant than a typical civilian report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
 
 Supporters of the case point to several features:
 
@@ -281,15 +281,15 @@ Supporters of the case point to several features:
 
 ### Multiple observers rather than a single witness
 
-Many UFO reports collapse under scrutiny because only one person claims to have seen the event. The Soesterberg story involves numerous military personnel whose accounts broadly converged around the presence of an unusual illuminated object. That does not prove accuracy, but it reduces the likelihood of a purely individual misunderstanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
+Many UFO reports collapse under scrutiny because only one person claims to have seen the event. The Soesterberg story involves numerous military personnel whose accounts broadly converged around the presence of an unusual illuminated object. That does not prove accuracy, but it reduces the likelihood of a purely individual misunderstanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
 
 ### A sensitive military environment
 
-The sighting allegedly occurred near a facility that was part of NATO's Cold War infrastructure. Witnesses therefore operated in an environment where aircraft activity was common and where unfamiliar aerial activity attracted attention. This context has often been cited by proponents as a reason to take the reports seriously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Soesterberg_Air_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Soesterberg Air Base</span><span class="citation-popover-snippet">Soesterberg Air Base</span></span></span>
+The sighting allegedly occurred near a facility that was part of NATO's Cold War infrastructure. Witnesses therefore operated in an environment where aircraft activity was common and where unfamiliar aerial activity attracted attention. This context has often been cited by proponents as a reason to take the reports seriously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Soesterberg_Air_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Soesterberg Air Base</span><span class="citation-popover-snippet">Soesterberg Air Base</span></span></span>
 
 ### Long-term consistency
 
-Several witnesses who later appeared in interviews and documentaries maintained that they genuinely saw something they could not explain. Even after decades had passed, they did not retreat to a conventional explanation. Their certainty helped keep the case alive in Dutch UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soesterbergufo.nl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soesterbergufo.nl">[soesterbergufo.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soesterbergufo.nl</span><span class="citation-popover-snippet">Open source on soesterbergufo.nl.</span></span></span>
+Several witnesses who later appeared in interviews and documentaries maintained that they genuinely saw something they could not explain. Even after decades had passed, they did not retreat to a conventional explanation. Their certainty helped keep the case alive in Dutch UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soesterbergufo.nl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soesterbergufo.nl">[soesterbergufo.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soesterbergufo.nl</span><span class="citation-popover-snippet">Open source on soesterbergufo.nl.</span></span></span>
 
 At the same time, witness sincerity and witness accuracy are not the same thing. This distinction became the foundation of later sceptical responses.
 
@@ -298,15 +298,15 @@ At the same time, witness sincerity and witness accuracy are not the same thing.
 
 One reason Soesterberg remained prominent is that it developed into a broader cluster of stories rather than a single isolated sighting.
 
-Researchers and filmmakers investigating the area collected accounts from both military personnel and civilians who reported unusual aerial phenomena near the base during roughly the same period. These additional narratives encouraged the belief that the region around Soesterberg represented a local hotspot rather than the site of a one-night anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie Magazines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">02 ufos</span><span class="citation-popover-snippet">Bereid gevonden. Uiteindelijk vindt de...Read more...</span></span></span>
+Researchers and filmmakers investigating the area collected accounts from both military personnel and civilians who reported unusual aerial phenomena near the base during roughly the same period. These additional narratives encouraged the belief that the region around Soesterberg represented a local hotspot rather than the site of a one-night anomaly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazines.defensie.nl">[Defensie Magazines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazines.defensie.nl</span><span class="citation-popover-title">02 ufos</span><span class="citation-popover-snippet">Bereid gevonden. Uiteindelijk vindt de...Read more...</span></span></span>
 
-The case gained renewed visibility through the documentary *The UFO's of Soesterberg*, directed by Bram Roza. The film revisited witness testimony decades after the event and presented interviews with former military personnel and local residents. Rather than claiming a definitive extraterrestrial explanation, the documentary focused on the persistence of the witnesses' memories and on the unusual concentration of reports associated with the base. soesterbergufo.nl ScreenAnarchy This revival matters because many UFO incidents disappear once immediate media attention fades. Soesterberg instead evolved into a historical <span class="citation-chip-wrap"><a class="citation-chip" href="https://screenanarchy.com/2023/12/the-ufos-of-soesterberg-review-keeping-things-refreshingly-down-to-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: screenanarchy.com">[screenanarchy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">screenanarchy.com</span><span class="citation-popover-snippet">THE UFOS OF SOESTERBERG Review: Keeping Things...2 Dec 2023 — THE UFOS OF SOESTERBERG Review: Keeping Things Refreshingly Real...</span></span></span> case study, connecting Dutch UFO folklore with military history and Cold War memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lantarenvenster.nl/programma/de-ufos-van-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lantarenvenster.nl">[LantarenVenster Rotterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lantarenvenster.nl</span><span class="citation-popover-title">Lantaren Venster Rotterdam De Ufo&#x27;s van Soesterberg</span><span class="citation-popover-snippet">LantarenVenster RotterdamDe Ufo&#x27;s van Soesterberg - RotterdamIn deze documentaire wordt het dossier uitgebreid uit de doeken gedaan en la...</span></span></span>
+The case gained renewed visibility through the documentary *The UFO's of Soesterberg*, directed by Bram Roza. The film revisited witness testimony decades after the event and presented interviews with former military personnel and local residents. Rather than claiming a definitive extraterrestrial explanation, the documentary focused on the persistence of the witnesses' memories and on the unusual concentration of reports associated with the base. soesterbergufo.nl ScreenAnarchy This revival matters because many UFO incidents disappear once immediate media attention fades. Soesterberg instead evolved into a historical<span class="citation-chip-wrap"><a class="citation-chip" href="https://screenanarchy.com/2023/12/the-ufos-of-soesterberg-review-keeping-things-refreshingly-down-to-earth.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: screenanarchy.com">[screenanarchy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">screenanarchy.com</span><span class="citation-popover-snippet">THE UFOS OF SOESTERBERG Review: Keeping Things...2 Dec 2023 — THE UFOS OF SOESTERBERG Review: Keeping Things Refreshingly Real...</span></span></span> case study, connecting Dutch UFO folklore with military history and Cold War memory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lantarenvenster.nl/programma/de-ufos-van-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lantarenvenster.nl">[LantarenVenster Rotterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lantarenvenster.nl</span><span class="citation-popover-title">Lantaren Venster Rotterdam De Ufo&#x27;s van Soesterberg</span><span class="citation-popover-snippet">LantarenVenster RotterdamDe Ufo&#x27;s van Soesterberg - RotterdamIn deze documentaire wordt het dossier uitgebreid uit de doeken gedaan en la...</span></span></span>
 
 ## The problem with the evidence
 
 The central weakness of the Soesterberg case is that the strongest evidence is testimonial.
 
-No publicly available package of military records has emerged that definitively documents the event. There is no widely accepted radar dataset, no authenticated military photographs, and no official Dutch government conclusion identifying an unknown craft. The case therefore depends heavily on recollections gathered years or even decades after the original sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufozaken.nl">[UFO Zaken]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufozaken.nl</span><span class="citation-popover-title">de ufo van soesterberg 1979</span><span class="citation-popover-snippet">UFO ZakenDe ufo van Soesterberg, 1979 - UFO Zaken3 Jan 2018 — Kent u iemand die getuige was van een ufo bij Soesterberg op 3 februari of...</span></span></span>
+No publicly available package of military records has emerged that definitively documents the event. There is no widely accepted radar dataset, no authenticated military photographs, and no official Dutch government conclusion identifying an unknown craft. The case therefore depends heavily on recollections gathered years or even decades after the original sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufozaken.nl">[UFO Zaken]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufozaken.nl</span><span class="citation-popover-title">de ufo van soesterberg 1979</span><span class="citation-popover-snippet">UFO ZakenDe ufo van Soesterberg, 1979 - UFO Zaken3 Jan 2018 — Kent u iemand die getuige was van een ufo bij Soesterberg op 3 februari of...</span></span></span>
 
 That creates several difficulties.
 
@@ -314,7 +314,7 @@ First, memory changes over time. Researchers studying witness testimony have rep
 
 Second, witnesses influence one another. In a multi-witness event, later discussions can gradually align memories that were originally less consistent.
 
-Third, later cultural imagery can affect how unusual experiences are described. By the time many Soesterberg accounts were recorded in depth, the black triangle UFO had become a familiar motif in international UFO culture. That raises the possibility that modern descriptions partly reflect later interpretation rather than purely original observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">ufo soesterberg</span><span class="citation-popover-snippet">Stichting SkepsisWat de ooggetuigen zich herinnerenZo ziet getuige Josie Zwinenberg in 1979 een ufo boven de bomen op de Leusderheide ter...</span></span></span>
+Third, later cultural imagery can affect how unusual experiences are described. By the time many Soesterberg accounts were recorded in depth, the black triangle UFO had become a familiar motif in international UFO culture. That raises the possibility that modern descriptions partly reflect later interpretation rather than purely original observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">ufo soesterberg</span><span class="citation-popover-snippet">Stichting SkepsisWat de ooggetuigen zich herinnerenZo ziet getuige Josie Zwinenberg in 1979 een ufo boven de bomen op de Leusderheide ter...</span></span></span>
 
 These limitations do not prove the witnesses were mistaken. They do, however, explain why the case remains unresolved rather than accepted as evidence of an extraordinary craft.
 
@@ -324,7 +324,7 @@ These limitations do not prove the witnesses were mistaken. They do, however, ex
 
 Dutch sceptical commentators have generally approached Soesterberg as an example of how a genuine experience can become a powerful narrative without necessarily involving an unknown technology.
 
-One of the most detailed sceptical discussions comes from Stichting Skepsis, which has argued that witness memories may have been shaped by cultural influences and retrospective reconstruction. In one example discussed by Skepsis, a witness's description was compared with imagery familiar from *Close Encounters of the Third Kind*, which was widely known during the period. The suggestion is not that witnesses invented their stories, but that memory and popular culture can interact in subtle ways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">ufo soesterberg</span><span class="citation-popover-snippet">Stichting SkepsisWat de ooggetuigen zich herinnerenZo ziet getuige Josie Zwinenberg in 1979 een ufo boven de bomen op de Leusderheide ter...</span></span></span>
+One of the most detailed sceptical discussions comes from Stichting Skepsis, which has argued that witness memories may have been shaped by cultural influences and retrospective reconstruction. In one example discussed by Skepsis, a witness's description was compared with imagery familiar from *Close Encounters of the Third Kind*, which was widely known during the period. The suggestion is not that witnesses invented their stories, but that memory and popular culture can interact in subtle ways.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">ufo soesterberg</span><span class="citation-popover-snippet">Stichting SkepsisWat de ooggetuigen zich herinnerenZo ziet getuige Josie Zwinenberg in 1979 een ufo boven de bomen op de Leusderheide ter...</span></span></span>
 
 Other sceptical possibilities include:
 
@@ -333,214 +333,214 @@ Other sceptical possibilities include:
 * Misidentified aircraft operating in or near a military zone.
 * Perceptual errors caused by darkness and limited visual reference points.
 * Multiple ordinary lights being interpreted as a single structured object.
-* The gradual merging of several separate events into one stronger narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">ufo soesterberg</span><span class="citation-popover-snippet">Stichting SkepsisWat de ooggetuigen zich herinnerenZo ziet getuige Josie Zwinenberg in 1979 een ufo boven de bomen op de Leusderheide ter...</span></span></span>
+* The gradual merging of several separate events into one stronger narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepsis.nl/ufo-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepsis.nl">[Stichting Skepsis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepsis.nl</span><span class="citation-popover-title">ufo soesterberg</span><span class="citation-popover-snippet">Stichting SkepsisWat de ooggetuigen zich herinnerenZo ziet getuige Josie Zwinenberg in 1979 een ufo boven de bomen op de Leusderheide ter...</span></span></span>
 
 </div>
 
-Yet sceptics face their own problem. The military witnesses were not casual observers, and no single conventional explanation has achieved broad acceptance among either researchers or participants. The absence of a definitive solution leaves room for continued debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
+Yet sceptics face their own problem. The military witnesses were not casual observers, and no single conventional explanation has achieved broad acceptance among either researchers or participants. The absence of a definitive solution leaves room for continued debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
 
 <img src="{{ "/assets/images/Netherlands_Kingdom_d6d70a_soesterberg_air_base_ca18c3-Illustration-3-dark.svg" | relative_url }}" alt="Soesterberg illustration 3" data-theme-src-dark="{{ "/assets/images/Netherlands_Kingdom_d6d70a_soesterberg_air_base_ca18c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Netherlands_Kingdom_d6d70a_soesterberg_air_base_ca18c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Soesterberg still matters in Dutch UFO history
 
 The Soesterberg incident remains important less because of what can be proven and more because of what it represents.
 
-Within the Netherlands, it sits at the intersection of three recurring themes: military observation, Cold War anxiety, and the persistence of unexplained testimony. Unlike many later Dutch UFO reports linked to satellites, drones, or social-media amplification, the Soesterberg story emerged from a period when the skies above military installations were viewed through the lens of Soviet threats, NATO readiness, and constant aerial vigilance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Soesterberg_Air_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Soesterberg Air Base</span><span class="citation-popover-snippet">Soesterberg Air Base</span></span></span>
+Within the Netherlands, it sits at the intersection of three recurring themes: military observation, Cold War anxiety, and the persistence of unexplained testimony. Unlike many later Dutch UFO reports linked to satellites, drones, or social-media amplification, the Soesterberg story emerged from a period when the skies above military installations were viewed through the lens of Soviet threats, NATO readiness, and constant aerial vigilance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Soesterberg_Air_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Soesterberg Air Base</span><span class="citation-popover-snippet">Soesterberg Air Base</span></span></span>
 
-The case also highlights a broader pattern visible across Dutch UFO history. Some reports can be explained quickly, some are clearly misidentifications, and a small number remain unresolved because the available evidence is too limited for a confident conclusion. Soesterberg belongs to this final category. The witnesses remain convinced they observed something extraordinary, while critics argue that extraordinary certainty is not the same as extraordinary proof. Stichting Skepsis <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufozaken.nl">[UFO Zaken]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufozaken.nl</span><span class="citation-popover-title">de ufo van soesterberg 1979</span><span class="citation-popover-snippet">UFO ZakenDe ufo van Soesterberg, 1979 - UFO Zaken3 Jan 2018 — Kent u iemand die getuige was van een ufo bij Soesterberg op 3 februari of...</span></span></span>
+The case also highlights a broader pattern visible across Dutch UFO history. Some reports can be explained quickly, some are clearly misidentifications, and a small number remain unresolved because the available evidence is too limited for a confident conclusion. Soesterberg belongs to this final category. The witnesses remain convinced they observed something extraordinary, while critics argue that extraordinary certainty is not the same as extraordinary proof. Stichting Skepsis<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufozaken.nl">[UFO Zaken]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufozaken.nl</span><span class="citation-popover-title">de ufo van soesterberg 1979</span><span class="citation-popover-snippet">UFO ZakenDe ufo van Soesterberg, 1979 - UFO Zaken3 Jan 2018 — Kent u iemand die getuige was van een ufo bij Soesterberg op 3 februari of...</span></span></span>
 
-More than four decades after the reported sighting, that tension is exactly why the story continues to attract attention. It is not the strongest evidential UFO case in Europe, but within the Dutch context it remains one of the clearest examples of how military testimony can keep an unexplained event alive long after the original night has passed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
+More than four decades after the reported sighting, that tension is exactly why the story continues to attract attention. It is not the strongest evidential UFO case in Europe, but within the Dutch context it remains one of the clearest examples of how military testimony can keep an unexplained event alive long after the original night has passed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vera-groningen.nl">[Vera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vera-groningen.nl</span><span class="citation-popover-title">the ufos of soesterberg</span><span class="citation-popover-snippet">VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6yW__jmrx7o" title="1979 🇳🇱 #UFOB [CASE] Triangle hovered above nuclear bunker at Soesterberg AFB the Netherlands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6yW__jmrx7o" target="_blank" rel="noopener noreferrer">1979 🇳🇱 #UFOB [CASE] Triangle hovered above nuclear bunker at Soesterberg AFB the Netherlands</a></p><p class="youtube-embed-meta">Channel: UFOB | Your UAP Library &middot; Views: 935 &middot; Uploaded: August 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6yW__jmrx7o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6yW__jmrx7o">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Dutch Air Base Case That Would Not Fade. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Dutch Air Base Case That Would Not Fade. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly relevant to cases involving trained personnel and official observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to cases involving trained personnel and official observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores military sightings and unresolved defense-related incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military sightings and unresolved defense-related incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Adds military and aviation context relevant to air-base UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds military and aviation context relevant to air-base UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating witness reliability and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating witness reliability and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-dutch-air-base-case-that-would-not-fade-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-dutch-air-base-case-that-would-not-fade-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ More than four decades after the reported sighting, that tension is exactly why 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ More than four decades after the reported sighting, that tension is exactly why 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ More than four decades after the reported sighting, that tension is exactly why 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ More than four decades after the reported sighting, that tension is exactly why 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ More than four decades after the reported sighting, that tension is exactly why 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,131 +743,130 @@ More than four decades after the reported sighting, that tension is exactly why 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: magazines.defensie.nl  
    Title: 02 ufos  
-   Link: <a href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow">https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bereid gevonden. Uiteindelijk vindt de...Read more...</p></details>
+   Link:<a href="https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos" target="_blank" rel="noopener noreferrer nofollow">https://magazines.defensie.nl/defensiekrant/2024/04/02_ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bereid gevonden. Uiteindelijk vindt de...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Soesterberg Air Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Soesterberg_Air_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Soesterberg_Air_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Soesterberg_Air_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Soesterberg_Air_Base</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt27205596/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt27205596/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>De UFO&#x27;s van Soesterberg (2023)De UFO&#x27;s van Soesterberg: Directed by Bram Roza. In the early morning of February 3, 1979, a giant bla...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt27205596/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt27205596/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>De UFO&#x27;s van Soesterberg (2023)De UFO&#x27;s van Soesterberg: Directed by Bram Roza. In the early morning of February 3, 1979, a giant bla...</p></details>
    Published: February 3, 1979  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: soesterbergufo.nl  
-   Link: <a href="https://www.soesterbergufo.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.soesterbergufo.nl/</a>  
+   Link:<a href="https://www.soesterbergufo.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.soesterbergufo.nl/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: soesterbergufo.nl  
-   Link: <a href="https://www.soesterbergufo.nl/Synopsis" target="_blank" rel="noopener noreferrer nofollow">https://www.soesterbergufo.nl/Synopsis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SynopsisAnd during my search I came across three other fantastic UFO sightings. All on military soil and all within 2 miles of the Soeste...</p></details>
+   Link:<a href="https://www.soesterbergufo.nl/Synopsis" target="_blank" rel="noopener noreferrer nofollow">https://www.soesterbergufo.nl/Synopsis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SynopsisAnd during my search I came across three other fantastic UFO sightings. All on military soil and all within 2 miles of the Soeste...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: screenanarchy.com  
-   Link: <a href="https://screenanarchy.com/2023/12/the-ufos-of-soesterberg-review-keeping-things-refreshingly-down-to-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://screenanarchy.com/2023/12/the-ufos-of-soesterberg-review-keeping-things-refreshingly-down-to-earth.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFOS OF SOESTERBERG Review: Keeping Things...2 Dec 2023 — THE UFOS OF SOESTERBERG Review: Keeping Things Refreshingly Real...</p></details>
+   Link:<a href="https://screenanarchy.com/2023/12/the-ufos-of-soesterberg-review-keeping-things-refreshingly-down-to-earth.html" target="_blank" rel="noopener noreferrer nofollow">https://screenanarchy.com/2023/12/the-ufos-of-soesterberg-review-keeping-things-refreshingly-down-to-earth.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFOS OF SOESTERBERG Review: Keeping Things...2 Dec 2023 — THE UFOS OF SOESTERBERG Review: Keeping Things Refreshingly Real...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lantarenvenster.nl  
    Title: Lantaren Venster Rotterdam De Ufo's van Soesterberg  
-   Link: <a href="https://www.lantarenvenster.nl/programma/de-ufos-van-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.lantarenvenster.nl/programma/de-ufos-van-soesterberg/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LantarenVenster RotterdamDe Ufo&#x27;s van Soesterberg - RotterdamIn deze documentaire wordt het dossier uitgebreid uit de doeken gedaan en la...</p></details>
+   Link:<a href="https://www.lantarenvenster.nl/programma/de-ufos-van-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.lantarenvenster.nl/programma/de-ufos-van-soesterberg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LantarenVenster RotterdamDe Ufo&#x27;s van Soesterberg - RotterdamIn deze documentaire wordt het dossier uitgebreid uit de doeken gedaan en la...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skepsis.nl  
    Title: ufo soesterberg  
-   Link: <a href="https://skepsis.nl/ufo-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/ufo-soesterberg/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stichting SkepsisWat de ooggetuigen zich herinnerenZo ziet getuige Josie Zwinenberg in 1979 een ufo boven de bomen op de Leusderheide ter...</p></details>
+   Link:<a href="https://skepsis.nl/ufo-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://skepsis.nl/ufo-soesterberg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stichting SkepsisWat de ooggetuigen zich herinnerenZo ziet getuige Josie Zwinenberg in 1979 een ufo boven de bomen op de Leusderheide ter...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vera-groningen.nl  
    Title: the ufos of soesterberg  
-   Link: <a href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</p></details>
+   Link:<a href="https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.vera-groningen.nl/events/the-ufos-of-soesterberg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VeraThe UFO&#x27;s of Soesterberg13 Feb 2024 — The event still remains unexplained. &#x27;The UFO of Soesterberg&#x27; can easily be called the Netherla...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufozaken.nl  
    Title: de ufo van soesterberg 1979  
-   Link: <a href="https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979" target="_blank" rel="noopener noreferrer nofollow">https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ZakenDe ufo van Soesterberg, 1979 - UFO Zaken3 Jan 2018 — Kent u iemand die getuige was van een ufo bij Soesterberg op 3 februari of...</p></details>
+   Link:<a href="https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979" target="_blank" rel="noopener noreferrer nofollow">https://www.ufozaken.nl/cases/de-ufo-van-soesterberg-1979</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ZakenDe ufo van Soesterberg, 1979 - UFO Zaken3 Jan 2018 — Kent u iemand die getuige was van een ufo bij Soesterberg op 3 februari of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencefictionfestival.org  
    Title: the ufos of soesterberg  
-   Link: <a href="https://www.sciencefictionfestival.org/eventi/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefictionfestival.org/eventi/the-ufos-of-soesterberg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trieste Science+Fiction FestivalThe UFO&#x27;s of Soesterberg15 Oct 2023 — In the early morning of February 3, 1979, a mysterious object flew...</p></details>
+   Link:<a href="https://www.sciencefictionfestival.org/eventi/the-ufos-of-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefictionfestival.org/eventi/the-ufos-of-soesterberg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trieste Science+Fiction FestivalThe UFO&#x27;s of Soesterberg15 Oct 2023 — In the early morning of February 3, 1979, a mysterious object flew...</p></details>
    Published: February 3, 1979  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bloody-flicks.co.uk  
    Title: the ufos of soesterberg review  
-   Link: <a href="https://bloody-flicks.co.uk/2024/06/23/the-ufos-of-soesterberg-review/" target="_blank" rel="noopener noreferrer nofollow">https://bloody-flicks.co.uk/2024/06/23/the-ufos-of-soesterberg-review/</a>  
+   Link:<a href="https://bloody-flicks.co.uk/2024/06/23/the-ufos-of-soesterberg-review/" target="_blank" rel="noopener noreferrer nofollow">https://bloody-flicks.co.uk/2024/06/23/the-ufos-of-soesterberg-review/</a>  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1djbvxd/black_triangle_at_soesterberg_military_base/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1djbvxd/black_triangle_at_soesterberg_military_base/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Black Triangle at Soesterberg Military Base, Netherlands...CNN Covers the hellfire missile bouncing off UFO video. &quot;Military witnesses w...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1djbvxd/black_triangle_at_soesterberg_military_base/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1djbvxd/black_triangle_at_soesterberg_military_base/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black Triangle at Soesterberg Military Base, Netherlands...CNN Covers the hellfire missile bouncing off UFO video. &quot;Military witnesses w...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1jgs8fa/worlds_first_passive_radar_signal_confirms_visual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1jgs8fa/worlds_first_passive_radar_signal_confirms_visual/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 20, 2024, at 5:34 a.m. CEST, a UAP sighting occurred in...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1jgs8fa/worlds_first_passive_radar_signal_confirms_visual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1jgs8fa/worlds_first_passive_radar_signal_confirms_visual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 20, 2024, at 5:34 a.m. CEST, a UAP sighting occurred in...Read more...</p></details>
    Published: September 20, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sharingful.com  
    Title: At least twelve soldiers witnessed this bizarre  
-   Link: <a href="https://www.sharingful.com/uk/catalog/movie/1210094-the-ufos-of-soesterberg" target="_blank" rel="noopener noreferrer nofollow">https://www.sharingful.com/uk/catalog/movie/1210094-the-ufos-of-soesterberg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where to watch The UFO&#x27;s of Soesterberg and share...In the early morning of February 3, 1979, a giant black triangular object flew over...</p></details>
+   Link:<a href="https://www.sharingful.com/uk/catalog/movie/1210094-the-ufos-of-soesterberg" target="_blank" rel="noopener noreferrer nofollow">https://www.sharingful.com/uk/catalog/movie/1210094-the-ufos-of-soesterberg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where to watch The UFO&#x27;s of Soesterberg and share...In the early morning of February 3, 1979, a giant black triangular object flew over...</p></details>
    Published: February 3, 1979  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nmm.nl  
    Title: de ufos landen nog een keer op soesterberg  
-   Link: <a href="https://www.nmm.nl/nl/nieuws/de-ufos-landen-nog-een-keer-op-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nmm.nl/nl/nieuws/de-ufos-landen-nog-een-keer-op-soesterberg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nationaal Militair MuseumDe UFO&#x27;s landen nog één keer op SoesterbergIn de vroege ochtend van 3 februari 1979, midden in de Koude Oorlog...</p></details>
+   Link:<a href="https://www.nmm.nl/nl/nieuws/de-ufos-landen-nog-een-keer-op-soesterberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nmm.nl/nl/nieuws/de-ufos-landen-nog-een-keer-op-soesterberg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nationaal Militair MuseumDe UFO&#x27;s landen nog één keer op SoesterbergIn de vroege ochtend van 3 februari 1979, midden in de Koude Oorlog...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/gb/movie/the-ufos-of-soesterberg/umc.cmc.3qtvz6b316a4wk19lv4acsb1j" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/movie/the-ufos-of-soesterberg/umc.cmc.3qtvz6b316a4wk19lv4acsb1j</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs of SoesterbergTrailers · The UFO&#x27;s of Soesterberg. Documentary · Related... The Alien Perspective: Part II. Secret Space UFOs: Rise...</p></details>
+   Link:<a href="https://tv.apple.com/gb/movie/the-ufos-of-soesterberg/umc.cmc.3qtvz6b316a4wk19lv4acsb1j" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/movie/the-ufos-of-soesterberg/umc.cmc.3qtvz6b316a4wk19lv4acsb1j</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs of SoesterbergTrailers · The UFO&#x27;s of Soesterberg. Documentary · Related... The Alien Perspective: Part II. Secret Space UFOs: Rise...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ufoinsight.com  
    Title: UFO Insight Lights Over The Base!  
-   Link: <a href="https://www.ufoinsight.com/ufos/sightings/the-1979-soesterberg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/the-1979-soesterberg-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1979 Soesterberg UFO Incident27 Dec 2023 — Ultimately, the UFO incident over Soesterberg Air Force Base... UFO And Alien Encounters...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/sightings/the-1979-soesterberg-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/the-1979-soesterberg-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1979 Soesterberg UFO Incident27 Dec 2023 — Ultimately, the UFO incident over Soesterberg Air Force Base... UFO And Alien Encounters...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: historiek.net  
    Title: ufo soesterberg documentaire nmm  
-   Link: <a href="https://historiek.net/ufo-soesterberg-documentaire-nmm/178106/" target="_blank" rel="noopener noreferrer nofollow">https://historiek.net/ufo-soesterberg-documentaire-nmm/178106/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s landen nog één keer op Soesterberg21 Oct 2025 — Het incident, dat zich afspeelde midden in de Koude Oorlog, groeide uit tot een van...</p></details>
+   Link:<a href="https://historiek.net/ufo-soesterberg-documentaire-nmm/178106/" target="_blank" rel="noopener noreferrer nofollow">https://historiek.net/ufo-soesterberg-documentaire-nmm/178106/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s landen nog één keer op Soesterberg21 Oct 2025 — Het incident, dat zich afspeelde midden in de Koude Oorlog, groeide uit tot een van...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Luis Elizondo on Soesterberg Airbase UFO incident  
-   Link: <a href="http://www.youtube.com/watch?v=lwzALcbTRdc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lwzALcbTRdc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Soesterberg UFO military witness claims Netherlands Military Silence Broken | Alien Documentary | The UFOs In Dutch Skies THE STREAM - Mo...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=lwzALcbTRdc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lwzALcbTRdc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soesterberg UFO military witness claims Netherlands Military Silence Broken | Alien Documentary | The UFOs In Dutch Skies THE STREAM - Mo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: primevideo.com  
-   Link: <a href="https://www.primevideo.com/-/fr/detail/The-UFOs-of-Soesterberg/0KZKW1NOB15CJHVZKJMEX1C9LC" target="_blank" rel="noopener noreferrer nofollow">https://www.primevideo.com/-/fr/detail/The-UFOs-of-Soesterberg/0KZKW1NOB15CJHVZKJMEX1C9LC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO&#x27;s of SoesterbergLe 3 février 1979, un objet mystérieux a survolé la base aérienne de Soesterberg, observé par au moins douze sold...</p></details>
+   Link:<a href="https://www.primevideo.com/-/fr/detail/The-UFOs-of-Soesterberg/0KZKW1NOB15CJHVZKJMEX1C9LC" target="_blank" rel="noopener noreferrer nofollow">https://www.primevideo.com/-/fr/detail/The-UFOs-of-Soesterberg/0KZKW1NOB15CJHVZKJMEX1C9LC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO&#x27;s of SoesterbergLe 3 février 1979, un objet mystérieux a survolé la base aérienne de Soesterberg, observé par au moins douze sold...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WWos6l-X9T0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WWos6l-X9T0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witness S1 E1, E3, E5, E7 | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WWos6l-X9T0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WWos6l-X9T0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Witness S1 E1, E3, E5, E7 | Discovery Channel...</p></details>

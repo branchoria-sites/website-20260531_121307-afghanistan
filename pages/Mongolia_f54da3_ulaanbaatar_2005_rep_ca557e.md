@@ -319,194 +319,194 @@ This makes the **Ulaanbaatar 2005 case** the most detailed and multi‑witness e
 <img src="{{ "/assets/images/Mongolia_f54da3_ulaanbaatar_2005_rep_ca557e-Illustration-3-dark.svg" | relative_url }}" alt="Ulaanbaatar 2005 illustration 3" data-theme-src-dark="{{ "/assets/images/Mongolia_f54da3_ulaanbaatar_2005_rep_ca557e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mongolia_f54da3_ulaanbaatar_2005_rep_ca557e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happened Over Ulaanbaatar in 2005?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happened Over Ulaanbaatar in 2005?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page centered on evaluating a specific reported sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page centered on evaluating a specific reported sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains witness reports, classification, and evidence limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains witness reports, classification, and evidence limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides context for modern UFO cases and investigation claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for modern UFO cases and investigation claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful for understanding how isolated reports are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how isolated reports are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-happened-over-ulaanbaatar-in-2005-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-happened-over-ulaanbaatar-in-2005-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -522,7 +522,7 @@ This makes the **Ulaanbaatar 2005 case** the most detailed and multi‑witness e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -542,7 +542,7 @@ This makes the **Ulaanbaatar 2005 case** the most detailed and multi‑witness e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -574,7 +574,7 @@ This makes the **Ulaanbaatar 2005 case** the most detailed and multi‑witness e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -626,7 +626,7 @@ This makes the **Ulaanbaatar 2005 case** the most detailed and multi‑witness e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -671,7 +671,7 @@ This makes the **Ulaanbaatar 2005 case** the most detailed and multi‑witness e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -709,155 +709,154 @@ This makes the **Ulaanbaatar 2005 case** the most detailed and multi‑witness e
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=46662" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46662</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 46662October 11, 2005...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=46662" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46662</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 46662October 11, 2005...</p></details>
    Published: October 11, 2005  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Ulaanbaatar (Outer Mongolia) on Friday 30 September 2005  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/51439b8c0ad2e1e9be452f21/UFO%20Sighting%20in%20Ulaanbaatar%20%28Outer%20Mongolia%29%20on%20Friday%2030%20September%202005" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/51439b8c0ad2e1e9be452f21/UFO%20Sighting%20in%20Ulaanbaatar%20%28Outer%20Mongolia%29%20on%20Friday%2030%20September%202005</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Ulaanbaatar (Outer Mongolia) on Friday 30 September 2005 - UFO HuntersOctober 1, 2005...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/51439b8c0ad2e1e9be452f21/UFO%20Sighting%20in%20Ulaanbaatar%20%28Outer%20Mongolia%29%20on%20Friday%2030%20September%202005" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/51439b8c0ad2e1e9be452f21/UFO%20Sighting%20in%20Ulaanbaatar%20%28Outer%20Mongolia%29%20on%20Friday%2030%20September%202005</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Ulaanbaatar (Outer Mongolia) on Friday 30 September 2005 - UFO HuntersOctober 1, 2005...</p></details>
    Published: September 2005  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufo-hunters.com  
    Title: and growing GORKHI-TERELJ, ULAANBAATAR (MONGOLIA) Sighted on Monday 25  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/5e92f2f098d717765610acc3/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5e92f2f098d717765610acc3/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting in Gorkhi-Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018 - UFO HuntersDecember 24, 2018 — UFO Sighting in Gorkhi-Tere...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/5e92f2f098d717765610acc3/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5e92f2f098d717765610acc3/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting in Gorkhi-Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018 - UFO HuntersDecember 24, 2018 — UFO Sighting in Gorkhi-Tere...</p></details>
    Published: December 24, 2018  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufo-hunters.com  
    Title: and growing GORKHI-TERELJ, ULAANBAATAR (MONGOLIA) Sighted on Monday 25  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/5c54a24c9d2e4cd486334e70/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5c54a24c9d2e4cd486334e70/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting in Gorkhi-Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018 - UFO HuntersDecember 24, 2018 — UFO Sighting in Gorkhi-Tere...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/5c54a24c9d2e4cd486334e70/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5c54a24c9d2e4cd486334e70/UFO%20Sighting%20in%20Gorkhi-Terelj%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Monday%2025%20June%202018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting in Gorkhi-Terelj, Ulaanbaatar (Mongolia) on Monday 25 June 2018 - UFO HuntersDecember 24, 2018 — UFO Sighting in Gorkhi-Tere...</p></details>
    Published: December 24, 2018  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Ulaanbaatar (Mongolia) on Sunday 28 May 2017  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/598b065c6157470007000001/UFO%20Sighting%20in%20Ulaanbaatar%20%28Mongolia%29%20on%20Sunday%2028%20May%202017" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/598b065c6157470007000001/UFO%20Sighting%20in%20Ulaanbaatar%20%28Mongolia%29%20on%20Sunday%2028%20May%202017</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersAugust 9, 2017 — UFO Sighting in Ulaanbaatar (Mongolia) on Sunday 28 May 2017 - UFO Hunters - ULAANBAATAR (MONGOLIA) Sighted o...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/598b065c6157470007000001/UFO%20Sighting%20in%20Ulaanbaatar%20%28Mongolia%29%20on%20Sunday%2028%20May%202017" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/598b065c6157470007000001/UFO%20Sighting%20in%20Ulaanbaatar%20%28Mongolia%29%20on%20Sunday%2028%20May%202017</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersAugust 9, 2017 — UFO Sighting in Ulaanbaatar (Mongolia) on Sunday 28 May 2017 - UFO Hunters - ULAANBAATAR (MONGOLIA) Sighted o...</p></details>
    Published: May 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Thursday 31 May 2012  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/5192aaab83c78d384ec2577c/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Thursday%2031%20May%202012" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5192aaab83c78d384ec2577c/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Thursday%2031%20May%202012</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersAugust 17, 2012 — UFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Thursday 31 May 2012 - UFO Hunters - ULAANBAATAR, ULA...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/5192aaab83c78d384ec2577c/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Thursday%2031%20May%202012" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5192aaab83c78d384ec2577c/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Thursday%2031%20May%202012</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersAugust 17, 2012 — UFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Thursday 31 May 2012 - UFO Hunters - ULAANBAATAR, ULA...</p></details>
    Published: May 2012  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Friday 19 February 2010  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/5194009d83c78d384ec29fa6/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Friday%2019%20February%202010" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5194009d83c78d384ec29fa6/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Friday%2019%20February%202010</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersFebruary 23, 2010 — UFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Friday 19 February 2010 - UFO Hunters - ULAANBAATAR...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/5194009d83c78d384ec29fa6/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Friday%2019%20February%202010" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/5194009d83c78d384ec29fa6/UFO%20Sighting%20in%20Ulaanbaatar%2C%20Ulaanbaatar%20%28Mongolia%29%20on%20Friday%2019%20February%202010</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersFebruary 23, 2010 — UFO Sighting in Ulaanbaatar, Ulaanbaatar (Mongolia) on Friday 19 February 2010 - UFO Hunters - ULAANBAATAR...</p></details>
    Published: February 2010  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=46645" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46645</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 46645October 11, 2005 — NUFORC UFO SIGHTING 46645 Occurred: 2005-09-30 20:20 Local Reported: 2005-09-30 21:22 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=46645" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46645</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 46645October 11, 2005 — NUFORC UFO SIGHTING 46645 Occurred: 2005-09-30 20:20 Local Reported: 2005-09-30 21:22 Pacific...</p></details>
    Published: September 30, 2005  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=46281" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46281</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 46281October 11, 2005 — NUFORC UFO SIGHTING 46281 Occurred: 2005-09-15 19:00 Local Reported: 2005-09-15 09:54 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=46281" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46281</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 46281October 11, 2005 — NUFORC UFO SIGHTING 46281 Occurred: 2005-09-15 19:00 Local Reported: 2005-09-15 09:54 Pacific...</p></details>
    Published: September 15, 2005  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufo-hunters.com  
    Title: UF O Sightings map in Mongolia  
-   Link: <a href="https://www.ufo-hunters.com/sightings/country/MNG/Mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/MNG/Mongolia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and growing LATEST SIGHTINGS IN MONGOLIA LATEST UFO SIGHTINGS IN MONGOLIA: Location | Sighted on | Shape | Durati...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/country/MNG/Mongolia" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/MNG/Mongolia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and growing LATEST SIGHTINGS IN MONGOLIA LATEST UFO SIGHTINGS IN MONGOLIA: Location | Sighted on | Shape | Durati...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — 11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in the sky? Consider the following possibiliti...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — 11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in the sky? Consider the following possibiliti...</p></details>
    Published: May 11, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thephenomenon.app  
    Title: The Phenomenon | Bangladesh  
-   Link: <a href="https://thephenomenon.app/bangladesh/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/bangladesh/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>((NUFORC Note: Possible satellite?? PD)) Dhaka (Bangladesh), Bangladesh Light [Button: View Details] NUFORC_46281 NUFORC UFO Sighti...</p></details>
+   Link:<a href="https://thephenomenon.app/bangladesh/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/bangladesh/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>((NUFORC Note: Possible satellite?? PD)) Dhaka (Bangladesh), Bangladesh Light [Button: View Details] NUFORC_46281 NUFORC UFO Sighti...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/around-the-world-in-80-ways-exploring-our-planet-through-maps-and-data-3031024397-9783031024399.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/around-the-world-in-80-ways-exploring-our-planet-through-maps-and-data-3031024397-9783031024399.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC (n.d.) points to a vast database of UFO sightings. For details of the sighting that initiated the &#x27;ﬂying saucer&#x27; craze, see Arnold...</p></details>
+   Link:<a href="https://dokumen.pub/around-the-world-in-80-ways-exploring-our-planet-through-maps-and-data-3031024397-9783031024399.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/around-the-world-in-80-ways-exploring-our-planet-through-maps-and-data-3031024397-9783031024399.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC (n.d.) points to a vast database of UFO sightings. For details of the sighting that initiated the &#x27;ﬂying saucer&#x27; craze, see Arnold...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tarrdaniel.com  
-   Link: <a href="https://www.tarrdaniel.com/documents/Ufology/space_balls.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrdaniel.com/documents/Ufology/space_balls.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Ufology - Space Balls&gt; &gt; ### The Guatemala Space Ball &gt; &gt; April 2003: ATLAS ROCKET DEBRIS On April 27, 2003 at 1535UT several piece...</p></details>
+   Link:<a href="https://www.tarrdaniel.com/documents/Ufology/space_balls.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrdaniel.com/documents/Ufology/space_balls.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Ufology - Space Balls&gt; &gt; ### The Guatemala Space Ball &gt; &gt; April 2003: ATLAS ROCKET DEBRIS On April 27, 2003 at 1535UT several piece...</p></details>
    Published: April 27, 2003  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/260926840_Lithosphere_rheology_and_active_tectonics_in_Mongolia_Relations_between_earthquake_source_parameters_gravity_and_GPS_measurements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260926840_Lithosphere_rheology_and_active_tectonics_in_Mongolia_Relations_between_earthquake_source_parameters_gravity_and_GPS_measurements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 1, 2005 — LITHOSPHERE RHEOLOGY AND ACTIVE TECTONICS IN MONGOLIA: RELATIONS BETWEEN EARTHQUAKE SOURCE PARAMETERS, GRAVITY AND GPS...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/260926840_Lithosphere_rheology_and_active_tectonics_in_Mongolia_Relations_between_earthquake_source_parameters_gravity_and_GPS_measurements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260926840_Lithosphere_rheology_and_active_tectonics_in_Mongolia_Relations_between_earthquake_source_parameters_gravity_and_GPS_measurements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 1, 2005 — LITHOSPHERE RHEOLOGY AND ACTIVE TECTONICS IN MONGOLIA: RELATIONS BETWEEN EARTHQUAKE SOURCE PARAMETERS, GRAVITY AND GPS...</p></details>
    Published: December 1, 2005  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/mongolia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/mongolia-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/mongolia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/mongolia-ufo-sightings.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/videos/pentagon-released-ufo-footage-from-2005-continues-fueling-global-debate-after-a-/3044307925958613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/videos/pentagon-released-ufo-footage-from-2005-continues-fueling-global-debate-after-a-/3044307925958613/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon-released UFO footage from 2005 continues...Pentagon-released UFO footage from 2005 continues fueling global debate after a stra...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/videos/pentagon-released-ufo-footage-from-2005-continues-fueling-global-debate-after-a-/3044307925958613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/videos/pentagon-released-ufo-footage-from-2005-continues-fueling-global-debate-after-a-/3044307925958613/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon-released UFO footage from 2005 continues...Pentagon-released UFO footage from 2005 continues fueling global debate after a stra...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: isgp-studies.com  
    Title: 2005 12 19 mosnews ufo sightings in russia wrap up  
-   Link: <a href="https://www.isgp-studies.com/misc/UFOs/press-reports/2005-12-19-mosnews-ufo-sightings-in-russia-wrap-up" target="_blank" rel="noopener noreferrer nofollow">https://www.isgp-studies.com/misc/UFOs/press-reports/2005-12-19-mosnews-ufo-sightings-in-russia-wrap-up</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Russia — Wrap up for 2005 | MosNewsDecember 19, 2005 — UFO SIGHTINGS IN RUSSIA — WRAP UP FOR 2005 ISGP section: UFO pres...</p></details>
+   Link:<a href="https://www.isgp-studies.com/misc/UFOs/press-reports/2005-12-19-mosnews-ufo-sightings-in-russia-wrap-up" target="_blank" rel="noopener noreferrer nofollow">https://www.isgp-studies.com/misc/UFOs/press-reports/2005-12-19-mosnews-ufo-sightings-in-russia-wrap-up</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Russia — Wrap up for 2005 | MosNewsDecember 19, 2005 — UFO SIGHTINGS IN RUSSIA — WRAP UP FOR 2005 ISGP section: UFO pres...</p></details>
    Published: December 19, 2005  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
    Title: Unknown Rise of the Red Dragon Origins Threat of Chinas Secret Space Program  
-   Link: <a href="https://www.scribd.com/document/464984156/Unknown-Rise-of-the-Red-Dragon-Origins-Threat-of-Chinas-Secret-Space-Program" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/464984156/Unknown-Rise-of-the-Red-Dragon-Origins-Threat-of-Chinas-Secret-Space-Program</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the excitement of the official launch of scientific research into UFOs in China:.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/464984156/Unknown-Rise-of-the-Red-Dragon-Origins-Threat-of-Chinas-Secret-Space-Program" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/464984156/Unknown-Rise-of-the-Red-Dragon-Origins-Threat-of-Chinas-Secret-Space-Program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the excitement of the official launch of scientific research into UFOs in China:.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/691187188/Russias-USO-Secrets-Paul-Stonehill-Philip-Mantle-Z-Library" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/691187188/Russias-USO-Secrets-Paul-Stonehill-Philip-Mantle-Z-Library</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary of reports of unidentified submersible objects (USOs) in Russian and international waters.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/691187188/Russias-USO-Secrets-Paul-Stonehill-Philip-Mantle-Z-Library" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/691187188/Russias-USO-Secrets-Paul-Stonehill-Philip-Mantle-Z-Library</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summary of reports of unidentified submersible objects (USOs) in Russian and international waters.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: spokesman.com  
    Title: spate ufos appear over mongolia  
-   Link: <a href="https://www.spokesman.com/stories/2010/oct/07/spate-ufos-appear-over-mongolia/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/2010/oct/07/spate-ufos-appear-over-mongolia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spate of UFO&#x27;s appear over Mongolia...7 Oct 2010 — According to Chinese authorities, this was the eighth time in several months that UFO&#x27;...</p></details>
+   Link:<a href="https://www.spokesman.com/stories/2010/oct/07/spate-ufos-appear-over-mongolia/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/2010/oct/07/spate-ufos-appear-over-mongolia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spate of UFO&#x27;s appear over Mongolia...7 Oct 2010 — According to Chinese authorities, this was the eighth time in several months that UFO&#x27;...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Proof Is Out There: ALIEN AIRCRAFT OR SECRET WEAPON? (Season 2) | History  
-   Link: <a href="https://www.youtube.com/watch?v=W7CWSAA7pDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W7CWSAA7pDI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What I Found Tracking 200,000 UFO Sightings | Meet Christian Stepien of the UFO Reporting Center...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W7CWSAA7pDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W7CWSAA7pDI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What I Found Tracking 200,000 UFO Sightings | Meet Christian Stepien of the UFO Reporting Center...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: commons.wikimedia.org  
    Title: Category:2005 in Ulaanbaatar  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3A2005_in_Ulaanbaatar" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3A2005_in_Ulaanbaatar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:2005 in Ulaanbaatar - Wikimedia CommonsSeptember 13, 2025 — CATEGORY:2005 IN ULAANBAATAR English: 2005 in Ulaanbaat...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3A2005_in_Ulaanbaatar" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3A2005_in_Ulaanbaatar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:2005 in Ulaanbaatar - Wikimedia CommonsSeptember 13, 2025 — CATEGORY:2005 IN ULAANBAATAR English: 2005 in Ulaanbaat...</p></details>
    Published: September 13, 2025

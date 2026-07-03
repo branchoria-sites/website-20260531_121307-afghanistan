@@ -1201,66 +1201,66 @@ The most reliable conclusion is cautious: Türkiye has a lively [UFO culture]({{
 
 Türkiye does not appear to maintain a widely accessible, dedicated public UFO archive comparable to a formal declassified UAP document collection. Public knowledge is instead built from local journalism, civil aviation references, private groups, witness videos, social media circulation and retrospective discussion. That makes source quality uneven: a pilot radio report is more useful than a viral clip; a technical preliminary assessment is more useful than a conference claim; and a sighting with no radar, position, weather or camera metadata remains weak even if many people watched it.
 
-The most visible private organisation is the Sirius UFO Space Sciences Research Center, founded in 1998 by Haktan Akdoğan. Anadolu Agency reported Akdoğan’s claim that the centre works with researchers and specialists and that Türkiye is among the world’s leading UFO “hotspots”, but the same article presents these as advocacy claims rather than official findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aa.com.tr/en/turkey/ufos-continue-to-fascinate-in-turkey-and-around-the-world/33044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.com.tr">[Anadolu Ajansı]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.com.tr</span><span class="citation-popover-title">Anadolu AjansıUFOs continue to fascinate in Turkey and around the world</span><span class="citation-popover-snippet">Anadolu AjansıUFOs continue to fascinate in Turkey and around the world</span></span></span> This matters because Sirius has played a major role in collecting, promoting and interpreting Turkish UFO reports, especially [Kumburgaz]({{ 'kumburgaz/' | relative_url }}), while also arguing from a strongly pro-extraterrestrial position.
+The most visible private organisation is the Sirius UFO Space Sciences Research Center, founded in 1998 by Haktan Akdoğan. Anadolu Agency reported Akdoğan’s claim that the centre works with researchers and specialists and that Türkiye is among the world’s leading UFO “hotspots”, but the same article presents these as advocacy claims rather than official findings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aa.com.tr/en/turkey/ufos-continue-to-fascinate-in-turkey-and-around-the-world/33044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.com.tr">[Anadolu Ajansı]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.com.tr</span><span class="citation-popover-title">Anadolu AjansıUFOs continue to fascinate in Turkey and around the world</span><span class="citation-popover-snippet">Anadolu AjansıUFOs continue to fascinate in Turkey and around the world</span></span></span> This matters because Sirius has played a major role in collecting, promoting and interpreting Turkish UFO reports, especially [Kumburgaz]({{ 'kumburgaz/' | relative_url }}), while also arguing from a strongly pro-extraterrestrial position.
 
-The public culture around UFOs in Türkiye expanded sharply in the late 2000s. The Irish Times reported in 2009 that Yalçın Yalman’s footage had helped turn UFO-spotting from an object of scorn into a more popular subject among educated Turkish audiences, with more than 1,000 people attending an Istanbul conference where he appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Eurasianet, reporting the same year, captured both sides of the scene: public fascination, celebrity claims, international speakers, and sceptics warning that striking footage can be misread without proper analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasianet.org">[Eurasianet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasianet.org</span><span class="citation-popover-title">Turkey: UFO Believers Seek to Shed &quot;Quack&quot; Status &#124; Eurasianet</span><span class="citation-popover-snippet">Turkey: UFO Believers Seek to Shed &quot;Quack&quot; Status &#124; Eurasianet</span></span></span>
+The public culture around UFOs in Türkiye expanded sharply in the late 2000s. The Irish Times reported in 2009 that Yalçın Yalman’s footage had helped turn UFO-spotting from an object of scorn into a more popular subject among educated Turkish audiences, with more than 1,000 people attending an Istanbul conference where he appeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Eurasianet, reporting the same year, captured both sides of the scene: public fascination, celebrity claims, international speakers, and sceptics warning that striking footage can be misread without proper analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasianet.org">[Eurasianet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasianet.org</span><span class="citation-popover-title">Turkey: UFO Believers Seek to Shed &quot;Quack&quot; Status &#124; Eurasianet</span><span class="citation-popover-snippet">Turkey: UFO Believers Seek to Shed &quot;Quack&quot; Status &#124; Eurasianet</span></span></span>
 
 ## Kumburgaz remains the anchor case — and the main cautionary tale
 
-The Kumburgaz case dominates any Türkiye UFO chronology because it combines repeated filming, a named witness, an identifiable coastal setting, private UFO advocacy, a reported scientific review and continuing online debate. Yalçın Yalman, working as a night security guard near the Sea of Marmara, filmed unusual night-time objects between 2007 and 2009; the images were later presented in Turkish and international UFO circles as unusually clear evidence. Contemporary and later reporting consistently treats the footage as the most famous Turkish UFO case, but not as a resolved one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Kumburgaz case dominates any Türkiye UFO chronology because it combines repeated filming, a named witness, an identifiable coastal setting, private UFO advocacy, a reported scientific review and continuing online debate. Yalçın Yalman, working as a night security guard near the Sea of Marmara, filmed unusual night-time objects between 2007 and 2009; the images were later presented in Turkish and international UFO circles as unusually clear evidence. Contemporary and later reporting consistently treats the footage as the most famous Turkish UFO case, but not as a resolved one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The key official-adjacent document is the reported preliminary assessment by the TÜBİTAK National Observatory. Yeni Şafak’s 2008 report said the observatory found that the visible structures did not appear to be computer animation, special video effects or a studio-created model. It also said the footage seemed to have been shot outdoors at night, partly because the Moon appeared in some shots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span>
+The key official-adjacent document is the reported preliminary assessment by the TÜBİTAK National Observatory. Yeni Şafak’s 2008 report said the observatory found that the visible structures did not appear to be computer animation, special video effects or a studio-created model. It also said the footage seemed to have been shot outdoors at night, partly because the Moon appeared in some shots.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span>
 
-That same assessment is often overstated. The report also noted serious limits: inconsistent time indicators, no reference objects in the close-up frames, no reliable way to determine the objects’ distance, size or true location, and a conclusion that even detailed analysis might not identify the objects without controlled comparison footage from the same site. Crucially, it said the term UFO could be used for the suspicious images, but that this “certainly” did not mean an extraterrestrial craft or flying saucer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span>
+That same assessment is often overstated. The report also noted serious limits: inconsistent time indicators, no reference objects in the close-up frames, no reliable way to determine the objects’ distance, size or true location, and a conclusion that even detailed analysis might not identify the objects without controlled comparison footage from the same site. Crucially, it said the term UFO could be used for the suspicious images, but that this “certainly” did not mean an extraterrestrial craft or flying saucer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span>
 
-A later Turkish explainer made the same point in plainer terms: saying the Kumburgaz video was “approved by TÜBİTAK” is misleading; the more accurate reading is that the object was not identified in the preliminary review, and the label “UFO” was descriptive rather than alien-confirming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eksiseyler.com/2008de-kumburgazda-cekilen-ve-tubitakin-rapor-yayinladigi-ufo-goruntuleri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eksiseyler.com">[Ekşi Şeyler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eksiseyler.com</span><span class="citation-popover-title">2008de kumburgazda cekilen ve tubitakin rapor yayinladigi ufo goruntuleri</span><span class="citation-popover-snippet">2008de kumburgazda cekilen ve tubitakin rapor yayinladigi ufo goruntuleri</span></span></span> For readers comparing Türkiye with sibling pages on other national UFO cases, Kumburgaz belongs in the “contested but culturally important” category: better documented than a casual single-witness claim, but far short of a confirmed extraordinary case.
+A later Turkish explainer made the same point in plainer terms: saying the Kumburgaz video was “approved by TÜBİTAK” is misleading; the more accurate reading is that the object was not identified in the preliminary review, and the label “UFO” was descriptive rather than alien-confirming.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eksiseyler.com/2008de-kumburgazda-cekilen-ve-tubitakin-rapor-yayinladigi-ufo-goruntuleri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eksiseyler.com">[Ekşi Şeyler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eksiseyler.com</span><span class="citation-popover-title">2008de kumburgazda cekilen ve tubitakin rapor yayinladigi ufo goruntuleri</span><span class="citation-popover-snippet">2008de kumburgazda cekilen ve tubitakin rapor yayinladigi ufo goruntuleri</span></span></span> For readers comparing Türkiye with sibling pages on other national UFO cases, Kumburgaz belongs in the “contested but culturally important” category: better documented than a casual single-witness claim, but far short of a confirmed extraordinary case.
 
 <img src="{{ "/assets/images/Turkiye_c8c5d5-Illustration-1-dark.svg" | relative_url }}" alt="Turkiye illustration 1" data-theme-src-dark="{{ "/assets/images/Turkiye_c8c5d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkiye_c8c5d5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical chronology of major public reports
 
 Türkiye’s public UFO chronology is uneven, with long gaps between prominent reports and bursts of attention around specific media stories. The most useful timeline is therefore not a list of every claimed sighting, but a set of incidents that show how the evidence varies.
 
-**2007–2009: Kumburgaz and the Sea of Marmara footage.** Yalçın Yalman’s repeated recordings near Istanbul became the defining Turkish UFO case. The footage was important enough to receive a reported preliminary review by the TÜBİTAK National Observatory, but the available public summary supports only a limited conclusion: unidentified imagery, no clear evidence of editing, and no proof of extraterrestrial origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span>
+**2007–2009: Kumburgaz and the Sea of Marmara footage.** Yalçın Yalman’s repeated recordings near Istanbul became the defining Turkish UFO case. The footage was important enough to receive a reported preliminary review by the TÜBİTAK National Observatory, but the available public summary supports only a limited conclusion: unidentified imagery, no clear evidence of editing, and no proof of extraterrestrial origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span>
 
-**2009: UFO culture enters mainstream debate.** Turkish and international media described packed UFO conferences, celebrity testimony and the rise of organised UFO interest. This period is important because it shows the social life of the subject: Kumburgaz was not just a video, but a catalyst for conferences, press coverage and private investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**2009: UFO culture enters mainstream debate.** Turkish and international media described packed UFO conferences, celebrity testimony and the rise of organised UFO interest. This period is important because it shows the social life of the subject: Kumburgaz was not just a video, but a catalyst for conferences, press coverage and private investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**May 2016: Turkish Airlines pilots report green lights near Istanbul.** Two pilots on a Bodrum-to-Istanbul flight reported that an unidentified object with green lights passed 2,000 to 3,000 feet above their aircraft near Silivri, while they were flying at about 17,000 feet. The General Directorate of State Airports Authority said it did not see a matching radar image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This is one of the stronger report types because it involves trained aviation witnesses, a flight context and an air traffic report, but the lack of radar correlation keeps it unresolved rather than confirmed.
+**May 2016: Turkish Airlines pilots report green lights near Istanbul.** Two pilots on a Bodrum-to-Istanbul flight reported that an unidentified object with green lights passed 2,000 to 3,000 feet above their aircraft near Silivri, while they were flying at about 17,000 feet. The General Directorate of State Airports Authority said it did not see a matching radar image.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This is one of the stronger report types because it involves trained aviation witnesses, a flight context and an air traffic report, but the lack of radar correlation keeps it unresolved rather than confirmed.
 
-**June and September 2016: Muğla and Bodrum sightings.** Hürriyet Daily News reported local claims in Bodrum of an illuminated object moving erratically and changing colour, and later a separate Muğla report where witnesses said an object was visible for three hours, moved north and looked balloon-like through binoculars. In the September case, locals contacted the gendarmerie, but no formal report was prepared after interviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These cases are useful mainly as examples of regional sighting clusters and ordinary ambiguity: light, colour, apparent motion, distance and shape are all difficult to judge without instrumentation.
+**June and September 2016: Muğla and Bodrum sightings.** Hürriyet Daily News reported local claims in Bodrum of an illuminated object moving erratically and changing colour, and later a separate Muğla report where witnesses said an object was visible for three hours, moved north and looked balloon-like through binoculars. In the September case, locals contacted the gendarmerie, but no formal report was prepared after interviews.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These cases are useful mainly as examples of regional sighting clusters and ordinary ambiguity: light, colour, apparent motion, distance and shape are all difficult to judge without instrumentation.
 
-**January 2023: the Bursa “UFO cloud”.** A dramatic saucer-like cloud over Bursa went viral because it looked artificial. Weather reporting identified it as a lenticular cloud formed by airflow over nearby mountains; The Washington Post explained the role of Mount Uludağ and layered air, while The Guardian noted that the cloud remained visible for about an hour and that such clouds are known for curved, flying-saucer-like forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/weather/2023/01/22/turkey-lenticular-cloud-saucer-bursa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span><span class="citation-popover-snippet">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span></span></span> This is the clearest debunked example in the Turkish public record: visually striking, widely shared, and well explained by meteorology.
+**January 2023: the Bursa “UFO cloud”.** A dramatic saucer-like cloud over Bursa went viral because it looked artificial. Weather reporting identified it as a lenticular cloud formed by airflow over nearby mountains; The Washington Post explained the role of Mount Uludağ and layered air, while The Guardian noted that the cloud remained visible for about an hour and that such clouds are known for curved, flying-saucer-like forms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/weather/2023/01/22/turkey-lenticular-cloud-saucer-bursa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span><span class="citation-popover-snippet">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span></span></span> This is the clearest debunked example in the Turkish public record: visually striking, widely shared, and well explained by meteorology.
 
-**May 2023 and February 2025: Gaziantep airport disruptions.** Reports said flights at Gaziantep Airport were disrupted after unidentified objects were reported near the airport. In 2025, Türkiye Today reported that pilots saw a bright object around 8,000 to 10,000 feet, that it did not appear on radar, and that authorities halted flights as a precaution while considering possibilities including Starlink or a drone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.turkiyetoday.com/turkiye/ufo-alert-in-turkiyes-gaziantep-flights-halted-120856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: turkiyetoday.com">[Türkiye Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">turkiyetoday.com</span><span class="citation-popover-title">Türkiye Today UFO alert in Türkiye’s Gaziantep: Flights halted</span><span class="citation-popover-snippet">Türkiye Today UFO alert in Türkiye’s Gaziantep: Flights halted</span></span></span> In the aviation category, these are high-stakes but not automatically high-evidence incidents: a precautionary halt shows safety concern, not proof of exotic origin.
+**May 2023 and February 2025: Gaziantep airport disruptions.** Reports said flights at Gaziantep Airport were disrupted after unidentified objects were reported near the airport. In 2025, Türkiye Today reported that pilots saw a bright object around 8,000 to 10,000 feet, that it did not appear on radar, and that authorities halted flights as a precaution while considering possibilities including Starlink or a drone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.turkiyetoday.com/turkiye/ufo-alert-in-turkiyes-gaziantep-flights-halted-120856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: turkiyetoday.com">[Türkiye Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">turkiyetoday.com</span><span class="citation-popover-title">Türkiye Today UFO alert in Türkiye’s Gaziantep: Flights halted</span><span class="citation-popover-snippet">Türkiye Today UFO alert in Türkiye’s Gaziantep: Flights halted</span></span></span> In the aviation category, these are high-stakes but not automatically high-evidence incidents: a precautionary halt shows safety concern, not proof of exotic origin.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UNhd8kpc_Ho" title="Turkey Drone Laws Explained updated for 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UNhd8kpc_Ho" target="_blank" rel="noopener noreferrer">Turkey Drone Laws Explained updated for 2025</a></p><p class="youtube-embed-meta">Channel: Geek Wandering &middot; Views: 12.1K &middot; Uploaded: September 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UNhd8kpc_Ho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UNhd8kpc_Ho">Open on YouTube</a></p></div></div></div>
 
 ## Regional patterns: coasts, airports and mountains explain much of the map
 
-The public record clusters around a few kinds of place. The Istanbul–Marmara region matters because of Kumburgaz, Silivri and major airport traffic. Coastal and resort districts such as Bodrum and parts of Muğla appear repeatedly in local reports, partly because people are outdoors at night, views are wide, and lights over sea or hills can be difficult to judge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[2Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The public record clusters around a few kinds of place. The Istanbul–Marmara region matters because of Kumburgaz, Silivri and major airport traffic. Coastal and resort districts such as Bodrum and parts of Muğla appear repeatedly in local reports, partly because people are outdoors at night, views are wide, and lights over sea or hills can be difficult to judge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[2Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Southeastern airport cases, especially Gaziantep, sit in a different category. They are less about “classic saucer” imagery and more about aviation safety: lights or objects at altitude, pilot reports, radar uncertainty, drone concerns and temporary operational decisions. The official Turkish civil aviation drone registry requires registration and approval for unmanned aircraft of 500 grams or more, and flight permission is required outside designated free zones, which makes unauthorised drones a plausible explanation in some modern airport-related cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iha.shgm.gov.tr/public/index?language=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iha.shgm.gov.tr">[IHA Registration System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iha.shgm.gov.tr</span><span class="citation-popover-snippet">İHA Kayıt Sistemi...</span></span></span>
+Southeastern airport cases, especially Gaziantep, sit in a different category. They are less about “classic saucer” imagery and more about aviation safety: lights or objects at altitude, pilot reports, radar uncertainty, drone concerns and temporary operational decisions. The official Turkish civil aviation drone registry requires registration and approval for unmanned aircraft of 500 grams or more, and flight permission is required outside designated free zones, which makes unauthorised drones a plausible explanation in some modern airport-related cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iha.shgm.gov.tr/public/index?language=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iha.shgm.gov.tr">[IHA Registration System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iha.shgm.gov.tr</span><span class="citation-popover-snippet">İHA Kayıt Sistemi...</span></span></span>
 
-Mountain geography also matters. Bursa’s 2023 lenticular cloud is a reminder that Türkiye’s terrain can generate spectacular sky phenomena that look artificial from the ground. The Washington Post tied the [Bursa cloud]({{ 'bursa-cloud/' | relative_url }}) to Mount Uludağ and the mechanics of moist air rising and condensing over terrain; this does not explain every sighting, but it does show why Turkish UFO analysis needs weather, terrain and viewing-angle checks before stranger hypotheses are considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/weather/2023/01/22/turkey-lenticular-cloud-saucer-bursa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span><span class="citation-popover-snippet">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span></span></span>
+Mountain geography also matters. Bursa’s 2023 lenticular cloud is a reminder that Türkiye’s terrain can generate spectacular sky phenomena that look artificial from the ground. The Washington Post tied the [Bursa cloud]({{ 'bursa-cloud/' | relative_url }}) to Mount Uludağ and the mechanics of moist air rising and condensing over terrain; this does not explain every sighting, but it does show why Turkish UFO analysis needs weather, terrain and viewing-angle checks before stranger hypotheses are considered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/weather/2023/01/22/turkey-lenticular-cloud-saucer-bursa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span><span class="citation-popover-snippet">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span></span></span>
 
 <img src="{{ "/assets/images/Turkiye_c8c5d5-Illustration-3-dark.svg" | relative_url }}" alt="Turkiye illustration 3" data-theme-src-dark="{{ "/assets/images/Turkiye_c8c5d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkiye_c8c5d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence quality: confirmed, contested and debunked claims
 
 A useful Türkiye UFO page needs a split between what is confirmed, what is merely unidentified and what has been explained. Otherwise, strong and weak cases collapse into the same dramatic bucket.
 
-**Confirmed facts** include that Kumburgaz footage existed, that it was publicly discussed, that a reported preliminary TÜBİTAK National Observatory assessment did not identify the object, and that the assessment did not equate “UFO” with extraterrestrial origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span> It is also confirmed through reporting that Turkish Airlines pilots made a 2016 green-light report near Istanbul and that airport authorities said no matching radar image was found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed facts** include that Kumburgaz footage existed, that it was publicly discussed, that a reported preliminary TÜBİTAK National Observatory assessment did not identify the object, and that the assessment did not equate “UFO” with extraterrestrial origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span> It is also confirmed through reporting that Turkish Airlines pilots made a 2016 green-light report near Istanbul and that airport authorities said no matching radar image was found.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested claims** include the strongest interpretation of Kumburgaz: that the footage shows a structured craft with occupants. The public record supports “unidentified imagery under limited conditions” far better than it supports “alien vehicle”. The lack of reference objects, uncertain distance, inconsistent time metadata and absence of controlled comparison footage are not minor technicalities; they are exactly the missing pieces needed to distinguish a nearby small object, distant vessel, optical artefact or unusual aerial object from an extraordinary craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span>
+**Contested claims** include the strongest interpretation of Kumburgaz: that the footage shows a structured craft with occupants. The public record supports “unidentified imagery under limited conditions” far better than it supports “alien vehicle”. The lack of reference objects, uncertain distance, inconsistent time metadata and absence of controlled comparison footage are not minor technicalities; they are exactly the missing pieces needed to distinguish a nearby small object, distant vessel, optical artefact or unusual aerial object from an extraordinary craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span>
 
-**Debunked or strongly explained cases** include Bursa’s 2023 “UFO cloud”, which was identified as a lenticular cloud. This case is especially valuable because it shows how convincing a mundane explanation can be when the setting, weather mechanics and visual form line up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/weather/2023/01/22/turkey-lenticular-cloud-saucer-bursa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span><span class="citation-popover-snippet">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span></span></span> Some Muğla and Bodrum reports also contain built-in ordinary possibilities: one witness described a balloon-like shape through binoculars, and social media users suggested an unmanned aircraft or balloon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Debunked or strongly explained cases** include Bursa’s 2023 “UFO cloud”, which was identified as a lenticular cloud. This case is especially valuable because it shows how convincing a mundane explanation can be when the setting, weather mechanics and visual form line up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/weather/2023/01/22/turkey-lenticular-cloud-saucer-bursa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span><span class="citation-popover-snippet">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span></span></span> Some Muğla and Bodrum reports also contain built-in ordinary possibilities: one witness described a balloon-like shape through binoculars, and social media users suggested an unmanned aircraft or balloon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Turkiye_c8c5d5-Illustration-2-dark.svg" | relative_url }}" alt="Turkiye illustration 2" data-theme-src-dark="{{ "/assets/images/Turkiye_c8c5d5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Turkiye_c8c5d5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official records can and cannot tell us
 
-The strongest official material in the Turkish public record is not a declassified UFO archive but fragments from scientific, aviation and civil authority contexts. The TÜBİTAK National Observatory assessment, as reported by Turkish media, is the most important because it addressed the Kumburgaz footage directly and separated “not identified” from “extraterrestrial”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span>
+The strongest official material in the Turkish public record is not a declassified UFO archive but fragments from scientific, aviation and civil authority contexts. The TÜBİTAK National Observatory assessment, as reported by Turkish media, is the most important because it addressed the Kumburgaz footage directly and separated “not identified” from “extraterrestrial”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span>
 
-Aviation reports are useful for a different reason: they show operational response. In 2016, pilots reported a green-lit object and airport authorities said radar did not match the report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In 2025, Gaziantep flights were halted after pilots reported a luminous object that did not appear on radar, with officials considering a drone and at least one expert suggesting a satellite possibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.turkiyetoday.com/turkiye/ufo-alert-in-turkiyes-gaziantep-flights-halted-120856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: turkiyetoday.com">[Türkiye Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">turkiyetoday.com</span><span class="citation-popover-title">Türkiye Today UFO alert in Türkiye’s Gaziantep: Flights halted</span><span class="citation-popover-snippet">Türkiye Today UFO alert in Türkiye’s Gaziantep: Flights halted</span></span></span> These records are meaningful, but they are not the same as a completed public investigation with released radar tracks, sensor logs, witness interviews and final technical findings.
+Aviation reports are useful for a different reason: they show operational response. In 2016, pilots reported a green-lit object and airport authorities said radar did not match the report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In 2025, Gaziantep flights were halted after pilots reported a luminous object that did not appear on radar, with officials considering a drone and at least one expert suggesting a satellite possibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.turkiyetoday.com/turkiye/ufo-alert-in-turkiyes-gaziantep-flights-halted-120856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: turkiyetoday.com">[Türkiye Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">turkiyetoday.com</span><span class="citation-popover-title">Türkiye Today UFO alert in Türkiye’s Gaziantep: Flights halted</span><span class="citation-popover-snippet">Türkiye Today UFO alert in Türkiye’s Gaziantep: Flights halted</span></span></span> These records are meaningful, but they are not the same as a completed public investigation with released radar tracks, sensor logs, witness interviews and final technical findings.
 
-Drone regulation has become increasingly relevant to modern Turkish UAP interpretation. The official SHGM unmanned aircraft registry says people who sell, buy, produce, import or fly unmanned aircraft with a maximum take-off weight of 500 grams or more must register, and pilots intending to fly such aircraft in Turkish airspace must be registered and approved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iha.shgm.gov.tr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iha.shgm.gov.tr">[IHA Registration System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iha.shgm.gov.tr</span><span class="citation-popover-snippet">İHA Kayıt Sistemi...</span></span></span> The Turkish-language registry page also states that permission is required to fly outside free zones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iha.shgm.gov.tr/public/index?language=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iha.shgm.gov.tr">[IHA Registration System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iha.shgm.gov.tr</span><span class="citation-popover-snippet">İHA Kayıt Sistemi...</span></span></span> For airport and urban sightings, this makes drones a serious candidate explanation, especially when the report involves lights, low observability on radar, or proximity to controlled airspace.
+Drone regulation has become increasingly relevant to modern Turkish UAP interpretation. The official SHGM unmanned aircraft registry says people who sell, buy, produce, import or fly unmanned aircraft with a maximum take-off weight of 500 grams or more must register, and pilots intending to fly such aircraft in Turkish airspace must be registered and approved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iha.shgm.gov.tr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iha.shgm.gov.tr">[IHA Registration System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iha.shgm.gov.tr</span><span class="citation-popover-snippet">İHA Kayıt Sistemi...</span></span></span> The Turkish-language registry page also states that permission is required to fly outside free zones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iha.shgm.gov.tr/public/index?language=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iha.shgm.gov.tr">[IHA Registration System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iha.shgm.gov.tr</span><span class="citation-popover-snippet">İHA Kayıt Sistemi...</span></span></span> For airport and urban sightings, this makes drones a serious candidate explanation, especially when the report involves lights, low observability on radar, or proximity to controlled airspace.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mEGvZ2PWLQk" title="2008 Turkey UFO Video - Kumburgaz UFO OVNI Increased Quality Version" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mEGvZ2PWLQk" target="_blank" rel="noopener noreferrer">2008 Turkey UFO Video - Kumburgaz UFO OVNI Increased Quality Version</a></p><p class="youtube-embed-meta">Channel: MultiMovieplayer &middot; Views: 711 &middot; Uploaded: October 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mEGvZ2PWLQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mEGvZ2PWLQk">Open on YouTube</a></p></div></div></div>
 
@@ -1268,9 +1268,9 @@ Drone regulation has become increasingly relevant to modern Turkish UAP interpre
 
 The right standard is neither automatic dismissal nor automatic belief. A Turkish sighting becomes stronger when it has multiple independent witnesses, precise time and location, original camera files, stable reference points, weather data, flight and satellite checks, and official aviation or radar records. It becomes weaker when it depends on zoomed footage with no reference objects, social media reposts, anonymous claims, or a private group’s interpretation without open technical data.
 
-Kumburgaz shows the problem clearly. It is not fair to treat the footage as worthless, because it was persistent, named, public and technically discussed. But it is also not fair to treat it as confirmed alien evidence, because the most important public technical caveats concern exactly the information needed to identify size, range, position and nature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span>
+Kumburgaz shows the problem clearly. It is not fair to treat the footage as worthless, because it was persistent, named, public and technically discussed. But it is also not fair to treat it as confirmed alien evidence, because the most important public technical caveats concern exactly the information needed to identify size, range, position and nature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenisafak.com">[Yeni Şafak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenisafak.com</span><span class="citation-popover-title">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span><span class="citation-popover-snippet">Yeni Şafak Kemerburgaz&#x27;da UFO heyecanı &#124; Gündem Haberleri</span></span></span>
 
-The Turkish cases also show why “unidentified” is a temporary evidence category, not a conclusion. A green light above an aircraft may be a drone, satellite, aircraft, atmospheric effect or something genuinely unresolved. A saucer shape over Bursa may look more artificial than many night videos, yet it was meteorology. A coastal light may seem to hover, but without distance and reference points, motion can be deceptive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/weather/2023/01/22/turkey-lenticular-cloud-saucer-bursa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span><span class="citation-popover-snippet">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span></span></span>
+The Turkish cases also show why “unidentified” is a temporary evidence category, not a conclusion. A green light above an aircraft may be a drone, satellite, aircraft, atmospheric effect or something genuinely unresolved. A saucer shape over Bursa may look more artificial than many night videos, yet it was meteorology. A coastal light may seem to hover, but without distance and reference points, motion can be deceptive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hurriyetdailynews.com">[Hürriyet Daily News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hurriyetdailynews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/weather/2023/01/22/turkey-lenticular-cloud-saucer-bursa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span><span class="citation-popover-snippet">The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eyfT3aIFIPg" title="A UFO SIGHTING IN KUMBURGAZ TURKEY ,FULL RAW FOOTAGE ALIEN 👽" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eyfT3aIFIPg" target="_blank" rel="noopener noreferrer">A UFO SIGHTING IN KUMBURGAZ TURKEY ,FULL RAW FOOTAGE ALIEN 👽</a></p><p class="youtube-embed-meta">Channel: MultiMovieplayer &middot; Views: 834 &middot; Uploaded: March 2021 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eyfT3aIFIPg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eyfT3aIFIPg">Open on YouTube</a></p></div></div></div>
 
@@ -1281,194 +1281,194 @@ Türkiye’s value in a wider UFO-country project is not that it supplies a prov
 The strongest reader takeaway is therefore balanced. Türkiye has a real and lively UFO history, with Kumburgaz at its centre and aviation reports that deserve careful documentation. But the publicly available evidence supports a conservative ranking: Bursa is explained; many local sightings are weak or ambiguous; Gaziantep-style airport reports are operationally serious but unresolved; and Kumburgaz remains culturally important, technically intriguing and still unproven as anything beyond unidentified imagery.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Türkiye&#x27;s UFO Cases Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Türkiye&#x27;s UFO Cases Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces investigative approaches applicable to Turkish cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces investigative approaches applicable to Turkish cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Places modern reports into a wider historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places modern reports into a wider historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Useful benchmark for comparing stronger and weaker national case records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful benchmark for comparing stronger and weaker national case records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broad context for national UFO cultures and recurring sighting patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broad context for national UFO cultures and recurring sighting patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-t-rkiye-s-ufo-cases-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1484,7 +1484,7 @@ The strongest reader takeaway is therefore balanced. Türkiye has a real and liv
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1504,7 +1504,7 @@ The strongest reader takeaway is therefore balanced. Türkiye has a real and liv
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1536,7 +1536,7 @@ The strongest reader takeaway is therefore balanced. Türkiye has a real and liv
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1588,7 +1588,7 @@ The strongest reader takeaway is therefore balanced. Türkiye has a real and liv
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1633,7 +1633,7 @@ The strongest reader takeaway is therefore balanced. Türkiye has a real and liv
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1671,117 +1671,116 @@ The strongest reader takeaway is therefore balanced. Türkiye has a real and liv
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: eurasianet.org  
    Title: Turkey: UFO Believers Seek to Shed "Quack" Status | Eurasianet  
-   Link: <a href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow">https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status</a>  
+   Link:<a href="https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status" target="_blank" rel="noopener noreferrer nofollow">https://eurasianet.org/turkey-ufo-believers-seek-to-shed-quack-status</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: iha.shgm.gov.tr  
    Title: IHA Registration System  
-   Link: <a href="https://iha.shgm.gov.tr/public/index?language=2" target="_blank" rel="noopener noreferrer nofollow">https://iha.shgm.gov.tr/public/index?language=2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>İHA Kayıt Sistemi...</p></details>
+   Link:<a href="https://iha.shgm.gov.tr/public/index?language=2" target="_blank" rel="noopener noreferrer nofollow">https://iha.shgm.gov.tr/public/index?language=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>İHA Kayıt Sistemi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: iha.shgm.gov.tr  
    Title: IHA Registration System  
-   Link: <a href="https://iha.shgm.gov.tr/" target="_blank" rel="noopener noreferrer nofollow">https://iha.shgm.gov.tr/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>İHA Kayıt Sistemi...</p></details>
+   Link:<a href="https://iha.shgm.gov.tr/" target="_blank" rel="noopener noreferrer nofollow">https://iha.shgm.gov.tr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>İHA Kayıt Sistemi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/shows/ancient-aliens/season-19/episode-5" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/ancient-aliens/season-19/episode-5</a>  
+   Link:<a href="https://www.history.com/shows/ancient-aliens/season-19/episode-5" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/ancient-aliens/season-19/episode-5</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: yenisafak.com  
    Title: Yeni Şafak Kemerburgaz'da UFO heyecanı | Gündem Haberleri  
-   Link: <a href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow">https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917</a>  
+   Link:<a href="https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917" target="_blank" rel="noopener noreferrer nofollow">https://www.yenisafak.com/gundem/kemerburgazda-ufo-heyecani-97917</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aa.com.tr  
    Title: Anadolu AjansıUFOs continue to fascinate in Turkey and around the world  
-   Link: <a href="https://www.aa.com.tr/en/turkey/ufos-continue-to-fascinate-in-turkey-and-around-the-world/33044" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/turkey/ufos-continue-to-fascinate-in-turkey-and-around-the-world/33044</a>  
+   Link:<a href="https://www.aa.com.tr/en/turkey/ufos-continue-to-fascinate-in-turkey-and-around-the-world/33044" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/turkey/ufos-continue-to-fascinate-in-turkey-and-around-the-world/33044</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: irishtimes.com  
-   Link: <a href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220</a>  
+   Link:<a href="https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/news/ufo-spotting-turkish-night-watchman-regards-aliens-as-the-world-s-policemen-1.789220</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: eksiseyler.com  
    Title: 2008de kumburgazda cekilen ve tubitakin rapor yayinladigi ufo goruntuleri  
-   Link: <a href="https://eksiseyler.com/2008de-kumburgazda-cekilen-ve-tubitakin-rapor-yayinladigi-ufo-goruntuleri" target="_blank" rel="noopener noreferrer nofollow">https://eksiseyler.com/2008de-kumburgazda-cekilen-ve-tubitakin-rapor-yayinladigi-ufo-goruntuleri</a>  
+   Link:<a href="https://eksiseyler.com/2008de-kumburgazda-cekilen-ve-tubitakin-rapor-yayinladigi-ufo-goruntuleri" target="_blank" rel="noopener noreferrer nofollow">https://eksiseyler.com/2008de-kumburgazda-cekilen-ve-tubitakin-rapor-yayinladigi-ufo-goruntuleri</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hurriyetdailynews.com  
-   Link: <a href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow">https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476</a>  
+   Link:<a href="https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476" target="_blank" rel="noopener noreferrer nofollow">https://www.hurriyetdailynews.com/ufo-with-green-lights-passed-over-our-plane-say-turkish-pilots--99476</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hurriyetdailynews.com  
    Title: Hürriyet Daily News Residents claim UFO sighting in touristic Turkish district  
-   Link: <a href="https://www.hurriyetdailynews.com/residents-claim-ufo-sighting-in-touristic-turkish-district-100342" target="_blank" rel="noopener noreferrer nofollow">https://www.hurriyetdailynews.com/residents-claim-ufo-sighting-in-touristic-turkish-district-100342</a>  
+   Link:<a href="https://www.hurriyetdailynews.com/residents-claim-ufo-sighting-in-touristic-turkish-district-100342" target="_blank" rel="noopener noreferrer nofollow">https://www.hurriyetdailynews.com/residents-claim-ufo-sighting-in-touristic-turkish-district-100342</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hurriyetdailynews.com  
-   Link: <a href="https://www.hurriyetdailynews.com/locals-on-alert-after-suspected-ufo-sighting-in-turkeys-south-104344" target="_blank" rel="noopener noreferrer nofollow">https://www.hurriyetdailynews.com/locals-on-alert-after-suspected-ufo-sighting-in-turkeys-south-104344</a>  
+   Link:<a href="https://www.hurriyetdailynews.com/locals-on-alert-after-suspected-ufo-sighting-in-turkeys-south-104344" target="_blank" rel="noopener noreferrer nofollow">https://www.hurriyetdailynews.com/locals-on-alert-after-suspected-ufo-sighting-in-turkeys-south-104344</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: washingtonpost.com  
    Title: The Washington Post What caused this bizarre UFO-like cloud to form over Turkey?  
-   Link: <a href="https://www.washingtonpost.com/weather/2023/01/22/turkey-lenticular-cloud-saucer-bursa/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/weather/2023/01/22/turkey-lenticular-cloud-saucer-bursa/</a>  
+   Link:<a href="https://www.washingtonpost.com/weather/2023/01/22/turkey-lenticular-cloud-saucer-bursa/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/weather/2023/01/22/turkey-lenticular-cloud-saucer-bursa/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: turkiyetoday.com  
    Title: Türkiye Today UFO alert in Türkiye’s Gaziantep: Flights halted  
-   Link: <a href="https://www.turkiyetoday.com/turkiye/ufo-alert-in-turkiyes-gaziantep-flights-halted-120856" target="_blank" rel="noopener noreferrer nofollow">https://www.turkiyetoday.com/turkiye/ufo-alert-in-turkiyes-gaziantep-flights-halted-120856</a>  
+   Link:<a href="https://www.turkiyetoday.com/turkiye/ufo-alert-in-turkiyes-gaziantep-flights-halted-120856" target="_blank" rel="noopener noreferrer nofollow">https://www.turkiyetoday.com/turkiye/ufo-alert-in-turkiyes-gaziantep-flights-halted-120856</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: turkish-travels.com  
-   Link: <a href="https://turkish-travels.com/2025/11/09/drones-the-rules/" target="_blank" rel="noopener noreferrer nofollow">https://turkish-travels.com/2025/11/09/drones-the-rules/</a>  
+   Link:<a href="https://turkish-travels.com/2025/11/09/drones-the-rules/" target="_blank" rel="noopener noreferrer nofollow">https://turkish-travels.com/2025/11/09/drones-the-rules/</a>  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mEGvZ2PWLQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mEGvZ2PWLQk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turkish Government Certified! Alien Spotted Inside UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mEGvZ2PWLQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mEGvZ2PWLQk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turkish Government Certified! Alien Spotted Inside UFO...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Turkish Government Certified! Alien Spotted Inside UFO  
-   Link: <a href="https://www.youtube.com/watch?v=YCoVzHje2_o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YCoVzHje2_o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KUMBURGAZ- O MELHOR VÍDEO DE OVNI JÁ REGISTRADO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YCoVzHje2_o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YCoVzHje2_o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KUMBURGAZ- O MELHOR VÍDEO DE OVNI JÁ REGISTRADO...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61555581417439/posts/kumburgaz-da-ki-bu-g%C3%B6r%C3%BCnt%C3%BC-d%C3%BCnyan%C4%B1n-en-net-ufo-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-olarak-an%C4%B1l%C4%B1yor/122277598970186047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61555581417439/posts/kumburgaz-da-ki-bu-g%C3%B6r%C3%BCnt%C3%BC-d%C3%BCnyan%C4%B1n-en-net-ufo-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-olarak-an%C4%B1l%C4%B1yor/122277598970186047/</a>  
+   Link:<a href="https://www.facebook.com/61555581417439/posts/kumburgaz-da-ki-bu-g%C3%B6r%C3%BCnt%C3%BC-d%C3%BCnyan%C4%B1n-en-net-ufo-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-olarak-an%C4%B1l%C4%B1yor/122277598970186047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61555581417439/posts/kumburgaz-da-ki-bu-g%C3%B6r%C3%BCnt%C3%BC-d%C3%BCnyan%C4%B1n-en-net-ufo-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-olarak-an%C4%B1l%C4%B1yor/122277598970186047/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61555581417439/videos/kumburgaz-da-ki-bu-g%C3%B6r%C3%BCnt%C3%BC-d%C3%BCnyan%C4%B1n-en-net-ufo-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-olarak-an%C4%B1l%C4%B1yor/955854820766703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61555581417439/videos/kumburgaz-da-ki-bu-g%C3%B6r%C3%BCnt%C3%BC-d%C3%BCnyan%C4%B1n-en-net-ufo-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-olarak-an%C4%B1l%C4%B1yor/955854820766703/</a>  
+   Link:<a href="https://www.facebook.com/61555581417439/videos/kumburgaz-da-ki-bu-g%C3%B6r%C3%BCnt%C3%BC-d%C3%BCnyan%C4%B1n-en-net-ufo-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-olarak-an%C4%B1l%C4%B1yor/955854820766703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61555581417439/videos/kumburgaz-da-ki-bu-g%C3%B6r%C3%BCnt%C3%BC-d%C3%BCnyan%C4%B1n-en-net-ufo-g%C3%B6r%C3%BCnt%C3%BCs%C3%BC-olarak-an%C4%B1l%C4%B1yor/955854820766703/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DGU87nmvkav/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DGU87nmvkav/</a>  
+   Link:<a href="https://www.instagram.com/p/DGU87nmvkav/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DGU87nmvkav/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VICE/posts/a-ufo-sighting-grounded-several-flights-at-an-airport-in-turkey/1005113518148299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-ufo-sighting-grounded-several-flights-at-an-airport-in-turkey/1005113518148299/</a>  
+   Link:<a href="https://www.facebook.com/VICE/posts/a-ufo-sighting-grounded-several-flights-at-an-airport-in-turkey/1005113518148299/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-ufo-sighting-grounded-several-flights-at-an-airport-in-turkey/1005113518148299/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/anews/posts/a-lens-cloud-was-seen-in-the-sky-of-bursa-in-the-morning-hoursaccording-to-the-i/2604246736415423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anews/posts/a-lens-cloud-was-seen-in-the-sky-of-bursa-in-the-morning-hoursaccording-to-the-i/2604246736415423/</a>  
+   Link:<a href="https://www.facebook.com/anews/posts/a-lens-cloud-was-seen-in-the-sky-of-bursa-in-the-morning-hoursaccording-to-the-i/2604246736415423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anews/posts/a-lens-cloud-was-seen-in-the-sky-of-bursa-in-the-morning-hoursaccording-to-the-i/2604246736415423/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CnpfphiJokQ/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CnpfphiJokQ/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/CnpfphiJokQ/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CnpfphiJokQ/?hl=en</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/trtworld/posts/a-rare-lens-shaped-cloud-in-van-turkiye-forms-a-surreal-view-that-people-often-m/302370035258578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/trtworld/posts/a-rare-lens-shaped-cloud-in-van-turkiye-forms-a-surreal-view-that-people-often-m/302370035258578/</a>  
+   Link:<a href="https://www.facebook.com/trtworld/posts/a-rare-lens-shaped-cloud-in-van-turkiye-forms-a-surreal-view-that-people-often-m/302370035258578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/trtworld/posts/a-rare-lens-shaped-cloud-in-van-turkiye-forms-a-surreal-view-that-people-often-m/302370035258578/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYFx-FoyEkH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYFx-FoyEkH/</a>
+   Link:<a href="https://www.instagram.com/reel/DYFx-FoyEkH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYFx-FoyEkH/</a>

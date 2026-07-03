@@ -1194,43 +1194,43 @@ image: /assets/images/Portugal_a49519-overview-social.jpg
 
 ## Why Portugal’s UFO record is smaller but not empty
 
-Portugal does not have a public UFO archive on the scale of the United States’ Project Blue Book or France’s GEIPAN. What it does have is a patchwork: public-broadcast archives from RTP, local press reports, Air Force-linked testimony, books and dossiers by Portuguese investigators, and recent civil reporting through groups such as CIFA, the Centre for the Investigation of Aerospace Phenomena. RTP’s archive is especially useful because it preserves older Portuguese television treatments of the subject, including a 1979 documentary on UFO investigation in Portugal and a 1995 retrospective covering cases in Lamego, the Azores, Soure, Évora and Air Force-linked reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Portugal does not have a public UFO archive on the scale of the United States’ Project Blue Book or France’s GEIPAN. What it does have is a patchwork: public-broadcast archives from RTP, local press reports, Air Force-linked testimony, books and dossiers by Portuguese investigators, and recent civil reporting through groups such as CIFA, the Centre for the Investigation of Aerospace Phenomena. RTP’s archive is especially useful because it preserves older Portuguese television treatments of the subject, including a 1979 documentary on UFO investigation in Portugal and a 1995 retrospective covering cases in Lamego, the Azores, Soure, Évora and Air Force-linked reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Portugal_a49519-overview.webp" | relative_url }}" alt="Overview image for Portugal&#x27;s UFO Files: Mystery, Memory, and..." loading="eager" decoding="sync" fetchpriority="high">
-That patchwork matters because many Portuguese cases circulate internationally in simplified form. A pilot sees a light; a school collects mysterious filaments; a radar operator is said to have detected something; a later blog turns the story into a “cover-up”. The responsible reading is narrower. Portugal has several well-attested reports of unusual aerial observations, but the public record is uneven, and in several cases the surviving evidence is testimony plus secondary reporting rather than a complete, independently verifiable technical file. RTP <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sabado.pt/vida/detalhe/morreu-jose-lemos-ferreira-o-general-que-jurou-ter-visto-um-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sabado.pt">[2sabado.pt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sabado.pt</span><span class="citation-popover-title">morreu jose lemos ferreira o general que jurou ter visto um ovni</span><span class="citation-popover-snippet">morreu jose lemos ferreira o general que jurou ter visto um ovni</span></span></span>
+That patchwork matters because many Portuguese cases circulate internationally in simplified form. A pilot sees a light; a school collects mysterious filaments; a radar operator is said to have detected something; a later blog turns the story into a “cover-up”. The responsible reading is narrower. Portugal has several well-attested reports of unusual aerial observations, but the public record is uneven, and in several cases the surviving evidence is testimony plus secondary reporting rather than a complete, independently verifiable technical file. RTP<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sabado.pt/vida/detalhe/morreu-jose-lemos-ferreira-o-general-que-jurou-ter-visto-um-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sabado.pt">[2sabado.pt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sabado.pt</span><span class="citation-popover-title">morreu jose lemos ferreira o general que jurou ter visto um ovni</span><span class="citation-popover-snippet">morreu jose lemos ferreira o general que jurou ter visto um ovni</span></span></span>
 
 ## A brief chronology of the cases readers usually encounter
 
 The Portuguese UFO story is not one continuous wave. It is better seen as several clusters: early Cold War aviation reports, late-1950s physical-trace claims, 1960s and 1970s rural cases, an early-1980s Air Force incident, and a recent era shaped by smartphones, drones and social media.
 
-The 1957 Lemos Ferreira case is the best-known Portuguese military-pilot sighting. On 4 September 1957, a formation of Portuguese Air Force F-84 aircraft, commanded by José Lemos Ferreira, was on a night navigation training flight from Ota when the pilots reported a luminous object during the route over Spain. Lemos Ferreira later became Chief of Staff of the Portuguese Air Force and then Chief of the General Staff of the Armed Forces, which is one reason the case has remained prominent. In 2007 he told Lusa that UFOs were not a normal topic of Air Force conversation at the time and that a joint report was made after the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Open source on rtp.pt.</span></span></span>
+The 1957 Lemos Ferreira case is the best-known Portuguese military-pilot sighting. On 4 September 1957, a formation of Portuguese Air Force F-84 aircraft, commanded by José Lemos Ferreira, was on a night navigation training flight from Ota when the pilots reported a luminous object during the route over Spain. Lemos Ferreira later became Chief of Staff of the Portuguese Air Force and then Chief of the General Staff of the Armed Forces, which is one reason the case has remained prominent. In 2007 he told Lusa that UFOs were not a normal topic of Air Force conversation at the time and that a joint report was made after the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Open source on rtp.pt.</span></span></span>
 
-The 1959 Évora case is Portugal’s most famous “physical trace” story. On 2 November 1959, witnesses in Évora reported unusual objects or aerial phenomena, followed by the fall of fine white filaments often described in UFO literature as “angel hair”. RTP’s later documentary archive treats Évora as one of the notable Portuguese cases and mentions an Air Force General Staff report on the event. The more cautious interpretation is that Évora is significant because samples were reportedly examined, not because the samples proved an extraterrestrial origin. Wider explanations for “angel hair” include spider ballooning, airborne fibres and other natural or artificial materials; even UFO-friendly accounts often acknowledge that such material can vanish or degrade quickly, making later verification difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 1959 Évora case is Portugal’s most famous “physical trace” story. On 2 November 1959, witnesses in Évora reported unusual objects or aerial phenomena, followed by the fall of fine white filaments often described in UFO literature as “angel hair”. RTP’s later documentary archive treats Évora as one of the notable Portuguese cases and mentions an Air Force General Staff report on the event. The more cautious interpretation is that Évora is significant because samples were reportedly examined, not because the samples proved an extraterrestrial origin. Wider explanations for “angel hair” include spider ballooning, airborne fibres and other natural or artificial materials; even UFO-friendly accounts often acknowledge that such material can vanish or degrade quickly, making later verification difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Azores and Lajes material adds a strategic geography to the story. RTP’s 1995 retrospective includes testimony from Serafim Sebastião, a guard at military installations at Lajes, Terceira Island, about a reported encounter with strange objects in February 1968. The Azores matter because Lajes has long been a major Atlantic military and aviation node; however, that same military and aviation density also raises the odds of misidentified aircraft, lights, exercises and atmospheric effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Azores and Lajes material adds a strategic geography to the story. RTP’s 1995 retrospective includes testimony from Serafim Sebastião, a guard at military installations at Lajes, Terceira Island, about a reported encounter with strange objects in February 1968. The Azores matter because Lajes has long been a major Atlantic military and aviation node; however, that same military and aviation density also raises the odds of misidentified aircraft, lights, exercises and atmospheric effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The 1970s brought a broader Portuguese UFO culture. RTP’s 1979 documentary shows the work of CEAFI, the Centre for Astronomical Studies and Unusual Phenomena in Porto, including field investigation methods, maps, model reconstructions and soil-sample collection from alleged landing or trace sites. The archive refers to a 1967 case in Retorta, near Vila do Conde, where marks in a cornfield were investigated, and to Lamego’s Serra das Meadas, where a luminous object was reported in March 1974. These examples show that Portugal had organised UFO investigation before the internet era, but they also show the central problem: local testimony and field traces are interesting, yet rarely decisive without strong chain-of-custody, instrument data and independent replication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 1970s brought a broader Portuguese UFO culture. RTP’s 1979 documentary shows the work of CEAFI, the Centre for Astronomical Studies and Unusual Phenomena in Porto, including field investigation methods, maps, model reconstructions and soil-sample collection from alleged landing or trace sites. The archive refers to a 1967 case in Retorta, near Vila do Conde, where marks in a cornfield were investigated, and to Lamego’s Serra das Meadas, where a luminous object was reported in March 1974. These examples show that Portugal had organised UFO investigation before the internet era, but they also show the central problem: local testimony and field traces are interesting, yet rarely decisive without strong chain-of-custody, instrument data and independent replication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The 1982 Ota incident is the other major Air Force-linked case in Portuguese UFO discussion. RTP’s programme page for the later “Encontros Imediatos” series identifies Ota, 2 November 1982, as an episode involving Lieutenant Júlio Guerra, a Portuguese Air Force pilot, during a routine training flight. Portuguese press and book references also present the case as one of the better-known national pilot encounters, although the public material available online is still largely mediated through television, books and press summaries rather than a complete technical dossier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtp.pt/noticias/pais/general-lemos-ferreira-recorda-encontro-nos-ceus-50-anos-depois_n46796" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtp.pt">[RTP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtp.pt</span><span class="citation-popover-title">general lemos ferreira recorda encontro nos ceus 50 anos depois n46796</span><span class="citation-popover-snippet">general lemos ferreira recorda encontro nos ceus 50 anos depois n46796</span></span></span>
+The 1982 Ota incident is the other major Air Force-linked case in Portuguese UFO discussion. RTP’s programme page for the later “Encontros Imediatos” series identifies Ota, 2 November 1982, as an episode involving Lieutenant Júlio Guerra, a Portuguese Air Force pilot, during a routine training flight. Portuguese press and book references also present the case as one of the better-known national pilot encounters, although the public material available online is still largely mediated through television, books and press summaries rather than a complete technical dossier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtp.pt/noticias/pais/general-lemos-ferreira-recorda-encontro-nos-ceus-50-anos-depois_n46796" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtp.pt">[RTP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtp.pt</span><span class="citation-popover-title">general lemos ferreira recorda encontro nos ceus 50 anos depois n46796</span><span class="citation-popover-snippet">general lemos ferreira recorda encontro nos ceus 50 anos depois n46796</span></span></span>
 
 <img src="{{ "/assets/images/Portugal_a49519-Illustration-1-dark.svg" | relative_url }}" alt="Portugal&#x27;s UFO Files: Mystery, Memory, and... illustration 1" data-theme-src-dark="{{ "/assets/images/Portugal_a49519-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Portugal_a49519-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official material actually shows
 
 The most important distinction is between “officially mentioned” and “officially explained”. Some Portuguese UFO cases entered military paperwork or were discussed by people with Air Force roles, but that does not automatically mean the state confirmed an extraordinary object.
 
-RTP’s 1995 archive entry explicitly refers to a process from the Air Force Inspectorate concerning UFOs, and its 1979 documentary summary mentions a declaration or report from the Air Force General Staff regarding Évora. Those are important clues that Portuguese military institutions did at least receive, record or comment on some reports. They are not, by themselves, a public declassification equivalent to a searchable national UAP database. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+RTP’s 1995 archive entry explicitly refers to a process from the Air Force Inspectorate concerning UFOs, and its 1979 documentary summary mentions a declaration or report from the Air Force General Staff regarding Évora. Those are important clues that Portuguese military institutions did at least receive, record or comment on some reports. They are not, by themselves, a public declassification equivalent to a searchable national UAP database.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Recent reporting suggests the official posture remains cautious. In 2023, Renascença reported that Portugal’s Air Force General Staff said details about occurrences were not publicly disclosable, while also noting that civil investigators had access to some Air Force cooperation in earlier periods, including questionnaires for pilots who observed anomalous phenomena. This is a meaningful middle ground: not an open public archive, not total silence, and not an endorsement of exotic explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr.pt/fotoreportagem/mundo/2023/02/28/eles-andam-ai-baloes-espioes-que-sao-ovnis-ovnis-que-sao-baloes-espioes/321836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr.pt">[Renascença]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr.pt</span><span class="citation-popover-title">eles andam ai baloes espioes que sao ovnis ovnis que sao baloes espioes</span><span class="citation-popover-snippet">eles andam ai baloes espioes que sao ovnis ovnis que sao baloes espioes</span></span></span>
+Recent reporting suggests the official posture remains cautious. In 2023, Renascença reported that Portugal’s Air Force General Staff said details about occurrences were not publicly disclosable, while also noting that civil investigators had access to some Air Force cooperation in earlier periods, including questionnaires for pilots who observed anomalous phenomena. This is a meaningful middle ground: not an open public archive, not total silence, and not an endorsement of exotic explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr.pt/fotoreportagem/mundo/2023/02/28/eles-andam-ai-baloes-espioes-que-sao-ovnis-ovnis-que-sao-baloes-espioes/321836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr.pt">[Renascença]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr.pt</span><span class="citation-popover-title">eles andam ai baloes espioes que sao ovnis ovnis que sao baloes espioes</span><span class="citation-popover-snippet">eles andam ai baloes espioes que sao ovnis ovnis que sao baloes espioes</span></span></span>
 
 For readers comparing Portugal with sibling country pages in a broader UFO project, Portugal sits somewhere between countries with formal public UFO offices and countries with only folklore or press scraps. It has credible aviation witnesses and some institutional traces, but the documentation is fragmented enough that many claims remain hard to audit.
 
 ## Region-level patterns: coast, air bases and rural sightlines
 
-Portugal’s reported UFO geography is shaped by where people watch the sky and what else is in that sky. The north and centre appear often in older Portuguese UFO material: Porto because of CEAFI and media activity; Vila do Conde and nearby rural areas because of investigated field-trace claims; Lamego and Serra das Meadas because of a 1974 luminous-object report; and Évora because of the 1959 “angel hair” episode. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Portugal’s reported UFO geography is shaped by where people watch the sky and what else is in that sky. The north and centre appear often in older Portuguese UFO material: Porto because of CEAFI and media activity; Vila do Conde and nearby rural areas because of investigated field-trace claims; Lamego and Serra das Meadas because of a 1974 luminous-object report; and Évora because of the 1959 “angel hair” episode.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Azores form a distinct branch. Reports associated with Terceira and Lajes should be read against the islands’ aviation and military context. That makes the stories more interesting, because trained personnel may be present, but also more vulnerable to mundane explanations involving aircraft, exercises, runway lights, radar artefacts, weather and distance misperception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Azores form a distinct branch. Reports associated with Terceira and Lajes should be read against the islands’ aviation and military context. That makes the stories more interesting, because trained personnel may be present, but also more vulnerable to mundane explanations involving aircraft, exercises, runway lights, radar artefacts, weather and distance misperception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Modern reports cluster differently because reporting tools have changed. CIFA-linked coverage says Portugal recorded 19 occurrences in 2021, 31 in 2022 and 33 in 2023, with Setúbal identified in one 2024 report as a leading district for occurrences. Those numbers should not be read as a clean increase in mysterious objects; they may also reflect increased public willingness to report, more cameras, more drones, satellite trains, and the social-media habit of sharing unusual lights before checking astronomy or aviation data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zap.aeiou.pt/detetados-33-ovnis-em-portugal-em-2023-590412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zap.aeiou.pt">[ZAP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zap.aeiou.pt</span><span class="citation-popover-title">detetados 33 ovnis em portugal em 2023 590412</span><span class="citation-popover-snippet">detetados 33 ovnis em portugal em 2023 590412</span></span></span>
+Modern reports cluster differently because reporting tools have changed. CIFA-linked coverage says Portugal recorded 19 occurrences in 2021, 31 in 2022 and 33 in 2023, with Setúbal identified in one 2024 report as a leading district for occurrences. Those numbers should not be read as a clean increase in mysterious objects; they may also reflect increased public willingness to report, more cameras, more drones, satellite trains, and the social-media habit of sharing unusual lights before checking astronomy or aviation data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zap.aeiou.pt/detetados-33-ovnis-em-portugal-em-2023-590412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zap.aeiou.pt">[ZAP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zap.aeiou.pt</span><span class="citation-popover-title">detetados 33 ovnis em portugal em 2023 590412</span><span class="citation-popover-snippet">detetados 33 ovnis em portugal em 2023 590412</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_8Zclz01K3c" title="Mysterious Blue Meteor Lights up Skies in Spain, Portugal | Secret | Aliens @SakshiTV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_8Zclz01K3c" target="_blank" rel="noopener noreferrer">Mysterious Blue Meteor Lights up Skies in Spain, Portugal | Secret | Aliens @SakshiTV</a></p><p class="youtube-embed-meta">Channel: Sakshi TV &middot; Views: 12.2K &middot; Uploaded: May 2024 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_8Zclz01K3c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_8Zclz01K3c">Open on YouTube</a></p></div></div></div>
 
@@ -1238,28 +1238,28 @@ Modern reports cluster differently because reporting tools have changed. CIFA-li
 
 A useful Portuguese UFO page needs a hard evidence split. “UFO” only means unidentified at the moment of report. It does not mean alien, technological, hostile or impossible.
 
-**Confirmed as reports, not confirmed as extraordinary craft:** The Lemos Ferreira sighting is confirmed as a historically reported Air Force-[pilot case]({{ 'pilot-case/' | relative_url }}), backed by later interviews and obituaries that discuss the incident. What is not confirmed is the nature of the object. The evidential strength lies in witness status and consistency of the story’s public survival, not in physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Open source on rtp.pt.</span></span></span>
+**Confirmed as reports, not confirmed as extraordinary craft:** The Lemos Ferreira sighting is confirmed as a historically reported Air Force-[pilot case]({{ 'pilot-case/' | relative_url }}), backed by later interviews and obituaries that discuss the incident. What is not confirmed is the nature of the object. The evidential strength lies in witness status and consistency of the story’s public survival, not in physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Open source on rtp.pt.</span></span></span>
 
-**Contested but culturally important:** Évora’s 1959 “angel hair” case is a classic Portuguese mystery because it involves alleged material, named locations and later institutional discussion. It remains contested because filament falls have plausible natural explanations, including spider silk or other airborne fibres, and because old sample handling is difficult to evaluate decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested but culturally important:** Évora’s 1959 “angel hair” case is a classic Portuguese mystery because it involves alleged material, named locations and later institutional discussion. It remains contested because filament falls have plausible natural explanations, including spider silk or other airborne fibres, and because old sample handling is difficult to evaluate decades later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Often explained after investigation:** Recent CIFA-era reports appear much more prosaic than viral headlines suggest. O Minho reported in 2024 that, according to CIFA’s president, Portugal had not had a truly extraordinary case since the group’s official foundation that could be classed as an inexplicable UAP/UFO, and that the 2023 annual statistical dossier listed 33 occurrences, all explained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ominho.pt/cifa-comeca-a-visitar-aerodromos-em-setembro-em-busca-de-fenomenos-aeroespaciais/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ominho.pt">[O Minho]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ominho.pt</span><span class="citation-popover-title">cifa comeca a visitar aerodromos em setembro em busca de fenomenos aeroespaciais</span><span class="citation-popover-snippet">cifa comeca a visitar aerodromos em setembro em busca de fenomenos aeroespaciais</span></span></span>
+**Often explained after investigation:** Recent CIFA-era reports appear much more prosaic than viral headlines suggest. O Minho reported in 2024 that, according to CIFA’s president, Portugal had not had a truly extraordinary case since the group’s official foundation that could be classed as an inexplicable UAP/UFO, and that the 2023 annual statistical dossier listed 33 occurrences, all explained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ominho.pt/cifa-comeca-a-visitar-aerodromos-em-setembro-em-busca-de-fenomenos-aeroespaciais/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ominho.pt">[O Minho]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ominho.pt</span><span class="citation-popover-title">cifa comeca a visitar aerodromos em setembro em busca de fenomenos aeroespaciais</span><span class="citation-popover-snippet">cifa comeca a visitar aerodromos em setembro em busca de fenomenos aeroespaciais</span></span></span>
 
-**Clearly explained sky events:** The spectacular blue-green fireball seen over Spain and Portugal on 18 May 2024 is a good example of how a dramatic public “UFO-like” event can be rapidly identified. ESA recorded it with a fireball camera in Cáceres and later described the event as a meteor or small comet fragment burning up over the Atlantic; Reuters likewise reported that ESA estimated it crossed Spain and Portugal at around 45 km per second before burning up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Clearly explained sky events:** The spectacular blue-green fireball seen over Spain and Portugal on 18 May 2024 is a good example of how a dramatic public “UFO-like” event can be rapidly identified. ESA recorded it with a fireball camera in Cáceres and later described the event as a meteor or small comet fragment burning up over the Atlantic; Reuters likewise reported that ESA estimated it crossed Spain and Portugal at around 45 km per second before burning up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Portugal_a49519-Illustration-2-dark.svg" | relative_url }}" alt="Portugal&#x27;s UFO Files: Mystery, Memory, and... illustration 2" data-theme-src-dark="{{ "/assets/images/Portugal_a49519-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Portugal_a49519-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The modern CIFA era: more reports, more ordinary explanations
 
-CIFA is now central to Portuguese public UFO reporting. Its website presents it as a national civil group for aerospace-phenomena investigation, with public-facing reporting and membership structures. Local reporting says the Vila do Conde-based group began activity before formal legalisation and sought to document national occurrences for the public rather than simply “chase lights in the sky”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cifa.pt/site/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cifa.pt">[cifa.pt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cifa.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+CIFA is now central to Portuguese public UFO reporting. Its website presents it as a national civil group for aerospace-phenomena investigation, with public-facing reporting and membership structures. Local reporting says the Vila do Conde-based group began activity before formal legalisation and sought to document national occurrences for the public rather than simply “chase lights in the sky”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cifa.pt/site/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cifa.pt">[cifa.pt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cifa.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That matters because contemporary UFO investigation has become less about dramatic witness testimony and more about triage. A sighting report now has to be checked against drones, Starlink and other satellites, aircraft tracking, meteor networks, weather balloons, sky lanterns, military or police activity, camera artefacts and deliberate hoaxes. The same tools that create more reports — phones, social media, cheap drones — also create more ways to explain them.
 
-The March 2026 Porto case illustrates the pattern. Portuguese media reported that witnesses saw an unusual winged object around 02:00, while the Portuguese Air Force said it had not identified unusual phenomena in its surveillance systems. Reporting also noted that CIFA considered an unmanned aircraft, such as a drone possibly used for coastal surveillance or another mission, as a plausible explanation. That is a modern Portuguese UFO case in miniature: interesting enough to investigate, not strong enough to carry an extraordinary claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmjornal.pt/portugal/detalhe/ovni-avistado-no-porto-durante-a-madrugada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmjornal.pt">[CM Jornal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmjornal.pt</span><span class="citation-popover-title">CM Jornal OVNI avistado no Porto durante a madrugada</span><span class="citation-popover-snippet">CM Jornal OVNI avistado no Porto durante a madrugada</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theportugalnews.com/news/2026-03-11/alleged-ufo-sighted-in-portugal/988770" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theportugalnews.com">[The Portugal News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theportugalnews.com</span><span class="citation-popover-title">alleged ufo sighted in portugal</span><span class="citation-popover-snippet">alleged ufo sighted in portugal</span></span></span>
+The March 2026 Porto case illustrates the pattern. Portuguese media reported that witnesses saw an unusual winged object around 02:00, while the Portuguese Air Force said it had not identified unusual phenomena in its surveillance systems. Reporting also noted that CIFA considered an unmanned aircraft, such as a drone possibly used for coastal surveillance or another mission, as a plausible explanation. That is a modern Portuguese UFO case in miniature: interesting enough to investigate, not strong enough to carry an extraordinary claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmjornal.pt/portugal/detalhe/ovni-avistado-no-porto-durante-a-madrugada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmjornal.pt">[CM Jornal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmjornal.pt</span><span class="citation-popover-title">CM Jornal OVNI avistado no Porto durante a madrugada</span><span class="citation-popover-snippet">CM Jornal OVNI avistado no Porto durante a madrugada</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theportugalnews.com/news/2026-03-11/alleged-ufo-sighted-in-portugal/988770" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theportugalnews.com">[The Portugal News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theportugalnews.com</span><span class="citation-popover-title">alleged ufo sighted in portugal</span><span class="citation-popover-snippet">alleged ufo sighted in portugal</span></span></span>
 
 ## Why the Lemos Ferreira case still stands out
 
 The Lemos Ferreira case remains the strongest single Portuguese UFO story for mainstream readers because it has three features many sightings lack: multiple trained military pilots, a defined date and mission context, and later testimony from a figure who became one of Portugal’s senior military officers. It is not a proof case, but it is a serious report.
 
-The details that survive in Portuguese media are vivid: a formation of four F-84 aircraft, a night navigation exercise from Ota, and an object or luminous phenomenon seen during the route over Spain. Later accounts describe colour changes and movement relative to the formation. The case’s evidential weakness is equally clear: without the full original report, radar data, weather reconstruction, astronomical checks and aircraft-position data in a public file, the story cannot be independently resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtp.pt/programa/episodios/tv/p23676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtp.pt">[RTP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtp.pt</span><span class="citation-popover-snippet">Open source on rtp.pt.</span></span></span>
+The details that survive in Portuguese media are vivid: a formation of four F-84 aircraft, a night navigation exercise from Ota, and an object or luminous phenomenon seen during the route over Spain. Later accounts describe colour changes and movement relative to the formation. The case’s evidential weakness is equally clear: without the full original report, radar data, weather reconstruction, astronomical checks and aircraft-position data in a public file, the story cannot be independently resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtp.pt/programa/episodios/tv/p23676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtp.pt">[RTP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtp.pt</span><span class="citation-popover-snippet">Open source on rtp.pt.</span></span></span>
 
 That balance is important. Dismissing the case as fantasy ignores the witness profile; treating it as proof of alien technology ignores the missing technical record. The case belongs in Portugal’s “high-interest, unresolved in public evidence” category.
 
@@ -1269,7 +1269,7 @@ That balance is important. Dismissing the case as fantasy ignores the witness pr
 
 Évora is the case most likely to tempt overstatement. “Angel hair” sounds physical and therefore stronger than a light in the sky. Yet physical-trace UFO cases are only strong when the chain of custody is strong: who collected the sample, how quickly, under what contamination controls, where it was stored, who analysed it, what methods were used, and whether independent laboratories reproduced the results.
 
-RTP’s archive shows that Évora was important enough to appear in Portuguese UFO documentaries and that an Air Force General Staff statement or report was discussed in connection with it. That is a genuine historical footprint. But the wider category of “angel hair” has a long record of naturalistic explanations, especially spider-silk dispersal and other airborne filaments, and old cases often lack the preservation standards a modern forensic reader would want. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+RTP’s archive shows that Évora was important enough to appear in Portuguese UFO documentaries and that an Air Force General Staff statement or report was discussed in connection with it. That is a genuine historical footprint. But the wider category of “angel hair” has a long record of naturalistic explanations, especially spider-silk dispersal and other airborne filaments, and old cases often lack the preservation standards a modern forensic reader would want.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The best reading is therefore restrained: Évora is one of Portugal’s most memorable UFO-associated incidents and a key cultural case for any national chronology, but its material evidence does not currently justify a firm extraordinary conclusion.
 
@@ -1277,7 +1277,7 @@ The best reading is therefore restrained: Évora is one of Portugal’s most mem
 
 Many Portuguese sightings become less mysterious once the viewing conditions are reconstructed. The most common explanation categories are familiar from other countries, but Portugal’s geography gives them local flavour.
 
-Aircraft and military activity are obvious candidates around Ota, Lajes, Lisbon, Porto and coastal zones. Drones have become increasingly relevant in the 2020s, especially for reports of low, slow, oddly shaped or hovering objects near urban and coastal areas. Satellites and Starlink trains can produce repeated reports from people unfamiliar with their appearance. Meteors can produce spectacular, emotional mass sightings, as the May 2024 Spain-Portugal fireball showed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centrotv.sapo.pt/ovni-avistado-no-porto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centrotv.sapo.pt">[CentroTV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centrotv.sapo.pt</span><span class="citation-popover-title">Centro TVOVNI avistado no Porto</span><span class="citation-popover-snippet">Centro TVOVNI avistado no Porto</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Aircraft and military activity are obvious candidates around Ota, Lajes, Lisbon, Porto and coastal zones. Drones have become increasingly relevant in the 2020s, especially for reports of low, slow, oddly shaped or hovering objects near urban and coastal areas. Satellites and Starlink trains can produce repeated reports from people unfamiliar with their appearance. Meteors can produce spectacular, emotional mass sightings, as the May 2024 Spain-Portugal fireball showed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centrotv.sapo.pt/ovni-avistado-no-porto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centrotv.sapo.pt">[CentroTV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centrotv.sapo.pt</span><span class="citation-popover-title">Centro TVOVNI avistado no Porto</span><span class="citation-popover-snippet">Centro TVOVNI avistado no Porto</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Weather and optics also matter. Coastal haze, cloud gaps, aircraft lights seen through broken cloud, bright planets near the horizon, reflections in phone lenses, and distance misjudgement can all turn ordinary objects into extraordinary-looking reports. This does not mean witnesses are dishonest. It means human perception is not a calibrated instrument, especially at night.
 
@@ -1286,11 +1286,11 @@ Weather and optics also matter. Coastal haze, cloud gaps, aircraft lights seen t
 
 Portuguese UFO research depends heavily on local-language sources, and they vary sharply in reliability.
 
-RTP archive entries are valuable because they document what Portuguese television covered, when it covered it, and which cases or investigators appeared. They are not automatic proof that the events happened as claimed, but they are strong evidence that the cases formed part of Portugal’s public record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+RTP archive entries are valuable because they document what Portuguese television covered, when it covered it, and which cases or investigators appeared. They are not automatic proof that the events happened as claimed, but they are strong evidence that the cases formed part of Portugal’s public record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arquivos.rtp.pt">[RTP Arquivos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arquivos.rtp.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Lusa-based reports, carried by outlets such as RTP, Sábado and TSF, are useful for biographical and interview-based details around figures such as José Lemos Ferreira. Their strength is conventional journalism; their limit is that they usually summarise the sighting rather than publish full technical files. RTP <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sabado.pt/vida/detalhe/morreu-jose-lemos-ferreira-o-general-que-jurou-ter-visto-um-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sabado.pt">[2sabado.pt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sabado.pt</span><span class="citation-popover-title">morreu jose lemos ferreira o general que jurou ter visto um ovni</span><span class="citation-popover-snippet">morreu jose lemos ferreira o general que jurou ter visto um ovni</span></span></span>
+Lusa-based reports, carried by outlets such as RTP, Sábado and TSF, are useful for biographical and interview-based details around figures such as José Lemos Ferreira. Their strength is conventional journalism; their limit is that they usually summarise the sighting rather than publish full technical files. RTP<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sabado.pt/vida/detalhe/morreu-jose-lemos-ferreira-o-general-que-jurou-ter-visto-um-ovni" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sabado.pt">[2sabado.pt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sabado.pt</span><span class="citation-popover-title">morreu jose lemos ferreira o general que jurou ter visto um ovni</span><span class="citation-popover-snippet">morreu jose lemos ferreira o general que jurou ter visto um ovni</span></span></span>
 
-Civil-investigator sources such as CIFA are useful for current reporting, especially when they classify cases and consider conventional explanations. Their strongest contribution is systematic collection and triage; their weakest point, from a sceptical evidence standpoint, is that many reports still begin as public witness submissions rather than instrumented detections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cifa.pt/site/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cifa.pt">[cifa.pt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cifa.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Civil-investigator sources such as CIFA are useful for current reporting, especially when they classify cases and consider conventional explanations. Their strongest contribution is systematic collection and triage; their weakest point, from a sceptical evidence standpoint, is that many reports still begin as public witness submissions rather than instrumented detections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cifa.pt/site/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cifa.pt">[cifa.pt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cifa.pt</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Viral posts, copied blog articles and social-media clips should be treated as leads, not sources. They may preserve witness material, but they often strip away dates, locations, camera metadata, failed explanations and contradictory details.
 
@@ -1305,194 +1305,194 @@ Compared with larger UFO traditions, Portugal’s pattern is less bureaucratic a
 The bottom line is sober but interesting. Portugal has several UFO cases worth preserving and re-examining, especially Lemos Ferreira, Évora and Ota. It also has a modern reporting environment in which most sightings appear explainable once investigators check ordinary aerospace, astronomical and atmospheric causes. The country’s UFO history is therefore neither empty nor evidentially conclusive; it is a compact archive of unresolved testimony, partial official traces, local investigation and repeated reminders that “unidentified” is a starting point, not a conclusion.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Portugal&#x27;s UFO Files Mystery, Memory, and Misidentification. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Portugal&#x27;s UFO Files Mystery, Memory, and Misidentification. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains investigative methods useful for assessing Portuguese cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains investigative methods useful for assessing Portuguese cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides contemporary context for government and military reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contemporary context for government and military reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches the page&#x27;s focus on documented cases and official witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the page&#x27;s focus on documented cases and official witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Balances folklore, memory, and unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances folklore, memory, and unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="portugal-s-ufo-files-mystery-memory-and-misidentification-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1508,7 +1508,7 @@ The bottom line is sober but interesting. Portugal has several UFO cases worth p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1528,7 +1528,7 @@ The bottom line is sober but interesting. Portugal has several UFO cases worth p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1560,7 +1560,7 @@ The bottom line is sober but interesting. Portugal has several UFO cases worth p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1612,7 +1612,7 @@ The bottom line is sober but interesting. Portugal has several UFO cases worth p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1657,7 +1657,7 @@ The bottom line is sober but interesting. Portugal has several UFO cases worth p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1698,177 +1698,177 @@ The bottom line is sober but interesting. Portugal has several UFO cases worth p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arquivos.rtp.pt  
-   Link: <a href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/</a>  
+   Link:<a href="https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/casos-em-que-se-observaram-ovnis/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rtp.pt  
    Title: general lemos ferreira recorda encontro nos ceus 50 anos depois n46796  
-   Link: <a href="https://www.rtp.pt/noticias/pais/general-lemos-ferreira-recorda-encontro-nos-ceus-50-anos-depois_n46796" target="_blank" rel="noopener noreferrer nofollow">https://www.rtp.pt/noticias/pais/general-lemos-ferreira-recorda-encontro-nos-ceus-50-anos-depois_n46796</a>  
+   Link:<a href="https://www.rtp.pt/noticias/pais/general-lemos-ferreira-recorda-encontro-nos-ceus-50-anos-depois_n46796" target="_blank" rel="noopener noreferrer nofollow">https://www.rtp.pt/noticias/pais/general-lemos-ferreira-recorda-encontro-nos-ceus-50-anos-depois_n46796</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arquivos.rtp.pt  
-   Link: <a href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/</a>  
+   Link:<a href="https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/" target="_blank" rel="noopener noreferrer nofollow">https://arquivos.rtp.pt/conteudos/encontros-imediatos-do-nosso-grau-parte-ii/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sabado.pt  
    Title: morreu jose lemos ferreira o general que jurou ter visto um ovni  
-   Link: <a href="https://www.sabado.pt/vida/detalhe/morreu-jose-lemos-ferreira-o-general-que-jurou-ter-visto-um-ovni" target="_blank" rel="noopener noreferrer nofollow">https://www.sabado.pt/vida/detalhe/morreu-jose-lemos-ferreira-o-general-que-jurou-ter-visto-um-ovni</a>  
+   Link:<a href="https://www.sabado.pt/vida/detalhe/morreu-jose-lemos-ferreira-o-general-que-jurou-ter-visto-um-ovni" target="_blank" rel="noopener noreferrer nofollow">https://www.sabado.pt/vida/detalhe/morreu-jose-lemos-ferreira-o-general-que-jurou-ter-visto-um-ovni</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rtp.pt  
-   Link: <a href="https://www.rtp.pt/programa/episodios/tv/p23676" target="_blank" rel="noopener noreferrer nofollow">https://www.rtp.pt/programa/episodios/tv/p23676</a>  
+   Link:<a href="https://www.rtp.pt/programa/episodios/tv/p23676" target="_blank" rel="noopener noreferrer nofollow">https://www.rtp.pt/programa/episodios/tv/p23676</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain</a>  
+   Link:<a href="https://www.esa.int/ESA_Multimedia/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: esa.int  
    Title: Fireball witnessed by weather satellite  
-   Link: <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Fireball_witnessed_by_weather_satellite" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Fireball_witnessed_by_weather_satellite</a>  
+   Link:<a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Fireball_witnessed_by_weather_satellite" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Fireball_witnessed_by_weather_satellite</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/science/comet-fragment-lights-up-sky-over-spain-portugal-like-movie-2024-05-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/science/comet-fragment-lights-up-sky-over-spain-portugal-like-movie-2024-05-19/</a>  
+   Link:<a href="https://www.reuters.com/science/comet-fragment-lights-up-sky-over-spain-portugal-like-movie-2024-05-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/science/comet-fragment-lights-up-sky-over-spain-portugal-like-movie-2024-05-19/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cifa.pt  
-   Link: <a href="https://cifa.pt/site/" target="_blank" rel="noopener noreferrer nofollow">https://cifa.pt/site/</a>  
+   Link:<a href="https://cifa.pt/site/" target="_blank" rel="noopener noreferrer nofollow">https://cifa.pt/site/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tsf.pt  
-   Link: <a href="https://www.tsf.pt/portugal/artigo/morreu-jose-lemos-ferreira-antigo-chefe-do-estado-maior-general-das-forcas-armadas-/11740334" target="_blank" rel="noopener noreferrer nofollow">https://www.tsf.pt/portugal/artigo/morreu-jose-lemos-ferreira-antigo-chefe-do-estado-maior-general-das-forcas-armadas-/11740334</a>  
+   Link:<a href="https://www.tsf.pt/portugal/artigo/morreu-jose-lemos-ferreira-antigo-chefe-do-estado-maior-general-das-forcas-armadas-/11740334" target="_blank" rel="noopener noreferrer nofollow">https://www.tsf.pt/portugal/artigo/morreu-jose-lemos-ferreira-antigo-chefe-do-estado-maior-general-das-forcas-armadas-/11740334</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: esa.int  
    Title: ES A Television  
-   Link: <a href="https://www.esa.int/esatv/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/esatv/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain</a>  
+   Link:<a href="https://www.esa.int/esatv/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/esatv/Videos/2024/05/Stunning_meteor_captured_by_ESA_s_fireball_camera_in_Caceres_Spain</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: esa.int  
    Title: ESA analysing fireball over Europe on 8 March 2026  
-   Link: <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026</a>  
+   Link:<a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026</a>  
    Published: March 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: rtp.pt  
-   Link: <a href="https://www.rtp.pt/programa/tv/p23676/e2" target="_blank" rel="noopener noreferrer nofollow">https://www.rtp.pt/programa/tv/p23676/e2</a>  
+   Link:<a href="https://www.rtp.pt/programa/tv/p23676/e2" target="_blank" rel="noopener noreferrer nofollow">https://www.rtp.pt/programa/tv/p23676/e2</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
    Title: meteor green fireball spain portugal may 19 2024  
-   Link: <a href="https://www.space.com/meteor-green-fireball-spain-portugal-may-19-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/meteor-green-fireball-spain-portugal-may-19-2024</a>  
+   Link:<a href="https://www.space.com/meteor-green-fireball-spain-portugal-may" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/meteor-green-fireball-spain-portugal-may</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ominho.pt  
    Title: cifa comeca a visitar aerodromos em setembro em busca de fenomenos aeroespaciais  
-   Link: <a href="https://ominho.pt/cifa-comeca-a-visitar-aerodromos-em-setembro-em-busca-de-fenomenos-aeroespaciais/" target="_blank" rel="noopener noreferrer nofollow">https://ominho.pt/cifa-comeca-a-visitar-aerodromos-em-setembro-em-busca-de-fenomenos-aeroespaciais/</a>  
+   Link:<a href="https://ominho.pt/cifa-comeca-a-visitar-aerodromos-em-setembro-em-busca-de-fenomenos-aeroespaciais/" target="_blank" rel="noopener noreferrer nofollow">https://ominho.pt/cifa-comeca-a-visitar-aerodromos-em-setembro-em-busca-de-fenomenos-aeroespaciais/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rr.pt  
    Title: eles andam ai baloes espioes que sao ovnis ovnis que sao baloes espioes  
-   Link: <a href="https://rr.pt/fotoreportagem/mundo/2023/02/28/eles-andam-ai-baloes-espioes-que-sao-ovnis-ovnis-que-sao-baloes-espioes/321836/" target="_blank" rel="noopener noreferrer nofollow">https://rr.pt/fotoreportagem/mundo/2023/02/28/eles-andam-ai-baloes-espioes-que-sao-ovnis-ovnis-que-sao-baloes-espioes/321836/</a>  
+   Link:<a href="https://rr.pt/fotoreportagem/mundo/2023/02/28/eles-andam-ai-baloes-espioes-que-sao-ovnis-ovnis-que-sao-baloes-espioes/321836/" target="_blank" rel="noopener noreferrer nofollow">https://rr.pt/fotoreportagem/mundo/2023/02/28/eles-andam-ai-baloes-espioes-que-sao-ovnis-ovnis-que-sao-baloes-espioes/321836/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: zap.aeiou.pt  
    Title: detetados 33 ovnis em portugal em 2023 590412  
-   Link: <a href="https://zap.aeiou.pt/detetados-33-ovnis-em-portugal-em-2023-590412" target="_blank" rel="noopener noreferrer nofollow">https://zap.aeiou.pt/detetados-33-ovnis-em-portugal-em-2023-590412</a>  
+   Link:<a href="https://zap.aeiou.pt/detetados-33-ovnis-em-portugal-em-2023-590412" target="_blank" rel="noopener noreferrer nofollow">https://zap.aeiou.pt/detetados-33-ovnis-em-portugal-em-2023-590412</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cmjornal.pt  
    Title: CM Jornal OVNI avistado no Porto durante a madrugada  
-   Link: <a href="https://www.cmjornal.pt/portugal/detalhe/ovni-avistado-no-porto-durante-a-madrugada" target="_blank" rel="noopener noreferrer nofollow">https://www.cmjornal.pt/portugal/detalhe/ovni-avistado-no-porto-durante-a-madrugada</a>  
+   Link:<a href="https://www.cmjornal.pt/portugal/detalhe/ovni-avistado-no-porto-durante-a-madrugada" target="_blank" rel="noopener noreferrer nofollow">https://www.cmjornal.pt/portugal/detalhe/ovni-avistado-no-porto-durante-a-madrugada</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theportugalnews.com  
    Title: alleged ufo sighted in portugal  
-   Link: <a href="https://www.theportugalnews.com/news/2026-03-11/alleged-ufo-sighted-in-portugal/988770" target="_blank" rel="noopener noreferrer nofollow">https://www.theportugalnews.com/news/2026-03-11/alleged-ufo-sighted-in-portugal/988770</a>  
+   Link:<a href="https://www.theportugalnews.com/news/2026-03-11/alleged-ufo-sighted-in-portugal/988770" target="_blank" rel="noopener noreferrer nofollow">https://www.theportugalnews.com/news/2026-03-11/alleged-ufo-sighted-in-portugal/988770</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: centrotv.sapo.pt  
    Title: Centro TVOVNI avistado no Porto  
-   Link: <a href="https://centrotv.sapo.pt/ovni-avistado-no-porto/" target="_blank" rel="noopener noreferrer nofollow">https://centrotv.sapo.pt/ovni-avistado-no-porto/</a>  
+   Link:<a href="https://centrotv.sapo.pt/ovni-avistado-no-porto/" target="_blank" rel="noopener noreferrer nofollow">https://centrotv.sapo.pt/ovni-avistado-no-porto/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cmjornal.pt  
    Title: Ovnis entre nós  
-   Link: <a href="https://www.cmjornal.pt/domingo/detalhe/ovnis_entre_nos" target="_blank" rel="noopener noreferrer nofollow">https://www.cmjornal.pt/domingo/detalhe/ovnis_entre_nos</a>  
+   Link:<a href="https://www.cmjornal.pt/domingo/detalhe/ovnis_entre_nos" target="_blank" rel="noopener noreferrer nofollow">https://www.cmjornal.pt/domingo/detalhe/ovnis_entre_nos</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cmjornal.pt  
    Title: josé lemos ferreira  
-   Link: <a href="https://www.cmjornal.pt/maissobre/jos%C3%A9-lemos-ferreira" target="_blank" rel="noopener noreferrer nofollow">https://www.cmjornal.pt/maissobre/jos%C3%A9-lemos-ferreira</a>  
+   Link:<a href="https://www.cmjornal.pt/maissobre/jos%C3%A9-lemos-ferreira" target="_blank" rel="noopener noreferrer nofollow">https://www.cmjornal.pt/maissobre/jos%C3%A9-lemos-ferreira</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cmjornal.pt  
-   Link: <a href="https://www.cmjornal.pt/maissobre/lemos-ferreira" target="_blank" rel="noopener noreferrer nofollow">https://www.cmjornal.pt/maissobre/lemos-ferreira</a>  
+   Link:<a href="https://www.cmjornal.pt/maissobre/lemos-ferreira" target="_blank" rel="noopener noreferrer nofollow">https://www.cmjornal.pt/maissobre/lemos-ferreira</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cmjornal.pt  
    Title: morreu jose lemos ferreira o acrobata que mudou a aviacao  
-   Link: <a href="https://www.cmjornal.pt/sociedade/detalhe/morreu-jose-lemos-ferreira-o-acrobata-que-mudou-a-aviacao" target="_blank" rel="noopener noreferrer nofollow">https://www.cmjornal.pt/sociedade/detalhe/morreu-jose-lemos-ferreira-o-acrobata-que-mudou-a-aviacao</a>  
+   Link:<a href="https://www.cmjornal.pt/sociedade/detalhe/morreu-jose-lemos-ferreira-o-acrobata-que-mudou-a-aviacao" target="_blank" rel="noopener noreferrer nofollow">https://www.cmjornal.pt/sociedade/detalhe/morreu-jose-lemos-ferreira-o-acrobata-que-mudou-a-aviacao</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fSxE7al9ooQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fSxE7al9ooQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=fSxE7al9ooQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fSxE7al9ooQ</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QhM4msOTTsk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QhM4msOTTsk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=QhM4msOTTsk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QhM4msOTTsk</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Encontros Imediatos  
-   Link: <a href="https://www.youtube.com/watch?v=SCDgsgVkeoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SCDgsgVkeoY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=SCDgsgVkeoY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SCDgsgVkeoY</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZIeR5Bbi0pc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZIeR5Bbi0pc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ZIeR5Bbi0pc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZIeR5Bbi0pc</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Testemunho de avistamento de um Ovni em Portugal por Ex Piloto da Força Aérea  
-   Link: <a href="https://www.youtube.com/watch?v=87sRbpW90DA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=87sRbpW90DA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ELE AVISTOU UM OVNI… - Ex piloto da Força Aérea Portuguesa | VILA MEDIA...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=87sRbpW90DA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=87sRbpW90DA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ELE AVISTOU UM OVNI… - Ex piloto da Força Aérea Portuguesa | VILA MEDIA...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Close Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=L5kRB2MW6Vk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L5kRB2MW6Vk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testemunho de avistamento de um Ovni em Portugal por Ex Piloto da Força Aérea...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=L5kRB2MW6Vk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L5kRB2MW6Vk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testemunho de avistamento de um Ovni em Portugal por Ex Piloto da Força Aérea...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DLnmpuSRH6_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLnmpuSRH6_/</a>  
+   Link:<a href="https://www.instagram.com/p/DLnmpuSRH6_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLnmpuSRH6_/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: podimo.com  
-   Link: <a href="https://podimo.com/no/shows/uapod-unidentified-anomalous-podcast/episode/ffed115b-722e-4aab-b51d-3e446bf6307e" target="_blank" rel="noopener noreferrer nofollow">https://podimo.com/no/shows/uapod-unidentified-anomalous-podcast/episode/ffed115b-722e-4aab-b51d-3e446bf6307e</a>  
+   Link:<a href="https://podimo.com/no/shows/uapod-unidentified-anomalous-podcast/episode/ffed115b-722e-4aab-b51d-3e446bf6307e" target="_blank" rel="noopener noreferrer nofollow">https://podimo.com/no/shows/uapod-unidentified-anomalous-podcast/episode/ffed115b-722e-4aab-b51d-3e446bf6307e</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/43789410/A_For%C3%A7a_A%C3%A9rea_Brasileira_e_a_investiga%C3%A7%C3%A3o_acerca_de_objetos_a%C3%A9reos_n%C3%A3o_identificados_1969_1986_segredos_tecnologias_e_guerras_n%C3%A3o_convencionais" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43789410/A_For%C3%A7a_A%C3%A9rea_Brasileira_e_a_investiga%C3%A7%C3%A3o_acerca_de_objetos_a%C3%A9reos_n%C3%A3o_identificados_1969_1986_segredos_tecnologias_e_guerras_n%C3%A3o_convencionais</a>  
+   Link:<a href="https://www.academia.edu/43789410/A_For%C3%A7a_A%C3%A9rea_Brasileira_e_a_investiga%C3%A7%C3%A3o_acerca_de_objetos_a%C3%A9reos_n%C3%A3o_identificados_1969_1986_segredos_tecnologias_e_guerras_n%C3%A3o_convencionais" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43789410/A_For%C3%A7a_A%C3%A9rea_Brasileira_e_a_investiga%C3%A7%C3%A3o_acerca_de_objetos_a%C3%A9reos_n%C3%A3o_identificados_1969_1986_segredos_tecnologias_e_guerras_n%C3%A3o_convencionais</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100089933822237/posts/a-recent-ufo-sighting-near-montijo-portugal-has-sparked-global-interest-the-obje/881433868197733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089933822237/posts/a-recent-ufo-sighting-near-montijo-portugal-has-sparked-global-interest-the-obje/881433868197733/</a>  
+   Link:<a href="https://www.facebook.com/100089933822237/posts/a-recent-ufo-sighting-near-montijo-portugal-has-sparked-global-interest-the-obje/881433868197733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089933822237/posts/a-recent-ufo-sighting-near-montijo-portugal-has-sparked-global-interest-the-obje/881433868197733/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/pl/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/pl/air-force-alert-for-ufo/</a>  
+   Link:<a href="https://www.portugalresident.com/pl/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/pl/air-force-alert-for-ufo/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
+   Link:<a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/pt/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/pt/air-force-alert-for-ufo/</a>  
+   Link:<a href="https://www.portugalresident.com/pt/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/pt/air-force-alert-for-ufo/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C8gvrK4y9vL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C8gvrK4y9vL/</a>
+   Link:<a href="https://www.instagram.com/reel/C8gvrK4y9vL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C8gvrK4y9vL/</a>

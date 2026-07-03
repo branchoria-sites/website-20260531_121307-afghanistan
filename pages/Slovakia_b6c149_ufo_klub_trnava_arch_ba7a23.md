@@ -248,14 +248,14 @@ image: /assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-1
 
 ## Introduction
 
-The closest thing Slovakia has to a national UFO archive is not a government database, military release programme or declassified intelligence collection. It is a civilian project built around <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO Klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">Prednášky&#124;Kategórie&#124;. Pozorovania. Hlásenia · Preverené pozorovania. &#124;. Články. UFO · Mimozemšťania · Kruhy v obilí...Read more...</span></span></span>, an organisation that has spent decades gathering witness reports, cataloguing unusual aerial observations and preserving stories that might otherwise have disappeared into local newspapers or private memory. According to the club's own history, it emerged during the political opening that followed the end of communist rule and eventually assembled hundreds of records covering UFO sightings, strange lights, alleged close encounters and related anomalous claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+The closest thing Slovakia has to a national UFO archive is not a government database, military release programme or declassified intelligence collection. It is a civilian project built around<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoklub-trnava.sk">[UFO Klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoklub-trnava.sk</span><span class="citation-popover-snippet">Prednášky&#124;Kategórie&#124;. Pozorovania. Hlásenia · Preverené pozorovania. &#124;. Články. UFO · Mimozemšťania · Kruhy v obilí...Read more...</span></span></span>, an organisation that has spent decades gathering witness reports, cataloguing unusual aerial observations and preserving stories that might otherwise have disappeared into local newspapers or private memory. According to the club's own history, it emerged during the political opening that followed the end of communist rule and eventually assembled hundreds of records covering UFO sightings, strange lights, alleged close encounters and related anomalous claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-1-dark.svg" | relative_url }}" alt="Trnava Archive illustration 1" data-theme-src-dark="{{ "/assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That archive matters because Slovakia lacks a widely accessible state UFO repository. For researchers, journalists and enthusiasts, the Trnava collection functions as the main public record of how Slovaks have reported unexplained aerial phenomena over time. At the same time, its value and its limitations are inseparable. The archive preserves witness testimony and local chronology, but most cases lack the independent sensor data needed for firm conclusions. Understanding Slovakia's UFO record therefore means understanding how UFO Klub Trnava gathers, filters and interprets reports.
 
 ## How UFO Klub Trnava built its archive
 
-UFO Klub Trnava describes itself as Slovakia's longest-running UFO organisation. Its public materials state that the club formally developed in the early 1990s, although some accounts place its roots around the political transition period of 1989. The organisation emerged when independent civic associations became easier to establish and publish after decades of communist-era restrictions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+UFO Klub Trnava describes itself as Slovakia's longest-running UFO organisation. Its public materials state that the club formally developed in the early 1990s, although some accounts place its roots around the political transition period of 1989. The organisation emerged when independent civic associations became easier to establish and publish after decades of communist-era restrictions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 Unlike larger national UFO organisations elsewhere in Europe, the club was never backed by a university, state agency or scientific institute. Its archive grew through:
 
@@ -266,13 +266,13 @@ Unlike larger national UFO organisations elsewhere in Europe, the club was never
 * Interviews with observers.
 * Regional investigations by members.
 * Public lectures and outreach events.
-* Correspondence with researchers in neighbouring countries. UFO klub Trnava <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">UFO klub Trnava</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+* Correspondence with researchers in neighbouring countries. UFO klub Trnava<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">UFO klub Trnava</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 </div>
 
 This grassroots origin shaped the collection. The archive reflects where active members lived, where reports reached the club and which stories generated enough interest to be documented. As a result, western Slovakia appears more heavily represented than some other regions, not necessarily because more unusual phenomena occurred there, but because reporting networks were stronger.
 
-The club's own descriptions indicate that over its first decades it accumulated hundreds of cases. Those records extend beyond classic UFO sightings and include reports involving crop formations, alleged paranormal experiences and other unexplained phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+The club's own descriptions indicate that over its first decades it accumulated hundreds of cases. Those records extend beyond classic UFO sightings and include reports involving crop formations, alleged paranormal experiences and other unexplained phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 That broad scope makes the archive culturally rich but methodologically uneven. A database that mixes aerial observations with wider paranormal claims preserves more of the country's anomalous folklore, yet it also creates challenges for researchers attempting to isolate strictly aviation-related or astronomical events.
 
@@ -282,7 +282,7 @@ That broad scope makes the archive culturally rich but methodologically uneven. 
 
 One of the most important distinctions within the Trnava archive is the separation between ordinary reports and what the club labels as "verified observations". The terminology can easily be misunderstood.
 
-In the archive context, "verified" does not mean that an extraterrestrial craft has been confirmed. Instead, it generally indicates that the report passed through some level of follow-up review, documentation or witness checking before being entered into the catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+In the archive context, "verified" does not mean that an extraterrestrial craft has been confirmed. Instead, it generally indicates that the report passed through some level of follow-up review, documentation or witness checking before being entered into the catalogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 The records typically include details such as:
 
@@ -293,7 +293,7 @@ The records typically include details such as:
 * Basic object description.
 * Witness account.
 * Shape classifications such as disc, sphere, oval or cigar.
-* Brief narrative summaries. UFO klub Trnava <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">UFO klub Trnava</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+* Brief narrative summaries. UFO klub Trnava<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">UFO klub Trnava</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 </div>
 
@@ -312,7 +312,7 @@ This approach creates a structured historical record, but it is very different f
 
 Because those supporting datasets are usually absent, the archive's strongest evidential contribution is chronological rather than definitive. It shows what people reported, where they reported it and how descriptions changed across decades.
 
-For example, listings associated with eastern Slovak locations such as Košice include reports stretching from wartime-era observations to sightings from the 1990s. The continuity is noteworthy because it demonstrates that unusual-aerial-object reporting in Slovakia predates the internet age and modern social media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+For example, listings associated with eastern Slovak locations such as Košice include reports stretching from wartime-era observations to sightings from the 1990s. The continuity is noteworthy because it demonstrates that unusual-aerial-object reporting in Slovakia predates the internet age and modern social media.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-2-dark.svg" | relative_url }}" alt="Trnava Archive illustration 2" data-theme-src-dark="{{ "/assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the archive matters even when cases remain unresolved
@@ -345,11 +345,11 @@ The Trnava archive has several advantages that official institutions often lack.
 
 ### It preserves reports that governments never collected
 
-Many sightings occur in circumstances where no state body records them. Witnesses may tell neighbours, local journalists or enthusiasts rather than police or aviation authorities. A civilian archive can capture those otherwise lost observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+Many sightings occur in circumstances where no state body records them. Witnesses may tell neighbours, local journalists or enthusiasts rather than police or aviation authorities. A civilian archive can capture those otherwise lost observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 ### It creates long-term continuity
 
-Government priorities change. Small enthusiast organisations sometimes maintain interest in a subject for decades. The Trnava collection spans multiple generations of reporting and therefore provides continuity across political and technological eras. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+Government priorities change. Small enthusiast organisations sometimes maintain interest in a subject for decades. The Trnava collection spans multiple generations of reporting and therefore provides continuity across political and technological eras.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 ### It preserves regional detail
 
@@ -358,7 +358,7 @@ Many entries contain local geographical context that would likely disappear from
 <img src="{{ "/assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-3-dark.svg" | relative_url }}" alt="Trnava Archive illustration 3" data-theme-src-dark="{{ "/assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovakia_b6c149_ufo_klub_trnava_arch_ba7a23-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### It encourages witness participation
 
-The club continues to invite public submissions through reporting channels and outreach activities. For observers reluctant to contact authorities, a civilian organisation can appear more approachable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">UFO klub Trnava</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+The club continues to invite public submissions through reporting channels and outreach activities. For observers reluctant to contact authorities, a civilian organisation can appear more approachable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">UFO klub Trnava</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 ## Where the archive reaches its limits
 
@@ -380,7 +380,7 @@ The archive contains reports that reached the organisation. It cannot represent 
 
 ### Paranormal overlap complicates analysis
 
-Because the club's interests extend beyond aerial phenomena into broader anomalous subjects, researchers focused strictly on unidentified aerial objects must separate different categories of claims before drawing conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+Because the club's interests extend beyond aerial phenomena into broader anomalous subjects, researchers focused strictly on unidentified aerial objects must separate different categories of claims before drawing conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 ### Lack of independent confirmation
 
@@ -390,199 +390,199 @@ The biggest limitation remains the absence of supporting sensor data in most cas
 
 The archive's deeper significance may be cultural rather than evidential. It shows how Slovakia's UFO narrative developed through citizen networks rather than official disclosure programmes.
 
-In countries such as France, Britain or the United States, public debate often centres on military records and government files. Slovakia's record developed differently. Civilian enthusiasts became the primary custodians of reports, creating an archive that reflects local interests, witness experiences and regional storytelling traditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
+In countries such as France, Britain or the United States, public debate often centres on military records and government files. Slovakia's record developed differently. Civilian enthusiasts became the primary custodians of reports, creating an archive that reflects local interests, witness experiences and regional storytelling traditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[UFO klub Trnava]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</span></span></span>
 
 That history helps explain why Slovak UFO discussions frequently revolve around individual sightings, recurring local hotspots and eyewitness recollections rather than leaked documents or official investigations. The Trnava archive is therefore more than a database of strange lights in the sky. It is the main surviving framework through which much of Slovakia's public UFO memory has been preserved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Keeps Slovakia&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Keeps Slovakia&#x27;s UFO Records?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly relates to cataloguing and assessing large UFO report archives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to cataloguing and assessing large UFO report archives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines how researchers interpret accumulated case files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how researchers interpret accumulated case files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the importance of documentation and witness credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of documentation and witness credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hynek UFO Report">Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hynek UFO Report">Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Discusses investigation standards and report classification systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses investigation standards and report classification systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-slovakia-s-ufo-records-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-keeps-slovakia-s-ufo-records-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ That history helps explain why Slovak UFO discussions frequently revolve around 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ That history helps explain why Slovak UFO discussions frequently revolve around 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ That history helps explain why Slovak UFO discussions frequently revolve around 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ That history helps explain why Slovak UFO discussions frequently revolve around 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ That history helps explain why Slovak UFO discussions frequently revolve around 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,107 +785,106 @@ That history helps explain why Slovak UFO discussions frequently revolve around 
 })();
 </script>
 </section>
-
 ## References
 
 [- UFO Klub Trnava([https://www.ufoklub-trnava.sk/](https://www.ufoklub-trnava.sk/))](#endnote-1 "
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more&quot;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more&quot;)...</p></details>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
    Title: UFO klub Trnava  
-   Link: <a href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrslovakcom1/posts/ufo-klub-trnava-bol-zalo%C5%BEen%C3%BD-e%C5%A1te-v-roku-1989-a-dodnes-ako-jedin%C3%BD-na-slovensku-f/1136278278117213/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Počas svojej činnosti zozbieral a zaevidoval viac ako...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ufo.klub.trnava/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufo.klub.trnava/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO klub TrnavaPozorovali ste UFO, či iný nezvyčajný jav? V tom prípade môžete vyplniť nasledujúci formulár a my sa pokúsime vaše...</p></details>
+   Link:<a href="https://www.facebook.com/ufo.klub.trnava/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufo.klub.trnava/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO klub TrnavaPozorovali ste UFO, či iný nezvyčajný jav? V tom prípade môžete vyplniť nasledujúci formulár a my sa pokúsime vaše...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: morebooks1929bost djvu.txt  
-   Link: <a href="https://archive.org/stream/morebooks1929bost/morebooks1929bost_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/morebooks1929bost/morebooks1929bost_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Full text of &quot;More books&quot;Full text of &quot;More books&quot;. See other formats. / MORE BOOKS 1 Di gitized by the Internet Archive in 2015 [https://...&quot;](https://...&quot;)...</p></details>
+   Link:<a href="https://archive.org/stream/morebooks1929bost/morebooks1929bost_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/morebooks1929bost/morebooks1929bost_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Full text of &quot;More books&quot;Full text of &quot;More books&quot;. See other formats. / MORE BOOKS 1 Di gitized by the Internet Archive in 2015 [https://...&quot;](https://...&quot;)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/nihilobstat00rame/nihilobstat00rame.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/nihilobstat00rame/nihilobstat00rame.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nihil Obstat... uFo sighting began in November. 1989, the month in which the political... sightings of UFOs, or—put more simply— that ma...</p></details>
+   Link:<a href="https://archive.org/download/nihilobstat00rame/nihilobstat00rame.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/nihilobstat00rame/nihilobstat00rame.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nihil Obstat... uFo sighting began in November. 1989, the month in which the political... sightings of UFOs, or—put more simply— that ma...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/281043022231852/posts/728907320778751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/281043022231852/posts/728907320778751/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brzesko ceremony of remembrance and family history...Fifteen years ago, I uncovered a 291-page case file that the Nazis left behind—a fi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/281043022231852/posts/728907320778751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/281043022231852/posts/728907320778751/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brzesko ceremony of remembrance and family history...Fifteen years ago, I uncovered a 291-page case file that the Nazis left behind—a fi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Lužifčák #175 Miroslav Karlík  
-   Link: <a href="https://www.youtube.com/watch?v=Xz1fS2qRtWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xz1fS2qRtWY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO klub Trnava. Kruhy v obilí a neznáme objekty. 1992 - 2008...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xz1fS2qRtWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xz1fS2qRtWY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO klub Trnava. Kruhy v obilí a neznáme objekty. 1992 - 2008...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bUzmMEJ76zE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bUzmMEJ76zE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Život vo vesmíre! Svedectvo unesených velikánov, UFO klub Trnava 2010 - Ferdinand Varga...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bUzmMEJ76zE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bUzmMEJ76zE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Život vo vesmíre! Svedectvo unesených velikánov, UFO klub Trnava 2010 - Ferdinand Varga...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufoklub-trnava.sk  
-   Link: <a href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoklub-trnava.sk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prednášky|Kategórie|. Pozorovania. Hlásenia · Preverené pozorovania. |. Články. UFO · Mimozemšťania · Kruhy v obilí...Read more...</p></details>
+   Link:<a href="https://www.ufoklub-trnava.sk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoklub-trnava.sk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prednášky|Kategórie|. Pozorovania. Hlásenia · Preverené pozorovania. |. Články. UFO · Mimozemšťania · Kruhy v obilí...Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: carnivoreconservation.org  
-   Link: <a href="https://www.carnivoreconservation.org/files/meetings/eccb_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.carnivoreconservation.org/files/meetings/eccb_2009.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ECCB... data showing that protected areas are not safe from invasions by alien plants. Studies of alien species in nature reserves locate...</p></details>
+   Link:<a href="https://www.carnivoreconservation.org/files/meetings/eccb_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.carnivoreconservation.org/files/meetings/eccb_2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ECCB... data showing that protected areas are not safe from invasions by alien plants. Studies of alien species in nature reserves locate...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bulles.terre.be  
-   Link: <a href="https://bulles.terre.be/terre_sf/" target="_blank" rel="noopener noreferrer nofollow">https://bulles.terre.be/terre_sf/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terre... aliens,sobaka,keyboard,kangaroo,sinner,soccer1,0.0.000,bonjour,socrates... observations,euro,incidents,vinyl,profession,haven,d...</p></details>
+   Link:<a href="https://bulles.terre.be/terre_sf/" target="_blank" rel="noopener noreferrer nofollow">https://bulles.terre.be/terre_sf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terre... aliens,sobaka,keyboard,kangaroo,sinner,soccer1,0.0.000,bonjour,socrates... observations,euro,incidents,vinyl,profession,haven,d...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ndl.ethernet.edu.et  
-   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/45194/1/37.Kieran%20Williams.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/45194/1/37.Kieran%20Williams.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Services in New Democraciesby K Williams · Cited by 96 — This series includes books on general, political, historical, econo...</p></details>
+   Link:<a href="https://ndl.ethernet.edu.et/bitstream/123456789/45194/1/37.Kieran%20Williams.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/45194/1/37.Kieran%20Williams.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Services in New Democraciesby K Williams · Cited by 96 — This series includes books on general, political, historical, econo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tripadvisor.com  
-   Link: <a href="https://www.tripadvisor.com/Attractions-g274924-Activities-c42-t228-Bratislava_Bratislava_Region.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attractions-g274924-Activities-c42-t228-Bratislava_Bratislava_Region.html</a>  
+   Link:<a href="https://www.tripadvisor.com/Attractions-g274924-Activities-c42-t228-Bratislava_Bratislava_Region.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attractions-g274924-Activities-c42-t228-Bratislava_Bratislava_Region.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fmk.ucm.sk  
-   Link: <a href="https://fmk.ucm.sk/files/archiv/Megatrends_and_Media_On-the-Edge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fmk.ucm.sk/files/archiv/Megatrends_and_Media_On-the-Edge.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Media: On the EdgeMegatrends and Media is an international scientific event organised by the Faculty of Mass. Media Communication at...</p></details>
+   Link:<a href="https://fmk.ucm.sk/files/archiv/Megatrends_and_Media_On-the-Edge.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fmk.ucm.sk/files/archiv/Megatrends_and_Media_On-the-Edge.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Media: On the EdgeMegatrends and Media is an international scientific event organised by the Faculty of Mass. Media Communication at...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: downey-n1.cs.northwestern.edu  
    Title: edubiennials verplank tsukino biysk woode nunnery icici gavar  
-   Link: <a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings sohnesliebe euskadiko pressly skeptical realmont storsponen kohima... ufo ufa splawie ufc northey kemnay stompe tesimond trety...</p></details>
+   Link:<a href="https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt" target="_blank" rel="noopener noreferrer nofollow">https://downey-n1.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/all_entity_str.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sightings sohnesliebe euskadiko pressly skeptical realmont storsponen kohima... ufo ufa splawie ufc northey kemnay stompe tesimond trety...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dokumen.pub  
    Title: East Central Europe in Exile Volume 1: Transatlantic  
-   Link: <a href="https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Contract Labour Law of 1885 the importation and migration of foreigners and aliens under contract or agreement to perform labour wa...</p></details>
+   Link:<a href="https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/east-central-europe-in-exile-volume-1-transatlantic-migrations-1nbsped-9781443868914-9781443847254.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Contract Labour Law of 1885 the importation and migration of foreigners and aliens under contract or agreement to perform labour wa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: docomomo.com  
-   Link: <a href="https://docomomo.com/wp-content/uploads/2025/09/1994-Proceedings-3rd-IDC-Barcelona_small_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docomomo.com/wp-content/uploads/2025/09/1994-Proceedings-3rd-IDC-Barcelona_small_web.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>O. Conference which was held in Barcelona from...Read more...</p></details>
+   Link:<a href="https://docomomo.com/wp-content/uploads/2025/09/1994-Proceedings-3rd-IDC-Barcelona_small_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docomomo.com/wp-content/uploads/2025/09/1994-Proceedings-3rd-IDC-Barcelona_small_web.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>O. Conference which was held in Barcelona from...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Mohammed-Alfoul/publication/374056617_Unlocking_the_Potential_of_ChatGPT_in_Economic_and_Finance_Studies_A_Game-Changing_Case_Study/links/650b6f7882f01628f0345f6a/Unlocking-the-Potential-of-ChatGPT-in-Economic-and-Finance-Studies-A-Game-Changing-Case-Study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Mohammed-Alfoul/publication/374056617_Unlocking_the_Potential_of_ChatGPT_in_Economic_and_Finance_Studies_A_Game-Changing_Case_Study/links/650b6f7882f01628f0345f6a/Unlocking-the-Potential-of-ChatGPT-in-Economic-and-Finance-Studies-A-Game-Changing-Case-Study.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social and Economic Studies within the Framework of...5 Aug 2023 — regions (&lt; 30 %)— Trnava, Nitra, Prešov and Košice regions, and (3) s...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Mohammed-Alfoul/publication/374056617_Unlocking_the_Potential_of_ChatGPT_in_Economic_and_Finance_Studies_A_Game-Changing_Case_Study/links/650b6f7882f01628f0345f6a/Unlocking-the-Potential-of-ChatGPT-in-Economic-and-Finance-Studies-A-Game-Changing-Case-Study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Mohammed-Alfoul/publication/374056617_Unlocking_the_Potential_of_ChatGPT_in_Economic_and_Finance_Studies_A_Game-Changing_Case_Study/links/650b6f7882f01628f0345f6a/Unlocking-the-Potential-of-ChatGPT-in-Economic-and-Finance-Studies-A-Game-Changing-Case-Study.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social and Economic Studies within the Framework of...5 Aug 2023 — regions (&lt; 30 %)— Trnava, Nitra, Prešov and Košice regions, and (3) s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: socialspacejournal.eu  
    Title: Social Space Journal 22020(20)  
-   Link: <a href="https://socialspacejournal.eu/Social%20Space%20Journal%2022020%2820%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socialspacejournal.eu/Social%20Space%20Journal%2022020%2820%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e u nr 2/2020 (20)10 Dec 2020 — (1992), the dynamics of neo-slavery at work here is economic control... Cases from Boko Haram&#x27;s Founding...</p></details>
+   Link:<a href="https://socialspacejournal.eu/Social%20Space%20Journal%2022020%2820%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socialspacejournal.eu/Social%20Space%20Journal%2022020%2820%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e u nr 2/2020 (20)10 Dec 2020 — (1992), the dynamics of neo-slavery at work here is economic control... Cases from Boko Haram&#x27;s Founding...</p></details>

@@ -273,7 +273,7 @@ These effects are amplified by social media. Videos recorded on mobile phones fr
 
 ## The April 2024 Iranian Attack and the Explosion of UFO-Like Reports
 
-The clearest example came during Iran's large-scale drone and missile attack against Israel in April 2024. Jordan temporarily closed its airspace as the attack unfolded, and authorities confirmed that flying objects entering Jordanian airspace had been intercepted for public safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/jordan-says-it-intercepted-flying-objects-that-entered-its-airspace-2024-04-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Jordan says it intercepted flying objects that entered its</span><span class="citation-popover-snippet">Jordan says it intercepted flying objects that entered its...April 14, 2024 — Apr 14, 2024 — Jordan intercepted some flying objec...</span><span class="citation-popover-meta">Published: April 14, 2024</span></span></span>
+The clearest example came during Iran's large-scale drone and missile attack against Israel in April 2024. Jordan temporarily closed its airspace as the attack unfolded, and authorities confirmed that flying objects entering Jordanian airspace had been intercepted for public safety.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/jordan-says-it-intercepted-flying-objects-that-entered-its-airspace-2024-04-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Jordan says it intercepted flying objects that entered its</span><span class="citation-popover-snippet">Jordan says it intercepted flying objects that entered its...April 14, 2024 — Apr 14, 2024 — Jordan intercepted some flying objec...</span><span class="citation-popover-meta">Published: April 14, 2024</span></span></span>
 
 Residents across Amman, Irbid and other parts of the kingdom reported seeing:
 
@@ -287,13 +287,13 @@ Residents across Amman, Irbid and other parts of the kingdom reported seeing:
 
 </div>
 
-Jordanian and international reporting later connected many of these observations to drones and missiles crossing the region and to interception operations carried out by Jordanian forces. Reuters reported that Jordanian aircraft intercepted numerous Iranian drones that crossed its airspace toward Israel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/jordan-temporarily-close-airspace-state-media-says-2024-04-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The closure, affecting all incoming, departing, and transit flights, comes after interference with Jordan&#x27;s GPS system, which has prompte...</span></span></span>
+Jordanian and international reporting later connected many of these observations to drones and missiles crossing the region and to interception operations carried out by Jordanian forces. Reuters reported that Jordanian aircraft intercepted numerous Iranian drones that crossed its airspace toward Israel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/jordan-temporarily-close-airspace-state-media-says-2024-04-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The closure, affecting all incoming, departing, and transit flights, comes after interference with Jordan&#x27;s GPS system, which has prompte...</span></span></span>
 
 For UFO researchers, the episode is important because it demonstrates how a genuine unidentified sighting can rapidly acquire a conventional explanation once military data become available. During the first minutes of observation, many witnesses simply saw unknown lights. Later information provided a much clearer operational context.
 
 ### What Witnesses Actually Saw
 
-Footage circulating from Jordan during the attack showed luminous objects, smoke trails and bright flashes against the night sky. Some local outlets initially described them using generic language such as “unidentified flying objects”, not because they were considered extraterrestrial, but because their exact identity had not yet been established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/RoyaNewsEnglish/posts/footage-obtained-by-roya-news-shows-unidentified-flying-objects-and-visible-smok/1359165062918197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Roya News EnglishFootage obtained by Roya News shows unidentified flying objects and visible smoke trails in the sky over Jordan...</span></span></span>
+Footage circulating from Jordan during the attack showed luminous objects, smoke trails and bright flashes against the night sky. Some local outlets initially described them using generic language such as “unidentified flying objects”, not because they were considered extraterrestrial, but because their exact identity had not yet been established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/RoyaNewsEnglish/posts/footage-obtained-by-roya-news-shows-unidentified-flying-objects-and-visible-smok/1359165062918197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Roya News EnglishFootage obtained by Roya News shows unidentified flying objects and visible smoke trails in the sky over Jordan...</span></span></span>
 
 This distinction matters. In everyday reporting, “unidentified flying object” often means only that observers do not yet know what they are seeing. It does not imply an alien hypothesis.
 
@@ -301,7 +301,7 @@ This distinction matters. In everyday reporting, “unidentified flying object�
 
 Another source of confusion comes from radar detections near Jordan's borders. Military radar can detect aerial movement long before visual identification becomes possible.
 
-In March 2024, the Jordanian military reported that its air-defence radar systems had detected suspicious aerial movements near the Syrian border. Reuters reported that the source of the tracks was initially unknown, although regional security sources suggested they were probably missiles launched by Iran-linked groups operating in Iraq. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/jordans-air-defence-ready-shoot-down-any-iranian-aircraft-that-violate-its-2024-04-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Jordan airforce shoots down Iranian drones flying over to Israel</span><span class="citation-popover-snippet">Jordan airforce shoots down Iranian drones flying over to Israel</span></span></span>
+In March 2024, the Jordanian military reported that its air-defence radar systems had detected suspicious aerial movements near the Syrian border. Reuters reported that the source of the tracks was initially unknown, although regional security sources suggested they were probably missiles launched by Iran-linked groups operating in Iraq.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/jordans-air-defence-ready-shoot-down-any-iranian-aircraft-that-violate-its-2024-04-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Jordan airforce shoots down Iranian drones flying over to Israel</span><span class="citation-popover-snippet">Jordan airforce shoots down Iranian drones flying over to Israel</span></span></span>
 
 Events like this illustrate a recurring problem in UFO analysis:
 
@@ -336,7 +336,7 @@ A radar return alone may not distinguish between:
 
 </div>
 
-This limitation helps explain why official statements often use cautious language such as “flying objects”, “aerial movements” or “suspicious targets” before a more precise identification becomes available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/africa/jordan-army-says-it-detected-suspicious-aerial-movements-near-syria-border-2024-03-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Jordan army detects suspicious aerial movement near</span><span class="citation-popover-snippet">Jordan army detects suspicious aerial movement near...March 17, 2024 — 17 Mar 2024 — The Jordanian army said on Monday its air de...</span><span class="citation-popover-meta">Published: March 17, 2024</span></span></span>
+This limitation helps explain why official statements often use cautious language such as “flying objects”, “aerial movements” or “suspicious targets” before a more precise identification becomes available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/africa/jordan-army-says-it-detected-suspicious-aerial-movements-near-syria-border-2024-03-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Jordan army detects suspicious aerial movement near</span><span class="citation-popover-snippet">Jordan army detects suspicious aerial movement near...March 17, 2024 — 17 Mar 2024 — The Jordanian army said on Monday its air de...</span><span class="citation-popover-meta">Published: March 17, 2024</span></span></span>
 
 ## Falling Debris Creates Some of the Most Convincing UFO Stories
 
@@ -344,14 +344,14 @@ One of the strongest mechanisms behind modern UFO confusion in Jordan is falling
 
 When missiles or drones are intercepted, the destruction of the target does not make its material disappear. Fragments continue travelling, often over populated areas. Pieces may burn, tumble, emit sparks or produce unusual sounds.
 
-Jordanian authorities have repeatedly warned the public not to approach unidentified fragments found after aerial incidents. These warnings became especially prominent during regional missile exchanges. Official statements and security agencies repeatedly advised residents to avoid touching debris because it could contain hazardous materials or unexploded components. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/RoyaNewsEnglish/videos/footage-obtained-by-roya-news-shows-unidentified-flying-objects-and-visible-smok/1433736078428497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">oke trails in the sky over Jordan...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.royanews.tv/news/68467/Jordan-intercepted-14-missiles%2C-21-drones-in-week-three-of-Iran-war%2C-says-army" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.royanews.tv">[Royanews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.royanews.tv</span><span class="citation-popover-title">Jordan intercepted 14 missiles, 21 drones in week three of Iran war, says army</span><span class="citation-popover-snippet">intercepted 14 missiles, 21 drones in week three of...21 Mar 2026 — The Public Security Directorate renewed warnings against approaching...</span></span></span>
+Jordanian authorities have repeatedly warned the public not to approach unidentified fragments found after aerial incidents. These warnings became especially prominent during regional missile exchanges. Official statements and security agencies repeatedly advised residents to avoid touching debris because it could contain hazardous materials or unexploded components.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/RoyaNewsEnglish/videos/footage-obtained-by-roya-news-shows-unidentified-flying-objects-and-visible-smok/1433736078428497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">oke trails in the sky over Jordan...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.royanews.tv/news/68467/Jordan-intercepted-14-missiles%2C-21-drones-in-week-three-of-Iran-war%2C-says-army" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.royanews.tv">[Royanews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.royanews.tv</span><span class="citation-popover-title">Jordan intercepted 14 missiles, 21 drones in week three of Iran war, says army</span><span class="citation-popover-snippet">intercepted 14 missiles, 21 drones in week three of...21 Mar 2026 — The Public Security Directorate renewed warnings against approaching...</span></span></span>
 
 To a witness on the ground, a burning fragment may appear far stranger than the original missile. The observer sees only a glowing object descending unpredictably, sometimes leaving a trail and sometimes breaking into multiple pieces.
 
 <img src="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-2-dark.svg" | relative_url }}" alt="Airspace Incidents illustration 2" data-theme-src-dark="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_missile_drone_confus_314686-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Irbid and Other Debris Incidents
 
-The danger is not theoretical. In June 2025, several people were injured in Irbid when an object fell onto a residence during a period of regional missile activity. Initial reporting referred to an unspecified falling object before the broader military context became clearer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.aawsat.com/arab-world/5154232-3-injured-jordan-unspecified-falling-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.aawsat.com">[Asharq Al-Awsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.aawsat.com</span><span class="citation-popover-title">5154232 3 injured jordan unspecified falling object</span><span class="citation-popover-snippet">Asharq Al-Awsat3 Injured in Jordan by Unspecified Falling Object14 Jun 2025 — Three people were wounded in Jordan&#x27;s northern city of Irbi...</span></span></span>
+The danger is not theoretical. In June 2025, several people were injured in Irbid when an object fell onto a residence during a period of regional missile activity. Initial reporting referred to an unspecified falling object before the broader military context became clearer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.aawsat.com/arab-world/5154232-3-injured-jordan-unspecified-falling-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.aawsat.com">[Asharq Al-Awsat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.aawsat.com</span><span class="citation-popover-title">5154232 3 injured jordan unspecified falling object</span><span class="citation-popover-snippet">Asharq Al-Awsat3 Injured in Jordan by Unspecified Falling Object14 Jun 2025 — Three people were wounded in Jordan&#x27;s northern city of Irbi...</span></span></span>
 
 Such cases show how UFO-like reports can emerge from real physical events. Witnesses may accurately describe what they saw—a bright object falling from the sky—while being unable to identify its origin.
 
@@ -374,7 +374,7 @@ Small drones can:
 
 </div>
 
-Jordanian security services have increasingly dealt with drone-related threats associated with border smuggling, regional militias and wider conflicts. During periods of heightened tension, observers may encounter genuine unidentified aerial objects in the literal sense: objects whose identity is temporarily unknown but whose most likely explanation is military technology rather than something exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/jordan-says-it-intercepted-flying-objects-that-entered-its-airspace-2024-04-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Jordan says it intercepted flying objects that entered its</span><span class="citation-popover-snippet">Jordan says it intercepted flying objects that entered its...April 14, 2024 — Apr 14, 2024 — Jordan intercepted some flying objec...</span><span class="citation-popover-meta">Published: April 14, 2024</span></span></span>
+Jordanian security services have increasingly dealt with drone-related threats associated with border smuggling, regional militias and wider conflicts. During periods of heightened tension, observers may encounter genuine unidentified aerial objects in the literal sense: objects whose identity is temporarily unknown but whose most likely explanation is military technology rather than something exotic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/jordan-says-it-intercepted-flying-objects-that-entered-its-airspace-2024-04-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Jordan says it intercepted flying objects that entered its</span><span class="citation-popover-snippet">Jordan says it intercepted flying objects that entered its...April 14, 2024 — Apr 14, 2024 — Jordan intercepted some flying objec...</span><span class="citation-popover-meta">Published: April 14, 2024</span></span></span>
 
 This creates a major analytical problem. A witness's description of a drone can resemble older UFO reports surprisingly closely:
 
@@ -404,7 +404,7 @@ Common patterns include:
 * Clips lacking dates, locations or original sources.
 * Edited footage that removes the military context.
 
-This problem became particularly visible during major Iranian-Israeli exchanges. Social media feeds filled with videos of glowing objects, explosions and streaks of light. Many were authentic recordings of real events, but authenticity of the video did not automatically mean authenticity of the accompanying explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/apr/15/jordan-difficult-balancing-act-row-downing-iranian-drones-israel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The country summoned the Iranian ambassador following Tehran&#x27;s threat of retaliation. Hosting the largest Palestinian diaspora and being...</span></span></span>
+This problem became particularly visible during major Iranian-Israeli exchanges. Social media feeds filled with videos of glowing objects, explosions and streaks of light. Many were authentic recordings of real events, but authenticity of the video did not automatically mean authenticity of the accompanying explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/apr/15/jordan-difficult-balancing-act-row-downing-iranian-drones-israel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The country summoned the Iranian ambassador following Tehran&#x27;s threat of retaliation. Hosting the largest Palestinian diaspora and being...</span></span></span>
 
 For researchers trying to evaluate Jordanian UFO claims, establishing location and date has become almost as important as analysing the object itself.
 
@@ -415,13 +415,13 @@ The rise of drone and missile warfare has changed the baseline assumption for un
 
 A report from the early 2000s might reasonably be compared with astronomical phenomena, aircraft, satellites or atmospheric effects. A report from 2024 onward must also be evaluated against:
 
-* Iranian drone operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/firstpostin/posts/fpreels-watch-uk-destroys-drones-over-jordan-amid-israel-iran-conflictthe-uk-min/1432875282206788/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">one that enters its air space. Most of the drones will take...</span></span></span>
+* Iranian drone operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/firstpostin/posts/fpreels-watch-uk-destroys-drones-over-jordan-amid-israel-iran-conflictthe-uk-min/1432875282206788/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">one that enters its air space. Most of the drones will take...</span></span></span>
 * Missile launches crossing regional airspace.
 * Jordanian interceptor activity.
 * Coalition air operations.
 * Border surveillance aircraft.
-* Falling debris fields. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesofisrael.com/caught-in-the-crossfire-jordan-quietly-shields-israel-as-iranian-shrapnel-rains-down/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofisrael.com">[timesofisrael.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofisrael.com</span><span class="citation-popover-snippet">Caught in the crossfire, Jordan (quietly) shields Israel as...24 Jun 2025 — Falling missile debris, interceptor shrapnel, and explosive...</span></span></span>
-* Electronic warfare effects affecting navigation and tracking systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/jordan-temporarily-close-airspace-state-media-says-2024-04-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The closure, affecting all incoming, departing, and transit flights, comes after interference with Jordan&#x27;s GPS system, which has prompte...</span></span></span>
+* Falling debris fields.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesofisrael.com/caught-in-the-crossfire-jordan-quietly-shields-israel-as-iranian-shrapnel-rains-down/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofisrael.com">[timesofisrael.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofisrael.com</span><span class="citation-popover-snippet">Caught in the crossfire, Jordan (quietly) shields Israel as...24 Jun 2025 — Falling missile debris, interceptor shrapnel, and explosive...</span></span></span>
+* Electronic warfare effects affecting navigation and tracking systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/middle-east/jordan-temporarily-close-airspace-state-media-says-2024-04-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The closure, affecting all incoming, departing, and transit flights, comes after interference with Jordan&#x27;s GPS system, which has prompte...</span></span></span>
 
 This does not prove that every unusual sighting has a mundane explanation. It does mean that the number of plausible conventional explanations has increased dramatically.
 
@@ -447,194 +447,194 @@ Conversely, the weakest reports are usually isolated videos showing lights in th
 That standard is increasingly important in Jordan because many of the most dramatic aerial events are no longer mysterious in origin. They are documented consequences of regional conflicts that happen to produce exactly the kinds of lights, movements and explosions that have historically generated UFO reports. As missile launches, drone incursions and interception operations become more common, the line between a genuine unidentified object and a temporarily unidentified military object grows ever thinner.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFO Reports Are Really Airspace Incidents. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFO Reports Are Really Airspace Incidents. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Connects unidentified sightings to defense, intelligence and airspace monitoring.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects unidentified sightings to defense, intelligence and airspace monitoring.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how military and aviation personnel assess unusual aerial events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how military and aviation personnel assess unusual aerial events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines military encounters and unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military encounters and unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for how secret aircraft programs can be mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how secret aircraft programs can be mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ufo-reports-are-really-airspace-incidents-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-ufo-reports-are-really-airspace-incidents-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -650,7 +650,7 @@ That standard is increasingly important in Jordan because many of the most drama
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -670,7 +670,7 @@ That standard is increasingly important in Jordan because many of the most drama
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -702,7 +702,7 @@ That standard is increasingly important in Jordan because many of the most drama
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -754,7 +754,7 @@ That standard is increasingly important in Jordan because many of the most drama
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -799,7 +799,7 @@ That standard is increasingly important in Jordan because many of the most drama
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -837,156 +837,155 @@ That standard is increasingly important in Jordan because many of the most drama
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: Jordan says it intercepted flying objects that entered its  
-   Link: <a href="https://www.reuters.com/world/middle-east/jordan-says-it-intercepted-flying-objects-that-entered-its-airspace-2024-04-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/jordan-says-it-intercepted-flying-objects-that-entered-its-airspace-2024-04-14/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan says it intercepted flying objects that entered its...April 14, 2024 — Apr 14, 2024 — Jordan intercepted some flying objec...</p></details>
+   Link:<a href="https://www.reuters.com/world/middle-east/jordan-says-it-intercepted-flying-objects-that-entered-its-airspace-2024-04-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/jordan-says-it-intercepted-flying-objects-that-entered-its-airspace-2024-04-14/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan says it intercepted flying objects that entered its...April 14, 2024 — Apr 14, 2024 — Jordan intercepted some flying objec...</p></details>
    Published: April 14, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/middle-east/jordan-temporarily-close-airspace-state-media-says-2024-04-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/jordan-temporarily-close-airspace-state-media-says-2024-04-13/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The closure, affecting all incoming, departing, and transit flights, comes after interference with Jordan&#x27;s GPS system, which has prompte...</p></details>
+   Link:<a href="https://www.reuters.com/world/middle-east/jordan-temporarily-close-airspace-state-media-says-2024-04-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/jordan-temporarily-close-airspace-state-media-says-2024-04-13/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The closure, affecting all incoming, departing, and transit flights, comes after interference with Jordan&#x27;s GPS system, which has prompte...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: Jordan airforce shoots down Iranian drones flying over to Israel  
-   Link: <a href="https://www.reuters.com/world/middle-east/jordans-air-defence-ready-shoot-down-any-iranian-aircraft-that-violate-its-2024-04-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/jordans-air-defence-ready-shoot-down-any-iranian-aircraft-that-violate-its-2024-04-13/</a>  
+   Link:<a href="https://www.reuters.com/world/middle-east/jordans-air-defence-ready-shoot-down-any-iranian-aircraft-that-violate-its-2024-04-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/middle-east/jordans-air-defence-ready-shoot-down-any-iranian-aircraft-that-violate-its-2024-04-13/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RoyaNewsEnglish/posts/footage-obtained-by-roya-news-shows-unidentified-flying-objects-and-visible-smok/1359165062918197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/posts/footage-obtained-by-roya-news-shows-unidentified-flying-objects-and-visible-smok/1359165062918197/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roya News EnglishFootage obtained by Roya News shows unidentified flying objects and visible smoke trails in the sky over Jordan...</p></details>
+   Link:<a href="https://www.facebook.com/RoyaNewsEnglish/posts/footage-obtained-by-roya-news-shows-unidentified-flying-objects-and-visible-smok/1359165062918197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/posts/footage-obtained-by-roya-news-shows-unidentified-flying-objects-and-visible-smok/1359165062918197/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roya News EnglishFootage obtained by Roya News shows unidentified flying objects and visible smoke trails in the sky over Jordan...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RoyaNewsEnglish/videos/footage-obtained-by-roya-news-shows-unidentified-flying-objects-and-visible-smok/1433736078428497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/videos/footage-obtained-by-roya-news-shows-unidentified-flying-objects-and-visible-smok/1433736078428497/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>oke trails in the sky over Jordan...</p></details>
+   Link:<a href="https://www.facebook.com/RoyaNewsEnglish/videos/footage-obtained-by-roya-news-shows-unidentified-flying-objects-and-visible-smok/1433736078428497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/videos/footage-obtained-by-roya-news-shows-unidentified-flying-objects-and-visible-smok/1433736078428497/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oke trails in the sky over Jordan...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
    Title: Jordan army detects suspicious aerial movement near  
-   Link: <a href="https://www.reuters.com/world/africa/jordan-army-says-it-detected-suspicious-aerial-movements-near-syria-border-2024-03-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/jordan-army-says-it-detected-suspicious-aerial-movements-near-syria-border-2024-03-17/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan army detects suspicious aerial movement near...March 17, 2024 — 17 Mar 2024 — The Jordanian army said on Monday its air de...</p></details>
+   Link:<a href="https://www.reuters.com/world/africa/jordan-army-says-it-detected-suspicious-aerial-movements-near-syria-border-2024-03-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/africa/jordan-army-says-it-detected-suspicious-aerial-movements-near-syria-border-2024-03-17/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan army detects suspicious aerial movement near...March 17, 2024 — 17 Mar 2024 — The Jordanian army said on Monday its air de...</p></details>
    Published: March 17, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RoyaNewsEnglish/posts/the-jordanian-armed-forces-have-been-on-high-alert-with-air-defense-systems-acti/1381588787342491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/posts/the-jordanian-armed-forces-have-been-on-high-alert-with-air-defense-systems-acti/1381588787342491/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>night to ensure the safety of its citizens, a cabinet statement...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/RoyaNewsEnglish/posts/the-jordanian-armed-forces-have-been-on-high-alert-with-air-defense-systems-acti/1381588787342491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/posts/the-jordanian-armed-forces-have-been-on-high-alert-with-air-defense-systems-acti/1381588787342491/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>night to ensure the safety of its citizens, a cabinet statement...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thejordantimes/posts/the-royal-jordanian-air-force-rjaf-has-intercepted-and-destroyed-35-out-of-36-mi/1341657294675794/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thejordantimes/posts/the-royal-jordanian-air-force-rjaf-has-intercepted-and-destroyed-35-out-of-36-mi/1341657294675794/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Royal Jordanian Air Force (RJAF) has intercepted and...Authorities renewed warnings against approaching or handling unidenti...</p></details>
+   Link:<a href="https://www.facebook.com/thejordantimes/posts/the-royal-jordanian-air-force-rjaf-has-intercepted-and-destroyed-35-out-of-36-mi/1341657294675794/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thejordantimes/posts/the-royal-jordanian-air-force-rjaf-has-intercepted-and-destroyed-35-out-of-36-mi/1341657294675794/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Royal Jordanian Air Force (RJAF) has intercepted and...Authorities renewed warnings against approaching or handling unidenti...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.royanews.tv  
    Title: Jordan intercepted 14 missiles, 21 drones in week three of Iran war, says army  
-   Link: <a href="https://en.royanews.tv/news/68467/Jordan-intercepted-14-missiles%2C-21-drones-in-week-three-of-Iran-war%2C-says-army" target="_blank" rel="noopener noreferrer nofollow">https://en.royanews.tv/news/68467/Jordan-intercepted-14-missiles%2C-21-drones-in-week-three-of-Iran-war%2C-says-army</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>intercepted 14 missiles, 21 drones in week three of...21 Mar 2026 — The Public Security Directorate renewed warnings against approaching...</p></details>
+   Link:<a href="https://en.royanews.tv/news/68467/Jordan-intercepted-14-missiles%2C-21-drones-in-week-three-of-Iran-war%2C-says-army" target="_blank" rel="noopener noreferrer nofollow">https://en.royanews.tv/news/68467/Jordan-intercepted-14-missiles%2C-21-drones-in-week-three-of-Iran-war%2C-says-army</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intercepted 14 missiles, 21 drones in week three of...21 Mar 2026 — The Public Security Directorate renewed warnings against approaching...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RoyaNewsEnglish/posts/eyewitness-footage-shows-the-moment-missile-debris-crashes-into-the-jordanian-de/1359222409579129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/posts/eyewitness-footage-shows-the-moment-missile-debris-crashes-into-the-jordanian-de/1359222409579129/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>entral Jordan heading to Israel. Saudi Arabia also joined...</p></details>
+   Link:<a href="https://www.facebook.com/RoyaNewsEnglish/posts/eyewitness-footage-shows-the-moment-missile-debris-crashes-into-the-jordanian-de/1359222409579129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/posts/eyewitness-footage-shows-the-moment-missile-debris-crashes-into-the-jordanian-de/1359222409579129/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>entral Jordan heading to Israel. Saudi Arabia also joined...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ArabNews/posts/breaking-jordan-says-shot-down-drone-in-its-airspace/1407656468066030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArabNews/posts/breaking-jordan-says-shot-down-drone-in-its-airspace/1407656468066030/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#BREAKING: Jordan says shot down drone in its airspaceThe Jordanian Foreign Ministry warns both Iran and Israel against violating their a...</p></details>
+   Link:<a href="https://www.facebook.com/ArabNews/posts/breaking-jordan-says-shot-down-drone-in-its-airspace/1407656468066030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArabNews/posts/breaking-jordan-says-shot-down-drone-in-its-airspace/1407656468066030/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#BREAKING: Jordan says shot down drone in its airspaceThe Jordanian Foreign Ministry warns both Iran and Israel against violating their a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RoyaNewsEnglish/posts/sirens-sounded-in-jordan-on-saturday-night-signaling-the-end-of-the-alert-period/1359685436199493/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/posts/sirens-sounded-in-jordan-on-saturday-night-signaling-the-end-of-the-alert-period/1359685436199493/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US launched a joint attack on Iran on Saturday morning.“Jordan closed its airspace starting April 13, 2024, at 2300L (2000Z). The initial...</p></details>
+   Link:<a href="https://www.facebook.com/RoyaNewsEnglish/posts/sirens-sounded-in-jordan-on-saturday-night-signaling-the-end-of-the-alert-period/1359685436199493/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyaNewsEnglish/posts/sirens-sounded-in-jordan-on-saturday-night-signaling-the-end-of-the-alert-period/1359685436199493/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US launched a joint attack on Iran on Saturday morning.“Jordan closed its airspace starting April 13, 2024, at 2300L (2000Z). The initial...</p></details>
    Published: April 13, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/asharqalawsat.e/posts/jordan-says-it-intercepted-flying-objects-that-entered-its-airspace/828990245934620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/asharqalawsat.e/posts/jordan-says-it-intercepted-flying-objects-that-entered-its-airspace/828990245934620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#Jordan Says It Intercepted Flying Objects that Entered its...BREAKING: Jordan will intercept and shoot down any missiles or drones that...</p></details>
+   Link:<a href="https://www.facebook.com/asharqalawsat.e/posts/jordan-says-it-intercepted-flying-objects-that-entered-its-airspace/828990245934620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/asharqalawsat.e/posts/jordan-says-it-intercepted-flying-objects-that-entered-its-airspace/828990245934620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#Jordan Says It Intercepted Flying Objects that Entered its...BREAKING: Jordan will intercept and shoot down any missiles or drones that...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/firstpostin/posts/fpreels-watch-uk-destroys-drones-over-jordan-amid-israel-iran-conflictthe-uk-min/1432875282206788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/fpreels-watch-uk-destroys-drones-over-jordan-amid-israel-iran-conflictthe-uk-min/1432875282206788/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>one that enters its air space. Most of the drones will take...</p></details>
+   Link:<a href="https://www.facebook.com/firstpostin/posts/fpreels-watch-uk-destroys-drones-over-jordan-amid-israel-iran-conflictthe-uk-min/1432875282206788/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/fpreels-watch-uk-destroys-drones-over-jordan-amid-israel-iran-conflictthe-uk-min/1432875282206788/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>one that enters its air space. Most of the drones will take...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: en.royanews.tv  
-   Link: <a href="https://en.royanews.tv/news/68080/Jordan-intercepts-49-drones%2C-ballistic-missiles-targeting-its-territory" target="_blank" rel="noopener noreferrer nofollow">https://en.royanews.tv/news/68080/Jordan-intercepts-49-drones%2C-ballistic-missiles-targeting-its-territory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>intercepts 49 drones, ballistic missiles targeting its...3 days ago — According to the official, 13 ballistic missiles were successfully...</p></details>
+   Link:<a href="https://en.royanews.tv/news/68080/Jordan-intercepts-49-drones%2C-ballistic-missiles-targeting-its-territory" target="_blank" rel="noopener noreferrer nofollow">https://en.royanews.tv/news/68080/Jordan-intercepts-49-drones%2C-ballistic-missiles-targeting-its-territory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intercepts 49 drones, ballistic missiles targeting its...3 days ago — According to the official, 13 ballistic missiles were successfully...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: english.aawsat.com  
    Title: 5154232 3 injured jordan unspecified falling object  
-   Link: <a href="https://english.aawsat.com/arab-world/5154232-3-injured-jordan-unspecified-falling-object" target="_blank" rel="noopener noreferrer nofollow">https://english.aawsat.com/arab-world/5154232-3-injured-jordan-unspecified-falling-object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asharq Al-Awsat3 Injured in Jordan by Unspecified Falling Object14 Jun 2025 — Three people were wounded in Jordan&#x27;s northern city of Irbi...</p></details>
+   Link:<a href="https://english.aawsat.com/arab-world/5154232-3-injured-jordan-unspecified-falling-object" target="_blank" rel="noopener noreferrer nofollow">https://english.aawsat.com/arab-world/5154232-3-injured-jordan-unspecified-falling-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asharq Al-Awsat3 Injured in Jordan by Unspecified Falling Object14 Jun 2025 — Three people were wounded in Jordan&#x27;s northern city of Irbi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/apr/15/jordan-difficult-balancing-act-row-downing-iranian-drones-israel" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/apr/15/jordan-difficult-balancing-act-row-downing-iranian-drones-israel</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The country summoned the Iranian ambassador following Tehran&#x27;s threat of retaliation. Hosting the largest Palestinian diaspora and being...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/apr/15/jordan-difficult-balancing-act-row-downing-iranian-drones-israel" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/apr/15/jordan-difficult-balancing-act-row-downing-iranian-drones-israel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The country summoned the Iranian ambassador following Tehran&#x27;s threat of retaliation. Hosting the largest Palestinian diaspora and being...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: breakingdefense.com  
-   Link: <a href="https://breakingdefense.com/2024/04/jordans-abdullah-ii-defends-shootdown-of-iranian-munitions-over-its-airspace-during-attack-on-israel/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2024/04/jordans-abdullah-ii-defends-shootdown-of-iranian-munitions-over-its-airspace-during-attack-on-israel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>After shooting down Iranian munitions, Jordan defiant in...16 Apr 2024 — The king of Jordan today defended his military&#x27;s actions over t...</p></details>
+   Link:<a href="https://breakingdefense.com/2024/04/jordans-abdullah-ii-defends-shootdown-of-iranian-munitions-over-its-airspace-during-attack-on-israel/" target="_blank" rel="noopener noreferrer nofollow">https://breakingdefense.com/2024/04/jordans-abdullah-ii-defends-shootdown-of-iranian-munitions-over-its-airspace-during-attack-on-israel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After shooting down Iranian munitions, Jordan defiant in...16 Apr 2024 — The king of Jordan today defended his military&#x27;s actions over t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: timesofisrael.com  
-   Link: <a href="https://www.timesofisrael.com/caught-in-the-crossfire-jordan-quietly-shields-israel-as-iranian-shrapnel-rains-down/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/caught-in-the-crossfire-jordan-quietly-shields-israel-as-iranian-shrapnel-rains-down/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caught in the crossfire, Jordan (quietly) shields Israel as...24 Jun 2025 — Falling missile debris, interceptor shrapnel, and explosive...</p></details>
+   Link:<a href="https://www.timesofisrael.com/caught-in-the-crossfire-jordan-quietly-shields-israel-as-iranian-shrapnel-rains-down/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/caught-in-the-crossfire-jordan-quietly-shields-israel-as-iranian-shrapnel-rains-down/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caught in the crossfire, Jordan (quietly) shields Israel as...24 Jun 2025 — Falling missile debris, interceptor shrapnel, and explosive...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: allarab.news  
    Title: jordanian air force shoots down dozens of iranian drones flying toward israel  
-   Link: <a href="https://allarab.news/jordanian-air-force-shoots-down-dozens-of-iranian-drones-flying-toward-israel/" target="_blank" rel="noopener noreferrer nofollow">https://allarab.news/jordanian-air-force-shoots-down-dozens-of-iranian-drones-flying-toward-israel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jordanian Air Force shoots down dozens of Iranian drones...14 Apr 2024 — Fighter jets of the Jordanian Air Force shot down dozens of Ira...</p></details>
+   Link:<a href="https://allarab.news/jordanian-air-force-shoots-down-dozens-of-iranian-drones-flying-toward-israel/" target="_blank" rel="noopener noreferrer nofollow">https://allarab.news/jordanian-air-force-shoots-down-dozens-of-iranian-drones-flying-toward-israel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jordanian Air Force shoots down dozens of Iranian drones...14 Apr 2024 — Fighter jets of the Jordanian Air Force shot down dozens of Ira...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aa.com.tr  
    Title: jordan says over 240 missiles and drones intercepted since start of war  
-   Link: <a href="https://www.aa.com.tr/en/middle-east/jordan-says-over-240-missiles-and-drones-intercepted-since-start-of-war/3883138" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/middle-east/jordan-says-over-240-missiles-and-drones-intercepted-since-start-of-war/3883138</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan says over 240 missiles and drones intercepted...28 Mar 2026 — The Jordanian army said Saturday that it has intercepted and destro...</p></details>
+   Link:<a href="https://www.aa.com.tr/en/middle-east/jordan-says-over-240-missiles-and-drones-intercepted-since-start-of-war/3883138" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/middle-east/jordan-says-over-240-missiles-and-drones-intercepted-since-start-of-war/3883138</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan says over 240 missiles and drones intercepted...28 Mar 2026 — The Jordanian army said Saturday that it has intercepted and destro...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: timesofisrael.com  
    Title: us uk and jordan intercept many of the iranian drones headed to israel  
-   Link: <a href="https://www.timesofisrael.com/us-uk-and-jordan-intercept-many-of-the-iranian-drones-headed-to-israel/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/us-uk-and-jordan-intercept-many-of-the-iranian-drones-headed-to-israel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US, UK and Jordan intercept many of the Iranian drones...14 Apr 2024 — Meanwhile, Jordan&#x27;s air force intercepted and shot down dozens of...</p></details>
+   Link:<a href="https://www.timesofisrael.com/us-uk-and-jordan-intercept-many-of-the-iranian-drones-headed-to-israel/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/us-uk-and-jordan-intercept-many-of-the-iranian-drones-headed-to-israel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US, UK and Jordan intercept many of the Iranian drones...14 Apr 2024 — Meanwhile, Jordan&#x27;s air force intercepted and shot down dozens of...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: newarab.com  
    Title: jordan activates defence pacts after iran missile drone attacks  
-   Link: <a href="https://www.newarab.com/news/jordan-activates-defence-pacts-after-iran-missile-drone-attacks" target="_blank" rel="noopener noreferrer nofollow">https://www.newarab.com/news/jordan-activates-defence-pacts-after-iran-missile-drone-attacks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan activates defence pacts after Iran missile, drone...7 Mar 2026 — Jordan says Iran fired 119 missiles and drones at its territory...</p></details>
+   Link:<a href="https://www.newarab.com/news/jordan-activates-defence-pacts-after-iran-missile-drone-attacks" target="_blank" rel="noopener noreferrer nofollow">https://www.newarab.com/news/jordan-activates-defence-pacts-after-iran-missile-drone-attacks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan activates defence pacts after Iran missile, drone...7 Mar 2026 — Jordan says Iran fired 119 missiles and drones at its territory...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: qna.org.qa  
-   Link: <a href="https://qna.org.qa/en/News-Area/News/2026-3/30/jordan-says-it-intercepted-missiles-and-drone-launched-from-iran" target="_blank" rel="noopener noreferrer nofollow">https://qna.org.qa/en/News-Area/News/2026-3/30/jordan-says-it-intercepted-missiles-and-drone-launched-from-iran</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan&#x27;s armed forces have intercepted five missiles and a drone targeting the country within the past 24 hours...</p></details>
+   Link:<a href="https://qna.org.qa/en/News-Area/News/2026-3/30/jordan-says-it-intercepted-missiles-and-drone-launched-from-iran" target="_blank" rel="noopener noreferrer nofollow">https://qna.org.qa/en/News-Area/News/2026-3/30/jordan-says-it-intercepted-missiles-and-drone-launched-from-iran</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan&#x27;s armed forces have intercepted five missiles and a drone targeting the country within the past 24 hours...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: timesofisrael.com  
    Title: jordan says shot down drone of unknown origin in its airspace  
-   Link: <a href="https://www.timesofisrael.com/liveblog_entry/jordan-says-shot-down-drone-of-unknown-origin-in-its-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/liveblog_entry/jordan-says-shot-down-drone-of-unknown-origin-in-its-airspace/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan says shot down drone of unknown origin in its...20 May 2026 — The Jordanian military announces it shot down a drone of unknown or...</p></details>
+   Link:<a href="https://www.timesofisrael.com/liveblog_entry/jordan-says-shot-down-drone-of-unknown-origin-in-its-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/liveblog_entry/jordan-says-shot-down-drone-of-unknown-origin-in-its-airspace/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jordan says shot down drone of unknown origin in its...20 May 2026 — The Jordanian military announces it shot down a drone of unknown or...</p></details>
    Published: May 2026  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/C5t1d66svXk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C5t1d66svXk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>or aircraft that violate its airspace, Reuters reported citing two regional...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/C5t1d66svXk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C5t1d66svXk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>or aircraft that violate its airspace, Reuters reported citing two regional...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: safeairspace.net  
    Title: Safe Airspace – Conflict Zone and Risk Database Risk  
-   Link: <a href="https://safeairspace.net/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe Airspace – Conflict Zone and Risk DatabaseRisk summary updated: Following US and Israeli strikes on Iran beginning Feb 28, Jordanian...</p></details>
+   Link:<a href="https://safeairspace.net/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safe Airspace – Conflict Zone and Risk DatabaseRisk summary updated: Following US and Israeli strikes on Iran beginning Feb 28, Jordanian...</p></details>

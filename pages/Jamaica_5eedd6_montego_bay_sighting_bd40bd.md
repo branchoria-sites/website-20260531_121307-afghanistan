@@ -248,16 +248,16 @@ image: /assets/images/Jamaica_5eedd6_montego_bay_sighting_bd40bd-Illustration-1-
 
 ## Introduction
 
-Montego Bay’s international gateway, **Sangster International Airport** (often just “Montego Bay Airport”), sits in a dense tourism zone and near broad coastal vistas. Because of this location and heavy aviation, observers in and around Montego Bay have periodically reported unusual aerial lights or objects, especially near the airport and its flight paths. These reports rarely rise to confirmed unidentified phenomena, and many factors — ordinary aircraft, reflections, drones, lights from entertainment events and atmospheric effects — explain much of what witnesses describe. This page examines reported sightings near the airport and the common sources of misidentification that affect local UFO/UAP narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 24825September 6, 2002...</span><span class="citation-popover-meta">Published: September 6, 2002</span></span></span>
+Montego Bay’s international gateway, **Sangster International Airport** (often just “Montego Bay Airport”), sits in a dense tourism zone and near broad coastal vistas. Because of this location and heavy aviation, observers in and around Montego Bay have periodically reported unusual aerial lights or objects, especially near the airport and its flight paths. These reports rarely rise to confirmed unidentified phenomena, and many factors — ordinary aircraft, reflections, drones, lights from entertainment events and atmospheric effects — explain much of what witnesses describe. This page examines reported sightings near the airport and the common sources of misidentification that affect local UFO/UAP narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 24825September 6, 2002...</span><span class="citation-popover-meta">Published: September 6, 2002</span></span></span>
 
 <img src="{{ "/assets/images/Jamaica_5eedd6_montego_bay_sighting_bd40bd-Illustration-1-dark.svg" | relative_url }}" alt="Montego Bay illustration 1" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6_montego_bay_sighting_bd40bd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6_montego_bay_sighting_bd40bd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Airport‑Adjacent Sightings: Patterns and Report Types
 
-Public sighting logs show that Montego Bay has recurrent reports clustered both in time and place, particularly near the airport or beachfront areas within view of flight corridors. A **1972 report** from the National UFO Reporting Center (NUFORC) describes a bright **yellow spherical object hovering briefly overhead near Montego Bay Airport** before disappearing into clouds; the witness claimed familiarity with aircraft and emphasised a lack of engine noise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=1918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1918March 7, 1998 — NUFORC UFO SIGHTING 1918 Occurred: 1995-10-25 22:00 Local Reported: 1997-01-01 00:00 Pacific Dura...</span><span class="citation-popover-meta">Published: March 7, 1998</span></span></span>
+Public sighting logs show that Montego Bay has recurrent reports clustered both in time and place, particularly near the airport or beachfront areas within view of flight corridors. A **1972 report** from the National UFO Reporting Center (NUFORC) describes a bright **yellow spherical object hovering briefly overhead near Montego Bay Airport** before disappearing into clouds; the witness claimed familiarity with aircraft and emphasised a lack of engine noise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=1918" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1918March 7, 1998 — NUFORC UFO SIGHTING 1918 Occurred: 1995-10-25 22:00 Local Reported: 1997-01-01 00:00 Pacific Dura...</span><span class="citation-popover-meta">Published: March 7, 1998</span></span></span>
 
-More recent and varied local entries — including orbs seen over resort beaches, collections of lights over the harbour and objects seen moving silently — populate crowd‑sourced datasets. For example, one 2024 account at a beach adjacent to the airport describes an orb that the witness suggested might have been related to a **sun reflection, a plane wake or other mundane optical effect**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/jamaica/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+More recent and varied local entries — including orbs seen over resort beaches, collections of lights over the harbour and objects seen moving silently — populate crowd‑sourced datasets. For example, one 2024 account at a beach adjacent to the airport describes an orb that the witness suggested might have been related to a **sun reflection, a plane wake or other mundane optical effect**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/jamaica/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Crowd‑compiled maps of entries within Jamaica illustrate how frequent such reports near Montego Bay can be over years, with shapes ranging from “star‑like” spheres to unknown light groupings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/JAM/Jamaica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Jamaica</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Jamaica - UFO Hunters...</span></span></span>
+Crowd‑compiled maps of entries within Jamaica illustrate how frequent such reports near Montego Bay can be over years, with shapes ranging from “star‑like” spheres to unknown light groupings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/JAM/Jamaica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Jamaica</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Jamaica - UFO Hunters...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZBtMbBPzqHY" title="Navy pilots describe encounters with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZBtMbBPzqHY" target="_blank" rel="noopener noreferrer">Navy pilots describe encounters with UFOs</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 13.2M &middot; Uploaded: May 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZBtMbBPzqHY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZBtMbBPzqHY">Open on YouTube</a></p></div></div></div>
 
@@ -273,7 +273,7 @@ Light reflections from the sea and atmospheric scattering in tropical conditions
 
 ## Aircraft and Flight Operations as Misidentification Sources
 
-The busiest airport in the English‑speaking Caribbean, Montego Bay Airport handles millions of passengers and thousands of aircraft movements annually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sangster_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sangster International Airport</span><span class="citation-popover-snippet">Sangster International Airport</span></span></span> Regular commercial jets — which use standard red, green and white navigation lights aligned to regulatory patterns — can appear unusual when seen from unexpected angles or distances, especially at night.
+The busiest airport in the English‑speaking Caribbean, Montego Bay Airport handles millions of passengers and thousands of aircraft movements annually.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sangster_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sangster International Airport</span><span class="citation-popover-snippet">Sangster International Airport</span></span></span> Regular commercial jets — which use standard red, green and white navigation lights aligned to regulatory patterns — can appear unusual when seen from unexpected angles or distances, especially at night.
 
 Aircraft on departure or approach can seem to hover, slow down, stop and even “change direction” under certain visual conditions. These effects often result from viewing **perspective illusions** over flat terrain or water, which can flatten the apparent motion of an aircraft.
 
@@ -282,7 +282,7 @@ Regional aviation safety reports do not substantiate any unidentified aerial inc
 <img src="{{ "/assets/images/Jamaica_5eedd6_montego_bay_sighting_bd40bd-Illustration-2-dark.svg" | relative_url }}" alt="Montego Bay illustration 2" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6_montego_bay_sighting_bd40bd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6_montego_bay_sighting_bd40bd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Drones, Lasers, and Airport Safety Incidents
 
-While UFO reports focus on aerial anomalies, **airport safety records show real, terrestrial airspace incursions** with clearer explanations. In 2018, local media cited concerns from airport officials about **unauthorised laser lights and drone activity near the runway**, which at times has disrupted flight operations or forced cancellations when pilots were temporarily blinded or distracted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamaica-star.com/article/news/20180626/drones-laser-lights-affecting-flight-safety-sangster-international" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamaica-star.com">[Jamaica Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamaica-star.com</span><span class="citation-popover-title">drones laser lights affecting flight safety sangster international</span><span class="citation-popover-snippet">Jamaica StarDrones, laser lights affecting flight safety at Sangster...26 Jun 2018 — &quot;The flights were about to land when persons beamed...</span></span></span>
+While UFO reports focus on aerial anomalies, **airport safety records show real, terrestrial airspace incursions** with clearer explanations. In 2018, local media cited concerns from airport officials about **unauthorised laser lights and drone activity near the runway**, which at times has disrupted flight operations or forced cancellations when pilots were temporarily blinded or distracted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jamaica-star.com/article/news/20180626/drones-laser-lights-affecting-flight-safety-sangster-international" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamaica-star.com">[Jamaica Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamaica-star.com</span><span class="citation-popover-title">drones laser lights affecting flight safety sangster international</span><span class="citation-popover-snippet">Jamaica StarDrones, laser lights affecting flight safety at Sangster...26 Jun 2018 — &quot;The flights were about to land when persons beamed...</span></span></span>
 
 Such events demonstrate that **man‑made light sources near airports can create real hazards and lead to misinterpretation**, both by witnesses and by pilots themselves. These incidents are generally treated under aviation safety protocols, illustrating that observable aerial lights often have domestic explanations rather than unidentified craft.
 
@@ -294,7 +294,7 @@ Several well‑understood perceptual and environmental mechanisms frequently exp
 * **Atmospheric refraction, haze and cloud layers** bend light paths, making objects seem closer, further, or larger than they are.
 * **Beach‑side reflections** from ocean surfaces and wet sand can mimic the motion of glowing orbs.
 * **Drones or handheld laser pointers** used near flight paths create bright moving lights that confuse casual observers.
-* **Astronomical objects**, including bright planets, satellites or fireballs, can be misjudged in turbulent air and against lit environments (for example during passing meteor showers). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Here we&#x27;ll look at some of the most likely suspects.Read more</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — The vast majority of UFO sightings have Earthly ori...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+* **Astronomical objects**, including bright planets, satellites or fireballs, can be misjudged in turbulent air and against lit environments (for example during passing meteor showers).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Here we&#x27;ll look at some of the most likely suspects.Read more</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — The vast majority of UFO sightings have Earthly ori...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 These mechanisms, individually and in combination, provide grounded alternatives that typically satisfy Occam’s razor when assessing reports of unidentified aerial objects near populated and aeronautically busy areas.
 
@@ -302,7 +302,7 @@ These mechanisms, individually and in combination, provide grounded alternatives
 
 ## Assessing Credibility and Reporting Delays
 
-Many Montego Bay reports are filed long after the sighting or through third‑party databases without corroborative data such as radar, telescope logs or independent witnesses, limiting their evidentiary weight. For instance, the 1972 sphere sighting was reported decades after it occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 24825September 6, 2002...</span><span class="citation-popover-meta">Published: September 6, 2002</span></span></span>
+Many Montego Bay reports are filed long after the sighting or through third‑party databases without corroborative data such as radar, telescope logs or independent witnesses, limiting their evidentiary weight. For instance, the 1972 sphere sighting was reported decades after it occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 24825September 6, 2002...</span><span class="citation-popover-meta">Published: September 6, 2002</span></span></span>
 
 Without additional verifiable data — video evidence, multiple synchronised observers, or cross‑referenced instrumentation — such reports remain anecdotal. They highlight human perceptual limits rather than robust unexplained aerial phenomena.
 
@@ -310,199 +310,199 @@ Without additional verifiable data — video evidence, multiple synchronised obs
 
 Reports of unusual aerial lights near Montego Bay Airport are notable within Jamaica’s UFO reporting landscape, largely because of the airport’s visibility from densely populated and high‑tourism areas. However, **the strongest explanations consistently involve normal aircraft operations, optical phenomena, man‑made lights, drones and atmospheric effects**. These contribute to frequent misidentification risks for observers unfamiliar with aviation or atmospheric optics.
 
-Careful investigation and cross‑checking with air traffic data, meteorological observations, and known light sources typically resolve such sightings into mundane categories rather than genuine unexplained aerial craft. The combination of heavy air traffic, vibrant tourism lighting, and environmental effects makes Montego Bay a place where ordinary visual stimuli are easily misread as something extraordinary, especially without corroborative evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/JAM/Jamaica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Jamaica</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Jamaica - UFO Hunters...</span></span></span>
+Careful investigation and cross‑checking with air traffic data, meteorological observations, and known light sources typically resolve such sightings into mundane categories rather than genuine unexplained aerial craft. The combination of heavy air traffic, vibrant tourism lighting, and environmental effects makes Montego Bay a place where ordinary visual stimuli are easily misread as something extraordinary, especially without corroborative evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/JAM/Jamaica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Jamaica</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Jamaica - UFO Hunters...</span></span></span>
 
 <img src="{{ "/assets/images/Jamaica_5eedd6_montego_bay_sighting_bd40bd-Illustration-3-dark.svg" | relative_url }}" alt="Montego Bay illustration 3" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6_montego_bay_sighting_bd40bd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6_montego_bay_sighting_bd40bd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Montego Bay Generates Strange Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Montego Bay Generates Strange Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes aviation observations and pilot testimony relevant to airport-area sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes aviation observations and pilot testimony relevant to airport-area sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Covers witness reports, aerial lights, and common sighting classifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers witness reports, aerial lights, and common sighting classifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating sighting claims and misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating sighting claims and misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Explores interpretation of unusual aerial observations and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores interpretation of unusual aerial observations and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montego-bay-generates-strange-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montego-bay-generates-strange-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -518,7 +518,7 @@ Careful investigation and cross‑checking with air traffic data, meteorological
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -538,7 +538,7 @@ Careful investigation and cross‑checking with air traffic data, meteorological
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -570,7 +570,7 @@ Careful investigation and cross‑checking with air traffic data, meteorological
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -622,7 +622,7 @@ Careful investigation and cross‑checking with air traffic data, meteorological
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -667,7 +667,7 @@ Careful investigation and cross‑checking with air traffic data, meteorological
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -708,111 +708,111 @@ Careful investigation and cross‑checking with air traffic data, meteorological
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=24825</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 24825September 6, 2002...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=24825" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=24825</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 24825September 6, 2002...</p></details>
    Published: September 6, 2002  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufo-hunters.com  
    Title: UFO Hunters UFO Sightings map in Jamaica  
-   Link: <a href="https://www.ufo-hunters.com/sightings/country/JAM/Jamaica" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/JAM/Jamaica</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Jamaica - UFO Hunters...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/country/JAM/Jamaica" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/JAM/Jamaica</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Jamaica - UFO Hunters...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Sangster International Airport  
-   Link: <a href="https://en.wikipedia.org/wiki/Sangster_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sangster_International_Airport</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sangster_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sangster_International_Airport</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jamaica-star.com  
    Title: drones laser lights affecting flight safety sangster international  
-   Link: <a href="https://jamaica-star.com/article/news/20180626/drones-laser-lights-affecting-flight-safety-sangster-international" target="_blank" rel="noopener noreferrer nofollow">https://jamaica-star.com/article/news/20180626/drones-laser-lights-affecting-flight-safety-sangster-international</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica StarDrones, laser lights affecting flight safety at Sangster...26 Jun 2018 — &quot;The flights were about to land when persons beamed...</p></details>
+   Link:<a href="https://jamaica-star.com/article/news/20180626/drones-laser-lights-affecting-flight-safety-sangster-international" target="_blank" rel="noopener noreferrer nofollow">https://jamaica-star.com/article/news/20180626/drones-laser-lights-affecting-flight-safety-sangster-international</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica StarDrones, laser lights affecting flight safety at Sangster...26 Jun 2018 — &quot;The flights were about to land when persons beamed...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=1918" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=1918</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1918March 7, 1998 — NUFORC UFO SIGHTING 1918 Occurred: 1995-10-25 22:00 Local Reported: 1997-01-01 00:00 Pacific Dura...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=1918" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=1918</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1918March 7, 1998 — NUFORC UFO SIGHTING 1918 Occurred: 1995-10-25 22:00 Local Reported: 1997-01-01 00:00 Pacific Dura...</p></details>
    Published: March 7, 1998  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thephenomenon.app  
-   Link: <a href="https://thephenomenon.app/jamaica/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/jamaica/</a>  
+   Link:<a href="https://thephenomenon.app/jamaica/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/jamaica/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skyatnightmagazine.com  
    Title: Here we'll look at some of the most likely suspects.Read more  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — The vast majority of UFO sightings have Earthly ori...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — The vast majority of UFO sightings have Earthly ori...</p></details>
    Published: May 11, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ftp.jamaicastar.com  
    Title: drones laser lights affecting flight safety sangster international  
-   Link: <a href="https://ftp.jamaicastar.com/article/news/20180626/drones-laser-lights-affecting-flight-safety-sangster-international?qt-article_image_video=0" target="_blank" rel="noopener noreferrer nofollow">https://ftp.jamaicastar.com/article/news/20180626/drones-laser-lights-affecting-flight-safety-sangster-international?qt-article_image_video=0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>jamaicastar.comDrones, laser lights affecting flight safety at Sangster International | News | Jamaica StarJune 26, 2018 — DRONES, LASER...</p></details>
+   Link:<a href="https://ftp.jamaicastar.com/article/news/20180626/drones-laser-lights-affecting-flight-safety-sangster-international?qt-article_image_video=0" target="_blank" rel="noopener noreferrer nofollow">https://ftp.jamaicastar.com/article/news/20180626/drones-laser-lights-affecting-flight-safety-sangster-international?qt-article_image_video=0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>jamaicastar.comDrones, laser lights affecting flight safety at Sangster International | News | Jamaica StarJune 26, 2018 — DRONES, LASER...</p></details>
    Published: June 26, 2018  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: visitjamaica.com  
-   Link: <a href="https://www.visitjamaica.com/travel-alerts/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitjamaica.com/travel-alerts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica Travel Alerts | Information for TravellersWe are pleased that full operations have been restored at our three international airpo...</p></details>
+   Link:<a href="https://www.visitjamaica.com/travel-alerts/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitjamaica.com/travel-alerts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica Travel Alerts | Information for TravellersWe are pleased that full operations have been restored at our three international airpo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gleanerjamaica/posts/mbj-airports-limited-says-there-was-no-disruption-to-passenger-operations-or-air/1302617031961718/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/posts/mbj-airports-limited-says-there-was-no-disruption-to-passenger-operations-or-air/1302617031961718/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MBJ Airports Limited says there was no disruption to...MBJ Airports Limited says there was no disruption to passenger operations or airp...</p></details>
+   Link:<a href="https://www.facebook.com/gleanerjamaica/posts/mbj-airports-limited-says-there-was-no-disruption-to-passenger-operations-or-air/1302617031961718/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/posts/mbj-airports-limited-says-there-was-no-disruption-to-passenger-operations-or-air/1302617031961718/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MBJ Airports Limited says there was no disruption to...MBJ Airports Limited says there was no disruption to passenger operations or airp...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/index.php/airports/mkjs" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/index.php/airports/mkjs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Montego Bay/Sangster International Airport | SKYbrary Aviation SafetyMONTEGO BAY/SANGSTER INTERNATIONAL AIRPORT Airport ICAO code MKJS IA...</p></details>
+   Link:<a href="https://skybrary.aero/index.php/airports/mkjs" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/index.php/airports/mkjs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Montego Bay/Sangster International Airport | SKYbrary Aviation SafetyMONTEGO BAY/SANGSTER INTERNATIONAL AIRPORT Airport ICAO code MKJS IA...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skybrary.aero  
    Title: aaib bulletin 112009 airbus a330 243 g ojmc montego bay jamaica 28 oct 2008  
-   Link: <a href="https://skybrary.aero/bookshelf/aaib-bulletin-112009-airbus-a330-243-g-ojmc-montego-bay-jamaica-28-oct-2008" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/bookshelf/aaib-bulletin-112009-airbus-a330-243-g-ojmc-montego-bay-jamaica-28-oct-2008</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAIB Bulletin 11/2009, Airbus A330-243, G-OJMC, Montego Bay, Jamaica, 28 Oct 2008 | SKYbrary Aviation SafetyAAIB BULLETIN 11/2009, AIRBUS...</p></details>
+   Link:<a href="https://skybrary.aero/bookshelf/aaib-bulletin-112009-airbus-a330-243-g-ojmc-montego-bay-jamaica-28-oct-2008" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/bookshelf/aaib-bulletin-112009-airbus-a330-243-g-ojmc-montego-bay-jamaica-28-oct-2008</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AAIB Bulletin 11/2009, Airbus A330-243, G-OJMC, Montego Bay, Jamaica, 28 Oct 2008 | SKYbrary Aviation SafetyAAIB BULLETIN 11/2009, AIRBUS...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: independent.co.uk  
    Title: military research and manufacturing facility John Seewer & Mark Scolfo  
-   Link: <a href="https://www.independent.co.uk/tech/drones-ufo-plane-nj-sightings-difference-b2666332.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/drones-ufo-plane-nj-sightings-difference-b2666332.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to tell the difference between a drone, a plane and a UFO | The IndependentDecember 18, 2024 — HOW TO TELL THE DIFFERENCE BETWEEN A D...</p></details>
+   Link:<a href="https://www.independent.co.uk/tech/drones-ufo-plane-nj-sightings-difference-b2666332.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/drones-ufo-plane-nj-sightings-difference-b2666332.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to tell the difference between a drone, a plane and a UFO | The IndependentDecember 18, 2024 — HOW TO TELL THE DIFFERENCE BETWEEN A D...</p></details>
    Published: December 18, 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jamaicaobserver.com  
    Title: British man charged after US$420,000 cocaine bust at Sangster airport  
-   Link: <a href="https://www.jamaicaobserver.com/2022/10/06/british-man-charged-after-us420000-cocaine-bust-at-sangster-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.jamaicaobserver.com/2022/10/06/british-man-charged-after-us420000-cocaine-bust-at-sangster-airport/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica ObserverOctober 6, 2022 — October 6, 2022 BRITISH MAN CHARGED AFTER US$420,000 COCAINE BUST AT SANGSTER AIRPORT MONTEGO BAY, St J...</p></details>
+   Link:<a href="https://www.jamaicaobserver.com/2022/10/06/british-man-charged-after-us420000-cocaine-bust-at-sangster-airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.jamaicaobserver.com/2022/10/06/british-man-charged-after-us420000-cocaine-bust-at-sangster-airport/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica ObserverOctober 6, 2022 — October 6, 2022 BRITISH MAN CHARGED AFTER US$420,000 COCAINE BUST AT SANGSTER AIRPORT MONTEGO BAY, St J...</p></details>
    Published: October 6, 2022  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jamaicaobserver.com  
    Title: Two men held with US currency, credit cards in Montego Bay arrested  
-   Link: <a href="https://www.jamaicaobserver.com/2023/12/07/two-men-held-with-us-currency-credit-cards-in-montego-bay-arrested/" target="_blank" rel="noopener noreferrer nofollow">https://www.jamaicaobserver.com/2023/12/07/two-men-held-with-us-currency-credit-cards-in-montego-bay-arrested/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica ObserverDecember 7, 2023 — December 7, 2023 TWO MEN HELD WITH US CURRENCY, CREDIT CARDS IN MONTEGO BAY ARRESTED ST JAMES, Jamaica...</p></details>
+   Link:<a href="https://www.jamaicaobserver.com/2023/12/07/two-men-held-with-us-currency-credit-cards-in-montego-bay-arrested/" target="_blank" rel="noopener noreferrer nofollow">https://www.jamaicaobserver.com/2023/12/07/two-men-held-with-us-currency-credit-cards-in-montego-bay-arrested/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica ObserverDecember 7, 2023 — December 7, 2023 TWO MEN HELD WITH US CURRENCY, CREDIT CARDS IN MONTEGO BAY ARRESTED ST JAMES, Jamaica...</p></details>
    Published: December 7, 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jm.usembassy.gov  
    Title: weather alert status of flights from airports in montego bay and kingston  
-   Link: <a href="https://jm.usembassy.gov/weather-alert-status-of-flights-from-airports-in-montego-bay-and-kingston/" target="_blank" rel="noopener noreferrer nofollow">https://jm.usembassy.gov/weather-alert-status-of-flights-from-airports-in-montego-bay-and-kingston/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirm your flight status with your airline before traveling to any airport, to...Read more...</p></details>
+   Link:<a href="https://jm.usembassy.gov/weather-alert-status-of-flights-from-airports-in-montego-bay-and-kingston/" target="_blank" rel="noopener noreferrer nofollow">https://jm.usembassy.gov/weather-alert-status-of-flights-from-airports-in-montego-bay-and-kingston/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirm your flight status with your airline before traveling to any airport, to...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/THEREPUBLICOFMOBAY/posts/weather-balloon-plane-or-meteoroid-sea-view-gardens-kingston-jamaica-last-night-/3936940309692743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/THEREPUBLICOFMOBAY/posts/weather-balloon-plane-or-meteoroid-sea-view-gardens-kingston-jamaica-last-night-/3936940309692743/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica Take Out... UFO sighting at Hull Bay, blue light observed. Carl Stephens...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/THEREPUBLICOFMOBAY/posts/weather-balloon-plane-or-meteoroid-sea-view-gardens-kingston-jamaica-last-night-/3936940309692743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/THEREPUBLICOFMOBAY/posts/weather-balloon-plane-or-meteoroid-sea-view-gardens-kingston-jamaica-last-night-/3936940309692743/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica Take Out... UFO sighting at Hull Bay, blue light observed. Carl Stephens...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jamaicaobserver.com  
    Title: Emergency at Sangster Airport, passengers disembark aircraft  
-   Link: <a href="https://www.jamaicaobserver.com/2016/01/14/emergency-at-sangster-airport-passengers-disembark-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.jamaicaobserver.com/2016/01/14/emergency-at-sangster-airport-passengers-disembark-aircraft/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica ObserverJanuary 14, 2016 — January 14, 2016 EMERGENCY AT SANGSTER AIRPORT, PASSENGERS DISEMBARK AIRCRAFT ST JAMES, Jamaica – OBSE...</p></details>
+   Link:<a href="https://www.jamaicaobserver.com/2016/01/14/emergency-at-sangster-airport-passengers-disembark-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.jamaicaobserver.com/2016/01/14/emergency-at-sangster-airport-passengers-disembark-aircraft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jamaica ObserverJanuary 14, 2016 — January 14, 2016 EMERGENCY AT SANGSTER AIRPORT, PASSENGERS DISEMBARK AIRCRAFT ST JAMES, Jamaica – OBSE...</p></details>
    Published: January 14, 2016

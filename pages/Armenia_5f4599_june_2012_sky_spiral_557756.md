@@ -248,14 +248,14 @@ image: /assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1-
 
 ## Introduction
 
-On the night of 7 June 2012, residents across Yerevan and other parts of Armenia looked up to see one of the country’s most discussed “UFO” events. Witnesses described a glowing object that appeared to expand, twist and leave a luminous spiral or cone-shaped trail in the sky. Photos and mobile-phone footage spread quickly through Armenian media and regional social networks, with speculation ranging from extraterrestrial craft to secret military technology. Within days, however, the event became an important regional example of how missile tests and upper-atmosphere effects can create spectacular visual illusions. Investigations linked the sighting to a Russian Topol intercontinental ballistic missile test launched from the Kapustin Yar range in southern Russia. «Ազատ Եվրոպա Ազատություն» ռադիոկայան <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span>
+On the night of 7 June 2012, residents across Yerevan and other parts of Armenia looked up to see one of the country’s most discussed “UFO” events. Witnesses described a glowing object that appeared to expand, twist and leave a luminous spiral or cone-shaped trail in the sky. Photos and mobile-phone footage spread quickly through Armenian media and regional social networks, with speculation ranging from extraterrestrial craft to secret military technology. Within days, however, the event became an important regional example of how missile tests and upper-atmosphere effects can create spectacular visual illusions. Investigations linked the sighting to a Russian Topol intercontinental ballistic missile test launched from the Kapustin Yar range in southern Russia. «Ազատ Եվրոպա Ազատություն» ռադիոկայան<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1-dark.svg" | relative_url }}" alt="2012 Spiral illustration 1" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The episode remains significant in Armenia’s UFO history not because it produced evidence of unknown craft, but because it showed how easily rare aerospace events can be interpreted as mysterious phenomena when viewed from the ground under unusual atmospheric conditions.
 
 ## What Witnesses Reported Across Armenia
 
-Reports emerged from Yerevan, Armavir, Syunik and other regions shortly before 10 pm local time. Witnesses consistently described a bright object moving unusually slowly across the sky while producing an expanding glow or smoky tail. Some observers said the object appeared to split into two luminous points before fading. Others described a spiral pattern or rotating cone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span>
+Reports emerged from Yerevan, Armavir, Syunik and other regions shortly before 10 pm local time. Witnesses consistently described a bright object moving unusually slowly across the sky while producing an expanding glow or smoky tail. Some observers said the object appeared to split into two luminous points before fading. Others described a spiral pattern or rotating cone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span>
 
 Several details made the sighting especially dramatic for the public:
 
@@ -264,7 +264,7 @@ Several details made the sighting especially dramatic for the public:
 * The object appeared much larger than an ordinary aircraft or meteor.
 * The glow intensified rapidly before dispersing.
 * The trail seemed suspended in the sky rather than moving quickly.
-* The event was visible simultaneously across large parts of the South Caucasus and Middle East. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span>
+* The event was visible simultaneously across large parts of the South Caucasus and Middle East.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span>
 
 </div>
 
@@ -274,7 +274,7 @@ The timing also contributed to confusion. The sighting occurred at nightfall, wh
 
 ## Why the Object Looked So Unusual
 
-The Armenian case fits a well-documented category of “space jellyfish” or missile-plume sightings. These occur when rockets or ballistic missiles release exhaust at high altitude during twilight conditions. The gases spread rapidly in thin upper-atmosphere air and remain illuminated by the Sun even though observers on the ground are already in darkness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Strange spiral in the night sky was a rocket fuel dump</span><span class="citation-popover-snippet">There were two rocket launches Tuesday. One was a ULA Vulcan from Florida and the other was...Read more...</span></span></span>
+The Armenian case fits a well-documented category of “space jellyfish” or missile-plume sightings. These occur when rockets or ballistic missiles release exhaust at high altitude during twilight conditions. The gases spread rapidly in thin upper-atmosphere air and remain illuminated by the Sun even though observers on the ground are already in darkness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Strange spiral in the night sky was a rocket fuel dump</span><span class="citation-popover-snippet">There were two rocket launches Tuesday. One was a ULA Vulcan from Florida and the other was...Read more...</span></span></span>
 
 Several optical effects likely contributed to the Armenia sighting:
 
@@ -282,7 +282,7 @@ Several optical effects likely contributed to the Armenia sighting:
 
 Rocket exhaust expands dramatically in low-pressure upper layers of the atmosphere. Instead of forming a narrow trail like an aircraft contrail, the plume can become a huge glowing cloud visible hundreds or even thousands of kilometres away.
 
-This explains why people across Armenia and neighbouring countries reported essentially the same phenomenon at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2012-06-spiral-middle-east-russian-missile.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2012 06 spiral middle east russian missile</span><span class="citation-popover-snippet">Spiral seen over the Middle East likely Russian missile11 Jun 2012 — The strange sight has been confirmed to be a Russian ballistic missi...</span></span></span>
+This explains why people across Armenia and neighbouring countries reported essentially the same phenomenon at the same time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2012-06-spiral-middle-east-russian-missile.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2012 06 spiral middle east russian missile</span><span class="citation-popover-snippet">Spiral seen over the Middle East likely Russian missile11 Jun 2012 — The strange sight has been confirmed to be a Russian ballistic missi...</span></span></span>
 
 ### Spiral and Cone Shapes
 
@@ -309,9 +309,9 @@ This mismatch between real velocity and perceived motion is one reason missile l
 
 ## How the Topol Missile Test Fit the Timing
 
-The conventional explanation gained credibility almost immediately because Russia announced a missile test matching the time window of the sightings. Russian military authorities confirmed that a Topol intercontinental ballistic missile had been launched from the Kapustin Yar test range in Astrakhan [region]({{ 'region/' | relative_url }}). «Ազատ Եվրոպա Ազատություն» ռադիոկայան <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2012-06-spiral-middle-east-russian-missile.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2012 06 spiral middle east russian missile</span><span class="citation-popover-snippet">Spiral seen over the Middle East likely Russian missile11 Jun 2012 — The strange sight has been confirmed to be a Russian ballistic missi...</span></span></span>
+The conventional explanation gained credibility almost immediately because Russia announced a missile test matching the time window of the sightings. Russian military authorities confirmed that a Topol intercontinental ballistic missile had been launched from the Kapustin Yar test range in Astrakhan [region]({{ 'region/' | relative_url }}). «Ազատ Եվրոպա Ազատություն» ռադիոկայան<span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2012-06-spiral-middle-east-russian-missile.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2012 06 spiral middle east russian missile</span><span class="citation-popover-snippet">Spiral seen over the Middle East likely Russian missile11 Jun 2012 — The strange sight has been confirmed to be a Russian ballistic missi...</span></span></span>
 
-Kapustin Yar has long served as a major Soviet and Russian missile-testing complex. Since the Cold War era it has hosted launches of ballistic missiles and experimental aerospace systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RT-2PM_Topol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">RT-2PM TopolThe RT-2PM Topol was a mobile intercontinental ballistic missile designed in the Soviet Union and in service with Russia&#x27;s...</span></span></span>
+Kapustin Yar has long served as a major Soviet and Russian missile-testing complex. Since the Cold War era it has hosted launches of ballistic missiles and experimental aerospace systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/RT-2PM_Topol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">RT-2PM TopolThe RT-2PM Topol was a mobile intercontinental ballistic missile designed in the Soviet Union and in service with Russia&#x27;s...</span></span></span>
 
 The timing alignment mattered because:
 
@@ -319,7 +319,7 @@ The timing alignment mattered because:
 
 * Armenian sightings began almost exactly when the missile launch occurred.
 * Similar reports appeared simultaneously across Israel, Syria, Iran and other parts of the region.
-* The visual characteristics matched previous known missile-plume events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.panorama.am/en/news/2012/06/08/sky/738111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panorama.am">[Panorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panorama.am</span><span class="citation-popover-snippet">UFO seen in Israel, Syria and Iran8 Jun 2012 — In the evening of June 7 hundreds of Israelis and Armenians have seen unrecognized...</span></span></span>
+* The visual characteristics matched previous known missile-plume events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.panorama.am/en/news/2012/06/08/sky/738111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panorama.am">[Panorama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panorama.am</span><span class="citation-popover-snippet">UFO seen in Israel, Syria and Iran8 Jun 2012 — In the evening of June 7 hundreds of Israelis and Armenians have seen unrecognized...</span></span></span>
 
 </div>
 
@@ -332,13 +332,13 @@ The broader regional distribution of sightings strongly undermined purely local 
 
 The response from Armenian astronomers became an important part of the story because it showed a relatively rapid shift from sensational speculation toward technical interpretation.
 
-Scientists associated with the [Byurakan]({{ 'byurakan/' | relative_url }}) Observatory and Armenian astronomical organisations publicly argued that the phenomenon was consistent with optical and atmospheric effects rather than an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span>
+Scientists associated with the [Byurakan]({{ 'byurakan/' | relative_url }}) Observatory and Armenian astronomical organisations publicly argued that the phenomenon was consistent with optical and atmospheric effects rather than an unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span>
 
-Hayk Harutyunyan of the Byurakan Observatory described the observed objects as “optical reflections”, emphasising that unusual visual appearances in the sky do not necessarily indicate solid airborne vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span>
+Hayk Harutyunyan of the Byurakan Observatory described the observed objects as “optical reflections”, emphasising that unusual visual appearances in the sky do not necessarily indicate solid airborne vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-snippet">Israeli outlets linked the object with the Russian Topol...Read more...</span></span></span>
 
 This mattered for two reasons:
 
-1. Armenia possesses a respected astronomical tradition through institutions such as the Byurakan Astrophysical Observatory. Public scientific commentary therefore carried substantial authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://web.astronomicalheritage.net/show-entity?identity=162&amp;idsubentity=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.astronomicalheritage.net">[web.astronomicalheritage.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.astronomicalheritage.net</span><span class="citation-popover-snippet">Byurakan Astrophysical Observatory (BAO), ArmeniaIt is the most important astronomical centre in Eastern Europe and Middle East region, b...</span></span></span>
+1. Armenia possesses a respected astronomical tradition through institutions such as the Byurakan Astrophysical Observatory. Public scientific commentary therefore carried substantial authority.<span class="citation-chip-wrap"><a class="citation-chip" href="https://web.astronomicalheritage.net/show-entity?identity=162&amp;idsubentity=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.astronomicalheritage.net">[web.astronomicalheritage.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.astronomicalheritage.net</span><span class="citation-popover-snippet">Byurakan Astrophysical Observatory (BAO), ArmeniaIt is the most important astronomical centre in Eastern Europe and Middle East region, b...</span></span></span>
 2. The explanation focused on observable physical mechanisms rather than dismissing witnesses outright. Scientists generally accepted that people genuinely saw something unusual, while arguing that the cause was terrestrial and explainable.
 
 That distinction helped the case evolve from a “mystery object” narrative into a public lesson about atmospheric optics and missile visibility.
@@ -363,7 +363,7 @@ The Armenia sightings also fit into a broader global history of missile launches
 <img src="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-3-dark.svg" | relative_url }}" alt="2012 Spiral illustration 3" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_june_2012_sky_spiral_557756-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Remains Contested and What Does Not
 
-The strongest evidence in the Armenia case supports the missile explanation rather than an unknown aerial craft. The timing correlation, regional visibility pattern and physical appearance all align closely with documented missile-plume phenomena. «Ազատ Եվրոպա Ազատություն» ռադիոկայան <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2012-06-spiral-middle-east-russian-missile.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2012 06 spiral middle east russian missile</span><span class="citation-popover-snippet">Spiral seen over the Middle East likely Russian missile11 Jun 2012 — The strange sight has been confirmed to be a Russian ballistic missi...</span></span></span>
+The strongest evidence in the Armenia case supports the missile explanation rather than an unknown aerial craft. The timing correlation, regional visibility pattern and physical appearance all align closely with documented missile-plume phenomena. «Ազատ Եվրոպա Ազատություն» ռադիոկայան<span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2012-06-spiral-middle-east-russian-missile.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2012 06 spiral middle east russian missile</span><span class="citation-popover-snippet">Spiral seen over the Middle East likely Russian missile11 Jun 2012 — The strange sight has been confirmed to be a Russian ballistic missi...</span></span></span>
 
 However, some ambiguities remained in public discussion:
 
@@ -398,194 +398,194 @@ For many observers, the case highlighted several practical lessons:
 The event therefore occupies an unusual place in Armenia’s UFO history. It was dramatic enough to become nationally remembered, yet it ultimately reinforced a sceptical conclusion: some of the most convincing UFO sightings arise not from hidden craft, but from misunderstood interactions between technology, atmosphere and human perception.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Armenia&#x27;s 2012 UFO a Missile Trail?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Armenia&#x27;s 2012 UFO a Missile Trail?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for how dramatic aerial sightings are investigated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how dramatic aerial sightings are investigated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Explains how unusual atmospheric and aerospace phenomena can be misinterpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unusual atmospheric and aerospace phenomena can be misinterpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes evidence-based analysis of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based analysis of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides broader understanding of astronomical and atmospheric observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader understanding of astronomical and atmospheric observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-armenia-s-2012-ufo-a-missile-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-armenia-s-2012-ufo-a-missile-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ The event therefore occupies an unusual place in Armenia’s UFO history. It was
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ The event therefore occupies an unusual place in Armenia’s UFO history. It was
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ The event therefore occupies an unusual place in Armenia’s UFO history. It was
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ The event therefore occupies an unusual place in Armenia’s UFO history. It was
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ The event therefore occupies an unusual place in Armenia’s UFO history. It was
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,112 +788,111 @@ The event therefore occupies an unusual place in Armenia’s UFO history. It was
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: phys.org  
    Title: 2012 06 spiral middle east russian missile  
-   Link: <a href="https://phys.org/news/2012-06-spiral-middle-east-russian-missile.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2012-06-spiral-middle-east-russian-missile.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spiral seen over the Middle East likely Russian missile11 Jun 2012 — The strange sight has been confirmed to be a Russian ballistic missi...</p></details>
+   Link:<a href="https://phys.org/news/2012-06-spiral-middle-east-russian-missile.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2012-06-spiral-middle-east-russian-missile.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spiral seen over the Middle East likely Russian missile11 Jun 2012 — The strange sight has been confirmed to be a Russian ballistic missi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: earthsky.org  
    Title: Earth Sky Strange spiral in the night sky was a rocket fuel dump  
-   Link: <a href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There were two rocket launches Tuesday. One was a ULA Vulcan from Florida and the other was...Read more...</p></details>
+   Link:<a href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There were two rocket launches Tuesday. One was a ULA Vulcan from Florida and the other was...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/RT-2PM_Topol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RT-2PM_Topol</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RT-2PM TopolThe RT-2PM Topol was a mobile intercontinental ballistic missile designed in the Soviet Union and in service with Russia&#x27;s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/RT-2PM_Topol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RT-2PM_Topol</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RT-2PM TopolThe RT-2PM Topol was a mobile intercontinental ballistic missile designed in the Soviet Union and in service with Russia&#x27;s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Kapustin Yar  
-   Link: <a href="https://en.wikipedia.org/wiki/Kapustin_Yar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kapustin_Yar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kapustin_Yar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kapustin_Yar</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: panorama.am  
-   Link: <a href="https://www.panorama.am/en/news/2012/06/08/sky/738111" target="_blank" rel="noopener noreferrer nofollow">https://www.panorama.am/en/news/2012/06/08/sky/738111</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO seen in Israel, Syria and Iran8 Jun 2012 — In the evening of June 7 hundreds of Israelis and Armenians have seen unrecognized...</p></details>
+   Link:<a href="https://www.panorama.am/en/news/2012/06/08/sky/738111" target="_blank" rel="noopener noreferrer nofollow">https://www.panorama.am/en/news/2012/06/08/sky/738111</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO seen in Israel, Syria and Iran8 Jun 2012 — In the evening of June 7 hundreds of Israelis and Armenians have seen unrecognized...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: web.astronomicalheritage.net  
-   Link: <a href="https://web.astronomicalheritage.net/show-entity?identity=162&amp;idsubentity=1" target="_blank" rel="noopener noreferrer nofollow">https://web.astronomicalheritage.net/show-entity?identity=162&amp;idsubentity=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Byurakan Astrophysical Observatory (BAO), ArmeniaIt is the most important astronomical centre in Eastern Europe and Middle East region, b...</p></details>
+   Link:<a href="https://web.astronomicalheritage.net/show-entity?identity=162&amp;idsubentity=1" target="_blank" rel="noopener noreferrer nofollow">https://web.astronomicalheritage.net/show-entity?identity=162&amp;idsubentity=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Byurakan Astrophysical Observatory (BAO), ArmeniaIt is the most important astronomical centre in Eastern Europe and Middle East region, b...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.am  
-   Link: <a href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow">https://news.am/en/news/108813</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Israeli outlets linked the object with the Russian Topol...Read more...</p></details>
+   Link:<a href="https://news.am/en/news/108813" target="_blank" rel="noopener noreferrer nofollow">https://news.am/en/news/108813</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Israeli outlets linked the object with the Russian Topol...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.am  
    Title: Armenia News Byurakan Observatory calls UFOs seen in Armenia 'optical  
-   Link: <a href="https://news.am/en/news/109251" target="_blank" rel="noopener noreferrer nofollow">https://news.am/en/news/109251</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Byurakan Observatory calls UFOs seen in Armenia &#x27;optical reflections&#x27;. listen article. Google make preferable...</p></details>
+   Link:<a href="https://news.am/en/news/109251" target="_blank" rel="noopener noreferrer nofollow">https://news.am/en/news/109251</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Byurakan Observatory calls UFOs seen in Armenia &#x27;optical reflections&#x27;. listen article. Google make preferable...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bao.am  
-   Link: <a href="https://www.bao.am/reports/2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bao.am/reports/2011.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ANNUAL REPORT5 Sept 2011 — Hydrogen molecular emission is detected in the object HH 1036 using archived images from the Spitzer telescope...</p></details>
+   Link:<a href="https://www.bao.am/reports/2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bao.am/reports/2011.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ANNUAL REPORT5 Sept 2011 — Hydrogen molecular emission is detected in the object HH 1036 using archived images from the Spitzer telescope...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: russianspaceweb.com  
-   Link: <a href="https://www.russianspaceweb.com/kapyar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.russianspaceweb.com/kapyar.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4th State Central Test Range (GTsP) at Kapustin YarThe future range designated the 4th State Central Range (4th GTsP) centered around the...</p></details>
+   Link:<a href="https://www.russianspaceweb.com/kapyar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.russianspaceweb.com/kapyar.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4th State Central Test Range (GTsP) at Kapustin YarThe future range designated the 4th State Central Range (4th GTsP) centered around the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: peopleofar.com  
    Title: explaining tabbys star alien megastructure star named armenian astronomer  
-   Link: <a href="https://www.peopleofar.com/2017/06/20/explaining-tabbys-star-alien-megastructure-star-named-armenian-astronomer/" target="_blank" rel="noopener noreferrer nofollow">https://www.peopleofar.com/2017/06/20/explaining-tabbys-star-alien-megastructure-star-named-armenian-astronomer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining Tabby&#x27;s Star; the &quot;Alien Megastructure...20 Jun 2017 — People quickly started to speculate of a possible “Alien Megastructure...</p></details>
+   Link:<a href="https://www.peopleofar.com/2017/06/20/explaining-tabbys-star-alien-megastructure-star-named-armenian-astronomer/" target="_blank" rel="noopener noreferrer nofollow">https://www.peopleofar.com/2017/06/20/explaining-tabbys-star-alien-megastructure-star-named-armenian-astronomer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining Tabby&#x27;s Star; the &quot;Alien Megastructure...20 Jun 2017 — People quickly started to speculate of a possible “Alien Megastructure...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: allegralaboratory.net  
-   Link: <a href="https://allegralaboratory.net/soviet-russian-and-armenian-radio-astronomers-in-communication-with-extra-terrestrial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://allegralaboratory.net/soviet-russian-and-armenian-radio-astronomers-in-communication-with-extra-terrestrial-intelligence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He had spoken at SETI&#x27;s most imposing... Image 1: Byurakan Astrophysical Observatory Library. Photo by author...</p></details>
+   Link:<a href="https://allegralaboratory.net/soviet-russian-and-armenian-radio-astronomers-in-communication-with-extra-terrestrial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://allegralaboratory.net/soviet-russian-and-armenian-radio-astronomers-in-communication-with-extra-terrestrial-intelligence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He had spoken at SETI&#x27;s most imposing... Image 1: Byurakan Astrophysical Observatory Library. Photo by author...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: horizonweekly.ca  
    Title: the soviet era conference in armenia on communicating with aliens  
-   Link: <a href="https://horizonweekly.ca/en/the-soviet-era-conference-in-armenia-on-communicating-with-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://horizonweekly.ca/en/the-soviet-era-conference-in-armenia-on-communicating-with-aliens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The soviet-era conference in Armenia on communicating...4 Aug 2017 — The first major international conference dedicated to communicating...</p></details>
+   Link:<a href="https://horizonweekly.ca/en/the-soviet-era-conference-in-armenia-on-communicating-with-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://horizonweekly.ca/en/the-soviet-era-conference-in-armenia-on-communicating-with-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The soviet-era conference in Armenia on communicating...4 Aug 2017 — The first major international conference dedicated to communicating...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: armenianweekly.com  
    Title: armenian observatory transformed into art space  
-   Link: <a href="https://armenianweekly.com/2017/12/18/armenian-observatory-transformed-into-art-space/" target="_blank" rel="noopener noreferrer nofollow">https://armenianweekly.com/2017/12/18/armenian-observatory-transformed-into-art-space/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet Armenian Observatory that Held First Conference on...18 Dec 2017 — Soviet Armenian Observatory That Held First Conference on Alie...</p></details>
+   Link:<a href="https://armenianweekly.com/2017/12/18/armenian-observatory-transformed-into-art-space/" target="_blank" rel="noopener noreferrer nofollow">https://armenianweekly.com/2017/12/18/armenian-observatory-transformed-into-art-space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet Armenian Observatory that Held First Conference on...18 Dec 2017 — Soviet Armenian Observatory That Held First Conference on Alie...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: united24media.com  
-   Link: <a href="https://united24media.com/war-in-ukraine/how-ukraine-spots-russian-oreshnik-launches-from-kapustin-yar-before-alerts-go-out-19219" target="_blank" rel="noopener noreferrer nofollow">https://united24media.com/war-in-ukraine/how-ukraine-spots-russian-oreshnik-launches-from-kapustin-yar-before-alerts-go-out-19219</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ssian missile launches at Kapustin Yar, identifying potential threats...</p></details>
+   Link:<a href="https://united24media.com/war-in-ukraine/how-ukraine-spots-russian-oreshnik-launches-from-kapustin-yar-before-alerts-go-out-19219" target="_blank" rel="noopener noreferrer nofollow">https://united24media.com/war-in-ukraine/how-ukraine-spots-russian-oreshnik-launches-from-kapustin-yar-before-alerts-go-out-19219</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ssian missile launches at Kapustin Yar, identifying potential threats...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: securesustain.org  
    Title: The Military Balance 2024 compressed  
-   Link: <a href="https://securesustain.org/wp-content/uploads/2024/03/The-Military-Balance-2024_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://securesustain.org/wp-content/uploads/2024/03/The-Military-Balance-2024_compressed.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Military Balance 20241 Mar 2024 —... missile armed with a hypersonic glide vehicle aimed at overcoming... 2012 AGM-158. JASSM. Air...</p></details>
+   Link:<a href="https://securesustain.org/wp-content/uploads/2024/03/The-Military-Balance-2024_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://securesustain.org/wp-content/uploads/2024/03/The-Military-Balance-2024_compressed.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Military Balance 20241 Mar 2024 —... missile armed with a hypersonic glide vehicle aimed at overcoming... 2012 AGM-158. JASSM. Air...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Spiral over Norway was in fact a failed russian missile  
-   Link: <a href="http://www.youtube.com/watch?v=Tzp2SvbO6AU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Tzp2SvbO6AU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 7 2012 sky spiral missile Topol After Rebirth, Poor Boy Gains a Future-Tech System and Becomes the School’s No.1 Genius Overnight...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Tzp2SvbO6AU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Tzp2SvbO6AU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 7 2012 sky spiral missile Topol After Rebirth, Poor Boy Gains a Future-Tech System and Becomes the School’s No.1 Genius Overnight...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: russianforces.org  
    Title: New ICBM tested in Kapustin Yar  
-   Link: <a href="https://russianforces.org/blog/2012/10/new_icbm_tested_in_kapustin_ya.shtml" target="_blank" rel="noopener noreferrer nofollow">https://russianforces.org/blog/2012/10/new_icbm_tested_in_kapustin_ya.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blog24 Oct 2012 — Strategic Rocket Forces conducted a successful flight test of &quot;a prototype of a new ICBM.&quot; The test took place at 21:45...</p></details>
+   Link:<a href="https://russianforces.org/blog/2012/10/new_icbm_tested_in_kapustin_ya.shtml" target="_blank" rel="noopener noreferrer nofollow">https://russianforces.org/blog/2012/10/new_icbm_tested_in_kapustin_ya.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blog24 Oct 2012 — Strategic Rocket Forces conducted a successful flight test of &quot;a prototype of a new ICBM.&quot; The test took place at 21:45...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aa.com.tr  
    Title: ukraine claims successful strikes on russia s kapustin yar missile site  
-   Link: <a href="https://www.aa.com.tr/en/russia-ukraine-war/ukraine-claims-successful-strikes-on-russia-s-kapustin-yar-missile-site/3821474" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/russia-ukraine-war/ukraine-claims-successful-strikes-on-russia-s-kapustin-yar-missile-site/3821474</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine says it used locally produced long-range strike weapons...Read more...</p></details>
+   Link:<a href="https://www.aa.com.tr/en/russia-ukraine-war/ukraine-claims-successful-strikes-on-russia-s-kapustin-yar-missile-site/3821474" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/russia-ukraine-war/ukraine-claims-successful-strikes-on-russia-s-kapustin-yar-missile-site/3821474</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine says it used locally produced long-range strike weapons...Read more...</p></details>

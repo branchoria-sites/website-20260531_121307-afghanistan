@@ -254,14 +254,14 @@ image: /assets/images/Russian_Federation_87c89a_soviet_ufo_program_ef78b5-Illust
 
 ## Introduction
 
-The Soviet Union did run a real state-backed programme to investigate UFO reports. What makes that programme unusual is not that it secretly confirmed alien visitation, but that it produced the opposite result. After more than a decade of collecting reports from military personnel, scientists, meteorological stations, pilots, and civilians, Soviet investigators concluded that most cases were linked to rockets, satellites, balloons, aircraft, atmospheric effects, or incomplete information. A smaller group remained unexplained, but unexplained was not treated as evidence of extraterrestrial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+The Soviet Union did run a real state-backed programme to investigate UFO reports. What makes that programme unusual is not that it secretly confirmed alien visitation, but that it produced the opposite result. After more than a decade of collecting reports from military personnel, scientists, meteorological stations, pilots, and civilians, Soviet investigators concluded that most cases were linked to rockets, satellites, balloons, aircraft, atmospheric effects, or incomplete information. A smaller group remained unexplained, but unexplained was not treated as evidence of extraterrestrial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
 <img src="{{ "/assets/images/Russian_Federation_87c89a_soviet_ufo_program_ef78b5-Illustration-1-dark.svg" | relative_url }}" alt="State Files illustration 1" data-theme-src-dark="{{ "/assets/images/Russian_Federation_87c89a_soviet_ufo_program_ef78b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Russian_Federation_87c89a_soviet_ufo_program_ef78b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is important in the Russian context. Cold War secrecy meant that many citizens were observing aerospace activity they could not identify and that officials could not openly discuss. Soviet investigators therefore approached UFO reports as a governance and defence problem rather than a question of belief. The resulting programme became one of the largest official studies of anomalous aerial reports in the Soviet period, and its final assessments were notably cautious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+This distinction is important in the Russian context. Cold War secrecy meant that many citizens were observing aerospace activity they could not identify and that officials could not openly discuss. Soviet investigators therefore approached UFO reports as a governance and defence problem rather than a question of belief. The resulting programme became one of the largest official studies of anomalous aerial reports in the Soviet period, and its final assessments were notably cautious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
 ## Why Petrozavodsk Triggered Official Study
 
-The turning point came in September 1977 with the event later known as the [Petrozavodsk]({{ 'petrozavodsk/' | relative_url }}) phenomenon. Residents across north-western parts of the Soviet Union and neighbouring regions reported a large luminous object that appeared to move across the sky before displaying what witnesses described as radiating beams or a jellyfish-like structure over Petrozavodsk in Karelia. Soviet newspapers carried reports, making the incident unusually public for the era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">Petrozavodsk phenomenon</span></span></span>
+The turning point came in September 1977 with the event later known as the [Petrozavodsk]({{ 'petrozavodsk/' | relative_url }}) phenomenon. Residents across north-western parts of the Soviet Union and neighbouring regions reported a large luminous object that appeared to move across the sky before displaying what witnesses described as radiating beams or a jellyfish-like structure over Petrozavodsk in Karelia. Soviet newspapers carried reports, making the incident unusually public for the era.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">Petrozavodsk phenomenon</span></span></span>
 
 The case mattered because it touched several sensitive areas at once:
 
@@ -271,13 +271,13 @@ The case mattered because it touched several sensitive areas at once:
 * Reports came from ordinary citizens as well as technically trained observers.
 * The event occurred during a period of intense Soviet space activity.
 * Foreign observers in Finland and elsewhere reported related sightings.
-* The Soviet state could not immediately provide a definitive public explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">Petrozavodsk phenomenon</span></span></span>
+* The Soviet state could not immediately provide a definitive public explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">Petrozavodsk phenomenon</span></span></span>
 
 </div>
 
-Researchers associated with the Academy of Sciences began gathering testimony, meteorological information, and trajectory estimates. Early investigations considered whether the event was connected to the launch of the satellite Kosmos-955 from the Plesetsk Cosmodrome. Some investigators believed the launch explanation fit much of the evidence; others argued that witness reports and timing left unresolved questions. The result was not a consensus that aliens had appeared over Karelia, but recognition that the Soviet Union lacked a systematic process for analysing such incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">Petrozavodsk phenomenon</span></span></span>
+Researchers associated with the Academy of Sciences began gathering testimony, meteorological information, and trajectory estimates. Early investigations considered whether the event was connected to the launch of the satellite Kosmos-955 from the Plesetsk Cosmodrome. Some investigators believed the launch explanation fit much of the evidence; others argued that witness reports and timing left unresolved questions. The result was not a consensus that aliens had appeared over Karelia, but recognition that the Soviet Union lacked a systematic process for analysing such incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">Petrozavodsk phenomenon</span></span></span>
 
-The official response was therefore institutional rather than sensational. Instead of declaring a mystery solved or embracing extraordinary explanations, authorities created a structured reporting and research system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+The official response was therefore institutional rather than sensational. Instead of declaring a mystery solved or embracing extraordinary explanations, authorities created a structured reporting and research system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b60SM627Qrg" title="Russian rocket is seen streaking accross night sky in Russia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b60SM627Qrg" target="_blank" rel="noopener noreferrer">Russian rocket is seen streaking accross night sky in Russia</a></p><p class="youtube-embed-meta">Channel: Daily Mail World &middot; Views: 10.9K &middot; Uploaded: June 2018 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b60SM627Qrg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b60SM627Qrg">Open on YouTube</a></p></div></div></div>
 
@@ -285,19 +285,19 @@ The official response was therefore institutional rather than sensational. Inste
 
 The programme that emerged is commonly associated with the name “Setka” or “The Network.” In practice, Soviet authorities split responsibilities between scientific and military institutions.
 
-One branch operated through the Academy of Sciences. Its role was to investigate unusual atmospheric, geophysical, astronomical, and aerospace phenomena. Scientists examined witness accounts, environmental conditions, launch schedules, and physical explanations. The goal was analytical rather than ideological: determine what had actually been observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/63996531/Secret-Soviet-Ufo-Research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Secret Soviet Ufo Research</span><span class="citation-popover-snippet">Soviet UFO Research: The SETKA Program &#124; PDFIn 1977-1978, the Soviet government established secret UFO research programs called SET...</span></span></span>
+One branch operated through the Academy of Sciences. Its role was to investigate unusual atmospheric, geophysical, astronomical, and aerospace phenomena. Scientists examined witness accounts, environmental conditions, launch schedules, and physical explanations. The goal was analytical rather than ideological: determine what had actually been observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/63996531/Secret-Soviet-Ufo-Research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Secret Soviet Ufo Research</span><span class="citation-popover-snippet">Soviet UFO Research: The SETKA Program &#124; PDFIn 1977-1978, the Soviet government established secret UFO research programs called SET...</span></span></span>
 
-A second branch operated through the Ministry of Defence. Military personnel collected reports from pilots, radar operators, missile units, air-defence systems, and other strategic facilities. Their concern was whether unusual observations represented foreign technology, equipment malfunctions, intelligence threats, or operational hazards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+A second branch operated through the Ministry of Defence. Military personnel collected reports from pilots, radar operators, missile units, air-defence systems, and other strategic facilities. Their concern was whether unusual observations represented foreign technology, equipment malfunctions, intelligence threats, or operational hazards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
 This division reveals how Soviet authorities viewed the issue. UFO reports were not treated primarily as evidence of extraterrestrials. They were treated as potentially relevant to:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* National security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[nsarchive2.gwu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive U.S</span><span class="citation-popover-snippet">INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — Examine the 21-year search for a Soviet deep space signal and the role of the Searc...</span></span></span>
+* National security.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[nsarchive2.gwu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive U.S</span><span class="citation-popover-snippet">INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — Examine the 21-year search for a Soviet deep space signal and the role of the Searc...</span></span></span>
 * Aerospace monitoring.
 * Scientific observation.
 * Public confidence and information control.
-* The identification of rare natural phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+* The identification of rare natural phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
 </div>
 
@@ -307,11 +307,11 @@ The structure also reflected a broader Soviet habit of compartmentalisation. Sci
 
 ## What the Programme Actually Collected
 
-Over roughly a decade, the programme accumulated thousands of reports. Investigators drew information from military observers, scientific institutes, weather services, and civilian witnesses. Participants later described a large archive covering aerial lights, unusual trajectories, atmospheric effects, and reports of apparent technological objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+Over roughly a decade, the programme accumulated thousands of reports. Investigators drew information from military observers, scientific institutes, weather services, and civilian witnesses. Participants later described a large archive covering aerial lights, unusual trajectories, atmospheric effects, and reports of apparent technological objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
 The collection effort produced an important lesson: eyewitness testimony alone rarely resolved a case.
 
-Many reports initially appeared dramatic but weakened when investigators compared them with launch records, astronomical conditions, weather data, or known aircraft activity. The programme repeatedly encountered situations in which multiple sincere witnesses observed something real yet misidentified its nature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+Many reports initially appeared dramatic but weakened when investigators compared them with launch records, astronomical conditions, weather data, or known aircraft activity. The programme repeatedly encountered situations in which multiple sincere witnesses observed something real yet misidentified its nature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
 Several categories appeared again and again:
 
@@ -323,22 +323,22 @@ Several categories appeared again and again:
 * Satellite launches and re-entries.
 * Atmospheric optical effects.
 * Rare astronomical observations.
-* Incomplete or contradictory witness accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+* Incomplete or contradictory witness accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
 </div>
 
-This pattern was especially significant in the Soviet Union because many citizens had little public information about military and space operations. A spectacular launch plume visible hundreds of kilometres away could appear entirely mysterious to observers. Investigators increasingly found that some of the most famous reports coincided with aerospace activity that was either classified or poorly understood by the public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+This pattern was especially significant in the Soviet Union because many citizens had little public information about military and space operations. A spectacular launch plume visible hundreds of kilometres away could appear entirely mysterious to observers. Investigators increasingly found that some of the most famous reports coincided with aerospace activity that was either classified or poorly understood by the public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
 <img src="{{ "/assets/images/Russian_Federation_87c89a_soviet_ufo_program_ef78b5-Illustration-2-dark.svg" | relative_url }}" alt="State Files illustration 2" data-theme-src-dark="{{ "/assets/images/Russian_Federation_87c89a_soviet_ufo_program_ef78b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Russian_Federation_87c89a_soviet_ufo_program_ef78b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Rocket Launches Explained So Many Soviet UFOs
 
 One of the programme's most consistent findings involved rockets and satellites.
 
-Large launches can create enormous illuminated structures in the upper atmosphere. Sunlight striking exhaust plumes at high altitude can produce glowing shapes, expanding halos, spirals, beams, and luminous clouds that appear far larger than the launch vehicle itself. To distant observers, these formations can look unlike any conventional aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">Petrozavodsk phenomenon</span></span></span>
+Large launches can create enormous illuminated structures in the upper atmosphere. Sunlight striking exhaust plumes at high altitude can produce glowing shapes, expanding halos, spirals, beams, and luminous clouds that appear far larger than the launch vehicle itself. To distant observers, these formations can look unlike any conventional aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">Petrozavodsk phenomenon</span></span></span>
 
 This was particularly relevant in northern regions connected to the Plesetsk Cosmodrome. Numerous sightings occurred along routes where launch-related effects would be visible across vast distances.
 
-The Petrozavodsk event itself remains debated in UFO literature, but many aerospace analysts and sceptical researchers regard the Kosmos-955 launch as the most plausible explanation for much of what witnesses saw. Even investigators who questioned whether every reported detail matched the launch recognised that Soviet space activity had to be treated as a primary explanatory factor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">Petrozavodsk phenomenon</span></span></span>
+The Petrozavodsk event itself remains debated in UFO literature, but many aerospace analysts and sceptical researchers regard the Kosmos-955 launch as the most plausible explanation for much of what witnesses saw. Even investigators who questioned whether every reported detail matched the launch recognised that Soviet space activity had to be treated as a primary explanatory factor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">Petrozavodsk phenomenon</span></span></span>
 
 The broader lesson from the Soviet programme was that unfamiliar aerospace technology could generate genuinely startling visual experiences without requiring extraordinary explanations.
 
@@ -346,7 +346,7 @@ The broader lesson from the Soviet programme was that unfamiliar aerospace techn
 
 One of the most misunderstood aspects of Soviet UFO research is the status of unresolved cases.
 
-Programme participants acknowledged that some reports could not be conclusively explained. In many instances, available information was simply insufficient. Witnesses disagreed, instrumental data were missing, observations were brief, or potentially relevant military records were unavailable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+Programme participants acknowledged that some reports could not be conclusively explained. In many instances, available information was simply insufficient. Witnesses disagreed, instrumental data were missing, observations were brief, or potentially relevant military records were unavailable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
 The Soviet investigators drew a sharp distinction between two statements:
 
@@ -355,17 +355,17 @@ The Soviet investigators drew a sharp distinction between two statements:
 1. A case remains unexplained.
 2. A case demonstrates extraterrestrial visitation.
 
-They accepted the first statement in some circumstances and rejected the second because the evidence did not support it. According to retrospective accounts from programme participants, no reliable physical evidence emerged proving alien landings, alien craft, or alien contact on Soviet territory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+They accepted the first statement in some circumstances and rejected the second because the evidence did not support it. According to retrospective accounts from programme participants, no reliable physical evidence emerged proving alien landings, alien craft, or alien contact on Soviet territory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
 This position often frustrates both believers and debunkers.
 
-Believers sometimes focus on the unresolved remainder of cases. Skeptics sometimes assume every report was dismissed. The actual Soviet conclusion was more nuanced: unusual observations existed, some resisted definitive explanation, but the available evidence never justified the leap to extraterrestrial claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+Believers sometimes focus on the unresolved remainder of cases. Skeptics sometimes assume every report was dismissed. The actual Soviet conclusion was more nuanced: unusual observations existed, some resisted definitive explanation, but the available evidence never justified the leap to extraterrestrial claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
 ## How Secrecy Created the UFO Problem
 
 The Soviet programme also revealed something broader about the nature of UFO reports in the USSR.
 
-Many sightings emerged from the interaction between genuine observations and state secrecy. Citizens were frequently unable to identify what they were seeing because information about launches, tests, radar systems, and military operations was restricted. Meanwhile, officials could not always provide immediate explanations without revealing classified activities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive U.S</span><span class="citation-popover-snippet">INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — Examine the 21-year search for a Soviet deep space signal and the role of the Searc...</span></span></span>
+Many sightings emerged from the interaction between genuine observations and state secrecy. Citizens were frequently unable to identify what they were seeing because information about launches, tests, radar systems, and military operations was restricted. Meanwhile, officials could not always provide immediate explanations without revealing classified activities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive U.S</span><span class="citation-popover-snippet">INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — Examine the 21-year search for a Soviet deep space signal and the role of the Searc...</span></span></span>
 
 This created a feedback loop:
 
@@ -386,201 +386,201 @@ That dynamic helps explain why some of the most famous Russian UFO stories emerg
 <img src="{{ "/assets/images/Russian_Federation_87c89a_soviet_ufo_program_ef78b5-Illustration-3-dark.svg" | relative_url }}" alt="State Files illustration 3" data-theme-src-dark="{{ "/assets/images/Russian_Federation_87c89a_soviet_ufo_program_ef78b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Russian_Federation_87c89a_soviet_ufo_program_ef78b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Legacy of the Soviet UFO Programme
 
-After the collapse of the Soviet Union, many stories circulated about hidden files, recovered craft, secret KGB knowledge, and suppressed discoveries. Some former military officers and UFO enthusiasts promoted dramatic interpretations of Soviet archives. Yet the strongest documented record points elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+After the collapse of the Soviet Union, many stories circulated about hidden files, recovered craft, secret KGB knowledge, and suppressed discoveries. Some former military officers and UFO enthusiasts promoted dramatic interpretations of Soviet archives. Yet the strongest documented record points elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
-The most important legacy of the programme is methodological rather than sensational. Soviet investigators assembled one of the largest state efforts devoted to anomalous aerial reports and ultimately reached a conservative conclusion: most sightings had ordinary causes, some remained unresolved, and none produced convincing evidence of extraterrestrial visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
+The most important legacy of the programme is methodological rather than sensational. Soviet investigators assembled one of the largest state efforts devoted to anomalous aerial reports and ultimately reached a conservative conclusion: most sightings had ordinary causes, some remained unresolved, and none produced convincing evidence of extraterrestrial visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span>
 
-For the broader [Russian Federation]({{ 'russian-federation/' | relative_url }}) UFO record, that finding remains highly relevant. The Soviet state took the reports seriously enough to build institutions around them, but serious investigation did not lead to confirmation of alien craft. Instead, it revealed how rockets, atmospheric phenomena, incomplete data, and Cold War secrecy could generate enduring mysteries that looked far stranger from the ground than they did inside the archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">Petrozavodsk phenomenon</span></span></span>
+For the broader [Russian Federation]({{ 'russian-federation/' | relative_url }}) UFO record, that finding remains highly relevant. The Soviet state took the reports seriously enough to build institutions around them, but serious investigation did not lead to confirmation of alien craft. Instead, it revealed how rockets, atmospheric phenomena, incomplete data, and Cold War secrecy could generate enduring mysteries that looked far stranger from the ground than they did inside the archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer A History of State UFO Research in the USSR</span><span class="citation-popover-snippet">extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Petrozavodsk phenomenon</span><span class="citation-popover-snippet">Petrozavodsk phenomenon</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Soviet UFO Investigators Actually Find?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Soviet UFO Investigators Actually Find?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on structured investigation rather than sensational conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on structured investigation rather than sensational conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Matches the article&#x27;s emphasis on evidence, classification and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the article&#x27;s emphasis on evidence, classification and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+chronicles+of+the+Soviet+Union+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO chronicles of the Soviet Union on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7930335-M.jpg" alt="Cover for UFO chronicles of the Soviet Union" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+chronicles+of+the+Soviet+Union+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO chronicles of the Soviet Union">UFO chronicles of the Soviet Union</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+chronicles+of+the+Soviet+Union+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO chronicles of the Soviet Union on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7930335-M.jpg" alt="Cover for UFO chronicles of the Soviet Union" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+chronicles+of+the+Soviet+Union+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO chronicles of the Soviet Union">UFO chronicles of the Soviet Union</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, Sightings and encounters, Unidentified flying objects, sightings and encount...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+chronicles+of+the+Soviet+Union+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, Sightings and encounters, Unidentified flying objects, sightings and encount...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+chronicles+of+the+Soviet+Union+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers a major alternative framework for interpreting UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a major alternative framework for interpreting UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+chronicles+of+the+Soviet+Union&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO chronicles of the Soviet Union</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+chronicles+of+the+Soviet+Union&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO chronicles of the Soviet Union</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-ufo-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-ufo-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ For the broader [Russian Federation]({{ 'russian-federation/' | relative_url }})
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ For the broader [Russian Federation]({{ 'russian-federation/' | relative_url }})
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ For the broader [Russian Federation]({{ 'russian-federation/' | relative_url }})
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -700,7 +700,7 @@ For the broader [Russian Federation]({{ 'russian-federation/' | relative_url }})
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -745,7 +745,7 @@ For the broader [Russian Federation]({{ 'russian-federation/' | relative_url }})
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,82 +783,81 @@ For the broader [Russian Federation]({{ 'russian-federation/' | relative_url }})
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scribd.com  
    Title: Secret Soviet Ufo Research  
-   Link: <a href="https://www.scribd.com/document/63996531/Secret-Soviet-Ufo-Research" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/63996531/Secret-Soviet-Ufo-Research</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet UFO Research: The SETKA Program | PDFIn 1977-1978, the Soviet government established secret UFO research programs called SET...</p></details>
+   Link:<a href="https://www.scribd.com/document/63996531/Secret-Soviet-Ufo-Research" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/63996531/Secret-Soviet-Ufo-Research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet UFO Research: The SETKA Program | PDFIn 1977-1978, the Soviet government established secret UFO research programs called SET...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Petrozavodsk phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer A History of State UFO Research in the USSR  
-   Link: <a href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>extraterrestrial origin for UFOs is sorely lacking even the thinnest shred of evidence. Any serious UFO investigator must, at the very le...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nsarchive2.gwu.edu  
    Title: National Security Archive U.S  
-   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — Examine the 21-year search for a Soviet deep space signal and the role of the Searc...</p></details>
+   Link:<a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INTELLIGENCE AND THE SOVIET SPACE PROGRAM4 Feb 2015 — Examine the 21-year search for a Soviet deep space signal and the role of the Searc...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000042346.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: astronautix.com  
-   Link: <a href="https://www.astronautix.com/g/giantufoovetwocontinents.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astronautix.com/g/giantufoovetwocontinents.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant UFO Over Two ContinentsAnother major factor is that there are too many UFO reports to be handled by the handful of qualified part-t...</p></details>
+   Link:<a href="https://www.astronautix.com/g/giantufoovetwocontinents.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astronautix.com/g/giantufoovetwocontinents.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Giant UFO Over Two ContinentsAnother major factor is that there are too many UFO reports to be handled by the handful of qualified part-t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tvi.show  
-   Link: <a href="https://www.tvi.show/nexus/russian-ufo-files-exposed-george-knapps-secret-soviet-documents-on-underwater-alien-bases" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/nexus/russian-ufo-files-exposed-george-knapps-secret-soviet-documents-on-underwater-alien-bases</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Soviet Documents on Underwater Alien Bases12 Jul 2024 — Colonel Plaksin&#x27;s UFO Research Work. Colonel Plaksin represents an importa...</p></details>
+   Link:<a href="https://www.tvi.show/nexus/russian-ufo-files-exposed-george-knapps-secret-soviet-documents-on-underwater-alien-bases" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/nexus/russian-ufo-files-exposed-george-knapps-secret-soviet-documents-on-underwater-alien-bases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Soviet Documents on Underwater Alien Bases12 Jul 2024 — Colonel Plaksin&#x27;s UFO Research Work. Colonel Plaksin represents an importa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/the-petrozavodsk-phenomenon-a-celestial-mystery-seen-over-1977-soviet-russia-80128" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-petrozavodsk-phenomenon-a-celestial-mystery-seen-over-1977-soviet-russia-80128</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Petrozavodsk Phenomenon: A Celestial Mystery Seen...24 Jul 2025 — Whether a military test gone awry or not, the incident led to the...</p></details>
+   Link:<a href="https://www.iflscience.com/the-petrozavodsk-phenomenon-a-celestial-mystery-seen-over-1977-soviet-russia-80128" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-petrozavodsk-phenomenon-a-celestial-mystery-seen-over-1977-soviet-russia-80128</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Petrozavodsk Phenomenon: A Celestial Mystery Seen...24 Jul 2025 — Whether a military test gone awry or not, the incident led to the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: themoscowtimes.com  
-   Link: <a href="https://www.themoscowtimes.com/2016/03/31/little-green-men-a-look-at-the-official-soviet-x-files-investigation-a52335" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/2016/03/31/little-green-men-a-look-at-the-official-soviet-x-files-investigation-a52335</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Little Green Men: A Look at the Official Soviet X-Files...31 Mar 2016 — &quot;I don&#x27;t know whether or not Russian science has research center...</p></details>
+   Link:<a href="https://www.themoscowtimes.com/2016/03/31/little-green-men-a-look-at-the-official-soviet-x-files-investigation-a52335" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/2016/03/31/little-green-men-a-look-at-the-official-soviet-x-files-investigation-a52335</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Little Green Men: A Look at the Official Soviet X-Files...31 Mar 2016 — &quot;I don&#x27;t know whether or not Russian science has research center...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZPtX8isVsQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZPtX8isVsQo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This collection of videos is relevant because it features direct examinations of the mass-witnessed 1977 Petrozavodsk jellyfish-like sigh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZPtX8isVsQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZPtX8isVsQo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This collection of videos is relevant because it features direct examinations of the mass-witnessed 1977 Petrozavodsk jellyfish-like sigh...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: jpost.com  
-   Link: <a href="https://www.jpost.com/omg/article-753288" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/omg/article-753288</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs once took control of Russian ICBMs, nearly caused...1 Aug 2023 — UFOs once took control of Russian ICBMs, nearly caused WW3 - testi...</p></details>
+   Link:<a href="https://www.jpost.com/omg/article-753288" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/omg/article-753288</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs once took control of Russian ICBMs, nearly caused...1 Aug 2023 — UFOs once took control of Russian ICBMs, nearly caused WW3 - testi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: moviemaker.com  
    Title: petrozavodsk phenomenon jellyfish shaped ufo russia 1977  
-   Link: <a href="https://www.moviemaker.com/petrozavodsk-phenomenon-jellyfish-shaped-ufo-russia-1977/" target="_blank" rel="noopener noreferrer nofollow">https://www.moviemaker.com/petrozavodsk-phenomenon-jellyfish-shaped-ufo-russia-1977/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Was the Petrozavodsk Phenomenon, Jellyfish...31 Jan 2023 — Looking for more information on the Petrozavodsk Phenomenon, the jellyfi...</p></details>
+   Link:<a href="https://www.moviemaker.com/petrozavodsk-phenomenon-jellyfish-shaped-ufo-russia-1977/" target="_blank" rel="noopener noreferrer nofollow">https://www.moviemaker.com/petrozavodsk-phenomenon-jellyfish-shaped-ufo-russia-1977/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Was the Petrozavodsk Phenomenon, Jellyfish...31 Jan 2023 — Looking for more information on the Petrozavodsk Phenomenon, the jellyfi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
    Title: Since the Air Force was more  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Unidentified Aerospace-Undersea...In this article, Keyhoe claimed that UFOs were alien spacecraft and that the US gov...</p></details>
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Unidentified Aerospace-Undersea...In this article, Keyhoe claimed that UFOs were alien spacecraft and that the US gov...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: academia.edu  
    Title: (PDF) HISTORY OF UFO STATE RESEARCH IN THE USSR  
-   Link: <a href="https://www.academia.edu/12689467/HISTORY_OF_UFO_STATE_RESEARCH_IN_THE_USSR" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/12689467/HISTORY_OF_UFO_STATE_RESEARCH_IN_THE_USSR</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien visitations. However, it undoubtedly does pay such agencies to sift through UFO reports for any light they can shed on Soviet space...</p></details>
+   Link:<a href="https://www.academia.edu/12689467/HISTORY_OF_UFO_STATE_RESEARCH_IN_THE_USSR" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/12689467/HISTORY_OF_UFO_STATE_RESEARCH_IN_THE_USSR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien visitations. However, it undoubtedly does pay such agencies to sift through UFO reports for any light they can shed on Soviet space...</p></details>

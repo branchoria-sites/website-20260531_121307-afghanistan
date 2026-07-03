@@ -1194,10 +1194,10 @@ image: /assets/images/Republic_of_Moldova_a6ad94-overview-social.jpg
 
 ## What counts as a Moldovan UFO case?
 
-For this page, “UFO” is used in its plain evidential sense: an unidentified flying object, not proof of extraterrestrial origin. The newer term UAP, usually rendered as “unidentified anomalous phenomena”, is useful because it avoids the pop-culture assumption that every mystery in the sky is a spacecraft. NASA defines UAP as observations in the sky that cannot immediately be identified as aircraft or known natural phenomena, and its 2023 study stressed data quality, sensor context and open scientific methods rather than spectacle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
+For this page, “UFO” is used in its plain evidential sense: an unidentified flying object, not proof of extraterrestrial origin. The newer term UAP, usually rendered as “unidentified anomalous phenomena”, is useful because it avoids the pop-culture assumption that every mystery in the sky is a spacecraft. NASA defines UAP as observations in the sky that cannot immediately be identified as aircraft or known natural phenomena, and its 2023 study stressed data quality, sensor context and open scientific methods rather than spectacle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
 <img src="{{ "/assets/images/Republic_of_Moldova_a6ad94-overview.webp" | relative_url }}" alt="Overview image for Republic of Moldova" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters in Moldova because the country’s most credible public cases are not witness tales with dramatic close encounters. They are mostly operational events: airspace closures, radar uncertainty, drones entering from Ukraine, and objects later described as balloons or unmanned aircraft. Moldova’s Civil Aviation Authority also treats drone operation as a regulated aviation matter: non-toy unmanned aircraft require insurance, controlled airspace and areas near aerodromes or restricted sites are off-limits, and some operations require approvals from defence, security and local authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.md/en/guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.md">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.md</span><span class="citation-popover-title">Civil Aviation Authority Guide &#124; CIVIL AVIATION AUTHORITY</span><span class="citation-popover-snippet">Civil Aviation Authority Guide &#124; CIVIL AVIATION AUTHORITY</span></span></span>
+That distinction matters in Moldova because the country’s most credible public cases are not witness tales with dramatic close encounters. They are mostly operational events: airspace closures, radar uncertainty, drones entering from Ukraine, and objects later described as balloons or unmanned aircraft. Moldova’s Civil Aviation Authority also treats drone operation as a regulated aviation matter: non-toy unmanned aircraft require insurance, controlled airspace and areas near aerodromes or restricted sites are off-limits, and some operations require approvals from defence, security and local authorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.md/en/guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.md">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.md</span><span class="citation-popover-title">Civil Aviation Authority Guide &#124; CIVIL AVIATION AUTHORITY</span><span class="citation-popover-snippet">Civil Aviation Authority Guide &#124; CIVIL AVIATION AUTHORITY</span></span></span>
 
 The result is a three-tier evidence picture:
 
@@ -1211,22 +1211,22 @@ The result is a three-tier evidence picture:
 
 ## The strongest public case: Soroca, 14 February 2023
 
-The clearest Moldova-specific UFO/UAP incident in the public record occurred on 14 February 2023. According to Moldova’s Civil Aviation Authority, the Ministry of Defence received information at about 12:30 that a small unidentified object, similar to a meteorological balloon, had been detected in Moldovan airspace in the Soroca area, near the Ukrainian border. Because weather conditions made it impossible to monitor, identify, and establish the object’s flight path, authorities closed national airspace at 13:24 and reopened it at 14:46 after checking there was no danger to citizens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.moldpres.md/rom/societate/aac-a-facut-precizari-privind-patrunderea-in-spatiul-aerian-national-a-unui-obiect-zburator" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moldpres.md">[Moldpres]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moldpres.md</span><span class="citation-popover-snippet">Open source on moldpres.md.</span></span></span>
+The clearest Moldova-specific UFO/UAP incident in the public record occurred on 14 February 2023. According to Moldova’s Civil Aviation Authority, the Ministry of Defence received information at about 12:30 that a small unidentified object, similar to a meteorological balloon, had been detected in Moldovan airspace in the Soroca area, near the Ukrainian border. Because weather conditions made it impossible to monitor, identify, and establish the object’s flight path, authorities closed national airspace at 13:24 and reopened it at 14:46 after checking there was no danger to citizens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.moldpres.md/rom/societate/aac-a-facut-precizari-privind-patrunderea-in-spatiul-aerian-national-a-unui-obiect-zburator" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moldpres.md">[Moldpres]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moldpres.md</span><span class="citation-popover-snippet">Open source on moldpres.md.</span></span></span>
 
-Reuters reported the same event as a temporary closure of Moldova’s airspace after a defence ministry report of a small balloon-like object in the north of the country, close to Ukraine. The agency also noted the tense timing: the incident came days after Moldova said a Russian missile had violated its airspace and amid heightened concern about Russian pressure on the country. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Moldova briefly shuts airspace after report of balloon-like object &#124; Reuters</span><span class="citation-popover-snippet">Moldova briefly shuts airspace after report of balloon-like object &#124; Reuters</span></span></span>
+Reuters reported the same event as a temporary closure of Moldova’s airspace after a defence ministry report of a small balloon-like object in the north of the country, close to Ukraine. The agency also noted the tense timing: the incident came days after Moldova said a Russian missile had violated its airspace and amid heightened concern about Russian pressure on the country.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Moldova briefly shuts airspace after report of balloon-like object &#124; Reuters</span><span class="citation-popover-snippet">Moldova briefly shuts airspace after report of balloon-like object &#124; Reuters</span></span></span>
 
-AP’s regional report placed Moldova’s incident alongside a same-day Romanian event in which Romania scrambled two MiG-21 LanceR jets after radar detected a small object with weather-balloon-like characteristics at about 11,000 metres. The Romanian crews did not confirm the object visually or on onboard radar, and Romania’s foreign minister later said there was no threat to Romanian airspace. Moldova’s separate case caused travel disruption and brief public anxiety before authorities framed it as a balloon-like object rather than an exotic phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/russia-ukraine-nato-politics-government-romania-51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Romania, Moldova both report strange objects in their skies &#124; AP News</span><span class="citation-popover-snippet">AP News Romania, Moldova both report strange objects in their skies &#124; AP News</span></span></span>
+AP’s regional report placed Moldova’s incident alongside a same-day Romanian event in which Romania scrambled two MiG-21 LanceR jets after radar detected a small object with weather-balloon-like characteristics at about 11,000 metres. The Romanian crews did not confirm the object visually or on onboard radar, and Romania’s foreign minister later said there was no threat to Romanian airspace. Moldova’s separate case caused travel disruption and brief public anxiety before authorities framed it as a balloon-like object rather than an exotic phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/russia-ukraine-nato-politics-government-romania-51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Romania, Moldova both report strange objects in their skies &#124; AP News</span><span class="citation-popover-snippet">AP News Romania, Moldova both report strange objects in their skies &#124; AP News</span></span></span>
 
-The Soroca incident is important because it shows how a Moldovan UFO case can be both genuinely unidentified and not especially mysterious. The object was not publicly recovered or conclusively identified, so it remains unresolved in a narrow factual sense. But its reported features — small, balloon-like, difficult to monitor in poor weather — fit a well-known class of prosaic UAP explanations. AARO, the US office that analyses UAP cases, has repeatedly resolved sensor-recorded UAP imagery as balloons when shape, drift and behaviour match lighter-than-air objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+The Soroca incident is important because it shows how a Moldovan UFO case can be both genuinely unidentified and not especially mysterious. The object was not publicly recovered or conclusively identified, so it remains unresolved in a narrow factual sense. But its reported features — small, balloon-like, difficult to monitor in poor weather — fit a well-known class of prosaic UAP explanations. AARO, the US office that analyses UAP cases, has repeatedly resolved sensor-recorded UAP imagery as balloons when shape, drift and behaviour match lighter-than-air objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 <img src="{{ "/assets/images/Republic_of_Moldova_a6ad94-Illustration-1-dark.svg" | relative_url }}" alt="Republic of Moldova illustration 1" data-theme-src-dark="{{ "/assets/images/Republic_of_Moldova_a6ad94-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Moldova_a6ad94-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Moldova’s UFO story changed after the war next door
 
 Before 2022, Moldova did not have a prominent public UFO tradition comparable with countries that maintain large civilian databases, military archives, or famous named incidents. After Russia’s full-scale invasion of Ukraine, however, Moldova’s sky became a more sensitive space. The practical question shifted from “is this strange light unexplained?” to “is this object a drone, missile, balloon, or other airspace threat?”
 
-In February 2025, Moldova’s Foreign Ministry condemned repeated violations of national airspace by drones launched after Russian attacks on infrastructure in southern Ukraine. It reported that, during the night of 12–13 February, Border Police patrols observed multiple drones crossing Moldovan territory, with two crashing and exploding in uninhabited areas near Ciumai in Taraclia district and near Ceadîr-Lunga and Valea Perjei. The ministry summoned Russia’s approved ambassador and described the incidents as threats to citizens and regional stability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mfa.gov.md/en/content/mfa-strongly-condemns-violation-republic-moldovas-airspace-and-summons-approved-ambassador" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mfa.gov.md">[MFA Moldova]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mfa.gov.md</span><span class="citation-popover-title">MFA Moldova&#124; Ministry of Foreign Affairs of the Republic of Moldova</span><span class="citation-popover-snippet">MFA Moldova&#124; Ministry of Foreign Affairs of the Republic of Moldova</span></span></span>
+In February 2025, Moldova’s Foreign Ministry condemned repeated violations of national airspace by drones launched after Russian attacks on infrastructure in southern Ukraine. It reported that, during the night of 12–13 February, Border Police patrols observed multiple drones crossing Moldovan territory, with two crashing and exploding in uninhabited areas near Ciumai in Taraclia district and near Ceadîr-Lunga and Valea Perjei. The ministry summoned Russia’s approved ambassador and described the incidents as threats to citizens and regional stability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mfa.gov.md/en/content/mfa-strongly-condemns-violation-republic-moldovas-airspace-and-summons-approved-ambassador" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mfa.gov.md">[MFA Moldova]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mfa.gov.md</span><span class="citation-popover-title">MFA Moldova&#124; Ministry of Foreign Affairs of the Republic of Moldova</span><span class="citation-popover-snippet">MFA Moldova&#124; Ministry of Foreign Affairs of the Republic of Moldova</span></span></span>
 
-In May 2026, another official Moldovan account described an unmanned aircraft entering from the direction of Ukraine through Taraclia district, passing along the Valea Perjei, Ceadîr-Lunga and Larga Nouă route, then disappearing from radar near Larga Nouă. Authorities temporarily closed national airspace and later partially reopened it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.moldpres.md/eng/society/foreign-ministry-condemns-unauthorized-overflight-of-national-airspace-by-unmanned-aircraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moldpres.md">[Moldpres]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moldpres.md</span><span class="citation-popover-snippet">Open source on moldpres.md.</span></span></span>
+In May 2026, another official Moldovan account described an unmanned aircraft entering from the direction of Ukraine through Taraclia district, passing along the Valea Perjei, Ceadîr-Lunga and Larga Nouă route, then disappearing from radar near Larga Nouă. Authorities temporarily closed national airspace and later partially reopened it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.moldpres.md/eng/society/foreign-ministry-condemns-unauthorized-overflight-of-national-airspace-by-unmanned-aircraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moldpres.md">[Moldpres]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moldpres.md</span><span class="citation-popover-snippet">Open source on moldpres.md.</span></span></span>
 
 These incidents are not “UFO cases” in the old flying-saucer sense. They are better understood as UAP-like airspace events inside a war-adjacent security environment. The object may be known to be a drone only after later assessment; during the response window, officials and civilians are dealing with uncertainty, incomplete tracking, and public risk. That is why Moldova’s most consequential unidentified-object history is now bound to aviation security, not paranormal folklore.
 
@@ -1234,11 +1234,11 @@ These incidents are not “UFO cases” in the old flying-saucer sense. They are
 
 Moldova’s public UFO/UAP record is too sparse for a statistical hotspot map, but the reported official incidents do show a geography of risk.
 
-**Northern Moldova:** Soroca is the anchor point for the 14 February 2023 balloon-like object case. Its significance is less about local folklore than position: northern Moldova sits close to Ukraine, so reports from that region can quickly become aviation-security matters. The same wider northern and border context appears in later drone discoveries and airspace warnings reported by international media, including incidents in districts north of Chișinău. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.moldpres.md/eng/society/moldovan-general-police-inspectorate-says-drone-landed-in-floresti-district-is-russian-made-gerbera-type" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moldpres.md">[Moldpres]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moldpres.md</span><span class="citation-popover-snippet">Open source on moldpres.md.</span></span></span>
+**Northern Moldova:** Soroca is the anchor point for the 14 February 2023 balloon-like object case. Its significance is less about local folklore than position: northern Moldova sits close to Ukraine, so reports from that region can quickly become aviation-security matters. The same wider northern and border context appears in later drone discoveries and airspace warnings reported by international media, including incidents in districts north of Chișinău.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.moldpres.md/eng/society/moldovan-general-police-inspectorate-says-drone-landed-in-floresti-district-is-russian-made-gerbera-type" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moldpres.md">[Moldpres]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moldpres.md</span><span class="citation-popover-snippet">Open source on moldpres.md.</span></span></span>
 
-**Southern Moldova:** Taraclia, Ceadîr-Lunga, Valea Perjei and Larga Nouă form a second important zone because of reported drone routes from Ukraine and proximity to the Black Sea and Danube-area conflict environment. The 2025 Foreign Ministry statement and 2026 Moldpres report both place serious airspace events in or near southern localities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mfa.gov.md/en/content/mfa-strongly-condemns-violation-republic-moldovas-airspace-and-summons-approved-ambassador" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mfa.gov.md">[MFA Moldova]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mfa.gov.md</span><span class="citation-popover-title">MFA Moldova&#124; Ministry of Foreign Affairs of the Republic of Moldova</span><span class="citation-popover-snippet">MFA Moldova&#124; Ministry of Foreign Affairs of the Republic of Moldova</span></span></span>
+**Southern Moldova:** Taraclia, Ceadîr-Lunga, Valea Perjei and Larga Nouă form a second important zone because of reported drone routes from Ukraine and proximity to the Black Sea and Danube-area conflict environment. The 2025 Foreign Ministry statement and 2026 Moldpres report both place serious airspace events in or near southern localities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mfa.gov.md/en/content/mfa-strongly-condemns-violation-republic-moldovas-airspace-and-summons-approved-ambassador" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mfa.gov.md">[MFA Moldova]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mfa.gov.md</span><span class="citation-popover-title">MFA Moldova&#124; Ministry of Foreign Affairs of the Republic of Moldova</span><span class="citation-popover-snippet">MFA Moldova&#124; Ministry of Foreign Affairs of the Republic of Moldova</span></span></span>
 
-**Chișinău and online [sightings]({{ 'sightings-2cf1d4/' | relative_url }}):** The capital appears more often in civilian UFO posts and database-style pages than in official UAP case [records]({{ 'records-ddc328/' | relative_url }}). Enigma Labs’ public Moldova page says it has no Moldova sightings submitted directly to Enigma, but includes seven Moldova sightings from third-party sources in its platform. That is a useful signal of scarcity: there is some civilian-report residue, but not a dense, well-corroborated public archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Moldova &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Moldova &#124; Enigma Labs</span></span></span> | Report a UFO sighting
+**Chișinău and online [sightings]({{ 'sightings-2cf1d4/' | relative_url }}):** The capital appears more often in civilian UFO posts and database-style pages than in official UAP case [records]({{ 'records-ddc328/' | relative_url }}). Enigma Labs’ public Moldova page says it has no Moldova sightings submitted directly to Enigma, but includes seven Moldova sightings from third-party sources in its platform. That is a useful signal of scarcity: there is some civilian-report residue, but not a dense, well-corroborated public archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Moldova &#124; Enigma Labs</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting UFO Sightings in Moldova &#124; Enigma Labs</span></span></span> | Report a UFO sighting
 
 **Transnistria and Tiraspol:** Online videos sometimes claim sightings over Tiraspol, but the public record available through mainstream and official sources is too weak to treat these as established cases. For a Moldova page, they are best framed as unverified digital folklore unless a video can be matched to time, location, weather, flight data, multiple independent witnesses, or an official report.
 
@@ -1248,7 +1248,7 @@ Moldova’s public UFO/UAP record is too sparse for a statistical hotspot map, b
 
 Moldova’s official public record does not appear to contain a dedicated UFO investigation archive comparable to historic state UFO programmes in larger countries. Instead, public evidence appears through civil aviation notices, government press releases, defence and foreign ministry statements, police reports, and news coverage of specific airspace events.
 
-That institutional pattern makes sense. Moldova’s authorities do not need to decide whether a witness saw “aliens”; they need to decide whether an object is a threat, whether airspace should close, whether civil flights should be restricted, whether the public is at risk, and whether a diplomatic protest is required. The Civil Aviation Authority’s 2025 campaign for drone users, aimed at increasing compliance with national and European rules, shows the domestic side of the same problem: many aerial mysteries can begin with ordinary unmanned aircraft operated unsafely, illegally, or without public awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.md/en/guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.md">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.md</span><span class="citation-popover-title">Civil Aviation Authority Guide &#124; CIVIL AVIATION AUTHORITY</span><span class="citation-popover-snippet">Civil Aviation Authority Guide &#124; CIVIL AVIATION AUTHORITY</span></span></span>
+That institutional pattern makes sense. Moldova’s authorities do not need to decide whether a witness saw “aliens”; they need to decide whether an object is a threat, whether airspace should close, whether civil flights should be restricted, whether the public is at risk, and whether a diplomatic protest is required. The Civil Aviation Authority’s 2025 campaign for drone users, aimed at increasing compliance with national and European rules, shows the domestic side of the same problem: many aerial mysteries can begin with ordinary unmanned aircraft operated unsafely, illegally, or without public awareness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.md/en/guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.md">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.md</span><span class="citation-popover-title">Civil Aviation Authority Guide &#124; CIVIL AVIATION AUTHORITY</span><span class="citation-popover-snippet">Civil Aviation Authority Guide &#124; CIVIL AVIATION AUTHORITY</span></span></span>
 
 For readers looking for declassified “Moldovan UFO files”, the useful takeaway is therefore modest but important: Moldova’s most credible open records are not a hidden saucer archive. They are aviation-security documents and incident reports in which identification is operationally urgent but often limited by weather, radar coverage, object size, and proximity to a conflict zone.
 
@@ -1256,11 +1256,11 @@ For readers looking for declassified “Moldovan UFO files”, the useful takeaw
 
 Moldova’s available material divides more cleanly by evidence quality than by drama.
 
-**Confirmed or strongly documented:** The 2023 Soroca airspace closure is confirmed by Moldovan state reporting and Reuters. The object itself was not publicly identified beyond the balloon-like description, but the official response, timing and rationale are well documented. The 2025 and 2026 drone-related incidents are also strongly documented as airspace-security events, with official Moldovan statements describing routes, crash sites, diplomatic protests or temporary restrictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.moldpres.md/eng/politics/russian-federation-s-ambassador-summoned-to-foreign-ministry-we-condemn-the-violation-of-national-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moldpres.md">[Moldpres]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moldpres.md</span><span class="citation-popover-snippet">Open source on moldpres.md.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.moldpres.md/eng/society/first-automatic-atmospheric-air-quality-monitoring-station-to-be-installed-in-moldova" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moldpres.md">[Moldpres]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moldpres.md</span><span class="citation-popover-snippet">Open source on moldpres.md.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/six-russian-balloons-spotted-over-kyiv-most-shot-down-officials-2023-02-15/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">six russian balloons spotted over kyiv most shot down officials 2023 02 15</span><span class="citation-popover-snippet">six russian balloons spotted over kyiv most shot down officials 2023 02 15</span></span></span>
+**Confirmed or strongly documented:** The 2023 Soroca airspace closure is confirmed by Moldovan state reporting and Reuters. The object itself was not publicly identified beyond the balloon-like description, but the official response, timing and rationale are well documented. The 2025 and 2026 drone-related incidents are also strongly documented as airspace-security events, with official Moldovan statements describing routes, crash sites, diplomatic protests or temporary restrictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.moldpres.md/eng/politics/russian-federation-s-ambassador-summoned-to-foreign-ministry-we-condemn-the-violation-of-national-airspace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moldpres.md">[Moldpres]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moldpres.md</span><span class="citation-popover-snippet">Open source on moldpres.md.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.moldpres.md/eng/society/first-automatic-atmospheric-air-quality-monitoring-station-to-be-installed-in-moldova" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moldpres.md">[Moldpres]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moldpres.md</span><span class="citation-popover-snippet">Open source on moldpres.md.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/six-russian-balloons-spotted-over-kyiv-most-shot-down-officials-2023-02-15/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">six russian balloons spotted over kyiv most shot down officials</span><span class="citation-popover-snippet">six russian balloons spotted over kyiv most shot down officials</span></span></span>
 
 **Contested or unresolved:** Any object that was detected but not recovered, tracked continuously, or conclusively identified remains unresolved in the narrow sense. Soroca belongs partly in this category: the event was real, but the object’s final identity is not publicly proven. Some drone incidents may also begin as ambiguous before later assessment clarifies the type or likely origin.
 
-**Debunked or probably prosaic:** Moldova does not have many famous debunked UFO legends in the accessible public record. Instead, the likely prosaic explanations are embedded in the reports themselves: balloon-like objects, drones, radar uncertainty, weather limitations, and wartime spillover. AARO’s published UAP examples are relevant here because they show how objects that look anomalous in limited footage often resolve to balloons, birds, aircraft, or insufficiently characterised sensor returns when analysts compare morphology, movement and environmental context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+**Debunked or probably prosaic:** Moldova does not have many famous debunked UFO legends in the accessible public record. Instead, the likely prosaic explanations are embedded in the reports themselves: balloon-like objects, drones, radar uncertainty, weather limitations, and wartime spillover. AARO’s published UAP examples are relevant here because they show how objects that look anomalous in limited footage often resolve to balloons, birds, aircraft, or insufficiently characterised sensor returns when analysts compare morphology, movement and environmental context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 **Weak or unusable:** Single-platform videos, social-media clips, and articles that claim Moldovan UFO “hotspots” without verifiable case files should be treated cautiously. They may show what people are talking about, but they usually do not establish what was in the sky.
 
@@ -1271,7 +1271,7 @@ Moldova has several features that can generate unidentified-object reports witho
 
 First, it is a small country with limited public-facing UAP infrastructure. A rare sighting may never become a formal, searchable case unless it affects aviation, policing or national security. Second, Moldova’s position beside Ukraine means missiles, drones, balloons and air-defence activity can create genuine sky mysteries for civilians and officials. Third, modern consumer drones and satellite trains can look strange to unprepared observers, especially at night. Fourth, social media rewards short, dramatic clips, while proper identification needs boring details: exact time, direction, elevation, duration, weather, camera settings, flight tracks and independent witnesses.
 
-This is the same basic evidential problem NASA highlighted in its UAP work: without extensive, well-calibrated data, it is difficult to verify or explain observations reliably. That point is especially relevant for Moldova, where many public claims are either official but operationally terse, or civilian but poorly documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
+This is the same basic evidential problem NASA highlighted in its UAP work: without extensive, well-calibrated data, it is difficult to verify or explain observations reliably. That point is especially relevant for Moldova, where many public claims are either official but operationally terse, or civilian but poorly documented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
 <img src="{{ "/assets/images/Republic_of_Moldova_a6ad94-Illustration-3-dark.svg" | relative_url }}" alt="Republic of Moldova illustration 3" data-theme-src-dark="{{ "/assets/images/Republic_of_Moldova_a6ad94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Republic_of_Moldova_a6ad94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to assess a Moldovan UFO report
@@ -1305,194 +1305,194 @@ The Soroca event remains the central Moldova-specific case because it is officia
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W-ZstkDjBYc" title="Russian Drone Crash: Moldova Displays Crashed Russian Drone Outside Foreign Ministry | Tensions Rise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W-ZstkDjBYc" target="_blank" rel="noopener noreferrer">Russian Drone Crash: Moldova Displays Crashed Russian Drone Outside Foreign Ministry | Tensions Rise</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 1.0K &middot; Uploaded: November 2025 &middot; Length: 1 minute 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W-ZstkDjBYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W-ZstkDjBYc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Moldova&#x27;s UFO Record Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Moldova&#x27;s UFO Record Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding why many reports remain unresolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why many reports remain unresolved.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Helps contextualise Moldova&#x27;s small and fragmented UFO record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps contextualise Moldova&#x27;s small and fragmented UFO record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores military, government and unidentified-object cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military, government and unidentified-object cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page focused on official responses and airspace incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page focused on official responses and airspace incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-moldova-s-ufo-record-really-shows-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-moldova-s-ufo-record-really-shows-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1508,7 +1508,7 @@ The Soroca event remains the central Moldova-specific case because it is officia
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1528,7 +1528,7 @@ The Soroca event remains the central Moldova-specific case because it is officia
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1560,7 +1560,7 @@ The Soroca event remains the central Moldova-specific case because it is officia
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1612,7 +1612,7 @@ The Soroca event remains the central Moldova-specific case because it is officia
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1657,7 +1657,7 @@ The Soroca event remains the central Moldova-specific case because it is officia
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1698,201 +1698,201 @@ The Soroca event remains the central Moldova-specific case because it is officia
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: moldpres.md  
-   Link: <a href="https://www.moldpres.md/rom/societate/aac-a-facut-precizari-privind-patrunderea-in-spatiul-aerian-national-a-unui-obiect-zburator" target="_blank" rel="noopener noreferrer nofollow">https://www.moldpres.md/rom/societate/aac-a-facut-precizari-privind-patrunderea-in-spatiul-aerian-national-a-unui-obiect-zburator</a>  
+   Link:<a href="https://www.moldpres.md/rom/societate/aac-a-facut-precizari-privind-patrunderea-in-spatiul-aerian-national-a-unui-obiect-zburator" target="_blank" rel="noopener noreferrer nofollow">https://www.moldpres.md/rom/societate/aac-a-facut-precizari-privind-patrunderea-in-spatiul-aerian-national-a-unui-obiect-zburator</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
    Title: Moldova briefly shuts airspace after report of balloon-like object | Reuters  
-   Link: <a href="https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/moldova-has-temporarily-closed-its-airspace-national-airliner-says-2023-02-14/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: moldpres.md  
-   Link: <a href="https://www.moldpres.md/eng/society/foreign-ministry-condemns-unauthorized-overflight-of-national-airspace-by-unmanned-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.moldpres.md/eng/society/foreign-ministry-condemns-unauthorized-overflight-of-national-airspace-by-unmanned-aircraft</a>  
+   Link:<a href="https://www.moldpres.md/eng/society/foreign-ministry-condemns-unauthorized-overflight-of-national-airspace-by-unmanned-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.moldpres.md/eng/society/foreign-ministry-condemns-unauthorized-overflight-of-national-airspace-by-unmanned-aircraft</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting UFO Sightings in Moldova | Enigma Labs  
-   Link: <a href="https://enigmalabs.io/explore/md" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/md</a>  
+   Link:<a href="https://enigmalabs.io/explore/md" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/md</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: six russian balloons spotted over kyiv most shot down officials 2023 02 15  
-   Link: <a href="https://www.reuters.com/world/europe/six-russian-balloons-spotted-over-kyiv-most-shot-down-officials-2023-02-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/six-russian-balloons-spotted-over-kyiv-most-shot-down-officials-2023-02-15/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/six-russian-balloons-spotted-over-kyiv-most-shot-down-officials-2023-02-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/six-russian-balloons-spotted-over-kyiv-most-shot-down-officials-2023-02-15/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
    Title: romania detects suspicious weather balloon its airspace ministry says 2023 02 14  
-   Link: <a href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/romania-detects-suspicious-weather-balloon-its-airspace-ministry-says-2023-02-14/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
    Title: moldova denounces drone intrusion its airspace 2025 02 03  
-   Link: <a href="https://www.reuters.com/world/europe/moldova-denounces-drone-intrusion-its-airspace-2025-02-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/moldova-denounces-drone-intrusion-its-airspace-2025-02-03/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/moldova-denounces-drone-intrusion-its-airspace-2025-02-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/moldova-denounces-drone-intrusion-its-airspace-2025-02-03/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
+   Link:<a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: moldpres.md  
-   Link: <a href="https://www.moldpres.md/eng/society/moldovan-general-police-inspectorate-says-drone-landed-in-floresti-district-is-russian-made-gerbera-type" target="_blank" rel="noopener noreferrer nofollow">https://www.moldpres.md/eng/society/moldovan-general-police-inspectorate-says-drone-landed-in-floresti-district-is-russian-made-gerbera-type</a>  
+   Link:<a href="https://www.moldpres.md/eng/society/moldovan-general-police-inspectorate-says-drone-landed-in-floresti-district-is-russian-made-gerbera-type" target="_blank" rel="noopener noreferrer nofollow">https://www.moldpres.md/eng/society/moldovan-general-police-inspectorate-says-drone-landed-in-floresti-district-is-russian-made-gerbera-type</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: moldpres.md  
-   Link: <a href="https://www.moldpres.md/eng/politics/russian-federation-s-ambassador-summoned-to-foreign-ministry-we-condemn-the-violation-of-national-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.moldpres.md/eng/politics/russian-federation-s-ambassador-summoned-to-foreign-ministry-we-condemn-the-violation-of-national-airspace</a>  
+   Link:<a href="https://www.moldpres.md/eng/politics/russian-federation-s-ambassador-summoned-to-foreign-ministry-we-condemn-the-violation-of-national-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.moldpres.md/eng/politics/russian-federation-s-ambassador-summoned-to-foreign-ministry-we-condemn-the-violation-of-national-airspace</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: moldpres.md  
-   Link: <a href="https://www.moldpres.md/eng/society/first-automatic-atmospheric-air-quality-monitoring-station-to-be-installed-in-moldova" target="_blank" rel="noopener noreferrer nofollow">https://www.moldpres.md/eng/society/first-automatic-atmospheric-air-quality-monitoring-station-to-be-installed-in-moldova</a>  
+   Link:<a href="https://www.moldpres.md/eng/society/first-automatic-atmospheric-air-quality-monitoring-station-to-be-installed-in-moldova" target="_blank" rel="noopener noreferrer nofollow">https://www.moldpres.md/eng/society/first-automatic-atmospheric-air-quality-monitoring-station-to-be-installed-in-moldova</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: moldpres.md  
    Title: 7 September  
-   Link: <a href="https://www.moldpres.md/eng/society/7-september-international-day-of-clean-air-for-blue-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.moldpres.md/eng/society/7-september-international-day-of-clean-air-for-blue-skies</a>  
+   Link:<a href="https://www.moldpres.md/eng/society/7-september-international-day-of-clean-air-for-blue-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.moldpres.md/eng/society/7-september-international-day-of-clean-air-for-blue-skies</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/see-a-dead-chinese-satellite-burn-up-as-a-brilliant-fireball-across-the-night-sky-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/see-a-dead-chinese-satellite-burn-up-as-a-brilliant-fireball-across-the-night-sky-video</a>  
+   Link:<a href="https://www.space.com/stargazing/see-a-dead-chinese-satellite-burn-up-as-a-brilliant-fireball-across-the-night-sky-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/see-a-dead-chinese-satellite-burn-up-as-a-brilliant-fireball-across-the-night-sky-video</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: moldova.org  
    Title: ufo or missile trace mystery spiral lights over norway video 204890 eng  
-   Link: <a href="https://www.moldova.org/en/ufo-or-missile-trace-mystery-spiral-lights-over-norway-video-204890-eng/" target="_blank" rel="noopener noreferrer nofollow">https://www.moldova.org/en/ufo-or-missile-trace-mystery-spiral-lights-over-norway-video-204890-eng/</a>  
+   Link:<a href="https://www.moldova.org/en/ufo-or-missile-trace-mystery-spiral-lights-over-norway-video-204890-eng/" target="_blank" rel="noopener noreferrer nofollow">https://www.moldova.org/en/ufo-or-missile-trace-mystery-spiral-lights-over-norway-video-204890-eng/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.sky.com  
    Title: starlink satellites leads to ufo reports 12297446  
-   Link: <a href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446</a>  
+   Link:<a href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: mfa.gov.md  
    Title: MFA Moldova| Ministry of Foreign Affairs of the Republic of Moldova  
-   Link: <a href="https://mfa.gov.md/en/content/mfa-strongly-condemns-violation-republic-moldovas-airspace-and-summons-approved-ambassador" target="_blank" rel="noopener noreferrer nofollow">https://mfa.gov.md/en/content/mfa-strongly-condemns-violation-republic-moldovas-airspace-and-summons-approved-ambassador</a>  
+   Link:<a href="https://mfa.gov.md/en/content/mfa-strongly-condemns-violation-republic-moldovas-airspace-and-summons-approved-ambassador" target="_blank" rel="noopener noreferrer nofollow">https://mfa.gov.md/en/content/mfa-strongly-condemns-violation-republic-moldovas-airspace-and-summons-approved-ambassador</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: caa.md  
    Title: Civil Aviation Authority Guide | CIVIL AVIATION AUTHORITY  
-   Link: <a href="https://www.caa.md/en/guide" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.md/en/guide</a>  
+   Link:<a href="https://www.caa.md/en/guide" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.md/en/guide</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: apnews.com  
    Title: AP News Romania, Moldova both report strange objects in their skies | AP News  
-   Link: <a href="https://apnews.com/article/russia-ukraine-nato-politics-government-romania-51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/russia-ukraine-nato-politics-government-romania-51d19e9fa8c53c54974e460ca5b8add3</a>  
+   Link:<a href="https://apnews.com/article/russia-ukraine-nato-politics-government-romania-51d19e9fa8c53c54974e460ca5b8add3" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/russia-ukraine-nato-politics-government-romania-51d19e9fa8c53c54974e460ca5b8add3</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/80d327af43c6b4728be60c6f752dc31a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/80d327af43c6b4728be60c6f752dc31a</a>  
+   Link:<a href="https://apnews.com/article/80d327af43c6b4728be60c6f752dc31a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/80d327af43c6b4728be60c6f752dc31a</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: caa.md  
-   Link: <a href="https://www.caa.md/en/press-releases/launch-information-campaign-users-unmanned-aircraft-fly-legally-fly-safely" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.md/en/press-releases/launch-information-campaign-users-unmanned-aircraft-fly-legally-fly-safely</a>  
+   Link:<a href="https://www.caa.md/en/press-releases/launch-information-campaign-users-unmanned-aircraft-fly-legally-fly-safely" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.md/en/press-releases/launch-information-campaign-users-unmanned-aircraft-fly-legally-fly-safely</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: tripadvisor.de  
-   Link: <a href="https://www.tripadvisor.de/AttractionProductReview-g294456-d20319463-Soroca_Gipsy_City_on_the_river_Dniester-Chisinau_Chisinau_District.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.de/AttractionProductReview-g294456-d20319463-Soroca_Gipsy_City_on_the_river_Dniester-Chisinau_Chisinau_District.html</a>  
+   Link:<a href="https://www.tripadvisor.de/AttractionProductReview-g294456-d20319463-Soroca_Gipsy_City_on_the_river_Dniester-Chisinau_Chisinau_District.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.de/AttractionProductReview-g294456-d20319463-Soroca_Gipsy_City_on_the_river_Dniester-Chisinau_Chisinau_District.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: bssnews.net  
-   Link: <a href="https://www.bssnews.net/international/335518" target="_blank" rel="noopener noreferrer nofollow">https://www.bssnews.net/international/335518</a>  
+   Link:<a href="https://www.bssnews.net/international/335518" target="_blank" rel="noopener noreferrer nofollow">https://www.bssnews.net/international/335518</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_lMZ777xZDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_lMZ777xZDs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_lMZ777xZDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_lMZ777xZDs</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: safeairspace.net  
-   Link: <a href="https://safeairspace.net/moldova/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/moldova/</a>  
+   Link:<a href="https://safeairspace.net/moldova/" target="_blank" rel="noopener noreferrer nofollow">https://safeairspace.net/moldova/</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Romania and Moldova report suspicious balloon-like objects over their skies  
-   Link: <a href="https://www.youtube.com/watch?v=akD0LiBvY6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=akD0LiBvY6I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova reopens airspace after &#x27;security&#x27; closure • FRANCE 24 English...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=akD0LiBvY6I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=akD0LiBvY6I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moldova reopens airspace after &#x27;security&#x27; closure • FRANCE 24 English...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: News: Drone over Moldova again / Gutnik vs. Cheban /  
-   Link: <a href="https://www.youtube.com/watch?v=Z6U2skr0IjE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z6U2skr0IjE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: Hearings in Parliament / Another drone over Moldova / 17.05.2026...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Z6U2skr0IjE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z6U2skr0IjE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: Hearings in Parliament / Another drone over Moldova / 17.05.2026...</p></details>
    Published: May 13, 2026  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Moldova reopens airspace after 'security' closure • FRANCE 24 English  
-   Link: <a href="https://www.youtube.com/watch?v=jvFEYeKzGLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jvFEYeKzGLw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A RUSSIAN DRONE &quot;GOT STRANGE&quot; AND FLED INTO MOLDOVA...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jvFEYeKzGLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jvFEYeKzGLw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A RUSSIAN DRONE &quot;GOT STRANGE&quot; AND FLED INTO MOLDOVA...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: A RUSSIAN DRONE "GOT STRANGE" AND FLED INTO MOLDOVA!  
-   Link: <a href="https://www.youtube.com/watch?v=Mqo2ZJyk96c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mqo2ZJyk96c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News: Drone over Moldova again / Gutnik vs. Cheban / May 13, 2026...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Mqo2ZJyk96c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mqo2ZJyk96c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News: Drone over Moldova again / Gutnik vs. Cheban / May 13, 2026...</p></details>
    Published: May 13, 2026  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVtIvI9keFP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVtIvI9keFP/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DVtIvI9keFP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVtIvI9keFP/?hl=en</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+   Link:<a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: mind.ua  
-   Link: <a href="https://mind.ua/en/news/20253457-moldova-explains-that-airspace-was-closed-because-of-a-balloon-spotted-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://mind.ua/en/news/20253457-moldova-explains-that-airspace-was-closed-because-of-a-balloon-spotted-in-the-sky</a>  
+   Link:<a href="https://mind.ua/en/news/20253457-moldova-explains-that-airspace-was-closed-because-of-a-balloon-spotted-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://mind.ua/en/news/20253457-moldova-explains-that-airspace-was-closed-because-of-a-balloon-spotted-in-the-sky</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355440355_Pilot_Application_of_%27Invasive_Alien_Species_in_Europe%27_Smartphone_App_in_the_Danube_Region" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355440355_Pilot_Application_of_%27Invasive_Alien_Species_in_Europe%27_Smartphone_App_in_the_Danube_Region</a>  
+   Link:<a href="https://www.researchgate.net/publication/355440355_Pilot_Application_of_%27Invasive_Alien_Species_in_Europe%27_Smartphone_App_in_the_Danube_Region" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355440355_Pilot_Application_of_%27Invasive_Alien_Species_in_Europe%27_Smartphone_App_in_the_Danube_Region</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DFenU-OvIhW/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DFenU-OvIhW/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DFenU-OvIhW/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DFenU-OvIhW/?hl=en</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVtCGQxggKk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVtCGQxggKk/</a>
+   Link:<a href="https://www.instagram.com/p/DVtCGQxggKk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVtCGQxggKk/</a>

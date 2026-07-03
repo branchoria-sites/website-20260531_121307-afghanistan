@@ -257,7 +257,7 @@ image: /assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-social.jpg
 Many reported “UFO” lights in Vanuatu are best understood by starting with a simpler question: what else was in the sky or on the sea at that moment? The country’s geography makes ordinary objects unusually difficult to judge. A bright satellite can appear to glide silently over a dark island. A distant aircraft can seem stationary above the ocean horizon. Fishing vessels, cargo ships and marine work lights can produce glows that look detached from the sea, especially when viewed across long stretches of water at night.
 
 <img src="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-dark.svg" | relative_url }}" alt="Sky Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That does not mean every sighting is automatically explained. It means that Vanuatu’s combination of dark skies, wide ocean horizons, active shipping routes and growing satellite traffic creates ideal conditions for misidentification. Several local discussions about mysterious lights, including reports from Epi Island, have quickly produced competing explanations involving satellites, ships, volcanic activity and atmospheric effects rather than evidence of a clearly anomalous object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The residents of Epi Island in the South and West have...The residents of Epi Island in the South and West have been in confusio...</span></span></span>
+That does not mean every sighting is automatically explained. It means that Vanuatu’s combination of dark skies, wide ocean horizons, active shipping routes and growing satellite traffic creates ideal conditions for misidentification. Several local discussions about mysterious lights, including reports from Epi Island, have quickly produced competing explanations involving satellites, ships, volcanic activity and atmospheric effects rather than evidence of a clearly anomalous object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The residents of Epi Island in the South and West have...The residents of Epi Island in the South and West have been in confusio...</span></span></span>
 
 ## Why Vanuatu's geography makes lights hard to identify
 
@@ -282,9 +282,9 @@ This problem is not unique to Vanuatu, but the archipelago's combination of ocea
 
 ## Starlink trains and satellite passes
 
-The most common modern source of “strange moving lights” reports worldwide is the Starlink satellite constellation operated by SpaceX. Shortly after launch, groups of Starlink satellites can appear as a line of bright lights moving together across the sky. Observers often describe them as a train, chain or convoy of objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+The most common modern source of “strange moving lights” reports worldwide is the Starlink satellite constellation operated by SpaceX. Shortly after launch, groups of Starlink satellites can appear as a line of bright lights moving together across the sky. Observers often describe them as a train, chain or convoy of objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
 
-In Vanuatu, social-media discussions about lines of moving lights have repeatedly attracted suggestions that witnesses were observing Starlink satellites rather than aircraft or unknown craft. Posts discussing unusual lights over Vanuatu skies include comments identifying the phenomenon as a Starlink train. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/yumitoktok/posts/7422969544404614/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">k, mi nidim answers we imekem sense in relation to the description...</span></span></span>
+In Vanuatu, social-media discussions about lines of moving lights have repeatedly attracted suggestions that witnesses were observing Starlink satellites rather than aircraft or unknown craft. Posts discussing unusual lights over Vanuatu skies include comments identifying the phenomenon as a Starlink train.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/yumitoktok/posts/7422969544404614/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">k, mi nidim answers we imekem sense in relation to the description...</span></span></span>
 
 Several characteristics strongly favour a satellite explanation:
 
@@ -299,13 +299,13 @@ Several characteristics strongly favour a satellite explanation:
 
 </div>
 
-Astronomy guides note that Starlink satellites are most visible when sunlight still reaches them even though the ground below is dark. Tracking services now allow observers to check predicted passes from specific locations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkStarlink Tracker: Find Starlink Satellites Tonight6 days ago — The Satellite Tracker app will tell you when the Starlink satelli...</span></span></span>
+Astronomy guides note that Starlink satellites are most visible when sunlight still reaches them even though the ground below is dark. Tracking services now allow observers to check predicted passes from specific locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkStarlink Tracker: Find Starlink Satellites Tonight6 days ago — The Satellite Tracker app will tell you when the Starlink satelli...</span></span></span>
 
 ### Why satellites sometimes look stranger near the horizon
 
 Observers often expect satellites to move steadily. In reality, brightness can fluctuate dramatically.
 
-Research into Starlink visibility has shown that satellite brightness depends heavily on viewing angle and sunlight reflection geometry. Under some conditions, satellites can brighten suddenly, fade, then brighten again, creating the impression of controlled movement or flashing behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
+Research into Starlink visibility has shown that satellite brightness depends heavily on viewing angle and sunlight reflection geometry. Under some conditions, satellites can brighten suddenly, fade, then brighten again, creating the impression of controlled movement or flashing behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
 Near the horizon, this effect becomes more dramatic because the observer is looking through a thicker layer of atmosphere. A witness may therefore report:
 
@@ -387,7 +387,7 @@ Ocean horizons remove depth cues. A vessel that is actually dozens of kilometres
 
 ### Fishing fleets can create unexpected light displays
 
-Powerful fishing lights have generated mystery-light reports in many parts of the Pacific and elsewhere. Fishing operations frequently use intense illumination to attract marine life, creating bright concentrations of light visible from long distances. NASA has documented large fishing fleets producing extensive night-time light patterns detectable from space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://svs.gsfc.nasa.gov/11409" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: svs.gsfc.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">svs.gsfc.nasa.gov</span><span class="citation-popover-title">Scientific Visualization Studio Mystery Lights</span><span class="citation-popover-snippet">NASA Scientific Visualization StudioMystery LightsNovember 26, 2013 — 26 Nov 2013 — The night fishermen are working the second largest sq...</span><span class="citation-popover-meta">Published: November 26, 2013</span></span></span>
+Powerful fishing lights have generated mystery-light reports in many parts of the Pacific and elsewhere. Fishing operations frequently use intense illumination to attract marine life, creating bright concentrations of light visible from long distances. NASA has documented large fishing fleets producing extensive night-time light patterns detectable from space.<span class="citation-chip-wrap"><a class="citation-chip" href="https://svs.gsfc.nasa.gov/11409" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: svs.gsfc.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">svs.gsfc.nasa.gov</span><span class="citation-popover-title">Scientific Visualization Studio Mystery Lights</span><span class="citation-popover-snippet">NASA Scientific Visualization StudioMystery LightsNovember 26, 2013 — 26 Nov 2013 — The night fishermen are working the second largest sq...</span><span class="citation-popover-meta">Published: November 26, 2013</span></span></span>
 
 Depending on weather conditions, these lights can appear as:
 
@@ -396,7 +396,7 @@ Depending on weather conditions, these lights can appear as:
 * Red, orange or white glows beneath cloud layers.
 * Apparent formations hovering above the horizon.
 
-Reports from pilots over ocean regions have repeatedly produced speculation about mysterious lights before fishing activity was suggested as the explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=EPpn09kvwpQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Mysterious red glow seen above Pacific OceanA mysterious red glow captured by a pilot flying over the Pacific Ocean has sent inter...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/mystery-red-lights-sky-saury-fishing-boats-1728095" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">mystery red lights sky saury fishing boats 1728095</span><span class="citation-popover-snippet">Pilot Snaps Weird Red Glow Beneath Clouds Unlike...26 Jul 2022 — Mysterious red lights can be seen through the clouds over the ocean at...</span></span></span>
+Reports from pilots over ocean regions have repeatedly produced speculation about mysterious lights before fishing activity was suggested as the explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=EPpn09kvwpQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Mysterious red glow seen above Pacific OceanA mysterious red glow captured by a pilot flying over the Pacific Ocean has sent inter...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/mystery-red-lights-sky-saury-fishing-boats-1728095" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">mystery red lights sky saury fishing boats 1728095</span><span class="citation-popover-snippet">Pilot Snaps Weird Red Glow Beneath Clouds Unlike...26 Jul 2022 — Mysterious red lights can be seen through the clouds over the ocean at...</span></span></span>
 
 ### Atmospheric refraction over water
 
@@ -414,7 +414,7 @@ Such effects are especially relevant around island environments where observers 
 <img src="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-3-dark.svg" | relative_url }}" alt="Sky Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_sky_checks_24c311-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Epi Island lights and competing explanations
 
-One of the most discussed recent Vanuatu examples involved reports from Epi Island, where residents described a recurring strange light visible towards the west. Local discussion quickly produced multiple interpretations rather than a single accepted explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/381339098730281/posts/2920425304821635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">What are the moving lights in Vanuatu sky?Commenters believe the moving lights are a Starlink satellite train from SpaceX. Timbul...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/381339098730281/posts/2920426498154849/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">closely. I am not sure what, it might be fighter jets, alience...</span></span></span>
+One of the most discussed recent Vanuatu examples involved reports from Epi Island, where residents described a recurring strange light visible towards the west. Local discussion quickly produced multiple interpretations rather than a single accepted explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/381339098730281/posts/2920425304821635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">What are the moving lights in Vanuatu sky?Commenters believe the moving lights are a Starlink satellite train from SpaceX. Timbul...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/381339098730281/posts/2920426498154849/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">closely. I am not sure what, it might be fighter jets, alience...</span></span></span>
 
 The significance of the Epi reports is not that they demonstrate an unexplained craft. Instead, they show how a real-world sighting can sit at the intersection of several plausible causes:
 
@@ -448,7 +448,7 @@ Before assuming a light is anomalous, record:
 
 Afterwards, check:
 
-* Starlink and satellite tracking services. Star Walk <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=vZGdrZeVjKY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Vanuatu Li DAR data acquisition 3D flythrough video</span><span class="citation-popover-snippet">Starlink satellite captures Starlink &#x27;train&#x27; in amazing view from space...</span></span></span>
+* Starlink and satellite tracking services. Star Walk<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=vZGdrZeVjKY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Vanuatu Li DAR data acquisition 3D flythrough video</span><span class="citation-popover-snippet">Starlink satellite captures Starlink &#x27;train&#x27; in amazing view from space...</span></span></span>
 * Commercial flight-tracking platforms.
 * Local shipping or marine activity where available.
 * Volcano and geohazard bulletins if viewing near active volcanic regions.
@@ -460,199 +460,199 @@ A sighting that survives all of those checks becomes more interesting. A sightin
 
 The available public record for Vanuatu contains many references to strange lights but very few cases with enough documentation to eliminate satellites, aircraft, ships, fishing operations or atmospheric effects.
 
-That does not mean every report has been solved. It means that the strongest recurring pattern is practical rather than mysterious: many Vanuatu sightings occur in exactly the conditions where ordinary moving lights become difficult to interpret. Social-media discussions around Epi and other reports show witnesses trying to distinguish between satellites, ships, volcanic phenomena and unknown objects, often without the data needed for a definitive answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/writerrush/posts/3830369300569159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Mysterious Red Lights Over the Atlantic OceanFishing boats drop red lights in to fish at night. It&#x27;s the Pacific Ocean. Just google it.&#124;B...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ytsnews.vu/videos/following-marcel-yonas-social-media-post-about-mysterious-lights-observed-at-nig/228647646951178/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">at night on the southwestern horizon of Epi Island, particularly in...</span></span></span>
+That does not mean every report has been solved. It means that the strongest recurring pattern is practical rather than mysterious: many Vanuatu sightings occur in exactly the conditions where ordinary moving lights become difficult to interpret. Social-media discussions around Epi and other reports show witnesses trying to distinguish between satellites, ships, volcanic phenomena and unknown objects, often without the data needed for a definitive answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/writerrush/posts/3830369300569159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Mysterious Red Lights Over the Atlantic OceanFishing boats drop red lights in to fish at night. It&#x27;s the Pacific Ocean. Just google it.&#124;B...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ytsnews.vu/videos/following-marcel-yonas-social-media-post-about-mysterious-lights-observed-at-nig/228647646951178/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">at night on the southwestern horizon of Epi Island, particularly in...</span></span></span>
 
-For that reason, the most reliable approach to Vanuatu moving-light reports is not to begin with extraordinary explanations. It is to work systematically through satellites, aircraft, marine traffic, fishing lights, weather and volcanic activity first. In the majority of documented cases, those checks provide the strongest path to understanding what was actually seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findstarlink.com">[2findstarlink.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findstarlink.com</span><span class="citation-popover-snippet">Starlink Satellites Tracker - Check when you can see it!Using this site, you can find out when the Starlink satellites are expected to be...</span></span></span>
+For that reason, the most reliable approach to Vanuatu moving-light reports is not to begin with extraordinary explanations. It is to work systematically through satellites, aircraft, marine traffic, fishing lights, weather and volcanic activity first. In the majority of documented cases, those checks provide the strongest path to understanding what was actually seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findstarlink.com">[2findstarlink.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findstarlink.com</span><span class="citation-popover-snippet">Starlink Satellites Tracker - Check when you can see it!Using this site, you can find out when the Starlink satellites are expected to be...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Check Vanuatu Moving Lights. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Check Vanuatu Moving Lights. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes systematic evaluation of sightings and misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes systematic evaluation of sightings and misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps identify satellites, planets and sky phenomena mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify satellites, planets and sky phenomena mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Builds practical sky-recognition skills relevant to witness checks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds practical sky-recognition skills relevant to witness checks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how credible reports are separated from ordinary aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how credible reports are separated from ordinary aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-check-vanuatu-moving-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-to-check-vanuatu-moving-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -668,7 +668,7 @@ For that reason, the most reliable approach to Vanuatu moving-light reports is n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -688,7 +688,7 @@ For that reason, the most reliable approach to Vanuatu moving-light reports is n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -720,7 +720,7 @@ For that reason, the most reliable approach to Vanuatu moving-light reports is n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -772,7 +772,7 @@ For that reason, the most reliable approach to Vanuatu moving-light reports is n
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -817,7 +817,7 @@ For that reason, the most reliable approach to Vanuatu moving-light reports is n
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -858,171 +858,171 @@ For that reason, the most reliable approach to Vanuatu moving-light reports is n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The residents of Epi Island in the South and West have...The residents of Epi Island in the South and West have been in confusio...</p></details>
+   Link:<a href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The residents of Epi Island in the South and West have...The residents of Epi Island in the South and West have been in confusio...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/yumitoktok/posts/7422969544404614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/yumitoktok/posts/7422969544404614/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>k, mi nidim answers we imekem sense in relation to the description...</p></details>
+   Link:<a href="https://www.facebook.com/groups/yumitoktok/posts/7422969544404614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/yumitoktok/posts/7422969544404614/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>k, mi nidim answers we imekem sense in relation to the description...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/381339098730281/posts/2920425304821635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/381339098730281/posts/2920425304821635/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the moving lights in Vanuatu sky?Commenters believe the moving lights are a Starlink satellite train from SpaceX. Timbul...</p></details>
+   Link:<a href="https://www.facebook.com/groups/381339098730281/posts/2920425304821635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/381339098730281/posts/2920425304821635/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are the moving lights in Vanuatu sky?Commenters believe the moving lights are a Starlink satellite train from SpaceX. Timbul...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/381339098730281/posts/2920426498154849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/381339098730281/posts/2920426498154849/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>closely. I am not sure what, it might be fighter jets, alience...</p></details>
+   Link:<a href="https://www.facebook.com/groups/381339098730281/posts/2920426498154849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/381339098730281/posts/2920426498154849/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>closely. I am not sure what, it might be fighter jets, alience...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: findstarlink.com  
-   Link: <a href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow">https://findstarlink.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites Tracker - Check when you can see it!Using this site, you can find out when the Starlink satellites are expected to be...</p></details>
+   Link:<a href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow">https://findstarlink.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites Tracker - Check when you can see it!Using this site, you can find out when the Starlink satellites are expected to be...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07805</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07805</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</p></details>
    Published: March 17, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
+   Link:<a href="https://arxiv.org/abs/2111.09735" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2111.09735</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: svs.gsfc.nasa.gov  
    Title: Scientific Visualization Studio Mystery Lights  
-   Link: <a href="https://svs.gsfc.nasa.gov/11409" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/11409</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Scientific Visualization StudioMystery LightsNovember 26, 2013 — 26 Nov 2013 — The night fishermen are working the second largest sq...</p></details>
+   Link:<a href="https://svs.gsfc.nasa.gov/11409" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/11409</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Scientific Visualization StudioMystery LightsNovember 26, 2013 — 26 Nov 2013 — The night fishermen are working the second largest sq...</p></details>
    Published: November 26, 2013  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EPpn09kvwpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EPpn09kvwpQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious red glow seen above Pacific OceanA mysterious red glow captured by a pilot flying over the Pacific Ocean has sent inter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EPpn09kvwpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EPpn09kvwpQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious red glow seen above Pacific OceanA mysterious red glow captured by a pilot flying over the Pacific Ocean has sent inter...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: newsweek.com  
    Title: mystery red lights sky saury fishing boats 1728095  
-   Link: <a href="https://www.newsweek.com/mystery-red-lights-sky-saury-fishing-boats-1728095" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/mystery-red-lights-sky-saury-fishing-boats-1728095</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Snaps Weird Red Glow Beneath Clouds Unlike...26 Jul 2022 — Mysterious red lights can be seen through the clouds over the ocean at...</p></details>
+   Link:<a href="https://www.newsweek.com/mystery-red-lights-sky-saury-fishing-boats-1728095" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/mystery-red-lights-sky-saury-fishing-boats-1728095</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Snaps Weird Red Glow Beneath Clouds Unlike...26 Jul 2022 — Mysterious red lights can be seen through the clouds over the ocean at...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/writerrush/posts/3830369300569159/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/writerrush/posts/3830369300569159/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Red Lights Over the Atlantic OceanFishing boats drop red lights in to fish at night. It&#x27;s the Pacific Ocean. Just google it.|B...</p></details>
+   Link:<a href="https://www.facebook.com/groups/writerrush/posts/3830369300569159/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/writerrush/posts/3830369300569159/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Red Lights Over the Atlantic OceanFishing boats drop red lights in to fish at night. It&#x27;s the Pacific Ocean. Just google it.|B...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ytsnews.vu/videos/following-marcel-yonas-social-media-post-about-mysterious-lights-observed-at-nig/228647646951178/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ytsnews.vu/videos/following-marcel-yonas-social-media-post-about-mysterious-lights-observed-at-nig/228647646951178/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at night on the southwestern horizon of Epi Island, particularly in...</p></details>
+   Link:<a href="https://www.facebook.com/ytsnews.vu/videos/following-marcel-yonas-social-media-post-about-mysterious-lights-observed-at-nig/228647646951178/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ytsnews.vu/videos/following-marcel-yonas-social-media-post-about-mysterious-lights-observed-at-nig/228647646951178/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at night on the southwestern horizon of Epi Island, particularly in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vanuatudailypost/posts/the-vanuatu-meteorology-and-geo-hazards-department-vmgd-conducted-a-siren-sound-/1528618909082429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/the-vanuatu-meteorology-and-geo-hazards-department-vmgd-conducted-a-siren-sound-/1528618909082429/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>est today, 23 March 2026, at the Mele Presbyterian Church...</p></details>
+   Link:<a href="https://www.facebook.com/vanuatudailypost/posts/the-vanuatu-meteorology-and-geo-hazards-department-vmgd-conducted-a-siren-sound-/1528618909082429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/the-vanuatu-meteorology-and-geo-hazards-department-vmgd-conducted-a-siren-sound-/1528618909082429/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>est today, 23 March 2026, at the Mele Presbyterian Church...</p></details>
    Published: March 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: The Satellite Train is Growing!  
-   Link: <a href="https://www.facebook.com/SpaceWonders.zo/posts/the-satellite-train-is-growing-%EF%B8%8Fif-you-look-up-in-the-coming-days-you-might-spot/122218739774054234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceWonders.zo/posts/the-satellite-train-is-growing-%EF%B8%8Fif-you-look-up-in-the-coming-days-you-might-spot/122218739774054234/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🚂🛰️ If you look up in...This is the Starlink Satellite Train At night, the SpaceX Starlink satellite train was visible in the sky: a set...</p></details>
+   Link:<a href="https://www.facebook.com/SpaceWonders.zo/posts/the-satellite-train-is-growing-%EF%B8%8Fif-you-look-up-in-the-coming-days-you-might-spot/122218739774054234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceWonders.zo/posts/the-satellite-train-is-growing-%EF%B8%8Fif-you-look-up-in-the-coming-days-you-might-spot/122218739774054234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🚂🛰️ If you look up in...This is the Starlink Satellite Train At night, the SpaceX Starlink satellite train was visible in the sky: a set...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/6NewsKCEN/posts/strange-lights-in-the-sky-last-night-werent-ufos-they-were-spacex-starlink-satel/1308351234660516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/6NewsKCEN/posts/strange-lights-in-the-sky-last-night-werent-ufos-they-were-spacex-starlink-satel/1308351234660516/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The satellite train created a spectacular light show...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/6NewsKCEN/posts/strange-lights-in-the-sky-last-night-werent-ufos-they-were-spacex-starlink-satel/1308351234660516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/6NewsKCEN/posts/strange-lights-in-the-sky-last-night-werent-ufos-they-were-spacex-starlink-satel/1308351234660516/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The satellite train created a spectacular light show...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: <a href="https://svs.gsfc.nasa.gov/webapps/planet-pen/Images/EO/eo_image_list.txt" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/webapps/planet-pen/Images/EO/eo_image_list.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.goveo_image_list.txt... West Virginia. This astronaut photograph from the International Space Station highlights the southeastern pa...</p></details>
+   Link:<a href="https://svs.gsfc.nasa.gov/webapps/planet-pen/Images/EO/eo_image_list.txt" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/webapps/planet-pen/Images/EO/eo_image_list.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.goveo_image_list.txt... West Virginia. This astronaut photograph from the International Space Station highlights the southeastern pa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Vanuatu Li DAR data acquisition 3D flythrough video  
-   Link: <a href="https://www.youtube.com/watch?v=vZGdrZeVjKY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vZGdrZeVjKY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite captures Starlink &#x27;train&#x27; in amazing view from space...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vZGdrZeVjKY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vZGdrZeVjKY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite captures Starlink &#x27;train&#x27; in amazing view from space...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Starlink satellite captures Starlink 'train' in amazing view from space  
-   Link: <a href="https://www.youtube.com/watch?v=e8qE-oyapnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e8qE-oyapnM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Most Incredible Starlink Satellites Train seen from earth - Elon Musk SpaceX...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e8qE-oyapnM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e8qE-oyapnM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Most Incredible Starlink Satellites Train seen from earth - Elon Musk SpaceX...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: 6 Most Incredible Starlink Satellites Train seen from earth  
-   Link: <a href="https://www.youtube.com/watch?v=GvxF3sUbPrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GvxF3sUbPrI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellite Train - Elon Musk SpaceX 2026...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GvxF3sUbPrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GvxF3sUbPrI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellite Train - Elon Musk SpaceX 2026...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Starlink Satellite Train  
-   Link: <a href="https://www.youtube.com/watch?v=FtV6KkIznKY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FtV6KkIznKY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PACIFIC OCEAN | The Strange Things Sailors Claimed to See at Sea | 4K Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FtV6KkIznKY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FtV6KkIznKY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PACIFIC OCEAN | The Strange Things Sailors Claimed to See at Sea | 4K Documentary...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ywDZ2Gl1Yr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ywDZ2Gl1Yr8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ywDZ2Gl1Yr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ywDZ2Gl1Yr8</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: starwalk.space  
-   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkStarlink Tracker: Find Starlink Satellites Tonight6 days ago — The Satellite Tracker app will tell you when the Starlink satelli...</p></details>
+   Link:<a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkStarlink Tracker: Find Starlink Satellites Tonight6 days ago — The Satellite Tracker app will tell you when the Starlink satelli...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: vanderlande.com  
-   Link: <a href="https://www.vanderlande.com/warehousing-vanderlande/services/performance-monitoring/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanderlande.com/warehousing-vanderlande/services/performance-monitoring/</a>  
+   Link:<a href="https://www.vanderlande.com/warehousing-vanderlande/services/performance-monitoring/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanderlande.com/warehousing-vanderlande/services/performance-monitoring/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space by the...</p></details>
+   Link:<a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space by the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: star-gazing.co.uk  
    Title: Starlink – What have we just witnessed?  
-   Link: <a href="https://www.star-gazing.co.uk/WebPage/starlink-spectacle/" target="_blank" rel="noopener noreferrer nofollow">https://www.star-gazing.co.uk/WebPage/starlink-spectacle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 May 2019 — As each satellite passes a particular spot in the sky, it produced a bright flare.... satellites visible in the...</p></details>
+   Link:<a href="https://www.star-gazing.co.uk/WebPage/starlink-spectacle/" target="_blank" rel="noopener noreferrer nofollow">https://www.star-gazing.co.uk/WebPage/starlink-spectacle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 May 2019 — As each satellite passes a particular spot in the sky, it produced a bright flare.... satellites visible in the...</p></details>
    Published: May 2019  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: fox5atlanta.com  
    Title: What are those lights in the sky?  
-   Link: <a href="https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites explained8 Apr 2025 — The line of lights seen across the Southeast was a formation of SpaceX&#x27;s Starlink satellites, a...</p></details>
+   Link:<a href="https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites explained8 Apr 2025 — The line of lights seen across the Southeast was a formation of SpaceX&#x27;s Starlink satellites, a...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVJfJzijVlI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVJfJzijVlI/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5, urging Ni-Vanuatu residents to stay alert...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DVJfJzijVlI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVJfJzijVlI/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5, urging Ni-Vanuatu residents to stay alert...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/geography/comments/1gf3guy/what_are_these_mysterious_lights_in_the_middle_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geography/comments/1gf3guy/what_are_these_mysterious_lights_in_the_middle_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My friend and I are dying to know what they...</p></details>
+   Link:<a href="https://www.reddit.com/r/geography/comments/1gf3guy/what_are_these_mysterious_lights_in_the_middle_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geography/comments/1gf3guy/what_are_these_mysterious_lights_in_the_middle_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My friend and I are dying to know what they...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Antarctic 39th Cm 9542 WEB  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a757e2d40f0b6360e4748bb/Antarctic_39th_Cm_9542_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a757e2d40f0b6360e4748bb/Antarctic_39th_Cm_9542_WEB.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9542, The Antarctic TreatyIn accordance with Article IX, paragraph 4, of the Antarctic Treaty, the Measures adopted at Consultative Meeti...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a757e2d40f0b6360e4748bb/Antarctic_39th_Cm_9542_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a757e2d40f0b6360e4748bb/Antarctic_39th_Cm_9542_WEB.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9542, The Antarctic TreatyIn accordance with Article IX, paragraph 4, of the Antarctic Treaty, the Measures adopted at Consultative Meeti...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nora.nerc.ac.uk  
-   Link: <a href="https://nora.nerc.ac.uk/id/eprint/535650/1/OR12098.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/535650/1/OR12098.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 1. The active volcanic zones (dark grey) passing through Iceland include...</p></details>
+   Link:<a href="https://nora.nerc.ac.uk/id/eprint/535650/1/OR12098.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nora.nerc.ac.uk/id/eprint/535650/1/OR12098.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 1. The active volcanic zones (dark grey) passing through Iceland include...</p></details>

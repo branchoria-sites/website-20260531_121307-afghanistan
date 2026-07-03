@@ -1197,30 +1197,30 @@ image: /assets/images/Greece_4902a4-overview-social.jpg
 Greece is a difficult UFO country to assess because the reports are often vivid but the documentation is uneven. Many older cases survive through newspaper clippings, later ufological compilations, or local retellings rather than through complete official case files. That does not make every report worthless, but it changes the standard of proof: a mass sighting in a village newspaper is valuable social evidence, while a confirmed anomalous aircraft event would require stronger material such as radar logs, original military records, photographs with provenance, or recoverable debris.
 
 <img src="{{ "/assets/images/Greece_4902a4-overview.webp" | relative_url }}" alt="Overview image for What Greece&#x27;s UFO Records Reveal About Sky..." loading="eager" decoding="sync" fetchpriority="high">
-Geography also matters. Greece has long coastlines, islands with wide horizons, mountain villages, military air corridors, ferry routes, and dark rural skies. Those conditions increase the chance that people will notice bright meteors, aircraft lights, missile or flare rumours, weather balloons, re-entering space debris, and unusual atmospheric effects. The National Observatory of Athens and associated networks now capture some fireballs with multiple cameras, a level of instrumental evidence that older “flying saucer” reports almost never had. In February 2024, for example, a fireball over Greece was recorded by four meteor and fireball tracking systems linked to AllSky7 and the Global Meteor Network. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astro.noa.gr/en/news/news/katagrafi-fotovolidas-me-pithanotita-prosptosis-sto-edafos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro.noa.gr">[Astro NOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro.noa.gr</span><span class="citation-popover-title">Astro NOARecording of a fireball that likely hit the ground</span><span class="citation-popover-snippet">Astro NOARecording of a fireball that likely hit the ground</span></span></span>
+Geography also matters. Greece has long coastlines, islands with wide horizons, mountain villages, military air corridors, ferry routes, and dark rural skies. Those conditions increase the chance that people will notice bright meteors, aircraft lights, missile or flare rumours, weather balloons, re-entering space debris, and unusual atmospheric effects. The National Observatory of Athens and associated networks now capture some fireballs with multiple cameras, a level of instrumental evidence that older “flying saucer” reports almost never had. In February 2024, for example, a fireball over Greece was recorded by four meteor and fireball tracking systems linked to AllSky7 and the Global Meteor Network.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astro.noa.gr/en/news/news/katagrafi-fotovolidas-me-pithanotita-prosptosis-sto-edafos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro.noa.gr">[Astro NOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro.noa.gr</span><span class="citation-popover-title">Astro NOARecording of a fireball that likely hit the ground</span><span class="citation-popover-snippet">Astro NOARecording of a fireball that likely hit the ground</span></span></span>
 
-The other Greek-specific feature is political timing. Some of the most important early reports appeared during the Greek Civil War and the wider post-war fear that new weapons or foreign forces were crossing borders. That makes the 1946 “ghost rockets” more than a UFO curiosity: they sit at the intersection of military anxiety, border surveillance, British involvement, and early Cold War speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+The other Greek-specific feature is political timing. Some of the most important early reports appeared during the Greek Civil War and the wider post-war fear that new weapons or foreign forces were crossing borders. That makes the 1946 “ghost rockets” more than a UFO curiosity: they sit at the intersection of military anxiety, border surveillance, British involvement, and early Cold War speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
 ## 1946: the “ghost rockets” over northern Greece
 
-The earliest modern Greek UFO cluster belongs to the European “ghost rocket” wave of 1946. Greek researcher Thanassis Vembos describes the Greek cases as a lesser-known Mediterranean offshoot of the better-known Scandinavian reports, with the standard interpretation at the time being that the objects might be secret weapons, probably of Soviet origin. His reconstruction is based on contemporary Greek newspapers rather than later witness interviews, which makes it useful but also limited by wartime censorship, rumour, and brief reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+The earliest modern Greek UFO cluster belongs to the European “ghost rocket” wave of 1946. Greek researcher Thanassis Vembos describes the Greek cases as a lesser-known Mediterranean offshoot of the better-known Scandinavian reports, with the standard interpretation at the time being that the objects might be secret weapons, probably of Soviet origin. His reconstruction is based on contemporary Greek newspapers rather than later witness interviews, which makes it useful but also limited by wartime censorship, rumour, and brief reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
-The central episode came on 5 September 1946, when Greek prime minister Constantine Tsaldaris, speaking in London, said “flying rockets” had been seen over northern Greece. According to the newspaper-based account, twelve rockets were reported on the night of 1 September by Greek divisional commanders and British officers; one was seen by British officers in Thessaloniki, while others were reported across Macedonia, including areas such as Kastoria, Serres and Drama. These were border-sensitive locations at a moment when Greece’s northern neighbours and domestic conflict were central security concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+The central episode came on 5 September 1946, when Greek prime minister Constantine Tsaldaris, speaking in London, said “flying rockets” had been seen over northern Greece. According to the newspaper-based account, twelve rockets were reported on the night of 1 September by Greek divisional commanders and British officers; one was seen by British officers in Thessaloniki, while others were reported across Macedonia, including areas such as Kastoria, Serres and Drama. These were border-sensitive locations at a moment when Greece’s northern neighbours and domestic conflict were central security concerns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
-The reports were not clean “alien craft” narratives. They were described as flares, bright white lights, smoke trails, rockets, foreign aircraft, or possible signals. Some accounts said objects moved at altitude without sound; others may have involved low-altitude flares. Vembos notes that a British Embassy statement discounted the idea that the objects were rockets, saying no British officer had reported such missiles and that many sightings were probably flares in western Macedonia. Even within the same cluster, therefore, the evidence splits: some reports were treated as possible military intrusions, some as misunderstood lights, and some as too vague to classify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+The reports were not clean “alien craft” narratives. They were described as flares, bright white lights, smoke trails, rockets, foreign aircraft, or possible signals. Some accounts said objects moved at altitude without sound; others may have involved low-altitude flares. Vembos notes that a British Embassy statement discounted the idea that the objects were rockets, saying no British officer had reported such missiles and that many sightings were probably flares in western Macedonia. Even within the same cluster, therefore, the evidence splits: some reports were treated as possible military intrusions, some as misunderstood lights, and some as too vague to classify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
 The 1946 cases remain important because they show how “UFO” in Greece began as a security category before it became a popular extraterrestrial one. The most reasonable classification is contested rather than confirmed: real reports were made, some by military-linked witnesses, but the surviving record does not establish exotic technology.
 
 <img src="{{ "/assets/images/Greece_4902a4-Illustration-1-dark.svg" | relative_url }}" alt="What Greece&#x27;s UFO Records Reveal About Sky... illustration 1" data-theme-src-dark="{{ "/assets/images/Greece_4902a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greece_4902a4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## 1954: Greece’s largest classic flying-saucer wave
 
-The 1954 Greek wave is the richest national UFO episode because it produced many local reports across islands and mainland regions. Vembos’s survey of the “great 1954 Greek UFO flap” is explicitly built from newspaper archives, and he warns that many witnesses are now deceased or too old for useful re-investigation. That matters: the 1954 wave is substantial as press history, but weak as a modern forensic file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+The 1954 Greek wave is the richest national UFO episode because it produced many local reports across islands and mainland regions. Vembos’s survey of the “great 1954 Greek UFO flap” is explicitly built from newspaper archives, and he warns that many witnesses are now deceased or too old for useful re-investigation. That matters: the 1954 wave is substantial as press history, but weak as a modern forensic file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
-The reports were geographically varied. Lesvos and other Aegean islands produced sightings of star-like, cigar-shaped, disk-shaped, or luminous objects. Mainland accounts included Thessaly, the Peloponnese, Macedonia and Thrace. Some cases were brief lights in the sky; others involved more dramatic narratives, such as a strange “car-like” object in a field near Aegion or a reported disk near Rhodes. The diversity is striking, but it is also a warning sign: when a wave grows through newspapers, very different stimuli can be grouped under the same “flying saucer” label. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+The reports were geographically varied. Lesvos and other Aegean islands produced sightings of star-like, cigar-shaped, disk-shaped, or luminous objects. Mainland accounts included Thessaly, the Peloponnese, Macedonia and Thrace. Some cases were brief lights in the sky; others involved more dramatic narratives, such as a strange “car-like” object in a field near Aegion or a reported disk near Rhodes. The diversity is striking, but it is also a warning sign: when a wave grows through newspapers, very different stimuli can be grouped under the same “flying saucer” label.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
-One of the more revealing 1954 examples took place during the filming of the Greek movie *Golfo* at Zachlorou in Achaea. According to the archived press account, a group of people on set, including actor Mimis Fotopoulos and other film figures, reportedly saw two metallic objects moving at speed while keeping a steady distance. This is memorable because it has named witnesses and a specific setting, but it still lacks the kind of instrumentation that would distinguish aircraft, balloons, optical effects, or genuinely anomalous motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+One of the more revealing 1954 examples took place during the filming of the Greek movie *Golfo* at Zachlorou in Achaea. According to the archived press account, a group of people on set, including actor Mimis Fotopoulos and other film figures, reportedly saw two metallic objects moving at speed while keeping a steady distance. This is memorable because it has named witnesses and a specific setting, but it still lacks the kind of instrumentation that would distinguish aircraft, balloons, optical effects, or genuinely anomalous motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
-The 1954 wave also contains its own debunking clues. Vembos’s follow-up on Cold War balloons shows that late-1954 and early-1955 Greece had many balloon reports, including propaganda balloons carrying leaflets in northern Greece and other balloon-like objects recovered or seen in Macedonia, Crete, Kefalonia, western Greece and the Peloponnese. In several cases, newspaper “saucer” narratives were later tied to balloons, astronomical objects, meteors or paper lanterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+The 1954 wave also contains its own debunking clues. Vembos’s follow-up on Cold War balloons shows that late-1954 and early-1955 Greece had many balloon reports, including propaganda balloons carrying leaflets in northern Greece and other balloon-like objects recovered or seen in Macedonia, Crete, Kefalonia, western Greece and the Peloponnese. In several cases, newspaper “saucer” narratives were later tied to balloons, astronomical objects, meteors or paper lanterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
 That does not explain every 1954 sighting. It does show that Greece’s biggest UFO wave was partly an interpretation wave: once flying saucers were in the news, ordinary or semi-ordinary aerial events were more likely to be reported in that language.
 
@@ -1228,20 +1228,20 @@ That does not explain every 1954 sighting. It does show that Greece’s biggest 
 
 ## Official records and the problem of missing paper trails
 
-The strongest Greek UFO claims often refer to official attention, but the public record is fragmented. The 1946 ghost rocket episode had statements by Greek political figures and discussion involving British sources, but the surviving open evidence is largely press-based. Some later accounts describe scientist Paul Santorini as leading a Greek investigation into the ghost rockets, but the most accessible versions of that story come through ufological and secondary sources rather than a full declassified Greek file set. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+The strongest Greek UFO claims often refer to official attention, but the public record is fragmented. The 1946 ghost rocket episode had statements by Greek political figures and discussion involving British sources, but the surviving open evidence is largely press-based. Some later accounts describe scientist Paul Santorini as leading a Greek investigation into the ghost rockets, but the most accessible versions of that story come through ufological and secondary sources rather than a full declassified Greek file set.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
-The same pattern appears in later cases. The often-cited 14 December 1985 incident reportedly involved independent air traffic controllers at Naxos, Lemnos and Corfu seeing or reporting a fiery cigar-shaped object to Greek Air Force headquarters, with an estimated speed above 3,000 miles per hour. The claim is interesting because it involves aviation personnel and multiple locations, but the accessible source trail still runs mainly through later UFO summaries and Vembos’s reporting rather than a publicly available official investigation file with raw radar data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+The same pattern appears in later cases. The often-cited 14 December 1985 incident reportedly involved independent air traffic controllers at Naxos, Lemnos and Corfu seeing or reporting a fiery cigar-shaped object to Greek Air Force headquarters, with an estimated speed above 3,000 miles per hour. The claim is interesting because it involves aviation personnel and multiple locations, but the accessible source trail still runs mainly through later UFO summaries and Vembos’s reporting rather than a publicly available official investigation file with raw radar data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
-This is where Greece differs from countries with large released UFO archives, such as the United States or the United Kingdom. The UK National Archives, for example, provides research guidance and released files mostly around official policy, parliamentary business and reports, while the CIA’s own historical review says US concern was substantial in the early 1950s but later became more limited and peripheral. Those archives do not solve Greek cases, but they show what a mature official paper trail looks like: preserved files, policy memos, internal assessments and release procedures. Greece’s open UFO record is thinner and more dependent on private researchers, newspapers and later retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is where Greece differs from countries with large released UFO archives, such as the United States or the United Kingdom. The UK National Archives, for example, provides research guidance and released files mostly around official policy, parliamentary business and reports, while the CIA’s own historical review says US concern was substantial in the early 1950s but later became more limited and peripheral. Those archives do not solve Greek cases, but they show what a mature official paper trail looks like: preserved files, policy memos, internal assessments and release procedures. Greece’s open UFO record is thinner and more dependent on private researchers, newspapers and later retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The practical result is that Greek cases should be sorted by evidence type, not by dramatic value. A village legend with alleged burn marks is not equivalent to a contemporary meteor camera record; a newspaper report of “rockets” is not equivalent to a preserved military track; and a multi-witness case is stronger than a single anecdote but still not automatically proof of an extraordinary object.
 
 <img src="{{ "/assets/images/Greece_4902a4-Illustration-2-dark.svg" | relative_url }}" alt="What Greece&#x27;s UFO Records Reveal About Sky... illustration 2" data-theme-src-dark="{{ "/assets/images/Greece_4902a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greece_4902a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Megaplatanos and the “Greek Roswell” problem
 
-The most famous modern Greek crash story is the 1990 Megaplatanos or Atalanti case in central Greece. In popular accounts, villagers or shepherds saw several silent glowing objects, one appeared to malfunction, a fire or crash site was reported, and later stories added metallic fragments, official involvement, and comparisons with Roswell. The case is widely repeated in UFO media, but its evidential centre is unstable: different versions vary on timing, number of objects, witness detail, official response and what the alleged debris actually was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ghosttheory.com/2020/03/29/megaplatanos-the-greek-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghosttheory.com">[2ghosttheory.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghosttheory.com</span><span class="citation-popover-title">megaplatanos the greek roswell</span><span class="citation-popover-snippet">megaplatanos the greek roswell</span></span></span>
+The most famous modern Greek crash story is the 1990 Megaplatanos or Atalanti case in central Greece. In popular accounts, villagers or shepherds saw several silent glowing objects, one appeared to malfunction, a fire or crash site was reported, and later stories added metallic fragments, official involvement, and comparisons with Roswell. The case is widely repeated in UFO media, but its evidential centre is unstable: different versions vary on timing, number of objects, witness detail, official response and what the alleged debris actually was.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ghosttheory.com/2020/03/29/megaplatanos-the-greek-roswell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ghosttheory.com">[2ghosttheory.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ghosttheory.com</span><span class="citation-popover-title">megaplatanos the greek roswell</span><span class="citation-popover-snippet">megaplatanos the greek roswell</span></span></span>
 
-The case is valuable less as proof than as a lesson in escalation. A local report of lights and a burned area can become, through retelling, a crash, a recovery operation, and a national cover-up narrative. Online discussions also preserve sceptical local interpretations, including suggestions that recovered material may have been old satellite or aircraft debris, though those comments are not a substitute for a formal forensic report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/fsybav/a_mysterious_ufo_crash_in_greece/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">A mysterious UFO crash in Greece: r/Unresolved Mysteries</span><span class="citation-popover-snippet">A mysterious UFO crash in Greece: r/Unresolved Mysteries</span></span></span>
+The case is valuable less as proof than as a lesson in escalation. A local report of lights and a burned area can become, through retelling, a crash, a recovery operation, and a national cover-up narrative. Online discussions also preserve sceptical local interpretations, including suggestions that recovered material may have been old satellite or aircraft debris, though those comments are not a substitute for a formal forensic report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/fsybav/a_mysterious_ufo_crash_in_greece/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">A mysterious UFO crash in Greece: r/Unresolved Mysteries</span><span class="citation-popover-snippet">A mysterious UFO crash in Greece: r/Unresolved Mysteries</span></span></span>
 
 For a Greek UFO chronology, Megaplatanos belongs in the contested category. It should not be dismissed as impossible merely because it sounds dramatic, but it also should not be presented as established. The missing elements are decisive: original official documents, chain-of-custody material samples, independent laboratory analysis, dated photographs with provenance, and a coherent timeline from primary witnesses.
 
@@ -1249,25 +1249,25 @@ For a Greek UFO chronology, Megaplatanos belongs in the contested category. It s
 
 A useful Greece page should not ask, “Are Greek UFOs real?” as a single question. It should separate reports into categories.
 
-**Confirmed ordinary or likely ordinary phenomena.** Greece has many sky events that can be documented without invoking UFOs in the extraordinary sense. Fireballs are now captured by meteor networks, and some historical “saucer” reports align with meteors, balloons, Venus, Saturn, paper balloons or propaganda balloons. The 1954–55 balloon material is especially important because it shows physical objects and public warnings from meteorological sources intersecting with saucer rumours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astro.noa.gr/en/news/news/katagrafi-fotovolidas-me-pithanotita-prosptosis-sto-edafos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro.noa.gr">[Astro NOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro.noa.gr</span><span class="citation-popover-title">Astro NOARecording of a fireball that likely hit the ground</span><span class="citation-popover-snippet">Astro NOARecording of a fireball that likely hit the ground</span></span></span>
+**Confirmed ordinary or likely ordinary phenomena.** Greece has many sky events that can be documented without invoking UFOs in the extraordinary sense. Fireballs are now captured by meteor networks, and some historical “saucer” reports align with meteors, balloons, Venus, Saturn, paper balloons or propaganda balloons. The 1954–55 balloon material is especially important because it shows physical objects and public warnings from meteorological sources intersecting with saucer rumours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astro.noa.gr/en/news/news/katagrafi-fotovolidas-me-pithanotita-prosptosis-sto-edafos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro.noa.gr">[Astro NOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro.noa.gr</span><span class="citation-popover-title">Astro NOARecording of a fireball that likely hit the ground</span><span class="citation-popover-snippet">Astro NOARecording of a fireball that likely hit the ground</span></span></span>
 
-**Contested historical cases.** The [1946 ghost rockets]({{ '1946-ghost-rockets/' | relative_url }}), the 1954 wave, the 1985 air-traffic reports and the 1990 Megaplatanos story are the main contested cases. They contain specific places, witnesses or institutional references, but the open record does not provide enough primary evidence to resolve them. Their significance is historical and sociological as much as technical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+**Contested historical cases.** The [1946 ghost rockets]({{ '1946-ghost-rockets/' | relative_url }}), the 1954 wave, the 1985 air-traffic reports and the 1990 Megaplatanos story are the main contested cases. They contain specific places, witnesses or institutional references, but the open record does not provide enough primary evidence to resolve them. Their significance is historical and sociological as much as technical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
-**Unconfirmed modern claims.** Recent social-media clips and short videos from Athens, Thessaloniki, Crete or the Aegean often lack original metadata, camera settings, exact location, weather data, independent witnesses or air-traffic checks. Without those, they are weak evidence even when they look strange. This is not a Greece-only problem; NASA’s UAP work defines the scientific task as identifying available data, improving future collection and reducing the stigma that leads to poor reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
+**Unconfirmed modern claims.** Recent social-media clips and short videos from Athens, Thessaloniki, Crete or the Aegean often lack original metadata, camera settings, exact location, weather data, independent witnesses or air-traffic checks. Without those, they are weak evidence even when they look strange. This is not a Greece-only problem; NASA’s UAP work defines the scientific task as identifying available data, improving future collection and reducing the stigma that leads to poor reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
-**Debunking patterns.** Modern UAP investigators repeatedly find balloons, birds, drones, satellites, aircraft and sensor artefacts behind many cases. AARO’s official imagery page, for instance, includes European and other cases resolved as balloons, birds or prosaic aircraft, and some unresolved examples where the available data is simply insufficient. Those categories are directly relevant to Greece because the Greek record contains many cases with exactly the same weaknesses: short duration, ambiguous lights, no triangulation and no recoverable data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+**Debunking patterns.** Modern UAP investigators repeatedly find balloons, birds, drones, satellites, aircraft and sensor artefacts behind many cases. AARO’s official imagery page, for instance, includes European and other cases resolved as balloons, birds or prosaic aircraft, and some unresolved examples where the available data is simply insufficient. Those categories are directly relevant to Greece because the Greek record contains many cases with exactly the same weaknesses: short duration, ambiguous lights, no triangulation and no recoverable data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OkpEkvxy1HA" title="UFO? Pilots, Air Traffic Control Muse Over Curious Object Overhead (short)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OkpEkvxy1HA" target="_blank" rel="noopener noreferrer">UFO? Pilots, Air Traffic Control Muse Over Curious Object Overhead (short)</a></p><p class="youtube-embed-meta">Channel: Storyful News &amp; Weather &middot; Views: 882 &middot; Uploaded: April 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OkpEkvxy1HA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OkpEkvxy1HA">Open on YouTube</a></p></div></div></div>
 
 ## Region-level patterns within Greece
 
-The national pattern is not evenly distributed. Northern Greece dominates the 1946 ghost rocket material because the sightings were tied to Macedonia, border security, British military presence and civil-war tension. In that period, “unidentified” often meant “possibly hostile” before it meant “possibly extraterrestrial”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+The national pattern is not evenly distributed. Northern Greece dominates the 1946 ghost rocket material because the sightings were tied to Macedonia, border security, British military presence and civil-war tension. In that period, “unidentified” often meant “possibly hostile” before it meant “possibly extraterrestrial”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
-The Aegean islands become prominent in the 1954 wave and later reports because islands provide broad horizons and strong community reporting networks. Lesvos, Rhodes, Kos, Lemnos, Naxos and Corfu appear in the sighting tradition, but the same geography that helps witnesses see sky events also increases misidentification risk: distant aircraft, maritime lights, meteors over the sea, balloons, military activity and bright planets can all appear more mysterious over water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Santorini" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Santorini</span><span class="citation-popover-snippet">Paul Santorini</span></span></span>
+The Aegean islands become prominent in the 1954 wave and later reports because islands provide broad horizons and strong community reporting networks. Lesvos, Rhodes, Kos, Lemnos, Naxos and Corfu appear in the sighting tradition, but the same geography that helps witnesses see sky events also increases misidentification risk: distant aircraft, maritime lights, meteors over the sea, balloons, military activity and bright planets can all appear more mysterious over water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Santorini" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Santorini</span><span class="citation-popover-snippet">Paul Santorini</span></span></span>
 
-Central Greece and the Peloponnese carry some of the most dramatic local narratives, including Zachlorou in 1954 and Megaplatanos in 1990. These cases are memorable because they have named places and human detail, but they also show the limits of retrospective investigation. When the record is built from newspapers, local memory and later UFO articles, the case may remain culturally important while staying technically unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
+Central Greece and the Peloponnese carry some of the most dramatic local narratives, including Zachlorou in 1954 and Megaplatanos in 1990. These cases are memorable because they have named places and human detail, but they also show the limits of retrospective investigation. When the record is built from newspapers, local memory and later UFO articles, the case may remain culturally important while staying technically unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">the greek ghost rockets of 1946</span></span></span>
 
-Crete is more visible in modern skywatching because of both tourism and astronomy activity. Claims from Crete often circulate online, but the more reliable scientific development is the growth of meteor and fireball recording around Greece, which gives investigators a stronger way to distinguish natural bolides from unexplained reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/2012pimo.conf...94M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Crete is more visible in modern skywatching because of both tourism and astronomy activity. Claims from Crete often circulate online, but the more reliable scientific development is the growth of meteor and fireball recording around Greece, which gives investigators a stronger way to distinguish natural bolides from unexplained reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/2012pimo.conf...94M" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[Astrophysics Data System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Greece_4902a4-Illustration-3-dark.svg" | relative_url }}" alt="What Greece&#x27;s UFO Records Reveal About Sky... illustration 3" data-theme-src-dark="{{ "/assets/images/Greece_4902a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greece_4902a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read Greek UFO sources without being misled
@@ -1287,194 +1287,194 @@ The strongest takeaway is evidence discipline. Greece has real reports, real his
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xt4NHM0mof8" title="Mass Sightings of UFO type GHOST ROCKETS (1946) in SCANDINAVIA - Cover Ups and Theories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xt4NHM0mof8" target="_blank" rel="noopener noreferrer">Mass Sightings of UFO type GHOST ROCKETS (1946) in SCANDINAVIA - Cover Ups and Theories</a></p><p class="youtube-embed-meta">Channel: Gita Lighthouse &middot; Views: 1.4K &middot; Uploaded: January 2023 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xt4NHM0mof8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xt4NHM0mof8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Greece&#x27;s UFO Records Reveal About Sky Mysteries. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Greece&#x27;s UFO Records Reveal About Sky Mysteries. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for evaluating national sighting histories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for evaluating national sighting histories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Relevant to discussions of government responses and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to discussions of government responses and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Broad overview matching Greece&#x27;s varied UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broad overview matching Greece&#x27;s varied UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects folklore, culture, and recurring aerial mystery reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects folklore, culture, and recurring aerial mystery reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-greece-s-ufo-records-reveal-about-sky-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1490,7 +1490,7 @@ The strongest takeaway is evidence discipline. Greece has real reports, real his
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1510,7 +1510,7 @@ The strongest takeaway is evidence discipline. Greece has real reports, real his
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1542,7 +1542,7 @@ The strongest takeaway is evidence discipline. Greece has real reports, real his
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1594,7 +1594,7 @@ The strongest takeaway is evidence discipline. Greece has real reports, real his
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1639,7 +1639,7 @@ The strongest takeaway is evidence discipline. Greece has real reports, real his
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1677,241 +1677,240 @@ The strongest takeaway is evidence discipline. Greece has real reports, real his
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: vembos.gr  
    Title: the greek ghost rockets of 1946  
-   Link: <a href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946</a>  
+   Link:<a href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vembos.gr  
    Title: the great 1954 greek ufo flap  
-   Link: <a href="https://www.vembos.gr/post/the-great-1954-greek-ufo-flap" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/post/the-great-1954-greek-ufo-flap</a>  
+   Link:<a href="https://www.vembos.gr/post/the-great-1954-greek-ufo-flap" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/post/the-great-1954-greek-ufo-flap</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: astro.noa.gr  
    Title: Astro NOARecording of a fireball that likely hit the ground  
-   Link: <a href="https://www.astro.noa.gr/en/news/news/katagrafi-fotovolidas-me-pithanotita-prosptosis-sto-edafos/" target="_blank" rel="noopener noreferrer nofollow">https://www.astro.noa.gr/en/news/news/katagrafi-fotovolidas-me-pithanotita-prosptosis-sto-edafos/</a>  
+   Link:<a href="https://www.astro.noa.gr/en/news/news/katagrafi-fotovolidas-me-pithanotita-prosptosis-sto-edafos/" target="_blank" rel="noopener noreferrer nofollow">https://www.astro.noa.gr/en/news/news/katagrafi-fotovolidas-me-pithanotita-prosptosis-sto-edafos/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vembos.gr  
    Title: cold war balloons and the greek ufo wave of 1954  
-   Link: <a href="https://www.vembos.gr/post/cold-war-balloons-and-the-greek-ufo-wave-of-1954" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/post/cold-war-balloons-and-the-greek-ufo-wave-of-1954</a>  
+   Link:<a href="https://www.vembos.gr/post/cold-war-balloons-and-the-greek-ufo-wave-of-1954" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/post/cold-war-balloons-and-the-greek-ufo-wave-of-1954</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Paul Santorini  
-   Link: <a href="https://en.wikipedia.org/wiki/Paul_Santorini" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Santorini</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Paul_Santorini" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Santorini</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO sightings in Greece  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Greece" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Greece</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Greece" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Greece</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ghosttheory.com  
    Title: megaplatanos the greek roswell  
-   Link: <a href="https://www.ghosttheory.com/2020/03/29/megaplatanos-the-greek-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.ghosttheory.com/2020/03/29/megaplatanos-the-greek-roswell</a>  
+   Link:<a href="https://www.ghosttheory.com/2020/03/29/megaplatanos-the-greek-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.ghosttheory.com/2020/03/29/megaplatanos-the-greek-roswell</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: A mysterious UFO crash in Greece: r/Unresolved Mysteries  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/fsybav/a_mysterious_ufo_crash_in_greece/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/fsybav/a_mysterious_ufo_crash_in_greece/</a>  
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/fsybav/a_mysterious_ufo_crash_in_greece/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/fsybav/a_mysterious_ufo_crash_in_greece/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Ghost rockets  
-   Link: <a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Hiện tượng quan sát thấy UFO ở Hy Lạp  
-   Link: <a href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Hy_L%E1%BA%A1p" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Hy_L%E1%BA%A1p</a>  
+   Link:<a href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Hy_L%E1%BA%A1p" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Hy_L%E1%BA%A1p</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vembos.gr  
-   Link: <a href="https://www.vembos.gr/bio" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/bio</a>  
+   Link:<a href="https://www.vembos.gr/bio" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/bio</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vembos.gr  
    Title: the bellosean sphere photographing spirits and venusians as well  
-   Link: <a href="https://www.vembos.gr/post/the-bellosean-sphere-photographing-spirits-and-venusians-as-well" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/post/the-bellosean-sphere-photographing-spirits-and-venusians-as-well</a>  
+   Link:<a href="https://www.vembos.gr/post/the-bellosean-sphere-photographing-spirits-and-venusians-as-well" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/post/the-bellosean-sphere-photographing-spirits-and-venusians-as-well</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
    Title: swedish ghost rockets of 1946 when swedish  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/e9ipee/unexplained_phenomenaa_historical_mystery_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/e9ipee/unexplained_phenomenaa_historical_mystery_the/</a>  
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/e9ipee/unexplained_phenomenaa_historical_mystery_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/e9ipee/unexplained_phenomenaa_historical_mystery_the/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
    Title: UF O Sighting  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kq7a7p/ufo_sighting_crete_2012/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kq7a7p/ufo_sighting_crete_2012/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1kq7a7p/ufo_sighting_crete_2012/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kq7a7p/ufo_sighting_crete_2012/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
    Title: cias role in the study of ufos 194790 by gerald k  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11bbz9x/cias_role_in_the_study_of_ufos_194790_by_gerald_k/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cia.gov  
    Title: DOC 0005517742  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005517742.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517742.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0005517742.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517742.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/1946-08-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/1946-08-23.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/1946-08-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/1946-08-23.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cia.gov  
    Title: cias role in the study of ufos 1947 1990  
-   Link: <a href="https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/</a>  
+   Link:<a href="https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cia.gov  
    Title: ufos fact or fiction  
-   Link: <a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
+   Link:<a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pfpnPDI8LiE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pfpnPDI8LiE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department Of War UAP Release: DoW-UAP-D7 Diamond-Shaped Object Over Greece...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pfpnPDI8LiE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pfpnPDI8LiE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department Of War UAP Release: DoW-UAP-D7 Diamond-Shaped Object Over Greece...</p></details>
    Published: January 2024  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: adsabs.harvard.edu  
-   Link: <a href="https://adsabs.harvard.edu/full/2012pimo.conf...94M" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2012pimo.conf...94M</a>  
+   Link:<a href="https://adsabs.harvard.edu/full/2012pimo.conf...94M" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2012pimo.conf...94M</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9QG6IAZ5HtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9QG6IAZ5HtU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=9QG6IAZ5HtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9QG6IAZ5HtU</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: latest-ufo-sightings.net  
    Title: Megaplatanos | The Greek Roswell  
-   Link: <a href="https://www.latest-ufo-sightings.net/2022/05/megaplatanos-the-greek-roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2022/05/megaplatanos-the-greek-roswell.html</a>  
+   Link:<a href="https://www.latest-ufo-sightings.net/2022/05/megaplatanos-the-greek-roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2022/05/megaplatanos-the-greek-roswell.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: public.ukp.informatik.tu-darmstadt.de  
    Title: wikipedia doc frequencies.txt  
-   Link: <a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt</a>  
+   Link:<a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/964843/middle-east-red-balloon-2024</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Xt4NHM0mof8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xt4NHM0mof8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greece UAP 2024 diamond shaped sensor Department Of War UAP Release: DoW-UAP-D7 Diamond-Shaped Object Over Greece Above The Norm News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xt4NHM0mof8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xt4NHM0mof8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greece UAP 2024 diamond shaped sensor Department Of War UAP Release: DoW-UAP-D7 Diamond-Shaped Object Over Greece Above The Norm News...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Department Of War UAP Release: Do W-UAP-D7 Diamond-Shaped Object Over Greece  
-   Link: <a href="https://www.youtube.com/watch?v=Sv_HCAkMzFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sv_HCAkMzFU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO OVER GREECE - Pentagon Releases 2024 Video Recorded By Fighter Jet - ΑΤΙΑ Ελλάδα...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Sv_HCAkMzFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Sv_HCAkMzFU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO OVER GREECE - Pentagon Releases 2024 Video Recorded By Fighter Jet - ΑΤΙΑ Ελλάδα...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: UFO OVER GREECE  
-   Link: <a href="https://www.youtube.com/watch?v=1yOFjqyY-7w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1yOFjqyY-7w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR28, Unresolved UAP Report, Greece, January 2024...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1yOFjqyY-7w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1yOFjqyY-7w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR28, Unresolved UAP Report, Greece, January 2024...</p></details>
    Published: January 2024  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rb9dD_cYw7o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rb9dD_cYw7o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass Sightings of UFO type GHOST ROCKETS (1946) in SCANDINAVIA - Cover Ups and Theories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rb9dD_cYw7o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rb9dD_cYw7o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mass Sightings of UFO type GHOST ROCKETS (1946) in SCANDINAVIA - Cover Ups and Theories...</p></details>
    Published: January 2024  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets_1946-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets_1946-1947</a>  
+   Link:<a href="https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: files.bluebookfiles.org  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/1947.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20%28EST%20PUB%20DATE%29%20CIA%27S%20ROLE%20IN%20THE%20STUDY%20OF%20UFO%27S%2C%201947-90%2C%20BY%20GERALD%20K.%20HAINES%20DOC_000551.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1947.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20%28EST%20PUB%20DATE%29%20CIA%27S%20ROLE%20IN%20THE%20STUDY%20OF%20UFO%27S%2C%201947-90%2C%20BY%20GERALD%20K.%20HAINES%20DOC_000551.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/1947.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20%28EST%20PUB%20DATE%29%20CIA%27S%20ROLE%20IN%20THE%20STUDY%20OF%20UFO%27S%2C%201947-90%2C%20BY%20GERALD%20K.%20HAINES%20DOC_000551.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1947.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20%28EST%20PUB%20DATE%29%20CIA%27S%20ROLE%20IN%20THE%20STUDY%20OF%20UFO%27S%2C%201947-90%2C%20BY%20GERALD%20K.%20HAINES%20DOC_000551.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376819311_Anomalous_Aerial_Phenomena_Abductions_and_Mysterious_Technologies_in_Ancient_Greece" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376819311_Anomalous_Aerial_Phenomena_Abductions_and_Mysterious_Technologies_in_Ancient_Greece</a>  
+   Link:<a href="https://www.researchgate.net/publication/376819311_Anomalous_Aerial_Phenomena_Abductions_and_Mysterious_Technologies_in_Ancient_Greece" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376819311_Anomalous_Aerial_Phenomena_Abductions_and_Mysterious_Technologies_in_Ancient_Greece</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
+   Link:<a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GreekReporter/posts/a-meteor-burned-up-the-night-sky-on-tuesday-evening-creating-a-spectacular-fireb/10157726694560829/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GreekReporter/posts/a-meteor-burned-up-the-night-sky-on-tuesday-evening-creating-a-spectacular-fireb/10157726694560829/</a>  
+   Link:<a href="https://www.facebook.com/GreekReporter/posts/a-meteor-burned-up-the-night-sky-on-tuesday-evening-creating-a-spectacular-fireb/10157726694560829/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GreekReporter/posts/a-meteor-burned-up-the-night-sky-on-tuesday-evening-creating-a-spectacular-fireb/10157726694560829/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GreekReporter/posts/a-meteoroid-was-captured-exploding-over-metsovo-in-northern-greece-recently-by-t/779465860876127/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GreekReporter/posts/a-meteoroid-was-captured-exploding-over-metsovo-in-northern-greece-recently-by-t/779465860876127/</a>
+   Link:<a href="https://www.facebook.com/GreekReporter/posts/a-meteoroid-was-captured-exploding-over-metsovo-in-northern-greece-recently-by-t/779465860876127/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GreekReporter/posts/a-meteoroid-was-captured-exploding-over-metsovo-in-northern-greece-recently-by-t/779465860876127/</a>

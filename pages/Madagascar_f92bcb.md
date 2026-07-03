@@ -1194,29 +1194,29 @@ image: /assets/images/Madagascar_f92bcb-overview-social.jpg
 
 ## Why the 1954 Tananarive case became Madagascar’s central UFO story
 
-The setting matters. In 1954 Madagascar was still under French rule, and the capital was commonly rendered in French as Tananarive. Madagascar became an autonomous republic within the French Community in 1958 and later an independent republic in 1960, so the principal sighting belongs to a colonial-era administrative and aviation environment rather than to a later Malagasy state UFO archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Madagascar/Outside-influences-1861-95" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Madagascar</span><span class="citation-popover-snippet">Encyclopedia Britannica Madagascar</span></span></span>
+The setting matters. In 1954 Madagascar was still under French rule, and the capital was commonly rendered in French as Tananarive. Madagascar became an autonomous republic within the French Community in 1958 and later an independent republic in 1960, so the principal sighting belongs to a colonial-era administrative and aviation environment rather than to a later Malagasy state UFO archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Madagascar/Outside-influences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Madagascar</span><span class="citation-popover-snippet">Encyclopedia Britannica Madagascar</span></span></span>
 
 <img src="{{ "/assets/images/Madagascar_f92bcb-overview.webp" | relative_url }}" alt="Overview image for Madagascar&#x27;s UFO Record: Famous Case, Thin..." loading="eager" decoding="sync" fetchpriority="high">
-The case entered the better-known French-language UFO literature largely through Edmond Campagnac, a former artillery officer and former Air France technical services chief in Madagascar. The COMETA report, a privately produced French defence-oriented UFO study published in 1999, records Campagnac’s testimony and states that the phenomenon was seen by several hundred witnesses in Antananarivo on 16 August 1954. According to that account, Air France personnel first saw a large green light moving quickly; it disappeared behind a hill, then reappeared as what witnesses described as a metallic, rugby-ball-shaped body preceded by a green lens-like luminous portion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[ia801803.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case entered the better-known French-language UFO literature largely through Edmond Campagnac, a former artillery officer and former Air France technical services chief in Madagascar. The COMETA report, a privately produced French defence-oriented UFO study published in 1999, records Campagnac’s testimony and states that the phenomenon was seen by several hundred witnesses in Antananarivo on 16 August 1954. According to that account, Air France personnel first saw a large green light moving quickly; it disappeared behind a hill, then reappeared as what witnesses described as a metallic, rugby-ball-shaped body preceded by a green lens-like luminous portion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[ia801803.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The reported details are what made the case memorable: an estimated altitude of 50 to 100 metres, a body compared with the length of a DC-4 aircraft, shop lights going out as the phenomenon passed, anxious animals, and panic among zebu cattle after the object allegedly moved westward. COMETA also notes a later report of an identical object about 150 km away, which, if it were the same object, would imply a very high speed. These are striking claims, but they are claims preserved through later testimony and secondary UFO literature rather than through a complete publicly available official case file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[ia801803.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The reported details are what made the case memorable: an estimated altitude of 50 to 100 metres, a body compared with the length of a DC-4 aircraft, shop lights going out as the phenomenon passed, anxious animals, and panic among zebu cattle after the object allegedly moved westward. COMETA also notes a later report of an identical object about 150 km away, which, if it were the same object, would imply a very high speed. These are striking claims, but they are claims preserved through later testimony and secondary UFO literature rather than through a complete publicly available official case file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[ia801803.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## What can be treated as solid, contested or weak
 
-The most solid statement is modest: the Tananarive case is a historically documented UFO report, not a verified alien or advanced craft event. It appears in COMETA’s case selection, in later French-language UFO catalogues, in a 2004 press retrospective, and in modern UAP databases such as Enigma Labs. These sources confirm the circulation and persistence of the report, but they do not independently prove the physical nature of the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
+The most solid statement is modest: the Tananarive case is a historically documented UFO report, not a verified alien or advanced craft event. It appears in COMETA’s case selection, in later French-language UFO catalogues, in a 2004 press retrospective, and in modern UAP databases such as Enigma Labs. These sources confirm the circulation and persistence of the report, but they do not independently prove the physical nature of the phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
 
-The most contested elements are the low altitude, changes of course, precise size, electrical effects and animal reactions. Those features make the case hard to explain as a simple meteor if taken literally. Yet they are also the very features most vulnerable to witness reconstruction, later retelling, crowd amplification and uncertainty about distance. A bright bolide can appear dramatic, greenish, low and fast; it can leave a luminous trail; and observers may strongly misjudge height and distance when there is no known object for scale. The sceptical meteor explanation argues that the broad appearance, the lack of robust independent confirmation for the more complex manoeuvres, and the likely uncertainty in reconciling multiple witness accounts all favour a natural object rather than a controlled craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://univers-ovni.com/ufologie/tananarive.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: univers-ovni.com">[univers-ovni.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">univers-ovni.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most contested elements are the low altitude, changes of course, precise size, electrical effects and animal reactions. Those features make the case hard to explain as a simple meteor if taken literally. Yet they are also the very features most vulnerable to witness reconstruction, later retelling, crowd amplification and uncertainty about distance. A bright bolide can appear dramatic, greenish, low and fast; it can leave a luminous trail; and observers may strongly misjudge height and distance when there is no known object for scale. The sceptical meteor explanation argues that the broad appearance, the lack of robust independent confirmation for the more complex manoeuvres, and the likely uncertainty in reconciling multiple witness accounts all favour a natural object rather than a controlled craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://univers-ovni.com/ufologie/tananarive.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: univers-ovni.com">[univers-ovni.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">univers-ovni.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The weakest parts are claims of a formal, conclusive official investigation. COMETA says Campagnac reported that General Fleurquin, commander-in-chief in Madagascar, assembled a scientific commission, but it also states that no trace of this investigation could be found in Air Force archives. That is an important limitation: it prevents the case from being treated as a declassified official finding, even though it remained important enough to be discussed in French UFO circles and in COMETA. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[ia801803.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The weakest parts are claims of a formal, conclusive official investigation. COMETA says Campagnac reported that General Fleurquin, commander-in-chief in Madagascar, assembled a scientific commission, but it also states that no trace of this investigation could be found in Air Force archives. That is an important limitation: it prevents the case from being treated as a declassified official finding, even though it remained important enough to be discussed in French UFO circles and in COMETA.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[ia801803.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Madagascar_f92bcb-Illustration-1-dark.svg" | relative_url }}" alt="Madagascar&#x27;s UFO Record: Famous Case, Thin... illustration 1" data-theme-src-dark="{{ "/assets/images/Madagascar_f92bcb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Madagascar_f92bcb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The source problem: famous case, thin archive
 
-Madagascar’s UFO record is unusually concentrated. Unlike countries with dedicated public reporting systems, Madagascar does not have a prominent national UAP office with a searchable public archive. The closest institutional comparison comes from France, whose CNES agency operates GEIPAN, a public body that collects, analyses and archives UAP reports. GEIPAN was created in 1977, long after the Tananarive sighting, and its own mission statement stresses that it uses the term UAP rather than UFO, investigates with current scientific knowledge, and publishes conclusions while protecting witnesses’ anonymity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
+Madagascar’s UFO record is unusually concentrated. Unlike countries with dedicated public reporting systems, Madagascar does not have a prominent national UAP office with a searchable public archive. The closest institutional comparison comes from France, whose CNES agency operates GEIPAN, a public body that collects, analyses and archives UAP reports. GEIPAN was created in 1977, long after the Tananarive sighting, and its own mission statement stresses that it uses the term UAP rather than UFO, investigates with current scientific knowledge, and publishes conclusions while protecting witnesses’ anonymity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
-That French comparison is useful because the Madagascar case is largely preserved through French-language networks: Air France personnel, French colonial military context, GEPA-era UFO publications, COMETA, and later French UFO catalogues. It is not useful because it proves that the 1954 case received modern GEIPAN-style investigation. It did not. CNES summarises GEIPAN’s current database as mostly explained or probably explained, with only a small proportion remaining unidentified after investigation; that framework is a reminder that “unidentified” is not the same as “extraordinary”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
+That French comparison is useful because the Madagascar case is largely preserved through French-language networks: Air France personnel, French colonial military context, GEPA-era UFO publications, COMETA, and later French UFO catalogues. It is not useful because it proves that the 1954 case received modern GEIPAN-style investigation. It did not. CNES summarises GEIPAN’s current database as mostly explained or probably explained, with only a small proportion remaining unidentified after investigation; that framework is a reminder that “unidentified” is not the same as “extraordinary”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">GEIPAN &#124; CNES</span><span class="citation-popover-snippet">GEIPAN &#124; CNES</span></span></span>
 
-The 2004 retrospective in Le Journal de l’Île, reproduced by Patrick Gross, is valuable as a local-region press echo rather than as a primary 1954 file. It explicitly says the facts had never been officially confirmed and could still provoke either laughter or denial, while also reporting renewed contact with Campagnac, then aged 87. That combination captures the case well: culturally persistent, witness-centred, but not officially settled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufologie.patrickgross.org/press/lagazettedelafrandeile16aug2004f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
+The 2004 retrospective in Le Journal de l’Île, reproduced by Patrick Gross, is valuable as a local-region press echo rather than as a primary 1954 file. It explicitly says the facts had never been officially confirmed and could still provoke either laughter or denial, while also reporting renewed contact with Campagnac, then aged 87. That combination captures the case well: culturally persistent, witness-centred, but not officially settled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufologie.patrickgross.org/press/lagazettedelafrandeile16aug2004f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uGSLeyt9YBI" title="Game Changing UFO Discovery! Astronomers, Dr. Beatriz Villarroel, detect more UAP in orbit!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uGSLeyt9YBI" target="_blank" rel="noopener noreferrer">Game Changing UFO Discovery! Astronomers, Dr. Beatriz Villarroel, detect more UAP in orbit!</a></p><p class="youtube-embed-meta">Channel: The Angry Astronaut &middot; Views: 151.9K &middot; Uploaded: July 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uGSLeyt9YBI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uGSLeyt9YBI">Open on YouTube</a></p></div></div></div>
 
@@ -1224,18 +1224,18 @@ The 2004 retrospective in Le Journal de l’Île, reproduced by Patrick Gross, i
 
 The public [chronology]({{ 'chronology/' | relative_url }}) is short and uneven.
 
-**June 1947, off the Straits of Madagascar.** A Library of Congress bibliography prepared by Lynn E. Catoe in 1969 lists a Flying Saucer Review item titled “Two classic sightings”, summarising reports near Nairobi in February 1951 and off the Straits of Madagascar in June 1947. This is a bibliographic trace, not a full case file, so it should be treated as a pointer for further archival work rather than a confirmed incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">UFOsRelatedSubjBiblio Catoe 1969</span><span class="citation-popover-snippet">UFOsRelatedSubjBiblio Catoe 1969</span></span></span>
+**June 1947, off the Straits of Madagascar.** A Library of Congress bibliography prepared by Lynn E. Catoe in 1969 lists a Flying Saucer Review item titled “Two classic sightings”, summarising reports near Nairobi in February 1951 and off the Straits of Madagascar in June 1947. This is a bibliographic trace, not a full case file, so it should be treated as a pointer for further archival work rather than a confirmed incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">UFOsRelatedSubjBiblio Catoe 1969</span><span class="citation-popover-snippet">UFOsRelatedSubjBiblio Catoe 1969</span></span></span>
 
-**16 August 1954, Tananarive/Antananarivo.** This is the main case. The strongest version is Campagnac’s testimony as summarised by COMETA: many witnesses, a green luminous object, a metallic elongated body, low altitude, shop-light failures and animal reactions. The case was also discussed in GEPA material and later UFO magazines, according to catalogues of the case’s publication history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[ia801803.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**16 August 1954, Tananarive/Antananarivo.** This is the main case. The strongest version is Campagnac’s testimony as summarised by COMETA: many witnesses, a green luminous object, a metallic elongated body, low altitude, shop-light failures and animal reactions. The case was also discussed in GEPA material and later UFO magazines, according to catalogues of the case’s publication history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia801803.us.archive.org">[ia801803.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia801803.us.archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Later local and internet-era claims.** Searches surface scattered claims from Madagascar, including anecdotal reports and blog retellings, but they are usually thinly sourced, repetitive or dependent on the fame of the 1954 case. They do not form a reliable national chronology comparable with the better-documented French, British, American or Brazilian case archives.
 
 <img src="{{ "/assets/images/Madagascar_f92bcb-Illustration-2-dark.svg" | relative_url }}" alt="Madagascar&#x27;s UFO Record: Famous Case, Thin... illustration 2" data-theme-src-dark="{{ "/assets/images/Madagascar_f92bcb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Madagascar_f92bcb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the meteor explanation gets right, and where it struggles
 
-A meteor or bolide is the most serious conventional explanation because it matches several baseline features: a bright green light, sudden appearance, rapid movement, a descent-like impression and a luminous trail. Modern investigators of unusual aerial reports routinely warn that bright natural phenomena, aircraft, balloons, satellites and perceptual effects can create sincere but mistaken testimony. GEIPAN’s public explanation of its work is especially relevant here because it stresses both physical expertise and the fragility of human perception, including errors in judging distance, speed and path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/detection_louange_2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">PDF] ETUDE SUR LA DETECTION DES PWOMENES UROSPBTIAUX</span><span class="citation-popover-snippet">PDF] ETUDE SUR LA DETECTION DES PWOMENES UROSPBTIAUX</span></span></span>
+A meteor or bolide is the most serious conventional explanation because it matches several baseline features: a bright green light, sudden appearance, rapid movement, a descent-like impression and a luminous trail. Modern investigators of unusual aerial reports routinely warn that bright natural phenomena, aircraft, balloons, satellites and perceptual effects can create sincere but mistaken testimony. GEIPAN’s public explanation of its work is especially relevant here because it stresses both physical expertise and the fragility of human perception, including errors in judging distance, speed and path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/detection_louange_2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">PDF] ETUDE SUR LA DETECTION DES PWOMENES UROSPBTIAUX</span><span class="citation-popover-snippet">PDF] ETUDE SUR LA DETECTION DES PWOMENES UROSPBTIAUX</span></span></span>
 
-The meteor explanation becomes less comfortable if the most dramatic claims are accepted literally: a reappearance after going behind a hill, apparent controlled turns over the city, a coherent low-altitude passage along urban streets, power failures and animal panic. Patrick Gross’s source-comparison pages emphasise that some commentators argue for a meteor, while others object that Campagnac’s reported details do not fit one neatly. That does not prove an exotic object; it shows why the case has remained contested rather than simply dismissed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/tana54f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
+The meteor explanation becomes less comfortable if the most dramatic claims are accepted literally: a reappearance after going behind a hill, apparent controlled turns over the city, a coherent low-altitude passage along urban streets, power failures and animal panic. Patrick Gross’s source-comparison pages emphasise that some commentators argue for a meteor, while others object that Campagnac’s reported details do not fit one neatly. That does not prove an exotic object; it shows why the case has remained contested rather than simply dismissed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/tana54f.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
 
 The fairest reading is therefore conditional. If the original event was mainly a bright object crossing the sky, the meteor hypothesis is strong. If the later low-altitude, manoeuvring, electromagnetic and animal-response details are accurate and contemporaneously corroborated, the case becomes much harder to explain. The problem is that the available public record is not strong enough to establish those stronger details beyond dispute.
 
@@ -1243,7 +1243,7 @@ The fairest reading is therefore conditional. If the original event was mainly a
 
 ## Region-level pattern: a capital-city case, not a national wave
 
-Madagascar’s known UFO material does not show a balanced national pattern across provinces or regions. The public record is heavily centred on Antananarivo, especially the Avenue de la Libération area, the palace-hill sightline, nearby markets and cattle areas mentioned in later reconstructions. This concentration may reflect where the witnesses, colonial infrastructure, press attention and later French-language researchers were located, rather than where unusual aerial phenomena were actually more common. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/Tananarive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[rr0.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">L&#x27;observation de Tananarive</span><span class="citation-popover-snippet">L&#x27;observation de Tananarive</span></span></span>
+Madagascar’s known UFO material does not show a balanced national pattern across provinces or regions. The public record is heavily centred on Antananarivo, especially the Avenue de la Libération area, the palace-hill sightline, nearby markets and cattle areas mentioned in later reconstructions. This concentration may reflect where the witnesses, colonial infrastructure, press attention and later French-language researchers were located, rather than where unusual aerial phenomena were actually more common.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/Tananarive/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[rr0.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">L&#x27;observation de Tananarive</span><span class="citation-popover-snippet">L&#x27;observation de Tananarive</span></span></span>
 
 That matters for interpretation. A capital-city mass sighting during office-closing hours could generate many accounts very quickly, especially if the object was bright and visible over a populated area. By contrast, rural or coastal sightings in Madagascar would have been less likely to enter French aviation, military or metropolitan UFO literature unless they involved officials, pilots, missionaries, press contacts or dramatic physical effects.
 
@@ -1263,194 +1263,194 @@ Madagascar’s UFO history is not a long catalogue of verified incidents. It is 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HqEQ38hx4dY" title="Unseen Madagascar | Alien Wonders, Giant Baobabs &amp; A World Like No Other | 4K Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HqEQ38hx4dY" target="_blank" rel="noopener noreferrer">Unseen Madagascar | Alien Wonders, Giant Baobabs &amp; A World Like No Other | 4K Documentary</a></p><p class="youtube-embed-meta">Channel: Hidden Earth TV &middot; Views: 2.3K &middot; Uploaded: May 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HqEQ38hx4dY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HqEQ38hx4dY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Madagascar&#x27;s UFO Record Famous Case, Thin Archive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Madagascar&#x27;s UFO Record Famous Case, Thin Archive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating major UFO incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating major UFO incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to assessing witness testimony and unexplained events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to assessing witness testimony and unexplained events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a famous international mass-sighting case with aviation witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a famous international mass-sighting case with aviation witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines difficult-to-explain reports and competing interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines difficult-to-explain reports and competing interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="madagascar-s-ufo-record-famous-case-thin-archive-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1466,7 +1466,7 @@ Madagascar’s UFO history is not a long catalogue of verified incidents. It is 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1486,7 +1486,7 @@ Madagascar’s UFO history is not a long catalogue of verified incidents. It is 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1518,7 +1518,7 @@ Madagascar’s UFO history is not a long catalogue of verified incidents. It is 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1570,7 +1570,7 @@ Madagascar’s UFO history is not a long catalogue of verified incidents. It is 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1615,7 +1615,7 @@ Madagascar’s UFO history is not a long catalogue of verified incidents. It is 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1653,156 +1653,155 @@ Madagascar’s UFO history is not a long catalogue of verified incidents. It is 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ia801803.us.archive.org  
-   Link: <a href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf</a>  
+   Link:<a href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://www.ufologie.patrickgross.org/press/lagazettedelafrandeile16aug2004f.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/press/lagazettedelafrandeile16aug2004f.htm</a>  
+   Link:<a href="https://www.ufologie.patrickgross.org/press/lagazettedelafrandeile16aug2004f.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/press/lagazettedelafrandeile16aug2004f.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: univers-ovni.com  
-   Link: <a href="https://univers-ovni.com/ufologie/tananarive.html" target="_blank" rel="noopener noreferrer nofollow">https://univers-ovni.com/ufologie/tananarive.html</a>  
+   Link:<a href="https://univers-ovni.com/ufologie/tananarive.html" target="_blank" rel="noopener noreferrer nofollow">https://univers-ovni.com/ufologie/tananarive.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Madagascar  
-   Link: <a href="https://www.britannica.com/place/Madagascar/Outside-influences-1861-95" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Madagascar/Outside-influences-1861-95</a>  
+   Link:<a href="https://www.britannica.com/place/Madagascar/Outside-influences" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Madagascar/Outside-influences</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: kids.britannica.com  
    Title: Kids Madagascar  
-   Link: <a href="https://kids.britannica.com/students/article/Madagascar/275601" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Madagascar/275601</a>  
+   Link:<a href="https://kids.britannica.com/students/article/Madagascar/275601" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Madagascar/275601</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314</a>  
+   Link:<a href="https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/14fcc56d-1ea9-452b-b691-be54021eb314</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/tana54f.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tana54f.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/tana54f.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tana54f.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rr0.org  
    Title: L'observation de Tananarive  
-   Link: <a href="https://rr0.org/science/crypto/ufo/enquete/dossier/Tananarive/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/Tananarive/</a>  
+   Link:<a href="https://rr0.org/science/crypto/ufo/enquete/dossier/Tananarive/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/Tananarive/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cnes-geipan.fr  
    Title: Mission & Geipan | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cnes.fr  
    Title: GEIPAN | CNES  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/tana54odb.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tana54odb.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/tana54odb.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tana54odb.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/tana54odbf.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tana54odbf.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/tana54odbf.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tana54odbf.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cnes-geipan.fr  
    Title: [PDF] ETUDE SUR LA DETECTION DES PWOMENES UROSPBTIAUX  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/detection_louange_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/detection_louange_2.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/detection_louange_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/detection_louange_2.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: britannica.com  
    Title: history of Madagascar  
-   Link: <a href="https://www.britannica.com/topic/history-of-Madagascar" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/history-of-Madagascar</a>  
+   Link:<a href="https://www.britannica.com/topic/history-of-Madagascar" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/history-of-Madagascar</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/summary/Madagascar" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Madagascar</a>  
+   Link:<a href="https://www.britannica.com/summary/Madagascar" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Madagascar</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/tana54gepa24.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tana54gepa24.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/tana54gepa24.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tana54gepa24.htm</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/newspapersf.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/newspapersf.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/newspapersf.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/newspapersf.htm</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/madagascar/124035.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/madagascar/124035.htm</a>  
+   Link:<a href="https://2009-2017.state.gov/outofdate/bgn/madagascar/124035.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/madagascar/124035.htm</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: governmentattic.org  
    Title: UFOsRelatedSubjBiblio Catoe 1969  
-   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
+   Link:<a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Antananarivo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Antananarivo</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Antananarivo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Antananarivo</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: worldbank.org  
-   Link: <a href="https://www.worldbank.org/ext/en/country/madagascar" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/ext/en/country/madagascar</a>  
+   Link:<a href="https://www.worldbank.org/ext/en/country/madagascar" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/ext/en/country/madagascar</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Madagascar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Madagascar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Madagascar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Madagascar</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=r42J9oLXgRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r42J9oLXgRM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO research UPDATE! Is there a connection between a 1954 Mass UAP sighting and UFOs in orbit?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r42J9oLXgRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r42J9oLXgRM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO research UPDATE! Is there a connection between a 1954 Mass UAP sighting and UFOs in orbit?...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rgg-SaTxwMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rgg-SaTxwMw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Game Changing UFO Discovery! Astronomers, Dr. Beatriz Villarroel, detect more UAP in orbit...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rgg-SaTxwMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rgg-SaTxwMw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Game Changing UFO Discovery! Astronomers, Dr. Beatriz Villarroel, detect more UAP in orbit...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uGSLeyt9YBI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uGSLeyt9YBI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>France&#x27;s Military Planned to Contact the “Watchers” — Pentagon UFO Files Part 2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uGSLeyt9YBI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uGSLeyt9YBI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>France&#x27;s Military Planned to Contact the “Watchers” — Pentagon UFO Files Part 2...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: France's Military Planned to Contact the “Watchers” — Pentagon UFO Files Part 2  
-   Link: <a href="https://www.youtube.com/watch?v=wGoa2yYOaWg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wGoa2yYOaWg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physicist: Space objects appeared, disappeared years before first satellites | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wGoa2yYOaWg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wGoa2yYOaWg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physicist: Space objects appeared, disappeared years before first satellites | Reality Check...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/78948855/Magnetic_Monopole_Propulsion_Clues_from_UAP_Trees" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/78948855/Magnetic_Monopole_Propulsion_Clues_from_UAP_Trees</a>  
+   Link:<a href="https://www.academia.edu/78948855/Magnetic_Monopole_Propulsion_Clues_from_UAP_Trees" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/78948855/Magnetic_Monopole_Propulsion_Clues_from_UAP_Trees</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NadirOnTheGoEn/videos/frances-dark-legacy-in-madagascar-/1160712629152093/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NadirOnTheGoEn/videos/frances-dark-legacy-in-madagascar-/1160712629152093/</a>  
+   Link:<a href="https://www.facebook.com/NadirOnTheGoEn/videos/frances-dark-legacy-in-madagascar-/1160712629152093/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NadirOnTheGoEn/videos/frances-dark-legacy-in-madagascar-/1160712629152093/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: jacaranda.fr  
-   Link: <a href="https://www.jacaranda.fr/en/jeux-des-iles-150-agents-des-etablissements-touristiques-formes" target="_blank" rel="noopener noreferrer nofollow">https://www.jacaranda.fr/en/jeux-des-iles-150-agents-des-etablissements-touristiques-formes</a>  
+   Link:<a href="https://www.jacaranda.fr/en/jeux-des-iles-150-agents-des-etablissements-touristiques-formes" target="_blank" rel="noopener noreferrer nofollow">https://www.jacaranda.fr/en/jeux-des-iles-150-agents-des-etablissements-touristiques-formes</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: lgdi-madagascar.com  
-   Link: <a href="https://lgdi-madagascar.com/" target="_blank" rel="noopener noreferrer nofollow">https://lgdi-madagascar.com/</a>
+   Link:<a href="https://lgdi-madagascar.com/" target="_blank" rel="noopener noreferrer nofollow">https://lgdi-madagascar.com/</a>

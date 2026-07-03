@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /guinea-b47b54-index/
 description: Focused pages that expand on What Do UFO Reports in Guinea Really Show?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Guinea_b47b54
 parent_title: What Do UFO Reports in Guinea Really Show?
@@ -16,7 +16,7 @@ parent_permalink: /what-do-ufo-reports-in-guinea-really/
 
 # Explore Topics in What Do UFO Reports in Guinea Really Show?
 
-The following pages expand on the main **[What Do UFO Reports in Guinea Really Show?]({{ '/what-do-ufo-reports-in-guinea-really/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Do UFO Reports in Guinea Really Show?]({{ '/what-do-ufo-reports-in-guinea-really/' | relative_url }})** page and cover its key branches in.
 
 - [Conakry Lights]({{ '/conakry-lights/' | relative_url }})
 - [Official Records]({{ '/official-records-6d240c/' | relative_url }})

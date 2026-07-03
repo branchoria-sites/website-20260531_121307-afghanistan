@@ -254,14 +254,14 @@ image: /assets/images/Ukraine_c951ec_soviet_archive_trail_4540b5-Illustration-1-
 
 ## Introduction
 
-Ukraine’s Soviet-era UFO record is less a story of hidden alien revelations than a story of how a large state bureaucracy tried to collect, classify and explain unusual aerial reports. During the late Soviet period, sightings from what is now Ukraine were channelled through military, scientific and civilian reporting systems that treated unidentified objects as a potential aviation, defence or scientific problem rather than immediate proof of extraterrestrial visitors. The surviving files suggest a mixture of genuine observation, incomplete data, secrecy surrounding military programmes and repeated misidentifications of rockets, satellites and atmospheric effects. What makes Ukraine important is that part of this archive trail survived the collapse of the Soviet Union and later reappeared through Ukrainian researchers, scientific institutions and civilian archive projects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
+Ukraine’s Soviet-era UFO record is less a story of hidden alien revelations than a story of how a large state bureaucracy tried to collect, classify and explain unusual aerial reports. During the late Soviet period, sightings from what is now Ukraine were channelled through military, scientific and civilian reporting systems that treated unidentified objects as a potential aviation, defence or scientific problem rather than immediate proof of extraterrestrial visitors. The surviving files suggest a mixture of genuine observation, incomplete data, secrecy surrounding military programmes and repeated misidentifications of rockets, satellites and atmospheric effects. What makes Ukraine important is that part of this archive trail survived the collapse of the Soviet Union and later reappeared through Ukrainian researchers, scientific institutions and civilian archive projects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
 
 <img src="{{ "/assets/images/Ukraine_c951ec_soviet_archive_trail_4540b5-Illustration-1-dark.svg" | relative_url }}" alt="Soviet Records illustration 1" data-theme-src-dark="{{ "/assets/images/Ukraine_c951ec_soviet_archive_trail_4540b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ukraine_c951ec_soviet_archive_trail_4540b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is a historical record that is valuable precisely because it is messy. Some reports remain unresolved because evidence is missing. Others became explainable once launch schedules, military testing activity or observation conditions were reconstructed. The surviving Ukrainian archive trail therefore reveals less about extraterrestrial craft than about how a Soviet scientific state handled uncertainty.
 
 ## How Soviet reporting channels worked
 
-The Soviet Union never created a single public equivalent of a modern UFO disclosure office. Instead, reporting was distributed across military research institutes, scientific organisations and local authorities. After a wave of sightings during the 1970s, Soviet authorities became increasingly interested in collecting reports systematically. Researchers associated with later historical studies of Soviet UFO investigations describe a major reporting effort beginning around 1978–1980, with military and scientific branches receiving instructions to document unusual aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
+The Soviet Union never created a single public equivalent of a modern UFO disclosure office. Instead, reporting was distributed across military research institutes, scientific organisations and local authorities. After a wave of sightings during the 1970s, Soviet authorities became increasingly interested in collecting reports systematically. Researchers associated with later historical studies of Soviet UFO investigations describe a major reporting effort beginning around 1978–1980, with military and scientific branches receiving instructions to document unusual aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
 
 Several features of the Soviet system are important when interpreting Ukrainian cases:
 
@@ -269,11 +269,11 @@ Several features of the Soviet system are important when interpreting Ukrainian 
 * Military witnesses received more attention than ordinary civilians.
 * Cases involving radar observations, equipment interference or strategic facilities were prioritised.
 * Investigators were expected to consider conventional explanations first.
-* Many documents remained classified because they touched military capabilities rather than UFOs themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
+* Many documents remained classified because they touched military capabilities rather than UFOs themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
 
 This framework matters because Soviet Ukraine hosted major military installations, aerospace facilities, missile units and air-defence networks. An unusual observation in Ukrainian airspace could quickly become entangled with classified programmes that observers did not know existed.
 
-Historical accounts of the Soviet programme indicate that thousands of reports accumulated across the USSR. Researchers such as Vladimir Rubtsov have described collections numbering in the thousands, with investigators sorting reports into categories that included natural phenomena, human-made activity and a residual group that remained unidentified due to insufficient evidence rather than extraordinary proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
+Historical accounts of the Soviet programme indicate that thousands of reports accumulated across the USSR. Researchers such as Vladimir Rubtsov have described collections numbering in the thousands, with investigators sorting reports into categories that included natural phenomena, human-made activity and a residual group that remained unidentified due to insufficient evidence rather than extraordinary proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
 
 ## Why Ukrainian sightings entered strategic archives
 
@@ -283,7 +283,7 @@ A witness near a missile range, radar station or military airfield was far more 
 
 Another complication was Soviet secrecy itself. Even when investigators discovered a conventional explanation, they could be unable to publish it because the explanation revealed classified military activity. This helped create a cycle in which rumours survived longer than official clarifications.
 
-The pattern resembles UFO reporting elsewhere during the Cold War, but Ukraine's position near major Soviet aerospace infrastructure made the effect especially strong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
+The pattern resembles UFO reporting elsewhere during the Cold War, but Ukraine's position near major Soviet aerospace infrastructure made the effect especially strong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8VfBe2rF-Zc" title="WATCH: UFO Attack Aliens Turn Russian Soldiers Into Stone | Declassified CIA Report Exposes Secret" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8VfBe2rF-Zc" target="_blank" rel="noopener noreferrer">WATCH: UFO Attack Aliens Turn Russian Soldiers Into Stone | Declassified CIA Report Exposes Secret</a></p><p class="youtube-embed-meta">Channel: India Today Global &middot; Views: 301 &middot; Uploaded: April 2025 &middot; Length: 3 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8VfBe2rF-Zc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8VfBe2rF-Zc">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +303,7 @@ From the ground, witnesses often described:
 
 </div>
 
-To observers unaware of a launch hundreds of kilometres away, these displays could appear extraordinary. Soviet researchers repeatedly linked major sighting waves to missile or space-launch activity after comparing observation times with launch records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
+To observers unaware of a launch hundreds of kilometres away, these displays could appear extraordinary. Soviet researchers repeatedly linked major sighting waves to missile or space-launch activity after comparing observation times with launch records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
 
 This explanation is especially relevant for Ukraine because many reported Soviet-era cases occurred during a period of intense military and space activity. A witness in Kyiv, Odesa, Kharkiv or southern Ukraine might observe effects generated far beyond the visible horizon.
 
@@ -338,7 +338,7 @@ The challenge for historians is separating original records from decades of rete
 
 After independence, Ukrainian researchers attempted to preserve local anomalous-phenomena records before they disappeared. Organisations associated with anomalous research, including the Scientific Research Centre for Analyses of Anomalies “Zond”, have presented themselves as custodians of historical material gathered from Soviet and post-Soviet sources.
 
-These projects are important not because they prove extraordinary claims but because they preserve witness reports, local investigations and references to documents that might otherwise have vanished. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
+These projects are important not because they prove extraordinary claims but because they preserve witness reports, local investigations and references to documents that might otherwise have vanished.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pYnDYLv1NPo" title="Secret UFO files smuggled out of Russia released | Jesse Weber Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pYnDYLv1NPo" target="_blank" rel="noopener noreferrer">Secret UFO files smuggled out of Russia released | Jesse Weber Live</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 283.0K &middot; Uploaded: February 2026 &middot; Length: 4 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pYnDYLv1NPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pYnDYLv1NPo">Open on YouTube</a></p></div></div></div>
 
@@ -346,7 +346,7 @@ These projects are important not because they prove extraordinary claims but bec
 
 The most famous Soviet UFO stories often have the weakest documentary foundations.
 
-A recurring example is the widely circulated tale that Soviet soldiers allegedly encountered extraterrestrial beings after shooting down a UFO in Ukraine, resulting in soldiers being transformed into stone. The story periodically resurfaces through media reports referencing a CIA-held document. Examination of the chain of evidence shows that the CIA file was not a CIA investigation confirming the event. Rather, it reproduced claims already circulating in sensational post-Soviet sources. Independent analysts and fact-checking reviews have repeatedly noted the absence of verifiable primary evidence supporting the dramatic account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2025/04/13/world-news/declassified-cold-war-era-cia-files-detail-soviet-clash-with-aliens-who-witnesses-say-turned-soldiers-to-stone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The incident reportedly occurred in Ukraine during a Soviet military training exercise, when troops shot down a low-flying saucer. After...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/world/americas/us-politics/ufo-attack-soviet-soldiers-cia-b2732902.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">ufo attack soviet soldiers cia b2732902</span><span class="citation-popover-snippet">They can stand up for themselves if attacked.” A satellite...Read more...</span></span></span>
+A recurring example is the widely circulated tale that Soviet soldiers allegedly encountered extraterrestrial beings after shooting down a UFO in Ukraine, resulting in soldiers being transformed into stone. The story periodically resurfaces through media reports referencing a CIA-held document. Examination of the chain of evidence shows that the CIA file was not a CIA investigation confirming the event. Rather, it reproduced claims already circulating in sensational post-Soviet sources. Independent analysts and fact-checking reviews have repeatedly noted the absence of verifiable primary evidence supporting the dramatic account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2025/04/13/world-news/declassified-cold-war-era-cia-files-detail-soviet-clash-with-aliens-who-witnesses-say-turned-soldiers-to-stone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">The incident reportedly occurred in Ukraine during a Soviet military training exercise, when troops shot down a low-flying saucer. After...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/world/americas/us-politics/ufo-attack-soviet-soldiers-cia-b2732902.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">ufo attack soviet soldiers cia b2732902</span><span class="citation-popover-snippet">They can stand up for themselves if attacked.” A satellite...Read more...</span></span></span>
 
 This case illustrates a broader pattern in Soviet UFO history:
 
@@ -368,7 +368,7 @@ For historians of Ukrainian UFO reports, tracing document origins is often more 
 
 The strongest lesson from surviving Soviet and Ukrainian material is methodological rather than sensational.
 
-The records genuinely show that authorities collected reports. They genuinely show concern about unexplained observations near military facilities. They genuinely demonstrate that some investigators approached the subject with scientific seriousness. None of this automatically validates extraordinary interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
+The records genuinely show that authorities collected reports. They genuinely show concern about unexplained observations near military facilities. They genuinely demonstrate that some investigators approached the subject with scientific seriousness. None of this automatically validates extraordinary interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
 
 Several recurring limitations appear across the archive trail:
 
@@ -393,205 +393,205 @@ That distinction is crucial. A file remaining unexplained decades later may refl
 
 Contemporary Ukrainian discussions of unidentified aerial phenomena still draw heavily on Soviet-era archives. Researchers often compare modern reports with historical cases, looking for recurring descriptions or observation patterns.
 
-The connection became more visible after Ukrainian astronomers attracted international attention for papers discussing unidentified aerial phenomena observed through astronomical monitoring systems. Those studies renewed interest in earlier Soviet records because they appeared to provide a longer historical context for unusual observations over Ukrainian territory. However, even the modern research remains controversial, with critics questioning interpretation methods, distance estimates and object identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/ukraine-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">ukraine ufo uap report</span><span class="citation-popover-snippet">9 strange, scientific excuses for why humans haven&#x27;t found aliens yet. – UFO watch: 8 times the government looked for...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.13664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unidentified aerial phenomena. Observations of variable objects</span><span class="citation-popover-snippet">arXiv Unidentified aerial phenomena. Observations of variable objects</span></span></span>
+The connection became more visible after Ukrainian astronomers attracted international attention for papers discussing unidentified aerial phenomena observed through astronomical monitoring systems. Those studies renewed interest in earlier Soviet records because they appeared to provide a longer historical context for unusual observations over Ukrainian territory. However, even the modern research remains controversial, with critics questioning interpretation methods, distance estimates and object identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/ukraine-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">ukraine ufo uap report</span><span class="citation-popover-snippet">9 strange, scientific excuses for why humans haven&#x27;t found aliens yet. – UFO watch: 8 times the government looked for...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.13664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Unidentified aerial phenomena. Observations of variable objects</span><span class="citation-popover-snippet">arXiv Unidentified aerial phenomena. Observations of variable objects</span></span></span>
 
 The historical archive therefore functions less as proof of a continuing mystery and more as a reference library of observation reports. Its greatest value may be comparative: it helps researchers understand how witnesses repeatedly describe unfamiliar aerial events across different decades and political systems.
 
 ## What Soviet files actually reveal about Ukrainian UFOs
 
-The surviving record points to a conclusion that is simultaneously less dramatic and more historically interesting than many popular narratives. Soviet authorities did not simply ignore UFO reports, nor did they uncover convincing public evidence of extraterrestrial visitation. Instead, they built a reporting structure that gathered thousands of observations, many from strategically important regions including Soviet Ukraine. Investigators found that a substantial number of striking cases were connected to rocket launches, military activity, atmospheric effects or observational errors, while a smaller residue remained unresolved because the evidence was incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
+The surviving record points to a conclusion that is simultaneously less dramatic and more historically interesting than many popular narratives. Soviet authorities did not simply ignore UFO reports, nor did they uncover convincing public evidence of extraterrestrial visitation. Instead, they built a reporting structure that gathered thousands of observations, many from strategically important regions including Soviet Ukraine. Investigators found that a substantial number of striking cases were connected to rocket launches, military activity, atmospheric effects or observational errors, while a smaller residue remained unresolved because the evidence was incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</span><span class="citation-popover-meta">Published: December 1, 2000</span></span></span>
 
 What survives in Ukrainian archive trails today is therefore not a hidden catalogue of alien encounters. It is a fragmented historical record showing how a Cold War state tried to manage unusual observations under conditions of secrecy, limited data and competing explanations. The archives remain valuable not because they settle the UFO question, but because they document how that question was investigated.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Soviet Files Say About Ukrainian UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Soviet Files Say About Ukrainian UFOs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides investigative frameworks relevant to archival records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides investigative frameworks relevant to archival records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Strong fit for readers interested in government and archival UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for readers interested in government and archival UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines official and semi-official case documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official and semi-official case documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores historical continuity in anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores historical continuity in anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-soviet-files-say-about-ukrainian-ufos-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -607,7 +607,7 @@ What survives in Ukrainian archive trails today is therefore not a hidden catalo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -627,7 +627,7 @@ What survives in Ukrainian archive trails today is therefore not a hidden catalo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -659,7 +659,7 @@ What survives in Ukrainian archive trails today is therefore not a hidden catalo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -711,7 +711,7 @@ What survives in Ukrainian archive trails today is therefore not a hidden catalo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -756,7 +756,7 @@ What survives in Ukrainian archive trails today is therefore not a hidden catalo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -794,107 +794,106 @@ What survives in Ukrainian archive trails today is therefore not a hidden catalo
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Unidentified aerial phenomena. Observations of variable objects  
-   Link: <a href="https://arxiv.org/abs/2306.13664" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.13664</a>  
+   Link:<a href="https://arxiv.org/abs/2306.13664" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.13664</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This release...Read more...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This release...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UFO) and unidentifi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/ukraine-uap-report-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ukraine-uap-report-debunked</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There aren&#x27;t actually UFOs over Ukraine, experts say4 Nov 2022 — The report does not mention aliens as a possible explanation...</p></details>
+   Link:<a href="https://www.space.com/ukraine-uap-report-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ukraine-uap-report-debunked</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There aren&#x27;t actually UFOs over Ukraine, experts say4 Nov 2022 — The report does not mention aliens as a possible explanation...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</p></details>
+   Link:<a href="https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/history-of-state-ufo-research-in-the-ussr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerA History of State UFO Research in the USSRDecember 1, 2000 — It is tempting to dismiss the charge made by UFO buffs th...</p></details>
    Published: December 1, 2000  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2025/04/13/world-news/declassified-cold-war-era-cia-files-detail-soviet-clash-with-aliens-who-witnesses-say-turned-soldiers-to-stone/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/04/13/world-news/declassified-cold-war-era-cia-files-detail-soviet-clash-with-aliens-who-witnesses-say-turned-soldiers-to-stone/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The incident reportedly occurred in Ukraine during a Soviet military training exercise, when troops shot down a low-flying saucer. After...</p></details>
+   Link:<a href="https://nypost.com/2025/04/13/world-news/declassified-cold-war-era-cia-files-detail-soviet-clash-with-aliens-who-witnesses-say-turned-soldiers-to-stone/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/04/13/world-news/declassified-cold-war-era-cia-files-detail-soviet-clash-with-aliens-who-witnesses-say-turned-soldiers-to-stone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The incident reportedly occurred in Ukraine during a Soviet military training exercise, when troops shot down a low-flying saucer. After...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: independent.co.uk  
    Title: ufo attack soviet soldiers cia b2732902  
-   Link: <a href="https://www.independent.co.uk/news/world/americas/us-politics/ufo-attack-soviet-soldiers-cia-b2732902.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/us-politics/ufo-attack-soviet-soldiers-cia-b2732902.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They can stand up for themselves if attacked.” A satellite...Read more...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/world/americas/us-politics/ufo-attack-soviet-soldiers-cia-b2732902.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/us-politics/ufo-attack-soviet-soldiers-cia-b2732902.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They can stand up for themselves if attacked.” A satellite...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: livescience.com  
    Title: ukraine ufo uap report  
-   Link: <a href="https://www.livescience.com/ukraine-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/ukraine-ufo-uap-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 strange, scientific excuses for why humans haven&#x27;t found aliens yet. – UFO watch: 8 times the government looked for...Read more...</p></details>
+   Link:<a href="https://www.livescience.com/ukraine-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/ukraine-ufo-uap-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 strange, scientific excuses for why humans haven&#x27;t found aliens yet. – UFO watch: 8 times the government looked for...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: skepticalinquirer.org  
    Title: UF O Chronicles of the Soviet Union  
-   Link: <a href="https://skepticalinquirer.org/1993/10/ufo-chronicles-of-the-soviet-union/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1993/10/ufo-chronicles-of-the-soviet-union/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives · Online Exclusives · Article Search · Skeptical Inquirer Presents... UFO Chronicles of the Soviet Union. Erik Vaughn. From: Vo...</p></details>
+   Link:<a href="https://skepticalinquirer.org/1993/10/ufo-chronicles-of-the-soviet-union/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/1993/10/ufo-chronicles-of-the-soviet-union/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives · Online Exclusives · Article Search · Skeptical Inquirer Presents... UFO Chronicles of the Soviet Union. Erik Vaughn. From: Vo...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/420675442622770/posts/1433455944678043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/420675442622770/posts/1433455944678043/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet union&#x27;s secret ufo files revealedCIA FILE: Crashed UFO and Aliens turn Russian soldiers into STONE! Alien autopsy. Trev Marshall a...</p></details>
+   Link:<a href="https://www.facebook.com/groups/420675442622770/posts/1433455944678043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/420675442622770/posts/1433455944678043/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Soviet union&#x27;s secret ufo files revealedCIA FILE: Crashed UFO and Aliens turn Russian soldiers into STONE! Alien autopsy. Trev Marshall a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/498931025/UFO-Sighting-by-Cosmonaut-C05517675" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/498931025/UFO-Sighting-by-Cosmonaut-C05517675</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in USSR: Military Reports | PDFUFO Sightings in USSR: Military Reports. This document summarizes recent... OF UFOS BY A SO...</p></details>
+   Link:<a href="https://www.scribd.com/document/498931025/UFO-Sighting-by-Cosmonaut-C05517675" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/498931025/UFO-Sighting-by-Cosmonaut-C05517675</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in USSR: Military Reports | PDFUFO Sightings in USSR: Military Reports. This document summarizes recent... OF UFOS BY A SO...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cufos.org  
-   Link: <a href="https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A TimelineAfter an effort of many years, I have prepared a comprehensive timeline of UFO history that will be usef...</p></details>
+   Link:<a href="https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A TimelineAfter an effort of many years, I have prepared a comprehensive timeline of UFO history that will be usef...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: english.nv.ua  
-   Link: <a href="https://english.nv.ua/amp/newly-released-us-ufo-files-reveal-unexplained-military-encounters-50608767.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/amp/newly-released-us-ufo-files-reveal-unexplained-military-encounters-50608767.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US UFO documents reveal unexplained encounters3 days ago — Newly declassified US government UFO documents include unresolved military enc...</p></details>
+   Link:<a href="https://english.nv.ua/amp/newly-released-us-ufo-files-reveal-unexplained-military-encounters-50608767.html" target="_blank" rel="noopener noreferrer nofollow">https://english.nv.ua/amp/newly-released-us-ufo-files-reveal-unexplained-military-encounters-50608767.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US UFO documents reveal unexplained encounters3 days ago — Newly declassified US government UFO documents include unresolved military enc...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/politics/watch-live-pentagon-holds-briefing-following-russias-release-of-u-s-veteran-who-crossed-border" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/watch-live-pentagon-holds-briefing-following-russias-release-of-u-s-veteran-who-crossed-border</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon holds briefing on UFO reports, fighting in eastern...12 Jan 2023 — The U.S. has now collected 510 reports of unidentified flyin...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/politics/watch-live-pentagon-holds-briefing-following-russias-release-of-u-s-veteran-who-crossed-border" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/watch-live-pentagon-holds-briefing-following-russias-release-of-u-s-veteran-who-crossed-border</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon holds briefing on UFO reports, fighting in eastern...12 Jan 2023 — The U.S. has now collected 510 reports of unidentified flyin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ndtv.com  
-   Link: <a href="https://www.ndtv.com/world-news/russia-ukraine-war-ukrainian-astronomers-claim-ufos-spotted-in-skies-above-kyiv-3350991" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/russia-ukraine-war-ukrainian-astronomers-claim-ufos-spotted-in-skies-above-kyiv-3350991</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine · World News. Bright Lights, Hot Orbs: New UFO Files Detail Sightings, Leave Questions Unanswered · World News. Trump Announces 3...</p></details>
+   Link:<a href="https://www.ndtv.com/world-news/russia-ukraine-war-ukrainian-astronomers-claim-ufos-spotted-in-skies-above-kyiv-3350991" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/russia-ukraine-war-ukrainian-astronomers-claim-ufos-spotted-in-skies-above-kyiv-3350991</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine · World News. Bright Lights, Hot Orbs: New UFO Files Detail Sightings, Leave Questions Unanswered · World News. Trump Announces 3...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: themoscowtimes.com  
-   Link: <a href="https://www.themoscowtimes.com/2016/03/31/little-green-men-a-look-at-the-official-soviet-x-files-investigation-a52335" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/2016/03/31/little-green-men-a-look-at-the-official-soviet-x-files-investigation-a52335</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Little Green Men: A Look at the Official Soviet X-Files...31 Mar 2016 — Much of what they base their understanding of UFOs on was import...</p></details>
+   Link:<a href="https://www.themoscowtimes.com/2016/03/31/little-green-men-a-look-at-the-official-soviet-x-files-investigation-a52335" target="_blank" rel="noopener noreferrer nofollow">https://www.themoscowtimes.com/2016/03/31/little-green-men-a-look-at-the-official-soviet-x-files-investigation-a52335</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Little Green Men: A Look at the Official Soviet X-Files...31 Mar 2016 — Much of what they base their understanding of UFOs on was import...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: foxnews.com  
    Title: viral cia file about aliens attacking soldiers takes off ufo intrigue  
-   Link: <a href="https://www.foxnews.com/us/viral-cia-file-about-aliens-attacking-soldiers-takes-off-ufo-intrigue" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/viral-cia-file-about-aliens-attacking-soldiers-takes-off-ufo-intrigue</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral CIA file about aliens attacking soldiers takes off with...13 Apr 2025 — A document published on the CIA&#x27;s website describes an all...</p></details>
+   Link:<a href="https://www.foxnews.com/us/viral-cia-file-about-aliens-attacking-soldiers-takes-off-ufo-intrigue" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/viral-cia-file-about-aliens-attacking-soldiers-takes-off-ufo-intrigue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Viral CIA file about aliens attacking soldiers takes off with...13 Apr 2025 — A document published on the CIA&#x27;s website describes an all...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: debunker.com  
-   Link: <a href="https://www.debunker.com/historical/HistoryRussianUFOlogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/historical/HistoryRussianUFOlogy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This means that either the territory of the USSR was, due to any reasons, closed for alien...Read more...</p></details>
+   Link:<a href="https://www.debunker.com/historical/HistoryRussianUFOlogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/historical/HistoryRussianUFOlogy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This means that either the territory of the USSR was, due to any reasons, closed for alien...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1qzczig/ufo_intel_documents_stolen_out_of_russia_reveal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qzczig/ufo_intel_documents_stolen_out_of_russia_reveal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO intel documents stolen out of Russia reveal decade...r/UFOs - Terrified Russian Troops Open Fire on Mystery UFO... r/aliens - Sovie...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1qzczig/ufo_intel_documents_stolen_out_of_russia_reveal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qzczig/ufo_intel_documents_stolen_out_of_russia_reveal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO intel documents stolen out of Russia reveal decade...r/UFOs - Terrified Russian Troops Open Fire on Mystery UFO... r/aliens - Sovie...</p></details>

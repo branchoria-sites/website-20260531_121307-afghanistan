@@ -1194,27 +1194,27 @@ image: /assets/images/Angola_a42522-overview-social.jpg
 
 ## Introduction
 
-Angola has one clearly documented historical UFO file in open official [archives]({{ 'archives/' | relative_url }}): a 23 December 1966 United States Department of State airgram titled “Unidentified Flying Objects Reported Over Angola”. It describes a report from Portuguese Angola in which a Transportes Aéreos Portugueses crew and other observers saw lights or objects in the Lunda region; the local police later said a preliminary investigation gave “no reason” to consider the sighting proof of flying objects. That makes Angola a thin-evidence UFO country: there are claims, database traces and online retellings, but very little that meets a strong evidential standard. The useful question is therefore not “what crashed in Angola?”, but “what can be verified, what remains merely reported, and why is the record so sparse?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
+Angola has one clearly documented historical UFO file in open official [archives]({{ 'archives/' | relative_url }}): a 23 December 1966 United States Department of State airgram titled “Unidentified Flying Objects Reported Over Angola”. It describes a report from Portuguese Angola in which a Transportes Aéreos Portugueses crew and other observers saw lights or objects in the Lunda region; the local police later said a preliminary investigation gave “no reason” to consider the sighting proof of flying objects. That makes Angola a thin-evidence UFO country: there are claims, database traces and online retellings, but very little that meets a strong evidential standard. The useful question is therefore not “what crashed in Angola?”, but “what can be verified, what remains merely reported, and why is the record so sparse?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
 
 <img src="{{ "/assets/images/Angola_a42522-overview.webp" | relative_url }}" alt="Overview image for What Can Angola&#x27;s UFO Record Really Prove?" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1966 Lunda airgram is the anchor case
 
-The strongest Angola-specific source is the single-page airgram preserved in the NSA’s UFO document gallery. The gallery lists the item as “Department of State AIRGRAM - Subject: Unidentified Flying Objects Reported Over Angola”, alongside other declassified UFO-related State Department and defence records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">Document Gallery</span><span class="citation-popover-snippet">National Security Agency/Central Security Service &gt; Press Room &gt; Digital Media Center &gt; Document Gallery - Page 45...</span></span></span>
+The strongest Angola-specific source is the single-page airgram preserved in the NSA’s UFO document gallery. The gallery lists the item as “Department of State AIRGRAM - Subject: Unidentified Flying Objects Reported Over Angola”, alongside other declassified UFO-related State Department and defence records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">Document Gallery</span><span class="citation-popover-snippet">National Security Agency/Central Security Service &gt; Press Room &gt; Digital Media Center &gt; Document Gallery - Page 45...</span></span></span>
 
-The airgram, dated 23 December 1966 and sent from Luanda to the Department of State, says the local press reported a possible sighting of two “flying saucers” by the passengers and crew of a Transportes Aéreos Portugueses flight from Beira, Mozambique, to Luanda on 10 December. According to the document, the press account placed the aircraft about 30 kilometres from Lunda when passengers, reflecting what appeared to be sunset light, alerted the pilot. The crew reportedly informed the Lunda control tower, where a controller looked for himself and reported the sighting to Luanda. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
+The airgram, dated 23 December 1966 and sent from Luanda to the Department of State, says the local press reported a possible sighting of two “flying saucers” by the passengers and crew of a Transportes Aéreos Portugueses flight from Beira, Mozambique, to Luanda on 10 December. According to the document, the press account placed the aircraft about 30 kilometres from Lunda when passengers, reflecting what appeared to be sunset light, alerted the pilot. The crew reportedly informed the Lunda control tower, where a controller looked for himself and reported the sighting to Luanda.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
 
-The description is suggestive but not decisive. The objects were said to be “disk-shaped”, with several witnesses including Commander Pinto and Captain Maia; the report mentions high speed, manoeuvrability, distance from the aircraft, and two lights at the side of the craft. Other observers reportedly saw the object rotating on its own axis and, at the same time, manoeuvring in “dive and climb” patterns while accompanying the plane. These are the details that make the document interesting to UFO researchers, because it is not merely a vague “light in the sky” rumour; it is an aviation-linked account routed through diplomatic channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
+The description is suggestive but not decisive. The objects were said to be “disk-shaped”, with several witnesses including Commander Pinto and Captain Maia; the report mentions high speed, manoeuvrability, distance from the aircraft, and two lights at the side of the craft. Other observers reportedly saw the object rotating on its own axis and, at the same time, manoeuvring in “dive and climb” patterns while accompanying the plane. These are the details that make the document interesting to UFO researchers, because it is not merely a vague “light in the sky” rumour; it is an aviation-linked account routed through diplomatic channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
 
-Yet the same document also contains the case’s main caution. A local press follow-up on 13 December said the Portuguese air transport company had issued a statement that, after the captain’s report and a preliminary investigation, “there is no reason to consider that the phenomena observed constitute demonstrable proof of flying objects.” In other words, the official paper trail records a sighting report, not a confirmed anomaly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
+Yet the same document also contains the case’s main caution. A local press follow-up on 13 December said the Portuguese air transport company had issued a statement that, after the captain’s report and a preliminary investigation, “there is no reason to consider that the phenomena observed constitute demonstrable proof of flying objects.” In other words, the official paper trail records a sighting report, not a confirmed anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
 
 <img src="{{ "/assets/images/Angola_a42522-Illustration-1-dark.svg" | relative_url }}" alt="What Can Angola&#x27;s UFO Record Really Prove? illustration 1" data-theme-src-dark="{{ "/assets/images/Angola_a42522-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angola_a42522-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case does and does not prove
 
 The Lunda report is best treated as a documented contested sighting. It proves that an Angola-based UFO claim was serious enough to be reported in the local press and forwarded by a US diplomatic channel. It does not prove that an unknown craft was present, and it certainly does not prove an extraterrestrial explanation.
 
-Several features lower the evidential value. The available document is a degraded scan of a diplomatic summary, not the original pilot’s full technical report. It gives no radar plot, photograph, cockpit audio, astronomical check, weather reconstruction, or independent aviation investigation file. It also appears to rely heavily on press reporting, even though it was transmitted through official channels. That distinction matters: an official archive can preserve a report without endorsing the report’s interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
+Several features lower the evidential value. The available document is a degraded scan of a diplomatic summary, not the original pilot’s full technical report. It gives no radar plot, photograph, cockpit audio, astronomical check, weather reconstruction, or independent aviation investigation file. It also appears to rely heavily on press reporting, even though it was transmitted through official channels. That distinction matters: an official archive can preserve a report without endorsing the report’s interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
 
-The case also fits a wider pattern in UAP research: many reports begin as sincere observations by credible witnesses but remain unresolved because the necessary data were not collected at the time. NASA’s 2023 independent study team made precisely this point, noting that many UAP observations can be attributed to known phenomena, while eyewitness reports alone are usually not reproducible and often lack the information needed for definitive conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case also fits a wider pattern in UAP research: many reports begin as sincere observations by credible witnesses but remain unresolved because the necessary data were not collected at the time. NASA’s 2023 independent study team made precisely this point, noting that many UAP observations can be attributed to known phenomena, while eyewitness reports alone are usually not reproducible and often lack the information needed for definitive conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Angola, the 1966 case therefore sits in the middle category: confirmed as a reported incident, contested as an interpretation, and not debunked in the strong sense of being tied to a specific identified object. The best reading is sober: something was reported, the available description is incomplete, and the contemporaneous local follow-up did not support treating it as demonstrable proof of flying craft.
 
@@ -1222,9 +1222,9 @@ For Angola, the 1966 case therefore sits in the middle category: confirmed as a 
 
 ## Why Angola’s UFO record is unusually sparse
 
-Public UFO reporting is not evenly distributed across the world. A cross-cultural review of public UAP material listed Angola with 21 reports in its global table, far below heavily represented countries such as the United States and South Africa. That figure should not be read as a true measure of how often Angolans saw unusual aerial phenomena; it more likely reflects language, internet access, reporting culture, archival survival, and whether reports were captured by databases built mainly in English-speaking environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Public UFO reporting is not evenly distributed across the world. A cross-cultural review of public UAP material listed Angola with 21 reports in its global table, far below heavily represented countries such as the United States and South Africa. That figure should not be read as a true measure of how often Angolans saw unusual aerial phenomena; it more likely reflects language, internet access, reporting culture, archival survival, and whether reports were captured by databases built mainly in English-speaking environments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The National UFO Reporting Center, one of the best-known civilian reporting repositories, describes itself as dedicated to collecting and disseminating UFO/UAP data and provides a public map and data bank. But its own ecosystem is centred on voluntary reporting, and third-party work based on NUFORC data has noted practical limits around scraping, standardisation and redistribution. Such databases are useful for leads, patterns and witness narratives; they are not the same as a national investigative archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP</span></span></span>
+The National UFO Reporting Center, one of the best-known civilian reporting repositories, describes itself as dedicated to collecting and disseminating UFO/UAP data and provides a public map and data bank. But its own ecosystem is centred on voluntary reporting, and third-party work based on NUFORC data has noted practical limits around scraping, standardisation and redistribution. Such databases are useful for leads, patterns and witness narratives; they are not the same as a national investigative archive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP</span></span></span>
 
 Angola also has historical reasons for archival gaps. The 1966 case occurred under Portuguese colonial rule, before Angola’s independence in 1975, meaning relevant records may be split between Angolan, Portuguese, aviation-company, press and foreign diplomatic holdings. Later decades were dominated by conflict and state-building, conditions under which unusual sky reports are less likely to be preserved as standalone public records unless they intersect with aviation safety, military activity or foreign intelligence.
 
@@ -1233,14 +1233,14 @@ This matters for region-level interpretation. Luanda, as the capital and aviatio
 <img src="{{ "/assets/images/Angola_a42522-Illustration-2-dark.svg" | relative_url }}" alt="What Can Angola&#x27;s UFO Record Really Prove? illustration 2" data-theme-src-dark="{{ "/assets/images/Angola_a42522-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Angola_a42522-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Likely explanations to test before extraordinary ones
 
-The Angola material does not justify a single explanation, but it does suggest a disciplined checklist for future claims. NASA’s UAP report stresses a rigorous, evidence-based framework and points to the need for environmental context, sensor data and structured curation. AARO, the US All-domain Anomaly Resolution Office, similarly presents UAP work as a data-driven effort to resolve unidentified reports rather than a search for sensational conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Angola material does not justify a single explanation, but it does suggest a disciplined checklist for future claims. NASA’s UAP report stresses a rigorous, evidence-based framework and points to the need for environmental context, sensor data and structured curation. AARO, the US All-domain Anomaly Resolution Office, similarly presents UAP work as a data-driven effort to resolve unidentified reports rather than a search for sensational conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Angola-specific cases, the most plausible conventional [explanations]({{ 'explanations/' | relative_url }}) to test first are:
 
 * **Aircraft and aviation lights.** Angola’s strongest case is aviation-linked, so flight paths, aircraft positions, approach angles and reflections are essential checks.
 * **Meteors and re-entering space debris.** Fast luminous objects, fragmentation, colour changes and short-duration fireball events can be mistaken for craft, especially where no camera network captures the event.
-* **Balloons, drones and birds.** Recent official UAP casework in other theatres has repeatedly resolved some sightings as balloons or birds; AARO’s public imagery page even includes an Africa Command case resolved as migratory birds, showing how non-technological explanations can survive initial uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
-* **Atmospheric optics and sunset reflections.** The 1966 report explicitly mentions light associated with the sun’s setting, making reflection, glare and horizon effects relevant possibilities, even though the surviving document does not provide enough geometry to test them fully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
+* **Balloons, drones and birds.** Recent official UAP casework in other theatres has repeatedly resolved some sightings as balloons or birds; AARO’s public imagery page even includes an Africa Command case resolved as migratory birds, showing how non-technological explanations can survive initial uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+* **Atmospheric optics and sunset reflections.** The 1966 report explicitly mentions light associated with the sun’s setting, making reflection, glare and horizon effects relevant possibilities, even though the surviving document does not provide enough geometry to test them fully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
 * **Military or security activity.** Angola’s post-independence history makes aircraft, surveillance, missiles, flares or exercises plausible in some periods, but such explanations require case-by-case evidence rather than general assumption.
 
 The point is not to dismiss witnesses. It is to separate a good mystery from a bad inference. A strong Angola case would need date, time, location, direction of travel, duration, weather, astronomical conditions, flight data, radar or instrument records, multiple independent witnesses, and original rather than reposted media.
@@ -1249,11 +1249,11 @@ The point is not to dismiss witnesses. It is to separate a good mystery from a b
 
 ## Official records and where Angola fits in the wider archive picture
 
-Angola appears in the public UFO archive mainly because US agencies preserved and later released foreign diplomatic reporting. The National Archives and Records Administration now has a broader UAP records framework, including a dedicated Unidentified Anomalous Phenomena Records Collection established under the 2024 National Defense Authorization Act, and says it will add received records on a rolling basis. That may improve access to US-held UAP material, but it does not automatically create an Angolan national archive or validate every older report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Angola appears in the public UFO archive mainly because US agencies preserved and later released foreign diplomatic reporting. The National Archives and Records Administration now has a broader UAP records framework, including a dedicated Unidentified Anomalous Phenomena Records Collection established under the 2024 National Defense Authorization Act, and says it will add received records on a rolling basis. That may improve access to US-held UAP material, but it does not automatically create an Angolan national archive or validate every older report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The NSA gallery is especially relevant because it places the Angola airgram beside other historical documents from Mexico, Tunisia, Cuba, Antarctica, Iran and the Republic of the Congo. This is useful for cross-branch comparison within a country-by-country UFO project: Angola’s record resembles several sibling branches where the strongest material is not a domestic investigation file but a foreign diplomatic or intelligence copy of a local press or aviation report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761358/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">Subject: Flying Saucers Are a Myth Department of State AIRGRAM</span><span class="citation-popover-snippet">Subject: Flying Saucers Are a Myth Department of State AIRGRAM</span></span></span>
+The NSA gallery is especially relevant because it places the Angola airgram beside other historical documents from Mexico, Tunisia, Cuba, Antarctica, Iran and the Republic of the Congo. This is useful for cross-branch comparison within a country-by-country UFO project: Angola’s record resembles several sibling branches where the strongest material is not a domestic investigation file but a foreign diplomatic or intelligence copy of a local press or aviation report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761358/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">Subject: Flying Saucers Are a Myth Department of State AIRGRAM</span><span class="citation-popover-snippet">Subject: Flying Saucers Are a Myth Department of State AIRGRAM</span></span></span>
 
-A nearby comparison is the Republic of the Congo item listed in the same NSA gallery as “Exploitation Report - A Fragment, Metal Recovered in the Republic of the Congo”. That does not make the Angola case stronger, but it shows how Central and Southern African UFO material often survives in scattered foreign archives rather than coherent national case files. For Angola, the current public record is therefore archival-fragmentary rather than case-rich. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">Document Gallery</span><span class="citation-popover-snippet">National Security Agency/Central Security Service &gt; Press Room &gt; Digital Media Center &gt; Document Gallery - Page 45...</span></span></span>
+A nearby comparison is the Republic of the Congo item listed in the same NSA gallery as “Exploitation Report - A Fragment, Metal Recovered in the Republic of the Congo”. That does not make the Angola case stronger, but it shows how Central and Southern African UFO material often survives in scattered foreign archives rather than coherent national case files. For Angola, the current public record is therefore archival-fragmentary rather than case-rich.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">Document Gallery</span><span class="citation-popover-snippet">National Security Agency/Central Security Service &gt; Press Room &gt; Digital Media Center &gt; Document Gallery - Page 45...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VfibOZQl4Fc" title="&#x27;Space junk&#x27; that fell in Eastern Cape was a car-size meteorite" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VfibOZQl4Fc" target="_blank" rel="noopener noreferrer">&#x27;Space junk&#x27; that fell in Eastern Cape was a car-size meteorite</a></p><p class="youtube-embed-meta">Channel: SABC News &middot; Views: 76.0K &middot; Uploaded: August 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VfibOZQl4Fc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VfibOZQl4Fc">Open on YouTube</a></p></div></div></div>
 
@@ -1261,9 +1261,9 @@ A nearby comparison is the Republic of the Congo item listed in the same NSA gal
 
 A practical classification helps keep the Angola page honest.
 
-**Confirmed as documented:** the 23 December 1966 Luanda airgram exists, is publicly accessible through the NSA/Department of Defense archive, and records a reported sighting over Angola linked to a TAP flight and Lunda observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
+**Confirmed as documented:** the 23 December 1966 Luanda airgram exists, is publicly accessible through the NSA/Department of Defense archive, and records a reported sighting over Angola linked to a TAP flight and Lunda observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
 
-**Contested but worth preserving:** the interpretation of the 1966 objects as “flying saucers” remains unproven. The reported witness details are interesting, but the same airgram records that a preliminary company investigation did not treat the observation as demonstrable proof of flying objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
+**Contested but worth preserving:** the interpretation of the 1966 objects as “flying saucers” remains unproven. The reported witness details are interesting, but the same airgram records that a preliminary company investigation did not treat the observation as demonstrable proof of flying objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>(#endnote-1 "Endnote 1")
 
 **Weak or low-use material:** generic “Angola UFO files” pages, social media posts, unsourced video captions and database stubs may be useful for discovery but should not be treated as primary evidence unless they lead to original documents, named witnesses, dated press reports or recoverable local records.
 
@@ -1277,194 +1277,194 @@ Angola’s UFO history is not empty, but it is narrow. Its main evidential pilla
 That makes Angola a useful page in a wider country-by-country UFO project precisely because it resists exaggeration. It shows how a national UFO record can depend less on the number of strange stories told locally than on which reports crossed into press, aviation, diplomatic or intelligence channels. In Angola’s case, the public record supports a modest conclusion: one historically documented, contested sighting; a sparse wider reporting footprint; and no publicly available evidence strong enough to move any Angolan claim from “reported anomaly” to “confirmed extraordinary object”.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Can Angola&#x27;s UFO Record Really Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Can Angola&#x27;s UFO Record Really Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for judging thin historical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for judging thin historical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Focuses on what official reports can and cannot prove.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on what official reports can and cannot prove.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Matches a page focused on what UFO records can genuinely demonstrate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches a page focused on what UFO records can genuinely demonstrate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader interpretive context for sparse case records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader interpretive context for sparse case records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-angola-s-ufo-record-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-can-angola-s-ufo-record-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1480,7 +1480,7 @@ That makes Angola a useful page in a wider country-by-country UFO project precis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1500,7 +1500,7 @@ That makes Angola a useful page in a wider country-by-country UFO project precis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1532,7 +1532,7 @@ That makes Angola a useful page in a wider country-by-country UFO project precis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1584,7 +1584,7 @@ That makes Angola a useful page in a wider country-by-country UFO project precis
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1629,7 +1629,7 @@ That makes Angola a useful page in a wider country-by-country UFO project precis
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1667,164 +1667,163 @@ That makes Angola a useful page in a wider country-by-country UFO project precis
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF</a>  
+   Link:<a href="https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761369/-1/-1/0/DOS_AIRGRAM_UFOS_ANGOLA.PDF</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nsa.gov  
    Title: Document Gallery  
-   Link: <a href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agency/Central Security Service &gt; Press Room &gt; Digital Media Center &gt; Document Gallery - Page 45...</p></details>
+   Link:<a href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Agency/Central Security Service &gt; Press Room &gt; Digital Media Center &gt; Document Gallery - Page 45...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
    Title: National UFO Reporting Center | Report a UFO | Report a UAP  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nsa.gov  
    Title: Subject: Flying Saucers Are a Myth Department of State AIRGRAM  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761358/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761358/</a>  
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761358/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761358/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/decimal19v1dewe/decimal19v1dewe_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/decimal19v1dewe/decimal19v1dewe_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/decimal19v1dewe/decimal19v1dewe_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/decimal19v1dewe/decimal19v1dewe_djvu.txt</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/TheCIAAForgottenHistoryUSGlobalInterventionsSinceWorl/The%20CIA%2C%20a%20forgotten%20history%20%20US%20global%20interventions%20since%20Worl_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheCIAAForgottenHistoryUSGlobalInterventionsSinceWorl/The%20CIA%2C%20a%20forgotten%20history%20%20US%20global%20interventions%20since%20Worl_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/TheCIAAForgottenHistoryUSGlobalInterventionsSinceWorl/The%20CIA%2C%20a%20forgotten%20history%20%20US%20global%20interventions%20since%20Worl_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheCIAAForgottenHistoryUSGlobalInterventionsSinceWorl/The%20CIA%2C%20a%20forgotten%20history%20%20US%20global%20interventions%20since%20Worl_djvu.txt</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.org  
    Title: ufo 1966 1 djvu.txt  
-   Link: <a href="https://archive.org/stream/ufo_1966_1/ufo_1966_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ufo_1966_1/ufo_1966_1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/ufo_1966_1/ufo_1966_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ufo_1966_1/ufo_1966_1_djvu.txt</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005516693" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516693</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005516693" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516693</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06984633" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06984633</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06984633" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06984633</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06741381" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741381</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06741381" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741381</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/00046885" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/00046885</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/00046885" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/00046885</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06935701" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06935701</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06935701" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06935701</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/02481015" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/02481015</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/02481015" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/02481015</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: shemesblog.wordpress.com  
-   Link: <a href="https://shemesblog.wordpress.com/author/shemesra/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://shemesblog.wordpress.com/author/shemesra/page/12/</a>  
+   Link:<a href="https://shemesblog.wordpress.com/author/shemesra/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://shemesblog.wordpress.com/author/shemesra/page/12/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ufoac.com  
    Title: Unidentified Flying Objects Reported over Angola  
-   Link: <a href="https://ufoac.com/unidentified-flying-objects-reported-iver-angola-december-23%2C-1966-nsa-report.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/unidentified-flying-objects-reported-iver-angola-december-23%2C-1966-nsa-report.html</a>  
+   Link:<a href="https://ufoac.com/unidentified-flying-objects-reported-iver-angola-december-23%2C-1966-nsa-report.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/unidentified-flying-objects-reported-iver-angola-december-23%2C-1966-nsa-report.html</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=8L6M2mRcux4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8L6M2mRcux4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO landing near the Westall school in 1966 discussed in great detail by eyewitness Derek Weise...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8L6M2mRcux4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8L6M2mRcux4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO landing near the Westall school in 1966 discussed in great detail by eyewitness Derek Weise...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=oEd9VRpvjHY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=oEd9VRpvjHY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Entire History of Angola | From Kingdoms to Independence...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=oEd9VRpvjHY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=oEd9VRpvjHY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Entire History of Angola | From Kingdoms to Independence...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/12/129E144131F2E093FB1E441C737ACF92_SearchForTheManchurianCandidate.rtf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/12/129E144131F2E093FB1E441C737ACF92_SearchForTheManchurianCandidate.rtf.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/12/129E144131F2E093FB1E441C737ACF92_SearchForTheManchurianCandidate.rtf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/12/129E144131F2E093FB1E441C737ACF92_SearchForTheManchurianCandidate.rtf.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/4A/4A92FD2FB4DAE3F773DB0B7742CF0F65_Coleman.-.CONSPIRATORS.HIERARCHY.-.THE.STORY.OF.THE.COMMITTEE.OF.300.R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/4A/4A92FD2FB4DAE3F773DB0B7742CF0F65_Coleman.-.CONSPIRATORS.HIERARCHY.-.THE.STORY.OF.THE.COMMITTEE.OF.300.R.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/4A/4A92FD2FB4DAE3F773DB0B7742CF0F65_Coleman.-.CONSPIRATORS.HIERARCHY.-.THE.STORY.OF.THE.COMMITTEE.OF.300.R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/4A/4A92FD2FB4DAE3F773DB0B7742CF0F65_Coleman.-.CONSPIRATORS.HIERARCHY.-.THE.STORY.OF.THE.COMMITTEE.OF.300.R.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/FR-1942-01-17/pdf/FR-1942-01-17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/FR-1942-01-17/pdf/FR-1942-01-17.pdf</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/FR-1942-01-17/pdf/FR-1942-01-17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/FR-1942-01-17/pdf/FR-1942-01-17.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/14/145C9D2CC61E91C8E3FD7A25EFD7E0B5_PENNSY~1.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/14/145C9D2CC61E91C8E3FD7A25EFD7E0B5_PENNSY~1.PDF</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/14/145C9D2CC61E91C8E3FD7A25EFD7E0B5_PENNSY~1.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/14/145C9D2CC61E91C8E3FD7A25EFD7E0B5_PENNSY~1.PDF</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/FC/FC2F5371043C48FDD95AEDE7B8A49624_Springmeier.-.Bloodlines.of.the.Illuminati.R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FC/FC2F5371043C48FDD95AEDE7B8A49624_Springmeier.-.Bloodlines.of.the.Illuminati.R.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/FC/FC2F5371043C48FDD95AEDE7B8A49624_Springmeier.-.Bloodlines.of.the.Illuminati.R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FC/FC2F5371043C48FDD95AEDE7B8A49624_Springmeier.-.Bloodlines.of.the.Illuminati.R.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp94-01353r002501900013-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp94-01353r002501900013-8</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp94-01353r002501900013-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp94-01353r002501900013-8</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/F6/F693879994199D612C64EE9A4666E8EE_Crossing_The_Rubicon_Part_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/F6/F693879994199D612C64EE9A4666E8EE_Crossing_The_Rubicon_Part_1.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/F6/F693879994199D612C64EE9A4666E8EE_Crossing_The_Rubicon_Part_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/F6/F693879994199D612C64EE9A4666E8EE_Crossing_The_Rubicon_Part_1.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp99-01448r000401580001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp99-01448r000401580001-0</a>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp99-01448r000401580001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp99-01448r000401580001-0</a>

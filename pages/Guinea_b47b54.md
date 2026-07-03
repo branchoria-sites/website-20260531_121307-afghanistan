@@ -1201,17 +1201,17 @@ That makes Guinea an instructive case for UFO research because the evidence is t
 
 Publicly available reporting does not show a strong, continuous national chronology of UFO incidents in Guinea comparable to better-known archives in France, the United States, Brazil, or the United Kingdom. Instead, the record is fragmented and heavily dependent on local journalism, social media circulation, and a few wider discussions about satellites and drones. That matters because a sparse record can easily be exaggerated if every unexplained light is treated as a major incident.
 
-The most credible Guinean material is recent and local. It concerns physical devices found or recovered in Haute Guinée, especially around Kankan. These are not “UFOs” in the popular extraterrestrial sense; they are “unidentified” in the basic evidential sense that witnesses and reporters did not initially know what they were. Guinean aviation institutions provide an official framework for airspace safety and incident notification, but there is no visible public national UFO archive equivalent to France’s GEIPAN database. Guinea’s civil aviation authority presents itself as the regulator responsible for aviation safety, airspace management, certification, and compliance with international aviation standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://agac.gov.gn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agac.gov.gn">[agac.gov.gn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agac.gov.gn</span><span class="citation-popover-title">Accueil &#124; Autorité Guinéenne de l&#x27;Aviation Civile</span><span class="citation-popover-snippet">Accueil &#124; Autorité Guinéenne de l&#x27;Aviation Civile</span></span></span>
+The most credible Guinean material is recent and local. It concerns physical devices found or recovered in Haute Guinée, especially around Kankan. These are not “UFOs” in the popular extraterrestrial sense; they are “unidentified” in the basic evidential sense that witnesses and reporters did not initially know what they were. Guinean aviation institutions provide an official framework for airspace safety and incident notification, but there is no visible public national UFO archive equivalent to France’s GEIPAN database. Guinea’s civil aviation authority presents itself as the regulator responsible for aviation safety, airspace management, certification, and compliance with international aviation standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://agac.gov.gn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agac.gov.gn">[agac.gov.gn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agac.gov.gn</span><span class="citation-popover-title">Accueil &#124; Autorité Guinéenne de l&#x27;Aviation Civile</span><span class="citation-popover-snippet">Accueil &#124; Autorité Guinéenne de l&#x27;Aviation Civile</span></span></span>
 
 This distinction is important for readers comparing Guinea with sibling country pages in a wider UFO project. Guinea’s value is not in a famous historical encounter; it is in showing how modern West African UFO-like reports often emerge at the intersection of rural observation, unfamiliar technology, low public information, and rapid social-media amplification.
 
 ## The Kankan Cluster: From “Satellite” Rumours to Recovered Devices
 
-The strongest case cluster begins in late December 2024 near Kankan. Guineenews reported that an unidentified object, visibly resembling a satellite, fell into a mango plantation in Soumankoï, about 14 kilometres from Kankan. The report said the incident occurred around 13:00, that local children were nearby, and that residents heard a loud noise before discovering the device. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guineenews.org">[Guinéenews©]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guineenews.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest case cluster begins in late December 2024 near Kankan. Guineenews reported that an unidentified object, visibly resembling a satellite, fell into a mango plantation in Soumankoï, about 14 kilometres from Kankan. The report said the incident occurred around 13:00, that local children were nearby, and that residents heard a loud noise before discovering the device.<span class="citation-chip-wrap"><a class="citation-chip" href="https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guineenews.org">[Guinéenews©]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guineenews.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same report is valuable because it contains both the UFO-style uncertainty and the first signs of a mundane explanation. Local authorities reportedly arrived, dismantled and removed the object, reassured residents that it was not dangerous, and described it in general terms as something used for filming and internet-related activity. The governor did not provide a detailed public explanation when contacted, which left room for speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guineenews.org">[Guinéenews©]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guineenews.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same report is valuable because it contains both the UFO-style uncertainty and the first signs of a mundane explanation. Local authorities reportedly arrived, dismantled and removed the object, reassured residents that it was not dangerous, and described it in general terms as something used for filming and internet-related activity. The governor did not provide a detailed public explanation when contacted, which left room for speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guineenews.org">[Guinéenews©]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guineenews.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A few days later, Guineematin reported another discovery in the Kankan area: an unidentified flying device found on 1 January 2025 at Farako, in the Bâté Loba district under Balandou. The article also noted that a similar device had been found a week earlier in Soumankoï and taken by military authorities to Camp Soundiata Keïta. This second report gives the cluster regional significance: it was not just one isolated rumour, but at least two reported recoveries in the same broad area over a short period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://guineematin.com/2025/01/02/kankan-les-debris-dun-appareil-volant-decouvert-a-balandou/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guineematin.com">[guineematin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guineematin.com</span><span class="citation-popover-title">Kankan: les débris d’un appareil volant découvert à Balandou</span><span class="citation-popover-snippet">Kankan: les débris d’un appareil volant découvert à Balandou</span></span></span>
+A few days later, Guineematin reported another discovery in the Kankan area: an unidentified flying device found on 1 January 2025 at Farako, in the Bâté Loba district under Balandou. The article also noted that a similar device had been found a week earlier in Soumankoï and taken by military authorities to Camp Soundiata Keïta. This second report gives the cluster regional significance: it was not just one isolated rumour, but at least two reported recoveries in the same broad area over a short period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://guineematin.com/2025/01/02/kankan-les-debris-dun-appareil-volant-decouvert-a-balandou/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guineematin.com">[guineematin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guineematin.com</span><span class="citation-popover-title">Kankan: les débris d’un appareil volant découvert à Balandou</span><span class="citation-popover-snippet">Kankan: les débris d’un appareil volant découvert à Balandou</span></span></span>
 
 The cautious reading is that these were almost certainly technological devices rather than anomalous craft. The available descriptions point toward equipment such as drones, balloons, or aerostat-like platforms, especially because one local explanation referred to filming or internet uses. The unresolved element is not “alien origin”; it is ownership, purpose, flight path, and why the devices came down in rural parts of Kankan.
 
@@ -1220,7 +1220,7 @@ The cautious reading is that these were almost certainly technological devices r
 
 Conakry appears in newer UFO discussion mostly through short-lived light reports and online video claims rather than fully investigated cases. One 2025 social-media report described a possible UFO in Conakry at night, but it was a brief witness-video claim and the poster themselves raised ordinary possibilities such as a drone. That kind of source is useful as a cultural signal, not as strong evidence.
 
-A more useful explanation comes from a 2024 Guinea-focused science explainer that discussed lights seen over Conakry and other Guinean cities, concluding that the likely cause was Starlink satellites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universciences.com/quelle-est-la-cause-de-la-lumiere-apercue-dans-le-ciel-a-conakry-et-dans-certaines-villes-de-guinee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universciences.com">[UniverSciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universciences.com</span><span class="citation-popover-title">Univer Sciences Quelle est la cause de la lumière aperçue dans le ciel à</span><span class="citation-popover-snippet">Univer Sciences Quelle est la cause de la lumière aperçue dans le ciel à</span></span></span> This fits a much wider global pattern. Starlink satellites can appear to the unaided eye as a string or train of bright moving lights, especially shortly after launch and before they spread out into operational orbits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy</span></span></span>
+A more useful explanation comes from a 2024 Guinea-focused science explainer that discussed lights seen over Conakry and other Guinean cities, concluding that the likely cause was Starlink satellites.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universciences.com/quelle-est-la-cause-de-la-lumiere-apercue-dans-le-ciel-a-conakry-et-dans-certaines-villes-de-guinee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universciences.com">[UniverSciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universciences.com</span><span class="citation-popover-title">Univer Sciences Quelle est la cause de la lumière aperçue dans le ciel à</span><span class="citation-popover-snippet">Univer Sciences Quelle est la cause de la lumière aperçue dans le ciel à</span></span></span> This fits a much wider global pattern. Starlink satellites can appear to the unaided eye as a string or train of bright moving lights, especially shortly after launch and before they spread out into operational orbits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy</span></span></span>
 
 For Guinea, this matters because satellite constellations can produce impressive displays over places with little advance public notice. A person seeing a neat line of lights crossing the sky may reasonably report something strange, even though the explanation is orbital infrastructure. This is likely to become more common as satellite internet systems expand across West Africa and as more people record night-sky events on mobile phones.
 
@@ -1228,13 +1228,13 @@ For Guinea, this matters because satellite constellations can produce impressive
 
 A useful [evidence split]({{ 'evidence-split/' | relative_url }}) for Guinea is:
 
-**Confirmed physical incidents:** The Kankan-area recoveries are the strongest category because local reporters described physical objects on the ground, witnesses, official recovery, and military or administrative involvement. These cases are confirmed as “something was found”, but not confirmed as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guineenews.org">[Guinéenews©]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guineenews.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed physical incidents:** The Kankan-area recoveries are the strongest category because local reporters described physical objects on the ground, witnesses, official recovery, and military or administrative involvement. These cases are confirmed as “something was found”, but not confirmed as anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guineenews.org">[Guinéenews©]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guineenews.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Contested sightings:** Short video claims from Conakry or other towns belong here. They may show real lights or objects, but without original metadata, multiple independent witnesses, direction, altitude, duration, weather, aircraft checks, or satellite pass data, they cannot carry much evidential weight.
 
-**Likely explained or debunkable reports:** Lights described across several Guinean cities in 2024 are plausibly explained as Starlink or similar satellite trains. This does not mean every Guinean light report is automatically solved, but it gives investigators a first check: date, time, direction, and whether a satellite train was visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universciences.com/quelle-est-la-cause-de-la-lumiere-apercue-dans-le-ciel-a-conakry-et-dans-certaines-villes-de-guinee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universciences.com">[UniverSciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universciences.com</span><span class="citation-popover-title">Univer Sciences Quelle est la cause de la lumière aperçue dans le ciel à</span><span class="citation-popover-snippet">Univer Sciences Quelle est la cause de la lumière aperçue dans le ciel à</span></span></span>
+**Likely explained or debunkable reports:** Lights described across several Guinean cities in 2024 are plausibly explained as Starlink or similar satellite trains. This does not mean every Guinean light report is automatically solved, but it gives investigators a first check: date, time, direction, and whether a satellite train was visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universciences.com/quelle-est-la-cause-de-la-lumiere-apercue-dans-le-ciel-a-conakry-et-dans-certaines-villes-de-guinee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universciences.com">[UniverSciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universciences.com</span><span class="citation-popover-title">Univer Sciences Quelle est la cause de la lumière aperçue dans le ciel à</span><span class="citation-popover-snippet">Univer Sciences Quelle est la cause de la lumière aperçue dans le ciel à</span></span></span>
 
-International UAP practice supports this cautious approach. The US All-domain Anomaly Resolution Office has published cases in which initially unidentified infrared objects were later assessed as birds or balloons, while some remained unresolved because the data were insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> France’s GEIPAN similarly emphasises that “UFO” is often a misleading term because a witness may not have seen an object at all; the observation may involve light, perception, weather, aircraft, satellites, or incomplete context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Mission &amp; Geipan &#124; GEIPAN</span></span></span>
+International UAP practice supports this cautious approach. The US All-domain Anomaly Resolution Office has published cases in which initially unidentified infrared objects were later assessed as birds or balloons, while some remained unresolved because the data were insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> France’s GEIPAN similarly emphasises that “UFO” is often a misleading term because a witness may not have seen an object at all; the observation may involve light, perception, weather, aircraft, satellites, or incomplete context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Mission &amp; Geipan &#124; GEIPAN</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E7JSeQEjvnY" title="A Comprehensive Guide to Launching a High-Altitude Balloon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E7JSeQEjvnY" target="_blank" rel="noopener noreferrer">A Comprehensive Guide to Launching a High-Altitude Balloon</a></p><p class="youtube-embed-meta">Channel: Christopher Lum &middot; Views: 10.2K &middot; Uploaded: February 2023 &middot; Length: 2 hours 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E7JSeQEjvnY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E7JSeQEjvnY">Open on YouTube</a></p></div></div></div>
 
@@ -1251,9 +1251,9 @@ Conakry’s pattern is different. In the capital, likely causes include drones, 
 
 Guinea does not appear to maintain a public, specialised UAP archive like France’s GEIPAN. That absence does not mean no reports exist; it means the public record is scattered. The relevant official route is more likely to run through civil aviation, security services, local administration, or military recovery rather than a dedicated UFO office.
 
-The Guinean Civil Aviation Authority’s public site states that it regulates aviation activity, manages airspace-related responsibilities, and works in line with international aviation standards. It also lists accident or serious-incident notification contacts for the permanent investigation cell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://agac.gov.gn/storage/HM6vfv7pazXWZqIOMCI0pCd06UzP2w-metaRF8yMDE5X07CsDAwMThfUmVkZXZhbmNlcy5wZGY%3D-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agac.gov.gn">[agac.gov.gn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agac.gov.gn</span><span class="citation-popover-snippet">Open source on agac.gov.gn.</span></span></span> For a recovered drone, balloon, aircraft fragment, or unknown aerial device, that institutional ecosystem is more relevant than a paranormal archive.
+The Guinean Civil Aviation Authority’s public site states that it regulates aviation activity, manages airspace-related responsibilities, and works in line with international aviation standards. It also lists accident or serious-incident notification contacts for the permanent investigation cell.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://agac.gov.gn/storage/HM6vfv7pazXWZqIOMCI0pCd06UzP2w-metaRF8yMDE5X07CsDAwMThfUmVkZXZhbmNlcy5wZGY%3D-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agac.gov.gn">[agac.gov.gn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agac.gov.gn</span><span class="citation-popover-snippet">Open source on agac.gov.gn.</span></span></span> For a recovered drone, balloon, aircraft fragment, or unknown aerial device, that institutional ecosystem is more relevant than a paranormal archive.
 
-France’s GEIPAN offers a useful comparison for what Guinea lacks in public form: a structured process for receiving testimony, creating a case file, investigating, using scientific expertise, and publishing anonymised conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Mission &amp; Geipan &#124; GEIPAN</span></span></span> In Guinea, the absence of a comparable public-facing process means local journalism often becomes the archive by default.
+France’s GEIPAN offers a useful comparison for what Guinea lacks in public form: a structured process for receiving testimony, creating a case file, investigating, using scientific expertise, and publishing anonymised conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Geipan Mission &amp; Geipan &#124; GEIPAN</span><span class="citation-popover-snippet">Geipan Mission &amp; Geipan &#124; GEIPAN</span></span></span> In Guinea, the absence of a comparable public-facing process means local journalism often becomes the archive by default.
 
 <img src="{{ "/assets/images/Guinea_b47b54-Illustration-2-dark.svg" | relative_url }}" alt="What Do UFO Reports in Guinea Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Guinea_b47b54-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea_b47b54-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Read Guinean UFO Claims Without Overstating Them
@@ -1275,194 +1275,194 @@ For cross-branch comparison, Guinea sits closer to other West African pages wher
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X1Uv1H2I8ZY" title="CanSat High Altitude Balloon Launch - USC: Project Payload" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X1Uv1H2I8ZY" target="_blank" rel="noopener noreferrer">CanSat High Altitude Balloon Launch - USC: Project Payload</a></p><p class="youtube-embed-meta">Channel: Magnitude.io &middot; Views: 866 &middot; Uploaded: February 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X1Uv1H2I8ZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X1Uv1H2I8ZY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do UFO Reports in Guinea Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do UFO Reports in Guinea Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful for understanding how sightings are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how sightings are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides classification tools applicable to Guinea cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides classification tools applicable to Guinea cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Strong general introduction to evaluating reported UFO events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong general introduction to evaluating reported UFO events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines cultural interpretation of unexplained events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines cultural interpretation of unexplained events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-reports-in-guinea-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-reports-in-guinea-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1478,7 +1478,7 @@ For cross-branch comparison, Guinea sits closer to other West African pages wher
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1498,7 +1498,7 @@ For cross-branch comparison, Guinea sits closer to other West African pages wher
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1530,7 +1530,7 @@ For cross-branch comparison, Guinea sits closer to other West African pages wher
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1582,7 +1582,7 @@ For cross-branch comparison, Guinea sits closer to other West African pages wher
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1627,7 +1627,7 @@ For cross-branch comparison, Guinea sits closer to other West African pages wher
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1665,228 +1665,227 @@ For cross-branch comparison, Guinea sits closer to other West African pages wher
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: guineenews.org  
-   Link: <a href="https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/" target="_blank" rel="noopener noreferrer nofollow">https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/</a>  
+   Link:<a href="https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/" target="_blank" rel="noopener noreferrer nofollow">https://guineenews.org/2024/12/29/soumankoi-kankan-un-engin-ressemblant-a-un-satellite-tombe-dans-un-champ/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: guineematin.com  
    Title: Kankan: les débris d’un appareil volant découvert à Balandou  
-   Link: <a href="https://guineematin.com/2025/01/02/kankan-les-debris-dun-appareil-volant-decouvert-a-balandou/" target="_blank" rel="noopener noreferrer nofollow">https://guineematin.com/2025/01/02/kankan-les-debris-dun-appareil-volant-decouvert-a-balandou/</a>  
+   Link:<a href="https://guineematin.com/2025/01/02/kankan-les-debris-dun-appareil-volant-decouvert-a-balandou/" target="_blank" rel="noopener noreferrer nofollow">https://guineematin.com/2025/01/02/kankan-les-debris-dun-appareil-volant-decouvert-a-balandou/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: agac.gov.gn  
    Title: Accueil | Autorité Guinéenne de l'Aviation Civile  
-   Link: <a href="https://agac.gov.gn/" target="_blank" rel="noopener noreferrer nofollow">https://agac.gov.gn/</a>  
+   Link:<a href="https://agac.gov.gn/" target="_blank" rel="noopener noreferrer nofollow">https://agac.gov.gn/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: universciences.com  
    Title: Univer Sciences Quelle est la cause de la lumière aperçue dans le ciel à  
-   Link: <a href="https://www.universciences.com/quelle-est-la-cause-de-la-lumiere-apercue-dans-le-ciel-a-conakry-et-dans-certaines-villes-de-guinee" target="_blank" rel="noopener noreferrer nofollow">https://www.universciences.com/quelle-est-la-cause-de-la-lumiere-apercue-dans-le-ciel-a-conakry-et-dans-certaines-villes-de-guinee</a>  
+   Link:<a href="https://www.universciences.com/quelle-est-la-cause-de-la-lumiere-apercue-dans-le-ciel-a-conakry-et-dans-certaines-villes-de-guinee" target="_blank" rel="noopener noreferrer nofollow">https://www.universciences.com/quelle-est-la-cause-de-la-lumiere-apercue-dans-le-ciel-a-conakry-et-dans-certaines-villes-de-guinee</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: Starlink satellites: Facts, tracking and impact on astronomy  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: space.com  
    Title: x starlink satellites 10 weird things  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: agac.gov.gn  
-   Link: <a href="https://agac.gov.gn/storage/HM6vfv7pazXWZqIOMCI0pCd06UzP2w-metaRF8yMDE5X07CsDAwMThfUmVkZXZhbmNlcy5wZGY%3D-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://agac.gov.gn/storage/HM6vfv7pazXWZqIOMCI0pCd06UzP2w-metaRF8yMDE5X07CsDAwMThfUmVkZXZhbmNlcy5wZGY%3D-.pdf</a>  
+   Link:<a href="https://agac.gov.gn/storage/HM6vfv7pazXWZqIOMCI0pCd06UzP2w-metaRF8yMDE5X07CsDAwMThfUmVkZXZhbmNlcy5wZGY%3D-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://agac.gov.gn/storage/HM6vfv7pazXWZqIOMCI0pCd06UzP2w-metaRF8yMDE5X07CsDAwMThfUmVkZXZhbmNlcy5wZGY%3D-.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/page/50/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/page/50/</a>  
+   Link:<a href="https://text-message.blogs.archives.gov/page/50/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/page/50/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/tag/greg-bradsher/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/tag/greg-bradsher/page/6/</a>  
+   Link:<a href="https://text-message.blogs.archives.gov/tag/greg-bradsher/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/tag/greg-bradsher/page/6/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/map?srsltid=AfmBOorWuq8SI7GSyr_mYqyKYbpg2_DS2GG2A8d0Pj1PbmF3-5d_nbS7" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/map?srsltid=AfmBOorWuq8SI7GSyr_mYqyKYbpg2_DS2GG2A8d0Pj1PbmF3-5d_nbS7</a>  
+   Link:<a href="https://starlink.com/map?srsltid=AfmBOorWuq8SI7GSyr_mYqyKYbpg2_DS2GG2A8d0Pj1PbmF3-5d_nbS7" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/map?srsltid=AfmBOorWuq8SI7GSyr_mYqyKYbpg2_DS2GG2A8d0Pj1PbmF3-5d_nbS7</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/map?srsltid=AfmBOopUTXaXnWmWe92bVFn0pEWhKKyGK1I2SveRhGpfB1IsCvqQ1DLL" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/map?srsltid=AfmBOopUTXaXnWmWe92bVFn0pEWhKKyGK1I2SveRhGpfB1IsCvqQ1DLL</a>  
+   Link:<a href="https://starlink.com/map?srsltid=AfmBOopUTXaXnWmWe92bVFn0pEWhKKyGK1I2SveRhGpfB1IsCvqQ1DLL" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/map?srsltid=AfmBOopUTXaXnWmWe92bVFn0pEWhKKyGK1I2SveRhGpfB1IsCvqQ1DLL</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/?srsltid=AfmBOorappGwDlUYak3PQotsX7INnZ8oQk8fW4weB0T5ojAMD2PVWSDw" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/?srsltid=AfmBOorappGwDlUYak3PQotsX7INnZ8oQk8fW4weB0T5ojAMD2PVWSDw</a>  
+   Link:<a href="https://starlink.com/?srsltid=AfmBOorappGwDlUYak3PQotsX7INnZ8oQk8fW4weB0T5ojAMD2PVWSDw" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/?srsltid=AfmBOorappGwDlUYak3PQotsX7INnZ8oQk8fW4weB0T5ojAMD2PVWSDw</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/?srsltid=AfmBOooo00vPT4deWZVUhLBf7sOgy7ecMb-jQuLcflnqG__eBw43Y5-S" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/?srsltid=AfmBOooo00vPT4deWZVUhLBf7sOgy7ecMb-jQuLcflnqG__eBw43Y5-S</a>  
+   Link:<a href="https://starlink.com/?srsltid=AfmBOooo00vPT4deWZVUhLBf7sOgy7ecMb-jQuLcflnqG__eBw43Y5-S" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/?srsltid=AfmBOooo00vPT4deWZVUhLBf7sOgy7ecMb-jQuLcflnqG__eBw43Y5-S</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aic.gov.pg  
-   Link: <a href="https://www.aic.gov.pg/" target="_blank" rel="noopener noreferrer nofollow">https://www.aic.gov.pg/</a>  
+   Link:<a href="https://www.aic.gov.pg/" target="_blank" rel="noopener noreferrer nofollow">https://www.aic.gov.pg/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: guineenews.org  
-   Link: <a href="https://guineenews.org/2023/07/06/developpement-de-la-filiere-drone-en-guinee-ouverture-dun-atelier-sur-limplementation-et-la-reglementation/" target="_blank" rel="noopener noreferrer nofollow">https://guineenews.org/2023/07/06/developpement-de-la-filiere-drone-en-guinee-ouverture-dun-atelier-sur-limplementation-et-la-reglementation/</a>  
+   Link:<a href="https://guineenews.org/2023/07/06/developpement-de-la-filiere-drone-en-guinee-ouverture-dun-atelier-sur-limplementation-et-la-reglementation/" target="_blank" rel="noopener noreferrer nofollow">https://guineenews.org/2023/07/06/developpement-de-la-filiere-drone-en-guinee-ouverture-dun-atelier-sur-limplementation-et-la-reglementation/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/investigation/aaibs.php" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/investigation/aaibs.php</a>  
+   Link:<a href="https://aviation-safety.net/investigation/aaibs.php" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/investigation/aaibs.php</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: guineematin.com  
    Title: siguiri ovni objet volant non identifie inquiete citoyens et forces de securite  
-   Link: <a href="https://guineematin.com/2018/11/09/siguiri-ovni-objet-volant-non-identifie-inquiete-citoyens-et-forces-de-securite/" target="_blank" rel="noopener noreferrer nofollow">https://guineematin.com/2018/11/09/siguiri-ovni-objet-volant-non-identifie-inquiete-citoyens-et-forces-de-securite/</a>  
+   Link:<a href="https://guineematin.com/2018/11/09/siguiri-ovni-objet-volant-non-identifie-inquiete-citoyens-et-forces-de-securite/" target="_blank" rel="noopener noreferrer nofollow">https://guineematin.com/2018/11/09/siguiri-ovni-objet-volant-non-identifie-inquiete-citoyens-et-forces-de-securite/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/organisations/air-accidents-investigation-branch" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/organisations/air-accidents-investigation-branch</a>  
+   Link:<a href="https://www.gov.uk/government/organisations/air-accidents-investigation-branch" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/organisations/air-accidents-investigation-branch</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ict.gov.pg  
    Title: nicta clarifies regulatory status of starlink services in png  
-   Link: <a href="https://www.ict.gov.pg/nicta-clarifies-regulatory-status-of-starlink-services-in-png/" target="_blank" rel="noopener noreferrer nofollow">https://www.ict.gov.pg/nicta-clarifies-regulatory-status-of-starlink-services-in-png/</a>  
+   Link:<a href="https://www.ict.gov.pg/nicta-clarifies-regulatory-status-of-starlink-services-in-png/" target="_blank" rel="noopener noreferrer nofollow">https://www.ict.gov.pg/nicta-clarifies-regulatory-status-of-starlink-services-in-png/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cnes-geipan.fr  
    Title: Geipan Mission & Geipan | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: mediaguinee.com  
-   Link: <a href="https://mediaguinee.com/page/625/" target="_blank" rel="noopener noreferrer nofollow">https://mediaguinee.com/page/625/</a>  
+   Link:<a href="https://mediaguinee.com/page/625/" target="_blank" rel="noopener noreferrer nofollow">https://mediaguinee.com/page/625/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/973045/pr-001-unresolved-uap-report-africa-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973045/pr-001-unresolved-uap-report-africa-2022</a>  
+   Link:<a href="https://www.dvidshub.net/video/973045/pr-001-unresolved-uap-report-africa-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973045/pr-001-unresolved-uap-report-africa-2022</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: academieairespace.com  
    Title: GEIPA N studies UAPs/UFOs  
-   Link: <a href="https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en</a>  
+   Link:<a href="https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: spaceinafrica.com  
    Title: starlink goes live in guinea bissau  
-   Link: <a href="https://spaceinafrica.com/2025/06/18/starlink-goes-live-in-guinea-bissau/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/06/18/starlink-goes-live-in-guinea-bissau/</a>  
+   Link:<a href="https://spaceinafrica.com/2025/06/18/starlink-goes-live-in-guinea-bissau/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/06/18/starlink-goes-live-in-guinea-bissau/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: spaceinafrica.com  
    Title: guinea bissau approves starlink license enabling broader internet coverage  
-   Link: <a href="https://spaceinafrica.com/2025/04/15/guinea-bissau-approves-starlink-license-enabling-broader-internet-coverage/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/04/15/guinea-bissau-approves-starlink-license-enabling-broader-internet-coverage/</a>  
+   Link:<a href="https://spaceinafrica.com/2025/04/15/guinea-bissau-approves-starlink-license-enabling-broader-internet-coverage/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2025/04/15/guinea-bissau-approves-starlink-license-enabling-broader-internet-coverage/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: earthsky.org  
    Title: spacex starlink satellites explained  
-   Link: <a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
+   Link:<a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
+   Link:<a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: newspaceeconomy.ca  
    Title: GEIPA N: Frances UAP Investigation Unit  
-   Link: <a href="https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/</a>  
+   Link:<a href="https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: eaglepubs.erau.edu  
-   Link: <a href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/guinea/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/guinea/</a>  
+   Link:<a href="https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/guinea/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/dronesacrosstheworld/chapter/guinea/</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Guinea: “Unidentified flying objects” raise questions • The Observers  
-   Link: <a href="https://www.youtube.com/watch?v=iVytMPapV-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iVytMPapV-M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kankan: zoom sur le district de Senko Karifadou...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iVytMPapV-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iVytMPapV-M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kankan: zoom sur le district de Senko Karifadou...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Can Sat High Altitude Balloon Launch  
-   Link: <a href="https://www.youtube.com/watch?v=X1Uv1H2I8ZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1Uv1H2I8ZY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unbelievable UFO Sighting: Filming Drones and Gold when this Happened...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X1Uv1H2I8ZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1Uv1H2I8ZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unbelievable UFO Sighting: Filming Drones and Gold when this Happened...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: A Comprehensive Guide to Launching a High-Altitude Balloon  
-   Link: <a href="https://www.youtube.com/watch?v=E7JSeQEjvnY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E7JSeQEjvnY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CanSat High Altitude Balloon Launch - USC: Project Payload...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E7JSeQEjvnY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E7JSeQEjvnY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CanSat High Altitude Balloon Launch - USC: Project Payload...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: Kankan: zoom sur le district de Senko Karifadou  
-   Link: <a href="https://www.youtube.com/watch?v=gjWekKuXVYY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gjWekKuXVYY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Guide to Launching a High-Altitude Balloon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gjWekKuXVYY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gjWekKuXVYY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Guide to Launching a High-Altitude Balloon...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/450920498443341/posts/2708618749340160/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/450920498443341/posts/2708618749340160/</a>  
+   Link:<a href="https://www.facebook.com/groups/450920498443341/posts/2708618749340160/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/450920498443341/posts/2708618749340160/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/237990952056246/posts/607819478406723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/237990952056246/posts/607819478406723/</a>  
+   Link:<a href="https://www.facebook.com/groups/237990952056246/posts/607819478406723/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/237990952056246/posts/607819478406723/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1537016319953463/posts/3934978800157191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1537016319953463/posts/3934978800157191/</a>  
+   Link:<a href="https://www.facebook.com/groups/1537016319953463/posts/3934978800157191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1537016319953463/posts/3934978800157191/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100083107723581/posts/a-mysterious-spacecraft-believed-to-be-a-satellite-has-reportedly-crashed-in-kan/588447447268841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100083107723581/posts/a-mysterious-spacecraft-believed-to-be-a-satellite-has-reportedly-crashed-in-kan/588447447268841/</a>
+   Link:<a href="https://www.facebook.com/100083107723581/posts/a-mysterious-spacecraft-believed-to-be-a-satellite-has-reportedly-crashed-in-kan/588447447268841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100083107723581/posts/a-mysterious-spacecraft-believed-to-be-a-satellite-has-reportedly-crashed-in-kan/588447447268841/</a>

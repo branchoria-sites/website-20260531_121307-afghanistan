@@ -1199,15 +1199,15 @@ image: /assets/images/Fiji_bbb7ef-overview-social.jpg
 Some UFO databases and hobbyist aggregators list older sightings in Fiji:
 
 <img src="{{ "/assets/images/Fiji_bbb7ef-overview.webp" | relative_url }}" alt="Overview image for Fiji" loading="eager" decoding="sync" fetchpriority="high">
-* An entry from a private UFO reporting database recounts a mysterious aerial object seen over the **Fiji Islands on 18 January 1943**, where a reconnaissance plane allegedly collided with something invisible before crashing into the sea. This account comes from a witness identified as a former US Army infantry officer and is noted in the database without official verification. Such reports, while intriguing, **lack independent corroboration from military records or primary source documentation**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/51439b190ad2e1e9be451440/UFO%20Sighting%20in%20Fiji%20Islands%20%28S%20Pacific%20Ocean%29%20on%20Monday%2018%20January%201943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Fiji Islands (S Pacific Ocean) on Monday 18 January 1943</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Fiji Islands (S Pacific Ocean) on Monday 18 January 1943 - UFO HuntersAugust 11, 2004...</span><span class="citation-popover-meta">Published: January 1943</span></span></span>
-* Archival newspaper entries describe what was labelled a **UFO over Taveuni in May 1962**, reported on three successive nights. These accounts appear in digitised periodical collections but do not include subsequent investigation findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalpasifik.org/items/140829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalpasifik.org">[Digital Pasifik]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalpasifik.org</span><span class="citation-popover-snippet">Digital PasifikUFO Over Fiji (1 May 1962) &#124; Digital PasifikMay 1, 1962...</span><span class="citation-popover-meta">Published: May 1, 1962</span></span></span>
+* An entry from a private UFO reporting database recounts a mysterious aerial object seen over the **Fiji Islands on 18 January 1943**, where a reconnaissance plane allegedly collided with something invisible before crashing into the sea. This account comes from a witness identified as a former US Army infantry officer and is noted in the database without official verification. Such reports, while intriguing, **lack independent corroboration from military records or primary source documentation**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/51439b190ad2e1e9be451440/UFO%20Sighting%20in%20Fiji%20Islands%20%28S%20Pacific%20Ocean%29%20on%20Monday%2018%20January%201943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Fiji Islands (S Pacific Ocean) on Monday 18 January 1943</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Fiji Islands (S Pacific Ocean) on Monday 18 January 1943 - UFO HuntersAugust 11, 2004...</span><span class="citation-popover-meta">Published: January 1943</span></span></span>
+* Archival newspaper entries describe what was labelled a **UFO over Taveuni in May 1962**, reported on three successive nights. These accounts appear in digitised periodical collections but do not include subsequent investigation findings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalpasifik.org/items/140829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalpasifik.org">[Digital Pasifik]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalpasifik.org</span><span class="citation-popover-snippet">Digital PasifikUFO Over Fiji (1 May 1962) &#124; Digital PasifikMay 1, 1962...</span><span class="citation-popover-meta">Published: May 1, 1962</span></span></span>
 
 ### Modern Era Anecdotal Sightings
 
 More recent databases and citizen‑reported logs list sporadic sighting reports attributed to Fiji:
 
-* The UFO‑Hunters website catalogues multiple entries for Fiji over years, including lights of unknown shape and duration seen at locations like **Suva, Labasa, and Lautoka** between the 2000s and 2020s. These records are user‑submitted and generally lack follow‑up verification or instrument data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/country/FJI/Fiji" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Fiji</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Fiji - UFO Hunters...</span></span></span>
-* The **National UFO Reporting Center (NUFORC)** has at least one report from **Suva in early January 2012**, describing a lone observer’s sighting of moving lights that dimmed and vanished. As with many civilian reports, it remains uninvestigated by scientific bodies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=86172" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 86172January 12, 2012...</span><span class="citation-popover-meta">Published: January 12, 2012</span></span></span>
+* The UFO‑Hunters website catalogues multiple entries for Fiji over years, including lights of unknown shape and duration seen at locations like **Suva, Labasa, and Lautoka** between the 2000s and 2020s. These records are user‑submitted and generally lack follow‑up verification or instrument data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/country/FJI/Fiji" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Fiji</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Fiji - UFO Hunters...</span></span></span>
+* The **National UFO Reporting Center (NUFORC)** has at least one report from **Suva in early January 2012**, describing a lone observer’s sighting of moving lights that dimmed and vanished. As with many civilian reports, it remains uninvestigated by scientific bodies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=86172" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 86172January 12, 2012...</span><span class="citation-popover-meta">Published: January 12, 2012</span></span></span>
 
 <img src="{{ "/assets/images/Fiji_bbb7ef-Illustration-1-dark.svg" | relative_url }}" alt="Fiji illustration 1" data-theme-src-dark="{{ "/assets/images/Fiji_bbb7ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fiji_bbb7ef-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Internet and Enthusiast Claims vs. Evidence
@@ -1216,25 +1216,25 @@ More recent databases and citizen‑reported logs list sporadic sighting reports
 
 Several UFO enthusiast websites re‑publish reports or comment on purported anomalies linked to Fiji:
 
-* A US‑based UFO centre lists growing numbers of Fiji sighting reports and frames them as part of a broader global phenomenon. However, this commentary mixes promotional language with anecdotal reportage and does not supply verifiable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/fiji-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Information Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Information Center Global UFOs: Fiji UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Information CenterGlobal UFOs: Fiji UFO Sightings &amp; ReportsMarch 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
-* Internet personalities have claimed to find anomalies on satellite imagery (e.g. a so‑called glowing object near a plane over Fiji interpreted as an alien craft). These claims, popularised on blogs and social media, **stem from speculative image interpretation** rather than from methodical analysis by qualified observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/culture/article/google-earth-glowing-object-abducting-plane-fiji/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-snippet">Google Earth Shows &#x27;An Example Of An Alien Abduction Taking Place&#x27; Near Fiji, Says UFO Expert - BroBibleFebruary 15, 2023...</span><span class="citation-popover-meta">Published: February 15, 2023</span></span></span>
+* A US‑based UFO centre lists growing numbers of Fiji sighting reports and frames them as part of a broader global phenomenon. However, this commentary mixes promotional language with anecdotal reportage and does not supply verifiable evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/fiji-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Information Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Information Center Global UFOs: Fiji UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Information CenterGlobal UFOs: Fiji UFO Sightings &amp; ReportsMarch 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
+* Internet personalities have claimed to find anomalies on satellite imagery (e.g. a so‑called glowing object near a plane over Fiji interpreted as an alien craft). These claims, popularised on blogs and social media, **stem from speculative image interpretation** rather than from methodical analysis by qualified observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://brobible.com/culture/article/google-earth-glowing-object-abducting-plane-fiji/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brobible.com">[BroBible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brobible.com</span><span class="citation-popover-snippet">Google Earth Shows &#x27;An Example Of An Alien Abduction Taking Place&#x27; Near Fiji, Says UFO Expert - BroBibleFebruary 15, 2023...</span><span class="citation-popover-meta">Published: February 15, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6e7xu0y5ZrE" title="Top 4 UFO Sightings AROUND THE WORLD! | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6e7xu0y5ZrE" target="_blank" rel="noopener noreferrer">Top 4 UFO Sightings AROUND THE WORLD! | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 2.6M &middot; Uploaded: February 2023 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6e7xu0y5ZrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6e7xu0y5ZrE">Open on YouTube</a></p></div></div></div>
 
 ### Informal Online Discussion and Local Reports
 
-Reddit and similar forums host informal posts by users who claim personal sightings or discuss local lights seen in the sky; such posts often reflect **personal interpretation, speculation, or misidentification of common phenomena** (e.g. satellites, drones). These are not formal sighting logs and generally do not provide verifiable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Fijian/comments/1an17iv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Does anyone else see these kind of flying objects?</span><span class="citation-popover-snippet">Does anyone else see these kind of flying objects?February 9, 2024...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
+Reddit and similar forums host informal posts by users who claim personal sightings or discuss local lights seen in the sky; such posts often reflect **personal interpretation, speculation, or misidentification of common phenomena** (e.g. satellites, drones). These are not formal sighting logs and generally do not provide verifiable evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Fijian/comments/1an17iv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Does anyone else see these kind of flying objects?</span><span class="citation-popover-snippet">Does anyone else see these kind of flying objects?February 9, 2024...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
 
 ## Quality of Evidence and Investigation
 
 ### Lack of Official Records
 
-There is **no accessible official database or government body in Fiji that systematically records or investigates UFO/UAP reports**. Unlike some countries where defence departments have declassified UAP investigations, there is no public record from the **Fiji Police Force** or similar state institution addressing such phenomena. Domestic media coverage that touches on “mysterious objects” in the sky or sea typically refers to terrestrial issues (for example, police probing unknown floating objects suspected of being linked to smuggling rather than anything aerial) rather than aerial anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fijitimes.com.fj/probe-on-unknown-floating-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fijitimes.com.fj">[Fiji Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fijitimes.com.fj</span><span class="citation-popover-title">Fiji Times Probe on unknown floating objects</span><span class="citation-popover-snippet">Fiji TimesProbe on unknown floating objects - The Fiji TimesApril 14, 2026...</span><span class="citation-popover-meta">Published: April 14, 2026</span></span></span>
+There is **no accessible official database or government body in Fiji that systematically records or investigates UFO/UAP reports**. Unlike some countries where defence departments have declassified UAP investigations, there is no public record from the **Fiji Police Force** or similar state institution addressing such phenomena. Domestic media coverage that touches on “mysterious objects” in the sky or sea typically refers to terrestrial issues (for example, police probing unknown floating objects suspected of being linked to smuggling rather than anything aerial) rather than aerial anomalies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fijitimes.com.fj/probe-on-unknown-floating-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fijitimes.com.fj">[Fiji Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fijitimes.com.fj</span><span class="citation-popover-title">Fiji Times Probe on unknown floating objects</span><span class="citation-popover-snippet">Fiji TimesProbe on unknown floating objects - The Fiji TimesApril 14, 2026...</span><span class="citation-popover-meta">Published: April 14, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Fiji_bbb7ef-Illustration-2-dark.svg" | relative_url }}" alt="Fiji illustration 2" data-theme-src-dark="{{ "/assets/images/Fiji_bbb7ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fiji_bbb7ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Credibility and Source Limitations
 
-Most reported sightings in Fiji come from **hobbyist databases, tourism era newspaper reports, and internet forums**. These sources are invaluable for cultural and anecdotal context, but none rise to the level of rigorous documented evidence that could be used to confirm UAP activity with physical or instrumental data. UFO reporting platforms like NUFORC and UFO‑Hunters aggregate sighting accounts worldwide, including in Fiji, but those reports **remain unvetted by scientific or official investigative processes**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/51439b190ad2e1e9be451440/UFO%20Sighting%20in%20Fiji%20Islands%20%28S%20Pacific%20Ocean%29%20on%20Monday%2018%20January%201943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Fiji Islands (S Pacific Ocean) on Monday 18 January 1943</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Fiji Islands (S Pacific Ocean) on Monday 18 January 1943 - UFO HuntersAugust 11, 2004...</span><span class="citation-popover-meta">Published: January 1943</span></span></span>
+Most reported sightings in Fiji come from **hobbyist databases, tourism era newspaper reports, and internet forums**. These sources are invaluable for cultural and anecdotal context, but none rise to the level of rigorous documented evidence that could be used to confirm UAP activity with physical or instrumental data. UFO reporting platforms like NUFORC and UFO‑Hunters aggregate sighting accounts worldwide, including in Fiji, but those reports **remain unvetted by scientific or official investigative processes**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/search/51439b190ad2e1e9be451440/UFO%20Sighting%20in%20Fiji%20Islands%20%28S%20Pacific%20Ocean%29%20on%20Monday%2018%20January%201943" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Sighting in Fiji Islands (S Pacific Ocean) on Monday 18 January 1943</span><span class="citation-popover-snippet">UFO HuntersUFO Sighting in Fiji Islands (S Pacific Ocean) on Monday 18 January 1943 - UFO HuntersAugust 11, 2004...</span><span class="citation-popover-meta">Published: January 1943</span></span></span>
 
 ## Interpretations and Explanations
 
@@ -1242,7 +1242,7 @@ Most reported sightings in Fiji come from **hobbyist databases, tourism era news
 
 In regions like Fiji with clear night skies and frequent maritime traffic, many reported phenomena can be explained by known natural or human causes:
 
-* **Celestial objects** such as satellites (e.g. Starlink trains) and planets or stars seen under unusual atmospheric conditions can be misperceived as moving lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Fijian/comments/1an17iv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Does anyone else see these kind of flying objects?</span><span class="citation-popover-snippet">Does anyone else see these kind of flying objects?February 9, 2024...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
+* **Celestial objects** such as satellites (e.g. Starlink trains) and planets or stars seen under unusual atmospheric conditions can be misperceived as moving lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Fijian/comments/1an17iv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Does anyone else see these kind of flying objects?</span><span class="citation-popover-snippet">Does anyone else see these kind of flying objects?February 9, 2024...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
 * **Aircraft lights and drones** are often misidentified, especially at a distance or in poor visibility.
 * Optical illusions, reflections in cameras, and atmospheric distortions are common sources of reported “UFO” evidence worldwide.
 
@@ -1250,7 +1250,7 @@ In regions like Fiji with clear night skies and frequent maritime traffic, many 
 
 ### Cultural and Folk Traditions
 
-Fiji’s cultural landscape includes rich traditions of **folklore and mysterious beings** in the land and skies, but these are mythological narratives rather than documented aerial anomalies. Stories of supernatural “little people” or spirits, while fascinating, are unrelated to the modern UFO/UAP reporting framework and are part of cultural heritage rather than evidence of unidentified aerial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fijitimes.com.fj/probe-on-unknown-floating-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fijitimes.com.fj">[Fiji Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fijitimes.com.fj</span><span class="citation-popover-title">Fiji Times Probe on unknown floating objects</span><span class="citation-popover-snippet">Fiji TimesProbe on unknown floating objects - The Fiji TimesApril 14, 2026...</span><span class="citation-popover-meta">Published: April 14, 2026</span></span></span>
+Fiji’s cultural landscape includes rich traditions of **folklore and mysterious beings** in the land and skies, but these are mythological narratives rather than documented aerial anomalies. Stories of supernatural “little people” or spirits, while fascinating, are unrelated to the modern UFO/UAP reporting framework and are part of cultural heritage rather than evidence of unidentified aerial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fijitimes.com.fj/probe-on-unknown-floating-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fijitimes.com.fj">[Fiji Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fijitimes.com.fj</span><span class="citation-popover-title">Fiji Times Probe on unknown floating objects</span><span class="citation-popover-snippet">Fiji TimesProbe on unknown floating objects - The Fiji TimesApril 14, 2026...</span><span class="citation-popover-meta">Published: April 14, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AzGDPTVMazI" title="Submerged Secrets: California’s Alien Waters! | UFO Witness S2 E3 | Full Episode | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AzGDPTVMazI" target="_blank" rel="noopener noreferrer">Submerged Secrets: California’s Alien Waters! | UFO Witness S2 E3 | Full Episode | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 118.4K &middot; Uploaded: June 2025 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AzGDPTVMazI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AzGDPTVMazI">Open on YouTube</a></p></div></div></div>
 
@@ -1261,194 +1261,194 @@ Within the context of **Fiji’s UFO phenomena**, there are scattered reports sp
 <img src="{{ "/assets/images/Fiji_bbb7ef-Illustration-3-dark.svg" | relative_url }}" alt="Fiji illustration 3" data-theme-src-dark="{{ "/assets/images/Fiji_bbb7ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fiji_bbb7ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Uncovering UFO Sightings and Reports Across Fiji. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Uncovering UFO Sightings and Reports Across Fiji. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for understanding scattered sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for understanding scattered sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Collects reports of unexplained sky phenomena across cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Collects reports of unexplained sky phenomena across cultures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating reports from countries with limited official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating reports from countries with limited official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects folklore, witness stories, and unusual aerial traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects folklore, witness stories, and unusual aerial traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="uncovering-ufo-sightings-and-reports-across-fiji-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1464,7 +1464,7 @@ Within the context of **Fiji’s UFO phenomena**, there are scattered reports sp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1484,7 +1484,7 @@ Within the context of **Fiji’s UFO phenomena**, there are scattered reports sp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1516,7 +1516,7 @@ Within the context of **Fiji’s UFO phenomena**, there are scattered reports sp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1568,7 +1568,7 @@ Within the context of **Fiji’s UFO phenomena**, there are scattered reports sp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1613,7 +1613,7 @@ Within the context of **Fiji’s UFO phenomena**, there are scattered reports sp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1654,138 +1654,138 @@ Within the context of **Fiji’s UFO phenomena**, there are scattered reports sp
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufo-hunters.com  
    Title: UFO Sighting in Fiji Islands (S Pacific Ocean) on Monday 18 January 1943  
-   Link: <a href="https://www.ufo-hunters.com/sightings/search/51439b190ad2e1e9be451440/UFO%20Sighting%20in%20Fiji%20Islands%20%28S%20Pacific%20Ocean%29%20on%20Monday%2018%20January%201943" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/51439b190ad2e1e9be451440/UFO%20Sighting%20in%20Fiji%20Islands%20%28S%20Pacific%20Ocean%29%20on%20Monday%2018%20January%201943</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Fiji Islands (S Pacific Ocean) on Monday 18 January 1943 - UFO HuntersAugust 11, 2004...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/search/51439b190ad2e1e9be451440/UFO%20Sighting%20in%20Fiji%20Islands%20%28S%20Pacific%20Ocean%29%20on%20Monday%2018%20January%201943" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/51439b190ad2e1e9be451440/UFO%20Sighting%20in%20Fiji%20Islands%20%28S%20Pacific%20Ocean%29%20on%20Monday%2018%20January%201943</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sighting in Fiji Islands (S Pacific Ocean) on Monday 18 January 1943 - UFO HuntersAugust 11, 2004...</p></details>
    Published: January 1943  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufo-hunters.com  
    Title: UFO Hunters UFO Sightings map in Fiji  
-   Link: <a href="https://www.ufo-hunters.com/sightings/country/FJI/Fiji" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/FJI/Fiji</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Fiji - UFO Hunters...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/country/FJI/Fiji" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/FJI/Fiji</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Fiji - UFO Hunters...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=86172" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=86172</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 86172January 12, 2012...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=86172" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=86172</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 86172January 12, 2012...</p></details>
    Published: January 12, 2012  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: brobible.com  
-   Link: <a href="https://brobible.com/culture/article/google-earth-glowing-object-abducting-plane-fiji/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/google-earth-glowing-object-abducting-plane-fiji/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Earth Shows &#x27;An Example Of An Alien Abduction Taking Place&#x27; Near Fiji, Says UFO Expert - BroBibleFebruary 15, 2023...</p></details>
+   Link:<a href="https://brobible.com/culture/article/google-earth-glowing-object-abducting-plane-fiji/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/google-earth-glowing-object-abducting-plane-fiji/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google Earth Shows &#x27;An Example Of An Alien Abduction Taking Place&#x27; Near Fiji, Says UFO Expert - BroBibleFebruary 15, 2023...</p></details>
    Published: February 15, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: Does anyone else see these kind of flying objects?  
-   Link: <a href="https://www.reddit.com/r/Fijian/comments/1an17iv" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Fijian/comments/1an17iv</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does anyone else see these kind of flying objects?February 9, 2024...</p></details>
+   Link:<a href="https://www.reddit.com/r/Fijian/comments/1an17iv" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Fijian/comments/1an17iv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does anyone else see these kind of flying objects?February 9, 2024...</p></details>
    Published: February 9, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: digitalpasifik.org  
-   Link: <a href="https://digitalpasifik.org/items/140829" target="_blank" rel="noopener noreferrer nofollow">https://digitalpasifik.org/items/140829</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital PasifikUFO Over Fiji (1 May 1962) | Digital PasifikMay 1, 1962...</p></details>
+   Link:<a href="https://digitalpasifik.org/items/140829" target="_blank" rel="noopener noreferrer nofollow">https://digitalpasifik.org/items/140829</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital PasifikUFO Over Fiji (1 May 1962) | Digital PasifikMay 1, 1962...</p></details>
    Published: May 1, 1962  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: usufocenter.com  
    Title: UFO Information Center Global UFOs: Fiji UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/fiji-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/fiji-ufo-sightings.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Information CenterGlobal UFOs: Fiji UFO Sightings &amp; ReportsMarch 22, 2025...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/fiji-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/fiji-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Information CenterGlobal UFOs: Fiji UFO Sightings &amp; ReportsMarch 22, 2025...</p></details>
    Published: March 22, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fijitimes.com.fj  
    Title: Fiji Times Probe on unknown floating objects  
-   Link: <a href="https://www.fijitimes.com.fj/probe-on-unknown-floating-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.fijitimes.com.fj/probe-on-unknown-floating-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiji TimesProbe on unknown floating objects - The Fiji TimesApril 14, 2026...</p></details>
+   Link:<a href="https://www.fijitimes.com.fj/probe-on-unknown-floating-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.fijitimes.com.fj/probe-on-unknown-floating-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiji TimesProbe on unknown floating objects - The Fiji TimesApril 14, 2026...</p></details>
    Published: April 14, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fijitimes.com.fj  
    Title: Fiji Times FOLKLORE | The little people of the land  
-   Link: <a href="https://www.fijitimes.com.fj/folklore-the-little-people-of-the-land-encounter-on-the-mountain/" target="_blank" rel="noopener noreferrer nofollow">https://www.fijitimes.com.fj/folklore-the-little-people-of-the-land-encounter-on-the-mountain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiji TimesFOLKLORE | The little people of the land - Encounter on the mountain - The Fiji TimesApril 5, 2026...</p></details>
+   Link:<a href="https://www.fijitimes.com.fj/folklore-the-little-people-of-the-land-encounter-on-the-mountain/" target="_blank" rel="noopener noreferrer nofollow">https://www.fijitimes.com.fj/folklore-the-little-people-of-the-land-encounter-on-the-mountain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiji TimesFOLKLORE | The little people of the land - Encounter on the mountain - The Fiji TimesApril 5, 2026...</p></details>
    Published: April 5, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fijitimes.com.fj  
    Title: Paris: Species not alien to Fiji waters  
-   Link: <a href="https://www.fijitimes.com.fj/paris-species-not-alien-to-fiji-waters/" target="_blank" rel="noopener noreferrer nofollow">https://www.fijitimes.com.fj/paris-species-not-alien-to-fiji-waters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fiji TimesMay 8, 2020 — PARIS: SPECIES NOT ALIEN TO FIJI WATERS Local News, News |...</p></details>
+   Link:<a href="https://www.fijitimes.com.fj/paris-species-not-alien-to-fiji-waters/" target="_blank" rel="noopener noreferrer nofollow">https://www.fijitimes.com.fj/paris-species-not-alien-to-fiji-waters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fiji TimesMay 8, 2020 — PARIS: SPECIES NOT ALIEN TO FIJI WATERS Local News, News |...</p></details>
    Published: May 8, 2020  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: xaluannews.com  
    Title: UF O sighting: Google Maps reveals ‘glowing alien craft abducting plane’ in Fiji  
-   Link: <a href="https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3221332" target="_blank" rel="noopener noreferrer nofollow">https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3221332</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting: Google Maps reveals ‘glowing alien craft abducting plane’ in FijiJuly 30, 2021 — UFO SIGHTING: GOOGLE MAPS REVEALS ‘GLOWING...</p></details>
+   Link:<a href="https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3221332" target="_blank" rel="noopener noreferrer nofollow">https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3221332</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting: Google Maps reveals ‘glowing alien craft abducting plane’ in FijiJuly 30, 2021 — UFO SIGHTING: GOOGLE MAPS REVEALS ‘GLOWING...</p></details>
    Published: July 30, 2021  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufo-track.com  
-   Link: <a href="https://ufo-track.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufo-track.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What happens when the clock hits zero? See our guess as to when fact-based, authoritative sources erase all...</p></details>
+   Link:<a href="https://ufo-track.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufo-track.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happens when the clock hits zero? See our guess as to when fact-based, authoritative sources erase all...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufofinder.com  
    Title: Explore international sighting data. 538 Countries 147,890 Tot  
-   Link: <a href="https://ufofinder.com/countries/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/countries/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings by Country | UFO Finder | UFO FinderSIGHTINGS BY COUNTRY While the majority of documented sightings are from the United Sta...</p></details>
+   Link:<a href="https://ufofinder.com/countries/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/countries/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings by Country | UFO Finder | UFO FinderSIGHTINGS BY COUNTRY While the majority of documented sightings are from the United Sta...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: abc.net.au  
    Title: Released UFO files document 'sightings' in Papua New Guinea  
-   Link: <a href="https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC Pacific2 days ago — Program: Released UFO files document &#x27;sightings&#x27; in Papua New Guinea Program:Pacific Beat Tue 26 May 2026 at 6:00...</p></details>
+   Link:<a href="https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/pacific/programs/pacificbeat/ufo/106721442</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC Pacific2 days ago — Program: Released UFO files document &#x27;sightings&#x27; in Papua New Guinea Program:Pacific Beat Tue 26 May 2026 at 6:00...</p></details>
    Published: May 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: techtimes.com  
    Title: [LOOK] Bizarre Photo Captures Alleged UFO Abduction On Airplane  
-   Link: <a href="https://www.techtimes.com/articles/247578/20200225/bizarre-photo-captures-alleged-ufo-abduction-on-airplane.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/247578/20200225/bizarre-photo-captures-alleged-ufo-abduction-on-airplane.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 25, 2020 — [LOOK] BIZARRE PHOTO CAPTURES ALLEGED UFO ABDUCTION ON AIRPLANE By Tiziana Celine @tpiatos_...</p></details>
+   Link:<a href="https://www.techtimes.com/articles/247578/20200225/bizarre-photo-captures-alleged-ufo-abduction-on-airplane.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/247578/20200225/bizarre-photo-captures-alleged-ufo-abduction-on-airplane.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 25, 2020 — [LOOK] BIZARRE PHOTO CAPTURES ALLEGED UFO ABDUCTION ON AIRPLANE By Tiziana Celine @tpiatos_...</p></details>
    Published: February 25, 2020  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=r1uXSVrgwkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r1uXSVrgwkU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 4 UFO Sightings AROUND THE WORLD! | The Proof Is Out There | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r1uXSVrgwkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r1uXSVrgwkU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 4 UFO Sightings AROUND THE WORLD! | The Proof Is Out There | History...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Pentagon releases video of a UFO resembling an eight-pointed star  
-   Link: <a href="https://www.youtube.com/watch?v=I8QTl9zG6eg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I8QTl9zG6eg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Submerged Secrets: California&#x27;s Alien Waters! | UFO Witness S2 E3 | Full Episode | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=I8QTl9zG6eg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I8QTl9zG6eg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Submerged Secrets: California&#x27;s Alien Waters! | UFO Witness S2 E3 | Full Episode | Discovery Channel...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sciencefocus.com  
    Title: Sue Nelson Published  
-   Link: <a href="https://www.sciencefocus.com/space/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/space/ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 mysterious UFO sightings that are still unexplained - BBC Science Focus MagazineJanuary 22, 2021 — 4 MYSTERIOUS UFO SIGHTINGS THAT ARE...</p></details>
+   Link:<a href="https://www.sciencefocus.com/space/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/space/ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 mysterious UFO sightings that are still unexplained - BBC Science Focus MagazineJanuary 22, 2021 — 4 MYSTERIOUS UFO SIGHTINGS THAT ARE...</p></details>
    Published: January 22, 2021  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: 177 MIND BLOWING Alien and UFO Sightings Caught on Camera!  
-   Link: <a href="https://www.youtube.com/watch?v=njx6FIA01IY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=njx6FIA01IY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files SHOCKING Videos- 30 Min of MYSTERIOUS UFO Sightings, Alien-Like Figures in Pentagon Dump...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=njx6FIA01IY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=njx6FIA01IY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files SHOCKING Videos- 30 Min of MYSTERIOUS UFO Sightings, Alien-Like Figures in Pentagon Dump...</p></details>

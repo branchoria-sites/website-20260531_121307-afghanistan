@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /palau-e5e0b6-index/
 description: Focused pages that expand on What Is Really Known About Palau UFOs?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Palau_e5e0b6
 parent_title: What Is Really Known About Palau UFOs?
@@ -16,7 +16,7 @@ parent_permalink: /what-is-really-known-about-palau-ufos/
 
 # Explore Topics in What Is Really Known About Palau UFOs?
 
-The following pages expand on the main **[What Is Really Known About Palau UFOs?]({{ '/what-is-really-known-about-palau-ufos/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Is Really Known About Palau UFOs?]({{ '/what-is-really-known-about-palau-ufos/' | relative_url }})** page and cover its key branches in.
 
 - [Koror Cases]({{ '/koror-cases/' | relative_url }})
 - [Explanations]({{ '/explanations-103383/' | relative_url }})

@@ -1201,9 +1201,9 @@ That makes Nigeria useful within a wider country-by-country UFO project because 
 
 A UFO or UAP report in Nigeria should first be read literally: it is a report of something unidentified to the observer, not proof of an alien craft. This distinction matters because Nigeria has several overlapping categories of sky events. A resident may see a bright light, a pilot may report an unidentified aircraft, a social-media user may describe a missile-like streak, and an aviation regulator may classify an airspace issue in technical language. These are not equal forms of evidence.
 
-The National UFO Reporting Center, a US-based public reporting archive, lists 12 reports for Nigeria in its country index, with dates ranging from a 1991 Maiduguri light report to a 2024 Kafanchan orb report and a 2016 Ogun State diamond-shaped recollection reported in 2025. The entries are useful as a public chronology, but they are not official Nigerian investigations and often depend on one witness’s retrospective description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cNigeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Nigeria</span><span class="citation-popover-snippet">Reports for Country Nigeria</span></span></span>
+The National UFO Reporting Center, a US-based public reporting archive, lists 12 reports for Nigeria in its country index, with dates ranging from a 1991 Maiduguri light report to a 2024 Kafanchan orb report and a 2016 Ogun State diamond-shaped recollection reported in 2025. The entries are useful as a public chronology, but they are not official Nigerian investigations and often depend on one witness’s retrospective description.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cNigeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Nigeria</span><span class="citation-popover-snippet">Reports for Country Nigeria</span></span></span>
 
-Nigeria’s official aviation material points to a different kind of “unidentified” problem. The Nigerian Civil Aviation Authority has warned that drones and remotely piloted aircraft cannot be launched in Nigerian airspace without NCAA and Office of the National Security Adviser approval, citing safety and security risks from unregulated unmanned aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guardian.ng/news/ncaa-bans-unauthorised-launching-of-drones-in-nigerian-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guardian.ng">[The Guardian Nigeria]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guardian.ng</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In 2024, the NCAA also created a dedicated Unmanned Aircraft System Integration Unit to help register, license and monitor drones as their use expands across commercial, scientific, recreational, agricultural, policing, surveillance and other activities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ncaa.gov.ng/media/news/ncaa-sets-up-dedicated-unmanned-aircraft-unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncaa.gov.ng">[Nigeria Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncaa.gov.ng</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Nigeria’s official aviation material points to a different kind of “unidentified” problem. The Nigerian Civil Aviation Authority has warned that drones and remotely piloted aircraft cannot be launched in Nigerian airspace without NCAA and Office of the National Security Adviser approval, citing safety and security risks from unregulated unmanned aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://guardian.ng/news/ncaa-bans-unauthorised-launching-of-drones-in-nigerian-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guardian.ng">[The Guardian Nigeria]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guardian.ng</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In 2024, the NCAA also created a dedicated Unmanned Aircraft System Integration Unit to help register, license and monitor drones as their use expands across commercial, scientific, recreational, agricultural, policing, surveillance and other activities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ncaa.gov.ng/media/news/ncaa-sets-up-dedicated-unmanned-aircraft-unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncaa.gov.ng">[Nigeria Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncaa.gov.ng</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For readers, the practical takeaway is clear: a Nigerian UFO page should not be organised around the assumption of alien visitation. It should be organised around evidence quality: what was seen, who saw it, whether there is independent corroboration, whether aviation or astronomical explanations fit, and whether the report was recorded close to the event.
 
@@ -1211,13 +1211,13 @@ For readers, the practical takeaway is clear: a Nigerian UFO page should not be 
 
 Nigeria’s public UFO chronology is sparse, but a few entries and episodes help show the pattern.
 
-The NUFORC list begins with a 15 July 1991 report from Maiduguri, described as a light seen at 20:30. The summary says the witness was struck by irregular changes in speed and distance relative to an airliner, but the report was not filed until July 2001, a decade after the claimed sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> That time gap lowers evidential value: memory can preserve a vivid experience, but it becomes harder to test against aircraft movements, astronomical events or weather.
+The NUFORC list begins with a 15 July 1991 report from Maiduguri, described as a light seen at 20:30. The summary says the witness was struck by irregular changes in speed and distance relative to an airliner, but the report was not filed until July 2001, a decade after the claimed sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> That time gap lowers evidential value: memory can preserve a vivid experience, but it becomes harder to test against aircraft movements, astronomical events or weather.
 
-A Lagos entry from 25 August 2004 is more dramatic in wording, summarised as a “strange craft” that allegedly crashed into a beach. Yet the public index does not, by itself, provide independent wreckage records, official recovery documentation, photographs or named investigative follow-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=179612" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Without those, it remains a contested anecdote rather than a confirmed crash case.
+A Lagos entry from 25 August 2004 is more dramatic in wording, summarised as a “strange craft” that allegedly crashed into a beach. Yet the public index does not, by itself, provide independent wreckage records, official recovery documentation, photographs or named investigative follow-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=179612" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Without those, it remains a contested anecdote rather than a confirmed crash case.
 
-The mid-2000s and early 2010s entries show a range of common UFO-report shapes: a Lagos “formation” of white lights on 25 December 2005; an Akure “disk” sighting dated 28 January 1998 but reported in 2011; a glittering unknown object at the University of Ibadan in April 2011; and a silent black triangle in Abuja in January 2014. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These fit familiar global report categories, but the Nigerian evidence base is weaker than in countries where military, police, radar or meteorological records are attached to named incidents.
+The mid-2000s and early 2010s entries show a range of common UFO-report shapes: a Lagos “formation” of white lights on 25 December 2005; an Akure “disk” sighting dated 28 January 1998 but reported in 2011; a glittering unknown object at the University of Ibadan in April 2011; and a silent black triangle in Abuja in January 2014.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These fit familiar global report categories, but the Nigerian evidence base is weaker than in countries where military, police, radar or meteorological records are attached to named incidents.
 
-More recent reports are easier to place in a modern sky environment. A Port Harcourt report from 6 December 2023 described a light with a body “like a small helicopter” and a long smoky tail moving westward without sound; NUFORC marks the explanation as “Aircraft - Possible”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cNigeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Nigeria</span><span class="citation-popover-snippet">Reports for Country Nigeria</span></span></span> A Lagos orb report from 15 May 2024 is also marked “Aircraft?” in the NUFORC index. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> A Kafanchan, Kaduna report from 11 November 2024 describes a bright orb seen by multiple observers, but NUFORC classifies the explanation as “Rocket - Certain”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=179612" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+More recent reports are easier to place in a modern sky environment. A Port Harcourt report from 6 December 2023 described a light with a body “like a small helicopter” and a long smoky tail moving westward without sound; NUFORC marks the explanation as “Aircraft - Possible”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cNigeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Nigeria</span><span class="citation-popover-snippet">Reports for Country Nigeria</span></span></span> A Lagos orb report from 15 May 2024 is also marked “Aircraft?” in the NUFORC index.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> A Kafanchan, Kaduna report from 11 November 2024 describes a bright orb seen by multiple observers, but NUFORC classifies the explanation as “Rocket - Certain”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=179612" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The pattern is not a classic national “wave” with one dominant case. It is a loose sequence of mostly low-information reports, clustered around populous or connected places where people are more likely to file online reports: Lagos, Abuja, Ibadan, Port Harcourt and university or urban settings.
 
@@ -1226,11 +1226,11 @@ The pattern is not a classic national “wave” with one dominant case. It is a
 
 Nigeria’s geography and infrastructure shape what people report. Lagos and Abuja have dense aviation activity, bright urban skies, social-media networks and large populations; they are more likely to produce reports, videos and viral interpretations. Northern and north-western sightings may be filtered through a different public concern: insecurity, military activity and fear of missiles or attacks. Oil, port and aviation corridors in the south can add aircraft, helicopters, drones, offshore lights and industrial activity to the visual environment.
 
-The April 2026 Sokoto and Kebbi episode is a strong example of regional context changing interpretation. Residents reported a bright “missile-like” light crossing the sky, and the claim spread amid public anxiety. DUBAWA, a West African fact-checking organisation, reported that police authorities in Sokoto and Kebbi had no record of a missile incident, explosion or crash, and found the visual pattern more consistent with meteor activity during the Eta Aquariids meteor shower period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span><span class="citation-popover-snippet">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span></span></span>
+The April 2026 Sokoto and Kebbi episode is a strong example of regional context changing interpretation. Residents reported a bright “missile-like” light crossing the sky, and the claim spread amid public anxiety. DUBAWA, a West African fact-checking organisation, reported that police authorities in Sokoto and Kebbi had no record of a missile incident, explosion or crash, and found the visual pattern more consistent with meteor activity during the Eta Aquariids meteor shower period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span><span class="citation-popover-snippet">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span></span></span>
 
 That incident is not a classic UFO case in the older flying-saucer sense, but it belongs in the Nigerian UAP evidence landscape because it shows how a real sky event can be rapidly mislabelled. The same object can be read as a missile, meteor, rocket, UFO or spiritual sign depending on local fears, time of night, witness position and the first explanation that spreads online.
 
-Nigeria’s official airspace debate also has a regional dimension. When an “unidentified” aircraft was reported near the presidential villa in Abuja in 2024, the Nigerian Airspace Management Agency said the word “unidentified” was a security term and that, operationally, the aircraft was known to air traffic controllers. NAMA linked the incident to safety during adverse weather and said radar stations in Kano, Lagos, Abuja and Port Harcourt were serviceable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://businessday.ng/news/article/why-unidentified-aircraft-hovered-over-presidential-villa-nama/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessday.ng">[Businessday NG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessday.ng</span><span class="citation-popover-title">NGWhy &#x27;unidentified&#x27; aircraft hovered over presidential villa</span><span class="citation-popover-snippet">NGWhy &#x27;unidentified&#x27; aircraft hovered over presidential villa</span></span></span> This is a useful corrective: in aviation language, “unidentified” may mean not publicly named, not alien or genuinely unknown to the system.
+Nigeria’s official airspace debate also has a regional dimension. When an “unidentified” aircraft was reported near the presidential villa in Abuja in 2024, the Nigerian Airspace Management Agency said the word “unidentified” was a security term and that, operationally, the aircraft was known to air traffic controllers. NAMA linked the incident to safety during adverse weather and said radar stations in Kano, Lagos, Abuja and Port Harcourt were serviceable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://businessday.ng/news/article/why-unidentified-aircraft-hovered-over-presidential-villa-nama/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessday.ng">[Businessday NG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessday.ng</span><span class="citation-popover-title">NGWhy &#x27;unidentified&#x27; aircraft hovered over presidential villa</span><span class="citation-popover-snippet">NGWhy &#x27;unidentified&#x27; aircraft hovered over presidential villa</span></span></span> This is a useful corrective: in aviation language, “unidentified” may mean not publicly named, not alien or genuinely unknown to the system.
 
 ## Official records are mostly aviation records, not UFO files
 
@@ -1238,7 +1238,7 @@ Nigeria does not appear to have a public equivalent of a dedicated, declassified
 
 That absence is important but should not be overinterpreted. It does not prove a cover-up, and it does not prove that nothing unusual was ever reported. It means that researchers have to work with indirect sources: public UFO databases, Nigerian news articles, aviation statements, fact-checks, social-media traces and astronomical explanations.
 
-The NCAA’s drone rules are especially relevant to modern Nigerian UFO interpretation. In 2016, the authority said no government agency, organisation or individual should launch an RPA or UAV in Nigerian airspace without the required permits from the NCAA and ONSA, and it warned that unregulated drone activity raised safety and security concerns in non-segregated airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guardian.ng/news/ncaa-bans-unauthorised-launching-of-drones-in-nigerian-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guardian.ng">[The Guardian Nigeria]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guardian.ng</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> By 2024, the NCAA had moved from warning about drones to creating a dedicated UAS Integration Unit, reflecting the growth of drone use in Nigeria and the need for registration, licensing and monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ncaa.gov.ng/media/news/ncaa-sets-up-dedicated-unmanned-aircraft-unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncaa.gov.ng">[Nigeria Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncaa.gov.ng</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The NCAA’s drone rules are especially relevant to modern Nigerian UFO interpretation. In 2016, the authority said no government agency, organisation or individual should launch an RPA or UAV in Nigerian airspace without the required permits from the NCAA and ONSA, and it warned that unregulated drone activity raised safety and security concerns in non-segregated airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://guardian.ng/news/ncaa-bans-unauthorised-launching-of-drones-in-nigerian-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guardian.ng">[The Guardian Nigeria]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guardian.ng</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> By 2024, the NCAA had moved from warning about drones to creating a dedicated UAS Integration Unit, reflecting the growth of drone use in Nigeria and the need for registration, licensing and monitoring.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ncaa.gov.ng/media/news/ncaa-sets-up-dedicated-unmanned-aircraft-unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncaa.gov.ng">[Nigeria Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncaa.gov.ng</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For UFO researchers, this means a post-2016 Nigerian sighting should be checked against drones early in the process. A hovering light, low silent object, small craft-like shape, camera platform or night-time formation may have a mundane but still illegal or unregistered explanation. That is different from dismissing the witness; it is a way of testing the report against Nigeria’s actual airspace environment.
 
@@ -1248,11 +1248,11 @@ For UFO researchers, this means a post-2016 Nigerian sighting should be checked 
 
 The cleanest way to assess Nigerian UFO material is to split it into three buckets.
 
-**Confirmed as real-world aviation or sky events:** The 2024 Abuja “unidentified aircraft” episode is confirmed as a real aviation/security discussion, but NAMA’s explanation places it in air-traffic and weather context rather than UFO mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://businessday.ng/news/article/why-unidentified-aircraft-hovered-over-presidential-villa-nama/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessday.ng">[Businessday NG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessday.ng</span><span class="citation-popover-title">NGWhy &#x27;unidentified&#x27; aircraft hovered over presidential villa</span><span class="citation-popover-snippet">NGWhy &#x27;unidentified&#x27; aircraft hovered over presidential villa</span></span></span> The 2026 Sokoto and Kebbi “missile-like” light is confirmed as a public sighting panic, but the best available open-source explanation points to meteor activity, not a missile or alien craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span><span class="citation-popover-snippet">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span></span></span>
+**Confirmed as real-world aviation or sky events:** The 2024 Abuja “unidentified aircraft” episode is confirmed as a real aviation/security discussion, but NAMA’s explanation places it in air-traffic and weather context rather than UFO mystery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://businessday.ng/news/article/why-unidentified-aircraft-hovered-over-presidential-villa-nama/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessday.ng">[Businessday NG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessday.ng</span><span class="citation-popover-title">NGWhy &#x27;unidentified&#x27; aircraft hovered over presidential villa</span><span class="citation-popover-snippet">NGWhy &#x27;unidentified&#x27; aircraft hovered over presidential villa</span></span></span> The 2026 Sokoto and Kebbi “missile-like” light is confirmed as a public sighting panic, but the best available open-source explanation points to meteor activity, not a missile or alien craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span><span class="citation-popover-snippet">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span></span></span>
 
-**Contested eyewitness UFO reports:** The NUFORC entries from Maiduguri, Lagos, Akure, Ibadan, Abuja, Enugu, Port Harcourt, Okpella, Kafanchan and Ogun State form the core public sighting list. They matter as testimony, but most lack independent corroboration, instrument data or timely official follow-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Some are late filings, including the Akure report dated 1998 but filed in 2011 and the Ogun State report dated 2016 but filed in 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested eyewitness UFO reports:** The NUFORC entries from Maiduguri, Lagos, Akure, Ibadan, Abuja, Enugu, Port Harcourt, Okpella, Kafanchan and Ogun State form the core public sighting list. They matter as testimony, but most lack independent corroboration, instrument data or timely official follow-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Some are late filings, including the Akure report dated 1998 but filed in 2011 and the Ogun State report dated 2016 but filed in 2025.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Debunked or strongly explained claims:** The Kafanchan orb report is marked by NUFORC as “Rocket - Certain”, while the Port Harcourt and Lagos light/orb entries are marked as possible aircraft explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> The Sokoto/Kebbi streak was investigated by DUBAWA and judged misleading as a missile claim, with meteor activity the likely explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span><span class="citation-popover-snippet">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span></span></span>
+**Debunked or strongly explained claims:** The Kafanchan orb report is marked by NUFORC as “Rocket - Certain”, while the Port Harcourt and Lagos light/orb entries are marked as possible aircraft explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> The Sokoto/Kebbi streak was investigated by DUBAWA and judged misleading as a missile claim, with meteor activity the likely explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span><span class="citation-popover-snippet">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span></span></span>
 
 This split leaves very few high-grade Nigerian cases. A strong case would ideally include multiple independent witnesses, exact time and location, photographs or video with metadata, radar or flight-tracking correlation, weather data, astronomical checks and an official or expert review. Most Nigerian reports available publicly fall well short of that threshold.
 
@@ -1265,17 +1265,17 @@ This creates three recurring problems.
 
 First, reports are often filed long after the event. A delayed report can still be sincere, but it is much harder to compare with flight paths, launches, meteor showers or weather records. Second, viral video culture encourages dramatic labels before verification. A light becomes a UFO, missile, angel, rocket or alien message while the object is still unidentified only in the ordinary sense. Third, Nigeria’s official institutions are not primarily set up to publish UFO case files; they respond through aviation safety, airspace security and regulatory notices.
 
-NASA’s 2023 UAP study is useful here even though it is not about Nigeria specifically. It argues that UAP study requires rigorous, evidence-based methods and better data acquisition, while NASA’s public FAQ says there are no data supporting UAP as evidence of alien technologies and that most sightings provide very limited data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> The same principle applies strongly to Nigeria: better reporting would probably explain more cases, not necessarily make them stranger.
+NASA’s 2023 UAP study is useful here even though it is not about Nigeria specifically. It argues that UAP study requires rigorous, evidence-based methods and better data acquisition, while NASA’s public FAQ says there are no data supporting UAP as evidence of alien technologies and that most sightings provide very limited data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> The same principle applies strongly to Nigeria: better reporting would probably explain more cases, not necessarily make them stranger.
 
 ## Common explanations that fit the Nigerian pattern
 
 The Nigerian cases most often involve lights, orbs, formations, triangles, circles or streaks. Those categories are exactly where misidentification is common.
 
-Meteors and fireballs are especially relevant because they can appear suddenly, move quickly, leave glowing trails and be visible across wide areas. The Sokoto/Kebbi case shows how a meteor-shower-period event can be interpreted as a missile or UFO when seen by frightened observers at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span><span class="citation-popover-snippet">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span></span></span> The International Meteor Organization’s fireball database also illustrates how regularly bright fireballs are reported worldwide, often by multiple witnesses across large [regions]({{ 'regions/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.imo.net">[fireball.imo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.imo.net</span><span class="citation-popover-title">Fireball events</span><span class="citation-popover-snippet">Fireball events</span></span></span>
+Meteors and fireballs are especially relevant because they can appear suddenly, move quickly, leave glowing trails and be visible across wide areas. The Sokoto/Kebbi case shows how a meteor-shower-period event can be interpreted as a missile or UFO when seen by frightened observers at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span><span class="citation-popover-snippet">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span></span></span> The International Meteor Organization’s fireball database also illustrates how regularly bright fireballs are reported worldwide, often by multiple witnesses across large [regions]({{ 'regions/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.imo.net">[fireball.imo.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.imo.net</span><span class="citation-popover-title">Fireball events</span><span class="citation-popover-snippet">Fireball events</span></span></span>
 
-Aircraft, helicopters and drones are also plausible for many reports. The Port Harcourt witness described a small-helicopter-like object with a smoky tail, and NUFORC’s possible aircraft tag is a reasonable starting point rather than a final dismissal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Nigeria’s aviation authorities have repeatedly treated drones as a growing airspace-management issue, which makes unmanned aircraft a serious candidate explanation for low-altitude or hovering sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guardian.ng/news/ncaa-bans-unauthorised-launching-of-drones-in-nigerian-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guardian.ng">[The Guardian Nigeria]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guardian.ng</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Aircraft, helicopters and drones are also plausible for many reports. The Port Harcourt witness described a small-helicopter-like object with a smoky tail, and NUFORC’s possible aircraft tag is a reasonable starting point rather than a final dismissal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Nigeria’s aviation authorities have repeatedly treated drones as a growing airspace-management issue, which makes unmanned aircraft a serious candidate explanation for low-altitude or hovering sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://guardian.ng/news/ncaa-bans-unauthorised-launching-of-drones-in-nigerian-airspace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guardian.ng">[The Guardian Nigeria]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guardian.ng</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Satellites and rocket-related phenomena are increasingly important. Starlink trains and satellite flares have generated UFO confusion around the world, and skywatching guides now routinely explain that lines of bright moving lights shortly after sunset or before sunrise can be recently launched satellites rather than unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</span></span></span> This matters for Nigeria because internet access, smartphones and social platforms make more people likely to record and circulate such events, while satellite visibility itself is global.
+Satellites and rocket-related phenomena are increasingly important. Starlink trains and satellite flares have generated UFO confusion around the world, and skywatching guides now routinely explain that lines of bright moving lights shortly after sunset or before sunrise can be recently launched satellites rather than unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</span></span></span> This matters for Nigeria because internet access, smartphones and social platforms make more people likely to record and circulate such events, while satellite visibility itself is global.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rodVRaE2K3I" title="Airplane pilots record multiple UFOs ‘dancing’ in the sky: ‘It wasn’t on our radar’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rodVRaE2K3I" target="_blank" rel="noopener noreferrer">Airplane pilots record multiple UFOs ‘dancing’ in the sky: ‘It wasn’t on our radar’</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 23.5K &middot; Uploaded: August 2024 &middot; Length: 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rodVRaE2K3I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rodVRaE2K3I">Open on YouTube</a></p></div></div></div>
 
@@ -1293,7 +1293,7 @@ The most natural cross-branch links are therefore thematic rather than sensation
 
 The assessment of Nigerian UFO phenomena would change if a case emerged with strong, independent data. A single dramatic story would not be enough. Useful evidence would include a precise timestamp, original unedited media, known camera position, multiple independent witnesses from separated locations, air-traffic or radar records, weather data, astronomical checks and a clear chain of custody for any physical material.
 
-The 2024 Abuja airspace story shows that Nigerian aviation authorities can issue technical explanations when a public claim touches restricted airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://businessday.ng/news/article/why-unidentified-aircraft-hovered-over-presidential-villa-nama/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessday.ng">[Businessday NG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessday.ng</span><span class="citation-popover-title">NGWhy &#x27;unidentified&#x27; aircraft hovered over presidential villa</span><span class="citation-popover-snippet">NGWhy &#x27;unidentified&#x27; aircraft hovered over presidential villa</span></span></span> The 2026 Sokoto/Kebbi case shows that local fact-checkers can test viral sky claims against police statements, visual evidence and astronomical timing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span><span class="citation-popover-snippet">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span></span></span> Those are the models most likely to improve future Nigerian UFO research: fast preservation of original evidence, sober institutional response and clear separation between “unidentified to the public” and “unexplainable after investigation”.
+The 2024 Abuja airspace story shows that Nigerian aviation authorities can issue technical explanations when a public claim touches restricted airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://businessday.ng/news/article/why-unidentified-aircraft-hovered-over-presidential-villa-nama/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessday.ng">[Businessday NG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessday.ng</span><span class="citation-popover-title">NGWhy &#x27;unidentified&#x27; aircraft hovered over presidential villa</span><span class="citation-popover-snippet">NGWhy &#x27;unidentified&#x27; aircraft hovered over presidential villa</span></span></span> The 2026 Sokoto/Kebbi case shows that local fact-checkers can test viral sky claims against police statements, visual evidence and astronomical timing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dubawa.org">[Dubawa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dubawa.org</span><span class="citation-popover-title">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span><span class="citation-popover-snippet">Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity</span></span></span> Those are the models most likely to improve future Nigerian UFO research: fast preservation of original evidence, sober institutional response and clear separation between “unidentified to the public” and “unexplainable after investigation”.
 
 <img src="{{ "/assets/images/Nigeria_9742d0-Illustration-3-dark.svg" | relative_url }}" alt="What Do Nigeria&#x27;s UFO Reports Really Show? illustration 3" data-theme-src-dark="{{ "/assets/images/Nigeria_9742d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nigeria_9742d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line for Nigeria
@@ -1303,194 +1303,194 @@ Nigeria’s UFO record is real as a body of reports, but weak as a body of extra
 That is still a meaningful finding. Nigeria demonstrates why UFO research has to be local. The same bright object may be interpreted differently in Lagos, Abuja, Port Harcourt, Kafanchan, Sokoto or Kebbi depending on aviation density, security fears, weather, sky visibility and how quickly social media supplies a label. The strongest Nigerian UFO page is therefore not a catalogue of alien claims, but a careful map of reports, explanations, uncertainty and the evidence gaps that still shape how strange lights over Nigeria are understood.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Nigeria&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Nigeria&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses large collections of reported UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses large collections of reported UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for interpreting reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for interpreting reported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Explores how governments and institutions handle UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how governments and institutions handle UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a national overview page focused on evidence and reporting quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a national overview page focused on evidence and reporting quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-nigeria-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-nigeria-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1506,7 +1506,7 @@ That is still a meaningful finding. Nigeria demonstrates why UFO research has to
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1526,7 +1526,7 @@ That is still a meaningful finding. Nigeria demonstrates why UFO research has to
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1558,7 +1558,7 @@ That is still a meaningful finding. Nigeria demonstrates why UFO research has to
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1610,7 +1610,7 @@ That is still a meaningful finding. Nigeria demonstrates why UFO research has to
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1655,7 +1655,7 @@ That is still a meaningful finding. Nigeria demonstrates why UFO research has to
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1693,181 +1693,180 @@ That is still a meaningful finding. Nigeria demonstrates why UFO research has to
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for Country Nigeria  
-   Link: <a href="https://nuforc.org/subndx/?id=cNigeria" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cNigeria</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cNigeria" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cNigeria</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: businessday.ng  
    Title: NGWhy 'unidentified' aircraft hovered over presidential villa  
-   Link: <a href="https://businessday.ng/news/article/why-unidentified-aircraft-hovered-over-presidential-villa-nama/" target="_blank" rel="noopener noreferrer nofollow">https://businessday.ng/news/article/why-unidentified-aircraft-hovered-over-presidential-villa-nama/</a>  
+   Link:<a href="https://businessday.ng/news/article/why-unidentified-aircraft-hovered-over-presidential-villa-nama/" target="_blank" rel="noopener noreferrer nofollow">https://businessday.ng/news/article/why-unidentified-aircraft-hovered-over-presidential-villa-nama/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: guardian.ng  
-   Link: <a href="https://guardian.ng/news/ncaa-bans-unauthorised-launching-of-drones-in-nigerian-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://guardian.ng/news/ncaa-bans-unauthorised-launching-of-drones-in-nigerian-airspace/</a>  
+   Link:<a href="https://guardian.ng/news/ncaa-bans-unauthorised-launching-of-drones-in-nigerian-airspace/" target="_blank" rel="noopener noreferrer nofollow">https://guardian.ng/news/ncaa-bans-unauthorised-launching-of-drones-in-nigerian-airspace/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=179612" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=179612</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=179612" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=179612</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187189</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=187189" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187189</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dubawa.org  
    Title: Viral ‘missile-like’ light seen in Sokoto, Kebbi, likely meteor activity  
-   Link: <a href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/</a>  
+   Link:<a href="https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/" target="_blank" rel="noopener noreferrer nofollow">https://dubawa.org/viral-missile-like-light-seen-in-sokoto-kebbi-likely-meteor-activity/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fireball.imo.net  
    Title: Fireball events  
-   Link: <a href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_events</a>  
+   Link:<a href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_events</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: <a href="https://svs.gsfc.nasa.gov/15043/" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/15043/</a>  
+   Link:<a href="https://svs.gsfc.nasa.gov/15043/" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/15043/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: guardian.ng  
    Title: world ufo day strange sightings or imagination  
-   Link: <a href="https://guardian.ng/life/world-ufo-day-strange-sightings-or-imagination/" target="_blank" rel="noopener noreferrer nofollow">https://guardian.ng/life/world-ufo-day-strange-sightings-or-imagination/</a>  
+   Link:<a href="https://guardian.ng/life/world-ufo-day-strange-sightings-or-imagination/" target="_blank" rel="noopener noreferrer nofollow">https://guardian.ng/life/world-ufo-day-strange-sightings-or-imagination/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: space.com  
    Title: 32286 space calendar  
-   Link: <a href="https://www.space.com/32286-space-calendar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/32286-space-calendar.html</a>  
+   Link:<a href="https://www.space.com/32286-space-calendar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/32286-space-calendar.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ncaa.gov.ng  
-   Link: <a href="https://ncaa.gov.ng/media/news/ncaa-sets-up-dedicated-unmanned-aircraft-unit/" target="_blank" rel="noopener noreferrer nofollow">https://ncaa.gov.ng/media/news/ncaa-sets-up-dedicated-unmanned-aircraft-unit/</a>  
+   Link:<a href="https://ncaa.gov.ng/media/news/ncaa-sets-up-dedicated-unmanned-aircraft-unit/" target="_blank" rel="noopener noreferrer nofollow">https://ncaa.gov.ng/media/news/ncaa-sets-up-dedicated-unmanned-aircraft-unit/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: Space X Falcon 9 🚀 Pandora 🛰️ 1/11/26Space X Falcon 9 🚀 Pandora 🛰️ 1/11/26  
-   Link: <a href="https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1579663176407467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1579663176407467/</a>  
+   Link:<a href="https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1579663176407467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1579663176407467/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: spacex.com  
    Title: Space X  
-   Link: <a href="https://www.spacex.com/launches" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches</a>  
+   Link:<a href="https://www.spacex.com/launches" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Nigerian Airspace Management Agency  
-   Link: <a href="https://en.wikipedia.org/wiki/Nigerian_Airspace_Management_Agency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nigerian_Airspace_Management_Agency</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nigerian_Airspace_Management_Agency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nigerian_Airspace_Management_Agency</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: spaceinafrica.com  
    Title: analysis why nigerias rocket is small in viral pictures compared to nasas  
-   Link: <a href="https://spaceinafrica.com/2020/11/24/analysis-why-nigerias-rocket-is-small-in-viral-pictures-compared-to-nasas/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2020/11/24/analysis-why-nigerias-rocket-is-small-in-viral-pictures-compared-to-nasas/</a>  
+   Link:<a href="https://spaceinafrica.com/2020/11/24/analysis-why-nigerias-rocket-is-small-in-viral-pictures-compared-to-nasas/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2020/11/24/analysis-why-nigerias-rocket-is-small-in-viral-pictures-compared-to-nasas/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=eooF0rC_o7I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eooF0rC_o7I</a>  
+   Link:<a href="https://www.youtube.com/watch?v=eooF0rC_o7I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eooF0rC_o7I</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: spaceflightnow.com  
-   Link: <a href="https://spaceflightnow.com/2024/11/25/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2024/11/25/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/</a>  
+   Link:<a href="https://spaceflightnow.com/2024/11/25/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2024/11/25/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
+   Link:<a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: space.blog.gov.uk  
    Title: planet hunting and meteor spotting the night sky in november 2024  
-   Link: <a href="https://space.blog.gov.uk/2024/11/15/planet-hunting-and-meteor-spotting-the-night-sky-in-november-2024/" target="_blank" rel="noopener noreferrer nofollow">https://space.blog.gov.uk/2024/11/15/planet-hunting-and-meteor-spotting-the-night-sky-in-november-2024/</a>  
+   Link:<a href="https://space.blog.gov.uk/2024/11/15/planet-hunting-and-meteor-spotting-the-night-sky-in-november-2024/" target="_blank" rel="noopener noreferrer nofollow">https://space.blog.gov.uk/2024/11/15/planet-hunting-and-meteor-spotting-the-night-sky-in-november-2024/</a>  
    Published: november 2024  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
+   Link:<a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience  
-   Link: <a href="https://www.youtube.com/watch?v=4npE-Fgh6M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4npE-Fgh6M4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 UFO Files &amp; the Christian Response, Nigeria Persecution, Cruise Ship UPDATE, 2 Timothy 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4npE-Fgh6M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4npE-Fgh6M4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 UFO Files &amp; the Christian Response, Nigeria Persecution, Cruise Ship UPDATE, 2 Timothy 1...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rodVRaE2K3I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rodVRaE2K3I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 UFO INTERCEPTING CAPTAIN RUUD FLIGHT AGAIN!! BOEING 747-400 LAGOS to MADINAH...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rodVRaE2K3I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rodVRaE2K3I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 UFO INTERCEPTING CAPTAIN RUUD FLIGHT AGAIN!! BOEING 747-400 LAGOS to MADINAH...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: UFO INTERCEPTING CAPTAIN RUUD FLIGHT AGAIN!! BOEING 747-400 LAGOS to MADINAH  
-   Link: <a href="https://www.youtube.com/watch?v=btgARKWu-48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=btgARKWu-48</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=btgARKWu-48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=btgARKWu-48</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: UAP FILES  
-   Link: <a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhP8VdCIz9A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhP8VdCIz9A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Unidentified Aerial Phenomenon (UAP) witnessed and photographed @aspwexperience...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
+   Link:<a href="https://www.war.gov/ufo/?releaseDate=Release" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma</a>  
+   Link:<a href="https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104742523/UFOs_Earthquakes_and_the_Straight_Line_Mystery_The_Answer_to_the_UFO_Enigma</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWAW2WcDC0N/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWAW2WcDC0N/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/reel/DWAW2WcDC0N/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWAW2WcDC0N/?hl=en-gb</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DTtDDcDjbwF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTtDDcDjbwF/</a>  
+   Link:<a href="https://www.instagram.com/p/DTtDDcDjbwF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTtDDcDjbwF/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skymednews/videos/meteor-impact-leaves-giant-crater-in-africa-creates-ejecta-blast-zone/2557014621071154/?locale=cs_CZ" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skymednews/videos/meteor-impact-leaves-giant-crater-in-africa-creates-ejecta-blast-zone/2557014621071154/?locale=cs_CZ</a>  
+   Link:<a href="https://www.facebook.com/skymednews/videos/meteor-impact-leaves-giant-crater-in-africa-creates-ejecta-blast-zone/2557014621071154/?locale=cs_CZ" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skymednews/videos/meteor-impact-leaves-giant-crater-in-africa-creates-ejecta-blast-zone/2557014621071154/?locale=cs_CZ</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/anonymousgroupinc/posts/a-newly-discussed-ufo-video-appears-to-show-a-star-shaped-object-changing-form-d/1428730499298552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anonymousgroupinc/posts/a-newly-discussed-ufo-video-appears-to-show-a-star-shaped-object-changing-form-d/1428730499298552/</a>
+   Link:<a href="https://www.facebook.com/anonymousgroupinc/posts/a-newly-discussed-ufo-video-appears-to-show-a-star-shaped-object-changing-form-d/1428730499298552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anonymousgroupinc/posts/a-newly-discussed-ufo-video-appears-to-show-a-star-shaped-object-changing-form-d/1428730499298552/</a>

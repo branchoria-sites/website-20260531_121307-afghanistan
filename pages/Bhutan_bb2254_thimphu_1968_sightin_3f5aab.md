@@ -248,7 +248,7 @@ image: /assets/images/Bhutan_bb2254_thimphu_1968_sightin_3f5aab-Illustration-1-s
 
 ## Introduction
 
-On **21 February 1968 at approximately 21:30 local time**, a noteworthy UFO report was recorded over **Thimphu**, the capital city of **Bhutan**, as part of a broader **declassified intelligence file** compiled by the United States Central Intelligence Agency (CIA). Unlike much of the later internet‑circulated material on unidentified aerial phenomena in South Asia, the Thimphu case is anchored in an actual declassified Cold War‑era briefing note (CIA‑RDP81R00560R000100070007‑8) that summarised multiple sightings in the **Himalayan region** — including Nepal, Sikkim and Ladakh — between February and March 1968. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
+On **21 February 1968 at approximately 21:30 local time**, a noteworthy UFO report was recorded over **Thimphu**, the capital city of **Bhutan**, as part of a broader **declassified intelligence file** compiled by the United States Central Intelligence Agency (CIA). Unlike much of the later internet‑circulated material on unidentified aerial phenomena in South Asia, the Thimphu case is anchored in an actual declassified Cold War‑era briefing note (CIA‑RDP81R00560R000100070007‑8) that summarised multiple sightings in the **Himalayan region** — including Nepal, Sikkim and Ladakh — between February and March 1968.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
 
 <img src="{{ "/assets/images/Bhutan_bb2254_thimphu_1968_sightin_3f5aab-Illustration-1-dark.svg" | relative_url }}" alt="1968 Thimphu Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254_thimphu_1968_sightin_3f5aab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254_thimphu_1968_sightin_3f5aab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This detailed analysis focuses on the published record of the Thimphu sighting itself, emphasizing the **source evidence**, what the declassified report actually states, and the **limitations** and interpretative challenges tied to the Thimphu observation in its regional context.
@@ -260,9 +260,9 @@ The primary archival source for the Thimphu entry is a **CIA information report*
 * The object was described as a **“bluish‑colored object”** seen in the night sky over Thimphu at **around 9:30 pm**.
 * It reportedly **moved at high speed** and did so **without producing audible sound**.
 * The light emitted was said to be bright enough to **“brighten up the area”** beneath it.
-* Direction of movement was noted as **east to west**, with a caveat that due to local geography the trajectory *could also be interpreted* as north‑east to south‑west (i.e., from the Tibet region toward Bhutan). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
+* Direction of movement was noted as **east to west**, with a caveat that due to local geography the trajectory *could also be interpreted* as north‑east to south‑west (i.e., from the Tibet region toward Bhutan).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
 
-Significantly, the Thimphu entry appears as one of six brief case summaries in a larger file rather than as a standalone, detailed investigation. The CIA document does not provide witness interviews, photographic evidence, radar data, or follow‑up analysis specific to the Thimphu sighting itself in the publicly accessible record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
+Significantly, the Thimphu entry appears as one of six brief case summaries in a larger file rather than as a standalone, detailed investigation. The CIA document does not provide witness interviews, photographic evidence, radar data, or follow‑up analysis specific to the Thimphu sighting itself in the publicly accessible record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
 
 ## Regional Himalayan Cluster and Comparative Detail
 
@@ -270,20 +270,20 @@ The 21 February report is embedded in a **regional cluster** of sightings in the
 
 * **19 February 1968**: Bright, fast‑moving object(s) were reported across areas in north‑east Nepal and north Sikkim, described as long, thin and sufficiently luminous to light up night terrain, with thunder‑like sounds reported in Chholamu, Sikkim.
 * **4 March 1968**: Multiple sightings near Chang La Pass, Ladakh, included reports of a fast‑moving bright object with white light and associated explosive sounds.
-* **25 March 1968**: A blazing object was filmed or witnessed near Pokhara in Nepal, with some secondary reports mentioning the later discovery of a **metallic disc‑shaped object** in a crater near Baltichaur; though the credibility and provenance of that claim are debated and not directly tied to the Thimphu report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">Nepali Times UFO over Pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara - Nepali Times...</span></span></span>
+* **25 March 1968**: A blazing object was filmed or witnessed near Pokhara in Nepal, with some secondary reports mentioning the later discovery of a **metallic disc‑shaped object** in a crater near Baltichaur; though the credibility and provenance of that claim are debated and not directly tied to the Thimphu report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">Nepali Times UFO over Pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara - Nepali Times...</span></span></span>
 
-The Thimphu sighting is **less materially rich** than some of these neighbouring cases — particularly the Pokhara incident where a ground object was reportedly found. In Bhutan’s case, there is no contemporaneous **physical trace, follow‑up collection of debris, or national investigation** documented in the declassified CIA file or accessible national archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">Nepali Times UFO over Pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara - Nepali Times...</span></span></span>
+The Thimphu sighting is **less materially rich** than some of these neighbouring cases — particularly the Pokhara incident where a ground object was reportedly found. In Bhutan’s case, there is no contemporaneous **physical trace, follow‑up collection of debris, or national investigation** documented in the declassified CIA file or accessible national archives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">Nepali Times UFO over Pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara - Nepali Times...</span></span></span>
 
 <img src="{{ "/assets/images/Bhutan_bb2254_thimphu_1968_sightin_3f5aab-Illustration-2-dark.svg" | relative_url }}" alt="1968 Thimphu Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Bhutan_bb2254_thimphu_1968_sightin_3f5aab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bhutan_bb2254_thimphu_1968_sightin_3f5aab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness Context and Evidence Limitations
 
 Several factors complicate a direct interpretation of the Thimphu report:
 
-* **Source Mediation**: The available description comes through CIA summary text; there is no known release of the primary witness statements or raw reports from Bhutanese observers. The public record reflects an **intelligence aggregation**, not a detailed scientific investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
+* **Source Mediation**: The available description comes through CIA summary text; there is no known release of the primary witness statements or raw reports from Bhutanese observers. The public record reflects an **intelligence aggregation**, not a detailed scientific investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
 * **Geographical and Atmospheric Variables**: Western Bhutan sits in complex mountain terrain with frequent atmospheric phenomena, high altitude flight paths, and limited ground lighting in the 1960s. Bright objects in the sky — from meteors, re‑entering space debris, or high‑altitude aircraft — can appear unusually vivid and move rapidly without sound perceived by an observer on the ground. These conditions make **visual interpretation alone ambiguous** without corroborating measurement data.
 * **Temporal Cold War Context**: During the 1960s, intelligence agencies at times collected and exchanged reports of anomalous aerial sightings as part of broader concerns about foreign aerospace activity. This context suggests why isolated accounts might have been documented even if the objects had **non‑anomalous explanations** such as aircraft, experimental vehicles, or natural phenomena.
 
-Due to these limitations, the Thimphu sighting remains “unexplained” only in the narrow sense that it entered a declassified CIA report without clear classification. It does **not** constitute archival evidence of an extraterrestrial craft, recovered technology, or official Bhutanese validation of an anomalous aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
+Due to these limitations, the Thimphu sighting remains “unexplained” only in the narrow sense that it entered a declassified CIA report without clear classification. It does **not** constitute archival evidence of an extraterrestrial craft, recovered technology, or official Bhutanese validation of an anomalous aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
 
 ## Why the Thimphu Case Matters Regionally
 
@@ -293,7 +293,7 @@ From a historiographical perspective, the 21 February 1968 Thimphu entry is valu
 
 * Bhutan was **included in international intelligence reporting channels** in the late 1960s, presumably because of its proximity to regional sightings.
 * The case contributes to understanding how Himalayan aerial reports were **collected, categorised and circulated internationally** during the Cold War period.
-* It shows a pattern of **high‑altitude luminous objects** reported across adjacent administrative zones (Sikkim, Nepal and Ladakh), rather than an isolated Bhutanese anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">Nepali Times UFO over Pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara - Nepali Times...</span></span></span>
+* It shows a pattern of **high‑altitude luminous objects** reported across adjacent administrative zones (Sikkim, Nepal and Ladakh), rather than an isolated Bhutanese anomaly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">Nepali Times UFO over Pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara - Nepali Times...</span></span></span>
 
 </div>
 
@@ -310,201 +310,201 @@ Evaluating the Thimphu sighting requires distinguishing between **report presenc
 
 </div>
 
-In short, the Thimphu sighting stands as a single **archival point of evidence** rather than a comprehensively documented anomalous event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
+In short, the Thimphu sighting stands as a single **archival point of evidence** rather than a comprehensively documented anomalous event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
 
 ## Concluding View
 
-The **21 February 1968 Thimphu sighting** remains one of the few publicly documented UFO entries associated specifically with Bhutan, preserved through **declassified CIA records** rather than a local investigative archive. While the description of a silent, bluish, fast‑moving object is provocative, the existing evidence does not support definitive conclusions about the nature of the object. The case should be understood within its **Cold War intelligence context**, the **regional Himalayan sighting cluster**, and the **limitations of second‑hand summary reporting** rather than positioned as an unexplained phenomenon in isolation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
+The **21 February 1968 Thimphu sighting** remains one of the few publicly documented UFO entries associated specifically with Bhutan, preserved through **declassified CIA records** rather than a local investigative archive. While the description of a silent, bluish, fast‑moving object is provocative, the existing evidence does not support definitive conclusions about the nature of the object. The case should be understood within its **Cold War intelligence context**, the **regional Himalayan sighting cluster**, and the **limitations of second‑hand summary reporting** rather than positioned as an unexplained phenomenon in isolation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmoids.in">[Gizmoids]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmoids.in</span><span class="citation-popover-snippet">Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 &#124; GizmoidsJanuary 31, 2017...</span><span class="citation-popover-meta">Published: January 31, 2017</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Investigating the February 1968 Thimphu UFO Sighting. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Investigating the February 1968 Thimphu UFO Sighting. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating witness reports and unexplained observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating witness reports and unexplained observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places isolated regional sightings into broader historical patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places isolated regional sightings into broader historical patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a documented historical sighting and evidence-focused discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a documented historical sighting and evidence-focused discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Provides Cold War and archival context similar to the CIA-linked case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides Cold War and archival context similar to the CIA-linked case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigating-the-february-1968-thimphu-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ The **21 February 1968 Thimphu sighting** remains one of the few publicly docume
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ The **21 February 1968 Thimphu sighting** remains one of the few publicly docume
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ The **21 February 1968 Thimphu sighting** remains one of the few publicly docume
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ The **21 February 1968 Thimphu sighting** remains one of the few publicly docume
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ The **21 February 1968 Thimphu sighting** remains one of the few publicly docume
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -707,97 +707,96 @@ The **21 February 1968 Thimphu sighting** remains one of the few publicly docume
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gizmoids.in  
-   Link: <a href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow">https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 | GizmoidsJanuary 31, 2017...</p></details>
+   Link:<a href="https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/" target="_blank" rel="noopener noreferrer nofollow">https://www.gizmoids.in/declassified-cia-report-mentions-6-ufo-sightings-in-india-bhutan-and-nepal-in-1968/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified CIA Report mentions 6 UFO sightings in India, Bhutan and Nepal in 1968 | GizmoidsJanuary 31, 2017...</p></details>
    Published: January 31, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070028-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070028-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 14, 1968 — (U) INVESTIGATION OF UFO SIGHTINGS OVER OFF-SHORE ISLANDS AND TAIWAN STRAIT Document Type: CREST Collection: General C...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070028-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100070028-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 14, 1968 — (U) INVESTIGATION OF UFO SIGHTINGS OVER OFF-SHORE ISLANDS AND TAIWAN STRAIT Document Type: CREST Collection: General C...</p></details>
    Published: October 14, 1968  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cia.gov  
    Title: SCIENTIST S REFUTE CLAIMS OF 'UFO' SIGHTINGS | CIA FOIA (foia.cia.gov)  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010014-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010014-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENTISTS REFUTE CLAIMS OF &#x27;UFO&#x27; SIGHTINGS | CIA FOIA (foia.cia.gov)March 6, 1968 — SCIENTISTS REFUTE CLAIMS OF &#x27;UFO&#x27; SIGHTINGS Document...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010014-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010014-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SCIENTISTS REFUTE CLAIMS OF &#x27;UFO&#x27; SIGHTINGS | CIA FOIA (foia.cia.gov)March 6, 1968 — SCIENTISTS REFUTE CLAIMS OF &#x27;UFO&#x27; SIGHTINGS Document...</p></details>
    Published: March 6, 1968  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nepalitimes.com  
    Title: Nepali Times UFO over Pokhara  
-   Link: <a href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/here-now/ufo-over-pokhara</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nepali TimesUFO over Pokhara - Nepali Times...</p></details>
+   Link:<a href="https://nepalitimes.com/here-now/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/here-now/ufo-over-pokhara</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nepali TimesUFO over Pokhara - Nepali Times...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: indiatimes.com  
-   Link: <a href="https://www.indiatimes.com/news/india/declassified-cia-files-claim-the-agency-spotted-ufos-in-indian-skies-back-in-1968_-270620.html" target="_blank" rel="noopener noreferrer nofollow">https://www.indiatimes.com/news/india/declassified-cia-files-claim-the-agency-spotted-ufos-in-indian-skies-back-in-1968_-270620.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified CIA Files Claim The Agency Spotted UFOs In Indian Skies Back In 1968January 31, 2017 — DECLASSIFIED CIA FILES CLAIM THE AGEN...</p></details>
+   Link:<a href="https://www.indiatimes.com/news/india/declassified-cia-files-claim-the-agency-spotted-ufos-in-indian-skies-back-in-1968_-270620.html" target="_blank" rel="noopener noreferrer nofollow">https://www.indiatimes.com/news/india/declassified-cia-files-claim-the-agency-spotted-ufos-in-indian-skies-back-in-1968_-270620.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified CIA Files Claim The Agency Spotted UFOs In Indian Skies Back In 1968January 31, 2017 — DECLASSIFIED CIA FILES CLAIM THE AGEN...</p></details>
    Published: January 31, 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AThe_UFO_Evidence_by_the_National_Investigations_Committee_on_Aerial_Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AThe_UFO_Evidence_by_the_National_Investigations_Committee_on_Aerial_Phenomena.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:The UFO Evidence by the National Investigations Committee on Aerial Phenomena.pdf - Wikimedia CommonsMay 1, 1964 — FILE...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AThe_UFO_Evidence_by_the_National_Investigations_Committee_on_Aerial_Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AThe_UFO_Evidence_by_the_National_Investigations_Committee_on_Aerial_Phenomena.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:The UFO Evidence by the National Investigations Committee on Aerial Phenomena.pdf - Wikimedia CommonsMay 1, 1964 — FILE...</p></details>
    Published: May 1, 1964  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hindustantimes.com  
    Title: CI A reported six sightings of UFOs over India, Bhutan and Nepal | World News  
-   Link: <a href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA reported six sightings of UFOs over India, Bhutan and Nepal | World NewsJanuary 27, 2017 — CIA REPORTED SIX SIGHTINGS OF UFOS OVER IN...</p></details>
+   Link:<a href="https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/cia-reported-six-sightings-of-ufos-over-india-bhutan-and-nepal/story-tKMATrDE37L73NumBfpxcM.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA reported six sightings of UFOs over India, Bhutan and Nepal | World NewsJanuary 27, 2017 — CIA REPORTED SIX SIGHTINGS OF UFOS OVER IN...</p></details>
    Published: January 27, 2017  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ibtimes.co.in  
-   Link: <a href="https://www.ibtimes.co.in/declassified-cia-documents-reveal-6-ufo-sightings-india-nepal-bhutan-713983" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.in/declassified-cia-documents-reveal-6-ufo-sightings-india-nepal-bhutan-713983</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IBTimes IndiaDeclassified CIA documents reveal 6 UFO sightings in India, Nepal and Bhutan - IBTimes India...</p></details>
+   Link:<a href="https://www.ibtimes.co.in/declassified-cia-documents-reveal-6-ufo-sightings-india-nepal-bhutan-713983" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.in/declassified-cia-documents-reveal-6-ufo-sightings-india-nepal-bhutan-713983</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IBTimes IndiaDeclassified CIA documents reveal 6 UFO sightings in India, Nepal and Bhutan - IBTimes India...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: stardrive.org  
    Title: How the US kept tabs on UFO sightings and Yeti hunting in Nepal  
-   Link: <a href="https://www.stardrive.org/index.php/sd-news-archive/198-archive-weird-desk-archive-2019/54455-how-the-us-kept-tabs-on-ufo-sightings-and-yeti-hunting-in-nepal" target="_blank" rel="noopener noreferrer nofollow">https://www.stardrive.org/index.php/sd-news-archive/198-archive-weird-desk-archive-2019/54455-how-the-us-kept-tabs-on-ufo-sightings-and-yeti-hunting-in-nepal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 8, 2019 — HOW THE US KEPT TABS ON UFO SIGHTINGS AND YETI HUNTING IN NEPAL Details Category: Weird Desk Archive (2019)...</p></details>
+   Link:<a href="https://www.stardrive.org/index.php/sd-news-archive/198-archive-weird-desk-archive-2019/54455-how-the-us-kept-tabs-on-ufo-sightings-and-yeti-hunting-in-nepal" target="_blank" rel="noopener noreferrer nofollow">https://www.stardrive.org/index.php/sd-news-archive/198-archive-weird-desk-archive-2019/54455-how-the-us-kept-tabs-on-ufo-sightings-and-yeti-hunting-in-nepal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 8, 2019 — HOW THE US KEPT TABS ON UFO SIGHTINGS AND YETI HUNTING IN NEPAL Details Category: Weird Desk Archive (2019)...</p></details>
    Published: February 8, 2019  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: demokrathaber.org  
    Title: CI A: Himalayalar'da 6 kez UFO gözlemlendi  
-   Link: <a href="https://www.demokrathaber.org/cia-himalayalarda-6-kez-ufo-gozlemlendi" target="_blank" rel="noopener noreferrer nofollow">https://www.demokrathaber.org/cia-himalayalarda-6-kez-ufo-gozlemlendi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA: Himalayalar&#x27;da 6 kez UFO gözlemlendiFebruary 1, 2017 — CIA: HIMALAYALAR&#x27;DA 6 KEZ UFO GÖZLEMLENDI CIA&#x27;IN YAYINLADIĞI BELGELER, HIMALA...</p></details>
+   Link:<a href="https://www.demokrathaber.org/cia-himalayalarda-6-kez-ufo-gozlemlendi" target="_blank" rel="noopener noreferrer nofollow">https://www.demokrathaber.org/cia-himalayalarda-6-kez-ufo-gozlemlendi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA: Himalayalar&#x27;da 6 kez UFO gözlemlendiFebruary 1, 2017 — CIA: HIMALAYALAR&#x27;DA 6 KEZ UFO GÖZLEMLENDI CIA&#x27;IN YAYINLADIĞI BELGELER, HIMALA...</p></details>
    Published: February 1, 2017  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unidentifiedphenomena.com  
    Title: himalayan disc recovery incident 1968  
-   Link: <a href="https://unidentifiedphenomena.com/crash/himalayan-disc-recovery-incident-1968/" target="_blank" rel="noopener noreferrer nofollow">https://unidentifiedphenomena.com/crash/himalayan-disc-recovery-incident-1968/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Himalayan Disc Recovery Incident (1968) – Unidentified PhenomenaMarch 7, 2024 — HIMALAYAN DISC RECOVERY INCIDENT (1968) March 7, 2024 Ima...</p></details>
+   Link:<a href="https://unidentifiedphenomena.com/crash/himalayan-disc-recovery-incident-1968/" target="_blank" rel="noopener noreferrer nofollow">https://unidentifiedphenomena.com/crash/himalayan-disc-recovery-incident-1968/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Himalayan Disc Recovery Incident (1968) – Unidentified PhenomenaMarch 7, 2024 — HIMALAYAN DISC RECOVERY INCIDENT (1968) March 7, 2024 Ima...</p></details>
    Published: March 7, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: myufophotos.com  
    Title: bhutan ufo files disclosure documents  
-   Link: <a href="https://myufophotos.com/ufo-archives/bhutan-ufo-files-disclosure-documents/" target="_blank" rel="noopener noreferrer nofollow">https://myufophotos.com/ufo-archives/bhutan-ufo-files-disclosure-documents/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bhutan UFO files (disclosure documents) ~ UFO archivesMay 27, 2018 — BHUTAN UFO FILES (DISCLOSURE DOCUMENTS) Posted on May 27, 2018March...</p></details>
+   Link:<a href="https://myufophotos.com/ufo-archives/bhutan-ufo-files-disclosure-documents/" target="_blank" rel="noopener noreferrer nofollow">https://myufophotos.com/ufo-archives/bhutan-ufo-files-disclosure-documents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bhutan UFO files (disclosure documents) ~ UFO archivesMay 27, 2018 — BHUTAN UFO FILES (DISCLOSURE DOCUMENTS) Posted on May 27, 2018March...</p></details>
    Published: May 27, 2018  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: asianage.com  
    Title: By: DC Correspondent Update: 201  
-   Link: <a href="https://www.asianage.com/amp/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asianage.com/amp/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 UFOs sighted over India, Nepal, Bhutan in 1968: CIA reportJanuary 28, 2017 — 6 UFOS SIGHTED OVER INDIA, NEPAL, BHUTAN IN 1968: CIA REPO...</p></details>
+   Link:<a href="https://www.asianage.com/amp/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asianage.com/amp/india/all-india/280117/6-ufos-sighted-over-india-nepal-bhutan-in-1968-cia-report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 UFOs sighted over India, Nepal, Bhutan in 1968: CIA reportJanuary 28, 2017 — 6 UFOS SIGHTED OVER INDIA, NEPAL, BHUTAN IN 1968: CIA REPO...</p></details>
    Published: January 28, 2017  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: itechpost.com  
-   Link: <a href="https://www.itechpost.com/articles/78901/20170130/released-declassified-cia-documents-revealed-6-ufo-sightings-india-bhutan.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.itechpost.com/articles/78901/20170130/released-declassified-cia-documents-revealed-6-ufo-sightings-india-bhutan.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 30, 2017 — Donna Marie Lapena Padua Science...</p></details>
+   Link:<a href="https://www.itechpost.com/articles/78901/20170130/released-declassified-cia-documents-revealed-6-ufo-sightings-india-bhutan.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.itechpost.com/articles/78901/20170130/released-declassified-cia-documents-revealed-6-ufo-sightings-india-bhutan.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 30, 2017 — Donna Marie Lapena Padua Science...</p></details>
    Published: January 30, 2017

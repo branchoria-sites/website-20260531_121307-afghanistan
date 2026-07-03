@@ -1,9 +1,9 @@
-title: 'UFOs and UAP by Country'
-short_title: 'UFOs and UAP by Country'
+title: 'UFO and UAP Collection'
+short_title: 'UFO and UAP Collection'
 brand_name: 'Branchoria'
 brand_domain: 'branchoria.com'
-description: 'Country-by-country guides to UFO and UAP reports, records, and explanations.'
-tagline: 'Compare sightings, records, and explanations across UN member countries.'
+description: 'Practical guides across UFO and UAP, organized for fast browsing and comparison.'
+tagline: 'Start with the overview, then follow the sections that match your goal'
 encoding: utf-8
 lang: 'en'
 locale: 'en'
@@ -28,7 +28,7 @@ endnotes_mode: 'collapsed'
 endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
-baseurl: ''
+baseurl: ""
 url: "https://ufo-global.branchoria.com"
 ui_priority: 'home-first'
 homepage_audience_mode: 'production'
@@ -36,7 +36,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1782558004'
+ui_bundle_version: 'build-1783101901'
 google_site_verification: ''
 draft_noindex: false
 theme: minima

@@ -1194,31 +1194,31 @@ image: /assets/images/Estonia_f0a96d-overview-social.jpg
 
 ## Why Estonia’s UFO record is unusually folklore-heavy
 
-The centre of gravity in Estonian UFO material is not a defence ministry archive or a state disclosure programme. It is the work of local [collectors]({{ 'collectors/' | relative_url }}), especially Igor Volke, and the analysis of those stories by folklorists. Volke became closely associated with Estonian ufology, and Estonian media described the long-running research circle around him as a group that collected testimony from people who believed they had encountered unknown flying objects or aliens. In a 2020 ERR programme, space and defence technology professor Mart Noorma framed present-day Estonian UFO research mainly as the collection and study of folk narratives: evidence of what people think they saw and felt, not proof that UFOs exist as extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">UFO&#x27; filmed over central Estonian skies likely airplane contrails &#124; News &#124; ERR</span><span class="citation-popover-snippet">UFO&#x27; filmed over central Estonian skies likely airplane contrails &#124; News &#124; ERR</span></span></span>
+The centre of gravity in Estonian UFO material is not a defence ministry archive or a state disclosure programme. It is the work of local [collectors]({{ 'collectors/' | relative_url }}), especially Igor Volke, and the analysis of those stories by folklorists. Volke became closely associated with Estonian ufology, and Estonian media described the long-running research circle around him as a group that collected testimony from people who believed they had encountered unknown flying objects or aliens. In a 2020 ERR programme, space and defence technology professor Mart Noorma framed present-day Estonian UFO research mainly as the collection and study of folk narratives: evidence of what people think they saw and felt, not proof that UFOs exist as extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">UFO&#x27; filmed over central Estonian skies likely airplane contrails &#124; News &#124; ERR</span><span class="citation-popover-snippet">UFO&#x27; filmed over central Estonian skies likely airplane contrails &#124; News &#124; ERR</span></span></span>
 
 <img src="{{ "/assets/images/Estonia_f0a96d-overview.webp" | relative_url }}" alt="Overview image for What Really Shapes Estonia&#x27;s UFO Record?" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters. Estonia’s UFO tradition contains many vivid accounts, but vividness is not the same as evidential strength. The stronger public record shows that Estonia has an enduring culture of anomalous-experience reporting; it does not show that any Estonian case has been verified as non-human technology. The available evidence is strongest for the social history of UFO belief, moderate for the existence of sighting reports, and weak for extraordinary physical claims.
 
-The local research infrastructure was largely private or semi-formal. AKRAK, the Commission for Registration and Analysis of Anomalous Environmental Phenomena, is described in Estonian sources as a commission founded by Volke in the mid-1980s to collect data on anomalous environmental phenomena, especially UFOs, in Estonia. It operated briefly in Tallinn’s House of Engineers; later reporting says it faded after Estonia regained independence, while EUFON, the Estonian UFO Network, also became largely dormant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://et.wikipedia.org/wiki/Anomaalsete_Keskkonnan%C3%A4htuste_Registreerimise_ja_Anal%C3%BC%C3%BCsi_Komisjon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomaalsete Keskkonnanähtuste Registreerimise ja Analüüsi Komisjon – Vikipeedia</span><span class="citation-popover-snippet">Anomaalsete Keskkonnanähtuste Registreerimise ja Analüüsi Komisjon – Vikipeedia</span></span></span>
+The local research infrastructure was largely private or semi-formal. AKRAK, the Commission for Registration and Analysis of Anomalous Environmental Phenomena, is described in Estonian sources as a commission founded by Volke in the mid-1980s to collect data on anomalous environmental phenomena, especially UFOs, in Estonia. It operated briefly in Tallinn’s House of Engineers; later reporting says it faded after Estonia regained independence, while EUFON, the Estonian UFO Network, also became largely dormant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://et.wikipedia.org/wiki/Anomaalsete_Keskkonnan%C3%A4htuste_Registreerimise_ja_Anal%C3%BC%C3%BCsi_Komisjon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomaalsete Keskkonnanähtuste Registreerimise ja Analüüsi Komisjon – Vikipeedia</span><span class="citation-popover-snippet">Anomaalsete Keskkonnanähtuste Registreerimise ja Analüüsi Komisjon – Vikipeedia</span></span></span>
 
 ## A compact chronology of the main Estonian UFO phases
 
 Estonia’s UFO record is easier to understand as a sequence of reporting cultures than as a list of isolated mysteries.
 
-**Late Soviet period and the 1980s.** This is the most important period for classic Estonian UFO lore. Reports from the late 1980s include alleged encounters at Aegna Island near Tallinn, Kohtu in Harju County, Viitna, near Pärnu, Haimre in Rapla County and Saaremaa. Many of these reports survive through enthusiast compilations rather than official investigation files, and they often include humanoid or close-encounter motifs rather than just distant lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.para-web.org/showthread.php?tid=4729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: para-web.org">[para-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">para-web.org</span><span class="citation-popover-title">Estonian UFO-cases</span><span class="citation-popover-snippet">Estonian UFO-cases</span></span></span>
+**Late Soviet period and the 1980s.** This is the most important period for classic Estonian UFO lore. Reports from the late 1980s include alleged encounters at Aegna Island near Tallinn, Kohtu in Harju County, Viitna, near Pärnu, Haimre in Rapla County and Saaremaa. Many of these reports survive through enthusiast compilations rather than official investigation files, and they often include humanoid or close-encounter motifs rather than just distant lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.para-web.org/showthread.php?tid=4729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: para-web.org">[para-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">para-web.org</span><span class="citation-popover-title">Estonian UFO-cases</span><span class="citation-popover-snippet">Estonian UFO-cases</span></span></span>
 
-**Early 1990s.** This appears to have been a peak period for reports. In the 2020 ERR profile, Volke said the early 1990s were the high point of Estonian UFO notifications. The same report says his circle still received roughly 10 to 12 signals a year by 2020, with a smaller number considered interesting enough for site visits, but that physical evidence remained scarce and many submitted images were poor-quality photographs of dots, spheres or flashes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609911673/extra-bright-bolide-meteor-seen-over-estonia-latvia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">Extra-bright bolide meteor seen over Estonia, Latvia &#124; News &#124; ERR</span><span class="citation-popover-snippet">Extra-bright bolide meteor seen over Estonia, Latvia &#124; News &#124; ERR</span></span></span>
+**Early 1990s.** This appears to have been a peak period for reports. In the 2020 ERR profile, Volke said the early 1990s were the high point of Estonian UFO notifications. The same report says his circle still received roughly 10 to 12 signals a year by 2020, with a smaller number considered interesting enough for site visits, but that physical evidence remained scarce and many submitted images were poor-quality photographs of dots, spheres or flashes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609911673/extra-bright-bolide-meteor-seen-over-estonia-latvia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">Extra-bright bolide meteor seen over Estonia, Latvia &#124; News &#124; ERR</span><span class="citation-popover-snippet">Extra-bright bolide meteor seen over Estonia, Latvia &#124; News &#124; ERR</span></span></span>
 
-**1990s media era.** Estonian UFO stories became public culture through television and press, not just private files. Mare Kõiva’s study of Estonian UFO lore notes that paranormal themes were broadcast on Estonian television in the 1990s and that a popular serial introduced UFO encounters to a broad audience, encouraging people to interpret and disclose their own experiences through an alien-encounter frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore.ee/rl/pubte/ee/sator/sator5/ufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore.ee">[folklore.ee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore.ee</span><span class="citation-popover-snippet">Open source on folklore.ee.</span></span></span>
+**1990s media era.** Estonian UFO stories became public culture through television and press, not just private files. Mare Kõiva’s study of Estonian UFO lore notes that paranormal themes were broadcast on Estonian television in the 1990s and that a popular serial introduced UFO encounters to a broad audience, encouraging people to interpret and disclose their own experiences through an alien-encounter frame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore.ee/rl/pubte/ee/sator/sator5/ufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore.ee">[folklore.ee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore.ee</span><span class="citation-popover-snippet">Open source on folklore.ee.</span></span></span>
 
-**2010s and 2020s.** The modern pattern is less about classic landing narratives and more about fast-moving sky videos, social-media speculation and later identification. ERR’s recent reporting on Estonian sky events has pointed to aircraft contrails, bolides and rocket-stage gas releases as plausible explanations for dramatic-looking objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-snippet">Open source on err.ee.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eeter.err.ee/1059661/ufoloog-igor-volke-saab-siiani-ca-12-ufo-signaali-aastas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeter.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeter.err.ee</span><span class="citation-popover-title">Ufoloog Igor Volke saab siiani ca 12 UFO-signaali aastas &#124; Pealtnägija &#124; ERR</span><span class="citation-popover-snippet">Ufoloog Igor Volke saab siiani ca 12 UFO-signaali aastas &#124; Pealtnägija &#124; ERR</span></span></span>
+**2010s and 2020s.** The modern pattern is less about classic landing narratives and more about fast-moving sky videos, social-media speculation and later identification. ERR’s recent reporting on Estonian sky events has pointed to aircraft contrails, bolides and rocket-stage gas releases as plausible explanations for dramatic-looking objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-snippet">Open source on err.ee.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://eeter.err.ee/1059661/ufoloog-igor-volke-saab-siiani-ca-12-ufo-signaali-aastas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeter.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeter.err.ee</span><span class="citation-popover-title">Ufoloog Igor Volke saab siiani ca 12 UFO-signaali aastas &#124; Pealtnägija &#124; ERR</span><span class="citation-popover-snippet">Ufoloog Igor Volke saab siiani ca 12 UFO-signaali aastas &#124; Pealtnägija &#124; ERR</span></span></span>
 
 <img src="{{ "/assets/images/Estonia_f0a96d-Illustration-1-dark.svg" | relative_url }}" alt="What Really Shapes Estonia&#x27;s UFO Record? illustration 1" data-theme-src-dark="{{ "/assets/images/Estonia_f0a96d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Estonia_f0a96d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Merivälja object: Estonia’s best-known local UFO landmark
 
-The Merivälja object is the Estonian UFO story most likely to appear in tourism, television and popular culture. It is associated with a property at Hõbekuuse tee 34 in Merivälja, a seaside district of Tallinn, and is often described in local paranormal sources as an anomalous object found underground. The public record around it is difficult to separate from retelling, because much of the accessible material is popular, touristic or paranormal rather than technical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapy.com/en/?id=150425775&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapy.com">[Mapy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapy.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Merivälja object is the Estonian UFO story most likely to appear in tourism, television and popular culture. It is associated with a property at Hõbekuuse tee 34 in Merivälja, a seaside district of Tallinn, and is often described in local paranormal sources as an anomalous object found underground. The public record around it is difficult to separate from retelling, because much of the accessible material is popular, touristic or paranormal rather than technical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapy.com/en/?id=150425775&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapy.com">[Mapy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapy.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Its importance is cultural as much as evidential. Merivälja has become a place-name in Estonia’s UFO imagination: a concrete location where the abstract idea of “the Estonian UFO case” can be attached to a street, a suburb and a story. A television series, walking tours and online summaries have kept the case alive even though publicly accessible, independently verifiable technical documentation is limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://laternamatkad.ee/en/matk/viimsi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laternamatkad.ee">[laternamatkad.ee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laternamatkad.ee</span><span class="citation-popover-title">Viimsi and Merivälja</span><span class="citation-popover-snippet">Viimsi and Merivälja</span></span></span>
+Its importance is cultural as much as evidential. Merivälja has become a place-name in Estonia’s UFO imagination: a concrete location where the abstract idea of “the Estonian UFO case” can be attached to a street, a suburb and a story. A television series, walking tours and online summaries have kept the case alive even though publicly accessible, independently verifiable technical documentation is limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://laternamatkad.ee/en/matk/viimsi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laternamatkad.ee">[laternamatkad.ee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laternamatkad.ee</span><span class="citation-popover-title">Viimsi and Merivälja</span><span class="citation-popover-snippet">Viimsi and Merivälja</span></span></span>
 
 For a cautious reader, Merivälja belongs in the **contested** category. It is too embedded in local UFO culture to ignore, but the open evidence does not support treating it as confirmed extraterrestrial material. The most reliable statement is narrower: Merivälja is Estonia’s most famous UFO-associated site, and its survival shows how local geography can turn an anomalous claim into a lasting cultural landmark.
 
@@ -1226,11 +1226,11 @@ For a cautious reader, Merivälja belongs in the **contested** category. It is t
 
 The Estonian reports that circulate most widely do not fall evenly across the country. They tend to gather around places where observation conditions, population density or narrative appeal make reports more likely.
 
-Tallinn and Harju County dominate for obvious reasons: more witnesses, more media, more aviation, more cameras and more institutions. The Aegna Island report from 1988 and the Kohtu report from 1989 both sit in the broader Tallinn-Harju orbit, while Merivälja gives the capital region its best-known fixed UFO landmark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.para-web.org/showthread.php?action=newpost&amp;tid=4729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: para-web.org">[para-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">para-web.org</span><span class="citation-popover-snippet">Open source on para-web.org.</span></span></span>
+Tallinn and Harju County dominate for obvious reasons: more witnesses, more media, more aviation, more cameras and more institutions. The Aegna Island report from 1988 and the Kohtu report from 1989 both sit in the broader Tallinn-Harju orbit, while Merivälja gives the capital region its best-known fixed UFO landmark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.para-web.org/showthread.php?action=newpost&amp;tid=4729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: para-web.org">[para-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">para-web.org</span><span class="citation-popover-snippet">Open source on para-web.org.</span></span></span>
 
-Western Estonia and the islands add a different texture. Saaremaa appears in circulated close-encounter material, and Estonia’s island landscapes already carry strong associations with meteoritic history because of the Kaali crater field. That does not make island UFO claims stronger, but it does mean readers should distinguish two very different things: scientifically established meteorite impacts, and later UFO narratives that borrow the drama of objects from the sky. The Estonian meteorite-crater literature notes that Estonia has an unusually rich record of small, young craters and that investigation of the Kaali crater as a suspected meteorite crater began in the early 1920s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.para-web.org/archive/index.php?thread-4729.html=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: para-web.org">[para-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">para-web.org</span><span class="citation-popover-snippet">Open source on para-web.org.</span></span></span>
+Western Estonia and the islands add a different texture. Saaremaa appears in circulated close-encounter material, and Estonia’s island landscapes already carry strong associations with meteoritic history because of the Kaali crater field. That does not make island UFO claims stronger, but it does mean readers should distinguish two very different things: scientifically established meteorite impacts, and later UFO narratives that borrow the drama of objects from the sky. The Estonian meteorite-crater literature notes that Estonia has an unusually rich record of small, young craters and that investigation of the Kaali crater as a suspected meteorite crater began in the early 1920s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.para-web.org/archive/index.php?thread-4729.html=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: para-web.org">[para-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">para-web.org</span><span class="citation-popover-snippet">Open source on para-web.org.</span></span></span>
 
-South Estonia appears more often in modern astronomical identifications. ERR reported a bright object over Tartu and South Estonia picked up by a volunteer camera network, and the University of Tartu’s Tartu Observatory is Estonia’s key institutional astronomy and space research centre. That institutional context matters because it gives journalists and the public access to scientific interpretation when something bright crosses the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609976409/bright-object-passing-over-south-estonia-s-skies-picked-up-by-volunteer-camera-network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-snippet">Open source on err.ee.</span></span></span>
+South Estonia appears more often in modern astronomical identifications. ERR reported a bright object over Tartu and South Estonia picked up by a volunteer camera network, and the University of Tartu’s Tartu Observatory is Estonia’s key institutional astronomy and space research centre. That institutional context matters because it gives journalists and the public access to scientific interpretation when something bright crosses the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609976409/bright-object-passing-over-south-estonia-s-skies-picked-up-by-volunteer-camera-network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-snippet">Open source on err.ee.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NxSrQnqYiys" title="Forgotten UFO Files from Russia and Estonia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NxSrQnqYiys" target="_blank" rel="noopener noreferrer">Forgotten UFO Files from Russia and Estonia</a></p><p class="youtube-embed-meta">Channel: Stories Lost &middot; Views: 147.4K &middot; Uploaded: May 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NxSrQnqYiys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NxSrQnqYiys">Open on YouTube</a></p></div></div></div>
 
@@ -1238,33 +1238,33 @@ South Estonia appears more often in modern astronomical identifications. ERR rep
 
 A useful Estonian UFO page should separate three categories that are often blurred together.
 
-**Confirmed sky phenomena.** Estonia has many real unusual sky events: bolides, meteors, contrails, auroral displays, satellites and rocket debris. These are not “fake”; they are genuine observations whose cause is ordinary once identified. In January 2026, for example, ERR reported an extra-bright bolide seen over Estonia and Latvia, with Tartu Observatory astronomer Tõnis Eenmäe describing it as a very bright meteor that lit trees white. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eeter.err.ee/601588/igor-volke-on-ufo-t-nainud-kolmel-korral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeter.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeter.err.ee</span><span class="citation-popover-title">igor volke on ufo t nainud kolmel korral</span><span class="citation-popover-snippet">igor volke on ufo t nainud kolmel korral</span></span></span>
+**Confirmed sky phenomena.** Estonia has many real unusual sky events: bolides, meteors, contrails, auroral displays, satellites and rocket debris. These are not “fake”; they are genuine observations whose cause is ordinary once identified. In January 2026, for example, ERR reported an extra-bright bolide seen over Estonia and Latvia, with Tartu Observatory astronomer Tõnis Eenmäe describing it as a very bright meteor that lit trees white.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eeter.err.ee/601588/igor-volke-on-ufo-t-nainud-kolmel-korral" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeter.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeter.err.ee</span><span class="citation-popover-title">igor volke on ufo t nainud kolmel korral</span><span class="citation-popover-snippet">igor volke on ufo t nainud kolmel korral</span></span></span>
 
-**Contested UFO claims.** This category includes historical close encounters, alleged craft, humanoid accounts and anomalous objects whose public documentation is too incomplete for firm judgement. Many late-1980s Estonian stories are detailed but depend on testimony transmitted through UFO networks or later compilations. Such cases can be valuable for folklore, memory and local history without being strong evidence for exotic technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.para-web.org/showthread.php?tid=4729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: para-web.org">[para-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">para-web.org</span><span class="citation-popover-title">Estonian UFO-cases</span><span class="citation-popover-snippet">Estonian UFO-cases</span></span></span>
+**Contested UFO claims.** This category includes historical close encounters, alleged craft, humanoid accounts and anomalous objects whose public documentation is too incomplete for firm judgement. Many late-1980s Estonian stories are detailed but depend on testimony transmitted through UFO networks or later compilations. Such cases can be valuable for folklore, memory and local history without being strong evidence for exotic technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.para-web.org/showthread.php?tid=4729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: para-web.org">[para-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">para-web.org</span><span class="citation-popover-title">Estonian UFO-cases</span><span class="citation-popover-snippet">Estonian UFO-cases</span></span></span>
 
-**Likely debunked or explained cases.** Modern video-friendly events are often the easiest to reassess. ERR’s 2026 report on a “burning object” over central Estonia said it was likely aircraft contrails under particular lighting conditions; the report explained how contrails form and persist when warm moist engine exhaust meets very cold air. Another ERR report on a glowing spiral over Estonia said experts considered an expiring rocket booster, probably linked to SpaceX, the likely cause, with the spiral shape consistent with a rotating rocket stage discharging gas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://klassikaraadio.err.ee/1117882/suveduur-11-augustil-pohjamaade-film-euroopa-liidu-noorteorkester/1083635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: klassikaraadio.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">klassikaraadio.err.ee</span><span class="citation-popover-title">suveduur 11 augustil pohjamaade film euroopa liidu noorteorkester</span><span class="citation-popover-snippet">suveduur 11 augustil pohjamaade film euroopa liidu noorteorkester</span></span></span>
+**Likely debunked or explained cases.** Modern video-friendly events are often the easiest to reassess. ERR’s 2026 report on a “burning object” over central Estonia said it was likely aircraft contrails under particular lighting conditions; the report explained how contrails form and persist when warm moist engine exhaust meets very cold air. Another ERR report on a glowing spiral over Estonia said experts considered an expiring rocket booster, probably linked to SpaceX, the likely cause, with the spiral shape consistent with a rotating rocket stage discharging gas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://klassikaraadio.err.ee/1117882/suveduur-11-augustil-pohjamaade-film-euroopa-liidu-noorteorkester/1083635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: klassikaraadio.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">klassikaraadio.err.ee</span><span class="citation-popover-title">suveduur 11 augustil pohjamaade film euroopa liidu noorteorkester</span><span class="citation-popover-snippet">suveduur 11 augustil pohjamaade film euroopa liidu noorteorkester</span></span></span>
 
 This split is not dismissive; it is protective. Without it, Estonia’s well-attested meteor and aerospace events get mixed with weakly documented extraordinary claims, making both harder to understand.
 
 <img src="{{ "/assets/images/Estonia_f0a96d-Illustration-2-dark.svg" | relative_url }}" alt="What Really Shapes Estonia&#x27;s UFO Record? illustration 2" data-theme-src-dark="{{ "/assets/images/Estonia_f0a96d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Estonia_f0a96d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What folklorists add that UFO databases cannot
 
-Estonian UFO accounts are especially interesting because folklorists have studied them as living narrative traditions. Mare Kõiva’s “Some Aspects of UFO-lore” treats UFO stories as part of contemporary folklore and shows how alien-encounter narratives reuse older motifs: journeys with non-human beings, marks left on the body, illness, miraculous abilities and frightening night visitors. In one discussed case involving a boy named Raido, the story initially gained credibility through family testimony and media treatment, but the boy later said it had been a dream and the grandmother withdrew the claim about marks on his body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore.ee/tagused/nr55/kroonika.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore.ee">[folklore.ee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore.ee</span><span class="citation-popover-snippet">Open source on folklore.ee.</span></span></span>
+Estonian UFO accounts are especially interesting because folklorists have studied them as living narrative traditions. Mare Kõiva’s “Some Aspects of UFO-lore” treats UFO stories as part of contemporary folklore and shows how alien-encounter narratives reuse older motifs: journeys with non-human beings, marks left on the body, illness, miraculous abilities and frightening night visitors. In one discussed case involving a boy named Raido, the story initially gained credibility through family testimony and media treatment, but the boy later said it had been a dream and the grandmother withdrew the claim about marks on his body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore.ee/tagused/nr55/kroonika.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore.ee">[folklore.ee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore.ee</span><span class="citation-popover-snippet">Open source on folklore.ee.</span></span></span>
 
 That example is one of the most instructive Estonian cases precisely because it changes shape under scrutiny. It begins like a classic abduction account, is amplified by television, is interpreted through UFO motifs, and then partially collapses. For evidence assessment, it warns against relying on narrative coherence alone. For cultural history, it shows why such stories spread: they give people a language for fear, wonder, altered memory and experiences that do not fit everyday categories.
 
-Ülo Valk’s review of Volke’s 2023 collection, *Eesti anomaalsete keskkonnanähtuste X-failid*, makes a similar point from another angle. The review describes the volume as a broad entry into experience stories collected in Estonia from 1972 to 2022 and places anomalistics and ufology at the margins of science but within the history of human thought and culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.keeljakirjandus.ee/ee/archives/37487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keeljakirjandus.ee">[Keel ja Kirjandus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keeljakirjandus.ee</span><span class="citation-popover-title">Keel ja Kirjandus UFO-d ja anomaaliad kogemusjuttudes</span><span class="citation-popover-snippet">Keel ja Kirjandus UFO-d ja anomaaliad kogemusjuttudes</span></span></span>
+Ülo Valk’s review of Volke’s 2023 collection, *Eesti anomaalsete keskkonnanähtuste X-failid*, makes a similar point from another angle. The review describes the volume as a broad entry into experience stories collected in Estonia from 1972 to 2022 and places anomalistics and ufology at the margins of science but within the history of human thought and culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.keeljakirjandus.ee/ee/archives/37487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keeljakirjandus.ee">[Keel ja Kirjandus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keeljakirjandus.ee</span><span class="citation-popover-title">Keel ja Kirjandus UFO-d ja anomaaliad kogemusjuttudes</span><span class="citation-popover-snippet">Keel ja Kirjandus UFO-d ja anomaaliad kogemusjuttudes</span></span></span>
 
 <img src="{{ "/assets/images/Estonia_f0a96d-Illustration-3-dark.svg" | relative_url }}" alt="What Really Shapes Estonia&#x27;s UFO Record? illustration 3" data-theme-src-dark="{{ "/assets/images/Estonia_f0a96d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Estonia_f0a96d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Local-source reliability: what to trust, and what to handle carefully
 
 The strongest Estonian UFO sources are not always the most dramatic ones. For public readers, reliability improves when a claim has a named location, a date, multiple independent witnesses, instrument data, expert comment and a plausible comparison with astronomy or aviation.
 
-ERR reporting is useful for recent cases because it often brings in named experts or specific physical explanations. Tartu Observatory is useful context because it is Estonia’s recognised space research and astronomy institution, with work in astronomy, remote sensing and space technology. Meteorite-crater publications are useful because they show Estonia’s real history of cosmic impacts without treating every strange light as mysterious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kosmos.ut.ee/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosmos.ut.ee">[Tartu Ülikool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosmos.ut.ee</span><span class="citation-popover-title">Tartu Ülikool Home &#124; University of Tartu</span><span class="citation-popover-snippet">Tartu Ülikool Home &#124; University of Tartu</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.geocollections.info/d898247e-0a53-4489-a7df-d5235be8516a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.geocollections.info">[2files.geocollections.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.geocollections.info</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+ERR reporting is useful for recent cases because it often brings in named experts or specific physical explanations. Tartu Observatory is useful context because it is Estonia’s recognised space research and astronomy institution, with work in astronomy, remote sensing and space technology. Meteorite-crater publications are useful because they show Estonia’s real history of cosmic impacts without treating every strange light as mysterious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kosmos.ut.ee/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kosmos.ut.ee">[Tartu Ülikool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kosmos.ut.ee</span><span class="citation-popover-title">Tartu Ülikool Home &#124; University of Tartu</span><span class="citation-popover-snippet">Tartu Ülikool Home &#124; University of Tartu</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://files.geocollections.info/d898247e-0a53-4489-a7df-d5235be8516a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.geocollections.info">[2files.geocollections.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.geocollections.info</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Private UFO archives and enthusiast compilations are more complicated. They preserve reports that might otherwise vanish, especially from the Soviet and immediate post-Soviet period, but they often lack the documentation a sceptical investigator would want. The Para-web compilation of Estonian cases, for example, includes many named locations and dates, but the entries are mostly secondary summaries citing UFO-network sources, magazines or other researchers rather than publicly accessible case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.para-web.org/showthread.php?action=newpost&amp;tid=4729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: para-web.org">[para-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">para-web.org</span><span class="citation-popover-snippet">Open source on para-web.org.</span></span></span>
+Private UFO archives and enthusiast compilations are more complicated. They preserve reports that might otherwise vanish, especially from the Soviet and immediate post-Soviet period, but they often lack the documentation a sceptical investigator would want. The Para-web compilation of Estonian cases, for example, includes many named locations and dates, but the entries are mostly secondary summaries citing UFO-network sources, magazines or other researchers rather than publicly accessible case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.para-web.org/showthread.php?action=newpost&amp;tid=4729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: para-web.org">[para-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">para-web.org</span><span class="citation-popover-snippet">Open source on para-web.org.</span></span></span>
 
-Media profiles of Volke and AKRAK are valuable for understanding who collected reports and how many reports were said to arrive, but they do not turn the underlying cases into verified events. ERR’s 2020 programme is explicit about the evidential problem: despite numerous reports and images, tangible evidence was scarce and many photos were poor because the events were sudden, distant and confusing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609855863/harju-county-security-camera-picks-up-impressive-meteor-flash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">harju county security camera picks up impressive meteor flash</span><span class="citation-popover-snippet">harju county security camera picks up impressive meteor flash</span></span></span>
+Media profiles of Volke and AKRAK are valuable for understanding who collected reports and how many reports were said to arrive, but they do not turn the underlying cases into verified events. ERR’s 2020 programme is explicit about the evidential problem: despite numerous reports and images, tangible evidence was scarce and many photos were poor because the events were sudden, distant and confusing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.err.ee/1609855863/harju-county-security-camera-picks-up-impressive-meteor-flash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.err.ee">[ERR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.err.ee</span><span class="citation-popover-title">harju county security camera picks up impressive meteor flash</span><span class="citation-popover-snippet">harju county security camera picks up impressive meteor flash</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0pbvTrxpT6s" title="25 Creatures in Estonian Folklore &amp; Mythology 🇪🇪" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0pbvTrxpT6s" target="_blank" rel="noopener noreferrer">25 Creatures in Estonian Folklore &amp; Mythology 🇪🇪</a></p><p class="youtube-embed-meta">Channel: The Jolly Reiver &middot; Views: 62.4K &middot; Uploaded: December 2024 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0pbvTrxpT6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0pbvTrxpT6s">Open on YouTube</a></p></div></div></div>
 
@@ -1277,194 +1277,194 @@ The unresolved Estonian material should be read with disciplined curiosity. The 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Dxpvx9dS1oU" title="Estonia&#x27;s Forgotten UFO Phenomena: What Few Know About the Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Dxpvx9dS1oU" target="_blank" rel="noopener noreferrer">Estonia&#x27;s Forgotten UFO Phenomena: What Few Know About the Mystery</a></p><p class="youtube-embed-meta">Channel: Stories Lost &middot; Views: 65.5K &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Dxpvx9dS1oU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Dxpvx9dS1oU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Shapes Estonia&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Shapes Estonia&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Strong match for Estonia&#x27;s blend of folklore, media, and sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for Estonia&#x27;s blend of folklore, media, and sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how sightings are categorized and studied.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how sightings are categorized and studied.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating credible and non-credible reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating credible and non-credible reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
+</h4>
+<p class="fr-book-author">By Colin Dickey</p>
         
-        <p class="fr-book-desc">Fits Estonia&#x27;s folklore-heavy UFO tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits Estonia&#x27;s folklore-heavy UFO tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-estonia-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-shapes-estonia-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1480,7 +1480,7 @@ The unresolved Estonian material should be read with disciplined curiosity. The 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1500,7 +1500,7 @@ The unresolved Estonian material should be read with disciplined curiosity. The 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1532,7 +1532,7 @@ The unresolved Estonian material should be read with disciplined curiosity. The 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1584,7 +1584,7 @@ The unresolved Estonian material should be read with disciplined curiosity. The 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1629,7 +1629,7 @@ The unresolved Estonian material should be read with disciplined curiosity. The 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1670,155 +1670,155 @@ The unresolved Estonian material should be read with disciplined curiosity. The 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.err.ee  
    Title: 'UFO' filmed over central Estonian skies likely airplane contrails | News | ERR  
-   Link: <a href="https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails</a>  
+   Link:<a href="https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609951076/ufo-filmed-over-central-estonian-skies-likely-airplane-contrails</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.err.ee  
    Title: Extra-bright bolide meteor seen over Estonia, Latvia | News | ERR  
-   Link: <a href="https://news.err.ee/1609911673/extra-bright-bolide-meteor-seen-over-estonia-latvia" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609911673/extra-bright-bolide-meteor-seen-over-estonia-latvia</a>  
+   Link:<a href="https://news.err.ee/1609911673/extra-bright-bolide-meteor-seen-over-estonia-latvia" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609911673/extra-bright-bolide-meteor-seen-over-estonia-latvia</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.err.ee  
-   Link: <a href="https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris</a>  
+   Link:<a href="https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609331910/mysterious-glowing-spiral-over-estonian-skies-likely-spacex-rocket-debris</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: eeter.err.ee  
    Title: Ufoloog Igor Volke saab siiani ca 12 UFO-signaali aastas | Pealtnägija | ERR  
-   Link: <a href="https://eeter.err.ee/1059661/ufoloog-igor-volke-saab-siiani-ca-12-ufo-signaali-aastas" target="_blank" rel="noopener noreferrer nofollow">https://eeter.err.ee/1059661/ufoloog-igor-volke-saab-siiani-ca-12-ufo-signaali-aastas</a>  
+   Link:<a href="https://eeter.err.ee/1059661/ufoloog-igor-volke-saab-siiani-ca-12-ufo-signaali-aastas" target="_blank" rel="noopener noreferrer nofollow">https://eeter.err.ee/1059661/ufoloog-igor-volke-saab-siiani-ca-12-ufo-signaali-aastas</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Anomaalsete Keskkonnanähtuste Registreerimise ja Analüüsi Komisjon – Vikipeedia  
-   Link: <a href="https://et.wikipedia.org/wiki/Anomaalsete_Keskkonnan%C3%A4htuste_Registreerimise_ja_Anal%C3%BC%C3%BCsi_Komisjon" target="_blank" rel="noopener noreferrer nofollow">https://et.wikipedia.org/wiki/Anomaalsete_Keskkonnan%C3%A4htuste_Registreerimise_ja_Anal%C3%BC%C3%BCsi_Komisjon</a>  
+   Link:<a href="https://et.wikipedia.org/wiki/Anomaalsete_Keskkonnan%C3%A4htuste_Registreerimise_ja_Anal%C3%BC%C3%BCsi_Komisjon" target="_blank" rel="noopener noreferrer nofollow">https://et.wikipedia.org/wiki/Anomaalsete_Keskkonnan%C3%A4htuste_Registreerimise_ja_Anal%C3%BC%C3%BCsi_Komisjon</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: para-web.org  
    Title: Estonian UFO-cases  
-   Link: <a href="https://www.para-web.org/showthread.php?tid=4729" target="_blank" rel="noopener noreferrer nofollow">https://www.para-web.org/showthread.php?tid=4729</a>  
+   Link:<a href="https://www.para-web.org/showthread.php?tid=4729" target="_blank" rel="noopener noreferrer nofollow">https://www.para-web.org/showthread.php?tid=4729</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: folklore.ee  
-   Link: <a href="https://www.folklore.ee/rl/pubte/ee/sator/sator5/ufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/rl/pubte/ee/sator/sator5/ufo.pdf</a>  
+   Link:<a href="https://www.folklore.ee/rl/pubte/ee/sator/sator5/ufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/rl/pubte/ee/sator/sator5/ufo.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mapy.com  
-   Link: <a href="https://mapy.com/en/?id=150425775&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=150425775&amp;source=osm</a>  
+   Link:<a href="https://mapy.com/en/?id=150425775&amp;source=osm" target="_blank" rel="noopener noreferrer nofollow">https://mapy.com/en/?id=150425775&amp;source=osm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: laternamatkad.ee  
    Title: Viimsi and Merivälja  
-   Link: <a href="https://laternamatkad.ee/en/matk/viimsi" target="_blank" rel="noopener noreferrer nofollow">https://laternamatkad.ee/en/matk/viimsi</a>  
+   Link:<a href="https://laternamatkad.ee/en/matk/viimsi" target="_blank" rel="noopener noreferrer nofollow">https://laternamatkad.ee/en/matk/viimsi</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: files.geocollections.info  
-   Link: <a href="https://files.geocollections.info/d898247e-0a53-4489-a7df-d5235be8516a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.geocollections.info/d898247e-0a53-4489-a7df-d5235be8516a.pdf</a>  
+   Link:<a href="https://files.geocollections.info/d898247e-0a53-4489-a7df-d5235be8516a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.geocollections.info/d898247e-0a53-4489-a7df-d5235be8516a.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: news.err.ee  
-   Link: <a href="https://news.err.ee/1609976409/bright-object-passing-over-south-estonia-s-skies-picked-up-by-volunteer-camera-network" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609976409/bright-object-passing-over-south-estonia-s-skies-picked-up-by-volunteer-camera-network</a>  
+   Link:<a href="https://news.err.ee/1609976409/bright-object-passing-over-south-estonia-s-skies-picked-up-by-volunteer-camera-network" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609976409/bright-object-passing-over-south-estonia-s-skies-picked-up-by-volunteer-camera-network</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: para-web.org  
-   Link: <a href="https://www.para-web.org/showthread.php?action=newpost&amp;tid=4729" target="_blank" rel="noopener noreferrer nofollow">https://www.para-web.org/showthread.php?action=newpost&amp;tid=4729</a>  
+   Link:<a href="https://www.para-web.org/showthread.php?action=newpost&amp;tid=4729" target="_blank" rel="noopener noreferrer nofollow">https://www.para-web.org/showthread.php?action=newpost&amp;tid=4729</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: para-web.org  
-   Link: <a href="https://www.para-web.org/archive/index.php?thread-4729.html=" target="_blank" rel="noopener noreferrer nofollow">https://www.para-web.org/archive/index.php?thread-4729.html=</a>  
+   Link:<a href="https://www.para-web.org/archive/index.php?thread-4729.html=" target="_blank" rel="noopener noreferrer nofollow">https://www.para-web.org/archive/index.php?thread-4729.html=</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: List of ufologists  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_ufologists" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_ufologists</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_ufologists" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_ufologists</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Igor Volke  
-   Link: <a href="https://en.wikipedia.org/wiki/Igor_Volke" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Igor_Volke</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Igor_Volke" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Igor_Volke</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eeter.err.ee  
    Title: igor volke on ufo t nainud kolmel korral  
-   Link: <a href="https://eeter.err.ee/601588/igor-volke-on-ufo-t-nainud-kolmel-korral" target="_blank" rel="noopener noreferrer nofollow">https://eeter.err.ee/601588/igor-volke-on-ufo-t-nainud-kolmel-korral</a>  
+   Link:<a href="https://eeter.err.ee/601588/igor-volke-on-ufo-t-nainud-kolmel-korral" target="_blank" rel="noopener noreferrer nofollow">https://eeter.err.ee/601588/igor-volke-on-ufo-t-nainud-kolmel-korral</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: klassikaraadio.err.ee  
    Title: suveduur 11 augustil pohjamaade film euroopa liidu noorteorkester  
-   Link: <a href="https://klassikaraadio.err.ee/1117882/suveduur-11-augustil-pohjamaade-film-euroopa-liidu-noorteorkester/1083635" target="_blank" rel="noopener noreferrer nofollow">https://klassikaraadio.err.ee/1117882/suveduur-11-augustil-pohjamaade-film-euroopa-liidu-noorteorkester/1083635</a>  
+   Link:<a href="https://klassikaraadio.err.ee/1117882/suveduur-11-augustil-pohjamaade-film-euroopa-liidu-noorteorkester/1083635" target="_blank" rel="noopener noreferrer nofollow">https://klassikaraadio.err.ee/1117882/suveduur-11-augustil-pohjamaade-film-euroopa-liidu-noorteorkester/1083635</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.err.ee  
    Title: harju county security camera picks up impressive meteor flash  
-   Link: <a href="https://news.err.ee/1609855863/harju-county-security-camera-picks-up-impressive-meteor-flash" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609855863/harju-county-security-camera-picks-up-impressive-meteor-flash</a>  
+   Link:<a href="https://news.err.ee/1609855863/harju-county-security-camera-picks-up-impressive-meteor-flash" target="_blank" rel="noopener noreferrer nofollow">https://news.err.ee/1609855863/harju-county-security-camera-picks-up-impressive-meteor-flash</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: folklore.ee  
-   Link: <a href="https://www.folklore.ee/tagused/nr55/kroonika.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/tagused/nr55/kroonika.pdf</a>  
+   Link:<a href="https://www.folklore.ee/tagused/nr55/kroonika.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/tagused/nr55/kroonika.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: folklore.ee  
-   Link: <a href="https://folklore.ee/tagused/sites/default/files/2025-10/mt55x.pdf" target="_blank" rel="noopener noreferrer nofollow">https://folklore.ee/tagused/sites/default/files/2025-10/mt55x.pdf</a>  
+   Link:<a href="https://folklore.ee/tagused/sites/default/files/2025-10/mt55x.pdf" target="_blank" rel="noopener noreferrer nofollow">https://folklore.ee/tagused/sites/default/files/2025-10/mt55x.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: kosmos.ut.ee  
    Title: Tartu Ülikool Home | University of Tartu  
-   Link: <a href="https://kosmos.ut.ee/en" target="_blank" rel="noopener noreferrer nofollow">https://kosmos.ut.ee/en</a>  
+   Link:<a href="https://kosmos.ut.ee/en" target="_blank" rel="noopener noreferrer nofollow">https://kosmos.ut.ee/en</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: keeljakirjandus.ee  
    Title: Keel ja Kirjandus UFO-d ja anomaaliad kogemusjuttudes  
-   Link: <a href="https://www.keeljakirjandus.ee/ee/archives/37487" target="_blank" rel="noopener noreferrer nofollow">https://www.keeljakirjandus.ee/ee/archives/37487</a>  
+   Link:<a href="https://www.keeljakirjandus.ee/ee/archives/37487" target="_blank" rel="noopener noreferrer nofollow">https://www.keeljakirjandus.ee/ee/archives/37487</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: magiccarpets.eu  
    Title: tartu observatory  
-   Link: <a href="https://magiccarpets.eu/communities/tartu-observatory/" target="_blank" rel="noopener noreferrer nofollow">https://magiccarpets.eu/communities/tartu-observatory/</a>  
+   Link:<a href="https://magiccarpets.eu/communities/tartu-observatory/" target="_blank" rel="noopener noreferrer nofollow">https://magiccarpets.eu/communities/tartu-observatory/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: meetup.com  
-   Link: <a href="https://www.meetup.com/tallinn-mystery-meetup-group/events/314805151/?eventOrigin=find_city_landing_topical_event" target="_blank" rel="noopener noreferrer nofollow">https://www.meetup.com/tallinn-mystery-meetup-group/events/314805151/?eventOrigin=find_city_landing_topical_event</a>  
+   Link:<a href="https://www.meetup.com/tallinn-mystery-meetup-group/events/314805151/?eventOrigin=find_city_landing_topical_event" target="_blank" rel="noopener noreferrer nofollow">https://www.meetup.com/tallinn-mystery-meetup-group/events/314805151/?eventOrigin=find_city_landing_topical_event</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yAPaN9UkvBc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yAPaN9UkvBc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Häädemeeste UFO- täispikk/FULL MOVIE ©2010...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yAPaN9UkvBc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yAPaN9UkvBc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Häädemeeste UFO- täispikk/FULL MOVIE ©2010...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/C45M-W6MX5S/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C45M-W6MX5S/</a>  
+   Link:<a href="https://www.instagram.com/p/C45M-W6MX5S/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C45M-W6MX5S/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/300372313_Pan-Eurasian_Experiment_PEEX_Towards_holistic_understanding_of_the_feedbacks_and_interactions_in_the_land-atmosphere-ocean-society_continuum_in_the_Northern_Eurasian_region" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/300372313_Pan-Eurasian_Experiment_PEEX_Towards_holistic_understanding_of_the_feedbacks_and_interactions_in_the_land-atmosphere-ocean-society_continuum_in_the_Northern_Eurasian_region</a>  
+   Link:<a href="https://www.researchgate.net/publication/300372313_Pan-Eurasian_Experiment_PEEX_Towards_holistic_understanding_of_the_feedbacks_and_interactions_in_the_land-atmosphere-ocean-society_continuum_in_the_Northern_Eurasian_region" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/300372313_Pan-Eurasian_Experiment_PEEX_Towards_holistic_understanding_of_the_feedbacks_and_interactions_in_the_land-atmosphere-ocean-society_continuum_in_the_Northern_Eurasian_region</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSBoston/posts/a-flying-saucer-like-blue-spiral-was-seen-in-the-night-sky-over-europe-but-meteo/1042542991244372/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSBoston/posts/a-flying-saucer-like-blue-spiral-was-seen-in-the-night-sky-over-europe-but-meteo/1042542991244372/</a>  
+   Link:<a href="https://www.facebook.com/CBSBoston/posts/a-flying-saucer-like-blue-spiral-was-seen-in-the-night-sky-over-europe-but-meteo/1042542991244372/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSBoston/posts/a-flying-saucer-like-blue-spiral-was-seen-in-the-night-sky-over-europe-but-meteo/1042542991244372/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: allsky7.net  
-   Link: <a href="https://www.allsky7.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.allsky7.net/</a>  
+   Link:<a href="https://www.allsky7.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.allsky7.net/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DLpL3RJBeAK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DLpL3RJBeAK/</a>  
+   Link:<a href="https://www.instagram.com/reel/DLpL3RJBeAK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DLpL3RJBeAK/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: luxtoday.lu  
-   Link: <a href="https://luxtoday.lu/en/incidents/blue-spiral-over-europe-science-vs-ufos" target="_blank" rel="noopener noreferrer nofollow">https://luxtoday.lu/en/incidents/blue-spiral-over-europe-science-vs-ufos</a>  
+   Link:<a href="https://luxtoday.lu/en/incidents/blue-spiral-over-europe-science-vs-ufos" target="_blank" rel="noopener noreferrer nofollow">https://luxtoday.lu/en/incidents/blue-spiral-over-europe-science-vs-ufos</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/courierjournal/posts/dashcam-from-a-police-vehicle-captured-a-bright-meteor-appear-green-as-it-lit-up/1229516379207345/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/courierjournal/posts/dashcam-from-a-police-vehicle-captured-a-bright-meteor-appear-green-as-it-lit-up/1229516379207345/</a>  
+   Link:<a href="https://www.facebook.com/courierjournal/posts/dashcam-from-a-police-vehicle-captured-a-bright-meteor-appear-green-as-it-lit-up/1229516379207345/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/courierjournal/posts/dashcam-from-a-police-vehicle-captured-a-bright-meteor-appear-green-as-it-lit-up/1229516379207345/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ecaade.org  
-   Link: <a href="https://ecaade.org/current/wp-content/uploads/2024/10/eCAADe2024_Volume2_240927-R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ecaade.org/current/wp-content/uploads/2024/10/eCAADe2024_Volume2_240927-R.pdf</a>  
+   Link:<a href="https://ecaade.org/current/wp-content/uploads/2024/10/eCAADe2024_Volume2_240927-R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ecaade.org/current/wp-content/uploads/2024/10/eCAADe2024_Volume2_240927-R.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: eeta.ee  
-   Link: <a href="https://eeta.ee/" target="_blank" rel="noopener noreferrer nofollow">https://eeta.ee/</a>
+   Link:<a href="https://eeta.ee/" target="_blank" rel="noopener noreferrer nofollow">https://eeta.ee/</a>

@@ -1199,24 +1199,24 @@ That makes Singapore useful for a country-by-country UFO project precisely becau
 <img src="{{ "/assets/images/Singapore_20c0b7-overview.webp" | relative_url }}" alt="Overview image for What Singapore UFO Sightings Really Show" loading="eager" decoding="sync" fetchpriority="high">
 ## Singapore’s short UFO chronology is mostly a history of misidentification
 
-The earliest reliable Singapore-centred material is thin and newspaper-led. In the early post-war decades, local English-language papers carried many imported “flying saucer” stories from Europe and the United States, showing that Singapore readers were part of the global saucer craze even when the incidents themselves happened elsewhere. A 1956 Straits Times review of Edward J. Ruppelt’s *Report on Unidentified Flying Objects* noted Ruppelt’s role as the former officer in charge of the US Air Force investigation, indicating that Singapore newspapers were not merely printing sensational tales but also tracking the official American debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">NLB e Resources Newspaper SG</span><span class="citation-popover-snippet">NLB e Resources Newspaper SG</span></span></span>
+The earliest reliable Singapore-centred material is thin and newspaper-led. In the early post-war decades, local English-language papers carried many imported “flying saucer” stories from Europe and the United States, showing that Singapore readers were part of the global saucer craze even when the incidents themselves happened elsewhere. A 1956 Straits Times review of Edward J. Ruppelt’s *Report on Unidentified Flying Objects* noted Ruppelt’s role as the former officer in charge of the US Air Force investigation, indicating that Singapore newspapers were not merely printing sensational tales but also tracking the official American debate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">NLB e Resources Newspaper SG</span><span class="citation-popover-snippet">NLB e Resources Newspaper SG</span></span></span>
 
-The clearest local incident came on 26 October 1954. The Straits Times reported that a white round object floating high over Geylang Serai had started a flying-saucer scare after several cloudy days. The explanation was immediate and mundane: RAF observation posts said it was a meteorological balloon from Paya Lebar. This case matters because it contains the elements missing from many UFO reports: place, date, visual description, official observation and an identified source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">NLB e Resources Newspaper SG</span><span class="citation-popover-snippet">NLB e Resources Newspaper SG</span></span></span>
+The clearest local incident came on 26 October 1954. The Straits Times reported that a white round object floating high over Geylang Serai had started a flying-saucer scare after several cloudy days. The explanation was immediate and mundane: RAF observation posts said it was a meteorological balloon from Paya Lebar. This case matters because it contains the elements missing from many UFO reports: place, date, visual description, official observation and an identified source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">NLB e Resources Newspaper SG</span><span class="citation-popover-snippet">NLB e Resources Newspaper SG</span></span></span>
 
-A separate declassified CIA-catalogued item from the same 1954 wave refers to a mysterious fast-moving light over Singapore on the night of 4 September, reportedly seen over an airfield and reported to British aviation authorities at Kallang. The source chain is weaker: it appears in a US intelligence collection drawing on a Calcutta newspaper report, not a full Singapore investigation file. It should therefore be treated as contested archival evidence, useful as a trace of a reported incident but not strong enough to establish an unexplained aviation event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1954.00%20-%20NARA%20-%20CIAUFO%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%2C%2031%20JULY-20%20SEPTEMBER.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20</span><span class="citation-popover-snippet">SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20</span></span></span>
+A separate declassified CIA-catalogued item from the same 1954 wave refers to a mysterious fast-moving light over Singapore on the night of 4 September, reportedly seen over an airfield and reported to British aviation authorities at Kallang. The source chain is weaker: it appears in a US intelligence collection drawing on a Calcutta newspaper report, not a full Singapore investigation file. It should therefore be treated as contested archival evidence, useful as a trace of a reported incident but not strong enough to establish an unexplained aviation event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1954.00%20-%20NARA%20-%20CIAUFO%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%2C%2031%20JULY-20%20SEPTEMBER.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20</span><span class="citation-popover-snippet">SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20</span></span></span>
 
-More recent cases have been shaped by phones and social media rather than newspaper letters. On 10 December 2023, an orange vertical light visible from northern Singapore caused online curiosity after images were posted from Yishun; a National Institute of Education expert cited in The Straits Times said it could be a reflection from flares originating at oil refineries in Johor. On 24 May 2024, a bright fireball seen in eastern Singapore at about 11.47pm to 11.50pm was filmed by multiple witnesses; Channel NewsAsia reported that NUS physicists considered it likely to be an object from space burning up in Earth’s atmosphere, though the exact object could not be identified without trajectory or remnant evidence. Corporate NTU <span class="citation-chip-wrap"><a class="citation-chip" href="https://mothership.sg/2024/05/bright-meteor-light-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mothership.sg">[2mothership.sg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mothership.sg</span><span class="citation-popover-title">bright meteor light sky</span><span class="citation-popover-snippet">bright meteor light sky</span></span></span>
+More recent cases have been shaped by phones and social media rather than newspaper letters. On 10 December 2023, an orange vertical light visible from northern Singapore caused online curiosity after images were posted from Yishun; a National Institute of Education expert cited in The Straits Times said it could be a reflection from flares originating at oil refineries in Johor. On 24 May 2024, a bright fireball seen in eastern Singapore at about 11.47pm to 11.50pm was filmed by multiple witnesses; Channel NewsAsia reported that NUS physicists considered it likely to be an object from space burning up in Earth’s atmosphere, though the exact object could not be identified without trajectory or remnant evidence. Corporate NTU<span class="citation-chip-wrap"><a class="citation-chip" href="https://mothership.sg/2024/05/bright-meteor-light-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mothership.sg">[2mothership.sg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mothership.sg</span><span class="citation-popover-title">bright meteor light sky</span><span class="citation-popover-snippet">bright meteor light sky</span></span></span>
 
 <img src="{{ "/assets/images/Singapore_20c0b7-Illustration-1-dark.svg" | relative_url }}" alt="What Singapore UFO Sightings Really Show illustration 1" data-theme-src-dark="{{ "/assets/images/Singapore_20c0b7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Singapore_20c0b7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Singapore produces sky mysteries without many classic UFO cases
 
 Singapore’s UFO profile is shaped by geography. The island is highly urbanised, heavily lit, crossed by commercial flight paths and close to industrial zones in neighbouring Johor. That means sky phenomena are often seen by many people, but they are also easily confused with aviation lights, reflections, weather balloons, drones, satellites, meteors or industrial flare glow.
 
-Weather balloons are especially important. Singapore’s official aeronautical information lists regular meteorological balloon releases from the Upper Air Observatory and Changi Met Station, and describes balloons rising to about 35,000m before bursting, with equipment descending afterwards. Meteorological Service Singapore explains that radiosondes attached to helium-filled balloons measure wind, temperature, humidity and air pressure up to around 35km, and that releases are made around the same global observation times used by weather stations worldwide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2015-11-12-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=42ED5A70288140E000AAC19AB067A4103760FCBD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aim-sg.caas.gov.sg">[aim-sg.caas.gov.sg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aim-sg.caas.gov.sg</span><span class="citation-popover-title">ENR 5.3 en GB</span><span class="citation-popover-snippet">ENR 5.3 en GB</span></span></span>
+Weather balloons are especially important. Singapore’s official aeronautical information lists regular meteorological balloon releases from the Upper Air Observatory and Changi Met Station, and describes balloons rising to about 35,000m before bursting, with equipment descending afterwards. Meteorological Service Singapore explains that radiosondes attached to helium-filled balloons measure wind, temperature, humidity and air pressure up to around 35km, and that releases are made around the same global observation times used by weather stations worldwide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2015-11-12-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=42ED5A70288140E000AAC19AB067A4103760FCBD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aim-sg.caas.gov.sg">[aim-sg.caas.gov.sg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aim-sg.caas.gov.sg</span><span class="citation-popover-title">ENR 5.3 en GB</span><span class="citation-popover-snippet">ENR 5.3 en GB</span></span></span>
 
 This directly connects the modern system to the 1954 Geylang Serai case. A white, round, high-floating object over eastern Singapore is exactly the sort of sighting that can become a UFO report when viewed without context. Once Paya Lebar and upper-air operations are considered, the case becomes a textbook example of how an initially strange object can be identified.
 
-Drones add another modern layer. CAAS guidance says unmanned aircraft operated at night require enhanced lighting for visibility, and may require training, permits or licences depending on purpose, location, height and weight. Changi Airport’s guidance warns that unauthorised unmanned aircraft activity within 5km of the airport can endanger aviation and public safety, with penalties for unpermitted flights. These rules do not mean every strange light is a drone, but they do show why Singaporean UFO assessment now has to include regulated, human-made aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ask.gov.sg/caas/questions/clq3e4u7500hk10yesfbn7djm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ask.gov.sg">[AskGov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ask.gov.sg</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Drones add another modern layer. CAAS guidance says unmanned aircraft operated at night require enhanced lighting for visibility, and may require training, permits or licences depending on purpose, location, height and weight. Changi Airport’s guidance warns that unauthorised unmanned aircraft activity within 5km of the airport can endanger aviation and public safety, with penalties for unpermitted flights. These rules do not mean every strange light is a drone, but they do show why Singaporean UFO assessment now has to include regulated, human-made aerial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ask.gov.sg/caas/questions/clq3e4u7500hk10yesfbn7djm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ask.gov.sg">[AskGov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ask.gov.sg</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nlpOrTnhWwY" title="UFO in Singapore 8 June 2015 720pm Bukit Batok West Ave 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nlpOrTnhWwY" target="_blank" rel="noopener noreferrer">UFO in Singapore 8 June 2015 720pm Bukit Batok West Ave 5</a></p><p class="youtube-embed-meta">Channel: SimonVideo Electric Unicycle &middot; Views: 6.3K &middot; Uploaded: June 2015 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nlpOrTnhWwY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nlpOrTnhWwY">Open on YouTube</a></p></div></div></div>
 
@@ -1224,11 +1224,11 @@ Drones add another modern layer. CAAS guidance says unmanned aircraft operated a
 
 Singapore’s evidence quality is best understood in three tiers.
 
-**Confirmed ordinary phenomena.** The 1954 Geylang Serai “saucer” is the strongest confirmed case because the report itself includes the explanation: RAF observation posts identified the object as a meteorological balloon from Paya Lebar. The 2024 fireball is also strongly explained, although not identified down to a particular rock or fragment: NUS experts told CNA that it was likely a space object entering and burning up in the atmosphere, while noting that distinguishing comet, asteroid fragment or tracked space debris would require trajectory analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">NLB e Resources Newspaper SG</span><span class="citation-popover-snippet">NLB e Resources Newspaper SG</span></span></span>
+**Confirmed ordinary phenomena.** The 1954 Geylang Serai “saucer” is the strongest confirmed case because the report itself includes the explanation: RAF observation posts identified the object as a meteorological balloon from Paya Lebar. The 2024 fireball is also strongly explained, although not identified down to a particular rock or fragment: NUS experts told CNA that it was likely a space object entering and burning up in the atmosphere, while noting that distinguishing comet, asteroid fragment or tracked space debris would require trajectory analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">NLB e Resources Newspaper SG</span><span class="citation-popover-snippet">NLB e Resources Newspaper SG</span></span></span>
 
-**Plausibly explained but not fully reconstructed.** The 2023 orange vertical light belongs here. The suggested explanation — reflected light from industrial flares in Johor — fits Singapore’s northern sightlines and the reported visual appearance, but public reporting does not appear to provide a complete optical reconstruction. It is therefore a good example of a likely explanation rather than a laboratory-grade debunk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ntu.edu.sg/nie/news-events/news/detail/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntu.edu.sg">[Corporate NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntu.edu.sg</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Plausibly explained but not fully reconstructed.** The 2023 orange vertical light belongs here. The suggested explanation — reflected light from industrial flares in Johor — fits Singapore’s northern sightlines and the reported visual appearance, but public reporting does not appear to provide a complete optical reconstruction. It is therefore a good example of a likely explanation rather than a laboratory-grade debunk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ntu.edu.sg/nie/news-events/news/detail/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntu.edu.sg">[Corporate NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntu.edu.sg</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested archival fragments.** The 4 September 1954 airfield light report is interesting because it appears in declassified intelligence-linked material, but the evidence trail is indirect. It appears to rely on a foreign newspaper summary of reports to British aviation authorities, with no visible Singapore investigative file, radar record or follow-up analysis in the accessible result. It should be catalogued as a reported sighting, not as a solved case or proof of an extraordinary object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1954.00%20-%20NARA%20-%20CIAUFO%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%2C%2031%20JULY-20%20SEPTEMBER.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20</span><span class="citation-popover-snippet">SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20</span></span></span>
+**Contested archival fragments.** The 4 September 1954 airfield light report is interesting because it appears in declassified intelligence-linked material, but the evidence trail is indirect. It appears to rely on a foreign newspaper summary of reports to British aviation authorities, with no visible Singapore investigative file, radar record or follow-up analysis in the accessible result. It should be catalogued as a reported sighting, not as a solved case or proof of an extraordinary object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1954.00%20-%20NARA%20-%20CIAUFO%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%2C%2031%20JULY-20%20SEPTEMBER.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20</span><span class="citation-popover-snippet">SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20</span></span></span>
 
 This split is important for Singapore because the country has fewer famous cases than UFO-heavy branches such as the United States, the United Kingdom or France. The local record is not empty; it is simply dominated by cases where the evidential value comes from how quickly ordinary explanations emerge.
 
@@ -1237,11 +1237,11 @@ This split is important for Singapore because the country has fewer famous cases
 
 Singapore does not appear, from accessible public material, to have a dedicated national UFO investigation office comparable to the US All-domain Anomaly Resolution Office or France’s GEIPAN. The strongest Singapore-related sources are instead scattered across newspaper archives, aeronautical publications, meteorological documentation, social media reports and occasional foreign intelligence compilations.
 
-NewspaperSG is central for historical work because it preserves Singapore and Malaya newspaper issues and makes many article-level [records]({{ 'records-7bb423/' | relative_url }}) searchable. It is where the 1954 Geylang Serai report and 1950s flying-saucer coverage can be checked against publication date, page and wording, rather than repeated from later UFO retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">NLB e Resources Newspaper SG</span><span class="citation-popover-snippet">NLB e Resources Newspaper SG</span></span></span>
+NewspaperSG is central for historical work because it preserves Singapore and Malaya newspaper issues and makes many article-level [records]({{ 'records-7bb423/' | relative_url }}) searchable. It is where the 1954 Geylang Serai report and 1950s flying-saucer coverage can be checked against publication date, page and wording, rather than repeated from later UFO retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">NLB e Resources Newspaper SG</span><span class="citation-popover-snippet">NLB e Resources Newspaper SG</span></span></span>
 
-Official Singapore aviation and meteorological sources are more useful for explanation than for UFO drama. CAAS aeronautical information gives operational details for weather balloons; Meteorological Service Singapore explains why radiosondes are launched; Changi Airport and CAAS guidance explain how drones are controlled in Singapore’s tight airspace. Together, these sources form the practical “debunking infrastructure” for many sky reports. aim-sg.caas.gov.sg <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov.sg/learn_observations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov.sg">[Meteo Singapore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov.sg</span><span class="citation-popover-title">Meteo Singapore Observing The Weather</span><span class="citation-popover-snippet">Meteo Singapore Observing The Weather</span></span></span>
+Official Singapore aviation and meteorological sources are more useful for explanation than for UFO drama. CAAS aeronautical information gives operational details for weather balloons; Meteorological Service Singapore explains why radiosondes are launched; Changi Airport and CAAS guidance explain how drones are controlled in Singapore’s tight airspace. Together, these sources form the practical “debunking infrastructure” for many sky reports. aim-sg.caas.gov.sg<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov.sg/learn_observations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov.sg">[Meteo Singapore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov.sg</span><span class="citation-popover-title">Meteo Singapore Observing The Weather</span><span class="citation-popover-snippet">Meteo Singapore Observing The Weather</span></span></span>
 
-Foreign UAP standards help set expectations. NASA’s 2023 UAP independent study said there was no conclusive peer-reviewed evidence of extraterrestrial origin for UAP, and AARO’s public material states that the US Department of Defense has found no evidence of extraterrestrial technology. Those findings are not Singapore-specific, but they are useful guardrails: a Singapore sighting needs strong local evidence before it should be elevated beyond “unidentified to the witness”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+Foreign UAP standards help set expectations. NASA’s 2023 UAP independent study said there was no conclusive peer-reviewed evidence of extraterrestrial origin for UAP, and AARO’s public material states that the US Department of Defense has found no evidence of extraterrestrial technology. Those findings are not Singapore-specific, but they are useful guardrails: a Singapore sighting needs strong local evidence before it should be elevated beyond “unidentified to the witness”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R9d45BQZDq0" title="SPECIAL UFO REPORT - UFO Spotted in Singapore 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R9d45BQZDq0" target="_blank" rel="noopener noreferrer">SPECIAL UFO REPORT - UFO Spotted in Singapore 2021</a></p><p class="youtube-embed-meta">Channel: World Aquarium Singapore &middot; Views: 3.2K &middot; Uploaded: July 2021 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R9d45BQZDq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R9d45BQZDq0">Open on YouTube</a></p></div></div></div>
 
@@ -1249,20 +1249,20 @@ Foreign UAP standards help set expectations. NASA’s 2023 UAP independent study
 
 Singapore’s reported sky mysteries cluster around the places where people have open sightlines or relevant sources of aerial activity.
 
-The east has the strongest historical and recent anchors. Geylang Serai and Paya Lebar matter because the 1954 balloon scare was both seen in the area and explained by reference to Paya Lebar. Bedok and the eastern sky matter for the 24 May 2024 fireball, which was reported from eastern Singapore and filmed by witnesses looking across the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">NLB e Resources Newspaper SG</span><span class="citation-popover-snippet">NLB e Resources Newspaper SG</span></span></span>
+The east has the strongest historical and recent anchors. Geylang Serai and Paya Lebar matter because the 1954 balloon scare was both seen in the area and explained by reference to Paya Lebar. Bedok and the eastern sky matter for the 24 May 2024 fireball, which was reported from eastern Singapore and filmed by witnesses looking across the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">NLB e Resources Newspaper SG</span><span class="citation-popover-snippet">NLB e Resources Newspaper SG</span></span></span>
 
-The north appears in modern optical cases. The 2023 orange vertical light was reported from Yishun and visible from parts of northern Singapore. Its possible connection to reflected industrial flares in Johor is a reminder that Singapore UFO assessment sometimes requires cross-border geography without leaving the Singapore scope: the observation is Singaporean, but the light source may sit just across the water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ntu.edu.sg/nie/news-events/news/detail/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntu.edu.sg">[Corporate NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntu.edu.sg</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The north appears in modern optical cases. The 2023 orange vertical light was reported from Yishun and visible from parts of northern Singapore. Its possible connection to reflected industrial flares in Johor is a reminder that Singapore UFO assessment sometimes requires cross-border geography without leaving the Singapore scope: the observation is Singaporean, but the light source may sit just across the water.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ntu.edu.sg/nie/news-events/news/detail/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntu.edu.sg">[Corporate NTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntu.edu.sg</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Airport-adjacent skies are a third category. Kallang appears in the contested 1954 archival light report; Paya Lebar appears in the confirmed 1954 balloon explanation; Changi remains relevant today because drone restrictions and weather operations are part of the local aerial environment. In Singapore, “near an airfield” should raise the evidential bar, not lower it: there are more possible mundane sources, more safety implications and more need for exact timing, direction and corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1954.00%20-%20NARA%20-%20CIAUFO%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%2C%2031%20JULY-20%20SEPTEMBER.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20</span><span class="citation-popover-snippet">SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20</span></span></span>
+Airport-adjacent skies are a third category. Kallang appears in the contested 1954 archival light report; Paya Lebar appears in the confirmed 1954 balloon explanation; Changi remains relevant today because drone restrictions and weather operations are part of the local aerial environment. In Singapore, “near an airfield” should raise the evidential bar, not lower it: there are more possible mundane sources, more safety implications and more need for exact timing, direction and corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1954.00%20-%20NARA%20-%20CIAUFO%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%2C%2031%20JULY-20%20SEPTEMBER.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20</span><span class="citation-popover-snippet">SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20</span></span></span>
 
 <img src="{{ "/assets/images/Singapore_20c0b7-Illustration-3-dark.svg" | relative_url }}" alt="What Singapore UFO Sightings Really Show illustration 3" data-theme-src-dark="{{ "/assets/images/Singapore_20c0b7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Singapore_20c0b7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read a Singapore UFO report responsibly
 
 A useful Singapore UFO report should be assessed as a sky-observation problem before it is treated as an extraordinary claim. The basic questions are simple: where was the witness, what direction were they facing, how long did the object last, did it move with the wind, did it cross known flight paths, was there a balloon release, was there a meteor shower or fireball report, and could a drone, satellite flare or industrial reflection fit the timing?
 
-The 2024 fireball shows why this matters. To a casual witness, a sudden bright object crossing the sky can feel anomalous. To astronomers, the key details are trajectory, duration, brightness, fragmentation, possible sonic effects and whether any remnant survived. CNA’s expert discussion made clear that without trajectory analysis or recovered material, scientists may identify the class of event while still declining to name the exact object. That is a mature conclusion, not a weak one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.channelnewsasia.com/singapore/singapore-fireball-meteor-may-24-experts-share-what-know-4366441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: channelnewsasia.com">[CNA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">channelnewsasia.com</span><span class="citation-popover-title">singapore fireball meteor may 24 experts share what know 4366441</span><span class="citation-popover-snippet">singapore fireball meteor may 24 experts share what know 4366441</span></span></span>
+The 2024 fireball shows why this matters. To a casual witness, a sudden bright object crossing the sky can feel anomalous. To astronomers, the key details are trajectory, duration, brightness, fragmentation, possible sonic effects and whether any remnant survived. CNA’s expert discussion made clear that without trajectory analysis or recovered material, scientists may identify the class of event while still declining to name the exact object. That is a mature conclusion, not a weak one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.channelnewsasia.com/singapore/singapore-fireball-meteor-may-24-experts-share-what-know-4366441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: channelnewsasia.com">[CNA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">channelnewsasia.com</span><span class="citation-popover-title">singapore fireball meteor may 24 experts share what know 4366441</span><span class="citation-popover-snippet">singapore fireball meteor may 24 experts share what know 4366441</span></span></span>
 
-The same logic applies to balloons. Singapore’s weather balloons can rise far above normal aircraft altitude and drift before bursting; from the ground, a sunlit balloon can look stationary, round, white or metallic depending on light and distance. The 1954 Geylang Serai case is therefore not just a debunked curiosity. It is the reference case for interpreting later claims of pale, round, hovering objects over Singapore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">NLB e Resources Newspaper SG</span><span class="citation-popover-snippet">NLB e Resources Newspaper SG</span></span></span>
+The same logic applies to balloons. Singapore’s weather balloons can rise far above normal aircraft altitude and drift before bursting; from the ground, a sunlit balloon can look stationary, round, white or metallic depending on light and distance. The 1954 Geylang Serai case is therefore not just a debunked curiosity. It is the reference case for interpreting later claims of pale, round, hovering objects over Singapore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eresources.nlb.gov.sg">[NLB eResources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eresources.nlb.gov.sg</span><span class="citation-popover-title">NLB e Resources Newspaper SG</span><span class="citation-popover-snippet">NLB e Resources Newspaper SG</span></span></span>
 
 ## What Singapore adds to the wider country-by-country UFO project
 
@@ -1275,194 +1275,194 @@ The practical takeaway is modest but firm: Singapore has UFO reports, but the be
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-oqozlvwga8" title="UFO Reveal Asia: That One with The Ancient Aliens! | (Full Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-oqozlvwga8" target="_blank" rel="noopener noreferrer">UFO Reveal Asia: That One with The Ancient Aliens! | (Full Video)</a></p><p class="youtube-embed-meta">Channel: CCBTV &middot; Views: 9.0K &middot; Uploaded: March 2024 &middot; Length: 1 hour 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-oqozlvwga8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-oqozlvwga8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Singapore UFO Sightings Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Singapore UFO Sightings Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Matches Singapore&#x27;s pattern of media-driven and explainable sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches Singapore&#x27;s pattern of media-driven and explainable sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Ideal for understanding how ordinary sightings become UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal for understanding how ordinary sightings become UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context for assessing unidentified reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for assessing unidentified reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances unexplained cases with evidence-based investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances unexplained cases with evidence-based investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-singapore-ufo-sightings-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-singapore-ufo-sightings-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1478,7 +1478,7 @@ The practical takeaway is modest but firm: Singapore has UFO reports, but the be
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1498,7 +1498,7 @@ The practical takeaway is modest but firm: Singapore has UFO reports, but the be
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1530,7 +1530,7 @@ The practical takeaway is modest but firm: Singapore has UFO reports, but the be
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1582,7 +1582,7 @@ The practical takeaway is modest but firm: Singapore has UFO reports, but the be
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1627,7 +1627,7 @@ The practical takeaway is modest but firm: Singapore has UFO reports, but the be
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1665,439 +1665,438 @@ The practical takeaway is modest but firm: Singapore has UFO reports, but the be
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: eresources.nlb.gov.sg  
    Title: NLB e Resources Newspaper SG  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19541027-1</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ntu.edu.sg  
-   Link: <a href="https://www.ntu.edu.sg/nie/news-events/news/detail/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert" target="_blank" rel="noopener noreferrer nofollow">https://www.ntu.edu.sg/nie/news-events/news/detail/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert</a>  
+   Link:<a href="https://www.ntu.edu.sg/nie/news-events/news/detail/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert" target="_blank" rel="noopener noreferrer nofollow">https://www.ntu.edu.sg/nie/news-events/news/detail/it-s-not-dr-strange-no-need-to-be-alarmed-by-strange-orange-light-in-singapore-sky-says-expert</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: channelnewsasia.com  
    Title: singapore fireball meteor may 24 experts share what know 4366441  
-   Link: <a href="https://www.channelnewsasia.com/singapore/singapore-fireball-meteor-may-24-experts-share-what-know-4366441" target="_blank" rel="noopener noreferrer nofollow">https://www.channelnewsasia.com/singapore/singapore-fireball-meteor-may-24-experts-share-what-know-4366441</a>  
+   Link:<a href="https://www.channelnewsasia.com/singapore/singapore-fireball-meteor-may-24-experts-share-what-know-4366441" target="_blank" rel="noopener noreferrer nofollow">https://www.channelnewsasia.com/singapore/singapore-fireball-meteor-may-24-experts-share-what-know-4366441</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: eresources.nlb.gov.sg  
    Title: NLB e Resources Newspaper SG  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19560716-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19560716-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19560716-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19560716-1</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: files.bluebookfiles.org  
    Title: SIGHTING S OF UNIDENTIFIED FLYING OBJECTS, 31 JULY-20  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/1954.00%20-%20NARA%20-%20CIAUFO%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%2C%2031%20JULY-20%20SEPTEMBER.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1954.00%20-%20NARA%20-%20CIAUFO%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%2C%2031%20JULY-20%20SEPTEMBER.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/1954.00%20-%20NARA%20-%20CIAUFO%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%2C%2031%20JULY-20%20SEPTEMBER.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1954.00%20-%20NARA%20-%20CIAUFO%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%2C%2031%20JULY-20%20SEPTEMBER.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mothership.sg  
    Title: bright meteor light sky  
-   Link: <a href="https://mothership.sg/2024/05/bright-meteor-light-sky/" target="_blank" rel="noopener noreferrer nofollow">https://mothership.sg/2024/05/bright-meteor-light-sky/</a>  
+   Link:<a href="https://mothership.sg/2024/05/bright-meteor-light-sky/" target="_blank" rel="noopener noreferrer nofollow">https://mothership.sg/2024/05/bright-meteor-light-sky/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aim-sg.caas.gov.sg  
    Title: ENR 5.3 en GB  
-   Link: <a href="https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2015-11-12-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=42ED5A70288140E000AAC19AB067A4103760FCBD" target="_blank" rel="noopener noreferrer nofollow">https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2015-11-12-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=42ED5A70288140E000AAC19AB067A4103760FCBD</a>  
+   Link:<a href="https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2015-11-12-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=42ED5A70288140E000AAC19AB067A4103760FCBD" target="_blank" rel="noopener noreferrer nofollow">https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2015-11-12-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=42ED5A70288140E000AAC19AB067A4103760FCBD</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: weather.gov.sg  
    Title: Meteo Singapore Observing The Weather  
-   Link: <a href="https://www.weather.gov.sg/learn_observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov.sg/learn_observations/</a>  
+   Link:<a href="https://www.weather.gov.sg/learn_observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov.sg/learn_observations/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ask.gov.sg  
-   Link: <a href="https://ask.gov.sg/caas/questions/clq3e4u7500hk10yesfbn7djm" target="_blank" rel="noopener noreferrer nofollow">https://ask.gov.sg/caas/questions/clq3e4u7500hk10yesfbn7djm</a>  
+   Link:<a href="https://ask.gov.sg/caas/questions/clq3e4u7500hk10yesfbn7djm" target="_blank" rel="noopener noreferrer nofollow">https://ask.gov.sg/caas/questions/clq3e4u7500hk10yesfbn7djm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: biblioasia.nlb.gov.sg  
    Title: nlb.gov.sg A History of Singapore Horror | Biblio Asia  
-   Link: <a href="https://biblioasia.nlb.gov.sg/all-sections/vol-13-issue-2-jul-sep-2017-history-of-singaporean-horror/" target="_blank" rel="noopener noreferrer nofollow">https://biblioasia.nlb.gov.sg/all-sections/vol-13-issue-2-jul-sep-2017-history-of-singaporean-horror/</a>  
+   Link:<a href="https://biblioasia.nlb.gov.sg/all-sections/vol-13-issue-2-jul-sep-2017-history-of-singaporean-horror/" target="_blank" rel="noopener noreferrer nofollow">https://biblioasia.nlb.gov.sg/all-sections/vol-13-issue-2-jul-sep-2017-history-of-singaporean-horror/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: catalogue.nlb.gov.sg  
-   Link: <a href="https://catalogue.nlb.gov.sg/search/card?entityType=FormatGroup&amp;id=aca1ef60-0f85-5ff7-bb1b-89bc5e516f00&amp;identifier=aca1ef60-0f85-5ff7-bb1b-89bc5e516f00&amp;showcase=resources" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nlb.gov.sg/search/card?entityType=FormatGroup&amp;id=aca1ef60-0f85-5ff7-bb1b-89bc5e516f00&amp;identifier=aca1ef60-0f85-5ff7-bb1b-89bc5e516f00&amp;showcase=resources</a>  
+   Link:<a href="https://catalogue.nlb.gov.sg/search/card?entityType=FormatGroup&amp;id=aca1ef60-0f85-5ff7-bb1b-89bc5e516f00&amp;identifier=aca1ef60-0f85-5ff7-bb1b-89bc5e516f00&amp;showcase=resources" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.nlb.gov.sg/search/card?entityType=FormatGroup&amp;id=aca1ef60-0f85-5ff7-bb1b-89bc5e516f00&amp;identifier=aca1ef60-0f85-5ff7-bb1b-89bc5e516f00&amp;showcase=resources</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590526-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590526-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590526-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590526-1</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19600516-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19600516-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19600516-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19600516-1</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19800303 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19800303-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19800303-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19800303-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19800303-1</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19400807 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19400807-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19400807-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19400807-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19400807-1</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590608-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590608-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590608-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590608-1</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19980405-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19980405-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19980405-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19980405-1</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: eresources.nlb.gov.sg  
    Title: freepress19500210 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19500210-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19500210-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19500210-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19500210-1</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19570406-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19570406-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19570406-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19570406-1</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19331016 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19331016-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19331016-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19331016-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19331016-1</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: eresources.nlb.gov.sg  
    Title: freepress19531121 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19531121-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19531121-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19531121-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19531121-1</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590126-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590126-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590126-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590126-1</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19510808 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19510808-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19510808-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19510808-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19510808-1</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19510205 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19510205-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19510205-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19510205-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19510205-1</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/singstandard19560116-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/singstandard19560116-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/singstandard19560116-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/singstandard19560116-1</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19470623 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19470623-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19470623-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19470623-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19470623-1</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: eresources.nlb.gov.sg  
    Title: freepress19590519 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590519-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590519-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590519-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590519-1</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19500405-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19500405-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19500405-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19500405-1</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19640830 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19640830-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19640830-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19640830-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19640830-1</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: eresources.nlb.gov.sg  
    Title: freepress19530928 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19530928-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19530928-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19530928-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19530928-1</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19970701 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19970701-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19970701-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19970701-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19970701-1</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19560125 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19560125-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19560125-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19560125-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19560125-1</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: eresources.nlb.gov.sg  
    Title: freepress19540930 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19540930-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19540930-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19540930-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19540930-1</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes18960321 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes18960321-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes18960321-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes18960321-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes18960321-1</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19400801 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19400801-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19400801-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19400801-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19400801-1</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590529-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590529-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590529-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19590529-1</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19330325 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19330325-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19330325-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19330325-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19330325-1</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520825-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520825-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520825-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520825-1</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19790113 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19790113-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19790113-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19790113-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19790113-1</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20150704-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20150704-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20150704-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20150704-1</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: eresources.nlb.gov.sg  
    Title: freepress19531123 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19531123-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19531123-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19531123-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19531123-1</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: eresources.nlb.gov.sg  
    Title: freepress19570218 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19570218-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19570218-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19570218-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19570218-1</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19850308-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19850308-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19850308-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19850308-1</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19560424-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19560424-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19560424-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19560424-1</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20150105-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20150105-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20150105-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20150105-1</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19550710 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19550710-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19550710-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19550710-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19550710-1</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19851117-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19851117-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19851117-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19851117-1</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19570520-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19570520-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19570520-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19570520-1</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520721-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520721-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520721-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520721-1</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: eresources.nlb.gov.sg  
    Title: freepress19601228 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19601228-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19601228-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19601228-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19601228-1</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19480510-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19480510-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19480510-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19480510-1</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520404-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520404-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520404-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520404-1</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: eresources.nlb.gov.sg  
    Title: freepress19540922 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19540922-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19540922-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19540922-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19540922-1</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520814-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520814-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520814-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/freepress19520814-1</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: eresources.nlb.gov.sg  
    Title: straitstimes19670908 1  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19670908-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19670908-1</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19670908-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes19670908-1</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: aim-sg.caas.gov.sg  
-   Link: <a href="https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2016-11-10-Non-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=C1BFB6E6780915051E021CBA1B6F44919BF024A9" target="_blank" rel="noopener noreferrer nofollow">https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2016-11-10-Non-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=C1BFB6E6780915051E021CBA1B6F44919BF024A9</a>  
+   Link:<a href="https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2016-11-10-Non-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=C1BFB6E6780915051E021CBA1B6F44919BF024A9" target="_blank" rel="noopener noreferrer nofollow">https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2016-11-10-Non-AIRAC/html/eAIP/ENR-5.3-en-GB.html?s=C1BFB6E6780915051E021CBA1B6F44919BF024A9</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: aim-sg.caas.gov.sg  
-   Link: <a href="https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2022-09-15/html/eSUP/eSUP-2022-129-en-GB.html?s=DB61D8FD55D50781DDC5959233644BC57E55B9A3" target="_blank" rel="noopener noreferrer nofollow">https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2022-09-15/html/eSUP/eSUP-2022-129-en-GB.html?s=DB61D8FD55D50781DDC5959233644BC57E55B9A3</a>  
+   Link:<a href="https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2022-09-15/html/eSUP/eSUP-2022-129-en-GB.html?s=DB61D8FD55D50781DDC5959233644BC57E55B9A3" target="_blank" rel="noopener noreferrer nofollow">https://aim-sg.caas.gov.sg/aim-content/uploads/aip/2025-07-24/final/2022-09-15/html/eSUP/eSUP-2022-129-en-GB.html?s=DB61D8FD55D50781DDC5959233644BC57E55B9A3</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: caas.gov.sg  
-   Link: <a href="https://www.caas.gov.sg/" target="_blank" rel="noopener noreferrer nofollow">https://www.caas.gov.sg/</a>  
+   Link:<a href="https://www.caas.gov.sg/" target="_blank" rel="noopener noreferrer nofollow">https://www.caas.gov.sg/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005516194" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516194</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005516194" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516194</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015482.pdf</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/0B/0B72A302B86EECAD443BBCDCDC76A5B1_911Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/0B/0B72A302B86EECAD443BBCDCDC76A5B1_911Report.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/0B/0B72A302B86EECAD443BBCDCDC76A5B1_911Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/0B/0B72A302B86EECAD443BBCDCDC76A5B1_911Report.pdf</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: cia.gov  
    Title: FOIA CASE LOG CALENDER YE[16111550]  
-   Link: <a href="https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/FOIA%20CASE%20LOG%20CALENDER%20YE%5B16111550%5D.pdf</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100320006-6</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp67b00446r000300150018-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp67b00446r000300150018-4</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp67b00446r000300150018-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp67b00446r000300150018-4</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: cia.gov  
    Title: TELEVISIO N PROGRAM  
-   Link: <a href="https://www.cia.gov/readingroom/document/0005517684" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517684</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/0005517684" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517684</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp89g00643r001000080001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp89g00643r001000080001-7</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp89g00643r001000080001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp89g00643r001000080001-7</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: mpa.gov.sg  
    Title: pc21 022  
-   Link: <a href="https://www.mpa.gov.sg/docs/mpalibraries/circulars-and-notices/port-marine-circulars/-pc21-022" target="_blank" rel="noopener noreferrer nofollow">https://www.mpa.gov.sg/docs/mpalibraries/circulars-and-notices/port-marine-circulars/-pc21-022</a>  
+   Link:<a href="https://www.mpa.gov.sg/docs/mpalibraries/circulars-and-notices/port-marine-circulars/-pc21-022" target="_blank" rel="noopener noreferrer nofollow">https://www.mpa.gov.sg/docs/mpalibraries/circulars-and-notices/port-marine-circulars/-pc21-022</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: Wikipedia  
    Title: Meteorological Service Singapore  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteorological_Service_Singapore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorological_Service_Singapore</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteorological_Service_Singapore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteorological_Service_Singapore</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/December" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/December</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/December" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portal%3AAviation/Anniversaries/December</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: dji.com  
-   Link: <a href="https://www.dji.com/uk/flyingtips/sg" target="_blank" rel="noopener noreferrer nofollow">https://www.dji.com/uk/flyingtips/sg</a>  
+   Link:<a href="https://www.dji.com/uk/flyingtips/sg" target="_blank" rel="noopener noreferrer nofollow">https://www.dji.com/uk/flyingtips/sg</a>  
 
 ### Additional References
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: youtube.com  
    Title: UFO Reveal Asia: That One with Gurmit Singh! | (Full Video)  
-   Link: <a href="https://www.youtube.com/watch?v=Ux3l15stDPc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ux3l15stDPc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious light in the sky in Singapore 21 November 2023...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ux3l15stDPc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ux3l15stDPc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious light in the sky in Singapore 21 November 2023...</p></details>
    Published: November 2023  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nmyyi0IIolo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nmyyi0IIolo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Singapore 8 June 2015 720pm Bukit Batok West Ave 5...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nmyyi0IIolo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nmyyi0IIolo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Singapore 8 June 2015 720pm Bukit Batok West Ave 5...</p></details>
    Published: November 2023  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nlpOrTnhWwY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nlpOrTnhWwY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 meteor showers and 5 supermoons over Singapore in 2024...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nlpOrTnhWwY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nlpOrTnhWwY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 meteor showers and 5 supermoons over Singapore in 2024...</p></details>
    Published: June 2015  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewshubNZ/posts/i-said-guys-its-not-a-meteor-its-not-an-alien-ufo-or-spaceship-it-is-in-fact-a-s/10157261974408606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewshubNZ/posts/i-said-guys-its-not-a-meteor-its-not-an-alien-ufo-or-spaceship-it-is-in-fact-a-s/10157261974408606/</a>  
+   Link:<a href="https://www.facebook.com/NewshubNZ/posts/i-said-guys-its-not-a-meteor-its-not-an-alien-ufo-or-spaceship-it-is-in-fact-a-s/10157261974408606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewshubNZ/posts/i-said-guys-its-not-a-meteor-its-not-an-alien-ufo-or-spaceship-it-is-in-fact-a-s/10157261974408606/</a>  
 
-86. <a id="endnote-86"></a>
+86.<a id="endnote-86"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DOKh8D_jfgn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOKh8D_jfgn/</a>  
+   Link:<a href="https://www.instagram.com/reel/DOKh8D_jfgn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOKh8D_jfgn/</a>  
 
-87. <a id="endnote-87"></a>
+87.<a id="endnote-87"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-88. <a id="endnote-88"></a>
+88.<a id="endnote-88"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/388971690_An_alien_among_aliens_Translating_multicultural_identities_in_Singapore%27s_contemporary_theatre" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388971690_An_alien_among_aliens_Translating_multicultural_identities_in_Singapore%27s_contemporary_theatre</a>  
+   Link:<a href="https://www.researchgate.net/publication/388971690_An_alien_among_aliens_Translating_multicultural_identities_in_Singapore%27s_contemporary_theatre" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388971690_An_alien_among_aliens_Translating_multicultural_identities_in_Singapore%27s_contemporary_theatre</a>  
 
-89. <a id="endnote-89"></a>
+89.<a id="endnote-89"></a>
    Source: avtoservis-murn.net  
-   Link: <a href="https://www.avtoservis-murn.net/?o=84223402463" target="_blank" rel="noopener noreferrer nofollow">https://www.avtoservis-murn.net/?o=84223402463</a>  
+   Link:<a href="https://www.avtoservis-murn.net/?o=84223402463" target="_blank" rel="noopener noreferrer nofollow">https://www.avtoservis-murn.net/?o=84223402463</a>  
 
-90. <a id="endnote-90"></a>
+90.<a id="endnote-90"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheStraitsTimes/posts/a-picture-of-the-phenomenon-which-was-taken-in-yishun-has-gone-viral-online-here/663717439248753/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheStraitsTimes/posts/a-picture-of-the-phenomenon-which-was-taken-in-yishun-has-gone-viral-online-here/663717439248753/</a>  
+   Link:<a href="https://www.facebook.com/TheStraitsTimes/posts/a-picture-of-the-phenomenon-which-was-taken-in-yishun-has-gone-viral-online-here/663717439248753/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheStraitsTimes/posts/a-picture-of-the-phenomenon-which-was-taken-in-yishun-has-gone-viral-online-here/663717439248753/</a>  
 
-91. <a id="endnote-91"></a>
+91.<a id="endnote-91"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWEIQqllRdR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWEIQqllRdR/</a>
+   Link:<a href="https://www.instagram.com/reel/DWEIQqllRdR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWEIQqllRdR/</a>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /thailand-a2b7c1-index/
 description: Focused pages that expand on Thailand.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Thailand_a2b7c1
 parent_title: Thailand
@@ -16,7 +16,7 @@ parent_permalink: /thailand/
 
 # Explore Topics in Thailand
 
-The following pages expand on the main **[Thailand]({{ '/thailand/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Thailand]({{ '/thailand/' | relative_url }})** page and cover its key branches in.
 
 - [Khao Kala]({{ '/khao-kala/' | relative_url }})
 - [Naga Lights]({{ '/naga-lights/' | relative_url }})

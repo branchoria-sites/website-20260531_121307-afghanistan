@@ -248,7 +248,7 @@ image: /assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-
 
 ## Introduction
 
-The 2006 **Roskovec landing incident** is the most widely discussed alleged UFO encounter in [Albania]({{ 'albania/' | relative_url }})’s modern record, largely because it combines witness testimony, claimed physical traces on the ground, and subsequent media attention. It is commonly described in Albanian-language sources and UFO lists as an event where a craft purportedly descended and briefly touched down in the small town of Roskovec, near Fier, on the evening of **4 May 2006**, before disappearing as abruptly as it appeared. Public accounts emphasise dramatic environmental effects, childhood witness statements, and the later release of photographs—yet the episode remains **unverified by independent scientific investigation, official documentation, or corroborating sensory data**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+The 2006 **Roskovec landing incident** is the most widely discussed alleged UFO encounter in [Albania]({{ 'albania/' | relative_url }})’s modern record, largely because it combines witness testimony, claimed physical traces on the ground, and subsequent media attention. It is commonly described in Albanian-language sources and UFO lists as an event where a craft purportedly descended and briefly touched down in the small town of Roskovec, near Fier, on the evening of **4 May 2006**, before disappearing as abruptly as it appeared. Public accounts emphasise dramatic environmental effects, childhood witness statements, and the later release of photographs—yet the episode remains **unverified by independent scientific investigation, official documentation, or corroborating sensory data**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
 
 <img src="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-dark.svg" | relative_url }}" alt="Roskovec 2006 illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This report examines the **witness accounts and evidence claims** associated with the Roskovec incident, distinguishing what is reported, what remains unexamined, and where claims enter the realm of local legend or folklore rather than substantiated documentation.
@@ -257,9 +257,9 @@ This report examines the **witness accounts and evidence claims** associated wit
 
 Contemporary UFO lists and summaries describe the Roskovec event as follows:
 
-* **Multiple witnesses**: Local testimonies collected in media summaries say an adult woman and at least two children reported seeing an unusual object descend to ground level in Roskovec. Residents described swift environmental changes—sudden darkness, an abrupt windstorm, and noise—coinciding with the moment of the alleged landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
-* **Child witness details**: One of the key witness statements cited in media comes from an 11‑year‑old child who described the object as **oval or disc‑shaped, grey in colour with a thin blue line**, and very briefly on the ground before lifting off again. That child’s experience is highlighted in later interviews, where it is claimed he was traumatised for an extended period after the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
-* **Environmental effects**: Witness narratives circulated in local reporting assert that weather conditions changed abruptly—clear skies turned misty and dark, winds picked up strongly, and nearby tree branches bent under unexplained force. Such descriptions are consistent across multiple retellings in internet media, though there is no meteorological data provided to support this. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+* **Multiple witnesses**: Local testimonies collected in media summaries say an adult woman and at least two children reported seeing an unusual object descend to ground level in Roskovec. Residents described swift environmental changes—sudden darkness, an abrupt windstorm, and noise—coinciding with the moment of the alleged landing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+* **Child witness details**: One of the key witness statements cited in media comes from an 11‑year‑old child who described the object as **oval or disc‑shaped, grey in colour with a thin blue line**, and very briefly on the ground before lifting off again. That child’s experience is highlighted in later interviews, where it is claimed he was traumatised for an extended period after the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
+* **Environmental effects**: Witness narratives circulated in local reporting assert that weather conditions changed abruptly—clear skies turned misty and dark, winds picked up strongly, and nearby tree branches bent under unexplained force. Such descriptions are consistent across multiple retellings in internet media, though there is no meteorological data provided to support this.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
 
 These details have been repeated in Albanian press and online UFO compilations, but **none originate from contemporaneous official reports or third‑party forensic documentation**.
 
@@ -269,8 +269,8 @@ These details have been repeated in Albanian press and online UFO compilations, 
 
 A central piece of the Roskovec narrative in online accounts is the **photograph of marks on the road** allegedly taken by local photographer **Alim Çepele**. According to interviews relayed in online articles:
 
-* Çepele is reported to have **photographed two double‑banded black circles on the asphalt**, interpreted by some locals as impressions made by the object that landed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
-* These images were discussed on a television programme (“Euronews Albania”), where the photographer explained his hesitation to publish them at the time, due in part to social stigma around such claims in 2006. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
+* Çepele is reported to have **photographed two double‑banded black circles on the asphalt**, interpreted by some locals as impressions made by the object that landed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
+* These images were discussed on a television programme (“Euronews Albania”), where the photographer explained his hesitation to publish them at the time, due in part to social stigma around such claims in 2006.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
 * The photographs have circulated in Albanian media reports, but **no high‑resolution verified scan, expert analysis, or contextual metadata** is publicly available to assess whether the marks are unusual, old, caused by ordinary vehicles, or the result of environmental wear. In other words, the claimed landing marks have **not been subjected to forensic examination**.
 
 <img src="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-2-dark.svg" | relative_url }}" alt="Roskovec 2006 illustration 2" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -278,7 +278,7 @@ A central piece of the Roskovec narrative in online accounts is the **photograph
 
 When examining witness evidence in an alleged physical encounter like Roskovec, several factors shape the assessment of reliability:
 
-* **Memory after many years**: Most accounts surfaced or were repeated years after 2006. Human memory degrades, particularly for rare and emotionally salient events, and retrospective narratives can evolve. No contemporaneous verified interview transcripts or recordings from 2006 have been published. This makes it hard to distinguish recall from later embellishment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+* **Memory after many years**: Most accounts surfaced or were repeated years after 2006. Human memory degrades, particularly for rare and emotionally salient events, and retrospective narratives can evolve. No contemporaneous verified interview transcripts or recordings from 2006 have been published. This makes it hard to distinguish recall from later embellishment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
 * **Child testimony**: The 11‑year‑old’s descriptions are emotive and specific, but **child memory is notoriously suggestible**. Without an independently recorded 2006 interview or corroborative sensory data (e.g., environmental measurements), it cannot be taken as conclusive evidence of a landing object.
 * **Community storytelling**: Subsequent media and online narratives often present a **collective memory** rather than distinct evidence streams. Local belief, cultural memory, and shared stories can amplify an event’s perceived extraordinariness even without physical verification.
 
@@ -296,14 +296,14 @@ The **three double‑banded black circles** photographed on the Roskovec road ar
 
 </div>
 
-Without such analysis, the marks remain **unverified and ambiguous** rather than confirmed evidence of a landing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+Without such analysis, the marks remain **unverified and ambiguous** rather than confirmed evidence of a landing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
 
 <img src="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-3-dark.svg" | relative_url }}" alt="Roskovec 2006 illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2_roskovec_2006_landin_fec7e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Media Follow‑Ups and Skepticism
 
 The Roskovec landing story has circulated primarily through Albanian online press, UFO interest sites, and social media reproductions. It has **not been adopted by mainstream scientific journals** or aviation authorities. Notably:
 
-* The Wikipedia page listing UFO sightings in Albania mentions the Roskovec incident and associated witness claims, but descriptors in that list are derived from media and anecdotal sources rather than official surveillance or investigation bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+* The Wikipedia page listing UFO sightings in Albania mentions the Roskovec incident and associated witness claims, but descriptors in that list are derived from media and anecdotal sources rather than official surveillance or investigation bodies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
 * No satellite imagery, radar logs, civil aviation recordings, or third‑party environmental data have been released to support claims of a ground contact physics event.
 * There have been no credible investigative follow‑ups by independent scientific institutions.
 
@@ -313,197 +313,197 @@ The Roskovec landing story has circulated primarily through Albanian online pres
 
 In sum, the Roskovec 2006 incident stands as a **local cultural report of an alleged landing**, sustained in public memory by witness retellings and media articles that emphasise dramatic description but lack **independent verification**. The key pieces of evidence—a childhood eyewitness account and photographs of road marks—have not been analysed by impartial experts or placed into a broader data context.
 
-As with many such UFO landing narratives, the Roskovec case illustrates the gap between **vivid personal testimony and corroborated empirical evidence**. Without independent documentation from the time of the event, contemporaneous measurements, or third‑party forensic reporting, the incident remains a **contested local claim rather than an established physical encounter**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
+As with many such UFO landing narratives, the Roskovec case illustrates the gap between **vivid personal testimony and corroborated empirical evidence**. Without independent documentation from the time of the event, contemporaneous measurements, or third‑party forensic reporting, the incident remains a **contested local claim rather than an established physical encounter**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetaexpress.com">[Gazeta Express]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetaexpress.com</span><span class="citation-popover-snippet">Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did a UFO Land in Roskovec in 2006?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did a UFO Land in Roskovec in 2006?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains encounter categories and investigative approaches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains encounter categories and investigative approaches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8004248-M.jpg" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8004248-M.jpg" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Unidentified flying objects, Alien abduction, Human-alien encounters, Sightings and encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Unidentified flying objects, Alien abduction, Human-alien encounters, Sightings and encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides standards for evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides standards for evaluating extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context for recurring landing and witness traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for recurring landing and witness traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dimensions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dimensions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-land-in-roskovec-in-2006-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-a-ufo-land-in-roskovec-in-2006-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -519,7 +519,7 @@ As with many such UFO landing narratives, the Roskovec case illustrates the gap 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -539,7 +539,7 @@ As with many such UFO landing narratives, the Roskovec case illustrates the gap 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -571,7 +571,7 @@ As with many such UFO landing narratives, the Roskovec case illustrates the gap 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -623,7 +623,7 @@ As with many such UFO landing narratives, the Roskovec case illustrates the gap 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -668,7 +668,7 @@ As with many such UFO landing narratives, the Roskovec case illustrates the gap 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -706,92 +706,91 @@ As with many such UFO landing narratives, the Roskovec case illustrates the gap 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in Albania  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Albania</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Albania</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gazetaexpress.com  
-   Link: <a href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow">https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</p></details>
+   Link:<a href="https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/" target="_blank" rel="noopener noreferrer nofollow">https://www.gazetaexpress.com/en/ufo-ne-roskovec-fotografi-nxjerr-per-here-te-pare-pamjet-femija-qe-e-pa-nga-afer-ishte-i-traumatizuar-foto/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gazeta ExpressUFO in Roskovec? Photographer releases footage for the first time: Child who saw it up close was traumatized (PHOTOS)Septem...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: Ufot ne toke  
-   Link: <a href="http://www.youtube.com/watch?v=Wa-spCETGuk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Wa-spCETGuk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Albania - Documenting the Unexplained...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Wa-spCETGuk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Wa-spCETGuk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Albania - Documenting the Unexplained...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: UFO sightings in Albania  
-   Link: <a href="http://www.youtube.com/watch?v=zR27tQ3y4Hk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zR27tQ3y4Hk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UAP Sightings and Witness Testimony...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=zR27tQ3y4Hk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zR27tQ3y4Hk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UAP Sightings and Witness Testimony...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: periskopi.com  
-   Link: <a href="https://www.periskopi.com/en/UFO-in-Albania--here%27s-what-secret-the-Albanian-state-is-hiding/" target="_blank" rel="noopener noreferrer nofollow">https://www.periskopi.com/en/UFO-in-Albania--here%27s-what-secret-the-Albanian-state-is-hiding/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PeriscopesAuthor Ben Shehu, in the novel &quot;They Shouldn&#x27;t Know&quot; deals with many aspects of the arrival of UFOs and the landing of aliens i...</p></details>
+   Link:<a href="https://www.periskopi.com/en/UFO-in-Albania--here%27s-what-secret-the-Albanian-state-is-hiding/" target="_blank" rel="noopener noreferrer nofollow">https://www.periskopi.com/en/UFO-in-Albania--here%27s-what-secret-the-Albanian-state-is-hiding/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PeriscopesAuthor Ben Shehu, in the novel &quot;They Shouldn&#x27;t Know&quot; deals with many aspects of the arrival of UFOs and the landing of aliens i...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: periskopi.com  
-   Link: <a href="https://www.periskopi.com/en/The-unexplained-mysteries-that-shock-Albanians-from-UFOs-to-ghosts--photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.periskopi.com/en/The-unexplained-mysteries-that-shock-Albanians-from-UFOs-to-ghosts--photos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PeriscopesTHE UNEXPLAINED MYSTERIES THAT SHOCKED ALBANIANS, FROM UFOS TO GHOSTS (PHOTO) Image: The unexplained mysteries that shocked Alb...</p></details>
+   Link:<a href="https://www.periskopi.com/en/The-unexplained-mysteries-that-shock-Albanians-from-UFOs-to-ghosts--photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.periskopi.com/en/The-unexplained-mysteries-that-shock-Albanians-from-UFOs-to-ghosts--photos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PeriscopesTHE UNEXPLAINED MYSTERIES THAT SHOCKED ALBANIANS, FROM UFOS TO GHOSTS (PHOTO) Image: The unexplained mysteries that shocked Alb...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: koha.net  
    Title: UF Os in Albania under the surveillance of the State Security since the 60s  
-   Link: <a href="https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60" target="_blank" rel="noopener noreferrer nofollow">https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Albania under the surveillance of the State Security since the 60s - KOHA.netMarch 2, 2017 — The Albanian officer even learns fro...</p></details>
+   Link:<a href="https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60" target="_blank" rel="noopener noreferrer nofollow">https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Albania under the surveillance of the State Security since the 60s - KOHA.netMarch 2, 2017 — The Albanian officer even learns fro...</p></details>
    Published: March 2, 2017  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: voxnews.al  
    Title: ufo ne roskovec fotografi nxjerr pamjet femija qe e pa u tramuatizua i48451  
-   Link: <a href="https://www.voxnews.al/english/aktualitet/ufo-ne-roskovec-fotografi-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua--i48451" target="_blank" rel="noopener noreferrer nofollow">https://www.voxnews.al/english/aktualitet/ufo-ne-roskovec-fotografi-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua--i48451</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Roskovec, photographer reveals footage: Child who saw him was traumatized for six months, said he was a......September 17, 2023 —...</p></details>
+   Link:<a href="https://www.voxnews.al/english/aktualitet/ufo-ne-roskovec-fotografi-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua--i48451" target="_blank" rel="noopener noreferrer nofollow">https://www.voxnews.al/english/aktualitet/ufo-ne-roskovec-fotografi-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua--i48451</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO in Roskovec, photographer reveals footage: Child who saw him was traumatized for six months, said he was a......September 17, 2023 —...</p></details>
    Published: September 17, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: alb365.com  
    Title: Ngjarja shqiptare e pashpjeguar: UFO në Roskovec  
-   Link: <a href="https://alb365.com/ngjarja-shqiptare-e-pashpjeguar-ufo-ne-roskovec/" target="_blank" rel="noopener noreferrer nofollow">https://alb365.com/ngjarja-shqiptare-e-pashpjeguar-ufo-ne-roskovec/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alb365 NEWSMay 18, 2022 — NGJARJA SHQIPTARE E PASHPJEGUAR: UFO NË ROSKOVEC alb365 May 18, 2022 0 52 3 minutes read Image: Ufo1 Në një koh...</p></details>
+   Link:<a href="https://alb365.com/ngjarja-shqiptare-e-pashpjeguar-ufo-ne-roskovec/" target="_blank" rel="noopener noreferrer nofollow">https://alb365.com/ngjarja-shqiptare-e-pashpjeguar-ufo-ne-roskovec/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alb365 NEWSMay 18, 2022 — NGJARJA SHQIPTARE E PASHPJEGUAR: UFO NË ROSKOVEC alb365 May 18, 2022 0 52 3 minutes read Image: Ufo1 Në një koh...</p></details>
    Published: May 18, 2022  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: alfapress.al  
    Title: The strangest mysteries in Albania  
-   Link: <a href="https://alfapress.al/english/mistere-kuriozitete/misteret-me-te-cuditshme-ne-shqiperi-i23870" target="_blank" rel="noopener noreferrer nofollow">https://alfapress.al/english/mistere-kuriozitete/misteret-me-te-cuditshme-ne-shqiperi-i23870</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MISTERE&amp;KURIOZITETEJune 15, 2022 — THE STRANGEST MYSTERIES IN ALBANIA Image 2022-06-15 14:42:14 / MISTERE&amp;KURIOZITETE ALFA PRESS Image: T...</p></details>
+   Link:<a href="https://alfapress.al/english/mistere-kuriozitete/misteret-me-te-cuditshme-ne-shqiperi-i23870" target="_blank" rel="noopener noreferrer nofollow">https://alfapress.al/english/mistere-kuriozitete/misteret-me-te-cuditshme-ne-shqiperi-i23870</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MISTERE&amp;KURIOZITETEJune 15, 2022 — THE STRANGEST MYSTERIES IN ALBANIA Image 2022-06-15 14:42:14 / MISTERE&amp;KURIOZITETE ALFA PRESS Image: T...</p></details>
    Published: June 15, 2022  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gazetadita.al  
    Title: UF O në Roskovec?!  
-   Link: <a href="https://gazetadita.al/ufo-ne-roskovec-habit-fotografi-dhe-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua-per-6-muaj/" target="_blank" rel="noopener noreferrer nofollow">https://gazetadita.al/ufo-ne-roskovec-habit-fotografi-dhe-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua-per-6-muaj/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit fotografi, tregon ngjarjen e vitit 2006 dhe nxjerr pamjet - Gazeta DitaSeptember 18, 2023 — UFO NË ROSKOVEC?! HABIT FOTOGRAFI, TREG...</p></details>
+   Link:<a href="https://gazetadita.al/ufo-ne-roskovec-habit-fotografi-dhe-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua-per-6-muaj/" target="_blank" rel="noopener noreferrer nofollow">https://gazetadita.al/ufo-ne-roskovec-habit-fotografi-dhe-nxjerr-pamjet-femija-qe-e-pa-u-tramuatizua-per-6-muaj/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit fotografi, tregon ngjarjen e vitit 2006 dhe nxjerr pamjet - Gazeta DitaSeptember 18, 2023 — UFO NË ROSKOVEC?! HABIT FOTOGRAFI, TREG...</p></details>
    Published: September 18, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Investigating UAP Sightings and Witness Testimony  
-   Link: <a href="http://www.youtube.com/watch?v=F31086Qv5yU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=F31086Qv5yU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident Roskovec 2006 Banorët e Roskovecit të bindur se kanë parë alienët në qytezën tyre - (27 Maj 2006) RTV KLAN...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=F31086Qv5yU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=F31086Qv5yU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident Roskovec 2006 Banorët e Roskovecit të bindur se kanë parë alienët në qytezën tyre - (27 Maj 2006) RTV KLAN...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Banorët e Roskovecit të bindur se kanë parë alienët në qytezën tyre  
-   Link: <a href="http://www.youtube.com/watch?v=-Ly7HZwNI3U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-Ly7HZwNI3U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A janë ulur UFO-t në Roskovec?! Dëshmia tronditëse e fotografit...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=-Ly7HZwNI3U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-Ly7HZwNI3U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A janë ulur UFO-t në Roskovec?! Dëshmia tronditëse e fotografit...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=52006" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52006</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 52006October 30, 2006 — NUFORC UFO SIGHTING 52006 Occurred: 2006-08-13 23:30 Local (8.13.2006) Reported: 2006-08-13 1...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=52006" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 52006October 30, 2006 — NUFORC UFO SIGHTING 52006 Occurred: 2006-08-13 23:30 Local (8.13.2006) Reported: 2006-08-13 1...</p></details>
    Published: August 13, 2006

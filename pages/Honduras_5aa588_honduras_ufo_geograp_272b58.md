@@ -261,7 +261,7 @@ In Honduras, reported UFO activity displays a **distinctive spatial pattern** sh
 
 ### Frequent Reports and Social Circulation
 
-Tegucigalpa, as the largest urban centre and political capital of Honduras, naturally generates **more witness reports and viral social media material** than lower‑population regions. In late 2025, several residents posted videos of multiple synchronised lights moving overhead that spread rapidly through platforms like TikTok, sparking debate on whether they were drones, atmospheric effects, or “OVNIs” (the Spanish abbreviation for unidentified flying objects). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.televicentro.com/ovnis-sobre-tegucigalpa-video-en-tiktok-enciende-teorias-y-polemica-2025-12-04" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: televicentro.com">[TELEVICENTRO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">televicentro.com</span><span class="citation-popover-title">¿OVNIs sobre Tegucigalpa? Video en Tik Tok enciende teorías y polémica</span><span class="citation-popover-snippet">TELEVICENTRO¿OVNIs sobre Tegucigalpa? Video en TikTok enciende teorías y polémicaDecember 4, 2025...</span><span class="citation-popover-meta">Published: December 4, 2025</span></span></span>
+Tegucigalpa, as the largest urban centre and political capital of Honduras, naturally generates **more witness reports and viral social media material** than lower‑population regions. In late 2025, several residents posted videos of multiple synchronised lights moving overhead that spread rapidly through platforms like TikTok, sparking debate on whether they were drones, atmospheric effects, or “OVNIs” (the Spanish abbreviation for unidentified flying objects).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.televicentro.com/ovnis-sobre-tegucigalpa-video-en-tiktok-enciende-teorias-y-polemica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: televicentro.com">[TELEVICENTRO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">televicentro.com</span><span class="citation-popover-title">¿OVNIs sobre Tegucigalpa? Video en Tik Tok enciende teorías y polémica</span><span class="citation-popover-snippet">TELEVICENTRO¿OVNIs sobre Tegucigalpa? Video en TikTok enciende teorías y polémicaDecember 4, 2025...</span><span class="citation-popover-meta">Published: December 4, 2025</span></span></span>
 
 This localisation of reports in Tegucigalpa reflects both **population density and smartphone usage** rather than necessarily an underlying concentration of unexplained aerial phenomena. Urban lighting, skyline silhouettes, and distant aircraft traffic corridors can all create conditions where bright objects are more likely to be noticed and recorded.
 
@@ -271,8 +271,8 @@ This localisation of reports in Tegucigalpa reflects both **population density a
 
 Independent sighting archives illustrate a diverse set of patterns over Tegucigalpa. The **National UFO Reporting Center (NUFORC)**, an open database, includes several entries from the capital area stretching back over decades:
 
-* A 2013 New Year’s‑Eve observation of a red flash or light over the skyline, interpreted by the witness as an object passing near the Pacific coast before being photographed near Tegucigalpa. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=106052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 106052January 10, 2014...</span><span class="citation-popover-meta">Published: January 10, 2014</span></span></span>
-* A late‑2024 report of a **metallic, oval‑shaped object** roughly the size of a medium bus observed in broad daylight, hovering silently near a tall building. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185081" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 185081December 13, 2024...</span><span class="citation-popover-meta">Published: December 13, 2024</span></span></span>
+* A 2013 New Year’s‑Eve observation of a red flash or light over the skyline, interpreted by the witness as an object passing near the Pacific coast before being photographed near Tegucigalpa.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=106052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 106052January 10, 2014...</span><span class="citation-popover-meta">Published: January 10, 2014</span></span></span>
+* A late‑2024 report of a **metallic, oval‑shaped object** roughly the size of a medium bus observed in broad daylight, hovering silently near a tall building.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185081" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 185081December 13, 2024...</span><span class="citation-popover-meta">Published: December 13, 2024</span></span></span>
 
 These records, while interesting, lack independent verification or corroborative radar/official data. They illustrate a **pattern of visual sightings with limited physical evidence** — a hallmark of urban UFO reports globally, where observers can misattribute satellites, aircraft, drones, or atmospheric effects to unknown craft.
 
@@ -282,20 +282,20 @@ These records, while interesting, lack independent verification or corroborative
 
 Tegucigalpa sits in a **mountainous inland basin**. This rugged topography affects sightlines: slopes, valleys, and ridge shadows can distort perceptions of object size, distance, and motion. Bright aircraft entering or leaving nearby international airports may appear anomalous against a jagged skyline, shifting observers’ interpretations towards the extraordinary when lighting, speed, and viewing angle are unfamiliar.
 
-Additionally, social circulation effects play a role: once a video or image gains traction online, as with the December 2025 sightings, subsequent reports can cluster around the same fertile environment of **expectation and visual ambiguity**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tiempo.hn/honduras/2025/12/03/captan-extranos-objetos-sobrevolando-cielos-honduras/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tiempo.hn">[tiempo.hn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tiempo.hn</span><span class="citation-popover-title">Captan extraños objetos sobrevolando los cielos de Honduras</span><span class="citation-popover-snippet">December 3, 2025...</span><span class="citation-popover-meta">Published: December 3, 2025</span></span></span>
+Additionally, social circulation effects play a role: once a video or image gains traction online, as with the December 2025 sightings, subsequent reports can cluster around the same fertile environment of **expectation and visual ambiguity**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tiempo.hn/honduras/2025/12/03/captan-extranos-objetos-sobrevolando-cielos-honduras/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tiempo.hn">[tiempo.hn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tiempo.hn</span><span class="citation-popover-title">Captan extraños objetos sobrevolando los cielos de Honduras</span><span class="citation-popover-snippet">December 3, 2025...</span><span class="citation-popover-meta">Published: December 3, 2025</span></span></span>
 
 ## Northern Coast and Caribbean Viewing Conditions
 
 ### La Ceiba and Open Horizon Sightings
 
-The northern Caribbean coastal region of Honduras — including the port city of **La Ceiba** — forms a second locus for aerial sightings. Public conversations and community posts on forums and social feeds reference sighting videos near La Ceiba in 2025 that show objects over relatively unobstructed sky above the coastal plain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1mu8ivd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Sighting in Honduras</span><span class="citation-popover-snippet">Sighting in HondurasAugust 19, 2025...</span><span class="citation-popover-meta">Published: August 19, 2025</span></span></span>
+The northern Caribbean coastal region of Honduras — including the port city of **La Ceiba** — forms a second locus for aerial sightings. Public conversations and community posts on forums and social feeds reference sighting videos near La Ceiba in 2025 that show objects over relatively unobstructed sky above the coastal plain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1mu8ivd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Sighting in Honduras</span><span class="citation-popover-snippet">Sighting in HondurasAugust 19, 2025...</span><span class="citation-popover-meta">Published: August 19, 2025</span></span></span>
 
 This region’s **open horizon and waterfront exposure** change how aerial lights and high‑altitude objects are seen compared with the enclosed valleys inland. Coastal horizons frequently expose satellites, aircraft contrails, and celestial bodies without the layer of hills that can mask or distort their motion inland. That can make **common aerial phenomena appear pronounced or mysterious** to casual observers.
 
 <img src="{{ "/assets/images/Honduras_5aa588_honduras_ufo_geograp_272b58-Illustration-2-dark.svg" | relative_url }}" alt="Geography illustration 2" data-theme-src-dark="{{ "/assets/images/Honduras_5aa588_honduras_ufo_geograp_272b58-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Honduras_5aa588_honduras_ufo_geograp_272b58-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Common Explanations: Satellites, Space Launches, Drones
 
-In both the Tegucigalpa and northern coast contexts, some sighted lights have subsequently been explained as **known aerospace activity**. For example, in earlier years a viral sighting over Tegucigalpa was later tied to a SpaceX **Falcon 9 rocket launch**, with the ascending rocket’s upper‑stage lights crossing the Central American sky and reflected in local reports before identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elheraldo.hn/honduras/ovni-video-revelan-origen-objeto-cielos-honduras-spacex-falcon9-OG12361438" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elheraldo.hn">[www.elheraldo.hn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elheraldo.hn</span><span class="citation-popover-snippet">era un ovni: revelan el verdadero origen del objeto que se vio en los cielos de HondurasFebruary 27, 2023...</span><span class="citation-popover-meta">Published: February 27, 2023</span></span></span>
+In both the Tegucigalpa and northern coast contexts, some sighted lights have subsequently been explained as **known aerospace activity**. For example, in earlier years a viral sighting over Tegucigalpa was later tied to a SpaceX **Falcon 9 rocket launch**, with the ascending rocket’s upper‑stage lights crossing the Central American sky and reflected in local reports before identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elheraldo.hn/honduras/ovni-video-revelan-origen-objeto-cielos-honduras-spacex-falcon9-OG12361438" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elheraldo.hn">[www.elheraldo.hn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elheraldo.hn</span><span class="citation-popover-snippet">era un ovni: revelan el verdadero origen del objeto que se vio en los cielos de HondurasFebruary 27, 2023...</span><span class="citation-popover-meta">Published: February 27, 2023</span></span></span>
 
 Similarly, satellite constellations (like train formations of Starlink satellites after sunset) and routine aircraft approach paths near coastal airports can produce **rows or chains of lights** that appear puzzling, especially when observed without context. These interpretations align with widely accepted explanations for many “UFO” sightings worldwide, where known man‑made objects are temporarily unidentified by witnesses.
 
@@ -327,194 +327,194 @@ Together, the urban and coastal sighting patterns illustrate how **local geograp
 <img src="{{ "/assets/images/Honduras_5aa588_honduras_ufo_geograp_272b58-Illustration-3-dark.svg" | relative_url }}" alt="Geography illustration 3" data-theme-src-dark="{{ "/assets/images/Honduras_5aa588_honduras_ufo_geograp_272b58-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Honduras_5aa588_honduras_ufo_geograp_272b58-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Honduras&#x27; Landscape Shapes UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Honduras&#x27; Landscape Shapes UFO Sightings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides international context for assessing sightings across different environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides international context for assessing sightings across different environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses observational conditions and common causes of misidentification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses observational conditions and common causes of misidentification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps explain astronomical objects often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain astronomical objects often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
-        </h4>
-        <p class="fr-book-author">By C. Donald Ahrens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteorology Today on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ypwsAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meteorology Today" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
+</h4>
+<p class="fr-book-author">By C. Donald Ahrens</p>
         
-        <p class="fr-book-desc">Useful for understanding visibility, clouds, light effects, and atmospheric distortions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding visibility, clouds, light effects, and atmospheric distortions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteorology+Today+by+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-honduras-landscape-shapes-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-honduras-landscape-shapes-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ Together, the urban and coastal sighting patterns illustrate how **local geograp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ Together, the urban and coastal sighting patterns illustrate how **local geograp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ Together, the urban and coastal sighting patterns illustrate how **local geograp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ Together, the urban and coastal sighting patterns illustrate how **local geograp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ Together, the urban and coastal sighting patterns illustrate how **local geograp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -717,123 +717,122 @@ Together, the urban and coastal sighting patterns illustrate how **local geograp
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: televicentro.com  
    Title: ¿OVNIs sobre Tegucigalpa? Video en Tik Tok enciende teorías y polémica  
-   Link: <a href="https://www.televicentro.com/ovnis-sobre-tegucigalpa-video-en-tiktok-enciende-teorias-y-polemica-2025-12-04" target="_blank" rel="noopener noreferrer nofollow">https://www.televicentro.com/ovnis-sobre-tegucigalpa-video-en-tiktok-enciende-teorias-y-polemica-2025-12-04</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TELEVICENTRO¿OVNIs sobre Tegucigalpa? Video en TikTok enciende teorías y polémicaDecember 4, 2025...</p></details>
+   Link:<a href="https://www.televicentro.com/ovnis-sobre-tegucigalpa-video-en-tiktok-enciende-teorias-y-polemica" target="_blank" rel="noopener noreferrer nofollow">https://www.televicentro.com/ovnis-sobre-tegucigalpa-video-en-tiktok-enciende-teorias-y-polemica</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TELEVICENTRO¿OVNIs sobre Tegucigalpa? Video en TikTok enciende teorías y polémicaDecember 4, 2025...</p></details>
    Published: December 4, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=106052" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=106052</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 106052January 10, 2014...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=106052" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=106052</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 106052January 10, 2014...</p></details>
    Published: January 10, 2014  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=185081" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185081</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 185081December 13, 2024...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=185081" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185081</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 185081December 13, 2024...</p></details>
    Published: December 13, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tiempo.hn  
    Title: Captan extraños objetos sobrevolando los cielos de Honduras  
-   Link: <a href="https://tiempo.hn/honduras/2025/12/03/captan-extranos-objetos-sobrevolando-cielos-honduras/" target="_blank" rel="noopener noreferrer nofollow">https://tiempo.hn/honduras/2025/12/03/captan-extranos-objetos-sobrevolando-cielos-honduras/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2025...</p></details>
+   Link:<a href="https://tiempo.hn/honduras/2025/12/03/captan-extranos-objetos-sobrevolando-cielos-honduras/" target="_blank" rel="noopener noreferrer nofollow">https://tiempo.hn/honduras/2025/12/03/captan-extranos-objetos-sobrevolando-cielos-honduras/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2025...</p></details>
    Published: December 3, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: Sighting in Honduras  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mu8ivd" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mu8ivd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sighting in HondurasAugust 19, 2025...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1mu8ivd" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mu8ivd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sighting in HondurasAugust 19, 2025...</p></details>
    Published: August 19, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: elheraldo.hn  
-   Link: <a href="https://www.elheraldo.hn/honduras/ovni-video-revelan-origen-objeto-cielos-honduras-spacex-falcon9-OG12361438" target="_blank" rel="noopener noreferrer nofollow">https://www.elheraldo.hn/honduras/ovni-video-revelan-origen-objeto-cielos-honduras-spacex-falcon9-OG12361438</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>era un ovni: revelan el verdadero origen del objeto que se vio en los cielos de HondurasFebruary 27, 2023...</p></details>
+   Link:<a href="https://www.elheraldo.hn/honduras/ovni-video-revelan-origen-objeto-cielos-honduras-spacex-falcon9-OG12361438" target="_blank" rel="noopener noreferrer nofollow">https://www.elheraldo.hn/honduras/ovni-video-revelan-origen-objeto-cielos-honduras-spacex-falcon9-OG12361438</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>era un ovni: revelan el verdadero origen del objeto que se vio en los cielos de HondurasFebruary 27, 2023...</p></details>
    Published: February 27, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: televicentro.com  
    Title: Revelan las zonas secretas de Honduras donde 'aparecen' naves extraterrestres  
-   Link: <a href="https://www.televicentro.com/no-cualquiera-puede-verlos-asi-entrenan-para-ver-extraterrestres-en-honduras-2026-03-02" target="_blank" rel="noopener noreferrer nofollow">https://www.televicentro.com/no-cualquiera-puede-verlos-asi-entrenan-para-ver-extraterrestres-en-honduras-2026-03-02</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 2, 2026 — REVELAN LAS ZONAS SECRETAS DE HONDURAS DONDE &#x27;APARECEN&#x27; NAVES EXTRATERRESTRES Zonas de Honduras como Comayagua, Copán y V...</p></details>
+   Link:<a href="https://www.televicentro.com/no-cualquiera-puede-verlos-asi-entrenan-para-ver-extraterrestres-en-honduras" target="_blank" rel="noopener noreferrer nofollow">https://www.televicentro.com/no-cualquiera-puede-verlos-asi-entrenan-para-ver-extraterrestres-en-honduras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 2, 2026 — REVELAN LAS ZONAS SECRETAS DE HONDURAS DONDE &#x27;APARECEN&#x27; NAVES EXTRATERRESTRES Zonas de Honduras como Comayagua, Copán y V...</p></details>
    Published: March 2, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=79783" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=79783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 79783January 31, 2011 — NUFORC UFO SIGHTING 79783 Occurred: 2011-01-20 17:30 Local Reported: 2011-01-20 17:24 Pacific...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=79783" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=79783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 79783January 31, 2011 — NUFORC UFO SIGHTING 79783 Occurred: 2011-01-20 17:30 Local Reported: 2011-01-20 17:24 Pacific...</p></details>
    Published: January 20, 2011  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: odla.fr  
-   Link: <a href="https://www.odla.fr/2014/09/04/les-envahisseurs-ovnis-g%C3%A9ants-photographi%C3%A9s-%C3%A9mergeant-des-nuages-dans-le-ciel-de-tegucigalpa-honduras-04-09-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2014/09/04/les-envahisseurs-ovnis-g%C3%A9ants-photographi%C3%A9s-%C3%A9mergeant-des-nuages-dans-le-ciel-de-tegucigalpa-honduras-04-09-14/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>septembre 2014 LES ENVAHISSEURS: OVNIS GÉANTS PHOTOGRAPHIÉS ÉMERGEANT DES NUAGES DANS LE CIEL DE TEGUCIGALPA, HONDURAS, 04/09/14 Image L...</p></details>
+   Link:<a href="https://www.odla.fr/2014/09/04/les-envahisseurs-ovnis-g%C3%A9ants-photographi%C3%A9s-%C3%A9mergeant-des-nuages-dans-le-ciel-de-tegucigalpa-honduras-04-09-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2014/09/04/les-envahisseurs-ovnis-g%C3%A9ants-photographi%C3%A9s-%C3%A9mergeant-des-nuages-dans-le-ciel-de-tegucigalpa-honduras-04-09-14/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>septembre 2014 LES ENVAHISSEURS: OVNIS GÉANTS PHOTOGRAPHIÉS ÉMERGEANT DES NUAGES DANS LE CIEL DE TEGUCIGALPA, HONDURAS, 04/09/14 Image L...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: laprensa.hn  
    Title: www.laprensa.hn¿Ovnis? La explicación de la extraña luz vista en Honduras  
-   Link: <a href="https://www.laprensa.hn/fotogalerias/honduras/honduras-ovnis-explicacion-extrana-luz-vista-cielo-CG12362189" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/fotogalerias/honduras/honduras-ovnis-explicacion-extrana-luz-vista-cielo-CG12362189</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>La explicación de la extraña luz vista en HondurasFebruary 27, 2023 — ¿OVNIS? LA EXPLICACIÓN DE LA EXTRAÑA LUZ VISTA EN HONDURAS Los hond...</p></details>
+   Link:<a href="https://www.laprensa.hn/fotogalerias/honduras/honduras-ovnis-explicacion-extrana-luz-vista-cielo-CG12362189" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensa.hn/fotogalerias/honduras/honduras-ovnis-explicacion-extrana-luz-vista-cielo-CG12362189</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La explicación de la extraña luz vista en HondurasFebruary 27, 2023 — ¿OVNIS? LA EXPLICACIÓN DE LA EXTRAÑA LUZ VISTA EN HONDURAS Los hond...</p></details>
    Published: February 27, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oncenoticias.hn  
    Title: Once Noticias Supuestos OVNIs en Tegucigalpa: Video viral en Tik Tok  
-   Link: <a href="https://oncenoticias.hn/tendencias/virales/supuestos-ovnis-en-tegucigalpa-video-viral-en-tiktok-genera-debate/" target="_blank" rel="noopener noreferrer nofollow">https://oncenoticias.hn/tendencias/virales/supuestos-ovnis-en-tegucigalpa-video-viral-en-tiktok-genera-debate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supuestos OVNIs en Tegucigalpa: Video viral en TikTokDecember 3, 2025 — SUPUESTOS OVNIS EN TEGUCIGALPA: VIDEO VIRAL EN TIKTOK GENERA DEBA...</p></details>
+   Link:<a href="https://oncenoticias.hn/tendencias/virales/supuestos-ovnis-en-tegucigalpa-video-viral-en-tiktok-genera-debate/" target="_blank" rel="noopener noreferrer nofollow">https://oncenoticias.hn/tendencias/virales/supuestos-ovnis-en-tegucigalpa-video-viral-en-tiktok-genera-debate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supuestos OVNIs en Tegucigalpa: Video viral en TikTokDecember 3, 2025 — SUPUESTOS OVNIS EN TEGUCIGALPA: VIDEO VIRAL EN TIKTOK GENERA DEBA...</p></details>
    Published: December 3, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufodigest.com  
    Title: The townspeople mounted their own nocturnal skywatch, setting up “o  
-   Link: <a href="https://www.ufodigest.com/article/legendary-ufo-cases-from-latin-america/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/legendary-ufo-cases-from-latin-america/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGENDARY UFO CASES FROM LATIN AMERICA - UFO DigestDecember 4, 2014 — The summer months of 1977 were punctuated by repeated sightings of...</p></details>
+   Link:<a href="https://www.ufodigest.com/article/legendary-ufo-cases-from-latin-america/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/legendary-ufo-cases-from-latin-america/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEGENDARY UFO CASES FROM LATIN AMERICA - UFO DigestDecember 4, 2014 — The summer months of 1977 were punctuated by repeated sightings of...</p></details>
    Published: December 4, 2014  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stnhn.com  
    Title: extrano fenomeno es captado en los cielos de tegucigalpa  
-   Link: <a href="https://stnhn.com/extrano-fenomeno-es-captado-en-los-cielos-de-tegucigalpa/" target="_blank" rel="noopener noreferrer nofollow">https://stnhn.com/extrano-fenomeno-es-captado-en-los-cielos-de-tegucigalpa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraño fenómeno es captado en los cielos de Tegucigalpa – STN HONDURASOctober 28, 2020 — EXTRAÑO FENÓMENO ES CAPTADO EN LOS CIELOS DE TE...</p></details>
+   Link:<a href="https://stnhn.com/extrano-fenomeno-es-captado-en-los-cielos-de-tegucigalpa/" target="_blank" rel="noopener noreferrer nofollow">https://stnhn.com/extrano-fenomeno-es-captado-en-los-cielos-de-tegucigalpa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraño fenómeno es captado en los cielos de Tegucigalpa – STN HONDURASOctober 28, 2020 — EXTRAÑO FENÓMENO ES CAPTADO EN LOS CIELOS DE TE...</p></details>
    Published: October 28, 2020  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nexusnewsfeed.com  
    Title: Metallic UFO shaped like an American football, Honduras  
-   Link: <a href="https://nexusnewsfeed.com/article/unexplained/metallic-ufo-shaped-like-an-american-football-honduras/" target="_blank" rel="noopener noreferrer nofollow">https://nexusnewsfeed.com/article/unexplained/metallic-ufo-shaped-like-an-american-football-honduras/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nexus NewsfeedDecember 13, 2024 — IMAGE Image METALLIC UFO SHAPED LIKE AN AMERICAN FOOTBALL, HONDURAS Occurred: 2024-11-25 09:03 Local...</p></details>
+   Link:<a href="https://nexusnewsfeed.com/article/unexplained/metallic-ufo-shaped-like-an-american-football-honduras/" target="_blank" rel="noopener noreferrer nofollow">https://nexusnewsfeed.com/article/unexplained/metallic-ufo-shaped-like-an-american-football-honduras/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nexus NewsfeedDecember 13, 2024 — IMAGE Image METALLIC UFO SHAPED LIKE AN AMERICAN FOOTBALL, HONDURAS Occurred: 2024-11-25 09:03 Local...</p></details>
    Published: November 25, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Honduras UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/honduras-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/honduras-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 — HONDURAS UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT HONDURAS UFO UAP USO SIGHTINGS &amp; CLOSE ENCOUNTERS Date: Loca...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/honduras-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/honduras-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025 — HONDURAS UFO SIGHTINGS AND EXPERIENCE REPORTS READ &amp; REPORT HONDURAS UFO UAP USO SIGHTINGS &amp; CLOSE ENCOUNTERS Date: Loca...</p></details>
    Published: March 22, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tunota.com  
    Title: ¿Bases extraterrestres en Honduras?  
-   Link: <a href="https://www.tunota.com/entretenimiento/bases-extraterrestres-en-honduras-actividad-ovni-testimonios-2024-12-17" target="_blank" rel="noopener noreferrer nofollow">https://www.tunota.com/entretenimiento/bases-extraterrestres-en-honduras-actividad-ovni-testimonios-2024-12-17</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apuntan estas zonas del país como puntos de actividad OVNIDecember 17, 2024 — ¿BASES EXTRATERRESTRES EN HONDURAS? APUNTAN ESTAS ZONAS DEL...</p></details>
+   Link:<a href="https://www.tunota.com/entretenimiento/bases-extraterrestres-en-honduras-actividad-ovni-testimonios" target="_blank" rel="noopener noreferrer nofollow">https://www.tunota.com/entretenimiento/bases-extraterrestres-en-honduras-actividad-ovni-testimonios</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apuntan estas zonas del país como puntos de actividad OVNIDecember 17, 2024 — ¿BASES EXTRATERRESTRES EN HONDURAS? APUNTAN ESTAS ZONAS DEL...</p></details>
    Published: December 17, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DD9r-eZmYWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DD9r-eZmYWI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: Top 5 UNBELIEVABLE Mysteries of South America | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DD9r-eZmYWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DD9r-eZmYWI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: Top 5 UNBELIEVABLE Mysteries of South America | History...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VLGX1nkrBa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VLGX1nkrBa4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VLGX1nkrBa4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VLGX1nkrBa4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel...</p></details>

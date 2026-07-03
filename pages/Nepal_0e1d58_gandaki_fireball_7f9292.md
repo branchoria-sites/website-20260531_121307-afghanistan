@@ -254,23 +254,23 @@ image: /assets/images/Nepal_0e1d58_gandaki_fireball_7f9292-Illustration-1-social
 
 ## Introduction
 
-In March 2020, residents across parts of Nepal’s Gandaki Province reported a dramatic object crossing the evening sky. Witnesses described a bright, burning light, some reported a loud sound, and speculation spread rapidly online that an unidentified flying object might have fallen toward the Earth. Within hours, however, astronomers began treating the event not as evidence of an exotic craft but as a likely fireball or bolide — an exceptionally bright meteor entering the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+In March 2020, residents across parts of Nepal’s Gandaki Province reported a dramatic object crossing the evening sky. Witnesses described a bright, burning light, some reported a loud sound, and speculation spread rapidly online that an unidentified flying object might have fallen toward the Earth. Within hours, however, astronomers began treating the event not as evidence of an exotic craft but as a likely fireball or bolide — an exceptionally bright meteor entering the atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
 <img src="{{ "/assets/images/Nepal_0e1d58_gandaki_fireball_7f9292-Illustration-1-dark.svg" | relative_url }}" alt="Gandaki Fireball illustration 1" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58_gandaki_fireball_7f9292-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58_gandaki_fireball_7f9292-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The Gandaki incident is one of the clearest modern examples in Nepal of how a startling “UFO” report can evolve when evidence is gathered quickly. Unlike older cases that remained dominated by rumour or fragmentary witness memories, the 2020 event unfolded in an era of smartphones, social media and rapid expert response. The result was not a definitive recovery of a meteorite or a complete scientific reconstruction, but a useful demonstration of how investigators distinguish between a genuine mystery and a likely astronomical event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+The Gandaki incident is one of the clearest modern examples in Nepal of how a startling “UFO” report can evolve when evidence is gathered quickly. Unlike older cases that remained dominated by rumour or fragmentary witness memories, the 2020 event unfolded in an era of smartphones, social media and rapid expert response. The result was not a definitive recovery of a meteorite or a complete scientific reconstruction, but a useful demonstration of how investigators distinguish between a genuine mystery and a likely astronomical event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
 ## What People Reported in Gandaki
 
-On 26 March 2020, reports emerged from Gandaki Province and neighbouring parts of Nepal describing a bright object moving across the evening sky. Witnesses commonly described it as glowing, burning or leaving a luminous trail. Some observers believed it was descending toward the ground, while others interpreted the event as a crash or explosion because of reports of a loud sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+On 26 March 2020, reports emerged from Gandaki Province and neighbouring parts of Nepal describing a bright object moving across the evening sky. Witnesses commonly described it as glowing, burning or leaving a luminous trail. Some observers believed it was descending toward the ground, while others interpreted the event as a crash or explosion because of reports of a loud sound.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
-The sighting spread rapidly through local media and social networks. Images and videos circulated before any detailed assessment had been completed. As often happens during sudden sky events, explanations immediately ranged from meteors and space debris to more speculative UFO interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/NASONepal/posts/pressreleasethe-object-seen-in-the-nepali-sky-this-evening-is-probably-a-firebal/3025232930820885/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Nepal Astronomical Society</span><span class="citation-popover-snippet">Nepal Astronomical Society - NASO#PressRelease The object seen in the Nepali sky this evening is probably a fireball or a bolide...</span></span></span>
+The sighting spread rapidly through local media and social networks. Images and videos circulated before any detailed assessment had been completed. As often happens during sudden sky events, explanations immediately ranged from meteors and space debris to more speculative UFO interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/NASONepal/posts/pressreleasethe-object-seen-in-the-nepali-sky-this-evening-is-probably-a-firebal/3025232930820885/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Nepal Astronomical Society</span><span class="citation-popover-snippet">Nepal Astronomical Society - NASO#PressRelease The object seen in the Nepali sky this evening is probably a fireball or a bolide...</span></span></span>
 
 Several factors made the event especially striking:
 
 * It occurred in the evening when many people were outdoors or near windows.
 * The object appeared unusually bright compared with ordinary stars or aircraft lights.
 * Reports suggested rapid movement across a wide area.
-* Accounts of a possible crashing sound encouraged the belief that something had fallen nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+* Accounts of a possible crashing sound encouraged the belief that something had fallen nearby.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
 These are precisely the conditions that often transform an unfamiliar astronomical event into a UFO story before technical analysis begins.
 
@@ -280,9 +280,9 @@ These are precisely the conditions that often transform an unfamiliar astronomic
 
 The most important feature of the Gandaki case was the speed with which Nepal’s astronomical community responded.
 
-The Nepal Astronomical Society (NASO) publicly stated that the object was “probably a fireball or a bolide” and began requesting photographs, videos and eyewitness information from the affected region. Rather than endorsing extraordinary claims, investigators immediately focused on reconstructing the object's trajectory and determining whether it matched known meteor behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+The Nepal Astronomical Society (NASO) publicly stated that the object was “probably a fireball or a bolide” and began requesting photographs, videos and eyewitness information from the affected region. Rather than endorsing extraordinary claims, investigators immediately focused on reconstructing the object's trajectory and determining whether it matched known meteor behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
-NASO specifically appealed to people in Gandaki Province to submit evidence that could help identify the event. This reflects a standard approach used internationally when investigating bright meteors: multiple observations from different locations allow researchers to estimate direction, altitude and possible fragmentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+NASO specifically appealed to people in Gandaki Province to submit evidence that could help identify the event. This reflects a standard approach used internationally when investigating bright meteors: multiple observations from different locations allow researchers to estimate direction, altitude and possible fragmentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
 The available reports pointed toward characteristics commonly associated with a bolide:
 
@@ -290,245 +290,245 @@ The available reports pointed toward characteristics commonly associated with a 
 * Apparently fast movement.
 * Possible fragmentation.
 * Reports of delayed sound after the visual event.
-* Visibility across a relatively large geographic area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span> Wikipedia No verified evidence emerged showing controlled manoeuvres <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Nepal</span><span class="citation-popover-snippet">UFO sightings in NepalThis is a list of alleged sightings of unidentified flying objects or UFOs in Nepal. Contents. 1 25 March 1968...</span><span class="citation-popover-meta">Published: March 1968</span></span></span>, hovering behaviour or other features usually cited in stronger UFO cases. Instead, the reported characteristics aligned more closely with known meteor-entry events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+* Visibility across a relatively large geographic area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span> Wikipedia No verified evidence emerged showing controlled manoeuvres<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Nepal</span><span class="citation-popover-snippet">UFO sightings in NepalThis is a list of alleged sightings of unidentified flying objects or UFOs in Nepal. Contents. 1 25 March 1968...</span><span class="citation-popover-meta">Published: March 1968</span></span></span>, hovering behaviour or other features usually cited in stronger UFO cases. Instead, the reported characteristics aligned more closely with known meteor-entry events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
 <img src="{{ "/assets/images/Nepal_0e1d58_gandaki_fireball_7f9292-Illustration-2-dark.svg" | relative_url }}" alt="Gandaki Fireball illustration 2" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58_gandaki_fireball_7f9292-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58_gandaki_fireball_7f9292-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Fireballs Are Often Mistaken for UFOs
 
-The Gandaki incident illustrates a broader pattern found not only in Nepal but worldwide. A fireball is a meteor bright enough to outshine most celestial objects visible in the sky. Particularly intense examples are often called bolides. These objects can appear dramatically larger and closer than they really are, creating the impression that they are descending directly toward nearby terrain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Nepal</span><span class="citation-popover-snippet">UFO sightings in NepalThis is a list of alleged sightings of unidentified flying objects or UFOs in Nepal. Contents. 1 25 March 1968...</span><span class="citation-popover-meta">Published: March 1968</span></span></span>
+The Gandaki incident illustrates a broader pattern found not only in Nepal but worldwide. A fireball is a meteor bright enough to outshine most celestial objects visible in the sky. Particularly intense examples are often called bolides. These objects can appear dramatically larger and closer than they really are, creating the impression that they are descending directly toward nearby terrain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Nepal</span><span class="citation-popover-snippet">UFO sightings in NepalThis is a list of alleged sightings of unidentified flying objects or UFOs in Nepal. Contents. 1 25 March 1968...</span><span class="citation-popover-meta">Published: March 1968</span></span></span>
 
 Several psychological and observational factors contribute to misidentification.
 
 ### Apparent proximity
 
-Bright meteors often seem much lower than they actually are. An object burning tens of kilometres above the Earth can appear to be passing just beyond a nearby ridge or hillside. In mountainous regions such as Gandaki, depth perception becomes even more difficult because observers see the object against dark mountain silhouettes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Bright meteors often seem much lower than they actually are. An object burning tens of kilometres above the Earth can appear to be passing just beyond a nearby ridge or hillside. In mountainous regions such as Gandaki, depth perception becomes even more difficult because observers see the object against dark mountain silhouettes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ### Delayed sound
 
-A fireball may produce sonic effects after the visual event. Because light reaches observers almost instantly while sound travels much more slowly, witnesses can see an apparent explosion and hear a boom seconds or even minutes later. This delay can create the impression that an object has crashed nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The frequency of window damage caused by bolide airbursts: a quarter century case studyFebruary 20, 2018...</span><span class="citation-popover-meta">Published: February 20, 2018</span></span></span>
+A fireball may produce sonic effects after the visual event. Because light reaches observers almost instantly while sound travels much more slowly, witnesses can see an apparent explosion and hear a boom seconds or even minutes later. This delay can create the impression that an object has crashed nearby.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The frequency of window damage caused by bolide airbursts: a quarter century case studyFebruary 20, 2018...</span><span class="citation-popover-meta">Published: February 20, 2018</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZGNLOJb2U0Q" title="Astronomy professor breaks down &quot;fireball&quot; meteor seen in skies of Southeast | What you need to know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZGNLOJb2U0Q" target="_blank" rel="noopener noreferrer">Astronomy professor breaks down &quot;fireball&quot; meteor seen in skies of Southeast | What you need to know</a></p><p class="youtube-embed-meta">Channel: 13WMAZ &middot; Views: 3.1K &middot; Uploaded: June 2025 &middot; Length: 3 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZGNLOJb2U0Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZGNLOJb2U0Q">Open on YouTube</a></p></div></div></div>
 
 ### Fragmentation
 
-When meteoroids break apart in the atmosphere, they may appear to split into multiple lights. Witnesses unfamiliar with meteor behaviour sometimes interpret this as an aircraft breaking up, multiple craft travelling together, or an object performing manoeuvres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nepal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Nepala landlocked country in South Asia. It is mainly situated in the Himalayas, but also includes parts of the Indo-Gangetic Plain.Re...</span></span></span>
+When meteoroids break apart in the atmosphere, they may appear to split into multiple lights. Witnesses unfamiliar with meteor behaviour sometimes interpret this as an aircraft breaking up, multiple craft travelling together, or an object performing manoeuvres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nepal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Nepala landlocked country in South Asia. It is mainly situated in the Himalayas, but also includes parts of the Indo-Gangetic Plain.Re...</span></span></span>
 
 ### Social-media amplification
 
-The Gandaki event occurred during an era in which eyewitness videos can spread nationwide within minutes. Early speculation frequently reaches larger audiences than later technical explanations. By the time astronomers begin analysing evidence, many viewers have already encountered dramatic UFO interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+The Gandaki event occurred during an era in which eyewitness videos can spread nationwide within minutes. Early speculation frequently reaches larger audiences than later technical explanations. By the time astronomers begin analysing evidence, many viewers have already encountered dramatic UFO interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UHK-fbdbwF8" title="Comets, Asteroids, and Meteors | Learn all about what they are made of and how they differ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UHK-fbdbwF8" target="_blank" rel="noopener noreferrer">Comets, Asteroids, and Meteors | Learn all about what they are made of and how they differ</a></p><p class="youtube-embed-meta">Channel: Learn Bright &middot; Views: 1.6M &middot; Uploaded: December 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UHK-fbdbwF8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UHK-fbdbwF8">Open on YouTube</a></p></div></div></div>
 
 ## How the Gandaki Case Differs From Nepal’s 1968 UFO Stories
 
-Nepal’s most famous UFO-related reports come from 1968, particularly the Pokhara-area incidents later referenced in declassified intelligence records. Those older cases became difficult to evaluate because the surviving evidence is fragmented, witness recollections vary, and claims about recovered material remain disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara7 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</span></span></span>
+Nepal’s most famous UFO-related reports come from 1968, particularly the Pokhara-area incidents later referenced in declassified intelligence records. Those older cases became difficult to evaluate because the surviving evidence is fragmented, witness recollections vary, and claims about recovered material remain disputed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepalitimes.com">[Nepali Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepalitimes.com</span><span class="citation-popover-title">ufo over pokhara</span><span class="citation-popover-snippet">Nepali TimesUFO over Pokhara7 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</span></span></span>
 
 The Gandaki fireball followed a different path.
 
-Instead of decades of speculation before technical review, the 2020 event received near-immediate scrutiny from astronomers. The public discussion therefore shifted more quickly toward a conventional explanation. Although investigators did not produce a complete scientific reconstruction available to the public, the dominant interpretation became that of a meteor or bolide rather than an unexplained craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+Instead of decades of speculation before technical review, the 2020 event received near-immediate scrutiny from astronomers. The public discussion therefore shifted more quickly toward a conventional explanation. Although investigators did not produce a complete scientific reconstruction available to the public, the dominant interpretation became that of a meteor or bolide rather than an unexplained craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
 This distinction is important for understanding Nepal’s UFO record. The Gandaki case demonstrates that some apparently mysterious aerial events become less mysterious once multiple observations are collected and compared.
 
 <img src="{{ "/assets/images/Nepal_0e1d58_gandaki_fireball_7f9292-Illustration-3-dark.svg" | relative_url }}" alt="Gandaki Fireball illustration 3" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58_gandaki_fireball_7f9292-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58_gandaki_fireball_7f9292-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Incident Reveals About Modern UFO Reporting in Nepal
 
-The Gandaki event highlights a recurring pattern in contemporary Nepal sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Nepal</span><span class="citation-popover-snippet">UFO sightings in NepalThis is a list of alleged sightings of unidentified flying objects or UFOs in Nepal. Contents. 1 25 March 1968...</span><span class="citation-popover-meta">Published: March 1968</span></span></span>
+The Gandaki event highlights a recurring pattern in contemporary Nepal sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Nepal</span><span class="citation-popover-snippet">UFO sightings in NepalThis is a list of alleged sightings of unidentified flying objects or UFOs in Nepal. Contents. 1 25 March 1968...</span><span class="citation-popover-meta">Published: March 1968</span></span></span>
 
-Many reports begin with a genuinely unusual observation: a bright light, a sudden streak across the sky, an unexpected boom, or an object that appears to descend behind mountains. The initial witness description may be entirely sincere while still being incomplete. The key question becomes whether additional evidence supports an extraordinary explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+Many reports begin with a genuinely unusual observation: a bright light, a sudden streak across the sky, an unexpected boom, or an object that appears to descend behind mountains. The initial witness description may be entirely sincere while still being incomplete. The key question becomes whether additional evidence supports an extraordinary explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
-In the Gandaki case, the available evidence pushed investigators toward an identifiable natural phenomenon rather than a persistent mystery. That does not mean every detail was resolved, nor does it mean every witness interpreted the event the same way. It does mean that the strongest publicly available assessment pointed toward a known atmospheric event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+In the Gandaki case, the available evidence pushed investigators toward an identifiable natural phenomenon rather than a persistent mystery. That does not mean every detail was resolved, nor does it mean every witness interpreted the event the same way. It does mean that the strongest publicly available assessment pointed toward a known atmospheric event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
-For Nepal’s UFO chronology, the significance of the Gandaki fireball lies less in what it might have been than in how it was investigated. It stands as a modern example of a dramatic sky event moving from speculation toward a probable explanation through observation, comparison and astronomical analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/babusaviation/posts/around-7-pm-on-sunday-a-mysterious-bright-object-was-seen-moving-across-the-sky-/1277151701186901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Facebook😲😲Around 7 PM on Sunday, a mysterious bright object was...Around 7 PM on Sunday, a mysterious bright object was seen moving acro...</span></span></span>
+For Nepal’s UFO chronology, the significance of the Gandaki fireball lies less in what it might have been than in how it was investigated. It stands as a modern example of a dramatic sky event moving from speculation toward a probable explanation through observation, comparison and astronomical analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehimalayantimes.com">[The Himalayan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehimalayantimes.com</span><span class="citation-popover-snippet">The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/babusaviation/posts/around-7-pm-on-sunday-a-mysterious-bright-object-was-seen-moving-across-the-sky-/1277151701186901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Facebook😲😲Around 7 PM on Sunday, a mysterious bright object was...Around 7 PM on Sunday, a mysterious bright object was seen moving acro...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Nepal UFO Becomes a Fireball. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Nepal UFO Becomes a Fireball. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how unusual aerial reports can be assessed scientifically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how unusual aerial reports can be assessed scientifically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for distinguishing credible cases from ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for distinguishing credible cases from ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify meteors, planets, and other common sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify meteors, planets, and other common sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Provides scientific background for bright fireballs and bolides.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides scientific background for bright fireballs and bolides.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-nepal-ufo-becomes-a-fireball-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-a-nepal-ufo-becomes-a-fireball-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ For Nepal’s UFO chronology, the significance of the Gandaki fireball lies less
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ For Nepal’s UFO chronology, the significance of the Gandaki fireball lies less
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ For Nepal’s UFO chronology, the significance of the Gandaki fireball lies less
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ For Nepal’s UFO chronology, the significance of the Gandaki fireball lies less
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ For Nepal’s UFO chronology, the significance of the Gandaki fireball lies less
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,146 +731,145 @@ For Nepal’s UFO chronology, the significance of the Gandaki fireball lies less
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
    Title: Nepal Astronomical Society  
-   Link: <a href="https://www.facebook.com/NASONepal/posts/pressreleasethe-object-seen-in-the-nepali-sky-this-evening-is-probably-a-firebal/3025232930820885/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASONepal/posts/pressreleasethe-object-seen-in-the-nepali-sky-this-evening-is-probably-a-firebal/3025232930820885/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nepal Astronomical Society - NASO#PressRelease The object seen in the Nepali sky this evening is probably a fireball or a bolide...</p></details>
+   Link:<a href="https://www.facebook.com/NASONepal/posts/pressreleasethe-object-seen-in-the-nepali-sky-this-evening-is-probably-a-firebal/3025232930820885/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASONepal/posts/pressreleasethe-object-seen-in-the-nepali-sky-this-evening-is-probably-a-firebal/3025232930820885/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nepal Astronomical Society - NASO#PressRelease The object seen in the Nepali sky this evening is probably a fireball or a bolide...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO sightings in Nepal  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in NepalThis is a list of alleged sightings of unidentified flying objects or UFOs in Nepal. Contents. 1 25 March 1968...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Nepal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in NepalThis is a list of alleged sightings of unidentified flying objects or UFOs in Nepal. Contents. 1 25 March 1968...</p></details>
    Published: March 1968  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/babusaviation/posts/around-7-pm-on-sunday-a-mysterious-bright-object-was-seen-moving-across-the-sky-/1277151701186901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/babusaviation/posts/around-7-pm-on-sunday-a-mysterious-bright-object-was-seen-moving-across-the-sky-/1277151701186901/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook😲😲Around 7 PM on Sunday, a mysterious bright object was...Around 7 PM on Sunday, a mysterious bright object was seen moving acro...</p></details>
+   Link:<a href="https://www.facebook.com/babusaviation/posts/around-7-pm-on-sunday-a-mysterious-bright-object-was-seen-moving-across-the-sky-/1277151701186901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/babusaviation/posts/around-7-pm-on-sunday-a-mysterious-bright-object-was-seen-moving-across-the-sky-/1277151701186901/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook😲😲Around 7 PM on Sunday, a mysterious bright object was...Around 7 PM on Sunday, a mysterious bright object was seen moving acro...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.07299</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The frequency of window damage caused by bolide airbursts: a quarter century case studyFebruary 20, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1802.07299" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.07299</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The frequency of window damage caused by bolide airbursts: a quarter century case studyFebruary 20, 2018...</p></details>
    Published: February 20, 2018  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321596273412877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321596273412877/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>re it tumbled through Earth&#x27;s atmosphere, caught fire and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321596273412877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321596273412877/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>re it tumbled through Earth&#x27;s atmosphere, caught fire and...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/greenmattersmedia/posts/icymi-nasa-confirmed-the-sighting/1266985758909535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/greenmattersmedia/posts/icymi-nasa-confirmed-the-sighting/1266985758909535/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICYMI: NASA confirmed the sighting.NASA said that a “giant UFO” had just visited Earth and had landed in a military area. - news378update...</p></details>
+   Link:<a href="https://www.facebook.com/greenmattersmedia/posts/icymi-nasa-confirmed-the-sighting/1266985758909535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/greenmattersmedia/posts/icymi-nasa-confirmed-the-sighting/1266985758909535/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ICYMI: NASA confirmed the sighting.NASA said that a “giant UFO” had just visited Earth and had landed in a military area. - news378update...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nonextquestion/posts/a-mysterious-bright-object-with-a-long-glowing-tail-was-seen-in-the-sky-across-s/913087574969414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nonextquestion/posts/a-mysterious-bright-object-with-a-long-glowing-tail-was-seen-in-the-sky-across-s/913087574969414/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bhattarai noted that the timing...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/nonextquestion/posts/a-mysterious-bright-object-with-a-long-glowing-tail-was-seen-in-the-sky-across-s/913087574969414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nonextquestion/posts/a-mysterious-bright-object-with-a-long-glowing-tail-was-seen-in-the-sky-across-s/913087574969414/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bhattarai noted that the timing...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/cosmicdisclosure/posts/1200430878684581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/cosmicdisclosure/posts/1200430878684581/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs being shot down in large numbersWe have received reports of a possible meteor/fireball in the sky earlier this evening west of McAll...</p></details>
+   Link:<a href="https://www.facebook.com/groups/cosmicdisclosure/posts/1200430878684581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/cosmicdisclosure/posts/1200430878684581/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs being shot down in large numbersWe have received reports of a possible meteor/fireball in the sky earlier this evening west of McAll...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Nepal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nepal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nepala landlocked country in South Asia. It is mainly situated in the Himalayas, but also includes parts of the Indo-Gangetic Plain.Re...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Nepal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nepal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nepala landlocked country in South Asia. It is mainly situated in the Himalayas, but also includes parts of the Indo-Gangetic Plain.Re...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thehimalayantimes.com  
-   Link: <a href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</p></details>
+   Link:<a href="https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting" target="_blank" rel="noopener noreferrer nofollow">https://thehimalayantimes.com/science-and-tech/astronomical-society-urges-people-to-send-evidence-on-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Himalayan TimesAstronomical society urges people to provide evidence on...March 27, 2020 — 27 Mar 2020 — &quot;The object seen in the Nep...</p></details>
    Published: March 27, 2020  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nepalitimes.com  
    Title: ufo over pokhara  
-   Link: <a href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/ufo-over-pokhara</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nepali TimesUFO over Pokhara7 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</p></details>
+   Link:<a href="https://nepalitimes.com/ufo-over-pokhara" target="_blank" rel="noopener noreferrer nofollow">https://nepalitimes.com/ufo-over-pokhara</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nepali TimesUFO over Pokhara7 Dec 2024 — Although unidentified flying objects (UFOs) have a connotation now of being alien craft, it coul...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: kids.nationalgeographic.com  
-   Link: <a href="https://kids.nationalgeographic.com/geography/countries/article/nepal" target="_blank" rel="noopener noreferrer nofollow">https://kids.nationalgeographic.com/geography/countries/article/nepal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic KidsNepal lies between China and India in South Asia. The country is slightly larger than the state of Arkansas.Rea...</p></details>
+   Link:<a href="https://kids.nationalgeographic.com/geography/countries/article/nepal" target="_blank" rel="noopener noreferrer nofollow">https://kids.nationalgeographic.com/geography/countries/article/nepal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic KidsNepal lies between China and India in South Asia. The country is slightly larger than the state of Arkansas.Rea...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Nepal" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Nepal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nepal | History, Population, Flag, Language, Map, &amp; FactsNepal, country of Asia, lying along the southern slopes of the Himalayan mountai...</p></details>
+   Link:<a href="https://www.britannica.com/place/Nepal" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Nepal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nepal | History, Population, Flag, Language, Map, &amp; FactsNepal, country of Asia, lying along the southern slopes of the Himalayan mountai...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: globaledge.msu.edu  
-   Link: <a href="https://globaledge.msu.edu/countries/nepal" target="_blank" rel="noopener noreferrer nofollow">https://globaledge.msu.edu/countries/nepal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>msu.eduNepal: IntroductionNepal is a landlocked country in South Asia and is bordered by China and India. It is located in the Himalayas...</p></details>
+   Link:<a href="https://globaledge.msu.edu/countries/nepal" target="_blank" rel="noopener noreferrer nofollow">https://globaledge.msu.edu/countries/nepal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>msu.eduNepal: IntroductionNepal is a landlocked country in South Asia and is bordered by China and India. It is located in the Himalayas...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: astronomy.ie  
-   Link: <a href="https://astronomy.ie/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.ie/fireball-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball ReportWe will be writing a report for our magazine and investigating the likely landing zone. Sky lanterns are commonly mistaken...</p></details>
+   Link:<a href="https://astronomy.ie/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.ie/fireball-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball ReportWe will be writing a report for our magazine and investigating the likely landing zone. Sky lanterns are commonly mistaken...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ukfall.org.uk  
-   Link: <a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball AllianceThe UK Fireball Alliance (UKFAll) is a collaboration of camera networks that aims to record meteors and fireballs...</p></details>
+   Link:<a href="https://ukfall.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Fireball AllianceThe UK Fireball Alliance (UKFAll) is a collaboration of camera networks that aims to record meteors and fireballs...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: files.ipbes.net  
-   Link: <a href="https://files.ipbes.net/ipbes-web-prod-public-files/downloads/doc/IPBES_MEP_4_12_Add.1_Rev.3_0.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://files.ipbes.net/ipbes-web-prod-public-files/downloads/doc/IPBES_MEP_4_12_Add.1_Rev.3_0.xlsx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ipbes.net2b NOMINEESClimate Change Mitigation Potential from Carbon Sequestration of Community Forest in Mid Hill Region of Nepal.... Ec...</p></details>
+   Link:<a href="https://files.ipbes.net/ipbes-web-prod-public-files/downloads/doc/IPBES_MEP_4_12_Add.1_Rev.3_0.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://files.ipbes.net/ipbes-web-prod-public-files/downloads/doc/IPBES_MEP_4_12_Add.1_Rev.3_0.xlsx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ipbes.net2b NOMINEESClimate Change Mitigation Potential from Carbon Sequestration of Community Forest in Mid Hill Region of Nepal.... Ec...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theaustralianalpsnationalparks.org  
-   Link: <a href="https://theaustralianalpsnationalparks.org/wp-content/uploads/2013/12/iym-full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theaustralianalpsnationalparks.org/wp-content/uploads/2013/12/iym-full.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>65. THE MOUNTAIN MIRES OF SOUTHERN NEW SOUTH WALES AND THE AUSTRALIAN CAPITAL. TERRITORY: THEIR HISTORY AND FUTURE.Read more...</p></details>
+   Link:<a href="https://theaustralianalpsnationalparks.org/wp-content/uploads/2013/12/iym-full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theaustralianalpsnationalparks.org/wp-content/uploads/2013/12/iym-full.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>65. THE MOUNTAIN MIRES OF SOUTHERN NEW SOUTH WALES AND THE AUSTRALIAN CAPITAL. TERRITORY: THEIR HISTORY AND FUTURE.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: halfwayanywhere.com  
-   Link: <a href="https://www.halfwayanywhere.com/destination-guides/nepal/" target="_blank" rel="noopener noreferrer nofollow">https://www.halfwayanywhere.com/destination-guides/nepal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Guide To NepalNepal is not only home to some of the most incredible natural wonder on the planet (the Himalaya), but to a we...</p></details>
+   Link:<a href="https://www.halfwayanywhere.com/destination-guides/nepal/" target="_blank" rel="noopener noreferrer nofollow">https://www.halfwayanywhere.com/destination-guides/nepal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Guide To NepalNepal is not only home to some of the most incredible natural wonder on the planet (the Himalaya), but to a we...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: acton28.blog  
-   Link: <a href="https://acton28.blog/tag/wildlife/" target="_blank" rel="noopener noreferrer nofollow">https://acton28.blog/tag/wildlife/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Longleaf Indian pine trees, rhododendrons, alien-looking Woolly-leaved oak...Read more...</p></details>
+   Link:<a href="https://acton28.blog/tag/wildlife/" target="_blank" rel="noopener noreferrer nofollow">https://acton28.blog/tag/wildlife/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Longleaf Indian pine trees, rhododendrons, alien-looking Woolly-leaved oak...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: amsmeteors.org  
    Title: bright fireball flashes over cyprus on january 21th 2019  
-   Link: <a href="https://amsmeteors.org/2020/01/bright-fireball-flashes-over-cyprus-on-january-21th-2019/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/2020/01/bright-fireball-flashes-over-cyprus-on-january-21th-2019/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright fireball flashes over Cyprus on January 21st, 202023 Jan 2020 — The AMS #2020-485 event was mainly seen from the island of Cyprus...</p></details>
+   Link:<a href="https://amsmeteors.org/2020/01/bright-fireball-flashes-over-cyprus-on-january-21th-2019/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/2020/01/bright-fireball-flashes-over-cyprus-on-january-21th-2019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bright fireball flashes over Cyprus on January 21st, 202023 Jan 2020 — The AMS #2020-485 event was mainly seen from the island of Cyprus...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ntb.gov.np  
-   Link: <a href="https://ntb.gov.np/" target="_blank" rel="noopener noreferrer nofollow">https://ntb.gov.np/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your complete resource for accommodation, events, activities, and vacation preparation...</p></details>
+   Link:<a href="https://ntb.gov.np/" target="_blank" rel="noopener noreferrer nofollow">https://ntb.gov.np/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your complete resource for accommodation, events, activities, and vacation preparation...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
    Title: serious folks of rnepal have you witnessed any  
-   Link: <a href="https://www.reddit.com/r/Nepal/comments/mdlcln/serious_folks_of_rnepal_have_you_witnessed_any/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Nepal/comments/mdlcln/serious_folks_of_rnepal_have_you_witnessed_any/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Serious] Folks of r/Nepal, have you witnessed any...In 2020 mid-late October, the Orionids Meteor shower (from Halley&#x27;s Comet) was proj...</p></details>
+   Link:<a href="https://www.reddit.com/r/Nepal/comments/mdlcln/serious_folks_of_rnepal_have_you_witnessed_any/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Nepal/comments/mdlcln/serious_folks_of_rnepal_have_you_witnessed_any/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Serious] Folks of r/Nepal, have you witnessed any...In 2020 mid-late October, the Orionids Meteor shower (from Halley&#x27;s Comet) was proj...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ibtimes.co.uk  
    Title: green fireball uk ufo speculation 1791584  
-   Link: <a href="https://www.ibtimes.co.uk/green-fireball-uk-ufo-speculation-1791584" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/green-fireball-uk-ufo-speculation-1791584</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Fireball Mystery Deepens as Meteor Sightings...14 Apr 2026 — As footage circulated online, theories emerged suggesting the object...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/green-fireball-uk-ufo-speculation-1791584" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/green-fireball-uk-ufo-speculation-1791584</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor Fireball Mystery Deepens as Meteor Sightings...14 Apr 2026 — As footage circulated online, theories emerged suggesting the object...</p></details>

@@ -1194,40 +1194,40 @@ image: /assets/images/Albania_79b9d2-overview-social.jpg
 
 ## What counts as an Albanian UFO case?
 
-In this page, “UFO” means an unidentified flying object as reported by witnesses or media, not proof of extraterrestrial activity. That distinction matters. Modern UAP research bodies use “unidentified” to describe observations that have not been resolved from the available data, and NASA’s UAP study stressed that many reports remain hard to evaluate because they lack high-quality, reproducible data. The same problem is visible across Albania’s record: most cases are described after the fact, often without original photos, radar plots, flight logs, meteorological data, exact coordinates or independent forensic testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In this page, “UFO” means an unidentified flying object as reported by witnesses or media, not proof of extraterrestrial activity. That distinction matters. Modern UAP research bodies use “unidentified” to describe observations that have not been resolved from the available data, and NASA’s UAP study stressed that many reports remain hard to evaluate because they lack high-quality, reproducible data. The same problem is visible across Albania’s record: most cases are described after the fact, often without original photos, radar plots, flight logs, meteorological data, exact coordinates or independent forensic testing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Albania_79b9d2-overview.webp" | relative_url }}" alt="Overview image for Albania" loading="eager" decoding="sync" fetchpriority="high">
 The evidential categories are therefore uneven:
 
-* **Confirmed as reported, not confirmed as extraordinary:** the 2010 Tirana lights were covered by Top Channel, with aviation officials quoted as saying they did not have a matching explanation from air-navigation channels. That supports the existence of a public sighting report, not the identity of the objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://top-channel.tv/2010/09/06/vizitora-nga-hapasira/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: top-channel.tv">[Top Channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">top-channel.tv</span><span class="citation-popover-title">vizitora nga hapasira</span><span class="citation-popover-snippet">vizitora nga hapasira</span></span></span>
-* **Contested but culturally important:** Roskovec in 2006 remains Albania’s most memorable “landing” story, largely because witnesses described ground marks and local physical effects, but public reporting does not provide a verified laboratory chain of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetashqiptare.al">[Gazeta Shqiptare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetashqiptare.al</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Archival or memoir-based but unverified:** claims that communist-era security services monitored UFO-like phenomena are repeatedly reported in Albanian media, yet the accessible public record is mostly secondary reporting, literary framing and testimony rather than fully published official files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dritare.net/ufo-t-ne-shqiperi-fakte-te-padegjuara-nga-sigurimi-i-shtetit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dritare.net">[Dritare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dritare.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koha.net">[KOHA.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koha.net</span><span class="citation-popover-title">UF Os in Albania under the surveillance of the State</span><span class="citation-popover-snippet">UF Os in Albania under the surveillance of the State</span></span></span>
-* **Weak or derivative:** online lists and copied summaries are useful for leads, but not enough on their own to establish case facts. Albania’s UFO chronology is especially vulnerable to circular sourcing, where the same story reappears through multiple outlets without new documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
+* **Confirmed as reported, not confirmed as extraordinary:** the 2010 Tirana lights were covered by Top Channel, with aviation officials quoted as saying they did not have a matching explanation from air-navigation channels. That supports the existence of a public sighting report, not the identity of the objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://top-channel.tv/2010/09/06/vizitora-nga-hapasira/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: top-channel.tv">[Top Channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">top-channel.tv</span><span class="citation-popover-title">vizitora nga hapasira</span><span class="citation-popover-snippet">vizitora nga hapasira</span></span></span>
+* **Contested but culturally important:** Roskovec in 2006 remains Albania’s most memorable “landing” story, largely because witnesses described ground marks and local physical effects, but public reporting does not provide a verified laboratory chain of evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetashqiptare.al">[Gazeta Shqiptare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetashqiptare.al</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Archival or memoir-based but unverified:** claims that communist-era security services monitored UFO-like phenomena are repeatedly reported in Albanian media, yet the accessible public record is mostly secondary reporting, literary framing and testimony rather than fully published official files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dritare.net/ufo-t-ne-shqiperi-fakte-te-padegjuara-nga-sigurimi-i-shtetit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dritare.net">[Dritare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dritare.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koha.net">[KOHA.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koha.net</span><span class="citation-popover-title">UF Os in Albania under the surveillance of the State</span><span class="citation-popover-snippet">UF Os in Albania under the surveillance of the State</span></span></span>
+* **Weak or derivative:** online lists and copied summaries are useful for leads, but not enough on their own to establish case facts. Albania’s UFO chronology is especially vulnerable to circular sourcing, where the same story reappears through multiple outlets without new documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Albania</span><span class="citation-popover-snippet">UFO sightings in Albania</span></span></span>
 
 ## The chronology: from early reports to television-era sightings
 
 ### Early and pre-communist claims
 
-Some Albanian UFO chronologies begin with a passage attributed to the writer and activist Mihal Grameno, describing a bright object that hovered briefly near a mountain camp before disappearing. Later summaries treat this as one of Albania’s earliest anomalous aerial accounts, but it should be handled carefully: the source belongs to a memoir and nationalist-era literary context, not to a structured aviation or astronomical investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podujevapress.net/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podujevapress.net">[Podujeva PRESS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podujevapress.net</span><span class="citation-popover-title">Podujeva PRESSUFO-t në Shqipëri nën vëzhgimin e Sigurimit të Shtetit që në vitet</span><span class="citation-popover-snippet">Podujeva PRESSUFO-t në Shqipëri nën vëzhgimin e Sigurimit të Shtetit që në vitet</span></span></span>
+Some Albanian UFO chronologies begin with a passage attributed to the writer and activist Mihal Grameno, describing a bright object that hovered briefly near a mountain camp before disappearing. Later summaries treat this as one of Albania’s earliest anomalous aerial accounts, but it should be handled carefully: the source belongs to a memoir and nationalist-era literary context, not to a structured aviation or astronomical investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podujevapress.net/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podujevapress.net">[Podujeva PRESS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podujevapress.net</span><span class="citation-popover-title">Podujeva PRESSUFO-t në Shqipëri nën vëzhgimin e Sigurimit të Shtetit që në vitet</span><span class="citation-popover-snippet">Podujeva PRESSUFO-t në Shqipëri nën vëzhgimin e Sigurimit të Shtetit që në vitet</span></span></span>
 
-A second early claim concerns Vlorë in 1933, where later UFO lists describe an abnormal aerial incident involving aircraft changing direction in a way considered unusual for the period. The problem is that the public trail is thin and mostly preserved through later UFO compilations rather than a readily inspectable Albanian or Italian official file. It is best classified as an archival lead rather than a confirmed incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sq.wikipedia.org/wiki/Objekte_fluturuese_t%C3%AB_paidentifikuara_n%C3%AB_Shqip%C3%ABri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+A second early claim concerns Vlorë in 1933, where later UFO lists describe an abnormal aerial incident involving aircraft changing direction in a way considered unusual for the period. The problem is that the public trail is thin and mostly preserved through later UFO compilations rather than a readily inspectable Albanian or Italian official file. It is best classified as an archival lead rather than a confirmed incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sq.wikipedia.org/wiki/Objekte_fluturuese_t%C3%AB_paidentifikuara_n%C3%AB_Shqip%C3%ABri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The 1947 “flying saucer” wave gives Albania a more concrete international hook. A July 1947 FBI-related reference, repeated by Albanian media, lists Albania among places where “flying saucers” had reportedly been observed, alongside cities and regions in North America and Europe. The FBI’s broader public UFO archive shows how many such reports circulated in that period, but the Albania mention by itself does not provide a detailed local case file, named witnesses or a technical explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/25706/pg25706-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 1947 “flying saucer” wave gives Albania a more concrete international hook. A July 1947 FBI-related reference, repeated by Albanian media, lists Albania among places where “flying saucers” had reportedly been observed, alongside cities and regions in North America and Europe. The FBI’s broader public UFO archive shows how many such reports circulated in that period, but the Albania mention by itself does not provide a detailed local case file, named witnesses or a technical explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/25706/pg25706-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Albania_79b9d2-Illustration-1-dark.svg" | relative_url }}" alt="Albania illustration 1" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Communist-era stories: Tomorr, Kuçova and the secrecy problem
 
-The most dramatic Albanian UFO legend is the Mount Tomorr or Skrapar-area story from the 1960s. In its common form, Albanian jets from Kuçova are said to have been scrambled after a bright spherical object; later retellings add instrument disruption, a pilot named Veiz Lamë, and a mysterious aircraft crash or damage. Albanian articles link the story to alleged awareness by State Security officials and senior communist figures Hysni Kapo and Gogo Nushi. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shqiptarja.com/lajm/malindi-per-ufo-t-ne-tomorr-kishte-br-dijeni-sigurimi-i-shtetit-kapo-e-nushi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shqiptarja.com">[Shqiptarja]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shqiptarja.com</span><span class="citation-popover-title">malindi per ufo t ne tomorr kishte br dijeni sigurimi i shtetit kapo e nushi</span><span class="citation-popover-snippet">malindi per ufo t ne tomorr kishte br dijeni sigurimi i shtetit kapo e nushi</span></span></span>
+The most dramatic Albanian UFO legend is the Mount Tomorr or Skrapar-area story from the 1960s. In its common form, Albanian jets from Kuçova are said to have been scrambled after a bright spherical object; later retellings add instrument disruption, a pilot named Veiz Lamë, and a mysterious aircraft crash or damage. Albanian articles link the story to alleged awareness by State Security officials and senior communist figures Hysni Kapo and Gogo Nushi.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shqiptarja.com/lajm/malindi-per-ufo-t-ne-tomorr-kishte-br-dijeni-sigurimi-i-shtetit-kapo-e-nushi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shqiptarja.com">[Shqiptarja]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shqiptarja.com</span><span class="citation-popover-title">malindi per ufo t ne tomorr kishte br dijeni sigurimi i shtetit kapo e nushi</span><span class="citation-popover-snippet">malindi per ufo t ne tomorr kishte br dijeni sigurimi i shtetit kapo e nushi</span></span></span>
 
-This is also where caution is most necessary. Albania’s communist-era security archives are real, and the modern Authority for Information on Former State Security Documents exists to enable archival research into former Sigurimi records. Its remit includes archival research for scientific, media and educational purposes, and guidance for journalists stresses the need to understand the historical context and avoid misinterpretation of sensitive files. That supports the possibility of future archival clarification, but it does not by itself verify that a publicly available UFO file proves the Tomorr story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aidssh.al/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aidssh.al">[AISSHS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aidssh.al</span><span class="citation-popover-title">AISSHSAutoriteti për Informimin mbi Dokumentet e Ish-Sigurimit të</span><span class="citation-popover-snippet">AISSHSAutoriteti për Informimin mbi Dokumentet e Ish-Sigurimit të</span></span></span>
+This is also where caution is most necessary. Albania’s communist-era security archives are real, and the modern Authority for Information on Former State Security Documents exists to enable archival research into former Sigurimi records. Its remit includes archival research for scientific, media and educational purposes, and guidance for journalists stresses the need to understand the historical context and avoid misinterpretation of sensitive files. That supports the possibility of future archival clarification, but it does not by itself verify that a publicly available UFO file proves the Tomorr story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aidssh.al/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aidssh.al">[AISSHS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aidssh.al</span><span class="citation-popover-title">AISSHSAutoriteti për Informimin mbi Dokumentet e Ish-Sigurimit të</span><span class="citation-popover-snippet">AISSHSAutoriteti për Informimin mbi Dokumentet e Ish-Sigurimit të</span></span></span>
 
-The Tomorr claim is plausible as a Cold War air-defence anxiety story even if its extraordinary details remain unproven. Albania was isolated, heavily securitised and sensitive to airspace threats; Kuçova was a significant air base, and NATO later described the modernised Kuçova facility as a major hub for Alliance air operations, showing the area’s continuing strategic value. The existence of a militarised setting can explain why unusual lights, aircraft, balloons, meteorological phenomena or foreign overflights might have been treated seriously, but it does not confirm an exotic craft. NATO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.gov.al/eng/newsroom/1618-nato-tactical-air-base-is-inaugurated-in-kucova-peleshi-major-investment-asset-for-the-entire-region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.gov.al">[Ministry of Defense Albania]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.gov.al</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Tomorr claim is plausible as a Cold War air-defence anxiety story even if its extraordinary details remain unproven. Albania was isolated, heavily securitised and sensitive to airspace threats; Kuçova was a significant air base, and NATO later described the modernised Kuçova facility as a major hub for Alliance air operations, showing the area’s continuing strategic value. The existence of a militarised setting can explain why unusual lights, aircraft, balloons, meteorological phenomena or foreign overflights might have been treated seriously, but it does not confirm an exotic craft. NATO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mod.gov.al/eng/newsroom/1618-nato-tactical-air-base-is-inaugurated-in-kucova-peleshi-major-investment-asset-for-the-entire-region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mod.gov.al">[Ministry of Defense Albania]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mod.gov.al</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ### The 1990s: sightings in a state opening up
 
-The end of communist rule changed how Albanian sightings surfaced. A reported 1 August 1990 event near Shkodër, attributed to Gëzim Dapi while he was serving in an anti-aircraft unit, describes a fast-moving diamond-like formation of many lights and later questioning by officers, with no radar confirmation reported in the public account. The case is notable because it comes from a military-service setting and because it occurred during Albania’s political opening, when public attention was dominated by upheaval rather than anomalous-sighting documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
+The end of communist rule changed how Albanian sightings surfaced. A reported 1 August 1990 event near Shkodër, attributed to Gëzim Dapi while he was serving in an anti-aircraft unit, describes a fast-moving diamond-like formation of many lights and later questioning by officers, with no radar confirmation reported in the public account. The case is notable because it comes from a military-service setting and because it occurred during Albania’s political opening, when public attention was dominated by upheaval rather than anomalous-sighting documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
 
-A 1993 Cërrik case is reported as a glowing object over the Elbasan region, visible for roughly two hours and said to have caused local concern. The public record for this case is weaker than for Tirana 2010 or [Roskovec 2006]({{ 'roskovec-2006/' | relative_url }}): it appears mainly in compiled Albanian UFO chronologies, without accessible official documents or independent technical analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hiện tượng quan sát thấy UFO ở Albania</span><span class="citation-popover-snippet">Hiện tượng quan sát thấy UFO ở Albania</span></span></span>
+A 1993 Cërrik case is reported as a glowing object over the Elbasan region, visible for roughly two hours and said to have caused local concern. The public record for this case is weaker than for Tirana 2010 or [Roskovec 2006]({{ 'roskovec-2006/' | relative_url }}): it appears mainly in compiled Albanian UFO chronologies, without accessible official documents or independent technical analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hiện tượng quan sát thấy UFO ở Albania</span><span class="citation-popover-snippet">Hiện tượng quan sát thấy UFO ở Albania</span></span></span>
 
 These 1990s reports matter because they sit between two worlds. They inherit the language of Cold War secrecy, but they are reported in the looser post-communist media environment. That makes them more publicly visible than communist-era cases, yet still poorly archived by modern evidential standards.
 
@@ -1235,17 +1235,17 @@ These 1990s reports matter because they sit between two worlds. They inherit the
 
 ## Roskovec 2006: Albania’s best-known “landing” story
 
-The Roskovec case, reported as occurring on 4 May 2006 in the Fier region, is the Albanian UFO story most likely to be remembered by the general public. Later interviews and media reports describe an oval or disc-like object, sudden darkness, strong wind, frightened witnesses and marks on asphalt said to have been photographed by Alim Çepele. A 2023 Gazeta Shqiptare article revisited the photographer’s claims, including the account that a child witness was traumatised by what he saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetashqiptare.al">[Gazeta Shqiptare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetashqiptare.al</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Roskovec case, reported as occurring on 4 May 2006 in the Fier region, is the Albanian UFO story most likely to be remembered by the general public. Later interviews and media reports describe an oval or disc-like object, sudden darkness, strong wind, frightened witnesses and marks on asphalt said to have been photographed by Alim Çepele. A 2023 Gazeta Shqiptare article revisited the photographer’s claims, including the account that a child witness was traumatised by what he saw.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetashqiptare.al">[Gazeta Shqiptare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetashqiptare.al</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-What makes Roskovec stronger than many Albanian sightings is not that it proves a craft landed, but that it has a more concrete claim set: named witnesses, a specific locality, alleged ground traces and later media follow-up. That gives investigators something to test in principle. The difficulty is that the strongest public evidence appears to be retrospective testimony and photographs discussed in media, rather than a preserved forensic package with material samples, environmental measurements, independent site surveys and a documented chain of custody. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetashqiptare.al">[Gazeta Shqiptare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetashqiptare.al</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+What makes Roskovec stronger than many Albanian sightings is not that it proves a craft landed, but that it has a more concrete claim set: named witnesses, a specific locality, alleged ground traces and later media follow-up. That gives investigators something to test in principle. The difficulty is that the strongest public evidence appears to be retrospective testimony and photographs discussed in media, rather than a preserved forensic package with material samples, environmental measurements, independent site surveys and a documented chain of custody.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetashqiptare.al">[Gazeta Shqiptare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetashqiptare.al</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A fair reading separates the case into layers. The **reported social event** is credible enough to treat as a real local episode: people in and around Roskovec discussed an unusual incident, and Albanian media returned to it years later. The **physical interpretation** is far less secure: circular marks on asphalt can have mundane causes unless tested promptly and independently. The **extraordinary conclusion** remains unsupported by public evidence. Roskovec belongs in Albania’s contested category, not the confirmed category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetashqiptare.al">[Gazeta Shqiptare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetashqiptare.al</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+A fair reading separates the case into layers. The **reported social event** is credible enough to treat as a real local episode: people in and around Roskovec discussed an unusual incident, and Albanian media returned to it years later. The **physical interpretation** is far less secure: circular marks on asphalt can have mundane causes unless tested promptly and independently. The **extraordinary conclusion** remains unsupported by public evidence. Roskovec belongs in Albania’s contested category, not the confirmed category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetashqiptare.al">[Gazeta Shqiptare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetashqiptare.al</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
 ## Tirana 2010: the case with the clearest official-adjacent response
 
-The 2010 Tirana lights are important because they moved beyond rumour into national broadcast coverage. Top Channel reported that around the night of 6–7 August, three unidentified lights were seen over Tirana in amateur footage. The report quoted civil aviation sources saying that, at the reported time, there had been no aircraft taking off, and it noted that the military declined to comment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://top-channel.tv/2010/09/06/vizitora-nga-hapasira/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: top-channel.tv">[Top Channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">top-channel.tv</span><span class="citation-popover-title">vizitora nga hapasira</span><span class="citation-popover-snippet">vizitora nga hapasira</span></span></span>
+The 2010 Tirana lights are important because they moved beyond rumour into national broadcast coverage. Top Channel reported that around the night of 6–7 August, three unidentified lights were seen over Tirana in amateur footage. The report quoted civil aviation sources saying that, at the reported time, there had been no aircraft taking off, and it noted that the military declined to comment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://top-channel.tv/2010/09/06/vizitora-nga-hapasira/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: top-channel.tv">[Top Channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">top-channel.tv</span><span class="citation-popover-title">vizitora nga hapasira</span><span class="citation-popover-snippet">vizitora nga hapasira</span></span></span>
 
-This is the kind of case that often attracts strong claims, but its actual value is narrower. The aviation comments help rule out some ordinary aircraft activity at the specific reported time, if the broadcast account is accurate. They do not rule out sky lanterns, balloons, distant aircraft at altitude, drones, reflections, astronomical objects, satellites, atmospheric effects or errors in timing and distance estimation. AARO’s public material on UAP repeatedly notes that common causes include airborne clutter, drones, balloons, birds, satellites and other ordinary sources, and NASA’s UAP work emphasises that poor data often prevents firm conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+This is the kind of case that often attracts strong claims, but its actual value is narrower. The aviation comments help rule out some ordinary aircraft activity at the specific reported time, if the broadcast account is accurate. They do not rule out sky lanterns, balloons, distant aircraft at altitude, drones, reflections, astronomical objects, satellites, atmospheric effects or errors in timing and distance estimation. AARO’s public material on UAP repeatedly notes that common causes include airborne clutter, drones, balloons, birds, satellites and other ordinary sources, and NASA’s UAP work emphasises that poor data often prevents firm conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 Tirana 2010 is therefore Albania’s strongest “unexplained in public reporting” case, not its strongest proof of anything exotic. It has a date, a place, media footage, witness claims and a partial aviation response. What it lacks is the information needed for closure: original uncompressed video, exact camera location and direction, flight and radar data, meteorological data, astronomical checks and independent reconstruction.
 
@@ -1254,29 +1254,29 @@ Tirana 2010 is therefore Albania’s strongest “unexplained in public reportin
 
 Albanian UFO reports are not evenly distributed in meaning. Mountain, military, urban and coastal cases tend to raise different possibilities.
 
-**Mountain and inland cases** such as Tomorr, Pirogoshi Canyon and parts of Skrapar are often told with a folkloric or secretive atmosphere. Terrain can make distance and speed hard to judge, especially when lights appear against ridgelines or valleys. The Tomorr cluster also overlaps with Albania’s Cold War military imagination, where unusual aerial events could be interpreted through fears of hostile reconnaissance or border intrusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shqiptarja.com/uploads/gazeta/2017/07/shq-12-07-2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shqiptarja.com">[Shqiptarja]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shqiptarja.com</span><span class="citation-popover-snippet">Open source on shqiptarja.com.</span></span></span>
+**Mountain and inland cases** such as Tomorr, Pirogoshi Canyon and parts of Skrapar are often told with a folkloric or secretive atmosphere. Terrain can make distance and speed hard to judge, especially when lights appear against ridgelines or valleys. The Tomorr cluster also overlaps with Albania’s Cold War military imagination, where unusual aerial events could be interpreted through fears of hostile reconnaissance or border intrusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shqiptarja.com/uploads/gazeta/2017/07/shq-12-07-2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shqiptarja.com">[Shqiptarja]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shqiptarja.com</span><span class="citation-popover-snippet">Open source on shqiptarja.com.</span></span></span>
 
-**Military-airspace cases** around Kuçova and Shkodër carry a different evidential appeal because witnesses sometimes claim training or air-defence roles. That can improve identification skill, but it does not remove the need for records. A trained observer may still misjudge size, altitude or speed without instrument data, and the absence of publicly accessible radar confirmation weakens the cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin%3AFBI_18_July_1947_UFO_Saucer_Report.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tập tin:FBI 18 July 1947 UFO Saucer Report.jpg</span><span class="citation-popover-snippet">Tập tin:FBI 18 July 1947 UFO Saucer Report.jpg</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
+**Military-airspace cases** around Kuçova and Shkodër carry a different evidential appeal because witnesses sometimes claim training or air-defence roles. That can improve identification skill, but it does not remove the need for records. A trained observer may still misjudge size, altitude or speed without instrument data, and the absence of publicly accessible radar confirmation weakens the cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin%3AFBI_18_July_1947_UFO_Saucer_Report.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tập tin:FBI 18 July 1947 UFO Saucer Report.jpg</span><span class="citation-popover-snippet">Tập tin:FBI 18 July 1947 UFO Saucer Report.jpg</span><span class="citation-popover-meta">Published: July 1947</span></span></span>
 
-**Coastal cases** near Seman, Karaburun and Vlorë involve horizons, boats, atmospheric haze, navigation lights and maritime traffic. A 2007 Seman report attributed to a coast guard officer describes a bright colour-changing object remaining visible for about 20 minutes; a 2009 Karaburun-area report describes fishermen seeing a small object pass rapidly overhead. Both are interesting as witness reports, but coastal optics and moving reference points make independent confirmation especially important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NASA Unidentified Anomalous Phenomena Independent Study Team</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena Independent Study Team</span></span></span>
+**Coastal cases** near Seman, Karaburun and Vlorë involve horizons, boats, atmospheric haze, navigation lights and maritime traffic. A 2007 Seman report attributed to a coast guard officer describes a bright colour-changing object remaining visible for about 20 minutes; a 2009 Karaburun-area report describes fishermen seeing a small object pass rapidly overhead. Both are interesting as witness reports, but coastal optics and moving reference points make independent confirmation especially important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">NASA Unidentified Anomalous Phenomena Independent Study Team</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena Independent Study Team</span></span></span>
 
-**Urban Tirana cases** are more likely to be filmed or reported quickly, but they also occur in complex skies with aircraft approaches, lighting reflections, events, drones and lantern-like objects. The 2010 case stands out because aviation officials were asked for comment, yet the public record still falls short of a technical investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://top-channel.tv/2010/09/06/vizitora-nga-hapasira/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: top-channel.tv">[Top Channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">top-channel.tv</span><span class="citation-popover-title">vizitora nga hapasira</span><span class="citation-popover-snippet">vizitora nga hapasira</span></span></span>
+**Urban Tirana cases** are more likely to be filmed or reported quickly, but they also occur in complex skies with aircraft approaches, lighting reflections, events, drones and lantern-like objects. The 2010 case stands out because aviation officials were asked for comment, yet the public record still falls short of a technical investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://top-channel.tv/2010/09/06/vizitora-nga-hapasira/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: top-channel.tv">[Top Channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">top-channel.tv</span><span class="citation-popover-title">vizitora nga hapasira</span><span class="citation-popover-snippet">vizitora nga hapasira</span></span></span>
 
 ## Official records: what exists, what is missing, and what could still matter
 
-There is no publicly visible Albanian equivalent of a comprehensive national UAP archive. The closest official archival pathway concerns former State Security files, not UFOs specifically. Albania’s Authority for Information on Former State Security Documents enables research into Sigurimi records from the communist period, and OSCE-supported guidance explains how journalists and researchers can access and interpret such documents. This matters for UFO history because several Albanian claims explicitly allege Sigurimi awareness or investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aidssh.al/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aidssh.al">[AISSHS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aidssh.al</span><span class="citation-popover-title">AISSHSAutoriteti për Informimin mbi Dokumentet e Ish-Sigurimit të</span><span class="citation-popover-snippet">AISSHSAutoriteti për Informimin mbi Dokumentet e Ish-Sigurimit të</span></span></span>
+There is no publicly visible Albanian equivalent of a comprehensive national UAP archive. The closest official archival pathway concerns former State Security files, not UFOs specifically. Albania’s Authority for Information on Former State Security Documents enables research into Sigurimi records from the communist period, and OSCE-supported guidance explains how journalists and researchers can access and interpret such documents. This matters for UFO history because several Albanian claims explicitly allege Sigurimi awareness or investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aidssh.al/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aidssh.al">[AISSHS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aidssh.al</span><span class="citation-popover-title">AISSHSAutoriteti për Informimin mbi Dokumentet e Ish-Sigurimit të</span><span class="citation-popover-snippet">AISSHSAutoriteti për Informimin mbi Dokumentet e Ish-Sigurimit të</span></span></span>
 
-However, an archive’s existence is not evidence that a UFO claim is true. For a communist-era Albanian case to become substantially stronger, researchers would need published file references, dates, agency chains, witness names where ethically releasable, aircraft logs, medical or crash documentation, and ideally corroborating records from military or aviation institutions. Without that, phrases such as “secret files” and “State Security knew” remain leads rather than conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://albania.osce.org/sites/default/files/documents/publications/2025/12/Manual_Sigurimi_Eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: albania.osce.org">[OSCE Albania]</a><span class="citation-popover" role="note"><span class="citation-popover-source">albania.osce.org</span><span class="citation-popover-title">Manual Sigurimi Eng</span><span class="citation-popover-snippet">Manual Sigurimi Eng</span></span></span>
+However, an archive’s existence is not evidence that a UFO claim is true. For a communist-era Albanian case to become substantially stronger, researchers would need published file references, dates, agency chains, witness names where ethically releasable, aircraft logs, medical or crash documentation, and ideally corroborating records from military or aviation institutions. Without that, phrases such as “secret files” and “State Security knew” remain leads rather than conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://albania.osce.org/sites/default/files/documents/publications/2025/12/Manual_Sigurimi_Eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: albania.osce.org">[OSCE Albania]</a><span class="citation-popover" role="note"><span class="citation-popover-source">albania.osce.org</span><span class="citation-popover-title">Manual Sigurimi Eng</span><span class="citation-popover-snippet">Manual Sigurimi Eng</span></span></span>
 
-International comparison helps only in a limited way. The United States has released large bodies of historical UFO material, and AARO has formal procedures and public case summaries, including European cases from 2021–22 that it variously lists as unresolved, resolved as balloons, or closed as not anomalous. Albania does not appear in those AARO case pages as a specific public case location, but the comparison shows the level of classification needed: a useful modern case record distinguishes unresolved from resolved, and separates “physical object present” from claims about origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+International comparison helps only in a limited way. The United States has released large bodies of historical UFO material, and AARO has formal procedures and public case summaries, including European cases from 2021–22 that it variously lists as unresolved, resolved as balloons, or closed as not anomalous. Albania does not appear in those AARO case pages as a specific public case location, but the comparison shows the level of classification needed: a useful modern case record distinguishes unresolved from resolved, and separates “physical object present” from claims about origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4-FnInuQpeU" title="Massive UFOs Suddenly Appears in Albania Sky‼️😨 REAL UFO SIGHTINGS FOOTAGES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4-FnInuQpeU" target="_blank" rel="noopener noreferrer">Massive UFOs Suddenly Appears in Albania Sky‼️😨 REAL UFO SIGHTINGS FOOTAGES</a></p><p class="youtube-embed-meta">Channel: Dezzmon &middot; Views: 9.8K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4-FnInuQpeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4-FnInuQpeU">Open on YouTube</a></p></div></div></div>
 
 ## Reliability of local sources: useful, but uneven
 
-Albanian media are essential for reconstructing the country’s UFO record because many cases were reported locally or in Albanian-language outlets. Top Channel’s 2010 Tirana report is especially valuable because it quotes aviation-related responses rather than only witness belief. Gazeta Shqiptare’s later Roskovec coverage is useful for preserving witness claims and the photographer’s account. Shqiptarja and related reports around Ilir Malindi provide access to the Tomorr narrative and the alleged Sigurimi connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://top-channel.tv/2010/09/06/vizitora-nga-hapasira/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: top-channel.tv">[Top Channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">top-channel.tv</span><span class="citation-popover-title">vizitora nga hapasira</span><span class="citation-popover-snippet">vizitora nga hapasira</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetashqiptare.al">[Gazeta Shqiptare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetashqiptare.al</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Albanian media are essential for reconstructing the country’s UFO record because many cases were reported locally or in Albanian-language outlets. Top Channel’s 2010 Tirana report is especially valuable because it quotes aviation-related responses rather than only witness belief. Gazeta Shqiptare’s later Roskovec coverage is useful for preserving witness claims and the photographer’s account. Shqiptarja and related reports around Ilir Malindi provide access to the Tomorr narrative and the alleged Sigurimi connection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://top-channel.tv/2010/09/06/vizitora-nga-hapasira/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: top-channel.tv">[Top Channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">top-channel.tv</span><span class="citation-popover-title">vizitora nga hapasira</span><span class="citation-popover-snippet">vizitora nga hapasira</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazetashqiptare.al">[Gazeta Shqiptare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazetashqiptare.al</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-At the same time, Albania’s media environment requires caution. Reporters Without Borders says media independence in Albania is affected by conflicts of interest between business and politics, a flawed legal framework and intimidation pressures; Freedom House also notes that media owners can use platforms to influence politics and that disinformation remains a concern. These are not reasons to dismiss Albanian reporting, but they are reasons to avoid treating sensational retellings as confirmed evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Sans Frontières]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+At the same time, Albania’s media environment requires caution. Reporters Without Borders says media independence in Albania is affected by conflicts of interest between business and politics, a flawed legal framework and intimidation pressures; Freedom House also notes that media owners can use platforms to influence politics and that disinformation remains a concern. These are not reasons to dismiss Albanian reporting, but they are reasons to avoid treating sensational retellings as confirmed evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rsf.org/en/country/albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rsf.org">[Reporters Sans Frontières]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rsf.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A practical reliability scale for Albanian UFO sources looks like this:
 
@@ -1288,217 +1288,217 @@ A practical reliability scale for Albanian UFO sources looks like this:
 <img src="{{ "/assets/images/Albania_79b9d2-Illustration-3-dark.svg" | relative_url }}" alt="Albania illustration 3" data-theme-src-dark="{{ "/assets/images/Albania_79b9d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Albania_79b9d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested and debunked claims
 
-Albania’s UFO file has very few clean debunks in the public record. That is not because the cases are unusually strong; it is because most have not been investigated thoroughly enough to be resolved. In UAP research, “unresolved” often means “insufficient data”, not “extraordinary”. NASA and AARO both make this point in different ways: stronger data collection is needed, and many resolved UAP cases turn out to be ordinary objects or phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records</span></span></span>
+Albania’s UFO file has very few clean debunks in the public record. That is not because the cases are unusually strong; it is because most have not been investigated thoroughly enough to be resolved. In UAP research, “unresolved” often means “insufficient data”, not “extraordinary”. NASA and AARO both make this point in different ways: stronger data collection is needed, and many resolved UAP cases turn out to be ordinary objects or phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records</span></span></span>
 
 A careful classification would be:
 
 Case or clusterBest current classificationWhyEarly Grameno-style bright-object accountHistorical anecdoteCulturally interesting, but not an aviation investigation.1947 Albania mention in flying-saucer listsArchival leadAlbania appears in wider 1947 reporting, but without detailed local case data.Tomorr / Skrapar / Kuçova 1960s claimsContested Cold War legendStrong narrative, alleged security interest, weak public documentation.Shkodër 1990 anti-aircraft-unit reportContested witness caseMilitary-service context, but no public radar or official file.Roskovec 2006Contested physical-trace claimNamed witnesses and alleged marks, but no verified forensic record.Seman 2007 and Karaburun 2009Contested coastal sightingsInteresting witness settings, but vulnerable to horizon and maritime misidentification.Tirana 2010Unexplained in public reportingMedia coverage and partial aviation response, but insufficient technical data.
 
-The strongest sceptical conclusion is not that every Albanian witness was wrong. It is that the public evidence does not yet let readers distinguish unusual aircraft, balloons, drones, lanterns, satellites, atmospheric effects, military activity, optical errors and truly anomalous objects with confidence. That is exactly the evidential gap modern UAP studies identify internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest sceptical conclusion is not that every Albanian witness was wrong. It is that the public evidence does not yet let readers distinguish unusual aircraft, balloons, drones, lanterns, satellites, atmospheric effects, military activity, optical errors and truly anomalous objects with confidence. That is exactly the evidential gap modern UAP studies identify internationally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## How Albania connects to neighbouring country branches
 
-Albania’s UFO material naturally links to sibling branches on Kosovo, Greece, Italy, Montenegro and the wider Adriatic-Balkan region. The reason is not that the same object is proven to have crossed borders, but that Albania’s geography and political history make cross-border explanations relevant. Coastal sightings may involve Adriatic and Ionian traffic; southern military anxieties historically involved Greece and NATO; post-2009 air policing links Albania’s airspace to NATO neighbours Italy and Greece. Reuters reported that Albania retired its MiG fleet in 2005 and that, after Albania joined NATO in 2009, Italy and Greece monitored its airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/albanias-graveyard-of-migs-to-become-nato-air-base-idUSKCN1MM1Q2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">albanias graveyard of migs to become nato air base id USKCN1MM1Q2</span><span class="citation-popover-snippet">albanias graveyard of migs to become nato air base id USKCN1MM1Q2</span></span></span>
+Albania’s UFO material naturally links to sibling branches on Kosovo, Greece, Italy, Montenegro and the wider Adriatic-Balkan region. The reason is not that the same object is proven to have crossed borders, but that Albania’s geography and political history make cross-border explanations relevant. Coastal sightings may involve Adriatic and Ionian traffic; southern military anxieties historically involved Greece and NATO; post-2009 air policing links Albania’s airspace to NATO neighbours Italy and Greece. Reuters reported that Albania retired its MiG fleet in 2005 and that, after Albania joined NATO in 2009, Italy and Greece monitored its airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/albanias-graveyard-of-migs-to-become-nato-air-base-idUSKCN1MM1Q2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">albanias graveyard of migs to become nato air base id USKCN1MM1Q2</span><span class="citation-popover-snippet">albanias graveyard of migs to become nato air base id USKCN1MM1Q2</span></span></span>
 
-This matters for interpretation. A sighting over Vlorë, Seman or Karaburun should not be assessed only as a local village mystery; it may require maritime, aviation and military context across the Adriatic. A Tomorr or Kuçova story should be read alongside Cold War Balkan air-defence concerns. A Tirana lights case should be compared with common urban-light reports elsewhere in the region, especially where lanterns, balloons, drones or high-altitude aircraft are plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/news-and-events/articles/news/2024/03/04/nato-completes-modernisation-of-major-airbase-in-albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">completes modernisation of major airbase in albania</span><span class="citation-popover-snippet">completes modernisation of major airbase in albania</span></span></span>
+This matters for interpretation. A sighting over Vlorë, Seman or Karaburun should not be assessed only as a local village mystery; it may require maritime, aviation and military context across the Adriatic. A Tomorr or Kuçova story should be read alongside Cold War Balkan air-defence concerns. A Tirana lights case should be compared with common urban-light reports elsewhere in the region, especially where lanterns, balloons, drones or high-altitude aircraft are plausible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nato.int/en/news-and-events/articles/news/2024/03/04/nato-completes-modernisation-of-major-airbase-in-albania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nato.int">[NATO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nato.int</span><span class="citation-popover-title">completes modernisation of major airbase in albania</span><span class="citation-popover-snippet">completes modernisation of major airbase in albania</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vBV6uG-ZFNo" title="Albania’s Growing Role in NATO: From Regional Stability to Global Partnership" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vBV6uG-ZFNo" target="_blank" rel="noopener noreferrer">Albania’s Growing Role in NATO: From Regional Stability to Global Partnership</a></p><p class="youtube-embed-meta">Channel: NATOCanada &middot; Views: 318 &middot; Uploaded: July 2025 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vBV6uG-ZFNo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vBV6uG-ZFNo">Open on YouTube</a></p></div></div></div>
 
 ## What would change the assessment?
 
-The Albanian UFO record would become much more valuable if researchers could attach public claims to primary evidence. For communist-era cases, the key would be accessible archival files from former security or military structures with document numbers, dates and corroborating logs. For post-1990 cases, the key would be original media files, flight data, radar records, weather conditions, astronomical checks and interviews taken close to the event. The OSCE-supported manual on Sigurimi files is relevant here because it encourages careful contextual reading and warns against misinterpretation when using sensitive security documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://albania.osce.org/sites/default/files/documents/publications/2025/12/Manual_Sigurimi_Eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: albania.osce.org">[OSCE Albania]</a><span class="citation-popover" role="note"><span class="citation-popover-source">albania.osce.org</span><span class="citation-popover-title">Manual Sigurimi Eng</span><span class="citation-popover-snippet">Manual Sigurimi Eng</span></span></span>
+The Albanian UFO record would become much more valuable if researchers could attach public claims to primary evidence. For communist-era cases, the key would be accessible archival files from former security or military structures with document numbers, dates and corroborating logs. For post-1990 cases, the key would be original media files, flight data, radar records, weather conditions, astronomical checks and interviews taken close to the event. The OSCE-supported manual on Sigurimi files is relevant here because it encourages careful contextual reading and warns against misinterpretation when using sensitive security documents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://albania.osce.org/sites/default/files/documents/publications/2025/12/Manual_Sigurimi_Eng.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: albania.osce.org">[OSCE Albania]</a><span class="citation-popover" role="note"><span class="citation-popover-source">albania.osce.org</span><span class="citation-popover-title">Manual Sigurimi Eng</span><span class="citation-popover-snippet">Manual Sigurimi Eng</span></span></span>
 
 Until then, Albania’s UFO history should be treated as a layered national folklore-and-reporting record rather than a solved mystery. Roskovec and Tirana deserve attention because they are specific, public and memorable. Tomorr deserves attention because it reveals how Cold War secrecy can harden into legend. The broader pattern deserves attention because it shows how a small country’s UFO archive can be shaped as much by missing records, media incentives and political history as by what witnesses saw in the sky.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Unexplained Aerial Phenomena Have Occurred in Albania?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Unexplained Aerial Phenomena Have Occurred in Albania?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating national UFO reports with limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating national UFO reports with limited evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores international UAP claims and evidence debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores international UAP claims and evidence debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for assessing witness-heavy reports like those from Albania.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing witness-heavy reports like those from Albania.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides context for how states and institutions respond to UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how states and institutions respond to UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-unexplained-aerial-phenomena-have-occurred-in-albania-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1514,7 +1514,7 @@ Until then, Albania’s UFO history should be treated as a layered national folk
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1534,7 +1534,7 @@ Until then, Albania’s UFO history should be treated as a layered national folk
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1566,7 +1566,7 @@ Until then, Albania’s UFO history should be treated as a layered national folk
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1618,7 +1618,7 @@ Until then, Albania’s UFO history should be treated as a layered national folk
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1663,7 +1663,7 @@ Until then, Albania’s UFO history should be treated as a layered national folk
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1701,399 +1701,398 @@ Until then, Albania’s UFO history should be treated as a layered national folk
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: top-channel.tv  
    Title: vizitora nga hapasira  
-   Link: <a href="https://top-channel.tv/2010/09/06/vizitora-nga-hapasira/" target="_blank" rel="noopener noreferrer nofollow">https://top-channel.tv/2010/09/06/vizitora-nga-hapasira/</a>  
+   Link:<a href="https://top-channel.tv/2010/09/06/vizitora-nga-hapasira/" target="_blank" rel="noopener noreferrer nofollow">https://top-channel.tv/2010/09/06/vizitora-nga-hapasira/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: shqiptarja.com  
    Title: malindi per ufo t ne tomorr kishte br dijeni sigurimi i shtetit kapo e nushi  
-   Link: <a href="https://shqiptarja.com/lajm/malindi-per-ufo-t-ne-tomorr-kishte-br-dijeni-sigurimi-i-shtetit-kapo-e-nushi" target="_blank" rel="noopener noreferrer nofollow">https://shqiptarja.com/lajm/malindi-per-ufo-t-ne-tomorr-kishte-br-dijeni-sigurimi-i-shtetit-kapo-e-nushi</a>  
+   Link:<a href="https://shqiptarja.com/lajm/malindi-per-ufo-t-ne-tomorr-kishte-br-dijeni-sigurimi-i-shtetit-kapo-e-nushi" target="_blank" rel="noopener noreferrer nofollow">https://shqiptarja.com/lajm/malindi-per-ufo-t-ne-tomorr-kishte-br-dijeni-sigurimi-i-shtetit-kapo-e-nushi</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: koha.net  
    Title: UF Os in Albania under the surveillance of the State  
-   Link: <a href="https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60" target="_blank" rel="noopener noreferrer nofollow">https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60</a>  
+   Link:<a href="https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60" target="_blank" rel="noopener noreferrer nofollow">https://www.koha.net/en/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dritare.net  
-   Link: <a href="https://dritare.net/ufo-t-ne-shqiperi-fakte-te-padegjuara-nga-sigurimi-i-shtetit" target="_blank" rel="noopener noreferrer nofollow">https://dritare.net/ufo-t-ne-shqiperi-fakte-te-padegjuara-nga-sigurimi-i-shtetit</a>  
+   Link:<a href="https://dritare.net/ufo-t-ne-shqiperi-fakte-te-padegjuara-nga-sigurimi-i-shtetit" target="_blank" rel="noopener noreferrer nofollow">https://dritare.net/ufo-t-ne-shqiperi-fakte-te-padegjuara-nga-sigurimi-i-shtetit</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO sightings in Albania  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Albania</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Albania" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Albania</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: koha.net  
-   Link: <a href="https://www.koha.net/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60" target="_blank" rel="noopener noreferrer nofollow">https://www.koha.net/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60</a>  
+   Link:<a href="https://www.koha.net/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60" target="_blank" rel="noopener noreferrer nofollow">https://www.koha.net/lemsh/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://sq.wikipedia.org/wiki/Objekte_fluturuese_t%C3%AB_paidentifikuara_n%C3%AB_Shqip%C3%ABri" target="_blank" rel="noopener noreferrer nofollow">https://sq.wikipedia.org/wiki/Objekte_fluturuese_t%C3%AB_paidentifikuara_n%C3%AB_Shqip%C3%ABri</a>  
+   Link:<a href="https://sq.wikipedia.org/wiki/Objekte_fluturuese_t%C3%AB_paidentifikuara_n%C3%AB_Shqip%C3%ABri" target="_blank" rel="noopener noreferrer nofollow">https://sq.wikipedia.org/wiki/Objekte_fluturuese_t%C3%AB_paidentifikuara_n%C3%AB_Shqip%C3%ABri</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/25706/pg25706-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/25706/pg25706-images.html</a>  
+   Link:<a href="https://www.gutenberg.org/cache/epub/25706/pg25706-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/25706/pg25706-images.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aidssh.al  
    Title: AISSHSAutoriteti për Informimin mbi Dokumentet e Ish-Sigurimit të  
-   Link: <a href="https://aidssh.al/en/" target="_blank" rel="noopener noreferrer nofollow">https://aidssh.al/en/</a>  
+   Link:<a href="https://aidssh.al/en/" target="_blank" rel="noopener noreferrer nofollow">https://aidssh.al/en/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: albania.osce.org  
    Title: Manual Sigurimi Eng  
-   Link: <a href="https://albania.osce.org/sites/default/files/documents/publications/2025/12/Manual_Sigurimi_Eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://albania.osce.org/sites/default/files/documents/publications/2025/12/Manual_Sigurimi_Eng.pdf</a>  
+   Link:<a href="https://albania.osce.org/sites/default/files/documents/publications/2025/12/Manual_Sigurimi_Eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://albania.osce.org/sites/default/files/documents/publications/2025/12/Manual_Sigurimi_Eng.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nato.int  
    Title: completes modernisation of major airbase in albania  
-   Link: <a href="https://www.nato.int/en/news-and-events/articles/news/2024/03/04/nato-completes-modernisation-of-major-airbase-in-albania" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/news-and-events/articles/news/2024/03/04/nato-completes-modernisation-of-major-airbase-in-albania</a>  
+   Link:<a href="https://www.nato.int/en/news-and-events/articles/news/2024/03/04/nato-completes-modernisation-of-major-airbase-in-albania" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/news-and-events/articles/news/2024/03/04/nato-completes-modernisation-of-major-airbase-in-albania</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reuters.com  
    Title: albanias graveyard of migs to become nato air base id USKCN1MM1Q2  
-   Link: <a href="https://www.reuters.com/article/world/albanias-graveyard-of-migs-to-become-nato-air-base-idUSKCN1MM1Q2/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/albanias-graveyard-of-migs-to-become-nato-air-base-idUSKCN1MM1Q2/</a>  
+   Link:<a href="https://www.reuters.com/article/world/albanias-graveyard-of-migs-to-become-nato-air-base-idUSKCN1MM1Q2/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/albanias-graveyard-of-migs-to-become-nato-air-base-idUSKCN1MM1Q2/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OfL1o164RsQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OfL1o164RsQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=OfL1o164RsQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OfL1o164RsQ</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nato.int  
    Title: ceremony marks the accession of albania and croatia to nato  
-   Link: <a href="https://www.nato.int/en/news-and-events/articles/news/2009/04/07/ceremony-marks-the-accession-of-albania-and-croatia-to-nato" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/news-and-events/articles/news/2009/04/07/ceremony-marks-the-accession-of-albania-and-croatia-to-nato</a>  
+   Link:<a href="https://www.nato.int/en/news-and-events/articles/news/2009/04/07/ceremony-marks-the-accession-of-albania-and-croatia-to-nato" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/news-and-events/articles/news/2009/04/07/ceremony-marks-the-accession-of-albania-and-croatia-to-nato</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Hiện tượng quan sát thấy UFO ở Albania  
-   Link: <a href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Albania" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Albania</a>  
+   Link:<a href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Albania" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Albania</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Tập tin:FBI 18 July 1947 UFO Saucer Report.jpg  
-   Link: <a href="https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin%3AFBI_18_July_1947_UFO_Saucer_Report.jpg" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin%3AFBI_18_July_1947_UFO_Saucer_Report.jpg</a>  
+   Link:<a href="https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin%3AFBI_18_July_1947_UFO_Saucer_Report.jpg" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin%3AFBI_18_July_1947_UFO_Saucer_Report.jpg</a>  
    Published: July 1947  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: AIDSSH (Albania)  
-   Link: <a href="https://en.wikipedia.org/wiki/AIDSSH_%28Albania%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AIDSSH_%28Albania%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/AIDSSH_%28Albania%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/AIDSSH_%28Albania%29</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sigurimi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sigurimi</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sigurimi" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sigurimi</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Albania–NATO relations  
-   Link: <a href="https://en.wikipedia.org/wiki/Albania%E2%80%93NATO_relations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Albania%E2%80%93NATO_relations</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Albania%E2%80%93NATO_relations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Albania%E2%80%93NATO_relations</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Albanian Air Force  
-   Link: <a href="https://en.wikipedia.org/wiki/Albanian_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Albanian_Air_Force</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Albanian_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Albanian_Air_Force</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Kuçovë Aerodrome  
-   Link: <a href="https://en.wikipedia.org/wiki/Ku%C3%A7ov%C3%AB_Aerodrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ku%C3%A7ov%C3%AB_Aerodrome</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ku%C3%A7ov%C3%AB_Aerodrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ku%C3%A7ov%C3%AB_Aerodrome</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nato.int  
    Title: member countries  
-   Link: <a href="https://www.nato.int/en/about-us/organization/nato-member-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/organization/nato-member-countries</a>  
+   Link:<a href="https://www.nato.int/en/about-us/organization/nato-member-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/organization/nato-member-countries</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: shape.nato.int  
    Title: inaugural ceremony at albanian air base after major natofunded upgrade  
-   Link: <a href="https://shape.nato.int/news-archive/2024/inaugural-ceremony-at-albanian-air-base-after-major-natofunded-upgrade" target="_blank" rel="noopener noreferrer nofollow">https://shape.nato.int/news-archive/2024/inaugural-ceremony-at-albanian-air-base-after-major-natofunded-upgrade</a>  
+   Link:<a href="https://shape.nato.int/news-archive/2024/inaugural-ceremony-at-albanian-air-base-after-major-natofunded-upgrade" target="_blank" rel="noopener noreferrer nofollow">https://shape.nato.int/news-archive/2024/inaugural-ceremony-at-albanian-air-base-after-major-natofunded-upgrade</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/13j2k5j/scoured_the_internet_to_find_the_original_file/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/13j2k5j/scoured_the_internet_to_find_the_original_file/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/13j2k5j/scoured_the_internet_to_find_the_original_file/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/13j2k5j/scoured_the_internet_to_find_the_original_file/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1pbao4o/swarm_of_orbs_captured_in_albanian_villageim_not/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1pbao4o/swarm_of_orbs_captured_in_albanian_villageim_not/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1pbao4o/swarm_of_orbs_captured_in_albanian_villageim_not/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1pbao4o/swarm_of_orbs_captured_in_albanian_villageim_not/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-0wcTdWRs_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-0wcTdWRs_A</a>  
+   Link:<a href="https://www.youtube.com/watch?v=-0wcTdWRs_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-0wcTdWRs_A</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4-FnInuQpeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4-FnInuQpeU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=4-FnInuQpeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4-FnInuQpeU</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LfIXD6TD4qw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LfIXD6TD4qw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=LfIXD6TD4qw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LfIXD6TD4qw</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Top News  
-   Link: <a href="https://www.youtube.com/watch?v=-re0grp_VmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-re0grp_VmQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=-re0grp_VmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-re0grp_VmQ</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OoUNBPnNybA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OoUNBPnNybA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=OoUNBPnNybA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OoUNBPnNybA</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Prof. dr. Hamit BORIÇI, Arben MUKA, Aleksandër ÇIPA  
-   Link: <a href="https://www.youtube.com/watch?v=nP8zHqCwX4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nP8zHqCwX4c</a>  
+   Link:<a href="https://www.youtube.com/watch?v=nP8zHqCwX4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nP8zHqCwX4c</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JA4l--jUrYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JA4l--jUrYc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=JA4l--jUrYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JA4l--jUrYc</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ib-YzVa6HlE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ib-YzVa6HlE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ib-YzVa6HlE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ib-YzVa6HlE</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_YpV9ChDAM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_YpV9ChDAM0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_YpV9ChDAM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_YpV9ChDAM0</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: A egzistojnë alienat?  
-   Link: <a href="https://www.youtube.com/watch?v=AvOZL31KHe8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AvOZL31KHe8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=AvOZL31KHe8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AvOZL31KHe8</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aoon4isIjM4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aoon4isIjM4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=aoon4isIjM4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aoon4isIjM4</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iZfNyO_STbM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iZfNyO_STbM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=iZfNyO_STbM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iZfNyO_STbM</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Tirana Today  
-   Link: <a href="https://www.youtube.com/watch?v=96_xSco8qZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=96_xSco8qZ0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=96_xSco8qZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=96_xSco8qZ0</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Top News  
-   Link: <a href="https://www.youtube.com/watch?v=51L35ehAHGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=51L35ehAHGs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=51L35ehAHGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=51L35ehAHGs</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: Top News  
-   Link: <a href="https://www.youtube.com/watch?v=g0l8TViiG9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g0l8TViiG9c</a>  
+   Link:<a href="https://www.youtube.com/watch?v=g0l8TViiG9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g0l8TViiG9c</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=13d5xXb1XtE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=13d5xXb1XtE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=13d5xXb1XtE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=13d5xXb1XtE</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vBV6uG-ZFNo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vBV6uG-ZFNo</a>  
+   Link:<a href="https://www.youtube.com/watch?v=vBV6uG-ZFNo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vBV6uG-ZFNo</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YWNkHZ7ICIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YWNkHZ7ICIE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=YWNkHZ7ICIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YWNkHZ7ICIE</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/25706/25706.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/25706/25706.txt</a>  
+   Link:<a href="https://www.gutenberg.org/files/25706/25706.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/25706/25706.txt</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 1  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: fbi.gov  
    Title: ufos and the guy hottel memo  
-   Link: <a href="https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo</a>  
+   Link:<a href="https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: mediaobservatory.media.ba  
    Title: albania 1  
-   Link: <a href="https://mediaobservatory.media.ba/sites/default/files/albania%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mediaobservatory.media.ba/sites/default/files/albania%201.pdf</a>  
+   Link:<a href="https://mediaobservatory.media.ba/sites/default/files/albania%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mediaobservatory.media.ba/sites/default/files/albania%201.pdf</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: shqiptarja.com  
-   Link: <a href="https://shqiptarja.com/uploads/gazeta/2017/07/shq-12-07-2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shqiptarja.com/uploads/gazeta/2017/07/shq-12-07-2017.pdf</a>  
+   Link:<a href="https://shqiptarja.com/uploads/gazeta/2017/07/shq-12-07-2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shqiptarja.com/uploads/gazeta/2017/07/shq-12-07-2017.pdf</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: reuters.com  
    Title: albania wary russia reopens soviet era air base nato 2024 03 04  
-   Link: <a href="https://www.reuters.com/world/europe/albania-wary-russia-reopens-soviet-era-air-base-nato-2024-03-04/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/albania-wary-russia-reopens-soviet-era-air-base-nato-2024-03-04/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/albania-wary-russia-reopens-soviet-era-air-base-nato-2024-03-04/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/albania-wary-russia-reopens-soviet-era-air-base-nato-2024-03-04/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OdGax2P1KA0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OdGax2P1KA0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roskoveci, vendi i vizituar nga UFO-t - Top Channel Albania - News - Lajme...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OdGax2P1KA0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OdGax2P1KA0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roskoveci, vendi i vizituar nga UFO-t - Top Channel Albania - News - Lajme...</p></details>
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: youtube.com  
    Title: Roskoveci, vendi i vizituar nga UFO-t  
-   Link: <a href="https://www.youtube.com/watch?v=RmuBC38252w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RmuBC38252w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A ekzistojnë UFO-t dhe a kanë zbritur ato në Gramsh? Zbulojeni në “Piranjat” ABC News Albania...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RmuBC38252w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RmuBC38252w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A ekzistojnë UFO-t dhe a kanë zbritur ato në Gramsh? Zbulojeni në “Piranjat” ABC News Albania...</p></details>
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=i6v1p43H6rU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i6v1p43H6rU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Banorët e Roskovecit të bindur se kanë parë alienët në qytezën tyre - (27 Maj 2006) RTV KLAN...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i6v1p43H6rU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i6v1p43H6rU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Banorët e Roskovecit të bindur se kanë parë alienët në qytezën tyre - (27 Maj 2006) RTV KLAN...</p></details>
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: youtube.com  
    Title: Banorët e Roskovecit të bindur se kanë parë alienët në qytezën tyre  
-   Link: <a href="https://www.youtube.com/watch?v=h-Q58k2m798" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h-Q58k2m798</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misteri i &quot;UFO-ve&quot; në Shqipëri, rrëfimi i banorëve për objektin e çuditshëm...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=h-Q58k2m798" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h-Q58k2m798</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misteri i &quot;UFO-ve&quot; në Shqipëri, rrëfimi i banorëve për objektin e çuditshëm...</p></details>
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: youtube.com  
    Title: Misteri i "UFO-ve" në Shqipëri, rrëfimi i banorëve për objektin e çuditshëm  
-   Link: <a href="https://www.youtube.com/watch?v=O13H675Qn5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O13H675Qn5w</a>  
+   Link:<a href="https://www.youtube.com/watch?v=O13H675Qn5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O13H675Qn5w</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: rsf.org  
-   Link: <a href="https://rsf.org/en/country/albania" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/country/albania</a>  
+   Link:<a href="https://rsf.org/en/country/albania" target="_blank" rel="noopener noreferrer nofollow">https://rsf.org/en/country/albania</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: gazetashqiptare.al  
-   Link: <a href="https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/" target="_blank" rel="noopener noreferrer nofollow">https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/</a>  
+   Link:<a href="https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/" target="_blank" rel="noopener noreferrer nofollow">https://gazetashqiptare.al/2023/09/18/femija-qe-e-pa-u-traumatiziua-deklarata-e-forte-e-fotografit-ufo-t-jane-ulur-ne-roskovec-kam-fotografuar-vendin-ja-si-dukej-objekti-fluturues/</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: podujevapress.net  
    Title: Podujeva PRESSUFO-t në Shqipëri nën vëzhgimin e Sigurimit të Shtetit që në vitet  
-   Link: <a href="https://podujevapress.net/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60/" target="_blank" rel="noopener noreferrer nofollow">https://podujevapress.net/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60/</a>  
+   Link:<a href="https://podujevapress.net/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60/" target="_blank" rel="noopener noreferrer nofollow">https://podujevapress.net/ufo-t-ne-shqiperi-nen-vezhgimin-e-sigurimit-te-shtetit-qe-ne-vitet-60/</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: mod.gov.al  
-   Link: <a href="https://www.mod.gov.al/eng/newsroom/1618-nato-tactical-air-base-is-inaugurated-in-kucova-peleshi-major-investment-asset-for-the-entire-region" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.gov.al/eng/newsroom/1618-nato-tactical-air-base-is-inaugurated-in-kucova-peleshi-major-investment-asset-for-the-entire-region</a>  
+   Link:<a href="https://www.mod.gov.al/eng/newsroom/1618-nato-tactical-air-base-is-inaugurated-in-kucova-peleshi-major-investment-asset-for-the-entire-region" target="_blank" rel="noopener noreferrer nofollow">https://www.mod.gov.al/eng/newsroom/1618-nato-tactical-air-base-is-inaugurated-in-kucova-peleshi-major-investment-asset-for-the-entire-region</a>  
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DW7E7-PDFJm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW7E7-PDFJm/</a>  
+   Link:<a href="https://www.instagram.com/reel/DW7E7-PDFJm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW7E7-PDFJm/</a>  
 
 ### Additional References
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/news24alb/videos/nuk-jam-budalla-mos-m%C3%AB-p%C3%ABrmend-regjimin-e-enver-hoxh%C3%ABs-debati-i-ashp%C3%ABr-lubonja-r/1534038011712596/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/news24alb/videos/nuk-jam-budalla-mos-m%C3%AB-p%C3%ABrmend-regjimin-e-enver-hoxh%C3%ABs-debati-i-ashp%C3%ABr-lubonja-r/1534038011712596/</a>  
+   Link:<a href="https://www.facebook.com/news24alb/videos/nuk-jam-budalla-mos-m%C3%AB-p%C3%ABrmend-regjimin-e-enver-hoxh%C3%ABs-debati-i-ashp%C3%ABr-lubonja-r/1534038011712596/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/news24alb/videos/nuk-jam-budalla-mos-m%C3%AB-p%C3%ABrmend-regjimin-e-enver-hoxh%C3%ABs-debati-i-ashp%C3%ABr-lubonja-r/1534038011712596/</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/Cs6KuGXANWs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/Cs6KuGXANWs/</a>  
+   Link:<a href="https://www.instagram.com/reel/Cs6KuGXANWs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/Cs6KuGXANWs/</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: irex.org  
-   Link: <a href="https://www.irex.org/sites/default/files/pdf/media-sustainability-index-europe-eurasia-2015-albania.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.irex.org/sites/default/files/pdf/media-sustainability-index-europe-eurasia-2015-albania.pdf</a>  
+   Link:<a href="https://www.irex.org/sites/default/files/pdf/media-sustainability-index-europe-eurasia-2015-albania.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.irex.org/sites/default/files/pdf/media-sustainability-index-europe-eurasia-2015-albania.pdf</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: irex.org  
-   Link: <a href="https://www.irex.org/sites/default/files/VIBE_2024_Albania.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.irex.org/sites/default/files/VIBE_2024_Albania.pdf</a>  
+   Link:<a href="https://www.irex.org/sites/default/files/VIBE_2024_Albania.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.irex.org/sites/default/files/VIBE_2024_Albania.pdf</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/5638be273b753253713a478546849e46" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/5638be273b753253713a478546849e46</a>  
+   Link:<a href="https://apnews.com/article/5638be273b753253713a478546849e46" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/5638be273b753253713a478546849e46</a>  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYfUY_FtnSV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYfUY_FtnSV/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYfUY_FtnSV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYfUY_FtnSV/</a>  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/airwaybuzz_air-albania-suspends-flights-license-revoked-activity-7405347663635832832-z1nS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/airwaybuzz_air-albania-suspends-flights-license-revoked-activity-7405347663635832832-z1nS</a>  
+   Link:<a href="https://www.linkedin.com/posts/airwaybuzz_air-albania-suspends-flights-license-revoked-activity-7405347663635832832-z1nS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/airwaybuzz_air-albania-suspends-flights-license-revoked-activity-7405347663635832832-z1nS</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: freedomhouse.org  
-   Link: <a href="https://freedomhouse.org/country/albania" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/albania</a>  
+   Link:<a href="https://freedomhouse.org/country/albania" target="_blank" rel="noopener noreferrer nofollow">https://freedomhouse.org/country/albania</a>  
 
-86. <a id="endnote-86"></a>
+86.<a id="endnote-86"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/aoonthetraveller/posts/finally-i-have-witnessed-with-my-own-eyes-an-alien-spacecraft-spotted-in-tirana-/1025800935666288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aoonthetraveller/posts/finally-i-have-witnessed-with-my-own-eyes-an-alien-spacecraft-spotted-in-tirana-/1025800935666288/</a>
+   Link:<a href="https://www.facebook.com/aoonthetraveller/posts/finally-i-have-witnessed-with-my-own-eyes-an-alien-spacecraft-spotted-in-tirana-/1025800935666288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aoonthetraveller/posts/finally-i-have-witnessed-with-my-own-eyes-an-alien-spacecraft-spotted-in-tirana-/1025800935666288/</a>

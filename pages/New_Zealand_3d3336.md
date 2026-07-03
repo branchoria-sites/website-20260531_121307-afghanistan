@@ -1199,38 +1199,38 @@ For readers comparing New Zealand with other country pages in the same UFO proje
 <img src="{{ "/assets/images/New_Zealand_3d3336-overview.webp" | relative_url }}" alt="Overview image for What New Zealand&#x27;s UFO Files Really Show" loading="eager" decoding="sync" fetchpriority="high">
 ## Why New Zealand has a serious UFO archive
 
-New Zealand did not run a permanent, large-scale UFO investigation programme comparable to the United States’ Project Blue Book, but it did accumulate reports, correspondence, press cuttings and internal assessments. The public release matters because it prevents the subject from being trapped entirely in retellings. The NZDF file AIR 244/10/1, for example, is described as containing reports and interviews relating to the 1959 Moreland sighting, the RNZAF report on the 1978 Kaikōura sightings, interdepartmental correspondence about the future of a government UFO investigating committee, a report on the 1972 Ashburton space-debris event, and UFO reports from members of the public, military personnel and passenger aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span></span></span>
+New Zealand did not run a permanent, large-scale UFO investigation programme comparable to the United States’ Project Blue Book, but it did accumulate reports, correspondence, press cuttings and internal assessments. The public release matters because it prevents the subject from being trapped entirely in retellings. The NZDF file AIR 244/10/1, for example, is described as containing reports and interviews relating to the 1959 Moreland sighting, the RNZAF report on the 1978 Kaikōura sightings, interdepartmental correspondence about the future of a government UFO investigating committee, a report on the 1972 Ashburton space-debris event, and UFO reports from members of the public, military personnel and passenger aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span></span></span>
 
-The wider released collection is also important because it shows a mixed administrative reality. The files contain serious aviation-related reports and mundane public letters side by side. That does not make the whole archive worthless; it means each report has to be judged on its own evidence. The Internet Archive copy of the declassified New Zealand UFO documents lists multiple file groups, including 1952–1955, 1956–1979, 1978–1981, 1984–1989 and 1990–2009 material, reflecting the long span and uneven character of the records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/NewZealandUFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The wider released collection is also important because it shows a mixed administrative reality. The files contain serious aviation-related reports and mundane public letters side by side. That does not make the whole archive worthless; it means each report has to be judged on its own evidence. The Internet Archive copy of the declassified New Zealand UFO documents lists multiple file groups, including 1952–1955, 1956–1979, 1978–1981, 1984–1989 and 1990–2009 material, reflecting the long span and uneven character of the records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/NewZealandUFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The current official position is narrower than many UFO enthusiasts assume. In a July 2023 Official Information Act response, NZDF said it was not undertaking research or programmes, nor generating data, relating to unidentified anomalous phenomena, unidentified aerial phenomena or sightings. It also said the 2010 release consisted of fifteen volumes of accumulated correspondence then held on UAP/UFO reports from 1952 to 2009, and that NZDF has no role or responsibility for UFO reports today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzdf.mil.nz">[nzdf.mil.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzdf.mil.nz</span><span class="citation-popover-title">OIA 2023 4763 UAP UFO USO</span><span class="citation-popover-snippet">OIA 2023 4763 UAP UFO USO</span></span></span>
+The current official position is narrower than many UFO enthusiasts assume. In a July 2023 Official Information Act response, NZDF said it was not undertaking research or programmes, nor generating data, relating to unidentified anomalous phenomena, unidentified aerial phenomena or sightings. It also said the 2010 release consisted of fifteen volumes of accumulated correspondence then held on UAP/UFO reports from 1952 to 2009, and that NZDF has no role or responsibility for UFO reports today.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzdf.mil.nz">[nzdf.mil.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzdf.mil.nz</span><span class="citation-popover-title">OIA 2023 4763 UAP UFO USO</span><span class="citation-popover-snippet">OIA 2023 4763 UAP UFO USO</span></span></span>
 
 ## The chronology that shaped the New Zealand story
 
 New Zealand’s UFO history is best understood as a sequence of waves and landmark cases rather than as a single mystery. The cases most often cited are not equal in evidential value.
 
-The early “mystery airship” period belongs to the pre-saucer era. New Zealand Geographic’s long-form account describes a 1909 flap in which witnesses reported strange craft at a time when air travel was still novel and no airships were known to be flying in New Zealand. The same article notes that many reports came from apparently respectable witnesses and included daylight encounters, while researcher Murray Bott argued that several night sightings could not easily be reduced to Mars, Venus or Jupiter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies &#124; New Zealand Geographic</span><span class="citation-popover-snippet">Crowded skies &#124; New Zealand Geographic...</span></span></span> This is historically interesting, but it is not strong physical evidence; it shows how local technology, press culture and witness interpretation shaped what people thought they saw.
+The early “mystery airship” period belongs to the pre-saucer era. New Zealand Geographic’s long-form account describes a 1909 flap in which witnesses reported strange craft at a time when air travel was still novel and no airships were known to be flying in New Zealand. The same article notes that many reports came from apparently respectable witnesses and included daylight encounters, while researcher Murray Bott argued that several night sightings could not easily be reduced to Mars, Venus or Jupiter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies &#124; New Zealand Geographic</span><span class="citation-popover-snippet">Crowded skies &#124; New Zealand Geographic...</span></span></span> This is historically interesting, but it is not strong physical evidence; it shows how local technology, press culture and witness interpretation shaped what people thought they saw.
 
-The 1959 Blenheim case, usually known through Eileen Moreland’s report, is more specific but still difficult to test. It appears in the official file description as a major component of AIR 244/10/1, alongside media requests and interviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span></span></span> Later retellings describe a close daylight or early-morning encounter on a Marlborough farm, but the central evidence remains witness testimony rather than recoverable instrument data.
+The 1959 Blenheim case, usually known through Eileen Moreland’s report, is more specific but still difficult to test. It appears in the official file description as a major component of AIR 244/10/1, alongside media requests and interviews.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span></span></span> Later retellings describe a close daylight or early-morning encounter on a Marlborough farm, but the central evidence remains witness testimony rather than recoverable instrument data.
 
-The 1969 Ngatea “landing trace” case sits in the contested physical-evidence category. New Zealand Geographic recounts how a Hauraki Plains farmer noticed a bleached patch of manuka, after which local investigators measured three depressions arranged in a triangle and reported unusual damage to nearby vegetation. The account also reports claims of radioactivity in samples and dead spiders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies &#124; New Zealand Geographic</span><span class="citation-popover-snippet">Crowded skies &#124; New Zealand Geographic...</span></span></span> Those details make the case vivid, but they also show the difficulty: without modern chain-of-custody controls, independent sampling, and transparent laboratory replication, the reported traces cannot carry the evidential weight that UFO advocates often place on them.
+The 1969 Ngatea “landing trace” case sits in the contested physical-evidence category. New Zealand Geographic recounts how a Hauraki Plains farmer noticed a bleached patch of manuka, after which local investigators measured three depressions arranged in a triangle and reported unusual damage to nearby vegetation. The account also reports claims of radioactivity in samples and dead spiders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies &#124; New Zealand Geographic</span><span class="citation-popover-snippet">Crowded skies &#124; New Zealand Geographic...</span></span></span> Those details make the case vivid, but they also show the difficulty: without modern chain-of-custody controls, independent sampling, and transparent laboratory replication, the reported traces cannot carry the evidential weight that UFO advocates often place on them.
 
-The 1972 Ashburton space-debris event is valuable precisely because it points away from UFO romance. It appears in the NZDF file description as a “Space Debris” report rather than as a simple unexplained craft case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span></span></span> In a national UFO archive, cases like this are essential: they show why investigators need to separate unknown-at-first from unknown-after-investigation.
+The 1972 Ashburton space-debris event is valuable precisely because it points away from UFO romance. It appears in the NZDF file description as a “Space Debris” report rather than as a simple unexplained craft case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span></span></span> In a national UFO archive, cases like this are essential: they show why investigators need to separate unknown-at-first from unknown-after-investigation.
 
 The 1978 Kaikōura lights became the defining New Zealand UFO incident because it involved aviation professionals, radar references, and film. It is the one New Zealand case that belongs naturally beside major international radar-visual cases in sibling country branches, while still retaining a strongly local setting: Cook Strait, Marlborough, Kaikōura, Christchurch, Wellington radar, and South Island coastal weather.
 
 <img src="{{ "/assets/images/New_Zealand_3d3336-Illustration-1-dark.svg" | relative_url }}" alt="What New Zealand&#x27;s UFO Files Really Show illustration 1" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Kaikōura is the key case, but not a simple one
 
-The Kaikōura lights began in December 1978 with reports from Safe Air aircraft operating between Blenheim, Christchurch and Wellington. Contemporary and later summaries describe pilots seeing strange lights near the Kaikōura coast and Clarence River area, with Wellington radar returns adding to the puzzle. A later Otago Daily Times report on the released files says Civil Aviation officials called in the air force because of the number and nature of the reports, and describes radar signals that appeared to show something tracking an Argosy aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Kaikōura lights began in December 1978 with reports from Safe Air aircraft operating between Blenheim, Christchurch and Wellington. Contemporary and later summaries describe pilots seeing strange lights near the Kaikōura coast and Clarence River area, with Wellington radar returns adding to the puzzle. A later Otago Daily Times report on the released files says Civil Aviation officials called in the air force because of the number and nature of the reports, and describes radar signals that appeared to show something tracking an Argosy aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case became famous because a later flight carried a professional television crew. On 31 December, another Argosy with a film crew aboard reportedly saw clusters of lights and a pulsing white light, while radar contacts were also reported. The footage was shown internationally, turning a regional aviation puzzle into New Zealand’s best-known UFO story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case became famous because a later flight carried a professional television crew. On 31 December, another Argosy with a film crew aboard reportedly saw clusters of lights and a pulsing white light, while radar contacts were also reported. The footage was shown internationally, turning a regional aviation puzzle into New Zealand’s best-known UFO story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-What makes Kaikōura unusually strong is not that every piece of evidence points in one direction. It is that the case produced several kinds of evidence at once: trained aviation witnesses, radar references, filmed imagery, official investigation, and later technical disagreement. The same NZDF file group that contains the Moreland material also contains the RNZAF report on the 1978 Kaikōura sightings, showing that the case was not merely a press invention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span></span></span>
+What makes Kaikōura unusually strong is not that every piece of evidence points in one direction. It is that the case produced several kinds of evidence at once: trained aviation witnesses, radar references, filmed imagery, official investigation, and later technical disagreement. The same NZDF file group that contains the Moreland material also contains the RNZAF report on the 1978 Kaikōura sightings, showing that the case was not merely a press invention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span></span></span>
 
-The official and sceptical [explanations]({{ 'explanations-61f9e4/' | relative_url }}) were varied rather than singular. The Otago Daily Times report says the RNZAF attributed the sightings to a mix of “freak propagation” of radio and light waves, an unusually bright Venus, anomalous Wellington radar returns, squid-fishing fleet lights, cars and trains. It also quotes Wing Commander J. B. Clements saying that almost all the sightings could be explained by natural but unusual phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That wording matters: “almost all” is not the same as a clean, single debunking of every witness impression.
+The official and sceptical [explanations]({{ 'explanations-61f9e4/' | relative_url }}) were varied rather than singular. The Otago Daily Times report says the RNZAF attributed the sightings to a mix of “freak propagation” of radio and light waves, an unusually bright Venus, anomalous Wellington radar returns, squid-fishing fleet lights, cars and trains. It also quotes Wing Commander J. B. Clements saying that almost all the sightings could be explained by natural but unusual phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That wording matters: “almost all” is not the same as a clean, single debunking of every witness impression.
 
-The contested side is equally important. The same ODT account notes that a report by optical physicist Bruce Maccabee for the New Zealand UFO Studies Centre argued that the incidents were hard to explain by conventional phenomena, while the RNZAF itself acknowledged difficulty explaining the lights except through anomalous reflection or refraction, cars or trains, and probable spurious radar returns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This is why Kaikōura remains a serious case for UFO historians even when one does not accept an extraterrestrial interpretation.
+The contested side is equally important. The same ODT account notes that a report by optical physicist Bruce Maccabee for the New Zealand UFO Studies Centre argued that the incidents were hard to explain by conventional phenomena, while the RNZAF itself acknowledged difficulty explaining the lights except through anomalous reflection or refraction, cars or trains, and probable spurious radar returns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This is why Kaikōura remains a serious case for UFO historians even when one does not accept an extraterrestrial interpretation.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j9iyUHmHaEo" title="Caught on Camera and Radar | Kaikoura UFO Lights Incident, New Zealand | Short Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j9iyUHmHaEo" target="_blank" rel="noopener noreferrer">Caught on Camera and Radar | Kaikoura UFO Lights Incident, New Zealand | Short Documentary</a></p><p class="youtube-embed-meta">Channel: Curiosity Vault &middot; Views: 552.1K &middot; Uploaded: March 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j9iyUHmHaEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j9iyUHmHaEo">Open on YouTube</a></p></div></div></div>
 
@@ -1238,28 +1238,28 @@ The contested side is equally important. The same ODT account notes that a repor
 
 A useful way to read New Zealand’s UFO material is to separate three categories: confirmed facts about reports, contested interpretations, and claims that have been substantially explained.
 
-**Confirmed:** New Zealand did collect official UFO-related correspondence and later released redacted copies. The 2010 release and the NZDF’s later OIA response confirm that official files existed, that they covered reports from 1952 to 2009, and that copies were distributed to public libraries and the Alexander Turnbull Library. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzdf.mil.nz">[nzdf.mil.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzdf.mil.nz</span><span class="citation-popover-title">OIA 2023 4763 UAP UFO USO</span><span class="citation-popover-snippet">OIA 2023 4763 UAP UFO USO</span></span></span> It is also confirmed that Kaikōura generated official attention, because the file descriptions and later reporting identify RNZAF material on the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed:** New Zealand did collect official UFO-related correspondence and later released redacted copies. The 2010 release and the NZDF’s later OIA response confirm that official files existed, that they covered reports from 1952 to 2009, and that copies were distributed to public libraries and the Alexander Turnbull Library.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzdf.mil.nz">[nzdf.mil.nz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzdf.mil.nz</span><span class="citation-popover-title">OIA 2023 4763 UAP UFO USO</span><span class="citation-popover-snippet">OIA 2023 4763 UAP UFO USO</span></span></span> It is also confirmed that Kaikōura generated official attention, because the file descriptions and later reporting identify RNZAF material on the case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested:** Kaikōura’s interpretation remains contested because the evidence is mixed. The UFO-friendly reading stresses multiple witnesses, aircraft context, film, and radar references. The sceptical reading stresses optical distortion, radar propagation, bright planets, reflections, and ground or sea-based lights. Both readings have to account for more than one data type; neither can responsibly be reduced to “everyone imagined it” or “therefore aliens”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested:** Kaikōura’s interpretation remains contested because the evidence is mixed. The UFO-friendly reading stresses multiple witnesses, aircraft context, film, and radar references. The sceptical reading stresses optical distortion, radar propagation, bright planets, reflections, and ground or sea-based lights. Both readings have to account for more than one data type; neither can responsibly be reduced to “everyone imagined it” or “therefore aliens”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Mostly explained or weak:** Many archive items are weak as evidence for extraordinary craft because they are letters, second-hand reports, press clippings, or sightings without enough detail to reconstruct direction, duration, weather, aircraft traffic, astronomical conditions and observer reliability. The 1972 Ashburton item being framed in the file description as space debris is a reminder that some dramatic sky events begin as UFO reports and end as ordinary aerospace debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span></span></span>
+**Mostly explained or weak:** Many archive items are weak as evidence for extraordinary craft because they are letters, second-hand reports, press clippings, or sightings without enough detail to reconstruct direction, duration, weather, aircraft traffic, astronomical conditions and observer reliability. The 1972 Ashburton item being framed in the file description as space debris is a reminder that some dramatic sky events begin as UFO reports and end as ordinary aerospace debris.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span></span></span>
 
-The Ngatea case remains intriguing as a local physical-trace story, but it is not “confirmed landing evidence” in the strict sense. The New Zealand Geographic account preserves the claims of depressions, damaged vegetation and radioactivity, yet the report is retrospective and dependent on investigator accounts rather than a modern forensic record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies &#124; New Zealand Geographic</span><span class="citation-popover-snippet">Crowded skies &#124; New Zealand Geographic...</span></span></span> Its value is historical and sociological as much as evidential.
+The Ngatea case remains intriguing as a local physical-trace story, but it is not “confirmed landing evidence” in the strict sense. The New Zealand Geographic account preserves the claims of depressions, damaged vegetation and radioactivity, yet the report is retrospective and dependent on investigator accounts rather than a modern forensic record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies &#124; New Zealand Geographic</span><span class="citation-popover-snippet">Crowded skies &#124; New Zealand Geographic...</span></span></span> Its value is historical and sociological as much as evidential.
 
 <img src="{{ "/assets/images/New_Zealand_3d3336-Illustration-2-dark.svg" | relative_url }}" alt="What New Zealand&#x27;s UFO Files Really Show illustration 2" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Regional patterns: why Marlborough, Kaikōura and the coasts recur
 
-New Zealand’s UFO geography is not random in the public record. Several of the best-known cases cluster around open skies, coastal routes, farms and aviation corridors: Marlborough and Blenheim in the Moreland and Kaikōura files, the Kaikōura coast and Clarence River in the 1978 case, Hauraki Plains in the Ngatea trace case, and Ashburton in the space-debris report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span></span></span>
+New Zealand’s UFO geography is not random in the public record. Several of the best-known cases cluster around open skies, coastal routes, farms and aviation corridors: Marlborough and Blenheim in the Moreland and Kaikōura files, the Kaikōura coast and Clarence River in the 1978 case, Hauraki Plains in the Ngatea trace case, and Ashburton in the space-debris report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span></span></span>
 
-This regional pattern does not prove a special “UFO corridor”. It more plausibly reflects where unusual lights are both visible and likely to be reported: coastal skies, night flights, rural landscapes with low light pollution, and areas where aircraft, fishing vessels, road and rail lights, planets, meteors, cloud, sea haze and radar effects can overlap. Kaikōura is a perfect example because the disputed explanations include both atmospheric/radar effects and ordinary light sources such as squid boats, cars and trains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This regional pattern does not prove a special “UFO corridor”. It more plausibly reflects where unusual lights are both visible and likely to be reported: coastal skies, night flights, rural landscapes with low light pollution, and areas where aircraft, fishing vessels, road and rail lights, planets, meteors, cloud, sea haze and radar effects can overlap. Kaikōura is a perfect example because the disputed explanations include both atmospheric/radar effects and ordinary light sources such as squid boats, cars and trains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The South Island aviation setting also matters. A pilot report is not automatically correct, but pilots are trained observers of aircraft behaviour, navigation lights and weather. That makes their reports more valuable than casual glances from the ground, while still not immune to misperception, especially at night over sea and mountains. The Kaikōura case remains memorable because it sits exactly in that tension: competent observers, difficult conditions, and plausible but incomplete conventional explanations.
 
 ## Research groups, enthusiasts and sceptics
 
-New Zealand’s UFO culture has never been only official. Private researchers and local groups played a major role in collecting reports, visiting sites and arguing over interpretations. The National Library record for *The Kaikoura UFO Controversy* identifies it as a New Zealand UFO Studies Centre special issue with contributors including J. F. De Bock, B. S. Maccabee and D. R. Wood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://natlib.govt.nz/records/22136409" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: natlib.govt.nz">[National Library of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">natlib.govt.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This matters because the Kaikōura debate was not only pilots versus the air force; it became a technical argument involving UFO researchers, optical analysis and official science.
+New Zealand’s UFO culture has never been only official. Private researchers and local groups played a major role in collecting reports, visiting sites and arguing over interpretations. The National Library record for *The Kaikoura UFO Controversy* identifies it as a New Zealand UFO Studies Centre special issue with contributors including J. F. De Bock, B. S. Maccabee and D. R. Wood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://natlib.govt.nz/records/22136409" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: natlib.govt.nz">[National Library of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">natlib.govt.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This matters because the Kaikōura debate was not only pilots versus the air force; it became a technical argument involving UFO researchers, optical analysis and official science.
 
-At the same time, local scepticism has been a strong part of the New Zealand record. The New Zealand Geographic feature is unusually useful because it neither treats every UFO claim as proof nor dismisses the whole field as nonsense. It notes that UFO shapes appear to evolve with cultural expectations, from airships to rockets to flying discs and later delta-wing forms, and argues that some residual reports may point to poorly understood atmospheric phenomena rather than extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies &#124; New Zealand Geographic</span><span class="citation-popover-snippet">Crowded skies &#124; New Zealand Geographic...</span></span></span>
+At the same time, local scepticism has been a strong part of the New Zealand record. The New Zealand Geographic feature is unusually useful because it neither treats every UFO claim as proof nor dismisses the whole field as nonsense. It notes that UFO shapes appear to evolve with cultural expectations, from airships to rockets to flying discs and later delta-wing forms, and argues that some residual reports may point to poorly understood atmospheric phenomena rather than extraterrestrial craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nzgeo.com">[NZGeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nzgeo.com</span><span class="citation-popover-title">Crowded skies &#124; New Zealand Geographic</span><span class="citation-popover-snippet">Crowded skies &#124; New Zealand Geographic...</span></span></span>
 
 The most productive reading is therefore not believer versus debunker. New Zealand’s record works best as a layered archive: public sightings, local investigators, official caution, media amplification, and sceptical re-analysis. Each layer adds information, but each also adds bias.
 
@@ -1267,9 +1267,9 @@ The most productive reading is therefore not believer versus debunker. New Zeala
 
 ## How reliable are New Zealand UFO sources?
 
-The official files are the best starting point, but they are not a final answer. They confirm that reports were made, recorded and sometimes investigated; they do not automatically confirm that the reported objects were extraordinary craft. The files were also copied and redacted for privacy, and the original files were restricted for a period even after public copies were released. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959</span></span></span>
+The official files are the best starting point, but they are not a final answer. They confirm that reports were made, recorded and sometimes investigated; they do not automatically confirm that the reported objects were extraordinary craft. The files were also copied and redacted for privacy, and the original files were restricted for a period even after public copies were released.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span><span class="citation-popover-snippet">1959.00 NARA NewZealandUFO AIR 244 10 1 Volume</span></span></span>
 
-Journalistic sources are useful for chronology and public impact, especially where they report from released official documents. The Otago Daily Times account is valuable because it summarises what the declassified RNZAF material said about Kaikōura: natural explanations were preferred, but some difficulty remained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Older press accounts can be vivid, but they can also amplify excitement during a sighting wave.
+Journalistic sources are useful for chronology and public impact, especially where they report from released official documents. The Otago Daily Times account is valuable because it summarises what the declassified RNZAF material said about Kaikōura: natural explanations were preferred, but some difficulty remained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Older press accounts can be vivid, but they can also amplify excitement during a sighting wave.
 
 Private UFO sources preserve witness testimony and specialist arguments that official agencies may understate. Their weakness is selection bias: they are more likely to preserve puzzling cases than boring explanations. Sceptical sources help correct that bias, but they can sometimes over-rely on plausible explanations without proving that a specific explanation fits every detail. The strongest case assessments therefore compare official records, witness statements, environmental data, instrument claims and later critiques rather than trusting any single camp.
 
@@ -1284,194 +1284,194 @@ For the wider country-by-country project, New Zealand is best linked to sibling 
 <img src="{{ "/assets/images/New_Zealand_3d3336-Illustration-3-dark.svg" | relative_url }}" alt="What New Zealand&#x27;s UFO Files Really Show illustration 3" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What New Zealand&#x27;s UFO Files Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What New Zealand&#x27;s UFO Files Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers international investigations and contemporary UAP debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers international investigations and contemporary UAP debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how evidence in cases such as Kaikōura is assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how evidence in cases such as Kaikōura is assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Excellent fit for readers exploring official files and well-documented cases like Kaikōura.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent fit for readers exploring official files and well-documented cases like Kaikōura.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader interpretive context for recurring sighting traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader interpretive context for recurring sighting traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-zealand-s-ufo-files-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-new-zealand-s-ufo-files-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1487,7 +1487,7 @@ For the wider country-by-country project, New Zealand is best linked to sibling 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1507,7 +1507,7 @@ For the wider country-by-country project, New Zealand is best linked to sibling 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1539,7 +1539,7 @@ For the wider country-by-country project, New Zealand is best linked to sibling 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1591,7 +1591,7 @@ For the wider country-by-country project, New Zealand is best linked to sibling 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1636,7 +1636,7 @@ For the wider country-by-country project, New Zealand is best linked to sibling 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1674,107 +1674,106 @@ For the wider country-by-country project, New Zealand is best linked to sibling 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.bluebookfiles.org  
    Title: 1959.00 NARA NewZealandUFO AIR 244 10 1 Volume 1 1959  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1959.00%20-%20NARA%20-%20NewZealandUFO%20-%20AIR-244-10-1-Volume-1-1959-.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nzdf.mil.nz  
    Title: OIA 2023 4763 UAP UFO USO  
-   Link: <a href="https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf</a>  
+   Link:<a href="https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/details/NewZealandUFO" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/NewZealandUFO</a>  
+   Link:<a href="https://archive.org/details/NewZealandUFO" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/NewZealandUFO</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nzgeo.com  
    Title: Crowded skies | New Zealand Geographic  
-   Link: <a href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow">https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crowded skies | New Zealand Geographic...</p></details>
+   Link:<a href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow">https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crowded skies | New Zealand Geographic...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-1-Parts-1-and-2-1952-1955_djvu.txt</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-39-3-3-Volume-2-Parts-1-and-2-1956-1979_djvu.txt</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: odt.co.nz  
-   Link: <a href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings</a>  
+   Link:<a href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Kaikōura lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: natlib.govt.nz  
-   Link: <a href="https://natlib.govt.nz/records/22136409" target="_blank" rel="noopener noreferrer nofollow">https://natlib.govt.nz/records/22136409</a>  
+   Link:<a href="https://natlib.govt.nz/records/22136409" target="_blank" rel="noopener noreferrer nofollow">https://natlib.govt.nz/records/22136409</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: natlib.govt.nz  
-   Link: <a href="https://natlib.govt.nz/records/22979464" target="_blank" rel="noopener noreferrer nofollow">https://natlib.govt.nz/records/22979464</a>  
+   Link:<a href="https://natlib.govt.nz/records/22979464" target="_blank" rel="noopener noreferrer nofollow">https://natlib.govt.nz/records/22979464</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/211497820250134/posts/1346088006791104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211497820250134/posts/1346088006791104/</a>  
+   Link:<a href="https://www.facebook.com/groups/211497820250134/posts/1346088006791104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211497820250134/posts/1346088006791104/</a>  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Caught on Camera and Radar | Kaikoura UFO Lights Incident, New Zealand  
-   Link: <a href="https://www.youtube.com/watch?v=j9iyUHmHaEo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j9iyUHmHaEo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s above the SKIES in NEW ZEALAND? | The BIZARRE history of NZ UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=j9iyUHmHaEo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j9iyUHmHaEo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s above the SKIES in NEW ZEALAND? | The BIZARRE history of NZ UFOs...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/</a>  
+   Link:<a href="https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PFNewZealand/posts/a-mysterious-blinking-light-passing-over-kaitorete-spit-doesnt-belong-to-a-ufo-b/1362922292534464/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PFNewZealand/posts/a-mysterious-blinking-light-passing-over-kaitorete-spit-doesnt-belong-to-a-ufo-b/1362922292534464/</a>  
+   Link:<a href="https://www.facebook.com/PFNewZealand/posts/a-mysterious-blinking-light-passing-over-kaitorete-spit-doesnt-belong-to-a-ufo-b/1362922292534464/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PFNewZealand/posts/a-mysterious-blinking-light-passing-over-kaitorete-spit-doesnt-belong-to-a-ufo-b/1362922292534464/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/117ngxb/after_tonights_earthquake_we_saw_these_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/117ngxb/after_tonights_earthquake_we_saw_these_in_the_sky/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/117ngxb/after_tonights_earthquake_we_saw_these_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/117ngxb/after_tonights_earthquake_we_saw_these_in_the_sky/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/</a>  
+   Link:<a href="https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: digitalnz.org  
-   Link: <a href="https://digitalnz.org/records/22746872" target="_blank" rel="noopener noreferrer nofollow">https://digitalnz.org/records/22746872</a>  
+   Link:<a href="https://digitalnz.org/records/22746872" target="_blank" rel="noopener noreferrer nofollow">https://digitalnz.org/records/22746872</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file</a>  
+   Link:<a href="https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: justapedia.org  
-   Link: <a href="https://justapedia.org/wiki/Kaikoura_lights" target="_blank" rel="noopener noreferrer nofollow">https://justapedia.org/wiki/Kaikoura_lights</a>  
+   Link:<a href="https://justapedia.org/wiki/Kaikoura_lights" target="_blank" rel="noopener noreferrer nofollow">https://justapedia.org/wiki/Kaikoura_lights</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0</a>  
+   Link:<a href="https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sbs.com.au  
-   Link: <a href="https://www.sbs.com.au/news/article/new-zealand-military-releases-ufo-files/hknryeche" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/new-zealand-military-releases-ufo-files/hknryeche</a>
+   Link:<a href="https://www.sbs.com.au/news/article/new-zealand-military-releases-ufo-files/hknryeche" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/new-zealand-military-releases-ufo-files/hknryeche</a>

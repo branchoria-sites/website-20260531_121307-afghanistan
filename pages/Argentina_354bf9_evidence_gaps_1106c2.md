@@ -257,7 +257,7 @@ image: /assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1-socia
 Argentina’s most famous UFO stories rarely collapse because there were no witnesses. In many cases, there were too many witnesses, too much publicity, or too much folklore attached to the events. The real problem is that the strongest Argentine cases often lack the kind of evidence that would allow independent verification decades later: preserved radar records, authenticated photographs, contemporaneous military documents, chain-of-custody physical samples, or consistent testimony across investigators.
 
 <img src="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That does not mean every case was fabricated. Some incidents remain genuinely unresolved in the narrow sense that no fully proven conventional explanation exists. Yet unresolved is not the same as confirmed. Across Argentina’s UFO history, especially from the 1960s through the late 1980s, the pattern is strikingly consistent: dramatic narratives survive, while the evidence base weakens under scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/ufos-marathon-seventy-years-of-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSeventy Years of Flying Saucers, Science, Myth, and Fiction11 Jul 2017 — Lianza explained the methodology of investigat...</span></span></span>
+That does not mean every case was fabricated. Some incidents remain genuinely unresolved in the narrow sense that no fully proven conventional explanation exists. Yet unresolved is not the same as confirmed. Across Argentina’s UFO history, especially from the 1960s through the late 1980s, the pattern is strikingly consistent: dramatic narratives survive, while the evidence base weakens under scrutiny.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/ufos-marathon-seventy-years-of-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSeventy Years of Flying Saucers, Science, Myth, and Fiction11 Jul 2017 — Lianza explained the methodology of investigat...</span></span></span>
 
 ## Why Argentina Produced So Many Enduring UFO Stories
 
@@ -273,7 +273,7 @@ Argentina became fertile ground for UFO culture because several factors overlapp
 
 </div>
 
-Capilla del Monte illustrates this perfectly. The town transformed from a regional tourist destination into Argentina’s most famous “UFO city” after the 1986 Pajarillo incident near Cerro [Uritorco]({{ 'uritorco/' | relative_url }}). Over time, tourism, local identity, television coverage, and paranormal culture reinforced one another until the mythology became larger than the original evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/aliens-argentina-capilla-del-monte-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">aliens argentina capilla del monte ufo</span><span class="citation-popover-snippet">Welcome to the Town Where Everyone Has Seen a UFOOctober 28, 2019 — 28 Oct 2019 — The reason for all the extra-terrestrial activity i...</span><span class="citation-popover-meta">Published: October 28, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dangerousminds.net/history/village-argentinian-aliens-since-1986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangerousminds.net">[Dangerous Minds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangerousminds.net</span><span class="citation-popover-title">village argentinian aliens since 1986</span><span class="citation-popover-snippet">Dangerous MindsThe Argentinian village that has believed in aliens since 198613 May 2026 — A look at Capilla del Monte, and how a visit f...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Capilla del Monte illustrates this perfectly. The town transformed from a regional tourist destination into Argentina’s most famous “UFO city” after the 1986 Pajarillo incident near Cerro [Uritorco]({{ 'uritorco/' | relative_url }}). Over time, tourism, local identity, television coverage, and paranormal culture reinforced one another until the mythology became larger than the original evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/aliens-argentina-capilla-del-monte-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">aliens argentina capilla del monte ufo</span><span class="citation-popover-snippet">Welcome to the Town Where Everyone Has Seen a UFOOctober 28, 2019 — 28 Oct 2019 — The reason for all the extra-terrestrial activity i...</span><span class="citation-popover-meta">Published: October 28, 2019</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dangerousminds.net/history/village-argentinian-aliens-since-1986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangerousminds.net">[Dangerous Minds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangerousminds.net</span><span class="citation-popover-title">village argentinian aliens since 1986</span><span class="citation-popover-snippet">Dangerous MindsThe Argentinian village that has believed in aliens since 198613 May 2026 — A look at Capilla del Monte, and how a visit f...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 This cultural amplification matters because many Argentine UFO cases are remembered through retellings rather than preserved primary documentation. As stories circulate, details often become more dramatic while evidentiary certainty decreases.
 
@@ -281,7 +281,7 @@ This cultural amplification matters because many Argentine UFO cases are remembe
 
 ### What made the case famous
 
-The January 1986 “Huella del Pajarillo” incident near Capilla del Monte became one of the defining UFO stories in South America. Witnesses reported unusual lights near Cerro Uritorco, and a large circular burn mark later appeared on the hillside. Supporters claimed it was a landing trace left by a craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
+The January 1986 “Huella del Pajarillo” incident near Capilla del Monte became one of the defining UFO stories in South America. Witnesses reported unusual lights near Cerro Uritorco, and a large circular burn mark later appeared on the hillside. Supporters claimed it was a landing trace left by a craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
 
 The image of a scorched circular imprint was visually compelling and easy for television programmes and magazines to reproduce. That gave the case staying power even though the underlying evidence was limited.
 
@@ -301,7 +301,7 @@ Problems include:
 
 </div>
 
-Sceptical investigator Alejandro Agostinelli later argued that the mark was more consistent with an ordinary hillside fire spreading upward from below rather than intense heat descending from an airborne object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alejandro_Agostinelli" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alejandro Agostinelli</span><span class="citation-popover-snippet">Alejandro Agostinelli</span></span></span>
+Sceptical investigator Alejandro Agostinelli later argued that the mark was more consistent with an ordinary hillside fire spreading upward from below rather than intense heat descending from an airborne object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alejandro_Agostinelli" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alejandro Agostinelli</span><span class="citation-popover-snippet">Alejandro Agostinelli</span></span></span>
 
 Even supporters of the incident often rely heavily on later retellings rather than original measurements or reports. The case therefore survives primarily as a symbolic UFO event, not as a scientifically preserved one.
 
@@ -309,7 +309,7 @@ Even supporters of the incident often rely heavily on later retellings rather th
 
 Another evidence gap emerged after the event itself: contamination by tourism and folklore.
 
-Once Capilla del Monte embraced its “UFO capital” identity, the site became difficult to analyse objectively. Commercial incentives encouraged myth-making, and later paranormal claims became mixed with the original event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dangerousminds.net/history/village-argentinian-aliens-since-1986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangerousminds.net">[Dangerous Minds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangerousminds.net</span><span class="citation-popover-title">village argentinian aliens since 1986</span><span class="citation-popover-snippet">Dangerous MindsThe Argentinian village that has believed in aliens since 198613 May 2026 — A look at Capilla del Monte, and how a visit f...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Once Capilla del Monte embraced its “UFO capital” identity, the site became difficult to analyse objectively. Commercial incentives encouraged myth-making, and later paranormal claims became mixed with the original event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dangerousminds.net/history/village-argentinian-aliens-since-1986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dangerousminds.net">[Dangerous Minds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dangerousminds.net</span><span class="citation-popover-title">village argentinian aliens since 1986</span><span class="citation-popover-snippet">Dangerous MindsThe Argentinian village that has believed in aliens since 198613 May 2026 — A look at Capilla del Monte, and how a visit f...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 That does not automatically disprove the original sighting. It does, however, make retrospective verification much harder.
 
@@ -319,7 +319,7 @@ That does not automatically disprove the original sighting. It does, however, ma
 
 ### The Villa Urquiza case and the problem of crowd testimony
 
-The 1988 Villa Urquiza sighting in Buenos Aires remains one of Argentina’s most cited mass UFO events. Thousands reportedly saw a silver object crossing the city in daylight, and rumours quickly spread that radar had tracked the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Capilla_del_Monte" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Capilla del Monte</span><span class="citation-popover-snippet">Capilla del Monte</span></span></span>
+The 1988 Villa Urquiza sighting in Buenos Aires remains one of Argentina’s most cited mass UFO events. Thousands reportedly saw a silver object crossing the city in daylight, and rumours quickly spread that radar had tracked the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Capilla_del_Monte" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Capilla del Monte</span><span class="citation-popover-snippet">Capilla del Monte</span></span></span>
 
 At first glance, mass sightings appear more credible because many people claim to have seen the same thing. Yet they present a recurring problem in UFO research: shared perception does not necessarily produce reliable detail.
 
@@ -353,12 +353,12 @@ This creates a familiar evidentiary problem:
 
 </div>
 
-That process is visible in several Argentine incidents from the 1960s onward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
+That process is visible in several Argentine incidents from the 1960s onward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Argentina</span><span class="citation-popover-snippet">UFO sightings in Argentina</span></span></span>
 
 <img src="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9_evidence_gaps_1106c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1962 Bahía Blanca Wave: Impressive Claims, Thin Documentation
 
-The Bahía Blanca sightings of May 1962 are often treated as a foundational Argentine UFO wave because they allegedly involved civilians, military personnel, pilots, and photographs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/signal-from-the-south-argentina-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKSignal From the South: Argentina UFOs</span><span class="citation-popover-snippet">Discovery UK13 May 2026 — Is the Argentina UFO phenomenon real? How many alien sightings in Argentina have been seen? Here&#x27;s the astonish...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The Bahía Blanca sightings of May 1962 are often treated as a foundational Argentine UFO wave because they allegedly involved civilians, military personnel, pilots, and photographs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/signal-from-the-south-argentina-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKSignal From the South: Argentina UFOs</span><span class="citation-popover-snippet">Discovery UK13 May 2026 — Is the Argentina UFO phenomenon real? How many alien sightings in Argentina have been seen? Here&#x27;s the astonish...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 Supporters point to:
 
@@ -375,7 +375,7 @@ Yet the evidence record has major weaknesses.
 
 ### The photographs remain disputed
 
-The surviving descriptions of the images are vague, and some analysts suggested processing defects or photographic artefacts rather than structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alejandro_Agostinelli" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alejandro Agostinelli</span><span class="citation-popover-snippet">Alejandro Agostinelli</span></span></span>
+The surviving descriptions of the images are vague, and some analysts suggested processing defects or photographic artefacts rather than structured craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alejandro_Agostinelli" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alejandro Agostinelli</span><span class="citation-popover-snippet">Alejandro Agostinelli</span></span></span>
 
 The key issue is not whether the photos looked unusual. Many historical UFO photos do. The issue is whether the originals exist in a condition suitable for modern forensic examination. In this case, reliable independent analysis has remained limited.
 
@@ -396,7 +396,7 @@ In Argentine UFO history, these two categories are often blurred together.
 
 ## Abduction Narratives Face a Different Evidence Problem
 
-The Dionisio Llanca case from 1973 became one of Argentina’s best-known alien encounter stories. Llanca claimed he experienced paralysis, missing time, and humanoid beings near Bahía Blanca. The story later spread widely through UFO researcher Fabio Zerpa. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Capilla_del_Monte" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Capilla del Monte</span><span class="citation-popover-snippet">Capilla del Monte</span></span></span>
+The Dionisio Llanca case from 1973 became one of Argentina’s best-known alien encounter stories. Llanca claimed he experienced paralysis, missing time, and humanoid beings near Bahía Blanca. The story later spread widely through UFO researcher Fabio Zerpa.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Capilla_del_Monte" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Capilla del Monte</span><span class="citation-popover-snippet">Capilla del Monte</span></span></span>
 
 Unlike radar or photographic cases, abduction narratives depend heavily on human memory and psychological interpretation.
 
@@ -422,7 +422,7 @@ This distinction matters because Argentine UFO culture often treats emotionally 
 
 Argentina’s current aerospace investigation structures are notably more sceptical than many earlier civilian UFO groups.
 
-The Argentine Air Force’s Centro de Identificación Aeroespacial (CIAE) has repeatedly stated that recent investigated reports were attributable to ordinary causes including drones, atmospheric effects, astronomical objects, and imaging artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/07/30/centro-de-identificacion-aeroespacial-argentinas-evolving-uap-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">VIEW ON AMAZON. Missing Time: A Documented Study of UFO Abductions. This book</span><span class="citation-popover-snippet">New Space EconomyCentro de Identificación Aeroespacial: Argentina&#x27;s Evolving...July 31, 2025 — 30 Jul 2025 — It is a central title in th...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
+The Argentine Air Force’s Centro de Identificación Aeroespacial (CIAE) has repeatedly stated that recent investigated reports were attributable to ordinary causes including drones, atmospheric effects, astronomical objects, and imaging artefacts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newspaceeconomy.ca/2025/07/30/centro-de-identificacion-aeroespacial-argentinas-evolving-uap-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspaceeconomy.ca">[New Space Economy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspaceeconomy.ca</span><span class="citation-popover-title">VIEW ON AMAZON. Missing Time: A Documented Study of UFO Abductions. This book</span><span class="citation-popover-snippet">New Space EconomyCentro de Identificación Aeroespacial: Argentina&#x27;s Evolving...July 31, 2025 — 30 Jul 2025 — It is a central title in th...</span><span class="citation-popover-meta">Published: July 31, 2025</span></span></span>
 
 That shift reflects a broader international trend in UAP investigation:
 
@@ -463,197 +463,197 @@ Several recurring patterns explain why the stories endure:
 * Tourism and popular culture reinforce local mythology.
 * “Unexplained” becomes confused with “extraterrestrial”.
 
-That is why many Argentine UFO claims remain fascinating without becoming convincing. The country produced some of South America’s most memorable UFO stories, but memory and mystery consistently outlasted verifiable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/ufos-marathon-seventy-years-of-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSeventy Years of Flying Saucers, Science, Myth, and Fiction11 Jul 2017 — Lianza explained the methodology of investigat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Capilla_del_Monte" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Capilla del Monte</span><span class="citation-popover-snippet">Capilla del Monte</span></span></span>
+That is why many Argentine UFO claims remain fascinating without becoming convincing. The country produced some of South America’s most memorable UFO stories, but memory and mystery consistently outlasted verifiable evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/ufos-marathon-seventy-years-of-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSeventy Years of Flying Saucers, Science, Myth, and Fiction11 Jul 2017 — Lianza explained the methodology of investigat...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Capilla_del_Monte" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Capilla del Monte</span><span class="citation-popover-snippet">Capilla del Monte</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Argentine UFO Claims Hold Up Best?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Argentine UFO Claims Hold Up Best?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evidence quality, classification, and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence quality, classification, and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Illustrates how evidence gaps affect conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how evidence gaps affect conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides examples of stronger documented cases for comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides examples of stronger documented cases for comparison.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses standards of evidence and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses standards of evidence and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-argentine-ufo-claims-hold-up-best-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="which-argentine-ufo-claims-hold-up-best-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -669,7 +669,7 @@ That is why many Argentine UFO claims remain fascinating without becoming convin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -689,7 +689,7 @@ That is why many Argentine UFO claims remain fascinating without becoming convin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -721,7 +721,7 @@ That is why many Argentine UFO claims remain fascinating without becoming convin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -773,7 +773,7 @@ That is why many Argentine UFO claims remain fascinating without becoming convin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -818,7 +818,7 @@ That is why many Argentine UFO claims remain fascinating without becoming convin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -856,115 +856,114 @@ That is why many Argentine UFO claims remain fascinating without becoming convin
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in Argentina  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Argentina</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Alejandro Agostinelli  
-   Link: <a href="https://en.wikipedia.org/wiki/Alejandro_Agostinelli" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alejandro_Agostinelli</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alejandro_Agostinelli" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alejandro_Agostinelli</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: vice.com  
    Title: aliens argentina capilla del monte ufo  
-   Link: <a href="https://www.vice.com/en/article/aliens-argentina-capilla-del-monte-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/aliens-argentina-capilla-del-monte-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to the Town Where Everyone Has Seen a UFOOctober 28, 2019 — 28 Oct 2019 — The reason for all the extra-terrestrial activity i...</p></details>
+   Link:<a href="https://www.vice.com/en/article/aliens-argentina-capilla-del-monte-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/aliens-argentina-capilla-del-monte-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to the Town Where Everyone Has Seen a UFOOctober 28, 2019 — 28 Oct 2019 — The reason for all the extra-terrestrial activity i...</p></details>
    Published: October 28, 2019  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Capilla del Monte  
-   Link: <a href="https://en.wikipedia.org/wiki/Capilla_del_Monte" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Capilla_del_Monte</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Capilla_del_Monte" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Capilla_del_Monte</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: discoveryuk.com  
    Title: Discovery UKSignal From the South: Argentina UFOs  
-   Link: <a href="https://www.discoveryuk.com/mysteries/signal-from-the-south-argentina-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/signal-from-the-south-argentina-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UK13 May 2026 — Is the Argentina UFO phenomenon real? How many alien sightings in Argentina have been seen? Here&#x27;s the astonish...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/signal-from-the-south-argentina-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/signal-from-the-south-argentina-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UK13 May 2026 — Is the Argentina UFO phenomenon real? How many alien sightings in Argentina have been seen? Here&#x27;s the astonish...</p></details>
    Published: May 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SpaceLaneInfo/posts/in-a-quiet-part-of-argentina-security-footage-has-captured-a-mysterious-flying-o/1033941016268940/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceLaneInfo/posts/in-a-quiet-part-of-argentina-security-footage-has-captured-a-mysterious-flying-o/1033941016268940/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In a quiet part of Argentina, security footage has captured a...Many UFO researchers believe that this could be a reconnaissance ship fr...</p></details>
+   Link:<a href="https://www.facebook.com/SpaceLaneInfo/posts/in-a-quiet-part-of-argentina-security-footage-has-captured-a-mysterious-flying-o/1033941016268940/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceLaneInfo/posts/in-a-quiet-part-of-argentina-security-footage-has-captured-a-mysterious-flying-o/1033941016268940/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a quiet part of Argentina, security footage has captured a...Many UFO researchers believe that this could be a reconnaissance ship fr...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/exclusive/ufos-marathon-seventy-years-of-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/ufos-marathon-seventy-years-of-flying-saucers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerSeventy Years of Flying Saucers, Science, Myth, and Fiction11 Jul 2017 — Lianza explained the methodology of investigat...</p></details>
+   Link:<a href="https://skepticalinquirer.org/exclusive/ufos-marathon-seventy-years-of-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/ufos-marathon-seventy-years-of-flying-saucers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerSeventy Years of Flying Saucers, Science, Myth, and Fiction11 Jul 2017 — Lianza explained the methodology of investigat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dangerousminds.net  
    Title: village argentinian aliens since 1986  
-   Link: <a href="https://dangerousminds.net/history/village-argentinian-aliens-since-1986/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/history/village-argentinian-aliens-since-1986/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dangerous MindsThe Argentinian village that has believed in aliens since 198613 May 2026 — A look at Capilla del Monte, and how a visit f...</p></details>
+   Link:<a href="https://dangerousminds.net/history/village-argentinian-aliens-since-1986/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/history/village-argentinian-aliens-since-1986/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dangerous MindsThe Argentinian village that has believed in aliens since 198613 May 2026 — A look at Capilla del Monte, and how a visit f...</p></details>
    Published: May 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newspaceeconomy.ca  
    Title: VIEW ON AMAZON. Missing Time: A Documented Study of UFO Abductions. This book  
-   Link: <a href="https://newspaceeconomy.ca/2025/07/30/centro-de-identificacion-aeroespacial-argentinas-evolving-uap-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/30/centro-de-identificacion-aeroespacial-argentinas-evolving-uap-investigation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyCentro de Identificación Aeroespacial: Argentina&#x27;s Evolving...July 31, 2025 — 30 Jul 2025 — It is a central title in th...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/07/30/centro-de-identificacion-aeroespacial-argentinas-evolving-uap-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/30/centro-de-identificacion-aeroespacial-argentinas-evolving-uap-investigation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Space EconomyCentro de Identificación Aeroespacial: Argentina&#x27;s Evolving...July 31, 2025 — 30 Jul 2025 — It is a central title in th...</p></details>
    Published: July 31, 2025  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/u/unidad%2Bvecinal%2Bvilla" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/u/unidad%2Bvecinal%2Bvilla</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unidad vecinal villaTwo of the mentioned species (Heterobostrychus aequalis and Sinoxylon unidentatum) are alien and recorded only on the...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/u/unidad%2Bvecinal%2Bvilla" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/u/unidad%2Bvecinal%2Bvilla</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unidad vecinal villaTwo of the mentioned species (Heterobostrychus aequalis and Sinoxylon unidentatum) are alien and recorded only on the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: foxnews.com  
-   Link: <a href="https://www.foxnews.com/us/former-defense-official-makes-earth-shattering-ufo-prediction-unexplained-drones-leave-millions-edge" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/former-defense-official-makes-earth-shattering-ufo-prediction-unexplained-drones-leave-millions-edge</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former defense official makes earth-shattering UFO...25 Dec 2024 —... NASA... While recent sightings of drones or mysterious aircraft...</p></details>
+   Link:<a href="https://www.foxnews.com/us/former-defense-official-makes-earth-shattering-ufo-prediction-unexplained-drones-leave-millions-edge" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/former-defense-official-makes-earth-shattering-ufo-prediction-unexplained-drones-leave-millions-edge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former defense official makes earth-shattering UFO...25 Dec 2024 —... NASA... While recent sightings of drones or mysterious aircraft...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: the year was 1986 the location was sierra del pajarillo near capilla del monte c  
-   Link: <a href="https://www.facebook.com/DangerousMindsBlog/posts/the-year-was-1986-the-location-was-sierra-del-pajarillo-near-capilla-del-monte-c/1375871084570361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DangerousMindsBlog/posts/the-year-was-1986-the-location-was-sierra-del-pajarillo-near-capilla-del-monte-c/1375871084570361/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The location was Sierra del Pajarillo...The sighting took place only hours from Capilla del Monte, a town famous for its annual UFO fest...</p></details>
+   Link:<a href="https://www.facebook.com/DangerousMindsBlog/posts/the-year-was-1986-the-location-was-sierra-del-pajarillo-near-capilla-del-monte-c/1375871084570361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DangerousMindsBlog/posts/the-year-was-1986-the-location-was-sierra-del-pajarillo-near-capilla-del-monte-c/1375871084570361/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The location was Sierra del Pajarillo...The sighting took place only hours from Capilla del Monte, a town famous for its annual UFO fest...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: the skies over south america have become the stage for a mystery that is growing  
-   Link: <a href="https://www.facebook.com/whatthefacttttt/posts/the-skies-over-south-america-have-become-the-stage-for-a-mystery-that-is-growing/752901634156333/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whatthefacttttt/posts/the-skies-over-south-america-have-become-the-stage-for-a-mystery-that-is-growing/752901634156333/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The skies over South America have become the stage...15 Aug 2025 — In recent months, Brazil, Chile, and Argentina have reported a surge...</p></details>
+   Link:<a href="https://www.facebook.com/whatthefacttttt/posts/the-skies-over-south-america-have-become-the-stage-for-a-mystery-that-is-growing/752901634156333/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whatthefacttttt/posts/the-skies-over-south-america-have-become-the-stage-for-a-mystery-that-is-growing/752901634156333/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The skies over South America have become the stage...15 Aug 2025 — In recent months, Brazil, Chile, and Argentina have reported a surge...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team Reportpotential unknown alien technology operating in Earth&#x27;s atmosphere. If we recognize the plausibility of any of these, th...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team Reportpotential unknown alien technology operating in Earth&#x27;s atmosphere. If we recognize the plausibility of any of these, th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: soundsandcolours.com  
-   Link: <a href="https://soundsandcolours.com/subjects/travel/argentinas-ufo-highway-why-route-368-in-capilla-del-monte-draws-alien-believers-worldwide-78506/" target="_blank" rel="noopener noreferrer nofollow">https://soundsandcolours.com/subjects/travel/argentinas-ufo-highway-why-route-368-in-capilla-del-monte-draws-alien-believers-worldwide-78506/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argentina&#x27;s UFO Highway: Why Route 368 in Capilla del...22 Apr 2025 — Not everyone is convinced that aliens are visiting Route 368...</p></details>
+   Link:<a href="https://soundsandcolours.com/subjects/travel/argentinas-ufo-highway-why-route-368-in-capilla-del-monte-draws-alien-believers-worldwide-78506/" target="_blank" rel="noopener noreferrer nofollow">https://soundsandcolours.com/subjects/travel/argentinas-ufo-highway-why-route-368-in-capilla-del-monte-draws-alien-believers-worldwide-78506/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Argentina&#x27;s UFO Highway: Why Route 368 in Capilla del...22 Apr 2025 — Not everyone is convinced that aliens are visiting Route 368...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/XinhuaNewsAgency/videos/ufos-and-aliens-bringing-tourists-to-argentina/1220498474644261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/XinhuaNewsAgency/videos/ufos-and-aliens-bringing-tourists-to-argentina/1220498474644261/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e of numerous sightings of unidentified flying objects and two and a half meter tall...</p></details>
+   Link:<a href="https://www.facebook.com/XinhuaNewsAgency/videos/ufos-and-aliens-bringing-tourists-to-argentina/1220498474644261/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/XinhuaNewsAgency/videos/ufos-and-aliens-bringing-tourists-to-argentina/1220498474644261/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e of numerous sightings of unidentified flying objects and two and a half meter tall...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: escholarship.org  
    Title: qt7p53176p noSplash db49206a4664deb131d326dabd1d13c4  
-   Link: <a href="https://escholarship.org/content/qt7p53176p/qt7p53176p_noSplash_db49206a4664deb131d326dabd1d13c4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt7p53176p/qt7p53176p_noSplash_db49206a4664deb131d326dabd1d13c4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens coming to it for the purposes of tilling the soil, improving industries, or introducing and teaching sciences and arts. 48 Julia A...</p></details>
+   Link:<a href="https://escholarship.org/content/qt7p53176p/qt7p53176p_noSplash_db49206a4664deb131d326dabd1d13c4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt7p53176p/qt7p53176p_noSplash_db49206a4664deb131d326dabd1d13c4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens coming to it for the purposes of tilling the soil, improving industries, or introducing and teaching sciences and arts. 48 Julia A...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/q4b3tz/january_9_1986_argentina_when_a_ufo_extracted_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/q4b3tz/january_9_1986_argentina_when_a_ufo_extracted_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 1986, Argentina. When a UFO extracted the...When a UFO extracted the organs of insects, absorbed the chlorophyll of a tree an...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/q4b3tz/january_9_1986_argentina_when_a_ufo_extracted_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/q4b3tz/january_9_1986_argentina_when_a_ufo_extracted_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 1986, Argentina. When a UFO extracted the...When a UFO extracted the organs of insects, absorbed the chlorophyll of a tree an...</p></details>
    Published: January 9, 1986  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theses.hal.science  
-   Link: <a href="https://theses.hal.science/tel-05567096v1/file/Karakilinc_Hasan_Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.hal.science/tel-05567096v1/file/Karakilinc_Hasan_Archive.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>interseccional en la escena punk de Buenos Aires25 Mar 2026 — 222 VV AA, Invasión 88 [Álbum CD], Argentina: Discos Milagrosos, 1988...</p></details>
+   Link:<a href="https://theses.hal.science/tel-05567096v1/file/Karakilinc_Hasan_Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.hal.science/tel-05567096v1/file/Karakilinc_Hasan_Archive.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>interseccional en la escena punk de Buenos Aires25 Mar 2026 — 222 VV AA, Invasión 88 [Álbum CD], Argentina: Discos Milagrosos, 1988...</p></details>

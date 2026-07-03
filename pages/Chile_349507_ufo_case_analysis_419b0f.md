@@ -257,13 +257,13 @@ One of the central challenges in analysing Chilean UFO reports lies in the **qua
 
 ### Strengths and Limitations of Visual Material
 
-Photographic and video evidence is central to many CEFAA investigations. In notable cases, such as a 2014 Chilean Navy infrared video, recorded footage became public only after extensive investigation. CEFAA released a tenminute thermal imaging clip from a Chilean naval helicopter that showed an object matching the aircrafts speed and altitude, visible on infrared but not on radar, and reportedly discharging heat plumes. However, despite professional review involving radar logs, air traffic records and specialist analysis, no definitive explanation was found. CEFAAs report concluded that what was observed was a bona fide Unidentified Aerial Phenomenon largely because routine explanations such as commercial aircraft, birds, space debris, atmospheric effects or known flight paths could not be confidently matched to the data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-snippet">Ars TechnicaChilean officials cant identify a strange IR signal seen by its Navy - Ars TechnicaJanuary 6, 2017...</span><span class="citation-popover-meta">Published: January 6, 2017</span></span></span>
+Photographic and video evidence is central to many CEFAA investigations. In notable cases, such as a 2014 Chilean Navy infrared video, recorded footage became public only after extensive investigation. CEFAA released a tenminute thermal imaging clip from a Chilean naval helicopter that showed an object matching the aircrafts speed and altitude, visible on infrared but not on radar, and reportedly discharging heat plumes. However, despite professional review involving radar logs, air traffic records and specialist analysis, no definitive explanation was found. CEFAAs report concluded that what was observed was a bona fide Unidentified Aerial Phenomenon largely because routine explanations such as commercial aircraft, birds, space debris, atmospheric effects or known flight paths could not be confidently matched to the data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-snippet">Ars TechnicaChilean officials cant identify a strange IR signal seen by its Navy - Ars TechnicaJanuary 6, 2017...</span><span class="citation-popover-meta">Published: January 6, 2017</span></span></span>
 
-At the same time, photographic evidence can mislead. Poor image geometry, lack of metadata, and the ease of optical illusions or misclassification make photographs less reliable without supporting data. In many routine reports, CEFAA has identified objects initially reported as UFOs as planets, satellites, aircraft lights, or even insects near the camera. One Chilean press interview with CEFAA officials noted that **the vast majority of public reports do not prove anomalous objects**: many involve ordinary objects misidentified as something unusual, including meteors, planets or even psychological misperception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.publimetro.cl/cl/nacional/2014/07/03/cefaa-confunden-ovnis-meteoritos-planetas-o-bichos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publimetro.cl">[Publimetro Chile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publimetro.cl</span><span class="citation-popover-snippet">Publimetro ChileCefaa: Confunden ovnis con meteoritos, planetas o bichos Publimetro ChileJuly 2, 2014...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span> The reliance on visual material in isolation, therefore, is inherently prone to **false positives** unless corroborated with radar or independent measurement.
+At the same time, photographic evidence can mislead. Poor image geometry, lack of metadata, and the ease of optical illusions or misclassification make photographs less reliable without supporting data. In many routine reports, CEFAA has identified objects initially reported as UFOs as planets, satellites, aircraft lights, or even insects near the camera. One Chilean press interview with CEFAA officials noted that **the vast majority of public reports do not prove anomalous objects**: many involve ordinary objects misidentified as something unusual, including meteors, planets or even psychological misperception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.publimetro.cl/cl/nacional/2014/07/03/cefaa-confunden-ovnis-meteoritos-planetas-o-bichos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publimetro.cl">[Publimetro Chile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publimetro.cl</span><span class="citation-popover-snippet">Publimetro ChileCefaa: Confunden ovnis con meteoritos, planetas o bichos Publimetro ChileJuly 2, 2014...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span> The reliance on visual material in isolation, therefore, is inherently prone to **false positives** unless corroborated with radar or independent measurement.
 
 ### Role of Radar and Flight Data
 
-Radar verification and flight tracking are crucial in distinguishing known aircraft from genuinely unexplained targets. In the 2014 naval case, multiple ground radar stations and air traffic control were consulted with no detection of other traffic which elevated the incident to unexplained status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://birdinflight.com/en/news/industry/20170111-chile-ufo-video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birdinflight.com">[Bird In Flight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birdinflight.com</span><span class="citation-popover-snippet">Bird In FlightChilean Military Published a Previously Classified Video...11 Jan 2017 CEFAA experts study data about unidentified objec...</span></span></span> In contrast, many civilian sightings that are later resolved turn out to be aircraft, satellites or drones that do appear in radar or flight plan data once the report location and time are precisely aligned.
+Radar verification and flight tracking are crucial in distinguishing known aircraft from genuinely unexplained targets. In the 2014 naval case, multiple ground radar stations and air traffic control were consulted with no detection of other traffic which elevated the incident to unexplained status.<span class="citation-chip-wrap"><a class="citation-chip" href="https://birdinflight.com/en/news/industry/20170111-chile-ufo-video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birdinflight.com">[Bird In Flight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birdinflight.com</span><span class="citation-popover-snippet">Bird In FlightChilean Military Published a Previously Classified Video...11 Jan 2017 CEFAA experts study data about unidentified objec...</span></span></span> In contrast, many civilian sightings that are later resolved turn out to be aircraft, satellites or drones that do appear in radar or flight plan data once the report location and time are precisely aligned.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZTIO-xAP0Dw" title="Eric Weinstein Reveals UFO Physics! (Exclusive Interview)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZTIO-xAP0Dw" target="_blank" rel="noopener noreferrer">Eric Weinstein Reveals UFO Physics! (Exclusive Interview)</a></p><p class="youtube-embed-meta">Channel: Jesse Michels &middot; Views: 170.1K &middot; Uploaded: October 2021 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZTIO-xAP0Dw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZTIO-xAP0Dw">Open on YouTube</a></p></div></div></div>
 
@@ -271,8 +271,8 @@ Radar verification and flight tracking are crucial in distinguishing known aircr
 
 Witness credibility is a major factor in how seriously a case is analysed. Chiles approach has consistently weighted **professional observers more heavily**:
 
-* **Pilot reports:** Military and civilian pilots bring aviation experience and consistent sensory training, making their observations less likely to be simple misidentifications of clouds, aircraft lights, or astronomical bodies. The Chilean Navy incident noted above involved trained observers with consistent radio contact logs and video capture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-snippet">Ars TechnicaChilean officials cant identify a strange IR signal seen by its Navy - Ars TechnicaJanuary 6, 2017...</span><span class="citation-popover-meta">Published: January 6, 2017</span></span></span>
-* **Civilian sightings:** Reports from the public vary widely in reliability. They often lack corroborative data (radar, multiple angles, timestamps), and CEFAA has publicly acknowledged that many such reports turn out to be misinterpretations of ordinary phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.publimetro.cl/cl/nacional/2014/07/03/cefaa-confunden-ovnis-meteoritos-planetas-o-bichos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publimetro.cl">[Publimetro Chile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publimetro.cl</span><span class="citation-popover-snippet">Publimetro ChileCefaa: Confunden ovnis con meteoritos, planetas o bichos Publimetro ChileJuly 2, 2014...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
+* **Pilot reports:** Military and civilian pilots bring aviation experience and consistent sensory training, making their observations less likely to be simple misidentifications of clouds, aircraft lights, or astronomical bodies. The Chilean Navy incident noted above involved trained observers with consistent radio contact logs and video capture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-snippet">Ars TechnicaChilean officials cant identify a strange IR signal seen by its Navy - Ars TechnicaJanuary 6, 2017...</span><span class="citation-popover-meta">Published: January 6, 2017</span></span></span>
+* **Civilian sightings:** Reports from the public vary widely in reliability. They often lack corroborative data (radar, multiple angles, timestamps), and CEFAA has publicly acknowledged that many such reports turn out to be misinterpretations of ordinary phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.publimetro.cl/cl/nacional/2014/07/03/cefaa-confunden-ovnis-meteoritos-planetas-o-bichos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publimetro.cl">[Publimetro Chile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publimetro.cl</span><span class="citation-popover-snippet">Publimetro ChileCefaa: Confunden ovnis con meteoritos, planetas o bichos Publimetro ChileJuly 2, 2014...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
 
 Despite credibility differences, **all reports are investigated using the same framework**: collecting all available evidence; consulting specialists (meteorologists, astronomers, engineers); and checking against known flight schedules and atmospheric conditions.
 
@@ -283,7 +283,7 @@ A recurring theme in analysing Chilean UFO reports is how often initial impressi
 <img src="{{ "/assets/images/Chile_349507_ufo_case_analysis_419b0f-Illustration-2-dark.svg" | relative_url }}" alt="Case Analysis illustration 2" data-theme-src-dark="{{ "/assets/images/Chile_349507_ufo_case_analysis_419b0f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chile_349507_ufo_case_analysis_419b0f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Common Sources of Misidentification
 
-Globally, studies of unidentified aerial phenomena find that most apparent UFOs are eventually explained as conventional objects or phenomena aircraft, balloons, satellites, meteors, or even bright planets and stars once additional data is analysed. For example, in extensive statistical reviews like the U.S. Air Forces Project Blue Book, the vast majority of sightings were reliably matched to known causes after careful crosschecking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+Globally, studies of unidentified aerial phenomena find that most apparent UFOs are eventually explained as conventional objects or phenomena aircraft, balloons, satellites, meteors, or even bright planets and stars once additional data is analysed. For example, in extensive statistical reviews like the U.S. Air Forces Project Blue Book, the vast majority of sightings were reliably matched to known causes after careful crosschecking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
 In Chile, CEFAA has reported that many received cases fall into this category. Published interviews and official comments indicate that a large proportion of public UFO reports actually turn out to be:
 
@@ -291,13 +291,13 @@ In Chile, CEFAA has reported that many received cases fall into this category. P
 * **Identifiable aircraft:** commercial, military or private flights misperceived under unusual lighting.
 * **Optical or perceptual artefacts:** reflections, camera artefacts, or insects near lenses.
 
-CEFAAs own director has highlighted that such misidentifications are a **leading reason why relatively few cases remain unexplained** after review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.publimetro.cl/cl/nacional/2014/07/03/cefaa-confunden-ovnis-meteoritos-planetas-o-bichos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publimetro.cl">[Publimetro Chile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publimetro.cl</span><span class="citation-popover-snippet">Publimetro ChileCefaa: Confunden ovnis con meteoritos, planetas o bichos Publimetro ChileJuly 2, 2014...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
+CEFAAs own director has highlighted that such misidentifications are a **leading reason why relatively few cases remain unexplained** after review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.publimetro.cl/cl/nacional/2014/07/03/cefaa-confunden-ovnis-meteoritos-planetas-o-bichos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publimetro.cl">[Publimetro Chile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publimetro.cl</span><span class="citation-popover-snippet">Publimetro ChileCefaa: Confunden ovnis con meteoritos, planetas o bichos Publimetro ChileJuly 2, 2014...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_4_2xD66wB0" title="Chilean Navy UFO sighting explained | This Is Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_4_2xD66wB0" target="_blank" rel="noopener noreferrer">Chilean Navy UFO sighting explained | This Is Why</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 11.9K &middot; Uploaded: August 2022 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_4_2xD66wB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_4_2xD66wB0">Open on YouTube</a></p></div></div></div>
 
 ### When Explainable Explanations Fail
 
-A small number of cases do resist mundane explanations for example, when multiple credible witnesses, clear imaging, radar crosschecks and weather data are all inconsistent with known objects or phenomena. In such instances, CEFAA and later SEFAA classify the case as an **Unidentified Aerial Phenomenon (UAP)** rather than asserting an extraordinary cause. The terminology reflects that an object is both **unidentified and currently unexplained** given the available evidence, rather than implying alien origin or other sensational interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Comit%C3%A9_de_Estudios_de_Fen%C3%B3menos_A%C3%A9reos_An%C3%B3malos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comit de Estudios de Fenmenos Areos Anmalos</span><span class="citation-popover-snippet">Comit de Estudios de Fenmenos Areos Anmalos</span></span></span>
+A small number of cases do resist mundane explanations for example, when multiple credible witnesses, clear imaging, radar crosschecks and weather data are all inconsistent with known objects or phenomena. In such instances, CEFAA and later SEFAA classify the case as an **Unidentified Aerial Phenomenon (UAP)** rather than asserting an extraordinary cause. The terminology reflects that an object is both **unidentified and currently unexplained** given the available evidence, rather than implying alien origin or other sensational interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Comit%C3%A9_de_Estudios_de_Fen%C3%B3menos_A%C3%A9reos_An%C3%B3malos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Comit de Estudios de Fenmenos Areos Anmalos</span><span class="citation-popover-snippet">Comit de Estudios de Fenmenos Areos Anmalos</span></span></span>
 
 This distinction follows broader scientific practice: unidentified does not automatically equate to inexplicable in principle, only that **existing data and models cannot yet provide a confident identification**.
 
@@ -308,7 +308,7 @@ What makes or breaks a UFO analysis in Chile often comes down to **evidence qual
 * **Highquality evidence** radar data, highresolution video with metadata, synchronized multiobserver recordings gives investigators a strong basis for explanation or for ruling out known causes.
 * **Lowerquality evidence**, such as blurry mobile phone videos or untimed eyewitness accounts, routinely leads to ambiguous or unresolved classifications because the uncertainty is too great to conclusively match to any known source.
 
-This pattern reflects not just Chiles procedures but broader norms in UFO investigation: when the evidence supports a prosaic cause, experts generally opt for that explanation; when the evidence cannot be reconciled with known phenomena, the case is left as unidentified pending additional data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</span></span></span>
+This pattern reflects not just Chiles procedures but broader norms in UFO investigation: when the evidence supports a prosaic cause, experts generally opt for that explanation; when the evidence cannot be reconciled with known phenomena, the case is left as unidentified pending additional data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</span></span></span>
 
 <img src="{{ "/assets/images/Chile_349507_ufo_case_analysis_419b0f-Illustration-3-dark.svg" | relative_url }}" alt="Case Analysis illustration 3" data-theme-src-dark="{{ "/assets/images/Chile_349507_ufo_case_analysis_419b0f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chile_349507_ufo_case_analysis_419b0f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Illustration: A Case That Remains Unresolved
@@ -318,7 +318,7 @@ The November 2014 Chilean Navy incident exemplifies how Chiles system handles ha
 * The sighting was recorded on infrared by trained military personnel.
 * Radar and air traffic data were checked and showed no matching conventional aircraft.
 * Analyses by multiple experts found no definitive prosaic explanation.
-* After thorough review, CEFAA classified it as an **Unidentified Aerial Phenomenon**, emphasising that they do not know what it was, but do know what it was not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://birdinflight.com/en/news/industry/20170111-chile-ufo-video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birdinflight.com">[Bird In Flight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birdinflight.com</span><span class="citation-popover-snippet">Bird In FlightChilean Military Published a Previously Classified Video...11 Jan 2017 CEFAA experts study data about unidentified objec...</span></span></span>
+* After thorough review, CEFAA classified it as an **Unidentified Aerial Phenomenon**, emphasising that they do not know what it was, but do know what it was not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://birdinflight.com/en/news/industry/20170111-chile-ufo-video.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: birdinflight.com">[Bird In Flight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">birdinflight.com</span><span class="citation-popover-snippet">Bird In FlightChilean Military Published a Previously Classified Video...11 Jan 2017 CEFAA experts study data about unidentified objec...</span></span></span>
 
 This exemplifies **evidencebased scepticism**: an unresolved classification reflects limits of current data and understanding, not a leap to speculative causes.
 
@@ -326,197 +326,197 @@ This exemplifies **evidencebased scepticism**: an unresolved classification refl
 
 ## Conclusion
 
-Chilean UFO reports are analysed through a structured process that prioritises **objective evidence, expert review, and careful categorisation**. Most cases, like elsewhere in the world, turn out to be misidentifications of ordinary phenomena once adequate data is assembled. A minority often those involving professional observers and multiple corroborative data streams remain officially **unresolved as UAPs** but are handled with clear analytical boundaries that avoid unwarranted conclusions. The discipline applied by CEFAA and SEFAA, despite its sometimes unresolved outputs, illustrates a **critical and methodical approach** to analysing unusual aerial observations within a civil aviation safety context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.publimetro.cl/cl/nacional/2014/07/03/cefaa-confunden-ovnis-meteoritos-planetas-o-bichos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publimetro.cl">[Publimetro Chile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publimetro.cl</span><span class="citation-popover-snippet">Publimetro ChileCefaa: Confunden ovnis con meteoritos, planetas o bichos Publimetro ChileJuly 2, 2014...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
+Chilean UFO reports are analysed through a structured process that prioritises **objective evidence, expert review, and careful categorisation**. Most cases, like elsewhere in the world, turn out to be misidentifications of ordinary phenomena once adequate data is assembled. A minority often those involving professional observers and multiple corroborative data streams remain officially **unresolved as UAPs** but are handled with clear analytical boundaries that avoid unwarranted conclusions. The discipline applied by CEFAA and SEFAA, despite its sometimes unresolved outputs, illustrates a **critical and methodical approach** to analysing unusual aerial observations within a civil aviation safety context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.publimetro.cl/cl/nacional/2014/07/03/cefaa-confunden-ovnis-meteoritos-planetas-o-bichos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publimetro.cl">[Publimetro Chile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publimetro.cl</span><span class="citation-popover-snippet">Publimetro ChileCefaa: Confunden ovnis con meteoritos, planetas o bichos Publimetro ChileJuly 2, 2014...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Misidentification and Evidence Shape UFO Conclusions. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Misidentification and Evidence Shape UFO Conclusions. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on case classification, misidentification, and investigative conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on case classification, misidentification, and investigative conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Directly addresses evidence quality, witness reports, and scientific evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses evidence quality, witness reports, and scientific evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains multiple evidence-based case studies and official testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains multiple evidence-based case studies and official testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides context for how extraordinary claims evolve through interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how extraordinary claims evolve through interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-misidentification-and-evidence-shape-ufo-conclusions-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ Chilean UFO reports are analysed through a structured process that prioritises *
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ Chilean UFO reports are analysed through a structured process that prioritises *
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ Chilean UFO reports are analysed through a structured process that prioritises *
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ Chilean UFO reports are analysed through a structured process that prioritises *
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ Chilean UFO reports are analysed through a structured process that prioritises *
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -719,113 +719,112 @@ Chilean UFO reports are analysed through a structured process that prioritises *
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: publimetro.cl  
-   Link: <a href="https://www.publimetro.cl/cl/nacional/2014/07/03/cefaa-confunden-ovnis-meteoritos-planetas-o-bichos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.publimetro.cl/cl/nacional/2014/07/03/cefaa-confunden-ovnis-meteoritos-planetas-o-bichos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Publimetro ChileCefaa: Confunden ovnis con meteoritos, planetas o bichos Publimetro ChileJuly 2, 2014...</p></details>
+   Link:<a href="https://www.publimetro.cl/cl/nacional/2014/07/03/cefaa-confunden-ovnis-meteoritos-planetas-o-bichos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.publimetro.cl/cl/nacional/2014/07/03/cefaa-confunden-ovnis-meteoritos-planetas-o-bichos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Publimetro ChileCefaa: Confunden ovnis con meteoritos, planetas o bichos Publimetro ChileJuly 2, 2014...</p></details>
    Published: July 2, 2014  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Comit de Estudios de Fenmenos Areos Anmalos  
-   Link: <a href="https://es.wikipedia.org/wiki/Comit%C3%A9_de_Estudios_de_Fen%C3%B3menos_A%C3%A9reos_An%C3%B3malos" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Comit%C3%A9_de_Estudios_de_Fen%C3%B3menos_A%C3%A9reos_An%C3%B3malos</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Comit%C3%A9_de_Estudios_de_Fen%C3%B3menos_A%C3%A9reos_An%C3%B3malos" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Comit%C3%A9_de_Estudios_de_Fen%C3%B3menos_A%C3%A9reos_An%C3%B3malos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAn unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or exp...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: chile.travel  
    Title: ufology in chile the best destinations for the sighting of ufos 2  
-   Link: <a href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow">https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 Many strange things are seen, but 99% of the sightings have...</p></details>
+   Link:<a href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow">https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 Many strange things are seen, but 99% of the sightings have...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arstechnica.com  
-   Link: <a href="https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaChilean officials cant identify a strange IR signal seen by its Navy - Ars TechnicaJanuary 6, 2017...</p></details>
+   Link:<a href="https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2017/01/after-two-years-of-study-chilean-officials-cant-explain-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaChilean officials cant identify a strange IR signal seen by its Navy - Ars TechnicaJanuary 6, 2017...</p></details>
    Published: January 6, 2017  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: birdinflight.com  
-   Link: <a href="https://birdinflight.com/en/news/industry/20170111-chile-ufo-video.html" target="_blank" rel="noopener noreferrer nofollow">https://birdinflight.com/en/news/industry/20170111-chile-ufo-video.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bird In FlightChilean Military Published a Previously Classified Video...11 Jan 2017 CEFAA experts study data about unidentified objec...</p></details>
+   Link:<a href="https://birdinflight.com/en/news/industry/20170111-chile-ufo-video.html" target="_blank" rel="noopener noreferrer nofollow">https://birdinflight.com/en/news/industry/20170111-chile-ufo-video.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bird In FlightChilean Military Published a Previously Classified Video...11 Jan 2017 CEFAA experts study data about unidentified objec...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: disclosdex.com  
    Title: CEFA A | Disclosdex  
-   Link: <a href="https://disclosdex.com/organizations/cefaa" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/organizations/cefaa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CEFAA | DisclosdexOctober 3, 1997 CEFAA Government Chilean civil aviation branch founded 1997 to scientifically assess unidentified aer...</p></details>
+   Link:<a href="https://disclosdex.com/organizations/cefaa" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/organizations/cefaa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CEFAA | DisclosdexOctober 3, 1997 CEFAA Government Chilean civil aviation branch founded 1997 to scientifically assess unidentified aer...</p></details>
    Published: October 3, 1997  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/changemyview/comments/1ksidro/cmv_all_the_alien_sightings_are_actually_fake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/1ksidro/cmv_all_the_alien_sightings_are_actually_fake/</a>  
+   Link:<a href="https://www.reddit.com/r/changemyview/comments/1ksidro/cmv_all_the_alien_sightings_are_actually_fake/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/1ksidro/cmv_all_the_alien_sightings_are_actually_fake/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theufodatabase.com  
-   Link: <a href="https://theufodatabase.com/organizations/cefaa" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/organizations/cefaa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Commission for Studies of Unidentified Space Phenomena | The UFO DatabaseCHILEAN COMMISSION FOR STUDIES OF UNIDENTIFIED SPACE PHE...</p></details>
+   Link:<a href="https://theufodatabase.com/organizations/cefaa" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/organizations/cefaa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Commission for Studies of Unidentified Space Phenomena | The UFO DatabaseCHILEAN COMMISSION FOR STUDIES OF UNIDENTIFIED SPACE PHE...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rt.com  
-   Link: <a href="https://www.rt.com/viral/372824-ufo-video-declassified-chile/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/viral/372824-ufo-video-declassified-chile/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 6, 2017 CHILEAN NAVY DECLASSIFIES INEXPLICABLE UFO FOOTAGE AFTER 2YR INVESTIGATION (VIDEO) Published 6 Jan, 2017 13:44 | Update...</p></details>
+   Link:<a href="https://www.rt.com/viral/372824-ufo-video-declassified-chile/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/viral/372824-ufo-video-declassified-chile/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 6, 2017 CHILEAN NAVY DECLASSIFIES INEXPLICABLE UFO FOOTAGE AFTER 2YR INVESTIGATION (VIDEO) Published 6 Jan, 2017 13:44 | Update...</p></details>
    Published: January 6, 2017  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: exploracionovni.com  
-   Link: <a href="https://exploracionovni.com/2014/07/fuerza-aerea-de-chile-confirma-avistamiento-de-ovni-y-difunde-informe/" target="_blank" rel="noopener noreferrer nofollow">https://exploracionovni.com/2014/07/fuerza-aerea-de-chile-confirma-avistamiento-de-ovni-y-difunde-informe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NI Y DIFUNDE INFORME 2931 Image Los responsables del Centro de estudios de Fenmenos Areos Anmalos de Chile han hecho pblica la imag...</p></details>
+   Link:<a href="https://exploracionovni.com/2014/07/fuerza-aerea-de-chile-confirma-avistamiento-de-ovni-y-difunde-informe/" target="_blank" rel="noopener noreferrer nofollow">https://exploracionovni.com/2014/07/fuerza-aerea-de-chile-confirma-avistamiento-de-ovni-y-difunde-informe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NI Y DIFUNDE INFORME 2931 Image Los responsables del Centro de estudios de Fenmenos Areos Anmalos de Chile han hecho pblica la imag...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: 24horas.cl  
-   Link: <a href="https://www.24horas.cl/nacional/este-es-el-caso-de-avistamiento-de-ovni-en-chile-que-no-pudo-ser-explicado-1656626" target="_blank" rel="noopener noreferrer nofollow">https://www.24horas.cl/nacional/este-es-el-caso-de-avistamiento-de-ovni-en-chile-que-no-pudo-ser-explicado-1656626</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2015 ESTE ES EL CASO DE AVISTAMIENTO DE OVNI EN CHILE QUE NO PUDO SER EXPLICADO Luego de tres aos de anlisis en secreto, el he...</p></details>
+   Link:<a href="https://www.24horas.cl/nacional/este-es-el-caso-de-avistamiento-de-ovni-en-chile-que-no-pudo-ser-explicado-1656626" target="_blank" rel="noopener noreferrer nofollow">https://www.24horas.cl/nacional/este-es-el-caso-de-avistamiento-de-ovni-en-chile-que-no-pudo-ser-explicado-1656626</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2015 ESTE ES EL CASO DE AVISTAMIENTO DE OVNI EN CHILE QUE NO PUDO SER EXPLICADO Luego de tres aos de anlisis en secreto, el he...</p></details>
    Published: May 6, 2015  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scielo.org.co  
    Title: The Possible and the Impossible: Reflections on Evidence in Chilean Ufology  
-   Link: <a href="https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow">https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2020 ARTICLE * English (pdf) * Article in xml format * ImageArticle references * Image How to cite this article * ImageSciEL...</p></details>
+   Link:<a href="https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow">https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2020 ARTICLE * English (pdf) * Article in xml format * ImageArticle references * Image How to cite this article * ImageSciEL...</p></details>
    Published: October 1, 2020  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufodigest.com  
    Title: AERONAUTICA L AGENCY CONFIRMS UFO SIGHTINGS AND DISSEMINATES IMAGE  
-   Link: <a href="https://www.ufodigest.com/article/aeronautical-agency-confirms-ufo-sightings-and-disseminates-image/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/aeronautical-agency-confirms-ufo-sightings-and-disseminates-image/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AERONAUTICAL AGENCY CONFIRMS UFO SIGHTINGS AND DISSEMINATES IMAGE - UFO DigestJuly 5, 2014 AERONAUTICAL AGENCY CONFIRMS UFO SIGHTINGS A...</p></details>
+   Link:<a href="https://www.ufodigest.com/article/aeronautical-agency-confirms-ufo-sightings-and-disseminates-image/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/aeronautical-agency-confirms-ufo-sightings-and-disseminates-image/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AERONAUTICAL AGENCY CONFIRMS UFO SIGHTINGS AND DISSEMINATES IMAGE - UFO DigestJuly 5, 2014 AERONAUTICAL AGENCY CONFIRMS UFO SIGHTINGS A...</p></details>
    Published: July 5, 2014  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: latest-ufo-sightings.net  
    Title: America, UFO videos 3 Image: Chile UFO The truth is out there as e  
-   Link: <a href="https://www.latest-ufo-sightings.net/2015/04/cefaa-concludes-ufo-above-northern-chile-not-made-by-man-or-weather-phenomenon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2015/04/cefaa-concludes-ufo-above-northern-chile-not-made-by-man-or-weather-phenomenon.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CEFAA Concludes UFO Above Northern Chile Not Made By Man Or Weather Phenomenon Latest UFO SightingsApril 23, 2015 CEFAA CONCLUDES UFO...</p></details>
+   Link:<a href="https://www.latest-ufo-sightings.net/2015/04/cefaa-concludes-ufo-above-northern-chile-not-made-by-man-or-weather-phenomenon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2015/04/cefaa-concludes-ufo-above-northern-chile-not-made-by-man-or-weather-phenomenon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CEFAA Concludes UFO Above Northern Chile Not Made By Man Or Weather Phenomenon Latest UFO SightingsApril 23, 2015 CEFAA CONCLUDES UFO...</p></details>
    Published: April 23, 2015  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufo.com.br  
    Title: rgo da Fora Area do Chile reconhece oficialmente imagem de UFO  
-   Link: <a href="https://ufo.com.br/rgao-da-forca-aerea-do-chile-reconhece-oficialmente-imagem-de-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/rgao-da-forca-aerea-do-chile-reconhece-oficialmente-imagem-de-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revista UFOJuly 2, 2014 RGO DA FORA AREA DO CHILE RECONHECE OFICIALMENTE IMAGEM DE UFO Comit de Estudos de Fenmenos Areos Anmal...</p></details>
+   Link:<a href="https://ufo.com.br/rgao-da-forca-aerea-do-chile-reconhece-oficialmente-imagem-de-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/rgao-da-forca-aerea-do-chile-reconhece-oficialmente-imagem-de-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revista UFOJuly 2, 2014 RGO DA FORA AREA DO CHILE RECONHECE OFICIALMENTE IMAGEM DE UFO Comit de Estudos de Fenmenos Areos Anmal...</p></details>
    Published: July 2, 2014  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: studocu.com  
    Title: Informe CEFAA sobre Fenmenos Areos Anmalos en Chile  
-   Link: <a href="https://www.studocu.com/cl/document/universidad-tecnologica-de-chile/proyecto-tecnico/informe-cefaa-sobre-fenomenos-aereos-anomalos-en-chile/144572021" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/cl/document/universidad-tecnologica-de-chile/proyecto-tecnico/informe-cefaa-sobre-fenomenos-aereos-anomalos-en-chile/144572021</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INFORME CEFAA SOBRE FENMENOS AREOS ANMALOS EN CHILE Course: Proyecto Tcnico 136 documents University: Universidad Tecnolgica...</p></details>
+   Link:<a href="https://www.studocu.com/cl/document/universidad-tecnologica-de-chile/proyecto-tecnico/informe-cefaa-sobre-fenomenos-aereos-anomalos-en-chile/144572021" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/cl/document/universidad-tecnologica-de-chile/proyecto-tecnico/informe-cefaa-sobre-fenomenos-aereos-anomalos-en-chile/144572021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INFORME CEFAA SOBRE FENMENOS AREOS ANMALOS EN CHILE Course: Proyecto Tcnico 136 documents University: Universidad Tecnolgica...</p></details>

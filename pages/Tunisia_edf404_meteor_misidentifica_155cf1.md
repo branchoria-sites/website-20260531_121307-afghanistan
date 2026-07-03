@@ -251,13 +251,13 @@ image: /assets/images/Tunisia_edf404_meteor_misidentifica_155cf1-Illustration-1-
 Many of Tunisia’s most dramatic UFO stories become less mysterious when they are compared with known meteor and fireball events. Bright meteors are among the easiest natural phenomena to misidentify. They can appear unexpectedly, cross huge distances in seconds, change colour, fragment into multiple lights, produce delayed explosions, and seem far closer to the ground than they really are. In a country where many reports emerge from social media, local testimony, or brief eyewitness descriptions rather than formal investigations, meteors provide one of the strongest alternative explanations for unusual aerial sightings.
 
 <img src="{{ "/assets/images/Tunisia_edf404_meteor_misidentifica_155cf1-Illustration-1-dark.svg" | relative_url }}" alt="Meteors illustration 1" data-theme-src-dark="{{ "/assets/images/Tunisia_edf404_meteor_misidentifica_155cf1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunisia_edf404_meteor_misidentifica_155cf1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every Tunisian UFO report is solved. Instead, meteor events offer a useful control case. They show how ordinary astronomical objects can create extraordinary impressions, especially over Tunisia’s clear desert skies and sparsely populated southern [regions]({{ 'regions-82fa7c/' | relative_url }}). The best documented example remains the famous Tataouine meteorite fall of 1931, which demonstrates how a spectacular aerial event can initially appear strange but later become scientifically understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.persee.fr/doc/bulmi_0366-3248_1932_num_55_3_4150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: persee.fr">[Persée]</a><span class="citation-popover" role="note"><span class="citation-popover-source">persee.fr</span><span class="citation-popover-title">bulmi 0366 3248 1932 num 55 3 4150</span><span class="citation-popover-snippet">La météorite (diogénite) de Tataouine, Tunisie (27 juin 1931). In: Bulletin de la Société française de Minéralogie, volume 55, 3-6, 1932...</span></span></span>
+This does not mean every Tunisian UFO report is solved. Instead, meteor events offer a useful control case. They show how ordinary astronomical objects can create extraordinary impressions, especially over Tunisia’s clear desert skies and sparsely populated southern [regions]({{ 'regions-82fa7c/' | relative_url }}). The best documented example remains the famous Tataouine meteorite fall of 1931, which demonstrates how a spectacular aerial event can initially appear strange but later become scientifically understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.persee.fr/doc/bulmi_0366-3248_1932_num" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: persee.fr">[Persée]</a><span class="citation-popover" role="note"><span class="citation-popover-source">persee.fr</span><span class="citation-popover-title">bulmi 0366 3248 1932 num</span><span class="citation-popover-snippet">La météorite (diogénite) de Tataouine, Tunisie (27 juin 1931). In: Bulletin de la Société française de Minéralogie, volume 55, 3-6, 1932...</span></span></span>
 
 ## The Tataouine Meteorite as a Control Case
 
 The most important natural-sky event in Tunisia’s UFO history is not a UFO report at all. It is the meteorite fall near Foum Tataouine on 27 June 1931.
 
-Scientific documentation published by mineralogist Alfred Lacroix described a remarkable meteorite fall in southern Tunisia near Foum Tataouine, around 120 kilometres south-south-east of Gabès. The event produced an intense flash and explosive sounds that attracted immediate attention. Later investigations recovered meteorite fragments and identified the object as a rare diogenite meteorite. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.persee.fr/doc/bulmi_0366-3248_1932_num_55_3_4150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: persee.fr">[Persée]</a><span class="citation-popover" role="note"><span class="citation-popover-source">persee.fr</span><span class="citation-popover-title">bulmi 0366 3248 1932 num 55 3 4150</span><span class="citation-popover-snippet">La météorite (diogénite) de Tataouine, Tunisie (27 juin 1931). In: Bulletin de la Société française de Minéralogie, volume 55, 3-6, 1932...</span></span></span>
+Scientific documentation published by mineralogist Alfred Lacroix described a remarkable meteorite fall in southern Tunisia near Foum Tataouine, around 120 kilometres south-south-east of Gabès. The event produced an intense flash and explosive sounds that attracted immediate attention. Later investigations recovered meteorite fragments and identified the object as a rare diogenite meteorite.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.persee.fr/doc/bulmi_0366-3248_1932_num" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: persee.fr">[Persée]</a><span class="citation-popover" role="note"><span class="citation-popover-source">persee.fr</span><span class="citation-popover-title">bulmi 0366 3248 1932 num</span><span class="citation-popover-snippet">La météorite (diogénite) de Tataouine, Tunisie (27 juin 1931). In: Bulletin de la Société française de Minéralogie, volume 55, 3-6, 1932...</span></span></span>
 
 Contemporary descriptions are striking because they resemble features commonly reported in UFO cases:
 
@@ -267,11 +267,11 @@ Contemporary descriptions are striking because they resemble features commonly r
 * Witnesses awakened by an intense flash.
 * Loud detonations arriving after the visual event.
 * The impression of an object descending nearby.
-* Multiple fragments appearing after breakup. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geoforum.fr/topic/52842-tatahouine-une-diog%C3%A9nite-historique-la-premi%C3%A8re-%C3%A9voqu%C3%A9e-par-a-lacroix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geoforum.fr">[Géoforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geoforum.fr</span><span class="citation-popover-snippet">GéoforumTatahouine, une Diogénite historique (la première...August 15, 2023 — 14 Aug 2023 — Tombée le 27 juin 1931 à 01h30, à 4 kilomètr...</span><span class="citation-popover-meta">Published: August 15, 2023</span></span></span>
+* Multiple fragments appearing after breakup.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geoforum.fr/topic/52842-tatahouine-une-diog%C3%A9nite-historique-la-premi%C3%A8re-%C3%A9voqu%C3%A9e-par-a-lacroix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geoforum.fr">[Géoforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geoforum.fr</span><span class="citation-popover-snippet">GéoforumTatahouine, une Diogénite historique (la première...August 15, 2023 — 14 Aug 2023 — Tombée le 27 juin 1931 à 01h30, à 4 kilomètr...</span><span class="citation-popover-meta">Published: August 15, 2023</span></span></span>
 
 </div>
 
-Modern accounts of the fall note that the explosion and bright illumination were powerful enough to wake local residents and members of the French military garrison stationed in the region. Witnesses described a fiery object travelling across the sky before loud explosive sounds followed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geoforum.fr/topic/52842-tatahouine-une-diog%C3%A9nite-historique-la-premi%C3%A8re-%C3%A9voqu%C3%A9e-par-a-lacroix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geoforum.fr">[Géoforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geoforum.fr</span><span class="citation-popover-snippet">GéoforumTatahouine, une Diogénite historique (la première...August 15, 2023 — 14 Aug 2023 — Tombée le 27 juin 1931 à 01h30, à 4 kilomètr...</span><span class="citation-popover-meta">Published: August 15, 2023</span></span></span>
+Modern accounts of the fall note that the explosion and bright illumination were powerful enough to wake local residents and members of the French military garrison stationed in the region. Witnesses described a fiery object travelling across the sky before loud explosive sounds followed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.geoforum.fr/topic/52842-tatahouine-une-diog%C3%A9nite-historique-la-premi%C3%A8re-%C3%A9voqu%C3%A9e-par-a-lacroix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geoforum.fr">[Géoforum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geoforum.fr</span><span class="citation-popover-snippet">GéoforumTatahouine, une Diogénite historique (la première...August 15, 2023 — 14 Aug 2023 — Tombée le 27 juin 1931 à 01h30, à 4 kilomètr...</span><span class="citation-popover-meta">Published: August 15, 2023</span></span></span>
 
 If the recovered stones had never been found, the incident could easily have entered folklore as an unexplained aerial visitation. Instead, physical evidence allowed scientists to reconstruct what happened. That makes Tataouine an important benchmark when evaluating later Tunisian UFO reports based only on observation and memory.
 
@@ -285,7 +285,7 @@ Several characteristics regularly cause confusion:
 
 **Apparent slowness.** Large fireballs can remain visible for several seconds or even tens of seconds. Witnesses may interpret this as controlled flight rather than atmospheric entry.
 
-**Colour changes.** Fireballs frequently shift between white, yellow, orange, green, or blue depending on speed, composition, and atmospheric conditions. A glowing orange or green object is often described as artificial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tissint_meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tissint meteorite</span><span class="citation-popover-snippet">Tissint meteorite</span></span></span>
+**Colour changes.** Fireballs frequently shift between white, yellow, orange, green, or blue depending on speed, composition, and atmospheric conditions. A glowing orange or green object is often described as artificial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tissint_meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tissint meteorite</span><span class="citation-popover-snippet">Tissint meteorite</span></span></span>
 
 **Fragmentation.** Meteoroids commonly break apart. To observers this can resemble a craft releasing smaller objects or changing shape.
 
@@ -297,7 +297,7 @@ These factors are especially relevant in Tunisia, where reports often describe b
 
 ## The Sfax 1997 Report and the Meteor Question
 
-Tunisia’s most frequently cited UFO case occurred near Sfax in November 1997. Witnesses reportedly observed a bright orange luminous mass moving towards the south-west. Some versions of the account mention an intense glow and unusual atmospheric effects. The case survives mainly through ufology archives rather than official investigative files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.persee.fr/doc/bulmi_0366-3248_1932_num_55_3_4150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: persee.fr">[Persée]</a><span class="citation-popover" role="note"><span class="citation-popover-source">persee.fr</span><span class="citation-popover-title">bulmi 0366 3248 1932 num 55 3 4150</span><span class="citation-popover-snippet">La météorite (diogénite) de Tataouine, Tunisie (27 juin 1931). In: Bulletin de la Société française de Minéralogie, volume 55, 3-6, 1932...</span></span></span>
+Tunisia’s most frequently cited UFO case occurred near Sfax in November 1997. Witnesses reportedly observed a bright orange luminous mass moving towards the south-west. Some versions of the account mention an intense glow and unusual atmospheric effects. The case survives mainly through ufology archives rather than official investigative files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.persee.fr/doc/bulmi_0366-3248_1932_num" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: persee.fr">[Persée]</a><span class="citation-popover" role="note"><span class="citation-popover-source">persee.fr</span><span class="citation-popover-title">bulmi 0366 3248 1932 num</span><span class="citation-popover-snippet">La météorite (diogénite) de Tataouine, Tunisie (27 juin 1931). In: Bulletin de la Société française de Minéralogie, volume 55, 3-6, 1932...</span></span></span>
 
 The report remains unresolved because there is insufficient evidence to determine exactly what happened. However, the description overlaps with several characteristics commonly associated with fireballs:
 
@@ -318,9 +318,9 @@ The Tataouine event provides a reminder that dramatic atmospheric entries can ap
 <img src="{{ "/assets/images/Tunisia_edf404_meteor_misidentifica_155cf1-Illustration-2-dark.svg" | relative_url }}" alt="Meteors illustration 2" data-theme-src-dark="{{ "/assets/images/Tunisia_edf404_meteor_misidentifica_155cf1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunisia_edf404_meteor_misidentifica_155cf1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern Fireball Reports in 2021 and 2023
 
-The early 2020s saw renewed public interest in unusual aerial phenomena worldwide. Increased attention to UFOs and UAPs, combined with smartphones and social media, made bright astronomical events more likely to be reported as mysteries rather than routine meteor activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.globalspec.com/article/20942/what-to-make-of-uaps-and-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.globalspec.com">[insights.globalspec.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.globalspec.com</span><span class="citation-popover-title">What to make of UAPs and UFOs</span><span class="citation-popover-snippet">August 6, 2023 — 6 Aug 2023 — All we know is that UAPs are unexplainable and science, investigation and critical thinking are the only wa...</span><span class="citation-popover-meta">Published: August 6, 2023</span></span></span>
+The early 2020s saw renewed public interest in unusual aerial phenomena worldwide. Increased attention to UFOs and UAPs, combined with smartphones and social media, made bright astronomical events more likely to be reported as mysteries rather than routine meteor activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.globalspec.com/article/20942/what-to-make-of-uaps-and-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.globalspec.com">[insights.globalspec.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.globalspec.com</span><span class="citation-popover-title">What to make of UAPs and UFOs</span><span class="citation-popover-snippet">August 6, 2023 — 6 Aug 2023 — All we know is that UAPs are unexplainable and science, investigation and critical thinking are the only wa...</span><span class="citation-popover-meta">Published: August 6, 2023</span></span></span>
 
-Across North Africa, witnesses regularly shared videos of bright streaks, glowing spheres, and apparent explosions in the sky during meteor events. Some were initially labelled as UFOs before being linked to known fireballs or atmospheric entries. Similar patterns appeared in Tunisia-based online discussions and social-media posts, where unusual lights were often presented as possible extraterrestrial craft before alternative explanations emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Tunisia/comments/1sybcpe/ufo_sighting_lol/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">UFO sighting lol??????: r/TunisiaWas I the only one to see something huge in the sky just now like 20 min ago?...</span></span></span>
+Across North Africa, witnesses regularly shared videos of bright streaks, glowing spheres, and apparent explosions in the sky during meteor events. Some were initially labelled as UFOs before being linked to known fireballs or atmospheric entries. Similar patterns appeared in Tunisia-based online discussions and social-media posts, where unusual lights were often presented as possible extraterrestrial craft before alternative explanations emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Tunisia/comments/1sybcpe/ufo_sighting_lol/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">UFO sighting lol??????: r/TunisiaWas I the only one to see something huge in the sky just now like 20 min ago?...</span></span></span>
 
 A recurring problem is the lack of investigative detail. Many online reports omit:
 
@@ -337,7 +337,7 @@ A recurring problem is the lack of investigative detail. Many online reports omi
 
 Without those details, investigators cannot reliably distinguish between meteors, satellites, aircraft, space debris, and genuinely unidentified events.
 
-The growth of international fireball-monitoring systems has made this distinction easier than in previous decades. Large meteor events are now frequently logged by astronomical networks and citizen-science databases, allowing researchers to compare local sightings with known atmospheric entries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fireball.amsmeteors.org/members/imo_view/browse_reports?event=PENDING" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.amsmeteors.org">[fireball.amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.amsmeteors.org</span><span class="citation-popover-title">Fireball reports</span><span class="citation-popover-snippet">Report a Fireball - American Meteor SocietyPending reports found: 151 Page 1 / 4; 2026-05-28 23:10 UT, 2026-05-29 01:10 CEST; 2026-05-2...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
+The growth of international fireball-monitoring systems has made this distinction easier than in previous decades. Large meteor events are now frequently logged by astronomical networks and citizen-science databases, allowing researchers to compare local sightings with known atmospheric entries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fireball.amsmeteors.org/members/imo_view/browse_reports?event=PENDING" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.amsmeteors.org">[fireball.amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.amsmeteors.org</span><span class="citation-popover-title">Fireball reports</span><span class="citation-popover-snippet">Report a Fireball - American Meteor SocietyPending reports found: 151 Page 1 / 4; 2026-05-28 23:10 UT, 2026-05-29 01:10 CEST; 2026-05-2...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-LOl1ntTxgk" title="2022 August 16 - A Meteor Wind over Tunisia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-LOl1ntTxgk" target="_blank" rel="noopener noreferrer">2022 August 16 - A Meteor Wind over Tunisia</a></p><p class="youtube-embed-meta">Channel: APOD Podcast &middot; Views: 115 &middot; Uploaded: August 2022 &middot; Length: 3 minutes 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-LOl1ntTxgk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-LOl1ntTxgk">Open on YouTube</a></p></div></div></div>
 
@@ -357,9 +357,9 @@ The region around Tataouine, Médenine, and the Saharan fringe combines several 
 
 </div>
 
-A bright fireball crossing such an environment can dominate the entire sky. Witnesses may observe it from locations separated by hundreds of kilometres, each person believing the object passed directly overhead. This effect has been documented in meteor falls around the world and contributes to conflicting witness descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gao%E2%80%93Guenie_meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gao–Guenie meteorite</span><span class="citation-popover-snippet">Gao–Guenie meteorite</span></span></span>
+A bright fireball crossing such an environment can dominate the entire sky. Witnesses may observe it from locations separated by hundreds of kilometres, each person believing the object passed directly overhead. This effect has been documented in meteor falls around the world and contributes to conflicting witness descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gao%E2%80%93Guenie_meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gao–Guenie meteorite</span><span class="citation-popover-snippet">Gao–Guenie meteorite</span></span></span>
 
-The Tataouine meteorite itself demonstrates how dramatic these events can be. Reports described a brilliant fireball and explosive sounds over a wide area, yet the source was ultimately a relatively small extraterrestrial rock entering Earth's atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.persee.fr/doc/bulmi_0366-3248_1932_num_55_3_4150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: persee.fr">[Persée]</a><span class="citation-popover" role="note"><span class="citation-popover-source">persee.fr</span><span class="citation-popover-title">bulmi 0366 3248 1932 num 55 3 4150</span><span class="citation-popover-snippet">La météorite (diogénite) de Tataouine, Tunisie (27 juin 1931). In: Bulletin de la Société française de Minéralogie, volume 55, 3-6, 1932...</span></span></span>
+The Tataouine meteorite itself demonstrates how dramatic these events can be. Reports described a brilliant fireball and explosive sounds over a wide area, yet the source was ultimately a relatively small extraterrestrial rock entering Earth's atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.persee.fr/doc/bulmi_0366-3248_1932_num" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: persee.fr">[Persée]</a><span class="citation-popover" role="note"><span class="citation-popover-source">persee.fr</span><span class="citation-popover-title">bulmi 0366 3248 1932 num</span><span class="citation-popover-snippet">La météorite (diogénite) de Tataouine, Tunisie (27 juin 1931). In: Bulletin de la Société française de Minéralogie, volume 55, 3-6, 1932...</span></span></span>
 
 <img src="{{ "/assets/images/Tunisia_edf404_meteor_misidentifica_155cf1-Illustration-3-dark.svg" | relative_url }}" alt="Meteors illustration 3" data-theme-src-dark="{{ "/assets/images/Tunisia_edf404_meteor_misidentifica_155cf1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunisia_edf404_meteor_misidentifica_155cf1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Meteor Explanations Can and Cannot Resolve
@@ -385,194 +385,194 @@ The challenge in Tunisia is that many public reports lack enough detail to make 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hbv-oSMXyyI" title="Scientists looking into “Bolide Boom” | Prof. Christopher Palma" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hbv-oSMXyyI" target="_blank" rel="noopener noreferrer">Scientists looking into “Bolide Boom” | Prof. Christopher Palma</a></p><p class="youtube-embed-meta">Channel: Penn State News and Research &middot; Views: 25 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hbv-oSMXyyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hbv-oSMXyyI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Tunisian UFOs Turn Out to Be Meteors. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Tunisian UFOs Turn Out to Be Meteors. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a framework for separating stronger cases from likely misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for separating stronger cases from likely misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers understand visible sky phenomena often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand visible sky phenomena often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how unusual sky events are interpreted and misinterpreted across cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how unusual sky events are interpreted and misinterpreted across cultures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Directly explains how meteors behave, fragment, glow, and get misidentified as unusual aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how meteors behave, fragment, glow, and get misidentified as unusual aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-tunisian-ufos-turn-out-to-be-meteors-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ The challenge in Tunisia is that many public reports lack enough detail to make 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ The challenge in Tunisia is that many public reports lack enough detail to make 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ The challenge in Tunisia is that many public reports lack enough detail to make 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ The challenge in Tunisia is that many public reports lack enough detail to make 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ The challenge in Tunisia is that many public reports lack enough detail to make 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,108 +775,107 @@ The challenge in Tunisia is that many public reports lack enough detail to make 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Tissint meteorite  
-   Link: <a href="https://en.wikipedia.org/wiki/Tissint_meteorite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tissint_meteorite</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Tissint_meteorite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tissint_meteorite</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: insights.globalspec.com  
    Title: What to make of UAPs and UFOs  
-   Link: <a href="https://insights.globalspec.com/article/20942/what-to-make-of-uaps-and-ufos" target="_blank" rel="noopener noreferrer nofollow">https://insights.globalspec.com/article/20942/what-to-make-of-uaps-and-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 6, 2023 — 6 Aug 2023 — All we know is that UAPs are unexplainable and science, investigation and critical thinking are the only wa...</p></details>
+   Link:<a href="https://insights.globalspec.com/article/20942/what-to-make-of-uaps-and-ufos" target="_blank" rel="noopener noreferrer nofollow">https://insights.globalspec.com/article/20942/what-to-make-of-uaps-and-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 6, 2023 — 6 Aug 2023 — All we know is that UAPs are unexplainable and science, investigation and critical thinking are the only wa...</p></details>
    Published: August 6, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Tunisia/comments/1sybcpe/ufo_sighting_lol/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Tunisia/comments/1sybcpe/ufo_sighting_lol/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting lol??????: r/TunisiaWas I the only one to see something huge in the sky just now like 20 min ago?...</p></details>
+   Link:<a href="https://www.reddit.com/r/Tunisia/comments/1sybcpe/ufo_sighting_lol/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Tunisia/comments/1sybcpe/ufo_sighting_lol/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting lol??????: r/TunisiaWas I the only one to see something huge in the sky just now like 20 min ago?...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Tunisia/comments/ojm35z/ufo_sightings_in_tunisia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Tunisia/comments/ojm35z/ufo_sightings_in_tunisia/</a>  
+   Link:<a href="https://www.reddit.com/r/Tunisia/comments/ojm35z/ufo_sightings_in_tunisia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Tunisia/comments/ojm35z/ufo_sightings_in_tunisia/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fireball.amsmeteors.org  
    Title: Fireball reports  
-   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports?event=PENDING" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports?event=PENDING</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report a Fireball - American Meteor SocietyPending reports found: 151 Page 1 / 4; 2026-05-28 23:10 UT, 2026-05-29 01:10 CEST; 2026-05-2...</p></details>
+   Link:<a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports?event=PENDING" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports?event=PENDING</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report a Fireball - American Meteor SocietyPending reports found: 151 Page 1 / 4; 2026-05-28 23:10 UT, 2026-05-29 01:10 CEST; 2026-05-2...</p></details>
    Published: May 28, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Gao–Guenie meteorite  
-   Link: <a href="https://en.wikipedia.org/wiki/Gao%E2%80%93Guenie_meteorite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gao%E2%80%93Guenie_meteorite</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gao%E2%80%93Guenie_meteorite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gao%E2%80%93Guenie_meteorite</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: persee.fr  
    Title: bulmi 0366 3248 1932 num 55 3 4150  
-   Link: <a href="https://www.persee.fr/doc/bulmi_0366-3248_1932_num_55_3_4150" target="_blank" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bulmi_0366-3248_1932_num_55_3_4150</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>La météorite (diogénite) de Tataouine, Tunisie (27 juin 1931). In: Bulletin de la Société française de Minéralogie, volume 55, 3-6, 1932...</p></details>
+   Link:<a href="https://www.persee.fr/doc/bulmi_0366-3248_1932_num" target="_blank" rel="noopener noreferrer nofollow">https://www.persee.fr/doc/bulmi_0366-3248_1932_num</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La météorite (diogénite) de Tataouine, Tunisie (27 juin 1931). In: Bulletin de la Société française de Minéralogie, volume 55, 3-6, 1932...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: geoforum.fr  
-   Link: <a href="https://www.geoforum.fr/topic/52842-tatahouine-une-diog%C3%A9nite-historique-la-premi%C3%A8re-%C3%A9voqu%C3%A9e-par-a-lacroix/" target="_blank" rel="noopener noreferrer nofollow">https://www.geoforum.fr/topic/52842-tatahouine-une-diog%C3%A9nite-historique-la-premi%C3%A8re-%C3%A9voqu%C3%A9e-par-a-lacroix/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GéoforumTatahouine, une Diogénite historique (la première...August 15, 2023 — 14 Aug 2023 — Tombée le 27 juin 1931 à 01h30, à 4 kilomètr...</p></details>
+   Link:<a href="https://www.geoforum.fr/topic/52842-tatahouine-une-diog%C3%A9nite-historique-la-premi%C3%A8re-%C3%A9voqu%C3%A9e-par-a-lacroix/" target="_blank" rel="noopener noreferrer nofollow">https://www.geoforum.fr/topic/52842-tatahouine-une-diog%C3%A9nite-historique-la-premi%C3%A8re-%C3%A9voqu%C3%A9e-par-a-lacroix/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GéoforumTatahouine, une Diogénite historique (la première...August 15, 2023 — 14 Aug 2023 — Tombée le 27 juin 1931 à 01h30, à 4 kilomètr...</p></details>
    Published: August 15, 2023  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: meteor-center.com  
-   Link: <a href="https://meteor-center.com/product/tatahouine-diogenite-3-32g-specimen/" target="_blank" rel="noopener noreferrer nofollow">https://meteor-center.com/product/tatahouine-diogenite-3-32g-specimen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tatahouine (diogenite) – 3.32g specimenThe famous geologist Lacroix went there and published a study on the fall, indicating the location...</p></details>
+   Link:<a href="https://meteor-center.com/product/tatahouine-diogenite-3-32g-specimen/" target="_blank" rel="noopener noreferrer nofollow">https://meteor-center.com/product/tatahouine-diogenite-3-32g-specimen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tatahouine (diogenite) – 3.32g specimenThe famous geologist Lacroix went there and published a study on the fall, indicating the location...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/663488548027128/posts/1294768014899175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/663488548027128/posts/1294768014899175/</a>  
+   Link:<a href="https://www.facebook.com/groups/663488548027128/posts/1294768014899175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/663488548027128/posts/1294768014899175/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/is-the-0-2-outlier-fraction-of-meteorites-from-an-interstellar-origin-afb3225079b0" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/is-the-0-2-outlier-fraction-of-meteorites-from-an-interstellar-origin-afb3225079b0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>meteor fireballs. The data on one of these reported meteors... (UFO/UAP). These are objects that the Pentagon… A clap icon 548. A...Rea...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/is-the-0-2-outlier-fraction-of-meteorites-from-an-interstellar-origin-afb3225079b0" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/is-the-0-2-outlier-fraction-of-meteorites-from-an-interstellar-origin-afb3225079b0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meteor fireballs. The data on one of these reported meteors... (UFO/UAP). These are objects that the Pentagon… A clap icon 548. A...Rea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: apod a meteor wind over tunisia 2022 aug 16image credit copyright makrem larnaou  
-   Link: <a href="https://www.facebook.com/AstronomyPictureOfTheDay/posts/apod-a-meteor-wind-over-tunisia-2022-aug-16image-credit-copyright-makrem-larnaou/5391213254247425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstronomyPictureOfTheDay/posts/apod-a-meteor-wind-over-tunisia-2022-aug-16image-credit-copyright-makrem-larnaou/5391213254247425/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>APOD: A Meteor Wind over Tunisia (2022 Aug 16) Image...The featured image composite was taken over two days in late July near the ancien...</p></details>
+   Link:<a href="https://www.facebook.com/AstronomyPictureOfTheDay/posts/apod-a-meteor-wind-over-tunisia-2022-aug-16image-credit-copyright-makrem-larnaou/5391213254247425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstronomyPictureOfTheDay/posts/apod-a-meteor-wind-over-tunisia-2022-aug-16image-credit-copyright-makrem-larnaou/5391213254247425/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APOD: A Meteor Wind over Tunisia (2022 Aug 16) Image...The featured image composite was taken over two days in late July near the ancien...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/meteoriteclub/posts/tatahouine-legendary-green-meteorite-meteorite-tatahouine-fell-june-27-1931-4/10164387047656620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/tatahouine-legendary-green-meteorite-meteorite-tatahouine-fell-june-27-1931-4/10164387047656620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>june 27, 1931, 4 kilometers northeast of the city then called Foum Tatahouine. French soldiers from an Infantry...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/meteoriteclub/posts/tatahouine-legendary-green-meteorite-meteorite-tatahouine-fell-june-27-1931-4/10164387047656620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/tatahouine-legendary-green-meteorite-meteorite-tatahouine-fell-june-27-1931-4/10164387047656620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>june 27, 1931, 4 kilometers northeast of the city then called Foum Tatahouine. French soldiers from an Infantry...Read more...</p></details>
    Published: June 27, 1931  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: Tatahouine is a diogenite from the asteroid Vesta  
-   Link: <a href="https://www.facebook.com/groups/geologyoftheworld/posts/1172351599492192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/geologyoftheworld/posts/1172351599492192/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This rare...This rare meteorite fell on June 27, 1931 at 0130 hours, about 2 1/2 mi. NE of the village of Foum Tatahouine, Tunisia, brea...</p></details>
+   Link:<a href="https://www.facebook.com/groups/geologyoftheworld/posts/1172351599492192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/geologyoftheworld/posts/1172351599492192/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This rare...This rare meteorite fell on June 27, 1931 at 0130 hours, about 2 1/2 mi. NE of the village of Foum Tatahouine, Tunisia, brea...</p></details>
    Published: June 27, 1931  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: about 500 g The meteorite of Tatahouine fell  
-   Link: <a href="https://www.facebook.com/groups/meteoriteclub/posts/10158844899501620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10158844899501620/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>june 27, 1931...A meteorite was seen to fall in the Beni M&#x27;hira region by the inhabitants of Ksar Beni M&#x27;hira, a small village ~35 km E...</p></details>
+   Link:<a href="https://www.facebook.com/groups/meteoriteclub/posts/10158844899501620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/meteoriteclub/posts/10158844899501620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>june 27, 1931...A meteorite was seen to fall in the Beni M&#x27;hira region by the inhabitants of Ksar Beni M&#x27;hira, a small village ~35 km E...</p></details>
    Published: June 27, 1931  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/striking-video-from-tunisia-shows-a-disc-shaped-object-in-the-sky-accompanied-by/859328610419895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/striking-video-from-tunisia-shows-a-disc-shaped-object-in-the-sky-accompanied-by/859328610419895/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by a helicopter hovering above it, creating the appearance of...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/striking-video-from-tunisia-shows-a-disc-shaped-object-in-the-sky-accompanied-by/859328610419895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/striking-video-from-tunisia-shows-a-disc-shaped-object-in-the-sky-accompanied-by/859328610419895/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by a helicopter hovering above it, creating the appearance of...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VZw08so_Gwo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VZw08so_Gwo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists looking into “Bolide Boom” | Prof. Christopher Palma...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VZw08so_Gwo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VZw08so_Gwo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists looking into “Bolide Boom” | Prof. Christopher Palma...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Scientists looking into “Bolide Boom” | Prof. Christopher Palma  
-   Link: <a href="https://www.youtube.com/watch?v=Hbv-oSMXyyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hbv-oSMXyyI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball over Michigan likely dead Russian satellite reentry...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Hbv-oSMXyyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hbv-oSMXyyI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball over Michigan likely dead Russian satellite reentry...</p></details>

@@ -1196,26 +1196,26 @@ image: /assets/images/Canada_cd6a7b-overview-social.jpg
 
 ### Federal Archival Collection
 
-Government documentation of UFO reports in Canada dates back to the **late 1940s through the early 1980s**, with approximately **9,500 digitised records** now held by **Library and Archives Canada**. These include correspondence, investigative memos, and sighting reports from the **Department of National Defence**, **Transport Canada**, the **National Research Council**, and the **Royal Canadian Mounted Police (RCMP)**. The available records reflect a range of observations and internal government memos rather than centralised scientific conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.caMarch 2, 2026...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+Government documentation of UFO reports in Canada dates back to the **late 1940s through the early 1980s**, with approximately **9,500 digitised records** now held by **Library and Archives Canada**. These include correspondence, investigative memos, and sighting reports from the **Department of National Defence**, **Transport Canada**, the **National Research Council**, and the **Royal Canadian Mounted Police (RCMP)**. The available records reflect a range of observations and internal government memos rather than centralised scientific conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.caMarch 2, 2026...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Canada_cd6a7b-overview.webp" | relative_url }}" alt="Overview image for What Canada UFO Reports Really Show" loading="eager" decoding="sync" fetchpriority="high">
-Most records pertain to sightings or procedural reporting forms, but **lack standardisation**: many entries are undated, non‑location specific, or differ in format, making comprehensive analysis without direct archival research difficult. This decentralised documentation was compounded by the fact that multiple agencies collected data independently, often without systematic cross‑departmental communication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/node/1368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial Phenomena in CanadaJune 1, 2025...</span><span class="citation-popover-meta">Published: June 1, 2025</span></span></span>
+Most records pertain to sightings or procedural reporting forms, but **lack standardisation**: many entries are undated, non‑location specific, or differ in format, making comprehensive analysis without direct archival research difficult. This decentralised documentation was compounded by the fact that multiple agencies collected data independently, often without systematic cross‑departmental communication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ised-isde.canada.ca/site/science/en/node/1368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial Phenomena in CanadaJune 1, 2025...</span><span class="citation-popover-meta">Published: June 1, 2025</span></span></span>
 
 ### Mid‑Century Investigation Programmes
 
-In the 1950s and 1960s, federal initiatives such as **Project Magnet** and **Project Second Storey** were launched to investigate aerial anomalies. Although these projects gathered substantial material, government review concluded that the subject **“did not lend itself to a scientific method of investigation”**, leading to their eventual termination and a reduction in centralised federal efforts. After this, UFO reporting and analysis fragmented across departments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: batadora.trentu.ca">[batadora.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">batadora.trentu.ca</span><span class="citation-popover-title">etd 776</span><span class="citation-popover-snippet">A History of Canada&#x27;s UFO Investigation, 1950-1995 &#124; Digital Collections...</span></span></span>
+In the 1950s and 1960s, federal initiatives such as **Project Magnet** and **Project Second Storey** were launched to investigate aerial anomalies. Although these projects gathered substantial material, government review concluded that the subject **“did not lend itself to a scientific method of investigation”**, leading to their eventual termination and a reduction in centralised federal efforts. After this, UFO reporting and analysis fragmented across departments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: batadora.trentu.ca">[batadora.trentu.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">batadora.trentu.ca</span><span class="citation-popover-title">etd 776</span><span class="citation-popover-snippet">A History of Canada&#x27;s UFO Investigation, 1950-1995 &#124; Digital Collections...</span></span></span>
 
 ## Notable Canadian UFO/UAP Sightings
 
 Canada’s UFO/UAP reporting history includes several well‑known cases that have persisted in public and scholarly memory. These are notable not because they were conclusively identified as non‑human crafts, but because they involved multiple witnesses and widespread media coverage.
 
-* **Falcon Lake, Manitoba (20 May 1967):** Stefan Michalak claimed a close encounter with a landed craft and reported burns from a mysterious blast; no physical artefacts were confirmed, but the case remains a staple in Canadian UFO lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ised-isde.canada.ca/site/science/en/node/1368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial Phenomena in CanadaJune 1, 2025...</span><span class="citation-popover-meta">Published: June 1, 2025</span></span></span>
-* **Shag Harbour, Nova Scotia (4 October 1967):** Lights were seen descending into the sea; the RCMP and Coast Guard investigated under the assumption of an aircraft crash but found only foam on the water surface. This case remains unsolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ised-isde.canada.ca/site/science/en/node/1368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial Phenomena in CanadaJune 1, 2025...</span><span class="citation-popover-meta">Published: June 1, 2025</span></span></span>
-* **Clarenville, Newfoundland and Labrador (26 October 1978):** Dozens of witnesses, including an RCMP officer, observed an oval object hovering over water. No physical evidence was retrieved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
-* **Montreal, Quebec (7 November 1990):** A large luminous object was seen for hours above a hotel roof, with police and journalists among the witnesses. Air traffic control recorded no radar targets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
-* **Yukon Lights (11 December 1996):** Multiple independent observers across the territory reported rows of lights in the sky, a pattern that remains without consensus explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://toronto.citynews.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Some of the best-known Canadian UFO sightings over the years</span><span class="citation-popover-snippet">CityNews TorontoSome of the best-known Canadian UFO sightings over the yearsJuly 18, 2025...</span><span class="citation-popover-meta">Published: July 18, 2025</span></span></span>
+* **Falcon Lake, Manitoba (20 May 1967):** Stefan Michalak claimed a close encounter with a landed craft and reported burns from a mysterious blast; no physical artefacts were confirmed, but the case remains a staple in Canadian UFO lore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ised-isde.canada.ca/site/science/en/node/1368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial Phenomena in CanadaJune 1, 2025...</span><span class="citation-popover-meta">Published: June 1, 2025</span></span></span>
+* **Shag Harbour, Nova Scotia (4 October 1967):** Lights were seen descending into the sea; the RCMP and Coast Guard investigated under the assumption of an aircraft crash but found only foam on the water surface. This case remains unsolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ised-isde.canada.ca/site/science/en/node/1368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial Phenomena in CanadaJune 1, 2025...</span><span class="citation-popover-meta">Published: June 1, 2025</span></span></span>
+* **Clarenville, Newfoundland and Labrador (26 October 1978):** Dozens of witnesses, including an RCMP officer, observed an oval object hovering over water. No physical evidence was retrieved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+* **Montreal, Quebec (7 November 1990):** A large luminous object was seen for hours above a hotel roof, with police and journalists among the witnesses. Air traffic control recorded no radar targets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Canada</span><span class="citation-popover-snippet">UFO sightings in Canada</span></span></span>
+* **Yukon Lights (11 December 1996):** Multiple independent observers across the territory reported rows of lights in the sky, a pattern that remains without consensus explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://toronto.citynews.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Some of the best-known Canadian UFO sightings over the years</span><span class="citation-popover-snippet">CityNews TorontoSome of the best-known Canadian UFO sightings over the yearsJuly 18, 2025...</span><span class="citation-popover-meta">Published: July 18, 2025</span></span></span>
 
-Several of these incidents have been commemorated by the **Royal Canadian Mint’s “Canada’s Unexplained Phenomena” coin series**, reflecting their cultural resonance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://toronto.citynews.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Some of the best-known Canadian UFO sightings over the years</span><span class="citation-popover-snippet">CityNews TorontoSome of the best-known Canadian UFO sightings over the yearsJuly 18, 2025...</span><span class="citation-popover-meta">Published: July 18, 2025</span></span></span>
+Several of these incidents have been commemorated by the **Royal Canadian Mint’s “Canada’s Unexplained Phenomena” coin series**, reflecting their cultural resonance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://toronto.citynews.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Some of the best-known Canadian UFO sightings over the years</span><span class="citation-popover-snippet">CityNews TorontoSome of the best-known Canadian UFO sightings over the yearsJuly 18, 2025...</span><span class="citation-popover-meta">Published: July 18, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Canada_cd6a7b-Illustration-1-dark.svg" | relative_url }}" alt="What Canada UFO Reports Really Show illustration 1" data-theme-src-dark="{{ "/assets/images/Canada_cd6a7b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Canada_cd6a7b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Contemporary Reporting and Survey Data
@@ -1230,31 +1230,31 @@ In recent decades, volunteer and academic organisations have filled the gap left
 * About **97% were explainable** as known aerial or astronomical phenomena.
 * Around **3–3.4% remained unexplained** after analysis.
 * Most sightings involved lights in the sky, often nocturnal, with varied shapes and colours.
-* Ontario, Quebec, and British Columbia recorded the highest numbers of reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UfoUapNews/comments/1rpvcoj/canadas_2025_ufo_survey_1052_reports_3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">canadas 2025 ufo survey 1052 reports 3</span><span class="citation-popover-snippet">Canada&#x27;s 2025 UFO Survey: 1,052 Reports, 3% Unexplained, and a Push Toward a UAP FrameworkMarch 10, 2026...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
+* Ontario, Quebec, and British Columbia recorded the highest numbers of reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UfoUapNews/comments/1rpvcoj/canadas_2025_ufo_survey_1052_reports_3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">canadas 2025 ufo survey 1052 reports 3</span><span class="citation-popover-snippet">Canada&#x27;s 2025 UFO Survey: 1,052 Reports, 3% Unexplained, and a Push Toward a UAP FrameworkMarch 10, 2026...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
 
 </div>
 
-These surveys emphasise that **“unexplained” ≠ extraterrestrial**: most cases are reclassified as satellites, aircraft, atmospheric events, or astronomical objects. Researchers also call for a centralised **federal reporting office** to standardise data collection and improve analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1qvvrnp/unidentified_aerial_phenomenon_uap_brief_to_mnd/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">unidentified aerial phenomenon uap brief to mnd</span><span class="citation-popover-snippet">Unidentified Aerial Phenomenon (UAP) Brief to MND 2022February 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
+These surveys emphasise that **“unexplained” ≠ extraterrestrial**: most cases are reclassified as satellites, aircraft, atmospheric events, or astronomical objects. Researchers also call for a centralised **federal reporting office** to standardise data collection and improve analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1qvvrnp/unidentified_aerial_phenomenon_uap_brief_to_mnd/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">unidentified aerial phenomenon uap brief to mnd</span><span class="citation-popover-snippet">Unidentified Aerial Phenomenon (UAP) Brief to MND 2022February 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPbDa5D7IUE" title="The Shag Harbour UFO Incident - Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer">The Shag Harbour UFO Incident - Full Documentary</a></p><p class="youtube-embed-meta">Channel: Ocean Digital Entertainment &middot; Views: 530.1K &middot; Uploaded: September 2015 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPbDa5D7IUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPbDa5D7IUE">Open on YouTube</a></p></div></div></div>
 
 ### Public Perception and Data Gaps
 
-A 2024 public survey under the **Sky Canada Project** found that **27% of respondents reported observing something they could not identify**, suggesting that anomalous sightings are a common experience for a significant minority of Canadians. However, the absence of a centralised database and overlapping reporting channels mean many reports may be duplicated across organisations or remain uncollected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ised-isde.canada.ca/site/science/en/node/1368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial Phenomena in CanadaJune 1, 2025...</span><span class="citation-popover-meta">Published: June 1, 2025</span></span></span>
+A 2024 public survey under the **Sky Canada Project** found that **27% of respondents reported observing something they could not identify**, suggesting that anomalous sightings are a common experience for a significant minority of Canadians. However, the absence of a centralised database and overlapping reporting channels mean many reports may be duplicated across organisations or remain uncollected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ised-isde.canada.ca/site/science/en/node/1368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ised-isde.canada.ca">[ISED Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ised-isde.canada.ca</span><span class="citation-popover-snippet">ISED CanadaManagement of Public Reporting of Unidentified Aerial Phenomena in CanadaJune 1, 2025...</span><span class="citation-popover-meta">Published: June 1, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Canada_cd6a7b-Illustration-3-dark.svg" | relative_url }}" alt="What Canada UFO Reports Really Show illustration 3" data-theme-src-dark="{{ "/assets/images/Canada_cd6a7b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Canada_cd6a7b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Investigative Bodies and Scientific Context
 
 ### Government and Civil Roles
 
-Official UFO/UAP reporting in Canada is **not centrally managed**. Historically, sightings were handled by departments like **Transport Canada** and the **Department of National Defence**, but only sightings with **aviation safety or security implications** typically prompted formal investigation. The **Canadian Armed Forces** monitor airspace via **NORAD** primarily for defence purposes, not for UAP research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UF0/comments/i0i9fq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">CANADA Secret UFO files? In Canada the truth is out there — online and searchableJuly 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
+Official UFO/UAP reporting in Canada is **not centrally managed**. Historically, sightings were handled by departments like **Transport Canada** and the **Department of National Defence**, but only sightings with **aviation safety or security implications** typically prompted formal investigation. The **Canadian Armed Forces** monitor airspace via **NORAD** primarily for defence purposes, not for UAP research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UF0/comments/i0i9fq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">CANADA Secret UFO files? In Canada the truth is out there — online and searchableJuly 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
 
-Since 2000, **Chris Rutkowski** — a long‑time UFO researcher based at the **University of Manitoba** — has been a key figure in analysing and cataloguing Canadian reports, often working with government sources. His work suggests that Canada’s approach to UFO phenomena has historically been more **transparent and scientifically cautious** than in some other countries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UfoUapNews/comments/1rpvcoj/canadas_2025_ufo_survey_1052_reports_3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">canadas 2025 ufo survey 1052 reports 3</span><span class="citation-popover-snippet">Canada&#x27;s 2025 UFO Survey: 1,052 Reports, 3% Unexplained, and a Push Toward a UAP FrameworkMarch 10, 2026...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
+Since 2000, **Chris Rutkowski** — a long‑time UFO researcher based at the **University of Manitoba** — has been a key figure in analysing and cataloguing Canadian reports, often working with government sources. His work suggests that Canada’s approach to UFO phenomena has historically been more **transparent and scientifically cautious** than in some other countries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UfoUapNews/comments/1rpvcoj/canadas_2025_ufo_survey_1052_reports_3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">canadas 2025 ufo survey 1052 reports 3</span><span class="citation-popover-snippet">Canada&#x27;s 2025 UFO Survey: 1,052 Reports, 3% Unexplained, and a Push Toward a UAP FrameworkMarch 10, 2026...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Canada_cd6a7b-Illustration-2-dark.svg" | relative_url }}" alt="What Canada UFO Reports Really Show illustration 2" data-theme-src-dark="{{ "/assets/images/Canada_cd6a7b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Canada_cd6a7b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Scientific Perspective and Public Interpretation
 
-Astronomers and scientists generally approach UFO/UAP reports as a mix of **misidentified natural or human‑made objects**, observational errors, and, occasionally, genuinely **unexplained phenomena** lacking sufficient data for categorisation. While the topic attracts widespread public interest, the scientific community stresses that unidentified does not imply extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1qvvrnp/unidentified_aerial_phenomenon_uap_brief_to_mnd/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">unidentified aerial phenomenon uap brief to mnd</span><span class="citation-popover-snippet">Unidentified Aerial Phenomenon (UAP) Brief to MND 2022February 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
+Astronomers and scientists generally approach UFO/UAP reports as a mix of **misidentified natural or human‑made objects**, observational errors, and, occasionally, genuinely **unexplained phenomena** lacking sufficient data for categorisation. While the topic attracts widespread public interest, the scientific community stresses that unidentified does not imply extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1qvvrnp/unidentified_aerial_phenomenon_uap_brief_to_mnd/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">unidentified aerial phenomenon uap brief to mnd</span><span class="citation-popover-snippet">Unidentified Aerial Phenomenon (UAP) Brief to MND 2022February 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UZaMbXghrpM" title="The Shag Harbour UFO Event" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UZaMbXghrpM" target="_blank" rel="noopener noreferrer">The Shag Harbour UFO Event</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 181.4K &middot; Uploaded: January 2024 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UZaMbXghrpM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UZaMbXghrpM">Open on YouTube</a></p></div></div></div>
 
@@ -1262,10 +1262,10 @@ Astronomers and scientists generally approach UFO/UAP reports as a mix of **misi
 
 Canada’s UFO/UAP landscape is characterised by:
 
-* A **rich archival record** spanning decades but lacking modern standardised reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/fr/bibliotheque-archives/collection/aide-recherche/science-technologie/ovnis.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">Le phénomène des ovnis au Canada</span><span class="citation-popover-snippet">2, 2026 — LE PHÉNOMÈNE DES OVNIS AU CANADA Bibliothèque et Archives Canada a acquis les documents de sa collection sur les ovnis des quat...</span></span></span>
-* Multiple **historical high‑profile sightings** with extensive eyewitness testimony but limited physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://toronto.citynews.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Some of the best-known Canadian UFO sightings over the years</span><span class="citation-popover-snippet">CityNews TorontoSome of the best-known Canadian UFO sightings over the yearsJuly 18, 2025...</span><span class="citation-popover-meta">Published: July 18, 2025</span></span></span>
-* **Annual civilian surveys** generating large datasets, the majority of which are explainable, with a minority remaining unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UF0/comments/i0i9fq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">CANADA Secret UFO files? In Canada the truth is out there — online and searchableJuly 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
-* **Calls for centralised federal oversight** to improve data quality and scientific evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UF0/comments/i0i9fq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">CANADA Secret UFO files? In Canada the truth is out there — online and searchableJuly 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
+* A **rich archival record** spanning decades but lacking modern standardised reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/fr/bibliotheque-archives/collection/aide-recherche/science-technologie/ovnis.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">Le phénomène des ovnis au Canada</span><span class="citation-popover-snippet">2, 2026 — LE PHÉNOMÈNE DES OVNIS AU CANADA Bibliothèque et Archives Canada a acquis les documents de sa collection sur les ovnis des quat...</span></span></span>
+* Multiple **historical high‑profile sightings** with extensive eyewitness testimony but limited physical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://toronto.citynews.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toronto.citynews.ca">[CityNews Toronto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toronto.citynews.ca</span><span class="citation-popover-title">City News Toronto Some of the best-known Canadian UFO sightings over the years</span><span class="citation-popover-snippet">CityNews TorontoSome of the best-known Canadian UFO sightings over the yearsJuly 18, 2025...</span><span class="citation-popover-meta">Published: July 18, 2025</span></span></span>
+* **Annual civilian surveys** generating large datasets, the majority of which are explainable, with a minority remaining unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UF0/comments/i0i9fq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">CANADA Secret UFO files? In Canada the truth is out there — online and searchableJuly 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
+* **Calls for centralised federal oversight** to improve data quality and scientific evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UF0/comments/i0i9fq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">CANADA Secret UFO files? In Canada the truth is out there — online and searchableJuly 30, 2020...</span><span class="citation-popover-meta">Published: July 30, 2020</span></span></span>
 
 Despite decades of documentation and public fascination, **no verified evidence of non‑human craft or intelligence has been substantiated** within Canadian UFO/UAP records. Much of the unresolved material reflects **limitations in data collection, witness interpretation, and technological constraints** rather than confirmed anomalies of extraterrestrial origin.
 
@@ -1273,197 +1273,197 @@ Despite decades of documentation and public fascination, **no verified evidence 
 
 ## What This Means for Researchers and the Public
 
-For historians, scientists, and the curious public, Canada’s UFO/UAP records are a **valuable cultural and scientific archive** of how societies grapple with unexplained aerial phenomena. Archival collections offer raw data for research, while annual surveys track patterns over time. Future progress likely depends on **improving reporting infrastructure**, enhancing **scientific analysis**, and maintaining **critical, evidence-based inquiry** into sightings—social, technological, and natural—rather than assuming extraordinary causes without extraordinary evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.caMarch 2, 2026...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
+For historians, scientists, and the curious public, Canada’s UFO/UAP records are a **valuable cultural and scientific archive** of how societies grapple with unexplained aerial phenomena. Archival collections offer raw data for research, while annual surveys track patterns over time. Future progress likely depends on **improving reporting infrastructure**, enhancing **scientific analysis**, and maintaining **critical, evidence-based inquiry** into sightings—social, technological, and natural—rather than assuming extraordinary causes without extraordinary evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">s UFOs: The search for the unknown</span><span class="citation-popover-snippet">Canada&#x27;s UFOs: The search for the unknown - Canada.caMarch 2, 2026...</span><span class="citation-popover-meta">Published: March 2, 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Canada UFO Reports Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Canada UFO Reports Really Show. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains recurring patterns seen in Canadian reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains recurring patterns seen in Canadian reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides government-investigation context relevant to Canadian records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides government-investigation context relevant to Canadian records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for official reporting and evidence debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for official reporting and evidence debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Useful for understanding government records and declassification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding government records and declassification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-canada-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-canada-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1479,7 +1479,7 @@ For historians, scientists, and the curious public, Canada’s UFO/UAP records a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1499,7 +1499,7 @@ For historians, scientists, and the curious public, Canada’s UFO/UAP records a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1531,7 +1531,7 @@ For historians, scientists, and the curious public, Canada’s UFO/UAP records a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1583,7 +1583,7 @@ For historians, scientists, and the curious public, Canada’s UFO/UAP records a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1628,7 +1628,7 @@ For historians, scientists, and the curious public, Canada’s UFO/UAP records a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1666,131 +1666,130 @@ For historians, scientists, and the curious public, Canada’s UFO/UAP records a
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: canada.ca  
    Title: 's UFOs: The search for the unknown  
-   Link: <a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.caMarch 2, 2026...</p></details>
+   Link:<a href="https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/research-help/science-technology/ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s UFOs: The search for the unknown - Canada.caMarch 2, 2026...</p></details>
    Published: March 2, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: batadora.trentu.ca  
    Title: etd 776  
-   Link: <a href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow">https://batadora.trentu.ca/objects/etd-776</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A History of Canada&#x27;s UFO Investigation, 1950-1995 | Digital Collections...</p></details>
+   Link:<a href="https://batadora.trentu.ca/objects/etd-776" target="_blank" rel="noopener noreferrer nofollow">https://batadora.trentu.ca/objects/etd-776</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A History of Canada&#x27;s UFO Investigation, 1950-1995 | Digital Collections...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ised-isde.canada.ca  
-   Link: <a href="https://ised-isde.canada.ca/site/science/en/node/1368" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/node/1368</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaManagement of Public Reporting of Unidentified Aerial Phenomena in CanadaJune 1, 2025...</p></details>
+   Link:<a href="https://ised-isde.canada.ca/site/science/en/node/1368" target="_blank" rel="noopener noreferrer nofollow">https://ised-isde.canada.ca/site/science/en/node/1368</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ISED CanadaManagement of Public Reporting of Unidentified Aerial Phenomena in CanadaJune 1, 2025...</p></details>
    Published: June 1, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO sightings in Canada  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Canada" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Canada</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: toronto.citynews.ca  
    Title: City News Toronto Some of the best-known Canadian UFO sightings over the years  
-   Link: <a href="https://toronto.citynews.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://toronto.citynews.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews TorontoSome of the best-known Canadian UFO sightings over the yearsJuly 18, 2025...</p></details>
+   Link:<a href="https://toronto.citynews.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://toronto.citynews.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CityNews TorontoSome of the best-known Canadian UFO sightings over the yearsJuly 18, 2025...</p></details>
    Published: July 18, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: canadas 2025 ufo survey 1052 reports 3  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1rpvcoj/canadas_2025_ufo_survey_1052_reports_3/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rpvcoj/canadas_2025_ufo_survey_1052_reports_3/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s 2025 UFO Survey: 1,052 Reports, 3% Unexplained, and a Push Toward a UAP FrameworkMarch 10, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1rpvcoj/canadas_2025_ufo_survey_1052_reports_3/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1rpvcoj/canadas_2025_ufo_survey_1052_reports_3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Canada&#x27;s 2025 UFO Survey: 1,052 Reports, 3% Unexplained, and a Push Toward a UAP FrameworkMarch 10, 2026...</p></details>
    Published: March 10, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: unidentified aerial phenomenon uap brief to mnd  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1qvvrnp/unidentified_aerial_phenomenon_uap_brief_to_mnd/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qvvrnp/unidentified_aerial_phenomenon_uap_brief_to_mnd/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomenon (UAP) Brief to MND 2022February 4, 2026...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1qvvrnp/unidentified_aerial_phenomenon_uap_brief_to_mnd/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qvvrnp/unidentified_aerial_phenomenon_uap_brief_to_mnd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomenon (UAP) Brief to MND 2022February 4, 2026...</p></details>
    Published: February 4, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UF0/comments/i0i9fq" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UF0/comments/i0i9fq</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CANADA Secret UFO files? In Canada the truth is out there — online and searchableJuly 30, 2020...</p></details>
+   Link:<a href="https://www.reddit.com/r/UF0/comments/i0i9fq" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UF0/comments/i0i9fq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CANADA Secret UFO files? In Canada the truth is out there — online and searchableJuly 30, 2020...</p></details>
    Published: July 30, 2020  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: canada.ca  
    Title: Le phénomène des ovnis au Canada  
-   Link: <a href="https://www.canada.ca/fr/bibliotheque-archives/collection/aide-recherche/science-technologie/ovnis.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/fr/bibliotheque-archives/collection/aide-recherche/science-technologie/ovnis.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2, 2026 — LE PHÉNOMÈNE DES OVNIS AU CANADA Bibliothèque et Archives Canada a acquis les documents de sa collection sur les ovnis des quat...</p></details>
+   Link:<a href="https://www.canada.ca/fr/bibliotheque-archives/collection/aide-recherche/science-technologie/ovnis.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/fr/bibliotheque-archives/collection/aide-recherche/science-technologie/ovnis.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2, 2026 — LE PHÉNOMÈNE DES OVNIS AU CANADA Bibliothèque et Archives Canada a acquis les documents de sa collection sur les ovnis des quat...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fraservalleytoday.ca  
-   Link: <a href="https://fraservalleytoday.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://fraservalleytoday.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — By Canadian Press SOME OF THE BEST-KNOWN CANADIAN UFO SIGHTINGS OVER THE YEARS Jul 18, 2025 | 1:03 AM OTTAWA — Some of th...</p></details>
+   Link:<a href="https://fraservalleytoday.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://fraservalleytoday.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — By Canadian Press SOME OF THE BEST-KNOWN CANADIAN UFO SIGHTINGS OVER THE YEARS Jul 18, 2025 | 1:03 AM OTTAWA — Some of th...</p></details>
    Published: July 18, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sasknow.com  
-   Link: <a href="https://sasknow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years-2/" target="_blank" rel="noopener noreferrer nofollow">https://sasknow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some of the best-known Canadian UFO sightings over the years | saskNOW | Saskatchewan | News, Sports, Weather, Obituaries, ClassifiedsJul...</p></details>
+   Link:<a href="https://sasknow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years-2/" target="_blank" rel="noopener noreferrer nofollow">https://sasknow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some of the best-known Canadian UFO sightings over the years | saskNOW | Saskatchewan | News, Sports, Weather, Obituaries, ClassifiedsJul...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: chatnewstoday.ca  
    Title: Some of the best-known Canadian UFO sightings over the years | CHAT News Today  
-   Link: <a href="https://chatnewstoday.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://chatnewstoday.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — Image By Canadian Press SOME OF THE BEST-KNOWN CANADIAN UFO SIGHTINGS OVER THE YEARS Jul 18, 2025 | 2:03 AM OTTAWA — Some...</p></details>
+   Link:<a href="https://chatnewstoday.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://chatnewstoday.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — Image By Canadian Press SOME OF THE BEST-KNOWN CANADIAN UFO SIGHTINGS OVER THE YEARS Jul 18, 2025 | 2:03 AM OTTAWA — Some...</p></details>
    Published: July 18, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: rdnewsnow.com  
    Title: Some of the best-known Canadian UFO sightings over the years | rdnewsnow.com  
-   Link: <a href="https://rdnewsnow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://rdnewsnow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — Image By Canadian Press SOME OF THE BEST-KNOWN CANADIAN UFO SIGHTINGS OVER THE YEARS Jul 18, 2025 | 2:03 AM OTTAWA — Some...</p></details>
+   Link:<a href="https://rdnewsnow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://rdnewsnow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — Image By Canadian Press SOME OF THE BEST-KNOWN CANADIAN UFO SIGHTINGS OVER THE YEARS Jul 18, 2025 | 2:03 AM OTTAWA — Some...</p></details>
    Published: July 18, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ckpgtoday.ca  
    Title: Some of the best-known Canadian UFO sightings over the years | CKPG Today  
-   Link: <a href="https://ckpgtoday.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://ckpgtoday.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — By Canadian Press SOME OF THE BEST-KNOWN CANADIAN UFO SIGHTINGS OVER THE YEARS Jul 18, 2025 | 1:03 AM OTTAWA — Some of th...</p></details>
+   Link:<a href="https://ckpgtoday.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://ckpgtoday.ca/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — By Canadian Press SOME OF THE BEST-KNOWN CANADIAN UFO SIGHTINGS OVER THE YEARS Jul 18, 2025 | 1:03 AM OTTAWA — Some of th...</p></details>
    Published: July 18, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: insauga.com  
    Title: Some of the best-known UFO sightings over the years in Canada | INsauga  
-   Link: <a href="https://www.insauga.com/some-of-the-best-known-ufo-sightings-over-the-years-in-canada/" target="_blank" rel="noopener noreferrer nofollow">https://www.insauga.com/some-of-the-best-known-ufo-sightings-over-the-years-in-canada/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — SOME OF THE BEST-KNOWN UFO SIGHTINGS OVER THE YEARS IN CANADA Canada | Latest News | By The Canadian Press Published July...</p></details>
+   Link:<a href="https://www.insauga.com/some-of-the-best-known-ufo-sightings-over-the-years-in-canada/" target="_blank" rel="noopener noreferrer nofollow">https://www.insauga.com/some-of-the-best-known-ufo-sightings-over-the-years-in-canada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — SOME OF THE BEST-KNOWN UFO SIGHTINGS OVER THE YEARS IN CANADA Canada | Latest News | By The Canadian Press Published July...</p></details>
    Published: July 18, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: darpanmagazine.com  
    Title: Some of the best-known Canadian UFO sightings over the years  
-   Link: <a href="https://www.darpanmagazine.com/news/national/some-of-the-bestknown-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.darpanmagazine.com/news/national/some-of-the-bestknown-canadian-ufo-sightings-over-the-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — SOME OF THE BEST-KNOWN CANADIAN UFO SIGHTINGS OVER THE YEARS Darpan News Desk The Canadian Press, 18 Jul, 2025 11:15 AM *...</p></details>
+   Link:<a href="https://www.darpanmagazine.com/news/national/some-of-the-bestknown-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.darpanmagazine.com/news/national/some-of-the-bestknown-canadian-ufo-sightings-over-the-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2025 — SOME OF THE BEST-KNOWN CANADIAN UFO SIGHTINGS OVER THE YEARS Darpan News Desk The Canadian Press, 18 Jul, 2025 11:15 AM *...</p></details>
    Published: July 18, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: battlefordsnow.com  
    Title: some of the best known canadian ufo sightings over the years  
-   Link: <a href="https://battlefordsnow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://battlefordsnow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some of the best-known Canadian UFO sightings over the years | battlefordsNOWJuly 18, 2025 — Image By Canadian Press SOME OF THE BEST-KNO...</p></details>
+   Link:<a href="https://battlefordsnow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://battlefordsnow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some of the best-known Canadian UFO sightings over the years | battlefordsNOWJuly 18, 2025 — Image By Canadian Press SOME OF THE BEST-KNO...</p></details>
    Published: July 18, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: northeastnow.com  
    Title: some of the best known canadian ufo sightings over the years  
-   Link: <a href="https://northeastnow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://northeastnow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some of the best-known Canadian UFO sightings over the years | northeastNOWJuly 18, 2025 — By Canadian Press SOME OF THE BEST-KNOWN CANAD...</p></details>
+   Link:<a href="https://northeastnow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://northeastnow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some of the best-known Canadian UFO sightings over the years | northeastNOWJuly 18, 2025 — By Canadian Press SOME OF THE BEST-KNOWN CANAD...</p></details>
    Published: July 18, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: panow.com  
    Title: some of the best known canadian ufo sightings over the years  
-   Link: <a href="https://panow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://panow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some of the best-known Canadian UFO sightings over the years | paNOWJuly 18, 2025 — Image By Canadian Press SOME OF THE BEST-KNOWN CANADI...</p></details>
+   Link:<a href="https://panow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/" target="_blank" rel="noopener noreferrer nofollow">https://panow.com/2025/07/18/some-of-the-best-known-canadian-ufo-sightings-over-the-years/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some of the best-known Canadian UFO sightings over the years | paNOWJuly 18, 2025 — Image By Canadian Press SOME OF THE BEST-KNOWN CANADI...</p></details>
    Published: July 18, 2025

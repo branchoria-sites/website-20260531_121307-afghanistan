@@ -248,26 +248,26 @@ image: /assets/images/Iran_Islamic_Republi_94f9ee_tehran_1976_ufo_3c95d8-Illustr
 
 ## Introduction
 
-The 1976 Tehran UFO incident remains the most extensively documented unidentified aerial encounter in Iranian history. During the early hours of 19 September 1976, residents of northern Tehran reported a brilliant object in the sky. What began as a civilian sighting escalated into a military interception involving Imperial Iranian Air Force F-4 Phantom II fighters, radar tracking, reported electronic failures, and a series of observations later circulated through American defence and intelligence channels. Unlike many UFO reports that depend on decades-later recollections, the Tehran case was documented almost immediately in official military communications and became the subject of analysis by both UFO researchers and sceptical investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Crash in &#x27;47 Called False by Science Panel&quot;... Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 197...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">us gov iran case</span><span class="citation-popover-snippet">THE U.S. GOVERNMENT &amp;&quot;THE IRAN&quot;&#x27;CASEThis report forwards information concerning the sighting of an UFO in. Iran on 19 September 1976...</span><span class="citation-popover-meta">Published: September 1976</span></span></span>
+The 1976 Tehran UFO incident remains the most extensively documented unidentified aerial encounter in Iranian history. During the early hours of 19 September 1976, residents of northern Tehran reported a brilliant object in the sky. What began as a civilian sighting escalated into a military interception involving Imperial Iranian Air Force F-4 Phantom II fighters, radar tracking, reported electronic failures, and a series of observations later circulated through American defence and intelligence channels. Unlike many UFO reports that depend on decades-later recollections, the Tehran case was documented almost immediately in official military communications and became the subject of analysis by both UFO researchers and sceptical investigators.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Crash in &#x27;47 Called False by Science Panel&quot;... Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 197...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">us gov iran case</span><span class="citation-popover-snippet">THE U.S. GOVERNMENT &amp;&quot;THE IRAN&quot;&#x27;CASEThis report forwards information concerning the sighting of an UFO in. Iran on 19 September 1976...</span><span class="citation-popover-meta">Published: September 1976</span></span></span>
 
 <img src="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_tehran_1976_ufo_3c95d8-Illustration-1-dark.svg" | relative_url }}" alt="Tehran 1976 illustration 1" data-theme-src-dark="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_tehran_1976_ufo_3c95d8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iran_Islamic_Republi_94f9ee_tehran_1976_ufo_3c95d8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The case remains unresolved in a narrow sense: no universally accepted conventional explanation accounts for every reported element. At the same time, many of its most dramatic claims have been challenged, particularly the interpretation of radar returns, electronic malfunctions and the behaviour of the object itself. The enduring importance of the Tehran incident lies less in extraterrestrial speculation than in its unusual combination of military witnesses, documented reporting chains and competing interpretations.
 
 ## How the Incident Began Over Tehran
 
-According to the declassified military message distributed through U.S. defence channels, the sequence began around 12:30 a.m. when Iranian authorities received calls from residents in the Shemiran district north of Tehran. Witnesses reported a strange luminous object. Some described something resembling a bright bird-like form, while others thought it resembled a helicopter carrying a powerful light. Air-defence personnel reportedly confirmed that no helicopters were operating in the area. NSA <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>
+According to the declassified military message distributed through U.S. defence channels, the sequence began around 12:30 a.m. when Iranian authorities received calls from residents in the Shemiran district north of Tehran. Witnesses reported a strange luminous object. Some described something resembling a bright bird-like form, while others thought it resembled a helicopter carrying a powerful light. Air-defence personnel reportedly confirmed that no helicopters were operating in the area. NSA<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>
 
-Brigadier General Yousefi, serving in an operational command role, reportedly observed the object himself. He described it as resembling a bright star but significantly larger and more luminous. Because of concerns that it might represent an unidentified aircraft or security threat near the Iranian capital, the Imperial Iranian Air Force ordered an interception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">19 September 1976...</span><span class="citation-popover-meta">Published: September 1976</span></span></span>
+Brigadier General Yousefi, serving in an operational command role, reportedly observed the object himself. He described it as resembling a bright star but significantly larger and more luminous. Because of concerns that it might represent an unidentified aircraft or security threat near the Iranian capital, the Imperial Iranian Air Force ordered an interception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">19 September 1976...</span><span class="citation-popover-meta">Published: September 1976</span></span></span>
 
 The political context mattered. In 1976, Iran under Shah Mohammad Reza Pahlavi maintained close military relations with the United States and operated advanced Western aircraft. Tehran was also a sensitive strategic centre. An unidentified object appearing over the capital naturally triggered a military response rather than remaining a purely civilian curiosity.
 
 ## The First F-4 Intercept and the Reported Equipment Failure
 
-The first aircraft dispatched was an F-4 Phantom II from Shahrokhi Air Base. According to the official report, the pilot acquired a visual sighting of an intensely bright object from a considerable distance. As the aircraft approached, however, the crew allegedly experienced a sudden loss of instrumentation and communications. The report states that UHF radio systems and cockpit instruments ceased functioning when the fighter came within roughly 25 nautical miles of the object. After the pilot turned away, the systems reportedly returned to normal operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iiaf.net/tehran-dogfight-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iiaf.net">[IIAF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iiaf.net</span><span class="citation-popover-title">Tehran Dogfight Incident – IIAF</span><span class="citation-popover-snippet">Closing on the object at 150 nautical miles per hour. At a range of 25 nautical miles...Read more...</span></span></span>
+The first aircraft dispatched was an F-4 Phantom II from Shahrokhi Air Base. According to the official report, the pilot acquired a visual sighting of an intensely bright object from a considerable distance. As the aircraft approached, however, the crew allegedly experienced a sudden loss of instrumentation and communications. The report states that UHF radio systems and cockpit instruments ceased functioning when the fighter came within roughly 25 nautical miles of the object. After the pilot turned away, the systems reportedly returned to normal operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iiaf.net/tehran-dogfight-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iiaf.net">[IIAF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iiaf.net</span><span class="citation-popover-title">Tehran Dogfight Incident – IIAF</span><span class="citation-popover-snippet">Closing on the object at 150 nautical miles per hour. At a range of 25 nautical miles...Read more...</span></span></span>
 
-This first interception is often cited as one of the most intriguing elements of the case because it suggests a possible electromagnetic effect associated with the object. Supporters of the UFO interpretation argue that the timing of the failures and their apparent recovery after disengagement imply a direct relationship between the aircraft and the target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>
+This first interception is often cited as one of the most intriguing elements of the case because it suggests a possible electromagnetic effect associated with the object. Supporters of the UFO interpretation argue that the timing of the failures and their apparent recovery after disengagement imply a direct relationship between the aircraft and the target.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>
 
-Sceptics counter that equipment failures in 1970s-era F-4 aircraft were not extraordinary. The Phantom was a complex platform operating under demanding conditions, and electronic malfunctions were neither unknown nor necessarily linked to an external cause. Critics also note that later accounts may have amplified details that were initially less precise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+Sceptics counter that equipment failures in 1970s-era F-4 aircraft were not extraordinary. The Phantom was a complex platform operating under demanding conditions, and electronic malfunctions were neither unknown nor necessarily linked to an external cause. Critics also note that later accounts may have amplified details that were initially less precise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 Even so, the first aircraft's reported loss of systems became a key reason why Iranian commanders launched a second interceptor rather than dismissing the sighting as a misidentified celestial object.
 
@@ -275,9 +275,9 @@ Even so, the first aircraft's reported loss of systems became a key reason why I
 
 The most detailed testimony comes from the second interception mission, commonly associated with Lieutenant Parviz Jafari, who later became one of the best-known witnesses connected to the case.
 
-After take-off, the second F-4 reportedly established both visual and radar contact with the object. The official military message states that radar returns suggested a target comparable in size to a large tanker aircraft. The crew observed an object displaying multiple coloured lights arranged in a rectangular or square pattern. The lights reportedly flashed so rapidly that several colours appeared visible simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19")
+After take-off, the second F-4 reportedly established both visual and radar contact with the object. The official military message states that radar returns suggested a target comparable in size to a large tanker aircraft. The crew observed an object displaying multiple coloured lights arranged in a rectangular or square pattern. The lights reportedly flashed so rapidly that several colours appeared visible simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19")
 
-As the fighter attempted to close the distance, the object allegedly maintained separation despite changes in speed and heading. The report describes a sequence in which a smaller luminous object appeared to separate from the primary target and move rapidly towards the interceptor. Believing the approaching object might represent a threat, the pilot prepared to launch an AIM-9 Sidewinder missile. At that moment, according to the report, weapons-control systems and communications failed. Jafari reportedly aborted the attack and initiated an evasive manoeuvre. Once again, the systems were said to return after separation from the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iiaf.net/tehran-dogfight-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iiaf.net">[IIAF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iiaf.net</span><span class="citation-popover-title">Tehran Dogfight Incident – IIAF</span><span class="citation-popover-snippet">Closing on the object at 150 nautical miles per hour. At a range of 25 nautical miles...Read more...</span></span></span>
+As the fighter attempted to close the distance, the object allegedly maintained separation despite changes in speed and heading. The report describes a sequence in which a smaller luminous object appeared to separate from the primary target and move rapidly towards the interceptor. Believing the approaching object might represent a threat, the pilot prepared to launch an AIM-9 Sidewinder missile. At that moment, according to the report, weapons-control systems and communications failed. Jafari reportedly aborted the attack and initiated an evasive manoeuvre. Once again, the systems were said to return after separation from the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iiaf.net/tehran-dogfight-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iiaf.net">[IIAF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iiaf.net</span><span class="citation-popover-title">Tehran Dogfight Incident – IIAF</span><span class="citation-popover-snippet">Closing on the object at 150 nautical miles per hour. At a range of 25 nautical miles...Read more...</span></span></span>
 
 This portion of the incident became central to later UFO literature because it combined three separate claims:
 
@@ -295,19 +295,19 @@ Among UFO proponents, these combined factors elevated the Tehran encounter above
 
 ## Radar Contact and the Question of Physical Reality
 
-One reason the Tehran case continues to attract attention is the reported radar evidence. Unlike many UFO stories that rely solely on eyewitness testimony, the second F-4 crew claimed to obtain a radar lock. The official report characterised the return as substantial rather than fleeting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19")
+One reason the Tehran case continues to attract attention is the reported radar evidence. Unlike many UFO stories that rely solely on eyewitness testimony, the second F-4 crew claimed to obtain a radar lock. The official report characterised the return as substantial rather than fleeting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19")
 
-If accurate, the radar lock would indicate that the crew was not merely observing a bright astronomical object. A radar return generally implies the presence of a physical target capable of reflecting electromagnetic energy. This is why supporters frequently cite the case as one of the strongest military UFO encounters on record. The later Defence Intelligence Agency summary highlighted the combination of visual and radar observations as a significant feature of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>
+If accurate, the radar lock would indicate that the crew was not merely observing a bright astronomical object. A radar return generally implies the presence of a physical target capable of reflecting electromagnetic energy. This is why supporters frequently cite the case as one of the strongest military UFO encounters on record. The later Defence Intelligence Agency summary highlighted the combination of visual and radar observations as a significant feature of the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>
 
-However, radar data from the incident have never been publicly released in a form allowing independent technical analysis. Modern researchers therefore rely largely on descriptions contained within reports rather than original radar recordings. That limitation significantly weakens the evidential value of the radar claim. It establishes what witnesses reported seeing on instruments but does not allow later investigators to verify exactly what those instruments displayed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">Document Gallery</span><span class="citation-popover-snippet">Page 45An official website of the United... Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976...</span><span class="citation-popover-meta">Published: September 1976</span></span></span>
+However, radar data from the incident have never been publicly released in a form allowing independent technical analysis. Modern researchers therefore rely largely on descriptions contained within reports rather than original radar recordings. That limitation significantly weakens the evidential value of the radar claim. It establishes what witnesses reported seeing on instruments but does not allow later investigators to verify exactly what those instruments displayed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">Document Gallery</span><span class="citation-popover-snippet">Page 45An official website of the United... Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976...</span><span class="citation-popover-meta">Published: September 1976</span></span></span>
 
 The distinction is important. The case contains documented reports of radar contact, not publicly available radar records.
 
 ## The Landing-Light Episode and Ground Search
 
-The encounter did not end with the attempted missile engagement. The report states that another luminous object separated from the primary target and descended towards the ground south of Tehran. Witnesses described the descending object as emitting an intense glow before apparently reaching the surface or a point close to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19")
+The encounter did not end with the attempted missile engagement. The report states that another luminous object separated from the primary target and descended towards the ground south of Tehran. Witnesses described the descending object as emitting an intense glow before apparently reaching the surface or a point close to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19")
 
-Iranian authorities reportedly organised follow-up checks in the area. Helicopter crews searched for evidence of an impact site or landing location. According to later summaries, investigators did not discover obvious physical traces. Some reports mention the detection of a radio beacon signal, while local residents allegedly described hearing a loud sound and observing unusual light in the area during the night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19")
+Iranian authorities reportedly organised follow-up checks in the area. Helicopter crews searched for evidence of an impact site or landing location. According to later summaries, investigators did not discover obvious physical traces. Some reports mention the detection of a radio beacon signal, while local residents allegedly described hearing a loud sound and observing unusual light in the area during the night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19")
 
 This phase of the incident is among the least verifiable. The surviving documentation provides only limited detail regarding the ground investigation. No publicly available photographs, recovered materials or forensic analyses emerged from the search. Consequently, the alleged descent remains one of the most speculative parts of the overall narrative.
 
@@ -316,24 +316,24 @@ This phase of the incident is among the least verifiable. The surviving document
 
 The Tehran incident is often misunderstood as a major secret American UFO investigation. The documentary record suggests something more limited but still notable.
 
-The initial report was transmitted through defence and intelligence channels because Iran was a close U.S. ally and because unidentified aerial activity over a strategically important Middle Eastern capital was considered relevant military information. Recipients reportedly included the Joint Chiefs of Staff, Defence Intelligence Agency, Central Intelligence Agency, State Department and other senior offices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+The initial report was transmitted through defence and intelligence channels because Iran was a close U.S. ally and because unidentified aerial activity over a strategically important Middle Eastern capital was considered relevant military information. Recipients reportedly included the Joint Chiefs of Staff, Defence Intelligence Agency, Central Intelligence Agency, State Department and other senior offices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
-The existence of these distribution lists does not indicate official endorsement of an extraterrestrial explanation. Rather, it demonstrates that the event was treated as a matter worthy of reporting. During the Cold War, unusual aerial observations in sensitive regions routinely attracted attention because they could potentially involve foreign aircraft, surveillance systems or emerging technologies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+The existence of these distribution lists does not indicate official endorsement of an extraterrestrial explanation. Rather, it demonstrates that the event was treated as a matter worthy of reporting. During the Cold War, unusual aerial observations in sensitive regions routinely attracted attention because they could potentially involve foreign aircraft, surveillance systems or emerging technologies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 Nevertheless, the circulation of the report gave the Tehran case an unusual documentary foundation. Most UFO incidents never progress beyond local police records or media coverage. The Tehran event entered military archives almost immediately.
 
 ## The Main Sceptical Explanations
 
-The most influential conventional explanation was advanced by aerospace writer Philip J. Klass. He argued that the pilots likely misidentified Jupiter, which was exceptionally bright in the sky at the time, and that subsequent events reflected equipment issues, perceptual errors and escalating expectations during a tense interception mission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+The most influential conventional explanation was advanced by aerospace writer Philip J. Klass. He argued that the pilots likely misidentified Jupiter, which was exceptionally bright in the sky at the time, and that subsequent events reflected equipment issues, perceptual errors and escalating expectations during a tense interception mission.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 Under this interpretation:
 
 * Jupiter may have served as the initial visual target.
 * Aircraft manoeuvres could have created changing visual impressions.
 * Existing technical problems may have been attributed to the object after the fact.
-* Excitement and stress may have reinforced unusual interpretations of ordinary observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
+* Excitement and stress may have reinforced unusual interpretations of ordinary observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
-Astronomical explanations, however, struggle with some reported elements, particularly the claims of radar lock and descriptions of rapidly moving secondary objects. Supporters of the UFO interpretation argue that a bright planet cannot account for every observation in the military reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>
+Astronomical explanations, however, struggle with some reported elements, particularly the claims of radar lock and descriptions of rapidly moving secondary objects. Supporters of the UFO interpretation argue that a bright planet cannot account for every observation in the military reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>
 
 Another possibility is that multiple phenomena became merged into a single narrative. Bright celestial bodies, aircraft-system malfunctions, radar ambiguities and ordinary lights on the ground may have been interpreted together during a fast-moving military operation. This kind of layering effect appears in many historical UFO cases and does not require any single explanation to account for every reported detail.
 
@@ -351,11 +351,11 @@ The principal observers included:
 * Experienced F-4 Phantom pilots.
 * Weapons-system officers.
 * Airport and control-tower personnel.
-* Numerous civilian observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>
+* Numerous civilian observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>
 
 </div>
 
-Trained military observers are not immune to error, but their testimony generally carries greater evidential weight than anonymous civilian accounts. The Tehran incident also benefits from multiple observation points rather than a single witness. Several people reported seeing something unusual, even if they did not necessarily observe the same aspects of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>
+Trained military observers are not immune to error, but their testimony generally carries greater evidential weight than anonymous civilian accounts. The Tehran incident also benefits from multiple observation points rather than a single witness. Several people reported seeing something unusual, even if they did not necessarily observe the same aspects of the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>
 
 The weakness is that many details commonly repeated in later retellings derive from a relatively small number of primary documents and interviews. As the story spread through UFO literature, some descriptions became more dramatic than the surviving contemporary records support. Distinguishing between the original military report and later embellishments remains essential when evaluating the case.
 
@@ -368,211 +368,211 @@ The strongest elements of the Tehran case are not necessarily the most sensation
 * Military aircraft were launched in response to the reports.
 * The second interceptor crew reported both visual and radar contact.
 * Equipment problems were reported during the encounter.
-* Official documentation was generated immediately after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>, several limitations prevent the case from being considered conclusive evidence of an extraordinary craft:
+* Official documentation was generated immediately after the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-snippet">U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</span></span></span>(#endnote-13 "Snippet: U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>, several limitations prevent the case from being considered conclusive evidence of an extraordinary craft:
 
 * Original radar data are not publicly available.
 * Instrument failures cannot be independently reconstructed.
 * The physical characteristics of the object remain uncertain.
 * No recovered material or verified landing trace emerged.
-* Witness testimony evolved over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-1976-iran-f4-uap-ufo-case.12965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">the 1976 iran f4 uap ufo case.12965</span><span class="citation-popover-snippet">The 1976 Iran F4 UAP/UFO case23 May 2023 — THIS REPORT FORWARDS INFORMATION CONCERNING THE SIGHTING OF AN UFO IN IRAN ON 19 SEPTEMBER 197...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> The result is a case that occupies an unusual middle ground. It is far stronger than many folklore-level UFO reports because it generated military documentation and involved multiple trained observers. Yet it falls well short of proving the existence of an unknown technology or extraterrestrial vehicle.
+* Witness testimony evolved over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 Tehran UFO incident</span><span class="citation-popover-snippet">May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-1976-iran-f4-uap-ufo-case.12965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">the 1976 iran f4 uap ufo case.12965</span><span class="citation-popover-snippet">The 1976 Iran F4 UAP/UFO case23 May 2023 — THIS REPORT FORWARDS INFORMATION CONCERNING THE SIGHTING OF AN UFO IN IRAN ON 19 SEPTEMBER 197...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> The result is a case that occupies an unusual middle ground. It is far stronger than many folklore-level UFO reports because it generated military documentation and involved multiple trained observers. Yet it falls well short of proving the existence of an unknown technology or extraterrestrial vehicle.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a6zdzGdaEDk" title="CAÇADA AÉREA: UM OVNI vs DOIS CAÇAS IRANIANOS [o incidente de Teerã]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a6zdzGdaEDk" target="_blank" rel="noopener noreferrer">CAÇADA AÉREA: UM OVNI vs DOIS CAÇAS IRANIANOS [o incidente de Teerã]</a></p><p class="youtube-embed-meta">Channel: Ei Nerd &middot; Views: 275.6K &middot; Uploaded: February 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a6zdzGdaEDk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a6zdzGdaEDk">Open on YouTube</a></p></div></div></div>
 
 ## Why the Tehran Case Still Matters
 
-Within Iran's UFO history, the Tehran encounter remains the benchmark against which later reports are measured. It combined civilian observations, military interception, radar claims and official documentation in a way rarely matched elsewhere in the country. Subsequent Iranian UFO waves have often involved disputed drone sightings, atmospheric phenomena or poorly sourced media stories, whereas the 1976 incident rests on a traceable documentary record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Crash in &#x27;47 Called False by Science Panel&quot;... Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 197...</span></span></span>
+Within Iran's UFO history, the Tehran encounter remains the benchmark against which later reports are measured. It combined civilian observations, military interception, radar claims and official documentation in a way rarely matched elsewhere in the country. Subsequent Iranian UFO waves have often involved disputed drone sightings, atmospheric phenomena or poorly sourced media stories, whereas the 1976 incident rests on a traceable documentary record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Crash in &#x27;47 Called False by Science Panel&quot;... Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 197...</span></span></span>
 
-The enduring significance of the case is therefore methodological rather than purely mysterious. It demonstrates how an unidentified aerial event can move from public observation into military reporting, intelligence assessment and decades of debate. Nearly half a century later, investigators still disagree about what happened over Tehran, but they continue to discuss the case because the available evidence is substantial enough to sustain competing interpretations without allowing any of them to decisively prevail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[newyorker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">How the Pentagon Started Taking U.F.O.s Seriously30 Apr 2021 — This case is a classic, which meets all the criteria necessary for a valid...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>
+The enduring significance of the case is therefore methodological rather than purely mysterious. It demonstrates how an unidentified aerial event can move from public observation into military reporting, intelligence assessment and decades of debate. Nearly half a century later, investigators still disagree about what happened over Tehran, but they continue to discuss the case because the available evidence is substantial enough to sustain competing interpretations without allowing any of them to decisively prevail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[newyorker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">How the Pentagon Started Taking U.F.O.s Seriously30 Apr 2021 — This case is a classic, which meets all the criteria necessary for a valid...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Inside the 1976 Tehran UFO Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Inside the 1976 Tehran UFO Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces the investigative language used to discuss cases like Tehran.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces the investigative language used to discuss cases like Tehran.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for military reporting and official analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for military reporting and official analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Useful for assessing radar, witness and instrumentation claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing radar, witness and instrumentation claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contains a dedicated account of the Tehran military encounter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains a dedicated account of the Tehran military encounter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-1976-tehran-ufo-mystery-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-the-1976-tehran-ufo-mystery-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ The enduring significance of the case is therefore methodological rather than pu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ The enduring significance of the case is therefore methodological rather than pu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ The enduring significance of the case is therefore methodological rather than pu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ The enduring significance of the case is therefore methodological rather than pu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ The enduring significance of the case is therefore methodological rather than pu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,151 +775,150 @@ The enduring significance of the case is therefore methodological rather than pu
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crash in &#x27;47 Called False by Science Panel&quot;... Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 197...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crash in &#x27;47 Called False by Science Panel&quot;... Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 197...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nsa.gov  
    Title: us gov iran case  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE U.S. GOVERNMENT &amp;&quot;THE IRAN&quot;&#x27;CASEThis report forwards information concerning the sighting of an UFO in. Iran on 19 September 1976...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE U.S. GOVERNMENT &amp;&quot;THE IRAN&quot;&#x27;CASEThis report forwards information concerning the sighting of an UFO in. Iran on 19 September 1976...</p></details>
    Published: September 1976  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: metabunk.org  
    Title: the 1976 iran f4 uap ufo case.12965  
-   Link: <a href="https://www.metabunk.org/threads/the-1976-iran-f4-uap-ufo-case.12965/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-1976-iran-f4-uap-ufo-case.12965/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1976 Iran F4 UAP/UFO case23 May 2023 — THIS REPORT FORWARDS INFORMATION CONCERNING THE SIGHTING OF AN UFO IN IRAN ON 19 SEPTEMBER 197...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/the-1976-iran-f4-uap-ufo-case.12965/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-1976-iran-f4-uap-ufo-case.12965/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1976 Iran F4 UAP/UFO case23 May 2023 — THIS REPORT FORWARDS INFORMATION CONCERNING THE SIGHTING OF AN UFO IN IRAN ON 19 SEPTEMBER 197...</p></details>
    Published: May 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: iiaf.net  
    Title: Tehran Dogfight Incident – IIAF  
-   Link: <a href="https://www.iiaf.net/tehran-dogfight-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.iiaf.net/tehran-dogfight-incident/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing on the object at 150 nautical miles per hour. At a range of 25 nautical miles...Read more...</p></details>
+   Link:<a href="https://www.iiaf.net/tehran-dogfight-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.iiaf.net/tehran-dogfight-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Closing on the object at 150 nautical miles per hour. At a range of 25 nautical miles...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
    Title: 760919tehran rep  
-   Link: <a href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/760919tehran_rep.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</p></details>
+   Link:<a href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/760919tehran_rep.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tehran, Iran/ F-4 Incident19 Sept 1976 — f) An inordinate amount of maneuverability was displayed by the UFOs. Judging from the comm...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: 1976 Tehran UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — &quot;Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976&quot; (PDF).... The Tehran UFO inc...</p></details>
    Published: May 11, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Pentagon Started Taking U.F.O.s Seriously30 Apr 2021 — This case is a classic, which meets all the criteria necessary for a valid...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Pentagon Started Taking U.F.O.s Seriously30 Apr 2021 — This case is a classic, which meets all the criteria necessary for a valid...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>at the same instant his...Read more...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at the same instant his...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/igphoto/2002761354/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19 September 1976...</p></details>
+   Link:<a href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/igphoto/2002761354/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 September 1976...</p></details>
    Published: September 1976  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nsa.gov  
    Title: Document Gallery  
-   Link: <a href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 45An official website of the United... Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976...</p></details>
+   Link:<a href="https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/?igpage=45</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 45An official website of the United... Joint Chiefs of Staff report concerning the sighting of a UFO in Iran on 19 September 1976...</p></details>
    Published: September 1976  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: Over the skies of Tehran, a mysterious object hovered  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/over-the-skies-of-tehran-a-mysterious-object-hovered-without-sound-or-clear-purp/926128833739872/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/over-the-skies-of-tehran-a-mysterious-object-hovered-without-sound-or-clear-purp/926128833739872/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - F-4 Incident An extremely compelling case of an invading UFO occurred in Tehran, Iran in September of 1976. On the 19th, the Air Fo...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/over-the-skies-of-tehran-a-mysterious-object-hovered-without-sound-or-clear-purp/926128833739872/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/over-the-skies-of-tehran-a-mysterious-object-hovered-without-sound-or-clear-purp/926128833739872/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - F-4 Incident An extremely compelling case of an invading UFO occurred in Tehran, Iran in September of 1976. On the 19th, the Air Fo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Tehran Incident  
-   Link: <a href="https://www.youtube.com/watch?v=Wf2ZKmk6Wrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wf2ZKmk6Wrc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO OVER IRAN ON SEPTEMBER 19, 1976. WHAT DID THE PILOTS SEE IN THE SKY OVER TEHRAN...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Wf2ZKmk6Wrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wf2ZKmk6Wrc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO OVER IRAN ON SEPTEMBER 19, 1976. WHAT DID THE PILOTS SEE IN THE SKY OVER TEHRAN...</p></details>
    Published: September 19, 1976  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: media.defense.gov  
-   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</p></details>
+   Link:<a href="https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761354/-1/-1/0/JOINT_CHIEFS_STAFF_REPORT.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarU~tREPORTED ÙFO SIGHTING (U). 32 (0) NA. •. (0) 13 2 20 SER 76. IRAN: 70 SEP... SIGHTING OF AN UFO IN IR AN ON 19...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tvi.show  
    Title: the 1976 tehran ufo incident  
-   Link: <a href="https://www.tvi.show/skywatch-files/the-1976-tehran-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1976-tehran-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 days ago — Both pilots experienced equipment malfunctions, including weapon and navigation failures, when approaching the UFO. Eyewitne...</p></details>
+   Link:<a href="https://www.tvi.show/skywatch-files/the-1976-tehran-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1976-tehran-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 days ago — Both pilots experienced equipment malfunctions, including weapon and navigation failures, when approaching the UFO. Eyewitne...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: the 1976 tehran ufo incident  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/1u71kh/the_1976_tehran_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/1u71kh/the_1976_tehran_ufo_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UnresolvedMysteries&quot;The 1976 Tehran UFO Incident was a radar and visual sighting of an unidentified flying object over Tehran, the capi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/1u71kh/the_1976_tehran_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/1u71kh/the_1976_tehran_ufo_incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/UnresolvedMysteries&quot;The 1976 Tehran UFO Incident was a radar and visual sighting of an unidentified flying object over Tehran, the capi...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tehran IncidentThe 1976 Tehran UFO Incident was a radar and visual sighting of a UAP over Tehran, the capital of Iran, during the early m...</p></details>
+   Link:<a href="https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tehran IncidentThe 1976 Tehran UFO Incident was a radar and visual sighting of a UAP over Tehran, the capital of Iran, during the early m...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/the-tehran-ufo-incident-and-the-iranian-fighter-pilot-who-chased-it-e863d913de8d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-tehran-ufo-incident-and-the-iranian-fighter-pilot-who-chased-it-e863d913de8d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tehran UFO and the Iranian Fighter Pilot Who Chased ItRead the full set of declassified documents on the Tehran UFO incident from the...</p></details>
+   Link:<a href="https://medium.com/on-the-trail-of-the-saucers/the-tehran-ufo-incident-and-the-iranian-fighter-pilot-who-chased-it-e863d913de8d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-tehran-ufo-incident-and-the-iranian-fighter-pilot-who-chased-it-e863d913de8d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tehran UFO and the Iranian Fighter Pilot Who Chased ItRead the full set of declassified documents on the Tehran UFO incident from the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: in 1976 residents of tehran iran noticed a big bright object in the sky the airp  
-   Link: <a href="https://www.facebook.com/CollectiveEvolutionPage/posts/in-1976-residents-of-tehran-iran-noticed-a-big-bright-object-in-the-sky-the-airp/1400973575409718/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CollectiveEvolutionPage/posts/in-1976-residents-of-tehran-iran-noticed-a-big-bright-object-in-the-sky-the-airp/1400973575409718/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1976 residents of Tehran, Iran noticed a big bright object...This case is a classic which meets all the criteria necessary for a vali...</p></details>
+   Link:<a href="https://www.facebook.com/CollectiveEvolutionPage/posts/in-1976-residents-of-tehran-iran-noticed-a-big-bright-object-in-the-sky-the-airp/1400973575409718/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CollectiveEvolutionPage/posts/in-1976-residents-of-tehran-iran-noticed-a-big-bright-object-in-the-sky-the-airp/1400973575409718/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1976 residents of Tehran, Iran noticed a big bright object...This case is a classic which meets all the criteria necessary for a vali...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vocal.media  
-   Link: <a href="https://vocal.media/futurism/the-tehran-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/the-tehran-ufo-incident</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tehran UFO Incident: | Futurism - Vocal MediaBut despite all this evidence, no one could explain what the UFO was or where it came from...</p></details>
+   Link:<a href="https://vocal.media/futurism/the-tehran-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/the-tehran-ufo-incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Tehran UFO Incident: | Futurism - Vocal MediaBut despite all this evidence, no one could explain what the UFO was or where it came from...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61571320971303/posts/breaking-reports-of-an-unusual-bright-white-flash-in-tehran/122170540922710699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61571320971303/posts/breaking-reports-of-an-unusual-bright-white-flash-in-tehran/122170540922710699/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d that in one intercept over the Arak nuclear facility in...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/61571320971303/posts/breaking-reports-of-an-unusual-bright-white-flash-in-tehran/122170540922710699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61571320971303/posts/breaking-reports-of-an-unusual-bright-white-flash-in-tehran/122170540922710699/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d that in one intercept over the Arak nuclear facility in...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/futurism/posts/something-like-a-black-monster-has-swallowed-the-sky-over-tehran/1280432137286497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/futurism/posts/something-like-a-black-monster-has-swallowed-the-sky-over-tehran/1280432137286497/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>experienced communications failure but did not see anything.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/futurism/posts/something-like-a-black-monster-has-swallowed-the-sky-over-tehran/1280432137286497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/futurism/posts/something-like-a-black-monster-has-swallowed-the-sky-over-tehran/1280432137286497/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>experienced communications failure but did not see anything.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cgtneuropeofficial/posts/a-glowing-object-lit-up-the-skies-above-tehran-and-neighboring-cities-early-satu/1091917439635467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cgtneuropeofficial/posts/a-glowing-object-lit-up-the-skies-above-tehran-and-neighboring-cities-early-satu/1091917439635467/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>photos of UFOs in Iran surfaced shortly during the UFO...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cgtneuropeofficial/posts/a-glowing-object-lit-up-the-skies-above-tehran-and-neighboring-cities-early-satu/1091917439635467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cgtneuropeofficial/posts/a-glowing-object-lit-up-the-skies-above-tehran-and-neighboring-cities-early-satu/1091917439635467/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>photos of UFOs in Iran surfaced shortly during the UFO...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/ugqtp5/general_jafari_iranian_air_force_describes_his/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/ugqtp5/general_jafari_iranian_air_force_describes_his/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iranian Air Force General Parviz Jafari was ordered to intercept a UFO. 1:06. 371.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/ugqtp5/general_jafari_iranian_air_force_describes_his/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/ugqtp5/general_jafari_iranian_air_force_describes_his/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iranian Air Force General Parviz Jafari was ordered to intercept a UFO. 1:06. 371.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: self.gutenberg.org  
-   Link: <a href="https://www.self.gutenberg.org/eBooks/WPLBN0002827745-Joint-Chiefs-of-Staff-Report-Concerning-the-Sighting-of-an-UFO-in-Iran-on-19-September-1976-by-Joint-Chiefs-of-Staff.aspx?Trail=collection&amp;Words=" target="_blank" rel="noopener noreferrer nofollow">https://www.self.gutenberg.org/eBooks/WPLBN0002827745-Joint-Chiefs-of-Staff-Report-Concerning-the-Sighting-of-an-UFO-in-Iran-on-19-September-1976-by-Joint-Chiefs-of-Staff.aspx?Trail=collection&amp;Words=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By Joint Chiefs of Staff. Click here to view.Read more...</p></details>
+   Link:<a href="https://www.self.gutenberg.org/eBooks/WPLBN0002827745-Joint-Chiefs-of-Staff-Report-Concerning-the-Sighting-of-an-UFO-in-Iran-on-19-September-1976-by-Joint-Chiefs-of-Staff.aspx?Trail=collection&amp;Words=" target="_blank" rel="noopener noreferrer nofollow">https://www.self.gutenberg.org/eBooks/WPLBN0002827745-Joint-Chiefs-of-Staff-Report-Concerning-the-Sighting-of-an-UFO-in-Iran-on-19-September-1976-by-Joint-Chiefs-of-Staff.aspx?Trail=collection&amp;Words=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By Joint Chiefs of Staff. Click here to view.Read more...</p></details>
    Published: September 1976  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: vocal.media  
    Title: Incident in Tehran | Futurism  
-   Link: <a href="https://vocal.media/futurism/incident-in-tehran" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/incident-in-tehran</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This event remains one of the most well-documented and fascinating UFO encounters ever reported by military pilots and witnesses. Af...</p></details>
+   Link:<a href="https://vocal.media/futurism/incident-in-tehran" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/incident-in-tehran</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This event remains one of the most well-documented and fascinating UFO encounters ever reported by military pilots and witnesses. Af...</p></details>

@@ -257,7 +257,7 @@ image: /assets/images/Colombia_2f7373_regional_ufo_hotspot_caa862-Illustration-1
 Colombia’s UFO stories are not evenly distributed across the country. Reports tend to cluster in specific landscapes: high Andean valleys, volcanic regions, remote rural corridors, and large urban centres where dense populations and widespread smartphone use generate a constant stream of footage and eyewitness claims. These regional patterns matter because they shape how sightings are interpreted. A glowing object over Bogotá is often viewed through the lens of aviation and atmospheric effects, while reports from isolated mountain regions are more likely to merge with folklore, spiritual beliefs, or long-running local legends.
 
 <img src="{{ "/assets/images/Colombia_2f7373_regional_ufo_hotspot_caa862-Illustration-1-dark.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Colombia_2f7373_regional_ufo_hotspot_caa862-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colombia_2f7373_regional_ufo_hotspot_caa862-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result is a patchwork of Colombian UFO “hotspots” with very different evidence quality. Some regions produce recurring testimonies over decades but little hard documentation. Others generate viral videos that later receive mundane [explanations]({{ 'explanations-9e0ad8/' | relative_url }}) or remain unresolved due to poor image quality. Across Colombia, geography, altitude, volcanic activity, weather conditions, and cultural storytelling all influence how unidentified aerial phenomena are perceived and remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://colombiareports.com/ufo-sightings-surge-around-colombian-volcano/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colombiareports.com">[Colombia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colombiareports.com</span><span class="citation-popover-title">Colombia News UFO sightings surge around Colombian volcano</span><span class="citation-popover-snippet">Colombia NewsUFO sightings surge around Colombian volcanoJanuary 25, 2011 — 25 Jan 2011 — The highest volcano in Colombia has been the sc...</span><span class="citation-popover-meta">Published: January 25, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufodigest.com/article/ufo-sighting-at-nevado-del-huila-colombia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodigest.com">[UFO Digest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodigest.com</span><span class="citation-popover-title">ufo sighting at nevado del huila colombia</span><span class="citation-popover-snippet">UFO Sighting at Nevado del Huila, Colombia27 Jan 2011 — Unidentified Flying Objects have apparently been seen near the Nevado del Huila v...</span></span></span>
+The result is a patchwork of Colombian UFO “hotspots” with very different evidence quality. Some regions produce recurring testimonies over decades but little hard documentation. Others generate viral videos that later receive mundane [explanations]({{ 'explanations-9e0ad8/' | relative_url }}) or remain unresolved due to poor image quality. Across Colombia, geography, altitude, volcanic activity, weather conditions, and cultural storytelling all influence how unidentified aerial phenomena are perceived and remembered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://colombiareports.com/ufo-sightings-surge-around-colombian-volcano/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colombiareports.com">[Colombia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colombiareports.com</span><span class="citation-popover-title">Colombia News UFO sightings surge around Colombian volcano</span><span class="citation-popover-snippet">Colombia NewsUFO sightings surge around Colombian volcanoJanuary 25, 2011 — 25 Jan 2011 — The highest volcano in Colombia has been the sc...</span><span class="citation-popover-meta">Published: January 25, 2011</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufodigest.com/article/ufo-sighting-at-nevado-del-huila-colombia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodigest.com">[UFO Digest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodigest.com</span><span class="citation-popover-title">ufo sighting at nevado del huila colombia</span><span class="citation-popover-snippet">UFO Sighting at Nevado del Huila, Colombia27 Jan 2011 — Unidentified Flying Objects have apparently been seen near the Nevado del Huila v...</span></span></span>
 
 ## Why Colombian Geography Encourages UFO Hotspots
 
@@ -319,13 +319,13 @@ Many reports involve:
 
 </div>
 
-A widely discussed Bogotá case from the mid-2010s involved footage of an apparent “shape-shifting” object above the city. Commentary surrounding the video focused on colour changes and unusual movement, but aviation observers noted that perspective changes, atmospheric distortion, and reflective surfaces could explain much of the appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecitypaperbogota.com/opinion/shape-shifting-ufo-spotted-over-bogota41211/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecitypaperbogota.com">[thecitypaperbogota.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecitypaperbogota.com</span><span class="citation-popover-title">shape shifting ufo spotted over bogota41211</span><span class="citation-popover-snippet">Opinion: Shape-shifting UFO spotted over BogotáApril 12, 2015 — 12 Apr 2015 — The UFO appeared to change shape and color while flying hig...</span><span class="citation-popover-meta">Published: April 12, 2015</span></span></span>
+A widely discussed Bogotá case from the mid-2010s involved footage of an apparent “shape-shifting” object above the city. Commentary surrounding the video focused on colour changes and unusual movement, but aviation observers noted that perspective changes, atmospheric distortion, and reflective surfaces could explain much of the appearance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thecitypaperbogota.com/opinion/shape-shifting-ufo-spotted-over-bogota41211/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecitypaperbogota.com">[thecitypaperbogota.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecitypaperbogota.com</span><span class="citation-popover-title">shape shifting ufo spotted over bogota41211</span><span class="citation-popover-snippet">Opinion: Shape-shifting UFO spotted over BogotáApril 12, 2015 — 12 Apr 2015 — The UFO appeared to change shape and color while flying hig...</span><span class="citation-popover-meta">Published: April 12, 2015</span></span></span>
 
 Bogotá illustrates a recurring Colombian pattern: urban UFO videos often achieve national attention quickly, but most lack the image clarity or corroborating data needed for strong conclusions.
 
 ### Medellín and Antioquia
 
-Medellín and the wider Antioquia region have become increasingly prominent in Colombian UFO culture because of social media. Multiple videos showing diamond-shaped or spherical objects over the city circulated online during the 2020s, especially on TikTok, Reddit, and Instagram. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/DYeq9XRklec/?hl=bg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">A six-light triangle formation over Curitiba and a silent...Antioquia Colombia became the center of an international UFO discus...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOB/comments/1phaseb/diamond_shaped_uap_rotating_above_medellin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">diamond shaped uap rotating above medellin</span><span class="citation-popover-snippet">, Colombia 12...“Unidentified Flying Object spotted in Medellin Colombia December 7th 2025. Diamond Disc Saucer shape thats spinning whi...</span></span></span>
+Medellín and the wider Antioquia region have become increasingly prominent in Colombian UFO culture because of social media. Multiple videos showing diamond-shaped or spherical objects over the city circulated online during the 2020s, especially on TikTok, Reddit, and Instagram.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/p/DYeq9XRklec/?hl=bg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">A six-light triangle formation over Curitiba and a silent...Antioquia Colombia became the center of an international UFO discus...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOB/comments/1phaseb/diamond_shaped_uap_rotating_above_medellin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">diamond shaped uap rotating above medellin</span><span class="citation-popover-snippet">, Colombia 12...“Unidentified Flying Object spotted in Medellin Colombia December 7th 2025. Diamond Disc Saucer shape thats spinning whi...</span></span></span>
 
 Several factors make Medellín fertile ground for UFO speculation:
 
@@ -340,14 +340,14 @@ Several factors make Medellín fertile ground for UFO speculation:
 
 One recurring feature in Medellín footage is the apparent “hovering” object above ridgelines. In many cases, depth perception becomes unreliable because observers lack reference points against the mountain backdrop.
 
-The city also became linked to newer “orb” narratives after online claims about metallic spheres appearing near Antioquia and neighbouring regions. These stories often evolved rapidly from brief sightings into elaborate extraterrestrial interpretations without strong evidential support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DMYezbUCCKy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Is this a UFO in Colombia?!.... #fyp #ufo #conspiracy...To this day the Antioquia footage remains one of Colombia&#x27;s most ta...</span></span></span>
+The city also became linked to newer “orb” narratives after online claims about metallic spheres appearing near Antioquia and neighbouring regions. These stories often evolved rapidly from brief sightings into elaborate extraterrestrial interpretations without strong evidential support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DMYezbUCCKy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">Is this a UFO in Colombia?!.... #fyp #ufo #conspiracy...To this day the Antioquia footage remains one of Colombia&#x27;s most ta...</span></span></span>
 
 <img src="{{ "/assets/images/Colombia_2f7373_regional_ufo_hotspot_caa862-Illustration-2-dark.svg" | relative_url }}" alt="Hotspots illustration 2" data-theme-src-dark="{{ "/assets/images/Colombia_2f7373_regional_ufo_hotspot_caa862-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colombia_2f7373_regional_ufo_hotspot_caa862-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Cali and Valle del Cauca
 
 Cali occupies a special place in Colombian UFO discussions because Valle del Cauca has repeatedly produced high-profile claims. Historical reports from the region include multi-light sightings and unusual aerial manoeuvres dating back decades.
 
-More recently, nearby Buga became internationally known through the “metal sphere” controversy that spread across global UFO media in 2025. According to widely circulated accounts, witnesses observed a metallic orb moving over the region before it was allegedly recovered and examined. Supporters claimed unusual structural characteristics, while critics argued the story lacked transparent scientific documentation and independent chain-of-custody evidence. New York Post <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/world-news/mysterious-metallic-sphere-found-in-colombia-fuels-ufo-speculation-8508951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[4www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">The object was reported to have flown over Buga before landing on March 2</span><span class="citation-popover-snippet">Metallic Sphere Found In Colombia Fuels UFO...May 26, 2025 — 26 May 2025 — A metallic sphere discovered in Colombia has raised UFO specu...</span><span class="citation-popover-meta">Published: May 26, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thesun.co.uk/news/34881444/scientists-ufo-orb-alien-xray/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-title">scientists ufo orb alien xray</span><span class="citation-popover-snippet">Scientists studying &#x27;UFO orb&#x27; that &#x27;landed in Colombia...9 May 2025 — There are yet to be any official reports or scientific analysis to...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+More recently, nearby Buga became internationally known through the “metal sphere” controversy that spread across global UFO media in 2025. According to widely circulated accounts, witnesses observed a metallic orb moving over the region before it was allegedly recovered and examined. Supporters claimed unusual structural characteristics, while critics argued the story lacked transparent scientific documentation and independent chain-of-custody evidence. New York Post<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtv.com/world-news/mysterious-metallic-sphere-found-in-colombia-fuels-ufo-speculation-8508951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtv.com">[4www.ndtv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtv.com</span><span class="citation-popover-title">The object was reported to have flown over Buga before landing on March 2</span><span class="citation-popover-snippet">Metallic Sphere Found In Colombia Fuels UFO...May 26, 2025 — 26 May 2025 — A metallic sphere discovered in Colombia has raised UFO specu...</span><span class="citation-popover-meta">Published: May 26, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thesun.co.uk/news/34881444/scientists-ufo-orb-alien-xray/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-title">scientists ufo orb alien xray</span><span class="citation-popover-snippet">Scientists studying &#x27;UFO orb&#x27; that &#x27;landed in Colombia...9 May 2025 — There are yet to be any official reports or scientific analysis to...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 The [Buga sphere]({{ 'buga-sphere/' | relative_url }}) demonstrates how modern Colombian hotspots now operate differently from earlier folklore-based regions. Instead of decades of oral testimony, contemporary cases spread through viral clips, influencer coverage, and international UFO networks within days.
 
@@ -355,9 +355,9 @@ The [Buga sphere]({{ 'buga-sphere/' | relative_url }}) demonstrates how modern C
 
 Volcanoes occupy a unique place in Colombian UFO culture. Regions around Nevado del Huila and Nevado del Ruiz repeatedly generate reports of strange lights and unidentified objects, especially during periods of seismic activity or volcanic unrest.
 
-Nevado del Huila became a particularly active focus for UFO speculation during heightened volcanic activity in the late 2000s and early 2010s. Colombian media and UFO researchers circulated stories about glowing objects appearing near the volcano, with some enthusiasts suggesting extraterrestrials were “monitoring” seismic events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://colombiareports.com/ufo-sightings-surge-around-colombian-volcano/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colombiareports.com">[Colombia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colombiareports.com</span><span class="citation-popover-title">Colombia News UFO sightings surge around Colombian volcano</span><span class="citation-popover-snippet">Colombia NewsUFO sightings surge around Colombian volcanoJanuary 25, 2011 — 25 Jan 2011 — The highest volcano in Colombia has been the sc...</span><span class="citation-popover-meta">Published: January 25, 2011</span></span></span>
+Nevado del Huila became a particularly active focus for UFO speculation during heightened volcanic activity in the late 2000s and early 2010s. Colombian media and UFO researchers circulated stories about glowing objects appearing near the volcano, with some enthusiasts suggesting extraterrestrials were “monitoring” seismic events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://colombiareports.com/ufo-sightings-surge-around-colombian-volcano/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colombiareports.com">[Colombia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colombiareports.com</span><span class="citation-popover-title">Colombia News UFO sightings surge around Colombian volcano</span><span class="citation-popover-snippet">Colombia NewsUFO sightings surge around Colombian volcanoJanuary 25, 2011 — 25 Jan 2011 — The highest volcano in Colombia has been the sc...</span><span class="citation-popover-meta">Published: January 25, 2011</span></span></span>
 
-However, the same period also saw confirmed ash emissions, seismic swarms, gas plumes, and unusual atmospheric conditions documented by Colombian geological authorities and international volcanic monitoring systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/volcano.cfm?vn=351050" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Smithsonian Volcanism ProgramNevado del HuilaINGEOMINAS reported a seismic event from Nevado del Huila on 11 November consistent with a p...</span></span></span>
+However, the same period also saw confirmed ash emissions, seismic swarms, gas plumes, and unusual atmospheric conditions documented by Colombian geological authorities and international volcanic monitoring systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/volcano.cfm?vn=351050" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Smithsonian Volcanism ProgramNevado del HuilaINGEOMINAS reported a seismic event from Nevado del Huila on 11 November consistent with a p...</span></span></span>
 
 This overlap matters because volcanic environments naturally produce phenomena that can appear unusual:
 
@@ -425,194 +425,194 @@ RegionTypical reportsMain driversEvidence qualityBoyacáLights, folklore encount
 What unites these regions is not proof of extraordinary aerial activity, but the repeated interaction between geography, perception, and storytelling. Colombia’s UFO map is therefore as much a cultural landscape as a physical one.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Do Colombia&#x27;s UFO Reports Cluster?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Do Colombia&#x27;s UFO Reports Cluster?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers patterns of sightings and how reports emerge across different regions and contexts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers patterns of sightings and how reports emerge across different regions and contexts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces frameworks for categorising and comparing sightings from different locations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces frameworks for categorising and comparing sightings from different locations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Connects geography, folklore, and recurring regional patterns in unusual sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects geography, folklore, and recurring regional patterns in unusual sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Useful for understanding how sighting clusters are documented and compared internationally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how sighting clusters are documented and compared internationally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-colombia-s-ufo-reports-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-colombia-s-ufo-reports-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -628,7 +628,7 @@ What unites these regions is not proof of extraordinary aerial activity, but the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -648,7 +648,7 @@ What unites these regions is not proof of extraordinary aerial activity, but the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -680,7 +680,7 @@ What unites these regions is not proof of extraordinary aerial activity, but the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -732,7 +732,7 @@ What unites these regions is not proof of extraordinary aerial activity, but the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -777,7 +777,7 @@ What unites these regions is not proof of extraordinary aerial activity, but the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -815,163 +815,162 @@ What unites these regions is not proof of extraordinary aerial activity, but the
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: thecitypaperbogota.com  
    Title: shape shifting ufo spotted over bogota41211  
-   Link: <a href="https://thecitypaperbogota.com/opinion/shape-shifting-ufo-spotted-over-bogota41211/" target="_blank" rel="noopener noreferrer nofollow">https://thecitypaperbogota.com/opinion/shape-shifting-ufo-spotted-over-bogota41211/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Opinion: Shape-shifting UFO spotted over BogotáApril 12, 2015 — 12 Apr 2015 — The UFO appeared to change shape and color while flying hig...</p></details>
+   Link:<a href="https://thecitypaperbogota.com/opinion/shape-shifting-ufo-spotted-over-bogota41211/" target="_blank" rel="noopener noreferrer nofollow">https://thecitypaperbogota.com/opinion/shape-shifting-ufo-spotted-over-bogota41211/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opinion: Shape-shifting UFO spotted over BogotáApril 12, 2015 — 12 Apr 2015 — The UFO appeared to change shape and color while flying hig...</p></details>
    Published: April 12, 2015  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYeq9XRklec/?hl=bg" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYeq9XRklec/?hl=bg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A six-light triangle formation over Curitiba and a silent...Antioquia Colombia became the center of an international UFO discus...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYeq9XRklec/?hl=bg" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYeq9XRklec/?hl=bg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A six-light triangle formation over Curitiba and a silent...Antioquia Colombia became the center of an international UFO discus...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: diamond shaped uap rotating above medellin  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1phaseb/diamond_shaped_uap_rotating_above_medellin/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1phaseb/diamond_shaped_uap_rotating_above_medellin/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, Colombia 12...“Unidentified Flying Object spotted in Medellin Colombia December 7th 2025. Diamond Disc Saucer shape thats spinning whi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1phaseb/diamond_shaped_uap_rotating_above_medellin/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1phaseb/diamond_shaped_uap_rotating_above_medellin/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, Colombia 12...“Unidentified Flying Object spotted in Medellin Colombia December 7th 2025. Diamond Disc Saucer shape thats spinning whi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DMYezbUCCKy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMYezbUCCKy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is this a UFO in Colombia?!.... #fyp #ufo #conspiracy...To this day the Antioquia footage remains one of Colombia&#x27;s most ta...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DMYezbUCCKy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMYezbUCCKy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is this a UFO in Colombia?!.... #fyp #ufo #conspiracy...To this day the Antioquia footage remains one of Colombia&#x27;s most ta...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DKHh_x9Seuy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DKHh_x9Seuy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A strange metallic sphere discovered in Colombia has...Colombia&#x27;s metallic sphere mystery is growing after reports of a second...</p></details>
+   Link:<a href="https://www.instagram.com/p/DKHh_x9Seuy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DKHh_x9Seuy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A strange metallic sphere discovered in Colombia has...Colombia&#x27;s metallic sphere mystery is growing after reports of a second...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ndtv.com  
    Title: The object was reported to have flown over Buga before landing on March 2  
-   Link: <a href="https://www.ndtv.com/world-news/mysterious-metallic-sphere-found-in-colombia-fuels-ufo-speculation-8508951" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/mysterious-metallic-sphere-found-in-colombia-fuels-ufo-speculation-8508951</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metallic Sphere Found In Colombia Fuels UFO...May 26, 2025 — 26 May 2025 — A metallic sphere discovered in Colombia has raised UFO specu...</p></details>
+   Link:<a href="https://www.ndtv.com/world-news/mysterious-metallic-sphere-found-in-colombia-fuels-ufo-speculation-8508951" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/world-news/mysterious-metallic-sphere-found-in-colombia-fuels-ufo-speculation-8508951</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metallic Sphere Found In Colombia Fuels UFO...May 26, 2025 — 26 May 2025 — A metallic sphere discovered in Colombia has raised UFO specu...</p></details>
    Published: May 26, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: people.com  
    Title: mysterious metal sphere sparks ufo debate never seen a piece like this 11741579  
-   Link: <a href="https://people.com/mysterious-metal-sphere-sparks-ufo-debate-never-seen-a-piece-like-this-11741579" target="_blank" rel="noopener noreferrer nofollow">https://people.com/mysterious-metal-sphere-sparks-ufo-debate-never-seen-a-piece-like-this-11741579</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Studying Mysterious Metal Sphere in UFO Debate25 May 2025 — Some scientists have been studying a mysterious sphere seen in Col...</p></details>
+   Link:<a href="https://people.com/mysterious-metal-sphere-sparks-ufo-debate-never-seen-a-piece-like-this-11741579" target="_blank" rel="noopener noreferrer nofollow">https://people.com/mysterious-metal-sphere-sparks-ufo-debate-never-seen-a-piece-like-this-11741579</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Studying Mysterious Metal Sphere in UFO Debate25 May 2025 — Some scientists have been studying a mysterious sphere seen in Col...</p></details>
    Published: May 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1k1oiol/so_what_was_the_conclusion_of_the_colombia_orb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k1oiol/so_what_was_the_conclusion_of_the_colombia_orb/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>he original post on here anymore but this kind of fizzled out. Was...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1k1oiol/so_what_was_the_conclusion_of_the_colombia_orb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1k1oiol/so_what_was_the_conclusion_of_the_colombia_orb/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he original post on here anymore but this kind of fizzled out. Was...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1kexehf/first_xrays_of_the_sphere_found_in_colombia_have/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kexehf/first_xrays_of_the_sphere_found_in_colombia_have/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First x-rays of the sphere found in Colombia have...Newly released images of the spherical UFO sighting in Buga, Colombia.... r/aliens...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1kexehf/first_xrays_of_the_sphere_found_in_colombia_have/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kexehf/first_xrays_of_the_sphere_found_in_colombia_have/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First x-rays of the sphere found in Colombia have...Newly released images of the spherical UFO sighting in Buga, Colombia.... r/aliens...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/abovethenormnews/comments/1kg1n4n/radiologist_investigates_the_sphere_ufo_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/1kg1n4n/radiologist_investigates_the_sphere_ufo_that/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and an entire room of scatter radiation with no one garbed...</p></details>
+   Link:<a href="https://www.reddit.com/r/abovethenormnews/comments/1kg1n4n/radiologist_investigates_the_sphere_ufo_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/1kg1n4n/radiologist_investigates_the_sphere_ufo_that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and an entire room of scatter radiation with no one garbed...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1ldpp39/a_ufo_moving_with_great_speed_and_freedom_has/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1ldpp39/a_ufo_moving_with_great_speed_and_freedom_has/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>after locals discovered a similar object, which many call a UFO.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1ldpp39/a_ufo_moving_with_great_speed_and_freedom_has/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1ldpp39/a_ufo_moving_with_great_speed_and_freedom_has/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>after locals discovered a similar object, which many call a UFO.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYwZnY_iPCv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYwZnY_iPCv/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>le flying at 12,500 feet. He filmed a shiny, disc-shaped...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYwZnY_iPCv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYwZnY_iPCv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>le flying at 12,500 feet. He filmed a shiny, disc-shaped...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: colombiareports.com  
    Title: Colombia News UFO sightings surge around Colombian volcano  
-   Link: <a href="https://colombiareports.com/ufo-sightings-surge-around-colombian-volcano/" target="_blank" rel="noopener noreferrer nofollow">https://colombiareports.com/ufo-sightings-surge-around-colombian-volcano/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colombia NewsUFO sightings surge around Colombian volcanoJanuary 25, 2011 — 25 Jan 2011 — The highest volcano in Colombia has been the sc...</p></details>
+   Link:<a href="https://colombiareports.com/ufo-sightings-surge-around-colombian-volcano/" target="_blank" rel="noopener noreferrer nofollow">https://colombiareports.com/ufo-sightings-surge-around-colombian-volcano/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colombia NewsUFO sightings surge around Colombian volcanoJanuary 25, 2011 — 25 Jan 2011 — The highest volcano in Colombia has been the sc...</p></details>
    Published: January 25, 2011  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufodigest.com  
    Title: ufo sighting at nevado del huila colombia  
-   Link: <a href="https://www.ufodigest.com/article/ufo-sighting-at-nevado-del-huila-colombia/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/ufo-sighting-at-nevado-del-huila-colombia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting at Nevado del Huila, Colombia27 Jan 2011 — Unidentified Flying Objects have apparently been seen near the Nevado del Huila v...</p></details>
+   Link:<a href="https://www.ufodigest.com/article/ufo-sighting-at-nevado-del-huila-colombia/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/ufo-sighting-at-nevado-del-huila-colombia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting at Nevado del Huila, Colombia27 Jan 2011 — Unidentified Flying Objects have apparently been seen near the Nevado del Huila v...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: colombiareports.com  
    Title: video shows ufo near volcano  
-   Link: <a href="https://colombiareports.com/video-shows-ufo-near-volcano/" target="_blank" rel="noopener noreferrer nofollow">https://colombiareports.com/video-shows-ufo-near-volcano/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DNP Video shows unidentified object near volcano19 Mar 2013 — Images showing an unidentified object hovering over the central Colombian v...</p></details>
+   Link:<a href="https://colombiareports.com/video-shows-ufo-near-volcano/" target="_blank" rel="noopener noreferrer nofollow">https://colombiareports.com/video-shows-ufo-near-volcano/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DNP Video shows unidentified object near volcano19 Mar 2013 — Images showing an unidentified object hovering over the central Colombian v...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thesun.co.uk  
    Title: scientists ufo orb alien xray  
-   Link: <a href="https://www.thesun.co.uk/news/34881444/scientists-ufo-orb-alien-xray/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/34881444/scientists-ufo-orb-alien-xray/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists studying &#x27;UFO orb&#x27; that &#x27;landed in Colombia...9 May 2025 — There are yet to be any official reports or scientific analysis to...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/34881444/scientists-ufo-orb-alien-xray/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/34881444/scientists-ufo-orb-alien-xray/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists studying &#x27;UFO orb&#x27; that &#x27;landed in Colombia...9 May 2025 — There are yet to be any official reports or scientific analysis to...</p></details>
    Published: May 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: volcano.si.edu  
-   Link: <a href="https://volcano.si.edu/volcano.cfm?vn=351050" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcano.cfm?vn=351050</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Volcanism ProgramNevado del HuilaINGEOMINAS reported a seismic event from Nevado del Huila on 11 November consistent with a p...</p></details>
+   Link:<a href="https://volcano.si.edu/volcano.cfm?vn=351050" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcano.cfm?vn=351050</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Volcanism ProgramNevado del HuilaINGEOMINAS reported a seismic event from Nevado del Huila on 11 November consistent with a p...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Newsweek/posts/ufo-discovered-in-colombia-scientist-weighs-in-after-radiologist-says-orb-is-ext/1066015855398858/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Newsweek/posts/ufo-discovered-in-colombia-scientist-weighs-in-after-radiologist-says-orb-is-ext/1066015855398858/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO discovered in Colombia? Scientist weighs in after...UFO discovered in Colombia? Scientist weighs in after radiologist says orb is ex...</p></details>
+   Link:<a href="https://www.facebook.com/Newsweek/posts/ufo-discovered-in-colombia-scientist-weighs-in-after-radiologist-says-orb-is-ext/1066015855398858/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Newsweek/posts/ufo-discovered-in-colombia-scientist-weighs-in-after-radiologist-says-orb-is-ext/1066015855398858/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO discovered in Colombia? Scientist weighs in after...UFO discovered in Colombia? Scientist weighs in after radiologist says orb is ex...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nypost.com  
    Title: scientists discover mysterious sphere in colombia sparking ufo speculation  
-   Link: <a href="https://nypost.com/2025/05/25/science/scientists-discover-mysterious-sphere-in-colombia-sparking-ufo-speculation/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/05/25/science/scientists-discover-mysterious-sphere-in-colombia-sparking-ufo-speculation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weighing approximately 4.5 pounds and cold to the touch, the orb is striking for its lack of welds or joints, suggesting it may not be ma...</p></details>
+   Link:<a href="https://nypost.com/2025/05/25/science/scientists-discover-mysterious-sphere-in-colombia-sparking-ufo-speculation/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/05/25/science/scientists-discover-mysterious-sphere-in-colombia-sparking-ufo-speculation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weighing approximately 4.5 pounds and cold to the touch, the orb is striking for its lack of welds or joints, suggesting it may not be ma...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wholecelium.com  
    Title: sightings of mushroom shaped ufos included in pentagon report  
-   Link: <a href="https://www.wholecelium.com/blog/sightings-of-mushroom-shaped-ufos-included-in-pentagon-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.wholecelium.com/blog/sightings-of-mushroom-shaped-ufos-included-in-pentagon-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings of Mushroom-Shaped UFOs Included in...1 Apr 2023 — The Volcano Nevado del Huila in Colombia is a place that can claim an uncan...</p></details>
+   Link:<a href="https://www.wholecelium.com/blog/sightings-of-mushroom-shaped-ufos-included-in-pentagon-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.wholecelium.com/blog/sightings-of-mushroom-shaped-ufos-included-in-pentagon-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings of Mushroom-Shaped UFOs Included in...1 Apr 2023 — The Volcano Nevado del Huila in Colombia is a place that can claim an uncan...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: yahoo.com  
    Title: mysterious sphere colombia sparks ufo 211857351  
-   Link: <a href="https://www.yahoo.com/news/mysterious-sphere-colombia-sparks-ufo-211857351.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/mysterious-sphere-colombia-sparks-ufo-211857351.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious sphere in Colombia sparks UFO talk25 May 2025 — Scientists in Mexico are studying a metal orb found in Colombia, which they be...</p></details>
+   Link:<a href="https://www.yahoo.com/news/mysterious-sphere-colombia-sparks-ufo-211857351.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/mysterious-sphere-colombia-sparks-ufo-211857351.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious sphere in Colombia sparks UFO talk25 May 2025 — Scientists in Mexico are studying a metal orb found in Colombia, which they be...</p></details>
    Published: May 2025  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/seestar/posts/410466531765635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/seestar/posts/410466531765635/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 27, 2022? As already happened for similar cases in...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/seestar/posts/410466531765635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/seestar/posts/410466531765635/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 27, 2022? As already happened for similar cases in...Read more...</p></details>
    Published: June 27, 2022  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AttheendofIt/posts/a-mysterious-unidentified-flying-object-was-reportedly-sighted-over-colombia-cap/800250645957094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AttheendofIt/posts/a-mysterious-unidentified-flying-object-was-reportedly-sighted-over-colombia-cap/800250645957094/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apturing the attention of scientists and witnesses across the...</p></details>
+   Link:<a href="https://www.facebook.com/AttheendofIt/posts/a-mysterious-unidentified-flying-object-was-reportedly-sighted-over-colombia-cap/800250645957094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AttheendofIt/posts/a-mysterious-unidentified-flying-object-was-reportedly-sighted-over-colombia-cap/800250645957094/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apturing the attention of scientists and witnesses across the...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: brobible.com  
    Title: fast moving sphere shaped ufo colombia  
-   Link: <a href="https://brobible.com/culture/article/fast-moving-sphere-shaped-ufo-colombia/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/fast-moving-sphere-shaped-ufo-colombia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sphere-Shaped UFO Filmed Speeding Over City In Colombia11 May 2026 — A sphere-shaped UFO was recently filmed darting back and forth in a...</p></details>
+   Link:<a href="https://brobible.com/culture/article/fast-moving-sphere-shaped-ufo-colombia/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/fast-moving-sphere-shaped-ufo-colombia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sphere-Shaped UFO Filmed Speeding Over City In Colombia11 May 2026 — A sphere-shaped UFO was recently filmed darting back and forth in a...</p></details>
    Published: May 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/reports-from-medell%C3%ADn-claim-that-a-sphere-shaped-ufo-was-seen-descending-rapidly/884121694607253/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/reports-from-medell%C3%ADn-claim-that-a-sphere-shaped-ufo-was-seen-descending-rapidly/884121694607253/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>before what witnesses described as a possible crash...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/reports-from-medell%C3%ADn-claim-that-a-sphere-shaped-ufo-was-seen-descending-rapidly/884121694607253/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/reports-from-medell%C3%ADn-claim-that-a-sphere-shaped-ufo-was-seen-descending-rapidly/884121694607253/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>before what witnesses described as a possible crash...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BroBible/posts/earlier-this-year-a-sphere-shaped-ufo-was-filmed-darting-back-and-forth-in-a-zig/1168145312019262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BroBible/posts/earlier-this-year-a-sphere-shaped-ufo-was-filmed-darting-back-and-forth-in-a-zig/1168145312019262/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earlier this year, a sphere-shaped UFO was filmed darting...Earlier this year, a sphere-shaped UFO was filmed darting back and forth in...</p></details>
+   Link:<a href="https://www.facebook.com/BroBible/posts/earlier-this-year-a-sphere-shaped-ufo-was-filmed-darting-back-and-forth-in-a-zig/1168145312019262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BroBible/posts/earlier-this-year-a-sphere-shaped-ufo-was-filmed-darting-back-and-forth-in-a-zig/1168145312019262/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earlier this year, a sphere-shaped UFO was filmed darting...Earlier this year, a sphere-shaped UFO was filmed darting back and forth in...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Pilot Spots UFO Zoom Past Mid-Flight (S5) | The Proof Is Out There  
-   Link: <a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0FqCRPpg57c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Successfully Decoded the Buga Sphere — The Results Are Disturbing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0FqCRPpg57c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0FqCRPpg57c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Successfully Decoded the Buga Sphere — The Results Are Disturbing...</p></details>

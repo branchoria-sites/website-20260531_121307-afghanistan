@@ -249,15 +249,15 @@ image: /assets/images/Israel_4c197d_official_skeptical_54073a-Illustration-1-soc
 Israel has produced decades of UFO and unidentified aerial phenomenon (UAP) reports, yet it stands out less for formal investigation than for the absence of it. Unlike the United States, France, or some Latin American states, Israel has never developed a publicly known national UFO archive, dedicated military reporting programme, or declassified historical project comparable to Project Blue Book or the Pentagon’s more recent UAP offices. The result is an unusual gap: sightings periodically attract media attention, but there is little official documentation through which claims can be independently assessed.
 
 <img src="{{ "/assets/images/Israel_4c197d_official_skeptical_54073a-Illustration-1-dark.svg" | relative_url }}" alt="Official &amp; Sceptical illustration 1" data-theme-src-dark="{{ "/assets/images/Israel_4c197d_official_skeptical_54073a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Israel_4c197d_official_skeptical_54073a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This absence has shaped both sceptical and believer narratives. Supporters of UFO research often point to the lack of transparency as a possible investigative blind spot, while critics argue that the absence of official findings reflects the lack of compelling evidence requiring state intervention. In Israel, debates over UFOs therefore revolve less around disclosed government files and more around competing interpretations of limited, fragmented, and often civilian-generated evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesofisrael.com/us-government-examining-hundreds-of-unexplained-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofisrael.com">[The Times of Israel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofisrael.com</span><span class="citation-popover-title">us government examining hundreds of unexplained ufo reports</span><span class="citation-popover-snippet">The Times of IsraelUS government examining hundreds of unexplained &#x27;UFO&#x27;...13 Jan 2023 — The US government is examining 510 UFO reports...</span></span></span>
+This absence has shaped both sceptical and believer narratives. Supporters of UFO research often point to the lack of transparency as a possible investigative blind spot, while critics argue that the absence of official findings reflects the lack of compelling evidence requiring state intervention. In Israel, debates over UFOs therefore revolve less around disclosed government files and more around competing interpretations of limited, fragmented, and often civilian-generated evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesofisrael.com/us-government-examining-hundreds-of-unexplained-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofisrael.com">[The Times of Israel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofisrael.com</span><span class="citation-popover-title">us government examining hundreds of unexplained ufo reports</span><span class="citation-popover-snippet">The Times of IsraelUS government examining hundreds of unexplained &#x27;UFO&#x27;...13 Jan 2023 — The US government is examining 510 UFO reports...</span></span></span>
 
 ## IDF and Governmental Records: What Is Actually Known?
 
 The most striking feature of the Israeli UFO record is not the presence of secret files but the scarcity of publicly available official material.
 
-Neither the Israeli government nor the Israel Defense Forces (IDF) maintain a public-facing programme devoted to UFO or UAP investigations. While Israel possesses one of the world's most sophisticated air-defence and aerospace monitoring systems, no equivalent to the United States Department of Defense's All-domain Anomaly Resolution Office (AARO) has been publicly acknowledged. Reports appearing in Israeli media are generally handled as isolated incidents rather than as part of a systematic investigative framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesofisrael.com/us-government-examining-hundreds-of-unexplained-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofisrael.com">[The Times of Israel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofisrael.com</span><span class="citation-popover-title">us government examining hundreds of unexplained ufo reports</span><span class="citation-popover-snippet">The Times of IsraelUS government examining hundreds of unexplained &#x27;UFO&#x27;...13 Jan 2023 — The US government is examining 510 UFO reports...</span></span></span>
+Neither the Israeli government nor the Israel Defense Forces (IDF) maintain a public-facing programme devoted to UFO or UAP investigations. While Israel possesses one of the world's most sophisticated air-defence and aerospace monitoring systems, no equivalent to the United States Department of Defense's All-domain Anomaly Resolution Office (AARO) has been publicly acknowledged. Reports appearing in Israeli media are generally handled as isolated incidents rather than as part of a systematic investigative framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesofisrael.com/us-government-examining-hundreds-of-unexplained-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofisrael.com">[The Times of Israel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofisrael.com</span><span class="citation-popover-title">us government examining hundreds of unexplained ufo reports</span><span class="citation-popover-snippet">The Times of IsraelUS government examining hundreds of unexplained &#x27;UFO&#x27;...13 Jan 2023 — The US government is examining 510 UFO reports...</span></span></span>
 
-When unusual aerial sightings have entered public discussion, authorities have generally sought conventional explanations. A notable example occurred in July 2012, when hundreds of Israelis reported a bright object crossing the sky. Astronomers interviewed by Israeli media suggested that the phenomenon was unlikely to be extraterrestrial and instead resembled a missile-related event similar to an earlier Russian missile test that had produced dramatic atmospheric effects. Public attention was intense, but no enduring governmental inquiry emerged from the incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ynetnews.com/article/4239796" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ynetnews.com">[ynetglobal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ynetnews.com</span><span class="citation-popover-snippet">ynetglobalIsraelis nationwide report seeing UFO6 Jul 2012 — Hundreds flood police with reports of UFO in nation&#x27;s skies; Astronomical Ass...</span></span></span>
+When unusual aerial sightings have entered public discussion, authorities have generally sought conventional explanations. A notable example occurred in July 2012, when hundreds of Israelis reported a bright object crossing the sky. Astronomers interviewed by Israeli media suggested that the phenomenon was unlikely to be extraterrestrial and instead resembled a missile-related event similar to an earlier Russian missile test that had produced dramatic atmospheric effects. Public attention was intense, but no enduring governmental inquiry emerged from the incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ynetnews.com/article/4239796" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ynetnews.com">[ynetglobal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ynetnews.com</span><span class="citation-popover-snippet">ynetglobalIsraelis nationwide report seeing UFO6 Jul 2012 — Hundreds flood police with reports of UFO in nation&#x27;s skies; Astronomical Ass...</span></span></span>
 
 This pattern recurs throughout the Israeli record:
 
@@ -299,23 +299,23 @@ The lack of released sensor data means that many Israeli cases remain suspended 
 
 No Israeli UFO incident better illustrates modern sceptical analysis than the Jerusalem Temple Mount videos of January 2011.
 
-Several online videos appeared to show a glowing object hovering above the Dome of the Rock before rapidly accelerating into the sky. The footage spread internationally and quickly became one of the most discussed UFO clips of the early social-media era. For many viewers, the multiple camera angles seemed to strengthen the case for authenticity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/holy-land-hoax-jerusalem-ufo-not-kosher/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">holy land hoax jerusalem ufo not kosher</span><span class="citation-popover-snippet">CBS NewsHoly Land Hoax: Jerusalem UFO Not KosherFeb 9, 2011 — Myriad Signs Point to Hoax Behind UFO Videos Depicted Hovering Over Jerusal...</span></span></span>
+Several online videos appeared to show a glowing object hovering above the Dome of the Rock before rapidly accelerating into the sky. The footage spread internationally and quickly became one of the most discussed UFO clips of the early social-media era. For many viewers, the multiple camera angles seemed to strengthen the case for authenticity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/holy-land-hoax-jerusalem-ufo-not-kosher/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">holy land hoax jerusalem ufo not kosher</span><span class="citation-popover-snippet">CBS NewsHoly Land Hoax: Jerusalem UFO Not KosherFeb 9, 2011 — Myriad Signs Point to Hoax Behind UFO Videos Depicted Hovering Over Jerusal...</span></span></span>
 
 Sceptics, however, identified numerous problems.
 
-Investigators noted that the videos emerged almost simultaneously through anonymous online channels, lacked verifiable original source material, and displayed visual characteristics consistent with digital compositing. Analysts also questioned why no independent professional footage, security recordings, or corroborating reports from a heavily monitored and politically sensitive location surfaced alongside the viral clips. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/holy-land-hoax-jerusalem-ufo-not-kosher/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">holy land hoax jerusalem ufo not kosher</span><span class="citation-popover-snippet">CBS NewsHoly Land Hoax: Jerusalem UFO Not KosherFeb 9, 2011 — Myriad Signs Point to Hoax Behind UFO Videos Depicted Hovering Over Jerusal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.urban-astronomer.com/astronomy/28-january-2011-ufo-over-jerusalem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: urban-astronomer.com">[Urban Astronomer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">urban-astronomer.com</span><span class="citation-popover-title">28 january 2011 ufo over jerusalem</span><span class="citation-popover-snippet">28 January 2011: UFO over JerusalemJun 30, 2011 — 28 January 2011: UFO over Jerusalem. Urban... It&#x27;s all very impressive but there are a...</span><span class="citation-popover-meta">Published: january 2011</span></span></span>
+Investigators noted that the videos emerged almost simultaneously through anonymous online channels, lacked verifiable original source material, and displayed visual characteristics consistent with digital compositing. Analysts also questioned why no independent professional footage, security recordings, or corroborating reports from a heavily monitored and politically sensitive location surfaced alongside the viral clips.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/holy-land-hoax-jerusalem-ufo-not-kosher/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">holy land hoax jerusalem ufo not kosher</span><span class="citation-popover-snippet">CBS NewsHoly Land Hoax: Jerusalem UFO Not KosherFeb 9, 2011 — Myriad Signs Point to Hoax Behind UFO Videos Depicted Hovering Over Jerusal...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.urban-astronomer.com/astronomy/28-january-2011-ufo-over-jerusalem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: urban-astronomer.com">[Urban Astronomer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">urban-astronomer.com</span><span class="citation-popover-title">28 january 2011 ufo over jerusalem</span><span class="citation-popover-snippet">28 January 2011: UFO over JerusalemJun 30, 2011 — 28 January 2011: UFO over Jerusalem. Urban... It&#x27;s all very impressive but there are a...</span><span class="citation-popover-meta">Published: january 2011</span></span></span>
 
-Media investigations were similarly cautious. CBS News characterised the evidence as highly suspicious and pointed to multiple indicators of fabrication. Israeli commentators also highlighted the ease with which digital effects software could reproduce the observed light burst and rapid acceleration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/holy-land-hoax-jerusalem-ufo-not-kosher/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">holy land hoax jerusalem ufo not kosher</span><span class="citation-popover-snippet">CBS NewsHoly Land Hoax: Jerusalem UFO Not KosherFeb 9, 2011 — Myriad Signs Point to Hoax Behind UFO Videos Depicted Hovering Over Jerusal...</span></span></span>
+Media investigations were similarly cautious. CBS News characterised the evidence as highly suspicious and pointed to multiple indicators of fabrication. Israeli commentators also highlighted the ease with which digital effects software could reproduce the observed light burst and rapid acceleration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/holy-land-hoax-jerusalem-ufo-not-kosher/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">holy land hoax jerusalem ufo not kosher</span><span class="citation-popover-snippet">CBS NewsHoly Land Hoax: Jerusalem UFO Not KosherFeb 9, 2011 — Myriad Signs Point to Hoax Behind UFO Videos Depicted Hovering Over Jerusal...</span></span></span>
 
-The Temple Mount case became significant not because it proved a UFO encounter, but because it demonstrated a broader shift in UFO culture. Viral videos could reach millions of viewers before systematic verification occurred, while online communities rapidly divided between authentication efforts and debunking campaigns. In Israel's case, the event remains one of the clearest examples of sceptical analysis overwhelming a popular UFO claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/holy-land-hoax-jerusalem-ufo-not-kosher/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">holy land hoax jerusalem ufo not kosher</span><span class="citation-popover-snippet">CBS NewsHoly Land Hoax: Jerusalem UFO Not KosherFeb 9, 2011 — Myriad Signs Point to Hoax Behind UFO Videos Depicted Hovering Over Jerusal...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skeptic/comments/fdx2z/lets_discuss_why_the_israel_temple_dome_ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What do you guys think, still a hoax?... r/aliens - UFO instant acceleration in Jerusalem 2011.Read more...</span></span></span>
+The Temple Mount case became significant not because it proved a UFO encounter, but because it demonstrated a broader shift in UFO culture. Viral videos could reach millions of viewers before systematic verification occurred, while online communities rapidly divided between authentication efforts and debunking campaigns. In Israel's case, the event remains one of the clearest examples of sceptical analysis overwhelming a popular UFO claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/holy-land-hoax-jerusalem-ufo-not-kosher/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">holy land hoax jerusalem ufo not kosher</span><span class="citation-popover-snippet">CBS NewsHoly Land Hoax: Jerusalem UFO Not KosherFeb 9, 2011 — Myriad Signs Point to Hoax Behind UFO Videos Depicted Hovering Over Jerusal...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skeptic/comments/fdx2z/lets_discuss_why_the_israel_temple_dome_ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">What do you guys think, still a hoax?... r/aliens - UFO instant acceleration in Jerusalem 2011.Read more...</span></span></span>
 
 ## High-Profile Claims and the Problem of Authority
 
 Israeli UFO discussions periodically receive global attention because of statements made by prominent individuals rather than because of newly released evidence.
 
-The most famous example involved former Israeli space-security official Haim Eshed, who claimed in 2020 that extraterrestrials existed and that governments had maintained secret contacts with a so-called "Galactic Federation". The claims received worldwide coverage due to Eshed's senior scientific and defence credentials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesofisrael.com/us-government-examining-hundreds-of-unexplained-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofisrael.com">[The Times of Israel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofisrael.com</span><span class="citation-popover-title">us government examining hundreds of unexplained ufo reports</span><span class="citation-popover-snippet">The Times of IsraelUS government examining hundreds of unexplained &#x27;UFO&#x27;...13 Jan 2023 — The US government is examining 510 UFO reports...</span></span></span>
+The most famous example involved former Israeli space-security official Haim Eshed, who claimed in 2020 that extraterrestrials existed and that governments had maintained secret contacts with a so-called "Galactic Federation". The claims received worldwide coverage due to Eshed's senior scientific and defence credentials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesofisrael.com/us-government-examining-hundreds-of-unexplained-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofisrael.com">[The Times of Israel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofisrael.com</span><span class="citation-popover-title">us government examining hundreds of unexplained ufo reports</span><span class="citation-popover-snippet">The Times of IsraelUS government examining hundreds of unexplained &#x27;UFO&#x27;...13 Jan 2023 — The US government is examining 510 UFO reports...</span></span></span>
 
-Yet the reaction within Israel's scientific establishment was notably restrained. Israeli space expert Isaac Ben-Israel argued that extraterrestrial life may well exist somewhere in the universe but rejected Eshed's conclusions as unsupported by evidence. The debate quickly shifted from the content of the claims to the standard question underlying UFO controversies: does the status of a witness substitute for documentation? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesofisrael.com/us-government-examining-hundreds-of-unexplained-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofisrael.com">[The Times of Israel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofisrael.com</span><span class="citation-popover-title">us government examining hundreds of unexplained ufo reports</span><span class="citation-popover-snippet">The Times of IsraelUS government examining hundreds of unexplained &#x27;UFO&#x27;...13 Jan 2023 — The US government is examining 510 UFO reports...</span></span></span>
+Yet the reaction within Israel's scientific establishment was notably restrained. Israeli space expert Isaac Ben-Israel argued that extraterrestrial life may well exist somewhere in the universe but rejected Eshed's conclusions as unsupported by evidence. The debate quickly shifted from the content of the claims to the standard question underlying UFO controversies: does the status of a witness substitute for documentation?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timesofisrael.com/us-government-examining-hundreds-of-unexplained-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofisrael.com">[The Times of Israel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofisrael.com</span><span class="citation-popover-title">us government examining hundreds of unexplained ufo reports</span><span class="citation-popover-snippet">The Times of IsraelUS government examining hundreds of unexplained &#x27;UFO&#x27;...13 Jan 2023 — The US government is examining 510 UFO reports...</span></span></span>
 
 Sceptical analysts generally answer no. Credentials may justify taking a statement seriously enough to investigate, but they do not constitute proof. The Eshed episode therefore reinforced a recurring theme in Israeli UFO discourse: extraordinary claims can generate headlines without generating verifiable evidence.
 
@@ -324,7 +324,7 @@ Sceptical analysts generally answer no. Credentials may justify taking a stateme
 
 The contrast between Israel and the United States is particularly revealing.
 
-The United States has moved—albeit unevenly—towards greater institutional transparency. Project Blue Book archived thousands of historical reports, and contemporary bodies such as AARO now publish annual assessments, statistics, and historical reviews. Even when conclusions remain inconclusive, researchers have access to official documents that can be scrutinised and challenged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aljazeera.com/news/2021/6/25/us-report-on-documented-ufos-leaves-sightings-unexplained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aljazeera.com">[Al Jazeera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aljazeera.com</span><span class="citation-popover-title">us report on documented ufos leaves sightings unexplained</span><span class="citation-popover-snippet">Al JazeeraUS report on documented UFOs leaves sightings...25 Jun 2021 — A US government report on UFOs found defence and intelligence...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/pentagon-defense-department-ufo-uap-aliens-report-99d2ca20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The investigation, spanning nearly 80 years, found no empirical evidence supporting the existence or recovery of alien beings or crafts...</span></span></span>
+The United States has moved—albeit unevenly—towards greater institutional transparency. Project Blue Book archived thousands of historical reports, and contemporary bodies such as AARO now publish annual assessments, statistics, and historical reviews. Even when conclusions remain inconclusive, researchers have access to official documents that can be scrutinised and challenged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aljazeera.com/news/2021/6/25/us-report-on-documented-ufos-leaves-sightings-unexplained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aljazeera.com">[Al Jazeera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aljazeera.com</span><span class="citation-popover-title">us report on documented ufos leaves sightings unexplained</span><span class="citation-popover-snippet">Al JazeeraUS report on documented UFOs leaves sightings...25 Jun 2021 — A US government report on UFOs found defence and intelligence...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/pentagon-defense-department-ufo-uap-aliens-report-99d2ca20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">The investigation, spanning nearly 80 years, found no empirical evidence supporting the existence or recovery of alien beings or crafts...</span></span></span>
 
 Israel offers almost none of this infrastructure.
 
@@ -333,7 +333,7 @@ There is no equivalent public archive cataloguing decades of sightings. There is
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Media reports.
-* Civilian witness testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This release follows an earlier drop of 162 files, which drew over a billion views online. The new footage includes sightings from the Mi...</span></span></span>
+* Civilian witness testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This release follows an earlier drop of 162 files, which drew over a billion views online. The new footage includes sightings from the Mi...</span></span></span>
 * Amateur investigations.
 * Private UFO organisations and archives.
 * International databases that collect user submissions.
@@ -348,7 +348,7 @@ This difference matters because scepticism itself depends on access to evidence.
 
 Israeli scientists who comment publicly on UFO reports typically approach them through the broader framework used internationally: unidentified does not mean extraterrestrial.
 
-Modern UAP research emphasises the limitations of eyewitness testimony, poor image quality, atmospheric distortions, sensor errors, and observational bias. NASA's recent UAP review similarly argued that most available data are too limited to support strong conclusions and that better instrumentation is more important than speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
+Modern UAP research emphasises the limitations of eyewitness testimony, poor image quality, atmospheric distortions, sensor errors, and observational bias. NASA's recent UAP review similarly argued that most available data are too limited to support strong conclusions and that better instrumentation is more important than speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
 
 This perspective is particularly relevant in Israel because many reported sightings involve:
 
@@ -364,7 +364,7 @@ This perspective is particularly relevant in Israel because many reported sighti
 
 Under these conditions, a case may remain unexplained without becoming evidence for extraterrestrial technology.
 
-Some researchers have argued that unidentified phenomena deserve systematic scientific study precisely because ambiguity remains. Recent academic proposals for dedicated sensor networks and structured data collection reflect this approach. Rather than assuming alien origins, such projects seek to reduce uncertainty through better measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+Some researchers have argued that unidentified phenomena deserve systematic scientific study precisely because ambiguity remains. Recent academic proposals for dedicated sensor networks and structured data collection reflect this approach. Rather than assuming alien origins, such projects seek to reduce uncertainty through better measurements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 For Israel, the practical implication is clear: the major obstacle is not a shortage of stories but a shortage of verifiable data.
 
@@ -390,194 +390,194 @@ What emerges is not a clear confirmation or refutation of UFO claims, but a pict
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RmwukR8_4v8" title="4 INFAMOUS UFO HOAXES REVEALED | The Proof is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RmwukR8_4v8" target="_blank" rel="noopener noreferrer">4 INFAMOUS UFO HOAXES REVEALED | The Proof is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 325.8K &middot; Uploaded: July 2022 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RmwukR8_4v8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RmwukR8_4v8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Investigations and Skepticism Israeli UFO Reports Under Scrutiny. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Investigations and Skepticism Israeli UFO Reports Under Scrutiny. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs, Chemtrails, and Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F5SFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs, Chemtrails, and Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs, Chemtrails, and Aliens">UFOs, Chemtrails, and Aliens</a>
-        </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Timothy D. Callahan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs, Chemtrails, and Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F5SFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs, Chemtrails, and Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs, Chemtrails, and Aliens">UFOs, Chemtrails, and Aliens</a>
+</h4>
+<p class="fr-book-author">By Donald R. Prothero, Timothy D. Callahan</p>
         
-        <p class="fr-book-desc">Explores conventional explanations and critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores conventional explanations and critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens+by+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides a benchmark for comparison with formal UFO inquiries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a benchmark for comparison with formal UFO inquiries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines official investigations and archival records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines official investigations and archival records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly matches a page about investigations, records, and scrutiny.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches a page about investigations, records, and scrutiny.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs, Chemtrails, and Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%2C+Chemtrails%2C+and+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs, Chemtrails, and Aliens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="investigations-and-skepticism-israeli-ufo-reports-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ What emerges is not a clear confirmation or refutation of UFO claims, but a pict
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ What emerges is not a clear confirmation or refutation of UFO claims, but a pict
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ What emerges is not a clear confirmation or refutation of UFO claims, but a pict
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ What emerges is not a clear confirmation or refutation of UFO claims, but a pict
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ What emerges is not a clear confirmation or refutation of UFO claims, but a pict
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,154 +783,154 @@ What emerges is not a clear confirmation or refutation of UFO claims, but a pict
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: urban-astronomer.com  
    Title: 28 january 2011 ufo over jerusalem  
-   Link: <a href="https://www.urban-astronomer.com/astronomy/28-january-2011-ufo-over-jerusalem/" target="_blank" rel="noopener noreferrer nofollow">https://www.urban-astronomer.com/astronomy/28-january-2011-ufo-over-jerusalem/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>28 January 2011: UFO over JerusalemJun 30, 2011 — 28 January 2011: UFO over Jerusalem. Urban... It&#x27;s all very impressive but there are a...</p></details>
+   Link:<a href="https://www.urban-astronomer.com/astronomy/28-january-2011-ufo-over-jerusalem/" target="_blank" rel="noopener noreferrer nofollow">https://www.urban-astronomer.com/astronomy/28-january-2011-ufo-over-jerusalem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28 January 2011: UFO over JerusalemJun 30, 2011 — 28 January 2011: UFO over Jerusalem. Urban... It&#x27;s all very impressive but there are a...</p></details>
    Published: january 2011  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/fdx2z/lets_discuss_why_the_israel_temple_dome_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/fdx2z/lets_discuss_why_the_israel_temple_dome_ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What do you guys think, still a hoax?... r/aliens - UFO instant acceleration in Jerusalem 2011.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/fdx2z/lets_discuss_why_the_israel_temple_dome_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/fdx2z/lets_discuss_why_the_israel_temple_dome_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What do you guys think, still a hoax?... r/aliens - UFO instant acceleration in Jerusalem 2011.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
+   Link:<a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: several uap sightings over the skies of israel  
-   Link: <a href="https://www.reddit.com/r/ForbiddenBromance/comments/1j346lu/several_uap_sightings_over_the_skies_of_israel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ForbiddenBromance/comments/1j346lu/several_uap_sightings_over_the_skies_of_israel/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and...... aliens in Israel?” inspired me to write an essay exploring... In mid-2024, the Pentagon released its official report on UAP/U...</p></details>
+   Link:<a href="https://www.reddit.com/r/ForbiddenBromance/comments/1j346lu/several_uap_sightings_over_the_skies_of_israel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ForbiddenBromance/comments/1j346lu/several_uap_sightings_over_the_skies_of_israel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and...... aliens in Israel?” inspired me to write an essay exploring... In mid-2024, the Pentagon released its official report on UAP/U...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: Jerusalem UFO  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/16rf5xq/jerusalem_ufo_4_angles/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16rf5xq/jerusalem_ufo_4_angles/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 angles: r/aliensr/UFOs - UFO over Jerusalem in 2011 - some thoughts and questions. youtu. 0. 22...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/16rf5xq/jerusalem_ufo_4_angles/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16rf5xq/jerusalem_ufo_4_angles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 angles: r/aliensr/UFOs - UFO over Jerusalem in 2011 - some thoughts and questions. youtu. 0. 22...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: the jerusalem ufo was recorded contemporaneously  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dmmdth/the_jerusalem_ufo_was_recorded_contemporaneously/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dmmdth/the_jerusalem_ufo_was_recorded_contemporaneously/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by...Synced, stabilized and enhanced footage of Jerusalem UFO 2011/01/...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dmmdth/the_jerusalem_ufo_was_recorded_contemporaneously/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dmmdth/the_jerusalem_ufo_was_recorded_contemporaneously/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by...Synced, stabilized and enhanced footage of Jerusalem UFO 2011/01/...</p></details>
 
 2
 
 8. Please reply to OP's comment here: [https://old.reddit.com/r/UF](https://old.reddit.com/r/UF)
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dmcmwl/uap_suddenly_shot_up_to_the_sky_has_this_been/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dmcmwl/uap_suddenly_shot_up_to_the_sky_has_this_been/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO over Jerusalem in 2011 - some thoughts and questions. youtu. 0. 22...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dmcmwl/uap_suddenly_shot_up_to_the_sky_has_this_been/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dmcmwl/uap_suddenly_shot_up_to_the_sky_has_this_been/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO over Jerusalem in 2011 - some thoughts and questions. youtu. 0. 22...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: idf.il  
-   Link: <a href="https://www.idf.il/en/mini-sites/israeli-air-force/top-secret-how-the-israel-air-force-thwarted-an-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://www.idf.il/en/mini-sites/israeli-air-force/top-secret-how-the-israel-air-force-thwarted-an-alien-invasion/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret: How the Israel Air Force Thwarted an Alien...The Israeli Air Force to thwart the dangerous alien invasion by infiltrating the ma...</p></details>
+   Link:<a href="https://www.idf.il/en/mini-sites/israeli-air-force/top-secret-how-the-israel-air-force-thwarted-an-alien-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://www.idf.il/en/mini-sites/israeli-air-force/top-secret-how-the-israel-air-force-thwarted-an-alien-invasion/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret: How the Israel Air Force Thwarted an Alien...The Israeli Air Force to thwart the dangerous alien invasion by infiltrating the ma...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: timesofisrael.com  
    Title: us government examining hundreds of unexplained ufo reports  
-   Link: <a href="https://www.timesofisrael.com/us-government-examining-hundreds-of-unexplained-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/us-government-examining-hundreds-of-unexplained-ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Times of IsraelUS government examining hundreds of unexplained &#x27;UFO&#x27;...13 Jan 2023 — The US government is examining 510 UFO reports...</p></details>
+   Link:<a href="https://www.timesofisrael.com/us-government-examining-hundreds-of-unexplained-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/us-government-examining-hundreds-of-unexplained-ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Times of IsraelUS government examining hundreds of unexplained &#x27;UFO&#x27;...13 Jan 2023 — The US government is examining 510 UFO reports...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ynetnews.com  
-   Link: <a href="https://www.ynetnews.com/article/4239796" target="_blank" rel="noopener noreferrer nofollow">https://www.ynetnews.com/article/4239796</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ynetglobalIsraelis nationwide report seeing UFO6 Jul 2012 — Hundreds flood police with reports of UFO in nation&#x27;s skies; Astronomical Ass...</p></details>
+   Link:<a href="https://www.ynetnews.com/article/4239796" target="_blank" rel="noopener noreferrer nofollow">https://www.ynetnews.com/article/4239796</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ynetglobalIsraelis nationwide report seeing UFO6 Jul 2012 — Hundreds flood police with reports of UFO in nation&#x27;s skies; Astronomical Ass...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: holy land hoax jerusalem ufo not kosher  
-   Link: <a href="https://www.cbsnews.com/news/holy-land-hoax-jerusalem-ufo-not-kosher/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/holy-land-hoax-jerusalem-ufo-not-kosher/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsHoly Land Hoax: Jerusalem UFO Not KosherFeb 9, 2011 — Myriad Signs Point to Hoax Behind UFO Videos Depicted Hovering Over Jerusal...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/holy-land-hoax-jerusalem-ufo-not-kosher/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/holy-land-hoax-jerusalem-ufo-not-kosher/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsHoly Land Hoax: Jerusalem UFO Not KosherFeb 9, 2011 — Myriad Signs Point to Hoax Behind UFO Videos Depicted Hovering Over Jerusal...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: timesofisrael.com  
    Title: israeli space chief says aliens may well exist but they havent met humans  
-   Link: <a href="https://www.timesofisrael.com/israeli-space-chief-says-aliens-may-well-exist-but-they-havent-met-humans/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/israeli-space-chief-says-aliens-may-well-exist-but-they-havent-met-humans/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Times of IsraelIsraeli space chief says aliens may well exist, but they...10 Dec 2020 — After retired space pioneer Haim Eshed claim...</p></details>
+   Link:<a href="https://www.timesofisrael.com/israeli-space-chief-says-aliens-may-well-exist-but-they-havent-met-humans/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/israeli-space-chief-says-aliens-may-well-exist-but-they-havent-met-humans/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Times of IsraelIsraeli space chief says aliens may well exist, but they...10 Dec 2020 — After retired space pioneer Haim Eshed claim...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aljazeera.com  
    Title: us report on documented ufos leaves sightings unexplained  
-   Link: <a href="https://www.aljazeera.com/news/2021/6/25/us-report-on-documented-ufos-leaves-sightings-unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2021/6/25/us-report-on-documented-ufos-leaves-sightings-unexplained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Al JazeeraUS report on documented UFOs leaves sightings...25 Jun 2021 — A US government report on UFOs found defence and intelligence...</p></details>
+   Link:<a href="https://www.aljazeera.com/news/2021/6/25/us-report-on-documented-ufos-leaves-sightings-unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2021/6/25/us-report-on-documented-ufos-leaves-sightings-unexplained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Al JazeeraUS report on documented UFOs leaves sightings...25 Jun 2021 — A US government report on UFOs found defence and intelligence...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/politics/national-security/pentagon-defense-department-ufo-uap-aliens-report-99d2ca20" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-defense-department-ufo-uap-aliens-report-99d2ca20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The investigation, spanning nearly 80 years, found no empirical evidence supporting the existence or recovery of alien beings or crafts...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/pentagon-defense-department-ufo-uap-aliens-report-99d2ca20" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-defense-department-ufo-uap-aliens-report-99d2ca20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The investigation, spanning nearly 80 years, found no empirical evidence supporting the existence or recovery of alien beings or crafts...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fox32chicago.com  
-   Link: <a href="https://www.fox32chicago.com/news/former-israeli-space-chief-says-us-in-contact-with-galactic-federation-of-aliens-and-trump-knows" target="_blank" rel="noopener noreferrer nofollow">https://www.fox32chicago.com/news/former-israeli-space-chief-says-us-in-contact-with-galactic-federation-of-aliens-and-trump-knows</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Israeli space chief says US in contact with &#x27;galactic...Dec 16, 2020 — In May 2019, the Pentagon also admitted that it still inve...</p></details>
+   Link:<a href="https://www.fox32chicago.com/news/former-israeli-space-chief-says-us-in-contact-with-galactic-federation-of-aliens-and-trump-knows" target="_blank" rel="noopener noreferrer nofollow">https://www.fox32chicago.com/news/former-israeli-space-chief-says-us-in-contact-with-galactic-federation-of-aliens-and-trump-knows</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Israeli space chief says US in contact with &#x27;galactic...Dec 16, 2020 — In May 2019, the Pentagon also admitted that it still inve...</p></details>
    Published: May 2019  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: denver7.com  
-   Link: <a href="https://www.denver7.com/news/national/former-israeli-space-security-chief-claims-aliens-exist-and-us-has-agreement-with-them" target="_blank" rel="noopener noreferrer nofollow">https://www.denver7.com/news/national/former-israeli-space-security-chief-claims-aliens-exist-and-us-has-agreement-with-them</a>  
+   Link:<a href="https://www.denver7.com/news/national/former-israeli-space-security-chief-claims-aliens-exist-and-us-has-agreement-with-them" target="_blank" rel="noopener noreferrer nofollow">https://www.denver7.com/news/national/former-israeli-space-security-chief-claims-aliens-exist-and-us-has-agreement-with-them</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: drmsh.com  
-   Link: <a href="https://drmsh.com/fake-2011-video-of-ufo-over-dome-of-the-rock-on-the-jerusalem-temple-mount-is-still-fake/" target="_blank" rel="noopener noreferrer nofollow">https://drmsh.com/fake-2011-video-of-ufo-over-dome-of-the-rock-on-the-jerusalem-temple-mount-is-still-fake/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake 2011 Video of UFO Over Dome of the Rock on the...Dec 8, 2017 — It&#x27;s fake, folks. Here&#x27;s the video. Watch it and you&#x27;ll see somethin...</p></details>
+   Link:<a href="https://drmsh.com/fake-2011-video-of-ufo-over-dome-of-the-rock-on-the-jerusalem-temple-mount-is-still-fake/" target="_blank" rel="noopener noreferrer nofollow">https://drmsh.com/fake-2011-video-of-ufo-over-dome-of-the-rock-on-the-jerusalem-temple-mount-is-still-fake/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake 2011 Video of UFO Over Dome of the Rock on the...Dec 8, 2017 — It&#x27;s fake, folks. Here&#x27;s the video. Watch it and you&#x27;ll see somethin...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This release follows an earlier drop of 162 files, which drew over a billion views online. The new footage includes sightings from the Mi...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This release follows an earlier drop of 162 files, which drew over a billion views online. The new footage includes sightings from the Mi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: jpost.com  
    Title: former israeli space security chief says aliens exist humanity not ready 651405  
-   Link: <a href="https://www.jpost.com/omg/former-israeli-space-security-chief-says-aliens-exist-humanity-not-ready-651405" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/omg/former-israeli-space-security-chief-says-aliens-exist-humanity-not-ready-651405</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Israel made contact with aliens? According to retired Israeli officer and current professor Haim Eshed, the answer is yes, but this has been...</p></details>
+   Link:<a href="https://www.jpost.com/omg/former-israeli-space-security-chief-says-aliens-exist-humanity-not-ready-651405" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/omg/former-israeli-space-security-chief-says-aliens-exist-humanity-not-ready-651405</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Israel made contact with aliens? According to retired Israeli officer and current professor Haim Eshed, the answer is yes, but this has been...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: timesofisrael.com  
    Title: whistleblower tells congress us is hiding program that retrieves ufos  
-   Link: <a href="https://www.timesofisrael.com/whistleblower-tells-congress-us-is-hiding-program-that-retrieves-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/whistleblower-tells-congress-us-is-hiding-program-that-retrieves-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>official term the US government uses instead of UFOs. While the study of mysterious aircraft or objects often evokes talk of aliens and...</p></details>
+   Link:<a href="https://www.timesofisrael.com/whistleblower-tells-congress-us-is-hiding-program-that-retrieves-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/whistleblower-tells-congress-us-is-hiding-program-that-retrieves-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>official term the US government uses instead of UFOs. While the study of mysterious aircraft or objects often evokes talk of aliens and...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: timesofisrael.com  
-   Link: <a href="https://www.timesofisrael.com/us-army-vets-say-they-saw-ufos-on-israel-egypt-border-in-2014/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/us-army-vets-say-they-saw-ufos-on-israel-egypt-border-in-2014/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Army vets say they saw UFOs on Israel-Egypt border in...May 18, 2022 — Three former US Army cavalrymen have spoken up about seeing UF...</p></details>
+   Link:<a href="https://www.timesofisrael.com/us-army-vets-say-they-saw-ufos-on-israel-egypt-border-in-2014/" target="_blank" rel="noopener noreferrer nofollow">https://www.timesofisrael.com/us-army-vets-say-they-saw-ufos-on-israel-egypt-border-in-2014/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Army vets say they saw UFOs on Israel-Egypt border in...May 18, 2022 — Three former US Army cavalrymen have spoken up about seeing UF...</p></details>
    Published: May 18, 2022  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: Pentagon releases first batch of previously secret files  
-   Link: <a href="https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — The Pentagon on Friday released an initial group of previously secret files documenting reports of UFOs – a move sought for...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/may/08/pentagon-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — The Pentagon on Friday released an initial group of previously secret files documenting reports of UFOs – a move sought for...</p></details>
    Published: May 8, 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: jpost.com  
-   Link: <a href="https://www.jpost.com/health-science/leading-israeli-astronomer-puts-pentagon-uap-report-in-context-672270" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/health-science/leading-israeli-astronomer-puts-pentagon-uap-report-in-context-672270</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leading Israeli astronomer puts Pentagon UAP report in...Jun 28, 2021 — The Pentagon report only covers UAP sightings by the US...</p></details>
+   Link:<a href="https://www.jpost.com/health-science/leading-israeli-astronomer-puts-pentagon-uap-report-in-context-672270" target="_blank" rel="noopener noreferrer nofollow">https://www.jpost.com/health-science/leading-israeli-astronomer-puts-pentagon-uap-report-in-context-672270</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leading Israeli astronomer puts Pentagon UAP report in...Jun 28, 2021 — The Pentagon report only covers UAP sightings by the US...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Proof Is Out There: UFO SPOTTED IN JERUSALEM (Season 2) | History  
-   Link: <a href="https://www.youtube.com/watch?v=TJ0OImkWuCo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TJ0OImkWuCo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This final selection details how investigators and mainstream media outlets scrutinized viral reports such as the 2011 Jerusalem event, u...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TJ0OImkWuCo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TJ0OImkWuCo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This final selection details how investigators and mainstream media outlets scrutinized viral reports such as the 2011 Jerusalem event, u...</p></details>

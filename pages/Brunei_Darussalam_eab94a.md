@@ -1201,24 +1201,24 @@ This report summarises the available open‑source sightings, notes the context 
 
 Several first‑hand reports spanning the early 1990s to the 2020s appear in publicly maintained databases such as the National UFO Reporting Center (NUFORC), offering a sketch of unusual aerial observations over Brunei:
 
-* **1991 approximate close‑range sighting:** A lone witness claimed seeing a small object “floating” over a roof at close proximity in Bandar Seri Begawan, which then disappeared without noise. This report is anecdotal, with no corroborative direct documentation from other observers or official sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/brunei/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **2001 light phenomenon over the capital:** Two observers reportedly recorded a sharp light darting in and out of focus on video at midnight above Bandar Seri Begawan. The footage was described as poor quality, making identification difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=17805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 17805August 5, 2001...</span><span class="citation-popover-meta">Published: August 5, 2001</span></span></span>
-* **2002 green translucent object sighting:** A single witness reported seeing a glowing green object near a middle school before it ascended rapidly into the sky. Official investigation or verification is absent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/brunei/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **2005 circular hovering light:** In Seria, one observer described a circular object with lights that hovered briefly in the dawn sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/brunei/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **2009 photographic anomaly:** A photographer covering New Year’s fireworks found an unexplained object in a long‑exposure image; subsequent review noted that many such images often stem from aircraft strobe lights captured incidentally by shutter timing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/brunei/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **2026 unidentified sky object:** Local press reported a **night sky object seen over Bandar Seri Begawan on 22 January 2026**, photographed and noted for its slow descent and plume‑like appearance. Preliminary amateur analysis speculated about space debris (possibly from China’s Long March 12 rocket), though this was contested due to expected debris fall zones being far from Brunei. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thestar.com.my/aseanplus/aseanplus-news/2026/01/30/mysterious-object-spotted-over-brunei" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestar.com.my">[The Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestar.com.my</span><span class="citation-popover-title">The Star Mysterious object spotted over Brunei</span><span class="citation-popover-snippet">The StarMysterious object spotted over BruneiJanuary 30, 2026 — 30 Jan 2026 — BANDAR SERI BEGAWAN: An unidentified object was spotted in...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
+* **1991 approximate close‑range sighting:** A lone witness claimed seeing a small object “floating” over a roof at close proximity in Bandar Seri Begawan, which then disappeared without noise. This report is anecdotal, with no corroborative direct documentation from other observers or official sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/brunei/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **2001 light phenomenon over the capital:** Two observers reportedly recorded a sharp light darting in and out of focus on video at midnight above Bandar Seri Begawan. The footage was described as poor quality, making identification difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=17805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 17805August 5, 2001...</span><span class="citation-popover-meta">Published: August 5, 2001</span></span></span>
+* **2002 green translucent object sighting:** A single witness reported seeing a glowing green object near a middle school before it ascended rapidly into the sky. Official investigation or verification is absent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/brunei/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **2005 circular hovering light:** In Seria, one observer described a circular object with lights that hovered briefly in the dawn sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/brunei/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **2009 photographic anomaly:** A photographer covering New Year’s fireworks found an unexplained object in a long‑exposure image; subsequent review noted that many such images often stem from aircraft strobe lights captured incidentally by shutter timing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thephenomenon.app/brunei/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thephenomenon.app">[The Phenomenon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thephenomenon.app</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **2026 unidentified sky object:** Local press reported a **night sky object seen over Bandar Seri Begawan on 22 January 2026**, photographed and noted for its slow descent and plume‑like appearance. Preliminary amateur analysis speculated about space debris (possibly from China’s Long March 12 rocket), though this was contested due to expected debris fall zones being far from Brunei.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thestar.com.my/aseanplus/aseanplus-news/2026/01/30/mysterious-object-spotted-over-brunei" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestar.com.my">[The Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestar.com.my</span><span class="citation-popover-title">The Star Mysterious object spotted over Brunei</span><span class="citation-popover-snippet">The StarMysterious object spotted over BruneiJanuary 30, 2026 — 30 Jan 2026 — BANDAR SERI BEGAWAN: An unidentified object was spotted in...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
 
 These examples illustrate **sporadic sightings by private individuals** rather than a continuous or systematically catalogued national chronology.
 
 <img src="{{ "/assets/images/Brunei_Darussalam_eab94a-Illustration-1-dark.svg" | relative_url }}" alt="Brunei Darussalam illustration 1" data-theme-src-dark="{{ "/assets/images/Brunei_Darussalam_eab94a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brunei_Darussalam_eab94a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Interpretation and Local Scientific Response
 
-Brunei lacks any known **dedicated ufological organisations** or official government bodies publicly tasked with collecting or analysing UFO/UAP reports. Global lists of UFO research organisations do not list any based in Brunei, and there is no evidence of formal local research centres analogous to civilian or military UAP offices found in larger countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_UFO_organizations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO organizations</span><span class="citation-popover-snippet">February 16, 2007 — List of UFO organizations; Belarus · UfoCom; Estonia · AKRAK (inactive); France · COMETA (Comité d&#x27;Études Approfon...</span><span class="citation-popover-meta">Published: February 16, 2007</span></span></span>
+Brunei lacks any known **dedicated ufological organisations** or official government bodies publicly tasked with collecting or analysing UFO/UAP reports. Global lists of UFO research organisations do not list any based in Brunei, and there is no evidence of formal local research centres analogous to civilian or military UAP offices found in larger countries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_UFO_organizations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO organizations</span><span class="citation-popover-snippet">February 16, 2007 — List of UFO organizations; Belarus · UfoCom; Estonia · AKRAK (inactive); France · COMETA (Comité d&#x27;Études Approfon...</span><span class="citation-popover-meta">Published: February 16, 2007</span></span></span>
 
 Instead, interpretation of anomalous sky events in Brunei tends to fall to **local astronomical enthusiasts** or scientific organisations:
 
-* In a **2021 daytime fireball event**, the **Astronomical Society of Brunei Darussalam (PABD)** investigated a bright light and loud boom, associating it with a meteor disintegration and highlighting that such astronomical events can cause intense but explainable atmospheric sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/brunei039s-pabd-still-investigating-meteor-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestar.com.my">[The Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestar.com.my</span><span class="citation-popover-title">The Star Brunei&#x27;s PABD still investigating meteor sighting &#124; The Star</span><span class="citation-popover-snippet">The StarBrunei&#x27;s PABD still investigating meteor sighting &#124; The StarFebruary 8, 2021...</span><span class="citation-popover-meta">Published: February 8, 2021</span></span></span>
-* The 2009 “mysterious lights” seen at Kampong Lumut were interpreted by an astronomy society representative as more plausibly meteors or bright celestial bodies, such as Venus’, particularly when sightings occur during known meteor shower seasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sott.net/article/190290-Brunei-Mysterious-Sightings-In-Kg-Lumut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-title">Brunei: Mysterious Sightings In Kg Lumut — High Strangeness — Sott.net</span><span class="citation-popover-snippet">July 30, 2009...</span><span class="citation-popover-meta">Published: July 30, 2009</span></span></span>
+* In a **2021 daytime fireball event**, the **Astronomical Society of Brunei Darussalam (PABD)** investigated a bright light and loud boom, associating it with a meteor disintegration and highlighting that such astronomical events can cause intense but explainable atmospheric sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/brunei039s-pabd-still-investigating-meteor-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestar.com.my">[The Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestar.com.my</span><span class="citation-popover-title">The Star Brunei&#x27;s PABD still investigating meteor sighting &#124; The Star</span><span class="citation-popover-snippet">The StarBrunei&#x27;s PABD still investigating meteor sighting &#124; The StarFebruary 8, 2021...</span><span class="citation-popover-meta">Published: February 8, 2021</span></span></span>
+* The 2009 “mysterious lights” seen at Kampong Lumut were interpreted by an astronomy society representative as more plausibly meteors or bright celestial bodies, such as Venus’, particularly when sightings occur during known meteor shower seasons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sott.net/article/190290-Brunei-Mysterious-Sightings-In-Kg-Lumut" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sott.net">[Sott.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sott.net</span><span class="citation-popover-title">Brunei: Mysterious Sightings In Kg Lumut — High Strangeness — Sott.net</span><span class="citation-popover-snippet">July 30, 2009...</span><span class="citation-popover-meta">Published: July 30, 2009</span></span></span>
 
 These responses underscore that **astronomical and atmospheric phenomena** — shooting stars, meteors, aircraft lights, and camera exposures — are common [explanations]({{ 'explanations-418e2f/' | relative_url }}) brought forward even when initial witness accounts describe them as unusual.
 
@@ -1228,18 +1228,18 @@ These responses underscore that **astronomical and atmospheric phenomena** — s
 
 Most Brunei reports exist in **independent or crowd‑sourced archives**, where they are unverified by official oversight and vary widely in detail, camera evidence, and witness reliability:
 
-* **Confirmed natural phenomena:** Some events initially described as strange have been plausibly linked to known causes — for example, meteors or atmospheric fireballs confirmed by multiple witness descriptions and spoken about by local astronomy groups. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thestar.com.my/aseanplus/aseanplus-news/2026/01/30/mysterious-object-spotted-over-brunei" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestar.com.my">[The Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestar.com.my</span><span class="citation-popover-title">The Star Mysterious object spotted over Brunei</span><span class="citation-popover-snippet">The StarMysterious object spotted over BruneiJanuary 30, 2026 — 30 Jan 2026 — BANDAR SERI BEGAWAN: An unidentified object was spotted in...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
-* **Contested sightings:** The 2026 “unidentified object” photo remains contested; there is no definitive identification, and competing explanations include space debris passing high above, not a craft of unknown origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/brunei039s-pabd-still-investigating-meteor-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestar.com.my">[The Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestar.com.my</span><span class="citation-popover-title">The Star Brunei&#x27;s PABD still investigating meteor sighting &#124; The Star</span><span class="citation-popover-snippet">The StarBrunei&#x27;s PABD still investigating meteor sighting &#124; The StarFebruary 8, 2021...</span><span class="citation-popover-meta">Published: February 8, 2021</span></span></span>
+* **Confirmed natural phenomena:** Some events initially described as strange have been plausibly linked to known causes — for example, meteors or atmospheric fireballs confirmed by multiple witness descriptions and spoken about by local astronomy groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thestar.com.my/aseanplus/aseanplus-news/2026/01/30/mysterious-object-spotted-over-brunei" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestar.com.my">[The Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestar.com.my</span><span class="citation-popover-title">The Star Mysterious object spotted over Brunei</span><span class="citation-popover-snippet">The StarMysterious object spotted over BruneiJanuary 30, 2026 — 30 Jan 2026 — BANDAR SERI BEGAWAN: An unidentified object was spotted in...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
+* **Contested sightings:** The 2026 “unidentified object” photo remains contested; there is no definitive identification, and competing explanations include space debris passing high above, not a craft of unknown origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/brunei039s-pabd-still-investigating-meteor-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestar.com.my">[The Star]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestar.com.my</span><span class="citation-popover-title">The Star Brunei&#x27;s PABD still investigating meteor sighting &#124; The Star</span><span class="citation-popover-snippet">The StarBrunei&#x27;s PABD still investigating meteor sighting &#124; The StarFebruary 8, 2021...</span><span class="citation-popover-meta">Published: February 8, 2021</span></span></span>
 * **Anecdotal accounts lacking investigation:** Many historical or online community accounts rest on individual testimony without corroborating data, making them intriguing but scientifically inconclusive.
 
-Overall, there is **no known substantiated evidence of extraterrestrial spacecraft or government disclosures of recovered hardware in Brunei**. While the global military and scientific communities increasingly refer to the term *UAP* for unexplained phenomena and urge rigorous data collection, such frameworks have not been instituted domestically in Brunei. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[U.S. Army Acquisition Reform Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">U.S. Army Acquisition Reform OfficeAARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phe...</span></span></span>
+Overall, there is **no known substantiated evidence of extraterrestrial spacecraft or government disclosures of recovered hardware in Brunei**. While the global military and scientific communities increasingly refer to the term *UAP* for unexplained phenomena and urge rigorous data collection, such frameworks have not been instituted domestically in Brunei.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[U.S. Army Acquisition Reform Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">U.S. Army Acquisition Reform OfficeAARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phe...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mmk4VMQwjGY" title="Why I Really Don&#x27;t Like This Country (Brunei)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mmk4VMQwjGY" target="_blank" rel="noopener noreferrer">Why I Really Don&#x27;t Like This Country (Brunei)</a></p><p class="youtube-embed-meta">Channel: Drew Binsky &middot; Views: 8.8M &middot; Uploaded: September 2019 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mmk4VMQwjGY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mmk4VMQwjGY">Open on YouTube</a></p></div></div></div>
 
 <img src="{{ "/assets/images/Brunei_Darussalam_eab94a-Illustration-2-dark.svg" | relative_url }}" alt="Brunei Darussalam illustration 2" data-theme-src-dark="{{ "/assets/images/Brunei_Darussalam_eab94a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brunei_Darussalam_eab94a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Community and Cultural Context
 
-Independent and social media often feature Brunei residents discussing unusual lights or aerial phenomena, sometimes interpreting them through cultural lenses. Online forums and local commentary blend humorous, sceptical, and earnest accounts, which highlights how civilian observers engage with the subject absent formal reporting channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Brunei/comments/dhelmi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO sightings in Brunei</span><span class="citation-popover-snippet">UFO sightings in BruneiOctober 13, 2019...</span><span class="citation-popover-meta">Published: October 13, 2019</span></span></span>
+Independent and social media often feature Brunei residents discussing unusual lights or aerial phenomena, sometimes interpreting them through cultural lenses. Online forums and local commentary blend humorous, sceptical, and earnest accounts, which highlights how civilian observers engage with the subject absent formal reporting channels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Brunei/comments/dhelmi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">UFO sightings in Brunei</span><span class="citation-popover-snippet">UFO sightings in BruneiOctober 13, 2019...</span><span class="citation-popover-meta">Published: October 13, 2019</span></span></span>
 
 In the absence of a **national UFO database, official studies, or declassified materials**, the best available Brunei records consist of scattered testimony, occasional press coverage, and broad attempts by local astronomy enthusiasts to explain sightings through known natural or human‑made phenomena.
 
@@ -1252,194 +1252,194 @@ Brunei Darussalam’s footprint in global UFO/UAP reporting is characterised by 
 <img src="{{ "/assets/images/Brunei_Darussalam_eab94a-Illustration-3-dark.svg" | relative_url }}" alt="Brunei Darussalam illustration 3" data-theme-src-dark="{{ "/assets/images/Brunei_Darussalam_eab94a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brunei_Darussalam_eab94a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Has Brunei Really Seen in the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Has Brunei Really Seen in the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Best fit for sparse, anecdotal records that need careful evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Best fit for sparse, anecdotal records that need careful evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides credible broader UAP context for readers interested in national sighting records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides credible broader UAP context for readers interested in national sighting records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps explain how planets, meteors, satellites, and atmospheric conditions can be mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain how planets, meteors, satellites, and atmospheric conditions can be mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how isolated witness reports fit into broader UFO investigation categories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how isolated witness reports fit into broader UFO investigation categories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-brunei-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-brunei-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1455,7 +1455,7 @@ Brunei Darussalam’s footprint in global UFO/UAP reporting is characterised by 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1475,7 +1475,7 @@ Brunei Darussalam’s footprint in global UFO/UAP reporting is characterised by 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1507,7 +1507,7 @@ Brunei Darussalam’s footprint in global UFO/UAP reporting is characterised by 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1559,7 +1559,7 @@ Brunei Darussalam’s footprint in global UFO/UAP reporting is characterised by 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1604,7 +1604,7 @@ Brunei Darussalam’s footprint in global UFO/UAP reporting is characterised by 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1642,131 +1642,130 @@ Brunei Darussalam’s footprint in global UFO/UAP reporting is characterised by 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=17805" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=17805</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 17805August 5, 2001...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=17805" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=17805</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 17805August 5, 2001...</p></details>
    Published: August 5, 2001  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: List of UFO organizations  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO_organizations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO_organizations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 16, 2007 — List of UFO organizations; Belarus · UfoCom; Estonia · AKRAK (inactive); France · COMETA (Comité d&#x27;Études Approfon...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_UFO_organizations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO_organizations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 16, 2007 — List of UFO organizations; Belarus · UfoCom; Estonia · AKRAK (inactive); France · COMETA (Comité d&#x27;Études Approfon...</p></details>
    Published: February 16, 2007  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sott.net  
    Title: Brunei: Mysterious Sightings In Kg Lumut — High Strangeness — Sott.net  
-   Link: <a href="https://www.sott.net/article/190290-Brunei-Mysterious-Sightings-In-Kg-Lumut" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/190290-Brunei-Mysterious-Sightings-In-Kg-Lumut</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 30, 2009...</p></details>
+   Link:<a href="https://www.sott.net/article/190290-Brunei-Mysterious-Sightings-In-Kg-Lumut" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/190290-Brunei-Mysterious-Sightings-In-Kg-Lumut</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 30, 2009...</p></details>
    Published: July 30, 2009  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: UFO sightings in Brunei  
-   Link: <a href="https://www.reddit.com/r/Brunei/comments/dhelmi" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Brunei/comments/dhelmi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in BruneiOctober 13, 2019...</p></details>
+   Link:<a href="https://www.reddit.com/r/Brunei/comments/dhelmi" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Brunei/comments/dhelmi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in BruneiOctober 13, 2019...</p></details>
    Published: October 13, 2019  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fr.sott.net  
    Title: 35344 Une boule de feu embrase Brunei dans le ciel de Borneo  
-   Link: <a href="https://fr.sott.net/article/35344-Une-boule-de-feu-embrase-Brunei-dans-le-ciel-de-Borneo" target="_blank" rel="noopener noreferrer nofollow">https://fr.sott.net/article/35344-Une-boule-de-feu-embrase-Brunei-dans-le-ciel-de-Borneo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>boule de feu embrase Brunei dans le ciel de Bornéo — Feu dans le Ciel — Sott.netApril 14, 2020 — FEU DANS LE CIEL Image: Fireball 4 UNE B...</p></details>
+   Link:<a href="https://fr.sott.net/article/35344-Une-boule-de-feu-embrase-Brunei-dans-le-ciel-de-Borneo" target="_blank" rel="noopener noreferrer nofollow">https://fr.sott.net/article/35344-Une-boule-de-feu-embrase-Brunei-dans-le-ciel-de-Borneo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>boule de feu embrase Brunei dans le ciel de Bornéo — Feu dans le Ciel — Sott.netApril 14, 2020 — FEU DANS LE CIEL Image: Fireball 4 UNE B...</p></details>
    Published: April 14, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: uap.nexus  
    Title: Whether y  
-   Link: <a href="https://uap.nexus/" target="_blank" rel="noopener noreferrer nofollow">https://uap.nexus/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Sighting AggregatorUAP NEXUS - THE LEADING UFO AND UAP SIGHTING DATABASE Welcome to UAP NEXUS, the most trusted platform for track...</p></details>
+   Link:<a href="https://uap.nexus/" target="_blank" rel="noopener noreferrer nofollow">https://uap.nexus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global Sighting AggregatorUAP NEXUS - THE LEADING UFO AND UAP SIGHTING DATABASE Welcome to UAP NEXUS, the most trusted platform for track...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thephenomenon.app  
-   Link: <a href="https://thephenomenon.app/brunei/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/brunei/</a>  
+   Link:<a href="https://thephenomenon.app/brunei/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/brunei/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thestar.com.my  
    Title: The Star Mysterious object spotted over Brunei  
-   Link: <a href="https://www.thestar.com.my/aseanplus/aseanplus-news/2026/01/30/mysterious-object-spotted-over-brunei" target="_blank" rel="noopener noreferrer nofollow">https://www.thestar.com.my/aseanplus/aseanplus-news/2026/01/30/mysterious-object-spotted-over-brunei</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The StarMysterious object spotted over BruneiJanuary 30, 2026 — 30 Jan 2026 — BANDAR SERI BEGAWAN: An unidentified object was spotted in...</p></details>
+   Link:<a href="https://www.thestar.com.my/aseanplus/aseanplus-news/2026/01/30/mysterious-object-spotted-over-brunei" target="_blank" rel="noopener noreferrer nofollow">https://www.thestar.com.my/aseanplus/aseanplus-news/2026/01/30/mysterious-object-spotted-over-brunei</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The StarMysterious object spotted over BruneiJanuary 30, 2026 — 30 Jan 2026 — BANDAR SERI BEGAWAN: An unidentified object was spotted in...</p></details>
    Published: January 30, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thestar.com.my  
    Title: The Star Brunei's PABD still investigating meteor sighting | The Star  
-   Link: <a href="https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/brunei039s-pabd-still-investigating-meteor-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/brunei039s-pabd-still-investigating-meteor-sighting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The StarBrunei&#x27;s PABD still investigating meteor sighting | The StarFebruary 8, 2021...</p></details>
+   Link:<a href="https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/brunei039s-pabd-still-investigating-meteor-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.thestar.com.my/aseanplus/aseanplus-news/2021/02/08/brunei039s-pabd-still-investigating-meteor-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The StarBrunei&#x27;s PABD still investigating meteor sighting | The StarFebruary 8, 2021...</p></details>
    Published: February 8, 2021  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Army Acquisition Reform OfficeAARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phe...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Army Acquisition Reform OfficeAARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phe...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/borneobulletin.news/posts/mysterious-sky-sight-over-bruneinational-brunei-bruneinews-borneobulletin-brunei/1428139592655800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/borneobulletin.news/posts/mysterious-sky-sight-over-bruneinational-brunei-bruneinews-borneobulletin-brunei/1428139592655800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious sky sight over Brunei #national #...BORNEOBULLETIN.COM.BN. Mysterious sky sight over Brunei » Borneo Bulletin Online. An unid...</p></details>
+   Link:<a href="https://www.facebook.com/borneobulletin.news/posts/mysterious-sky-sight-over-bruneinational-brunei-bruneinews-borneobulletin-brunei/1428139592655800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/borneobulletin.news/posts/mysterious-sky-sight-over-bruneinational-brunei-bruneinews-borneobulletin-brunei/1428139592655800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious sky sight over Brunei #national #...BORNEOBULLETIN.COM.BN. Mysterious sky sight over Brunei » Borneo Bulletin Online. An unid...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thevibes.com  
-   Link: <a href="https://www.thevibes.com/articles/news/16142/astronomical-society-of-brunei-darussalam-link-strange-explosion-to-meteor" target="_blank" rel="noopener noreferrer nofollow">https://www.thevibes.com/articles/news/16142/astronomical-society-of-brunei-darussalam-link-strange-explosion-to-meteor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomical Society of Brunei Darussalam links &#x27;strange explosion&#x27; to meteor | Malaysia | The VibesFebruary 1, 2021 — ASTRONOMICAL SOCIE...</p></details>
+   Link:<a href="https://www.thevibes.com/articles/news/16142/astronomical-society-of-brunei-darussalam-link-strange-explosion-to-meteor" target="_blank" rel="noopener noreferrer nofollow">https://www.thevibes.com/articles/news/16142/astronomical-society-of-brunei-darussalam-link-strange-explosion-to-meteor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomical Society of Brunei Darussalam links &#x27;strange explosion&#x27; to meteor | Malaysia | The VibesFebruary 1, 2021 — ASTRONOMICAL SOCIE...</p></details>
    Published: February 1, 2021  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mykss.com  
-   Link: <a href="https://mykss.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/</a>  
+   Link:<a href="https://mykss.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and Other Paranormal InformationUFO and Other Paranormal Information... Review the search terms in response to requests for informat...</p></details>
+   Link:<a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and Other Paranormal InformationUFO and Other Paranormal Information... Review the search terms in response to requests for informat...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings caused by freak weather, says MoD report | Science | The GuardianMay 8, 2006 — This article is more than 20 years old UFO S...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2006/may/08/freedomofinformation.politics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings caused by freak weather, says MoD report | Science | The GuardianMay 8, 2006 — This article is more than 20 years old UFO S...</p></details>
    Published: May 8, 2006  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: dr michael flecker at heritagesg documented more than 2350 blue and white shards  
-   Link: <a href="https://www.facebook.com/brunumis/posts/dr-michael-flecker-at-heritagesg-documented-more-than-2350-blue-and-white-shards/1377166627777822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brunumis/posts/dr-michael-flecker-at-heritagesg-documented-more-than-2350-blue-and-white-shards/1377166627777822/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Flecker at HeritageSG documented more than...Dr. Michael Flecker at HeritageSG documented more than 2,350 blue-and-white shards...</p></details>
+   Link:<a href="https://www.facebook.com/brunumis/posts/dr-michael-flecker-at-heritagesg-documented-more-than-2350-blue-and-white-shards/1377166627777822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brunumis/posts/dr-michael-flecker-at-heritagesg-documented-more-than-2350-blue-and-white-shards/1377166627777822/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Flecker at HeritageSG documented more than...Dr. Michael Flecker at HeritageSG documented more than 2,350 blue-and-white shards...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
    Title: Foundation Book Final | PDF | Groundwater | Sewage Foundation Book Final (1)  
-   Link: <a href="https://www.scribd.com/document/500900675/Foundation-Book-Final-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/500900675/Foundation-Book-Final-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Foundation Book Final | PDF | Groundwater | SewageFoundation Book Final (1) - Free download as PDF File (.pdf), Text File (.txt) or read...</p></details>
+   Link:<a href="https://www.scribd.com/document/500900675/Foundation-Book-Final-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/500900675/Foundation-Book-Final-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Foundation Book Final | PDF | Groundwater | SewageFoundation Book Final (1) - Free download as PDF File (.pdf), Text File (.txt) or read...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/popular-mechanics-the-army-and-a-ufo-group-are-investigating-something?srsltid=AfmBOortbYZViQy1G305V-FooTC4yK2G2BIzRsLOZP5yAXqpZhDv-gxQ" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/popular-mechanics-the-army-and-a-ufo-group-are-investigating-something?srsltid=AfmBOortbYZViQy1G305V-FooTC4yK2G2BIzRsLOZP5yAXqpZhDv-gxQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· UFOs Are Real · UFOs Are Real · UFOs Are Real · UFOs Are Real · UFOs Are Real...Read more...</p></details>
+   Link:<a href="https://tothestars.media/en-gb/blogs/press-and-news/popular-mechanics-the-army-and-a-ufo-group-are-investigating-something?srsltid=AfmBOortbYZViQy1G305V-FooTC4yK2G2BIzRsLOZP5yAXqpZhDv-gxQ" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/popular-mechanics-the-army-and-a-ufo-group-are-investigating-something?srsltid=AfmBOortbYZViQy1G305V-FooTC4yK2G2BIzRsLOZP5yAXqpZhDv-gxQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· UFOs Are Real · UFOs Are Real · UFOs Are Real · UFOs Are Real · UFOs Are Real...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportSearching for signs of alien technology is a natural extension of those investigations. In 2017, Jill Tarter, one of the...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportSearching for signs of alien technology is a natural extension of those investigations. In 2017, Jill Tarter, one of the...</p></details>

@@ -1194,14 +1194,14 @@ image: /assets/images/Cyprus_852add-overview-social.jpg
 
 ## Introduction
 
-The most useful way to read the Cyprus material is as a credibility split. Some reports are historically interesting but poorly documented; some are simply witness claims with no independent sensor record; some are likely ordinary sky phenomena, such as aircraft, balloons, meteors, satellites, weather effects, or camera artefacts; and a small residue remains “unidentified” only because the available data is too thin to resolve. That is consistent with modern UAP practice more broadly: NASA says most UAP sightings have limited data and no data support the claim that UAP are alien technologies, while AARO’s published imagery shows how even military sensor cases can remain unresolved without implying exotic origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+The most useful way to read the Cyprus material is as a credibility split. Some reports are historically interesting but poorly documented; some are simply witness claims with no independent sensor record; some are likely ordinary sky phenomena, such as aircraft, balloons, meteors, satellites, weather effects, or camera artefacts; and a small residue remains “unidentified” only because the available data is too thin to resolve. That is consistent with modern UAP practice more broadly: NASA says most UAP sightings have limited data and no data support the claim that UAP are alien technologies, while AARO’s published imagery shows how even military sensor cases can remain unresolved without implying exotic origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 <img src="{{ "/assets/images/Cyprus_852add-overview.webp" | relative_url }}" alt="Overview image for What UFO Sightings Have Shaped Cyprus..." loading="eager" decoding="sync" fetchpriority="high">
 ## Why Cyprus produces distinctive UFO reports
 
 Cyprus is not just another island on a UFO map. It sits in a busy eastern Mediterranean air and sea corridor, has international airports at Larnaca and Paphos, has long hosted British military facilities at Akrotiri and Dhekelia, and has a coastline where tourists and residents spend many evenings looking over dark water. Those features increase the chance that unusual lights will be noticed, but they also increase the number of ordinary explanations that must be checked first: aircraft on approach, military activity, ships, flares, drones, planets low over the horizon, meteors, satellites, or reflections over the sea.
 
-This matters because several Cyprus accounts cluster around places where misidentification risk is high. A 2008 Cyprus Mail report described an incident over Pervolia near Larnaca, explicitly noting its proximity to the airport and to Dhekelia, and also summarised earlier reports over Kyrenia, Limassol, Yermasoyia, and Pyrga. In the same article, a British bases spokesman said there were “no reports” for Cyprus in their records, while Civil Aviation likewise said it had no UFO sightings on record; an earlier Civil Aviation comment described radar “phantoms” that disappeared after several rotations and were generally attributed to weather interference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">UF Os over Cyprus? – Cyprus Mail</span><span class="citation-popover-snippet">UF Os over Cyprus? – Cyprus Mail</span></span></span>
+This matters because several Cyprus accounts cluster around places where misidentification risk is high. A 2008 Cyprus Mail report described an incident over Pervolia near Larnaca, explicitly noting its proximity to the airport and to Dhekelia, and also summarised earlier reports over Kyrenia, Limassol, Yermasoyia, and Pyrga. In the same article, a British bases spokesman said there were “no reports” for Cyprus in their records, while Civil Aviation likewise said it had no UFO sightings on record; an earlier Civil Aviation comment described radar “phantoms” that disappeared after several rotations and were generally attributed to weather interference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">UF Os over Cyprus? – Cyprus Mail</span><span class="citation-popover-snippet">UF Os over Cyprus? – Cyprus Mail</span></span></span>
 
 That does not make every witness wrong. It means the Cyprus evidence has to be treated as aviation-adjacent, radar-sensitive, and often weather-sensitive. A light near an airport is not automatically an aircraft; a radar absence does not automatically disprove a low, brief, or poorly positioned object; but a convincing case needs more than a sincere description. It needs time, direction, elevation, duration, weather, aircraft traffic, satellite and meteor checks, and ideally independent imagery or sensor data.
 
@@ -1209,20 +1209,20 @@ That does not make every witness wrong. It means the Cyprus evidence has to be t
 
 Cyprus does not have a single nationally recognised “classic case” comparable to Rendlesham Forest in the United Kingdom or the Belgian wave in continental Europe. Instead, its record is a chain of fragmentary reports, many preserved in newspapers, private archives, and international reporting databases.
 
-The earliest modern claim commonly cited in English-language Cyprus coverage is from 1950, when two American soldiers reportedly saw a small, round, bright object moving fast and level across Nicosia for roughly 15 to 20 seconds. The Cyprus Mail repeated this as one of the island’s earliest UFO accounts, although the newspaper’s summary is not the same as a full official case file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2008/07/11/are-they-here-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">Are they here? – Cyprus Mail</span><span class="citation-popover-snippet">Are they here? – Cyprus Mail</span></span></span>
+The earliest modern claim commonly cited in English-language Cyprus coverage is from 1950, when two American soldiers reportedly saw a small, round, bright object moving fast and level across Nicosia for roughly 15 to 20 seconds. The Cyprus Mail repeated this as one of the island’s earliest UFO accounts, although the newspaper’s summary is not the same as a full official case file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2008/07/11/are-they-here-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">Are they here? – Cyprus Mail</span><span class="citation-popover-snippet">Are they here? – Cyprus Mail</span></span></span>
 
-A separate local archive maintained by UAP Cyprus Centre points to a 1954 press item from Paphos, describing a British doctor who allegedly saw a large metallic spinning object rise from the waves and vanish into the sky. The same page presents it as the first local “flying disc” report in Cyprus, but the evidential chain appears to rest on a press clipping rather than a technical investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcy.org/cyprus-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcy.org">[uapcy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcy.org</span><span class="citation-popover-title">UAP Cyprus Centre</span><span class="citation-popover-snippet">UAP Cyprus Centre</span></span></span>
+A separate local archive maintained by UAP Cyprus Centre points to a 1954 press item from Paphos, describing a British doctor who allegedly saw a large metallic spinning object rise from the waves and vanish into the sky. The same page presents it as the first local “flying disc” report in Cyprus, but the evidential chain appears to rest on a press clipping rather than a technical investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcy.org/cyprus-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcy.org">[uapcy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcy.org</span><span class="citation-popover-title">UAP Cyprus Centre</span><span class="citation-popover-snippet">UAP Cyprus Centre</span></span></span>
 
-Reports then reappear in more visible clusters from the 1980s onwards. UAP Cyprus Centre lists 1985 newspaper items concerning lights in the airspace between Greece and Cyprus and a 1989 Nicosia-area report in which a guard at the Cyprus Broadcasting Corporation reportedly saw a slow, cigar-like luminous object at low altitude with several reddish lights. These items are valuable because they show a local archive tradition, but they still need cautious handling: the public-facing summaries do not provide enough independent physical data to classify the incidents as confirmed anomalous objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcy.org/cyprus-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcy.org">[uapcy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcy.org</span><span class="citation-popover-title">UAP Cyprus Centre</span><span class="citation-popover-snippet">UAP Cyprus Centre</span></span></span>
+Reports then reappear in more visible clusters from the 1980s onwards. UAP Cyprus Centre lists 1985 newspaper items concerning lights in the airspace between Greece and Cyprus and a 1989 Nicosia-area report in which a guard at the Cyprus Broadcasting Corporation reportedly saw a slow, cigar-like luminous object at low altitude with several reddish lights. These items are valuable because they show a local archive tradition, but they still need cautious handling: the public-facing summaries do not provide enough independent physical data to classify the incidents as confirmed anomalous objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcy.org/cyprus-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcy.org">[uapcy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcy.org</span><span class="citation-popover-title">UAP Cyprus Centre</span><span class="citation-popover-snippet">UAP Cyprus Centre</span></span></span>
 
-The 1990s and 2000s brought the kind of cases familiar from many countries: family sightings from roads, glowing lights over cities, tourist observations, and low-resolution video. Cyprus Mail cited a 1998 Kyrenia-road family report of a saucer-like object with white revolving lights, a 2002 Larnaca airport car-park video showing a green shaking object, and a series of later sightings around Limassol, Paphos, Kyrenia, Pyrga, and Pervolia. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2018/01/07/report-ufo-sighting-north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">report ufo sighting north</span><span class="citation-popover-snippet">report ufo sighting north</span></span></span>
+The 1990s and 2000s brought the kind of cases familiar from many countries: family sightings from roads, glowing lights over cities, tourist observations, and low-resolution video. Cyprus Mail cited a 1998 Kyrenia-road family report of a saucer-like object with white revolving lights, a 2002 Larnaca airport car-park video showing a green shaking object, and a series of later sightings around Limassol, Paphos, Kyrenia, Pyrga, and Pervolia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2018/01/07/report-ufo-sighting-north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">report ufo sighting north</span><span class="citation-popover-snippet">report ufo sighting north</span></span></span>
 
-More recent database-style records are still sparse but show continuing reports. NUFORC, the United States-based National UFO Reporting Center, has Cyprus entries including a 2016 Paphos-area report of a very brief streak or flash over the sea and a 2024 Chlorakas, Paphos report, posted in 2025, describing a silent rectangular metallic-looking object seen for only a few seconds from a hotel pool area. NUFORC reports are useful as dated witness submissions, but they are not official determinations and often lack corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=129387" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+More recent database-style records are still sparse but show continuing reports. NUFORC, the United States-based National UFO Reporting Center, has Cyprus entries including a 2016 Paphos-area report of a very brief streak or flash over the sea and a 2024 Chlorakas, Paphos report, posted in 2025, describing a silent rectangular metallic-looking object seen for only a few seconds from a hotel pool area. NUFORC reports are useful as dated witness submissions, but they are not official determinations and often lack corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=129387" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Cyprus_852add-Illustration-1-dark.svg" | relative_url }}" alt="What UFO Sightings Have Shaped Cyprus... illustration 1" data-theme-src-dark="{{ "/assets/images/Cyprus_852add-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cyprus_852add-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1971 Royal Marines story is famous, but weakly documented
 
-One of the most repeated Cyprus UFO stories involves a claimed 31 May 1971 sighting by Royal Marines during exercises on the island. Retellings describe a large sun-like or luminous object witnessed by large numbers of service personnel. The story is often presented through later UFO-group retellings rather than through an accessible contemporaneous military file, which is the key evidential problem. A modern online version traces the account to Plymouth UFO Research Group material and says the witness contacted the group in 1993, more than two decades after the alleged event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://haunted-devon.co.uk/articles/some-venues-we-have-visited/32-hauntings/147-ufo-sightings-cyprus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haunted-devon.co.uk">[Haunted Devon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haunted-devon.co.uk</span><span class="citation-popover-title">Haunted Devon UFO Sightings Cyprus</span><span class="citation-popover-snippet">Haunted Devon UFO Sightings Cyprus</span></span></span>
+One of the most repeated Cyprus UFO stories involves a claimed 31 May 1971 sighting by Royal Marines during exercises on the island. Retellings describe a large sun-like or luminous object witnessed by large numbers of service personnel. The story is often presented through later UFO-group retellings rather than through an accessible contemporaneous military file, which is the key evidential problem. A modern online version traces the account to Plymouth UFO Research Group material and says the witness contacted the group in 1993, more than two decades after the alleged event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://haunted-devon.co.uk/articles/some-venues-we-have-visited/32-hauntings/147-ufo-sightings-cyprus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haunted-devon.co.uk">[Haunted Devon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haunted-devon.co.uk</span><span class="citation-popover-title">Haunted Devon UFO Sightings Cyprus</span><span class="citation-popover-snippet">Haunted Devon UFO Sightings Cyprus</span></span></span>
 
 That time gap matters. A military mass-witness case, if documented at the time with logs, photographs, exercise records, weather data, and multiple named statements, would rank higher than most civilian single-witness reports. But in the accessible public material, the Cyprus 1971 story is largely a retrospective testimony. It may still be worth preserving as folklore, veteran testimony, or an unresolved anecdotal claim, but it should not be treated as confirmed evidence of an extraordinary object unless stronger primary documentation emerges.
 
@@ -1232,11 +1232,11 @@ The case also illustrates a recurring problem for Cyprus research: British milit
 
 There is no easily accessible, comprehensive Cypriot government UFO archive comparable to the UK Ministry of Defence release or the US Project Blue Book collection. That absence is itself an important finding. Cyprus-related material has to be pieced together from local press archives, British-linked records, private research collections, and international reporting databases.
 
-The UK National Archives is still relevant because of Britain’s military relationship with Cyprus. Its UFO guide explains that the Ministry of Defence retained UFO records from the 1960s onwards, that many reports were letters or phone calls from the public, and that common explanations included Venus, aircraft, weather balloons, satellites, advertising airships, and satellite re-entries. It also notes that most reports were lights rather than clearly observed craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The UK National Archives is still relevant because of Britain’s military relationship with Cyprus. Its UFO guide explains that the Ministry of Defence retained UFO records from the 1960s onwards, that many reports were letters or phone calls from the public, and that common explanations included Venus, aircraft, weather balloons, satellites, advertising airships, and satellite re-entries. It also notes that most reports were lights rather than clearly observed craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-The US Project Blue Book archive is relevant mainly for methodological context and possible early overseas military reports. The US National Archives says Project Blue Book records are declassified, arranged by date and location, and cover a programme that closed in 1969; the Air Force fact sheet recorded 12,618 reports, of which 701 remained unidentified, while also concluding that no evaluated UFO showed evidence of national-security threat, advanced unknown technology, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
+The US Project Blue Book archive is relevant mainly for methodological context and possible early overseas military reports. The US National Archives says Project Blue Book records are declassified, arranged by date and location, and cover a programme that closed in 1969; the Air Force fact sheet recorded 12,618 reports, of which 701 remained unidentified, while also concluding that no evaluated UFO showed evidence of national-security threat, advanced unknown technology, or extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-For Cyprus specifically, the most direct official-style statements found in local coverage are negative or non-committal: Civil Aviation and British bases spokespeople told Cyprus Mail they had no UFO sightings on record for Cyprus, while Civil Aviation also acknowledged radar artefacts that could resemble aircraft returns before being attributed to weather interference. That combination is revealing: [official records]({{ 'official-records-80dded/' | relative_url }}) may be empty, but the sky and radar environment can still generate puzzling observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">UF Os over Cyprus? – Cyprus Mail</span><span class="citation-popover-snippet">UF Os over Cyprus? – Cyprus Mail</span></span></span>
+For Cyprus specifically, the most direct official-style statements found in local coverage are negative or non-committal: Civil Aviation and British bases spokespeople told Cyprus Mail they had no UFO sightings on record for Cyprus, while Civil Aviation also acknowledged radar artefacts that could resemble aircraft returns before being attributed to weather interference. That combination is revealing: [official records]({{ 'official-records-80dded/' | relative_url }}) may be empty, but the sky and radar environment can still generate puzzling observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">UF Os over Cyprus? – Cyprus Mail</span><span class="citation-popover-snippet">UF Os over Cyprus? – Cyprus Mail</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pJakASQR1yk" title="Ancient Aliens: Shocking UFO Sighting Defies Logic (Season 18) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pJakASQR1yk" target="_blank" rel="noopener noreferrer">Ancient Aliens: Shocking UFO Sighting Defies Logic (Season 18) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 278.6K &middot; Uploaded: April 2022 &middot; Length: 4 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pJakASQR1yk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pJakASQR1yk">Open on YouTube</a></p></div></div></div>
 
@@ -1244,24 +1244,24 @@ For Cyprus specifically, the most direct official-style statements found in loca
 
 The island’s reports are not evenly distributed in the available public record. They tend to appear around coastal and urban corridors, especially where many observers are outdoors at night and where air traffic or bright horizons complicate interpretation.
 
-**Larnaca and Pervolia** appear because of airport proximity. A 2008 report placed a recent sighting over Pervolia near Larnaca airport and Dhekelia, while an earlier 2002 video claim concerned an object above the Larnaca airport car park. These locations deserve high caution because airport lighting, approach paths, holding patterns, drones, helicopters, and reflections can all produce unusual impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2008/07/11/are-they-here-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">Are they here? – Cyprus Mail</span><span class="citation-popover-snippet">Are they here? – Cyprus Mail</span></span></span>
+**Larnaca and Pervolia** appear because of airport proximity. A 2008 report placed a recent sighting over Pervolia near Larnaca airport and Dhekelia, while an earlier 2002 video claim concerned an object above the Larnaca airport car park. These locations deserve high caution because airport lighting, approach paths, holding patterns, drones, helicopters, and reflections can all produce unusual impressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2008/07/11/are-they-here-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">Are they here? – Cyprus Mail</span><span class="citation-popover-snippet">Are they here? – Cyprus Mail</span></span></span>
 
-**Limassol and the south coast** feature in several modern witness accounts, including video-linked claims and reports of glowing orange or circular objects. Coastal settings can be deceptive: ships, aircraft at distance, planets low over the sea, and atmospheric distortion can all appear stranger than they would inland. Cyprus Mail noted Limassol and Yermasoyia reports in its 2008 roundup. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2018/01/07/report-ufo-sighting-north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">report ufo sighting north</span><span class="citation-popover-snippet">report ufo sighting north</span></span></span>
+**Limassol and the south coast** feature in several modern witness accounts, including video-linked claims and reports of glowing orange or circular objects. Coastal settings can be deceptive: ships, aircraft at distance, planets low over the sea, and atmospheric distortion can all appear stranger than they would inland. Cyprus Mail noted Limassol and Yermasoyia reports in its 2008 roundup.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2018/01/07/report-ufo-sighting-north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">report ufo sighting north</span><span class="citation-popover-snippet">report ufo sighting north</span></span></span>
 
-**Paphos and the west** include both the 1954 Paphos sea-emergence claim preserved by UAP Cyprus Centre and modern NUFORC reports from Paphos or Chlorakas. The 2016 NUFORC entry describes a flash or streak over the sea lasting only seconds, which is a profile compatible with meteors, space debris, or other transient phenomena unless additional data are available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcy.org/cyprus-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcy.org">[uapcy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcy.org</span><span class="citation-popover-title">UAP Cyprus Centre</span><span class="citation-popover-snippet">UAP Cyprus Centre</span></span></span>
+**Paphos and the west** include both the 1954 Paphos sea-emergence claim preserved by UAP Cyprus Centre and modern NUFORC reports from Paphos or Chlorakas. The 2016 NUFORC entry describes a flash or streak over the sea lasting only seconds, which is a profile compatible with meteors, space debris, or other transient phenomena unless additional data are available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcy.org/cyprus-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcy.org">[uapcy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcy.org</span><span class="citation-popover-title">UAP Cyprus Centre</span><span class="citation-popover-snippet">UAP Cyprus Centre</span></span></span>
 
-**Nicosia and the north** produce a different texture: older military-era or urban reports, road sightings, and newspaper accounts from both sides of the island. The 1950 Nicosia account, the 1989 broadcasting-centre report, and later Kyrenia-area reports show how Cyprus UFO material crosses the island’s political geography but remains difficult to consolidate into a single national archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcy.org/cyprus-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcy.org">[2uapcy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcy.org</span><span class="citation-popover-title">UAP Cyprus Centre</span><span class="citation-popover-snippet">UAP Cyprus Centre</span></span></span>
+**Nicosia and the north** produce a different texture: older military-era or urban reports, road sightings, and newspaper accounts from both sides of the island. The 1950 Nicosia account, the 1989 broadcasting-centre report, and later Kyrenia-area reports show how Cyprus UFO material crosses the island’s political geography but remains difficult to consolidate into a single national archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcy.org/cyprus-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcy.org">[2uapcy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcy.org</span><span class="citation-popover-title">UAP Cyprus Centre</span><span class="citation-popover-snippet">UAP Cyprus Centre</span></span></span>
 
 <img src="{{ "/assets/images/Cyprus_852add-Illustration-2-dark.svg" | relative_url }}" alt="What UFO Sightings Have Shaped Cyprus... illustration 2" data-theme-src-dark="{{ "/assets/images/Cyprus_852add-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cyprus_852add-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested, and likely explained claims
 
 No Cyprus case in the accessible public record can be treated as confirmed evidence of an extraterrestrial craft or a demonstrated advanced technology. That is not a dismissal of every witness; it is a statement about evidential quality.
 
-**Confirmed reports** are best understood as confirmed claims of observation, not confirmed anomalous craft. For example, a newspaper article can confirm that a report was made, that named agencies were asked for comment, or that a local archive preserves a clipping. A NUFORC page can confirm that a witness submission exists with a given date and location. It cannot, by itself, confirm the nature of the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2018/01/07/report-ufo-sighting-north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">report ufo sighting north</span><span class="citation-popover-snippet">report ufo sighting north</span></span></span>
+**Confirmed reports** are best understood as confirmed claims of observation, not confirmed anomalous craft. For example, a newspaper article can confirm that a report was made, that named agencies were asked for comment, or that a local archive preserves a clipping. A NUFORC page can confirm that a witness submission exists with a given date and location. It cannot, by itself, confirm the nature of the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2018/01/07/report-ufo-sighting-north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">report ufo sighting north</span><span class="citation-popover-snippet">report ufo sighting north</span></span></span>
 
-**Contested claims** include the 1971 Royal Marines story, the 1973 “Cyprus Roswell” claim referenced by Cyprus Mail from UFO Monthly, and other cases involving alleged military witnesses or physical fragments. The 1973 account is especially weak in its public form because Cyprus Mail reported that alleged gold pieces had not been analysed in a suitable lab, leaving the central physical-evidence claim unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2018/01/07/report-ufo-sighting-north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">report ufo sighting north</span><span class="citation-popover-snippet">report ufo sighting north</span></span></span>
+**Contested claims** include the 1971 Royal Marines story, the 1973 “Cyprus Roswell” claim referenced by Cyprus Mail from UFO Monthly, and other cases involving alleged military witnesses or physical fragments. The 1973 account is especially weak in its public form because Cyprus Mail reported that alleged gold pieces had not been analysed in a suitable lab, leaving the central physical-evidence claim unverified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.cyprus-mail.com/2018/01/07/report-ufo-sighting-north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cyprus-mail.com">[archive.cyprus-mail.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cyprus-mail.com</span><span class="citation-popover-title">report ufo sighting north</span><span class="citation-popover-snippet">report ufo sighting north</span></span></span>
 
-**Likely explained or explainable claims** include brief streaks, flashes, distant lights, hovering lights near airports, and radar returns that vanish quickly. The UK National Archives notes that common UFO explanations in official files include Venus, high-altitude aircraft, weather balloons, satellites, advertising airships, and satellite re-entries; AARO’s current imagery pages show that some modern sensor-recorded cases are resolved as balloons, birds, or prosaic aircraft, while others remain unresolved because the data are insufficient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+**Likely explained or explainable claims** include brief streaks, flashes, distant lights, hovering lights near airports, and radar returns that vanish quickly. The UK National Archives notes that common UFO explanations in official files include Venus, high-altitude aircraft, weather balloons, satellites, advertising airships, and satellite re-entries; AARO’s current imagery pages show that some modern sensor-recorded cases are resolved as balloons, birds, or prosaic aircraft, while others remain unresolved because the data are insufficient.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 The honest middle category is “unresolved but not extraordinary”. A short, sincere Cyprus report may remain unidentified because nobody collected the necessary data at the time. That is very different from saying the object demonstrated impossible performance.
 
@@ -1271,7 +1271,7 @@ The honest middle category is “unresolved but not extraordinary”. A short, s
 
 A Cyprus report is stronger when it gives enough information to test ordinary explanations. The most useful details are exact time, viewing direction, angular elevation, duration, movement relative to landmarks, weather, aircraft activity, satellite visibility, camera settings, and whether multiple independent observers saw the same thing from different locations.
 
-A strong case would also separate human perception from instrumentation. A witness may describe a silent object as “not aircraft”, but distance and altitude are difficult to judge at night. A video may show a bright object, but without focus, exposure, zoom level, and reference points, it may record camera behaviour more than sky behaviour. Even official sensor cases can be inconclusive: AARO’s European examples include objects assessed as physical but unremarkable, reports closed as balloons or birds, and cases left unresolved because the data do not support a firm determination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+A strong case would also separate human perception from instrumentation. A witness may describe a silent object as “not aircraft”, but distance and altitude are difficult to judge at night. A video may show a bright object, but without focus, exposure, zoom level, and reference points, it may record camera behaviour more than sky behaviour. Even official sensor cases can be inconclusive: AARO’s European examples include objects assessed as physical but unremarkable, reports closed as balloons or birds, and cases left unresolved because the data do not support a firm determination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 For Cyprus, three checks are especially important:
 
@@ -1295,194 +1295,194 @@ The island’s record is therefore best described as a modest, fragmented, and u
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WpRWkuYu9V8" title="All the videos from Pentagon&#x27;s first batch of UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer">All the videos from Pentagon&#x27;s first batch of UFO files</a></p><p class="youtube-embed-meta">Channel: Face the Nation &middot; Views: 61.7K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WpRWkuYu9V8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What UFO Sightings Have Shaped Cyprus History?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What UFO Sightings Have Shaped Cyprus History?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful foundation for understanding sighting reports and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful foundation for understanding sighting reports and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a national overview page examining documented sightings and official reactions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a national overview page examining documented sightings and official reactions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for official UFO reporting systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for official UFO reporting systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Broadly relevant to contemporary UFO discussions and evidence debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broadly relevant to contemporary UFO discussions and evidence debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-sightings-have-shaped-cyprus-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-sightings-have-shaped-cyprus-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1498,7 +1498,7 @@ The island’s record is therefore best described as a modest, fragmented, and u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1518,7 +1518,7 @@ The island’s record is therefore best described as a modest, fragmented, and u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1550,7 +1550,7 @@ The island’s record is therefore best described as a modest, fragmented, and u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1602,7 +1602,7 @@ The island’s record is therefore best described as a modest, fragmented, and u
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1647,7 +1647,7 @@ The island’s record is therefore best described as a modest, fragmented, and u
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1685,240 +1685,239 @@ The island’s record is therefore best described as a modest, fragmented, and u
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.cyprus-mail.com  
    Title: UF Os over Cyprus? – Cyprus Mail  
-   Link: <a href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/</a>  
+   Link:<a href="https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2008/02/17/ufos-over-cyprus-2/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.cyprus-mail.com  
    Title: Are they here? – Cyprus Mail  
-   Link: <a href="https://archive.cyprus-mail.com/2008/07/11/are-they-here-2/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2008/07/11/are-they-here-2/</a>  
+   Link:<a href="https://archive.cyprus-mail.com/2008/07/11/are-they-here-2/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2008/07/11/are-they-here-2/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: uapcy.org  
    Title: UAP Cyprus Centre  
-   Link: <a href="https://www.uapcy.org/cyprus-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcy.org/cyprus-cases</a>  
+   Link:<a href="https://www.uapcy.org/cyprus-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcy.org/cyprus-cases</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=129387" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=129387</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=129387" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=129387</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=188116" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=188116</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=188116" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=188116</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
+   Link:<a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.cyprus-mail.com  
    Title: report ufo sighting north  
-   Link: <a href="https://archive.cyprus-mail.com/2018/01/07/report-ufo-sighting-north/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2018/01/07/report-ufo-sighting-north/</a>  
+   Link:<a href="https://archive.cyprus-mail.com/2018/01/07/report-ufo-sighting-north/" target="_blank" rel="noopener noreferrer nofollow">https://archive.cyprus-mail.com/2018/01/07/report-ufo-sighting-north/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cyprus-mail.com  
    Title: watershed us ufo report does not rule out extraterrestrial origin  
-   Link: <a href="https://cyprus-mail.com/2021/06/26/watershed-us-ufo-report-does-not-rule-out-extraterrestrial-origin" target="_blank" rel="noopener noreferrer nofollow">https://cyprus-mail.com/2021/06/26/watershed-us-ufo-report-does-not-rule-out-extraterrestrial-origin</a>  
+   Link:<a href="https://cyprus-mail.com/2021/06/26/watershed-us-ufo-report-does-not-rule-out-extraterrestrial-origin" target="_blank" rel="noopener noreferrer nofollow">https://cyprus-mail.com/2021/06/26/watershed-us-ufo-report-does-not-rule-out-extraterrestrial-origin</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cyprus-mail.com  
    Title: no evidence of space aliens so far in the pentagons ufo deep dive  
-   Link: <a href="https://cyprus-mail.com/2022/12/17/no-evidence-of-space-aliens-so-far-in-the-pentagons-ufo-deep-dive" target="_blank" rel="noopener noreferrer nofollow">https://cyprus-mail.com/2022/12/17/no-evidence-of-space-aliens-so-far-in-the-pentagons-ufo-deep-dive</a>  
+   Link:<a href="https://cyprus-mail.com/2022/12/17/no-evidence-of-space-aliens-so-far-in-the-pentagons-ufo-deep-dive" target="_blank" rel="noopener noreferrer nofollow">https://cyprus-mail.com/2022/12/17/no-evidence-of-space-aliens-so-far-in-the-pentagons-ufo-deep-dive</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cyprus-mail.com  
    Title: era of revelations on ufos has begun  
-   Link: <a href="https://cyprus-mail.com/2026/05/11/era-of-revelations-on-ufos-has-begun" target="_blank" rel="noopener noreferrer nofollow">https://cyprus-mail.com/2026/05/11/era-of-revelations-on-ufos-has-begun</a>  
+   Link:<a href="https://cyprus-mail.com/2026/05/11/era-of-revelations-on-ufos-has-begun" target="_blank" rel="noopener noreferrer nofollow">https://cyprus-mail.com/2026/05/11/era-of-revelations-on-ufos-has-begun</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cyprus-mail.com  
    Title: unidentified flying object (UFO)  
-   Link: <a href="https://cyprus-mail.com/tag/unidentified-flying-object-ufo" target="_blank" rel="noopener noreferrer nofollow">https://cyprus-mail.com/tag/unidentified-flying-object-ufo</a>  
+   Link:<a href="https://cyprus-mail.com/tag/unidentified-flying-object-ufo" target="_blank" rel="noopener noreferrer nofollow">https://cyprus-mail.com/tag/unidentified-flying-object-ufo</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=113159" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=113159</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=113159" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=113159</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=145199" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=145199</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=145199" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=145199</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=39420" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=39420</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=39420" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=39420</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=89466" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=89466</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=89466" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=89466</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=177531" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=177531</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=177531" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=177531</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: haunted-devon.co.uk  
    Title: Haunted Devon UFO Sightings Cyprus  
-   Link: <a href="https://haunted-devon.co.uk/articles/some-venues-we-have-visited/32-hauntings/147-ufo-sightings-cyprus" target="_blank" rel="noopener noreferrer nofollow">https://haunted-devon.co.uk/articles/some-venues-we-have-visited/32-hauntings/147-ufo-sightings-cyprus</a>  
+   Link:<a href="https://haunted-devon.co.uk/articles/some-venues-we-have-visited/32-hauntings/147-ufo-sightings-cyprus" target="_blank" rel="noopener noreferrer nofollow">https://haunted-devon.co.uk/articles/some-venues-we-have-visited/32-hauntings/147-ufo-sightings-cyprus</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/the-national-archives-ufo-file-release-february-2010/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/the-national-archives-ufo-file-release-february-2010/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/the-national-archives-ufo-file-release-february-2010/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/the-national-archives-ufo-file-release-february-2010/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/rss/podcasts.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/rss/podcasts.xml</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=8682662&amp;CATLN=6&amp;CATREF=DEFE%2F1512&amp;SearchInit=4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=8682662&amp;CATLN=6&amp;CATREF=DEFE%2F1512&amp;SearchInit=4</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=8682662&amp;CATLN=6&amp;CATREF=DEFE%2F1512&amp;SearchInit=4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=8682662&amp;CATLN=6&amp;CATREF=DEFE%2F1512&amp;SearchInit=4</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/redirection/redirect/?catid=-6303746&amp;catln=7&amp;catref=DEFE%2F2062%2F1" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/redirection/redirect/?catid=-6303746&amp;catln=7&amp;catref=DEFE%2F2062%2F1</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/redirection/redirect/?catid=-6303746&amp;catln=7&amp;catref=DEFE%2F2062%2F1" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/redirection/redirect/?catid=-6303746&amp;catln=7&amp;catref=DEFE%2F2062%2F1</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/final-tranche-of-UFO-files-released.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: <a href="https://discovery.nationalarchives.gov.uk/redirection/redirect/?catid=-6025944&amp;catln=7&amp;catref=DEFE%2F2016%2F1" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/redirection/redirect/?catid=-6025944&amp;catln=7&amp;catref=DEFE%2F2016%2F1</a>  
+   Link:<a href="https://discovery.nationalarchives.gov.uk/redirection/redirect/?catid=-6025944&amp;catln=7&amp;catref=DEFE%2F2016%2F1" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/redirection/redirect/?catid=-6025944&amp;catln=7&amp;catref=DEFE%2F2016%2F1</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: <a href="https://images.nationalarchives.gov.uk/asset/76290/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76290/</a>  
+   Link:<a href="https://images.nationalarchives.gov.uk/asset/76290/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/76290/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: haunted-devon.co.uk  
    Title: 147 ufo sightings cyprus  
-   Link: <a href="https://haunted-devon.co.uk/component/content/article/32-hauntings/147-ufo-sightings-cyprus?Itemid=101" target="_blank" rel="noopener noreferrer nofollow">https://haunted-devon.co.uk/component/content/article/32-hauntings/147-ufo-sightings-cyprus?Itemid=101</a>  
+   Link:<a href="https://haunted-devon.co.uk/component/content/article/32-hauntings/147-ufo-sightings-cyprus?Itemid=101" target="_blank" rel="noopener noreferrer nofollow">https://haunted-devon.co.uk/component/content/article/32-hauntings/147-ufo-sightings-cyprus?Itemid=101</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/UFO</a>  
+   Link:<a href="https://vault.fbi.gov/UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/UFO</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Exploring the AARO Website — What Is the Government Really Showing Us?  
-   Link: <a href="https://www.youtube.com/watch?v=B7fxuz22cpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B7fxuz22cpk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Shocking UFO Sighting Defies Logic (Season 18) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B7fxuz22cpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B7fxuz22cpk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Shocking UFO Sighting Defies Logic (Season 18) | History...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Shocking UFO Sighting Defies Logic (Season 18) | History  
-   Link: <a href="https://www.youtube.com/watch?v=pJakASQR1yk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pJakASQR1yk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Still Can&#x27;t Explain This 16-Year-Old UFO Video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pJakASQR1yk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pJakASQR1yk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists Still Can&#x27;t Explain This 16-Year-Old UFO Video...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: NASA astronauts' reports among Pentagon UAP file release  
-   Link: <a href="https://www.youtube.com/watch?v=RtSQwZS63v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RtSQwZS63v0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the AARO Website — What Is the Government Really Showing Us?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RtSQwZS63v0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RtSQwZS63v0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the AARO Website — What Is the Government Really Showing Us?...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: All the videos from Pentagon's first batch of UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA astronauts&#x27; reports among Pentagon UAP file release...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA astronauts&#x27; reports among Pentagon UAP file release...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DLLH44Jx9T-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLLH44Jx9T-/</a>  
+   Link:<a href="https://www.instagram.com/p/DLLH44Jx9T-/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLLH44Jx9T-/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CrYkhg8o1bJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CrYkhg8o1bJ/</a>  
+   Link:<a href="https://www.instagram.com/p/CrYkhg8o1bJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CrYkhg8o1bJ/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: c21media.net  
-   Link: <a href="https://www.c21media.net/ae-sells-book-knightfall-s2/" target="_blank" rel="noopener noreferrer nofollow">https://www.c21media.net/ae-sells-book-knightfall-s2/</a>  
+   Link:<a href="https://www.c21media.net/ae-sells-book-knightfall-s2/" target="_blank" rel="noopener noreferrer nofollow">https://www.c21media.net/ae-sells-book-knightfall-s2/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: york.ac.uk  
-   Link: <a href="https://www.york.ac.uk/news-and-events/events/public-lectures/sem2-24-25/purple-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.york.ac.uk/news-and-events/events/public-lectures/sem2-24-25/purple-ufo/</a>
+   Link:<a href="https://www.york.ac.uk/news-and-events/events/public-lectures/sem2-24-25/purple-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.york.ac.uk/news-and-events/events/public-lectures/sem2-24-25/purple-ufo/</a>

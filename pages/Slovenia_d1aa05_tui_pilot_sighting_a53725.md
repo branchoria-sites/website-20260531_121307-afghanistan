@@ -248,7 +248,7 @@ image: /assets/images/Slovenia_d1aa05_tui_pilot_sighting_a53725-Illustration-1-s
 
 ## Introduction
 
-The July 2023 TUI Airways sighting is one of the few Slovenian UFO-related cases that moved beyond a simple witness statement. What makes it notable is not the claim itself, but the chain of aviation evidence surrounding it: a commercial airline pilot reported an unusual light while flying through Slovenian airspace, the observation was communicated directly to air traffic control, and controllers reportedly checked whether known military or civilian traffic could explain what was being seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
+The July 2023 TUI Airways sighting is one of the few Slovenian UFO-related cases that moved beyond a simple witness statement. What makes it notable is not the claim itself, but the chain of aviation evidence surrounding it: a commercial airline pilot reported an unusual light while flying through Slovenian airspace, the observation was communicated directly to air traffic control, and controllers reportedly checked whether known military or civilian traffic could explain what was being seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
 
 <img src="{{ "/assets/images/Slovenia_d1aa05_tui_pilot_sighting_a53725-Illustration-1-dark.svg" | relative_url }}" alt="TUI Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Slovenia_d1aa05_tui_pilot_sighting_a53725-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovenia_d1aa05_tui_pilot_sighting_a53725-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That combination places the incident in a different category from most social-media videos or anonymous reports. It remains unresolved in the public record, but it also remains incomplete. No publicly released radar tracks, cockpit recordings, weather analysis or flight-instrument data have emerged that would allow outside investigators to determine exactly what the crew observed. The result is a case that is stronger than a typical UFO claim, yet still far from proving anything extraordinary.
@@ -257,9 +257,9 @@ That combination places the incident in a different category from most social-me
 
 Most Slovenian UFO reports involve ordinary observers on the ground. The TUI incident gained attention because it originated from a professional aviation environment where pilots, controllers and surveillance systems routinely identify aircraft, navigation lights and atmospheric phenomena.
 
-According to accounts published in Slovenian media and later circulated internationally, a TUI Airways crew flying from the United Kingdom towards Greece contacted air traffic control while crossing Slovenian airspace. The pilot asked whether military aircraft were conducting exercises approximately 40 to 50 miles away in the direction of the observed light. Air traffic control reportedly replied that there were no known military operations in that sector. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
+According to accounts published in Slovenian media and later circulated internationally, a TUI Airways crew flying from the United Kingdom towards Greece contacted air traffic control while crossing Slovenian airspace. The pilot asked whether military aircraft were conducting exercises approximately 40 to 50 miles away in the direction of the observed light. Air traffic control reportedly replied that there were no known military operations in that sector.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
 
-The pilot then described a bright light that appeared to shine directly towards the aircraft, disappear, change into a flashing light, move in a seemingly erratic manner and later return to a steady appearance. The exchange was reportedly captured on routine air-traffic communications recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
+The pilot then described a bright light that appeared to shine directly towards the aircraft, disappear, change into a flashing light, move in a seemingly erratic manner and later return to a steady appearance. The exchange was reportedly captured on routine air-traffic communications recordings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
 
 What separates this case from many UFO stories is that the pilot was not reporting a distant rumour or an object already being discussed online. The report occurred in real time, during flight operations, through a communication channel designed for operational safety.
 
@@ -267,14 +267,14 @@ What separates this case from many UFO stories is that the pilot was not reporti
 
 The most widely circulated account comes from the recorded radio exchange between the TUI crew and air traffic control.
 
-The pilot's initial question is important because it shows that the crew first considered a conventional explanation. Rather than immediately describing an unknown object, the pilot asked whether military aircraft might be operating in the area. That suggests the observed light initially resembled something that could plausibly be associated with aviation activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
+The pilot's initial question is important because it shows that the crew first considered a conventional explanation. Rather than immediately describing an unknown object, the pilot asked whether military aircraft might be operating in the area. That suggests the observed light initially resembled something that could plausibly be associated with aviation activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
 
 After receiving a negative response, the pilot described several features:
 
 * A bright light apparently directed towards the aircraft.
 * A transition from steady illumination to flashing.
 * Apparent movement or “jumping” across the sky.
-* A return to a stable, constant light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
+* A return to a stable, constant light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
 
 These characteristics are unusual enough to attract attention, but they are not automatically evidence of an exotic craft. Human perception of distant lights at night can be affected by atmospheric conditions, relative motion, cockpit perspective and the absence of reliable distance cues. A light that seems to dart across the sky may in reality be extremely distant, with perceived motion created by changes in viewing angle or by movement of the observer's own aircraft.
 
@@ -286,9 +286,9 @@ The available public record also does not indicate whether both pilots saw exact
 
 The strongest part of the case is the involvement of air traffic control.
 
-Modern air-traffic systems maintain awareness of aircraft through multiple methods, including primary radar, secondary surveillance radar and aircraft transponder signals. In ordinary circumstances, controllers can determine whether a reported light corresponds to known air traffic. Aviation surveillance networks are specifically designed to reduce uncertainty about aircraft positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiaa.org/about-aiaa/history-heritage/aerospace-history-timeline/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiaa.org">[AIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiaa.org</span><span class="citation-popover-snippet">Shaping the future of aerospaceAerospace History TimelineThe upgrade will enable air traffic controllers to track aircraft with gr...</span></span></span> - Shaping the future of aerospace
+Modern air-traffic systems maintain awareness of aircraft through multiple methods, including primary radar, secondary surveillance radar and aircraft transponder signals. In ordinary circumstances, controllers can determine whether a reported light corresponds to known air traffic. Aviation surveillance networks are specifically designed to reduce uncertainty about aircraft positions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiaa.org/about-aiaa/history-heritage/aerospace-history-timeline/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiaa.org">[AIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiaa.org</span><span class="citation-popover-snippet">Shaping the future of aerospaceAerospace History TimelineThe upgrade will enable air traffic controllers to track aircraft with gr...</span></span></span> - Shaping the future of aerospace
 
-In reports associated with the Slovenian incident, air traffic control stated that there were no known military flights in the area identified by the pilot. Slovenian reporting also indicated that radar checks did not identify a conventional aircraft matching the reported location and altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
+In reports associated with the Slovenian incident, air traffic control stated that there were no known military flights in the area identified by the pilot. Slovenian reporting also indicated that radar checks did not identify a conventional aircraft matching the reported location and altitude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
 
 That finding is significant, but it has limits.
 
@@ -311,7 +311,7 @@ The key point is that air traffic control apparently checked for a conventional 
 
 Many UFO discussions treat the phrase “nothing on radar” as if it confirms something extraordinary. Aviation history shows that the reality is more complicated.
 
-Radar systems are excellent at tracking cooperative aircraft using transponders and are generally effective at detecting larger airborne targets. They are not perfect detectors of every light source visible from a cockpit. Objects can be outside radar coverage, below detection thresholds or simply not be physical airborne vehicles. Visual observations and radar observations are related but not identical forms of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiaa.org/about-aiaa/history-heritage/aerospace-history-timeline/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiaa.org">[AIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiaa.org</span><span class="citation-popover-snippet">Shaping the future of aerospaceAerospace History TimelineThe upgrade will enable air traffic controllers to track aircraft with gr...</span></span></span> - Shaping the future of aerospace
+Radar systems are excellent at tracking cooperative aircraft using transponders and are generally effective at detecting larger airborne targets. They are not perfect detectors of every light source visible from a cockpit. Objects can be outside radar coverage, below detection thresholds or simply not be physical airborne vehicles. Visual observations and radar observations are related but not identical forms of evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aiaa.org/about-aiaa/history-heritage/aerospace-history-timeline/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiaa.org">[AIAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiaa.org</span><span class="citation-popover-snippet">Shaping the future of aerospaceAerospace History TimelineThe upgrade will enable air traffic controllers to track aircraft with gr...</span></span></span> - Shaping the future of aerospace
 
 This distinction is important because the TUI case is fundamentally a visual report supported by operational checks, not a publicly documented radar anomaly. The strongest confirmed fact is that a pilot reported seeing something unusual and that controllers apparently could not immediately match it to known traffic. The strongest unconfirmed claim would be that an unknown object was physically present in the reported location.
 
@@ -339,7 +339,7 @@ Investigators outside the aviation system do not have access to:
 
 Without those elements, it is impossible to determine whether the light originated from another aircraft, a celestial object, an atmospheric effect or something less easily classified.
 
-At the same time, the report cannot simply be dismissed as a random internet story. The involvement of a commercial crew and air-traffic control means there is at least a documented operational event behind the public narrative. That places the sighting above many Slovenian UFO claims that rely solely on unverified photographs or anecdotal testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
+At the same time, the report cannot simply be dismissed as a random internet story. The involvement of a commercial crew and air-traffic control means there is at least a documented operational event behind the public narrative. That places the sighting above many Slovenian UFO claims that rely solely on unverified photographs or anecdotal testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I5Wl_AYBpss" title="The Most Convincing UFO Sighting Ever — Heard on ATC Audio #atc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I5Wl_AYBpss" target="_blank" rel="noopener noreferrer">The Most Convincing UFO Sighting Ever — Heard on ATC Audio #atc</a></p><p class="youtube-embed-meta">Channel: Flight Follower &middot; Views: 4.0K &middot; Uploaded: August 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I5Wl_AYBpss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I5Wl_AYBpss">Open on YouTube</a></p></div></div></div>
 
@@ -353,207 +353,207 @@ The case did not produce physical evidence, recovered materials or publicly rele
 
 * A trained observer.
 * Real-time reporting.
-* Air-traffic-control involvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/ancientwhispers/posts/newly-surfaced-footage-recorded-near-lake-bohinj-in-slovenia-has-drawn-serious-a/833111283041628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">him and promptly reached out to air traffic control. The...</span></span></span>
+* Air-traffic-control involvement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/ancientwhispers/posts/newly-surfaced-footage-recorded-near-lake-bohinj-in-slovenia-has-drawn-serious-a/833111283041628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">him and promptly reached out to air traffic control. The...</span></span></span>
 * Immediate checks against known traffic.
-* A recorded communication trail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
+* A recorded communication trail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
 
 </div>
 
 That does not make the incident proof of an unidentified craft in the strongest sense. It makes it one of Slovenia's more credible unresolved aviation sightings. The most cautious assessment is that a professional flight crew observed a light they could not readily identify, controllers could not immediately match it to known aircraft activity, and the publicly available evidence stops before a definitive explanation can be reached.
 
-For that reason, the 2023 TUI Airways report remains the strongest recent Slovenian example of a UFO case supported by both eyewitness testimony and air-traffic-control context, while still falling short of demonstrating anything beyond an unresolved aerial observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
+For that reason, the 2023 TUI Airways report remains the strongest recent Slovenian example of a UFO case supported by both eyewitness testimony and air-traffic-control context, while still falling short of demonstrating anything beyond an unresolved aerial observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Voice recording) TUI Airways pilot reports a bright light</span><span class="citation-popover-snippet">Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</span><span class="citation-popover-meta">Published: July 30, 2023</span></span></span>
 
 <img src="{{ "/assets/images/Slovenia_d1aa05_tui_pilot_sighting_a53725-Illustration-3-dark.svg" | relative_url }}" alt="TUI Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Slovenia_d1aa05_tui_pilot_sighting_a53725-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovenia_d1aa05_tui_pilot_sighting_a53725-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the 2023 Pilot Sighting Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the 2023 Pilot Sighting Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly aligns with a commercial pilot reporting an unexplained aerial object.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly aligns with a commercial pilot reporting an unexplained aerial object.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides tools for assessing aviation-related sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for assessing aviation-related sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8MEpEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8MEpEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Covers modern aviation and government interest in unidentified aerial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers modern aviation and government interest in unidentified aerial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores unresolved reports that resist straightforward explanation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores unresolved reports that resist straightforward explanation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-pilot-sighting-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-2023-pilot-sighting-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ For that reason, the 2023 TUI Airways report remains the strongest recent Sloven
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ For that reason, the 2023 TUI Airways report remains the strongest recent Sloven
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ For that reason, the 2023 TUI Airways report remains the strongest recent Sloven
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ For that reason, the 2023 TUI Airways report remains the strongest recent Sloven
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ For that reason, the 2023 TUI Airways report remains the strongest recent Sloven
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,69 +759,69 @@ For that reason, the 2023 TUI Airways report remains the strongest recent Sloven
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
    Title: (Voice recording) TUI Airways pilot reports a bright light  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15dxms0/voice_recording_tui_airways_pilot_reports_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit(Voice recording) TUI Airways pilot reports a bright light...July 30, 2023 — 30 Jul 2023 — (Voice recording) TUI Airways pilot rep...</p></details>
    Published: July 30, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/about-aiaa/history-heritage/aerospace-history-timeline/" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/about-aiaa/history-heritage/aerospace-history-timeline/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping the future of aerospaceAerospace History TimelineThe upgrade will enable air traffic controllers to track aircraft with gr...</p></details>
+   Link:<a href="https://aiaa.org/about-aiaa/history-heritage/aerospace-history-timeline/" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/about-aiaa/history-heritage/aerospace-history-timeline/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping the future of aerospaceAerospace History TimelineThe upgrade will enable air traffic controllers to track aircraft with gr...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: enac.gov.it  
-   Link: <a href="https://www.enac.gov.it/app/uploads/2024/04/ENAC_ING_2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.enac.gov.it/app/uploads/2024/04/ENAC_ING_2019.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report and Social BalanceAs a lesson learnt from the Covid-19 pandemic, investments will also be needed in new infrastructures and...</p></details>
+   Link:<a href="https://www.enac.gov.it/app/uploads/2024/04/ENAC_ING_2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.enac.gov.it/app/uploads/2024/04/ENAC_ING_2019.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report and Social BalanceAs a lesson learnt from the Covid-19 pandemic, investments will also be needed in new infrastructures and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/bookshelf-items" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/bookshelf-items</a>  
+   Link:<a href="https://skybrary.aero/bookshelf-items" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/bookshelf-items</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: zoek.officielebekendmakingen.nl  
-   Link: <a href="https://zoek.officielebekendmakingen.nl/blg-1096084.pdf" target="_blank" rel="noopener noreferrer nofollow">https://zoek.officielebekendmakingen.nl/blg-1096084.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Innovation AnalysisTo70 provides research and advisory services to the global aviation community for more than 20 years. Our str...</p></details>
+   Link:<a href="https://zoek.officielebekendmakingen.nl/blg-1096084.pdf" target="_blank" rel="noopener noreferrer nofollow">https://zoek.officielebekendmakingen.nl/blg-1096084.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Innovation AnalysisTo70 provides research and advisory services to the global aviation community for more than 20 years. Our str...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DKZ4DR-vCoD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DKZ4DR-vCoD/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We are specialized in ESG for aviation, more specifically for Air Navigation Service...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DKZ4DR-vCoD/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DKZ4DR-vCoD/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We are specialized in ESG for aviation, more specifically for Air Navigation Service...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: One aerial encounter left an intelligence officer 'virtually  
-   Link: <a href="https://www.facebook.com/7NEWSQld/posts/one-aerial-encounter-left-an-intelligence-officer-virtually-speechless/1412428597582429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSQld/posts/one-aerial-encounter-left-an-intelligence-officer-virtually-speechless/1412428597582429/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>radar system could not detect!!! so as soon as the dogfight has started, 12 more Migs 21 pulled up and joind the battle!!!, that is, we w...</p></details>
+   Link:<a href="https://www.facebook.com/7NEWSQld/posts/one-aerial-encounter-left-an-intelligence-officer-virtually-speechless/1412428597582429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NEWSQld/posts/one-aerial-encounter-left-an-intelligence-officer-virtually-speechless/1412428597582429/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>radar system could not detect!!! so as soon as the dogfight has started, 12 more Migs 21 pulled up and joind the battle!!!, that is, we w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: livenowfox.com  
    Title: pilot reports ufo beside jet atc jokes good luck aliens  
-   Link: <a href="https://www.livenowfox.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot reports UFO beside jet, ATC jokes: &#x27;Good luck with the...23 Dec 2025 — The object was reportedly seen floating near the right wing...</p></details>
+   Link:<a href="https://www.livenowfox.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot reports UFO beside jet, ATC jokes: &#x27;Good luck with the...23 Dec 2025 — The object was reportedly seen floating near the right wing...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: At least four commercial pilots encountered mysterious  
-   Link: <a href="https://www.facebook.com/KARE11/posts/at-least-four-commercial-pilots-encountered-mysterious-lights-over-the-weekend/1073806671455772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KARE11/posts/at-least-four-commercial-pilots-encountered-mysterious-lights-over-the-weekend/1073806671455772/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TUI Airways pilot reported an unusual spectacle while traversing the Slovenian airspace. This incident throws light on the myriad mysteri...</p></details>
+   Link:<a href="https://www.facebook.com/KARE11/posts/at-least-four-commercial-pilots-encountered-mysterious-lights-over-the-weekend/1073806671455772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KARE11/posts/at-least-four-commercial-pilots-encountered-mysterious-lights-over-the-weekend/1073806671455772/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TUI Airways pilot reported an unusual spectacle while traversing the Slovenian airspace. This incident throws light on the myriad mysteri...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: latest-ufo-sightings.net  
    Title: Latest UFO Sightings UFO over Slovenia?  
-   Link: <a href="https://www.latest-ufo-sightings.net/2023/07/ufo-over-slovenia-the-pilot-reported-bright-lights-bouncing-across-the-sky-we-have-an-audio-recording-of-the-conversation-between-the-tui-airways-pilot-and-the-controller.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2023/07/ufo-over-slovenia-the-pilot-reported-bright-lights-bouncing-across-the-sky-we-have-an-audio-recording-of-the-conversation-between-the-tui-airways-pilot-and-the-controller.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The pilot reported &#x27;bright lights bouncing...2 Aug 2023 — Without a hint of the impending spectacle, the pilot observed peculiar lights...</p></details>
+   Link:<a href="https://www.latest-ufo-sightings.net/2023/07/ufo-over-slovenia-the-pilot-reported-bright-lights-bouncing-across-the-sky-we-have-an-audio-recording-of-the-conversation-between-the-tui-airways-pilot-and-the-controller.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2023/07/ufo-over-slovenia-the-pilot-reported-bright-lights-bouncing-across-the-sky-we-have-an-audio-recording-of-the-conversation-between-the-tui-airways-pilot-and-the-controller.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The pilot reported &#x27;bright lights bouncing...2 Aug 2023 — Without a hint of the impending spectacle, the pilot observed peculiar lights...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/newly-surfaced-footage-recorded-near-lake-bohinj-in-slovenia-has-drawn-serious-a/833111283041628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/newly-surfaced-footage-recorded-near-lake-bohinj-in-slovenia-has-drawn-serious-a/833111283041628/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>him and promptly reached out to air traffic control. The...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/newly-surfaced-footage-recorded-near-lake-bohinj-in-slovenia-has-drawn-serious-a/833111283041628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/newly-surfaced-footage-recorded-near-lake-bohinj-in-slovenia-has-drawn-serious-a/833111283041628/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>him and promptly reached out to air traffic control. The...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/997340448782449/posts/1309400687576422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/997340448782449/posts/1309400687576422/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fore him and promptly reached out to air traffic control...</p></details>
+   Link:<a href="https://www.facebook.com/groups/997340448782449/posts/1309400687576422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/997340448782449/posts/1309400687576422/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fore him and promptly reached out to air traffic control...</p></details>

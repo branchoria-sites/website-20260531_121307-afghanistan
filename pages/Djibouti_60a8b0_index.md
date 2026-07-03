@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /djibouti-60a8b0-index/
 description: Focused pages that expand on Djibouti.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Djibouti_60a8b0
 parent_title: Djibouti
@@ -16,7 +16,7 @@ parent_permalink: /djibouti/
 
 # Explore Topics in Djibouti
 
-The following pages expand on the main **[Djibouti]({{ '/djibouti/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Djibouti]({{ '/djibouti/' | relative_url }})** page and cover its key branches in.
 
 - [Civilian Reports]({{ '/civilian-reports-fa012d/' | relative_url }})
 - [Evidence Assessment]({{ '/evidence-assessment-4ecf0d/' | relative_url }})

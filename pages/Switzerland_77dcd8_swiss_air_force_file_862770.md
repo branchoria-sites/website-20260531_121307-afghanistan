@@ -248,14 +248,14 @@ image: /assets/images/Switzerland_77dcd8_swiss_air_force_file_862770-Illustratio
 
 ## Introduction
 
-Swiss Air Force UFO files are often presented as hidden proof that the Swiss military secretly confirmed extraterrestrial craft. The actual record is more interesting, but also more limited. The surviving files show that Swiss military authorities treated reports of unusual aerial objects as a legitimate matter for documentation, flight safety and intelligence assessment. They prove that pilots, officials and military staff were instructed to report unexplained sightings in a structured way. They do not prove that Switzerland identified alien vehicles, recovered unknown technology or reached extraordinary conclusions behind closed doors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+Swiss Air Force UFO files are often presented as hidden proof that the Swiss military secretly confirmed extraterrestrial craft. The actual record is more interesting, but also more limited. The surviving files show that Swiss military authorities treated reports of unusual aerial objects as a legitimate matter for documentation, flight safety and intelligence assessment. They prove that pilots, officials and military staff were instructed to report unexplained sightings in a structured way. They do not prove that Switzerland identified alien vehicles, recovered unknown technology or reached extraordinary conclusions behind closed doors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 <img src="{{ "/assets/images/Switzerland_77dcd8_swiss_air_force_file_862770-Illustration-1-dark.svg" | relative_url }}" alt="Air Force Files illustration 1" data-theme-src-dark="{{ "/assets/images/Switzerland_77dcd8_swiss_air_force_file_862770-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Switzerland_77dcd8_swiss_air_force_file_862770-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the Swiss case distinctive is not a dramatic revelation but the existence of official reporting procedures, archived military correspondence and testimony from former personnel who describe a long-running bureaucratic process. The files demonstrate that unidentified aerial reports entered military record-keeping. The central question is therefore not whether the records exist, but what those records actually establish and where their evidential limits begin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+What makes the Swiss case distinctive is not a dramatic revelation but the existence of official reporting procedures, archived military correspondence and testimony from former personnel who describe a long-running bureaucratic process. The files demonstrate that unidentified aerial reports entered military record-keeping. The central question is therefore not whether the records exist, but what those records actually establish and where their evidential limits begin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 ## The 1954 Reporting Instructions Were Real
 
-The most important Swiss military UFO document known publicly is a 1954 Air Force intelligence file held in the Swiss Federal Archives. The file, catalogued as E5465B and discussed by Swiss public broadcaster RTS and Swissinfo, contains instructions explaining how pilots and officials should respond if they observed a so-called “flying saucer” or other unidentified aerial object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+The most important Swiss military UFO document known publicly is a 1954 Air Force intelligence file held in the Swiss Federal Archives. The file, catalogued as E5465B and discussed by Swiss public broadcaster RTS and Swissinfo, contains instructions explaining how pilots and officials should respond if they observed a so-called “flying saucer” or other unidentified aerial object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 This matters because it moves the discussion beyond folklore. The document shows that Swiss military authorities considered unusual aerial reports important enough to standardise. Rather than leaving sightings to rumours or newspaper reports, the Air Force sought consistent information that could be compared and analysed.
 
@@ -273,7 +273,7 @@ The reporting framework reportedly asked observers to record details such as:
 
 </div>
 
-These are the kinds of questions an air force asks when attempting to determine whether an observation could involve an aircraft, atmospheric phenomenon, intelligence concern or simple misidentification. They are not evidence that the military already believed the objects were non-human. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+These are the kinds of questions an air force asks when attempting to determine whether an observation could involve an aircraft, atmospheric phenomenon, intelligence concern or simple misidentification. They are not evidence that the military already believed the objects were non-human.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 The key historical significance of the file is therefore procedural. It proves that unidentified aerial phenomena entered official Swiss military reporting channels during the post-war flying-saucer era.
 
@@ -296,7 +296,7 @@ During the early Cold War, unusual aerial observations had potential military si
 
 Military organisations routinely collect reports before they know what an object is. Investigation begins with uncertainty. The category “unidentified” describes the observer's knowledge at the time of reporting, not the final explanation.
 
-Swiss defence officials have emphasised this distinction. Public statements cited by Swissinfo note that the armed forces did not maintain a dedicated UFO mission. Instead, unusual observations appeared within broader flight debriefing and reporting systems used after military operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+Swiss defence officials have emphasised this distinction. Public statements cited by Swissinfo note that the armed forces did not maintain a dedicated UFO mission. Instead, unusual observations appeared within broader flight debriefing and reporting systems used after military operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 That position is consistent with the surviving archive material. The files demonstrate interest in documentation rather than confirmation of extraordinary origins.
 
@@ -306,7 +306,7 @@ That position is consistent with the surviving archive material. The files demon
 
 Some of the most intriguing claims connected to Swiss military UFO files involve reports from Swiss Air Force pilots, particularly those associated with the Mirage fighter era.
 
-Former military aviators interviewed by Swiss broadcaster RTS described a culture in which unusual aerial observations could be formally recorded. According to those accounts, reporting procedures remained in use for decades after the 1954 instructions were issued. Yet only a fraction of the expected documentation appears to survive in public archives today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+Former military aviators interviewed by Swiss broadcaster RTS described a culture in which unusual aerial observations could be formally recorded. According to those accounts, reporting procedures remained in use for decades after the 1954 instructions were issued. Yet only a fraction of the expected documentation appears to survive in public archives today.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 This creates one of the central frustrations in the Swiss UFO record.
 
@@ -322,7 +322,7 @@ There are three possibilities:
 
 None of these possibilities automatically imply a cover-up. Military bureaucracies routinely discard large quantities of operational paperwork. The survival of a reporting system does not guarantee the survival of every report produced by that system.
 
-The Mirage-related stories are therefore notable less for what they reveal than for what they cannot conclusively demonstrate. Testimony suggests pilots occasionally reported unusual observations. The surviving archive does not provide a large, continuous dataset capable of proving the nature of those sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+The Mirage-related stories are therefore notable less for what they reveal than for what they cannot conclusively demonstrate. Testimony suggests pilots occasionally reported unusual observations. The surviving archive does not provide a large, continuous dataset capable of proving the nature of those sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 <img src="{{ "/assets/images/Switzerland_77dcd8_swiss_air_force_file_862770-Illustration-2-dark.svg" | relative_url }}" alt="Air Force Files illustration 2" data-theme-src-dark="{{ "/assets/images/Switzerland_77dcd8_swiss_air_force_file_862770-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Switzerland_77dcd8_swiss_air_force_file_862770-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Files Prove Beyond Doubt
@@ -331,21 +331,21 @@ The strongest conclusions supported by the available evidence are narrower than 
 
 ### They prove official documentation existed
 
-This is the least controversial finding. Swiss military authorities produced instructions and maintained files dealing with reports of unidentified aerial objects. The archival record confirms that such reports entered government systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+This is the least controversial finding. Swiss military authorities produced instructions and maintained files dealing with reports of unidentified aerial objects. The archival record confirms that such reports entered government systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 ### They prove sightings reached military channels
 
-The files show that reports were not confined to newspapers, civilian witnesses or private UFO groups. Some observations were considered relevant enough for military attention and record-keeping. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+The files show that reports were not confined to newspapers, civilian witnesses or private UFO groups. Some observations were considered relevant enough for military attention and record-keeping.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 ### They prove uncertainty was treated as a reporting category
 
-The reporting process itself recognised that some observations could not be immediately identified. This is a significant point because it shows that military authorities accepted uncertainty rather than forcing every report into a predetermined explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+The reporting process itself recognised that some observations could not be immediately identified. This is a significant point because it shows that military authorities accepted uncertainty rather than forcing every report into a predetermined explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/POD4iAL4teM" title="Ross Coulthart LIVE: UFO Files (2nd Drop) Analysis and Reaction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=POD4iAL4teM" target="_blank" rel="noopener noreferrer">Ross Coulthart LIVE: UFO Files (2nd Drop) Analysis and Reaction</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 384.5K &middot; Uploaded: May 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=POD4iAL4teM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=POD4iAL4teM">Open on YouTube</a></p></div></div></div>
 
 ### They prove Switzerland participated in a wider international pattern
 
-The Swiss files emerged during a period when many Western countries created procedures for unusual aerial reports. Switzerland was not uniquely obsessed with UFOs, but neither was it completely indifferent to them. The archives place the country within a broader Cold War culture of aerial monitoring and intelligence awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+The Swiss files emerged during a period when many Western countries created procedures for unusual aerial reports. Switzerland was not uniquely obsessed with UFOs, but neither was it completely indifferent to them. The archives place the country within a broader Cold War culture of aerial monitoring and intelligence awareness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 ## What the Files Do Not Prove
 
@@ -353,16 +353,16 @@ The most important evidential question is where the documents stop.
 
 ### No proof of extraterrestrial craft
 
-None of the publicly discussed Swiss Air Force files demonstrate that a reported object originated from another planet. The documents show reporting and investigation, not confirmed alien technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+None of the publicly discussed Swiss Air Force files demonstrate that a reported object originated from another planet. The documents show reporting and investigation, not confirmed alien technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 ### No evidence of recovered vehicles
 
-Claims that Switzerland secretly recovered crashed UFOs are not supported by the known archival material associated with the Air Force files. The surviving documents concern sightings and reporting procedures rather than physical retrieval programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+Claims that Switzerland secretly recovered crashed UFOs are not supported by the known archival material associated with the Air Force files. The surviving documents concern sightings and reporting procedures rather than physical retrieval programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 <img src="{{ "/assets/images/Switzerland_77dcd8_swiss_air_force_file_862770-Illustration-3-dark.svg" | relative_url }}" alt="Air Force Files illustration 3" data-theme-src-dark="{{ "/assets/images/Switzerland_77dcd8_swiss_air_force_file_862770-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Switzerland_77dcd8_swiss_air_force_file_862770-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### No proof of a secret Swiss UFO programme
 
-The available evidence does not show an equivalent of the dedicated UFO projects associated with some foreign military organisations. Swiss officials have consistently described the records as part of broader military reporting systems rather than a standalone investigative mission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+The available evidence does not show an equivalent of the dedicated UFO projects associated with some foreign military organisations. Swiss officials have consistently described the records as part of broader military reporting systems rather than a standalone investigative mission.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 ### No demonstration that every unexplained case remained unexplained
 
@@ -376,7 +376,7 @@ In practice, official records usually prove only that somebody considered an eve
 
 A useful comparison is an unsolved police report. The existence of the report proves that an incident was reported. It does not automatically prove the most dramatic explanation for that incident. The same logic applies to UFO files.
 
-This distinction is especially important in Switzerland because the surviving material is fragmentary. The archives reveal procedures, correspondence and examples of reporting, but they do not provide a complete catalogue of every military sighting or a definitive analytical conclusion. That gap allows speculation to flourish. Some researchers see missing records as evidence of suppression; sceptics see routine archival loss. The available evidence cannot decisively resolve the dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+This distinction is especially important in Switzerland because the surviving material is fragmentary. The archives reveal procedures, correspondence and examples of reporting, but they do not provide a complete catalogue of every military sighting or a definitive analytical conclusion. That gap allows speculation to flourish. Some researchers see missing records as evidence of suppression; sceptics see routine archival loss. The available evidence cannot decisively resolve the dispute.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DYhJwawmReE" title="The Most Controversial UFO Case in History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DYhJwawmReE" target="_blank" rel="noopener noreferrer">The Most Controversial UFO Case in History</a></p><p class="youtube-embed-meta">Channel: Absolute Documentaries &middot; Views: 66.7K &middot; Uploaded: January 2026 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DYhJwawmReE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DYhJwawmReE">Open on YouTube</a></p></div></div></div>
 
@@ -388,197 +388,197 @@ They show that Switzerland's UFO history is not merely a collection of legends, 
 
 At the same time, the files illustrate a recurring lesson in UFO research: official interest and official confirmation are not the same thing. The Swiss records establish that unexplained aerial observations were taken seriously enough to document. They do not establish what those observations ultimately were.
 
-That combination—genuine documentation paired with limited conclusions—is precisely what makes the Swiss Air Force UFO files historically significant. They transform part of Switzerland's UFO story from folklore into archived bureaucracy, while leaving the biggest question unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
+That combination—genuine documentation paired with limited conclusions—is precisely what makes the Swiss Air Force UFO files historically significant. They transform part of Switzerland's UFO story from folklore into archived bureaucracy, while leaving the biggest question unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Swiss UFO Files Actually Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Swiss UFO Files Actually Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains how military organisations handled unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how military organisations handled unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Centres on military, pilot, and official UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres on military, pilot, and official UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Directly relevant to official UFO files and government documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to official UFO files and government documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides context for official UFO cases worldwide.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for official UFO cases worldwide.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-swiss-ufo-files-actually-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-swiss-ufo-files-actually-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -594,7 +594,7 @@ That combination—genuine documentation paired with limited conclusions—is pr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -614,7 +614,7 @@ That combination—genuine documentation paired with limited conclusions—is pr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -646,7 +646,7 @@ That combination—genuine documentation paired with limited conclusions—is pr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -698,7 +698,7 @@ That combination—genuine documentation paired with limited conclusions—is pr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -743,7 +743,7 @@ That combination—genuine documentation paired with limited conclusions—is pr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,78 +781,77 @@ That combination—genuine documentation paired with limited conclusions—is pr
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: swissinfo.ch  
-   Link: <a href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</p></details>
+   Link:<a href="https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/eng/swiss-abroad/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Swiss public television, RTS, gained access t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: swissinfo.ch  
    Title: report reveals swiss militarys interest in alleged ufo sightings  
-   Link: <a href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Report highlights Swiss military&#x27;s interest i...</p></details>
+   Link:<a href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SWI swissinfo.chReport highlights Swiss military&#x27;s interest in alleged UFO...30 Oct 2024 — Report highlights Swiss military&#x27;s interest i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...30 Jan 2026 — This page provides a list of presidential records related to U...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...30 Jan 2026 — This page provides a list of presidential records related to U...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/microsoft/cocolm-base/resolve/main/dict.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/microsoft/cocolm-base/resolve/main/dict.txt?download=true</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>736 kB... UFO 1 ·Mata 1 ·sideways 1 sexual 1 ·Harden 1 ·tackled 1 ·Glad 1 ·prevalence 1 ·inspectors 1 bos 1 ·Brit 1 ·authoritarian 1 DP 1...</p></details>
+   Link:<a href="https://huggingface.co/microsoft/cocolm-base/resolve/main/dict.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/microsoft/cocolm-base/resolve/main/dict.txt?download=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>736 kB... UFO 1 ·Mata 1 ·sideways 1 sexual 1 ·Harden 1 ·tackled 1 ·Glad 1 ·prevalence 1 ·inspectors 1 bos 1 ·Brit 1 ·authoritarian 1 DP 1...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: worksheets.codalab.org  
-   Link: <a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... ufo sympathies annualized cadre substrate gillian overriding indo freiburg platt tories toms ni...</p></details>
+   Link:<a href="https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://worksheets.codalab.org/rest/bundles/0xadf98bb30a99476ab56ebff3e462d4fa/contents/blob/glove.6B.100d.txt-vocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>codalab.orgglove.6B.100d.txt-vocab.txt... ufo sympathies annualized cadre substrate gillian overriding indo freiburg platt tories toms ni...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers/commit/bf8151db89d50eb9eb4ffa7bbbc347e335bcac2a.diff?file=tokenizer%2Fvocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers/commit/bf8151db89d50eb9eb4ffa7bbbc347e335bcac2a.diff?file=tokenizer%2Fvocab.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo +i5 +##max +plc +ben +back +research +8g +mike +##pc +##ッフ+september +##ace +vps +february +pantos +wp +lisa + +jquery +night...Read...</p></details>
+   Link:<a href="https://huggingface.co/Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers/commit/bf8151db89d50eb9eb4ffa7bbbc347e335bcac2a.diff?file=tokenizer%2Fvocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/Tencent-Hunyuan/HunyuanDiT-v1.1-Diffusers/commit/bf8151db89d50eb9eb4ffa7bbbc347e335bcac2a.diff?file=tokenizer%2Fvocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ufo +i5 +##max +plc +ben +back +research +8g +mike +##pc +##ッフ+september +##ace +vps +february +pantos +wp +lisa + +jquery +night...Read...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: article by swiss public tv broadcaster srf on ufo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1geqb0x/article_by_swiss_public_tv_broadcaster_srf_on_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1geqb0x/article_by_swiss_public_tv_broadcaster_srf_on_ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the military file “E5465B” from 1954, the Air Force Intelligence Service informs pilots and officials what to do if a UFO is...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1geqb0x/article_by_swiss_public_tv_broadcaster_srf_on_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1geqb0x/article_by_swiss_public_tv_broadcaster_srf_on_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the military file “E5465B” from 1954, the Air Force Intelligence Service informs pilots and officials what to do if a UFO is...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsIt was the standard Air Force reporting form that is used for all intelligence reports, includin...</p></details>
+   Link:<a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsIt was the standard Air Force reporting form that is used for all intelligence reports, includin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/helboukkouri/character-bert/raw/main/mlm_vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/helboukkouri/character-bert/raw/main/mlm_vocab.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spectacle amos swallow strasbourg...Read more...</p></details>
+   Link:<a href="https://huggingface.co/helboukkouri/character-bert/raw/main/mlm_vocab.txt" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/helboukkouri/character-bert/raw/main/mlm_vocab.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spectacle amos swallow strasbourg...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1knn8rg/super_clear_ufo_photo_taken_in_saasfee/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1knn8rg/super_clear_ufo_photo_taken_in_saasfee/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Super clear UFO photo taken in Saas-Fee, Switzerland on.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1knn8rg/super_clear_ufo_photo_taken_in_saasfee/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1knn8rg/super_clear_ufo_photo_taken_in_saasfee/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Super clear UFO photo taken in Saas-Fee, Switzerland on.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hansard.parliament.uk  
    Title: uk Unidentified Flying Objects  
-   Link: <a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, after the war, the United States Air Force investigated pilots&#x27; reports without any debunking.Read more...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/1979-01-18/debates/31155733-007e-46ad-b513-80f1c726a4a3/UnidentifiedFlyingObjects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, after the war, the United States Air Force investigated pilots&#x27; reports without any debunking.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: How Military Sensors Proved UFO Craft Were Physically Real | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H6eK1VbrHPY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart LIVE: UFO Files (2nd Drop) Analysis and Reaction...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H6eK1VbrHPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H6eK1VbrHPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart LIVE: UFO Files (2nd Drop) Analysis and Reaction...</p></details>

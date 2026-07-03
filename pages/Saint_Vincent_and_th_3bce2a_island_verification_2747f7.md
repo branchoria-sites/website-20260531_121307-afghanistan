@@ -254,10 +254,10 @@ image: /assets/images/Saint_Vincent_and_th_3bce2a_island_verification_2747f7-Ill
 
 ## Introduction
 
-[Saint Vincent and the Grenadines]({{ 'saint-vincent-and-the-grenadines/' | relative_url }}) presents a special problem for anyone trying to verify unusual aerial sightings. The country is not a single landmass but a chain of islands spread across open sea, with steep volcanic terrain, long coastal sightlines and limited archival infrastructure. A light, fireball or aircraft seen from Bequia may appear completely different to observers on mainland Saint Vincent, Mustique or Union Island. When an object disappears beyond the horizon, witnesses often have no way to judge whether it fell into nearby water, passed behind another island or continued far beyond the visible coastline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Saint Vincent and the Grenadines</span><span class="citation-popover-snippet">Saint Vincent and the Grenadines</span></span></span>
+[Saint Vincent and the Grenadines]({{ 'saint-vincent-and-the-grenadines/' | relative_url }}) presents a special problem for anyone trying to verify unusual aerial sightings. The country is not a single landmass but a chain of islands spread across open sea, with steep volcanic terrain, long coastal sightlines and limited archival infrastructure. A light, fireball or aircraft seen from Bequia may appear completely different to observers on mainland Saint Vincent, Mustique or Union Island. When an object disappears beyond the horizon, witnesses often have no way to judge whether it fell into nearby water, passed behind another island or continued far beyond the visible coastline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Saint Vincent and the Grenadines</span><span class="citation-popover-snippet">Saint Vincent and the Grenadines</span></span></span>
 
 <img src="{{ "/assets/images/Saint_Vincent_and_th_3bce2a_island_verification_2747f7-Illustration-1-dark.svg" | relative_url }}" alt="Island Effects illustration 1" data-theme-src-dark="{{ "/assets/images/Saint_Vincent_and_th_3bce2a_island_verification_2747f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saint_Vincent_and_th_3bce2a_island_verification_2747f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That geography helps explain why Saint Vincent's small UFO record contains more unresolved observations than hard evidence. The country's most discussed modern aerial mystery, the 2014 fiery object seen from several islands, generated a Coast Guard search but produced no debris, no confirmed aircraft loss and no recoverable physical evidence. The case illustrates a broader pattern: island conditions can create genuine uncertainty without necessarily producing evidence for extraordinary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
+That geography helps explain why Saint Vincent's small UFO record contains more unresolved observations than hard evidence. The country's most discussed modern aerial mystery, the 2014 fiery object seen from several islands, generated a Coast Guard search but produced no debris, no confirmed aircraft loss and no recoverable physical evidence. The case illustrates a broader pattern: island conditions can create genuine uncertainty without necessarily producing evidence for extraordinary explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
 
 ## How Sea Horizons Distort Distance and Direction
 
@@ -265,7 +265,7 @@ One of the most important factors in Saint Vincent and the Grenadines is the way
 
 Across much of the country, observers look outward over open water with very few reference points. Unlike sightings over cities, there are often no buildings, roads or landmarks that help estimate an object's distance, altitude or speed. A bright meteor hundreds of kilometres away can appear to be descending into nearby water. An aircraft approaching from beyond the horizon may seem stationary for long periods before abruptly changing appearance as its lights shift relative to the viewer.
 
-The geography of the state amplifies this effect. Saint Vincent itself is mountainous and volcanic, while the Grenadines form a scattered chain extending southward across more than sixty kilometres of sea. Different islands provide different viewing angles, meaning that a single event can generate several apparently contradictory witness accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Geography_of_Saint_Vincent_and_the_Grenadines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Geography of Saint Vincent and the Grenadines</span><span class="citation-popover-snippet">Geography of Saint Vincent and the Grenadines</span></span></span>
+The geography of the state amplifies this effect. Saint Vincent itself is mountainous and volcanic, while the Grenadines form a scattered chain extending southward across more than sixty kilometres of sea. Different islands provide different viewing angles, meaning that a single event can generate several apparently contradictory witness accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Geography_of_Saint_Vincent_and_the_Grenadines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Geography of Saint Vincent and the Grenadines</span><span class="citation-popover-snippet">Geography of Saint Vincent and the Grenadines</span></span></span>
 
 In practical terms, witnesses on separate islands may disagree about:
 
@@ -286,7 +286,7 @@ Many reported aerial mysteries involve luminous objects rather than clearly visi
 
 At night, observers often judge distance from brightness. Over water this can be misleading because there are fewer visual cues available. A meteor burning high in the atmosphere may appear low and local. Reflections on water can also reinforce the impression that something is approaching the surface.
 
-This is particularly relevant in the eastern Caribbean, where meteor fireballs are periodically visible across multiple islands at once. Witnesses frequently describe them as aircraft crashes, falling satellites or unidentified craft before astronomical explanations emerge. The dramatic appearance of orange trails, flashes and colour changes can make an ordinary atmospheric event appear far more unusual than it actually is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
+This is particularly relevant in the eastern Caribbean, where meteor fireballs are periodically visible across multiple islands at once. Witnesses frequently describe them as aircraft crashes, falling satellites or unidentified craft before astronomical explanations emerge. The dramatic appearance of orange trails, flashes and colour changes can make an ordinary atmospheric event appear far more unusual than it actually is.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vtMhHXESKUY" title="Blows! Blowssss! Bequia Whaling - Island Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vtMhHXESKUY" target="_blank" rel="noopener noreferrer">Blows! Blowssss! Bequia Whaling - Island Life</a></p><p class="youtube-embed-meta">Channel: Simple Island Girl Suni-KO &middot; Views: 1.5K &middot; Uploaded: February 2026 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vtMhHXESKUY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vtMhHXESKUY">Open on YouTube</a></p></div></div></div>
 
@@ -298,7 +298,7 @@ From a coastal viewpoint, anything descending toward the horizon can seem to dis
 
 This helps explain why reports of "something falling into the sea" are common throughout island regions. Unless debris is recovered or a radar track exists, investigators may never determine whether the object actually impacted the water.
 
-The July 2014 incident around Bequia, Mustique and mainland Saint Vincent illustrates the difficulty. Witnesses reported a fiery object moving rapidly through the sky, generating rumours of a downed aircraft. Air traffic checks found no missing flights, and Coast Guard searches located no wreckage or debris. Authorities ultimately stated that they found nothing proving the object either was or was not a meteorite. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
+The July 2014 incident around Bequia, Mustique and mainland Saint Vincent illustrates the difficulty. Witnesses reported a fiery object moving rapidly through the sky, generating rumours of a downed aircraft. Air traffic checks found no missing flights, and Coast Guard searches located no wreckage or debris. Authorities ultimately stated that they found nothing proving the object either was or was not a meteorite.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
 
 The most important lesson from that case is not that something extraordinary occurred. Rather, it demonstrates how an object observed over water can remain unresolved after all immediate safety checks have been completed.
 
@@ -330,7 +330,7 @@ This creates several challenges:
 
 </div>
 
-Unlike countries with large UFO organisations, dedicated national archives or extensive declassified government collections, Saint Vincent and the Grenadines has very little publicly accessible historical material focused on aerial anomalies. Researchers therefore rely heavily on local journalism and contemporary reporting when reconstructing events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
+Unlike countries with large UFO organisations, dedicated national archives or extensive declassified government collections, Saint Vincent and the Grenadines has very little publicly accessible historical material focused on aerial anomalies. Researchers therefore rely heavily on local journalism and contemporary reporting when reconstructing events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ABtQ6Vu6xkE" title="This Mysterious Rotating Island Has Finally Been Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ABtQ6Vu6xkE" target="_blank" rel="noopener noreferrer">This Mysterious Rotating Island Has Finally Been Explained</a></p><p class="youtube-embed-meta">Channel: BE AMAZED &middot; Views: 1.7M &middot; Uploaded: December 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ABtQ6Vu6xkE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ABtQ6Vu6xkE">Open on YouTube</a></p></div></div></div>
 
@@ -351,7 +351,7 @@ At the same time, social media introduces new complications:
 
 </div>
 
-The 2014 incident itself spread rapidly through public discussion before authorities had completed basic checks on aircraft movements and possible crash reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
+The 2014 incident itself spread rapidly through public discussion before authorities had completed basic checks on aircraft movements and possible crash reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
 
 For researchers, the challenge is separating the first-hand observation from the narrative that develops afterwards.
 
@@ -383,197 +383,197 @@ The strongest conclusion from Saint Vincent and the Grenadines' limited UFO hist
 
 Open sea, scattered islands, mountainous coastlines and limited archival preservation create ideal conditions for uncertainty. A fireball may appear to plunge into nearby water. Witnesses on different islands may disagree about direction and distance. Searches may find nothing because there was never a local impact point to begin with. Reports can then survive only as fragments in local media or community memory.
 
-The 2014 Bequia–Mustique sighting remains the clearest example. It was serious enough to trigger aviation checks and a Coast Guard response, yet the available evidence never moved beyond an unresolved observation over water. In a country defined by sea horizons and dispersed islands, that outcome is often more revealing than the sighting itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
+The 2014 Bequia–Mustique sighting remains the clearest example. It was serious enough to trigger aviation checks and a Coast Guard response, yet the available evidence never moved beyond an unresolved observation over water. In a country defined by sea horizons and dispersed islands, that outcome is often more revealing than the sighting itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchlight.vc">[Searchlight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchlight.vc</span><span class="citation-popover-title">We didn&#x27;t find anything to say it was or wasn&#x27;t a meteorite</span><span class="citation-popover-snippet">and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Island UFO Reports Are So Hard to Check. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Island UFO Reports Are So Hard to Check. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on witness reliability, observation problems and case evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on witness reliability, observation problems and case evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
-        </h4>
-        <p class="fr-book-author">By Greg Eghigian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
+</h4>
+<p class="fr-book-author">By Greg Eghigian</p>
         
-        <p class="fr-book-desc">Provides context for how reports are recorded and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how reports are recorded and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises evidence standards and corroborated reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises evidence standards and corroborated reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how perception and evidence can produce misleading conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how perception and evidence can produce misleading conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-island-ufo-reports-are-so-hard-to-check-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-island-ufo-reports-are-so-hard-to-check-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ The 2014 Bequia–Mustique sighting remains the clearest example. It was serious
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ The 2014 Bequia–Mustique sighting remains the clearest example. It was serious
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ The 2014 Bequia–Mustique sighting remains the clearest example. It was serious
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ The 2014 Bequia–Mustique sighting remains the clearest example. It was serious
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ The 2014 Bequia–Mustique sighting remains the clearest example. It was serious
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,107 +779,107 @@ The 2014 Bequia–Mustique sighting remains the clearest example. It was serious
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Saint Vincent and the Grenadines  
-   Link: <a href="https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Geography of Saint Vincent and the Grenadines  
-   Link: <a href="https://en.wikipedia.org/wiki/Geography_of_Saint_Vincent_and_the_Grenadines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geography_of_Saint_Vincent_and_the_Grenadines</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Geography_of_Saint_Vincent_and_the_Grenadines" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geography_of_Saint_Vincent_and_the_Grenadines</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: searchlight.vc  
    Title: We didn't find anything to say it was or wasn't a meteorite  
-   Link: <a href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</p></details>
+   Link:<a href="https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchlight.vc/news/2014/07/31/we-didnt-find-anything-to-say-it-was-or-wasnt-a-meteorite-coastguard/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and 7:30 p.m., several residents in Bequia, Mustique and mainland St Vincent witnessed an object on fire...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Saint Vincent (Saint Vincent and the Grenadines)  
-   Link: <a href="https://en.wikipedia.org/wiki/Saint_Vincent_%28Saint_Vincent_and_the_Grenadines%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saint_Vincent_%28Saint_Vincent_and_the_Grenadines%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Saint_Vincent_%28Saint_Vincent_and_the_Grenadines%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Saint_Vincent_%28Saint_Vincent_and_the_Grenadines%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/beautedelacaraibeworld/posts/-saint-vincent-the-grenadines-a-volcanic-paradise-of-the-caribbean-geography-loc/926994343645475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/beautedelacaraibeworld/posts/-saint-vincent-the-grenadines-a-volcanic-paradise-of-the-caribbean-geography-loc/926994343645475/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>illes island chain, south of Saint Lucia and north of Grenada.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/beautedelacaraibeworld/posts/-saint-vincent-the-grenadines-a-volcanic-paradise-of-the-caribbean-geography-loc/926994343645475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/beautedelacaraibeworld/posts/-saint-vincent-the-grenadines-a-volcanic-paradise-of-the-caribbean-geography-loc/926994343645475/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>illes island chain, south of Saint Lucia and north of Grenada.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: Lite FM  
-   Link: <a href="https://www.facebook.com/litefmbequia/posts/press-statement-concerning-the-press-release-that-was-issued-by-the-royal-st-vin/759233512900202/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/litefmbequia/posts/press-statement-concerning-the-press-release-that-was-issued-by-the-royal-st-vin/759233512900202/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BequiaThe RSVGPF acknowledges that there was an error in the release where it stated that the four bodies were recovered from the aircraf...</p></details>
+   Link:<a href="https://www.facebook.com/litefmbequia/posts/press-statement-concerning-the-press-release-that-was-issued-by-the-royal-st-vin/759233512900202/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/litefmbequia/posts/press-statement-concerning-the-press-release-that-was-issued-by-the-royal-st-vin/759233512900202/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BequiaThe RSVGPF acknowledges that there was an error in the release where it stated that the four bodies were recovered from the aircraf...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/barbadosft/posts/1886743608744156/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/barbadosft/posts/1886743608744156/</a>  
+   Link:<a href="https://www.facebook.com/groups/barbadosft/posts/1886743608744156/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/barbadosft/posts/1886743608744156/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/APISVG/posts/the-svg-coast-guard-facilitated-a-tour-of-the-entire-coastline-around-st-vincent/3943411049084728/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/APISVG/posts/the-svg-coast-guard-facilitated-a-tour-of-the-entire-coastline-around-st-vincent/3943411049084728/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vincent to get a firsthand view of the damage after the La Soufriere eruptions.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/APISVG/posts/the-svg-coast-guard-facilitated-a-tour-of-the-entire-coastline-around-st-vincent/3943411049084728/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/APISVG/posts/the-svg-coast-guard-facilitated-a-tour-of-the-entire-coastline-around-st-vincent/3943411049084728/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vincent to get a firsthand view of the damage after the La Soufriere eruptions.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: Interesting research going on In Brazil  
-   Link: <a href="https://www.facebook.com/groups/1446381838864959/posts/1990401747796296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1446381838864959/posts/1990401747796296/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs created by the Air Force must be sent annually to the National Archive. This week, 35 records were sent to the National Archives, al...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1446381838864959/posts/1990401747796296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1446381838864959/posts/1990401747796296/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs created by the Air Force must be sent annually to the National Archive. This week, 35 records were sent to the National Archives, al...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/saint-vincent-the-grenadines-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/saint-vincent-the-grenadines-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saint Vincent the Grenadines UFO Sighting ReportsThere has been much evidence to support the existence of Saint Vincent the Grenadines UF...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/saint-vincent-the-grenadines-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/saint-vincent-the-grenadines-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saint Vincent the Grenadines UFO Sighting ReportsThere has been much evidence to support the existence of Saint Vincent the Grenadines UF...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a74eb88ed915d3c7d528fb6/Archive_inventory.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74eb88ed915d3c7d528fb6/Archive_inventory.csv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives&#x27; secure cabinet,1,0.135,&quot;Includes Guidance notes; annual budget details; finding aids, etc &quot;,8,&quot;files, loose documents&quot;,,Special...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a74eb88ed915d3c7d528fb6/Archive_inventory.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74eb88ed915d3c7d528fb6/Archive_inventory.csv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives&#x27; secure cabinet,1,0.135,&quot;Includes Guidance notes; annual budget details; finding aids, etc &quot;,8,&quot;files, loose documents&quot;,,Special...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: paho.org  
    Title: research for action on climate change and health in the caribbean 2024 0  
-   Link: <a href="https://www.paho.org/sites/default/files/research-for-action-on-climate-change-and-health-in-the-caribbean_2024_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.paho.org/sites/default/files/research-for-action-on-climate-change-and-health-in-the-caribbean_2024_0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CF Allen · Cited by 1 — Jamaica, Saint Lucia, and Saint Vincent and the Gr...</p></details>
+   Link:<a href="https://www.paho.org/sites/default/files/research-for-action-on-climate-change-and-health-in-the-caribbean_2024_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.paho.org/sites/default/files/research-for-action-on-climate-change-and-health-in-the-caribbean_2024_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CF Allen · Cited by 1 — Jamaica, Saint Lucia, and Saint Vincent and the Gr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dukespace.lib.duke.edu  
    Title: From where I stand, I see Saint Lucia on the horizon. Thus, step by step  
-   Link: <a href="https://dukespace.lib.duke.edu/bitstreams/be0d9c4b-9c59-4e2c-97ce-d9e8cc95d2a6/download" target="_blank" rel="noopener noreferrer nofollow">https://dukespace.lib.duke.edu/bitstreams/be0d9c4b-9c59-4e2c-97ce-d9e8cc95d2a6/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Islands: A Caribbean Tidalectics by Carmen Beatriz...by CB Llenín-Figueroa · 2012 · Cited by 22 — Vincent &amp; the Grenadines,” which seem...</p></details>
+   Link:<a href="https://dukespace.lib.duke.edu/bitstreams/be0d9c4b-9c59-4e2c-97ce-d9e8cc95d2a6/download" target="_blank" rel="noopener noreferrer nofollow">https://dukespace.lib.duke.edu/bitstreams/be0d9c4b-9c59-4e2c-97ce-d9e8cc95d2a6/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Islands: A Caribbean Tidalectics by Carmen Beatriz...by CB Llenín-Figueroa · 2012 · Cited by 22 — Vincent &amp; the Grenadines,” which seem...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: stvincenttimes.com  
    Title: st vincent police laud bequia divers for recovering plane crash victims  
-   Link: <a href="https://www.stvincenttimes.com/st-vincent-police-laud-bequia-divers-for-recovering-plane-crash-victims/" target="_blank" rel="noopener noreferrer nofollow">https://www.stvincenttimes.com/st-vincent-police-laud-bequia-divers-for-recovering-plane-crash-victims/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>St Vincent Police laud Bequia divers for recovering plane...5 Jan 2024 — Bequia Plane Crash Police give fishermen full credit for recove...</p></details>
+   Link:<a href="https://www.stvincenttimes.com/st-vincent-police-laud-bequia-divers-for-recovering-plane-crash-victims/" target="_blank" rel="noopener noreferrer nofollow">https://www.stvincenttimes.com/st-vincent-police-laud-bequia-divers-for-recovering-plane-crash-victims/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>St Vincent Police laud Bequia divers for recovering plane...5 Jan 2024 — Bequia Plane Crash Police give fishermen full credit for recove...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: caribank.org  
    Title: Updated Sourcebook Integration of Natural Hazards into EIA Process  
-   Link: <a href="https://www.caribank.org/sites/default/files/publication-resources/Updated%20Sourcebook_Integration%20of%20Natural%20Hazards%20into%20EIA%20Process.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caribank.org/sites/default/files/publication-resources/Updated%20Sourcebook_Integration%20of%20Natural%20Hazards%20into%20EIA%20Process.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updated Sourcebook on the Integration of Natural Hazards...23 Jul 2015 — The Caribbean region is subject to a broad range of potentially...</p></details>
+   Link:<a href="https://www.caribank.org/sites/default/files/publication-resources/Updated%20Sourcebook_Integration%20of%20Natural%20Hazards%20into%20EIA%20Process.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caribank.org/sites/default/files/publication-resources/Updated%20Sourcebook_Integration%20of%20Natural%20Hazards%20into%20EIA%20Process.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Updated Sourcebook on the Integration of Natural Hazards...23 Jul 2015 — The Caribbean region is subject to a broad range of potentially...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: worldoceanreview.com  
-   Link: <a href="https://worldoceanreview.com/wp-content/downloads/wor6/WOR6_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://worldoceanreview.com/wp-content/downloads/wor6/WOR6_en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The bimonthly German-language magazine mare, which focuses on the topic of the sea, was...Read more...</p></details>
+   Link:<a href="https://worldoceanreview.com/wp-content/downloads/wor6/WOR6_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://worldoceanreview.com/wp-content/downloads/wor6/WOR6_en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The bimonthly German-language magazine mare, which focuses on the topic of the sea, was...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222143799_Submarine_evidence_for_large-scale_debris_avalanches_in_the_Lesser_Antilles_Arc" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222143799_Submarine_evidence_for_large-scale_debris_avalanches_in_the_Lesser_Antilles_Arc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>entified on the floor of the Grenada Basin west of active volcanoes on Dominica...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/222143799_Submarine_evidence_for_large-scale_debris_avalanches_in_the_Lesser_Antilles_Arc" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222143799_Submarine_evidence_for_large-scale_debris_avalanches_in_the_Lesser_Antilles_Arc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>entified on the floor of the Grenada Basin west of active volcanoes on Dominica...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nsf-gov-resources.nsf.gov  
    Title: usgs final eis oeis with appendices  
-   Link: <a href="https://nsf-gov-resources.nsf.gov/files/nsf-usgs-final-eis-oeis-with-appendices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsf-gov-resources.nsf.gov/files/nsf-usgs-final-eis-oeis-with-appendices.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Final Programmatic Environmental Impact Statement (EIS)/Overseas Environmental Impact. Statement (OEIS) (hereafter called PEIS) for...</p></details>
+   Link:<a href="https://nsf-gov-resources.nsf.gov/files/nsf-usgs-final-eis-oeis-with-appendices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsf-gov-resources.nsf.gov/files/nsf-usgs-final-eis-oeis-with-appendices.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Final Programmatic Environmental Impact Statement (EIS)/Overseas Environmental Impact. Statement (OEIS) (hereafter called PEIS) for...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
    Title: An image of the remnants of a marine vessel in St  
-   Link: <a href="https://www.instagram.com/p/DU6f6cSkYEP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU6f6cSkYEP/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>image of the remnants of a marine vessel in St. Lucia which was pulled ashore. The vessel was thought to be impacted by a dea...</p></details>
+   Link:<a href="https://www.instagram.com/p/DU6f6cSkYEP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU6f6cSkYEP/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>image of the remnants of a marine vessel in St. Lucia which was pulled ashore. The vessel was thought to be impacted by a dea...</p></details>

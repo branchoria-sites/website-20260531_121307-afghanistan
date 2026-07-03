@@ -1194,57 +1194,57 @@ image: /assets/images/Algeria_bd6acc-overview-social.jpg
 
 ## What the Algerian UFO record actually contains
 
-The clearest public archival material on Algeria comes not from an Algerian government UFO office, but from foreign intelligence and military-era collections. The U.S. National Archives states that Project Blue Book, the U.S. Air Force UFO investigation programme, is declassified and includes chronological case files, administrative files, Office of Special Investigations material and microfilm access; the same fact sheet says Project Blue Book closed in 1969 and collected 12,618 sightings, of which 701 remained “Unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The clearest public archival material on Algeria comes not from an Algerian government UFO office, but from foreign intelligence and military-era collections. The U.S. National Archives states that Project Blue Book, the U.S. Air Force UFO investigation programme, is declassified and includes chronological case files, administrative files, Office of Special Investigations material and microfilm access; the same fact sheet says Project Blue Book closed in 1969 and collected 12,618 sightings, of which 701 remained “Unidentified”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <img src="{{ "/assets/images/Algeria_bd6acc-overview.webp" | relative_url }}" alt="Overview image for Algeria" loading="eager" decoding="sync" fetchpriority="high">
-For Algeria, the standout Blue Book-linked file is a 1952 Constantine/Philippeville report preserved on Wikimedia Commons from Project Blue Book material and sourced to Internet Archive scans. The file description identifies it as “Project Blue Book report - 1952-08-8773924-Constantine, Algeria”, dated August 1952 and authored by Project Blue Book. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span> The readable page of the file records two Algerian reports on 14 August 1952: at 21:15, two people in Constantine saw a bright luminous object moving at high speed towards Guelma; earlier, at 19:20, many people at the docks of Philippeville saw an enormous red disk moving from north to west and leaving a greenish trail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span>
+For Algeria, the standout Blue Book-linked file is a 1952 Constantine/Philippeville report preserved on Wikimedia Commons from Project Blue Book material and sourced to Internet Archive scans. The file description identifies it as “Project Blue Book report - 1952-08-8773924-Constantine, Algeria”, dated August 1952 and authored by Project Blue Book.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span> The readable page of the file records two Algerian reports on 14 August 1952: at 21:15, two people in Constantine saw a bright luminous object moving at high speed towards Guelma; earlier, at 19:20, many people at the docks of Philippeville saw an enormous red disk moving from north to west and leaving a greenish trail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span>
 
-A separate CIA-hosted document appears in search-indexed form as a 1952 report on sightings over Spain and Africa, drawing from French and Spanish-language newspapers. It includes an Algeria section from Oran Republicain, dated 16 August 1952, which reports a “ball of fire” seen at Ain Sefra on the night of 12 August, followed by the Constantine and Philippeville accounts from 14 August. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN</span><span class="citation-popover-snippet">Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN</span></span></span> These reports confirm that unusual aerial observations were being collected and circulated by foreign agencies, but they do not confirm an exotic origin.
+A separate CIA-hosted document appears in search-indexed form as a 1952 report on sightings over Spain and Africa, drawing from French and Spanish-language newspapers. It includes an Algeria section from Oran Republicain, dated 16 August 1952, which reports a “ball of fire” seen at Ain Sefra on the night of 12 August, followed by the Constantine and Philippeville accounts from 14 August.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN</span><span class="citation-popover-snippet">Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN</span></span></span> These reports confirm that unusual aerial observations were being collected and circulated by foreign agencies, but they do not confirm an exotic origin.
 
 ## The 1952 wave: bright objects, trails and a likely meteor problem
 
 The 1952 Algerian material is valuable because it has named places, times, witnesses in plural for at least one report, and an archival trail. It is also a good example of why “unidentified” is not the same as “unexplainable”. The descriptions — fast luminous objects, coloured trails, a fireball-like appearance, brief duration, and in one case an apparent explosion without sound — fit several ordinary categories that often confuse witnesses: meteors, re-entering debris, distant aircraft under unusual lighting, or atmospheric optical effects.
 
-Ain Sefra is especially suggestive. The CIA-indexed text describes a fireball that raced east to west, left a pink luminous trail, increased in volume, became bright red and seemed to explode without sound. That pattern is closer to a meteor or bolide report than to a structured craft report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN</span><span class="citation-popover-snippet">Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN</span></span></span> The Philippeville account is less easy to classify from the surviving description alone, because it involved “many people” and a red disk with a greenish trail, but it was still a short visual report without photographs, radar, recovered material or a later technical investigation in the public file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span>
+Ain Sefra is especially suggestive. The CIA-indexed text describes a fireball that raced east to west, left a pink luminous trail, increased in volume, became bright red and seemed to explode without sound. That pattern is closer to a meteor or bolide report than to a structured craft report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN</span><span class="citation-popover-snippet">Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN</span></span></span> The Philippeville account is less easy to classify from the surviving description alone, because it involved “many people” and a red disk with a greenish trail, but it was still a short visual report without photographs, radar, recovered material or a later technical investigation in the public file.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span>
 
-The key regional point is that these 1952 cases cluster in northern Algeria: Constantine and Philippeville in the north-east, Oran-related reporting in the west, and Ain Sefra on the Saharan Atlas edge. That pattern probably reflects where newspapers, ports, weather offices and colonial administrative channels could collect reports, not necessarily where unusual phenomena were most common. Algeria’s most populated zone is the Mediterranean north, while the Sahara dominates the country’s area; a sighting archive built through newspapers and official reporting will naturally over-represent cities, ports and garrisoned areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Algeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Algeria &#124; Flag, Capital, Population, Map, &amp; Language</span><span class="citation-popover-snippet">Encyclopedia Britannica Algeria &#124; Flag, Capital, Population, Map, &amp; Language</span></span></span>
+The key regional point is that these 1952 cases cluster in northern Algeria: Constantine and Philippeville in the north-east, Oran-related reporting in the west, and Ain Sefra on the Saharan Atlas edge. That pattern probably reflects where newspapers, ports, weather offices and colonial administrative channels could collect reports, not necessarily where unusual phenomena were most common. Algeria’s most populated zone is the Mediterranean north, while the Sahara dominates the country’s area; a sighting archive built through newspapers and official reporting will naturally over-represent cities, ports and garrisoned areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Algeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Algeria &#124; Flag, Capital, Population, Map, &amp; Language</span><span class="citation-popover-snippet">Encyclopedia Britannica Algeria &#124; Flag, Capital, Population, Map, &amp; Language</span></span></span>
 
 <img src="{{ "/assets/images/Algeria_bd6acc-Illustration-1-dark.svg" | relative_url }}" alt="Algeria illustration 1" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1958 Bouamama story: the most dramatic but least secure case
 
-The most famous Algeria UFO narrative is the alleged March 1958 Bouamama incident during the Algerian War. The commonly circulated version comes from a later article by Joël Mesnard, republished by UFO sites, in which a Foreign Legion sentry identified only as “N.G.” said he saw a huge elliptical or disc-like object descend near a camp, hover silently for 45 to 50 minutes, shine green light downward, and then depart rapidly. The account also says the witness did not fire or use the telephone during the event because he felt unusually calm, and that later medical observation found no obvious psychiatric or neurological problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1958-enormous-ufo-seen-during-algerian-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1958 enormous ufo seen during algerian war</span><span class="citation-popover-snippet">1958 enormous ufo seen during algerian war</span></span></span>
+The most famous Algeria UFO narrative is the alleged March 1958 Bouamama incident during the Algerian War. The commonly circulated version comes from a later article by Joël Mesnard, republished by UFO sites, in which a Foreign Legion sentry identified only as “N.G.” said he saw a huge elliptical or disc-like object descend near a camp, hover silently for 45 to 50 minutes, shine green light downward, and then depart rapidly. The account also says the witness did not fire or use the telephone during the event because he felt unusually calm, and that later medical observation found no obvious psychiatric or neurological problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1958-enormous-ufo-seen-during-algerian-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1958 enormous ufo seen during algerian war</span><span class="citation-popover-snippet">1958 enormous ufo seen during algerian war</span></span></span>
 
-As a story, Bouamama has the elements that make a UFO case memorable: a military setting, a single disciplined witness, an object of impossible scale, altered emotion, and a claim of later official concern. As evidence, it is much weaker. The republished text itself says Mesnard had been unable to find military-source evidence for the alleged experience and notes the awkward fact that an object reportedly hundreds of metres wide, hovering near a camp for nearly an hour, was not reported by other sentries or sleeping soldiers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1958-enormous-ufo-seen-during-algerian-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1958 enormous ufo seen during algerian war</span><span class="citation-popover-snippet">1958 enormous ufo seen during algerian war</span></span></span>
+As a story, Bouamama has the elements that make a UFO case memorable: a military setting, a single disciplined witness, an object of impossible scale, altered emotion, and a claim of later official concern. As evidence, it is much weaker. The republished text itself says Mesnard had been unable to find military-source evidence for the alleged experience and notes the awkward fact that an object reportedly hundreds of metres wide, hovering near a camp for nearly an hour, was not reported by other sentries or sleeping soldiers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1958-enormous-ufo-seen-during-algerian-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1958 enormous ufo seen during algerian war</span><span class="citation-popover-snippet">1958 enormous ufo seen during algerian war</span></span></span>
 
 That makes Bouamama best treated as contested folklore within the Algeria UFO file, not as a confirmed military encounter. It may preserve a sincere witness memory, a psychological event under wartime conditions, a misperception later enlarged in retelling, or something genuinely anomalous that lacked independent documentation. The responsible reading is not to dismiss the witness automatically, but to separate witness sincerity from evidential strength.
 
 ## Post-independence and modern reports: sparse, public and hard to verify
 
-Public [modern reports]({{ 'modern-reports/' | relative_url }}) from Algeria are scattered through civilian databases rather than national official releases. The National UFO Reporting Center lists Algeria with 16 reports by location, a very small number compared with countries that have large English-speaking reporting communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> Individual examples include a 2023 “orb” report over Algerian territorial waters near Algiers Province, a 2024 recurring-light report from Beni Boussaid in Tlemcen Province, and a 2025 flashing-orb report from Beni Bahdel, also in Tlemcen Province. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=178146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Public [modern reports]({{ 'modern-reports/' | relative_url }}) from Algeria are scattered through civilian databases rather than national official releases. The National UFO Reporting Center lists Algeria with 16 reports by location, a very small number compared with countries that have large English-speaking reporting communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> Individual examples include a 2023 “orb” report over Algerian territorial waters near Algiers Province, a 2024 recurring-light report from Beni Boussaid in Tlemcen Province, and a 2025 flashing-orb report from Beni Bahdel, also in Tlemcen Province.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=178146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-These modern entries are useful for tracking what witnesses report, but they are not equivalent to investigated cases. The 2023 sea report describes two observers seeing a colour-changing orb moving at a consistent speed above the water for a few minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> The 2024 and 2025 Tlemcen-region reports describe repeated bright lights over mountains, sometimes in groups, appearing and disappearing over long periods or across months. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184603" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Without triangulation, flight data, astronomical checks, camera metadata, drone checks, satellite passes and local ground investigation, such reports remain low-confidence anomalies.
+These modern entries are useful for tracking what witnesses report, but they are not equivalent to investigated cases. The 2023 sea report describes two observers seeing a colour-changing orb moving at a consistent speed above the water for a few minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=187704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> The 2024 and 2025 Tlemcen-region reports describe repeated bright lights over mountains, sometimes in groups, appearing and disappearing over long periods or across months.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=184603" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Without triangulation, flight data, astronomical checks, camera metadata, drone checks, satellite passes and local ground investigation, such reports remain low-confidence anomalies.
 
-There is also a recurring internet pattern in Algeria-specific UFO content: satellite-map or desert-image claims that present circular landforms as possible crashed craft. One 2025 media item, for example, amplified speculation about a saucer-like shape near Bordj Omar Driss in the Sahara. <span class="citation-chip-wrap"><a class="citation-chip" href="https://menafn.com/1109681938/UFO-In-Sahara-Desert-Google-Maps-Reveals-Mysterious-Flying-Saucer-Leaves-Internet-Stunned-WATCH" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: menafn.com">[MENAFN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">menafn.com</span><span class="citation-popover-title">UFO In Sahara Desert? Google Maps Reveals Mysterious</span><span class="citation-popover-snippet">UFO In Sahara Desert? Google Maps Reveals Mysterious</span></span></span> Such claims should be treated as debunking-priority material rather than case evidence, because a suggestive shape in overhead imagery is not evidence of a craft unless it is backed by geology, site access, physical sampling, official records or independent expert analysis.
+There is also a recurring internet pattern in Algeria-specific UFO content: satellite-map or desert-image claims that present circular landforms as possible crashed craft. One 2025 media item, for example, amplified speculation about a saucer-like shape near Bordj Omar Driss in the Sahara.<span class="citation-chip-wrap"><a class="citation-chip" href="https://menafn.com/1109681938/UFO-In-Sahara-Desert-Google-Maps-Reveals-Mysterious-Flying-Saucer-Leaves-Internet-Stunned-WATCH" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: menafn.com">[MENAFN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">menafn.com</span><span class="citation-popover-title">UFO In Sahara Desert? Google Maps Reveals Mysterious</span><span class="citation-popover-snippet">UFO In Sahara Desert? Google Maps Reveals Mysterious</span></span></span> Such claims should be treated as debunking-priority material rather than case evidence, because a suggestive shape in overhead imagery is not evidence of a craft unless it is backed by geology, site access, physical sampling, official records or independent expert analysis.
 
 <img src="{{ "/assets/images/Algeria_bd6acc-Illustration-2-dark.svg" | relative_url }}" alt="Algeria illustration 2" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Algeria produces regionally different sightings
 
-Algeria is not one observing environment. The north has coastal cities, ports, airports and dense human activity; the interior has plateaux and mountain horizons; the south has desert skies where bright astronomical events can appear strikingly clear. Britannica describes the country as extending from the Mediterranean coast, where most people live, deep into the Sahara, which constitutes more than four-fifths of Algeria’s area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Algeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Algeria &#124; Flag, Capital, Population, Map, &amp; Language</span><span class="citation-popover-snippet">Encyclopedia Britannica Algeria &#124; Flag, Capital, Population, Map, &amp; Language</span></span></span>
+Algeria is not one observing environment. The north has coastal cities, ports, airports and dense human activity; the interior has plateaux and mountain horizons; the south has desert skies where bright astronomical events can appear strikingly clear. Britannica describes the country as extending from the Mediterranean coast, where most people live, deep into the Sahara, which constitutes more than four-fifths of Algeria’s area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Algeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Algeria &#124; Flag, Capital, Population, Map, &amp; Language</span><span class="citation-popover-snippet">Encyclopedia Britannica Algeria &#124; Flag, Capital, Population, Map, &amp; Language</span></span></span>
 
 That geography affects UFO reporting in three ways. First, the coastal and urban north is where witnesses, newspapers, aviation routes and online reports are most likely to exist, so it is over-represented in archives. Second, mountain-edge regions such as Ain Sefra or Tlemcen can produce ambiguous horizon sightings: lights may appear to hover above ridges, vanish behind terrain, or seem to move together when the actual source is on land. Third, the Sahara’s open skies can make meteors, satellites and high-altitude aircraft appear exceptionally vivid, especially when there are few nearby reference points.
 
-This also helps explain why the Algerian record connects naturally to neighbouring North African branches of a wider UFO project. The 1952 CIA-indexed document does not isolate Algeria; it treats the region as part of a wider Spain, French Morocco, Algeria, Tangier, French West Africa and South Africa reporting wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN</span><span class="citation-popover-snippet">Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN</span></span></span> Algeria therefore belongs beside Morocco, Tunisia and broader Sahara-region case pages, but its own evidential profile remains distinct: fewer famous mass cases, more fragmentary colonial-era reporting, and a modern record dominated by civilian submissions.
+This also helps explain why the Algerian record connects naturally to neighbouring North African branches of a wider UFO project. The 1952 CIA-indexed document does not isolate Algeria; it treats the region as part of a wider Spain, French Morocco, Algeria, Tangier, French West Africa and South Africa reporting wave.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[Bluebook Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-title">Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN</span><span class="citation-popover-snippet">Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN</span></span></span> Algeria therefore belongs beside Morocco, Tunisia and broader Sahara-region case pages, but its own evidential profile remains distinct: fewer famous mass cases, more fragmentary colonial-era reporting, and a modern record dominated by civilian submissions.
 
 <img src="{{ "/assets/images/Algeria_bd6acc-Illustration-3-dark.svg" | relative_url }}" alt="Algeria illustration 3" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested and debunking-priority claims
 
 The strongest way to read Algeria’s UFO material is to split the record by evidence quality rather than by how dramatic the story sounds.
 
-**Confirmed as reports, not confirmed as craft:** the 1952 Constantine, Philippeville and Ain Sefra items are confirmed as archived reports in foreign collections or reproductions of those collections. They establish that people reported unusual aerial phenomena over Algeria in August 1952, and that those reports entered U.S. or CIA-linked channels. They do not establish that the objects were alien, technological or even truly anomalous after analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span>
+**Confirmed as reports, not confirmed as craft:** the 1952 Constantine, Philippeville and Ain Sefra items are confirmed as archived reports in foreign collections or reproductions of those collections. They establish that people reported unusual aerial phenomena over Algeria in August 1952, and that those reports entered U.S. or CIA-linked channels. They do not establish that the objects were alien, technological or even truly anomalous after analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span>
 
-**Contested but culturally important:** the 1958 Bouamama Foreign Legion story is the best-known Algerian UFO narrative, but it rests on a later account, a single named-only-by-initial witness, no public military file, no physical traces, and the internal problem of a huge object allegedly not being seen by others nearby. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1958-enormous-ufo-seen-during-algerian-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1958 enormous ufo seen during algerian war</span><span class="citation-popover-snippet">1958 enormous ufo seen during algerian war</span></span></span> It is therefore important in Algerian UFO lore, but weak as a case for extraordinary conclusions.
+**Contested but culturally important:** the 1958 Bouamama Foreign Legion story is the best-known Algerian UFO narrative, but it rests on a later account, a single named-only-by-initial witness, no public military file, no physical traces, and the internal problem of a huge object allegedly not being seen by others nearby.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1958-enormous-ufo-seen-during-algerian-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1958 enormous ufo seen during algerian war</span><span class="citation-popover-snippet">1958 enormous ufo seen during algerian war</span></span></span> It is therefore important in Algerian UFO lore, but weak as a case for extraordinary conclusions.
 
-**Unresolved to witnesses, not robustly investigated:** recent NUFORC-style reports from Algiers waters and Tlemcen Province show that Algerian witnesses still report unexplained lights and orbs, but the available public entries are brief and usually lack the data needed for confident classification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=139102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=93284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Unresolved to witnesses, not robustly investigated:** recent NUFORC-style reports from Algiers waters and Tlemcen Province show that Algerian witnesses still report unexplained lights and orbs, but the available public entries are brief and usually lack the data needed for confident classification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=139102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=93284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 **Debunking-priority or low-value claims:** viral satellite-map “saucer” claims and anonymous social-media clips should sit at the bottom of the evidential ladder unless they can be tied to field evidence, reliable location data and independent analysis. The existence of a striking shape on a map or a dramatic video caption is not enough.
 
@@ -1252,185 +1252,185 @@ The strongest way to read Algeria’s UFO material is to split the record by evi
 
 ## How an Algerian case should be checked
 
-A serious Algeria UFO investigation should begin with ordinary explanations, not because witnesses are assumed to be wrong, but because the country’s observing conditions make ordinary sources easy to misread. France’s GEIPAN, one of the few long-running public UAP investigation bodies, uses the neutral term “unidentified aerospace phenomena” and separates cases into categories: explained, probably explained, insufficient information, and unexplained despite available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/sites/default/files/Questionnaire%20terre-R3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span> CNES says GEIPAN works with partners such as the gendarmerie, air and space forces, civil aviation, weather services and scientific bodies to cross-check witness accounts against meteorological, aerospace and astronomical data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">Série OVNI(s): 5 choses à savoir sur le GEIPAN (qui existe pour de vrai) &#124; CNES</span><span class="citation-popover-snippet">Série OVNI(s): 5 choses à savoir sur le GEIPAN (qui existe pour de vrai) &#124; CNES</span></span></span>
+A serious Algeria UFO investigation should begin with ordinary explanations, not because witnesses are assumed to be wrong, but because the country’s observing conditions make ordinary sources easy to misread. France’s GEIPAN, one of the few long-running public UAP investigation bodies, uses the neutral term “unidentified aerospace phenomena” and separates cases into categories: explained, probably explained, insufficient information, and unexplained despite available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://geipan.fr/sites/default/files/Questionnaire%20terre-R3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span> CNES says GEIPAN works with partners such as the gendarmerie, air and space forces, civil aviation, weather services and scientific bodies to cross-check witness accounts against meteorological, aerospace and astronomical data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-title">Série OVNI(s): 5 choses à savoir sur le GEIPAN (qui existe pour de vrai) &#124; CNES</span><span class="citation-popover-snippet">Série OVNI(s): 5 choses à savoir sur le GEIPAN (qui existe pour de vrai) &#124; CNES</span></span></span>
 
-Applied to Algeria, that means a good case file would need the exact location, time, direction, elevation, duration, weather, astronomical conditions, aircraft traffic, satellite and rocket re-entry checks, camera metadata, and independent witnesses separated before interview. NASA’s UAP study similarly argues that the subject requires rigorous evidence-based methods and better data acquisition, while NASA’s public UAP page frames the problem around identifying available data and improving future collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+Applied to Algeria, that means a good case file would need the exact location, time, direction, elevation, duration, weather, astronomical conditions, aircraft traffic, satellite and rocket re-entry checks, camera metadata, and independent witnesses separated before interview. NASA’s UAP study similarly argues that the subject requires rigorous evidence-based methods and better data acquisition, while NASA’s public UAP page frames the problem around identifying available data and improving future collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 By those standards, Algeria’s public UFO record is historically interesting but evidentially limited. The 1952 cases are the most archive-worthy; Bouamama is the most dramatic but also the most vulnerable to sceptical objections; modern civilian reports show continuing witness interest but usually not enough data to resolve. The honest bottom line is that Algeria has a real UFO-reporting history, but no publicly available Algerian case presently stands as confirmed evidence of non-human technology.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Are the Most Notable UFO Sightings in Algeria?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Are the Most Notable UFO Sightings in Algeria?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Covers international government records and historical sightings relevant to Algeria.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers international government records and historical sightings relevant to Algeria.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for interpreting sparse regional UFO traditions and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting sparse regional UFO traditions and reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Helps contextualise the era in which Algeria&#x27;s key cases emerged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps contextualise the era in which Algeria&#x27;s key cases emerged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Contains international case summaries and historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains international case summaries and historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (2 )"><img src="https://i.ebayimg.com/images/g/07IAAOSw0-1mBCYB/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (2 )" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (2 )</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (2 )"><img src="https://i.ebayimg.com/images/g/07IAAOSw0-1mBCYB/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (2 )" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (2 )</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (3 )"><img src="https://i.ebayimg.com/images/g/aOcAAOSwYP1mBCaS/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (3 )" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (3 )</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (3 )"><img src="https://i.ebayimg.com/images/g/aOcAAOSwYP1mBCaS/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (3 )" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (3 )</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (2 )"><img src="https://i.ebayimg.com/images/g/lvYAAOSwNGBmBCYi/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (2 )" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (2 )</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (2 )"><img src="https://i.ebayimg.com/images/g/lvYAAOSwNGBmBCYi/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (2 )" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (2 )</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster -book -books -series -television -gerry -anderson -band -concert" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-algeria-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1446,7 +1446,7 @@ By those standards, Algeria’s public UFO record is historically interesting bu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1466,7 +1466,7 @@ By those standards, Algeria’s public UFO record is historically interesting bu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1498,7 +1498,7 @@ By those standards, Algeria’s public UFO record is historically interesting bu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1550,7 +1550,7 @@ By those standards, Algeria’s public UFO record is historically interesting bu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1595,7 +1595,7 @@ By those standards, Algeria’s public UFO record is historically interesting bu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1636,215 +1636,215 @@ By those standards, Algeria’s public UFO record is historically interesting bu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Algeria | Flag, Capital, Population, Map, & Language  
-   Link: <a href="https://www.britannica.com/place/Algeria" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Algeria</a>  
+   Link:<a href="https://www.britannica.com/place/Algeria" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Algeria</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1952 08 8773924 Constantine Algeria  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3f/Project_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3f/Project_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3f/Project_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3f/Project_Blue_Book_report_-_1952-08-8773924-Constantine-Algeria.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=178146" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=178146</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=178146" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=178146</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=185993" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185993</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=185993" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185993</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=187704" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187704</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=187704" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187704</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: menafn.com  
    Title: UFO In Sahara Desert? Google Maps Reveals Mysterious '  
-   Link: <a href="https://menafn.com/1109681938/UFO-In-Sahara-Desert-Google-Maps-Reveals-Mysterious-Flying-Saucer-Leaves-Internet-Stunned-WATCH" target="_blank" rel="noopener noreferrer nofollow">https://menafn.com/1109681938/UFO-In-Sahara-Desert-Google-Maps-Reveals-Mysterious-Flying-Saucer-Leaves-Internet-Stunned-WATCH</a>  
+   Link:<a href="https://menafn.com/1109681938/UFO-In-Sahara-Desert-Google-Maps-Reveals-Mysterious-Flying-Saucer-Leaves-Internet-Stunned-WATCH" target="_blank" rel="noopener noreferrer nofollow">https://menafn.com/1109681938/UFO-In-Sahara-Desert-Google-Maps-Reveals-Mysterious-Flying-Saucer-Leaves-Internet-Stunned-WATCH</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cnes.fr  
    Title: Série OVNI(s): 5 choses à savoir sur le GEIPAN (qui existe pour de vrai) | CNES  
-   Link: <a href="https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan</a>  
+   Link:<a href="https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=184603" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184603</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=184603" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184603</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=139102" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=139102</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=139102" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=139102</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=93284" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=93284</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=93284" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=93284</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=177531" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=177531</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=177531" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=177531</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=p230910" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=p230910</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=p230910" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=p230910</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: geipan.fr  
-   Link: <a href="https://geipan.fr/sites/default/files/Questionnaire%20terre-R3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/sites/default/files/Questionnaire%20terre-R3.pdf</a>  
+   Link:<a href="https://geipan.fr/sites/default/files/Questionnaire%20terre-R3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/sites/default/files/Questionnaire%20terre-R3.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: geipan.fr  
    Title: Compte rendu enquete144  
-   Link: <a href="https://geipan.fr/sites/default/files/Compte%20rendu%20enquete144.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/sites/default/files/Compte%20rendu%20enquete144.pdf</a>  
+   Link:<a href="https://geipan.fr/sites/default/files/Compte%20rendu%20enquete144.pdf" target="_blank" rel="noopener noreferrer nofollow">https://geipan.fr/sites/default/files/Compte%20rendu%20enquete144.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Atlas-Mountains" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Atlas-Mountains</a>  
+   Link:<a href="https://www.britannica.com/place/Atlas-Mountains" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Atlas-Mountains</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cia.gov  
    Title: DOC 0000015469  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015469.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015469.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000015469.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015469.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: commons.wikimedia.org  
    Title: Category:UFO sightings in Algeria  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Algeria" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Algeria</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Algeria" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Algeria</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
+   Link:<a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: files.bluebookfiles.org  
    Title: Bluebook Files SIGHTINGS OF UNIDENTIFIED FLYING OBJECTS OVER SPAIN  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1952.00%20-%20NARA%20-%20CIAsX-Files-2015UFORelease%20-%20SIGHTINGS%20OF%20UNIDENTIFIED%20FLYING%20OBJECTS%20OVER%20SPAIN%20AND%20AFRICA%2C%20JULY-OCTOBER%201952%20DOC_000551.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: thinkaboutitdocs.com  
    Title: 1958 enormous ufo seen during algerian war  
-   Link: <a href="https://thinkaboutitdocs.com/1958-enormous-ufo-seen-during-algerian-war/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1958-enormous-ufo-seen-during-algerian-war/</a>  
+   Link:<a href="https://thinkaboutitdocs.com/1958-enormous-ufo-seen-during-algerian-war/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1958-enormous-ufo-seen-during-algerian-war/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cnes-geipan.fr  
    Title: Geipan LE GEIPAN: « LE BUREAU DES OVNIS » OU DES PAN? | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/fr/node/58703" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/58703</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/node/58703" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/node/58703</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sahara" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sahara</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sahara" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sahara</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
+   Link:<a href="https://www.youtube.com/watch?v=OLXDikL331Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLXDikL331Y</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/algeria" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/algeria</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/geography-and-cartography/algeria" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/algeria</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: belonging.berkeley.edu  
-   Link: <a href="https://belonging.berkeley.edu/climatedisplacement/case-studies/algeria" target="_blank" rel="noopener noreferrer nofollow">https://belonging.berkeley.edu/climatedisplacement/case-studies/algeria</a>  
+   Link:<a href="https://belonging.berkeley.edu/climatedisplacement/case-studies/algeria" target="_blank" rel="noopener noreferrer nofollow">https://belonging.berkeley.edu/climatedisplacement/case-studies/algeria</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Understanding Unidentified Aerial Phenomena and Misidentifications  
-   Link: <a href="https://www.youtube.com/watch?v=X00hP7-5730" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X00hP7-5730</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War Era Aerospace and Aerial Sightings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X00hP7-5730" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X00hP7-5730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cold War Era Aerospace and Aerial Sightings...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=m-v24Yg2vB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m-v24Yg2vB4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Unidentified Aerial Phenomena and Misidentifications...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m-v24Yg2vB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m-v24Yg2vB4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Unidentified Aerial Phenomena and Misidentifications...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Project Blue Book and the History of UFO Investigations  
-   Link: <a href="https://www.youtube.com/watch?v=Jm-3Qd6s208" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jm-3Qd6s208</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Flying Saucer Wave: Context and Analysis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jm-3Qd6s208" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jm-3Qd6s208</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Flying Saucer Wave: Context and Analysis...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: 20minutes.fr  
-   Link: <a href="https://www.20minutes.fr/high-tech/sciences/4215259-20260329-demarche-scientifique-comment-enqueteurs-geipan-tentent-expliquer-cas-ovnis-france" target="_blank" rel="noopener noreferrer nofollow">https://www.20minutes.fr/high-tech/sciences/4215259-20260329-demarche-scientifique-comment-enqueteurs-geipan-tentent-expliquer-cas-ovnis-france</a>  
+   Link:<a href="https://www.20minutes.fr/high-tech/sciences/4215259-20260329-demarche-scientifique-comment-enqueteurs-geipan-tentent-expliquer-cas-ovnis-france" target="_blank" rel="noopener noreferrer nofollow">https://www.20minutes.fr/high-tech/sciences/4215259-20260329-demarche-scientifique-comment-enqueteurs-geipan-tentent-expliquer-cas-ovnis-france</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/jayveescars/posts/-algeria-africas-giant-of-the-northalgeria-is-the-largest-country-in-africa-stre/897451389850726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jayveescars/posts/-algeria-africas-giant-of-the-northalgeria-is-the-largest-country-in-africa-stre/897451389850726/</a>  
+   Link:<a href="https://www.facebook.com/jayveescars/posts/-algeria-africas-giant-of-the-northalgeria-is-the-largest-country-in-africa-stre/897451389850726/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jayveescars/posts/-algeria-africas-giant-of-the-northalgeria-is-the-largest-country-in-africa-stre/897451389850726/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/363454999_Algeria" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363454999_Algeria</a>  
+   Link:<a href="https://www.researchgate.net/publication/363454999_Algeria" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363454999_Algeria</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: nationmaster.com  
-   Link: <a href="https://www.nationmaster.com/country-info/profiles/Algeria/Background" target="_blank" rel="noopener noreferrer nofollow">https://www.nationmaster.com/country-info/profiles/Algeria/Background</a>  
+   Link:<a href="https://www.nationmaster.com/country-info/profiles/Algeria/Background" target="_blank" rel="noopener noreferrer nofollow">https://www.nationmaster.com/country-info/profiles/Algeria/Background</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/crazyforfacts/posts/algeria-isnt-just-the-largest-desert-country-in-the-world-about-90-of-its-popula/122230005824122027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/crazyforfacts/posts/algeria-isnt-just-the-largest-desert-country-in-the-world-about-90-of-its-popula/122230005824122027/</a>  
+   Link:<a href="https://www.facebook.com/crazyforfacts/posts/algeria-isnt-just-the-largest-desert-country-in-the-world-about-90-of-its-popula/122230005824122027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/crazyforfacts/posts/algeria-isnt-just-the-largest-desert-country-in-the-world-about-90-of-its-popula/122230005824122027/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/jayveescars/posts/algeria-is-africas-largest-country-known-for-its-sahara-desert-mediterranean-coa/795489540046912/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jayveescars/posts/algeria-is-africas-largest-country-known-for-its-sahara-desert-mediterranean-coa/795489540046912/</a>
+   Link:<a href="https://www.facebook.com/jayveescars/posts/algeria-is-africas-largest-country-known-for-its-sahara-desert-mediterranean-coa/795489540046912/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jayveescars/posts/algeria-is-africas-largest-country-known-for-its-sahara-desert-mediterranean-coa/795489540046912/</a>

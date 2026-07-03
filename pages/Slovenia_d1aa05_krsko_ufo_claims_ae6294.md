@@ -257,7 +257,7 @@ image: /assets/images/Slovenia_d1aa05_krsko_ufo_claims_ae6294-Illustration-1-soc
 The most widely circulated UFO claim connected to Slovenia’s nuclear infrastructure centres on the Krško Nuclear Power Plant, the country’s only commercial nuclear reactor. The claim gained attention after a video uploaded in 2013 appeared to show unusual lights near the facility and was later amplified by UFO-focused websites and social-media communities. What makes the case notable is not the strength of the evidence, but the opposite: it demonstrates how a sensitive location can make a weakly documented sighting appear more significant than the available facts justify.
 
 <img src="{{ "/assets/images/Slovenia_d1aa05_krsko_ufo_claims_ae6294-Illustration-1-dark.svg" | relative_url }}" alt="Krsko Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Slovenia_d1aa05_krsko_ufo_claims_ae6294-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovenia_d1aa05_krsko_ufo_claims_ae6294-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-No publicly available investigation established that the recorded lights were directly above the reactor complex, that they represented an unknown craft, or that they were connected to any operational disturbance at the plant. The gap between what was claimed and what could actually be verified is the central lesson of the Krško case. In Slovenia’s broader UFO record, it stands as a useful example of how location-based assumptions can outrun the evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kr%C5%A1ko_Nuclear_Power_Plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Krško Nuclear Power Plant</span><span class="citation-popover-snippet">Krško Nuclear Power Plant</span></span></span>
+No publicly available investigation established that the recorded lights were directly above the reactor complex, that they represented an unknown craft, or that they were connected to any operational disturbance at the plant. The gap between what was claimed and what could actually be verified is the central lesson of the Krško case. In Slovenia’s broader UFO record, it stands as a useful example of how location-based assumptions can outrun the evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kr%C5%A1ko_Nuclear_Power_Plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Krško Nuclear Power Plant</span><span class="citation-popover-snippet">Krško Nuclear Power Plant</span></span></span>
 
 ## What the Videos Claimed
 
@@ -271,7 +271,7 @@ That distinction matters. A light recorded at night can appear visually dramatic
 
 Nuclear facilities occupy a special place in UFO culture. For decades, claims involving reactors, missile bases and military installations have attracted disproportionate attention because the locations already carry associations with secrecy, security and strategic importance.
 
-Krško fits this pattern. As Slovenia’s only nuclear power station and a major electricity source jointly owned by Slovenian and Croatian state interests, it is one of the country’s most sensitive industrial locations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kr%C5%A1ko_Nuclear_Power_Plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Krško Nuclear Power Plant</span><span class="citation-popover-snippet">Krško Nuclear Power Plant</span></span></span>
+Krško fits this pattern. As Slovenia’s only nuclear power station and a major electricity source jointly owned by Slovenian and Croatian state interests, it is one of the country’s most sensitive industrial locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kr%C5%A1ko_Nuclear_Power_Plant" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Krško Nuclear Power Plant</span><span class="citation-popover-snippet">Krško Nuclear Power Plant</span></span></span>
 
 Because of that status, an otherwise ordinary unidentified-light video can acquire a different narrative. A viewer who sees unexplained lights over an anonymous field may assume aircraft or distant buildings. The same viewer, told that the lights appeared above a nuclear reactor, may immediately consider extraordinary [explanations]({{ 'explanations-3d1653/' | relative_url }}).
 
@@ -309,9 +309,9 @@ The absence of such information does not prove the lights had an ordinary explan
 
 One reason the Krško UFO story continues to circulate is that people often assume unusual events around a nuclear facility would appear in official records. In practice, nuclear reporting systems document operational and safety issues rather than unidentified lights unless those lights create a measurable operational concern.
 
-Krško has a substantial public record of inspections, safety reviews, operational reports and regulatory oversight. Slovenian authorities, international organisations and the plant operator routinely publish information about maintenance, safety upgrades, inspections and reportable incidents. IAEA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nek.si/en/news/reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nek.si">[2Nuklearna Elektrarna Krško]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nek.si</span><span class="citation-popover-snippet">Raport on Krsko NPP operation in june 2024. More. Report. 5 July 2024. Annual Report: A year of achievements and challenges. More. Report...</span><span class="citation-popover-meta">Published: june 2024</span></span></span>
+Krško has a substantial public record of inspections, safety reviews, operational reports and regulatory oversight. Slovenian authorities, international organisations and the plant operator routinely publish information about maintenance, safety upgrades, inspections and reportable incidents. IAEA<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nek.si/en/news/reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nek.si">[2Nuklearna Elektrarna Krško]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nek.si</span><span class="citation-popover-snippet">Raport on Krsko NPP operation in june 2024. More. Report. 5 July 2024. Annual Report: A year of achievements and challenges. More. Report...</span><span class="citation-popover-meta">Published: june 2024</span></span></span>
 
-The most famous international incident associated with the plant was a 2008 coolant-system leak that triggered an official notification process and widespread media coverage. Authorities documented the event in detail, including reactor shutdown procedures, reporting requirements and safety assessments. Investigations concluded that the incident had no radiological consequences for the public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bellona.org/news/nuclear-issues/2008-06-croatia-complains-it-was-kept-in-the-dark-after-slovenian-reactor-incident-while-others-were-told-leak-was-an-exercise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellona.org">[Bellona.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellona.org</span><span class="citation-popover-snippet">Croatia complains it was kept in the dark after Slovenian...5 Jun 2008 — According to the Slovenian authorities, plant operators had det...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nek.si/en/news/reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nek.si">[3Nuklearna Elektrarna Krško]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nek.si</span><span class="citation-popover-snippet">Raport on Krsko NPP operation in june 2024. More. Report. 5 July 2024. Annual Report: A year of achievements and challenges. More. Report...</span><span class="citation-popover-meta">Published: june 2024</span></span></span> NucNet This contrast is important. The 2008 event generated technical documentation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nucnet.org/news/provisional-level-0-ines-rating-for-incident-at-slovenia-s-krsko" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nucnet.org">[nucnet.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nucnet.org</span><span class="citation-popover-snippet">Provisional Level 0 INES Rating For Incident At Slovenia&#x27;s...The leakage, at a rate of about 3 cubic metres per hour, exceeded the plant...</span></span></span>, regulatory reporting and international notifications because measurable plant systems were involved. By comparison, the alleged UFO event generated online discussion and media interest but appears to have produced no comparable public safety report, regulatory filing or operational record linking unusual aerial activity to plant operations.
+The most famous international incident associated with the plant was a 2008 coolant-system leak that triggered an official notification process and widespread media coverage. Authorities documented the event in detail, including reactor shutdown procedures, reporting requirements and safety assessments. Investigations concluded that the incident had no radiological consequences for the public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bellona.org/news/nuclear-issues/2008-06-croatia-complains-it-was-kept-in-the-dark-after-slovenian-reactor-incident-while-others-were-told-leak-was-an-exercise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellona.org">[Bellona.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellona.org</span><span class="citation-popover-snippet">Croatia complains it was kept in the dark after Slovenian...5 Jun 2008 — According to the Slovenian authorities, plant operators had det...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nek.si/en/news/reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nek.si">[3Nuklearna Elektrarna Krško]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nek.si</span><span class="citation-popover-snippet">Raport on Krsko NPP operation in june 2024. More. Report. 5 July 2024. Annual Report: A year of achievements and challenges. More. Report...</span><span class="citation-popover-meta">Published: june 2024</span></span></span> NucNet This contrast is important. The 2008 event generated technical documentation<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nucnet.org/news/provisional-level-0-ines-rating-for-incident-at-slovenia-s-krsko" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nucnet.org">[nucnet.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nucnet.org</span><span class="citation-popover-snippet">Provisional Level 0 INES Rating For Incident At Slovenia&#x27;s...The leakage, at a rate of about 3 cubic metres per hour, exceeded the plant...</span></span></span>, regulatory reporting and international notifications because measurable plant systems were involved. By comparison, the alleged UFO event generated online discussion and media interest but appears to have produced no comparable public safety report, regulatory filing or operational record linking unusual aerial activity to plant operations.
 
 That does not mean officials secretly concealed a UFO incident. It simply means the publicly available evidence does not show that the lights corresponded to a documented operational event.
 
@@ -349,199 +349,199 @@ It shows how:
 
 </div>
 
-For researchers examining Slovenian sightings, the Krško episode is therefore best treated as a case study in evidence quality rather than as one of the country’s strongest UFO incidents. The central unresolved question is not whether an alien craft appeared over the plant. It is whether the public ever obtained enough reliable information to establish where the recorded lights actually were in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nek.si/en/news/reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nek.si">[Nuklearna Elektrarna Krško]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nek.si</span><span class="citation-popover-snippet">Raport on Krsko NPP operation in june 2024. More. Report. 5 July 2024. Annual Report: A year of achievements and challenges. More. Report...</span><span class="citation-popover-meta">Published: june 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iaea.org/sites/default/files/23/01/slovenia_nr_9th_cns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaea.org">[IAEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaea.org</span><span class="citation-popover-title">Slovenian Report on Nuclear Safety</span><span class="citation-popover-snippet">Slovenian Report on Nuclear SafetyJuly 21, 2022 — 1 Jul 2022 — The ninth Slovenian Report on Nuclear Safety covers the period since s...</span><span class="citation-popover-meta">Published: July 21, 2022</span></span></span>
+For researchers examining Slovenian sightings, the Krško episode is therefore best treated as a case study in evidence quality rather than as one of the country’s strongest UFO incidents. The central unresolved question is not whether an alien craft appeared over the plant. It is whether the public ever obtained enough reliable information to establish where the recorded lights actually were in the first place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nek.si/en/news/reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nek.si">[Nuklearna Elektrarna Krško]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nek.si</span><span class="citation-popover-snippet">Raport on Krsko NPP operation in june 2024. More. Report. 5 July 2024. Annual Report: A year of achievements and challenges. More. Report...</span><span class="citation-popover-meta">Published: june 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iaea.org/sites/default/files/23/01/slovenia_nr_9th_cns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaea.org">[IAEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaea.org</span><span class="citation-popover-title">Slovenian Report on Nuclear Safety</span><span class="citation-popover-snippet">Slovenian Report on Nuclear SafetyJuly 21, 2022 — 1 Jul 2022 — The ninth Slovenian Report on Nuclear Safety covers the period since s...</span><span class="citation-popover-meta">Published: July 21, 2022</span></span></span>
 
 <img src="{{ "/assets/images/Slovenia_d1aa05_krsko_ufo_claims_ae6294-Illustration-3-dark.svg" | relative_url }}" alt="Krsko Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Slovenia_d1aa05_krsko_ufo_claims_ae6294-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Slovenia_d1aa05_krsko_ufo_claims_ae6294-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did UFOs Really Appear Over Krsko?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did UFOs Really Appear Over Krsko?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for assessing weak visual evidence and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing weak visual evidence and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers credible-witness cases involving sensitive infrastructure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers credible-witness cases involving sensitive infrastructure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Hastings</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Nukes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Nukes">UFOs and Nukes</a>
+</h4>
+<p class="fr-book-author">By Robert L. Hastings</p>
         
-        <p class="fr-book-desc">Directly matches discussions of sightings near a nuclear power plant.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches discussions of sightings near a nuclear power plant.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Nukes+by+Robert+L.+Hastings&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hynek UFO Report">Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hynek UFO Report">Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Useful for assessing weak visual evidence and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing weak visual evidence and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Nukes</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Nukes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Nukes</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ufos-really-appear-over-krsko-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-ufos-really-appear-over-krsko-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ For researchers examining Slovenian sightings, the Krško episode is therefore b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ For researchers examining Slovenian sightings, the Krško episode is therefore b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ For researchers examining Slovenian sightings, the Krško episode is therefore b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ For researchers examining Slovenian sightings, the Krško episode is therefore b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ For researchers examining Slovenian sightings, the Krško episode is therefore b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,98 +744,97 @@ For researchers examining Slovenian sightings, the Krško episode is therefore b
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Krško Nuclear Power Plant  
-   Link: <a href="https://en.wikipedia.org/wiki/Kr%C5%A1ko_Nuclear_Power_Plant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kr%C5%A1ko_Nuclear_Power_Plant</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kr%C5%A1ko_Nuclear_Power_Plant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kr%C5%A1ko_Nuclear_Power_Plant</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: iaea.org  
    Title: Slovenian Report on Nuclear Safety  
-   Link: <a href="https://www.iaea.org/sites/default/files/23/01/slovenia_nr_9th_cns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/sites/default/files/23/01/slovenia_nr_9th_cns.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slovenian Report on Nuclear SafetyJuly 21, 2022 — 1 Jul 2022 — The ninth Slovenian Report on Nuclear Safety covers the period since s...</p></details>
+   Link:<a href="https://www.iaea.org/sites/default/files/23/01/slovenia_nr_9th_cns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/sites/default/files/23/01/slovenia_nr_9th_cns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slovenian Report on Nuclear SafetyJuly 21, 2022 — 1 Jul 2022 — The ninth Slovenian Report on Nuclear Safety covers the period since s...</p></details>
    Published: July 21, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nucnet.org  
-   Link: <a href="https://www.nucnet.org/news/provisional-level-0-ines-rating-for-incident-at-slovenia-s-krsko" target="_blank" rel="noopener noreferrer nofollow">https://www.nucnet.org/news/provisional-level-0-ines-rating-for-incident-at-slovenia-s-krsko</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Provisional Level 0 INES Rating For Incident At Slovenia&#x27;s...The leakage, at a rate of about 3 cubic metres per hour, exceeded the plant...</p></details>
+   Link:<a href="https://www.nucnet.org/news/provisional-level-0-ines-rating-for-incident-at-slovenia-s-krsko" target="_blank" rel="noopener noreferrer nofollow">https://www.nucnet.org/news/provisional-level-0-ines-rating-for-incident-at-slovenia-s-krsko</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Provisional Level 0 INES Rating For Incident At Slovenia&#x27;s...The leakage, at a rate of about 3 cubic metres per hour, exceeded the plant...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bellona.org  
-   Link: <a href="https://bellona.org/news/nuclear-issues/2008-06-croatia-complains-it-was-kept-in-the-dark-after-slovenian-reactor-incident-while-others-were-told-leak-was-an-exercise" target="_blank" rel="noopener noreferrer nofollow">https://bellona.org/news/nuclear-issues/2008-06-croatia-complains-it-was-kept-in-the-dark-after-slovenian-reactor-incident-while-others-were-told-leak-was-an-exercise</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Croatia complains it was kept in the dark after Slovenian...5 Jun 2008 — According to the Slovenian authorities, plant operators had det...</p></details>
+   Link:<a href="https://bellona.org/news/nuclear-issues/2008-06-croatia-complains-it-was-kept-in-the-dark-after-slovenian-reactor-incident-while-others-were-told-leak-was-an-exercise" target="_blank" rel="noopener noreferrer nofollow">https://bellona.org/news/nuclear-issues/2008-06-croatia-complains-it-was-kept-in-the-dark-after-slovenian-reactor-incident-while-others-were-told-leak-was-an-exercise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Croatia complains it was kept in the dark after Slovenian...5 Jun 2008 — According to the Slovenian authorities, plant operators had det...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: www-pub.iaea.org  
-   Link: <a href="https://www-pub.iaea.org/MTCD/publications/PDF/P1574_add_CD/pdf/2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/publications/PDF/P1574_add_CD/pdf/2000.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1... Nuclear Power Plant Operational Safety, Nuclear Power Plants... control system components as on the reference plant and to integrat...</p></details>
+   Link:<a href="https://www-pub.iaea.org/MTCD/publications/PDF/P1574_add_CD/pdf/2000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/publications/PDF/P1574_add_CD/pdf/2000.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1... Nuclear Power Plant Operational Safety, Nuclear Power Plants... control system components as on the reference plant and to integrat...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nek.si  
-   Link: <a href="https://www.nek.si/en/news/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.nek.si/en/news/reports</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Raport on Krsko NPP operation in june 2024. More. Report. 5 July 2024. Annual Report: A year of achievements and challenges. More. Report...</p></details>
+   Link:<a href="https://www.nek.si/en/news/reports" target="_blank" rel="noopener noreferrer nofollow">https://www.nek.si/en/news/reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Raport on Krsko NPP operation in june 2024. More. Report. 5 July 2024. Annual Report: A year of achievements and challenges. More. Report...</p></details>
    Published: june 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nek.si  
-   Link: <a href="https://www.nek.si/en/news/news/information-on-unusual-event-krsko-npp-nek-slovenia-4-june-2008" target="_blank" rel="noopener noreferrer nofollow">https://www.nek.si/en/news/news/information-on-unusual-event-krsko-npp-nek-slovenia-4-june-2008</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuklearna Elektrarna KrškoInformation on unusual event: Krško NPP (NEK), Slovenia...4 Jun 2008 — The crew entered the abnormal operating...</p></details>
+   Link:<a href="https://www.nek.si/en/news/news/information-on-unusual-event-krsko-npp-nek-slovenia-4-june-2008" target="_blank" rel="noopener noreferrer nofollow">https://www.nek.si/en/news/news/information-on-unusual-event-krsko-npp-nek-slovenia-4-june-2008</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuklearna Elektrarna KrškoInformation on unusual event: Krško NPP (NEK), Slovenia...4 Jun 2008 — The crew entered the abnormal operating...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2353930961711210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2353930961711210/</a>  
+   Link:<a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2353930961711210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2353930961711210/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gov.si  
-   Link: <a href="https://www.gov.si/assets/organi-v-sestavi/URSVS/Annual-Reports/d2e5516208/Annual_report_2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.si/assets/organi-v-sestavi/URSVS/Annual-Reports/d2e5516208/Annual_report_2001.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>INES in 2001. In 2001, seven nuclear power plants reported to the “Incident Reporting System” of the IAEA...Read more...</p></details>
+   Link:<a href="https://www.gov.si/assets/organi-v-sestavi/URSVS/Annual-Reports/d2e5516208/Annual_report_2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.si/assets/organi-v-sestavi/URSVS/Annual-Reports/d2e5516208/Annual_report_2001.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INES in 2001. In 2001, seven nuclear power plants reported to the “Incident Reporting System” of the IAEA...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: greenpeace.de  
-   Link: <a href="https://www.greenpeace.de/publikationen/20210303-greenpeace-akw-europa-fukushima_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.greenpeace.de/publikationen/20210303-greenpeace-akw-europa-fukushima_0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>al Safety Review Team (OSART) of international experts visited Krško Nuclear Power Plant from 15...Read more...</p></details>
+   Link:<a href="https://www.greenpeace.de/publikationen/20210303-greenpeace-akw-europa-fukushima_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.greenpeace.de/publikationen/20210303-greenpeace-akw-europa-fukushima_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>al Safety Review Team (OSART) of international experts visited Krško Nuclear Power Plant from 15...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academia.edu  
    Title: new studies and research in social sciences  
-   Link: <a href="https://www.academia.edu/38655056/NEW_STUDIES_AND_RESEARCH_IN_SOCIAL_SCIENCES" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38655056/NEW_STUDIES_AND_RESEARCH_IN_SOCIAL_SCIENCES</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the additional resources required for public administration and on its system-alien nature, which can definitely be felt during its in...</p></details>
+   Link:<a href="https://www.academia.edu/38655056/NEW_STUDIES_AND_RESEARCH_IN_SOCIAL_SCIENCES" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38655056/NEW_STUDIES_AND_RESEARCH_IN_SOCIAL_SCIENCES</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the additional resources required for public administration and on its system-alien nature, which can definitely be felt during its in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: si-hr.eu  
    Title: Impact Evaluation of the CP Interreg SI HR 3  
-   Link: <a href="https://www.si-hr.eu/en2/download/Impact-Evaluation-of-the-CP-Interreg-SI-HR_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.si-hr.eu/en2/download/Impact-Evaluation-of-the-CP-Interreg-SI-HR_3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6. climate change. Figure 8 The intervention logic for SO 2.2. INDICATIVE ACTIVITIES. 1. Capacity building actions for...Read more...</p></details>
+   Link:<a href="https://www.si-hr.eu/en2/download/Impact-Evaluation-of-the-CP-Interreg-SI-HR_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.si-hr.eu/en2/download/Impact-Evaluation-of-the-CP-Interreg-SI-HR_3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6. climate change. Figure 8 The intervention logic for SO 2.2. INDICATIVE ACTIVITIES. 1. Capacity building actions for...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hippocampus.si  
-   Link: <a href="https://www.hippocampus.si/ISBN/978-961-293-211-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hippocampus.si/ISBN/978-961-293-211-4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ty of Salem in Massachusetts;. • accident...Read more...</p></details>
+   Link:<a href="https://www.hippocampus.si/ISBN/978-961-293-211-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hippocampus.si/ISBN/978-961-293-211-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ty of Salem in Massachusetts;. • accident...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: slogi.si  
    Title: Slovenski gledališki letopis  
-   Link: <a href="https://www.slogi.si/wp-content/uploads/2023/11/letopis21_22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.slogi.si/wp-content/uploads/2023/11/letopis21_22.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LjubljanaTomažin in Jule Flierl v U.F.O.: Poklon Katalin Ladik poklonita zgodovinskemu krogotoku feminističnega delovanja in javnega odzi...</p></details>
+   Link:<a href="https://www.slogi.si/wp-content/uploads/2023/11/letopis21_22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.slogi.si/wp-content/uploads/2023/11/letopis21_22.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LjubljanaTomažin in Jule Flierl v U.F.O.: Poklon Katalin Ladik poklonita zgodovinskemu krogotoku feminističnega delovanja in javnega odzi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: geosig.com  
    Title: Nuclear Power Plants  
-   Link: <a href="https://www.geosig.com/Nuclear-Power-Plants/NPP-Krsko" target="_blank" rel="noopener noreferrer nofollow">https://www.geosig.com/Nuclear-Power-Plants/NPP-Krsko</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NPP Krsko, SloveniaRead about GeoSIG&#x27;s nuclear power plant monitoring case study of NPP Krsko in Slovenia, which aims to provide enough e...</p></details>
+   Link:<a href="https://www.geosig.com/Nuclear-Power-Plants/NPP-Krsko" target="_blank" rel="noopener noreferrer nofollow">https://www.geosig.com/Nuclear-Power-Plants/NPP-Krsko</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NPP Krsko, SloveniaRead about GeoSIG&#x27;s nuclear power plant monitoring case study of NPP Krsko in Slovenia, which aims to provide enough e...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: politicalecology-ljubljana.si  
-   Link: <a href="https://www.politicalecology-ljubljana.si/wp-content/uploads/2023/09/International-Summer-School-22-Collection-of-papers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.politicalecology-ljubljana.si/wp-content/uploads/2023/09/International-Summer-School-22-Collection-of-papers.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Concepts for Just Transitionsscience is abstract, alien and cannot be described in ordinary langu- age but only through mathematical...</p></details>
+   Link:<a href="https://www.politicalecology-ljubljana.si/wp-content/uploads/2023/09/International-Summer-School-22-Collection-of-papers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.politicalecology-ljubljana.si/wp-content/uploads/2023/09/International-Summer-School-22-Collection-of-papers.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Concepts for Just Transitionsscience is abstract, alien and cannot be described in ordinary langu- age but only through mathematical...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: osti.gov  
-   Link: <a href="https://www.osti.gov/etdeweb/servlets/purl/20960829" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/etdeweb/servlets/purl/20960829</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUCLEAR AND RADIATION SAFETY IN SLOVENIA...by D Lovincic · 2001 — The Radiological Protection Unit at the Krsko NPP is organized for the...</p></details>
+   Link:<a href="https://www.osti.gov/etdeweb/servlets/purl/20960829" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/etdeweb/servlets/purl/20960829</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUCLEAR AND RADIATION SAFETY IN SLOVENIA...by D Lovincic · 2001 — The Radiological Protection Unit at the Krsko NPP is organized for the...</p></details>

@@ -257,7 +257,7 @@ image: /assets/images/Botswana_180c89_gaborone_light_sight_e0aa19-Illustration-1
 Reports of strange lights near the horizon around Gaborone form one of the most repeated strands in Botswana’s small UFO record. Unlike dramatic “close encounter” stories, these sightings are usually distant: coloured lights, triangular formations, or bright objects hovering low over the skyline before shifting direction or fading away. The pattern matters because horizon sightings are among the hardest for witnesses to judge accurately. Distance, atmospheric distortion, aircraft approach paths, bright planets, and the visual effects of heat haze or dust can all make ordinary lights appear unusual.
 
 <img src="{{ "/assets/images/Botswana_180c89_gaborone_light_sight_e0aa19-Illustration-1-dark.svg" | relative_url }}" alt="Gaborone Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Botswana_180c89_gaborone_light_sight_e0aa19-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Botswana_180c89_gaborone_light_sight_e0aa19-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The available evidence suggests that Gaborone’s horizon-light reports are best understood as a mixture of genuine unexplained observations and highly plausible misidentifications rather than a coherent body of extraordinary craft evidence. A few cases remain unresolved because there is too little data, but the overall pattern strongly favours conventional explanations linked to astronomy, aviation and perception conditions near the horizon. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomytrek.com">[Astronomy Trek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomytrek.com</span><span class="citation-popover-snippet">UFO Sightings &#124; Explanations Behind the PhenomenaSo-called UFO sightings are almost certainly linked to “physical, electrical and magneti...</span></span></span>
+The available evidence suggests that Gaborone’s horizon-light reports are best understood as a mixture of genuine unexplained observations and highly plausible misidentifications rather than a coherent body of extraordinary craft evidence. A few cases remain unresolved because there is too little data, but the overall pattern strongly favours conventional explanations linked to astronomy, aviation and perception conditions near the horizon. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomytrek.com">[Astronomy Trek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomytrek.com</span><span class="citation-popover-snippet">UFO Sightings &#124; Explanations Behind the PhenomenaSo-called UFO sightings are almost certainly linked to “physical, electrical and magneti...</span></span></span>
 
 ## Typical witness reports from the Gaborone area
 
@@ -275,9 +275,9 @@ The recurring features of Gaborone sightings are surprisingly consistent despite
 
 </div>
 
-A NUFORC report linked to Gaborone describes “3 amber lights” in a triangular arrangement with an additional bright light nearby that appeared to separate from the formation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=178756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 178756Triangle Characteristics: Lights on object, Made a sound. Bright light flying close to triangle of 3 ambe...</span></span></span> The report is typical of horizon-based sightings because the witness description focuses almost entirely on light behaviour rather than identifiable structure.
+A NUFORC report linked to Gaborone describes “3 amber lights” in a triangular arrangement with an additional bright light nearby that appeared to separate from the formation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=178756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 178756Triangle Characteristics: Lights on object, Made a sound. Bright light flying close to triangle of 3 ambe...</span></span></span> The report is typical of horizon-based sightings because the witness description focuses almost entirely on light behaviour rather than identifiable structure.
 
-Retellings of earlier Botswana cases also repeat the same visual motifs. A social-media repost summarising older local UFO lore references a 1991 triangular object near Gaborone with a central red light and white lights at the corners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/thesomethingguy/posts/in-the-early-1980s-the-quiet-suburb-of-broadhurst-in-gaborone-made-headlines-whe/1409794054473214/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">in the early 1980s the quiet suburb of broadhurst in gaborone made headlines whe</span><span class="citation-popover-snippet">In the early 1980s, the quiet suburb of Broadhurst...1990s sightings On 7 April 1991, at 11:15 pm a hovering triangular craft wi...</span><span class="citation-popover-meta">Published: April 1991</span></span></span> Even though these retrospective accounts are weak historical evidence, they demonstrate how certain visual patterns recur in local memory: triangles, hovering lights and low-altitude appearances near the city edge.
+Retellings of earlier Botswana cases also repeat the same visual motifs. A social-media repost summarising older local UFO lore references a 1991 triangular object near Gaborone with a central red light and white lights at the corners.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/thesomethingguy/posts/in-the-early-1980s-the-quiet-suburb-of-broadhurst-in-gaborone-made-headlines-whe/1409794054473214/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">in the early 1980s the quiet suburb of broadhurst in gaborone made headlines whe</span><span class="citation-popover-snippet">In the early 1980s, the quiet suburb of Broadhurst...1990s sightings On 7 April 1991, at 11:15 pm a hovering triangular craft wi...</span><span class="citation-popover-meta">Published: April 1991</span></span></span> Even though these retrospective accounts are weak historical evidence, they demonstrate how certain visual patterns recur in local memory: triangles, hovering lights and low-altitude appearances near the city edge.
 
 One reason these reports cluster around Gaborone is geographical rather than mysterious. The capital combines several conditions that naturally generate ambiguous sky observations:
 
@@ -295,7 +295,7 @@ Together, these factors create ideal conditions for apparent “stationary but m
 
 ## Why triangular formations are commonly reported
 
-Triangular UFO reports are not unique to Botswana. Similar descriptions appear internationally, especially in situations where observers see multiple separate lights against a dark sky without visible body structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">Not stated Shirley. West Midlands. A triangle shaped object, which had three white lights and one red light. There was no noise. 27...Re...</span></span></span>
+Triangular UFO reports are not unique to Botswana. Similar descriptions appear internationally, especially in situations where observers see multiple separate lights against a dark sky without visible body structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">ufo report 2008</span><span class="citation-popover-snippet">Not stated Shirley. West Midlands. A triangle shaped object, which had three white lights and one red light. There was no noise. 27...Re...</span></span></span>
 
 Near Gaborone, several ordinary mechanisms can create the impression of a triangular craft:
 
@@ -305,7 +305,7 @@ Aircraft approaching or departing Gaborone can appear nearly stationary when fly
 
 At night, depth perception becomes weak. A distant aircraft approaching head-on may appear to hover while changing brightness, especially if atmospheric haze scatters the light. When the aircraft turns, the “triangle” may suddenly distort or vanish, which witnesses sometimes interpret as impossible manoeuvring.
 
-Botswana’s aviation activity is modest compared with larger countries, but even relatively sparse traffic can produce repeated sightings because observers remember unusual lights more readily than ordinary flights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/asndb/country/A2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Aviation Safety NetworkBotswanaAviation Safety Network: Aviation Safety Network: Databases containing descriptions of over 11000 airliner...</span></span></span>
+Botswana’s aviation activity is modest compared with larger countries, but even relatively sparse traffic can produce repeated sightings because observers remember unusual lights more readily than ordinary flights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/asndb/country/A2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Aviation Safety NetworkBotswanaAviation Safety Network: Aviation Safety Network: Databases containing descriptions of over 11000 airliner...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6Yv2DEQYYdI" title="Strange flashing object in deep space puzzles astronomers | ABC NEWS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6Yv2DEQYYdI" target="_blank" rel="noopener noreferrer">Strange flashing object in deep space puzzles astronomers | ABC NEWS</a></p><p class="youtube-embed-meta">Channel: ABC News (Australia) &middot; Views: 278.8K &middot; Uploaded: May 2025 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6Yv2DEQYYdI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6Yv2DEQYYdI">Open on YouTube</a></p></div></div></div>
 
@@ -337,7 +337,7 @@ Venus is frequently mistaken worldwide for an unusual craft because it can appea
 
 </div>
 
-The Astronomical Society of Southern Africa has documented how prominent Venus appearances repeatedly attract public attention in southern Africa. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assa.saao.ac.za/wp-content/uploads/sites/23/2014/08/Venus-Rising-2014-P-G-Alcock.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assa.saao.ac.za">[ASSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assa.saao.ac.za</span><span class="citation-popover-title">Venus Rising 2014 P G Alcock</span><span class="citation-popover-snippet">Venus Rising - Astronomical Society of Southern Africaby PG Alcock · Cited by 1 — Venus Rising: South African Astronomical Beliefs, C...</span></span></span> Near the horizon, atmospheric refraction can also make Venus appear to flicker red, blue or orange.
+The Astronomical Society of Southern Africa has documented how prominent Venus appearances repeatedly attract public attention in southern Africa.<span class="citation-chip-wrap"><a class="citation-chip" href="https://assa.saao.ac.za/wp-content/uploads/sites/23/2014/08/Venus-Rising-2014-P-G-Alcock.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assa.saao.ac.za">[ASSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assa.saao.ac.za</span><span class="citation-popover-title">Venus Rising 2014 P G Alcock</span><span class="citation-popover-snippet">Venus Rising - Astronomical Society of Southern Africaby PG Alcock · Cited by 1 — Venus Rising: South African Astronomical Beliefs, C...</span></span></span> Near the horizon, atmospheric refraction can also make Venus appear to flicker red, blue or orange.
 
 Witnesses unfamiliar with astronomical motion may interpret the gradual apparent movement of Venus as hovering behaviour or slow intelligent manoeuvring. Once observers begin concentrating on the light, normal eye micro-movements can produce the impression that the object itself is drifting.
 
@@ -366,7 +366,7 @@ An aircraft several kilometres away may produce little or no audible sound while
 
 Objects viewed through thick layers of atmosphere near the horizon are inherently distorted. Mirage effects, thermal shimmer and aerosol scattering all intensify close to the skyline.
 
-This is one reason many UFO researchers themselves treat low-horizon observations cautiously unless supported by radar, photographs or multiple independent witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2016.00017/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers To Investigate or Not to Investigate?</span><span class="citation-popover-snippet">Researchers&#x27; Views...February 24, 2016 — by E Caron · 2016 · Cited by 1 — One of the reasons has been the misleading association of HL w...</span><span class="citation-popover-meta">Published: February 24, 2016</span></span></span>
+This is one reason many UFO researchers themselves treat low-horizon observations cautiously unless supported by radar, photographs or multiple independent witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2016.00017/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers To Investigate or Not to Investigate?</span><span class="citation-popover-snippet">Researchers&#x27; Views...February 24, 2016 — by E Caron · 2016 · Cited by 1 — One of the reasons has been the misleading association of HL w...</span><span class="citation-popover-meta">Published: February 24, 2016</span></span></span>
 
 ## Patterns across repeat sightings
 
@@ -392,7 +392,7 @@ The Gaborone cases resemble worldwide reports involving:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Venus misidentification
-* Aircraft landing lights <span class="citation-chip-wrap"><a class="citation-chip" href="https://bea.aero/en/investigation-reports/notified-events/detail/incident-to-the-atr72-registered-a2-abl-operated-by-air-botswana-on-13-12-2025-at-gaborone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bea.aero">[bea.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bea.aero</span><span class="citation-popover-snippet">The aircraft hit runway lights on the...Read more...</span></span></span>
+* Aircraft landing lights<span class="citation-chip-wrap"><a class="citation-chip" href="https://bea.aero/en/investigation-reports/notified-events/detail/incident-to-the-atr72-registered-a2-abl-operated-by-air-botswana-on-13-12-2025-at-gaborone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bea.aero">[bea.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bea.aero</span><span class="citation-popover-snippet">The aircraft hit runway lights on the...Read more...</span></span></span>
 * Satellite trains
 * Distant helicopters
 * Atmospheric distortion
@@ -405,7 +405,7 @@ The similarity cuts both ways. Believers may argue that recurring patterns imply
 
 ## Which cases remain genuinely unresolved?
 
-A small number of Gaborone reports cannot be confidently explained because the information is too limited. The NUFORC triangular-light report, for example, lacks enough detail about direction, duration, weather and aircraft traffic to establish a definitive explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=128534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 128534It was a white light that was oval in shape and it intermittently pulsated. It continued to move left and began...</span></span></span>
+A small number of Gaborone reports cannot be confidently explained because the information is too limited. The NUFORC triangular-light report, for example, lacks enough detail about direction, duration, weather and aircraft traffic to establish a definitive explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=128534" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 128534It was a white light that was oval in shape and it intermittently pulsated. It continued to move left and began...</span></span></span>
 
 However, “unresolved” is not the same as “evidence of extraterrestrial craft”. In UFO investigation, unresolved usually means only that the available data are insufficient for certainty.
 
@@ -432,194 +432,194 @@ The result is not a strong evidential case for exotic craft over Botswana. Inste
 That does not mean every witness simply “imagined” what they saw. Most probably reported real lights accurately. The uncertainty lies in interpretation rather than observation itself. In the available record, the balance of probability still favours astronomical, atmospheric and aviation-related explanations over extraordinary ones.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Mysterious Lights Appear Over Gaborone?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Mysterious Lights Appear Over Gaborone?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for understanding misidentification, perception, and evidence in mysterious-light reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding misidentification, perception, and evidence in mysterious-light reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Frames how pilot, radar, and witness reports are evaluated without forcing an alien explanation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames how pilot, radar, and witness reports are evaluated without forcing an alien explanation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify planets, stars, satellites, and other common sources of horizon-light confusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify planets, stars, satellites, and other common sources of horizon-light confusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains sighting categories and witness-report patterns relevant to distant lights over cities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains sighting categories and witness-report patterns relevant to distant lights over cities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-mysterious-lights-appear-over-gaborone-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-mysterious-lights-appear-over-gaborone-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -635,7 +635,7 @@ That does not mean every witness simply “imagined” what they saw. Most proba
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -655,7 +655,7 @@ That does not mean every witness simply “imagined” what they saw. Most proba
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -687,7 +687,7 @@ That does not mean every witness simply “imagined” what they saw. Most proba
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -739,7 +739,7 @@ That does not mean every witness simply “imagined” what they saw. Most proba
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -784,7 +784,7 @@ That does not mean every witness simply “imagined” what they saw. Most proba
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -822,117 +822,116 @@ That does not mean every witness simply “imagined” what they saw. Most proba
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=178756" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=178756</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 178756Triangle Characteristics: Lights on object, Made a sound. Bright light flying close to triangle of 3 ambe...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=178756" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=178756</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 178756Triangle Characteristics: Lights on object, Made a sound. Bright light flying close to triangle of 3 ambe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
    Title: in the early 1980s the quiet suburb of broadhurst in gaborone made headlines whe  
-   Link: <a href="https://www.facebook.com/thesomethingguy/posts/in-the-early-1980s-the-quiet-suburb-of-broadhurst-in-gaborone-made-headlines-whe/1409794054473214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thesomethingguy/posts/in-the-early-1980s-the-quiet-suburb-of-broadhurst-in-gaborone-made-headlines-whe/1409794054473214/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the early 1980s, the quiet suburb of Broadhurst...1990s sightings On 7 April 1991, at 11:15 pm a hovering triangular craft wi...</p></details>
+   Link:<a href="https://www.facebook.com/thesomethingguy/posts/in-the-early-1980s-the-quiet-suburb-of-broadhurst-in-gaborone-made-headlines-whe/1409794054473214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thesomethingguy/posts/in-the-early-1980s-the-quiet-suburb-of-broadhurst-in-gaborone-made-headlines-whe/1409794054473214/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the early 1980s, the quiet suburb of Broadhurst...1990s sightings On 7 April 1991, at 11:15 pm a hovering triangular craft wi...</p></details>
    Published: April 1991  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 2008  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Not stated Shirley. West Midlands. A triangle shaped object, which had three white lights and one red light. There was no noise. 27...Re...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a789e38ed915d042206403a/ufo_report_2008.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not stated Shirley. West Midlands. A triangle shaped object, which had three white lights and one red light. There was no noise. 27...Re...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/asndb/country/A2" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/asndb/country/A2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkBotswanaAviation Safety Network: Aviation Safety Network: Databases containing descriptions of over 11000 airliner...</p></details>
+   Link:<a href="https://aviation-safety.net/asndb/country/A2" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/asndb/country/A2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkBotswanaAviation Safety Network: Aviation Safety Network: Databases containing descriptions of over 11000 airliner...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assa.saao.ac.za  
    Title: Venus Rising 2014 P G Alcock  
-   Link: <a href="https://assa.saao.ac.za/wp-content/uploads/sites/23/2014/08/Venus-Rising-2014-P-G-Alcock.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assa.saao.ac.za/wp-content/uploads/sites/23/2014/08/Venus-Rising-2014-P-G-Alcock.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus Rising - Astronomical Society of Southern Africaby PG Alcock · Cited by 1 — Venus Rising: South African Astronomical Beliefs, C...</p></details>
+   Link:<a href="https://assa.saao.ac.za/wp-content/uploads/sites/23/2014/08/Venus-Rising-2014-P-G-Alcock.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assa.saao.ac.za/wp-content/uploads/sites/23/2014/08/Venus-Rising-2014-P-G-Alcock.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Venus Rising - Astronomical Society of Southern Africaby PG Alcock · Cited by 1 — Venus Rising: South African Astronomical Beliefs, C...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/107195313294078/posts/1406415670038696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/107195313294078/posts/1406415670038696/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plane Sighting in Botswana AviationThe one and only plane that fly pass near me Today it was above my horizon i had to rush outside and w...</p></details>
+   Link:<a href="https://www.facebook.com/groups/107195313294078/posts/1406415670038696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/107195313294078/posts/1406415670038696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plane Sighting in Botswana AviationThe one and only plane that fly pass near me Today it was above my horizon i had to rush outside and w...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/IrishNewsLtd/posts/three-orange-lights-in-a-perfect-triangle-in-the-sky-were-reported-to-police-in-/1472060998125589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IrishNewsLtd/posts/three-orange-lights-in-a-perfect-triangle-in-the-sky-were-reported-to-police-in-/1472060998125589/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lice in Northern Ireland in 2025, it can be revealed...</p></details>
+   Link:<a href="https://www.facebook.com/IrishNewsLtd/posts/three-orange-lights-in-a-perfect-triangle-in-the-sky-were-reported-to-police-in-/1472060998125589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IrishNewsLtd/posts/three-orange-lights-in-a-perfect-triangle-in-the-sky-were-reported-to-police-in-/1472060998125589/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lice in Northern Ireland in 2025, it can be revealed...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=128534" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=128534</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 128534It was a white light that was oval in shape and it intermittently pulsated. It continued to move left and began...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=128534" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=128534</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 128534It was a white light that was oval in shape and it intermittently pulsated. It continued to move left and began...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: astronomytrek.com  
-   Link: <a href="https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings | Explanations Behind the PhenomenaSo-called UFO sightings are almost certainly linked to “physical, electrical and magneti...</p></details>
+   Link:<a href="https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings | Explanations Behind the PhenomenaSo-called UFO sightings are almost certainly linked to “physical, electrical and magneti...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: frontiersin.org  
    Title: Frontiers To Investigate or Not to Investigate?  
-   Link: <a href="https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2016.00017/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2016.00017/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers&#x27; Views...February 24, 2016 — by E Caron · 2016 · Cited by 1 — One of the reasons has been the misleading association of HL w...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2016.00017/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2016.00017/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers&#x27; Views...February 24, 2016 — by E Caron · 2016 · Cited by 1 — One of the reasons has been the misleading association of HL w...</p></details>
    Published: February 24, 2016  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC Perth on Instagram: &quot;&quot;It looked like they were in a triangle...... sightings of strange lights in the sky has sparked community chat...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DO8W9zzD5MY/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC Perth on Instagram: &quot;&quot;It looked like they were in a triangle...... sightings of strange lights in the sky has sparked community chat...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/CD1-QlipD_R/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CD1-QlipD_R/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guys last night we saw five UFO flying in formationWe saw five UFO flying in formation - a perfect straight line along the milky-way. Whe...</p></details>
+   Link:<a href="https://www.instagram.com/p/CD1-QlipD_R/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CD1-QlipD_R/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guys last night we saw five UFO flying in formationWe saw five UFO flying in formation - a perfect straight line along the milky-way. Whe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sahistory.org.za  
-   Link: <a href="https://sahistory.org.za/sites/default/files/archive-files/de_saxe_thesis_2010_politics_of_exile_2016_06_29_08_39_10_utc_2016_07_14_07_46_08_utc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sahistory.org.za/sites/default/files/archive-files/de_saxe_thesis_2010_politics_of_exile_2016_06_29_08_39_10_utc_2016_07_14_07_46_08_utc.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South African Poets and Singers in Exile, 1900–199030 Nov 2010 — In this thesis I argue that poetry, for the South African poets and sing...</p></details>
+   Link:<a href="https://sahistory.org.za/sites/default/files/archive-files/de_saxe_thesis_2010_politics_of_exile_2016_06_29_08_39_10_utc_2016_07_14_07_46_08_utc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sahistory.org.za/sites/default/files/archive-files/de_saxe_thesis_2010_politics_of_exile_2016_06_29_08_39_10_utc_2016_07_14_07_46_08_utc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South African Poets and Singers in Exile, 1900–199030 Nov 2010 — In this thesis I argue that poetry, for the South African poets and sing...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thetimes.com  
    Title: the truth is out there lights in the sky that defy explanation 6k5cz2hdl  
-   Link: <a href="https://www.thetimes.com/uk/science/article/the-truth-is-out-there-lights-in-the-sky-that-defy-explanation-6k5cz2hdl" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/the-truth-is-out-there-lights-in-the-sky-that-defy-explanation-6k5cz2hdl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is out there: lights in the sky that defy explanation5 Jul 2021 — A Pentagon report has investigated UFOs and found “no clear i...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/science/article/the-truth-is-out-there-lights-in-the-sky-that-defy-explanation-6k5cz2hdl" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/the-truth-is-out-there-lights-in-the-sky-that-defy-explanation-6k5cz2hdl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is out there: lights in the sky that defy explanation5 Jul 2021 — A Pentagon report has investigated UFOs and found “no clear i...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOooAflJAovZF6dnuh-z4Euj9ohHO0CaV8qijDwI231Df3SbDf8VP" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOooAflJAovZF6dnuh-z4Euj9ohHO0CaV8qijDwI231Df3SbDf8VP</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
+   Link:<a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOooAflJAovZF6dnuh-z4Euj9ohHO0CaV8qijDwI231Df3SbDf8VP" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOooAflJAovZF6dnuh-z4Euj9ohHO0CaV8qijDwI231Df3SbDf8VP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens, and to exhaust every possible natural explanation...Read more...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/were-unexplained-flashes-of-light-in-70-year-old-sky-surveys-caused-by-ufos-or-nuclear-testing-why-not-both-researchers-say</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens, and to exhaust every possible natural explanation...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DS5NcV9DLHt/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DS5NcV9DLHt/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd colour as the Northern lights danced across our Northern skies...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DS5NcV9DLHt/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DS5NcV9DLHt/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd colour as the Northern lights danced across our Northern skies...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: belvedere.at  
    Title: olafur eliasson five orientation lights  
-   Link: <a href="https://www.belvedere.at/en/olafur-eliasson-five-orientation-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.belvedere.at/en/olafur-eliasson-five-orientation-lights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OLAFUR ELIASSON: Five orientation lights21 Nov 2015 — Five small lighthouses divide their surroundings into sections by illuminating them...</p></details>
+   Link:<a href="https://www.belvedere.at/en/olafur-eliasson-five-orientation-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.belvedere.at/en/olafur-eliasson-five-orientation-lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OLAFUR ELIASSON: Five orientation lights21 Nov 2015 — Five small lighthouses divide their surroundings into sections by illuminating them...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: livescience.com  
    Title: bizarre phenomena that lit up the sky and their scientific explanations  
-   Link: <a href="https://www.livescience.com/space/bizarre-phenomena-that-lit-up-the-sky-and-their-scientific-explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/bizarre-phenomena-that-lit-up-the-sky-and-their-scientific-explanations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified Apollo 12 images show UFOs on the moon — Space photo of the...Read more...</p></details>
+   Link:<a href="https://www.livescience.com/space/bizarre-phenomena-that-lit-up-the-sky-and-their-scientific-explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/bizarre-phenomena-that-lit-up-the-sky-and-their-scientific-explanations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified Apollo 12 images show UFOs on the moon — Space photo of the...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bea.aero  
-   Link: <a href="https://bea.aero/en/investigation-reports/notified-events/detail/incident-to-the-atr72-registered-a2-abl-operated-by-air-botswana-on-13-12-2025-at-gaborone/" target="_blank" rel="noopener noreferrer nofollow">https://bea.aero/en/investigation-reports/notified-events/detail/incident-to-the-atr72-registered-a2-abl-operated-by-air-botswana-on-13-12-2025-at-gaborone/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The aircraft hit runway lights on the...Read more...</p></details>
+   Link:<a href="https://bea.aero/en/investigation-reports/notified-events/detail/incident-to-the-atr72-registered-a2-abl-operated-by-air-botswana-on-13-12-2025-at-gaborone/" target="_blank" rel="noopener noreferrer nofollow">https://bea.aero/en/investigation-reports/notified-events/detail/incident-to-the-atr72-registered-a2-abl-operated-by-air-botswana-on-13-12-2025-at-gaborone/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The aircraft hit runway lights on the...Read more...</p></details>

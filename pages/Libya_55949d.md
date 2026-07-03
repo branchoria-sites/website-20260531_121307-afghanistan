@@ -1194,14 +1194,14 @@ image: /assets/images/Libya_55949d-overview-social.jpg
 
 ## Introduction
 
-Libya has a real but thin UFO record: a handful of Cold War-era reports tied to Wheelus Air Base near Tripoli, a few later [civilian reports]({{ 'civilian-reports-22214a/' | relative_url }}) from Tripoli, the desert oil fields, Misrata and Tobruk, and at least one recent case explicitly explained as Starlink satellites. The strongest Libya-specific material is not a dramatic crash story or a government disclosure file; it is a small set of military and radar-related reports from the 1950s, preserved through Project [Blue Book]({{ 'blue-book/' | relative_url }}) records and later UFO catalogues. The most useful conclusion is therefore cautious: Libya has documented unidentified-aerial reports, but no public evidence that any Libyan case proves extraterrestrial technology, and several reports are too sparse, late-reported, or conventionally explainable to carry much weight. The country’s value in UFO research lies in how its skies combine military aviation, desert visibility, satellite visibility and weak local archiving. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.nationalarchives.gov.uk/tag/libya/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cLibya" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Libya</span><span class="citation-popover-snippet">Reports for Country Libya</span></span></span>
+Libya has a real but thin UFO record: a handful of Cold War-era reports tied to Wheelus Air Base near Tripoli, a few later [civilian reports]({{ 'civilian-reports-22214a/' | relative_url }}) from Tripoli, the desert oil fields, Misrata and Tobruk, and at least one recent case explicitly explained as Starlink satellites. The strongest Libya-specific material is not a dramatic crash story or a government disclosure file; it is a small set of military and radar-related reports from the 1950s, preserved through Project [Blue Book]({{ 'blue-book/' | relative_url }}) records and later UFO catalogues. The most useful conclusion is therefore cautious: Libya has documented unidentified-aerial reports, but no public evidence that any Libyan case proves extraterrestrial technology, and several reports are too sparse, late-reported, or conventionally explainable to carry much weight. The country’s value in UFO research lies in how its skies combine military aviation, desert visibility, satellite visibility and weak local archiving. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.nationalarchives.gov.uk/tag/libya/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cLibya" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Libya</span><span class="citation-popover-snippet">Reports for Country Libya</span></span></span>
 
 <img src="{{ "/assets/images/Libya_55949d-overview.webp" | relative_url }}" alt="Overview image for What Do Libya&#x27;s UFO Reports Really Show?" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Libya’s UFO record is unusually military-heavy
 
-Libya’s best-documented UFO material clusters around Wheelus Air Base, the former United States Air Force installation near Tripoli. That matters because military bases create both better reporting channels and more opportunities for misidentification: aircraft, radar returns, weather equipment, training flights and classified operations all share the same sky. Wheelus was formally handed over to the Libyan Government on 11 June 1970 after a long American presence dating back to the Second World War, and United States diplomatic records describe it as an important base whose closure had political and strategic significance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1969-76ve05p2/d60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Office of the Historian Historical Documents</span></span></span>
+Libya’s best-documented UFO material clusters around Wheelus Air Base, the former United States Air Force installation near Tripoli. That matters because military bases create both better reporting channels and more opportunities for misidentification: aircraft, radar returns, weather equipment, training flights and classified operations all share the same sky. Wheelus was formally handed over to the Libyan Government on 11 June 1970 after a long American presence dating back to the Second World War, and United States diplomatic records describe it as an important base whose closure had political and strategic significance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1969-76ve05p2/d60" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Office of the Historian Historical Documents</span></span></span>
 
-Project Blue Book is the key archive for this period. The National Archives states that Blue Book collected 12,618 UFO sightings from 1947 to 1969, of which 701 remained “Unidentified” in the official Air Force summary. The same Air Force fact sheet concluded that no investigated UFO had shown evidence of a national-security threat, scientific principles beyond known technology, or extraterrestrial vehicles. That does not make every Libya-related report solved; it means the official evidential bar was not met. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.nationalarchives.gov.uk/tag/libya/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Project Blue Book is the key archive for this period. The National Archives states that Blue Book collected 12,618 UFO sightings from 1947 to 1969, of which 701 remained “Unidentified” in the official Air Force summary. The same Air Force fact sheet concluded that no investigated UFO had shown evidence of a national-security threat, scientific principles beyond known technology, or extraterrestrial vehicles. That does not make every Libya-related report solved; it means the official evidential bar was not met.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.nationalarchives.gov.uk/tag/libya/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Libya, this produces a split record. Some reports are preserved on military forms and radar messages, which gives them more evidential structure than anonymous folklore. Others are retrospective civilian submissions made many years after the claimed sighting, which are useful as testimony but weak as proof.
 
@@ -1209,49 +1209,49 @@ For Libya, this produces a split record. Some reports are preserved on military 
 
 The known public record is small enough that chronology is more helpful than mythology. The pattern is not a continuous national wave; it is a few concentrated Cold War cases followed by scattered modern reports.
 
-DateLocationReported eventCurrent evidential status11 February 1953Between Tunis and TripoliUSAF C-119 crew reportedly saw a disc pass or pace the aircraftContested; catalogued as a Blue Book-related unknown, but Libya is only one end of the route <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/580914tripoli_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">580914tripoli docs</span><span class="citation-popover-snippet">580914tripoli docs</span></span></span> 24 January 1956Wheelus AFB, TripoliGround-radar track for 12 minutes; official card marked “was aircraft”Officially treated as aircraft, though the speed/course details made it notable <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/530211tunis_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">530211tunis report</span><span class="citation-popover-snippet">530211tunis report</span></span></span> June 1956Wheelus AFB, TripoliUSAF members later reported repeated lights crossing the sky over several nightsLate witness report; interesting because it mentions radar talk and scrambled aircraft, but unverified decades later <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 1 September 1958Wheelus AFB, TripoliPhilco technical representative reportedly saw a round blue-white object moving at varying speedsListed in a Blue Book unknown catalogue; public detail is limited <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku58.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 14 September 1958Wheelus AFB, TripoliRadar returns for about three hours, no visual object, rain showers nearbyOfficial evaluation leaned towards weather phenomena or equipment malfunction <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/560124wheelus_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">560124wheelus docs</span><span class="citation-popover-snippet">560124wheelus docs</span></span></span> 16 February 1959BenghaziBritish military witness reportedly saw a domed, changing-colour object for about 15 minutesContested single-witness case in later catalogues; not independently confirmed here <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span> 7 October 1989Libyan desert oil-rig areaBright red circular object reportedly moved, stopped, zigzagged and vanishedRetrospective civilian report; no location precision or corroborating record <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=3513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 30 August 1997TripoliTwo witnesses reported several moving points of light in the western skyCivilian testimony; no instrument record or clear explanation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=33012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 25 August 2014Tripoli, Hay AlandlousSmall electric-blue glowing object reportedly drifted near witness for four secondsVery low-evidence report, submitted in 2025, with no corroboration <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=38512" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 19 October 2017TobrukThree witnesses reportedly saw a neon-white circular object descend and rise silentlyLate report with unclear wording; classified here as contested testimony <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 30 April 2025MisrataSlow-moving formation of lights, video reportedly capturedNUFORC marks the explanation as “Starlink - Certain” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191148" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+DateLocationReported eventCurrent evidential status11 February 1953Between Tunis and TripoliUSAF C-119 crew reportedly saw a disc pass or pace the aircraftContested; catalogued as a Blue Book-related unknown, but Libya is only one end of the route<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/580914tripoli_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">580914tripoli docs</span><span class="citation-popover-snippet">580914tripoli docs</span></span></span> 24 January 1956Wheelus AFB, TripoliGround-radar track for 12 minutes; official card marked “was aircraft”Officially treated as aircraft, though the speed/course details made it notable<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/530211tunis_report.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">530211tunis report</span><span class="citation-popover-snippet">530211tunis report</span></span></span> June 1956Wheelus AFB, TripoliUSAF members later reported repeated lights crossing the sky over several nightsLate witness report; interesting because it mentions radar talk and scrambled aircraft, but unverified decades later<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 1 September 1958Wheelus AFB, TripoliPhilco technical representative reportedly saw a round blue-white object moving at varying speedsListed in a Blue Book unknown catalogue; public detail is limited<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku58.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 14 September 1958Wheelus AFB, TripoliRadar returns for about three hours, no visual object, rain showers nearbyOfficial evaluation leaned towards weather phenomena or equipment malfunction<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/560124wheelus_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">560124wheelus docs</span><span class="citation-popover-snippet">560124wheelus docs</span></span></span> 16 February 1959BenghaziBritish military witness reportedly saw a domed, changing-colour object for about 15 minutesContested single-witness case in later catalogues; not independently confirmed here<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span> 7 October 1989Libyan desert oil-rig areaBright red circular object reportedly moved, stopped, zigzagged and vanishedRetrospective civilian report; no location precision or corroborating record<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=3513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 30 August 1997TripoliTwo witnesses reported several moving points of light in the western skyCivilian testimony; no instrument record or clear explanation<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=33012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 25 August 2014Tripoli, Hay AlandlousSmall electric-blue glowing object reportedly drifted near witness for four secondsVery low-evidence report, submitted in 2025, with no corroboration<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=38512" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 19 October 2017TobrukThree witnesses reportedly saw a neon-white circular object descend and rise silentlyLate report with unclear wording; classified here as contested testimony<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> 30 April 2025MisrataSlow-moving formation of lights, video reportedly capturedNUFORC marks the explanation as “Starlink - Certain”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191148" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Libya_55949d-Illustration-1-dark.svg" | relative_url }}" alt="What Do Libya&#x27;s UFO Reports Really Show? illustration 1" data-theme-src-dark="{{ "/assets/images/Libya_55949d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Libya_55949d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Wheelus cases: the strongest but not the strangest evidence
 
-The 24 January 1956 Wheelus case is a good example of why Libya’s record deserves attention without overstatement. A Project 10073 record card describes a ground-radar observation from Wheelus, gives a 12-minute duration, one object, and a track beginning at 75 nautical miles on a 099-degree azimuth. The summary notes an estimated speed of 75 knots, then a change to 50 knots before the object faded; the conclusion box is marked “Was Aircraft”, and the comments say the plot characteristics were probably those of an aircraft, possibly faster than indicated because of the distance and duration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1959fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The 24 January 1956 Wheelus case is a good example of why Libya’s record deserves attention without overstatement. A Project 10073 record card describes a ground-radar observation from Wheelus, gives a 12-minute duration, one object, and a track beginning at 75 nautical miles on a 099-degree azimuth. The summary notes an estimated speed of 75 knots, then a change to 50 knots before the object faded; the conclusion box is marked “Was Aircraft”, and the comments say the plot characteristics were probably those of an aircraft, possibly faster than indicated because of the distance and duration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1959fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 That makes the case valuable but not sensational. It is a documented radar report, yet the official evaluator did not leave it as unknown. For a reader, the important point is that “radar case” does not automatically mean “unexplained craft”. Radar can track real aircraft, anomalous propagation, weather effects, balloons or equipment artefacts; interpretation depends on the full context, not just the fact that a blip existed.
 
-The 14 September 1958 Wheelus report is even more instructive. The record card describes ground-radar returns over three hours, with one object, a southerly course, attempted visual observation from both ground and air, and no visual confirmation. The comments explicitly say that, given the meagre information and failure to make visual confirmation, weather phenomena and/or equipment malfunction may have caused the returns. A later disposition form repeats that it was hard to understand exactly what happened from the report, but considered weather phenomena or equipment malfunction likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/560124wheelus_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/580914tripoli_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The 14 September 1958 Wheelus report is even more instructive. The record card describes ground-radar returns over three hours, with one object, a southerly course, attempted visual observation from both ground and air, and no visual confirmation. The comments explicitly say that, given the meagre information and failure to make visual confirmation, weather phenomena and/or equipment malfunction may have caused the returns. A later disposition form repeats that it was hard to understand exactly what happened from the report, but considered weather phenomena or equipment malfunction likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/560124wheelus_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/580914tripoli_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-The 1 September 1958 Wheelus case is more tantalising because a later Project Blue Book unknown catalogue lists it as case 6027: a Philco technical representative, A. M. Slaton, reportedly saw a round blue-white object flying at varying speeds, with two sightings lasting about two minutes and one and a half minutes. The problem is the public summary is short. It is stronger than hearsay because it appears in Blue Book-derived catalogues, but weaker than a fully documented multi-sensor case available for independent reanalysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku58.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 1 September 1958 Wheelus case is more tantalising because a later Project Blue Book unknown catalogue lists it as case 6027: a Philco technical representative, A. M. Slaton, reportedly saw a round blue-white object flying at varying speeds, with two sightings lasting about two minutes and one and a half minutes. The problem is the public summary is short. It is stronger than hearsay because it appears in Blue Book-derived catalogues, but weaker than a fully documented multi-sensor case available for independent reanalysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku58.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nTx2ddYVfzo" title="UAE implicated in lethal drone strike in Libya [FULL Documentary] - @BBCAfrica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nTx2ddYVfzo" target="_blank" rel="noopener noreferrer">UAE implicated in lethal drone strike in Libya [FULL Documentary] - @BBCAfrica</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 94.0K &middot; Uploaded: August 2020 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nTx2ddYVfzo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nTx2ddYVfzo">Open on YouTube</a></p></div></div></div>
 
 ## Tripoli, Benghazi, Misrata and Tobruk show different kinds of uncertainty
 
-Tripoli dominates the Libyan UFO record because of Wheelus and because later civilian reports also come from the capital. The 1997 Tripoli report describes “lightning points” moving together in the western sky, apparently changing pace and vanishing together after about three minutes. It is a classic low-information lights-in-the-sky account: there are two witnesses, but no video, no exact azimuth, no weather record, no aircraft check and no satellite check. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Tripoli dominates the Libyan UFO record because of Wheelus and because later civilian reports also come from the capital. The 1997 Tripoli report describes “lightning points” moving together in the western sky, apparently changing pace and vanishing together after about three minutes. It is a classic low-information lights-in-the-sky account: there are two witnesses, but no video, no exact azimuth, no weather record, no aircraft check and no satellite check.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Benghazi appears in the older catalogue record for 16 February 1959. The report describes a British military witness seeing a round, sharply outlined object with a dome, colour changes from silvery blue to reddish and dark, green light vents, variable brightness, and motion ranging from hovering to very fast before sudden disappearance. It is one of the more visually detailed Libya-linked claims, but it is still a single-witness catalogue entry unless a fuller primary file is recovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
+Benghazi appears in the older catalogue record for 16 February 1959. The report describes a British military witness seeing a round, sharply outlined object with a dome, colour changes from silvery blue to reddish and dark, green light vents, variable brightness, and motion ranging from hovering to very fast before sudden disappearance. It is one of the more visually detailed Libya-linked claims, but it is still a single-witness catalogue entry unless a fuller primary file is recovered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
-Misrata is the clearest modern debunking case. NUFORC lists a 30 April 2025 report from downtown Misrata involving a slow-moving formation of yellow lights and marks the explanation as “Starlink - Certain”. That is plausible because SpaceX itself says Starlink satellites can create a “string of pearls” effect in the night sky, and astronomy explainers have repeatedly noted that Starlink trains are often reported as UFOs by surprised observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cLibya" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Libya</span><span class="citation-popover-snippet">Reports for Country Libya</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacex.com/launches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacex.com">[SpaceX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacex.com</span><span class="citation-popover-title">Space X</span><span class="citation-popover-snippet">Space X</span></span></span>
+Misrata is the clearest modern debunking case. NUFORC lists a 30 April 2025 report from downtown Misrata involving a slow-moving formation of yellow lights and marks the explanation as “Starlink - Certain”. That is plausible because SpaceX itself says Starlink satellites can create a “string of pearls” effect in the night sky, and astronomy explainers have repeatedly noted that Starlink trains are often reported as UFOs by surprised observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cLibya" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Libya</span><span class="citation-popover-snippet">Reports for Country Libya</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spacex.com/launches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacex.com">[SpaceX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacex.com</span><span class="citation-popover-title">Space X</span><span class="citation-popover-snippet">Space X</span></span></span>
 
-Tobruk’s 2017 report, submitted in 2025, is stranger in wording but weaker in evidence. The witness describes a neon-white circular object descending silently at a distance of roughly 600 to 800 metres, then rising and disappearing. NUFORC notes that the author probably used the wrong word in one part of the report, which highlights a wider problem for Libya research: translation, local phrasing and late submission can make already brief testimony harder to assess. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Tobruk’s 2017 report, submitted in 2025, is stranger in wording but weaker in evidence. The witness describes a neon-white circular object descending silently at a distance of roughly 600 to 800 metres, then rising and disappearing. NUFORC notes that the author probably used the wrong word in one part of the report, which highlights a wider problem for Libya research: translation, local phrasing and late submission can make already brief testimony harder to assess.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Libya_55949d-Illustration-2-dark.svg" | relative_url }}" alt="What Do Libya&#x27;s UFO Reports Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Libya_55949d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Libya_55949d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested and debunked claims
 
 A useful Libya page should separate “documented” from “proved”. Those are not the same thing.
 
-**Confirmed as reports:** Libya has several public UFO reports in recognised archives and databases. Project Blue Book-related material exists for Wheelus, and NUFORC lists six Libya reports in its country index. This confirms that reports were made or preserved; it does not confirm the extraordinary interpretation of those reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.nationalarchives.gov.uk/tag/libya/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed as reports:** Libya has several public UFO reports in recognised archives and databases. Project Blue Book-related material exists for Wheelus, and NUFORC lists six Libya reports in its country index. This confirms that reports were made or preserved; it does not confirm the extraordinary interpretation of those reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.nationalarchives.gov.uk/tag/libya/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested or unresolved:** The 1953 Tunis-Tripoli aircraft report, the 1 September 1958 Wheelus sighting, and the 1959 Benghazi account remain interesting because later catalogues treat them as unexplained or Blue Book unknown-related. Their weakness is that the accessible summaries are short, and some are not centred wholly inside Libya. They should be treated as leads for archival research, not as settled cases. NICAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
+**Contested or unresolved:** The 1953 Tunis-Tripoli aircraft report, the 1 September 1958 Wheelus sighting, and the 1959 Benghazi account remain interesting because later catalogues treat them as unexplained or Blue Book unknown-related. Their weakness is that the accessible summaries are short, and some are not centred wholly inside Libya. They should be treated as leads for archival research, not as settled cases. NICAP<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
-**Debunked or conventionally explained:** The 1956 Wheelus radar case was officially concluded as aircraft, and the 14 September 1958 Wheelus radar case was attributed as likely weather phenomena and/or equipment malfunction. The 2025 Misrata light formation is marked as Starlink. These are not failures of the subject; they are examples of the sorting process that makes the remaining cases more meaningful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1953fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/580914tripoli_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">580914tripoli docs</span><span class="citation-popover-snippet">580914tripoli docs</span></span></span>
+**Debunked or conventionally explained:** The 1956 Wheelus radar case was officially concluded as aircraft, and the 14 September 1958 Wheelus radar case was attributed as likely weather phenomena and/or equipment malfunction. The 2025 Misrata light formation is marked as Starlink. These are not failures of the subject; they are examples of the sorting process that makes the remaining cases more meaningful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1953fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/580914tripoli_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">580914tripoli docs</span><span class="citation-popover-snippet">580914tripoli docs</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QV5rCP7uiaU" title="Starlink satellites light up night sky over Massachusetts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QV5rCP7uiaU" target="_blank" rel="noopener noreferrer">Starlink satellites light up night sky over Massachusetts</a></p><p class="youtube-embed-meta">Channel: WCVB Channel 5 Boston &middot; Views: 790.1K &middot; Uploaded: February 2023 &middot; Length: 1 minute 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QV5rCP7uiaU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QV5rCP7uiaU">Open on YouTube</a></p></div></div></div>
 
 ## Why modern Libya is difficult terrain for UFO verification
 
-Since 2011, Libya’s skies have also become a complicated environment for ordinary identification. Armed drones, surveillance aircraft, military aircraft, rockets, air-defence activity and satellite imagery all interact with public perception. During the 2019–2020 fighting around Tripoli, reporting by major outlets and conflict analysts described Libya as a major drone-war theatre, with Turkish Bayraktar TB2s and Chinese-made Wing Loong drones used by rival sides and their foreign backers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/news/2019/nov/27/libya-is-ground-zero-drones-on-frontline-in-bloody-civil-war" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Libya is ground zero&#x27;: drones on frontline in bloody civil war</span><span class="citation-popover-snippet">The Guardian&#x27;Libya is ground zero&#x27;: drones on frontline in bloody civil war</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aljazeera.com/news/2020/5/28/largest-drone-war-in-the-world-how-airpower-saved-tripoli" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aljazeera.com">[Al Jazeera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aljazeera.com</span><span class="citation-popover-title">largest drone war in the world how airpower saved tripoli</span><span class="citation-popover-snippet">largest drone war in the world how airpower saved tripoli</span></span></span>
+Since 2011, Libya’s skies have also become a complicated environment for ordinary identification. Armed drones, surveillance aircraft, military aircraft, rockets, air-defence activity and satellite imagery all interact with public perception. During the 2019–2020 fighting around Tripoli, reporting by major outlets and conflict analysts described Libya as a major drone-war theatre, with Turkish Bayraktar TB2s and Chinese-made Wing Loong drones used by rival sides and their foreign backers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/news/2019/nov/27/libya-is-ground-zero-drones-on-frontline-in-bloody-civil-war" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Libya is ground zero&#x27;: drones on frontline in bloody civil war</span><span class="citation-popover-snippet">The Guardian&#x27;Libya is ground zero&#x27;: drones on frontline in bloody civil war</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aljazeera.com/news/2020/5/28/largest-drone-war-in-the-world-how-airpower-saved-tripoli" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aljazeera.com">[Al Jazeera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aljazeera.com</span><span class="citation-popover-title">largest drone war in the world how airpower saved tripoli</span><span class="citation-popover-snippet">largest drone war in the world how airpower saved tripoli</span></span></span>
 
-This matters for UFO interpretation because “unidentified” in Libya often has a large pool of possible human-made [explanations]({{ 'explanations-8aa1b5/' | relative_url }}). A distant light may be a satellite, aircraft, drone, flare, missile, re-entry, searchlight reflection, atmospheric effect or military activity that ordinary witnesses cannot identify. The International Committee of the Red Cross’s case study on Libya notes concerns over autonomous weapon systems in the conflict, while other military-analysis sources point to heavy UAV losses and deployments. That does not explain every sighting, but it changes the baseline: Libya is not an empty-sky laboratory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://casebook.icrc.org/case-study/libya-use-lethal-autonomous-weapon-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casebook.icrc.org">[Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casebook.icrc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters for UFO interpretation because “unidentified” in Libya often has a large pool of possible human-made [explanations]({{ 'explanations-8aa1b5/' | relative_url }}). A distant light may be a satellite, aircraft, drone, flare, missile, re-entry, searchlight reflection, atmospheric effect or military activity that ordinary witnesses cannot identify. The International Committee of the Red Cross’s case study on Libya notes concerns over autonomous weapon systems in the conflict, while other military-analysis sources point to heavy UAV losses and deployments. That does not explain every sighting, but it changes the baseline: Libya is not an empty-sky laboratory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://casebook.icrc.org/case-study/libya-use-lethal-autonomous-weapon-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casebook.icrc.org">[Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casebook.icrc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The desert cuts both ways. Low humidity, broad horizons and dark skies can make astronomical and satellite phenomena more visible. But the same openness can make distance, size and speed extremely hard to judge. A light that looks close may be tens or hundreds of kilometres away; an object that appears to accelerate may be turning, fading into shadow, reflecting sunlight or being intermittently obscured by haze.
 
@@ -1259,13 +1259,13 @@ The desert cuts both ways. Low humidity, broad horizons and dark skies can make 
 
 The biggest weakness in the Libya file is not that every report is implausible; it is that too few reports come with enough independent data. Stronger cases normally include exact time, location, compass direction, elevation, duration, weather, aircraft checks, astronomical checks, satellite checks, radar records and multiple independent witnesses. Many Libya cases have only some of these.
 
-For Libya, reports are most credible when they meet at least three conditions: <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cLibya" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Libya</span><span class="citation-popover-snippet">Reports for Country Libya</span></span></span>
+For Libya, reports are most credible when they meet at least three conditions:<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=cLibya" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Libya</span><span class="citation-popover-snippet">Reports for Country Libya</span></span></span>
 
 * **They are contemporary.** A report filed days after an event is usually stronger than one filed years or decades later.
 * **They preserve original technical details.** The Wheelus radar forms are valuable because they record time groups, radar type, duration and official evaluation, even when the result is mundane.
 * **They can be checked against known sky traffic.** The Misrata case is weaker as an anomaly because the Starlink explanation is available and recorded in the database itself.
 
-Late reports can still be sincere. The 1989 desert oil-rig account, for example, describes a clear night, flat terrain and a bright red circular object that stopped, moved in a zigzag pattern and vanished quickly. But sincerity is not the same as verifiability. Without a precise site, independent witness statement, astronomical reconstruction or operational records from the area, it remains testimony rather than evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=3513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Late reports can still be sincere. The 1989 desert oil-rig account, for example, describes a clear night, flat terrain and a bright red circular object that stopped, moved in a zigzag pattern and vanished quickly. But sincerity is not the same as verifiability. Without a precise site, independent witness statement, astronomical reconstruction or operational records from the area, it remains testimony rather than evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=3513" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <img src="{{ "/assets/images/Libya_55949d-Illustration-3-dark.svg" | relative_url }}" alt="What Do Libya&#x27;s UFO Reports Really Show? illustration 3" data-theme-src-dark="{{ "/assets/images/Libya_55949d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Libya_55949d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Libya adds to the wider country-by-country UFO project
@@ -1281,194 +1281,194 @@ Libya’s UFO record is real but modest. The best-documented cases are Cold War 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8qNu1mXcHto" title="2025 Congressional Hearing on UAPs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8qNu1mXcHto" target="_blank" rel="noopener noreferrer">2025 Congressional Hearing on UAPs</a></p><p class="youtube-embed-meta">Channel: IFLScience &middot; Views: 44.9K &middot; Uploaded: September 2025 &middot; Length: 3 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8qNu1mXcHto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8qNu1mXcHto">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Libya&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Libya&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for Cold War-era Air Force sightings and analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for Cold War-era Air Force sightings and analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Libya&#x27;s best-known reports are linked to military reporting and Blue Book records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Libya&#x27;s best-known reports are linked to military reporting and Blue Book records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides analytical tools for assessing Libya&#x27;s sparse record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical tools for assessing Libya&#x27;s sparse record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
-        </h4>
-        <p class="fr-book-author">By Brad Steiger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=A3mBDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Blue Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book">Project Blue Book</a>
+</h4>
+<p class="fr-book-author">By Brad Steiger</p>
         
-        <p class="fr-book-desc">Directly connects to the archival framework behind Libya-linked cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to the archival framework behind Libya-linked cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Project+Blue+Book+by+Brad+Steiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-libya-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-libya-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1484,7 +1484,7 @@ Libya’s UFO record is real but modest. The best-documented cases are Cold War 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1504,7 +1504,7 @@ Libya’s UFO record is real but modest. The best-documented cases are Cold War 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1536,7 +1536,7 @@ Libya’s UFO record is real but modest. The best-documented cases are Cold War 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1588,7 +1588,7 @@ Libya’s UFO record is real but modest. The best-documented cases are Cold War 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1633,7 +1633,7 @@ Libya’s UFO record is real but modest. The best-documented cases are Cold War 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1671,244 +1671,243 @@ Libya’s UFO record is real but modest. The best-documented cases are Cold War 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports for Country Libya  
-   Link: <a href="https://nuforc.org/subndx/?id=cLibya" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cLibya</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cLibya" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cLibya</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nicap.org  
    Title: 580914tripoli docs  
-   Link: <a href="https://www.nicap.org/docs/580914tripoli_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/580914tripoli_docs.pdf</a>  
+   Link:<a href="https://www.nicap.org/docs/580914tripoli_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/580914tripoli_docs.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=189336" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189336</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=189336" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189336</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nicap.org  
    Title: 530211tunis report  
-   Link: <a href="https://www.nicap.org/reports/530211tunis_report.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/530211tunis_report.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/530211tunis_report.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/530211tunis_report.htm</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.org  
    Title: Internet Archive  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nicap.org  
    Title: 560124wheelus docs  
-   Link: <a href="https://www.nicap.org/docs/560124wheelus_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/560124wheelus_docs.pdf</a>  
+   Link:<a href="https://www.nicap.org/docs/560124wheelus_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/560124wheelus_docs.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=3513" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=3513</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=3513" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=3513</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/bluebooku58.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku58.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/htm/bluebooku58.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku58.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1959fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1959fullrep.htm</a>  
+   Link:<a href="https://www.nicap.org/chronos/1959fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1959fullrep.htm</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=33012" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=33012</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=33012" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=33012</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=38512" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=38512</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=38512" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=38512</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=189032" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189032</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=189032" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189032</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=191148" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191148</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=191148" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191148</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spacex.com  
    Title: Space XSpace X  
-   Link: <a href="https://www.spacex.com/updates" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/updates</a>  
+   Link:<a href="https://www.spacex.com/updates" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/updates</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spacex.com  
    Title: Space X  
-   Link: <a href="https://www.spacex.com/launches" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches</a>  
+   Link:<a href="https://www.spacex.com/launches" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spacex.com  
    Title: starship flight 11  
-   Link: <a href="https://www.spacex.com/launches/starship-flight-11" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches/starship-flight-11</a>  
+   Link:<a href="https://www.spacex.com/launches/starship-flight-11" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches/starship-flight-11</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spacex.com  
    Title: Space X  
-   Link: <a href="https://www.spacex.com/vehicles/dragon" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/vehicles/dragon</a>  
+   Link:<a href="https://www.spacex.com/vehicles/dragon" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/vehicles/dragon</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: spacex.com  
    Title: starship flight 10  
-   Link: <a href="https://www.spacex.com/launches/starship-flight-10" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches/starship-flight-10</a>  
+   Link:<a href="https://www.spacex.com/launches/starship-flight-10" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches/starship-flight-10</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/560124wheelus_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/560124wheelus_rep.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/560124wheelus_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/560124wheelus_rep.htm</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/reports/580914tripoli_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/580914tripoli_rep.htm</a>  
+   Link:<a href="https://www.nicap.org/reports/580914tripoli_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/580914tripoli_rep.htm</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/chronos/1953fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1953fullrep.htm</a>  
+   Link:<a href="https://www.nicap.org/chronos/1953fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1953fullrep.htm</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: groups.io  
-   Link: <a href="https://groups.io/g/CommCenter1/topic/project_blue_book_3_separate/27747423" target="_blank" rel="noopener noreferrer nofollow">https://groups.io/g/CommCenter1/topic/project_blue_book_3_separate/27747423</a>  
+   Link:<a href="https://groups.io/g/CommCenter1/topic/project_blue_book_3_separate/27747423" target="_blank" rel="noopener noreferrer nofollow">https://groups.io/g/CommCenter1/topic/project_blue_book_3_separate/27747423</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ia601409.us.archive.org  
    Title: Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993)  
-   Link: <a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
+   Link:<a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: history.state.gov  
    Title: Office of the Historian Historical Documents  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1969-76ve05p2/d60" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1969-76ve05p2/d60</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1969-76ve05p2/d60" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1969-76ve05p2/d60</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: history.state.gov  
    Title: Office of the Historian Historical Documents  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1964-68v24/d48" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1964-68v24/d48</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1964-68v24/d48" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1964-68v24/d48</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: theguardian.com  
    Title: The Guardian'Libya is ground zero': drones on frontline in bloody civil war  
-   Link: <a href="https://www.theguardian.com/news/2019/nov/27/libya-is-ground-zero-drones-on-frontline-in-bloody-civil-war" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/2019/nov/27/libya-is-ground-zero-drones-on-frontline-in-bloody-civil-war</a>  
+   Link:<a href="https://www.theguardian.com/news/2019/nov/27/libya-is-ground-zero-drones-on-frontline-in-bloody-civil-war" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/news/2019/nov/27/libya-is-ground-zero-drones-on-frontline-in-bloody-civil-war</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aljazeera.com  
    Title: largest drone war in the world how airpower saved tripoli  
-   Link: <a href="https://www.aljazeera.com/news/2020/5/28/largest-drone-war-in-the-world-how-airpower-saved-tripoli" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2020/5/28/largest-drone-war-in-the-world-how-airpower-saved-tripoli</a>  
+   Link:<a href="https://www.aljazeera.com/news/2020/5/28/largest-drone-war-in-the-world-how-airpower-saved-tripoli" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2020/5/28/largest-drone-war-in-the-world-how-airpower-saved-tripoli</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: casebook.icrc.org  
-   Link: <a href="https://casebook.icrc.org/case-study/libya-use-lethal-autonomous-weapon-systems" target="_blank" rel="noopener noreferrer nofollow">https://casebook.icrc.org/case-study/libya-use-lethal-autonomous-weapon-systems</a>  
+   Link:<a href="https://casebook.icrc.org/case-study/libya-use-lethal-autonomous-weapon-systems" target="_blank" rel="noopener noreferrer nofollow">https://casebook.icrc.org/case-study/libya-use-lethal-autonomous-weapon-systems</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/211497820250134/posts/1339808447419060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211497820250134/posts/1339808447419060/</a>  
+   Link:<a href="https://www.facebook.com/groups/211497820250134/posts/1339808447419060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/211497820250134/posts/1339808447419060/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/267034685236008/posts/670256858247120/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/267034685236008/posts/670256858247120/</a>  
+   Link:<a href="https://www.facebook.com/groups/267034685236008/posts/670256858247120/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/267034685236008/posts/670256858247120/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1645105002623561/posts/2286417831825605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1645105002623561/posts/2286417831825605/</a>  
+   Link:<a href="https://www.facebook.com/groups/1645105002623561/posts/2286417831825605/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1645105002623561/posts/2286417831825605/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/573640342181301/posts/783694467842553/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/573640342181301/posts/783694467842553/</a>  
+   Link:<a href="https://www.facebook.com/groups/573640342181301/posts/783694467842553/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/573640342181301/posts/783694467842553/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: Wikipedia  
    Title: Wheelus Air Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Wheelus_Air_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wheelus_Air_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Wheelus_Air_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wheelus_Air_Base</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: hrw.org  
-   Link: <a href="https://www.hrw.org/world-report/2020/country-chapters/libya" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2020/country-chapters/libya</a>  
+   Link:<a href="https://www.hrw.org/world-report/2020/country-chapters/libya" target="_blank" rel="noopener noreferrer nofollow">https://www.hrw.org/world-report/2020/country-chapters/libya</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: blog.nationalarchives.gov.uk  
-   Link: <a href="https://blog.nationalarchives.gov.uk/tag/libya/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nationalarchives.gov.uk/tag/libya/</a>  
+   Link:<a href="https://blog.nationalarchives.gov.uk/tag/libya/" target="_blank" rel="noopener noreferrer nofollow">https://blog.nationalarchives.gov.uk/tag/libya/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
+   Link:<a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
 
 ### Additional References
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/historical-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/historical-collections</a>  
+   Link:<a href="https://www.cia.gov/readingroom/historical-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/historical-collections</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lyobserver/posts/nasa-releases-striking-satellite-image-of-arkanu-mountain-in-libyas-desert/1418986643605946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lyobserver/posts/nasa-releases-striking-satellite-image-of-arkanu-mountain-in-libyas-desert/1418986643605946/</a>  
+   Link:<a href="https://www.facebook.com/lyobserver/posts/nasa-releases-striking-satellite-image-of-arkanu-mountain-in-libyas-desert/1418986643605946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lyobserver/posts/nasa-releases-striking-satellite-image-of-arkanu-mountain-in-libyas-desert/1418986643605946/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: gettyimages.co.uk  
-   Link: <a href="https://www.gettyimages.co.uk/photos/wheelus-air-base" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/photos/wheelus-air-base</a>  
+   Link:<a href="https://www.gettyimages.co.uk/photos/wheelus-air-base" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.co.uk/photos/wheelus-air-base</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/air-force-alert-for-ufo/</a>  
+   Link:<a href="https://www.portugalresident.com/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/air-force-alert-for-ufo/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
+   Link:<a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1smqwnp/can_anyone_explain_what_this_was_starlink_or_any/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1smqwnp/can_anyone_explain_what_this_was_starlink_or_any/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1smqwnp/can_anyone_explain_what_this_was_starlink_or_any/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1smqwnp/can_anyone_explain_what_this_was_starlink_or_any/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: publications.gc.ca  
-   Link: <a href="https://publications.gc.ca/collections/collection_2012/dn-nd/D4-7-3-2011-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2012/dn-nd/D4-7-3-2011-eng.pdf</a>  
+   Link:<a href="https://publications.gc.ca/collections/collection_2012/dn-nd/D4-7-3-2011-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.gc.ca/collections/collection_2012/dn-nd/D4-7-3-2011-eng.pdf</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/CompanyOfHeroes/comments/1by5r6q/erwin_rommel_discovered_a_crashed_ufo_in_libya/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CompanyOfHeroes/comments/1by5r6q/erwin_rommel_discovered_a_crashed_ufo_in_libya/</a>
+   Link:<a href="https://www.reddit.com/r/CompanyOfHeroes/comments/1by5r6q/erwin_rommel_discovered_a_crashed_ufo_in_libya/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CompanyOfHeroes/comments/1by5r6q/erwin_rommel_discovered_a_crashed_ufo_in_libya/</a>

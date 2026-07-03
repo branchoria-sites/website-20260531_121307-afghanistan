@@ -254,35 +254,35 @@ image: /assets/images/Myanmar_928b7c_rural_strange_lights_d881d1-Illustration-1-
 
 ## Introduction
 
-In rural parts of **Myanmar**, particularly around towns like **Pyay** in the Bago Region and villages near **Pyinmana**, reports of unusual lights in the night sky have moved beyond mere eyewitness stories to become part of local lore. These “strange lights” — brief bright or hovering glows, erratic flashes, or unexplained aerial shapes — are rarely documented in formal records but circulate widely through personal testimony, oral memory, and folkloric interpretation. In the absence of scientific investigation or official data, such accounts blend environmental observation with cultural narrative, offering insight into how rural communities interpret ambiguous sky phenomena and integrate them into local belief systems. This page examines these Pyay‑area reports and the broader patterns of rural strange‑light folklore within **Myanmar’s** aerial mystery discourse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
+In rural parts of **Myanmar**, particularly around towns like **Pyay** in the Bago Region and villages near **Pyinmana**, reports of unusual lights in the night sky have moved beyond mere eyewitness stories to become part of local lore. These “strange lights” — brief bright or hovering glows, erratic flashes, or unexplained aerial shapes — are rarely documented in formal records but circulate widely through personal testimony, oral memory, and folkloric interpretation. In the absence of scientific investigation or official data, such accounts blend environmental observation with cultural narrative, offering insight into how rural communities interpret ambiguous sky phenomena and integrate them into local belief systems. This page examines these Pyay‑area reports and the broader patterns of rural strange‑light folklore within **Myanmar’s** aerial mystery discourse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
 
 <img src="{{ "/assets/images/Myanmar_928b7c_rural_strange_lights_d881d1-Illustration-1-dark.svg" | relative_url }}" alt="Rural Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Myanmar_928b7c_rural_strange_lights_d881d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myanmar_928b7c_rural_strange_lights_d881d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Pyay’s Recurring Strange‑Light Stories
 
-Residents of the riverside town of **Pyay** have long spoken of unusual sky sightings that defy easy explanation. Earliest reports go back at least to the mid‑2000s, when locals described bright, round objects appearing overhead and emitting unusual visual characteristics or sounds. According to regional summaries, a 2006 sighting featured a large, luminous object hovering above the town; subsequent reports in 2009 and 2012 describe groups of lights or a giant shining object in the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
+Residents of the riverside town of **Pyay** have long spoken of unusual sky sightings that defy easy explanation. Earliest reports go back at least to the mid‑2000s, when locals described bright, round objects appearing overhead and emitting unusual visual characteristics or sounds. According to regional summaries, a 2006 sighting featured a large, luminous object hovering above the town; subsequent reports in 2009 and 2012 describe groups of lights or a giant shining object in the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
 
-These narratives have persisted over years, despite lacking scientific investigation or corroborating measurement. Stories tend to describe lights that seem to “hover” or form formations not immediately associated with conventional aircraft — yet they rarely offer sufficient detail for conclusive classification. The lack of formal investigation leaves these reports in a space between anecdote and folklore, with interpretations ranging from extraterrestrial visitations to misidentified natural or human‑made phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
+These narratives have persisted over years, despite lacking scientific investigation or corroborating measurement. Stories tend to describe lights that seem to “hover” or form formations not immediately associated with conventional aircraft — yet they rarely offer sufficient detail for conclusive classification. The lack of formal investigation leaves these reports in a space between anecdote and folklore, with interpretations ranging from extraterrestrial visitations to misidentified natural or human‑made phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
 
-Importantly, these Pyay accounts are part of local memory rather than institutional archives. They surface in community discussions and regional pages rather than official government or scientific sources, and they frequently resurface in communal conversation long after the sighting is said to have occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
+Importantly, these Pyay accounts are part of local memory rather than institutional archives. They surface in community discussions and regional pages rather than official government or scientific sources, and they frequently resurface in communal conversation long after the sighting is said to have occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u2XHhLVkcQk" title="MYANMAR: The World’s Most Mysterious Country | Travel Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u2XHhLVkcQk" target="_blank" rel="noopener noreferrer">MYANMAR: The World’s Most Mysterious Country | Travel Documentary</a></p><p class="youtube-embed-meta">Channel: Nations Uncovered &middot; Views: 93.8K &middot; Uploaded: April 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u2XHhLVkcQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u2XHhLVkcQk">Open on YouTube</a></p></div></div></div>
 
 ## Village Accounts Near Pyinmana
 
-To the north of Pyay, in the vicinity of **Pyinmana** — now part of the greater **Nay Pyi Taw** administration — villagers also recount sightings of mysterious aerial lights. Regional narratives describe bright lights that appear suddenly in the night sky, move in unexpected ways, or vanish without an obvious source. The accounts, shared informally online and locally, often coincide with the backdrop of political and military tension in the region, which has coloured how witnesses interpret ambiguous luminescence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
+To the north of Pyay, in the vicinity of **Pyinmana** — now part of the greater **Nay Pyi Taw** administration — villagers also recount sightings of mysterious aerial lights. Regional narratives describe bright lights that appear suddenly in the night sky, move in unexpected ways, or vanish without an obvious source. The accounts, shared informally online and locally, often coincide with the backdrop of political and military tension in the region, which has coloured how witnesses interpret ambiguous luminescence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
 
-In these rural settings, descriptions range from silent glowing objects to rapid, erratic movement patterns. Without official explanation, some villagers hypothesise that these could be advanced aircraft or military technology, reflecting the contemporary context of heightened armed presence. Others — reflecting the longer history of unseen aerial phenomena in folklore — entertain more otherworldly interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
+In these rural settings, descriptions range from silent glowing objects to rapid, erratic movement patterns. Without official explanation, some villagers hypothesise that these could be advanced aircraft or military technology, reflecting the contemporary context of heightened armed presence. Others — reflecting the longer history of unseen aerial phenomena in folklore — entertain more otherworldly interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
 
-The scarcity of empirical evidence means that these stories remain anecdotal: they are rarely corroborated by multiple observers, and they seldom appear in formal databases such as those maintained by aviation authorities or organised UFO research groups. Yet they persist in local storytelling, suggesting a deeper cultural engagement with the night sky and its enigmatic visual phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
+The scarcity of empirical evidence means that these stories remain anecdotal: they are rarely corroborated by multiple observers, and they seldom appear in formal databases such as those maintained by aviation authorities or organised UFO research groups. Yet they persist in local storytelling, suggesting a deeper cultural engagement with the night sky and its enigmatic visual phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
 
 <img src="{{ "/assets/images/Myanmar_928b7c_rural_strange_lights_d881d1-Illustration-2-dark.svg" | relative_url }}" alt="Rural Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Myanmar_928b7c_rural_strange_lights_d881d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myanmar_928b7c_rural_strange_lights_d881d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Folklore, Memory, and Local Interpretation
 
-Across rural **Myanmar**, unexplained lights in the sky are often folded into broader cultural frameworks that do not separate the observed phenomenon from mythology or spiritual meaning. While the specific Pyay and Pyinmana accounts lack detailed ethnographic study, they resonate with global folklore patterns in which ambiguous lights — such as Europe’s *will‑o’‑the‑wisp* or Southeast Asia’s river‑associated *fireballs* — are interpreted through mythic lenses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Will-o%27-the-wisp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Across rural **Myanmar**, unexplained lights in the sky are often folded into broader cultural frameworks that do not separate the observed phenomenon from mythology or spiritual meaning. While the specific Pyay and Pyinmana accounts lack detailed ethnographic study, they resonate with global folklore patterns in which ambiguous lights — such as Europe’s *will‑o’‑the‑wisp* or Southeast Asia’s river‑associated *fireballs* — are interpreted through mythic lenses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Will-o%27-the-wisp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-In other parts of Asia, for example, mysterious marsh or river lights have been woven into traditional belief systems, cast as spirits or elemental beings rather than purely natural phenomena. Although Myanmar has its own distinct mythic figures and beliefs, the general mechanism of explaining the unexplained through culturally available narratives is common. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Will-o%27-the-wisp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In other parts of Asia, for example, mysterious marsh or river lights have been woven into traditional belief systems, cast as spirits or elemental beings rather than purely natural phenomena. Although Myanmar has its own distinct mythic figures and beliefs, the general mechanism of explaining the unexplained through culturally available narratives is common.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Will-o%27-the-wisp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-In rural villages, elders often recount sky mysteries alongside tales of spirits, ancestors, and natural omens, making unclear aerial lights part of a broader tapestry of folklore that serves to interpret the unpredictable world. Without official investigation or scientific measurement, these interpretations fill an explanatory void — framing unexplained lights as either portentous events or interactions with the unseen realms of local belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Will-o%27-the-wisp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In rural villages, elders often recount sky mysteries alongside tales of spirits, ancestors, and natural omens, making unclear aerial lights part of a broader tapestry of folklore that serves to interpret the unpredictable world. Without official investigation or scientific measurement, these interpretations fill an explanatory void — framing unexplained lights as either portentous events or interactions with the unseen realms of local belief.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Will-o%27-the-wisp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yaKK38eiP_s" title="The TRUE Ghost Stories of Myanmar (Real &amp; Terrifying)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yaKK38eiP_s" target="_blank" rel="noopener noreferrer">The TRUE Ghost Stories of Myanmar (Real &amp; Terrifying)</a></p><p class="youtube-embed-meta">Channel: The Glymp &middot; Views: 7.6K &middot; Uploaded: July 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yaKK38eiP_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yaKK38eiP_s">Open on YouTube</a></p></div></div></div>
 
@@ -290,199 +290,199 @@ In rural villages, elders often recount sky mysteries alongside tales of spirits
 
 ## Summary: Between Sky and Story
 
-The strange‑light accounts from **Pyay** and surrounding rural areas like **Pyinmana** reflect how ambiguous sky phenomena are processed socially and culturally in parts of **Myanmar**. In the absence of formal observation or scientific verification, these reports have become embedded in local memory and narrative, evolving into a form of living folklore. They speak less to confirmed anomalous physics than to how communities make sense of unusual environmental experiences — blending observation with existing stories, beliefs, and collective imagination. This rural strange‑light folklore stands as a complementary dimension to Myanmar’s broader UFO discourse, anchoring it in lived memory and cultural interpretation rather than measured evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
+The strange‑light accounts from **Pyay** and surrounding rural areas like **Pyinmana** reflect how ambiguous sky phenomena are processed socially and culturally in parts of **Myanmar**. In the absence of formal observation or scientific verification, these reports have become embedded in local memory and narrative, evolving into a form of living folklore. They speak less to confirmed anomalous physics than to how communities make sense of unusual environmental experiences — blending observation with existing stories, beliefs, and collective imagination. This rural strange‑light folklore stands as a complementary dimension to Myanmar’s broader UFO discourse, anchoring it in lived memory and cultural interpretation rather than measured evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insightmyanmar.org">[Insight Myanmar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insightmyanmar.org</span><span class="citation-popover-title">Insight Myanmar UFOs in Pyay — Insight Myanmar</span><span class="citation-popover-snippet">Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</span><span class="citation-popover-meta">Published: November 6, 2022</span></span></span>
 
 <img src="{{ "/assets/images/Myanmar_928b7c_rural_strange_lights_d881d1-Illustration-3-dark.svg" | relative_url }}" alt="Rural Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Myanmar_928b7c_rural_strange_lights_d881d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myanmar_928b7c_rural_strange_lights_d881d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Rural Sky Lights Become Legends?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Rural Sky Lights Become Legends?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly relevant to rural light legends, oral traditions, and folklore transmission.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to rural light legends, oral traditions, and folklore transmission.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
         
-        <p class="fr-book-desc">Places local strange-light traditions into a long historical record.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places local strange-light traditions into a long historical record.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides analytical tools for assessing recurring witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides analytical tools for assessing recurring witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8004248-M.jpg" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dimensions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8004248-M.jpg" alt="Cover for Dimensions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Unidentified flying objects, Alien abduction, Human-alien encounters, Sightings and encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Unidentified flying objects, Alien abduction, Human-alien encounters, Sightings and encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-rural-sky-lights-become-legends-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-rural-sky-lights-become-legends-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -498,7 +498,7 @@ The strange‑light accounts from **Pyay** and surrounding rural areas like **Py
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -518,7 +518,7 @@ The strange‑light accounts from **Pyay** and surrounding rural areas like **Py
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -550,7 +550,7 @@ The strange‑light accounts from **Pyay** and surrounding rural areas like **Py
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -602,7 +602,7 @@ The strange‑light accounts from **Pyay** and surrounding rural areas like **Py
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -647,7 +647,7 @@ The strange‑light accounts from **Pyay** and surrounding rural areas like **Py
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -685,89 +685,88 @@ The strange‑light accounts from **Pyay** and surrounding rural areas like **Py
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: insightmyanmar.org  
    Title: Insight Myanmar UFOs in Pyay — Insight Myanmar  
-   Link: <a href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow">https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</p></details>
+   Link:<a href="https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay" target="_blank" rel="noopener noreferrer nofollow">https://insightmyanmar.org/all-about-burma/2022/11/6/ufos-in-pyay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insight MyanmarUFOs in Pyay — Insight MyanmarNovember 6, 2022...</p></details>
    Published: November 6, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: insightmyanmar.org  
    Title: Insight Myanmar The Skies Above Pyinmana — Insight Myanmar  
-   Link: <a href="https://insightmyanmar.org/all-about-burma/2024/9/5/the-skies-above-pyinmana" target="_blank" rel="noopener noreferrer nofollow">https://insightmyanmar.org/all-about-burma/2024/9/5/the-skies-above-pyinmana</a>  
+   Link:<a href="https://insightmyanmar.org/all-about-burma/2024/9/5/the-skies-above-pyinmana" target="_blank" rel="noopener noreferrer nofollow">https://insightmyanmar.org/all-about-burma/2024/9/5/the-skies-above-pyinmana</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Will-o%27-the-wisp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Will-o%27-the-wisp</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Will-o%27-the-wisp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Will-o%27-the-wisp</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=194067" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194067</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 194067November 15, 2025 — NUFORC UFO SIGHTING 194067 Occurred: 2025-10-21 21:15 Local - Approximate Reported: 2025-11...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=194067" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194067</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 194067November 15, 2025 — NUFORC UFO SIGHTING 194067 Occurred: 2025-10-21 21:15 Local - Approximate Reported: 2025-11...</p></details>
    Published: October 21, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: en.wikipedia-on-ipfs.org  
-   Link: <a href="https://en.wikipedia-on-ipfs.org/wiki/Pyinmana_Township" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia-on-ipfs.org/wiki/Pyinmana_Township</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TownshipPYINMANA TOWNSHIP Pyinmana Township (Burmese: ပျဉ်းမနားမြို့နယ်) is one of eight townships of Naypyidaw Union Territory, Burma...</p></details>
+   Link:<a href="https://en.wikipedia-on-ipfs.org/wiki/Pyinmana_Township" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia-on-ipfs.org/wiki/Pyinmana_Township</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TownshipPYINMANA TOWNSHIP Pyinmana Township (Burmese: ပျဉ်းမနားမြို့နယ်) is one of eight townships of Naypyidaw Union Territory, Burma...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: papawadyresort.com  
-   Link: <a href="https://www.papawadyresort.com/maw-tin-soon-the-place-where-sea-and-bay-meet/" target="_blank" rel="noopener noreferrer nofollow">https://www.papawadyresort.com/maw-tin-soon-the-place-where-sea-and-bay-meet/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maw Tin Soon, The Place Where Sea and Bay Meet – Papawady Resort – Maw Tin SoonPapawady Resort – Maw Tin Soon 1st Branded Accommodation I...</p></details>
+   Link:<a href="https://www.papawadyresort.com/maw-tin-soon-the-place-where-sea-and-bay-meet/" target="_blank" rel="noopener noreferrer nofollow">https://www.papawadyresort.com/maw-tin-soon-the-place-where-sea-and-bay-meet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maw Tin Soon, The Place Where Sea and Bay Meet – Papawady Resort – Maw Tin SoonPapawady Resort – Maw Tin Soon 1st Branded Accommodation I...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: amca.art  
-   Link: <a href="https://www.amca.art/southern-shan-assets/shn023" target="_blank" rel="noopener noreferrer nofollow">https://www.amca.art/southern-shan-assets/shn023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pindaya Shwe Oo Min Pagoda — AMCAPINDAYA SHWE OO MIN PAGODA ShanSculpturesTraditional Artworks Sep 25 Written By AMCA Myanmar Myanmar Nam...</p></details>
+   Link:<a href="https://www.amca.art/southern-shan-assets/shn023" target="_blank" rel="noopener noreferrer nofollow">https://www.amca.art/southern-shan-assets/shn023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pindaya Shwe Oo Min Pagoda — AMCAPINDAYA SHWE OO MIN PAGODA ShanSculpturesTraditional Artworks Sep 25 Written By AMCA Myanmar Myanmar Nam...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: amca.art  
-   Link: <a href="https://www.amca.art/southern-shan-assets/shn001" target="_blank" rel="noopener noreferrer nofollow">https://www.amca.art/southern-shan-assets/shn001</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shwe Inn Tain Pagoda Complex — AMCASHWE INN TAIN PAGODA COMPLEX ShanArchitecture and Furniture Sep 25 Written By AMCA Myanmar Myanmar Nam...</p></details>
+   Link:<a href="https://www.amca.art/southern-shan-assets/shn001" target="_blank" rel="noopener noreferrer nofollow">https://www.amca.art/southern-shan-assets/shn001</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shwe Inn Tain Pagoda Complex — AMCASHWE INN TAIN PAGODA COMPLEX ShanArchitecture and Furniture Sep 25 Written By AMCA Myanmar Myanmar Nam...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.teknopedia.teknokrat.ac.id  
-   Link: <a href="https://en.teknopedia.teknokrat.ac.id/wiki/Pyinmana_Township" target="_blank" rel="noopener noreferrer nofollow">https://en.teknopedia.teknokrat.ac.id/wiki/Pyinmana_Township</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TownshipPyinmana Township Coordinates: 19°45′N 96°12′E / 19.750°N 96.200°E Pyinmana Township ပျဉ်းမနားမြို့နယ် --- Township Pyinmana Town...</p></details>
+   Link:<a href="https://en.teknopedia.teknokrat.ac.id/wiki/Pyinmana_Township" target="_blank" rel="noopener noreferrer nofollow">https://en.teknopedia.teknokrat.ac.id/wiki/Pyinmana_Township</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TownshipPyinmana Township Coordinates: 19°45′N 96°12′E / 19.750°N 96.200°E Pyinmana Township ပျဉ်းမနားမြို့နယ် --- Township Pyinmana Town...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: everything.explained.today  
-   Link: <a href="https://everything.explained.today/Naga_fireball/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Naga_fireball/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fireball explainedNAGA FIREBALL EXPLAINED Naga fireballs (th|บั้งไฟพญานาค;), also known as bung fai phaya nak or &quot;Mekong lights&quot; and form...</p></details>
+   Link:<a href="https://everything.explained.today/Naga_fireball/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Naga_fireball/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fireball explainedNAGA FIREBALL EXPLAINED Naga fireballs (th|บั้งไฟพญานาค;), also known as bung fai phaya nak or &quot;Mekong lights&quot; and form...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mizzima.com  
-   Link: <a href="https://www.mizzima.com/culture-features/pyay-payas-pilgrims-and-pyu-civilisation-ruins" target="_blank" rel="noopener noreferrer nofollow">https://www.mizzima.com/culture-features/pyay-payas-pilgrims-and-pyu-civilisation-ruins</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 26, 2015 — PYAY: PAYAS, PILGRIMS AND PYU CIVILISATION RUINS Lifestyle Features By Matt Roebuck 26 February 2015 Pyay: Payas, pil...</p></details>
+   Link:<a href="https://www.mizzima.com/culture-features/pyay-payas-pilgrims-and-pyu-civilisation-ruins" target="_blank" rel="noopener noreferrer nofollow">https://www.mizzima.com/culture-features/pyay-payas-pilgrims-and-pyu-civilisation-ruins</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 26, 2015 — PYAY: PAYAS, PILGRIMS AND PYU CIVILISATION RUINS Lifestyle Features By Matt Roebuck 26 February 2015 Pyay: Payas, pil...</p></details>
    Published: February 26, 2015  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencetimes.com  
    Title: naga fireballs explained understanding thailand s mysterious blobs rising mekong  
-   Link: <a href="https://www.sciencetimes.com/articles/47637/20231213/naga-fireballs-explained-understanding-thailand-s-mysterious-blobs-rising-mekong.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/47637/20231213/naga-fireballs-explained-understanding-thailand-s-mysterious-blobs-rising-mekong.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naga Fireballs Explained: Understanding Thailand’s Mysterious Blobs Rising From the Mekong RiverDecember 13, 2023 — NAGA FIREBALLS EXPLAI...</p></details>
+   Link:<a href="https://www.sciencetimes.com/articles/47637/20231213/naga-fireballs-explained-understanding-thailand-s-mysterious-blobs-rising-mekong.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/47637/20231213/naga-fireballs-explained-understanding-thailand-s-mysterious-blobs-rising-mekong.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naga Fireballs Explained: Understanding Thailand’s Mysterious Blobs Rising From the Mekong RiverDecember 13, 2023 — NAGA FIREBALLS EXPLAI...</p></details>
    Published: December 13, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mmbiztoday.com  
    Title: Villages Get Electricity from $2.6 Million Solar Plant | Myanmar Business Today  
-   Link: <a href="https://mmbiztoday.com/villages-get-electricity-from-2-6-million-solar-plant/" target="_blank" rel="noopener noreferrer nofollow">https://mmbiztoday.com/villages-get-electricity-from-2-6-million-solar-plant/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 16, 2020 — VILLAGES GET ELECTRICITY FROM $2.6 MILLION SOLAR PLANT By Ei Thandar Tun January 16, 2020 454 Image: 12 Eight villages...</p></details>
+   Link:<a href="https://mmbiztoday.com/villages-get-electricity-from-2-6-million-solar-plant/" target="_blank" rel="noopener noreferrer nofollow">https://mmbiztoday.com/villages-get-electricity-from-2-6-million-solar-plant/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 16, 2020 — VILLAGES GET ELECTRICITY FROM $2.6 MILLION SOLAR PLANT By Ei Thandar Tun January 16, 2020 454 Image: 12 Eight villages...</p></details>
    Published: January 16, 2020  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: visitkayin.com  
-   Link: <a href="https://visitkayin.com/index.php/en/destination/saddan-cave" target="_blank" rel="noopener noreferrer nofollow">https://visitkayin.com/index.php/en/destination/saddan-cave</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saddan CaveImage: saddan cave The Saddan Cave is one of the significant caves which are rich in Buddhist art and architecture...</p></details>
+   Link:<a href="https://visitkayin.com/index.php/en/destination/saddan-cave" target="_blank" rel="noopener noreferrer nofollow">https://visitkayin.com/index.php/en/destination/saddan-cave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saddan CaveImage: saddan cave The Saddan Cave is one of the significant caves which are rich in Buddhist art and architecture...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=u2XHhLVkcQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u2XHhLVkcQk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Myanmar&#x27;s most breathtaking wonders from its golden temples shimmering under the sun to the serene beauty woven throughout its lan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u2XHhLVkcQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u2XHhLVkcQk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Myanmar&#x27;s most breathtaking wonders from its golden temples shimmering under the sun to the serene beauty woven throughout its lan...</p></details>

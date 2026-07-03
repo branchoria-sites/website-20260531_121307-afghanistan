@@ -1194,23 +1194,23 @@ image: /assets/images/Mauritania_85fa35-overview-social.jpg
 
 ## Minimal Sightings Records and Database Listings
 
-Independent UFO reporting platforms that aggregate global sightings often do not list **any formal incidents from Mauritania**. For example, the UFO Hunters sightings map (which compiles reports submitted by users worldwide) currently shows *no sightings reported for Mauritania* in its database, despite listing thousands of cases for other countries and territories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/country/MRT/Mauritania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Mauritania</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Mauritania - UFO Hunters...</span></span></span>
+Independent UFO reporting platforms that aggregate global sightings often do not list **any formal incidents from Mauritania**. For example, the UFO Hunters sightings map (which compiles reports submitted by users worldwide) currently shows *no sightings reported for Mauritania* in its database, despite listing thousands of cases for other countries and territories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-hunters.com/sightings/country/MRT/Mauritania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in Mauritania</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in Mauritania - UFO Hunters...</span></span></span>
 
 <img src="{{ "/assets/images/Mauritania_85fa35-overview.webp" | relative_url }}" alt="Overview image for Why Are Mauritania&#x27;s UFO Records So Sparse?" loading="eager" decoding="sync" fetchpriority="high">
-Similarly, widely used crowdsourced repositories (such as UAP Monitor or Enigma Labs’ databases) provide extensive global datasets of aerial phenomena, but **do not single out confirmed or detailed sightings tied to Mauritania**, suggesting either an absence of widespread reporting or low participation from witnesses in the country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapmonitor.org">[UAP Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapmonitor.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Similarly, widely used crowdsourced repositories (such as UAP Monitor or Enigma Labs’ databases) provide extensive global datasets of aerial phenomena, but **do not single out confirmed or detailed sightings tied to Mauritania**, suggesting either an absence of widespread reporting or low participation from witnesses in the country.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapmonitor.org">[UAP Monitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapmonitor.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That absence is meaningful in itself: while sporadic or local reports might exist informally, **no mindful chronological record or catalogue of verified sightings is publicly accessible for Mauritania** in major UFO/UAP databases or historical compilations.
 
 ## Anecdotal Claims and Peripheral Mentions
 
-While formal sightings data is weak or nonexistent, some **UFO interest groups** and fringe reporting sites have pages or forums inviting Mauritanians to submit accounts of sightings or encounters. Such pages typically mirror global appeal language (calling on local witnesses to “share experiences of otherworldly craft”) but **do not document specific, vetted cases** with date, location, and corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/mauritania-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">mauritania ufo sightings</span><span class="citation-popover-snippet">and Experience Reports22 Mar 2025 — We are working as quickly as possible to add all received Mauritania UFO and alien contact experience...</span></span></span>
+While formal sightings data is weak or nonexistent, some **UFO interest groups** and fringe reporting sites have pages or forums inviting Mauritanians to submit accounts of sightings or encounters. Such pages typically mirror global appeal language (calling on local witnesses to “share experiences of otherworldly craft”) but **do not document specific, vetted cases** with date, location, and corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/mauritania-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">mauritania ufo sightings</span><span class="citation-popover-snippet">and Experience Reports22 Mar 2025 — We are working as quickly as possible to add all received Mauritania UFO and alien contact experience...</span></span></span>
 
 These kinds of sites characteristically **amalgamate generic narratives and appeal to visitor submissions**, rather than offer independently verified incidents. They **do not provide evidence of specific events in Mauritania** that meet established criteria for UFO research (e.g., multiple corroborated observations, radar data, official documentation, or physical traces).
 
 <img src="{{ "/assets/images/Mauritania_85fa35-Illustration-1-dark.svg" | relative_url }}" alt="Why Are Mauritania&#x27;s UFO Records So Sparse? illustration 1" data-theme-src-dark="{{ "/assets/images/Mauritania_85fa35-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritania_85fa35-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historical Region-Level Mentions in Intelligence Records
 
-Widening the lens to **North and West Africa during the early Cold War**, declassified intelligence archives occasionally mention aerial UAP reports across the broader region, including **Mauritania among neighbouring territories such as Morocco and Senegal**, dating back to the early 1950s. These summaries describe **luminous or unusual aerial craft seen by military and aviation personnel**, but do not provide detailed case files specifically tied to Mauritanian territory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unredacted.info/cia-files/cia-files-reveal-african-aerial-uap-mysteries-of-the-cold-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unredacted.info">[Unredacted.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unredacted.info</span><span class="citation-popover-title">CI A Files Reveal African Aerial UAP Mysteries of the Cold War</span><span class="citation-popover-snippet">CIA Files Reveal African Aerial UAP Mysteries of the Cold War - Unredacted.infoMay 12, 2025...</span><span class="citation-popover-meta">Published: May 12, 2025</span></span></span>
+Widening the lens to **North and West Africa during the early Cold War**, declassified intelligence archives occasionally mention aerial UAP reports across the broader region, including **Mauritania among neighbouring territories such as Morocco and Senegal**, dating back to the early 1950s. These summaries describe **luminous or unusual aerial craft seen by military and aviation personnel**, but do not provide detailed case files specifically tied to Mauritanian territory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unredacted.info/cia-files/cia-files-reveal-african-aerial-uap-mysteries-of-the-cold-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unredacted.info">[Unredacted.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unredacted.info</span><span class="citation-popover-title">CI A Files Reveal African Aerial UAP Mysteries of the Cold War</span><span class="citation-popover-snippet">CIA Files Reveal African Aerial UAP Mysteries of the Cold War - Unredacted.infoMay 12, 2025...</span><span class="citation-popover-meta">Published: May 12, 2025</span></span></span>
 
 Such documents illustrate that reports of unexplained sightings were observed globally in eras when aerial technology was rapidly evolving and flight tracking was less comprehensive—but they do **not constitute verified national records** for Mauritania itself.
 
@@ -1220,8 +1220,8 @@ Such documents illustrate that reports of unexplained sightings were observed gl
 
 Mauritania contains distinctive geological and meteorite-related features that occasionally intersect with UFO and unexplained phenomena narratives—but they are not UFO sightings in themselves:
 
-* The **Chinguetti meteorite** is a longstanding mystery in scientific literature, arising from a claimed 1916 discovery of a massive iron-rich rock near Chinguetti. While intriguing, subsequent expeditions have failed to locate the alleged formation, and the original fragment has been judged inconsistent with a truly enormous body. Scientifically, the find remains **unverified as an impact relic or extraterrestrial anomaly**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chinguetti_meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chinguetti meteorite</span><span class="citation-popover-snippet">Chinguetti meteorite</span></span></span>
-* The **Richat Structure (“Eye of the Sahara”)** is a striking concentric geological formation visible from space that has engendered UFO-themed speculation in popular media due to its striking appearance. However, geological evidence shows it to be a natural **erosional anticline**, not an impact crater or extraterrestrial construct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/bulls-eye-the-richat-structure-mauritania-9262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science“Bull’s Eye” — The Richat Structure, Mauritania</span><span class="citation-popover-snippet">NASA Science“Bull’s Eye” — The Richat Structure, Mauritania - NASA ScienceMarch 12, 2002...</span><span class="citation-popover-meta">Published: March 12, 2002</span></span></span>
+* The **Chinguetti meteorite** is a longstanding mystery in scientific literature, arising from a claimed 1916 discovery of a massive iron-rich rock near Chinguetti. While intriguing, subsequent expeditions have failed to locate the alleged formation, and the original fragment has been judged inconsistent with a truly enormous body. Scientifically, the find remains **unverified as an impact relic or extraterrestrial anomaly**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chinguetti_meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chinguetti meteorite</span><span class="citation-popover-snippet">Chinguetti meteorite</span></span></span>
+* The **Richat Structure (“Eye of the Sahara”)** is a striking concentric geological formation visible from space that has engendered UFO-themed speculation in popular media due to its striking appearance. However, geological evidence shows it to be a natural **erosional anticline**, not an impact crater or extraterrestrial construct.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/earth/earth-observatory/bulls-eye-the-richat-structure-mauritania-9262" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science“Bull’s Eye” — The Richat Structure, Mauritania</span><span class="citation-popover-snippet">NASA Science“Bull’s Eye” — The Richat Structure, Mauritania - NASA ScienceMarch 12, 2002...</span><span class="citation-popover-meta">Published: March 12, 2002</span></span></span>
 
 Both of these elements are popularly linked in fringe culture to “mysteries” or possible alien associations, but scientific and geological research do not support any UAP connection.
 
@@ -1231,7 +1231,7 @@ Both of these elements are popularly linked in fringe culture to “mysteries”
 Several structural factors help explain the dearth of Mauritania-specific UFO records:
 
 * **Low reporting infrastructure**: there is no known national UFO/UAP investigation body in Mauritania that publishes sightings or maintains an accessible database.
-* **Regional catalogue focus**: continental compilations of UFO reports tend to focus on countries with more active witness reporting and media coverage—such as Algeria, Morocco, or South Africa—leaving Mauritania largely unrepresented in formal lists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Africa</span><span class="citation-popover-snippet">UFO sightings in Africa</span></span></span>
+* **Regional catalogue focus**: continental compilations of UFO reports tend to focus on countries with more active witness reporting and media coverage—such as Algeria, Morocco, or South Africa—leaving Mauritania largely unrepresented in formal lists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Africa</span><span class="citation-popover-snippet">UFO sightings in Africa</span></span></span>
 * **Cultural and observational patterns**: UFO databases rely heavily on witness participation and documentation (photography, multiple observers), which varies widely by country. In regions with limited reporting mechanisms, nominal sightings may remain unpublished or isolated.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iLbAAGIsL_g" title="The Eye of the Sahara | Richat Structure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iLbAAGIsL_g" target="_blank" rel="noopener noreferrer">The Eye of the Sahara | Richat Structure</a></p><p class="youtube-embed-meta">Channel: Arihant Online Academy &middot; Views: 2.3K &middot; Uploaded: February 2025 &middot; Length: 2 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iLbAAGIsL_g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iLbAAGIsL_g">Open on YouTube</a></p></div></div></div>
@@ -1239,205 +1239,205 @@ Several structural factors help explain the dearth of Mauritania-specific UFO re
 ## Assessment: Confirmed vs Contested vs Debunked
 
 * **Confirmed:** There are *no confirmed UAP/UFO sightings with verifiable evidence* specific to Mauritania in major sighting databases, government files, or aviation incident records.
-* **Contested:** Regional mentions in declassified intelligence files include unexplained aerial observations in West Africa (broadly including Mauritania) but lack sufficient detail for case-level validation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unredacted.info/cia-files/cia-files-reveal-african-aerial-uap-mysteries-of-the-cold-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unredacted.info">[Unredacted.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unredacted.info</span><span class="citation-popover-title">CI A Files Reveal African Aerial UAP Mysteries of the Cold War</span><span class="citation-popover-snippet">CIA Files Reveal African Aerial UAP Mysteries of the Cold War - Unredacted.infoMay 12, 2025...</span><span class="citation-popover-meta">Published: May 12, 2025</span></span></span>
+* **Contested:** Regional mentions in declassified intelligence files include unexplained aerial observations in West Africa (broadly including Mauritania) but lack sufficient detail for case-level validation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unredacted.info/cia-files/cia-files-reveal-african-aerial-uap-mysteries-of-the-cold-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unredacted.info">[Unredacted.info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unredacted.info</span><span class="citation-popover-title">CI A Files Reveal African Aerial UAP Mysteries of the Cold War</span><span class="citation-popover-snippet">CIA Files Reveal African Aerial UAP Mysteries of the Cold War - Unredacted.infoMay 12, 2025...</span><span class="citation-popover-meta">Published: May 12, 2025</span></span></span>
 * **Debunked or Natural:** Geological features (such as the Richat Structure) and meteorite lore (Chinguetti) that sometimes appear in UFO discourse have **natural scientific explanations** and are not evidence of aerial intelligence phenomena.
 
 <img src="{{ "/assets/images/Mauritania_85fa35-Illustration-3-dark.svg" | relative_url }}" alt="Why Are Mauritania&#x27;s UFO Records So Sparse? illustration 3" data-theme-src-dark="{{ "/assets/images/Mauritania_85fa35-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritania_85fa35-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where to Look Next Within the Global UAP Field
 
-For readers interested in the broader global discourse on unidentified aerial phenomena, consult **aggregated historical and scientific studies** on UFO/UAP patterns, government reporting frameworks (e.g., U.S. Department of Defense UAP reports), and multidisciplinary research projects that aim to apply rigorous multimodal detection methods. These efforts provide context and comparative analysis beyond the narrow Mauritanian scope but do not alter the conclusion that **Mauritania itself lacks documented and credible UAP cases to date**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">January 27, 2025...</span><span class="citation-popover-meta">Published: January 27, 2025</span></span></span>
+For readers interested in the broader global discourse on unidentified aerial phenomena, consult **aggregated historical and scientific studies** on UFO/UAP patterns, government reporting frameworks (e.g., U.S. Department of Defense UAP reports), and multidisciplinary research projects that aim to apply rigorous multimodal detection methods. These efforts provide context and comparative analysis beyond the narrow Mauritanian scope but do not alter the conclusion that **Mauritania itself lacks documented and credible UAP cases to date**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">The New Science of Unidentified Aerospace-Undersea Phenomena (UAP</span><span class="citation-popover-snippet">January 27, 2025...</span><span class="citation-popover-meta">Published: January 27, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GnsyIPf4oYg" title="The Eye of the Sahara: The Ancient Structure That Could Be the Real Atlantis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GnsyIPf4oYg" target="_blank" rel="noopener noreferrer">The Eye of the Sahara: The Ancient Structure That Could Be the Real Atlantis</a></p><p class="youtube-embed-meta">Channel: KWIK STUDIOS &middot; Views: 1.2K &middot; Uploaded: August 2025 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GnsyIPf4oYg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GnsyIPf4oYg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are Mauritania&#x27;s UFO Records So Sparse?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are Mauritania&#x27;s UFO Records So Sparse?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for understanding weak versus strong sighting databases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for understanding weak versus strong sighting databases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
-        </h4>
-        <p class="fr-book-author">By Greg Eghigian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
+</h4>
+<p class="fr-book-author">By Greg Eghigian</p>
         
-        <p class="fr-book-desc">Provides global context for countries with sparse UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides global context for countries with sparse UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Establishes evidence standards that help explain why sparse records matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Establishes evidence standards that help explain why sparse records matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence-based interpretation when records are scarce.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based interpretation when records are scarce.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-mauritania-s-ufo-records-so-sparse-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-mauritania-s-ufo-records-so-sparse-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1453,7 +1453,7 @@ For readers interested in the broader global discourse on unidentified aerial ph
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1473,7 +1473,7 @@ For readers interested in the broader global discourse on unidentified aerial ph
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1505,7 +1505,7 @@ For readers interested in the broader global discourse on unidentified aerial ph
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1557,7 +1557,7 @@ For readers interested in the broader global discourse on unidentified aerial ph
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1602,7 +1602,7 @@ For readers interested in the broader global discourse on unidentified aerial ph
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1640,139 +1640,138 @@ For readers interested in the broader global discourse on unidentified aerial ph
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufo-hunters.com  
    Title: UFO Hunters UFO Sightings map in Mauritania  
-   Link: <a href="https://www.ufo-hunters.com/sightings/country/MRT/Mauritania" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/MRT/Mauritania</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Mauritania - UFO Hunters...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/country/MRT/Mauritania" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/MRT/Mauritania</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in Mauritania - UFO Hunters...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: usufocenter.com  
    Title: mauritania ufo sightings  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/mauritania-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/mauritania-ufo-sightings.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Experience Reports22 Mar 2025 — We are working as quickly as possible to add all received Mauritania UFO and alien contact experience...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/mauritania-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/mauritania-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Experience Reports22 Mar 2025 — We are working as quickly as possible to add all received Mauritania UFO and alien contact experience...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unredacted.info  
    Title: CI A Files Reveal African Aerial UAP Mysteries of the Cold War  
-   Link: <a href="https://www.unredacted.info/cia-files/cia-files-reveal-african-aerial-uap-mysteries-of-the-cold-war/" target="_blank" rel="noopener noreferrer nofollow">https://www.unredacted.info/cia-files/cia-files-reveal-african-aerial-uap-mysteries-of-the-cold-war/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Files Reveal African Aerial UAP Mysteries of the Cold War - Unredacted.infoMay 12, 2025...</p></details>
+   Link:<a href="https://www.unredacted.info/cia-files/cia-files-reveal-african-aerial-uap-mysteries-of-the-cold-war/" target="_blank" rel="noopener noreferrer nofollow">https://www.unredacted.info/cia-files/cia-files-reveal-african-aerial-uap-mysteries-of-the-cold-war/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Files Reveal African Aerial UAP Mysteries of the Cold War - Unredacted.infoMay 12, 2025...</p></details>
    Published: May 12, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Chinguetti meteorite  
-   Link: <a href="https://en.wikipedia.org/wiki/Chinguetti_meteorite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chinguetti_meteorite</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Chinguetti_meteorite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chinguetti_meteorite</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science“Bull’s Eye” — The Richat Structure, Mauritania  
-   Link: <a href="https://science.nasa.gov/earth/earth-observatory/bulls-eye-the-richat-structure-mauritania-9262" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/bulls-eye-the-richat-structure-mauritania-9262</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science“Bull’s Eye” — The Richat Structure, Mauritania - NASA ScienceMarch 12, 2002...</p></details>
+   Link:<a href="https://science.nasa.gov/earth/earth-observatory/bulls-eye-the-richat-structure-mauritania-9262" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/bulls-eye-the-richat-structure-mauritania-9262</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science“Bull’s Eye” — The Richat Structure, Mauritania - NASA ScienceMarch 12, 2002...</p></details>
    Published: March 12, 2002  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO sightings in Africa  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 27, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 27, 2025...</p></details>
    Published: January 27, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: Here’s how it works. Click for next article Image: Mysterious Geolog  
-   Link: <a href="https://www.space.com/15041-mauritania-lava-crater-astronaut-photo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/15041-mauritania-lava-crater-astronaut-photo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Geologic Structure Seen from Space | SpaceMarch 26, 2012 — MYSTERIOUS GEOLOGIC STRUCTURE SEEN FROM SPACE When you purchase thr...</p></details>
+   Link:<a href="https://www.space.com/15041-mauritania-lava-crater-astronaut-photo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/15041-mauritania-lava-crater-astronaut-photo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Geologic Structure Seen from Space | SpaceMarch 26, 2012 — MYSTERIOUS GEOLOGIC STRUCTURE SEEN FROM SPACE When you purchase thr...</p></details>
    Published: March 26, 2012  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: earthobservatory.nasa.gov  
    Title: 147bull146s eye148 151 the richat structure mauritania  
-   Link: <a href="https://www.earthobservatory.nasa.gov/images/9262/147bull146s-eye148-151-the-richat-structure-mauritania" target="_blank" rel="noopener noreferrer nofollow">https://www.earthobservatory.nasa.gov/images/9262/147bull146s-eye148-151-the-richat-structure-mauritania</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.gov&amp;#147;Bull&amp;#146;s Eye&amp;#148; &amp;#151; The Richat Structure, MauritaniaMarch 11, 2002 — Image: NASA Image: Earth Observatory “BULL’S...</p></details>
+   Link:<a href="https://www.earthobservatory.nasa.gov/images/9262/147bull146s-eye148-151-the-richat-structure-mauritania" target="_blank" rel="noopener noreferrer nofollow">https://www.earthobservatory.nasa.gov/images/9262/147bull146s-eye148-151-the-richat-structure-mauritania</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.gov&amp;#147;Bull&amp;#146;s Eye&amp;#148; &amp;#151; The Richat Structure, MauritaniaMarch 11, 2002 — Image: NASA Image: Earth Observatory “BULL’S...</p></details>
    Published: March 11, 2002  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufo-hunters.com  
    Title: UF O Sightings map in Morocco  
-   Link: <a href="https://www.ufo-hunters.com/sightings/country/MAR/Morocco" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/MAR/Morocco</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and growing LATEST SIGHTINGS IN MOROCCO LATEST UFO SIGHTINGS IN MOROCCO: Location | Sighted on | Shape | Duration...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/country/MAR/Morocco" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/MAR/Morocco</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and growing LATEST SIGHTINGS IN MOROCCO LATEST UFO SIGHTINGS IN MOROCCO: Location | Sighted on | Shape | Duration...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thephenomenon.app  
-   Link: <a href="https://thephenomenon.app/morocco/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/morocco/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meknes, Fez-Meknès, Morocco Unknown [Button: View Details] NUFORC_188161 NUFORC UFO Sigh...</p></details>
+   Link:<a href="https://thephenomenon.app/morocco/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/morocco/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meknes, Fez-Meknès, Morocco Unknown [Button: View Details] NUFORC_188161 NUFORC UFO Sigh...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UrbanMyths/comments/1j9pxo6/africa_their_ufos_and_alien_sightings_stories_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1j9pxo6/africa_their_ufos_and_alien_sightings_stories_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>their UFOs and Alien sightings - stories to be told...UFOs- Aliens - Mike talks about the quiet continent and their UFO and alien sighti...</p></details>
+   Link:<a href="https://www.reddit.com/r/UrbanMyths/comments/1j9pxo6/africa_their_ufos_and_alien_sightings_stories_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1j9pxo6/africa_their_ufos_and_alien_sightings_stories_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>their UFOs and Alien sightings - stories to be told...UFOs- Aliens - Mike talks about the quiet continent and their UFO and alien sighti...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Aliens and Unidentified Aerial PhenomenaThe key similarities between UFO sightings and their long and continuous history recorded b...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Aliens and Unidentified Aerial PhenomenaThe key similarities between UFO sightings and their long and continuous history recorded b...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: en-academic.com  
-   Link: <a href="https://en-academic.com/dic.nsf/enwiki/3614948/" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/3614948/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chinguetti meteoriteCHINGUETTI METEORITE * * * * * * * * Chinguetti meteorite Image Chinguetti slice at the National Museum of Natural Hi...</p></details>
+   Link:<a href="https://en-academic.com/dic.nsf/enwiki/3614948/" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/3614948/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chinguetti meteoriteCHINGUETTI METEORITE * * * * * * * * Chinguetti meteorite Image Chinguetti slice at the National Museum of Natural Hi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/ne" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/ne</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Niger | Enigma LabsMOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP UFO Sightings in Niger Imag...</p></details>
+   Link:<a href="https://enigmalabs.io/explore/ne" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/ne</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Niger | Enigma LabsMOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP UFO Sightings in Niger Imag...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: artangel.org.uk  
-   Link: <a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings from around the worldUFO sightings from around the world. Preliminary research for Witness, a project commissioned by Artan...</p></details>
+   Link:<a href="https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.artangel.org.uk/project/witness/ufo-sightings-from-around-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings from around the worldUFO sightings from around the world. Preliminary research for Witness, a project commissioned by Artan...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/sep/24/tiktok-traders-mauritania-meteorites" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/sep/24/tiktok-traders-mauritania-meteorites</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>‘A gift from heaven’: the TikTok traders of Mauritania’s meteorites | Mauritania | The GuardianSeptember 24, 2025 — Image: Lemine Ould Ha...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/sep/24/tiktok-traders-mauritania-meteorites" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/sep/24/tiktok-traders-mauritania-meteorites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>‘A gift from heaven’: the TikTok traders of Mauritania’s meteorites | Mauritania | The GuardianSeptember 24, 2025 — Image: Lemine Ould Ha...</p></details>
    Published: September 24, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOoo1IGUw8tWFmczcUJ9y-GMfmfE3uw4vqIHWsKk5Wy6Fr6p5K05p" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOoo1IGUw8tWFmczcUJ9y-GMfmfE3uw4vqIHWsKk5Wy6Fr6p5K05p</a>  
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOoo1IGUw8tWFmczcUJ9y-GMfmfE3uw4vqIHWsKk5Wy6Fr6p5K05p" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-hotspot?srsltid=AfmBOoo1IGUw8tWFmczcUJ9y-GMfmfE3uw4vqIHWsKk5Wy6Fr6p5K05p</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DESK? I’M CALLING TO REPORT A… Craig Mellow September 2010 Image: Lenticular clouds tend to remain stationary; their longevity and th...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO DESK? I’M CALLING TO REPORT A… Craig Mellow September 2010 Image: Lenticular clouds tend to remain stationary; their longevity and th...</p></details>
    Published: September 2010  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arstechnica.com  
    Title: a meteorite has been lost in the sahara since 1916 heres how we might find it  
-   Link: <a href="https://arstechnica.com/science/2024/02/a-meteorite-has-been-lost-in-the-sahara-since-1916-heres-how-we-might-find-it/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2024/02/a-meteorite-has-been-lost-in-the-sahara-since-1916-heres-how-we-might-find-it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A giant meteorite has been lost in the desert since 1916—here’s how we might find it - Ars TechnicaFebruary 23, 2024 — “This story has ev...</p></details>
+   Link:<a href="https://arstechnica.com/science/2024/02/a-meteorite-has-been-lost-in-the-sahara-since-1916-heres-how-we-might-find-it/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2024/02/a-meteorite-has-been-lost-in-the-sahara-since-1916-heres-how-we-might-find-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A giant meteorite has been lost in the desert since 1916—here’s how we might find it - Ars TechnicaFebruary 23, 2024 — “This story has ev...</p></details>
    Published: February 23, 2024  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: africa-press.net  
    Title: البنتاغون يصدر تقريرا رسميا عن "ظواهر جوية مجهولة وغير مفسرة"  
-   Link: <a href="https://www.africa-press.net/mauritania/all-news/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%D8%A7-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%B9%D9%86-%D8%B8%D9%88%D8%A7%D9%87%D8%B1-%D8%AC" target="_blank" rel="noopener noreferrer nofollow">https://www.africa-press.net/mauritania/all-news/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%D8%A7-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%B9%D9%86-%D8%B8%D9%88%D8%A7%D9%87%D8%B1-%D8%AC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MauritaniaNovember 19, 2024 — الرئيسية كل الأخبار البنتاغون يصدر تقريرا رسميا عن “ظواهر جوية مجهولة وغير مفسرة” البنتاغون يصدر تقريرا رسم...</p></details>
+   Link:<a href="https://www.africa-press.net/mauritania/all-news/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%D8%A7-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%B9%D9%86-%D8%B8%D9%88%D8%A7%D9%87%D8%B1-%D8%AC" target="_blank" rel="noopener noreferrer nofollow">https://www.africa-press.net/mauritania/all-news/%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%D8%A7-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D8%B9%D9%86-%D8%B8%D9%88%D8%A7%D9%87%D8%B1-%D8%AC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MauritaniaNovember 19, 2024 — الرئيسية كل الأخبار البنتاغون يصدر تقريرا رسميا عن “ظواهر جوية مجهولة وغير مفسرة” البنتاغون يصدر تقريرا رسم...</p></details>
    Published: November 19, 2024  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>
+   Link:<a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...Read more...</p></details>

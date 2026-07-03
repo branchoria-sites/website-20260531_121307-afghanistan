@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /malta-1a591a-index/
 description: Focused pages that expand on What Has Malta Really Seen in the Sky?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Malta_1a591a
 parent_title: What Has Malta Really Seen in the Sky?
@@ -16,7 +16,7 @@ parent_permalink: /what-has-malta-really-seen-in-the-sky/
 
 # Explore Topics in What Has Malta Really Seen in the Sky?
 
-The following pages expand on the main **[What Has Malta Really Seen in the Sky?]({{ '/what-has-malta-really-seen-in-the-sky/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Has Malta Really Seen in the Sky?]({{ '/what-has-malta-really-seen-in-the-sky/' | relative_url }})** page and cover its key branches in.
 
 - [Key Sightings]({{ '/key-sightings/' | relative_url }})
 - [Skywatchers]({{ '/skywatchers/' | relative_url }})

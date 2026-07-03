@@ -254,16 +254,16 @@ image: /assets/images/Guatemala_11760e_archived_ufo_cases_c98d18-Illustration-1-
 
 ## Introduction
 
-Guatemala’s most historically significant UFO material is not a famous crash story or a government disclosure file. Instead, it is a modest archival trace: a Guatemala City videotape from 1977–78 preserved in the papers of the American sceptic Philip J. Klass. That single catalogue entry reveals something important about how Guatemalan UFO claims entered international debate. The footage was not simply circulated among enthusiasts; it became part of a transnational network of technical review, debunking attempts and archival preservation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span>
+Guatemala’s most historically significant UFO material is not a famous crash story or a government disclosure file. Instead, it is a modest archival trace: a Guatemala City videotape from 1977–78 preserved in the papers of the American sceptic Philip J. Klass. That single catalogue entry reveals something important about how Guatemalan UFO claims entered international debate. The footage was not simply circulated among enthusiasts; it became part of a transnational network of technical review, debunking attempts and archival preservation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span>
 
 <img src="{{ "/assets/images/Guatemala_11760e_archived_ufo_cases_c98d18-Illustration-1-dark.svg" | relative_url }}" alt="Archived Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Guatemala_11760e_archived_ufo_cases_c98d18-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guatemala_11760e_archived_ufo_cases_c98d18-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For historians of UFO culture, the value of the case lies less in proving an extraordinary event and more in showing how evidence moved through the late Cold War UFO world. Guatemala became part of a broader argument over whether filmed sightings represented unknown craft, misidentifications, media amplification or social mythology. The surviving archive demonstrates how sceptics treated even relatively obscure Central American footage as material worth cataloguing, comparing and critiquing alongside better-known North American and European cases.
 
 ## How a Guatemala City videotape entered the sceptical archive
 
-The strongest documented historical anchor is the American Philosophical Society’s listing for “Guatemala: Guatemala City-UFO video-tape, 1977, 1978” within the Philip J. Klass Collection. The archive places the material in “Series II. UFO Case Files, 1948–1993” and dates the file to 1978. <span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span>
+The strongest documented historical anchor is the American Philosophical Society’s listing for “Guatemala: Guatemala City-UFO video-tape, 1977, 1978” within the Philip J. Klass Collection. The archive places the material in “Series II. UFO Case Files, 1948–1993” and dates the file to 1978.<span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span>
 
-That may sound minor, but the context matters. Philip J. Klass was one of the best-known UFO sceptics of the twentieth century. Trained as an electrical engineer and known for technical investigations of sightings, Klass argued that most UFO reports could be explained through ordinary phenomena such as aircraft lights, balloons, astronomical objects, camera artefacts and hoaxes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span>
+That may sound minor, but the context matters. Philip J. Klass was one of the best-known UFO sceptics of the twentieth century. Trained as an electrical engineer and known for technical investigations of sightings, Klass argued that most UFO reports could be explained through ordinary phenomena such as aircraft lights, balloons, astronomical objects, camera artefacts and hoaxes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span>
 
 Because of Klass’s role, the archive signals several things at once:
 
@@ -276,13 +276,13 @@ Because of Klass’s role, the archive signals several things at once:
 
 </div>
 
-Importantly, the archive entry does not confirm what appeared on the tape. No widely available public copy of the footage appears to survive online in a verified form, and the catalogue description is extremely brief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span> That absence is itself revealing. Many UFO cases from Latin America survive today only through references in newsletters, newspaper reports or private investigator collections rather than through accessible original media.
+Importantly, the archive entry does not confirm what appeared on the tape. No widely available public copy of the footage appears to survive online in a verified form, and the catalogue description is extremely brief.<span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span> That absence is itself revealing. Many UFO cases from Latin America survive today only through references in newsletters, newspaper reports or private investigator collections rather than through accessible original media.
 
 ## Why the Klass connection matters more than the tape itself
 
 The Guatemala file is historically important because it shows how sceptical institutions handled UFO evidence during the 1970s and 1980s. In that era, investigators often exchanged physical tapes, photographs, witness letters and typed reports through mail networks long before digital databases existed.
 
-Klass occupied a central role in that ecosystem. His archive contains decades of UFO case files assembled for technical scrutiny and rebuttal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span> The inclusion of a Guatemala City videotape therefore indicates that the case crossed linguistic and geographic barriers into English-speaking sceptical discourse.
+Klass occupied a central role in that ecosystem. His archive contains decades of UFO case files assembled for technical scrutiny and rebuttal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span> The inclusion of a Guatemala City videotape therefore indicates that the case crossed linguistic and geographic barriers into English-speaking sceptical discourse.
 
 This shaped how Guatemala-related sightings were interpreted internationally:
 
@@ -303,7 +303,7 @@ In practice, this meant that Guatemala’s UFO history became tied to internatio
 
 The surviving record highlights a recurring problem in UFO history: many influential cases are poorly documented by modern standards.
 
-The Guatemala City videotape appears in catalogues, but little detailed technical analysis is publicly accessible. No confirmed frame captures, authenticated duplicate copies or official investigative conclusions are widely available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span> That leaves historians with a layered problem:
+The Guatemala City videotape appears in catalogues, but little detailed technical analysis is publicly accessible. No confirmed frame captures, authenticated duplicate copies or official investigative conclusions are widely available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span> That leaves historians with a layered problem:
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -322,9 +322,9 @@ For Guatemala specifically, this creates a sharp contrast with later smartphone-
 
 ## The 1989 UFO wave and the growth of public scepticism
 
-By 1989, Guatemala experienced a broader UFO reporting wave that attracted international media coverage. The Los Angeles Times described widespread public fascination, with sightings discussed by students, professionals and even officials in Guatemala City. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">By DAVID KIRBY.Read more</span><span class="citation-popover-snippet">Los Angeles TimesUFO Mania Sweeps Guatemala, Keeping Eyes Fixed...March 5, 1989 — 5 Mar 1989 — Extraterrestrials &#x27;Coming Back to Look fo...</span><span class="citation-popover-meta">Published: March 5, 1989</span></span></span>
+By 1989, Guatemala experienced a broader UFO reporting wave that attracted international media coverage. The Los Angeles Times described widespread public fascination, with sightings discussed by students, professionals and even officials in Guatemala City.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">By DAVID KIRBY.Read more</span><span class="citation-popover-snippet">Los Angeles TimesUFO Mania Sweeps Guatemala, Keeping Eyes Fixed...March 5, 1989 — 5 Mar 1989 — Extraterrestrials &#x27;Coming Back to Look fo...</span><span class="citation-popover-meta">Published: March 5, 1989</span></span></span>
 
-The reporting is important because it shows the coexistence of belief and scepticism. Even while some residents linked UFOs to ancient Maya civilisation or extraterrestrial visitation, journalists also documented uncertainty, speculation and disagreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">By DAVID KIRBY.Read more</span><span class="citation-popover-snippet">Los Angeles TimesUFO Mania Sweeps Guatemala, Keeping Eyes Fixed...March 5, 1989 — 5 Mar 1989 — Extraterrestrials &#x27;Coming Back to Look fo...</span><span class="citation-popover-meta">Published: March 5, 1989</span></span></span>
+The reporting is important because it shows the coexistence of belief and scepticism. Even while some residents linked UFOs to ancient Maya civilisation or extraterrestrial visitation, journalists also documented uncertainty, speculation and disagreement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">By DAVID KIRBY.Read more</span><span class="citation-popover-snippet">Los Angeles TimesUFO Mania Sweeps Guatemala, Keeping Eyes Fixed...March 5, 1989 — 5 Mar 1989 — Extraterrestrials &#x27;Coming Back to Look fo...</span><span class="citation-popover-meta">Published: March 5, 1989</span></span></span>
 
 This period marked a transition in how UFO stories circulated:
 
@@ -342,7 +342,7 @@ Sceptical investigators frequently warned that media attention itself could gene
 <img src="{{ "/assets/images/Guatemala_11760e_archived_ufo_cases_c98d18-Illustration-2-dark.svg" | relative_url }}" alt="Archived Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Guatemala_11760e_archived_ufo_cases_c98d18-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guatemala_11760e_archived_ufo_cases_c98d18-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What sceptics actually argued about Guatemalan cases
 
-Contrary to caricatures, most sceptical analysis did not claim that witnesses were deliberately lying. Instead, investigators such as Klass focused on recurring technical and psychological patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Philip J. Klass</span><span class="citation-popover-snippet">Philip J. Klass</span></span></span>
+Contrary to caricatures, most sceptical analysis did not claim that witnesses were deliberately lying. Instead, investigators such as Klass focused on recurring technical and psychological patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Philip J. Klass</span><span class="citation-popover-snippet">Philip J. Klass</span></span></span>
 
 Applied to Guatemala, those explanations usually involved combinations of:
 
@@ -383,7 +383,7 @@ That distinction matters for researchers today. Archived material creates:
 * evidence of investigative interest,
 * and a record of how sceptics and believers interacted.
 
-Without archives such as the Philip J. Klass Collection, many Latin American UFO cases would survive only through oral retellings or fragmented newspaper references. <span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span>
+Without archives such as the Philip J. Klass Collection, many Latin American UFO cases would survive only through oral retellings or fragmented newspaper references.<span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span>
 
 The archive therefore preserves two parallel histories at once:
 
@@ -398,7 +398,7 @@ That second history is often overlooked. Yet it explains how certain cases becam
 
 Guatemala never developed a public state-run UFO investigation programme comparable to those periodically seen in France, the United Kingdom or parts of South America. As a result, much of its UFO history passed through informal networks: journalists, civilian investigators, foreign researchers and sceptical organisations.
 
-The 1977–78 videotape illustrates this perfectly. Guatemala contributed a case to the global UFO conversation, but the strongest surviving documentation now exists in a United States sceptical archive rather than in a Guatemalan public repository. <span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span>
+The 1977–78 videotape illustrates this perfectly. Guatemala contributed a case to the global UFO conversation, but the strongest surviving documentation now exists in a United States sceptical archive rather than in a Guatemalan public repository.<span class="citation-chip-wrap"><a class="citation-chip" href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: as.amphilsoc.org">[American Philosophical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">as.amphilsoc.org</span><span class="citation-popover-snippet">American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</span></span></span>
 
 That outcome shaped later interpretations of Guatemalan sightings in several ways:
 
@@ -410,194 +410,194 @@ That outcome shaped later interpretations of Guatemalan sightings in several way
 The result is a UFO history that is less about definitive evidence and more about circulation, interpretation and preservation. Guatemala’s early footage did not conclusively prove extraordinary craft, but it did help define how sceptical investigators built international case archives and how Latin American sightings entered global UFO discourse.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Guatemala’s Early UFO Footage Shaped Skeptical Review. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Guatemala’s Early UFO Footage Shaped Skeptical Review. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to critical examination of reported visual evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to critical examination of reported visual evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucer Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tD7bAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Flying Saucer Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucer Conspiracy">The Flying Saucer Conspiracy</a>
-        </h4>
-        <p class="fr-book-author">By Donald Edward Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucer Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tD7bAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Flying Saucer Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucer Conspiracy">The Flying Saucer Conspiracy</a>
+</h4>
+<p class="fr-book-author">By Donald Edward Keyhoe</p>
         
-        <p class="fr-book-desc">Reflects the historical culture of UFO investigation and critique.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reflects the historical culture of UFO investigation and critique.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy+by+Donald+Edward+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises documentary evidence and investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises documentary evidence and investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Travis Walton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+</h4>
+<p class="fr-book-author">By Travis Walton</p>
         
-        <p class="fr-book-desc">Strong fit for a page about historical footage and skeptical review.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a page about historical footage and skeptical review.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucer Conspiracy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Flying+Saucer+Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Flying Saucer Conspiracy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-guatemala-s-early-ufo-footage-shaped-skeptical-review-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -613,7 +613,7 @@ The result is a UFO history that is less about definitive evidence and more abou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -633,7 +633,7 @@ The result is a UFO history that is less about definitive evidence and more abou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -665,7 +665,7 @@ The result is a UFO history that is less about definitive evidence and more abou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -717,7 +717,7 @@ The result is a UFO history that is less about definitive evidence and more abou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -762,7 +762,7 @@ The result is a UFO history that is less about definitive evidence and more abou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -800,102 +800,101 @@ The result is a UFO history that is less about definitive evidence and more abou
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Philip J. Klass  
-   Link: <a href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Philip_J._Klass</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Philip_J._Klass</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
    Title: Full text of "The Mammoth Encyclopedia Of Extraterrestrial  
-   Link: <a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO investigators Philip J. Klass, Robert Sheaffer, and James Oberg (Klass is chairman of CSICOP&#x27;s UFO subcommittee), writers Isaac Asimo...</p></details>
+   Link:<a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO investigators Philip J. Klass, Robert Sheaffer, and James Oberg (Klass is chairman of CSICOP&#x27;s UFO subcommittee), writers Isaac Asimo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.org  
    Title: 664511356 Glimpses of Other Realities Linda Moulton howe djvu.txt  
-   Link: <a href="https://archive.org/stream/664511356-glimpses-of-other-realities-linda-moulton-howe/664511356-Glimpses-of-Other-Realities-Linda-Moulton-howe_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/664511356-glimpses-of-other-realities-linda-moulton-howe/664511356-Glimpses-of-Other-Realities-Linda-Moulton-howe_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The so-called Roswell crash of 1947 did indeed occur and debris of a...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/664511356-glimpses-of-other-realities-linda-moulton-howe/664511356-Glimpses-of-Other-Realities-Linda-Moulton-howe_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/664511356-glimpses-of-other-realities-linda-moulton-howe/664511356-Glimpses-of-Other-Realities-Linda-Moulton-howe_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The so-called Roswell crash of 1947 did indeed occur and debris of a...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: ALF (TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/ALF_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/ALF_%28TV_series%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ALF (TV series)ALF is an American television sitcom that aired on NBC from September 22, 1986, to March 24, 1990. The titular characte...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/ALF_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/ALF_%28TV_series%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ALF (TV series)ALF is an American television sitcom that aired on NBC from September 22, 1986, to March 24, 1990. The titular characte...</p></details>
    Published: September 22, 1986  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: as.amphilsoc.org  
-   Link: <a href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/archival_objects/880115</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</p></details>
+   Link:<a href="https://as.amphilsoc.org/repositories/2/archival_objects/880115" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/archival_objects/880115</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Philosophical SocietyGuatemala City-UFO video-tape, 1977, 1978Guatemala: Guatemala City-UFO video-tape, 1977, 1978 · American Ph...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: as.amphilsoc.org  
    Title: American Philosophical Society Philip J  
-   Link: <a href="https://as.amphilsoc.org/repositories/2/resources/2894" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/resources/2894</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Klass CollectionKlass, an electrical engineer and UFO investigator, consist of 36 linear feet of materials documenting his writing and in...</p></details>
+   Link:<a href="https://as.amphilsoc.org/repositories/2/resources/2894" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/resources/2894</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Klass CollectionKlass, an electrical engineer and UFO investigator, consist of 36 linear feet of materials documenting his writing and in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: latimes.com  
    Title: By DAVID KIRBY.Read more  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesUFO Mania Sweeps Guatemala, Keeping Eyes Fixed...March 5, 1989 — 5 Mar 1989 — Extraterrestrials &#x27;Coming Back to Look fo...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1989-03-05-mn-184-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesUFO Mania Sweeps Guatemala, Keeping Eyes Fixed...March 5, 1989 — 5 Mar 1989 — Extraterrestrials &#x27;Coming Back to Look fo...</p></details>
    Published: March 5, 1989  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: chamsyslighting.com  
-   Link: <a href="https://chamsyslighting.com/media-control/" target="_blank" rel="noopener noreferrer nofollow">https://chamsyslighting.com/media-control/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ChamSys Media ControlChamSys MediaMaster Media Control unites lighting, pixels, media &amp; networking in one system. Native MagicQ integrati...</p></details>
+   Link:<a href="https://chamsyslighting.com/media-control/" target="_blank" rel="noopener noreferrer nofollow">https://chamsyslighting.com/media-control/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ChamSys Media ControlChamSys MediaMaster Media Control unites lighting, pixels, media &amp; networking in one system. Native MagicQ integrati...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: headrushfx.com  
-   Link: <a href="https://www.headrushfx.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.headrushfx.com/</a>  
+   Link:<a href="https://www.headrushfx.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.headrushfx.com/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thesocialcontract.com  
-   Link: <a href="https://www.thesocialcontract.com/artman2/publish/tsc1401/article_1174.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.thesocialcontract.com/artman2/publish/tsc1401/article_1174.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Immigration and Public HealthJust one illegal alien involved in a car accident, Guatemalan native Luis Jimenez, incurred $2 million in bi...</p></details>
+   Link:<a href="https://www.thesocialcontract.com/artman2/publish/tsc1401/article_1174.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.thesocialcontract.com/artman2/publish/tsc1401/article_1174.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immigration and Public HealthJust one illegal alien involved in a car accident, Guatemalan native Luis Jimenez, incurred $2 million in bi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>abductions by Philip J. Klass, Hypnosis gives rise to fantasy and is not a truth serum by. Ernest R. Hilgard, A critical analysis of H. S...</p></details>
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>abductions by Philip J. Klass, Hypnosis gives rise to fantasy and is not a truth serum by. Ernest R. Hilgard, A critical analysis of H. S...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBPgov/posts/us-border-patrol-el-centro-sectors-chief-bovino-we-are-here-and-we-are-not-going/1147726937394307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBPgov/posts/us-border-patrol-el-centro-sectors-chief-bovino-we-are-here-and-we-are-not-going/1147726937394307/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Border Patrol El Centro Sector&#x27;s Chief BovinoThe majority of illegal aliens in this groups were from Guatemala, Honduras, and El Salva...</p></details>
+   Link:<a href="https://www.facebook.com/CBPgov/posts/us-border-patrol-el-centro-sectors-chief-bovino-we-are-here-and-we-are-not-going/1147726937394307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBPgov/posts/us-border-patrol-el-centro-sectors-chief-bovino-we-are-here-and-we-are-not-going/1147726937394307/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Border Patrol El Centro Sector&#x27;s Chief BovinoThe majority of illegal aliens in this groups were from Guatemala, Honduras, and El Salva...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: many folks may have forgotten or never knew that the first ever captured video f  
-   Link: <a href="https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Montana Historical SocietyThe late Philip J. Klass commenting on the Nick Mariana UFO film taken on August 15th of 1950. No photo descrip...</p></details>
+   Link:<a href="https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Montana Historical SocietyThe late Philip J. Klass commenting on the Nick Mariana UFO film taken on August 15th of 1950. No photo descrip...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: news.iheart.com  
    Title: 2025 05 30 watch multiple witnesses film mothership ufo over guatemalan city  
-   Link: <a href="https://news.iheart.com/featured/coast-to-coast-am/content/2025-05-30-watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2025-05-30-watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>iheart.comWatch: Multiple Witnesses Film &#x27;Mothership&#x27; UFO Over...30 May 2025 — Multiple witnesses in Guatemala captured footage of a cur...</p></details>
+   Link:<a href="https://news.iheart.com/featured/coast-to-coast-am/content/2025-05-30-watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/" target="_blank" rel="noopener noreferrer nofollow">https://news.iheart.com/featured/coast-to-coast-am/content/2025-05-30-watch-multiple-witnesses-film-mothership-ufo-over-guatemalan-city/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iheart.comWatch: Multiple Witnesses Film &#x27;Mothership&#x27; UFO Over...30 May 2025 — Multiple witnesses in Guatemala captured footage of a cur...</p></details>
    Published: May 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/217391592/Ufo-Dictionary" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/217391592/Ufo-Dictionary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It includes definitions of terms like abduction, abduction experiences classification, ACCET...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/217391592/Ufo-Dictionary" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/217391592/Ufo-Dictionary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It includes definitions of terms like abduction, abduction experiences classification, ACCET...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: read.dukeupress.edu  
    Title: Drawing on ethnographic research, the chapter explor  
-   Link: <a href="https://read.dukeupress.edu/books/book/3307/chapter/8623283/Resonant-Apophenia" target="_blank" rel="noopener noreferrer nofollow">https://read.dukeupress.edu/books/book/3307/chapter/8623283/Resonant-Apophenia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apophenia | Conspiracy/Theory | Books GatewayThis chapter describes the affects and poetics of uncanny conspiracy theory, especially UFO...</p></details>
+   Link:<a href="https://read.dukeupress.edu/books/book/3307/chapter/8623283/Resonant-Apophenia" target="_blank" rel="noopener noreferrer nofollow">https://read.dukeupress.edu/books/book/3307/chapter/8623283/Resonant-Apophenia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apophenia | Conspiracy/Theory | Books GatewayThis chapter describes the affects and poetics of uncanny conspiracy theory, especially UFO...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ence, less well known, stretching back to the sixteenth century.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ence, less well known, stretching back to the sixteenth century.Read more...</p></details>

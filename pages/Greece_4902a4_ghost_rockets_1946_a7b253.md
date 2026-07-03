@@ -248,16 +248,16 @@ image: /assets/images/Greece_4902a4_ghost_rockets_1946_a7b253-Illustration-1-soc
 
 ## Introduction
 
-The 1946 ghost rocket sightings over northern Greece were brief in duration but historically important. They represented the country’s first major modern wave of unidentified aerial reports and unfolded at a moment of deep instability: the Second World War had ended only months earlier, the Greek Civil War was beginning, and the northern borders of Macedonia were already viewed through the lens of Soviet expansion and Balkan tension. What made the Greek incidents unusual was not simply the appearance of strange lights or rocket-like objects, but the fact that Greek military commanders, British officers, politicians, and newspapers treated them initially as possible weapons rather than folklore or fantasy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
+The 1946 ghost rocket sightings over northern Greece were brief in duration but historically important. They represented the country’s first major modern wave of unidentified aerial reports and unfolded at a moment of deep instability: the Second World War had ended only months earlier, the Greek Civil War was beginning, and the northern borders of Macedonia were already viewed through the lens of Soviet expansion and Balkan tension. What made the Greek incidents unusual was not simply the appearance of strange lights or rocket-like objects, but the fact that Greek military commanders, British officers, politicians, and newspapers treated them initially as possible weapons rather than folklore or fantasy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
 
 <img src="{{ "/assets/images/Greece_4902a4_ghost_rockets_1946_a7b253-Illustration-1-dark.svg" | relative_url }}" alt="1946 Ghost Rockets illustration 1" data-theme-src-dark="{{ "/assets/images/Greece_4902a4_ghost_rockets_1946_a7b253-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greece_4902a4_ghost_rockets_1946_a7b253-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike later UFO stories built around extraterrestrial speculation, the Greek ghost rockets were rooted in immediate strategic fears. Reports from Thessaloniki, Kastoria, Serres, Drama, and other northern regions described luminous projectiles, smoke trails, silent aerial movement, and flare-like objects crossing sensitive border areas. Contemporary observers wondered whether the Soviet Union was testing captured German V-weapons over the Balkans, whether unidentified aircraft were conducting reconnaissance, or whether wartime rumours and atmospheric phenomena were combining into a self-reinforcing panic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span>
+Unlike later UFO stories built around extraterrestrial speculation, the Greek ghost rockets were rooted in immediate strategic fears. Reports from Thessaloniki, Kastoria, Serres, Drama, and other northern regions described luminous projectiles, smoke trails, silent aerial movement, and flare-like objects crossing sensitive border areas. Contemporary observers wondered whether the Soviet Union was testing captured German V-weapons over the Balkans, whether unidentified aircraft were conducting reconnaissance, or whether wartime rumours and atmospheric phenomena were combining into a self-reinforcing panic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span>
 
 ## Why Northern Greece Became a Flashpoint
 
 In 1946, northern Greece was politically and militarily fragile. Macedonia sat beside Yugoslavia, Albania, and Bulgaria at a time when the Greek state believed communist infiltration and cross-border support for insurgents were increasing. British forces still operated in Greece, and intelligence services were intensely focused on military activity in the Balkans. Any unexplained object in the sky could quickly acquire strategic meaning.
 
-The wider European “ghost rocket” wave began earlier in Scandinavia and Finland, where thousands of sightings were reported between May and December 1946. Swedish authorities feared that the Soviet Union might be launching captured German V-1 or V-2 technology from former Nazi facilities such as Peenemünde. These theories travelled rapidly through European newspapers and military channels. By the time reports appeared in Greece, the idea of secret rockets already had political credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.nuremberg.media/hronotop/20210226/117657/First-Reports-Of-Ghost-Rockets-The-Beginning-Of-UFO-Mania.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.nuremberg.media">[Nuremberg. Casus pacis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.nuremberg.media</span><span class="citation-popover-title">First Reports Of Ghost Rockets The Beginning Of UFO Mania</span><span class="citation-popover-snippet">Casus pacisFirst Reports Of &quot;Ghost Rockets&quot;, The Beginning Of UFO...26 Feb 2021 — In 1946, there were about 2,000 UFO reports. Investiga...</span></span></span>
+The wider European “ghost rocket” wave began earlier in Scandinavia and Finland, where thousands of sightings were reported between May and December 1946. Swedish authorities feared that the Soviet Union might be launching captured German V-1 or V-2 technology from former Nazi facilities such as Peenemünde. These theories travelled rapidly through European newspapers and military channels. By the time reports appeared in Greece, the idea of secret rockets already had political credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.nuremberg.media/hronotop/20210226/117657/First-Reports-Of-Ghost-Rockets-The-Beginning-Of-UFO-Mania.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.nuremberg.media">[Nuremberg. Casus pacis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.nuremberg.media</span><span class="citation-popover-title">First Reports Of Ghost Rockets The Beginning Of UFO Mania</span><span class="citation-popover-snippet">Casus pacisFirst Reports Of &quot;Ghost Rockets&quot;, The Beginning Of UFO...26 Feb 2021 — In 1946, there were about 2,000 UFO reports. Investiga...</span></span></span>
 
 Greek observers interpreted the sightings through this Cold War atmosphere. Northern Greece was not simply a remote viewing area; it was a contested frontier during the opening phase of the Greek Civil War. Reports of aerial objects over Macedonia therefore sounded plausible to officials who already feared covert military activity from neighbouring communist states.
 
@@ -265,7 +265,7 @@ The political context mattered because it shaped how the sightings were document
 
 ## The September 1946 Sightings Over Macedonia
 
-The most important Greek reports occurred around 1 September 1946. Greek newspapers later cited statements by Prime Minister Konstantinos Tsaldaris, who discussed the incidents publicly while visiting London on 5 September. According to these accounts, twelve “flying rockets” or luminous projectiles had been observed over northern Greece by both Greek military officers and British personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Greece" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Greece</span><span class="citation-popover-snippet">UFO sightings in GreeceThis is a list of alleged sightings of unidentified flying objects or UFOs in Greece. Contents. 1 404 BC; 2 194...</span></span></span>
+The most important Greek reports occurred around 1 September 1946. Greek newspapers later cited statements by Prime Minister Konstantinos Tsaldaris, who discussed the incidents publicly while visiting London on 5 September. According to these accounts, twelve “flying rockets” or luminous projectiles had been observed over northern Greece by both Greek military officers and British personnel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Greece" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Greece</span><span class="citation-popover-snippet">UFO sightings in GreeceThis is a list of alleged sightings of unidentified flying objects or UFOs in Greece. Contents. 1 404 BC; 2 194...</span></span></span>
 
 The central locations repeatedly mentioned were:
 
@@ -279,7 +279,7 @@ These were not random locations. Each area had military significance because of 
 
 ### Thessaloniki: the most cited observation
 
-The Thessaloniki sighting became the best-known Greek ghost rocket report. Researcher Thanassis Vembos, working from contemporary Greek newspaper archives, reconstructed an account describing an object seen at approximately 7:15 pm on 1 September 1946. Witnesses reportedly observed a bright white object moving from north-east to west at high altitude. It left a visible trail resembling smoke or a contrail and disappeared without any explosion or audible sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span>
+The Thessaloniki sighting became the best-known Greek ghost rocket report. Researcher Thanassis Vembos, working from contemporary Greek newspaper archives, reconstructed an account describing an object seen at approximately 7:15 pm on 1 September 1946. Witnesses reportedly observed a bright white object moving from north-east to west at high altitude. It left a visible trail resembling smoke or a contrail and disappeared without any explosion or audible sound.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span>
 
 Several details made the sighting memorable:
 
@@ -296,7 +296,7 @@ Yet the report also contained ambiguities. Estimated altitude was uncertain, eye
 
 ### Reports from Kastoria and western Macedonia
 
-Sightings from Kastoria and western Macedonia were particularly sensitive because the region bordered Albania and Yugoslavia. Some newspaper accounts described flare-like objects or bright projectiles appearing over mountainous areas. British officials later suggested that at least some observations could have been military flares rather than rockets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span>
+Sightings from Kastoria and western Macedonia were particularly sensitive because the region bordered Albania and Yugoslavia. Some newspaper accounts described flare-like objects or bright projectiles appearing over mountainous areas. British officials later suggested that at least some observations could have been military flares rather than rockets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span>
 
 This distinction mattered. Flares were common in unstable border zones and could easily produce dramatic visual impressions at night, especially when seen from long distances across mountain valleys. A bright descending flare viewed from several kilometres away might appear to hover, manoeuvre, or travel horizontally.
 
@@ -306,14 +306,14 @@ At the same time, not all reports matched flare behaviour cleanly. Some witnesse
 
 ### Serres and Drama
 
-Reports from Serres and Drama were less detailed but formed part of the broader Macedonian pattern. Newspapers described luminous aerial phenomena seen by military observers and civilians during the same period. The clustering effect gave the impression of coordinated activity, reinforcing fears that Greece was witnessing missile tests or surveillance operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span>
+Reports from Serres and Drama were less detailed but formed part of the broader Macedonian pattern. Newspapers described luminous aerial phenomena seen by military observers and civilians during the same period. The clustering effect gave the impression of coordinated activity, reinforcing fears that Greece was witnessing missile tests or surveillance operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span>
 
 One important feature of the Greek wave is that many descriptions remained relatively restrained compared with later UFO mythology. Witnesses usually described:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * glowing objects
-* rockets <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
+* rockets<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
 * smoke trails
 * flares
 * brilliant white lights
@@ -324,9 +324,9 @@ There were few claims of structured spacecraft, close encounters, or humanoid oc
 
 ## British Officers and the Military Interpretation
 
-British involvement gave the Greek incidents additional credibility at the time. Greece still depended heavily on British military and political support in 1946, and British officers were stationed in key northern areas. Reports that British personnel had also seen unexplained aerial objects elevated the matter beyond ordinary rumour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span>
+British involvement gave the Greek incidents additional credibility at the time. Greece still depended heavily on British military and political support in 1946, and British officers were stationed in key northern areas. Reports that British personnel had also seen unexplained aerial objects elevated the matter beyond ordinary rumour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span>
 
-However, British responses quickly became cautious and sceptical. According to newspaper reconstructions cited by Vembos, British Embassy representatives later denied that confirmed missile activity had been observed. Some officials suggested that witnesses had mistaken flares or atmospheric effects for rockets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span>
+However, British responses quickly became cautious and sceptical. According to newspaper reconstructions cited by Vembos, British Embassy representatives later denied that confirmed missile activity had been observed. Some officials suggested that witnesses had mistaken flares or atmospheric effects for rockets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vembos.gr">[Thanassis Vembos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vembos.gr</span><span class="citation-popover-title">the greek ghost rockets of 1946</span><span class="citation-popover-snippet">Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</span></span></span>
 
 This shift from alarm to restraint reflected several pressures:
 
@@ -344,9 +344,9 @@ The British position effectively pushed the Greek cases into ambiguity. Authorit
 <img src="{{ "/assets/images/Greece_4902a4_ghost_rockets_1946_a7b253-Illustration-2-dark.svg" | relative_url }}" alt="1946 Ghost Rockets illustration 2" data-theme-src-dark="{{ "/assets/images/Greece_4902a4_ghost_rockets_1946_a7b253-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greece_4902a4_ghost_rockets_1946_a7b253-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Paul Santorini Investigation
 
-One of the most controversial elements of the Greek ghost rocket story emerged years later through statements by physicist Paul Santorini. Santorini was a respected scientist connected with radar and electronics research who reportedly participated in a Greek government investigation into the 1946 sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Santorini" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Santorini</span><span class="citation-popover-snippet">Paul Santorini</span></span></span>
+One of the most controversial elements of the Greek ghost rocket story emerged years later through statements by physicist Paul Santorini. Santorini was a respected scientist connected with radar and electronics research who reportedly participated in a Greek government investigation into the 1946 sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Santorini" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Santorini</span><span class="citation-popover-snippet">Paul Santorini</span></span></span>
 
-According to later accounts, the Greek government initially suspected Soviet missile activity and assigned technical experts to examine the phenomenon. In a 1967 lecture later cited by UFO researchers, Santorini claimed investigators concluded that the objects were not conventional missiles. He also alleged that foreign officials pressured Greece to terminate the investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
+According to later accounts, the Greek government initially suspected Soviet missile activity and assigned technical experts to examine the phenomenon. In a 1967 lecture later cited by UFO researchers, Santorini claimed investigators concluded that the objects were not conventional missiles. He also alleged that foreign officials pressured Greece to terminate the investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ghost rockets</span><span class="citation-popover-snippet">Ghost rockets</span></span></span>
 
 These claims became influential in UFO literature because Santorini was not a fringe figure. However, historians and sceptics point out several major limitations:
 
@@ -403,10 +403,10 @@ The central historical question is not whether people genuinely saw something �
 
 Several features made the Greek reports difficult to dismiss completely at the time:
 
-* Multiple sightings occurred across northern Greece within a short period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Greece" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Greece</span><span class="citation-popover-snippet">UFO sightings in GreeceThis is a list of alleged sightings of unidentified flying objects or UFOs in Greece. Contents. 1 404 BC; 2 194...</span></span></span>
+* Multiple sightings occurred across northern Greece within a short period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Greece" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Greece</span><span class="citation-popover-snippet">UFO sightings in GreeceThis is a list of alleged sightings of unidentified flying objects or UFOs in Greece. Contents. 1 404 BC; 2 194...</span></span></span>
 * Some observations involved trained military personnel.
 * Descriptions of movement and trajectories did not always resemble ordinary meteors.
-* Similar reports were occurring across northern and central Europe simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Greece" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Greece</span><span class="citation-popover-snippet">UFO sightings in GreeceThis is a list of alleged sightings of unidentified flying objects or UFOs in Greece. Contents. 1 404 BC; 2 194...</span></span></span>
+* Similar reports were occurring across northern and central Europe simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Greece" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Greece</span><span class="citation-popover-snippet">UFO sightings in GreeceThis is a list of alleged sightings of unidentified flying objects or UFOs in Greece. Contents. 1 404 BC; 2 194...</span></span></span>
 
 The Scandinavian cases especially influenced perceptions because Swedish military investigators treated many sightings seriously enough to conduct radar tracking and recovery operations. Greek officials were aware of these developments through international reporting.
 
@@ -416,7 +416,7 @@ Modern sceptical interpretations usually combine several explanations rather tha
 
 #### Meteors and fireballs
 
-Some ghost rocket reports likely involved meteors, particularly during periods of heightened meteor activity in 1946. Bright fireballs can leave persistent trails, appear directional, and create dramatic visual impressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Santorini" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Santorini</span><span class="citation-popover-snippet">Paul Santorini</span></span></span>
+Some ghost rocket reports likely involved meteors, particularly during periods of heightened meteor activity in 1946. Bright fireballs can leave persistent trails, appear directional, and create dramatic visual impressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Santorini" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Santorini</span><span class="citation-popover-snippet">Paul Santorini</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9QG6IAZ5HtU" title="Ghost rockets | Wikipedia audio article" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9QG6IAZ5HtU" target="_blank" rel="noopener noreferrer">Ghost rockets | Wikipedia audio article</a></p><p class="youtube-embed-meta">Channel: wikipedia tts &middot; Views: 174 &middot; Uploaded: June 2019 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9QG6IAZ5HtU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9QG6IAZ5HtU">Open on YouTube</a></p></div></div></div>
 
@@ -451,194 +451,194 @@ For the study of UFO history in Greece, the 1946 cases established several endur
 That combination would recur repeatedly in later Greek UFO waves, especially during the highly publicised sightings of the 1950s and later Cold War decades.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Northern Greece Witnessed the 1946 Ghost Rockets. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Northern Greece Witnessed the 1946 Ghost Rockets. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Includes historical incidents such as ghost rocket reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes historical incidents such as ghost rocket reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Fits the military and Cold War investigation angle.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the military and Cold War investigation angle.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how early aerial mysteries were officially interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how early aerial mysteries were officially interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Above Top Secret on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Above Top Secret">Above Top Secret</a>
-        </h4>
-        <p class="fr-book-author">By Timothy Good</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Above Top Secret on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Above Top Secret">Above Top Secret</a>
+</h4>
+<p class="fr-book-author">By Timothy Good</p>
         
-        <p class="fr-book-desc">Covers Cold War-era sightings and government interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers Cold War-era sightings and government interest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Above+Top+Secret+by+Timothy+Good&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-northern-greece-witnessed-the-1946-ghost-rockets-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -654,7 +654,7 @@ That combination would recur repeatedly in later Greek UFO waves, especially dur
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -674,7 +674,7 @@ That combination would recur repeatedly in later Greek UFO waves, especially dur
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -706,7 +706,7 @@ That combination would recur repeatedly in later Greek UFO waves, especially dur
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -758,7 +758,7 @@ That combination would recur repeatedly in later Greek UFO waves, especially dur
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -803,7 +803,7 @@ That combination would recur repeatedly in later Greek UFO waves, especially dur
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -841,127 +841,126 @@ That combination would recur repeatedly in later Greek UFO waves, especially dur
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: vembos.gr  
    Title: the greek ghost rockets of 1946  
-   Link: <a href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</p></details>
+   Link:<a href="https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/post/the-greek-ghost-rockets-of-1946</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thanassis VembosThe Greek Ghost Rockets of 19468 Nov 2012 — The ghost rocket of Thessaloniki was observed on 19.15, September 1; it was m...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Ghost rockets  
-   Link: <a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ghost_rockets" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_rockets</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in Greece  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Greece" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Greece</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in GreeceThis is a list of alleged sightings of unidentified flying objects or UFOs in Greece. Contents. 1 404 BC; 2 194...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Greece" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Greece</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in GreeceThis is a list of alleged sightings of unidentified flying objects or UFOs in Greece. Contents. 1 404 BC; 2 194...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: en.nuremberg.media  
    Title: First Reports Of Ghost Rockets The Beginning Of UFO Mania  
-   Link: <a href="https://en.nuremberg.media/hronotop/20210226/117657/First-Reports-Of-Ghost-Rockets-The-Beginning-Of-UFO-Mania.html" target="_blank" rel="noopener noreferrer nofollow">https://en.nuremberg.media/hronotop/20210226/117657/First-Reports-Of-Ghost-Rockets-The-Beginning-Of-UFO-Mania.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Casus pacisFirst Reports Of &quot;Ghost Rockets&quot;, The Beginning Of UFO...26 Feb 2021 — In 1946, there were about 2,000 UFO reports. Investiga...</p></details>
+   Link:<a href="https://en.nuremberg.media/hronotop/20210226/117657/First-Reports-Of-Ghost-Rockets-The-Beginning-Of-UFO-Mania.html" target="_blank" rel="noopener noreferrer nofollow">https://en.nuremberg.media/hronotop/20210226/117657/First-Reports-Of-Ghost-Rockets-The-Beginning-Of-UFO-Mania.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Casus pacisFirst Reports Of &quot;Ghost Rockets&quot;, The Beginning Of UFO...26 Feb 2021 — In 1946, there were about 2,000 UFO reports. Investiga...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Paul Santorini  
-   Link: <a href="https://en.wikipedia.org/wiki/Paul_Santorini" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Santorini</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Paul_Santorini" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Santorini</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vembos.gr  
-   Link: <a href="https://www.vembos.gr/bio" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/bio</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ParanormalCold War Balloons and the Greek UFO Wave of 1954 · The Greek Ghost Rockets of 1946. ​. Telekinesis, Spontaneous Combustion and...</p></details>
+   Link:<a href="https://www.vembos.gr/bio" target="_blank" rel="noopener noreferrer nofollow">https://www.vembos.gr/bio</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ParanormalCold War Balloons and the Greek UFO Wave of 1954 · The Greek Ghost Rockets of 1946. ​. Telekinesis, Spontaneous Combustion and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TssKuVik7tA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TssKuVik7tA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Greek Civil War | Full History | Human Voiced, No Ads...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TssKuVik7tA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TssKuVik7tA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Greek Civil War | Full History | Human Voiced, No Ads...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Greek Civil War | Full History | Human Voiced, No Ads  
-   Link: <a href="https://www.youtube.com/watch?v=a6AXm9tz-bA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a6AXm9tz-bA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Greek Civil War (1946–1949) – The First Clash Of The Cold War...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a6AXm9tz-bA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a6AXm9tz-bA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greek Civil War (1946–1949) – The First Clash Of The Cold War...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: trove.nla.gov.au  
-   Link: <a href="https://trove.nla.gov.au/newspaper/article/133168177" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/133168177</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Carl Siegbahn. Sweden&#x27;s. leading nuclear physicist, dis. missed as hysteria reports of. &quot;ghost&quot; rockets over Sweden. He.said he was v...</p></details>
+   Link:<a href="https://trove.nla.gov.au/newspaper/article/133168177" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/133168177</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Carl Siegbahn. Sweden&#x27;s. leading nuclear physicist, dis. missed as hysteria reports of. &quot;ghost&quot; rockets over Sweden. He.said he was v...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/story.php?id=100040742508751&amp;story_fbid=1392961342071936" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/story.php?id=100040742508751&amp;story_fbid=1392961342071936</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TimeGhostGhost Rockets “In 1946, several sightings were reported involving strange flying objects later dubbed “ghost rockets.” Most of t...</p></details>
+   Link:<a href="https://www.facebook.com/story.php?id=100040742508751&amp;story_fbid=1392961342071936" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/story.php?id=100040742508751&amp;story_fbid=1392961342071936</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TimeGhostGhost Rockets “In 1946, several sightings were reported involving strange flying objects later dubbed “ghost rockets.” Most of t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9QG6IAZ5HtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9QG6IAZ5HtU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost rockets | Wikipedia audio articleThe first reports of ghost rockets were made on February 26, 1946, by Finnish observers.... 1946...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9QG6IAZ5HtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9QG6IAZ5HtU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost rockets | Wikipedia audio articleThe first reports of ghost rockets were made on February 26, 1946, by Finnish observers.... 1946...</p></details>
    Published: February 26, 1946  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets_1946-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets_1946-1947</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Ghost in the Machine: How Sociology Tried to...A Ghost in the Machine: How Sociology Tried to Explain (Away) American Flying Sau...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Ghost in the Machine: How Sociology Tried to...A Ghost in the Machine: How Sociology Tried to Explain (Away) American Flying Sau...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journalnews.com.ph  
    Title: the strange mystery of the scandinavian ghost rockets of 1946  
-   Link: <a href="https://journalnews.com.ph/the-strange-mystery-of-the-scandinavian-ghost-rockets-of-1946/" target="_blank" rel="noopener noreferrer nofollow">https://journalnews.com.ph/the-strange-mystery-of-the-scandinavian-ghost-rockets-of-1946/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal News OnlineThe Strange Mystery of the Scandinavian Ghost Rockets...18 Jun 2021 — The first real recorded sighting of what would...</p></details>
+   Link:<a href="https://journalnews.com.ph/the-strange-mystery-of-the-scandinavian-ghost-rockets-of-1946/" target="_blank" rel="noopener noreferrer nofollow">https://journalnews.com.ph/the-strange-mystery-of-the-scandinavian-ghost-rockets-of-1946/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal News OnlineThe Strange Mystery of the Scandinavian Ghost Rockets...18 Jun 2021 — The first real recorded sighting of what would...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: crystalinks.com  
-   Link: <a href="https://www.crystalinks.com/ghostrockets.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/ghostrockets.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost RocketsThe best known of these crashes occurred on July 19, 1946, into Lake Kolmjarv, Sweden. Witnesses reported a gray, rocket-sha...</p></details>
+   Link:<a href="https://www.crystalinks.com/ghostrockets.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/ghostrockets.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ghost RocketsThe best known of these crashes occurred on July 19, 1946, into Lake Kolmjarv, Sweden. Witnesses reported a gray, rocket-sha...</p></details>
    Published: July 19, 1946  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: greek ghost rockets 1946 official documents  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/4b315s/greek_ghost_rockets_1946_official_documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/4b315s/greek_ghost_rockets_1946_official_documents/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greek Ghost Rockets (1946) - Official documents?: r/UFOs19 Mar 2016 — Thanassis Vembos posted the article at the link below in 2012 abou...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/4b315s/greek_ghost_rockets_1946_official_documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/4b315s/greek_ghost_rockets_1946_official_documents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Greek Ghost Rockets (1946) - Official documents?: r/UFOs19 Mar 2016 — Thanassis Vembos posted the article at the link below in 2012 abou...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: swedish ghost rockets of 1946 when swedish  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Swedish ghost rockets of 1946-- when...Swedish investigators/scientists reached the conclusion that the &quot;rockets&quot; investigated were of e...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/kinrlc/swedish_ghost_rockets_of_1946_when_swedish/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Swedish ghost rockets of 1946-- when...Swedish investigators/scientists reached the conclusion that the &quot;rockets&quot; investigated were of e...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: shs.hal.science  
    Title: GREECE AND THE EARLY COLD WAR DOCUMENTS  
-   Link: <a href="https://shs.hal.science/halshs-01220793v1/file/GREECE%20AND%20THE%20EARLY%20COLD%20WAR-DOCUMENTS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shs.hal.science/halshs-01220793v1/file/GREECE%20AND%20THE%20EARLY%20COLD%20WAR-DOCUMENTS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>during the early cold war the view from the western...26 Oct 2015 — Greece&#x27;s relation with the West during the Cold War era has constant...</p></details>
+   Link:<a href="https://shs.hal.science/halshs-01220793v1/file/GREECE%20AND%20THE%20EARLY%20COLD%20WAR-DOCUMENTS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shs.hal.science/halshs-01220793v1/file/GREECE%20AND%20THE%20EARLY%20COLD%20WAR-DOCUMENTS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>during the early cold war the view from the western...26 Oct 2015 — Greece&#x27;s relation with the West during the Cold War era has constant...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scribd.com  
    Title: Gross 1972 the Ghost Rockets  
-   Link: <a href="https://www.scribd.com/document/397938665/Gross-1972-the-Ghost-Rockets" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/397938665/Gross-1972-the-Ghost-Rockets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Ghost Rockets | PDF | MeteoroidThis document summarizes UFO sightings reported in Scandinavia in 1946, known as &quot;ghost...</p></details>
+   Link:<a href="https://www.scribd.com/document/397938665/Gross-1972-the-Ghost-Rockets" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/397938665/Gross-1972-the-Ghost-Rockets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Ghost Rockets | PDF | MeteoroidThis document summarizes UFO sightings reported in Scandinavia in 1946, known as &quot;ghost...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: commons.wikimedia.org  
    Title: File:Ghost rocket search July 1946.jpg  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AGhost_rocket_search_July_1946.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AGhost_rocket_search_July_1946.jpg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Ghost rocket search July 1946.jpg17 Sept 2006 — Search for &quot;ghost rocket&quot; seen crashing July 19, 1946, in Lake Kölmjärv...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AGhost_rocket_search_July_1946.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AGhost_rocket_search_July_1946.jpg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Ghost rocket search July 1946.jpg17 Sept 2006 — Search for &quot;ghost rocket&quot; seen crashing July 19, 1946, in Lake Kölmjärv...</p></details>
    Published: July 1946  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theses.gla.ac.uk  
    Title: Page 4. iii.Read more  
-   Link: <a href="https://theses.gla.ac.uk/1138/1/2003delaportaphd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.gla.ac.uk/1138/1/2003delaportaphd.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of britain in greek politics and military operationsby E Delaporta · 2003 · Cited by 4 — Greece became a quasi NATO member in 1950 a...</p></details>
+   Link:<a href="https://theses.gla.ac.uk/1138/1/2003delaportaphd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.gla.ac.uk/1138/1/2003delaportaphd.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>role of britain in greek politics and military operationsby E Delaporta · 2003 · Cited by 4 — Greece became a quasi NATO member in 1950 a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Ghost Rockets, the Scandinavian UFO ghost rockets!!!  
-   Link: <a href="https://www.youtube.com/watch?v=2Ao7rbTGJzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Ao7rbTGJzs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1946 Historical footage of German scientists testing the V-2 rocket...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2Ao7rbTGJzs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Ao7rbTGJzs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1946 Historical footage of German scientists testing the V-2 rocket...</p></details>

@@ -1201,13 +1201,13 @@ The Bahamas is therefore best understood as a “thin-evidence, high-misidentifi
 
 The geography matters. The Bahamas is not one compact observation area; it is an archipelago spread across air and sea routes, with many sightings reported from beaches, boats, cruise ships, resorts and aircraft. A light seen from a ship near Cat Island, a fireball over Nassau, and a strange object over Andros are not the same kind of case, even if all are filed under “Bahamas” in a UFO database.
 
-The most important location is Andros Island and the nearby Tongue of the Ocean. The U.S. Navy’s Atlantic Undersea Test and Evaluation Center, known as AUTEC, operates there, and NAVSEA describes AUTEC as providing instrumented operational areas for research, development, testing, evaluation and warfighter-readiness assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navsea.navy.mil/Home/Warfare-Centers/NUWC-Newport/What-We-Do/Detachments/AUTEC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navsea.navy.mil">[navsea.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navsea.navy.mil</span><span class="citation-popover-snippet">Naval Sea Systems Command &gt; Home &gt; Warfare Centers &gt; NUWC Newport &gt; What We Do &gt; Detachments &gt; AUTEC...</span></span></span> That real military presence has encouraged a long-running “underwater Area 51” mythology. The problem is that a real test range does not automatically validate claims of alien craft, underwater bases, or “transmedium” vehicles. It does, however, increase the chance that unusual lights, radar activity, aircraft, vessels, sensors or exercises may be seen by people who cannot identify them.
+The most important location is Andros Island and the nearby Tongue of the Ocean. The U.S. Navy’s Atlantic Undersea Test and Evaluation Center, known as AUTEC, operates there, and NAVSEA describes AUTEC as providing instrumented operational areas for research, development, testing, evaluation and warfighter-readiness assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navsea.navy.mil/Home/Warfare-Centers/NUWC-Newport/What-We-Do/Detachments/AUTEC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navsea.navy.mil">[navsea.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navsea.navy.mil</span><span class="citation-popover-snippet">Naval Sea Systems Command &gt; Home &gt; Warfare Centers &gt; NUWC Newport &gt; What We Do &gt; Detachments &gt; AUTEC...</span></span></span> That real military presence has encouraged a long-running “underwater Area 51” mythology. The problem is that a real test range does not automatically validate claims of alien craft, underwater bases, or “transmedium” vehicles. It does, however, increase the chance that unusual lights, radar activity, aircraft, vessels, sensors or exercises may be seen by people who cannot identify them.
 
 The second location pattern is Nassau, Paradise Island and nearby tourist corridors. Many public reports come from visitors, cruise passengers or aircraft crews rather than long-running local investigators. That does not make the reports worthless, but it does affect reliability: tourists may not know local flight paths, marine traffic, weather patterns, launch visibility from Florida, or how bright meteors can look over dark sea horizons.
 
 ## What the public sighting record actually shows
 
-The public Bahamas UFO record is dominated by anecdotal reports rather than official case files with sensor data. NUFORC’s country listing includes reports from South Abaco, Nassau, Eleuthera, Long Island, Paradise Island, Andros Island, Treasure Cay, Bimini, Cat Island and cruise-ship locations. The entries range from 1970s recollections submitted decades later to reports filed within days of an event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The public Bahamas UFO record is dominated by anecdotal reports rather than official case files with sensor data. NUFORC’s country listing includes reports from South Abaco, Nassau, Eleuthera, Long Island, Paradise Island, Andros Island, Treasure Cay, Bimini, Cat Island and cruise-ship locations. The entries range from 1970s recollections submitted decades later to reports filed within days of an event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 Several patterns stand out:
 
@@ -1220,12 +1220,12 @@ Several patterns stand out:
 
 </div>
 
-A good example of the mixed quality is NUFORC’s 7 March 1998 South Abaco case. Five observers reported two bright white lights with blue cone-shaped trails, and the witness said video was taken; NUFORC’s own note, however, says the event was consistent with a missile launch except for the reported time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cBahamas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Bahamas</span><span class="citation-popover-snippet">Reports for Country Bahamas</span></span></span> That is not a debunk in the sense of a closed official investigation, but it is a strong warning: even a multi-witness report with a confident observer can resemble known aerospace phenomena.
+A good example of the mixed quality is NUFORC’s 7 March 1998 South Abaco case. Five observers reported two bright white lights with blue cone-shaped trails, and the witness said video was taken; NUFORC’s own note, however, says the event was consistent with a missile launch except for the reported time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cBahamas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Bahamas</span><span class="citation-popover-snippet">Reports for Country Bahamas</span></span></span> That is not a debunk in the sense of a closed official investigation, but it is a strong warning: even a multi-witness report with a confident observer can resemble known aerospace phenomena.
 
 <img src="{{ "/assets/images/The_Bahamas_f765dc-Illustration-1-dark.svg" | relative_url }}" alt="The Bahamas illustration 1" data-theme-src-dark="{{ "/assets/images/The_Bahamas_f765dc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/The_Bahamas_f765dc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Andros and AUTEC question
 
-Andros is the centre of the most persistent Bahamas UFO mythology because AUTEC is real, secretive in the ordinary military sense, and geographically dramatic. The facility sits in a deep-ocean testing environment and supports undersea and related operational testing. NAVSEA’s public description is mundane but important: it frames AUTEC as a maritime warfare test and evaluation site, not as a UFO research base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navsea.navy.mil/Portals/103/Documents/NUWC_Newport/AUTEC/AUTECmilitaryinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navsea.navy.mil">[navsea.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navsea.navy.mil</span><span class="citation-popover-title">mil Welcome Aboard!</span><span class="citation-popover-snippet">mil Welcome Aboard!</span></span></span>
+Andros is the centre of the most persistent Bahamas UFO mythology because AUTEC is real, secretive in the ordinary military sense, and geographically dramatic. The facility sits in a deep-ocean testing environment and supports undersea and related operational testing. NAVSEA’s public description is mundane but important: it frames AUTEC as a maritime warfare test and evaluation site, not as a UFO research base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navsea.navy.mil/Portals/103/Documents/NUWC_Newport/AUTEC/AUTECmilitaryinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navsea.navy.mil">[navsea.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navsea.navy.mil</span><span class="citation-popover-title">mil Welcome Aboard!</span><span class="citation-popover-snippet">mil Welcome Aboard!</span></span></span>
 
 The UFO claim around AUTEC usually takes one of three forms. The first is cautious: people near Andros have seen lights or radar anomalies they could not identify. The second is speculative: because the area is used for advanced military testing, some sightings may involve classified systems. The third is sensational: AUTEC is linked to alien technology or underwater UFO bases. Only the first two are reasonable to discuss as evidence-aware possibilities; the third rests mainly on television, internet lore and repetition rather than documentary proof.
 
@@ -1235,19 +1235,19 @@ The strongest way to read Andros reports is not “therefore aliens”, but “t
 
 The Bahamas record is too thin for a definitive national chronology, but several public reports are useful anchors.
 
-A 1971 Eleuthera report, submitted to NUFORC in 2003, describes a guard-duty encounter with a slow, low object near a former naval facility. It is striking as a narrative because it includes claimed repeated appearances and multiple witnesses, but it is also weak as evidence because it was reported about three decades later and depends on memory rather than available logs, photographs or contemporary investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=3382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+A 1971 Eleuthera report, submitted to NUFORC in 2003, describes a guard-duty encounter with a slow, low object near a former naval facility. It is striking as a narrative because it includes claimed repeated appearances and multiple witnesses, but it is also weak as evidence because it was reported about three decades later and depends on memory rather than available logs, photographs or contemporary investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=3382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The 1998 South Abaco report is more useful analytically because it shows how a dramatic-looking case can still sit near a plausible aerospace explanation. The witness described two bright objects with blue cone-shaped trails and apparent manoeuvring; NUFORC marked it as broadly consistent with a missile launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=28941" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The 1998 South Abaco report is more useful analytically because it shows how a dramatic-looking case can still sit near a plausible aerospace explanation. The witness described two bright objects with blue cone-shaped trails and apparent manoeuvring; NUFORC marked it as broadly consistent with a missile launch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=28941" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The 2000s reports include Paradise Island, Nassau, Long Island, Andros and cruise-ship entries. They are varied rather than coherent: disks, lights, cigars, ovals, clouds, fireballs and circles. This variety is a caution against treating “Bahamas UFOs” as one phenomenon. It is more likely a basket category containing meteors, aircraft, rockets, balloons, misperceived lights, possible military activity, and a residue of genuinely unresolved witness experiences.
 
-Recent entries show the same pattern. A 20 May 2025 Cat Island report describes a silent boomerang or chevron shape with symmetrical white lights seen from a ship at close range. It is interesting because the witness gives direction, estimated size, elevation and distance, but it remains a single-observer report without corroborating sensor data in the public file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Recent entries show the same pattern. A 20 May 2025 Cat Island report describes a silent boomerang or chevron shape with symmetrical white lights seen from a ship at close range. It is interesting because the witness gives direction, estimated size, elevation and distance, but it remains a single-observer report without corroborating sensor data in the public file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=189917" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wPrH472rx5A" title="What’s in the Pentagon’s Newly Released UFO Files? | Vargas Reports Full Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wPrH472rx5A" target="_blank" rel="noopener noreferrer">What’s in the Pentagon’s Newly Released UFO Files? | Vargas Reports Full Show</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 171.8K &middot; Uploaded: May 2026 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wPrH472rx5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wPrH472rx5A">Open on YouTube</a></p></div></div></div>
 
 ## The 2025 flight-crew sighting over The Bahamas
 
-The most publicised recent Bahamas-related UFO story came from a Surjet [flight crew]({{ 'flight-crew/' | relative_url }}) returning to Fort Lauderdale on 23 December 2024 and reported by NBC Miami in January 2025. The crew said they saw a glowing spherical object high over The Bahamas after Miami air traffic control asked them to identify a “foreign object”. Flight attendant Cassandra Martin described a white object turning green, apparently above the aircraft at roughly 43,000 to 45,000 feet, and said it remained visible for about 45 minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nbcmiami.com/news/local/ufo-sighting-fort-lauderdale-flight-crew-spots-something-strange-in-the-sky/3511543/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbcmiami.com">[NBC 6 South Florida]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbcmiami.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most publicised recent Bahamas-related UFO story came from a Surjet [flight crew]({{ 'flight-crew/' | relative_url }}) returning to Fort Lauderdale on 23 December 2024 and reported by NBC Miami in January 2025. The crew said they saw a glowing spherical object high over The Bahamas after Miami air traffic control asked them to identify a “foreign object”. Flight attendant Cassandra Martin described a white object turning green, apparently above the aircraft at roughly 43,000 to 45,000 feet, and said it remained visible for about 45 minutes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nbcmiami.com/news/local/ufo-sighting-fort-lauderdale-flight-crew-spots-something-strange-in-the-sky/3511543/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbcmiami.com">[NBC 6 South Florida]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbcmiami.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This case is stronger than many casual reports because it involves aviation witnesses, a reported air-traffic-control prompt, video, altitude context and multiple crew members. But it is still not a confirmed anomalous craft. The public reporting does not provide the raw ATC audio, radar track, exact coordinates, astronomical checks, satellite pass analysis, weather-balloon data, military traffic correlation, or complete camera metadata needed to resolve it. The story is best classed as **contested and unresolved in public**, not confirmed.
 
@@ -1255,18 +1255,18 @@ The sighting also shows why The Bahamas is a difficult UFO environment. Aircraft
 
 ## Rocket debris, meteors and the “UFO” problem
 
-Some Bahamas sky events that look extraordinary have clear or likely non-UFO explanations. In April 2021, a bright fireball visible from Florida and The Bahamas was reported as a meteor event, with many people capturing the fiery trail and explosion-like flash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2021/apr/13/fireball-object-passes-close-to-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hundreds capture spectacular fireball passing</span><span class="citation-popover-snippet">The Guardian Hundreds capture spectacular fireball passing</span></span></span> Fireballs are especially easy to misread over the ocean because there are few nearby reference points for distance, speed or altitude.
+Some Bahamas sky events that look extraordinary have clear or likely non-UFO explanations. In April 2021, a bright fireball visible from Florida and The Bahamas was reported as a meteor event, with many people capturing the fiery trail and explosion-like flash.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2021/apr/13/fireball-object-passes-close-to-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hundreds capture spectacular fireball passing</span><span class="citation-popover-snippet">The Guardian Hundreds capture spectacular fireball passing</span></span></span> Fireballs are especially easy to misread over the ocean because there are few nearby reference points for distance, speed or altitude.
 
-Rocket activity is now an even more important source of confusion. On 6 March 2025, SpaceX’s Starship broke up after launch, and Reuters reported videos showing fiery debris near south Florida and The Bahamas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/spacex-launches-eighth-starship-test-eyeing-ships-mock-satellite-deployment-2025-03-06/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Space X&#x27;s Starship explodes in space, which Musk calls a</span><span class="citation-popover-snippet">Space X&#x27;s Starship explodes in space, which Musk calls a</span></span></span> The Government of The Bahamas later stated that debris from Starship fell into Southern Bahamas airspace, while also clarifying that Starship was licensed by the U.S. Federal Aviation Administration and was separate from The Bahamas’ Falcon 9 booster-landing arrangement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahamas.com/pressroom/statement-from-the-government-of-the-bahamas-on-space-x-starship-operations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahamas.com">[The Islands of The Bahamas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahamas.com</span><span class="citation-popover-title">statement from the government of the bahamas on space x starship operations</span><span class="citation-popover-snippet">statement from the government of the bahamas on space x starship operations</span></span></span>
+Rocket activity is now an even more important source of confusion. On 6 March 2025, SpaceX’s Starship broke up after launch, and Reuters reported videos showing fiery debris near south Florida and The Bahamas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/spacex-launches-eighth-starship-test-eyeing-ships-mock-satellite-deployment-2025-03-06/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Space X&#x27;s Starship explodes in space, which Musk calls a</span><span class="citation-popover-snippet">Space X&#x27;s Starship explodes in space, which Musk calls a</span></span></span> The Government of The Bahamas later stated that debris from Starship fell into Southern Bahamas airspace, while also clarifying that Starship was licensed by the U.S. Federal Aviation Administration and was separate from The Bahamas’ Falcon 9 booster-landing arrangement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahamas.com/pressroom/statement-from-the-government-of-the-bahamas-on-space-x-starship-operations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahamas.com">[The Islands of The Bahamas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahamas.com</span><span class="citation-popover-title">statement from the government of the bahamas on space x starship operations</span><span class="citation-popover-snippet">statement from the government of the bahamas on space x starship operations</span></span></span>
 
 This matters for UFO analysis because rocket debris can look exactly like a dramatic “fleet” or “shower” of unknown objects to witnesses who do not know a launch anomaly has occurred. It also creates a local feedback loop: after a spectacular debris event, later lights in the same skies may be interpreted through a UFO lens even when they are satellites, aircraft, meteors or further space activity.
 
 <img src="{{ "/assets/images/The_Bahamas_f765dc-Illustration-2-dark.svg" | relative_url }}" alt="The Bahamas illustration 2" data-theme-src-dark="{{ "/assets/images/The_Bahamas_f765dc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/The_Bahamas_f765dc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records and what is missing
 
-The most important official archive for older U.S. UFO investigations is Project Blue Book. The U.S. National Archives states that Project Blue Book records have been declassified, that the project closed in 1969, and that the Archives has no information on sightings after that date. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> That matters because many Bahamas stories are post-1969 and therefore sit outside Blue Book’s active investigative period.
+The most important official archive for older U.S. UFO investigations is Project Blue Book. The U.S. National Archives states that Project Blue Book records have been declassified, that the project closed in 1969, and that the Archives has no information on sightings after that date.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> That matters because many Bahamas stories are post-1969 and therefore sit outside Blue Book’s active investigative period.
 
-For the modern U.S. framework, the All-domain Anomaly Resolution Office, or AARO, is the body leading U.S. government work on unidentified anomalous phenomena using a scientific and data-driven approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span> AARO’s public imagery page is also a useful reality check: some official UAP cases remain unresolved, while others are assessed as balloons, birds, prosaic aircraft or insufficiently evidenced for firm conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> The key point for The Bahamas is that public AARO material does not establish a confirmed Bahamas-origin anomalous vehicle case.
+For the modern U.S. framework, the All-domain Anomaly Resolution Office, or AARO, is the body leading U.S. government work on unidentified anomalous phenomena using a scientific and data-driven approach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span> AARO’s public imagery page is also a useful reality check: some official UAP cases remain unresolved, while others are assessed as balloons, birds, prosaic aircraft or insufficiently evidenced for firm conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> The key point for The Bahamas is that public AARO material does not establish a confirmed Bahamas-origin anomalous vehicle case.
 
 There is also a local-records gap. Publicly accessible Bahamian government, aviation or defence material does not appear to contain a dedicated national UFO archive comparable to Blue Book. That absence should not be overread as proof that nothing happened; small countries often do not maintain public UFO catalogues. But it does mean the Bahamas record relies heavily on third-party databases, journalism, television episodes, social media clips and witness submissions.
 
@@ -1276,11 +1276,11 @@ There is also a local-records gap. Publicly accessible Bahamian government, avia
 
 A useful Bahamas UFO page needs to separate evidence categories rather than treating every report as equal.
 
-**Confirmed events** are not confirmed alien craft; they are confirmed sky events or institutional facts. AUTEC is a real U.S. Navy test and evaluation facility on Andros with public NAVSEA descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navsea.navy.mil/Home/Warfare-Centers/NUWC-Newport/What-We-Do/Detachments/AUTEC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navsea.navy.mil">[navsea.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navsea.navy.mil</span><span class="citation-popover-snippet">Naval Sea Systems Command &gt; Home &gt; Warfare Centers &gt; NUWC Newport &gt; What We Do &gt; Detachments &gt; AUTEC...</span></span></span> Project Blue Book is a real declassified archive, though closed in 1969. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> SpaceX debris over Bahamian airspace in March 2025 is a confirmed aerospace event relevant to later UFO confusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahamas.com/pressroom/statement-from-the-government-of-the-bahamas-on-space-x-starship-operations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahamas.com">[The Islands of The Bahamas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahamas.com</span><span class="citation-popover-title">statement from the government of the bahamas on space x starship operations</span><span class="citation-popover-snippet">statement from the government of the bahamas on space x starship operations</span></span></span>
+**Confirmed events** are not confirmed alien craft; they are confirmed sky events or institutional facts. AUTEC is a real U.S. Navy test and evaluation facility on Andros with public NAVSEA descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.navsea.navy.mil/Home/Warfare-Centers/NUWC-Newport/What-We-Do/Detachments/AUTEC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navsea.navy.mil">[navsea.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navsea.navy.mil</span><span class="citation-popover-snippet">Naval Sea Systems Command &gt; Home &gt; Warfare Centers &gt; NUWC Newport &gt; What We Do &gt; Detachments &gt; AUTEC...</span></span></span> Project Blue Book is a real declassified archive, though closed in 1969.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> SpaceX debris over Bahamian airspace in March 2025 is a confirmed aerospace event relevant to later UFO confusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahamas.com/pressroom/statement-from-the-government-of-the-bahamas-on-space-x-starship-operations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahamas.com">[The Islands of The Bahamas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahamas.com</span><span class="citation-popover-title">statement from the government of the bahamas on space x starship operations</span><span class="citation-popover-snippet">statement from the government of the bahamas on space x starship operations</span></span></span>
 
-**Contested reports** include the 2025 flight-crew sighting over The Bahamas, the 1971 Eleuthera guard-duty account, the 2025 Cat Island chevron report and many NUFORC entries from Nassau, Paradise Island, Andros and cruise routes. These may describe sincere observations, but public evidence is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nbcmiami.com/news/local/ufo-sighting-fort-lauderdale-flight-crew-spots-something-strange-in-the-sky/3511543/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbcmiami.com">[NBC 6 South Florida]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbcmiami.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=44570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested reports** include the 2025 flight-crew sighting over The Bahamas, the 1971 Eleuthera guard-duty account, the 2025 Cat Island chevron report and many NUFORC entries from Nassau, Paradise Island, Andros and cruise routes. These may describe sincere observations, but public evidence is incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nbcmiami.com/news/local/ufo-sighting-fort-lauderdale-flight-crew-spots-something-strange-in-the-sky/3511543/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbcmiami.com">[NBC 6 South Florida]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbcmiami.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=44570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Debunked or partly explained claims** include cases where the public record itself points to a likely mundane explanation. The 1998 South Abaco “blue cone” report is a good example because NUFORC noted consistency with a missile launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=46250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Meteor fireballs and rocket debris also explain some dramatic “falling object” or “fiery lights” reports over or near The Bahamas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2021/apr/13/fireball-object-passes-close-to-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hundreds capture spectacular fireball passing</span><span class="citation-popover-snippet">The Guardian Hundreds capture spectacular fireball passing</span></span></span>
+**Debunked or partly explained claims** include cases where the public record itself points to a likely mundane explanation. The 1998 South Abaco “blue cone” report is a good example because NUFORC noted consistency with a missile launch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=46250" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Meteor fireballs and rocket debris also explain some dramatic “falling object” or “fiery lights” reports over or near The Bahamas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2021/apr/13/fireball-object-passes-close-to-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hundreds capture spectacular fireball passing</span><span class="citation-popover-snippet">The Guardian Hundreds capture spectacular fireball passing</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QTlkpbSmFDc" title="UFO Hunters: US Navy Hides Area 51 Secrets (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QTlkpbSmFDc" target="_blank" rel="noopener noreferrer">UFO Hunters: US Navy Hides Area 51 Secrets (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 130.2K &middot; Uploaded: November 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QTlkpbSmFDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QTlkpbSmFDc">Open on YouTube</a></p></div></div></div>
 
@@ -1301,194 +1301,194 @@ The most responsible conclusion is a layered one: The Bahamas has real unexplain
 <img src="{{ "/assets/images/The_Bahamas_f765dc-Illustration-3-dark.svg" | relative_url }}" alt="The Bahamas illustration 3" data-theme-src-dark="{{ "/assets/images/The_Bahamas_f765dc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/The_Bahamas_f765dc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Shapes Bahamas UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Shapes Bahamas UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Useful background on how classified activity feeds UFO speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background on how classified activity feeds UFO speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Excellent overview for readers entering the Bahamas UFO topic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent overview for readers entering the Bahamas UFO topic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how culture and geography shape unusual sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how culture and geography shape unusual sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry+by+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophysics for People in a Hurry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hx5DDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Astrophysics for People in a Hurry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry+by+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophysics for People in a Hurry">Astrophysics for People in a Hurry</a>
-        </h4>
-        <p class="fr-book-author">By Neil deGrasse Tyson</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Offers accessible background on astronomical phenomena visible in the night sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry+by+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry+by+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Astrophysics for People in a Hurry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hx5DDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Astrophysics for People in a Hurry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry+by+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrophysics for People in a Hurry">Astrophysics for People in a Hurry</a>
+</h4>
+<p class="fr-book-author">By Neil deGrasse Tyson</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Offers accessible background on astronomical phenomena visible in the night sky.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Astrophysics+for+People+in+a+Hurry+by+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-shapes-bahamas-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-shapes-bahamas-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1504,7 +1504,7 @@ The most responsible conclusion is a layered one: The Bahamas has real unexplain
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1524,7 +1524,7 @@ The most responsible conclusion is a layered one: The Bahamas has real unexplain
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1556,7 +1556,7 @@ The most responsible conclusion is a layered one: The Bahamas has real unexplain
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1608,7 +1608,7 @@ The most responsible conclusion is a layered one: The Bahamas has real unexplain
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1653,7 +1653,7 @@ The most responsible conclusion is a layered one: The Bahamas has real unexplain
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1691,206 +1691,205 @@ The most responsible conclusion is a layered one: The Bahamas has real unexplain
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: navsea.navy.mil  
-   Link: <a href="https://www.navsea.navy.mil/Home/Warfare-Centers/NUWC-Newport/What-We-Do/Detachments/AUTEC/" target="_blank" rel="noopener noreferrer nofollow">https://www.navsea.navy.mil/Home/Warfare-Centers/NUWC-Newport/What-We-Do/Detachments/AUTEC/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Sea Systems Command &gt; Home &gt; Warfare Centers &gt; NUWC Newport &gt; What We Do &gt; Detachments &gt; AUTEC...</p></details>
+   Link:<a href="https://www.navsea.navy.mil/Home/Warfare-Centers/NUWC-Newport/What-We-Do/Detachments/AUTEC/" target="_blank" rel="noopener noreferrer nofollow">https://www.navsea.navy.mil/Home/Warfare-Centers/NUWC-Newport/What-We-Do/Detachments/AUTEC/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Sea Systems Command &gt; Home &gt; Warfare Centers &gt; NUWC Newport &gt; What We Do &gt; Detachments &gt; AUTEC...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports for Country Bahamas  
-   Link: <a href="https://nuforc.org/subndx/?id=cBahamas" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cBahamas</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cBahamas" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cBahamas</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=3382" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=3382</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=3382" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=3382</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=28941" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=28941</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=28941" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=28941</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=189917" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189917</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=189917" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=189917</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: Space X's Starship explodes in space, which Musk calls a '  
-   Link: <a href="https://www.reuters.com/technology/space/spacex-launches-eighth-starship-test-eyeing-ships-mock-satellite-deployment-2025-03-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/spacex-launches-eighth-starship-test-eyeing-ships-mock-satellite-deployment-2025-03-06/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/spacex-launches-eighth-starship-test-eyeing-ships-mock-satellite-deployment-2025-03-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/spacex-launches-eighth-starship-test-eyeing-ships-mock-satellite-deployment-2025-03-06/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bahamas.com  
    Title: statement from the government of the bahamas on space x starship operations  
-   Link: <a href="https://www.bahamas.com/pressroom/statement-from-the-government-of-the-bahamas-on-space-x-starship-operations" target="_blank" rel="noopener noreferrer nofollow">https://www.bahamas.com/pressroom/statement-from-the-government-of-the-bahamas-on-space-x-starship-operations</a>  
+   Link:<a href="https://www.bahamas.com/pressroom/statement-from-the-government-of-the-bahamas-on-space-x-starship-operations" target="_blank" rel="noopener noreferrer nofollow">https://www.bahamas.com/pressroom/statement-from-the-government-of-the-bahamas-on-space-x-starship-operations</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=44570" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=44570</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=44570" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=44570</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=46250" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46250</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=46250" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46250</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=197313" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197313</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=197313" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197313</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=77003" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=77003</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=77003" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=77003</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=58582" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=58582</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=58582" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=58582</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: space.com  
    Title: 8546 ufo spotted australia private rocket  
-   Link: <a href="https://www.space.com/8546-ufo-spotted-australia-private-rocket.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/8546-ufo-spotted-australia-private-rocket.html</a>  
+   Link:<a href="https://www.space.com/8546-ufo-spotted-australia-private-rocket.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/8546-ufo-spotted-australia-private-rocket.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: space.com  
    Title: x resume rocket landings bahamas after starship mishap debris  
-   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-resume-rocket-landings-bahamas-after-starship-mishap-debris" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-resume-rocket-landings-bahamas-after-starship-mishap-debris</a>  
+   Link:<a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-resume-rocket-landings-bahamas-after-starship-mishap-debris" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-resume-rocket-landings-bahamas-after-starship-mishap-debris</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: navsea.navy.mil  
    Title: mil Welcome Aboard!  
-   Link: <a href="https://www.navsea.navy.mil/Portals/103/Documents/NUWC_Newport/AUTEC/AUTECmilitaryinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navsea.navy.mil/Portals/103/Documents/NUWC_Newport/AUTEC/AUTECmilitaryinfo.pdf</a>  
+   Link:<a href="https://www.navsea.navy.mil/Portals/103/Documents/NUWC_Newport/AUTEC/AUTECmilitaryinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navsea.navy.mil/Portals/103/Documents/NUWC_Newport/AUTEC/AUTECmilitaryinfo.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reuters.com  
    Title: bahamas suspends spacex landings pending post launch probe 2025 04 16  
-   Link: <a href="https://www.reuters.com/science/bahamas-suspends-spacex-landings-pending-post-launch-probe-2025-04-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/science/bahamas-suspends-spacex-landings-pending-post-launch-probe-2025-04-16/</a>  
+   Link:<a href="https://www.reuters.com/science/bahamas-suspends-spacex-landings-pending-post-launch-probe-2025-04-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/science/bahamas-suspends-spacex-landings-pending-post-launch-probe-2025-04-16/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: bahamasfalcon9.com  
-   Link: <a href="https://bahamasfalcon9.com/wp-content/uploads/2025/09/2024.022-X06-6.1EN-SpaceX-EIA-Revision-2-August-29-2025-compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bahamasfalcon9.com/wp-content/uploads/2025/09/2024.022-X06-6.1EN-SpaceX-EIA-Revision-2-August-29-2025-compressed.pdf</a>  
+   Link:<a href="https://bahamasfalcon9.com/wp-content/uploads/2025/09/2024.022-X06-6.1EN-SpaceX-EIA-Revision-2-August-29-2025-compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bahamasfalcon9.com/wp-content/uploads/2025/09/2024.022-X06-6.1EN-SpaceX-EIA-Revision-2-August-29-2025-compressed.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nbcmiami.com  
-   Link: <a href="https://www.nbcmiami.com/news/local/ufo-sighting-fort-lauderdale-flight-crew-spots-something-strange-in-the-sky/3511543/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcmiami.com/news/local/ufo-sighting-fort-lauderdale-flight-crew-spots-something-strange-in-the-sky/3511543/</a>  
+   Link:<a href="https://www.nbcmiami.com/news/local/ufo-sighting-fort-lauderdale-flight-crew-spots-something-strange-in-the-sky/3511543/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcmiami.com/news/local/ufo-sighting-fort-lauderdale-flight-crew-spots-something-strange-in-the-sky/3511543/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: The Guardian Hundreds capture spectacular fireball passing  
-   Link: <a href="https://www.theguardian.com/science/2021/apr/13/fireball-object-passes-close-to-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2021/apr/13/fireball-object-passes-close-to-earth</a>  
+   Link:<a href="https://www.theguardian.com/science/2021/apr/13/fireball-object-passes-close-to-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2021/apr/13/fireball-object-passes-close-to-earth</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/photos/a-commercial-flight-crew-over-the-bahamas-has-reported-a-jaw-dropping-encounter-/1445511700908798/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/photos/a-commercial-flight-crew-over-the-bahamas-has-reported-a-jaw-dropping-encounter-/1445511700908798/</a>  
+   Link:<a href="https://www.facebook.com/HiddenFactsss/photos/a-commercial-flight-crew-over-the-bahamas-has-reported-a-jaw-dropping-encounter-/1445511700908798/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/photos/a-commercial-flight-crew-over-the-bahamas-has-reported-a-jaw-dropping-encounter-/1445511700908798/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Atlantic Undersea Test and Evaluation Center  
-   Link: <a href="https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atlantic_Undersea_Test_and_Evaluation_Center</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: inspired-training.com  
    Title: Bermuda Triangle  
-   Link: <a href="https://www.inspired-training.com/Bermuda%20Triangle%20-%20Stargate%20-%20Underwater%20Area51.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.inspired-training.com/Bermuda%20Triangle%20-%20Stargate%20-%20Underwater%20Area51.htm</a>  
+   Link:<a href="https://www.inspired-training.com/Bermuda%20Triangle%20-%20Stargate%20-%20Underwater%20Area51.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.inspired-training.com/Bermuda%20Triangle%20-%20Stargate%20-%20Underwater%20Area51.htm</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/global/video/2021/apr/13/fireball-lights-up-florida-sky-as-it-passes-uncomfortably-close-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/global/video/2021/apr/13/fireball-lights-up-florida-sky-as-it-passes-uncomfortably-close-video</a>  
+   Link:<a href="https://www.theguardian.com/global/video/2021/apr/13/fireball-lights-up-florida-sky-as-it-passes-uncomfortably-close-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/global/video/2021/apr/13/fireball-lights-up-florida-sky-as-it-passes-uncomfortably-close-video</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
    Title: alien hopes crash to earth glowing spiral uk spacex rocket  
-   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
+   Link:<a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: theguardian.com  
    Title: progress 59 spacecraft what are your chances of being hit by falling debris  
-   Link: <a href="https://www.theguardian.com/science/across-the-universe/2015/may/07/progress-59-spacecraft-what-are-your-chances-of-being-hit-by-falling-debris" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/across-the-universe/2015/may/07/progress-59-spacecraft-what-are-your-chances-of-being-hit-by-falling-debris</a>  
+   Link:<a href="https://www.theguardian.com/science/across-the-universe/2015/may/07/progress-59-spacecraft-what-are-your-chances-of-being-hit-by-falling-debris" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/across-the-universe/2015/may/07/progress-59-spacecraft-what-are-your-chances-of-being-hit-by-falling-debris</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: military-history.fandom.com  
    Title: Atlantic Undersea Test and Evaluation Center  
-   Link: <a href="https://military-history.fandom.com/wiki/Atlantic_Undersea_Test_and_Evaluation_Center" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Atlantic_Undersea_Test_and_Evaluation_Center</a>  
+   Link:<a href="https://military-history.fandom.com/wiki/Atlantic_Undersea_Test_and_Evaluation_Center" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Atlantic_Undersea_Test_and_Evaluation_Center</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: globalsecurity.org  
-   Link: <a href="https://www.globalsecurity.org/military/facility/autec.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/facility/autec.htm</a>  
+   Link:<a href="https://www.globalsecurity.org/military/facility/autec.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/facility/autec.htm</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: What's in the Pentagon's Newly Released UFO Files? | Vargas Reports Full Show  
-   Link: <a href="https://www.youtube.com/watch?v=wPrH472rx5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPrH472rx5A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trap or Coincidence? A Recent UFO Encounter at a Military Test Range...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wPrH472rx5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPrH472rx5A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trap or Coincidence? A Recent UFO Encounter at a Military Test Range...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Trap or Coincidence? A Recent UFO Encounter at a Military Test Range  
-   Link: <a href="https://www.youtube.com/watch?v=I01XpUuVNG0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I01XpUuVNG0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The legend of Area 51—and why it still fascinates us...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=I01XpUuVNG0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I01XpUuVNG0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The legend of Area 51—and why it still fascinates us...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/products/nsiad-91-75" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-91-75</a>  
+   Link:<a href="https://www.gao.gov/products/nsiad" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: The legend of Area 51—and why it still fascinates us  
-   Link: <a href="https://www.youtube.com/watch?v=Q74VqK17n-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q74VqK17n-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Pentagon&#x27;s massive new UAP/UFO disclosure | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q74VqK17n-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q74VqK17n-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Pentagon&#x27;s massive new UAP/UFO disclosure | Reality Check...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/posts/a-cloud-like-spiral-was-spotted-in-the-night-sky-across-the-uk-and-ireland-on-mo/1089199859918009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/a-cloud-like-spiral-was-spotted-in-the-night-sky-across-the-uk-and-ireland-on-mo/1089199859918009/</a>  
+   Link:<a href="https://www.facebook.com/skynews/posts/a-cloud-like-spiral-was-spotted-in-the-night-sky-across-the-uk-and-ireland-on-mo/1089199859918009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/a-cloud-like-spiral-was-spotted-in-the-night-sky-across-the-uk-and-ireland-on-mo/1089199859918009/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWABzdJkuPY/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWABzdJkuPY/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DWABzdJkuPY/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWABzdJkuPY/?hl=en</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/993167/autec-plays-critical-role-undersea-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/993167/autec-plays-critical-role-undersea-warfare</a>  
+   Link:<a href="https://www.dvidshub.net/video/993167/autec-plays-critical-role-undersea-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/993167/autec-plays-critical-role-undersea-warfare</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bnewsmabey/posts/bahamians-say-they-see-a-strange-object-fall-from-the-sky-this-morningbn/840235953130235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bnewsmabey/posts/bahamians-say-they-see-a-strange-object-fall-from-the-sky-this-morningbn/840235953130235/</a>  
+   Link:<a href="https://www.facebook.com/bnewsmabey/posts/bahamians-say-they-see-a-strange-object-fall-from-the-sky-this-morningbn/840235953130235/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bnewsmabey/posts/bahamians-say-they-see-a-strange-object-fall-from-the-sky-this-morningbn/840235953130235/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bnewsmabey/videos/bahamians-say-they-see-a-strange-object-fall-from-the-sky-this-morningbn/235979174121421/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bnewsmabey/videos/bahamians-say-they-see-a-strange-object-fall-from-the-sky-this-morningbn/235979174121421/</a>
+   Link:<a href="https://www.facebook.com/bnewsmabey/videos/bahamians-say-they-see-a-strange-object-fall-from-the-sky-this-morningbn/235979174121421/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bnewsmabey/videos/bahamians-say-they-see-a-strange-object-fall-from-the-sky-this-morningbn/235979174121421/</a>

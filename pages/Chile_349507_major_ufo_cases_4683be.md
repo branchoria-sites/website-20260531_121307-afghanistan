@@ -254,20 +254,20 @@ image: /assets/images/Chile_349507_major_ufo_cases_4683be-Illustration-1-social.
 
 ## Introduction
 
-[Chile]({{ 'how-chile-investigates-ufos-and-aerial/' | relative_url }})’s UFO history is unusual because several of its most famous cases were not left entirely to tabloids or private enthusiasts. From the late 1960s onward, Chilean meteorological authorities, civil aviation officials and later the Directorate General of Civil Aeronautics (DGAC) created formal channels for investigating anomalous aerial reports. That institutional continuity makes Chile one of the more document-rich national UFO case studies in South America, even though many incidents eventually received ordinary explanations or remained unresolved rather than “confirmed extraterrestrial”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chile.travel">[Chile Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chile.travel</span><span class="citation-popover-snippet">Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 — However, not all are amateur groups, in 1997 the CEFAA was c...</span></span></span>
+[Chile]({{ 'how-chile-investigates-ufos-and-aerial/' | relative_url }})’s UFO history is unusual because several of its most famous cases were not left entirely to tabloids or private enthusiasts. From the late 1960s onward, Chilean meteorological authorities, civil aviation officials and later the Directorate General of Civil Aeronautics (DGAC) created formal channels for investigating anomalous aerial reports. That institutional continuity makes Chile one of the more document-rich national UFO case studies in South America, even though many incidents eventually received ordinary explanations or remained unresolved rather than “confirmed extraterrestrial”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chile.travel">[Chile Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chile.travel</span><span class="citation-popover-snippet">Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 — However, not all are amateur groups, in 1997 the CEFAA was c...</span></span></span>
 
 <img src="{{ "/assets/images/Chile_349507_major_ufo_cases_4683be-Illustration-1-dark.svg" | relative_url }}" alt="Major Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Chile_349507_major_ufo_cases_4683be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chile_349507_major_ufo_cases_4683be-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The country’s most discussed incidents stretch from the early meteorological commission period beginning in 1968 through the CEFAA era after 1997 and into the later SEFAA archive. Some cases involved pilots or military observers, others involved mass public sightings, and a few became internationally famous because official investigators initially classified them as unexplained. Yet Chile’s record is also a useful study in how UFO narratives evolve over time: early uncertainty sometimes hardened into mythology, while later technical reviews frequently reduced extraordinary claims to atmospheric effects, aircraft, astronomical objects or incomplete data.
 
 ## The 1968–1975 meteorological commission era
 
-Chile’s first sustained official UFO effort began on 9 July 1968 under a commission connected to the national meteorological service. Later DGAC publications describe this as the foundation of Chile’s formal investigative tradition before the later CEFAA organisation was created in 1997. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
+Chile’s first sustained official UFO effort began on 9 July 1968 under a commission connected to the national meteorological service. Later DGAC publications describe this as the foundation of Chile’s formal investigative tradition before the later CEFAA organisation was created in 1997.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
 
-This early phase matters less for a single definitive incident than for establishing a pattern: reports from commercial pilots, remote desert regions and military observers were increasingly archived instead of dismissed outright. Chile’s geography contributed heavily to this culture. The Atacama Desert, long mountain horizons and low light pollution produced many observations of meteors, satellites and atmospheric phenomena that were difficult for witnesses to interpret in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chile.travel">[Chile Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chile.travel</span><span class="citation-popover-snippet">Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 — However, not all are amateur groups, in 1997 the CEFAA was c...</span></span></span>
+This early phase matters less for a single definitive incident than for establishing a pattern: reports from commercial pilots, remote desert regions and military observers were increasingly archived instead of dismissed outright. Chile’s geography contributed heavily to this culture. The Atacama Desert, long mountain horizons and low light pollution produced many observations of meteors, satellites and atmospheric phenomena that were difficult for witnesses to interpret in real time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chile.travel">[Chile Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chile.travel</span><span class="citation-popover-snippet">Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 — However, not all are amateur groups, in 1997 the CEFAA was c...</span></span></span>
 
 ### The 1968 Santiago–Valparaíso photograph
 
-One of the period’s best-known images was reportedly taken on 17 March 1968 between Santiago and Valparaíso by a director associated with the University of Chile’s Cosmic Radiation Center. The image circulated widely in Chilean UFO literature and later through archive agencies and image collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bridgemanimages.com/en/noartistknown/ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-valparaiso-by-the-director-of-the-cosmic/nomedium/asset/3380696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgemanimages.com">[Bridgeman Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgemanimages.com</span><span class="citation-popover-snippet">Bridgeman ImagesUFO, CHILE, 1968 Photo of an UFO taken between...UFO, CHILE, 1968 Photo of an UFO taken between Santiago and Valparaiso...</span></span></span>
+One of the period’s best-known images was reportedly taken on 17 March 1968 between Santiago and Valparaíso by a director associated with the University of Chile’s Cosmic Radiation Center. The image circulated widely in Chilean UFO literature and later through archive agencies and image collections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bridgemanimages.com/en/noartistknown/ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-valparaiso-by-the-director-of-the-cosmic/nomedium/asset/3380696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgemanimages.com">[Bridgeman Images]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgemanimages.com</span><span class="citation-popover-snippet">Bridgeman ImagesUFO, CHILE, 1968 Photo of an UFO taken between...UFO, CHILE, 1968 Photo of an UFO taken between Santiago and Valparaiso...</span></span></span>
 
 The photograph became influential largely because it appeared during the same year that official interest in UFO reporting was becoming formalised. However, the evidential value of the image remains weak by modern standards. There is little surviving technical metadata, no independent trajectory reconstruction and no reliable chain of custody for the original negative. Later analysts treated it more as a cultural landmark in Chilean ufology than as persuasive evidence of an unknown craft.
 
@@ -288,13 +288,13 @@ This means the early commission period is historically important but scientifica
 
 ## The 1997 Arica sightings and the rebirth of official investigation
 
-The modern era of Chilean UFO investigation effectively began in 1997. According to DGAC histories, a wave of reports in Arica and northern Chile helped motivate the creation of CEFAA, the Committee for the Study of Anomalous Aerial Phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chile.travel">[Chile Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chile.travel</span><span class="citation-popover-snippet">Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 — However, not all are amateur groups, in 1997 the CEFAA was c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/ufo-disclosure-chilean-style-896/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-title">ufo disclosure chilean style 896</span><span class="citation-popover-snippet">UFO Disclosure Chilean Style5 Mar 2012 — CEFAA was created back in 1997 when General Bermúdez was the director of the Technical School of...</span></span></span>
+The modern era of Chilean UFO investigation effectively began in 1997. According to DGAC histories, a wave of reports in Arica and northern Chile helped motivate the creation of CEFAA, the Committee for the Study of Anomalous Aerial Phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chile.travel">[Chile Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chile.travel</span><span class="citation-popover-snippet">Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 — However, not all are amateur groups, in 1997 the CEFAA was c...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/ufo-disclosure-chilean-style-896/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-title">ufo disclosure chilean style 896</span><span class="citation-popover-snippet">UFO Disclosure Chilean Style5 Mar 2012 — CEFAA was created back in 1997 when General Bermúdez was the director of the Technical School of...</span></span></span>
 
-Arica sits near Chile’s northern frontier and includes heavily monitored airspace around Chacalluta Airport. Reports in late March and early April 1997 described unusual luminous objects seen by civilians and airport-linked personnel. Some accounts claimed the lights manoeuvred unpredictably or hovered for extended periods. Chilean newspapers amplified the story rapidly, turning the incident into one of the country’s first nationally recognised UFO waves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/offichili.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">Ufologie Chile announces UFOs are for real</span><span class="citation-popover-snippet">Chile announces UFOs are for real - Patrick GrossOn 2nd April 1997, Chilean newspaper &quot;La Cuarta&quot; has the following headline: &quot;UF...</span><span class="citation-popover-meta">Published: April 1997</span></span></span>
+Arica sits near Chile’s northern frontier and includes heavily monitored airspace around Chacalluta Airport. Reports in late March and early April 1997 described unusual luminous objects seen by civilians and airport-linked personnel. Some accounts claimed the lights manoeuvred unpredictably or hovered for extended periods. Chilean newspapers amplified the story rapidly, turning the incident into one of the country’s first nationally recognised UFO waves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/offichili.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">Ufologie Chile announces UFOs are for real</span><span class="citation-popover-snippet">Chile announces UFOs are for real - Patrick GrossOn 2nd April 1997, Chilean newspaper &quot;La Cuarta&quot; has the following headline: &quot;UF...</span><span class="citation-popover-meta">Published: April 1997</span></span></span>
 
 ### Why the Arica reports became nationally significant
 
-The importance of the Arica episode was institutional rather than evidential. Chilean aviation authorities concluded that repeated reports involving airport observers justified creating a dedicated review structure. CEFAA was formally established later that year under the DGAC. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/ufo-disclosure-chilean-style-896/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-title">ufo disclosure chilean style 896</span><span class="citation-popover-snippet">UFO Disclosure Chilean Style5 Mar 2012 — CEFAA was created back in 1997 when General Bermúdez was the director of the Technical School of...</span></span></span>
+The importance of the Arica episode was institutional rather than evidential. Chilean aviation authorities concluded that repeated reports involving airport observers justified creating a dedicated review structure. CEFAA was formally established later that year under the DGAC.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openminds.tv/ufo-disclosure-chilean-style-896/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openminds.tv">[Openminds.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openminds.tv</span><span class="citation-popover-title">ufo disclosure chilean style 896</span><span class="citation-popover-snippet">UFO Disclosure Chilean Style5 Mar 2012 — CEFAA was created back in 1997 when General Bermúdez was the director of the Technical School of...</span></span></span>
 
 That shift changed the tone of Chilean UFO discussion. Instead of relying entirely on sensational media coverage, the country now had a state-backed body tasked with gathering testimony, radar information, photographs and meteorological data. Investigators increasingly framed UFOs as potential air-safety anomalies rather than proof of alien visitation.
 
@@ -308,7 +308,7 @@ As a result, the Arica events remain historically important but evidentially inc
 
 ## The 1998 Paihuano incident and Chile’s “UFO Route”
 
-If one Chilean case became embedded in popular tourism and UFO folklore, it was Paihuano in the Elqui Valley during 1998. The valley already had a reputation for clear skies, observatories and mystical tourism, making it fertile ground for extraordinary interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">i went alien hunting on chile ufo route</span><span class="citation-popover-snippet">I Went Alien Hunting on Chile&#x27;s Mountainous &#x27;UFO Route&#x27;Dec 1, 2023 — In South America, Chile is considered by Ufologists as one of th...</span></span></span>
+If one Chilean case became embedded in popular tourism and UFO folklore, it was Paihuano in the Elqui Valley during 1998. The valley already had a reputation for clear skies, observatories and mystical tourism, making it fertile ground for extraordinary interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">i went alien hunting on chile ufo route</span><span class="citation-popover-snippet">I Went Alien Hunting on Chile&#x27;s Mountainous &#x27;UFO Route&#x27;Dec 1, 2023 — In South America, Chile is considered by Ufologists as one of th...</span></span></span>
 
 Witnesses reported luminous aerial objects near Paihuano, and media coverage transformed the area into a major destination for UFO tourism. Local businesses, tour operators and enthusiasts promoted the region as a hotspot for unexplained aerial activity. Over time, the “Ruta UFO” or UFO Route became part of the region’s tourism identity.
 
@@ -316,28 +316,28 @@ Witnesses reported luminous aerial objects near Paihuano, and media coverage tra
 
 The Paihuano reports illustrate a recurring problem in Chilean UFO history: strong cultural visibility does not necessarily correlate with strong evidence.
 
-Unlike aviation-linked incidents involving pilots or military personnel, the Paihuano accounts were dominated by civilian testimony and media retelling. There was little verifiable instrument data. Astronomers and sceptics repeatedly noted that the region’s exceptionally clear skies make planets, meteors, satellites and atmospheric effects appear unusually vivid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.co">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.co</span><span class="citation-popover-snippet">Reflections on Evidence in Chilean Ufologyby DE Santo · 2020 · Cited by 10 — Chile is considered by many UFO researchers as one of the pr...</span></span></span>
+Unlike aviation-linked incidents involving pilots or military personnel, the Paihuano accounts were dominated by civilian testimony and media retelling. There was little verifiable instrument data. Astronomers and sceptics repeatedly noted that the region’s exceptionally clear skies make planets, meteors, satellites and atmospheric effects appear unusually vivid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scielo.org.co">[SciELO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scielo.org.co</span><span class="citation-popover-snippet">Reflections on Evidence in Chilean Ufologyby DE Santo · 2020 · Cited by 10 — Chile is considered by many UFO researchers as one of the pr...</span></span></span>
 
 Still, Paihuano mattered because it helped cement UFOs within Chilean public culture. During the late 1990s and early 2000s, Chile developed a rare combination of official investigation and commercialised UFO tourism existing side by side.
 
 ## The 2012 military and aviation-linked light cases
 
-By the 2010s, CEFAA had become internationally known because it occasionally released official summaries and video material. Several military-linked or pilot-observed cases from around 2012 attracted attention because they involved trained observers and infrared imaging rather than ordinary civilian testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">chilean government releases declassified ufo video</span><span class="citation-popover-snippet">However, a possible explanation...</span></span></span>
+By the 2010s, CEFAA had become internationally known because it occasionally released official summaries and video material. Several military-linked or pilot-observed cases from around 2012 attracted attention because they involved trained observers and infrared imaging rather than ordinary civilian testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">chilean government releases declassified ufo video</span><span class="citation-popover-snippet">However, a possible explanation...</span></span></span>
 
 These incidents reflected a broader global shift from classic “flying saucer” narratives toward aviation-oriented “unidentified aerial phenomena” language. Chilean investigators increasingly emphasised structured analysis instead of speculative conclusions.
 
 <img src="{{ "/assets/images/Chile_349507_major_ufo_cases_4683be-Illustration-2-dark.svg" | relative_url }}" alt="Major Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Chile_349507_major_ufo_cases_4683be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chile_349507_major_ufo_cases_4683be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The naval helicopter infrared case
 
-The most internationally famous Chilean case of the decade involved footage captured on 11 November 2014 by a Chilean Navy helicopter, though the investigation and public release unfolded later and became widely discussed around 2016–2017. CEFAA initially classified the object as an unidentified aerial phenomenon after a lengthy review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">chilean government releases declassified ufo video</span><span class="citation-popover-snippet">However, a possible explanation...</span></span></span>
+The most internationally famous Chilean case of the decade involved footage captured on 11 November 2014 by a Chilean Navy helicopter, though the investigation and public release unfolded later and became widely discussed around 2016–2017. CEFAA initially classified the object as an unidentified aerial phenomenon after a lengthy review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">chilean government releases declassified ufo video</span><span class="citation-popover-snippet">However, a possible explanation...</span></span></span>
 
-The crew observed what appeared to be a distant airborne object showing two thermal hotspots on infrared equipment. At moments, the object appeared to emit a hot plume-like trail. Investigators stated they could not immediately match it to known civilian or military traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">chilean government releases declassified ufo video</span><span class="citation-popover-snippet">However, a possible explanation...</span></span></span>
+The crew observed what appeared to be a distant airborne object showing two thermal hotspots on infrared equipment. At moments, the object appeared to emit a hot plume-like trail. Investigators stated they could not immediately match it to known civilian or military traffic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">chilean government releases declassified ufo video</span><span class="citation-popover-snippet">However, a possible explanation...</span></span></span>
 
 For UFO advocates, the case became one of the strongest officially released military videos outside the United States. The footage was widely circulated internationally because Chilean authorities openly acknowledged that the initial investigation had failed to identify the object conclusively.
 
 ### How sceptical analysis changed the interpretation
 
-The case later became equally important for sceptical investigation. Independent analyst Mick West used flight records, geometry reconstruction and infrared interpretation to argue that the object was almost certainly a distant commercial aircraft, probably Iberia Flight IB6830, viewed under atmospheric conditions that exaggerated its thermal appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">chilean government releases declassified ufo video</span><span class="citation-popover-snippet">However, a possible explanation...</span></span></span>
+The case later became equally important for sceptical investigation. Independent analyst Mick West used flight records, geometry reconstruction and infrared interpretation to argue that the object was almost certainly a distant commercial aircraft, probably Iberia Flight IB6830, viewed under atmospheric conditions that exaggerated its thermal appearance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">chilean government releases declassified ufo video</span><span class="citation-popover-snippet">However, a possible explanation...</span></span></span>
 
 This reinterpretation mattered because it demonstrated a recurring pattern in Chilean UFO history:
 
@@ -355,7 +355,7 @@ The naval footage remains one of Chile’s most discussed cases precisely becaus
 
 ## The 2018 LIVOR case
 
-One of the final major incidents highlighted in Chilean official compilations was the 2018 LIVOR case, included in DGAC and CEFAA retrospective material covering selected incidents from 1956 to 2018. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of online newspaper archives</span><span class="citation-popover-snippet">List of online newspaper archivesThis is a list of online newspaper archives and some magazines and journals, including both...</span></span></span>
+One of the final major incidents highlighted in Chilean official compilations was the 2018 LIVOR case, included in DGAC and CEFAA retrospective material covering selected incidents from 1956 to 2018.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of online newspaper archives</span><span class="citation-popover-snippet">List of online newspaper archivesThis is a list of online newspaper archives and some magazines and journals, including both...</span></span></span>
 
 Public information about LIVOR is thinner than for the naval helicopter video, but the case became notable because it represented the mature phase of Chile’s investigative approach. By this period, Chilean authorities had adopted more restrained language and generally avoided dramatic conclusions.
 
@@ -386,7 +386,7 @@ Taken together, Chile’s major UFO incidents reveal several recurring themes.
 
 ### Official interest did not equal extraterrestrial confirmation
 
-Chile’s aviation authorities repeatedly treated anomalous sightings as legitimate subjects for investigation, but official interest should not be confused with endorsement of alien explanations. CEFAA and later SEFAA consistently framed their role around aviation safety and aerial anomaly review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chile.travel">[Chile Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chile.travel</span><span class="citation-popover-snippet">Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 — However, not all are amateur groups, in 1997 the CEFAA was c...</span></span></span>
+Chile’s aviation authorities repeatedly treated anomalous sightings as legitimate subjects for investigation, but official interest should not be confused with endorsement of alien explanations. CEFAA and later SEFAA consistently framed their role around aviation safety and aerial anomaly review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chile.travel">[Chile Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chile.travel</span><span class="citation-popover-snippet">Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 — However, not all are amateur groups, in 1997 the CEFAA was c...</span></span></span>
 
 ### The strongest cases usually involve aviation observers
 
@@ -409,201 +409,201 @@ Cases built entirely around mass public excitement or tourism culture generally 
 
 ### Many famous incidents weakened over time
 
-Several celebrated Chilean UFO cases became less mysterious after later technical analysis. The naval helicopter footage is the clearest example. What initially appeared highly anomalous became increasingly compatible with an ordinary aircraft explanation once flight-path reconstruction and infrared behaviour were studied carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">chilean government releases declassified ufo video</span><span class="citation-popover-snippet">However, a possible explanation...</span></span></span>
+Several celebrated Chilean UFO cases became less mysterious after later technical analysis. The naval helicopter footage is the clearest example. What initially appeared highly anomalous became increasingly compatible with an ordinary aircraft explanation once flight-path reconstruction and infrared behaviour were studied carefully.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">chilean government releases declassified ufo video</span><span class="citation-popover-snippet">However, a possible explanation...</span></span></span>
 
 ### Chile remains important because of documentation
 
 Even critics of UFO claims often regard Chile as significant because the country preserved records and encouraged formal review instead of suppressing discussion entirely. That archive creates a valuable historical record of how governments, aviation officials and the public interpret ambiguous aerial events under changing technological and cultural conditions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Notable UFO Incidents Across Chilean History. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Notable UFO Incidents Across Chilean History. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses evidence, witness reports, and investigation standards relevant to Chilean case histories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses evidence, witness reports, and investigation standards relevant to Chilean case histories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines significant cases and classification methods useful for understanding Chilean incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines significant cases and classification methods useful for understanding Chilean incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official investigations, pilot reports, and major international cases similar to Chile&#x27;s most famous incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official investigations, pilot reports, and major international cases similar to Chile&#x27;s most famous incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides historical context for how notable UFO cases become enduring cultural narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for how notable UFO cases become enduring cultural narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=notable-ufo-incidents-across-chilean-history-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="notable-ufo-incidents-across-chilean-history-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -619,7 +619,7 @@ Even critics of UFO claims often regard Chile as significant because the country
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -639,7 +639,7 @@ Even critics of UFO claims often regard Chile as significant because the country
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -671,7 +671,7 @@ Even critics of UFO claims often regard Chile as significant because the country
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -723,7 +723,7 @@ Even critics of UFO claims often regard Chile as significant because the country
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -768,7 +768,7 @@ Even critics of UFO claims often regard Chile as significant because the country
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -806,128 +806,127 @@ Even critics of UFO claims often regard Chile as significant because the country
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: chile.travel  
-   Link: <a href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow">https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 — However, not all are amateur groups, in 1997 the CEFAA was c...</p></details>
+   Link:<a href="https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/" target="_blank" rel="noopener noreferrer nofollow">https://chile.travel/en/blog/ufology-in-chile-the-best-destinations-for-the-sighting-of-ufos-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology in Chile: The best destinations for the sighting of...27 Aug 2021 — However, not all are amateur groups, in 1997 the CEFAA was c...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: openminds.tv  
    Title: ufo disclosure chilean style 896  
-   Link: <a href="https://openminds.tv/ufo-disclosure-chilean-style-896/" target="_blank" rel="noopener noreferrer nofollow">https://openminds.tv/ufo-disclosure-chilean-style-896/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Disclosure Chilean Style5 Mar 2012 — CEFAA was created back in 1997 when General Bermúdez was the director of the Technical School of...</p></details>
+   Link:<a href="https://openminds.tv/ufo-disclosure-chilean-style-896/" target="_blank" rel="noopener noreferrer nofollow">https://openminds.tv/ufo-disclosure-chilean-style-896/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Disclosure Chilean Style5 Mar 2012 — CEFAA was created back in 1997 when General Bermúdez was the director of the Technical School of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vice.com  
    Title: i went alien hunting on chile ufo route  
-   Link: <a href="https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I Went Alien Hunting on Chile&#x27;s Mountainous &#x27;UFO Route&#x27;Dec 1, 2023 — In South America, Chile is considered by Ufologists as one of th...</p></details>
+   Link:<a href="https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/i-went-alien-hunting-on-chile-ufo-route/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Went Alien Hunting on Chile&#x27;s Mountainous &#x27;UFO Route&#x27;Dec 1, 2023 — In South America, Chile is considered by Ufologists as one of th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: List of online newspaper archives  
-   Link: <a href="https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of online newspaper archivesThis is a list of online newspaper archives and some magazines and journals, including both...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of online newspaper archivesThis is a list of online newspaper archives and some magazines and journals, including both...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Mf70imTsuuo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mf70imTsuuo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Chilean Military Captures Video of Mystery Object - Confirms it is Real...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Mf70imTsuuo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mf70imTsuuo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Chilean Military Captures Video of Mystery Object - Confirms it is Real...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6pS7qVF2lTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6pS7qVF2lTQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Navy UFO sighting explained | This Is Why...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6pS7qVF2lTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6pS7qVF2lTQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean Navy UFO sighting explained | This Is Why...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scielo.org.co  
-   Link: <a href="https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow">https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflections on Evidence in Chilean Ufologyby DE Santo · 2020 · Cited by 10 — Chile is considered by many UFO researchers as one of the pr...</p></details>
+   Link:<a href="https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext" target="_blank" rel="noopener noreferrer nofollow">https://www.scielo.org.co/scielo.php?pid=S1900-54072020000400125&amp;script=sci_arttext</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reflections on Evidence in Chilean Ufologyby DE Santo · 2020 · Cited by 10 — Chile is considered by many UFO researchers as one of the pr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bridgemanimages.com  
-   Link: <a href="https://www.bridgemanimages.com/en/noartistknown/ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-valparaiso-by-the-director-of-the-cosmic/nomedium/asset/3380696" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgemanimages.com/en/noartistknown/ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-valparaiso-by-the-director-of-the-cosmic/nomedium/asset/3380696</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridgeman ImagesUFO, CHILE, 1968 Photo of an UFO taken between...UFO, CHILE, 1968 Photo of an UFO taken between Santiago and Valparaiso...</p></details>
+   Link:<a href="https://www.bridgemanimages.com/en/noartistknown/ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-valparaiso-by-the-director-of-the-cosmic/nomedium/asset/3380696" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgemanimages.com/en/noartistknown/ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-valparaiso-by-the-director-of-the-cosmic/nomedium/asset/3380696</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bridgeman ImagesUFO, CHILE, 1968 Photo of an UFO taken between...UFO, CHILE, 1968 Photo of an UFO taken between Santiago and Valparaiso...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufologie.patrickgross.org  
    Title: Ufologie Chile announces UFOs are for real  
-   Link: <a href="https://ufologie.patrickgross.org/htm/offichili.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/offichili.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chile announces UFOs are for real - Patrick GrossOn 2nd April 1997, Chilean newspaper &quot;La Cuarta&quot; has the following headline: &quot;UF...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/offichili.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/offichili.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chile announces UFOs are for real - Patrick GrossOn 2nd April 1997, Chilean newspaper &quot;La Cuarta&quot; has the following headline: &quot;UF...</p></details>
    Published: April 1997  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: universetoday.com  
    Title: chilean government releases declassified ufo video  
-   Link: <a href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, a possible explanation...</p></details>
+   Link:<a href="https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/chilean-government-releases-declassified-ufo-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, a possible explanation...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/sci/publications/messenger/archive/no.68-jun92/messenger-no68-41-42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/sci/publications/messenger/archive/no.68-jun92/messenger-no68-41-42.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Object Over Chile IdentifiedLa Silla or other pkm in Chile could be very heEpW for a positive identifteatlon of the Cosmos 2...</p></details>
+   Link:<a href="https://www.eso.org/sci/publications/messenger/archive/no.68-jun92/messenger-no68-41-42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/sci/publications/messenger/archive/no.68-jun92/messenger-no68-41-42.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Object Over Chile IdentifiedLa Silla or other pkm in Chile could be very heEpW for a positive identifteatlon of the Cosmos 2...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: alnap.cdn.ngo  
-   Link: <a href="https://alnap.cdn.ngo/media/documents/_Inequality_and_Solidarity-IP_-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alnap.cdn.ngo/media/documents/_Inequality_and_Solidarity-IP_-2019.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Groningen Inequality and Solidarity Fink, SimonThis collection of scholarly essays is the product of the Euroculture IP (IP) 2019, hel...</p></details>
+   Link:<a href="https://alnap.cdn.ngo/media/documents/_Inequality_and_Solidarity-IP_-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alnap.cdn.ngo/media/documents/_Inequality_and_Solidarity-IP_-2019.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Groningen Inequality and Solidarity Fink, SimonThis collection of scholarly essays is the product of the Euroculture IP (IP) 2019, hel...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: granger.com  
    Title: 0100609 ufo chile 1968 photo of an ufo taken between santiago and v image  
-   Link: <a href="https://www.granger.com/0100609-ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-v-image.html" target="_blank" rel="noopener noreferrer nofollow">https://www.granger.com/0100609-ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-v-image.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Of An UFO Taken Between... JPEG. Browse Similar Images. 1968 · aerial · alien · archival · chile · fake · granger academic · grang...</p></details>
+   Link:<a href="https://www.granger.com/0100609-ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-v-image.html" target="_blank" rel="noopener noreferrer nofollow">https://www.granger.com/0100609-ufo-chile-1968-photo-of-an-ufo-taken-between-santiago-and-v-image.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Of An UFO Taken Between... JPEG. Browse Similar Images. 1968 · aerial · alien · archival · chile · fake · granger academic · grang...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: A strange cigar-shaped UFO was seen hovering over  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-strange-cigar-shaped-ufo-was-seen-hovering-over-the-sky-in-chile-witnesses-rep/1633041875489112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-strange-cigar-shaped-ufo-was-seen-hovering-over-the-sky-in-chile-witnesses-rep/1633041875489112/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean government agency responsible for studying UFO sightings, launched an official investigation.... Mystery Aliens UFO Fanclub ▻ Hi...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/a-strange-cigar-shaped-ufo-was-seen-hovering-over-the-sky-in-chile-witnesses-rep/1633041875489112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-strange-cigar-shaped-ufo-was-seen-hovering-over-the-sky-in-chile-witnesses-rep/1633041875489112/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chilean government agency responsible for studying UFO sightings, launched an official investigation.... Mystery Aliens UFO Fanclub ▻ Hi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jenner.com  
    Title: anti corruption law update 2018 2019  
-   Link: <a href="https://www.jenner.com/a/web/x8M8CckKoqguUYGd4JquPQ/4k1YWm/anti-corruption-law-update-2018-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jenner.com/a/web/x8M8CckKoqguUYGd4JquPQ/4k1YWm/anti-corruption-law-update-2018-2019.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Update to Anti-Corruption Enforcement 2018 – 2019The Policy&#x27;s non-binding guidance has even been extended to corporate criminal cases out...</p></details>
+   Link:<a href="https://www.jenner.com/a/web/x8M8CckKoqguUYGd4JquPQ/4k1YWm/anti-corruption-law-update-2018-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jenner.com/a/web/x8M8CckKoqguUYGd4JquPQ/4k1YWm/anti-corruption-law-update-2018-2019.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Update to Anti-Corruption Enforcement 2018 – 2019The Policy&#x27;s non-binding guidance has even been extended to corporate criminal cases out...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ntma.ie  
    Title: NTMA Annual Report 2019 English  
-   Link: <a href="https://www.ntma.ie/uploads/publication-articles/NTMA-Annual-Report-2019-English.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntma.ie/uploads/publication-articles/NTMA-Annual-Report-2019-English.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report &amp; Financial Statements 201931 Dec 2019 —... 2019. Settling Claims. 54% over half of cases resolved by the. State Claims Ag...</p></details>
+   Link:<a href="https://www.ntma.ie/uploads/publication-articles/NTMA-Annual-Report-2019-English.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntma.ie/uploads/publication-articles/NTMA-Annual-Report-2019-English.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report &amp; Financial Statements 201931 Dec 2019 —... 2019. Settling Claims. 54% over half of cases resolved by the. State Claims Ag...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jhmovie.fandom.com  
    Title: Unidentified flying object  
-   Link: <a href="https://jhmovie.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Unidentified_flying_object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object | JH Wiki Collection Wiki - FandomIn popular usage, the term UFO came to be used to refer to claims of alien spacecraft, an...</p></details>
+   Link:<a href="https://jhmovie.fandom.com/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flying object | JH Wiki Collection Wiki - FandomIn popular usage, the term UFO came to be used to refer to claims of alien spacecraft, an...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arcom.ac.uk  
    Title: 2018 Indexed Papers  
-   Link: <a href="https://www.arcom.ac.uk/-docs/archive/2018-Indexed-Papers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.arcom.ac.uk/-docs/archive/2018-Indexed-Papers.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THIRTY-FOURTH ANNUAL CONFERENCE 2018...This year&#x27;s conference attracted 310 submissions in January 2018. Following three rounds of doubl...</p></details>
+   Link:<a href="https://www.arcom.ac.uk/-docs/archive/2018-Indexed-Papers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.arcom.ac.uk/-docs/archive/2018-Indexed-Papers.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THIRTY-FOURTH ANNUAL CONFERENCE 2018...This year&#x27;s conference attracted 310 submissions in January 2018. Following three rounds of doubl...</p></details>
    Published: January 2018  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: oecd.org  
    Title: 9b460fba en  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/09/energy-policies-of-iea-countries-the-united-states-2019_ca3e1d8f/9b460fba-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/09/energy-policies-of-iea-countries-the-united-states-2019_ca3e1d8f/9b460fba-en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Policies of IEA Countries: The United States 2019 (...The IEA examines the full spectrum of energy issues including oil, gas and...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/09/energy-policies-of-iea-countries-the-united-states-2019_ca3e1d8f/9b460fba-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/09/energy-policies-of-iea-countries-the-united-states-2019_ca3e1d8f/9b460fba-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Energy Policies of IEA Countries: The United States 2019 (...The IEA examines the full spectrum of energy issues including oil, gas and...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: RICARD O BERMUDEZ UFO CASE  
-   Link: <a href="https://www.youtube.com/watch?v=B3CI3AeE8aQ&amp;vl=hi" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B3CI3AeE8aQ&amp;vl=hi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RICARDO BERMUDEZ UFO CASE OCTOBER 7, 1997...Jan 11, 2025 — This is a case that occurred in the north of Chile, at the Arica airport, a U...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B3CI3AeE8aQ&amp;vl=hi" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B3CI3AeE8aQ&amp;vl=hi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RICARDO BERMUDEZ UFO CASE OCTOBER 7, 1997...Jan 11, 2025 — This is a case that occurred in the north of Chile, at the Arica airport, a U...</p></details>
    Published: October 7, 1997

@@ -248,10 +248,10 @@ image: /assets/images/Iraq_1aed9e_iraq_official_uap_2afad0-Illustration-1-social
 
 ## Introduction
 
-The strongest officially documented U.S. military UAP cases linked to Iraq are not dramatic cockpit encounters or eyewitness stories. They are short infrared sensor recordings collected by military platforms operating in a heavily monitored combat environment and later submitted to the U.S. government’s investigative system. Two cases in particular — DOW-UAP-PR21 and DOW-UAP-PR23 — remain publicly unresolved despite formal review by the All-domain Anomaly Resolution Office (AARO). Their importance lies less in what they prove than in what they reveal about modern military uncertainty: even with advanced sensors, some objects cannot be confidently identified from the available data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+The strongest officially documented U.S. military UAP cases linked to Iraq are not dramatic cockpit encounters or eyewitness stories. They are short infrared sensor recordings collected by military platforms operating in a heavily monitored combat environment and later submitted to the U.S. government’s investigative system. Two cases in particular — DOW-UAP-PR21 and DOW-UAP-PR23 — remain publicly unresolved despite formal review by the All-domain Anomaly Resolution Office (AARO). Their importance lies less in what they prove than in what they reveal about modern military uncertainty: even with advanced sensors, some objects cannot be confidently identified from the available data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
 <img src="{{ "/assets/images/Iraq_1aed9e_iraq_official_uap_2afad0-Illustration-1-dark.svg" | relative_url }}" alt="Official Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e_iraq_official_uap_2afad0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e_iraq_official_uap_2afad0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-These Iraq-linked reports occupy a narrow but significant category within the broader Iraq UAP record. Unlike highly publicised claims built mainly on anecdotes, the cases come with official descriptions, military provenance and government acknowledgement. At the same time, the released material is extremely limited: roughly ten-second infrared clips, sparse mission summaries and little operational context. That combination has fuelled debate while leaving the underlying questions unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+These Iraq-linked reports occupy a narrow but significant category within the broader Iraq UAP record. Unlike highly publicised claims built mainly on anecdotes, the cases come with official descriptions, military provenance and government acknowledgement. At the same time, the released material is extremely limited: roughly ten-second infrared clips, sparse mission summaries and little operational context. That combination has fuelled debate while leaving the underlying questions unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
 ## Which Iraq Cases Remain Officially Unresolved?
 
@@ -259,15 +259,15 @@ The two most clearly documented Iraq entries currently available through officia
 
 CaseDateRegionStatusDOW-UAP-PR21May 2022IraqUnresolvedDOW-UAP-PR23December 2022IraqUnresolved
 
-Both were reportedly submitted by U.S. Central Command to AARO and consist of infrared imagery gathered from U.S. military platforms operating in the region. Each was later released through government-associated channels as an unresolved case rather than a resolved balloon, bird, aircraft or sensor error determination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+Both were reportedly submitted by U.S. Central Command to AARO and consist of infrared imagery gathered from U.S. military platforms operating in the region. Each was later released through government-associated channels as an unresolved case rather than a resolved balloon, bird, aircraft or sensor error determination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
-That distinction matters. AARO has publicly released numerous cases that it subsequently attributed to balloons, migratory birds or conventional aircraft. The Iraq reports were not placed in those categories. However, unresolved does not mean extraordinary. It means the available information was insufficient to reach a confident identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</span></span></span>
+That distinction matters. AARO has publicly released numerous cases that it subsequently attributed to balloons, migratory birds or conventional aircraft. The Iraq reports were not placed in those categories. However, unresolved does not mean extraordinary. It means the available information was insufficient to reach a confident identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</span></span></span>
 
 ## What Happened in DOW-UAP-PR21?
 
-DOW-UAP-PR21 concerns a May 2022 incident in Iraq. According to the official description, U.S. Central Command submitted ten seconds of infrared footage from a military platform to AARO. An accompanying mission report identified the object as a “probable SU-27/35”. The released video reportedly shows two areas of contrast moving together near the centre of the sensor field of view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+DOW-UAP-PR21 concerns a May 2022 incident in Iraq. According to the official description, U.S. Central Command submitted ten seconds of infrared footage from a military platform to AARO. An accompanying mission report identified the object as a “probable SU-27/35”. The released video reportedly shows two areas of contrast moving together near the centre of the sensor field of view.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
-The case is interesting because the mission report itself appears to suggest a possible conventional explanation. The Sukhoi Su-27 and Su-35 are known military aircraft, and an initial operational assessment apparently considered that possibility. Yet the report ultimately remained unresolved rather than being formally classified as an identified aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+The case is interesting because the mission report itself appears to suggest a possible conventional explanation. The Sukhoi Su-27 and Su-35 are known military aircraft, and an initial operational assessment apparently considered that possibility. Yet the report ultimately remained unresolved rather than being formally classified as an identified aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
 Several interpretations have been proposed:
 
@@ -280,15 +280,15 @@ Several interpretations have been proposed:
 
 </div>
 
-None of these possibilities can be confirmed from the public material because critical contextual data remain unavailable. The released clip does not include sufficient information about range, altitude, velocity, sensor settings or supporting radar observations. Without those elements, outside observers cannot independently determine whether the “probable SU-27/35” assessment was likely correct or ultimately discarded during review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+None of these possibilities can be confirmed from the public material because critical contextual data remain unavailable. The released clip does not include sufficient information about range, altitude, velocity, sensor settings or supporting radar observations. Without those elements, outside observers cannot independently determine whether the “probable SU-27/35” assessment was likely correct or ultimately discarded during review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1IfPiOl-9Sk" title="DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1IfPiOl-9Sk" target="_blank" rel="noopener noreferrer">DOW-UAP-PR23, Unresolved UAP Report, Iraq, December 2022</a></p><p class="youtube-embed-meta">Channel: Matt Novak &middot; Views: 485 &middot; Uploaded: May 2026 &middot; Length: 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1IfPiOl-9Sk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1IfPiOl-9Sk">Open on YouTube</a></p></div></div></div>
 
 ## What Happened in DOW-UAP-PR23?
 
-DOW-UAP-PR23 concerns a December 2022 incident in Iraq. Like PR21, it consists of approximately ten seconds of infrared footage collected by a U.S. military platform and later submitted to AARO by U.S. Central Command. The associated mission report reportedly described the object simply as “flying west to east”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+DOW-UAP-PR23 concerns a December 2022 incident in Iraq. Like PR21, it consists of approximately ten seconds of infrared footage collected by a U.S. military platform and later submitted to AARO by U.S. Central Command. The associated mission report reportedly described the object simply as “flying west to east”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
-The official description is notably sparse. Unlike PR21, there is no publicly released reference to a tentative aircraft identification. Instead, the object's movement is described only in directional terms. That leaves analysts with little information beyond the existence of a thermal contrast detected by an infrared sensor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+The official description is notably sparse. Unlike PR21, there is no publicly released reference to a tentative aircraft identification. Instead, the object's movement is described only in directional terms. That leaves analysts with little information beyond the existence of a thermal contrast detected by an infrared sensor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
 The case illustrates a recurring problem in military UAP analysis. Sensors can establish that something was present in the field of view, but establishing what it was often requires additional layers of information:
 
@@ -303,16 +303,16 @@ The case illustrates a recurring problem in military UAP analysis. Sensors can e
 
 </div>
 
-Almost none of that supporting context has been publicly released for PR23. As a result, the object remains officially unresolved while also remaining difficult for independent researchers to evaluate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+Almost none of that supporting context has been publicly released for PR23. As a result, the object remains officially unresolved while also remaining difficult for independent researchers to evaluate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
 <img src="{{ "/assets/images/Iraq_1aed9e_iraq_official_uap_2afad0-Illustration-2-dark.svg" | relative_url }}" alt="Official Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e_iraq_official_uap_2afad0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e_iraq_official_uap_2afad0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Ten Seconds of Infrared Video Is Often Not Enough
 
 The Iraq cases demonstrate the limits of infrared evidence when presented without technical metadata.
 
-Infrared sensors do not record the world in the same way as ordinary cameras. They capture differences in thermal radiation, which can make distant objects appear as bright or dark spots rather than recognisable shapes. Factors such as atmospheric conditions, viewing angle, sensor mode and image processing can dramatically alter appearance. A small thermal contrast can look like a discrete object even when the underlying source is difficult to determine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</span></span></span>
+Infrared sensors do not record the world in the same way as ordinary cameras. They capture differences in thermal radiation, which can make distant objects appear as bright or dark spots rather than recognisable shapes. Factors such as atmospheric conditions, viewing angle, sensor mode and image processing can dramatically alter appearance. A small thermal contrast can look like a discrete object even when the underlying source is difficult to determine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</span></span></span>
 
-AARO's own public case catalogue repeatedly highlights these challenges. In several non-Iraq cases, apparent anomalies were eventually attributed to balloons, birds or ordinary aircraft after additional analysis. In other cases, AARO explicitly states that it cannot determine whether a thermal signature represents a physical object, a thermal reflection, an environmental effect or a sensor-related phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">All Domain Anomaly Resolution OfficeDOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023. 01.01.2023 &#124; Courtesy Video. The United States...</span></span></span>
+AARO's own public case catalogue repeatedly highlights these challenges. In several non-Iraq cases, apparent anomalies were eventually attributed to balloons, birds or ordinary aircraft after additional analysis. In other cases, AARO explicitly states that it cannot determine whether a thermal signature represents a physical object, a thermal reflection, an environmental effect or a sensor-related phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">All Domain Anomaly Resolution OfficeDOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023. 01.01.2023 &#124; Courtesy Video. The United States...</span></span></span>
 
 This broader context is important when evaluating Iraq reports. The unresolved status of PR21 and PR23 does not automatically imply unusual flight characteristics. It may simply indicate that the released data were too limited for confident attribution.
 
@@ -335,7 +335,7 @@ Throughout the post-2003 period, the country's airspace has included:
 
 </div>
 
-Objects detected within such an environment are not merely scientific curiosities. They represent potential security threats requiring rapid identification. An unknown thermal signature near a military installation may initially be treated as a possible hostile platform regardless of whether it later proves mundane. This operational reality helps explain why military reports are generated even when the evidence later proves ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+Objects detected within such an environment are not merely scientific curiosities. They represent potential security threats requiring rapid identification. An unknown thermal signature near a military installation may initially be treated as a possible hostile platform regardless of whether it later proves mundane. This operational reality helps explain why military reports are generated even when the evidence later proves ambiguous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
 The Iraq reports therefore sit at the intersection of intelligence collection and threat assessment rather than traditional civilian UFO investigation.
 
@@ -352,7 +352,7 @@ The official releases establish several narrower facts:
 * U.S. military sensors recorded objects that operators could not immediately identify.
 * The incidents were significant enough to be reported through official channels.
 * AARO reviewed the material.
-* The available evidence was insufficient for a definitive public identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+* The available evidence was insufficient for a definitive public identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
 </div>
 
@@ -363,7 +363,7 @@ What the released material does not establish is equally important:
 * No publicly released Iraq case demonstrates impossible acceleration.
 * No released Iraq case demonstrates confirmed transmedium behaviour.
 * No released Iraq case demonstrates technology beyond known physics.
-* No released Iraq case has been officially attributed to extraterrestrial origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+* No released Iraq case has been officially attributed to extraterrestrial origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
 </div>
 
@@ -372,203 +372,203 @@ In practical terms, PR21 and PR23 remain unresolved because the public record is
 <img src="{{ "/assets/images/Iraq_1aed9e_iraq_official_uap_2afad0-Illustration-3-dark.svg" | relative_url }}" alt="Official Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e_iraq_official_uap_2afad0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e_iraq_official_uap_2afad0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Iraq Cases Fit into AARO's Wider Dataset
 
-The Iraq reports are best understood as part of a larger pattern visible in AARO's public releases. The office has increasingly published both resolved and unresolved examples, allowing observers to compare cases rather than treating every unknown object as equally significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">All Domain Anomaly Resolution OfficeDOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023. 01.01.2023 &#124; Courtesy Video. The United States...</span></span></span>
+The Iraq reports are best understood as part of a larger pattern visible in AARO's public releases. The office has increasingly published both resolved and unresolved examples, allowing observers to compare cases rather than treating every unknown object as equally significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">All Domain Anomaly Resolution OfficeDOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023. 01.01.2023 &#124; Courtesy Video. The United States...</span></span></span>
 
-That comparison reveals an important trend. Many infrared UAP reports ultimately involve ordinary objects observed under conditions that obscure their identity. Some remain unresolved because available evidence cannot support a confident conclusion either way. PR21 and PR23 currently belong to that second category. They are officially acknowledged military reports with documented chains of custody, but they remain evidentially incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+That comparison reveals an important trend. Many infrared UAP reports ultimately involve ordinary objects observed under conditions that obscure their identity. Some remain unresolved because available evidence cannot support a confident conclusion either way. PR21 and PR23 currently belong to that second category. They are officially acknowledged military reports with documented chains of custody, but they remain evidentially incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
-For researchers focusing specifically on Iraq, these reports remain among the most credible officially released UAP records from the country. Yet their strongest lesson may be methodological rather than sensational: even sophisticated military surveillance systems can produce genuine unknowns when crucial contextual information is absent. The unresolved label reflects a limit of available evidence, not a demonstrated discovery of something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
+For researchers focusing specifically on Iraq, these reports remain among the most credible officially released UAP records from the country. Yet their strongest lesson may be methodological rather than sensational: even sophisticated military surveillance systems can produce genuine unknowns when crucial contextual information is absent. The unresolved label reflects a limit of available evidence, not a demonstrated discovery of something extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gko6SvnICvw" title="DOW UAP PR21 Unresolved UAP Report Iraq May 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gko6SvnICvw" target="_blank" rel="noopener noreferrer">DOW UAP PR21 Unresolved UAP Report Iraq May 2022</a></p><p class="youtube-embed-meta">Channel: Holographic Sol &middot; Views: 3 &middot; Uploaded: May 2026 &middot; Length: 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gko6SvnICvw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gko6SvnICvw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Iraq’s Official Military UAP Reports Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Iraq’s Official Military UAP Reports Reveal?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Strong match for official military UAP reporting and government review processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for official military UAP reporting and government review processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides perspective on official investigative procedures and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides perspective on official investigative procedures and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Centers on military and official-source UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on military and official-source UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Explores Pentagon-linked investigations and official interest in anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores Pentagon-linked investigations and official interest in anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-iraq-s-official-military-uap-reports-reveal-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ For researchers focusing specifically on Iraq, these reports remain among the mo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ For researchers focusing specifically on Iraq, these reports remain among the mo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ For researchers focusing specifically on Iraq, these reports remain among the mo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ For researchers focusing specifically on Iraq, these reports remain among the mo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ For researchers focusing specifically on Iraq, these reports remain among the mo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,100 +771,99 @@ For researchers focusing specifically on Iraq, these reports remain among the mo
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006062/dow-uap-pr23-unresolved-uap-report-iraq-december-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2022. An accompanying mission report, DoW-UAP-D18, described the UAP as &quot;flying...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dvidshub.net  
    Title: dow uap pr21 unresolved uap report iraq may 2022  
-   Link: <a href="https://www.dvidshub.net/video/1006059/dow-uap-pr21-unresolved-uap-report-iraq-may-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006059/dow-uap-pr21-unresolved-uap-report-iraq-may-2022</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSDOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022... video footage from an infrared sensor aboard a U.S. military platform in 2022...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/1006059/dow-uap-pr21-unresolved-uap-report-iraq-may-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006059/dow-uap-pr21-unresolved-uap-report-iraq-may-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSDOW-UAP-PR21, Unresolved UAP Report, Iraq, May 2022... video footage from an infrared sensor aboard a U.S. military platform in 2022...</p></details>
    Published: may 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unresolved UAP Report: Middle East 2023The recording, captured in the Middle East in 2023, depicts an apparent thermal contrast within th...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unresolved UAP Report: Middle East 2023The recording, captured in the Middle East in 2023, depicts an apparent thermal contrast within th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All Domain Anomaly Resolution OfficeDOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023. 01.01.2023 | Courtesy Video. The United States...</p></details>
+   Link:<a href="https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All Domain Anomaly Resolution OfficeDOW-UAP-PR47, Unresolved UAP Report, INDOPACOM, 2023. 01.01.2023 | Courtesy Video. The United States...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-003, Unresolved UAP Report, Africa 2023In 2023, the United States Africa Command submitted a report of an unidentified anomalous pheno...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/973055/pr-003-unresolved-uap-report-africa-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR-003, Unresolved UAP Report, Africa 2023In 2023, the United States Africa Command submitted a report of an unidentified anomalous pheno...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dvidshub.net  
    Title: dow uap pr091 21 aug callsign observes uap persian gulf  
-   Link: <a href="https://www.dvidshub.net/video/1007716/dow-uap-pr091-21-aug-callsign-observes-uap-persian-gulf" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1007716/dow-uap-pr091-21-aug-callsign-observes-uap-persian-gulf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR091, &quot;21 AUG [CALLSIGN] Observes UAP in...AARO assesses that this video, whose uploader-defined title is, “21 AUG 2020 [CALLSI...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/1007716/dow-uap-pr091-21-aug-callsign-observes-uap-persian-gulf" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1007716/dow-uap-pr091-21-aug-callsign-observes-uap-persian-gulf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR091, &quot;21 AUG [CALLSIGN] Observes UAP in...AARO assesses that this video, whose uploader-defined title is, “21 AUG 2020 [CALLSI...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1IfPiOl-9Sk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1IfPiOl-9Sk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=1IfPiOl-9Sk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1IfPiOl-9Sk</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYFY3veCKCR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYFY3veCKCR/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Central Command and submitted to the All-domain Anomaly Resolution Office, known as AARO, this is five seconds of infrared footage...Rea...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYFY3veCKCR/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYFY3veCKCR/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Central Command and submitted to the All-domain Anomaly Resolution Office, known as AARO, this is five seconds of infrared footage...Rea...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e first tranche was released on May 8, 2026.Read more...</p></details>
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e first tranche was released on May 8, 2026.Read more...</p></details>
    Published: May 8, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: dowuappr21 unresolved uap report iraq may 2022 x  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1t77kua/dowuappr21_unresolved_uap_report_iraq_may_2022_x/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t77kua/dowuappr21_unresolved_uap_report_iraq_may_2022_x/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR21, UNRESOLVED UAP REPORT, IRAQ...... video footage from an infrared sensor aboard a U.S. military platform in 2022.... The o...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1t77kua/dowuappr21_unresolved_uap_report_iraq_may_2022_x/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t77kua/dowuappr21_unresolved_uap_report_iraq_may_2022_x/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR21, UNRESOLVED UAP REPORT, IRAQ...... video footage from an infrared sensor aboard a U.S. military platform in 2022.... The o...</p></details>
    Published: may 2022  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: gizmodo.com  
    Title: can you find the ufos in these newly released pentagon videos 2000756275  
-   Link: <a href="https://gizmodo.com/can-you-find-the-ufos-in-these-newly-released-pentagon-videos-2000756275" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/can-you-find-the-ufos-in-these-newly-released-pentagon-videos-2000756275</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Date taken: December 1, 2022. From the Department of Defense description: The United...Read more...</p></details>
+   Link:<a href="https://gizmodo.com/can-you-find-the-ufos-in-these-newly-released-pentagon-videos-2000756275" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/can-you-find-the-ufos-in-these-newly-released-pentagon-videos-2000756275</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Date taken: December 1, 2022. From the Department of Defense description: The United...Read more...</p></details>
    Published: December 1, 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100092714784072/posts/official-declassified-media-file-dow-uap-pr050-titled-4-uap-formation-iran-26-au/910837742016710/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100092714784072/posts/official-declassified-media-file-dow-uap-pr050-titled-4-uap-formation-iran-26-au/910837742016710/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iran 26 Aug 2022 over water [CALLSIGN].&quot; This footage was identified...</p></details>
+   Link:<a href="https://www.facebook.com/100092714784072/posts/official-declassified-media-file-dow-uap-pr050-titled-4-uap-formation-iran-26-au/910837742016710/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100092714784072/posts/official-declassified-media-file-dow-uap-pr050-titled-4-uap-formation-iran-26-au/910837742016710/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iran 26 Aug 2022 over water [CALLSIGN].&quot; This footage was identified...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1122660853038619/posts/1342276961077006/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1122660853038619/posts/1342276961077006/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ers reported unusual UAP movement patterns or flight characteristics...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1122660853038619/posts/1342276961077006/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1122660853038619/posts/1342276961077006/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ers reported unusual UAP movement patterns or flight characteristics...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1th0844/i_made_a_short_analysis_comparing_the_iraq/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1th0844/i_made_a_short_analysis_comparing_the_iraq/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and comparing it with a few other alleged jellyfish-shaped or...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1th0844/i_made_a_short_analysis_comparing_the_iraq/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1th0844/i_made_a_short_analysis_comparing_the_iraq/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and comparing it with a few other alleged jellyfish-shaped or...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYN05-cDVPc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYN05-cDVPc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>minutes of official infrared telemetry from a 2023 mission...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYN05-cDVPc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYN05-cDVPc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>minutes of official infrared telemetry from a 2023 mission...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTxCNghiFNz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTxCNghiFNz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>) Date: December 1, 2022. Status: Unresolved UAP Report...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DTxCNghiFNz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTxCNghiFNz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>) Date: December 1, 2022. Status: Unresolved UAP Report...</p></details>
    Published: December 1, 2022

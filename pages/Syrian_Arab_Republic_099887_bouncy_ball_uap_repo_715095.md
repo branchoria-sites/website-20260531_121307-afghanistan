@@ -254,14 +254,14 @@ image: /assets/images/Syrian_Arab_Republic_099887_bouncy_ball_uap_repo_715095-Il
 
 ## Introduction
 
-The November 2023 “bouncy ball” UAP report is one of the most detailed publicly released military UFO records connected to Syrian airspace. Unlike many famous UFO stories, its significance does not come from dramatic claims of impossible manoeuvres or alleged contact. Instead, it stands out because the report combines a surprisingly high estimated speed with an unusually restrained assessment from the observers themselves. The object was described as a “bouncy ball” shape travelling at roughly 424 knots (about 483 mph or 777 km/h) for at least seven minutes, yet the reporting crew also stated that it showed no threatening behaviour, emitted no detectable signals, and was ultimately assessed as “benign”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.warufo.com/document/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warufo.com">[WARUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warufo.com</span><span class="citation-popover-snippet">military operator reported observing one UAP “shaped as a bouncy ball.... The operator assessed the object as “benign.” All...Read more...</span></span></span>
+The November 2023 “bouncy ball” UAP report is one of the most detailed publicly released military UFO records connected to Syrian airspace. Unlike many famous UFO stories, its significance does not come from dramatic claims of impossible manoeuvres or alleged contact. Instead, it stands out because the report combines a surprisingly high estimated speed with an unusually restrained assessment from the observers themselves. The object was described as a “bouncy ball” shape travelling at roughly 424 knots (about 483 mph or 777 km/h) for at least seven minutes, yet the reporting crew also stated that it showed no threatening behaviour, emitted no detectable signals, and was ultimately assessed as “benign”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.warufo.com/document/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warufo.com">[WARUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warufo.com</span><span class="citation-popover-snippet">military operator reported observing one UAP “shaped as a bouncy ball.... The operator assessed the object as “benign.” All...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Syrian_Arab_Republic_099887_bouncy_ball_uap_repo_715095-Illustration-1-dark.svg" | relative_url }}" alt="Bouncy Ball illustration 1" data-theme-src-dark="{{ "/assets/images/Syrian_Arab_Republic_099887_bouncy_ball_uap_repo_715095-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syrian_Arab_Republic_099887_bouncy_ball_uap_repo_715095-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For researchers following UFO and UAP developments in the [Syrian Arab Republic]({{ 'syrian-arab-republic/' | relative_url }}), the case matters because it illustrates the gap between “unidentified” and “extraordinary”. The report records a real military observation in a sensitive operational environment, but it does not provide evidence that the object displayed clearly exotic technology. That tension makes it one of the most useful Syrian cases for understanding how modern military UAP reporting actually works. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pentagonufofiles.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pentagonufofiles.io">[Pentagon UFO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pentagonufofiles.io</span><span class="citation-popover-snippet">Pentagon UFO FilesPentagon UFO FilesMission Report D74 — Syria, November 2023. PDF. Mission Report D74 — Syria... A U.S. military operat...</span><span class="citation-popover-meta">Published: November 2023</span></span></span>
+For researchers following UFO and UAP developments in the [Syrian Arab Republic]({{ 'syrian-arab-republic/' | relative_url }}), the case matters because it illustrates the gap between “unidentified” and “extraordinary”. The report records a real military observation in a sensitive operational environment, but it does not provide evidence that the object displayed clearly exotic technology. That tension makes it one of the most useful Syrian cases for understanding how modern military UAP reporting actually works.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pentagonufofiles.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pentagonufofiles.io">[Pentagon UFO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pentagonufofiles.io</span><span class="citation-popover-snippet">Pentagon UFO FilesPentagon UFO FilesMission Report D74 — Syria, November 2023. PDF. Mission Report D74 — Syria... A U.S. military operat...</span><span class="citation-popover-meta">Published: November 2023</span></span></span>
 
 ## Why This Report Attracted Attention
 
-The case entered public discussion after the release of declassified U.S. military UAP records linked to the All-domain Anomaly Resolution Office (AARO), the Pentagon organisation responsible for investigating unidentified anomalous phenomena. The document is identified as DOW-UAP-D074, a mission report associated with a November 2023 observation in Syria. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pentagonufofiles.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pentagonufofiles.io">[Pentagon UFO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pentagonufofiles.io</span><span class="citation-popover-snippet">Pentagon UFO FilesPentagon UFO FilesMission Report D74 — Syria, November 2023. PDF. Mission Report D74 — Syria... A U.S. military operat...</span><span class="citation-popover-meta">Published: November 2023</span></span></span>
+The case entered public discussion after the release of declassified U.S. military UAP records linked to the All-domain Anomaly Resolution Office (AARO), the Pentagon organisation responsible for investigating unidentified anomalous phenomena. The document is identified as DOW-UAP-D074, a mission report associated with a November 2023 observation in Syria.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pentagonufofiles.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pentagonufofiles.io">[Pentagon UFO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pentagonufofiles.io</span><span class="citation-popover-snippet">Pentagon UFO FilesPentagon UFO FilesMission Report D74 — Syria, November 2023. PDF. Mission Report D74 — Syria... A U.S. military operat...</span><span class="citation-popover-meta">Published: November 2023</span></span></span>
 
 Several features immediately attracted attention:
 
@@ -273,7 +273,7 @@ Several features immediately attracted attention:
 * The object approached from the south.
 * No radio-frequency or other emissions were detected.
 * No effects on aircraft systems or personnel were reported.
-* The observer classified the object as benign rather than hostile. WARUFO <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO Transparency&#x27;Bouncy Ball&#x27; UAP at 424 Knots, Syria — Department of War · UFO...The object produced no RF or other emissions, showed n...</span></span></span>
+* The observer classified the object as benign rather than hostile. WARUFO<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO Transparency&#x27;Bouncy Ball&#x27; UAP at 424 Knots, Syria — Department of War · UFO...The object produced no RF or other emissions, showed n...</span></span></span>
 
 </div>
 
@@ -281,13 +281,13 @@ In many UFO narratives, high speed is treated as evidence of advanced technology
 
 ## The Reported Shape and Speed
 
-The most quoted phrase from the report is the description of an object “shaped as a bouncy ball” travelling at approximately 424 knots consistently for at least seven minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warufo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warufo.com">[WARUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warufo.com</span><span class="citation-popover-title">PURSUE Releases 01 &amp; 02 — 222 Declassified UAP Files</span><span class="citation-popover-snippet">Bouncy Ball&quot; UAP at 483 mph for 7+ Minutes (Syria, Nov 2023). Dept. of War • Syria • Sustained High Speed. ▾. Described as &quot;shaped as a...</span></span></span>
+The most quoted phrase from the report is the description of an object “shaped as a bouncy ball” travelling at approximately 424 knots consistently for at least seven minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warufo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warufo.com">[WARUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warufo.com</span><span class="citation-popover-title">PURSUE Releases 01 &amp; 02 — 222 Declassified UAP Files</span><span class="citation-popover-snippet">Bouncy Ball&quot; UAP at 483 mph for 7+ Minutes (Syria, Nov 2023). Dept. of War • Syria • Sustained High Speed. ▾. Described as &quot;shaped as a...</span></span></span>
 
-On paper, 424 knots sounds impressive. It is significantly faster than a weather balloon drifting with ordinary winds and is comparable to the cruising speed of some aircraft. However, the figure appears in a military mission report that also notes the estimate reflects the observer's interpretation rather than a formally verified measurement. Publicly released versions do not include the detailed sensor geometry, range data, altitude calculations, or tracking methodology that would be required to independently confirm the speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.warufo.com/document/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warufo.com">[WARUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warufo.com</span><span class="citation-popover-snippet">military operator reported observing one UAP “shaped as a bouncy ball.... The operator assessed the object as “benign.” All...Read more...</span></span></span>
+On paper, 424 knots sounds impressive. It is significantly faster than a weather balloon drifting with ordinary winds and is comparable to the cruising speed of some aircraft. However, the figure appears in a military mission report that also notes the estimate reflects the observer's interpretation rather than a formally verified measurement. Publicly released versions do not include the detailed sensor geometry, range data, altitude calculations, or tracking methodology that would be required to independently confirm the speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.warufo.com/document/81" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warufo.com">[WARUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warufo.com</span><span class="citation-popover-snippet">military operator reported observing one UAP “shaped as a bouncy ball.... The operator assessed the object as “benign.” All...Read more...</span></span></span>
 
 This limitation is important. In aviation and sensor analysis, apparent velocity can change dramatically depending on assumptions about distance. An object that appears to cross a field of view quickly may be much slower than it seems if it is close to the observer, or much faster if it is farther away. Without range information, outside analysts cannot reconstruct the estimate with confidence.
 
-The “bouncy ball” description itself is also noteworthy because it is visually mundane. The report does not describe a structured craft, wings, visible propulsion, flashing lights, geometric transformations, or multiple connected objects. The language instead suggests a roughly spherical appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warufo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warufo.com">[WARUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warufo.com</span><span class="citation-popover-title">PURSUE Releases 01 &amp; 02 — 222 Declassified UAP Files</span><span class="citation-popover-snippet">Bouncy Ball&quot; UAP at 483 mph for 7+ Minutes (Syria, Nov 2023). Dept. of War • Syria • Sustained High Speed. ▾. Described as &quot;shaped as a...</span></span></span>
+The “bouncy ball” description itself is also noteworthy because it is visually mundane. The report does not describe a structured craft, wings, visible propulsion, flashing lights, geometric transformations, or multiple connected objects. The language instead suggests a roughly spherical appearance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warufo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warufo.com">[WARUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warufo.com</span><span class="citation-popover-title">PURSUE Releases 01 &amp; 02 — 222 Declassified UAP Files</span><span class="citation-popover-snippet">Bouncy Ball&quot; UAP at 483 mph for 7+ Minutes (Syria, Nov 2023). Dept. of War • Syria • Sustained High Speed. ▾. Described as &quot;shaped as a...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/37ooh5oNJDM" title="UFO Hearing: Bombshell video shows US military’s missile bounce off UAP in stunning new footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=37ooh5oNJDM" target="_blank" rel="noopener noreferrer">UFO Hearing: Bombshell video shows US military’s missile bounce off UAP in stunning new footage</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 955.2K &middot; Uploaded: September 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=37ooh5oNJDM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=37ooh5oNJDM">Open on YouTube</a></p></div></div></div>
 
@@ -295,7 +295,7 @@ The “bouncy ball” description itself is also noteworthy because it is visual
 
 The strongest reason the case is often misunderstood is that readers focus on the speed estimate while overlooking the rest of the report.
 
-The observer reportedly assessed the object as “benign”, meaning it was not judged to pose a threat to the aircraft or public safety. The report additionally states that no emissions were detected and that there were no reported effects on the crew. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uforeleases.com/topics/dow-modern-uap/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforeleases.com">[UAP Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforeleases.com</span><span class="citation-popover-title">UAP Archive Mission Report DOW-UAP-D74: &quot;Bouncy Ball&quot; UAP over Syria</span><span class="citation-popover-snippet">The aircrew assessed the UAP as &quot;benign&quot; — not a threat to the aircraft or to public safety — and with no effects on...</span></span></span>
+The observer reportedly assessed the object as “benign”, meaning it was not judged to pose a threat to the aircraft or public safety. The report additionally states that no emissions were detected and that there were no reported effects on the crew.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uforeleases.com/topics/dow-modern-uap/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforeleases.com">[UAP Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforeleases.com</span><span class="citation-popover-title">UAP Archive Mission Report DOW-UAP-D74: &quot;Bouncy Ball&quot; UAP over Syria</span><span class="citation-popover-snippet">The aircrew assessed the UAP as &quot;benign&quot; — not a threat to the aircraft or to public safety — and with no effects on...</span></span></span>
 
 Just as important are the anomalies that are absent.
 
@@ -310,13 +310,13 @@ The released descriptions do not claim:
 * Electromagnetic interference.
 * Weapon-system disruption.
 * Observable intelligent responses.
-* Transmedium movement between air and water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uforeleases.com/topics/dow-modern-uap/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforeleases.com">[UAP Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforeleases.com</span><span class="citation-popover-title">UAP Archive Mission Report DOW-UAP-D74: &quot;Bouncy Ball&quot; UAP over Syria</span><span class="citation-popover-snippet">The aircrew assessed the UAP as &quot;benign&quot; — not a threat to the aircraft or to public safety — and with no effects on...</span></span></span>
+* Transmedium movement between air and water.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uforeleases.com/topics/dow-modern-uap/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforeleases.com">[UAP Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforeleases.com</span><span class="citation-popover-title">UAP Archive Mission Report DOW-UAP-D74: &quot;Bouncy Ball&quot; UAP over Syria</span><span class="citation-popover-snippet">The aircrew assessed the UAP as &quot;benign&quot; — not a threat to the aircraft or to public safety — and with no effects on...</span></span></span>
 
 </div>
 
 In other words, the report records an unidentified object, but not one that clearly demonstrated the classic “five observables” often discussed in UAP debates, such as extreme acceleration or unconventional flight characteristics.
 
-That distinction matters because many of the most controversial U.S. military UAP cases gained attention precisely because they appeared to involve extraordinary manoeuvres. The Syria report instead presents an object that was unidentified yet apparently non-hostile and behaviourally unremarkable beyond its estimated speed and persistence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</span></span></span>
+That distinction matters because many of the most controversial U.S. military UAP cases gained attention precisely because they appeared to involve extraordinary manoeuvres. The Syria report instead presents an object that was unidentified yet apparently non-hostile and behaviourally unremarkable beyond its estimated speed and persistence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</span></span></span>
 
 <img src="{{ "/assets/images/Syrian_Arab_Republic_099887_bouncy_ball_uap_repo_715095-Illustration-2-dark.svg" | relative_url }}" alt="Bouncy Ball illustration 2" data-theme-src-dark="{{ "/assets/images/Syrian_Arab_Republic_099887_bouncy_ball_uap_repo_715095-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syrian_Arab_Republic_099887_bouncy_ball_uap_repo_715095-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Read the Estimated Velocity
@@ -331,7 +331,7 @@ The released document does not provide enough information to determine:
 * The exact distance to the object.
 * The object's size.
 * Whether atmospheric conditions affected observation quality.
-* Whether camera movement contributed to the apparent motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warufo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warufo.com">[WARUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warufo.com</span><span class="citation-popover-title">PURSUE Releases 01 &amp; 02 — 222 Declassified UAP Files</span><span class="citation-popover-snippet">Bouncy Ball&quot; UAP at 483 mph for 7+ Minutes (Syria, Nov 2023). Dept. of War • Syria • Sustained High Speed. ▾. Described as &quot;shaped as a...</span></span></span>
+* Whether camera movement contributed to the apparent motion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warufo.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warufo.com">[WARUFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warufo.com</span><span class="citation-popover-title">PURSUE Releases 01 &amp; 02 — 222 Declassified UAP Files</span><span class="citation-popover-snippet">Bouncy Ball&quot; UAP at 483 mph for 7+ Minutes (Syria, Nov 2023). Dept. of War • Syria • Sustained High Speed. ▾. Described as &quot;shaped as a...</span></span></span>
 
 </div>
 
@@ -349,9 +349,9 @@ The available public record is insufficient to choose decisively between those p
 
 The Syrian setting is an important part of the story.
 
-Modern Syrian airspace has been crowded by military aircraft, surveillance systems, drones, missiles, coalition operations, regional military activity, and overlapping intelligence missions. That environment naturally generates more opportunities for unidentified observations than a routine civilian air corridor. A sensor operator may detect a real object without having enough information to determine exactly what it is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn&#x27;t That A Balloon?</span><span class="citation-popover-snippet">Deflating a DoD UFO Video24 Oct 2023 — A US military drone captured video of a metallic, spherical orb flying over the Middle East. The U...</span></span></span>
+Modern Syrian airspace has been crowded by military aircraft, surveillance systems, drones, missiles, coalition operations, regional military activity, and overlapping intelligence missions. That environment naturally generates more opportunities for unidentified observations than a routine civilian air corridor. A sensor operator may detect a real object without having enough information to determine exactly what it is.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn&#x27;t That A Balloon?</span><span class="citation-popover-snippet">Deflating a DoD UFO Video24 Oct 2023 — A US military drone captured video of a metallic, spherical orb flying over the Middle East. The U...</span></span></span>
 
-The “bouncy ball” report therefore fits a broader pattern visible in many recent U.S. military UAP files. An object is observed, tracked and documented, but the available data are insufficient for a confident identification. AARO has repeatedly stated that most resolved UAP cases ultimately turn out to involve balloons, birds, drones, aircraft or other conventional explanations, while a smaller number remain unresolved because of limited data rather than confirmed anomalous technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read-me.org">[Read-Me.Org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read-me.org</span><span class="citation-popover-title">fiscal year 2024 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop For Syria specifically]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</span></span></span>, that makes the case valuable less as evidence of something extraordinary and more as evidence of how military reporting systems handle uncertainty in a complex operational theatre.
+The “bouncy ball” report therefore fits a broader pattern visible in many recent U.S. military UAP files. An object is observed, tracked and documented, but the available data are insufficient for a confident identification. AARO has repeatedly stated that most resolved UAP cases ultimately turn out to involve balloons, birds, drones, aircraft or other conventional explanations, while a smaller number remain unresolved because of limited data rather than confirmed anomalous technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read-me.org">[Read-Me.Org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read-me.org</span><span class="citation-popover-title">fiscal year 2024 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop For Syria specifically]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</span></span></span>, that makes the case valuable less as evidence of something extraordinary and more as evidence of how military reporting systems handle uncertainty in a complex operational theatre.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6dPNiN5nf0E" title="16 Most Disturbing Videos From Pentagon UFO Release" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6dPNiN5nf0E" target="_blank" rel="noopener noreferrer">16 Most Disturbing Videos From Pentagon UFO Release</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 96.9K &middot; Uploaded: May 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6dPNiN5nf0E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6dPNiN5nf0E">Open on YouTube</a></p></div></div></div>
 
@@ -359,207 +359,207 @@ The “bouncy ball” report therefore fits a broader pattern visible in many re
 
 The November 2023 report occupies an unusual middle ground in the Syrian UAP record.
 
-It is stronger than anonymous internet stories because it comes from an official military reporting process and includes specific operational details. Yet it is weaker than many public discussions imply because the released material lacks the sensor data needed to independently verify the object's speed, trajectory, size or origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pentagonufofiles.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pentagonufofiles.io">[Pentagon UFO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pentagonufofiles.io</span><span class="citation-popover-snippet">Pentagon UFO FilesPentagon UFO FilesMission Report D74 — Syria, November 2023. PDF. Mission Report D74 — Syria... A U.S. military operat...</span><span class="citation-popover-meta">Published: November 2023</span></span></span>
+It is stronger than anonymous internet stories because it comes from an official military reporting process and includes specific operational details. Yet it is weaker than many public discussions imply because the released material lacks the sensor data needed to independently verify the object's speed, trajectory, size or origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pentagonufofiles.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pentagonufofiles.io">[Pentagon UFO Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pentagonufofiles.io</span><span class="citation-popover-snippet">Pentagon UFO FilesPentagon UFO FilesMission Report D74 — Syria, November 2023. PDF. Mission Report D74 — Syria... A U.S. military operat...</span><span class="citation-popover-meta">Published: November 2023</span></span></span>
 
 Its lasting importance comes from three points:
 
 1. **It is one of the clearest publicly available Syria-linked UAP reports.**
 2. **It documents a sustained observation rather than a fleeting glimpse.**
-3. **It demonstrates that an object can remain unidentified while still being assessed as non-threatening and possibly mundane.** WARUFO <span class="citation-chip-wrap"><a class="citation-chip" href="https://uforeleases.com/topics/dow-modern-uap/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforeleases.com">[UAP Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforeleases.com</span><span class="citation-popover-title">UAP Archive Mission Report DOW-UAP-D74: &quot;Bouncy Ball&quot; UAP over Syria</span><span class="citation-popover-snippet">The aircrew assessed the UAP as &quot;benign&quot; — not a threat to the aircraft or to public safety — and with no effects on...</span></span></span>
+3. **It demonstrates that an object can remain unidentified while still being assessed as non-threatening and possibly mundane.** WARUFO<span class="citation-chip-wrap"><a class="citation-chip" href="https://uforeleases.com/topics/dow-modern-uap/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforeleases.com">[UAP Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforeleases.com</span><span class="citation-popover-title">UAP Archive Mission Report DOW-UAP-D74: &quot;Bouncy Ball&quot; UAP over Syria</span><span class="citation-popover-snippet">The aircrew assessed the UAP as &quot;benign&quot; — not a threat to the aircraft or to public safety — and with no effects on...</span></span></span>
 
-For readers examining UFO activity in the Syrian Arab Republic, the “bouncy ball” case is therefore less a mystery demanding extraordinary explanations than a case study in evidentiary limits. The report records an unusual observation, but the most revealing feature may be the caution built into the document itself: despite the striking speed estimate, the observers reported no clear signs of advanced capabilities and judged the object to be benign. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uforeleases.com/topics/dow-modern-uap/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforeleases.com">[UAP Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforeleases.com</span><span class="citation-popover-title">UAP Archive Mission Report DOW-UAP-D74: &quot;Bouncy Ball&quot; UAP over Syria</span><span class="citation-popover-snippet">The aircrew assessed the UAP as &quot;benign&quot; — not a threat to the aircraft or to public safety — and with no effects on...</span></span></span>
+For readers examining UFO activity in the Syrian Arab Republic, the “bouncy ball” case is therefore less a mystery demanding extraordinary explanations than a case study in evidentiary limits. The report records an unusual observation, but the most revealing feature may be the caution built into the document itself: despite the striking speed estimate, the observers reported no clear signs of advanced capabilities and judged the object to be benign.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uforeleases.com/topics/dow-modern-uap/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uforeleases.com">[UAP Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uforeleases.com</span><span class="citation-popover-title">UAP Archive Mission Report DOW-UAP-D74: &quot;Bouncy Ball&quot; UAP over Syria</span><span class="citation-popover-snippet">The aircrew assessed the UAP as &quot;benign&quot; — not a threat to the aircraft or to public safety — and with no effects on...</span></span></span>
 
 <img src="{{ "/assets/images/Syrian_Arab_Republic_099887_bouncy_ball_uap_repo_715095-Illustration-3-dark.svg" | relative_url }}" alt="Bouncy Ball illustration 3" data-theme-src-dark="{{ "/assets/images/Syrian_Arab_Republic_099887_bouncy_ball_uap_repo_715095-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syrian_Arab_Republic_099887_bouncy_ball_uap_repo_715095-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the 2023 Bouncy Ball Case Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the 2023 Bouncy Ball Case Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on military and aviation UFO cases where unidentified does not automatically mean extraordinary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on military and aviation UFO cases where unidentified does not automatically mean extraordinary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines modern military sightings and debates about evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern military sightings and debates about evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Provides context for how modern U.S. military UAP reporting is interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how modern U.S. military UAP reporting is interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains classification systems and cautious evaluation of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains classification systems and cautious evaluation of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-bouncy-ball-case-matters-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-2023-bouncy-ball-case-matters-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ For readers examining UFO activity in the Syrian Arab Republic, the “bouncy ba
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ For readers examining UFO activity in the Syrian Arab Republic, the “bouncy ba
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ For readers examining UFO activity in the Syrian Arab Republic, the “bouncy ba
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ For readers examining UFO activity in the Syrian Arab Republic, the “bouncy ba
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ For readers examining UFO activity in the Syrian Arab Republic, the “bouncy ba
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,146 +762,145 @@ For readers examining UFO activity in the Syrian Arab Republic, the “bouncy ba
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: warufo.com  
-   Link: <a href="https://www.warufo.com/document/81" target="_blank" rel="noopener noreferrer nofollow">https://www.warufo.com/document/81</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military operator reported observing one UAP “shaped as a bouncy ball.... The operator assessed the object as “benign.” All...Read more...</p></details>
+   Link:<a href="https://www.warufo.com/document/81" target="_blank" rel="noopener noreferrer nofollow">https://www.warufo.com/document/81</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military operator reported observing one UAP “shaped as a bouncy ball.... The operator assessed the object as “benign.” All...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Product...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Product...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: warufo.com  
    Title: PURSUE Releases 01 & 02 — 222 Declassified UAP Files  
-   Link: <a href="https://warufo.com/" target="_blank" rel="noopener noreferrer nofollow">https://warufo.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Bouncy Ball&quot; UAP at 483 mph for 7+ Minutes (Syria, Nov 2023). Dept. of War • Syria • Sustained High Speed. ▾. Described as &quot;shaped as a...</p></details>
+   Link:<a href="https://warufo.com/" target="_blank" rel="noopener noreferrer nofollow">https://warufo.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Bouncy Ball&quot; UAP at 483 mph for 7+ Minutes (Syria, Nov 2023). Dept. of War • Syria • Sustained High Speed. ▾. Described as &quot;shaped as a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bellingcat.com  
    Title: Isn't That A Balloon?  
-   Link: <a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deflating a DoD UFO Video24 Oct 2023 — A US military drone captured video of a metallic, spherical orb flying over the Middle East. The U...</p></details>
+   Link:<a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deflating a DoD UFO Video24 Oct 2023 — A US military drone captured video of a metallic, spherical orb flying over the Middle East. The U...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
+   Link:<a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)... UAP Case Resolution Reports · UAP Reporting Trend...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)... UAP Case Resolution Reports · UAP Reporting Trend...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsAtmospheric Wake Case Resolution. These reports were submitted after three different missions in the Middle Ea...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsAtmospheric Wake Case Resolution. These reports were submitted after three different missions in the Middle Ea...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: dow uap d74 mission report syria november 2023  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarMisrep 9381202• UAP Advanced Capabilities And/Or Materials (yes/no; if yes, describe): YES, TRAVELED. ~424KN CONSIS...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarMisrep 9381202• UAP Advanced Capabilities And/Or Materials (yes/no; if yes, describe): YES, TRAVELED. ~424KN CONSIS...</p></details>
    Published: november 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pentagonufofiles.io  
-   Link: <a href="https://pentagonufofiles.io/" target="_blank" rel="noopener noreferrer nofollow">https://pentagonufofiles.io/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO FilesPentagon UFO FilesMission Report D74 — Syria, November 2023. PDF. Mission Report D74 — Syria... A U.S. military operat...</p></details>
+   Link:<a href="https://pentagonufofiles.io/" target="_blank" rel="noopener noreferrer nofollow">https://pentagonufofiles.io/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO FilesPentagon UFO FilesMission Report D74 — Syria, November 2023. PDF. Mission Report D74 — Syria... A U.S. military operat...</p></details>
    Published: November 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/dow-uap-d74-mission-report-syria-november-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Transparency&#x27;Bouncy Ball&#x27; UAP at 424 Knots, Syria — Department of War · UFO...The object produced no RF or other emissions, showed n...</p></details>
+   Link:<a href="https://ufotransparency.com/files/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/dow-uap-d74-mission-report-syria-november-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Transparency&#x27;Bouncy Ball&#x27; UAP at 424 Knots, Syria — Department of War · UFO...The object produced no RF or other emissions, showed n...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uforeleases.com  
    Title: UAP Archive Mission Report DOW-UAP-D74: "Bouncy Ball" UAP over Syria  
-   Link: <a href="https://uforeleases.com/topics/dow-modern-uap/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://uforeleases.com/topics/dow-modern-uap/dow-uap-d74-mission-report-syria-november-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The aircrew assessed the UAP as &quot;benign&quot; — not a threat to the aircraft or to public safety — and with no effects on...</p></details>
+   Link:<a href="https://uforeleases.com/topics/dow-modern-uap/dow-uap-d74-mission-report-syria-november-2023" target="_blank" rel="noopener noreferrer nofollow">https://uforeleases.com/topics/dow-modern-uap/dow-uap-d74-mission-report-syria-november-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The aircrew assessed the UAP as &quot;benign&quot; — not a threat to the aircraft or to public safety — and with no effects on...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unresolved UAP Report: Middle East 2024The recording, captured in the Middle East in 2024, depicts an apparent thermal contrast within th...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unresolved UAP Report: Middle East 2024The recording, captured in the Middle East in 2024, depicts an apparent thermal contrast within th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/1006076" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006076</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR31, Unresolved UAP Report, Syria...3 days ago — The United States Central Command submitted a report of an unidentified anomal...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/1006076" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006076</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR31, Unresolved UAP Report, Syria...3 days ago — The United States Central Command submitted a report of an unidentified anomal...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: post-gazette.com  
-   Link: <a href="https://www.post-gazette.com/news/nation/2026/05/08/pentagon-ufo-files/stories/202605080036" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/nation/2026/05/08/pentagon-ufo-files/stories/202605080036</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>483 mph consistently for at least seven minutes over Syria in 2023.Read more...</p></details>
+   Link:<a href="https://www.post-gazette.com/news/nation/2026/05/08/pentagon-ufo-files/stories/202605080036" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/nation/2026/05/08/pentagon-ufo-files/stories/202605080036</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>483 mph consistently for at least seven minutes over Syria in 2023.Read more...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400457436_Celestial_BeLonging_A_Case_for_Scientific_Interest_in_Humankind%27s_Yearning_for_and_Potential_Origins_in_the_Heavens" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400457436_Celestial_BeLonging_A_Case_for_Scientific_Interest_in_Humankind%27s_Yearning_for_and_Potential_Origins_in_the_Heavens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Celestial (Be)Longing: A Case for Scientific Interest...Mar 17, 2026 — Throughout history and across cultures, human beings have f...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400457436_Celestial_BeLonging_A_Case_for_Scientific_Interest_in_Humankind%27s_Yearning_for_and_Potential_Origins_in_the_Heavens" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400457436_Celestial_BeLonging_A_Case_for_Scientific_Interest_in_Humankind%27s_Yearning_for_and_Potential_Origins_in_the_Heavens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Celestial (Be)Longing: A Case for Scientific Interest...Mar 17, 2026 — Throughout history and across cultures, human beings have f...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: disclosurearchives.com  
-   Link: <a href="https://disclosurearchives.com/declassified-uap-photos" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/declassified-uap-photos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2023-11-09. Mission Report: Syria, November 2023 (DOW-UAP-D74). A U.S. military operator reported observing one UAP “shaped as a bouncy b...</p></details>
+   Link:<a href="https://disclosurearchives.com/declassified-uap-photos" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/declassified-uap-photos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2023-11-09. Mission Report: Syria, November 2023 (DOW-UAP-D74). A U.S. military operator reported observing one UAP “shaped as a bouncy b...</p></details>
    Published: November 9, 2023  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ispcjournal.org  
-   Link: <a href="https://ispcjournal.org/journals/2026/36/PhC_vol_36.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ispcjournal.org/journals/2026/36/PhC_vol_36.pdf</a>  
+   Link:<a href="https://ispcjournal.org/journals/2026/36/PhC_vol_36.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ispcjournal.org/journals/2026/36/PhC_vol_36.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unidentifiedphenomena.com  
    Title: presidential unsealing and reporting system for uap encounters pursue release 1  
-   Link: <a href="https://unidentifiedphenomena.com/topics/presidential-unsealing-and-reporting-system-for-uap-encounters-pursue-release-1/" target="_blank" rel="noopener noreferrer nofollow">https://unidentifiedphenomena.com/topics/presidential-unsealing-and-reporting-system-for-uap-encounters-pursue-release-1/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Presidential Unsealing and Reporting System for UAP...2 days ago — A November 2023 Syria report describes one probable high-confidence U...</p></details>
+   Link:<a href="https://unidentifiedphenomena.com/topics/presidential-unsealing-and-reporting-system-for-uap-encounters-pursue-release-1/" target="_blank" rel="noopener noreferrer nofollow">https://unidentifiedphenomena.com/topics/presidential-unsealing-and-reporting-system-for-uap-encounters-pursue-release-1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Presidential Unsealing and Reporting System for UAP...2 days ago — A November 2023 Syria report describes one probable high-confidence U...</p></details>
    Published: November 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: phxtri.com  
    Title: 80 years of secrets what the 2026 aaro uap data release actually shows  
-   Link: <a href="https://phxtri.com/politics/80-years-of-secrets-what-the-2026-aaro-uap-data-release-actually-shows/" target="_blank" rel="noopener noreferrer nofollow">https://phxtri.com/politics/80-years-of-secrets-what-the-2026-aaro-uap-data-release-actually-shows/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracked 8 min, Gulf of Aden — then abrupt direction change. 483 mph. “Bouncy ball” shape, Syria, Nov 2023 — sustained 7+ minutes. 499...</p></details>
+   Link:<a href="https://phxtri.com/politics/80-years-of-secrets-what-the-2026-aaro-uap-data-release-actually-shows/" target="_blank" rel="noopener noreferrer nofollow">https://phxtri.com/politics/80-years-of-secrets-what-the-2026-aaro-uap-data-release-actually-shows/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracked 8 min, Gulf of Aden — then abrupt direction change. 483 mph. “Bouncy ball” shape, Syria, Nov 2023 — sustained 7+ minutes. 499...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: realufo.org  
-   Link: <a href="https://realufo.org/" target="_blank" rel="noopener noreferrer nofollow">https://realufo.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Presidential Unsealing and Reporting System for UAP...This document is a Mission Report (MISREP), a standardized reporting form the U.S...</p></details>
+   Link:<a href="https://realufo.org/" target="_blank" rel="noopener noreferrer nofollow">https://realufo.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Presidential Unsealing and Reporting System for UAP...This document is a Mission Report (MISREP), a standardized reporting form the U.S...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dvidshub.net  
    Title: dow uap pr33 unresolved uap report syria october 2024  
-   Link: <a href="https://www.dvidshub.net/video/1006079/dow-uap-pr33-unresolved-uap-report-syria-october-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006079/dow-uap-pr33-unresolved-uap-report-syria-october-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR33, Unresolved UAP Report, Syria, October 2024The United States Central Command submitted a report of an unidentified anomalous...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/1006079/dow-uap-pr33-unresolved-uap-report-syria-october-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/1006079/dow-uap-pr33-unresolved-uap-report-syria-october-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOW-UAP-PR33, Unresolved UAP Report, Syria, October 2024The United States Central Command submitted a report of an unidentified anomalous...</p></details>
    Published: october 2024  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/articles/maybe-flying-saucer-pentagon-fbi-172109616.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/maybe-flying-saucer-pentagon-fbi-172109616.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he erratic rhythm of a “bouncy ball” and showing zero interest in our military...</p></details>
+   Link:<a href="https://www.aol.com/articles/maybe-flying-saucer-pentagon-fbi-172109616.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/maybe-flying-saucer-pentagon-fbi-172109616.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he erratic rhythm of a “bouncy ball” and showing zero interest in our military...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jbsa.mil  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Base San AntonioDOD examining unidentified anomalous phenomena15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in it...</p></details>
+   Link:<a href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Base San AntonioDOD examining unidentified anomalous phenomena15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in it...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/news/bright-lights-hot-orbs-ufo-023035344.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/bright-lights-hot-orbs-ufo-023035344.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright lights and hot orbs: UFO files shed light on sightings...3 hours ago — Its 2024 debut report revealed hundreds of new UAP inciden...</p></details>
+   Link:<a href="https://www.aol.com/news/bright-lights-hot-orbs-ufo-023035344.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/bright-lights-hot-orbs-ufo-023035344.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bright lights and hot orbs: UFO files shed light on sightings...3 hours ago — Its 2024 debut report revealed hundreds of new UAP inciden...</p></details>

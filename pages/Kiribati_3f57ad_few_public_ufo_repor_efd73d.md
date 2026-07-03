@@ -254,16 +254,16 @@ image: /assets/images/Kiribati_3f57ad_few_public_ufo_repor_efd73d-Illustration-1
 
 ## Introduction
 
-Kiribati appears only rarely in international UFO [databases]({{ 'databases/' | relative_url }}), and that absence is often misunderstood. A lack of public reports does not automatically mean a lack of unusual sightings. In Kiribati’s case, geography, population distribution, infrastructure limits, and reporting culture all work against the creation of a large public record. The country covers an immense stretch of the central Pacific, yet much of that space is ocean rather than inhabited land. Many islands have tiny populations, while some have no permanent residents at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaKiribati &#124; Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</span></span></span>
+Kiribati appears only rarely in international UFO [databases]({{ 'databases/' | relative_url }}), and that absence is often misunderstood. A lack of public reports does not automatically mean a lack of unusual sightings. In Kiribati’s case, geography, population distribution, infrastructure limits, and reporting culture all work against the creation of a large public record. The country covers an immense stretch of the central Pacific, yet much of that space is ocean rather than inhabited land. Many islands have tiny populations, while some have no permanent residents at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaKiribati &#124; Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</span></span></span>
 
 <img src="{{ "/assets/images/Kiribati_3f57ad_few_public_ufo_repor_efd73d-Illustration-1-dark.svg" | relative_url }}" alt="Missing Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Kiribati_3f57ad_few_public_ufo_repor_efd73d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kiribati_3f57ad_few_public_ufo_repor_efd73d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That combination creates a simple but important problem for UFO documentation: even if an unusual aerial event occurs, there may be very few witnesses, no local media coverage, no official reporting pathway, and no public archive where the observation is recorded. For Kiribati, the more interesting question is often not “Why are there no UFOs?” but “Why would a sighting ever become a documented public case in the first place?”
 
 ## Population and Island Geography
 
-Kiribati consists of 33 islands spread across the Gilbert, Phoenix, and Line island groups. Only around 20 or 21 islands are inhabited, and population is heavily concentrated in the Gilbert Islands, especially around South Tarawa. The Phoenix Islands have no permanent population, while only a small number of the Line Islands are inhabited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaKiribati &#124; Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Geography_of_Kiribati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Geography of Kiribati</span><span class="citation-popover-snippet">Geography of KiribatiThe three main island groupings are the Gilbert Islands, Phoenix Islands, and Line Islands.... The Phoenix Islan...</span></span></span>
+Kiribati consists of 33 islands spread across the Gilbert, Phoenix, and Line island groups. Only around 20 or 21 islands are inhabited, and population is heavily concentrated in the Gilbert Islands, especially around South Tarawa. The Phoenix Islands have no permanent population, while only a small number of the Line Islands are inhabited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaKiribati &#124; Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Geography_of_Kiribati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Geography of Kiribati</span><span class="citation-popover-snippet">Geography of KiribatiThe three main island groupings are the Gilbert Islands, Phoenix Islands, and Line Islands.... The Phoenix Islan...</span></span></span>
 
-The physical scale of the country is unusual. Kiribati has only about 811 square kilometres of land, yet that land is dispersed across roughly 3.4 to 3.6 million square kilometres of ocean. The islands stretch thousands of kilometres across the Pacific. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dfat.gov.au/geo/kiribati/kiribati-country-brief" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfat.gov.au">[DFAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfat.gov.au</span><span class="citation-popover-snippet">Kiribati country briefKiribati&#x27;s atolls are wide-spread, mostly less than two metres above sea level and vulnerable to the impacts of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kiribatitourism.gov.ki/kiribati-pacific-ocean-location/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kiribatitourism.gov.ki">[Kiribati Tourism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kiribatitourism.gov.ki</span><span class="citation-popover-snippet">About KiribatiOf the 33 islands of Kiribati, 21 are inhabited. Most of the population is concentrated in the Gilbert Islands and only one...</span></span></span>
+The physical scale of the country is unusual. Kiribati has only about 811 square kilometres of land, yet that land is dispersed across roughly 3.4 to 3.6 million square kilometres of ocean. The islands stretch thousands of kilometres across the Pacific.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dfat.gov.au/geo/kiribati/kiribati-country-brief" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfat.gov.au">[DFAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfat.gov.au</span><span class="citation-popover-snippet">Kiribati country briefKiribati&#x27;s atolls are wide-spread, mostly less than two metres above sea level and vulnerable to the impacts of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kiribatitourism.gov.ki/kiribati-pacific-ocean-location/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kiribatitourism.gov.ki">[Kiribati Tourism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kiribatitourism.gov.ki</span><span class="citation-popover-snippet">About KiribatiOf the 33 islands of Kiribati, 21 are inhabited. Most of the population is concentrated in the Gilbert Islands and only one...</span></span></span>
 
 For UFO reporting, that matters in several ways:
 
@@ -296,7 +296,7 @@ This creates a form of reporting bias. The public UFO record tends to be stronge
 
 Public UFO databases are not passive scientific instruments. They depend on people choosing to submit reports.
 
-Large international repositories such as Enigma Labs and the National UFO Reporting Center (NUFORC) are heavily influenced by countries with active internet access, established UFO communities, and long traditions of civilian reporting. Enigma's country page for Kiribati currently shows no submitted sightings despite maintaining a much larger international archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ki" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingUFO Sightings in KiribatiExplore UFO &amp; UAP sightings in Kiribati. Discover sighting maps, historical a...</span></span></span> | Report a UFO sighting
+Large international repositories such as Enigma Labs and the National UFO Reporting Center (NUFORC) are heavily influenced by countries with active internet access, established UFO communities, and long traditions of civilian reporting. Enigma's country page for Kiribati currently shows no submitted sightings despite maintaining a much larger international archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ki" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingUFO Sightings in KiribatiExplore UFO &amp; UAP sightings in Kiribati. Discover sighting maps, historical a...</span></span></span> | Report a UFO sighting
 
 That does not necessarily indicate that nobody in Kiribati has ever seen an unexplained aerial object. Instead, it highlights a reporting-chain problem:
 
@@ -341,7 +341,7 @@ The data do not allow observers to conclude that unexplained sightings never occ
 
 The most widely circulated Kiribati-related UFO story demonstrates another reason why the country's UFO record can become distorted.
 
-Instead of emerging from eyewitness testimony, the Starbuck Island claim originated through satellite imagery shared online. Social media users interpreted a feature visible on the remote island as a possible crashed UFO. Because the island is isolated and difficult for most people to visit, speculation spread rapidly. Later analysis pointed toward ordinary explanations involving human-made remains or structures rather than an exotic craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaKiribati &#124; Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</span></span></span>
+Instead of emerging from eyewitness testimony, the Starbuck Island claim originated through satellite imagery shared online. Social media users interpreted a feature visible on the remote island as a possible crashed UFO. Because the island is isolated and difficult for most people to visit, speculation spread rapidly. Later analysis pointed toward ordinary explanations involving human-made remains or structures rather than an exotic craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaKiribati &#124; Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</span></span></span>
 
 The episode reveals a recurring pattern in remote Pacific locations:
 
@@ -368,7 +368,7 @@ Researchers can reasonably infer that:
 * Sparse population reduces the number of potential witnesses.
 * Large ocean distances reduce opportunities for corroboration.
 * Uninhabited islands create observation gaps.
-* International UFO databases underrepresent places with limited reporting networks. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ki" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingUFO Sightings in KiribatiExplore UFO &amp; UAP sightings in Kiribati. Discover sighting maps, historical a...</span></span></span>
+* International UFO databases underrepresent places with limited reporting networks. Encyclopedia Britannica<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/ki" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[2Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingUFO Sightings in KiribatiExplore UFO &amp; UAP sightings in Kiribati. Discover sighting maps, historical a...</span></span></span>
 
 </div>
 
@@ -387,194 +387,194 @@ The central lesson is methodological. Kiribati's lack of public UFO reports is b
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbkj89GAuX4" title="Weird Google Earth Finds - A UFO crash and an Invisible Air Force Plane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbkj89GAuX4" target="_blank" rel="noopener noreferrer">Weird Google Earth Finds - A UFO crash and an Invisible Air Force Plane</a></p><p class="youtube-embed-meta">Channel: Q The First Timelord (TimelordQ) &middot; Views: 423 &middot; Uploaded: September 2024 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbkj89GAuX4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbkj89GAuX4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are Kiribati UFO Reports So Rare?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are Kiribati UFO Reports So Rare?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains limitations of sighting records and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains limitations of sighting records and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses why only a small percentage of reports remain unexplained.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses why only a small percentage of reports remain unexplained.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses evidence gaps, reporting biases and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses evidence gaps, reporting biases and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Shows how common astronomical misidentifications occur.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how common astronomical misidentifications occur.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-kiribati-ufo-reports-so-rare-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-kiribati-ufo-reports-so-rare-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ The central lesson is methodological. Kiribati's lack of public UFO reports is b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ The central lesson is methodological. Kiribati's lack of public UFO reports is b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ The central lesson is methodological. Kiribati's lack of public UFO reports is b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ The central lesson is methodological. Kiribati's lack of public UFO reports is b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ The central lesson is methodological. Kiribati's lack of public UFO reports is b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,194 +777,193 @@ The central lesson is methodological. Kiribati's lack of public UFO reports is b
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kiribati</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaKiribati | Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</p></details>
+   Link:<a href="https://www.britannica.com/place/Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kiribati</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaKiribati | Culture, History, &amp; People20 Apr 2026 — Kiribati extends 1,800 miles (2,900 km) eastward from the 16 Gi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dfat.gov.au  
-   Link: <a href="https://www.dfat.gov.au/geo/kiribati/kiribati-country-brief" target="_blank" rel="noopener noreferrer nofollow">https://www.dfat.gov.au/geo/kiribati/kiribati-country-brief</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati country briefKiribati&#x27;s atolls are wide-spread, mostly less than two metres above sea level and vulnerable to the impacts of...</p></details>
+   Link:<a href="https://www.dfat.gov.au/geo/kiribati/kiribati-country-brief" target="_blank" rel="noopener noreferrer nofollow">https://www.dfat.gov.au/geo/kiribati/kiribati-country-brief</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati country briefKiribati&#x27;s atolls are wide-spread, mostly less than two metres above sea level and vulnerable to the impacts of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Geography of Kiribati  
-   Link: <a href="https://en.wikipedia.org/wiki/Geography_of_Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geography_of_Kiribati</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geography of KiribatiThe three main island groupings are the Gilbert Islands, Phoenix Islands, and Line Islands.... The Phoenix Islan...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Geography_of_Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geography_of_Kiribati</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geography of KiribatiThe three main island groupings are the Gilbert Islands, Phoenix Islands, and Line Islands.... The Phoenix Islan...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/ki" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/ki</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingUFO Sightings in KiribatiExplore UFO &amp; UAP sightings in Kiribati. Discover sighting maps, historical a...</p></details>
+   Link:<a href="https://enigmalabs.io/explore/ki" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/ki</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingUFO Sightings in KiribatiExplore UFO &amp; UAP sightings in Kiribati. Discover sighting maps, historical a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingUFO Sightings Around the WorldCombined with 270K+ sighting reports from publicly available sources, En...</p></details>
+   Link:<a href="https://enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingUFO Sightings Around the WorldCombined with 270K+ sighting reports from publicly available sources, En...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kiribati</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KiribatiIts total land area is 811 km 2 (313 sq mi) dispersed over 3,441,810 km 2 (1,328,890 sq mi) of ocean. The spread of the countr...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kiribati</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KiribatiIts total land area is 811 km 2 (313 sq mi) dispersed over 3,441,810 km 2 (1,328,890 sq mi) of ocean. The spread of the countr...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Nauru" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Nauru</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati, some 200 miles (300 km) to the east. Nauru has no... Total Area (Sq Km):: 21. (Show more). Total Area (Sq Mi):: 8. (Show more)...</p></details>
+   Link:<a href="https://www.britannica.com/place/Nauru" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Nauru</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati, some 200 miles (300 km) to the east. Nauru has no... Total Area (Sq Km):: 21. (Show more). Total Area (Sq Mi):: 8. (Show more)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kids.britannica.com  
-   Link: <a href="https://kids.britannica.com/kids/article/Kiribati/345719" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/kids/article/Kiribati/345719</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kiritimati (Christmas Island), in the Line Islands, is the world&#x27;s...Read more...</p></details>
+   Link:<a href="https://kids.britannica.com/kids/article/Kiribati/345719" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/kids/article/Kiribati/345719</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kiritimati (Christmas Island), in the Line Islands, is the world&#x27;s...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/list-of-the-smallest-countries-by-area" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/list-of-the-smallest-countries-by-area</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ten times larger is Nauru, which is next on the list. What are some of the other...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/topic/list-of-the-smallest-countries-by-area" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/list-of-the-smallest-countries-by-area</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ten times larger is Nauru, which is next on the list. What are some of the other...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Kiritimati-Atoll" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kiritimati-Atoll</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kiritimati Atoll | Location, Map, Island, &amp; History20 Apr 2026 — Kiribati, island country in the central Pacific Ocean...</p></details>
+   Link:<a href="https://www.britannica.com/place/Kiritimati-Atoll" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Kiritimati-Atoll</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kiritimati Atoll | Location, Map, Island, &amp; History20 Apr 2026 — Kiribati, island country in the central Pacific Ocean...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kids.britannica.com  
-   Link: <a href="https://kids.britannica.com/students/article/Kiribati/275293" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Kiribati/275293</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Population (2025 est.) 128,800. Kiribati extends about 1,300 miles (2,100 kilometers) from Teraina Island to...Read more...</p></details>
+   Link:<a href="https://kids.britannica.com/students/article/Kiribati/275293" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Kiribati/275293</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Population (2025 est.) 128,800. Kiribati extends about 1,300 miles (2,100 kilometers) from Teraina Island to...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: britannica.com  
    Title: 2 Metropolitan  
-   Link: <a href="https://www.britannica.com/topic/list-of-the-total-areas-of-the-worlds-countries-dependencies-and-territories-2130540" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/list-of-the-total-areas-of-the-worlds-countries-dependencies-and-territories-2130540</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of the world&#x27;s largest countries and dependencies by...22 Jan 2026 — Includes land area of 3,532,316 square miles (9,148,663 square...</p></details>
+   Link:<a href="https://www.britannica.com/topic/list-of-the-total-areas-of-the-worlds-countries-dependencies-and-territories-2130540" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/list-of-the-total-areas-of-the-worlds-countries-dependencies-and-territories-2130540</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of the world&#x27;s largest countries and dependencies by...22 Jan 2026 — Includes land area of 3,532,316 square miles (9,148,663 square...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Line-Islands" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Line-Islands</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Line Islands | Kiribati, Map, &amp; FactsThe Line Islands extend 1,600 miles (2,600 km) northwestward from French Polynesia. They have a land...</p></details>
+   Link:<a href="https://www.britannica.com/place/Line-Islands" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Line-Islands</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Line Islands | Kiribati, Map, &amp; FactsThe Line Islands extend 1,600 miles (2,600 km) northwestward from French Polynesia. They have a land...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/summary/Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Kiribati</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>summaryArea: 313 sq mi (811 sq km). Population: (2026 est.) 130,900. Capitals: Bairiki (executive), Ambo (legislative), and Betio (judici...</p></details>
+   Link:<a href="https://www.britannica.com/summary/Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Kiribati</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summaryArea: 313 sq mi (811 sq km). Population: (2026 est.) 130,900. Capitals: Bairiki (executive), Ambo (legislative), and Betio (judici...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
    Title: history of Kiribati  
-   Link: <a href="https://www.britannica.com/topic/history-of-Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/history-of-Kiribati</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People, Language, Maps...In 2014 the government bought some 8 square miles (20 square km) of land on the Fijian island of Vanua Levu tha...</p></details>
+   Link:<a href="https://www.britannica.com/topic/history-of-Kiribati" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/history-of-Kiribati</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People, Language, Maps...In 2014 the government bought some 8 square miles (20 square km) of land on the Fijian island of Vanua Levu tha...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thecommonwealth.org  
    Title: Commonwealth Kiribati  
-   Link: <a href="https://thecommonwealth.org/our-member-countries/kiribati" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/kiribati</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati - CommonwealthKiribati is an island country in the central Pacific Ocean, made up of 33 islands... 811 square kilometres; Capit...</p></details>
+   Link:<a href="https://thecommonwealth.org/our-member-countries/kiribati" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/kiribati</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati - CommonwealthKiribati is an island country in the central Pacific Ocean, made up of 33 islands... 811 square kilometres; Capit...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kiribatitourism.gov.ki  
-   Link: <a href="https://www.kiribatitourism.gov.ki/kiribati-pacific-ocean-location/" target="_blank" rel="noopener noreferrer nofollow">https://www.kiribatitourism.gov.ki/kiribati-pacific-ocean-location/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About KiribatiOf the 33 islands of Kiribati, 21 are inhabited. Most of the population is concentrated in the Gilbert Islands and only one...</p></details>
+   Link:<a href="https://www.kiribatitourism.gov.ki/kiribati-pacific-ocean-location/" target="_blank" rel="noopener noreferrer nofollow">https://www.kiribatitourism.gov.ki/kiribati-pacific-ocean-location/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About KiribatiOf the 33 islands of Kiribati, 21 are inhabited. Most of the population is concentrated in the Gilbert Islands and only one...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
+   Link:<a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYPUEyaCsXt/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYPUEyaCsXt/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati Is the Only Country in All Four Hemispheres One...At just 21 square kilometers, Nauru ranks as the third smallest country on Earth...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYPUEyaCsXt/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYPUEyaCsXt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati Is the Only Country in All Four Hemispheres One...At just 21 square kilometers, Nauru ranks as the third smallest country on Earth...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScienceAcumen/posts/kiribati-is-the-only-country-in-the-world-that-is-located-in-all-four-hemisphere/597984549501131/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceAcumen/posts/kiribati-is-the-only-country-in-the-world-that-is-located-in-all-four-hemisphere/597984549501131/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati is the only country in the world that is located in all...Its total land area is approximately 811 square kilometers, making it...</p></details>
+   Link:<a href="https://www.facebook.com/ScienceAcumen/posts/kiribati-is-the-only-country-in-the-world-that-is-located-in-all-four-hemisphere/597984549501131/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceAcumen/posts/kiribati-is-the-only-country-in-the-world-that-is-located-in-all-four-hemisphere/597984549501131/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati is the only country in the world that is located in all...Its total land area is approximately 811 square kilometers, making it...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/worldatlas/posts/kiribatis-geography-will-surprise-you-kiribati-geography-pacificislands-islandna/1294417502726177/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldatlas/posts/kiribatis-geography-will-surprise-you-kiribati-geography-pacificislands-islandna/1294417502726177/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The island&#x27;s economy relies on fishing, copra...</p></details>
+   Link:<a href="https://www.facebook.com/worldatlas/posts/kiribatis-geography-will-surprise-you-kiribati-geography-pacificislands-islandna/1294417502726177/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/worldatlas/posts/kiribatis-geography-will-surprise-you-kiribati-geography-pacificislands-islandna/1294417502726177/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The island&#x27;s economy relies on fishing, copra...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs collects videos submitted by people who...UFO sightings &#x27;not necessarily about aliens.&#x27; How a crowdsourcing app is gathering...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/enigma-labs-collects-videos-submitted-by-people-who-have-seen-ufos/873020898438262/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs collects videos submitted by people who...UFO sightings &#x27;not necessarily about aliens.&#x27; How a crowdsourcing app is gathering...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: Kiribati extends 1,800 miles (2,900 km)  
-   Link: <a href="https://www.facebook.com/61551442420211/posts/kiribati-is-a-small-island-nation-located-in-the-central-pacific-ocean-consistin/122177938880048080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61551442420211/posts/kiribati-is-a-small-island-nation-located-in-the-central-pacific-ocean-consistin/122177938880048080/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati is a small island nation located in the central Pacific...The 33 islands of Kiribati, of which only 20 are inhabited, are scatt...</p></details>
+   Link:<a href="https://www.facebook.com/61551442420211/posts/kiribati-is-a-small-island-nation-located-in-the-central-pacific-ocean-consistin/122177938880048080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61551442420211/posts/kiribati-is-a-small-island-nation-located-in-the-central-pacific-ocean-consistin/122177938880048080/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati is a small island nation located in the central Pacific...The 33 islands of Kiribati, of which only 20 are inhabited, are scatt...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: myvirtualworldtrip.com  
    Title: Kiribati has a total land area of 313 square miles.Read more  
-   Link: <a href="https://myvirtualworldtrip.com/2021/09/18/kiribati-quick-facts/" target="_blank" rel="noopener noreferrer nofollow">https://myvirtualworldtrip.com/2021/09/18/kiribati-quick-facts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Facts about KiribatiSep 18, 2021 — Kiribati, officially Republic of Kiribati, is a country made up of 33 islands in the Pacific O...</p></details>
+   Link:<a href="https://myvirtualworldtrip.com/2021/09/18/kiribati-quick-facts/" target="_blank" rel="noopener noreferrer nofollow">https://myvirtualworldtrip.com/2021/09/18/kiribati-quick-facts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General Facts about KiribatiSep 18, 2021 — Kiribati, officially Republic of Kiribati, is a country made up of 33 islands in the Pacific O...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: imuna.org  
-   Link: <a href="https://www.imuna.org/resources/country-profiles/kiribati/" target="_blank" rel="noopener noreferrer nofollow">https://www.imuna.org/resources/country-profiles/kiribati/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Year of UN Membership: 1999. Year of Present...Read more...</p></details>
+   Link:<a href="https://www.imuna.org/resources/country-profiles/kiribati/" target="_blank" rel="noopener noreferrer nofollow">https://www.imuna.org/resources/country-profiles/kiribati/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Year of UN Membership: 1999. Year of Present...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/kiribati" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/kiribati</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati | Geography and Cartography | Research StartersKiribati is a Pacific island nation composed of 33 atolls and reef islands... La...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/geography-and-cartography/kiribati" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/kiribati</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kiribati | Geography and Cartography | Research StartersKiribati is a Pacific island nation composed of 33 atolls and reef islands... La...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomena. (2022, October 4). A growing share of Americans believe aliens are responsibl...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomena. (2022, October 4). A growing share of Americans believe aliens are responsibl...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: worldometers.info  
-   Link: <a href="https://www.worldometers.info/geography/largest-countries-in-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.worldometers.info/geography/largest-countries-in-the-world/</a>  
+   Link:<a href="https://www.worldometers.info/geography/largest-countries-in-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.worldometers.info/geography/largest-countries-in-the-world/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</p></details>
+   Link:<a href="https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/enigma-whats-that-in-the-sky/id1548371173</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comEnigma: What&#x27;s that in the Sky - App Store - AppleEnigma is the #1 destination for UFO sighting alerts and aerial intelligence...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>erview and exchanged some emails. I was under the impression it was...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ftu6kg/did_anybody_else_get_contacted_by_enigma_labs_for/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>erview and exchanged some emails. I was under the impression it was...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs everyone has been waiting for is much closer than many...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-video-sharing-platform-run-by-enigma-labs-is-storing-images-of-unidentified-an/873015845105434/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs everyone has been waiting for is much closer than many...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Bizarre 'Something' with a Long Trail Spotted on a Deserted Island  
-   Link: <a href="https://www.youtube.com/watch?v=bZ0vsIQGp70" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bZ0vsIQGp70</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Google Earth Finds - A UFO crash and an Invisible Air Force Plane...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bZ0vsIQGp70" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bZ0vsIQGp70</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Google Earth Finds - A UFO crash and an Invisible Air Force Plane...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/kiribati/74180.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/kiribati/74180.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(09/06) - State.govApproximately 90% of the population of Kiribati lives on the atolls of the Gilbert Islands. Although the Line Islands...</p></details>
+   Link:<a href="https://2009-2017.state.gov/outofdate/bgn/kiribati/74180.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/kiribati/74180.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(09/06) - State.govApproximately 90% of the population of Kiribati lives on the atolls of the Gilbert Islands. Although the Line Islands...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Top 10 Unidentified Aerial Objects Tracked by Military Systems  
-   Link: <a href="https://www.youtube.com/watch?v=KB5UyDZ4jlk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KB5UyDZ4jlk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And They Buried It | NEW UAP Files, Iran &amp; China...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KB5UyDZ4jlk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KB5UyDZ4jlk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And They Buried It | NEW UAP Files, Iran &amp; China...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
    Title: DTYsk9v Cpop  
-   Link: <a href="https://www.instagram.com/p/DTYsk9vCpop/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTYsk9vCpop/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>data collected by the Enigma UFO tracking platform. The database reportedly includes sightings from civilians, military personnel, sailor...</p></details>
+   Link:<a href="https://www.instagram.com/p/DTYsk9vCpop/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTYsk9vCpop/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>data collected by the Enigma UFO tracking platform. The database reportedly includes sightings from civilians, military personnel, sailor...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: openknowledge.fao.org  
-   Link: <a href="https://openknowledge.fao.org/server/api/core/bitstreams/c8f1b2b0-f033-4325-bda3-7564f3b6bc24/content/ad672e10.htm" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.fao.org/server/api/core/bitstreams/c8f1b2b0-f033-4325-bda3-7564f3b6bc24/content/ad672e10.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>consists of 33 coral islands in three island groups; the Gilberts, the Phoenix Islands, and the Line Islands. Twenty-one are inhabited. K...</p></details>
+   Link:<a href="https://openknowledge.fao.org/server/api/core/bitstreams/c8f1b2b0-f033-4325-bda3-7564f3b6bc24/content/ad672e10.htm" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.fao.org/server/api/core/bitstreams/c8f1b2b0-f033-4325-bda3-7564f3b6bc24/content/ad672e10.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>consists of 33 coral islands in three island groups; the Gilberts, the Phoenix Islands, and the Line Islands. Twenty-one are inhabited. K...</p></details>

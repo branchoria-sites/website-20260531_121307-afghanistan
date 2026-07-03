@@ -248,31 +248,31 @@ image: /assets/images/Senegal_d8973b_baridiame_damage_cas_6f008b-Illustration-1-
 
 ## Introduction
 
-The Baridiame incident of 9 September 1980 remains the most serious and controversial UFO-related case in Senegal because it was reported not merely as a sighting, but as an event that allegedly caused physical damage, injuries and an official government response. According to accounts published in the Senegalese press and repeated in later retrospectives, an unidentified aerial object passed over the village of Baridiame in the Kébémer area shortly before evening prayer, producing intense noise, flashes of light, heat effects and structural damage. Yet more than four decades later, the case is defined as much by what is missing as by what was reported. The central technical investigation appears never to have entered the public record, leaving key questions unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span>
+The Baridiame incident of 9 September 1980 remains the most serious and controversial UFO-related case in Senegal because it was reported not merely as a sighting, but as an event that allegedly caused physical damage, injuries and an official government response. According to accounts published in the Senegalese press and repeated in later retrospectives, an unidentified aerial object passed over the village of Baridiame in the Kébémer area shortly before evening prayer, producing intense noise, flashes of light, heat effects and structural damage. Yet more than four decades later, the case is defined as much by what is missing as by what was reported. The central technical investigation appears never to have entered the public record, leaving key questions unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Senegal_d8973b_baridiame_damage_cas_6f008b-Illustration-1-dark.svg" | relative_url }}" alt="Baridiame illustration 1" data-theme-src-dark="{{ "/assets/images/Senegal_d8973b_baridiame_damage_cas_6f008b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Senegal_d8973b_baridiame_damage_cas_6f008b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For researchers of Senegal’s UFO history, Baridiame matters because it sits at the boundary between folklore, local memory and official inquiry. The event generated visits from government representatives, gendarmes and scientific personnel, but the strongest claims still depend largely on newspaper reporting and witness recollections rather than publicly available technical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[2calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+For researchers of Senegal’s UFO history, Baridiame matters because it sits at the boundary between folklore, local memory and official inquiry. The event generated visits from government representatives, gendarmes and scientific personnel, but the strongest claims still depend largely on newspaper reporting and witness recollections rather than publicly available technical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[2calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
 ## The Village Incident and the Reported Damage
 
-The core narrative places the event at approximately 18:40 on 9 September 1980. Baridiame, a rural settlement near Darou-Mousty, was preparing for the Maghrib prayer when an unusual object reportedly approached from the north. Contemporary and retrospective accounts describe panic among residents as the object passed over the area amid extreme noise and atmospheric disturbance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span>
+The core narrative places the event at approximately 18:40 on 9 September 1980. Baridiame, a rural settlement near Darou-Mousty, was preparing for the Maghrib prayer when an unusual object reportedly approached from the north. Contemporary and retrospective accounts describe panic among residents as the object passed over the area amid extreme noise and atmospheric disturbance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span>
 
-What distinguishes Baridiame from many other West African UFO reports is the repeated claim that the phenomenon left tangible damage. Newspaper accounts stated that several houses, huts and trees were affected. Witnesses and journalists described a curious pattern in which some compounds appeared damaged while nearby structures were left untouched. The reported path of destruction was often described as following a roughly north-south axis, though not in a perfectly continuous line. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+What distinguishes Baridiame from many other West African UFO reports is the repeated claim that the phenomenon left tangible damage. Newspaper accounts stated that several houses, huts and trees were affected. Witnesses and journalists described a curious pattern in which some compounds appeared damaged while nearby structures were left untouched. The reported path of destruction was often described as following a roughly north-south axis, though not in a perfectly continuous line.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
-Reports also stated that a nearby settlement, Keur Amadou Moctar, experienced similar effects. If accurate, that detail would suggest a moving event affecting more than one location rather than a single isolated strike. However, no publicly available engineering survey, map of the damage pattern or photographic analysis has surfaced to verify the extent of destruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+Reports also stated that a nearby settlement, Keur Amadou Moctar, experienced similar effects. If accurate, that detail would suggest a moving event affecting more than one location rather than a single isolated strike. However, no publicly available engineering survey, map of the damage pattern or photographic analysis has surfaced to verify the extent of destruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
-This absence is important. Damage claims are often the strongest category of evidence in UFO cases because they can potentially be examined independently of witness memory. In Baridiame, however, the descriptions of damaged structures survive mainly through press narratives rather than preserved technical documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span>
+This absence is important. Damage claims are often the strongest category of evidence in UFO cases because they can potentially be examined independently of witness memory. In Baridiame, however, the descriptions of damaged structures survive mainly through press narratives rather than preserved technical documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Senegal_d8973b_baridiame_damage_cas_6f008b-Illustration-3-dark.svg" | relative_url }}" alt="Baridiame illustration 3" data-theme-src-dark="{{ "/assets/images/Senegal_d8973b_baridiame_damage_cas_6f008b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Senegal_d8973b_baridiame_damage_cas_6f008b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness Accounts of Heat, Sound and Injury
 
 The most frequently repeated witness descriptions involve three elements: noise, heat and unusual lighting.
 
-Residents reportedly described a long, elongated object with a brighter leading section or “head”. Some accounts referred to a blue or bluish-white crown-like feature, while intermittent red light was also reported. Witnesses said the object moved quickly and at relatively low altitude. One description compared the noise to multiple heavy trucks operating simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+Residents reportedly described a long, elongated object with a brighter leading section or “head”. Some accounts referred to a blue or bluish-white crown-like feature, while intermittent red light was also reported. Witnesses said the object moved quickly and at relatively low altitude. One description compared the noise to multiple heavy trucks operating simultaneously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
-Several reports claimed that people experienced a sudden sensation of extreme heat lasting only a short period. The event was also associated with strong winds or storm-like conditions. Yet journalists noted an apparent contradiction: witnesses insisted that the phenomenon was not an ordinary thunderstorm because significant rainfall was absent. Some accounts referred only to light droplets rather than substantial precipitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+Several reports claimed that people experienced a sudden sensation of extreme heat lasting only a short period. The event was also associated with strong winds or storm-like conditions. Yet journalists noted an apparent contradiction: witnesses insisted that the phenomenon was not an ordinary thunderstorm because significant rainfall was absent. Some accounts referred only to light droplets rather than substantial precipitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
-The injury claims are among the most significant but also among the least documented aspects of the case. Later retellings mention victims and injured residents, and government assistance was reportedly provided to affected villagers. However, no publicly accessible hospital records, medical reports or injury assessments have emerged. As a result, it is difficult to determine whether injuries were caused by heat exposure, flying debris, panic during evacuation, weather effects or another mechanism entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+The injury claims are among the most significant but also among the least documented aspects of the case. Later retellings mention victims and injured residents, and government assistance was reportedly provided to affected villagers. However, no publicly accessible hospital records, medical reports or injury assessments have emerged. As a result, it is difficult to determine whether injuries were caused by heat exposure, flying debris, panic during evacuation, weather effects or another mechanism entirely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
 The lack of medical documentation limits efforts to evaluate whether the event involved an unusual physical phenomenon or whether the most dramatic descriptions expanded over time through retelling.
 
@@ -280,11 +280,11 @@ The lack of medical documentation limits efforts to evaluate whether the event i
 
 ## Why Officials Took the Case Seriously
 
-One reason Baridiame continues to attract attention is that it was not treated solely as a rumour. Contemporary reporting indicates that local authorities, gendarmes and elected officials visited the area after the incident. The case also drew the attention of scientific figures and government representatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+One reason Baridiame continues to attract attention is that it was not treated solely as a rumour. Contemporary reporting indicates that local authorities, gendarmes and elected officials visited the area after the incident. The case also drew the attention of scientific figures and government representatives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
-A particularly important detail concerns the reported creation of an investigative mission involving specialists associated with the École Polytechnique in Thiès. Accounts describe a commission sent to examine conditions on the ground and assess what had happened. Journalists writing shortly after the event emphasised the need for scientific rather than purely speculative explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+A particularly important detail concerns the reported creation of an investigative mission involving specialists associated with the École Polytechnique in Thiès. Accounts describe a commission sent to examine conditions on the ground and assess what had happened. Journalists writing shortly after the event emphasised the need for scientific rather than purely speculative explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
-Government relief efforts were reportedly directed toward affected residents, including food assistance distributed after the incident. Such actions suggest that authorities accepted that some form of disruptive event had occurred, even if they did not necessarily endorse an extraterrestrial interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+Government relief efforts were reportedly directed toward affected residents, including food assistance distributed after the incident. Such actions suggest that authorities accepted that some form of disruptive event had occurred, even if they did not necessarily endorse an extraterrestrial interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
 This distinction matters. Official concern over damage does not automatically validate extraordinary explanations. It does, however, indicate that the incident was serious enough to trigger administrative and investigative responses beyond simple newspaper curiosity.
 
@@ -305,14 +305,14 @@ If the commission's findings still exist in an archive, they could potentially a
 
 </div>
 
-Without access to such material, researchers are forced to reconstruct the case from secondary reporting. That creates a significant evidential gap because newspaper summaries may omit technical findings that either strengthened or weakened the UFO interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+Without access to such material, researchers are forced to reconstruct the case from secondary reporting. That creates a significant evidential gap because newspaper summaries may omit technical findings that either strengthened or weakened the UFO interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
 The missing file is especially important because later retellings often focus on dramatic details while providing little information about methodology. A scientific field report could reveal whether investigators found evidence consistent with lightning, a meteor-related airburst, severe weather effects, human-made activity or something genuinely anomalous.
 
 <img src="{{ "/assets/images/Senegal_d8973b_baridiame_damage_cas_6f008b-Illustration-2-dark.svg" | relative_url }}" alt="Baridiame illustration 2" data-theme-src-dark="{{ "/assets/images/Senegal_d8973b_baridiame_damage_cas_6f008b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Senegal_d8973b_baridiame_damage_cas_6f008b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Problem of Competing Explanations
 
-Baridiame is often presented as a case that ruled out ordinary explanations. Retrospective newspaper accounts claimed that investigators or officials considered and rejected both conventional thunderstorms and ordinary lightning because of the reported absence of burning and the unusual pattern of effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+Baridiame is often presented as a case that ruled out ordinary explanations. Retrospective newspaper accounts claimed that investigators or officials considered and rejected both conventional thunderstorms and ordinary lightning because of the reported absence of burning and the unusual pattern of effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
 However, the public evidence supporting those exclusions remains incomplete.
 
@@ -327,7 +327,7 @@ The surviving descriptions leave several unresolved issues:
 
 </div>
 
-At the same time, purely dismissive explanations face their own difficulties. The consistency of certain witness themes, the reported geographic spread of effects and the involvement of authorities make the case more substantial than a simple story of a distant light in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[2calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+At the same time, purely dismissive explanations face their own difficulties. The consistency of certain witness themes, the reported geographic spread of effects and the involvement of authorities make the case more substantial than a simple story of a distant light in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[2calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
 The result is a rare situation in which both believers and sceptics encounter the same obstacle: a shortage of surviving technical evidence.
 
@@ -335,203 +335,203 @@ The result is a rare situation in which both believers and sceptics encounter th
 
 ## Why Baridiame Still Matters in Senegal's UFO Record
 
-Most Senegalese UFO reports consist of brief sightings with little follow-up. Baridiame stands apart because it combines eyewitness testimony, alleged physical effects, press coverage, official visits and references to scientific investigation. No other Senegal case is cited as frequently when discussions turn to possible injuries or material damage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span>
+Most Senegalese UFO reports consist of brief sightings with little follow-up. Baridiame stands apart because it combines eyewitness testimony, alleged physical effects, press coverage, official visits and references to scientific investigation. No other Senegal case is cited as frequently when discussions turn to possible injuries or material damage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span>
 
-Yet the case also demonstrates how quickly evidence can become fragmented. The event generated headlines, local memory and decades of retelling, but not a publicly accessible archive capable of settling the central questions. Researchers can identify what witnesses claimed to see, what journalists reported and how authorities reacted. What remains unavailable is the technical layer that could test those claims against measurable facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span>
+Yet the case also demonstrates how quickly evidence can become fragmented. The event generated headlines, local memory and decades of retelling, but not a publicly accessible archive capable of settling the central questions. Researchers can identify what witnesses claimed to see, what journalists reported and how authorities reacted. What remains unavailable is the technical layer that could test those claims against measurable facts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span>
 
-That unresolved gap is ultimately what keeps Baridiame alive in discussions of Senegal’s UFO history. The case is neither conclusively explained nor strongly proven. It survives as an incident where reported damage and official attention suggest something unusual happened, while the absence of the key investigative record prevents a confident judgement about exactly what it was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[2calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
+That unresolved gap is ultimately what keeps Baridiame alive in discussions of Senegal’s UFO history. The case is neither conclusively explained nor strongly proven. It survives as an incident where reported damage and official attention suggest something unusual happened, while the absence of the key investigative record prevents a confident judgement about exactly what it was.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.allafrica.com">[allAfrica.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.allafrica.com</span><span class="citation-popover-snippet">C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[2calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-snippet">Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WP-jcdFgJMM" title="Dr. Jacques Vallee - Implications of UFO Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WP-jcdFgJMM" target="_blank" rel="noopener noreferrer">Dr. Jacques Vallee - Implications of UFO Phenomena</a></p><p class="youtube-embed-meta">Channel: Unidentified Anomalous Phenomena &middot; Views: 2.0K &middot; Uploaded: June 2019 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WP-jcdFgJMM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WP-jcdFgJMM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened at Baridiame?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened at Baridiame?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on better-documented incidents and evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on better-documented incidents and evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses physical-trace and close-encounter style cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses physical-trace and close-encounter style cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Relevant to cases involving official investigations and missing files.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to cases involving official investigations and missing files.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash at Roswell">UFO Crash at Roswell</a>
+</h4>
+<p class="fr-book-author">By Kevin D. Randle</p>
         
-        <p class="fr-book-desc">Provides comparison with alleged crash and physical-evidence narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison with alleged crash and physical-evidence narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Crash+at+Roswell+by+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-baridiame-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-at-baridiame-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ That unresolved gap is ultimately what keeps Baridiame alive in discussions of S
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ That unresolved gap is ultimately what keeps Baridiame alive in discussions of S
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ That unresolved gap is ultimately what keeps Baridiame alive in discussions of S
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ That unresolved gap is ultimately what keeps Baridiame alive in discussions of S
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ That unresolved gap is ultimately what keeps Baridiame alive in discussions of S
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,73 +734,72 @@ That unresolved gap is ultimately what keeps Baridiame alive in discussions of S
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fr.allafrica.com  
-   Link: <a href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow">https://fr.allafrica.com/stories/201608190492.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</p></details>
+   Link:<a href="https://fr.allafrica.com/stories/201608190492.html" target="_blank" rel="noopener noreferrer nofollow">https://fr.allafrica.com/stories/201608190492.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;histoire le 9 septembre 1980.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: calameo.com  
-   Link: <a href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/0002753477eb30922f403</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</p></details>
+   Link:<a href="https://www.calameo.com/books/0002753477eb30922f403" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/0002753477eb30922f403</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edition Du 18 Aout 2016Baridiame ou la paix à profusion, en wolof. C&#x27;est le nom de ce village du département de Kébémer qui entre dans l&#x27;...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: senegaldirect.com  
-   Link: <a href="https://senegaldirect.com/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-senegal-le-9-septembre-1980/" target="_blank" rel="noopener noreferrer nofollow">https://senegaldirect.com/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-senegal-le-9-septembre-1980/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>C&#x27;est alors qu&#x27;un « objet non identifié » venu...Read more...</p></details>
+   Link:<a href="https://senegaldirect.com/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-senegal-le-9-septembre-1980/" target="_blank" rel="noopener noreferrer nofollow">https://senegaldirect.com/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-senegal-le-9-septembre-1980/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C&#x27;est alors qu&#x27;un « objet non identifié » venu...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/senegaldirect/posts/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-s%C3%A9n%C3%A9gal-le-9-se/1778887579249067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/senegaldirect/posts/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-s%C3%A9n%C3%A9gal-le-9-se/1778887579249067/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Baridiame ou la paix à profusion, en wolof.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/senegaldirect/posts/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-s%C3%A9n%C3%A9gal-le-9-se/1778887579249067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/senegaldirect/posts/histoire-contemporaine-la-destruction-dun-village-par-un-ovni-au-s%C3%A9n%C3%A9gal-le-9-se/1778887579249067/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baridiame ou la paix à profusion, en wolof.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Dr. Jacques Vallee  
-   Link: <a href="https://www.youtube.com/watch?v=WP-jcdFgJMM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WP-jcdFgJMM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO physical trace cases investigation gaps physical damage David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed UFOs New...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WP-jcdFgJMM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WP-jcdFgJMM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO physical trace cases investigation gaps physical damage David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed UFOs New...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Unlocking the Secrets of UFOs: How UAP Could Change Science Forever  
-   Link: <a href="https://www.youtube.com/watch?v=rx2x_w5wimk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rx2x_w5wimk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Garry Nolan &amp; Ross Coulthart: Full interview | UFO UAP News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rx2x_w5wimk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rx2x_w5wimk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Garry Nolan &amp; Ross Coulthart: Full interview | UFO UAP News...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100091831598980/posts/according-to-reports-two-unidentified-metallic-objects-reportedly-fell-from-the-/664589856612062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100091831598980/posts/according-to-reports-two-unidentified-metallic-objects-reportedly-fell-from-the-/664589856612062/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to reports two unidentified metallic objects...Villagers reported that the UFO, which had come dangerously close to the houses...</p></details>
+   Link:<a href="https://www.facebook.com/100091831598980/posts/according-to-reports-two-unidentified-metallic-objects-reportedly-fell-from-the-/664589856612062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100091831598980/posts/according-to-reports-two-unidentified-metallic-objects-reportedly-fell-from-the-/664589856612062/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to reports two unidentified metallic objects...Villagers reported that the UFO, which had come dangerously close to the houses...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Confrontations By Jacques Vallée  
-   Link: <a href="https://www.youtube.com/watch?v=0J8P8LZmflA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0J8P8LZmflA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jacques Vallee - Implications of UFO Phenomena...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0J8P8LZmflA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0J8P8LZmflA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jacques Vallee - Implications of UFO Phenomena...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Dr. Garry Nolan Comes Clean About UFO Threat  
-   Link: <a href="https://www.youtube.com/watch?v=C2oHOqjmt8M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C2oHOqjmt8M</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confrontations By Jacques Vallée - UFO Encounters, Hidden Patterns &amp; Case Against Simple ET Theories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C2oHOqjmt8M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C2oHOqjmt8M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confrontations By Jacques Vallée - UFO Encounters, Hidden Patterns &amp; Case Against Simple ET Theories...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Professor Garry Nolan & Ross Coulthart: Full interview | UFO UAP News  
-   Link: <a href="https://www.youtube.com/watch?v=XR0JtbuLhPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XR0JtbuLhPo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Garry Nolan Comes Clean About UFO Threat...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XR0JtbuLhPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XR0JtbuLhPo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Garry Nolan Comes Clean About UFO Threat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arso.org  
    Title: AFRIQU E  
-   Link: <a href="https://www.arso.org/Afrique-Defense/1980/1980-afrique-defense-31-p-2-3-4-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.arso.org/Afrique-Defense/1980/1980-afrique-defense-31-p-2-3-4-10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFRIQUE - MAROCDécouverte d&#x27;un objet volant non identifié. Un objet volant non identifié à semé récemment la panique dans la population d...</p></details>
+   Link:<a href="https://www.arso.org/Afrique-Defense/1980/1980-afrique-defense-31-p-2-3-4-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.arso.org/Afrique-Defense/1980/1980-afrique-defense-31-p-2-3-4-10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFRIQUE - MAROCDécouverte d&#x27;un objet volant non identifié. Un objet volant non identifié à semé récemment la panique dans la population d...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Iob6ESlDSDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iob6ESlDSDs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Histoire contemporaine) La destruction d&#x27;un village par un...(Histoire) Le 9 septembre 1980, un ovni détruit le village de Baridiame au...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Iob6ESlDSDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iob6ESlDSDs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Histoire contemporaine) La destruction d&#x27;un village par un...(Histoire) Le 9 septembre 1980, un ovni détruit le village de Baridiame au...</p></details>

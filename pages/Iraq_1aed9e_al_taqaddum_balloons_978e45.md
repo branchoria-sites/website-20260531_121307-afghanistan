@@ -248,239 +248,239 @@ image: /assets/images/Iraq_1aed9e_al_taqaddum_balloons_978e45-Illustration-1-soc
 
 ## Introduction
 
-In the context of **Iraq’s modern military UAP record**, the *Al Taqaddum* case stands out as a rare example where detailed sensor data and formal analysis have shifted a former “unknown” aerial phenomenon into the **resolved category** of misidentified aerial objects. Raw infrared footage captured over Al Taqaddum Air Base in 2017 prompted speculation in UAP circles when first publicly discussed. However, **official analysis by the U.S. Department of Defense’s All-domain Anomaly Resolution Office (AARO)** ultimately concluded that the object in question was **not an anomalous craft but a cluster of drifting balloons**, illustrating how apparent UAP sightings in conflict-zone airspace can arise from mundane sources under certain observational conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
+In the context of **Iraq’s modern military UAP record**, the *Al Taqaddum* case stands out as a rare example where detailed sensor data and formal analysis have shifted a former “unknown” aerial phenomenon into the **resolved category** of misidentified aerial objects. Raw infrared footage captured over Al Taqaddum Air Base in 2017 prompted speculation in UAP circles when first publicly discussed. However, **official analysis by the U.S. Department of Defense’s All-domain Anomaly Resolution Office (AARO)** ultimately concluded that the object in question was **not an anomalous craft but a cluster of drifting balloons**, illustrating how apparent UAP sightings in conflict-zone airspace can arise from mundane sources under certain observational conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
 
 <img src="{{ "/assets/images/Iraq_1aed9e_al_taqaddum_balloons_978e45-Illustration-1-dark.svg" | relative_url }}" alt="Al Taqaddum illustration 1" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e_al_taqaddum_balloons_978e45-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e_al_taqaddum_balloons_978e45-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Infrared Sensor Capture at Al Taqaddum
 
-The incident traces back to **23 October 2017**, when an infrared (IR) sensor aboard a **force-protection aerostat** (a tethered surveillance balloon) operating at about **2,700 ft above Al Taqaddum Air Base in Iraq** recorded approximately **17 minutes and 30 seconds of footage** showing an unidentified floating object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span> The sensor imagery showed an object drifting through the sky with an **“abnormally shaped” silhouette** in the thermal video, capturing attention because of its prolonged presence and distinctive appearance in the field of view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
+The incident traces back to **23 October 2017**, when an infrared (IR) sensor aboard a **force-protection aerostat** (a tethered surveillance balloon) operating at about **2,700 ft above Al Taqaddum Air Base in Iraq** recorded approximately **17 minutes and 30 seconds of footage** showing an unidentified floating object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span> The sensor imagery showed an object drifting through the sky with an **“abnormally shaped” silhouette** in the thermal video, capturing attention because of its prolonged presence and distinctive appearance in the field of view.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
 
-The aerostat platform itself is a common **military surveillance system**, used for ground and airspace monitoring. Infrared sensors on such platforms are sensitive to thermal contrasts but do not inherently provide multi‑modal data such as altitude or range without careful reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
+The aerostat platform itself is a common **military surveillance system**, used for ground and airspace monitoring. Infrared sensors on such platforms are sensitive to thermal contrasts but do not inherently provide multi‑modal data such as altitude or range without careful reconstruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hRFSXWDmBYM" title="VFX Artists DEBUNK Jellyfish UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hRFSXWDmBYM" target="_blank" rel="noopener noreferrer">VFX Artists DEBUNK Jellyfish UFO Videos</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 880.3K &middot; Uploaded: January 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hRFSXWDmBYM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hRFSXWDmBYM">Open on YouTube</a></p></div></div></div>
 
 ## Technical Assessment and AARO Resolution
 
-Years after the original recording, the **All-domain Anomaly Resolution Office (AARO)** — a U.S. Department of Defense body tasked with analysing unidentified aerial phenomena — issued an official **case resolution report** dated **8 September 2025**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span> AARO’s assessment used the full-motion IR video, metadata, line‑of‑sight reconstruction, weather data, and ancillary analysis techniques to determine the likely identity of the object.
+Years after the original recording, the **All-domain Anomaly Resolution Office (AARO)** — a U.S. Department of Defense body tasked with analysing unidentified aerial phenomena — issued an official **case resolution report** dated **8 September 2025**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span> AARO’s assessment used the full-motion IR video, metadata, line‑of‑sight reconstruction, weather data, and ancillary analysis techniques to determine the likely identity of the object.
 
 <img src="{{ "/assets/images/Iraq_1aed9e_al_taqaddum_balloons_978e45-Illustration-3-dark.svg" | relative_url }}" alt="Al Taqaddum illustration 3" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e_al_taqaddum_balloons_978e45-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e_al_taqaddum_balloons_978e45-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Key Analytical Points
 
-* **No anomalous performance characteristics:** AARO found no evidence of propulsion, manoeuvrability, or behaviour inconsistent with known physical objects. Instead, the motion tracked in the footage — drift within the expected wind profile — matched that of a passive object carried by prevailing winds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
-* **Morphology consistent with balloons:** The video revealed features — including **dangling string‑like appendages** and variations in apparent shape — that aligned with expectations for a **cluster of fully and partially inflated balloons** rather than a solid craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
-* **Altitude and speed estimates:** AARO assessed with **moderate confidence** that the object was between approximately **850 ft and 2,200 ft in altitude**, travelling at roughly **4–14 mph east‑to‑west** in line with upper‑air wind data on the day of the observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
-* **Rejection of alternate hypotheses:** An alternative scenario proposed by partner analysts — that a camouflage‑draped quadrotor drone might explain the footage — was discounted because such a vehicle would not drift passively with the wind nor lack a detectable heat signature on the IR sensor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
+* **No anomalous performance characteristics:** AARO found no evidence of propulsion, manoeuvrability, or behaviour inconsistent with known physical objects. Instead, the motion tracked in the footage — drift within the expected wind profile — matched that of a passive object carried by prevailing winds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
+* **Morphology consistent with balloons:** The video revealed features — including **dangling string‑like appendages** and variations in apparent shape — that aligned with expectations for a **cluster of fully and partially inflated balloons** rather than a solid craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
+* **Altitude and speed estimates:** AARO assessed with **moderate confidence** that the object was between approximately **850 ft and 2,200 ft in altitude**, travelling at roughly **4–14 mph east‑to‑west** in line with upper‑air wind data on the day of the observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
+* **Rejection of alternate hypotheses:** An alternative scenario proposed by partner analysts — that a camouflage‑draped quadrotor drone might explain the footage — was discounted because such a vehicle would not drift passively with the wind nor lack a detectable heat signature on the IR sensor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
 
-AARO’s final conclusion was that the event did **not exhibit anomalous behaviour or capabilities** and was **consistent with balloon clusters**, leading to its classification as a **resolved misidentification** within the organisation’s case catalogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
+AARO’s final conclusion was that the event did **not exhibit anomalous behaviour or capabilities** and was **consistent with balloon clusters**, leading to its classification as a **resolved misidentification** within the organisation’s case catalogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
 
 <img src="{{ "/assets/images/Iraq_1aed9e_al_taqaddum_balloons_978e45-Illustration-2-dark.svg" | relative_url }}" alt="Al Taqaddum illustration 2" data-theme-src-dark="{{ "/assets/images/Iraq_1aed9e_al_taqaddum_balloons_978e45-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iraq_1aed9e_al_taqaddum_balloons_978e45-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lessons for Interpreting Military UAP in Iraq
 
 The Al Taqaddum case underscores several broader points about **military UAP reporting and analysis in Iraq and similar operational airspaces**:
 
-* **Sensor limitations and context matter:** Infrared systems are powerful for detecting thermal contrast but do not record direct altitude or range without careful geolocation reconstruction. Without multi‑sensor corroboration, footage can create illusions of size or motion that mislead casual interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
-* **Environmental factors can mimic structure:** Wind‑driven balloon clusters may present irregular shapes and apparent “movement” that, when viewed in isolation, appears structured or controlled. Detailed overlay of weather data and motion tracking was key to resolving this case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
-* **Time lag from encounter to resolution:** Although the footage was captured in 2017, the **formal resolution** by AARO came in 2025, reflecting the challenges of declassification, cross‑agency review, and careful analysis of military UAP reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
+* **Sensor limitations and context matter:** Infrared systems are powerful for detecting thermal contrast but do not record direct altitude or range without careful geolocation reconstruction. Without multi‑sensor corroboration, footage can create illusions of size or motion that mislead casual interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
+* **Environmental factors can mimic structure:** Wind‑driven balloon clusters may present irregular shapes and apparent “movement” that, when viewed in isolation, appears structured or controlled. Detailed overlay of weather data and motion tracking was key to resolving this case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
+* **Time lag from encounter to resolution:** Although the footage was captured in 2017, the **formal resolution** by AARO came in 2025, reflecting the challenges of declassification, cross‑agency review, and careful analysis of military UAP reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
 
-This case illustrates how **professional analytical frameworks** — applying physics, environmental data, and sensor limitations — can clarify seemingly mysterious events captured in conflict‑airspace contexts without invoking exotic explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
+This case illustrates how **professional analytical frameworks** — applying physics, environmental data, and sensor limitations — can clarify seemingly mysterious events captured in conflict‑airspace contexts without invoking exotic explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uKkbw4rkOLo" title="PiFi #90 - Michael Cincoski - USMC Vet with Mick West and Steven Greenstreet - Jellyfish Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uKkbw4rkOLo" target="_blank" rel="noopener noreferrer">PiFi #90 - Michael Cincoski - USMC Vet with Mick West and Steven Greenstreet - Jellyfish Video</a></p><p class="youtube-embed-meta">Channel: ArtisanTony &middot; Views: 7.5K &middot; Uploaded: January 2024 &middot; Length: 1 hour 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uKkbw4rkOLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uKkbw4rkOLo">Open on YouTube</a></p></div></div></div>
 
 ## Ongoing Public and Community Response
 
-Despite the official assessment, some public discussion persists about the footage, including online commentary and social media reactions that question aspects of the balloon interpretation or suggest alternative narratives. These discussions often centre on aspects of the visual record that seem unusual to lay observers or on scepticism about delayed official releases. However, such commentary remains outside the scope of the formal analysis and does not change the core **AARO determination** that the phenomenon observed was **consistent with balloons, not an unexplained aerial technology**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1ke1n8m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">AAR O&#x27;s analysis determined the &quot;Jellyfish UAP&quot; is a cluster of balloons</span><span class="citation-popover-snippet">AARO&#x27;s analysis determined the &quot;Jellyfish UAP&quot; is a cluster of balloons. - AARO released this statement while the Immaculate Constellatio...</span></span></span>
+Despite the official assessment, some public discussion persists about the footage, including online commentary and social media reactions that question aspects of the balloon interpretation or suggest alternative narratives. These discussions often centre on aspects of the visual record that seem unusual to lay observers or on scepticism about delayed official releases. However, such commentary remains outside the scope of the formal analysis and does not change the core **AARO determination** that the phenomenon observed was **consistent with balloons, not an unexplained aerial technology**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1ke1n8m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">AAR O&#x27;s analysis determined the &quot;Jellyfish UAP&quot; is a cluster of balloons</span><span class="citation-popover-snippet">AARO&#x27;s analysis determined the &quot;Jellyfish UAP&quot; is a cluster of balloons. - AARO released this statement while the Immaculate Constellatio...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rr6i1nHQ48M" title="‘Jellyfish’ UAP video reveals strange object in Iraq | Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rr6i1nHQ48M" target="_blank" rel="noopener noreferrer">‘Jellyfish’ UAP video reveals strange object in Iraq | Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 215.3K &middot; Uploaded: January 2024 &middot; Length: 3 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rr6i1nHQ48M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rr6i1nHQ48M">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Al Taqaddum UAP Turn Out to Be Balloons?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Al Taqaddum UAP Turn Out to Be Balloons?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Examines military UAP investigations and interpretation challenges similar to the Al Taqaddum case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines military UAP investigations and interpretation challenges similar to the Al Taqaddum case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides examples of how unusual observations can later receive conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides examples of how unusual observations can later receive conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes classification, observation limits, and analytical methods for unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes classification, observation limits, and analytical methods for unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on military and government investigations, matching the page&#x27;s emphasis on official analysis and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on military and government investigations, matching the page&#x27;s emphasis on official analysis and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-al-taqaddum-uap-turn-out-to-be-balloons-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -496,7 +496,7 @@ Despite the official assessment, some public discussion persists about the foota
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -516,7 +516,7 @@ Despite the official assessment, some public discussion persists about the foota
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -548,7 +548,7 @@ Despite the official assessment, some public discussion persists about the foota
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -600,7 +600,7 @@ Despite the official assessment, some public discussion persists about the foota
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -645,7 +645,7 @@ Despite the official assessment, some public discussion persists about the foota
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -683,119 +683,118 @@ Despite the official assessment, some public discussion persists about the foota
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Al Taqaddam Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Al_Taqaddam_Case_Resolution_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Al_Taqaddam_Case_Resolution_Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Al Taqaddam Case Resolution...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Al_Taqaddam_Case_Resolution_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Al_Taqaddam_Case_Resolution_Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Al Taqaddam Case Resolution...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
    Title: AAR O's analysis determined the "Jellyfish UAP" is a cluster of balloons  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ke1n8m" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ke1n8m</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s analysis determined the &quot;Jellyfish UAP&quot; is a cluster of balloons. - AARO released this statement while the Immaculate Constellatio...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ke1n8m" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ke1n8m</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s analysis determined the &quot;Jellyfish UAP&quot; is a cluster of balloons. - AARO released this statement while the Immaculate Constellatio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
    Title: bases its assessment on the object’s strong morphological consistency w  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-UAP-Imagery-Acc-Table/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-UAP-Imagery-Acc-Table/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Next - AARO UAP Imagery Acc TableAARO assesses, with high confidence, that the object depicted in the video is almost certainly (≥95% lik...</p></details>
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-UAP-Imagery-Acc-Table/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-AARO-UAP-Imagery-Acc-Table/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Next - AARO UAP Imagery Acc TableAARO assesses, with high confidence, that the object depicted in the video is almost certainly (≥95% lik...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/AARO-UAP-Case-Resolution-DT/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/AARO-UAP-Case-Resolution-DT/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Case Resolution DTUAP CASE RESOLUTION REPORTS FOR NEXT RELEASE NEW CASE RESOLUTIONS Name Date Added Links Name | Description | L...</p></details>
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/AARO-UAP-Case-Resolution-DT/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/AARO-UAP-Case-Resolution-DT/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Case Resolution DTUAP CASE RESOLUTION REPORTS FOR NEXT RELEASE NEW CASE RESOLUTIONS Name Date Added Links Name | Description | L...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/ftag/MSF0951a18/quot/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/ftag/MSF0951a18/quot/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP ImageryAll-domain Anomaly Resolution Office UAP IMAGERY Click here for more information on the use of DoW Visual Imagery NEW VID...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/ftag/MSF0951a18/quot/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/ftag/MSF0951a18/quot/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP ImageryAll-domain Anomaly Resolution Office UAP IMAGERY Click here for more information on the use of DoW Visual Imagery NEW VID...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP ImageryThe footage depicts an area of contrast in the infrared sensor display, suggesting the presence of a physical object...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP ImageryThe footage depicts an area of contrast in the infrared sensor display, suggesting the presence of a physical object...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-case-resolution-reports-2023-2025-aaro-al-taqaddam-case-resolution-final</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Resolves Al Taqaddum &#x27;Jellyfish&#x27; as Balloons, DoD / All-domain Anomaly Resolution Office (AARO) · 2023 · UFO Transpa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufotransparency.com  
-   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-website-launch-case-resolutions-2023-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-website-launch-case-resolutions-2023-aaro-al-taqaddam-case-resolution-final</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Website Launch: Al Taqaddum Resolution, All-domain Anomaly Resolution Office (AARO), U.S. Department of Defense · 20...</p></details>
+   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-website-launch-case-resolutions-2023-aaro-al-taqaddam-case-resolution-final" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-website-launch-case-resolutions-2023-aaro-al-taqaddam-case-resolution-final</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Website Launch: Al Taqaddum Resolution, All-domain Anomaly Resolution Office (AARO), U.S. Department of Defense · 20...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uapufo.org  
-   Link: <a href="https://uapufo.org/entities/aaro" target="_blank" rel="noopener noreferrer nofollow">https://uapufo.org/entities/aaro</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government office referenced by many modern public UAP and UFO imagery and...</p></details>
+   Link:<a href="https://uapufo.org/entities/aaro" target="_blank" rel="noopener noreferrer nofollow">https://uapufo.org/entities/aaro</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government office referenced by many modern public UAP and UFO imagery and...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unknowncountry.com  
-   Link: <a href="https://unknowncountry.com/headline-news/new-details-regarding-enigmatic-jellyfish-uap-released-by-jeremy-corbell-and-george-knapp/" target="_blank" rel="noopener noreferrer nofollow">https://unknowncountry.com/headline-news/new-details-regarding-enigmatic-jellyfish-uap-released-by-jeremy-corbell-and-george-knapp/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHITLEY STRIEBER&#x27;S UNKNOWN COUNTRYJanuary 26, 2024 — NEW DETAILS REGARDING ENIGMATIC ‘JELLYFISH UAP’ RELEASED BY JEREMY CORBELL AND GEORG...</p></details>
+   Link:<a href="https://unknowncountry.com/headline-news/new-details-regarding-enigmatic-jellyfish-uap-released-by-jeremy-corbell-and-george-knapp/" target="_blank" rel="noopener noreferrer nofollow">https://unknowncountry.com/headline-news/new-details-regarding-enigmatic-jellyfish-uap-released-by-jeremy-corbell-and-george-knapp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHITLEY STRIEBER&#x27;S UNKNOWN COUNTRYJanuary 26, 2024 — NEW DETAILS REGARDING ENIGMATIC ‘JELLYFISH UAP’ RELEASED BY JEREMY CORBELL AND GEORG...</p></details>
    Published: January 26, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: uapufo.org  
    Title: The area of apparent contrast exhibited characteristics that may be consiste  
-   Link: <a href="https://uapufo.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapufo.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO - Public UAP declassified archive | war.gov/ufoThe recording, captured in the Middle East in 2023, depicts an apparent thermal co...</p></details>
+   Link:<a href="https://uapufo.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapufo.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO - Public UAP declassified archive | war.gov/ufoThe recording, captured in the Middle East in 2023, depicts an apparent thermal co...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uapradar.com  
    Title: Map View SOURCE FILTER [Button: All] [Button: Official]  
-   Link: <a href="https://uapradar.com/sections/sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/sections/sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Sightings &amp; Witness Reports | UAP RadarSIGHTING MAP &amp; WITNESS REPORTS A zoomable globe map with country and city labels, paired with...</p></details>
+   Link:<a href="https://uapradar.com/sections/sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/sections/sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Sightings &amp; Witness Reports | UAP RadarSIGHTING MAP &amp; WITNESS REPORTS A zoomable globe map with country and city labels, paired with...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: singularfortean.com  
-   Link: <a href="https://www.singularfortean.com/news/2024/1/9/jellyfish-ufo-reportedly-recorded-over-united-states-joint-operations-base-in-iraq" target="_blank" rel="noopener noreferrer nofollow">https://www.singularfortean.com/news/2024/1/9/jellyfish-ufo-reportedly-recorded-over-united-states-joint-operations-base-in-iraq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Jellyfish&quot; UFO Reportedly Recorded over United States Joint Operations Base in Iraq — A Singular ForteanJanuary 10, 2024 — &quot;JELLYFISH&quot; U...</p></details>
+   Link:<a href="https://www.singularfortean.com/news/2024/1/9/jellyfish-ufo-reportedly-recorded-over-united-states-joint-operations-base-in-iraq" target="_blank" rel="noopener noreferrer nofollow">https://www.singularfortean.com/news/2024/1/9/jellyfish-ufo-reportedly-recorded-over-united-states-joint-operations-base-in-iraq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Jellyfish&quot; UFO Reportedly Recorded over United States Joint Operations Base in Iraq — A Singular ForteanJanuary 10, 2024 — &quot;JELLYFISH&quot; U...</p></details>
    Published: January 10, 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wikidisc.org  
    Title: Jellyfish UFO video | Wiki Disc  
-   Link: <a href="https://www.wikidisc.org/wiki/Jellyfish_UFO_video" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidisc.org/wiki/Jellyfish_UFO_video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jellyfish UFO video | WikiDiscOctober 23, 2017 — JELLYFISH UFO VIDEO [Input] Add languages Case Information Explained - Conventional Loca...</p></details>
+   Link:<a href="https://www.wikidisc.org/wiki/Jellyfish_UFO_video" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidisc.org/wiki/Jellyfish_UFO_video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jellyfish UFO video | WikiDiscOctober 23, 2017 — JELLYFISH UFO VIDEO [Input] Add languages Case Information Explained - Conventional Loca...</p></details>
    Published: October 23, 2017  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: disclosdex.com  
    Title: Al Taqaddum Object | Disclosdex  
-   Link: <a href="https://disclosdex.com/events/2017-al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/events/2017-al-taqaddum-object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2017 — AL TAQADDUM OBJECT Sighting Aerostat infrared footage showed clustered balloons drifting near Iraqi air base, matching...</p></details>
+   Link:<a href="https://disclosdex.com/events/2017-al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/events/2017-al-taqaddum-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 2017 — AL TAQADDUM OBJECT Sighting Aerostat infrared footage showed clustered balloons drifting near Iraqi air base, matching...</p></details>
    Published: October 1, 2017  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ak.ng.mil  
    Title: mil State Partnership Program  
-   Link: <a href="https://ak.ng.mil/About-Us/State-Partnership-Program/?videoid=960331" target="_blank" rel="noopener noreferrer nofollow">https://ak.ng.mil/About-Us/State-Partnership-Program/?videoid=960331</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Partnership ProgramOctober 1, 2017 — STATE PARTNERSHIP PROGRAM [Input: Search Videos] Video by Courtesy Player Embed Code: &lt;iframe width=...</p></details>
+   Link:<a href="https://ak.ng.mil/About-Us/State-Partnership-Program/?videoid=960331" target="_blank" rel="noopener noreferrer nofollow">https://ak.ng.mil/About-Us/State-Partnership-Program/?videoid=960331</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Partnership ProgramOctober 1, 2017 — STATE PARTNERSHIP PROGRAM [Input: Search Videos] Video by Courtesy Player Embed Code: &lt;iframe width=...</p></details>
    Published: October 1, 2017  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dvidshub.net  
    Title: Then add the mark-up belo  
-   Link: <a href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/960331/al-taqaddum-object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDS - Video - Al Taqaddum ObjectApril 29, 2025 — AL TAQADDUM OBJECT [Input] video size: [Select] [Input: width] x [Input: height] Advan...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/960331/al-taqaddum-object" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/960331/al-taqaddum-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDS - Video - Al Taqaddum ObjectApril 29, 2025 — AL TAQADDUM OBJECT [Input] video size: [Select] [Input: width] x [Input: height] Advan...</p></details>
    Published: April 29, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Pi Fi #90  
-   Link: <a href="https://www.youtube.com/watch?v=uKkbw4rkOLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKkbw4rkOLo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Most Disturbing Videos From Pentagon UFO Release...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uKkbw4rkOLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uKkbw4rkOLo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Most Disturbing Videos From Pentagon UFO Release...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: VFX Artists DEBUNK Jellyfish UFO Videos  
-   Link: <a href="https://www.youtube.com/watch?v=hRFSXWDmBYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hRFSXWDmBYM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PiFi #90 - Michael Cincoski - USMC Vet with Mick West and Steven Greenstreet - Jellyfish Video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hRFSXWDmBYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hRFSXWDmBYM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PiFi #90 - Michael Cincoski - USMC Vet with Mick West and Steven Greenstreet - Jellyfish Video...</p></details>

@@ -248,14 +248,14 @@ image: /assets/images/Viet_Nam_82ecdd_chu_lai_egg_object_b0d32a-Illustration-1-s
 
 ## Introduction
 
-The Chu Lai “egg-shaped object” report is one of the most discussed Vietnam War-era UFO incidents because it rests on something stronger than a campfire story or a decades-later memory. A military daily journal recorded the event at a specific time, in a specific location, during active wartime operations. According to that journal, personnel at Tower 72 near Chu Lai reported a silent object roughly 15–20 feet across that appeared to move slowly over an ammunition storage area before landing. The object was described as glowing while in motion, egg-shaped, and apparently invisible to radar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+The Chu Lai “egg-shaped object” report is one of the most discussed Vietnam War-era UFO incidents because it rests on something stronger than a campfire story or a decades-later memory. A military daily journal recorded the event at a specific time, in a specific location, during active wartime operations. According to that journal, personnel at Tower 72 near Chu Lai reported a silent object roughly 15–20 feet across that appeared to move slowly over an ammunition storage area before landing. The object was described as glowing while in motion, egg-shaped, and apparently invisible to radar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Viet_Nam_82ecdd_chu_lai_egg_object_b0d32a-Illustration-1-dark.svg" | relative_url }}" alt="Chu Lai illustration 1" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd_chu_lai_egg_object_b0d32a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd_chu_lai_egg_object_b0d32a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That does not make the incident proof of an extraordinary craft. The surviving record is extremely limited, and no confirmed follow-up investigation has surfaced. What makes the case notable is that it sits in the narrow category of Vietnam War UFO reports supported by contemporaneous military documentation rather than later retellings. Within the wider Vietnamese UFO record, the Chu Lai case remains a documented mystery because the report itself is real, while the explanation remains uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+That does not make the incident proof of an extraordinary craft. The surviving record is extremely limited, and no confirmed follow-up investigation has surfaced. What makes the case notable is that it sits in the narrow category of Vietnam War UFO reports supported by contemporaneous military documentation rather than later retellings. Within the wider Vietnamese UFO record, the Chu Lai case remains a documented mystery because the report itself is real, while the explanation remains uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 ## What the defence command journal recorded
 
-The report comes from the daily journal of the 23rd Infantry Division's Chu Lai Defence Command, preserved in US archival records. Chu Lai was a major American military complex on the central Vietnamese coast, south of Da Nang. Observation towers around the perimeter were tasked with reporting unusual activity that might indicate infiltration, attack, or other threats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+The report comes from the daily journal of the 23rd Infantry Division's Chu Lai Defence Command, preserved in US archival records. Chu Lai was a major American military complex on the central Vietnamese coast, south of Da Nang. Observation towers around the perimeter were tasked with reporting unusual activity that might indicate infiltration, attack, or other threats.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 At 0152 hours on 6 January 1969, Tower 72 reported an unusual object approximately 700 metres away. The journal entry stated that the object came slowly over the ammunition supply point, often abbreviated in military terminology as an ASP, and landed. According to the report:
 
@@ -265,15 +265,15 @@ At 0152 hours on 6 January 1969, Tower 72 reported an unusual object approximate
 * It was described as “shaped like a big egg”.
 * It emitted a glowing light when moving.
 * Observers reported no apparent sound.
-* The control tower reported no radar detection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+* The control tower reported no radar detection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 </div>
 
-The surviving journal entry appears operational rather than dramatic. It reads like a routine observation logged by personnel expected to report anything unusual around a sensitive military installation. That bureaucratic tone is one reason researchers continue to cite it decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+The surviving journal entry appears operational rather than dramatic. It reads like a routine observation logged by personnel expected to report anything unusual around a sensitive military installation. That bureaucratic tone is one reason researchers continue to cite it decades later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 ## Why this case is stronger than a wartime rumour
 
-Many Vietnam War UFO stories circulate through memoirs, second-hand accounts, or later paranormal literature. The Chu Lai incident differs because its existence does not depend on witness recollections recorded years afterwards. The key evidence is a dated military record produced during the event itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+Many Vietnam War UFO stories circulate through memoirs, second-hand accounts, or later paranormal literature. The Chu Lai incident differs because its existence does not depend on witness recollections recorded years afterwards. The key evidence is a dated military record produced during the event itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 Several factors give the report unusual weight:
 
@@ -281,27 +281,27 @@ Several factors give the report unusual weight:
 
 ### The observation came from a security mission
 
-The personnel involved were stationed in a defensive observation tower whose purpose was to detect threats. Reporting unidentified activity was part of their job rather than an extraordinary action. This reduces, though does not eliminate, the possibility that the report was simply invented for amusement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+The personnel involved were stationed in a defensive observation tower whose purpose was to detect threats. Reporting unidentified activity was part of their job rather than an extraordinary action. This reduces, though does not eliminate, the possibility that the report was simply invented for amusement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 ### The object was reportedly low and nearby
 
-Many UFO reports involve distant lights or ambiguous aerial phenomena. The Chu Lai journal describes an object operating close to the ground near an ammunition area. If the distance estimate was even roughly correct, observers were not describing a tiny point of light high in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+Many UFO reports involve distant lights or ambiguous aerial phenomena. The Chu Lai journal describes an object operating close to the ground near an ammunition area. If the distance estimate was even roughly correct, observers were not describing a tiny point of light high in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 ### The description contains multiple observational details
 
-The entry includes shape, size, motion, illumination, sound characteristics, direction and location. Such details do not automatically make a report accurate, but they provide more material for evaluation than the brief “strange light” reports common in military records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+The entry includes shape, size, motion, illumination, sound characteristics, direction and location. Such details do not automatically make a report accurate, but they provide more material for evaluation than the brief “strange light” reports common in military records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 ### The record survived in official archives
 
-The report was identified in preserved military journals later examined by archivists at the US National Archives. That archival chain matters because it confirms the document's existence independently of UFO enthusiasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+The report was identified in preserved military journals later examined by archivists at the US National Archives. That archival chain matters because it confirms the document's existence independently of UFO enthusiasts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 ## The most important limitation: almost no follow-up survives
 
 The strongest argument against overinterpreting the Chu Lai incident is that the surviving evidence is extremely thin.
 
-The journal indicates that the Duty Officer was notified, but publicly available records do not contain a detailed investigation, technical assessment, interception attempt, photographic evidence, or witness interviews. The archival discussion of the case notes that later journals offered no further explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+The journal indicates that the Duty Officer was notified, but publicly available records do not contain a detailed investigation, technical assessment, interception attempt, photographic evidence, or witness interviews. The archival discussion of the case notes that later journals offered no further explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
-An additional complication is that journals for 7 and 8 January 1969 were reportedly missing from the archive examined by researchers. There is no evidence that those missing records contained dramatic revelations, but their absence leaves a gap immediately after the sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+An additional complication is that journals for 7 and 8 January 1969 were reportedly missing from the archive examined by researchers. There is no evidence that those missing records contained dramatic revelations, but their absence leaves a gap immediately after the sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 This creates an unusual evidential situation. The existence of the report is well documented, but nearly everything beyond the initial observation remains unknown. Historians can confidently say the event was reported. They cannot confidently reconstruct what happened next.
 
@@ -314,13 +314,13 @@ The Chu Lai report has attracted attention partly because straightforward explan
 
 Vietnam War operations frequently involved flares. Flares can appear bright, descend slowly and create unusual visual impressions at night.
 
-However, the journal's description of a relatively compact egg-shaped object apparently landing near the ammunition area does not fit neatly with a standard flare account. The report also emphasised the object's shape rather than simply its light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+However, the journal's description of a relatively compact egg-shaped object apparently landing near the ammunition area does not fit neatly with a standard flare account. The report also emphasised the object's shape rather than simply its light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 ### Tracer fire or battlefield effects
 
 Tracer rounds, explosions and other battlefield illumination could create strange visual experiences during night operations.
 
-The main problem is that the observers described a single object moving slowly and apparently landing. Tracer rounds generally do not match that behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+The main problem is that the observers described a single object moving slowly and apparently landing. Tracer rounds generally do not match that behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MQjdvDNOhH4" title="Faeries, Ghosts, and High Strangeness in the Vietnam War" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MQjdvDNOhH4" target="_blank" rel="noopener noreferrer">Faeries, Ghosts, and High Strangeness in the Vietnam War</a></p><p class="youtube-embed-meta">Channel: Haunted Cosmos &middot; Views: 25.1K &middot; Uploaded: March 2025 &middot; Length: 1 hour 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MQjdvDNOhH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MQjdvDNOhH4">Open on YouTube</a></p></div></div></div>
 
@@ -328,222 +328,222 @@ The main problem is that the observers described a single object moving slowly a
 
 Some sceptical interpretations of Vietnam War UFO reports point to helicopters, especially given the heavy military aviation environment.
 
-The Chu Lai entry presents difficulties for that explanation. Witnesses reportedly described no sound, while the object was said to be operating close enough to estimate dimensions. The control tower also reported no radar contact. None of these points eliminates a conventional aircraft explanation, but together they weaken a simple helicopter identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+The Chu Lai entry presents difficulties for that explanation. Witnesses reportedly described no sound, while the object was said to be operating close enough to estimate dimensions. The control tower also reported no radar contact. None of these points eliminates a conventional aircraft explanation, but together they weaken a simple helicopter identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 ### Observation errors
 
 Night observation is notoriously unreliable. Distance, size and shape estimates can be distorted by darkness, stress, atmospheric conditions and limited reference points.
 
-This remains one of the most plausible general explanations. The problem is that the surviving record does not contain enough information to determine exactly what was misperceived, if misperception occurred. The case survives because the error mechanism cannot be reconstructed with confidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+This remains one of the most plausible general explanations. The problem is that the surviving record does not contain enough information to determine exactly what was misperceived, if misperception occurred. The case survives because the error mechanism cannot be reconstructed with confidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Awd6RavqUgs" title="🔥 “Real UFO Encounter: Metallic Orb Entered His Home — Pedro León Jr Shares His Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Awd6RavqUgs" target="_blank" rel="noopener noreferrer">🔥 “Real UFO Encounter: Metallic Orb Entered His Home — Pedro León Jr Shares His Story</a></p><p class="youtube-embed-meta">Channel: Imperial County Magazine &middot; Views: 41 &middot; Uploaded: December 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Awd6RavqUgs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Awd6RavqUgs">Open on YouTube</a></p></div></div></div>
 
 ## How the case fits into Vietnam's wider UFO record
 
-The Chu Lai incident did not emerge in isolation. Researchers examining Vietnam War archives have identified numerous military references to unidentified aerial phenomena, including records using terms such as “UFO”, “SUS UFO”, “UFO SEARCH” and “UFO CHASE” within operational reporting systems. These references suggest that unusual aerial observations continued to enter military paperwork even after official US Air Force enthusiasm for UFO investigations had declined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">UH R #14</span><span class="citation-popover-snippet">UHR #14 - Air Force UFO Documents Vietnam Era SurfaceWith all of these reports in the CACTA database, “UFO” was ascribed well after the C...</span></span></span>
+The Chu Lai incident did not emerge in isolation. Researchers examining Vietnam War archives have identified numerous military references to unidentified aerial phenomena, including records using terms such as “UFO”, “SUS UFO”, “UFO SEARCH” and “UFO CHASE” within operational reporting systems. These references suggest that unusual aerial observations continued to enter military paperwork even after official US Air Force enthusiasm for UFO investigations had declined.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">UH R #14</span><span class="citation-popover-snippet">UHR #14 - Air Force UFO Documents Vietnam Era SurfaceWith all of these reports in the CACTA database, “UFO” was ascribed well after the C...</span></span></span>
 
-That broader context is important because it shows that the Chu Lai report was not a unique administrative anomaly. Military personnel in and around Viet Nam were encountering and recording events they could not immediately classify. Most of those reports probably involved ordinary causes hidden by poor conditions or incomplete information. The archival record nevertheless demonstrates that unidentified observations were a recurring operational issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">UH R #14</span><span class="citation-popover-snippet">UHR #14 - Air Force UFO Documents Vietnam Era SurfaceWith all of these reports in the CACTA database, “UFO” was ascribed well after the C...</span></span></span>
+That broader context is important because it shows that the Chu Lai report was not a unique administrative anomaly. Military personnel in and around Viet Nam were encountering and recording events they could not immediately classify. Most of those reports probably involved ordinary causes hidden by poor conditions or incomplete information. The archival record nevertheless demonstrates that unidentified observations were a recurring operational issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">UH R #14</span><span class="citation-popover-snippet">UHR #14 - Air Force UFO Documents Vietnam Era SurfaceWith all of these reports in the CACTA database, “UFO” was ascribed well after the C...</span></span></span>
 
-What separates Chu Lai from many other entries is the specificity of the description. Instead of a distant radar track or an unexplained light, the report describes an apparently structured object observed near the ground around a sensitive military facility. That combination of detail and documentation explains why the case remains one of the most frequently cited Vietnamese UFO incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+What separates Chu Lai from many other entries is the specificity of the description. Instead of a distant radar track or an unexplained light, the report describes an apparently structured object observed near the ground around a sensitive military facility. That combination of detail and documentation explains why the case remains one of the most frequently cited Vietnamese UFO incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Viet_Nam_82ecdd_chu_lai_egg_object_b0d32a-Illustration-3-dark.svg" | relative_url }}" alt="Chu Lai illustration 3" data-theme-src-dark="{{ "/assets/images/Viet_Nam_82ecdd_chu_lai_egg_object_b0d32a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Viet_Nam_82ecdd_chu_lai_egg_object_b0d32a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the mystery remains unresolved
 
 More than half a century later, the Chu Lai egg-shaped object remains unresolved for a simple reason: the evidence is simultaneously credible and incomplete.
 
-The military journal confirms that trained observers reported something unusual at 1:52 am on 6 January 1969. The report was serious enough to enter official records. Yet the available documentation does not establish what the object actually was. No surviving radar data, photographs, recovered material, or detailed investigative file have emerged publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
+The military journal confirms that trained observers reported something unusual at 1:52 am on 6 January 1969. The report was serious enough to enter official records. Yet the available documentation does not establish what the object actually was. No surviving radar data, photographs, recovered material, or detailed investigative file have emerged publicly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span>
 
-As a result, the case occupies a middle ground that characterises some of the strongest Vietnam War UFO reports. It is neither a proven extraordinary event nor a clearly debunked story. The documented fact is the report itself. The object behind that report remains unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/2011/06/21/ufo-encounter-in-the-vietnam-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[2drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">UF Os and the Vietnam War</span><span class="citation-popover-snippet">Just occasionally we learn about a genuinely baffling UFO incident from a reliable primary source, such as a...Read more...</span></span></span>
+As a result, the case occupies a middle ground that characterises some of the strongest Vietnam War UFO reports. It is neither a proven extraordinary event nor a clearly debunked story. The documented fact is the report itself. The object behind that report remains unidentified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message No Enemy Contact, but Alien Contact…</span><span class="citation-popover-snippet">IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://drdavidclarke.co.uk/2011/06/21/ufo-encounter-in-the-vietnam-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[2drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">UF Os and the Vietnam War</span><span class="citation-popover-snippet">Just occasionally we learn about a genuinely baffling UFO incident from a reliable primary source, such as a...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Landed Near Chu Lai in 1969?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Landed Near Chu Lai in 1969?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Strong fit for documented military UFO cases and official records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for documented military UFO cases and official records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores military sightings, records and unresolved cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military sightings, records and unresolved cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides historical context for unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful for understanding military reporting procedures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding military reporting procedures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-landed-near-chu-lai-in-1969-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-landed-near-chu-lai-in-1969-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ As a result, the case occupies a middle ground that characterises some of the st
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ As a result, the case occupies a middle ground that characterises some of the st
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ As a result, the case occupies a middle ground that characterises some of the st
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ As a result, the case occupies a middle ground that characterises some of the st
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ As a result, the case occupies a middle ground that characterises some of the st
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,79 +746,78 @@ As a result, the case occupies a middle ground that characterises some of the st
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: text-message.blogs.archives.gov  
    Title: The Text Message No Enemy Contact, but Alien Contact…  
-   Link: <a href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</p></details>
+   Link:<a href="https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2011/06/06/no-enemy-contact-but-alien-contact/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IT IS ONLY THE WELL-KNOWN BALL LIGHTNING PHENOMENON: AS JANUARY 3rd, 1969 WAS FULL MOON&#x27;S DAY, NO DOUBT THE...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: drdavidclarke.co.uk  
    Title: UF Os and the Vietnam War  
-   Link: <a href="https://drdavidclarke.co.uk/2011/06/21/ufo-encounter-in-the-vietnam-war/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2011/06/21/ufo-encounter-in-the-vietnam-war/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Just occasionally we learn about a genuinely baffling UFO incident from a reliable primary source, such as a...Read more...</p></details>
+   Link:<a href="https://drdavidclarke.co.uk/2011/06/21/ufo-encounter-in-the-vietnam-war/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2011/06/21/ufo-encounter-in-the-vietnam-war/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just occasionally we learn about a genuinely baffling UFO incident from a reliable primary source, such as a...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: project1947.com  
    Title: UH R #14  
-   Link: <a href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/uhr14.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UHR #14 - Air Force UFO Documents Vietnam Era SurfaceWith all of these reports in the CACTA database, “UFO” was ascribed well after the C...</p></details>
+   Link:<a href="https://www.project1947.com/articles/uhr14.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/uhr14.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UHR #14 - Air Force UFO Documents Vietnam Era SurfaceWith all of these reports in the CACTA database, “UFO” was ascribed well after the C...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/fileasset/downloads_products/31767_Titlelist.pdf?srsltid=AfmBOooe7YEKVtp8u2Hnr_ECXm7UGxZL6nZg63trSfD_B1l97jUFMywr" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/fileasset/downloads_products/31767_Titlelist.pdf?srsltid=AfmBOooe7YEKVtp8u2Hnr_ECXm7UGxZL6nZg63trSfD_B1l97jUFMywr</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>East AsiaThis is the sixth cumulative catalogue of IDC&#x27;s microfiche editions of rare works on East Asia. It is the result of IDC&#x27;s activi...</p></details>
+   Link:<a href="https://brill.com/fileasset/downloads_products/31767_Titlelist.pdf?srsltid=AfmBOooe7YEKVtp8u2Hnr_ECXm7UGxZL6nZg63trSfD_B1l97jUFMywr" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/fileasset/downloads_products/31767_Titlelist.pdf?srsltid=AfmBOooe7YEKVtp8u2Hnr_ECXm7UGxZL6nZg63trSfD_B1l97jUFMywr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>East AsiaThis is the sixth cumulative catalogue of IDC&#x27;s microfiche editions of rare works on East Asia. It is the result of IDC&#x27;s activi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: personal.lse.ac.uk  
-   Link: <a href="https://personal.lse.ac.uk/changx/thesis/chapter%206.pdf" target="_blank" rel="noopener noreferrer nofollow">https://personal.lse.ac.uk/changx/thesis/chapter%206.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lse.ac.uk6. Theoretical approachesSocial artifacts such as expressing ganqing (see section 6.1.2) – very alien to non-Chinese people – be...</p></details>
+   Link:<a href="https://personal.lse.ac.uk/changx/thesis/chapter%206.pdf" target="_blank" rel="noopener noreferrer nofollow">https://personal.lse.ac.uk/changx/thesis/chapter%206.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lse.ac.uk6. Theoretical approachesSocial artifacts such as expressing ganqing (see section 6.1.2) – very alien to non-Chinese people – be...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/content/dam/museums/Seabee/Online%20Reading%20Room/Manuals%20and%20Publications/Publications/Southeast%20Asia%2C%20Building%20The%20Bases%2C%20A%20History%20Of%20Const.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/dam/museums/Seabee/Online%20Reading%20Room/Manuals%20and%20Publications/Publications/Southeast%20Asia%2C%20Building%20The%20Bases%2C%20A%20History%20Of%20Const.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Asia: Building the Navy&#x27;s BasesChu Lai. That, legend has it, was a transmogrification into Viet- namese... being out-numbered and overpo...</p></details>
+   Link:<a href="https://www.history.navy.mil/content/dam/museums/Seabee/Online%20Reading%20Room/Manuals%20and%20Publications/Publications/Southeast%20Asia%2C%20Building%20The%20Bases%2C%20A%20History%20Of%20Const.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/dam/museums/Seabee/Online%20Reading%20Room/Manuals%20and%20Publications/Publications/Southeast%20Asia%2C%20Building%20The%20Bases%2C%20A%20History%20Of%20Const.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asia: Building the Navy&#x27;s BasesChu Lai. That, legend has it, was a transmogrification into Viet- namese... being out-numbered and overpo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cherriesnovel/posts/fifty-three-years-ago-nva-troops-attacked-a-new-lz-dubbed-jamie-on-may-12-1969-a/1011438867648430/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cherriesnovel/posts/fifty-three-years-ago-nva-troops-attacked-a-new-lz-dubbed-jamie-on-may-12-1969-a/1011438867648430/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>d and ran for the CP calling &quot;Corpsman, Corpsman!&quot;. I sat...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cherriesnovel/posts/fifty-three-years-ago-nva-troops-attacked-a-new-lz-dubbed-jamie-on-may-12-1969-a/1011438867648430/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cherriesnovel/posts/fifty-three-years-ago-nva-troops-attacked-a-new-lz-dubbed-jamie-on-may-12-1969-a/1011438867648430/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d and ran for the CP calling &quot;Corpsman, Corpsman!&quot;. I sat...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dare.uva.nl  
-   Link: <a href="https://dare.uva.nl/document/33665" target="_blank" rel="noopener noreferrer nofollow">https://dare.uva.nl/document/33665</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of three garment workshops in HanoiWork culture, gender and class in Vietnam: ethnographies of three garment workshops in Hanoi...</p></details>
+   Link:<a href="https://dare.uva.nl/document/33665" target="_blank" rel="noopener noreferrer nofollow">https://dare.uva.nl/document/33665</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of three garment workshops in HanoiWork culture, gender and class in Vietnam: ethnographies of three garment workshops in Hanoi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: usmcu.edu  
    Title: The Battle for KHE SANH PCN 19000411000  
-   Link: <a href="https://www.usmcu.edu/Portals/218/The%20Battle%20for%20KHE%20SANH%20PCN%2019000411000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usmcu.edu/Portals/218/The%20Battle%20for%20KHE%20SANH%20PCN%2019000411000.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>not completely alien to most Marines0. Because the darkness and ground fog drastically reduced visibility, hand-to-hand combat was a nece...</p></details>
+   Link:<a href="https://www.usmcu.edu/Portals/218/The%20Battle%20for%20KHE%20SANH%20PCN%2019000411000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usmcu.edu/Portals/218/The%20Battle%20for%20KHE%20SANH%20PCN%2019000411000.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>not completely alien to most Marines0. Because the darkness and ground fog drastically reduced visibility, hand-to-hand combat was a nece...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theufochronicles.com  
    Title: ufo problem during vietnam war  
-   Link: <a href="https://www.theufochronicles.com/2016/10/ufo-problem-during-vietnam-war.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2016/10/ufo-problem-during-vietnam-war.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO Problem&#x27; During The Vietnam War14 Oct 2016 — 16 UFO Encounters During The Vietnam War...&#x27; UFOs Reported Over Saigon During Vietnam W...</p></details>
+   Link:<a href="https://www.theufochronicles.com/2016/10/ufo-problem-during-vietnam-war.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2016/10/ufo-problem-during-vietnam-war.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO Problem&#x27; During The Vietnam War14 Oct 2016 — 16 UFO Encounters During The Vietnam War...&#x27; UFOs Reported Over Saigon During Vietnam W...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mww3arniyt0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Department Of War Opens Massive Classified UFO Archive | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mww3arniyt0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Department Of War Opens Massive Classified UFO Archive | WION Podcast...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: chu lai vietnam 1969  
-   Link: <a href="https://www.facebook.com/100068126347147/posts/chu-lai-vietnam-1969/1172649701682564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100068126347147/posts/chu-lai-vietnam-1969/1172649701682564/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chu Lai, Vietnam 1969.Chu Lai, Vietnam 1969.; Tommy Ray. Gregory P Plutshack Sharon was the only US nurse killed by enemy action during...</p></details>
+   Link:<a href="https://www.facebook.com/100068126347147/posts/chu-lai-vietnam-1969/1172649701682564/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100068126347147/posts/chu-lai-vietnam-1969/1172649701682564/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chu Lai, Vietnam 1969.Chu Lai, Vietnam 1969.; Tommy Ray. Gregory P Plutshack Sharon was the only US nurse killed by enemy action during...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: US Department Of War Opens Massive Classified UFO Archive | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=B0E2PSC_Mo0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B0E2PSC_Mo0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real UFO Encounter: Metallic Orb Entered His Home — Pedro León Jr Shares His Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=B0E2PSC_Mo0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B0E2PSC_Mo0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real UFO Encounter: Metallic Orb Entered His Home — Pedro León Jr Shares His Story...</p></details>

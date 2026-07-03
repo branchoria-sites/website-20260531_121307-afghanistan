@@ -1199,34 +1199,34 @@ The most defensible Samoa page is therefore not a dramatic incident catalogue. I
 <img src="{{ "/assets/images/Samoa_f56806-overview.webp" | relative_url }}" alt="Overview image for What Has Samoa Really Seen in the Sky?" loading="eager" decoding="sync" fetchpriority="high">
 ## What counts as “UFO evidence” in Samoa?
 
-A UFO, or more recently UAP, does not mean an alien craft. It means an aerial observation that has not yet been identified as an aircraft, satellite, weather effect, meteor, balloon, drone, rocket plume, reflection, or other known phenomenon. NASA defines UAP in this practical sense: observations in the sky that cannot immediately be identified as aircraft or known natural phenomena, and its 2023 study emphasised data quality, collection methods, and scientific evaluation rather than extraordinary assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
+A UFO, or more recently UAP, does not mean an alien craft. It means an aerial observation that has not yet been identified as an aircraft, satellite, weather effect, meteor, balloon, drone, rocket plume, reflection, or other known phenomenon. NASA defines UAP in this practical sense: observations in the sky that cannot immediately be identified as aircraft or known natural phenomena, and its 2023 study emphasised data quality, collection methods, and scientific evaluation rather than extraordinary assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
 That distinction is especially important for Samoa. The country has a small population, two main islands, extensive surrounding ocean, limited public reporting infrastructure for anomalous observations, and a sky increasingly affected by satellite constellations and rocket launches. A strange light seen over Upolu, Savaiʻi, or from a vessel nearby may be genuinely unidentified to the witness, yet still lack the independent data needed to make it a durable case.
 
-The United States’ Project Blue Book is a useful benchmark for evidence handling, even though it was not a Samoa-specific programme. The National Archives states that Blue Book records were declassified, that the project closed in 1969, and that the Air Force recorded 12,618 sightings, of which 701 remained “Unidentified”; the Air Force also concluded that no investigated UFO showed evidence of being an extraterrestrial vehicle or a threat to national security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> For Samoa, the key lesson is not the American conclusion itself, but the method: an incident becomes meaningful only when date, time, location, witnesses, weather, aviation activity, astronomical conditions, and sensor data can be compared.
+The United States’ Project Blue Book is a useful benchmark for evidence handling, even though it was not a Samoa-specific programme. The National Archives states that Blue Book records were declassified, that the project closed in 1969, and that the Air Force recorded 12,618 sightings, of which 701 remained “Unidentified”; the Air Force also concluded that no investigated UFO showed evidence of being an extraterrestrial vehicle or a threat to national security.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> For Samoa, the key lesson is not the American conclusion itself, but the method: an incident becomes meaningful only when date, time, location, witnesses, weather, aviation activity, astronomical conditions, and sensor data can be compared.
 
 ## The public Samoa record is sparse and uneven
 
-The National UFO Reporting Center’s location index lists only three reports under American Samoa, and it does not show an equivalent substantial public record for the Independent State of Samoa. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> Even those American Samoa-labelled entries demonstrate why raw UFO databases must be handled cautiously. One NUFORC report labelled “Samoa” from 18 November 2025 describes a five-second blue chevron seen from a cruise ship, but the location details place the observer near coordinates 20.44365 N, -67.22048 W, en route to Tortola in the British Virgin Islands, far from Samoa. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=194214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The National UFO Reporting Center’s location index lists only three reports under American Samoa, and it does not show an equivalent substantial public record for the Independent State of Samoa.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> Even those American Samoa-labelled entries demonstrate why raw UFO databases must be handled cautiously. One NUFORC report labelled “Samoa” from 18 November 2025 describes a five-second blue chevron seen from a cruise ship, but the location details place the observer near coordinates 20.44365 N, -67.22048 W, en route to Tortola in the British Virgin Islands, far from Samoa.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=194214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Two other NUFORC entries illustrate similar reliability problems. A 2012 report is filed as “New York, American Samoa” and contains a short, unclear narrative with extraordinary claims such as beams, missing time, and marks on the body, but no usable local corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=173599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> A 2023 report is filed as “Hart, MI, American Samoa”, again combining a mainland United States place name with American Samoa metadata. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=175829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These are not strong Samoan cases; they are examples of why location fields, witness text, and database categories must be checked against each other before any chronology is built.
+Two other NUFORC entries illustrate similar reliability problems. A 2012 report is filed as “New York, American Samoa” and contains a short, unclear narrative with extraordinary claims such as beams, missing time, and marks on the body, but no usable local corroboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=173599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> A 2023 report is filed as “Hart, MI, American Samoa”, again combining a mainland United States place name with American Samoa metadata.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=175829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These are not strong Samoan cases; they are examples of why location fields, witness text, and database categories must be checked against each other before any chronology is built.
 
-A separate “US UFO Center” Samoa page claims that Samoa UFO and alien-contact reports are being gathered, but the page is largely a generic reporting invitation rather than a documented archive of dated, investigated Samoan incidents. Its value is therefore limited: it shows that Samoa appears in global UFO-enthusiast collection systems, not that Samoa has a verified case history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">samoa ufo sightings</span><span class="citation-popover-snippet">samoa ufo sightings</span></span></span>
+A separate “US UFO Center” Samoa page claims that Samoa UFO and alien-contact reports are being gathered, but the page is largely a generic reporting invitation rather than a documented archive of dated, investigated Samoan incidents. Its value is therefore limited: it shows that Samoa appears in global UFO-enthusiast collection systems, not that Samoa has a verified case history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">samoa ufo sightings</span><span class="citation-popover-snippet">samoa ufo sightings</span></span></span>
 
 <img src="{{ "/assets/images/Samoa_f56806-Illustration-1-dark.svg" | relative_url }}" alt="What Has Samoa Really Seen in the Sky? illustration 1" data-theme-src-dark="{{ "/assets/images/Samoa_f56806-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Samoa_f56806-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A cautious chronology of Samoa-relevant incidents
 
 ### 2016: cyclone rumours and altered sky perception
 
-One of the few Samoa Observer items touching UFO imagery is not a UFO report in the evidential sense, but it is useful cultural context. During Cyclone Amos in April 2016, Samoa Observer columnist Seti Afoa described unusual storm perceptions and social-media humour, including people photoshopping UFOs and flying saucers into images of the storm over Samoa. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://samoaobserver.ws/category/samoa/23776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[samoaobserver.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">Open source on samoaobserver.ws.</span></span></span>
+One of the few Samoa Observer items touching UFO imagery is not a UFO report in the evidential sense, but it is useful cultural context. During Cyclone Amos in April 2016, Samoa Observer columnist Seti Afoa described unusual storm perceptions and social-media humour, including people photoshopping UFOs and flying saucers into images of the storm over Samoa.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://samoaobserver.ws/category/samoa/23776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[samoaobserver.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">Open source on samoaobserver.ws.</span></span></span>
 
 This is a debunked or satirical category rather than a contested sighting. It shows how dramatic weather, fear, religious imagery, jokes, and social media can combine during a national event. For UFO research, that matters because a viral image can look like “local evidence” once detached from its original humorous or storm-related context.
 
 ### 2021: the Falealupo-Tai “meteorite” claim
 
-The most concrete Samoa sky-related case found in local reporting is the February 2021 Falealupo-Tai incident on Savaiʻi. Samoa Observer reported that a family said a stone fell from the sky onto their property after an unusual rumbling sound and a loud bang. The family described the object as heavy, unusual-looking, cold when retrieved, shiny in sunlight, and magnetic, and said the Scientific Research Organisation of Samoa had been notified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.samoaobserver.ws/category/samoa/78888" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[samoaobserver.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-title">Samoa Observer &#124; Interest in Falealupo family&#x27;s &#x27;meteorite&#x27; rising</span><span class="citation-popover-snippet">Samoa Observer &#124; Interest in Falealupo family&#x27;s &#x27;meteorite&#x27; rising</span></span></span>
+The most concrete Samoa sky-related case found in local reporting is the February 2021 Falealupo-Tai incident on Savaiʻi. Samoa Observer reported that a family said a stone fell from the sky onto their property after an unusual rumbling sound and a loud bang. The family described the object as heavy, unusual-looking, cold when retrieved, shiny in sunlight, and magnetic, and said the Scientific Research Organisation of Samoa had been notified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.samoaobserver.ws/category/samoa/78888" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[samoaobserver.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-title">Samoa Observer &#124; Interest in Falealupo family&#x27;s &#x27;meteorite&#x27; rising</span><span class="citation-popover-snippet">Samoa Observer &#124; Interest in Falealupo family&#x27;s &#x27;meteorite&#x27; rising</span></span></span>
 
-This case is not a UFO sighting in the usual sense because the reported object was a [falling stone]({{ 'falling-stone/' | relative_url }}), not a manoeuvring aerial craft. Still, it is relevant because meteorites, bolides, sonic booms, and falling debris are among the most common sources of dramatic “something came from the sky” accounts. The Samoa Observer article also records immediate public curiosity and scepticism, which is exactly the split a good investigation should preserve until laboratory identification is available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.samoaobserver.ws/category/samoa/112692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[samoaobserver.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">Open source on samoaobserver.ws.</span></span></span>
+This case is not a UFO sighting in the usual sense because the reported object was a [falling stone]({{ 'falling-stone/' | relative_url }}), not a manoeuvring aerial craft. Still, it is relevant because meteorites, bolides, sonic booms, and falling debris are among the most common sources of dramatic “something came from the sky” accounts. The Samoa Observer article also records immediate public curiosity and scepticism, which is exactly the split a good investigation should preserve until laboratory identification is available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.samoaobserver.ws/category/samoa/112692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[samoaobserver.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">Open source on samoaobserver.ws.</span></span></span>
 
 The evidence status is best described as contested or unconfirmed. A genuine meteorite would normally require physical analysis of composition, fusion crust, density, magnetism, and terrestrial contamination. Without a published laboratory result, the case should not be upgraded from “claimed falling object” to “confirmed meteorite”, and it should not be folded into alien-craft narratives.
 
@@ -1234,50 +1234,50 @@ The evidence status is best described as contested or unconfirmed. A genuine met
 
 ### 2021–2022: South Pacific spirals and rocket explanations
 
-A more clearly explained Pacific sky phenomenon involved bright spiral shapes seen across parts of the region. Channel NewsAsia, citing New Zealand reporting and astronomy explanation, reported that a June 2022 spiral over New Zealand was most likely caused by a SpaceX Falcon 9 fuel dump or exhaust plume, and that a similar June 2021 spiral had been seen in parts of the Pacific including Fiji, Samoa, New Caledonia, and Tokelau before being explained as gas released from a Chinese rocket. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.channelnewsasia.com/world/blue-light-spiral-new-zealand-night-sky-stuns-stargazers-2757736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: channelnewsasia.com">[CNA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">channelnewsasia.com</span><span class="citation-popover-title">CNABlue light spiral in New Zealand night sky stuns stargazers</span><span class="citation-popover-snippet">CNABlue light spiral in New Zealand night sky stuns stargazers</span></span></span>
+A more clearly explained Pacific sky phenomenon involved bright spiral shapes seen across parts of the region. Channel NewsAsia, citing New Zealand reporting and astronomy explanation, reported that a June 2022 spiral over New Zealand was most likely caused by a SpaceX Falcon 9 fuel dump or exhaust plume, and that a similar June 2021 spiral had been seen in parts of the Pacific including Fiji, Samoa, New Caledonia, and Tokelau before being explained as gas released from a Chinese rocket.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.channelnewsasia.com/world/blue-light-spiral-new-zealand-night-sky-stuns-stargazers-2757736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: channelnewsasia.com">[CNA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">channelnewsasia.com</span><span class="citation-popover-title">CNABlue light spiral in New Zealand night sky stuns stargazers</span><span class="citation-popover-snippet">CNABlue light spiral in New Zealand night sky stuns stargazers</span></span></span>
 
 This is one of the most important Samoa-relevant debunking examples. It shows how a spectacular, apparently structured light can be real, widely visible, and honestly reported while still having a conventional aerospace explanation. For Samoa, it also points to a growing interpretive problem: island observers may see rocket or satellite effects from launches thousands of kilometres away, especially when high-altitude exhaust or vented propellant is sunlit while the ground below is dark.
 
 ### 2024–2025: Starlink enters Samoa’s skies and regulatory record
 
-Starlink is not a UFO phenomenon, but it changes the practical skywatching environment. Samoa’s Office of the Regulator listed a 2024 order requiring all Starlink users and service providers in Samoa to cease unauthorised satellite services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.regulator.gov.ws/index.php/telecommunications-regulation/telecommunications/telecommunications-orders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulator.gov.ws">[regulator.gov.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulator.gov.ws</span><span class="citation-popover-title">Telecommunications Orders</span><span class="citation-popover-snippet">Telecommunications Orders</span></span></span> Later reporting and analysis describe a shifting regulatory period in which Starlink was banned in January 2024 and approved in January 2025. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch-repository.anu.edu.au/bitstreams/0b17b8ab-5a59-4462-ad93-bff2abc6e87a/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch-repository.anu.edu.au">[Open Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch-repository.anu.edu.au</span><span class="citation-popover-title">Open Research Repository Starlink&#x27;s Entry into Samoa</span><span class="citation-popover-snippet">Open Research Repository Starlink&#x27;s Entry into Samoa</span></span></span>
+Starlink is not a UFO phenomenon, but it changes the practical skywatching environment. Samoa’s Office of the Regulator listed a 2024 order requiring all Starlink users and service providers in Samoa to cease unauthorised satellite services.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.regulator.gov.ws/index.php/telecommunications-regulation/telecommunications/telecommunications-orders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulator.gov.ws">[regulator.gov.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulator.gov.ws</span><span class="citation-popover-title">Telecommunications Orders</span><span class="citation-popover-snippet">Telecommunications Orders</span></span></span> Later reporting and analysis describe a shifting regulatory period in which Starlink was banned in January 2024 and approved in January 2025.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch-repository.anu.edu.au/bitstreams/0b17b8ab-5a59-4462-ad93-bff2abc6e87a/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch-repository.anu.edu.au">[Open Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch-repository.anu.edu.au</span><span class="citation-popover-title">Open Research Repository Starlink&#x27;s Entry into Samoa</span><span class="citation-popover-snippet">Open Research Repository Starlink&#x27;s Entry into Samoa</span></span></span>
 
 This matters for future Samoa UFO reports because Starlink satellites can appear as moving strings of lights, clustered points, or recurring tracks across the sky. In a small island setting with strong horizon views and dark coastal areas, such sightings can be striking. A Samoa UFO chronology after 2024 should therefore treat satellite-pass checks as a first-line step, not an afterthought.
 
 <img src="{{ "/assets/images/Samoa_f56806-Illustration-2-dark.svg" | relative_url }}" alt="What Has Samoa Really Seen in the Sky? illustration 2" data-theme-src-dark="{{ "/assets/images/Samoa_f56806-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Samoa_f56806-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Samoa’s geography shapes reports
 
-Samoa’s reporting pattern is likely shaped less by secretiveness than by scale and geography. Samoa consists of the main islands of Upolu and Savaiʻi, with Apia and the main international aviation links concentrated on Upolu. The Ministry of Works, Transport and Infrastructure states that Samoa’s Civil Aviation Division administers civil aviation under the Civil Aviation Act 1998 and associated rules and regulations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mwti.gov.ws/divisions/civil-aviation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mwti.gov.ws">[mwti.gov.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mwti.gov.ws</span><span class="citation-popover-snippet">Open source on mwti.gov.ws.</span></span></span>
+Samoa’s reporting pattern is likely shaped less by secretiveness than by scale and geography. Samoa consists of the main islands of Upolu and Savaiʻi, with Apia and the main international aviation links concentrated on Upolu. The Ministry of Works, Transport and Infrastructure states that Samoa’s Civil Aviation Division administers civil aviation under the Civil Aviation Act 1998 and associated rules and regulations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mwti.gov.ws/divisions/civil-aviation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mwti.gov.ws">[mwti.gov.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mwti.gov.ws</span><span class="citation-popover-snippet">Open source on mwti.gov.ws.</span></span></span>
 
 That creates three practical zones for interpreting sightings:
 
 **Upolu and Apia.** Reports here are more likely to overlap with aircraft activity, airport operations, urban lighting, drones, and social-media sharing. A credible case near Apia or Faleolo would need aviation checks early.
 
-**Savaiʻi and rural coastlines.** Darker skies and lower light pollution make meteors, satellites, planets, and rocket plumes more visible. The Falealupo-Tai falling-object claim belongs in this kind of setting: dramatic, local, and potentially physical, but dependent on scientific follow-up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.samoaobserver.ws/category/samoa/117758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[samoaobserver.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">Open source on samoaobserver.ws.</span></span></span>
+**Savaiʻi and rural coastlines.** Darker skies and lower light pollution make meteors, satellites, planets, and rocket plumes more visible. The Falealupo-Tai falling-object claim belongs in this kind of setting: dramatic, local, and potentially physical, but dependent on scientific follow-up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.samoaobserver.ws/category/samoa/117758" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[samoaobserver.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">Open source on samoaobserver.ws.</span></span></span>
 
-**Maritime and inter-island waters.** Reports from vessels can be valuable because they may include bearings, coordinates, and logs, but they can also be misfiled, as the NUFORC “Samoa” cruise-ship entry demonstrates. A report labelled Samoa is not necessarily a Samoa case unless the coordinates, route, and horizon direction match the region. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=82225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Maritime and inter-island waters.** Reports from vessels can be valuable because they may include bearings, coordinates, and logs, but they can also be misfiled, as the NUFORC “Samoa” cruise-ship entry demonstrates. A report labelled Samoa is not necessarily a Samoa case unless the coordinates, route, and horizon direction match the region.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=82225" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BRJWu9Ad7ZY" title="&quot;So cool&quot;: Fireball lights up Alberta night sky, eyewitnesses share experiences" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BRJWu9Ad7ZY" target="_blank" rel="noopener noreferrer">&quot;So cool&quot;: Fireball lights up Alberta night sky, eyewitnesses share experiences</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 117.9K &middot; Uploaded: February 2026 &middot; Length: 1 minute 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BRJWu9Ad7ZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BRJWu9Ad7ZY">Open on YouTube</a></p></div></div></div>
 
 ## Official records do not show a Samoa UFO archive
 
-There is no clear public evidence of a dedicated Samoan government UFO or UAP investigation archive. Samoa’s visible official framework is civil aviation and telecommunications regulation, not a UAP office. The aviation authority role sits with the Ministry of Works, Transport and Infrastructure, while telecommunications and satellite-service questions are handled through the Office of the Regulator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mwti.gov.ws/wp-content/uploads/2024/03/Civil-Aviation-Act-1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mwti.gov.ws">[mwti.gov.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mwti.gov.ws</span><span class="citation-popover-title">Civil Aviation Act 1998</span><span class="citation-popover-snippet">Civil Aviation Act 1998</span></span></span>
+There is no clear public evidence of a dedicated Samoan government UFO or UAP investigation archive. Samoa’s visible official framework is civil aviation and telecommunications regulation, not a UAP office. The aviation authority role sits with the Ministry of Works, Transport and Infrastructure, while telecommunications and satellite-service questions are handled through the Office of the Regulator.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mwti.gov.ws/wp-content/uploads/2024/03/Civil-Aviation-Act-1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mwti.gov.ws">[mwti.gov.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mwti.gov.ws</span><span class="citation-popover-title">Civil Aviation Act 1998</span><span class="citation-popover-snippet">Civil Aviation Act 1998</span></span></span>
 
-This absence should not be overread. Small states often do not maintain public UFO catalogues, and many anomalous sky observations never reach formal channels. The 2021 U.S. intelligence preliminary assessment made a broader point that applies well here: UAP reporting can be limited by stigma, sensor limits, and inconsistent collection, even in a much larger military system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span> In Samoa, the challenge is likely stronger because there is less public infrastructure for collecting and cross-checking reports.
+This absence should not be overread. Small states often do not maintain public UFO catalogues, and many anomalous sky observations never reach formal channels. The 2021 U.S. intelligence preliminary assessment made a broader point that applies well here: UAP reporting can be limited by stigma, sensor limits, and inconsistent collection, even in a much larger military system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span> In Samoa, the challenge is likely stronger because there is less public infrastructure for collecting and cross-checking reports.
 
-The closest official-document comparison is external: Project Blue Book records are held by the U.S. National Archives, declassified, and searchable through microfilm and related finding aids. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> Samoa does not appear to have an equivalent public archive. That means researchers should avoid implying a hidden national UFO file unless they can point to specific record series, freedom-of-information releases, aviation logs, police records, or meteorological reports.
+The closest official-document comparison is external: Project Blue Book records are held by the U.S. National Archives, declassified, and searchable through microfilm and related finding aids.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> Samoa does not appear to have an equivalent public archive. That means researchers should avoid implying a hidden national UFO file unless they can point to specific record series, freedom-of-information releases, aviation logs, police records, or meteorological reports.
 
 ## Confirmed, contested, and debunked claims
 
 The fairest evidence split for Samoa is straightforward.
 
-**Confirmed conventional phenomena.** The South Pacific spiral sightings that included Samoa in 2021 were later attributed to gas release from a Chinese rocket, while a similar 2022 regional spiral was linked to SpaceX Falcon 9 activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.channelnewsasia.com/world/blue-light-spiral-new-zealand-night-sky-stuns-stargazers-2757736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: channelnewsasia.com">[CNA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">channelnewsasia.com</span><span class="citation-popover-title">CNABlue light spiral in New Zealand night sky stuns stargazers</span><span class="citation-popover-snippet">CNABlue light spiral in New Zealand night sky stuns stargazers</span></span></span> These are confirmed or strongly explained aerospace events, not unexplained craft.
+**Confirmed conventional phenomena.** The South Pacific spiral sightings that included Samoa in 2021 were later attributed to gas release from a Chinese rocket, while a similar 2022 regional spiral was linked to SpaceX Falcon 9 activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.channelnewsasia.com/world/blue-light-spiral-new-zealand-night-sky-stuns-stargazers-2757736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: channelnewsasia.com">[CNA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">channelnewsasia.com</span><span class="citation-popover-title">CNABlue light spiral in New Zealand night sky stuns stargazers</span><span class="citation-popover-snippet">CNABlue light spiral in New Zealand night sky stuns stargazers</span></span></span> These are confirmed or strongly explained aerospace events, not unexplained craft.
 
-**Contested or unconfirmed local claims.** The Falealupo-Tai falling-stone account is a real local report with named witnesses and physical-object claims, but it remains unconfirmed without a published scientific identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.samoaobserver.ws/category/editorial/104760" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[samoaobserver.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">Open source on samoaobserver.ws.</span></span></span> It is relevant to meteor and falling-debris research more than to classic UFO craft reports.
+**Contested or unconfirmed local claims.** The Falealupo-Tai falling-stone account is a real local report with named witnesses and physical-object claims, but it remains unconfirmed without a published scientific identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.samoaobserver.ws/category/editorial/104760" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[samoaobserver.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">Open source on samoaobserver.ws.</span></span></span> It is relevant to meteor and falling-debris research more than to classic UFO craft reports.
 
-**Weak database entries.** NUFORC entries labelled Samoa or American Samoa are too messy to support a national chronology without correction. The most recent “Samoa” entry contains Caribbean cruise-route coordinates, while other American Samoa entries mix U.S. mainland locations with American Samoa labels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=194214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Weak database entries.** NUFORC entries labelled Samoa or American Samoa are too messy to support a national chronology without correction. The most recent “Samoa” entry contains Caribbean cruise-route coordinates, while other American Samoa entries mix U.S. mainland locations with American Samoa labels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=194214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Debunked or non-evidential material.** The 2016 Cyclone Amos UFO imagery described in Samoa Observer was social-media humour and photoshopping around a weather event, not evidence of an aerial incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.samoaobserver.ws/category/world/71052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[samoaobserver.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">Open source on samoaobserver.ws.</span></span></span>
+**Debunked or non-evidential material.** The 2016 Cyclone Amos UFO imagery described in Samoa Observer was social-media humour and photoshopping around a weather event, not evidence of an aerial incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.samoaobserver.ws/category/world/71052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samoaobserver.ws">[samoaobserver.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samoaobserver.ws</span><span class="citation-popover-snippet">Open source on samoaobserver.ws.</span></span></span>
 
 <img src="{{ "/assets/images/Samoa_f56806-Illustration-3-dark.svg" | relative_url }}" alt="What Has Samoa Really Seen in the Sky? illustration 3" data-theme-src-dark="{{ "/assets/images/Samoa_f56806-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Samoa_f56806-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to evaluate a future Samoa sighting
@@ -1296,7 +1296,7 @@ The first checks should be ordinary but powerful:
 
 </div>
 
-NASA’s UAP work points in the same direction: the limiting factor is not public curiosity but the quality and standardisation of data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span> For Samoa, the most valuable future contribution would be a small, transparent local log that separates raw witness accounts from checked explanations.
+NASA’s UAP work points in the same direction: the limiting factor is not public curiosity but the quality and standardisation of data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span> For Samoa, the most valuable future contribution would be a small, transparent local log that separates raw witness accounts from checked explanations.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gRxu9-AmyME" title="SpaceX launch causes glowing blue spiral over European sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gRxu9-AmyME" target="_blank" rel="noopener noreferrer">SpaceX launch causes glowing blue spiral over European sky</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 32.1K &middot; Uploaded: March 2025 &middot; Length: 3 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gRxu9-AmyME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gRxu9-AmyME">Open on YouTube</a></p></div></div></div>
 
@@ -1307,194 +1307,194 @@ Samoa is not a UFO “hotspot” on the public evidence currently available. It 
 That conclusion also makes Samoa a useful sibling page in a wider country-by-country UFO project. Compared with larger Pacific neighbours that have declassified files, military radar cases, or heavily publicised sightings, Samoa shows the other end of the evidence spectrum: a place where absence of strong records is itself the main finding, and where careful verification matters more than dramatic retelling.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Has Samoa Really Seen in the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Has Samoa Really Seen in the Sky?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Offers a broad framework for understanding sparse national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a broad framework for understanding sparse national UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows what stronger evidence looks like compared with sparse records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows what stronger evidence looks like compared with sparse records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
-        </h4>
-        <p class="fr-book-author">By Greg Eghigian</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open After the Flying Saucers Came on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0VoIEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for After the Flying Saucers Came" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Flying Saucers Came">After the Flying Saucers Came</a>
+</h4>
+<p class="fr-book-author">By Greg Eghigian</p>
         
-        <p class="fr-book-desc">Places Samoa within worldwide UFO reporting culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Samoa within worldwide UFO reporting culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came+by+Greg+Eghigian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating reports and witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating reports and witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=After+the+Flying+Saucers+Came&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">After the Flying Saucers Came</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-has-samoa-really-seen-in-the-sky-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-has-samoa-really-seen-in-the-sky-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1510,7 +1510,7 @@ That conclusion also makes Samoa a useful sibling page in a wider country-by-cou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1530,7 +1530,7 @@ That conclusion also makes Samoa a useful sibling page in a wider country-by-cou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1562,7 +1562,7 @@ That conclusion also makes Samoa a useful sibling page in a wider country-by-cou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1614,7 +1614,7 @@ That conclusion also makes Samoa a useful sibling page in a wider country-by-cou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1659,7 +1659,7 @@ That conclusion also makes Samoa a useful sibling page in a wider country-by-cou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1697,274 +1697,273 @@ That conclusion also makes Samoa a useful sibling page in a wider country-by-cou
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=194214" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194214</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=194214" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194214</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=173599" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=173599</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=173599" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=173599</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=175829" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=175829</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=175829" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=175829</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: usufocenter.com  
    Title: samoa ufo sightings  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/samoa-ufo-sightings.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: samoaobserver.ws  
-   Link: <a href="https://samoaobserver.ws/category/samoa/23776" target="_blank" rel="noopener noreferrer nofollow">https://samoaobserver.ws/category/samoa/23776</a>  
+   Link:<a href="https://samoaobserver.ws/category/samoa/23776" target="_blank" rel="noopener noreferrer nofollow">https://samoaobserver.ws/category/samoa/23776</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: samoaobserver.ws  
    Title: Samoa Observer | Interest in Falealupo family's 'meteorite' rising  
-   Link: <a href="https://www.samoaobserver.ws/category/samoa/78888" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/samoa/78888</a>  
+   Link:<a href="https://www.samoaobserver.ws/category/samoa/78888" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/samoa/78888</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: channelnewsasia.com  
    Title: CNABlue light spiral in New Zealand night sky stuns stargazers  
-   Link: <a href="https://www.channelnewsasia.com/world/blue-light-spiral-new-zealand-night-sky-stuns-stargazers-2757736" target="_blank" rel="noopener noreferrer nofollow">https://www.channelnewsasia.com/world/blue-light-spiral-new-zealand-night-sky-stuns-stargazers-2757736</a>  
+   Link:<a href="https://www.channelnewsasia.com/world/blue-light-spiral-new-zealand-night-sky-stuns-stargazers-2757736" target="_blank" rel="noopener noreferrer nofollow">https://www.channelnewsasia.com/world/blue-light-spiral-new-zealand-night-sky-stuns-stargazers-2757736</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: regulator.gov.ws  
    Title: Telecommunications Orders  
-   Link: <a href="https://www.regulator.gov.ws/index.php/telecommunications-regulation/telecommunications/telecommunications-orders" target="_blank" rel="noopener noreferrer nofollow">https://www.regulator.gov.ws/index.php/telecommunications-regulation/telecommunications/telecommunications-orders</a>  
+   Link:<a href="https://www.regulator.gov.ws/index.php/telecommunications-regulation/telecommunications/telecommunications-orders" target="_blank" rel="noopener noreferrer nofollow">https://www.regulator.gov.ws/index.php/telecommunications-regulation/telecommunications/telecommunications-orders</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mwti.gov.ws  
-   Link: <a href="https://www.mwti.gov.ws/divisions/civil-aviation/" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/divisions/civil-aviation/</a>  
+   Link:<a href="https://www.mwti.gov.ws/divisions/civil-aviation/" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/divisions/civil-aviation/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: regulator.gov.ws  
    Title: Notices & Press Release PUBLIC NOTICE  
-   Link: <a href="https://www.regulator.gov.ws/index.php/homepage/2-other-matters/uncategorised/68-notices-press-release" target="_blank" rel="noopener noreferrer nofollow">https://www.regulator.gov.ws/index.php/homepage/2-other-matters/uncategorised/68-notices-press-release</a>  
+   Link:<a href="https://www.regulator.gov.ws/index.php/homepage/2-other-matters/uncategorised/68-notices-press-release" target="_blank" rel="noopener noreferrer nofollow">https://www.regulator.gov.ws/index.php/homepage/2-other-matters/uncategorised/68-notices-press-release</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: regulator.gov.ws  
    Title: ORDER2024 T01  
-   Link: <a href="https://www.regulator.gov.ws/images/ORDERS/Telecom/2024/ORDER2024_T01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.regulator.gov.ws/images/ORDERS/Telecom/2024/ORDER2024_T01.pdf</a>  
+   Link:<a href="https://www.regulator.gov.ws/images/ORDERS/Telecom/2024/ORDER2024_T01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.regulator.gov.ws/images/ORDERS/Telecom/2024/ORDER2024_T01.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sbs.gov.ws  
    Title: Factsheet Samoa PHC2021SBS 21112022 v4FINAL  
-   Link: <a href="https://sbs.gov.ws/documents/census/2021/Factsheet-Samoa-PHC2021SBS_21112022_v4FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sbs.gov.ws/documents/census/2021/Factsheet-Samoa-PHC2021SBS_21112022_v4FINAL.pdf</a>  
+   Link:<a href="https://sbs.gov.ws/documents/census/2021/Factsheet-Samoa-PHC2021SBS_21112022_v4FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sbs.gov.ws/documents/census/2021/Factsheet-Samoa-PHC2021SBS_21112022_v4FINAL.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sbs.gov.ws  
    Title: Census 2021 Final Report 221122 051222  
-   Link: <a href="https://sbs.gov.ws/documents/census/2021/Census-2021-Final-Report_221122_051222.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sbs.gov.ws/documents/census/2021/Census-2021-Final-Report_221122_051222.pdf</a>  
+   Link:<a href="https://sbs.gov.ws/documents/census/2021/Census-2021-Final-Report_221122_051222.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sbs.gov.ws/documents/census/2021/Census-2021-Final-Report_221122_051222.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: legislation.gov.uk  
    Title: uksi 20180321 en  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2018/321/pdfs/uksi_20180321_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2018/321/pdfs/uksi_20180321_en.pdf</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2018/321/pdfs/uksi_20180321_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2018/321/pdfs/uksi_20180321_en.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=82225" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=82225</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=82225" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=82225</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archives.gov  
    Title: 1977 annual report  
-   Link: <a href="https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
    Title: still pictures guide  
-   Link: <a href="https://www.archives.gov/research/guides/still-pictures-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guides/still-pictures-guide</a>  
+   Link:<a href="https://www.archives.gov/research/guides/still-pictures-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guides/still-pictures-guide</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html</a>  
+   Link:<a href="https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: samoaobserver.ws  
-   Link: <a href="https://www.samoaobserver.ws/category/samoa/112692" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/samoa/112692</a>  
+   Link:<a href="https://www.samoaobserver.ws/category/samoa/112692" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/samoa/112692</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: samoaobserver.ws  
-   Link: <a href="https://www.samoaobserver.ws/category/samoa/117758" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/samoa/117758</a>  
+   Link:<a href="https://www.samoaobserver.ws/category/samoa/117758" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/samoa/117758</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: samoaobserver.ws  
-   Link: <a href="https://www.samoaobserver.ws/category/editorial/104760" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/editorial/104760</a>  
+   Link:<a href="https://www.samoaobserver.ws/category/editorial/104760" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/editorial/104760</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: samoaobserver.ws  
-   Link: <a href="https://www.samoaobserver.ws/category/world/71052" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/world/71052</a>  
+   Link:<a href="https://www.samoaobserver.ws/category/world/71052" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/world/71052</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: samoaobserver.ws  
-   Link: <a href="https://www.samoaobserver.ws/category/world/34285" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/world/34285</a>  
+   Link:<a href="https://www.samoaobserver.ws/category/world/34285" target="_blank" rel="noopener noreferrer nofollow">https://www.samoaobserver.ws/category/world/34285</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: mwti.gov.ws  
    Title: Civil Aviation Act 1998  
-   Link: <a href="https://www.mwti.gov.ws/wp-content/uploads/2024/03/Civil-Aviation-Act-1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/wp-content/uploads/2024/03/Civil-Aviation-Act-1998.pdf</a>  
+   Link:<a href="https://www.mwti.gov.ws/wp-content/uploads/2024/03/Civil-Aviation-Act-1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/wp-content/uploads/2024/03/Civil-Aviation-Act-1998.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mwti.gov.ws  
-   Link: <a href="https://www.mwti.gov.ws/wp-content/uploads/2023/01/Eng_AR21-22-Binder2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/wp-content/uploads/2023/01/Eng_AR21-22-Binder2.pdf</a>  
+   Link:<a href="https://www.mwti.gov.ws/wp-content/uploads/2023/01/Eng_AR21-22-Binder2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/wp-content/uploads/2023/01/Eng_AR21-22-Binder2.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mwti.gov.ws  
    Title: Samoa SARIP LMP Final Jan2022  
-   Link: <a href="https://www.mwti.gov.ws/wp-content/uploads/2022/02/Samoa-SARIP-LMP-Final_Jan2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/wp-content/uploads/2022/02/Samoa-SARIP-LMP-Final_Jan2022.pdf</a>  
+   Link:<a href="https://www.mwti.gov.ws/wp-content/uploads/2022/02/Samoa-SARIP-LMP-Final_Jan2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/wp-content/uploads/2022/02/Samoa-SARIP-LMP-Final_Jan2022.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: mwti.gov.ws  
    Title: Final MWTI Corporate Plan 2024 MS 060125 002  
-   Link: <a href="https://www.mwti.gov.ws/wp-content/uploads/2025/02/Final-MWTI-Corporate-Plan-2024-MS_060125-002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/wp-content/uploads/2025/02/Final-MWTI-Corporate-Plan-2024-MS_060125-002.pdf</a>  
+   Link:<a href="https://www.mwti.gov.ws/wp-content/uploads/2025/02/Final-MWTI-Corporate-Plan-2024-MS_060125-002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/wp-content/uploads/2025/02/Final-MWTI-Corporate-Plan-2024-MS_060125-002.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: mwti.gov.ws  
-   Link: <a href="https://www.mwti.gov.ws/wp-content/uploads/2025/06/250625-PREPARE-ESMF-Updated-Clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/wp-content/uploads/2025/06/250625-PREPARE-ESMF-Updated-Clean.pdf</a>  
+   Link:<a href="https://www.mwti.gov.ws/wp-content/uploads/2025/06/250625-PREPARE-ESMF-Updated-Clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/wp-content/uploads/2025/06/250625-PREPARE-ESMF-Updated-Clean.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: mwti.gov.ws  
-   Link: <a href="https://www.mwti.gov.ws/wp-content/uploads/2022/02/Samoa-SARIP-ESMF-Final_Jan2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/wp-content/uploads/2022/02/Samoa-SARIP-ESMF-Final_Jan2022.pdf</a>  
+   Link:<a href="https://www.mwti.gov.ws/wp-content/uploads/2022/02/Samoa-SARIP-ESMF-Final_Jan2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mwti.gov.ws/wp-content/uploads/2022/02/Samoa-SARIP-ESMF-Final_Jan2022.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/american-samoa-ufo-sightings.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/?srsltid=AfmBOop0Lf4Ii_2uJnckKCgPzyGG_ZRYmajBKwZ63b2VIvprrC0yhtA1" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/?srsltid=AfmBOop0Lf4Ii_2uJnckKCgPzyGG_ZRYmajBKwZ63b2VIvprrC0yhtA1</a>  
+   Link:<a href="https://starlink.com/?srsltid=AfmBOop0Lf4Ii_2uJnckKCgPzyGG_ZRYmajBKwZ63b2VIvprrC0yhtA1" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/?srsltid=AfmBOop0Lf4Ii_2uJnckKCgPzyGG_ZRYmajBKwZ63b2VIvprrC0yhtA1</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: starlink.com  
    Title: starlinkProgressReport 2024  
-   Link: <a href="https://starlink.com/public-files/starlinkProgressReport_2024.pdf?srsltid=AfmBOop9LockUXsv2bhzMngokayK_IsrCcT2Pde4JDZM_pBRxpf0yI4C" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/starlinkProgressReport_2024.pdf?srsltid=AfmBOop9LockUXsv2bhzMngokayK_IsrCcT2Pde4JDZM_pBRxpf0yI4C</a>  
+   Link:<a href="https://starlink.com/public-files/starlinkProgressReport_2024.pdf?srsltid=AfmBOop9LockUXsv2bhzMngokayK_IsrCcT2Pde4JDZM_pBRxpf0yI4C" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/starlinkProgressReport_2024.pdf?srsltid=AfmBOop9LockUXsv2bhzMngokayK_IsrCcT2Pde4JDZM_pBRxpf0yI4C</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/samoa/93209.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/samoa/93209.htm</a>  
+   Link:<a href="https://2009-2017.state.gov/outofdate/bgn/samoa/93209.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/samoa/93209.htm</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: openresearch-repository.anu.edu.au  
    Title: Open Research Repository Starlink's Entry into Samoa  
-   Link: <a href="https://openresearch-repository.anu.edu.au/bitstreams/0b17b8ab-5a59-4462-ad93-bff2abc6e87a/download" target="_blank" rel="noopener noreferrer nofollow">https://openresearch-repository.anu.edu.au/bitstreams/0b17b8ab-5a59-4462-ad93-bff2abc6e87a/download</a>  
+   Link:<a href="https://openresearch-repository.anu.edu.au/bitstreams/0b17b8ab-5a59-4462-ad93-bff2abc6e87a/download" target="_blank" rel="noopener noreferrer nofollow">https://openresearch-repository.anu.edu.au/bitstreams/0b17b8ab-5a59-4462-ad93-bff2abc6e87a/download</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
    Title: Office Of The Regulator  
-   Link: <a href="https://www.facebook.com/officeoftheregulator.samoa/posts/public-noticeimmediate-cease-and-desist-of-unauthorized-starlink-satellite-servi/341354558796944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officeoftheregulator.samoa/posts/public-noticeimmediate-cease-and-desist-of-unauthorized-starlink-satellite-servi/341354558796944/</a>  
+   Link:<a href="https://www.facebook.com/officeoftheregulator.samoa/posts/public-noticeimmediate-cease-and-desist-of-unauthorized-starlink-satellite-servi/341354558796944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officeoftheregulator.samoa/posts/public-noticeimmediate-cease-and-desist-of-unauthorized-starlink-satellite-servi/341354558796944/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/266900051167619/posts/1178936213297327/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/266900051167619/posts/1178936213297327/</a>  
+   Link:<a href="https://www.facebook.com/groups/266900051167619/posts/1178936213297327/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/266900051167619/posts/1178936213297327/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Samoa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Samoa</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Samoa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Samoa</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: globaledge.msu.edu  
-   Link: <a href="https://globaledge.msu.edu/countries/samoa" target="_blank" rel="noopener noreferrer nofollow">https://globaledge.msu.edu/countries/samoa</a>  
+   Link:<a href="https://globaledge.msu.edu/countries/samoa" target="_blank" rel="noopener noreferrer nofollow">https://globaledge.msu.edu/countries/samoa</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: books.google.com  
    Title: Project Blue Book  
-   Link: <a href="https://books.google.com/books/about/Project_Blue_Book.html?id=GVuGDwAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Project_Blue_Book.html?id=GVuGDwAAQBAJ</a>  
+   Link:<a href="https://books.google.com/books/about/Project_Blue_Book.html?id=GVuGDwAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Project_Blue_Book.html?id=GVuGDwAAQBAJ</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: geospatial.com  
-   Link: <a href="https://geospatial.com/country_profiles/samoa/" target="_blank" rel="noopener noreferrer nofollow">https://geospatial.com/country_profiles/samoa/</a>  
+   Link:<a href="https://geospatial.com/country_profiles/samoa/" target="_blank" rel="noopener noreferrer nofollow">https://geospatial.com/country_profiles/samoa/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: historicmysteries.com  
    Title: project blue book  
-   Link: <a href="https://www.historicmysteries.com/history/project-blue-book/38902/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/history/project-blue-book/38902/</a>  
+   Link:<a href="https://www.historicmysteries.com/history/project-blue-book/38902/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/history/project-blue-book/38902/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: geofactbook.com  
-   Link: <a href="https://geofactbook.com/countries/samoa" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/samoa</a>  
+   Link:<a href="https://geofactbook.com/countries/samoa" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/samoa</a>  
 
 ### Additional References
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X8rZz93wtjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X8rZz93wtjs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the questions surrounding UAPs and the search for extraterrestrial life...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X8rZz93wtjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X8rZz93wtjs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the questions surrounding UAPs and the search for extraterrestrial life...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/content/article/tonight-never-seen-meteor-shower-will-light-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/tonight-never-seen-meteor-shower-will-light-sky</a>  
+   Link:<a href="https://www.science.org/content/article/tonight-never-seen-meteor-shower-will-light-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/tonight-never-seen-meteor-shower-will-light-sky</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/collection/crest-25-year-program-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/crest-25-year-program-archive</a>  
+   Link:<a href="https://www.cia.gov/readingroom/collection/crest-25-year-program-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/crest-25-year-program-archive</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jCy8KlDMSvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jCy8KlDMSvI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Discovery in Pacific: Could This Be Alien Contact? | Wion Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jCy8KlDMSvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jCy8KlDMSvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Discovery in Pacific: Could This Be Alien Contact? | Wion Podcast...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: youtube.com  
    Title: UFO spotted over Hawaiʻi likely spent rocket  
-   Link: <a href="https://www.youtube.com/watch?v=W1VWNGja-UU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W1VWNGja-UU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying UFO Encounter Over the Pacific! Gulfstream Pilot Reports UAP at 47000 ft...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W1VWNGja-UU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W1VWNGja-UU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying UFO Encounter Over the Pacific! Gulfstream Pilot Reports UAP at 47000 ft...</p></details>
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: youtube.com  
    Title: Strange spiral spotted in sky above South Pacific Islands  
-   Link: <a href="https://www.youtube.com/watch?v=K04JXsXYmSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K04JXsXYmSA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Hawaiʻi likely spent rocket...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K04JXsXYmSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K04JXsXYmSA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO spotted over Hawaiʻi likely spent rocket...</p></details>
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>

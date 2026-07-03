@@ -248,16 +248,16 @@ image: /assets/images/Mauritius_26160d_later_rocket_related_3f2d8b-Illustration-
 
 ## Introduction
 
-The strongest pattern in Mauritian UFO reporting after the well-known September [2013 Falcon 9]({{ '2013-falcon-9/' | relative_url }}) incident is not the emergence of new unexplained cases, but the recurrence of sightings that closely resemble rocket-related phenomena. From 2019 onward, reports of unusual lights, glowing clouds, expanding halos and linear formations have increasingly coincided with SpaceX launches, satellite deployments and other spaceflight events. In many cases, the visual appearance described by witnesses matches phenomena already documented elsewhere around the world: illuminated rocket exhaust plumes, fuel-venting events and newly launched Starlink satellite trains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+The strongest pattern in Mauritian UFO reporting after the well-known September [2013 Falcon 9]({{ '2013-falcon-9/' | relative_url }}) incident is not the emergence of new unexplained cases, but the recurrence of sightings that closely resemble rocket-related phenomena. From 2019 onward, reports of unusual lights, glowing clouds, expanding halos and linear formations have increasingly coincided with SpaceX launches, satellite deployments and other spaceflight events. In many cases, the visual appearance described by witnesses matches phenomena already documented elsewhere around the world: illuminated rocket exhaust plumes, fuel-venting events and newly launched Starlink satellite trains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
 <img src="{{ "/assets/images/Mauritius_26160d_later_rocket_related_3f2d8b-Illustration-1-dark.svg" | relative_url }}" alt="Post 2013 Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_later_rocket_related_3f2d8b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_later_rocket_related_3f2d8b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For Mauritius, the key question is not whether every later sighting can be conclusively matched to a launch. Rather, it is whether the available evidence points toward recurring aerospace explanations. The public record since 2019 largely suggests that it does.
 
 ## January 2019 Iridium-8 Report
 
-One of the more plausible launch-linked episodes occurred during January 2019, when observers in parts of the Indian Ocean region reported unusual luminous objects in the sky around the period of SpaceX's final Iridium NEXT mission. SpaceX launched the Iridium NEXT-8 payload aboard a Falcon 9 rocket from Vandenberg Space Force Base on 11 January 2019. The mission marked the completion of the Iridium satellite constellation replacement programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches_%282010%E2%80%932019%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of Falcon 9 and Falcon Heavy launches (2010–2019</span><span class="citation-popover-snippet">List of Falcon 9 and Falcon Heavy launches (2010–2019</span></span></span>
+One of the more plausible launch-linked episodes occurred during January 2019, when observers in parts of the Indian Ocean region reported unusual luminous objects in the sky around the period of SpaceX's final Iridium NEXT mission. SpaceX launched the Iridium NEXT-8 payload aboard a Falcon 9 rocket from Vandenberg Space Force Base on 11 January 2019. The mission marked the completion of the Iridium satellite constellation replacement programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches_%282010%E2%80%932019%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of Falcon 9 and Falcon Heavy launches (2010–2019</span><span class="citation-popover-snippet">List of Falcon 9 and Falcon Heavy launches (2010–2019</span></span></span>
 
-Although documentation from Mauritius itself is limited, the timing is notable because similar reports elsewhere repeatedly followed Vandenberg launches. Falcon 9 missions from California have a long history of producing highly visible twilight effects over enormous distances. The rocket's upper-stage operations, fuel venting and sunlit exhaust clouds can remain visible long after launch, creating luminous structures that observers frequently mistake for anomalous objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
+Although documentation from Mauritius itself is limited, the timing is notable because similar reports elsewhere repeatedly followed Vandenberg launches. Falcon 9 missions from California have a long history of producing highly visible twilight effects over enormous distances. The rocket's upper-stage operations, fuel venting and sunlit exhaust clouds can remain visible long after launch, creating luminous structures that observers frequently mistake for anomalous objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
 
 The evidence for a distinct Mauritian UFO event in January 2019 is considerably weaker than for the 2013 case. Nevertheless, where reports exist, they fit a broader pattern already established by documented Falcon 9 observations over the Indian Ocean and southern hemisphere.
 
@@ -273,22 +273,22 @@ Rocket launches often occur when observers on the ground are in darkness while t
 
 * Bright white or blue glowing spheres.
 * Expanding circular halos.
-* Jellyfish-like luminous structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/ericafisherGP/videos/i-have-seen-several-videos-shared-of-the-sky-last-night-with-some-sort-of-blurry/2154148418460512/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">phenomenon have led to panic, fear of nuclear missile strike, and...</span></span></span>
+* Jellyfish-like luminous structures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/ericafisherGP/videos/i-have-seen-several-videos-shared-of-the-sky-last-night-with-some-sort-of-blurry/2154148418460512/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">phenomenon have led to panic, fear of nuclear missile strike, and...</span></span></span>
 * Slowly drifting clouds with no obvious source.
 * Objects that appear stationary before suddenly fading.
 
 </div>
 
-Astronomers and spaceflight observers have documented these effects repeatedly. The phenomenon is commonly known as a "space jellyfish", and it has generated UFO reports in numerous countries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
+Astronomers and spaceflight observers have documented these effects repeatedly. The phenomenon is commonly known as a "space jellyfish", and it has generated UFO reports in numerous countries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span>
 
-The mechanism closely resembles the explanation accepted for the September 2013 Mauritius-Reunion sighting, where observers saw a glowing object later identified as propellant released from a Falcon 9 upper stage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
+The mechanism closely resembles the explanation accepted for the September 2013 Mauritius-Reunion sighting, where observers saw a glowing object later identified as propellant released from a Falcon 9 upper stage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
 
 <img src="{{ "/assets/images/Mauritius_26160d_later_rocket_related_3f2d8b-Illustration-2-dark.svg" | relative_url }}" alt="Post 2013 Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_later_rocket_related_3f2d8b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_later_rocket_related_3f2d8b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Starlink and the Rise of Linear Light Reports
 
 A second pattern emerged after 2019 with the rapid expansion of the Starlink satellite network.
 
-Unlike rocket-plume events, Starlink sightings typically involve strings of evenly spaced lights moving across the sky in a straight line. Shortly after launch, satellites travel in compact formations before gradually dispersing into their operational orbits. These formations have generated large numbers of UFO reports worldwide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/strange-string-lights-sky-spacex-falcon-9-satellite-launch-cause-1595371" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Strange String of Lights in the Sky?</span><span class="citation-popover-snippet">SpaceX&#x27;s Falcon 9...May 27, 2021 — 27 May 2021 — The string of lights was most likely caused by a group of Starlink satellites that had...</span><span class="citation-popover-meta">Published: May 27, 2021</span></span></span>
+Unlike rocket-plume events, Starlink sightings typically involve strings of evenly spaced lights moving across the sky in a straight line. Shortly after launch, satellites travel in compact formations before gradually dispersing into their operational orbits. These formations have generated large numbers of UFO reports worldwide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/strange-string-lights-sky-spacex-falcon-9-satellite-launch-cause-1595371" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Strange String of Lights in the Sky?</span><span class="citation-popover-snippet">SpaceX&#x27;s Falcon 9...May 27, 2021 — 27 May 2021 — The string of lights was most likely caused by a group of Starlink satellites that had...</span><span class="citation-popover-meta">Published: May 27, 2021</span></span></span>
 
 For Mauritius, where dark ocean horizons provide excellent viewing conditions, newly launched Starlink trains can appear especially unusual to observers unfamiliar with satellite constellations. Reports describing multiple lights travelling together are therefore more consistent with orbital satellite deployments than with conventional UFO narratives.
 
@@ -300,11 +300,11 @@ This distinction matters because Starlink-related observations differ visibly fr
 
 Mauritius is not unique in experiencing these sightings. Similar reports have repeatedly emerged from neighbouring regions, particularly Réunion Island and southern Africa.
 
-The 2013 Falcon 9 event was observed across a vast area including Mauritius, Réunion and parts of southern Africa. Independent observers in those regions described remarkably similar appearances despite being separated by thousands of kilometres. Later discussions among astronomers and satellite trackers linked the phenomenon to upper-stage rocket activity rather than an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
+The 2013 Falcon 9 event was observed across a vast area including Mauritius, Réunion and parts of southern Africa. Independent observers in those regions described remarkably similar appearances despite being separated by thousands of kilometres. Later discussions among astronomers and satellite trackers linked the phenomenon to upper-stage rocket activity rather than an unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
 
 This regional consistency is important because it reduces the likelihood that individual reports represent localised unexplained events. When identical luminous structures are observed across multiple countries along the same orbital geometry, aerospace explanations become substantially stronger.
 
-The pattern also mirrors reports from Europe, North America and Australia, where Falcon 9 launches have repeatedly produced UFO claims before being traced to rocket exhaust plumes or satellite deployments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Starlink satellites will eventually form part of 12,000-strong...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.portugalresident.com/ufo-spotted-in-algarve-skies-turns-out-to-be-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portugalresident.com">[Portugal Resident]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portugalresident.com</span><span class="citation-popover-title">ufo spotted in algarve skies turns out to be satellites</span><span class="citation-popover-snippet">12 Nov 2019 — The unidentified flying object which many people described as a strange beaming light in the Algarve night sky on Monday (N...</span></span></span>
+The pattern also mirrors reports from Europe, North America and Australia, where Falcon 9 launches have repeatedly produced UFO claims before being traced to rocket exhaust plumes or satellite deployments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Starlink satellites will eventually form part of 12,000-strong...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.portugalresident.com/ufo-spotted-in-algarve-skies-turns-out-to-be-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portugalresident.com">[Portugal Resident]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portugalresident.com</span><span class="citation-popover-title">ufo spotted in algarve skies turns out to be satellites</span><span class="citation-popover-snippet">12 Nov 2019 — The unidentified flying object which many people described as a strange beaming light in the Algarve night sky on Monday (N...</span></span></span>
 
 <img src="{{ "/assets/images/Mauritius_26160d_later_rocket_related_3f2d8b-Illustration-3-dark.svg" | relative_url }}" alt="Post 2013 Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_later_rocket_related_3f2d8b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_later_rocket_related_3f2d8b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Remains Unidentified?
@@ -316,203 +316,203 @@ As a result, many individual cases cannot be conclusively matched to a specific 
 * No widely documented post-2013 Mauritian case has produced strong physical evidence inconsistent with known aerospace activity.
 * Several reports occurred during a period when SpaceX launch frequency increased dramatically.
 * The visual descriptions commonly resemble recognised rocket-plume and satellite phenomena.
-* Comparable sightings in neighbouring regions have repeatedly received launch-based explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Starlink satellites will eventually form part of 12,000-strong...Read more...</span></span></span> Wikipedia The result is a clear trend rather than a definitive catalogue. Later Mauritian UFO reports do not collectively point toward a growing body o <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span> f unexplained phenomena. Instead, they fit an increasingly familiar global pattern in which modern rocket launches, upper-stage venting and satellite deployments create spectacular sky displays that are initially interpreted as unidentified objects.
+* Comparable sightings in neighbouring regions have repeatedly received launch-based explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Starlink satellites will eventually form part of 12,000-strong...Read more...</span></span></span> Wikipedia The result is a clear trend rather than a definitive catalogue. Later Mauritian UFO reports do not collectively point toward a growing body o<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space jellyfish</span><span class="citation-popover-snippet">Space jellyfish</span></span></span> f unexplained phenomena. Instead, they fit an increasingly familiar global pattern in which modern rocket launches, upper-stage venting and satellite deployments create spectacular sky displays that are initially interpreted as unidentified objects.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nSLgsvg_jIw" title="SpaceX&#x27;s Falcon 9 launch creates confusion over mistaken UFO sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nSLgsvg_jIw" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Falcon 9 launch creates confusion over mistaken UFO sighting</a></p><p class="youtube-embed-meta">Channel: TRT World &middot; Views: 13.3K &middot; Uploaded: December 2017 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nSLgsvg_jIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nSLgsvg_jIw">Open on YouTube</a></p></div></div></div>
 
 ## The Emerging Pattern
 
-Viewed as a whole, post-2013 Mauritian sightings strengthen rather than weaken the rocket-activity hypothesis. The January 2019 period, subsequent reports of unusual luminous objects and later observations consistent with Starlink formations all occurred against the backdrop of a rapidly expanding commercial launch industry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/strange-string-lights-sky-spacex-falcon-9-satellite-launch-cause-1595371" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek For Mauritius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Strange String of Lights in the Sky?</span><span class="citation-popover-snippet">SpaceX&#x27;s Falcon 9...May 27, 2021 — 27 May 2021 — The string of lights was most likely caused by a group of Starlink satellites that had...</span><span class="citation-popover-meta">Published: May 27, 2021</span></span></span>, the most evidence-supported interpretation is that many later UFO reports belong to the same family of misidentifications as the 2013 Falcon 9 event. The exact launch responsible for a given sighting is not always recoverable from the available records, but the recurring characteristics—timing, appearance and regional distribution—are highly consistent with rocket-related phenomena rather than a separate category of unexplained aerial events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
+Viewed as a whole, post-2013 Mauritian sightings strengthen rather than weaken the rocket-activity hypothesis. The January 2019 period, subsequent reports of unusual luminous objects and later observations consistent with Starlink formations all occurred against the backdrop of a rapidly expanding commercial launch industry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/strange-string-lights-sky-spacex-falcon-9-satellite-launch-cause-1595371" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek For Mauritius]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">Strange String of Lights in the Sky?</span><span class="citation-popover-snippet">SpaceX&#x27;s Falcon 9...May 27, 2021 — 27 May 2021 — The string of lights was most likely caused by a group of Starlink satellites that had...</span><span class="citation-popover-meta">Published: May 27, 2021</span></span></span>, the most evidence-supported interpretation is that many later UFO reports belong to the same family of misidentifications as the 2013 Falcon 9 event. The exact launch responsible for a given sighting is not always recoverable from the available records, but the recurring characteristics—timing, appearance and regional distribution—are highly consistent with rocket-related phenomena rather than a separate category of unexplained aerial events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Later Mauritius UFO Sightings Rocket Related?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Later Mauritius UFO Sightings Rocket Related?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding recurring misidentification patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding recurring misidentification patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8MEpEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8MEpEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Places rocket-related UFO claims into broader historical perspective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places rocket-related UFO claims into broader historical perspective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+the+Heavens+Went+on+Sale+Ashlee+Vance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When the Heavens Went on Sale on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13234791-M.jpg" alt="Cover for When the Heavens Went on Sale" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+the+Heavens+Went+on+Sale+Ashlee+Vance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When the Heavens Went on Sale">When the Heavens Went on Sale</a>
-        </h4>
-        <p class="fr-book-author">By Ashlee Vance</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+the+Heavens+Went+on+Sale+Ashlee+Vance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When the Heavens Went on Sale on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13234791-M.jpg" alt="Cover for When the Heavens Went on Sale" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+the+Heavens+Went+on+Sale+Ashlee+Vance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When the Heavens Went on Sale">When the Heavens Went on Sale</a>
+</h4>
+<p class="fr-book-author">By Ashlee Vance</p>
         
-        <p class="fr-book-desc">First published 2022. Subjects: nyt:hardcover-nonfiction=2023-05-28, New York Times bestseller, Transportation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+the+Heavens+Went+on+Sale+Ashlee+Vance&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022. Subjects: nyt:hardcover-nonfiction=2023-05-28, New York Times bestseller, Transportation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+the+Heavens+Went+on+Sale+Ashlee+Vance&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Liftoff+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Liftoff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11033056-M.jpg" alt="Cover for Liftoff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Liftoff+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Liftoff">Liftoff</a>
-        </h4>
-        <p class="fr-book-author">By Eric Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Liftoff+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Liftoff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11033056-M.jpg" alt="Cover for Liftoff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Liftoff+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Liftoff">Liftoff</a>
+</h4>
+<p class="fr-book-author">By Eric Berger</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Transportation, Space flight, History, Space launch industry, Launch vehicles (Astronautics).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Liftoff+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Transportation, Space flight, History, Space launch industry, Launch vehicles (Astronautics).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Liftoff+Eric+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+the+Heavens+Went+on+Sale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When the Heavens Went on Sale</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+the+Heavens+Went+on+Sale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When the Heavens Went on Sale</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-later-mauritius-ufo-sightings-rocket-related-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-later-mauritius-ufo-sightings-rocket-related-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -528,7 +528,7 @@ Viewed as a whole, post-2013 Mauritian sightings strengthen rather than weaken t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -548,7 +548,7 @@ Viewed as a whole, post-2013 Mauritian sightings strengthen rather than weaken t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -580,7 +580,7 @@ Viewed as a whole, post-2013 Mauritian sightings strengthen rather than weaken t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ Viewed as a whole, post-2013 Mauritian sightings strengthen rather than weaken t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -677,7 +677,7 @@ Viewed as a whole, post-2013 Mauritian sightings strengthen rather than weaken t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -718,123 +718,123 @@ Viewed as a whole, post-2013 Mauritian sightings strengthen rather than weaken t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Space jellyfish  
-   Link: <a href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_jellyfish</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Space_jellyfish" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_jellyfish</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: List of Falcon 9 and Falcon Heavy launches (2010–2019)  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches_%282010%E2%80%932019%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches_%282010%E2%80%932019%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches_%282010%E2%80%932019%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches_%282010%E2%80%932019%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</p></details>
+   Link:<a href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...September 30, 2013 — 30 Sept 2013 — A video taken in Mauritius shows a spook...</p></details>
    Published: September 30, 2013  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newsweek.com  
    Title: Strange String of Lights in the Sky?  
-   Link: <a href="https://www.newsweek.com/strange-string-lights-sky-spacex-falcon-9-satellite-launch-cause-1595371" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/strange-string-lights-sky-spacex-falcon-9-satellite-launch-cause-1595371</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Falcon 9...May 27, 2021 — 27 May 2021 — The string of lights was most likely caused by a group of Starlink satellites that had...</p></details>
+   Link:<a href="https://www.newsweek.com/strange-string-lights-sky-spacex-falcon-9-satellite-launch-cause-1595371" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/strange-string-lights-sky-spacex-falcon-9-satellite-launch-cause-1595371</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Falcon 9...May 27, 2021 — 27 May 2021 — The string of lights was most likely caused by a group of Starlink satellites that had...</p></details>
    Published: May 27, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100067150518740/videos/the-bright-object-moving-over-the-skies-tonight-january-18-2026-is-possibly-a-sp/1392571469192043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100067150518740/videos/the-bright-object-moving-over-the-skies-tonight-january-18-2026-is-possibly-a-sp/1392571469192043/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The bright object moving over the skies tonight, January 18...Visual Appearance: Witnesses typically describe these sightings as a &quot;jell...</p></details>
+   Link:<a href="https://www.facebook.com/100067150518740/videos/the-bright-object-moving-over-the-skies-tonight-january-18-2026-is-possibly-a-sp/1392571469192043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100067150518740/videos/the-bright-object-moving-over-the-skies-tonight-january-18-2026-is-possibly-a-sp/1392571469192043/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The bright object moving over the skies tonight, January 18...Visual Appearance: Witnesses typically describe these sightings as a &quot;jell...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Why do some rocket launches look like this?  
-   Link: <a href="https://www.youtube.com/watch?v=Y1Hfiirwgys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y1Hfiirwgys</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Falcon 9 launch creates confusion over mistaken UFO sighting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y1Hfiirwgys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y1Hfiirwgys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Falcon 9 launch creates confusion over mistaken UFO sighting...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Space X's Falcon 9 launch creates confusion over mistaken UFO sighting  
-   Link: <a href="https://www.youtube.com/watch?v=nSLgsvg_jIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nSLgsvg_jIw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious object seen across Colorado likely a SpaceX launch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nSLgsvg_jIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nSLgsvg_jIw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious object seen across Colorado likely a SpaceX launch...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites will eventually form part of 12,000-strong...Read more...</p></details>
+   Link:<a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites will eventually form part of 12,000-strong...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: spaceweatherarchive.com  
    Title: strange things in the sky courtesy of spacex  
-   Link: <a href="https://spaceweatherarchive.com/2022/07/02/strange-things-in-the-sky-courtesy-of-spacex/" target="_blank" rel="noopener noreferrer nofollow">https://spaceweatherarchive.com/2022/07/02/strange-things-in-the-sky-courtesy-of-spacex/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On Sunday morning, June 19th, SpaceX launched a Falcon 9 rocket from Cape Canaveral.Read more...</p></details>
+   Link:<a href="https://spaceweatherarchive.com/2022/07/02/strange-things-in-the-sky-courtesy-of-spacex/" target="_blank" rel="noopener noreferrer nofollow">https://spaceweatherarchive.com/2022/07/02/strange-things-in-the-sky-courtesy-of-spacex/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On Sunday morning, June 19th, SpaceX launched a Falcon 9 rocket from Cape Canaveral.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: portugalresident.com  
    Title: ufo spotted in algarve skies turns out to be satellites  
-   Link: <a href="https://www.portugalresident.com/ufo-spotted-in-algarve-skies-turns-out-to-be-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/ufo-spotted-in-algarve-skies-turns-out-to-be-satellites/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Nov 2019 — The unidentified flying object which many people described as a strange beaming light in the Algarve night sky on Monday (N...</p></details>
+   Link:<a href="https://www.portugalresident.com/ufo-spotted-in-algarve-skies-turns-out-to-be-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/ufo-spotted-in-algarve-skies-turns-out-to-be-satellites/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Nov 2019 — The unidentified flying object which many people described as a strange beaming light in the Algarve night sky on Monday (N...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/12news/posts/spacex-launches-look-strange-enough-that-people-think-aliens-are-invading-we-ask/797058532455539/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/12news/posts/spacex-launches-look-strange-enough-that-people-think-aliens-are-invading-we-ask/797058532455539/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launches look strange enough that people think...A video taken in Mauritius shows a spooky looking glowing orb shining in the sky...</p></details>
+   Link:<a href="https://www.facebook.com/12news/posts/spacex-launches-look-strange-enough-that-people-think-aliens-are-invading-we-ask/797058532455539/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/12news/posts/spacex-launches-look-strange-enough-that-people-think-aliens-are-invading-we-ask/797058532455539/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launches look strange enough that people think...A video taken in Mauritius shows a spooky looking glowing orb shining in the sky...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ericafisherGP/videos/i-have-seen-several-videos-shared-of-the-sky-last-night-with-some-sort-of-blurry/2154148418460512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ericafisherGP/videos/i-have-seen-several-videos-shared-of-the-sky-last-night-with-some-sort-of-blurry/2154148418460512/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>phenomenon have led to panic, fear of nuclear missile strike, and...</p></details>
+   Link:<a href="https://www.facebook.com/ericafisherGP/videos/i-have-seen-several-videos-shared-of-the-sky-last-night-with-some-sort-of-blurry/2154148418460512/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ericafisherGP/videos/i-have-seen-several-videos-shared-of-the-sky-last-night-with-some-sort-of-blurry/2154148418460512/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>phenomenon have led to panic, fear of nuclear missile strike, and...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mauritiustimes.com  
-   Link: <a href="https://www.mauritiustimes.com/mt/tag/extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritiustimes.com/mt/tag/extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ExtraterrestrialTag: Extraterrestrial · US intelligence report on UFOs: No aliens, but government transparency and desire for better data...</p></details>
+   Link:<a href="https://www.mauritiustimes.com/mt/tag/extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritiustimes.com/mt/tag/extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ExtraterrestrialTag: Extraterrestrial · US intelligence report on UFOs: No aliens, but government transparency and desire for better data...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eoportal.org  
-   Link: <a href="https://www.eoportal.org/other-space-activities/ska-1" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/ska-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SKA (Square Kilometer Array) Radio TelescopesThe SKA project is an international effort to build the world&#x27;s largest radio telescope, wit...</p></details>
+   Link:<a href="https://www.eoportal.org/other-space-activities/ska-1" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/other-space-activities/ska-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SKA (Square Kilometer Array) Radio TelescopesThe SKA project is an international effort to build the world&#x27;s largest radio telescope, wit...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1ne46k/saw_this_tonight_in_reunion_island_what_is_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1ne46k/saw_this_tonight_in_reunion_island_what_is_it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saw this tonight in Reunion Island, what is it??!: r/AstronomyIt was one of the ones launched on the Falcon 9, and it should be r...</p></details>
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/1ne46k/saw_this_tonight_in_reunion_island_what_is_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1ne46k/saw_this_tonight_in_reunion_island_what_is_it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Saw this tonight in Reunion Island, what is it??!: r/AstronomyIt was one of the ones launched on the Falcon 9, and it should be r...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the Caribbean?! Yeah... this morning&#x27;s...Witnesses described seeing unusual lights and shapes moving rapidly across the...</p></details>
+   Link:<a href="https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cvmtv/posts/ufo-sightings-in-the-caribbean-yeah-thismornings-convo-got-real-interestingfrom-/1431378085697362/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the Caribbean?! Yeah... this morning&#x27;s...Witnesses described seeing unusual lights and shapes moving rapidly across the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ylEtF3Sz8IY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ylEtF3Sz8IY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blastoff! SpaceX launches NASA&#x27;s Pandora satellite to study...SpaceX launches NASA&#x27;s Pandora satellite to study alien worlds, nails land...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ylEtF3Sz8IY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ylEtF3Sz8IY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blastoff! SpaceX launches NASA&#x27;s Pandora satellite to study...SpaceX launches NASA&#x27;s Pandora satellite to study alien worlds, nails land...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spaceintel101/posts/1907075509675260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceintel101/posts/1907075509675260/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the best pictures of 2021 so far. Incredible shot last night of the SpaceX Falcon 9 rocket launch in front of the Moon from Cape...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spaceintel101/posts/1907075509675260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceintel101/posts/1907075509675260/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of the best pictures of 2021 so far. Incredible shot last night of the SpaceX Falcon 9 rocket launch in front of the Moon from Cape...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: daf.com  
    Title: DA F Trucks Global – Choose your Country or Market  
-   Link: <a href="https://www.daf.com/en/sites-landing" target="_blank" rel="noopener noreferrer nofollow">https://www.daf.com/en/sites-landing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAF Trucks Global – Choose your Country or Market - DAF...Find the perfect truck at our newly launched dafusedtrucks.com which offers a...</p></details>
+   Link:<a href="https://www.daf.com/en/sites-landing" target="_blank" rel="noopener noreferrer nofollow">https://www.daf.com/en/sites-landing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAF Trucks Global – Choose your Country or Market - DAF...Find the perfect truck at our newly launched dafusedtrucks.com which offers a...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: Good look at Space X Falcon 9 launch this morning  
-   Link: <a href="https://www.facebook.com/TheBigGuyFrankSulkowski/posts/good-look-at-spacex-falcon-9-launch-this-morning-certainly-bright-and-visible-in/1418415813307060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBigGuyFrankSulkowski/posts/good-look-at-spacex-falcon-9-launch-this-morning-certainly-bright-and-visible-in/1418415813307060/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Early this morning over Jacksonville Beach, the sky lit up with this surreal ribbon of glowing cloud the aftermath of a SpaceX Falcon 9 S...</p></details>
+   Link:<a href="https://www.facebook.com/TheBigGuyFrankSulkowski/posts/good-look-at-spacex-falcon-9-launch-this-morning-certainly-bright-and-visible-in/1418415813307060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBigGuyFrankSulkowski/posts/good-look-at-spacex-falcon-9-launch-this-morning-certainly-bright-and-visible-in/1418415813307060/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early this morning over Jacksonville Beach, the sky lit up with this surreal ribbon of glowing cloud the aftermath of a SpaceX Falcon 9 S...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWoZ4-3ESKc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWoZ4-3ESKc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IRST CLIP TRUMP ADMIN RELEASES UFO &amp; &#x27;ALIEN LIFE&#x27; FOX NEWS ALERT...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWoZ4-3ESKc/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWoZ4-3ESKc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IRST CLIP TRUMP ADMIN RELEASES UFO &amp; &#x27;ALIEN LIFE&#x27; FOX NEWS ALERT...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXG-e2Ojk2n/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXG-e2Ojk2n/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ably Space-X&#x27;s Falcon 9. Click Watch Live at the link in our...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXG-e2Ojk2n/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXG-e2Ojk2n/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ably Space-X&#x27;s Falcon 9. Click Watch Live at the link in our...</p></details>

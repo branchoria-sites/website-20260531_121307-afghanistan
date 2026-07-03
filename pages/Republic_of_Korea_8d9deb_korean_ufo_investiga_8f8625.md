@@ -261,11 +261,11 @@ That structure gave unusual influence to a handful of figures who acted as inter
 
 ## Who became Korea's best-known UFO investigators?
 
-The most visible name in South Korean UFO research since the 1990s has been Maeng Seong-ryeol. Trained as a professor and frequently presented in Korean media as a scientific voice willing to examine unexplained aerial reports, Maeng became one of the country's most recognisable public advocates for serious UFO investigation. Korean and international coverage repeatedly identified him as president of the Korean UFO Research Center and as a commentator called upon when unusual sightings reached national news. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">ufos allegedly spotted in daejeon</span><span class="citation-popover-snippet">The Korea TimesUFOs allegedly spotted in Daejeon18 Aug 2011 —... Maeng Seong-ryeol, professor at Woosuk University and president of the...</span></span></span>
+The most visible name in South Korean UFO research since the 1990s has been Maeng Seong-ryeol. Trained as a professor and frequently presented in Korean media as a scientific voice willing to examine unexplained aerial reports, Maeng became one of the country's most recognisable public advocates for serious UFO investigation. Korean and international coverage repeatedly identified him as president of the Korean UFO Research Center and as a commentator called upon when unusual sightings reached national news.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">ufos allegedly spotted in daejeon</span><span class="citation-popover-snippet">The Korea TimesUFOs allegedly spotted in Daejeon18 Aug 2011 —... Maeng Seong-ryeol, professor at Woosuk University and president of the...</span></span></span>
 
-What made Maeng distinctive was not simply his willingness to discuss extraterrestrial possibilities. He occupied a hybrid role that fit South Korea's media environment: part academic, part public educator and part investigator. Documentary coverage of his work portrayed him as someone attempting to move UFO discussion away from pure entertainment while still operating outside mainstream scientific institutions. At the same time, the documentaries showed the social difficulty of that position. Researchers who publicly discussed UFOs often faced scepticism from both academics and the broader public, leaving them dependent on media exposure for visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dafilms.com/film/12881-ufo-sketch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafilms.com">[Dafílms]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafilms.com</span><span class="citation-popover-snippet">DafílmsUFO Sketch &#124; watch onlineThis film introduces Professor MAENG Sunglyul at Woosuk University, the author of UFO Syndrome and a scie...</span></span></span>
+What made Maeng distinctive was not simply his willingness to discuss extraterrestrial possibilities. He occupied a hybrid role that fit South Korea's media environment: part academic, part public educator and part investigator. Documentary coverage of his work portrayed him as someone attempting to move UFO discussion away from pure entertainment while still operating outside mainstream scientific institutions. At the same time, the documentaries showed the social difficulty of that position. Researchers who publicly discussed UFOs often faced scepticism from both academics and the broader public, leaving them dependent on media exposure for visibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dafilms.com/film/12881-ufo-sketch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafilms.com">[Dafílms]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafilms.com</span><span class="citation-popover-snippet">DafílmsUFO Sketch &#124; watch onlineThis film introduces Professor MAENG Sunglyul at Woosuk University, the author of UFO Syndrome and a scie...</span></span></span>
 
-Another frequently cited figure was Seo Jong-han, who became known for analysing photographs and video footage submitted by witnesses. Korean reporting described him as someone who spent years studying foreign UFO literature and building expertise in image analysis because there was little established domestic infrastructure for UFO research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/2003/09/23/features/Keeping-an-eye-trained-on-the-sky/2035053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">Korea Joongang Daily Keeping an eye trained on the sky</span><span class="citation-popover-snippet">Korea Joongang DailyKeeping an eye trained on the sky - Korea JoongAng DailySeptember 22, 2003 — 23 Sept 2003 — Seo began reading up on U...</span><span class="citation-popover-meta">Published: September 22, 2003</span></span></span>
+Another frequently cited figure was Seo Jong-han, who became known for analysing photographs and video footage submitted by witnesses. Korean reporting described him as someone who spent years studying foreign UFO literature and building expertise in image analysis because there was little established domestic infrastructure for UFO research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/2003/09/23/features/Keeping-an-eye-trained-on-the-sky/2035053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">Korea Joongang Daily Keeping an eye trained on the sky</span><span class="citation-popover-snippet">Korea Joongang DailyKeeping an eye trained on the sky - Korea JoongAng DailySeptember 22, 2003 — 23 Sept 2003 — Seo began reading up on U...</span><span class="citation-popover-meta">Published: September 22, 2003</span></span></span>
 
 The prominence of Maeng and Seo reveals an important feature of the South Korean UFO scene: expertise was often personalised. Instead of large institutions producing formal investigative reports, the public frequently encountered UFO analysis through identifiable individuals whose assessments circulated through newspapers, television interviews and internet discussions.
 
@@ -292,7 +292,7 @@ The influence of television also created a feedback loop. People who believed th
 
 One of the clearest examples of investigator-led evidence culture emerged during the widely reported Daejeon sightings in 2011.
 
-Witnesses reported unusual luminous objects in the night sky, while photographs and video clips circulated through local media. Coverage quickly turned to recognised UFO researchers for interpretation. Maeng Seong-ryeol publicly commented on the rarity of the reported visual characteristics, while other investigators emphasised the perceived quality of the recordings. The South Korean Air Force reportedly stated that it had detected no related aircraft activity and had no radar confirmation, leaving the incident unresolved in public reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">ufos allegedly spotted in daejeon</span><span class="citation-popover-snippet">The Korea TimesUFOs allegedly spotted in Daejeon18 Aug 2011 —... Maeng Seong-ryeol, professor at Woosuk University and president of the...</span></span></span>
+Witnesses reported unusual luminous objects in the night sky, while photographs and video clips circulated through local media. Coverage quickly turned to recognised UFO researchers for interpretation. Maeng Seong-ryeol publicly commented on the rarity of the reported visual characteristics, while other investigators emphasised the perceived quality of the recordings. The South Korean Air Force reportedly stated that it had detected no related aircraft activity and had no radar confirmation, leaving the incident unresolved in public reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">ufos allegedly spotted in daejeon</span><span class="citation-popover-snippet">The Korea TimesUFOs allegedly spotted in Daejeon18 Aug 2011 —... Maeng Seong-ryeol, professor at Woosuk University and president of the...</span></span></span>
 
 The episode illustrates how credibility was increasingly attached to media evidence rather than solely to eyewitness testimony.
 
@@ -310,7 +310,7 @@ Earlier UFO stories often depended on personal accounts. By the 2000s, investiga
 
 This shift mirrored broader changes in South Korean society. As digital cameras and smartphones became common, investigators gained far more material to examine. Yet the apparent improvement in evidence quality introduced new problems. Digital footage could be compressed, altered, misunderstood or stripped of contextual information. Better imagery did not automatically produce better conclusions.
 
-The Daejeon case therefore became representative of a recurring Korean pattern: relatively strong public documentation combined with limited independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">ufos allegedly spotted in daejeon</span><span class="citation-popover-snippet">The Korea TimesUFOs allegedly spotted in Daejeon18 Aug 2011 —... Maeng Seong-ryeol, professor at Woosuk University and president of the...</span></span></span>
+The Daejeon case therefore became representative of a recurring Korean pattern: relatively strong public documentation combined with limited independent verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">ufos allegedly spotted in daejeon</span><span class="citation-popover-snippet">The Korea TimesUFOs allegedly spotted in Daejeon18 Aug 2011 —... Maeng Seong-ryeol, professor at Woosuk University and president of the...</span></span></span>
 
 ## Newspapers and the search for respectable witnesses
 
@@ -333,7 +333,7 @@ This shift produced a more decentralised evidence culture.
 
 Claims that once might have circulated unchallenged through television or newspapers increasingly faced immediate scrutiny. Internet users compared photographs with known aerospace facilities, checked launch schedules and searched historical imagery. The result was a faster cycle of claim and counter-claim.
 
-The debate surrounding supposed hidden UFO structures in South Korea demonstrates this change. Online communities circulated images of unusual circular facilities and speculated that some concealed recovered craft. At the same time, aviation enthusiasts, military observers and sceptical researchers pointed to navigation systems, radar infrastructure and other conventional explanations. Discussions often became less about the original claim and more about whether investigators were applying adequate evidential standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/14zhue1/anyangsi_locals_photos_of_speculated_ufo_building/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Anyang-Si Locals&#x27; photos of speculated UFO building</span><span class="citation-popover-snippet">Anyang-Si Locals&#x27; photos of speculated UFO buildingJuly 14, 2023 — r/aliens - A UFO Was Shot Down in China Yesterday? Some Chinese...</span><span class="citation-popover-meta">Published: July 14, 2023</span></span></span>
+The debate surrounding supposed hidden UFO structures in South Korea demonstrates this change. Online communities circulated images of unusual circular facilities and speculated that some concealed recovered craft. At the same time, aviation enthusiasts, military observers and sceptical researchers pointed to navigation systems, radar infrastructure and other conventional explanations. Discussions often became less about the original claim and more about whether investigators were applying adequate evidential standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/14zhue1/anyangsi_locals_photos_of_speculated_ufo_building/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Anyang-Si Locals&#x27; photos of speculated UFO building</span><span class="citation-popover-snippet">Anyang-Si Locals&#x27; photos of speculated UFO buildingJuly 14, 2023 — r/aliens - A UFO Was Shot Down in China Yesterday? Some Chinese...</span><span class="citation-popover-meta">Published: July 14, 2023</span></span></span>
 
 In this environment, the authority of traditional UFO researchers became less absolute. They remained influential voices, but they increasingly had to compete with crowdsourced investigation.
 
@@ -343,7 +343,7 @@ In this environment, the authority of traditional UFO researchers became less ab
 
 South Korean UFO culture has long existed near the boundary between serious inquiry and entertainment.
 
-Popular media repeatedly borrowed UFO themes for films, television dramas and variety programming. Productions ranging from the romantic film *Au Revoir, UFO* to modern mystery series such as *Glitch* demonstrate how UFO imagery became embedded in broader Korean popular culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Au_Revoir%2C_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Au Revoir, UFO</span><span class="citation-popover-snippet">Au Revoir, UFO</span></span></span>
+Popular media repeatedly borrowed UFO themes for films, television dramas and variety programming. Productions ranging from the romantic film *Au Revoir, UFO* to modern mystery series such as *Glitch* demonstrate how UFO imagery became embedded in broader Korean popular culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Au_Revoir%2C_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Au Revoir, UFO</span><span class="citation-popover-snippet">Au Revoir, UFO</span></span></span>
 
 This cultural visibility helped keep public interest alive. It also created difficulties for investigators seeking legitimacy.
 
@@ -387,199 +387,199 @@ These limitations help explain why South Korea's UFO record contains relatively 
 
 The South Korean experience shows how a UFO culture can develop without extensive state disclosure. In the absence of large official archives, private investigators, professors, journalists and broadcasters became the principal custodians of the country's UFO narrative.
 
-That arrangement produced a distinctive evidence trail. Instead of moving from government files to public review, many Korean UFO stories moved from witnesses to investigators, then through newspapers, documentaries and television. Researchers such as Maeng Seong-ryeol and Seo Jong-han became important because they offered continuity in a field where institutional records were limited and public attention was episodic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/2003/09/23/features/Keeping-an-eye-trained-on-the-sky/2035053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">Korea Joongang Daily Keeping an eye trained on the sky</span><span class="citation-popover-snippet">Korea Joongang DailyKeeping an eye trained on the sky - Korea JoongAng DailySeptember 22, 2003 — 23 Sept 2003 — Seo began reading up on U...</span><span class="citation-popover-meta">Published: September 22, 2003</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">ufos allegedly spotted in daejeon</span><span class="citation-popover-snippet">The Korea TimesUFOs allegedly spotted in Daejeon18 Aug 2011 —... Maeng Seong-ryeol, professor at Woosuk University and president of the...</span></span></span>
+That arrangement produced a distinctive evidence trail. Instead of moving from government files to public review, many Korean UFO stories moved from witnesses to investigators, then through newspapers, documentaries and television. Researchers such as Maeng Seong-ryeol and Seo Jong-han became important because they offered continuity in a field where institutional records were limited and public attention was episodic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/2003/09/23/features/Keeping-an-eye-trained-on-the-sky/2035053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">Korea Joongang Daily Keeping an eye trained on the sky</span><span class="citation-popover-snippet">Korea Joongang DailyKeeping an eye trained on the sky - Korea JoongAng DailySeptember 22, 2003 — 23 Sept 2003 — Seo began reading up on U...</span><span class="citation-popover-meta">Published: September 22, 2003</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">ufos allegedly spotted in daejeon</span><span class="citation-popover-snippet">The Korea TimesUFOs allegedly spotted in Daejeon18 Aug 2011 —... Maeng Seong-ryeol, professor at Woosuk University and president of the...</span></span></span>
 
 The legacy of that system is mixed. It preserved reports that might otherwise have disappeared and encouraged public discussion of unexplained aerial phenomena. At the same time, it left many cases dependent on media framing, personal authority and fragmentary evidence. For readers examining the Republic of Korea's UFO history, that may be the most important lesson: understanding the investigators is often as important as understanding the sightings themselves.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Shaped Korea&#x27;s UFO Evidence Trail?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Shaped Korea&#x27;s UFO Evidence Trail?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Written by one of the field&#x27;s most influential researchers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by one of the field&#x27;s most influential researchers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K_R0CQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Explores the role of media and investigators in shaping cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the role of media and investigators in shaping cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines researchers, sources and the handling of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines researchers, sources and the handling of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses how investigators build UFO evidence trails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how investigators build UFO evidence trails.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-shaped-korea-s-ufo-evidence-trail-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-shaped-korea-s-ufo-evidence-trail-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ The legacy of that system is mixed. It preserved reports that might otherwise ha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ The legacy of that system is mixed. It preserved reports that might otherwise ha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ The legacy of that system is mixed. It preserved reports that might otherwise ha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ The legacy of that system is mixed. It preserved reports that might otherwise ha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ The legacy of that system is mixed. It preserved reports that might otherwise ha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,115 +785,115 @@ The legacy of that system is mixed. It preserved reports that might otherwise ha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
    Title: Anyang-Si Locals' photos of speculated UFO building  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/14zhue1/anyangsi_locals_photos_of_speculated_ufo_building/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14zhue1/anyangsi_locals_photos_of_speculated_ufo_building/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyang-Si Locals&#x27; photos of speculated UFO buildingJuly 14, 2023 — r/aliens - A UFO Was Shot Down in China Yesterday? Some Chinese...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/14zhue1/anyangsi_locals_photos_of_speculated_ufo_building/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14zhue1/anyangsi_locals_photos_of_speculated_ufo_building/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anyang-Si Locals&#x27; photos of speculated UFO buildingJuly 14, 2023 — r/aliens - A UFO Was Shot Down in China Yesterday? Some Chinese...</p></details>
    Published: July 14, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Au Revoir, UFO  
-   Link: <a href="https://en.wikipedia.org/wiki/Au_Revoir%2C_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Au_Revoir%2C_UFO</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Au_Revoir%2C_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Au_Revoir%2C_UFO</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Glitch (South Korean TV series)  
-   Link: <a href="https://en.wikipedia.org/wiki/Glitch_%28South_Korean_TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glitch_%28South_Korean_TV_series%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Glitch_%28South_Korean_TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glitch_%28South_Korean_TV_series%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1srab9r/this_is_a_video_of_a_ufo_sighting_recorded_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1srab9r/this_is_a_video_of_a_ufo_sighting_recorded_on/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2021, in Songdo International City, Incheon, South Korea. Video or Footage.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1srab9r/this_is_a_video_of_a_ufo_sighting_recorded_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1srab9r/this_is_a_video_of_a_ufo_sighting_recorded_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2021, in Songdo International City, Incheon, South Korea. Video or Footage.Read more...</p></details>
    Published: January 31, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1blkqo1/did_greer_just_confirm_that_coultharts_so_big_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1blkqo1/did_greer_just_confirm_that_coultharts_so_big_it/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1blkqo1/did_greer_just_confirm_that_coultharts_so_big_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1blkqo1/did_greer_just_confirm_that_coultharts_so_big_it/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Wonsan Sunchon UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wonsan-Sunchon UFO incidentAir Force UFO experts argue that widespread reporting of the incident contributed to the 1952 UFO flap that...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wonsan-Sunchon_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wonsan-Sunchon UFO incidentAir Force UFO experts argue that widespread reporting of the incident contributed to the 1952 UFO flap that...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: koreatimes.co.kr  
    Title: ufos allegedly spotted in daejeon  
-   Link: <a href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Korea TimesUFOs allegedly spotted in Daejeon18 Aug 2011 —... Maeng Seong-ryeol, professor at Woosuk University and president of the...</p></details>
+   Link:<a href="https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/southkorea/20110818/ufos-allegedly-spotted-in-daejeon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Korea TimesUFOs allegedly spotted in Daejeon18 Aug 2011 —... Maeng Seong-ryeol, professor at Woosuk University and president of the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dafilms.com  
-   Link: <a href="https://dafilms.com/film/12881-ufo-sketch" target="_blank" rel="noopener noreferrer nofollow">https://dafilms.com/film/12881-ufo-sketch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DafílmsUFO Sketch | watch onlineThis film introduces Professor MAENG Sunglyul at Woosuk University, the author of UFO Syndrome and a scie...</p></details>
+   Link:<a href="https://dafilms.com/film/12881-ufo-sketch" target="_blank" rel="noopener noreferrer nofollow">https://dafilms.com/film/12881-ufo-sketch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DafílmsUFO Sketch | watch onlineThis film introduces Professor MAENG Sunglyul at Woosuk University, the author of UFO Syndrome and a scie...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: koreajoongangdaily.joins.com  
    Title: Korea Joongang Daily Keeping an eye trained on the sky  
-   Link: <a href="https://koreajoongangdaily.joins.com/2003/09/23/features/Keeping-an-eye-trained-on-the-sky/2035053.html" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/2003/09/23/features/Keeping-an-eye-trained-on-the-sky/2035053.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea Joongang DailyKeeping an eye trained on the sky - Korea JoongAng DailySeptember 22, 2003 — 23 Sept 2003 — Seo began reading up on U...</p></details>
+   Link:<a href="https://koreajoongangdaily.joins.com/2003/09/23/features/Keeping-an-eye-trained-on-the-sky/2035053.html" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/2003/09/23/features/Keeping-an-eye-trained-on-the-sky/2035053.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korea Joongang DailyKeeping an eye trained on the sky - Korea JoongAng DailySeptember 22, 2003 — 23 Sept 2003 — Seo began reading up on U...</p></details>
    Published: September 22, 2003  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: koreatimes.co.kr  
    Title: koreatoday ufo chasers  
-   Link: <a href="https://www.koreatimes.co.kr/southkorea/20110126/koreatoday-ufo-chasers" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/southkorea/20110126/koreatoday-ufo-chasers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[KOREATODAY] UFO chasers26 Jan 2011 — While Seo devotes himself to the analysis of various pictures of UFO sightings as his main job, Heo...</p></details>
+   Link:<a href="https://www.koreatimes.co.kr/southkorea/20110126/koreatoday-ufo-chasers" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/southkorea/20110126/koreatoday-ufo-chasers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[KOREATODAY] UFO chasers26 Jan 2011 — While Seo devotes himself to the analysis of various pictures of UFO sightings as his main job, Heo...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xYYwUJOe-dU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xYYwUJOe-dU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are UFOs real? South Korean, U.S. scientists analyseNow unidentified flying objects have long been a topic that&#x27;s never failed to fascina...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xYYwUJOe-dU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xYYwUJOe-dU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are UFOs real? South Korean, U.S. scientists analyseNow unidentified flying objects have long been a topic that&#x27;s never failed to fascina...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l0hHunS9xe4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l0hHunS9xe4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Deflecting US Hellfire Missiles? Witnesses at Hearing...&quot;Earth Has Already Been Invaded&quot; Why Earth Is the Alien Colony (Professor M...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l0hHunS9xe4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l0hHunS9xe4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Deflecting US Hellfire Missiles? Witnesses at Hearing...&quot;Earth Has Already Been Invaded&quot; Why Earth Is the Alien Colony (Professor M...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ibtimes.co.uk  
    Title: ufo researcher claims alien crafts hidden south korea oklahoma 1779905  
-   Link: <a href="https://www.ibtimes.co.uk/ufo-researcher-claims-alien-crafts-hidden-south-korea-oklahoma-1779905" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/ufo-researcher-claims-alien-crafts-hidden-south-korea-oklahoma-1779905</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Greer claims two massive alien crafts are hidden in South Korea and Oklahoma, sparking debate on extraterrestrial activity and...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/ufo-researcher-claims-alien-crafts-hidden-south-korea-oklahoma-1779905" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/ufo-researcher-claims-alien-crafts-hidden-south-korea-oklahoma-1779905</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Steven Greer claims two massive alien crafts are hidden in South Korea and Oklahoma, sparking debate on extraterrestrial activity and...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: UFOs Aren't What You Think | UFO Revelations: Rise of the UAP | Full Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=AstIkKpV3EE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AstIkKpV3EE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The featured interview with Professor Maeng Seong-ryeol directly explores the perspectives of South Korea&#x27;s most prominent private UFO re...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AstIkKpV3EE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AstIkKpV3EE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The featured interview with Professor Maeng Seong-ryeol directly explores the perspectives of South Korea&#x27;s most prominent private UFO re...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: audioboom.com  
    Title: 8865016 a ufo too big to move the south korea theory examined  
-   Link: <a href="https://audioboom.com/posts/8865016-a-ufo-too-big-to-move-the-south-korea-theory-examined" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/8865016-a-ufo-too-big-to-move-the-south-korea-theory-examined</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Too Big To Move: The South Korea Theory Examined24 Feb 2026 — A UFO so large it could not be transported. That was the claim made b...</p></details>
+   Link:<a href="https://audioboom.com/posts/8865016-a-ufo-too-big-to-move-the-south-korea-theory-examined" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/8865016-a-ufo-too-big-to-move-the-south-korea-theory-examined</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Too Big To Move: The South Korea Theory Examined24 Feb 2026 — A UFO so large it could not be transported. That was the claim made b...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: en.noticiasufologicas.com.br  
-   Link: <a href="https://en.noticiasufologicas.com.br/ufo-a-fascinante-jornada-cientifica-de-um-professor-coreano/" target="_blank" rel="noopener noreferrer nofollow">https://en.noticiasufologicas.com.br/ufo-a-fascinante-jornada-cientifica-de-um-professor-coreano/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>noticiasufologicas.com.brUFO: The Fascinating Scientific Journey of a Korean Professor28 Aug 2024 — Maeng Seong-ryeol is not an unknown n...</p></details>
+   Link:<a href="https://en.noticiasufologicas.com.br/ufo-a-fascinante-jornada-cientifica-de-um-professor-coreano/" target="_blank" rel="noopener noreferrer nofollow">https://en.noticiasufologicas.com.br/ufo-a-fascinante-jornada-cientifica-de-um-professor-coreano/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>noticiasufologicas.com.brUFO: The Fascinating Scientific Journey of a Korean Professor28 Aug 2024 — Maeng Seong-ryeol is not an unknown n...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thesun.co.uk  
    Title: secret ufo building hiding plain sight us congressman  
-   Link: <a href="https://www.thesun.co.uk/news/38259218/secret-ufo-building-hiding-plain-sight-us-congressman/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38259218/secret-ufo-building-hiding-plain-sight-us-congressman/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret UFO that&#x27;s so huge it&#x27;s had a building constructed...18 Feb 2026 — A MASSIVE UFO is hiding in plain sight in a secret overseas lo...</p></details>
+   Link:<a href="https://www.thesun.co.uk/news/38259218/secret-ufo-building-hiding-plain-sight-us-congressman/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38259218/secret-ufo-building-hiding-plain-sight-us-congressman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret UFO that&#x27;s so huge it&#x27;s had a building constructed...18 Feb 2026 — A MASSIVE UFO is hiding in plain sight in a secret overseas lo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nN_4k3TpMUw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nN_4k3TpMUw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Earth Has Already Been Invaded&quot; Why Earth Is the Alien Colony (Professor Maeng Seong-ryeol)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nN_4k3TpMUw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nN_4k3TpMUw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Earth Has Already Been Invaded&quot; Why Earth Is the Alien Colony (Professor Maeng Seong-ryeol)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=szMinH-2xjQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=szMinH-2xjQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified – The True Story of The Korean War Encounter | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=szMinH-2xjQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=szMinH-2xjQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified – The True Story of The Korean War Encounter | History...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Too Large To Move: The Strange Story Buried In...Several UFO blogs and satellite sleuths pointed to an odd structure in Seoul, S...</p></details>
+   Link:<a href="https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/never-stop-writing/the-ufo-too-large-to-move-the-strange-story-buried-in-korea-7b37d781c0ea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Too Large To Move: The Strange Story Buried In...Several UFO blogs and satellite sleuths pointed to an odd structure in Seoul, S...</p></details>

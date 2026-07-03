@@ -251,17 +251,17 @@ image: /assets/images/United_Arab_Emirates_c92b89_uae_space_debris_979e53-Illust
 Some of the most dramatic “UFO” reports in the [United Arab Emirates]({{ 'united-arab-emirates/' | relative_url }}) have ultimately had a straightforward explanation: meteors, fireballs, spacecraft re-entries, and fragments of human-made space debris burning through the atmosphere. These events can appear extraordinary to observers on the ground. They often move slowly, break into multiple glowing fragments, leave persistent trails, or illuminate large areas of sky, making them look very different from the stereotypical brief “shooting star”. In the UAE, a growing network of astronomical cameras and monitoring stations has made it increasingly possible to determine what many of these objects actually were. [وكالة الإمارات للفضاء]
 
 <img src="{{ "/assets/images/United_Arab_Emirates_c92b89_uae_space_debris_979e53-Illustration-1-dark.svg" | relative_url }}" alt="Space Debris illustration 1" data-theme-src-dark="{{ "/assets/images/United_Arab_Emirates_c92b89_uae_space_debris_979e53-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Arab_Emirates_c92b89_uae_space_debris_979e53-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader history of UAE UFO reports, this category stands out because it is one of the best-documented. Rather than relying on anecdotal testimony alone, many cases have been investigated through astronomy organisations, meteor-monitoring networks, and orbital tracking data. As a result, some of the Emirates’ most widely shared mystery sightings have become examples of how unusual aerial phenomena can be identified through timing, trajectory analysis, and independent observation. وكالة الإمارات للفضاء <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-title">observations of fireballs with the uae meteor monitoring network</span><span class="citation-popover-snippet">The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</span></span></span>
+Within the broader history of UAE UFO reports, this category stands out because it is one of the best-documented. Rather than relying on anecdotal testimony alone, many cases have been investigated through astronomy organisations, meteor-monitoring networks, and orbital tracking data. As a result, some of the Emirates’ most widely shared mystery sightings have become examples of how unusual aerial phenomena can be identified through timing, trajectory analysis, and independent observation. وكالة الإمارات للفضاء<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-title">observations of fireballs with the uae meteor monitoring network</span><span class="citation-popover-snippet">The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</span></span></span>
 
 ## Cargo Spacecraft and Satellite Re-entries
 
-The most famous modern UAE “UFO” incident linked to space debris occurred on 16 October 2017, when residents across Dubai and other Gulf states reported a bright, elongated object crossing the evening sky. Videos rapidly spread online, generating speculation about meteors, unidentified craft, and unusual atmospheric phenomena. Astronomers quickly pointed to a different explanation: the atmospheric re-entry of a Russian Progress cargo spacecraft component associated with International Space Station resupply missions. Khaleej Times <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">The NationalFalling Russian rocket now chief suspect for blazing lights...17 Oct 2017 — Dubai Astronomy Group reported that the object w...</span></span></span>
+The most famous modern UAE “UFO” incident linked to space debris occurred on 16 October 2017, when residents across Dubai and other Gulf states reported a bright, elongated object crossing the evening sky. Videos rapidly spread online, generating speculation about meteors, unidentified craft, and unusual atmospheric phenomena. Astronomers quickly pointed to a different explanation: the atmospheric re-entry of a Russian Progress cargo spacecraft component associated with International Space Station resupply missions. Khaleej Times<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">The NationalFalling Russian rocket now chief suspect for blazing lights...17 Oct 2017 — Dubai Astronomy Group reported that the object w...</span></span></span>
 
-Observers noted characteristics that distinguished the event from a meteor. Rather than a brief flash lasting a second or two, the object remained visible for an extended period and appeared to fragment into multiple glowing pieces. Those are classic signatures of a large artificial object re-entering Earth's atmosphere. Spacecraft and rocket bodies often disintegrate progressively as aerodynamic heating increases, producing a chain of luminous fragments moving together across the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">The NationalFalling Russian rocket now chief suspect for blazing lights...17 Oct 2017 — Dubai Astronomy Group reported that the object w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://watchers.news/2016/11/15/uae-meteor-detecting-stations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-title">uae meteor detecting stations</span><span class="citation-popover-snippet">now in operation15 Nov 2016 — Three stations for detecting meteors in the United Arab Emirates are now operational, the UAE Space Agency...</span></span></span>
+Observers noted characteristics that distinguished the event from a meteor. Rather than a brief flash lasting a second or two, the object remained visible for an extended period and appeared to fragment into multiple glowing pieces. Those are classic signatures of a large artificial object re-entering Earth's atmosphere. Spacecraft and rocket bodies often disintegrate progressively as aerodynamic heating increases, producing a chain of luminous fragments moving together across the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">The NationalFalling Russian rocket now chief suspect for blazing lights...17 Oct 2017 — Dubai Astronomy Group reported that the object w...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://watchers.news/2016/11/15/uae-meteor-detecting-stations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: watchers.news">[The Watchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">watchers.news</span><span class="citation-popover-title">uae meteor detecting stations</span><span class="citation-popover-snippet">now in operation15 Nov 2016 — Three stations for detecting meteors in the United Arab Emirates are now operational, the UAE Space Agency...</span></span></span>
 
-The event became an important case study because many initial reports described it as a potential UFO. Within hours, however, orbital tracking information and expert analysis converged on a conventional explanation. The incident demonstrated how easily a spectacular re-entry can be mistaken for something exotic when viewed without context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">The NationalFalling Russian rocket now chief suspect for blazing lights...17 Oct 2017 — Dubai Astronomy Group reported that the object w...</span></span></span>
+The event became an important case study because many initial reports described it as a potential UFO. Within hours, however, orbital tracking information and expert analysis converged on a conventional explanation. The incident demonstrated how easily a spectacular re-entry can be mistaken for something exotic when viewed without context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">The NationalFalling Russian rocket now chief suspect for blazing lights...17 Oct 2017 — Dubai Astronomy Group reported that the object w...</span></span></span>
 
-A week later, UAE authorities and astronomy organisations again warned that an expired satellite could be visible during atmospheric re-entry over parts of the Arab world. The fact that such warnings can be issued in advance highlights a key distinction between re-entries and genuinely unknown objects: many artificial re-entries are predictable because their orbital decay is tracked before they occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-title">so what whizzed past the dubai sky on monday night</span><span class="citation-popover-snippet">Khaleej TimesSo, what whizzed past the Dubai sky on Monday night?17 Oct 2017 — No UFO, colliding stars or meteor showers - it was a cargo...</span></span></span>
+A week later, UAE authorities and astronomy organisations again warned that an expired satellite could be visible during atmospheric re-entry over parts of the Arab world. The fact that such warnings can be issued in advance highlights a key distinction between re-entries and genuinely unknown objects: many artificial re-entries are predictable because their orbital decay is tracked before they occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-title">so what whizzed past the dubai sky on monday night</span><span class="citation-popover-snippet">Khaleej TimesSo, what whizzed past the Dubai sky on Monday night?17 Oct 2017 — No UFO, colliding stars or meteor showers - it was a cargo...</span></span></span>
 
 The UAE has also participated in international efforts to observe expected atmospheric entries of known objects. In 2015, the UAE Space Agency joined a campaign to monitor a predicted atmospheric entry event over the Indian Ocean region, illustrating the country's growing involvement in tracking natural and artificial objects entering Earth's atmosphere. [وكالة الإمارات للفضاء]
 
@@ -271,22 +271,22 @@ The UAE has also participated in international efforts to observe expected atmos
 
 While spacecraft re-entries attract public attention, natural meteors are even more common sources of unusual sightings. The UAE has invested significantly in monitoring these events through dedicated observation systems.
 
-The UAE Meteor Monitoring Network (UAEMMN), funded by the UAE Space Agency and operated through Sharjah-based astronomy institutions, was established specifically to monitor meteors, fireballs, and space debris over the Emirates. The system uses multiple observation stations distributed across the country, allowing researchers to record and analyse objects from different viewing angles. وكالة الإمارات للفضاء <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-title">observations of fireballs with the uae meteor monitoring network</span><span class="citation-popover-snippet">The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</span></span></span>
+The UAE Meteor Monitoring Network (UAEMMN), funded by the UAE Space Agency and operated through Sharjah-based astronomy institutions, was established specifically to monitor meteors, fireballs, and space debris over the Emirates. The system uses multiple observation stations distributed across the country, allowing researchers to record and analyse objects from different viewing angles. وكالة الإمارات للفضاء<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-title">observations of fireballs with the uae meteor monitoring network</span><span class="citation-popover-snippet">The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</span></span></span>
 
-Research based on the network's observations shows that from the beginning of operations through late 2020, hundreds of fireballs and many more ordinary meteors were recorded. The network detected seasonal increases associated with major meteor showers such as the Leonids and Geminids, helping place UAE observations within global meteor science databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-title">observations of fireballs with the uae meteor monitoring network</span><span class="citation-popover-snippet">The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</span></span></span>
+Research based on the network's observations shows that from the beginning of operations through late 2020, hundreds of fireballs and many more ordinary meteors were recorded. The network detected seasonal increases associated with major meteor showers such as the Leonids and Geminids, helping place UAE observations within global meteor science databases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-title">observations of fireballs with the uae meteor monitoring network</span><span class="citation-popover-snippet">The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</span></span></span>
 
-One advantage of such systems is that they provide evidence beyond eyewitness testimony. A bright object that appears mysterious from a single location can be triangulated using cameras at multiple stations. Researchers can estimate its trajectory, brightness, speed, and in some cases determine whether meteorite fragments may have survived to reach the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-title">observations of fireballs with the uae meteor monitoring network</span><span class="citation-popover-snippet">The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</span></span></span>
+One advantage of such systems is that they provide evidence beyond eyewitness testimony. A bright object that appears mysterious from a single location can be triangulated using cameras at multiple stations. Researchers can estimate its trajectory, brightness, speed, and in some cases determine whether meteorite fragments may have survived to reach the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-title">observations of fireballs with the uae meteor monitoring network</span><span class="citation-popover-snippet">The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</span></span></span>
 
-A notable example occurred in March 2019, when a bright fireball recorded by the UAE Astronomical Cameras Network was analysed strongly enough to justify a field search for possible meteorite fragments. Investigators calculated a potential fall zone and organised a search expedition near Abu Dhabi. Although such searches do not always recover material, they illustrate the level of precision now available in UAE meteor monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/uacn/index.html?l=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[astronomycenter.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">The calculations showed that a possible meteorite could have reached the ground in an area near the...Read more...</span></span></span>
+A notable example occurred in March 2019, when a bright fireball recorded by the UAE Astronomical Cameras Network was analysed strongly enough to justify a field search for possible meteorite fragments. Investigators calculated a potential fall zone and organised a search expedition near Abu Dhabi. Although such searches do not always recover material, they illustrate the level of precision now available in UAE meteor monitoring.<span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/uacn/index.html?l=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[astronomycenter.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">The calculations showed that a possible meteorite could have reached the ground in an area near the...Read more...</span></span></span>
 
-Another widely reported event occurred in February 2023, when a bright meteor crossed UAE skies during the early morning hours. Images captured by astronomy facilities confirmed that the object was a fireball—a particularly bright meteor—rather than an unknown aircraft or anomalous craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-title">so what whizzed past the dubai sky on monday night</span><span class="citation-popover-snippet">Khaleej TimesSo, what whizzed past the Dubai sky on Monday night?17 Oct 2017 — No UFO, colliding stars or meteor showers - it was a cargo...</span></span></span>
+Another widely reported event occurred in February 2023, when a bright meteor crossed UAE skies during the early morning hours. Images captured by astronomy facilities confirmed that the object was a fireball—a particularly bright meteor—rather than an unknown aircraft or anomalous craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khaleejtimes.com">[Khaleej Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khaleejtimes.com</span><span class="citation-popover-title">so what whizzed past the dubai sky on monday night</span><span class="citation-popover-snippet">Khaleej TimesSo, what whizzed past the Dubai sky on Monday night?17 Oct 2017 — No UFO, colliding stars or meteor showers - it was a cargo...</span></span></span>
 
 <img src="{{ "/assets/images/United_Arab_Emirates_c92b89_uae_space_debris_979e53-Illustration-2-dark.svg" | relative_url }}" alt="Space Debris illustration 2" data-theme-src-dark="{{ "/assets/images/United_Arab_Emirates_c92b89_uae_space_debris_979e53-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Arab_Emirates_c92b89_uae_space_debris_979e53-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Re-entries Often Look More Mysterious Than Meteors
 
 One reason re-entry events repeatedly generate UFO reports is that they behave differently from ordinary meteors.
 
-A natural meteor usually enters the atmosphere at extremely high speed and remains visible for only a few seconds. A large spacecraft or rocket body, by contrast, can remain visible for much longer. It often appears slower, travels across a larger portion of the sky, and breaks into multiple fragments that maintain a coherent formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThis NASA video of JAXA&#x27;s Hayabusa spacecraft, also from an observation aircraft, s...</span></span></span>
+A natural meteor usually enters the atmosphere at extremely high speed and remains visible for only a few seconds. A large spacecraft or rocket body, by contrast, can remain visible for much longer. It often appears slower, travels across a larger portion of the sky, and breaks into multiple fragments that maintain a coherent formation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThis NASA video of JAXA&#x27;s Hayabusa spacecraft, also from an observation aircraft, s...</span></span></span>
 
 To observers unfamiliar with atmospheric re-entry physics, these characteristics can look highly unusual:
 
@@ -296,11 +296,11 @@ To observers unfamiliar with atmospheric re-entry physics, these characteristics
 * The object may seem to change shape as pieces separate.
 * A long luminous trail can persist behind it.
 * The event may last tens of seconds rather than a momentary flash.
-* Brightness can fluctuate dramatically as components break apart. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThis NASA video of JAXA&#x27;s Hayabusa spacecraft, also from an observation aircraft, s...</span></span></span>
+* Brightness can fluctuate dramatically as components break apart.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThis NASA video of JAXA&#x27;s Hayabusa spacecraft, also from an observation aircraft, s...</span></span></span>
 
 </div>
 
-Many viral UAE videos that initially generated speculation about UFOs exhibit exactly these characteristics. Once analysts compared the timing of sightings with known orbital decay predictions, the mystery often disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">The NationalFalling Russian rocket now chief suspect for blazing lights...17 Oct 2017 — Dubai Astronomy Group reported that the object w...</span></span></span>
+Many viral UAE videos that initially generated speculation about UFOs exhibit exactly these characteristics. Once analysts compared the timing of sightings with known orbital decay predictions, the mystery often disappeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-snippet">The NationalFalling Russian rocket now chief suspect for blazing lights...17 Oct 2017 — Dubai Astronomy Group reported that the object w...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y3wJhnxY14U" title="Did you witness the #Geminid meteor shower, let us know!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y3wJhnxY14U" target="_blank" rel="noopener noreferrer">Did you witness the #Geminid meteor shower, let us know!</a></p><p class="youtube-embed-meta">Channel: Khaleej Times &middot; Views: 2.6K &middot; Uploaded: December 2020 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y3wJhnxY14U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y3wJhnxY14U">Open on YouTube</a></p></div></div></div>
 
@@ -321,208 +321,208 @@ When a bright object is reported, investigators typically ask several practical 
 
 </div>
 
-These details often determine whether an event was a meteor, a re-entering spacecraft, an aircraft, or something else entirely. Camera networks are particularly valuable because they remove many of the uncertainties inherent in eyewitness reports. Multiple observations allow investigators to reconstruct a three-dimensional trajectory rather than relying on subjective impressions. United Arab Emirates University <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/uacn/index.html?l=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[2astronomycenter.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">The calculations showed that a possible meteorite could have reached the ground in an area near the...Read more...</span></span></span>
+These details often determine whether an event was a meteor, a re-entering spacecraft, an aircraft, or something else entirely. Camera networks are particularly valuable because they remove many of the uncertainties inherent in eyewitness reports. Multiple observations allow investigators to reconstruct a three-dimensional trajectory rather than relying on subjective impressions. United Arab Emirates University<span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/uacn/index.html?l=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[2astronomycenter.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">The calculations showed that a possible meteorite could have reached the ground in an area near the...Read more...</span></span></span>
 
-This approach has increasingly transformed how unusual aerial reports are assessed in the Emirates. Instead of remaining unresolved stories, many sightings can be matched against known meteor activity, orbital data, or recorded fireball observations. The result is a growing body of documented cases in which seemingly extraordinary phenomena were identified through systematic observation rather than speculation. وكالة الإمارات للفضاء <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharjah.ac.ae">[University of Sharjah]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharjah.ac.ae</span><span class="citation-popover-snippet">University of SharjahUAEMMNIt is designed to monitor the skies over the UAE for space debris, including both human-made objects like sate...</span></span></span>
+This approach has increasingly transformed how unusual aerial reports are assessed in the Emirates. Instead of remaining unresolved stories, many sightings can be matched against known meteor activity, orbital data, or recorded fireball observations. The result is a growing body of documented cases in which seemingly extraordinary phenomena were identified through systematic observation rather than speculation. وكالة الإمارات للفضاء<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharjah.ac.ae">[University of Sharjah]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharjah.ac.ae</span><span class="citation-popover-snippet">University of SharjahUAEMMNIt is designed to monitor the skies over the UAE for space debris, including both human-made objects like sate...</span></span></span>
 
 <img src="{{ "/assets/images/United_Arab_Emirates_c92b89_uae_space_debris_979e53-Illustration-3-dark.svg" | relative_url }}" alt="Space Debris illustration 3" data-theme-src-dark="{{ "/assets/images/United_Arab_Emirates_c92b89_uae_space_debris_979e53-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_Arab_Emirates_c92b89_uae_space_debris_979e53-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for UAE UFO Reports
 
 Within the UAE's broader UFO and UAP landscape, meteors and space debris form one of the clearest categories of explained sightings. Unlike unresolved military sensor cases or poorly documented social-media clips, these events often leave measurable evidence that can be independently analysed.
 
-The development of national monitoring systems has strengthened that process. Networks designed to study meteors and fireballs now routinely capture events that earlier generations of observers might have regarded as inexplicable. As a result, some of the most spectacular lights ever reported over the Emirates have become examples not of enduring mysteries, but of successful identification through astronomy and space-surveillance techniques. وكالة الإمارات للفضاء <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-title">observations of fireballs with the uae meteor monitoring network</span><span class="citation-popover-snippet">The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</span></span></span>
+The development of national monitoring systems has strengthened that process. Networks designed to study meteors and fireballs now routinely capture events that earlier generations of observers might have regarded as inexplicable. As a result, some of the most spectacular lights ever reported over the Emirates have become examples not of enduring mysteries, but of successful identification through astronomy and space-surveillance techniques. وكالة الإمارات للفضاء<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.uaeu.ac.ae">[United Arab Emirates University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.uaeu.ac.ae</span><span class="citation-popover-title">observations of fireballs with the uae meteor monitoring network</span><span class="citation-popover-snippet">The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BzsKZbX0GSA" title="Geminid Meteor Shower Peaks for Stargazers in UAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BzsKZbX0GSA" target="_blank" rel="noopener noreferrer">Geminid Meteor Shower Peaks for Stargazers in UAE</a></p><p class="youtube-embed-meta">Channel: DUBAI ’one &middot; Views: 996 &middot; Uploaded: December 2024 &middot; Length: 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BzsKZbX0GSA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BzsKZbX0GSA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UAE UFOs Are Space Debris. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UAE UFOs Are Space Debris. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for distinguishing astronomical events from unknowns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for distinguishing astronomical events from unknowns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for unresolved versus identified events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for unresolved versus identified events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
-        </h4>
-        <p class="fr-book-author">By Peter Jenniskens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteor Showers and their Parent Comets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=14zKCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteor Showers and their Parent Comets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteor Showers and their Parent Comets">Meteor Showers and their Parent Comets</a>
+</h4>
+<p class="fr-book-author">By Peter Jenniskens</p>
         
-        <p class="fr-book-desc">Directly addresses phenomena often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses phenomena often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets+by+Peter+Jenniskens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evidence-based interpretation of dramatic sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based interpretation of dramatic sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteor+Showers+and+their+Parent+Comets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteor Showers and their Parent Comets</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-uae-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-uae-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ The development of national monitoring systems has strengthened that process. Ne
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ The development of national monitoring systems has strengthened that process. Ne
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ The development of national monitoring systems has strengthened that process. Ne
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ The development of national monitoring systems has strengthened that process. Ne
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ The development of national monitoring systems has strengthened that process. Ne
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,140 +725,139 @@ The development of national monitoring systems has strengthened that process. Ne
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: watchers.news  
    Title: sl 4 rocket body reentry dubai uae  
-   Link: <a href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — An atmospheric reentry of a Russian SL-4 rocket body created a...</p></details>
+   Link:<a href="https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2017/10/16/sl-4-rocket-body-reentry-dubai-uae/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impressive reentry of Russian SL-4 rocket body over Dubai...16 Oct 2017 — An atmospheric reentry of a Russian SL-4 rocket body created a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aerospace CorporationWhat Does a Reentry Look LikeThis NASA video of JAXA&#x27;s Hayabusa spacecraft, also from an observation aircraft, s...</p></details>
+   Link:<a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Aerospace CorporationWhat Does a Reentry Look LikeThis NASA video of JAXA&#x27;s Hayabusa spacecraft, also from an observation aircraft, s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: astronomycenter.net  
-   Link: <a href="https://astronomycenter.net/uacn/index.html?l=en" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/uacn/index.html?l=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The calculations showed that a possible meteorite could have reached the ground in an area near the...Read more...</p></details>
+   Link:<a href="https://astronomycenter.net/uacn/index.html?l=en" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/uacn/index.html?l=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The calculations showed that a possible meteorite could have reached the ground in an area near the...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: watchers.news  
    Title: uae meteor detecting stations  
-   Link: <a href="https://watchers.news/2016/11/15/uae-meteor-detecting-stations/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2016/11/15/uae-meteor-detecting-stations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>now in operation15 Nov 2016 — Three stations for detecting meteors in the United Arab Emirates are now operational, the UAE Space Agency...</p></details>
+   Link:<a href="https://watchers.news/2016/11/15/uae-meteor-detecting-stations/" target="_blank" rel="noopener noreferrer nofollow">https://watchers.news/2016/11/15/uae-meteor-detecting-stations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>now in operation15 Nov 2016 — Three stations for detecting meteors in the United Arab Emirates are now operational, the UAE Space Agency...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.gov.ae  
    Title: the uae meteor monitoring network  
-   Link: <a href="https://space.gov.ae/en/knowledge-center/science-and-technology/research-and-development/the-uae-meteor-monitoring-network" target="_blank" rel="noopener noreferrer nofollow">https://space.gov.ae/en/knowledge-center/science-and-technology/research-and-development/the-uae-meteor-monitoring-network</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>وكالة الإمارات للفضاءThe UAE Meteor Monitoring Network16 Apr 2026 — The purpose of the project is to monitor the sky for any type of spac...</p></details>
+   Link:<a href="https://space.gov.ae/en/knowledge-center/science-and-technology/research-and-development/the-uae-meteor-monitoring-network" target="_blank" rel="noopener noreferrer nofollow">https://space.gov.ae/en/knowledge-center/science-and-technology/research-and-development/the-uae-meteor-monitoring-network</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>وكالة الإمارات للفضاءThe UAE Meteor Monitoring Network16 Apr 2026 — The purpose of the project is to monitor the sky for any type of spac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sharjah.ac.ae  
-   Link: <a href="https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN" target="_blank" rel="noopener noreferrer nofollow">https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SharjahUAEMMNIt is designed to monitor the skies over the UAE for space debris, including both human-made objects like sate...</p></details>
+   Link:<a href="https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN" target="_blank" rel="noopener noreferrer nofollow">https://www.sharjah.ac.ae/SSAH/Space-Sciences/Meteorite-Laboratory/UAEMMN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of SharjahUAEMMNIt is designed to monitor the skies over the UAE for space debris, including both human-made objects like sate...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: research.uaeu.ac.ae  
    Title: observations of fireballs with the uae meteor monitoring network  
-   Link: <a href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow">https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</p></details>
+   Link:<a href="https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow">https://research.uaeu.ac.ae/en/publications/observations-of-fireballs-with-the-uae-meteor-monitoring-network/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: khaleejtimes.com  
    Title: so what whizzed past the dubai sky on monday night  
-   Link: <a href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Khaleej TimesSo, what whizzed past the Dubai sky on Monday night?17 Oct 2017 — No UFO, colliding stars or meteor showers - it was a cargo...</p></details>
+   Link:<a href="https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/so-what-whizzed-past-the-dubai-sky-on-monday-night</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Khaleej TimesSo, what whizzed past the Dubai sky on Monday night?17 Oct 2017 — No UFO, colliding stars or meteor showers - it was a cargo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thenationalnews.com  
-   Link: <a href="https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The NationalFalling Russian rocket now chief suspect for blazing lights...17 Oct 2017 — Dubai Astronomy Group reported that the object w...</p></details>
+   Link:<a href="https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/uae/falling-russian-rocket-now-chief-suspect-for-blazing-lights-seen-over-uae-1.667894</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The NationalFalling Russian rocket now chief suspect for blazing lights...17 Oct 2017 — Dubai Astronomy Group reported that the object w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: khaleejtimes.com  
    Title: another satellite entry over uae skies likely today  
-   Link: <a href="https://www.khaleejtimes.com/uae/another-satellite-entry-over-uae-skies-likely-today?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/another-satellite-entry-over-uae-skies-likely-today?amp=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Khaleej TimesAnother satellite entry over UAE skies likely today23 Oct 2017 — &quot;An expired satellite is expected to enter the atmosphere a...</p></details>
+   Link:<a href="https://www.khaleejtimes.com/uae/another-satellite-entry-over-uae-skies-likely-today?amp=1" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/another-satellite-entry-over-uae-skies-likely-today?amp=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Khaleej TimesAnother satellite entry over UAE skies likely today23 Oct 2017 — &quot;An expired satellite is expected to enter the atmosphere a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: research.uaeu.ac.ae  
    Title: fireballs captured by the uae meteor monitoring network  
-   Link: <a href="https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow">https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</p></details>
+   Link:<a href="https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/" target="_blank" rel="noopener noreferrer nofollow">https://research.uaeu.ac.ae/en/publications/fireballs-captured-by-the-uae-meteor-monitoring-network/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UAEMMN is hosted by the Sharjah Academy for Astronomy...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: khaleejtimes.com  
    Title: The International Astronomy Centre shared images of the fireball.Read more  
-   Link: <a href="https://www.khaleejtimes.com/uae/look-fireball-blazes-through-uae-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/look-fireball-blazes-through-uae-sky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Khaleej TimesLook: UAE skies light up as rare fireball blazes trail22 Feb 2023 — A rare bright meteor blazed through the UAE skies in the...</p></details>
+   Link:<a href="https://www.khaleejtimes.com/uae/look-fireball-blazes-through-uae-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/look-fireball-blazes-through-uae-sky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Khaleej TimesLook: UAE skies light up as rare fireball blazes trail22 Feb 2023 — A rare bright meteor blazed through the UAE skies in the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gh the seventies and eighties, the &quot;European work&quot; is the last one...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342148760_The_UAE_Meteor_Monitoring_Network</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gh the seventies and eighties, the &quot;European work&quot; is the last one...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: khaleejtimes.com  
    Title: look mysterious fireball spotted in uae skies  
-   Link: <a href="https://www.khaleejtimes.com/uae/look-mysterious-fireball-spotted-in-uae-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/look-mysterious-fireball-spotted-in-uae-skies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Look: Mysterious fireball spotted in UAE skies9 Jan 2021 — “The fireball was filmed by a special network of sophisticated astronomical ca...</p></details>
+   Link:<a href="https://www.khaleejtimes.com/uae/look-mysterious-fireball-spotted-in-uae-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.khaleejtimes.com/uae/look-mysterious-fireball-spotted-in-uae-skies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Look: Mysterious fireball spotted in UAE skies9 Jan 2021 — “The fireball was filmed by a special network of sophisticated astronomical ca...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: room.eu.com  
-   Link: <a href="https://room.eu.com/article/uae-meteor-and-debris-monitoring-network" target="_blank" rel="noopener noreferrer nofollow">https://room.eu.com/article/uae-meteor-and-debris-monitoring-network</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Room The Space Journal of AsgardiaUAE meteor and debris monitoring networkThe UAE Meteor Monitoring Network (UAEMMN) with a mission to mo...</p></details>
+   Link:<a href="https://room.eu.com/article/uae-meteor-and-debris-monitoring-network" target="_blank" rel="noopener noreferrer nofollow">https://room.eu.com/article/uae-meteor-and-debris-monitoring-network</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Room The Space Journal of AsgardiaUAE meteor and debris monitoring networkThe UAE Meteor Monitoring Network (UAEMMN) with a mission to mo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: unoosa.org  
-   Link: <a href="https://www.unoosa.org/documents/pdf/copuos/stsc/2020/tech-18E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/documents/pdf/copuos/stsc/2020/tech-18E.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAE Meteor Monitoring NetworkA fireball is a bright meteor, its peak magnitude is brighter than Venus. • A super bolide is a very bri...</p></details>
+   Link:<a href="https://www.unoosa.org/documents/pdf/copuos/stsc/2020/tech-18E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/documents/pdf/copuos/stsc/2020/tech-18E.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UAE Meteor Monitoring NetworkA fireball is a bright meteor, its peak magnitude is brighter than Venus. • A super bolide is a very bri...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/khaleejtimes/posts/watch-out-for-another-likely-fireball-over-uae-sky-as-the-satellite-enters-the-e/10155068919427864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/khaleejtimes/posts/watch-out-for-another-likely-fireball-over-uae-sky-as-the-satellite-enters-the-e/10155068919427864/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y, offering a breathtaking view under moonless, dark skies.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/khaleejtimes/posts/watch-out-for-another-likely-fireball-over-uae-sky-as-the-satellite-enters-the-e/10155068919427864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/khaleejtimes/posts/watch-out-for-another-likely-fireball-over-uae-sky-as-the-satellite-enters-the-e/10155068919427864/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y, offering a breathtaking view under moonless, dark skies.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/dubai/comments/1k4js4l/can_anyone_tell_me_what_this_could_be_i_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/dubai/comments/1k4js4l/can_anyone_tell_me_what_this_could_be_i_was/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>es/pyrotechnics attached to them and you&#x27;re pointing in exactly...</p></details>
+   Link:<a href="https://www.reddit.com/r/dubai/comments/1k4js4l/can_anyone_tell_me_what_this_could_be_i_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/dubai/comments/1k4js4l/can_anyone_tell_me_what_this_could_be_i_was/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es/pyrotechnics attached to them and you&#x27;re pointing in exactly...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gulfnews.com  
-   Link: <a href="https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Light streaking through Dubai&#x27;s night sky: Meteorite or...1 Nov 2018 — Dr Nora Al Saeed explaining the vantage point from where the Emir...</p></details>
+   Link:<a href="https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/uae/science/light-streaking-through-dubais-night-sky-meteorite-or-satellite-1.2107170</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Light streaking through Dubai&#x27;s night sky: Meteorite or...1 Nov 2018 — Dr Nora Al Saeed explaining the vantage point from where the Emir...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: publications.space.gov.ae  
-   Link: <a href="https://publications.space.gov.ae/ar/publications?keyword=DEM" target="_blank" rel="noopener noreferrer nofollow">https://publications.space.gov.ae/ar/publications?keyword=DEM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>planet Earth. These can be natural...Read more...</p></details>
+   Link:<a href="https://publications.space.gov.ae/ar/publications?keyword=DEM" target="_blank" rel="noopener noreferrer nofollow">https://publications.space.gov.ae/ar/publications?keyword=DEM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>planet Earth. These can be natural...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gulfnews.com  
    Title: Gulf News Fireball in the UAE?  
-   Link: <a href="https://gulfnews.com/going-out/society/fireball-in-the-uae-not-a-meteor-just-space-junk-1.2107814" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/going-out/society/fireball-in-the-uae-not-a-meteor-just-space-junk-1.2107814</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not a meteor, just space junk1 Nov 2018 — Hassan Al Hariri, CEO of Dubai Astronomy Group, told the media on Tuesday that the fireball was...</p></details>
+   Link:<a href="https://gulfnews.com/going-out/society/fireball-in-the-uae-not-a-meteor-just-space-junk-1.2107814" target="_blank" rel="noopener noreferrer nofollow">https://gulfnews.com/going-out/society/fireball-in-the-uae-not-a-meteor-just-space-junk-1.2107814</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not a meteor, just space junk1 Nov 2018 — Hassan Al Hariri, CEO of Dubai Astronomy Group, told the media on Tuesday that the fireball was...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: 🌍 When the sky falls  
-   Link: <a href="https://www.facebook.com/UNOOSA/posts/-when-the-sky-falls-cosmos-482-a-soviet-era-spacecraft-a-carrier-bus-and-lander-/1130063052493114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UNOOSA/posts/-when-the-sky-falls-cosmos-482-a-soviet-era-spacecraft-a-carrier-bus-and-lander-/1130063052493114/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmos 482, a Soviet-era spacecraft...🌍 When the sky falls - Cosmos 482, a Soviet-era spacecraft (a carrier bus and lander probe) - re-e...</p></details>
+   Link:<a href="https://www.facebook.com/UNOOSA/posts/-when-the-sky-falls-cosmos-482-a-soviet-era-spacecraft-a-carrier-bus-and-lander-/1130063052493114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UNOOSA/posts/-when-the-sky-falls-cosmos-482-a-soviet-era-spacecraft-a-carrier-bus-and-lander-/1130063052493114/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmos 482, a Soviet-era spacecraft...🌍 When the sky falls - Cosmos 482, a Soviet-era spacecraft (a carrier bus and lander probe) - re-e...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Coverage of Space Debris Event. Dubai Astronomy Group Press Conference  
-   Link: <a href="https://www.youtube.com/watch?v=TpPx9ApDFGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TpPx9ApDFGQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Fireballs Spotted From Space Explained | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TpPx9ApDFGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TpPx9ApDFGQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Fireballs Spotted From Space Explained | WION Podcast...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1T4WTfhCrkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1T4WTfhCrkQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coverage of Space Debris Event. Dubai Astronomy Group Press Conference - Khaleej Times...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1T4WTfhCrkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1T4WTfhCrkQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coverage of Space Debris Event. Dubai Astronomy Group Press Conference - Khaleej Times...</p></details>
    Published: October 2017

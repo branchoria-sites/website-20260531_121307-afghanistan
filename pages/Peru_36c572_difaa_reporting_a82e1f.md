@@ -254,26 +254,26 @@ image: /assets/images/Peru_36c572_difaa_reporting_a82e1f-Illustration-1-social.j
 
 ## Introduction
 
-Peru is one of the few countries in Latin America where the air force created a formal channel for reporting and analysing unusual aerial sightings. That fact is often exaggerated into claims that Peru “investigates aliens”, but the actual role of the Department for the Investigation of Anomalous Aerial Phenomena (DIFAA) was more limited and more revealing. The office functioned as a reporting, assessment and coordination mechanism inside the Peruvian Air Force rather than as a body that certified extraterrestrial explanations. Its purpose was to collect witness accounts, review images and videos, consult specialists, and determine whether reported objects might involve aviation safety, atmospheric events, space debris, hoaxes or genuinely unexplained observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
+Peru is one of the few countries in Latin America where the air force created a formal channel for reporting and analysing unusual aerial sightings. That fact is often exaggerated into claims that Peru “investigates aliens”, but the actual role of the Department for the Investigation of Anomalous Aerial Phenomena (DIFAA) was more limited and more revealing. The office functioned as a reporting, assessment and coordination mechanism inside the Peruvian Air Force rather than as a body that certified extraterrestrial explanations. Its purpose was to collect witness accounts, review images and videos, consult specialists, and determine whether reported objects might involve aviation safety, atmospheric events, space debris, hoaxes or genuinely unexplained observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
 
 <img src="{{ "/assets/images/Peru_36c572_difaa_reporting_a82e1f-Illustration-1-dark.svg" | relative_url }}" alt="DIFAA illustration 1" data-theme-src-dark="{{ "/assets/images/Peru_36c572_difaa_reporting_a82e1f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peru_36c572_difaa_reporting_a82e1f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding DIFAA helps explain why Peru occupies a distinctive place in regional UFO history. The office demonstrates how a government can treat anomalous aerial reports as public-information and airspace-management issues without endorsing extraordinary conclusions.
 
 ## Why the air force reopened DIFAA
 
-The best-known phase of DIFAA began in 2013, when the Peruvian Air Force announced that it was reactivating a department that had previously become inactive because of administrative problems. Officials said the decision was driven by a rise in reports reaching television programmes, newspapers and social media rather than by the discovery of new evidence for extraterrestrial visitors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/news/2013-10-peru-air-ufo-probe-team.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2013 10 peru air ufo probe team</span><span class="citation-popover-snippet">Peru air force brings back its UFO probe team19 Oct 2013 — Peru&#x27;s air force has said it is reviving a department to research anomalous ae...</span></span></span>
+The best-known phase of DIFAA began in 2013, when the Peruvian Air Force announced that it was reactivating a department that had previously become inactive because of administrative problems. Officials said the decision was driven by a rise in reports reaching television programmes, newspapers and social media rather than by the discovery of new evidence for extraterrestrial visitors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/news/2013-10-peru-air-ufo-probe-team.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2013 10 peru air ufo probe team</span><span class="citation-popover-snippet">Peru air force brings back its UFO probe team19 Oct 2013 — Peru&#x27;s air force has said it is reviving a department to research anomalous ae...</span></span></span>
 
-Colonel Julio Vucetich, who oversaw aerospace-related interests within the air force structure, repeatedly framed the problem as one of information management. Witnesses were already reporting strange lights and objects, but there was no consistent official mechanism for receiving and analysing those claims. According to statements reported by both Andina and international media, the revived office was intended to provide a place where citizens could submit information without fear of ridicule while allowing specialists to evaluate what had actually been observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/pdf301424749.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">PDF] Peru air force brings back its UFO probe team</span><span class="citation-popover-snippet">19, 2013 — Peru&#x27;s office is now being reopened because of &quot;increased sightings that are occurring in the country and that people are repo...</span></span></span>
+Colonel Julio Vucetich, who oversaw aerospace-related interests within the air force structure, repeatedly framed the problem as one of information management. Witnesses were already reporting strange lights and objects, but there was no consistent official mechanism for receiving and analysing those claims. According to statements reported by both Andina and international media, the revived office was intended to provide a place where citizens could submit information without fear of ridicule while allowing specialists to evaluate what had actually been observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/pdf301424749.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">PDF] Peru air force brings back its UFO probe team</span><span class="citation-popover-snippet">19, 2013 — Peru&#x27;s office is now being reopened because of &quot;increased sightings that are occurring in the country and that people are repo...</span></span></span>
 
-This institutional logic is important because it differs sharply from the popular image of a secret UFO bureau. The reopening announcement stressed data collection, classification and investigation. Officials specifically referred to phenomena that could include meteorites, atmospheric events, aerospace objects and space debris alongside more difficult cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
+This institutional logic is important because it differs sharply from the popular image of a secret UFO bureau. The reopening announcement stressed data collection, classification and investigation. Officials specifically referred to phenomena that could include meteorites, atmospheric events, aerospace objects and space debris alongside more difficult cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
 
-The timing also reflected a broader technological change. By 2013, mobile-phone cameras, social-media platforms and online video sharing had dramatically increased the number of public sightings. Even weak reports could spread nationally within hours. DIFAA's revival can therefore be understood partly as a response to the information environment created by smartphones rather than as a response to a single extraordinary event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
+The timing also reflected a broader technological change. By 2013, mobile-phone cameras, social-media platforms and online video sharing had dramatically increased the number of public sightings. Even weak reports could spread nationally within hours. DIFAA's revival can therefore be understood partly as a response to the information environment created by smartphones rather than as a response to a single extraordinary event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
 
 ## What the reporting system actually did
 
 A recurring misunderstanding is that a report entering DIFAA automatically became an officially validated UFO case. The office never operated that way.
 
-According to public descriptions of its mission, the department's role was to receive reports, gather supporting material, consult specialists and attempt to identify the phenomenon involved. Personnel and advisers included people from different fields such as astronomy, meteorology, sociology and archaeology alongside military staff. The goal was to build a multidisciplinary assessment process rather than a purely military one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/news/2013-10-peru-air-ufo-probe-team.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2013 10 peru air ufo probe team</span><span class="citation-popover-snippet">Peru air force brings back its UFO probe team19 Oct 2013 — Peru&#x27;s air force has said it is reviving a department to research anomalous ae...</span></span></span>
+According to public descriptions of its mission, the department's role was to receive reports, gather supporting material, consult specialists and attempt to identify the phenomenon involved. Personnel and advisers included people from different fields such as astronomy, meteorology, sociology and archaeology alongside military staff. The goal was to build a multidisciplinary assessment process rather than a purely military one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/news/2013-10-peru-air-ufo-probe-team.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2013 10 peru air ufo probe team</span><span class="citation-popover-snippet">Peru air force brings back its UFO probe team19 Oct 2013 — Peru&#x27;s air force has said it is reviving a department to research anomalous ae...</span></span></span>
 
 In practice, the workflow resembled a filtering system:
 
@@ -290,13 +290,13 @@ In practice, the workflow resembled a filtering system:
 
 This distinction between intake and confirmation is the central point often lost in popular coverage. An official reporting channel measures how many unusual reports exist; it does not prove that the reported objects are extraordinary.
 
-The office's public statements repeatedly reflected this cautious position. Officials acknowledged that some reports remained difficult to explain while also stressing that many sightings involved ordinary causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/ufo-hunting-in-peru-390/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">ufo hunting in peru 390</span><span class="citation-popover-snippet">Peru Has Reopened Its Office of UFO InvestigationsAug 8, 2014 — While the name of the Department of Investigation of Anomalous Aerial...</span></span></span>
+The office's public statements repeatedly reflected this cautious position. Officials acknowledged that some reports remained difficult to explain while also stressing that many sightings involved ordinary causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/ufo-hunting-in-peru-390/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">ufo hunting in peru 390</span><span class="citation-popover-snippet">Peru Has Reopened Its Office of UFO InvestigationsAug 8, 2014 — While the name of the Department of Investigation of Anomalous Aerial...</span></span></span>
 
 ## The Chulucanas connection and early case handling
 
-DIFAA's origins are closely linked to the wave of sightings reported around [Chulucanas]({{ 'chulucanas/' | relative_url }}) in northern Peru during the early 2000s. International coverage of the department often pointed to those reports as one of the first major incidents examined through Peru's official UFO framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://foreignpolicy.com/2013/10/29/perus-air-force-opens-a-ufo-office-and-its-twitter-friendly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foreignpolicy.com">[Foreign Policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foreignpolicy.com</span><span class="citation-popover-title">perus air force opens a ufo office and its twitter friendly</span><span class="citation-popover-snippet">Foreign PolicyPeru&#x27;s Air Force Opens a UFO Office, and It&#x27;s Twitter-FriendlyOct 29, 2013 — The Peruvian Air Force is reviving their own v...</span></span></span>
+DIFAA's origins are closely linked to the wave of sightings reported around [Chulucanas]({{ 'chulucanas/' | relative_url }}) in northern Peru during the early 2000s. International coverage of the department often pointed to those reports as one of the first major incidents examined through Peru's official UFO framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://foreignpolicy.com/2013/10/29/perus-air-force-opens-a-ufo-office-and-its-twitter-friendly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foreignpolicy.com">[Foreign Policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foreignpolicy.com</span><span class="citation-popover-title">perus air force opens a ufo office and its twitter friendly</span><span class="citation-popover-snippet">Foreign PolicyPeru&#x27;s Air Force Opens a UFO Office, and It&#x27;s Twitter-FriendlyOct 29, 2013 — The Peruvian Air Force is reviving their own v...</span></span></span>
 
-The significance of Chulucanas is not that it produced universally accepted evidence. Rather, it helped justify the creation of an institutional mechanism for handling large numbers of public reports. Witnesses described unusual lights and luminous objects, and the resulting publicity created pressure for a structured response rather than leaving the issue entirely to television programmes or private UFO researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://foreignpolicy.com/2013/10/29/perus-air-force-opens-a-ufo-office-and-its-twitter-friendly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foreignpolicy.com">[Foreign Policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foreignpolicy.com</span><span class="citation-popover-title">perus air force opens a ufo office and its twitter friendly</span><span class="citation-popover-snippet">Foreign PolicyPeru&#x27;s Air Force Opens a UFO Office, and It&#x27;s Twitter-FriendlyOct 29, 2013 — The Peruvian Air Force is reviving their own v...</span></span></span>
+The significance of Chulucanas is not that it produced universally accepted evidence. Rather, it helped justify the creation of an institutional mechanism for handling large numbers of public reports. Witnesses described unusual lights and luminous objects, and the resulting publicity created pressure for a structured response rather than leaving the issue entirely to television programmes or private UFO researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://foreignpolicy.com/2013/10/29/perus-air-force-opens-a-ufo-office-and-its-twitter-friendly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foreignpolicy.com">[Foreign Policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foreignpolicy.com</span><span class="citation-popover-title">perus air force opens a ufo office and its twitter friendly</span><span class="citation-popover-snippet">Foreign PolicyPeru&#x27;s Air Force Opens a UFO Office, and It&#x27;s Twitter-FriendlyOct 29, 2013 — The Peruvian Air Force is reviving their own v...</span></span></span>
 
 This illustrates a broader pattern in Peru's UFO history. The state generally became involved when reports reached a scale that affected public discussion or generated questions about airspace activity. The official response was administrative and investigative, not declarative.
 
@@ -305,16 +305,16 @@ This illustrates a broader pattern in Peru's UFO history. The state generally be
 
 One reason DIFAA attracted international attention is that many countries never created comparable public-facing offices. The existence of the department therefore became easy to misrepresent.
 
-News reports about the reopening frequently used headlines suggesting that Peru had established a government UFO bureau. Technically, that description was not wrong. Yet the wording often encouraged readers to assume that the state had accepted extraordinary explanations. The available evidence points to a more restrained reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
+News reports about the reopening frequently used headlines suggesting that Peru had established a government UFO bureau. Technically, that description was not wrong. Yet the wording often encouraged readers to assume that the state had accepted extraordinary explanations. The available evidence points to a more restrained reality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
 
 Several details support that interpretation:
 
-* Officials described anomalous aerial phenomena as a category requiring investigation, not as evidence of extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
-* The department examined conventional explanations alongside unusual ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/ufo-hunting-in-peru-390/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">ufo hunting in peru 390</span><span class="citation-popover-snippet">Peru Has Reopened Its Office of UFO InvestigationsAug 8, 2014 — While the name of the Department of Investigation of Anomalous Aerial...</span></span></span>
-* Public comments emphasised risk assessment, information gathering and public reassurance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
-* The office's existence did not lead to any official declaration that Peru had confirmed alien visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
+* Officials described anomalous aerial phenomena as a category requiring investigation, not as evidence of extraterrestrial craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
+* The department examined conventional explanations alongside unusual ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/ufo-hunting-in-peru-390/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">ufo hunting in peru 390</span><span class="citation-popover-snippet">Peru Has Reopened Its Office of UFO InvestigationsAug 8, 2014 — While the name of the Department of Investigation of Anomalous Aerial...</span></span></span>
+* Public comments emphasised risk assessment, information gathering and public reassurance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
+* The office's existence did not lead to any official declaration that Peru had confirmed alien visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span>
 
-In this respect, DIFAA resembles later UAP-reporting approaches seen elsewhere. Governments may decide that unexplained aerial observations deserve documentation because they could involve aviation hazards, surveillance concerns, sensor anomalies or public-order issues. That decision does not require acceptance of any particular explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In this respect, DIFAA resembles later UAP-reporting approaches seen elsewhere. Governments may decide that unexplained aerial observations deserve documentation because they could involve aviation hazards, surveillance concerns, sensor anomalies or public-order issues. That decision does not require acceptance of any particular explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1_TBOdgBB7g" title="Peruvian adventure: The secrets of Machu Picchu and Nazca Lines | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1_TBOdgBB7g" target="_blank" rel="noopener noreferrer">Peruvian adventure: The secrets of Machu Picchu and Nazca Lines | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 199.9K &middot; Uploaded: April 2026 &middot; Length: 1 hour 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1_TBOdgBB7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1_TBOdgBB7g">Open on YouTube</a></p></div></div></div>
 
@@ -322,7 +322,7 @@ In this respect, DIFAA resembles later UAP-reporting approaches seen elsewhere. 
 
 Peru's experience makes more sense when viewed alongside neighbouring countries that established official mechanisms for unusual aerial reports.
 
-When DIFAA was revived, reporting commonly compared Peru with Chile, Argentina, Brazil, Ecuador and Uruguay, all of which had developed some form of state-linked UFO or anomalous-phenomena review process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/pdf301424749.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">PDF] Peru air force brings back its UFO probe team</span><span class="citation-popover-snippet">19, 2013 — Peru&#x27;s office is now being reopened because of &quot;increased sightings that are occurring in the country and that people are repo...</span></span></span>
+When DIFAA was revived, reporting commonly compared Peru with Chile, Argentina, Brazil, Ecuador and Uruguay, all of which had developed some form of state-linked UFO or anomalous-phenomena review process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/pdf301424749.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">PDF] Peru air force brings back its UFO probe team</span><span class="citation-popover-snippet">19, 2013 — Peru&#x27;s office is now being reopened because of &quot;increased sightings that are occurring in the country and that people are repo...</span></span></span>
 
 Several common features appear across these systems:
 
@@ -335,7 +335,7 @@ Several common features appear across these systems:
 
 </div>
 
-Peru's version stands out because it became a visible part of the country's public UFO identity. International media repeatedly highlighted the office whenever unusual sightings occurred, reinforcing the perception that Peru was a major UFO hotspot. Yet the institutional structure itself was relatively consistent with broader Latin American efforts to document anomalous reports without endorsing extraordinary conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.taipeitimes.com/News/world/archives/2013/10/30/2003575761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taipeitimes.com">[Taipei Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taipeitimes.com</span><span class="citation-popover-snippet">Peru air force to revive UFO investigations officePeru&#x27;s air force is reopening an office responsible for investigating UFOs due to “incr...</span></span></span>
+Peru's version stands out because it became a visible part of the country's public UFO identity. International media repeatedly highlighted the office whenever unusual sightings occurred, reinforcing the perception that Peru was a major UFO hotspot. Yet the institutional structure itself was relatively consistent with broader Latin American efforts to document anomalous reports without endorsing extraordinary conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.taipeitimes.com/News/world/archives/2013/10/30/2003575761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taipeitimes.com">[Taipei Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taipeitimes.com</span><span class="citation-popover-snippet">Peru air force to revive UFO investigations officePeru&#x27;s air force is reopening an office responsible for investigating UFOs due to “incr...</span></span></span>
 
 <img src="{{ "/assets/images/Peru_36c572_difaa_reporting_a82e1f-Illustration-3-dark.svg" | relative_url }}" alt="DIFAA illustration 3" data-theme-src-dark="{{ "/assets/images/Peru_36c572_difaa_reporting_a82e1f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peru_36c572_difaa_reporting_a82e1f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The real significance of DIFAA
@@ -344,199 +344,199 @@ The lasting importance of DIFAA is not that it solved Peru's UFO mysteries. It i
 
 For researchers, that distinction matters. A government reporting office can generate archives, establish investigative procedures and preserve testimony that might otherwise disappear. At the same time, the existence of such an office should not be confused with proof that the reported phenomena were extraordinary.
 
-Peru's UFO office therefore occupies an unusual middle ground. It neither confirms the strongest claims made by enthusiasts nor supports the idea that all reports should be dismissed without examination. Instead, it represents a governance choice: unusual aerial observations were treated as information worth collecting, analysing and contextualising, even when most cases were likely to have ordinary explanations and only a small fraction remained unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/pdf301424749.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">PDF] Peru air force brings back its UFO probe team</span><span class="citation-popover-snippet">19, 2013 — Peru&#x27;s office is now being reopened because of &quot;increased sightings that are occurring in the country and that people are repo...</span></span></span>
+Peru's UFO office therefore occupies an unusual middle ground. It neither confirms the strongest claims made by enthusiasts nor supports the idea that all reports should be dismissed without examination. Instead, it represents a governance choice: unusual aerial observations were treated as information worth collecting, analysing and contextualising, even when most cases were likely to have ordinary explanations and only a small fraction remained unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">peru ufo investigations office reopening</span><span class="citation-popover-snippet">The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://phys.org/pdf301424749.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">PDF] Peru air force brings back its UFO probe team</span><span class="citation-popover-snippet">19, 2013 — Peru&#x27;s office is now being reopened because of &quot;increased sightings that are occurring in the country and that people are repo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9AG9i-mJPEA" title="Pilots Recount Same UFO Experience From Two Different Locations | Unidentified | The UnXplained Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9AG9i-mJPEA" target="_blank" rel="noopener noreferrer">Pilots Recount Same UFO Experience From Two Different Locations | Unidentified | The UnXplained Zone</a></p><p class="youtube-embed-meta">Channel: The UnXplained Zone &middot; Views: 30.9K &middot; Uploaded: May 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9AG9i-mJPEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9AG9i-mJPEA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Peru&#x27;s UFO Office Actually Did. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Peru&#x27;s UFO Office Actually Did. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Provides comparison with other government UFO investigation efforts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison with other government UFO investigation efforts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores government, military and institutional UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores government, military and institutional UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Closely matches DIFAA&#x27;s role as a governmental UFO-reporting body.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely matches DIFAA&#x27;s role as a governmental UFO-reporting body.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines how institutions and public narratives shape UFO discourse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how institutions and public narratives shape UFO discourse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-peru-s-ufo-office-actually-did-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-peru-s-ufo-office-actually-did-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ Peru's UFO office therefore occupies an unusual middle ground. It neither confir
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ Peru's UFO office therefore occupies an unusual middle ground. It neither confir
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ Peru's UFO office therefore occupies an unusual middle ground. It neither confir
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ Peru's UFO office therefore occupies an unusual middle ground. It neither confir
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ Peru's UFO office therefore occupies an unusual middle ground. It neither confir
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,116 +739,115 @@ Peru's UFO office therefore occupies an unusual middle ground. It neither confir
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: phys.org  
    Title: 2013 10 peru air ufo probe team  
-   Link: <a href="https://phys.org/news/2013-10-peru-air-ufo-probe-team.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2013-10-peru-air-ufo-probe-team.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Peru air force brings back its UFO probe team19 Oct 2013 — Peru&#x27;s air force has said it is reviving a department to research anomalous ae...</p></details>
+   Link:<a href="https://phys.org/news/2013-10-peru-air-ufo-probe-team.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2013-10-peru-air-ufo-probe-team.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peru air force brings back its UFO probe team19 Oct 2013 — Peru&#x27;s air force has said it is reviving a department to research anomalous ae...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vice.com  
    Title: ufo hunting in peru 390  
-   Link: <a href="https://www.vice.com/en/article/ufo-hunting-in-peru-390/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/ufo-hunting-in-peru-390/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Peru Has Reopened Its Office of UFO InvestigationsAug 8, 2014 — While the name of the Department of Investigation of Anomalous Aerial...</p></details>
+   Link:<a href="https://www.vice.com/en/article/ufo-hunting-in-peru-390/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/ufo-hunting-in-peru-390/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peru Has Reopened Its Office of UFO InvestigationsAug 8, 2014 — While the name of the Department of Investigation of Anomalous Aerial...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: phys.org  
    Title: [PDF] Peru air force brings back its UFO probe team  
-   Link: <a href="https://phys.org/pdf301424749.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/pdf301424749.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19, 2013 — Peru&#x27;s office is now being reopened because of &quot;increased sightings that are occurring in the country and that people are repo...</p></details>
+   Link:<a href="https://phys.org/pdf301424749.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/pdf301424749.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19, 2013 — Peru&#x27;s office is now being reopened because of &quot;increased sightings that are occurring in the country and that people are repo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
    Title: peru ufo investigations office reopening  
-   Link: <a href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2013/oct/27/peru-ufo-investigations-office-reopening</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianPeru&#x27;s UFO investigations office to be reopened27 Oct 2013 — Peru&#x27;s air force is reopening an office responsible for investig...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: taipeitimes.com  
-   Link: <a href="https://www.taipeitimes.com/News/world/archives/2013/10/30/2003575761" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/world/archives/2013/10/30/2003575761</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Peru air force to revive UFO investigations officePeru&#x27;s air force is reopening an office responsible for investigating UFOs due to “incr...</p></details>
+   Link:<a href="https://www.taipeitimes.com/News/world/archives/2013/10/30/2003575761" target="_blank" rel="noopener noreferrer nofollow">https://www.taipeitimes.com/News/world/archives/2013/10/30/2003575761</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peru air force to revive UFO investigations officePeru&#x27;s air force is reopening an office responsible for investigating UFOs due to “incr...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: foreignpolicy.com  
    Title: perus air force opens a ufo office and its twitter friendly  
-   Link: <a href="https://foreignpolicy.com/2013/10/29/perus-air-force-opens-a-ufo-office-and-its-twitter-friendly/" target="_blank" rel="noopener noreferrer nofollow">https://foreignpolicy.com/2013/10/29/perus-air-force-opens-a-ufo-office-and-its-twitter-friendly/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Foreign PolicyPeru&#x27;s Air Force Opens a UFO Office, and It&#x27;s Twitter-FriendlyOct 29, 2013 — The Peruvian Air Force is reviving their own v...</p></details>
+   Link:<a href="https://foreignpolicy.com/2013/10/29/perus-air-force-opens-a-ufo-office-and-its-twitter-friendly/" target="_blank" rel="noopener noreferrer nofollow">https://foreignpolicy.com/2013/10/29/perus-air-force-opens-a-ufo-office-and-its-twitter-friendly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Foreign PolicyPeru&#x27;s Air Force Opens a UFO Office, and It&#x27;s Twitter-FriendlyOct 29, 2013 — The Peruvian Air Force is reviving their own v...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/473231527411938/posts/1437771297624618/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/473231527411938/posts/1437771297624618/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Peru UFO Encounters (1980s–2000s): Pilot Reports Over...UFO spotted in Lima, Peru, near Miraflores. De Rossi Alessia ▻ Tell your persona...</p></details>
+   Link:<a href="https://www.facebook.com/groups/473231527411938/posts/1437771297624618/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/473231527411938/posts/1437771297624618/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peru UFO Encounters (1980s–2000s): Pilot Reports Over...UFO spotted in Lima, Peru, near Miraflores. De Rossi Alessia ▻ Tell your persona...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: handprint.com  
-   Link: <a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>as wildlifethe report refers to 144 such &quot;phenomena&quot; observed by US military and surveillance systems since 2004 — &quot;with the majority com...</p></details>
+   Link:<a href="https://www.handprint.com/UFO/UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/UFO.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as wildlifethe report refers to 144 such &quot;phenomena&quot; observed by US military and surveillance systems since 2004 — &quot;with the majority com...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: foxnews.com  
    Title: peru revives agency that investigates ufo sightings after recent reports  
-   Link: <a href="https://www.foxnews.com/lifestyle/peru-revives-agency-that-investigates-ufo-sightings-after-recent-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/lifestyle/peru-revives-agency-that-investigates-ufo-sightings-after-recent-reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peru Revives Agency That Investigates UFO Sightings After Recent...October 22, 2013 — After a number of alleged close encounters with th...</p></details>
+   Link:<a href="https://www.foxnews.com/lifestyle/peru-revives-agency-that-investigates-ufo-sightings-after-recent-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/lifestyle/peru-revives-agency-that-investigates-ufo-sightings-after-recent-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peru Revives Agency That Investigates UFO Sightings After Recent...October 22, 2013 — After a number of alleged close encounters with th...</p></details>
    Published: October 22, 2013  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: independent.co.uk  
    Title: trail of the unexpected seeking peru s plain truth 9831686  
-   Link: <a href="https://www.independent.co.uk/travel/americas/trail-of-the-unexpected-seeking-peru-s-plain-truth-9831686.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/travel/americas/trail-of-the-unexpected-seeking-peru-s-plain-truth-9831686.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO office was reopened by the government after a decade under lock and key. Far from being a clandestine operation, the Department of...</p></details>
+   Link:<a href="https://www.independent.co.uk/travel/americas/trail-of-the-unexpected-seeking-peru-s-plain-truth-9831686.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/travel/americas/trail-of-the-unexpected-seeking-peru-s-plain-truth-9831686.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO office was reopened by the government after a decade under lock and key. Far from being a clandestine operation, the Department of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: spacedaily.com  
    Title: Ethiopia sets sights on stars with space programme 999  
-   Link: <a href="https://www.spacedaily.com/reports/Ethiopia_sets_sights_on_stars_with_space_programme_999.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacedaily.com/reports/Ethiopia_sets_sights_on_stars_with_space_programme_999.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethiopia sets sights on stars with space programOct 22, 2013 — The Department of Investigation of Anomalous Aerial Phenomena, or DIFAA, w...</p></details>
+   Link:<a href="https://www.spacedaily.com/reports/Ethiopia_sets_sights_on_stars_with_space_programme_999.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacedaily.com/reports/Ethiopia_sets_sights_on_stars_with_space_programme_999.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ethiopia sets sights on stars with space programOct 22, 2013 — The Department of Investigation of Anomalous Aerial Phenomena, or DIFAA, w...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/witnesses-in-peru-have-reported-a-disturbing-and-baffling-sight-a-humanoid-figur/859413403744749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/witnesses-in-peru-have-reported-a-disturbing-and-baffling-sight-a-humanoid-figur/859413403744749/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sciousness and vibration we will begin to see other entities from...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/witnesses-in-peru-have-reported-a-disturbing-and-baffling-sight-a-humanoid-figur/859413403744749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/witnesses-in-peru-have-reported-a-disturbing-and-baffling-sight-a-humanoid-figur/859413403744749/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sciousness and vibration we will begin to see other entities from...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: alanba.com.kw  
    Title: Peru air force brings back its UFO probe team  
-   Link: <a href="https://www.alanba.com.kw/en/english/416815/21-10-2013-Peru-air-force-brings-back-its-UFO-probe-team/" target="_blank" rel="noopener noreferrer nofollow">https://www.alanba.com.kw/en/english/416815/21-10-2013-Peru-air-force-brings-back-its-UFO-probe-team/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>جريدة الأنباء الكويتيةOctober 21, 2013 — AFP -- Peru&#x27;s air force has said it is reviving a department to research anomalous aerial phenom...</p></details>
+   Link:<a href="https://www.alanba.com.kw/en/english/416815/21-10-2013-Peru-air-force-brings-back-its-UFO-probe-team/" target="_blank" rel="noopener noreferrer nofollow">https://www.alanba.com.kw/en/english/416815/21-10-2013-Peru-air-force-brings-back-its-UFO-probe-team/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>جريدة الأنباء الكويتيةOctober 21, 2013 — AFP -- Peru&#x27;s air force has said it is reviving a department to research anomalous aerial phenom...</p></details>
    Published: October 21, 2013  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: saudigazette.com.sa  
    Title: Peru air force brings back its UFO probe team  
-   Link: <a href="https://www.saudigazette.com.sa/article/63338/Peru-air-force-brings-back-its-UFO-probe-team" target="_blank" rel="noopener noreferrer nofollow">https://www.saudigazette.com.sa/article/63338/Peru-air-force-brings-back-its-UFO-probe-team</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 20, 2013 — LIMA — Peru&#x27;s air force has said it is reviving a department to research anomalous aerial phenomena — in other words, UFO...</p></details>
+   Link:<a href="https://www.saudigazette.com.sa/article/63338/Peru-air-force-brings-back-its-UFO-probe-team" target="_blank" rel="noopener noreferrer nofollow">https://www.saudigazette.com.sa/article/63338/Peru-air-force-brings-back-its-UFO-probe-team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 20, 2013 — LIMA — Peru&#x27;s air force has said it is reviving a department to research anomalous aerial phenomena — in other words, UFO...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/posts/recent-sighting-in-peru-captured-a-ufo-seemingly-releasing-a-glowing-orb-into-th/912824215070334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/recent-sighting-in-peru-captured-a-ufo-seemingly-releasing-a-glowing-orb-into-th/912824215070334/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 2019. Right? “Since we have an anomalous aerial...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ancientwhispers/posts/recent-sighting-in-peru-captured-a-ufo-seemingly-releasing-a-glowing-orb-into-th/912824215070334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/recent-sighting-in-peru-captured-a-ufo-seemingly-releasing-a-glowing-orb-into-th/912824215070334/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 2019. Right? “Since we have an anomalous aerial...Read more...</p></details>
    Published: February 2019  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: telegraph.co.uk  
    Title: Perus air force reinstates UFO department  
-   Link: <a href="https://www.telegraph.co.uk/news/worldnews/southamerica/peru/10391594/Perus-air-force-reinstates-UFO-department.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/worldnews/southamerica/peru/10391594/Perus-air-force-reinstates-UFO-department.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peru&#x27;s air force reinstates UFO department20 Oct 2013 — Peru&#x27;s air force has said it is reviving a department to research anomalous aeria...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/news/worldnews/southamerica/peru/10391594/Perus-air-force-reinstates-UFO-department.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/worldnews/southamerica/peru/10391594/Perus-air-force-reinstates-UFO-department.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peru&#x27;s air force reinstates UFO department20 Oct 2013 — Peru&#x27;s air force has said it is reviving a department to research anomalous aeria...</p></details>

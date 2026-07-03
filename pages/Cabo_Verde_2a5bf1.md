@@ -1201,28 +1201,28 @@ That makes Cabo Verde useful for a different reason: it shows how UFO claims beh
 
 For this page, a Cabo Verde UFO case means an unidentified aerial or near-surface phenomenon reported from Cabo Verdean territory, airspace, coastal waters, or a voyage closely tied to departure from Cabo Verde. That definition matters because many online results for “Cape Verde UFO” are false matches, recycled generic UFO pages, or content about unrelated places with similar names.
 
-Cabo Verde is a ten-island Atlantic archipelago, with nine inhabited islands, lying west of Senegal and divided into northern and southern island groups. The capital, Praia, is on Santiago; São Vicente, Sal, Boa Vista and Santiago are especially relevant to sightings because they combine population, ports, airports, tourism and open horizons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/foreign-travel-advice/cape-verde/safety-and-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Safety and security</span><span class="citation-popover-snippet">Safety and security</span></span></span>
+Cabo Verde is a ten-island Atlantic archipelago, with nine inhabited islands, lying west of Senegal and divided into northern and southern island groups. The capital, Praia, is on Santiago; São Vicente, Sal, Boa Vista and Santiago are especially relevant to sightings because they combine population, ports, airports, tourism and open horizons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/foreign-travel-advice/cape-verde/safety-and-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Safety and security</span><span class="citation-popover-snippet">Safety and security</span></span></span>
 
-The country also has four international airports: Praia, Sal, Boa Vista and São Vicente. That aviation footprint gives Cabo Verde more sky traffic than its population alone would suggest, while its island geography gives observers long sea horizons where aircraft, ships, planets, satellites and atmospheric effects can look strange when distance cues are weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visit-caboverde.com/en/travel-wise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visit-caboverde.com">[visit-caboverde.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visit-caboverde.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The country also has four international airports: Praia, Sal, Boa Vista and São Vicente. That aviation footprint gives Cabo Verde more sky traffic than its population alone would suggest, while its island geography gives observers long sea horizons where aircraft, ships, planets, satellites and atmospheric effects can look strange when distance cues are weak.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visit-caboverde.com/en/travel-wise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visit-caboverde.com">[visit-caboverde.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visit-caboverde.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The known public chronology is short
 
 The public chronology is best treated as a case list rather than a national wave. The available record does not show a long run of official investigations, declassified military files, or repeated multi-witness incidents comparable to better-known UFO archives in larger countries.
 
-The earliest clearly indexed modern item in the open web record is a 5 June 2011 claim from São Vicente. Latest UFO Sightings summarised it as “two linked lights and some other UFO activity” recorded in the sky above São Vicente, but the entry is an enthusiast-site post rather than an official investigation. It gives a useful location and date, but not enough independently verifiable sensor data, witness statements, or astronomical checks to establish anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span><span class="citation-popover-snippet">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span></span></span>
+The earliest clearly indexed modern item in the open web record is a 5 June 2011 claim from São Vicente. Latest UFO Sightings summarised it as “two linked lights and some other UFO activity” recorded in the sky above São Vicente, but the entry is an enthusiast-site post rather than an official investigation. It gives a useful location and date, but not enough independently verifiable sensor data, witness statements, or astronomical checks to establish anomaly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span><span class="citation-popover-snippet">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span></span></span>
 
-A second commonly indexed case is the 2017 “metallic blue UFO” claim. In that account, a British couple reportedly noticed an object in holiday photographs taken above the Cape Verde coast. This is a classic low-weight UFO-reporting pattern: the object is found after the fact, not tracked by witnesses in real time, and the main evidence is photographic. Without original image metadata, lens details, sequence frames and environmental context, possibilities such as birds, insects, reflections, lens artefacts or distant aircraft remain hard to exclude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span><span class="citation-popover-snippet">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span></span></span>
+A second commonly indexed case is the 2017 “metallic blue UFO” claim. In that account, a British couple reportedly noticed an object in holiday photographs taken above the Cape Verde coast. This is a classic low-weight UFO-reporting pattern: the object is found after the fact, not tracked by witnesses in real time, and the main evidence is photographic. Without original image metadata, lens details, sequence frames and environmental context, possibilities such as birds, insects, reflections, lens artefacts or distant aircraft remain hard to exclude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span><span class="citation-popover-snippet">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span></span></span>
 
-A third case sits partly outside the islands but still belongs in a Cabo Verde-linked chronology. NUFORC report 193255 describes an approximate 15 December 2012 night observation from a boat after about ten days of sailing from Cabo Verde towards Barbados. The witness reported two bright circular forms, estimated at two to three metres wide, apparently moving near a tanker and “jumping” with the waves. The report was only filed in October 2025, which makes memory delay a major reliability issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=193255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A third case sits partly outside the islands but still belongs in a Cabo Verde-linked chronology. NUFORC report 193255 describes an approximate 15 December 2012 night observation from a boat after about ten days of sailing from Cabo Verde towards Barbados. The witness reported two bright circular forms, estimated at two to three metres wide, apparently moving near a tanker and “jumping” with the waves. The report was only filed in October 2025, which makes memory delay a major reliability issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=193255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Cabo_Verde_2a5bf1-Illustration-1-dark.svg" | relative_url }}" alt="What UFO Reports Survive Cabo Verde? illustration 1" data-theme-src-dark="{{ "/assets/images/Cabo_Verde_2a5bf1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cabo_Verde_2a5bf1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why São Vicente, Sal and Boa Vista are over-represented
 
-The regional pattern is shaped less by mystery than by observation conditions. São Vicente has Mindelo, a major port and marina environment; Sal and Boa Vista have heavy tourism and international air links; Santiago has the capital and the country’s largest urban concentration. These are the places where people are most likely to be outside at night, filming, travelling, sailing, or looking across wide sea and airport approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/foreign-travel-advice/cape-verde/safety-and-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Safety and security</span><span class="citation-popover-snippet">Safety and security</span></span></span>
+The regional pattern is shaped less by mystery than by observation conditions. São Vicente has Mindelo, a major port and marina environment; Sal and Boa Vista have heavy tourism and international air links; Santiago has the capital and the country’s largest urban concentration. These are the places where people are most likely to be outside at night, filming, travelling, sailing, or looking across wide sea and airport approaches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/foreign-travel-advice/cape-verde/safety-and-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Safety and security</span><span class="citation-popover-snippet">Safety and security</span></span></span>
 
 Sal and Boa Vista are especially prone to ambiguous “holiday UFO” material because visitors often photograph sunsets, beaches, aircraft approaches, excursion boats and night skies without knowing local flight paths or satellite pass times. São Vicente adds a different pattern: harbour lights, inter-island ferry movement, marina traffic and views towards Santo Antão can create layered night scenes where distance and altitude are difficult to judge.
 
-Cabo Verde’s winter dry haze is also important. Saharan dust can reduce visibility, affect air quality and disrupt aviation, with the UK travel advice specifically warning that sandstorms or “bruma seca” can occur between December and February and can disrupt air travel, especially on Boa Vista. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/foreign-travel-advice/cape-verde/safety-and-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Safety and security</span><span class="citation-popover-snippet">Safety and security</span></span></span> Inforpress reported a December 2024 INMG warning of elevated inhalable particles and poor visibility across Cabo Verde, with visibility expected to remain poor or moderate over several days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inforpress.cv/en/niveis-elevados-de-particulas-inalaveis-e-ma-visibilidade-continuam-ate-domingo-inmg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inforpress.cv">[Inforpress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inforpress.cv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Cabo Verde’s winter dry haze is also important. Saharan dust can reduce visibility, affect air quality and disrupt aviation, with the UK travel advice specifically warning that sandstorms or “bruma seca” can occur between December and February and can disrupt air travel, especially on Boa Vista.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/foreign-travel-advice/cape-verde/safety-and-security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Safety and security</span><span class="citation-popover-snippet">Safety and security</span></span></span> Inforpress reported a December 2024 INMG warning of elevated inhalable particles and poor visibility across Cabo Verde, with visibility expected to remain poor or moderate over several days.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.inforpress.cv/en/niveis-elevados-de-particulas-inalaveis-e-ma-visibilidade-continuam-ate-domingo-inmg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inforpress.cv">[Inforpress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inforpress.cv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That matters for UFO assessment because haze changes contrast, colour, apparent size and perceived motion. A bright planet, aircraft landing light, ship light or satellite seen through dust can look larger, dimmer, redder, fuzzier, or apparently detached from its ordinary source.
 
@@ -1232,7 +1232,7 @@ That matters for UFO assessment because haze changes contrast, colour, apparent 
 
 There is no clearly visible Cabo Verdean equivalent of a public national UFO archive. The official systems that do exist are safety and accident-investigation systems, not UFO-reporting programmes.
 
-Cabo Verde’s aviation occurrence rules are framed around safety: reporting systems are intended to improve operational safety, store and analyse relevant safety information, and prevent accidents or incidents rather than assign blame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aac.cv/documento/opendoc/1692789709_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aac.cv">[AAC Cabo Verde]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aac.cv</span><span class="citation-popover-title">1692789709 en</span><span class="citation-popover-snippet">1692789709 en</span></span></span> Cabo Verde’s IPIAAM, the Institute for the Prevention and Investigation of Aeronautical and Maritime Accidents, presents itself as an aviation and maritime accident-investigation body, with contact routes for air and maritime accidents and documents on accident-investigation procedures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipiaam.cv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipiaam.cv">[IPIAAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipiaam.cv</span><span class="citation-popover-title">Instituto de Prevenção e Investigação de Acidentes Aereos e Maritimos</span><span class="citation-popover-snippet">Instituto de Prevenção e Investigação de Acidentes Aereos e Maritimos</span></span></span>
+Cabo Verde’s aviation occurrence rules are framed around safety: reporting systems are intended to improve operational safety, store and analyse relevant safety information, and prevent accidents or incidents rather than assign blame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aac.cv/documento/opendoc/1692789709_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aac.cv">[AAC Cabo Verde]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aac.cv</span><span class="citation-popover-title">1692789709 en</span><span class="citation-popover-snippet">1692789709 en</span></span></span> Cabo Verde’s IPIAAM, the Institute for the Prevention and Investigation of Aeronautical and Maritime Accidents, presents itself as an aviation and maritime accident-investigation body, with contact routes for air and maritime accidents and documents on accident-investigation procedures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipiaam.cv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipiaam.cv">[IPIAAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipiaam.cv</span><span class="citation-popover-title">Instituto de Prevenção e Investigação de Acidentes Aereos e Maritimos</span><span class="citation-popover-snippet">Instituto de Prevenção e Investigação de Acidentes Aereos e Maritimos</span></span></span>
 
 That distinction is crucial. If an unidentified object created an aviation hazard, it might enter an aviation safety channel as an occurrence, airprox, drone hazard, meteorological issue, bird strike concern, or navigational incident. But ordinary public sightings of lights in the sky would not automatically produce a declassified “UFO file”. The absence of a public UFO archive is therefore not proof that nothing was ever reported; it means there is no accessible national evidence base strong enough to sustain a detailed incident history.
 
@@ -1240,13 +1240,13 @@ That distinction is crucial. If an unidentified object created an aviation hazar
 
 No publicly documented Cabo Verde case currently qualifies as confirmed anomalous. “Confirmed” would require more than a witness statement or image: ideally multiple independent witnesses, original media files, precise time and location, flight and satellite checks, weather data, and ideally radar, maritime or aviation corroboration.
 
-The 2011 São Vicente report is best classed as contested or unresolved, not confirmed. It has a date, island and video claim, but the surviving public summary comes from a UFO blog and does not provide enough technical information to rule out satellites, aircraft, lanterns, drones, camera effects or celestial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span><span class="citation-popover-snippet">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span></span></span>
+The 2011 São Vicente report is best classed as contested or unresolved, not confirmed. It has a date, island and video claim, but the surviving public summary comes from a UFO blog and does not provide enough technical information to rule out satellites, aircraft, lanterns, drones, camera effects or celestial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span><span class="citation-popover-snippet">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span></span></span>
 
-The 2017 holiday-photo claim is also contested, but weaker than a real-time observation. After-the-fact photo discoveries are vulnerable to misinterpretation because the witness did not necessarily see motion, sound, direction, duration or behaviour at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span><span class="citation-popover-snippet">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span></span></span>
+The 2017 holiday-photo claim is also contested, but weaker than a real-time observation. After-the-fact photo discoveries are vulnerable to misinterpretation because the witness did not necessarily see motion, sound, direction, duration or behaviour at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span><span class="citation-popover-snippet">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span></span></span>
 
-The 2012 sailing report is vivid but evidentially fragile. It was reported roughly thirteen years after the alleged observation, occurred at sea after departure from Cabo Verde, and involves visual estimates in darkness near a lit tanker. It is a legitimate witness narrative, but not a strong investigative case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=193255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The 2012 sailing report is vivid but evidentially fragile. It was reported roughly thirteen years after the alleged observation, occurred at sea after departure from Cabo Verde, and involves visual estimates in darkness near a lit tanker. It is a legitimate witness narrative, but not a strong investigative case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=193255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The most plausible “debunked in principle” category for Cabo Verde is not one named case, but a class of sightings: lines or clusters of moving lights. Starlink and other low-Earth-orbit satellites are now a major source of UFO-like reports worldwide. Starlink trains can appear as bright dots moving in a line shortly after launch, usually after sunset or before sunrise, and Starlink service became operational in Cabo Verde in December 2024. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</span></span></span>
+The most plausible “debunked in principle” category for Cabo Verde is not one named case, but a class of sightings: lines or clusters of moving lights. Starlink and other low-Earth-orbit satellites are now a major source of UFO-like reports worldwide. Starlink trains can appear as bright dots moving in a line shortly after launch, usually after sunset or before sunrise, and Starlink service became operational in Cabo Verde in December 2024.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</span></span></span>
 
 <img src="{{ "/assets/images/Cabo_Verde_2a5bf1-Illustration-2-dark.svg" | relative_url }}" alt="What UFO Reports Survive Cabo Verde? illustration 2" data-theme-src-dark="{{ "/assets/images/Cabo_Verde_2a5bf1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cabo_Verde_2a5bf1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest ordinary explanations
@@ -1257,19 +1257,19 @@ Aircraft are the first check. Cabo Verde’s international airports on Sal, Boa 
 
 Satellites are the second check. Starlink trains, individual satellites and the International Space Station can all produce silent moving lights. They are especially easy to misread over islands because the horizon is open and there are few buildings or mountains blocking the sky.
 
-Meteors and fireballs are the third check. The American Meteor Society’s fireball system lists Cape Verde among countries represented in its fireball-report map, showing that bright meteor reports from the country or its vicinity are plausible even if sparse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fireball.amsmeteors.org/members/imo_fireball_stats/map_country" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.amsmeteors.org</span><span class="citation-popover-title">map country</span><span class="citation-popover-snippet">map country</span></span></span> Fireballs can be bright, coloured, fragmented and startling; short duration is often the clue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fireball.amsmeteors.org/members/imo_fireball_stats/map_country" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.amsmeteors.org</span><span class="citation-popover-title">map country</span><span class="citation-popover-snippet">map country</span></span></span>
+Meteors and fireballs are the third check. The American Meteor Society’s fireball system lists Cape Verde among countries represented in its fireball-report map, showing that bright meteor reports from the country or its vicinity are plausible even if sparse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fireball.amsmeteors.org/members/imo_fireball_stats/map_country" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.amsmeteors.org</span><span class="citation-popover-title">map country</span><span class="citation-popover-snippet">map country</span></span></span> Fireballs can be bright, coloured, fragmented and startling; short duration is often the clue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fireball.amsmeteors.org/members/imo_fireball_stats/map_country" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.amsmeteors.org</span><span class="citation-popover-title">map country</span><span class="citation-popover-snippet">map country</span></span></span>
 
-Atmospheric dust is the fourth check. A scientific study of Saharan dust over Cabo Verde found seasonal intrusions from North West Africa affecting the islands at surface level from October to March, with high particulate concentrations and optical effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://b.tellusjournals.se/articles/10.3402/tellusb.v67.24410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: b.tellusjournals.se">[Tellus B]</a><span class="citation-popover" role="note"><span class="citation-popover-source">b.tellusjournals.se</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Dust does not create structured craft, but it can distort ordinary lights enough to produce sincere misidentifications.
+Atmospheric dust is the fourth check. A scientific study of Saharan dust over Cabo Verde found seasonal intrusions from North West Africa affecting the islands at surface level from October to March, with high particulate concentrations and optical effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://b.tellusjournals.se/articles/10.3402/tellusb.v67.24410" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: b.tellusjournals.se">[Tellus B]</a><span class="citation-popover" role="note"><span class="citation-popover-source">b.tellusjournals.se</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Dust does not create structured craft, but it can distort ordinary lights enough to produce sincere misidentifications.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/56f0dI_SxQE" title="Top 10 Best Cape Verde Islands - Travel Video 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=56f0dI_SxQE" target="_blank" rel="noopener noreferrer">Top 10 Best Cape Verde Islands - Travel Video 2024</a></p><p class="youtube-embed-meta">Channel: Travel Insights &middot; Views: 33.7K &middot; Uploaded: May 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=56f0dI_SxQE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=56f0dI_SxQE">Open on YouTube</a></p></div></div></div>
 
 ## How local sources should be weighted
 
-Local-source reliability should be judged by evidence, not by whether a report sounds dramatic. A local newspaper citing a named official agency, a meteorological institute, airport operator or investigation body carries more weight than a reposted clip. Cabo Verde’s Expresso das Ilhas, for example, has covered the international NASA UAP discussion through Lusa, but that is not the same as documenting a Cabo Verdean incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://expressodasilhas.cv/eitec/2023/06/02/nasa-diz-que-nada-sugere-ligacao-entre-ovni-e-vida-extraterrestre/86084" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expressodasilhas.cv">[Expresso das Ilhas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expressodasilhas.cv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Local-source reliability should be judged by evidence, not by whether a report sounds dramatic. A local newspaper citing a named official agency, a meteorological institute, airport operator or investigation body carries more weight than a reposted clip. Cabo Verde’s Expresso das Ilhas, for example, has covered the international NASA UAP discussion through Lusa, but that is not the same as documenting a Cabo Verdean incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://expressodasilhas.cv/eitec/2023/06/02/nasa-diz-que-nada-sugere-ligacao-entre-ovni-e-vida-extraterrestre/86084" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: expressodasilhas.cv">[Expresso das Ilhas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">expressodasilhas.cv</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Social media can still matter, especially in a small country where eyewitnesses may post before journalists report. But it needs careful handling. Posts can establish that people were discussing lights, but they rarely provide enough data to identify the object. A useful post includes the exact island, town, direction faced, time, duration, camera file, whether the object blinked, whether sound was heard, and whether multiple independent videos exist.
 
-International UFO databases are mixed. NUFORC is useful because it preserves witness narratives with dates, reported locations and structured fields, but it is not an official verification body. Enthusiast sites such as Latest UFO Sightings are useful leads, not final evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span><span class="citation-popover-snippet">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span></span></span>
+International UFO databases are mixed. NUFORC is useful because it preserves witness narratives with dates, reported locations and structured fields, but it is not an official verification body. Enthusiast sites such as Latest UFO Sightings are useful leads, not final evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latest-ufo-sightings.net">[Latest UFO Sightings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latest-ufo-sightings.net</span><span class="citation-popover-title">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span><span class="citation-popover-snippet">Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XJ1QzmfPBI4" title="The Geography of Cape Verde (Cabo Verde) in 3 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XJ1QzmfPBI4" target="_blank" rel="noopener noreferrer">The Geography of Cape Verde (Cabo Verde) in 3 Minutes</a></p><p class="youtube-embed-meta">Channel: GeoCam Africa &middot; Views: 2.3K &middot; Uploaded: March 2025 &middot; Length: 3 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XJ1QzmfPBI4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XJ1QzmfPBI4">Open on YouTube</a></p></div></div></div>
 
@@ -1277,201 +1277,201 @@ International UFO databases are mixed. NUFORC is useful because it preserves wit
 
 Cabo Verde belongs naturally beside sibling country pages where the evidence base is thin, maritime, tourist-heavy or dominated by lights-in-the-sky reports. It is not currently comparable to countries with large military UFO archives, parliamentary inquiries, official UAP offices, or famous multi-witness historical incidents.
 
-The broader lesson is consistent with NASA’s 2023 UAP work: the limiting factor in many UAP cases is not the lack of theories, but the lack of high-quality data. NASA’s independent study stressed that UAP analysis is more limited by data quality than by analytical technique, and that better calibrated data collection matters more than speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> Cabo Verde’s public record illustrates that point clearly: the cases are intriguing enough to catalogue, but too thin to elevate.
+The broader lesson is consistent with NASA’s 2023 UAP work: the limiting factor in many UAP cases is not the lack of theories, but the lack of high-quality data. NASA’s independent study stressed that UAP analysis is more limited by data quality than by analytical technique, and that better calibrated data collection matters more than speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> Cabo Verde’s public record illustrates that point clearly: the cases are intriguing enough to catalogue, but too thin to elevate.
 
 The most defensible classification for Cabo Verde is therefore: sparse public record; no confirmed anomalous case; a handful of contested reports; strong ordinary-explanation environment; and no visible national UFO archive. That may sound less exciting than a mystery narrative, but it is more useful. It tells readers where the evidence actually stands, which cases are worth preserving, and what kind of documentation would be needed for any future Cabo Verde sighting to change the assessment.
 
 <img src="{{ "/assets/images/Cabo_Verde_2a5bf1-Illustration-3-dark.svg" | relative_url }}" alt="What UFO Reports Survive Cabo Verde? illustration 3" data-theme-src-dark="{{ "/assets/images/Cabo_Verde_2a5bf1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cabo_Verde_2a5bf1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What UFO Reports Survive Cabo Verde?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What UFO Reports Survive Cabo Verde?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating scattered sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating scattered sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Explains how evidence and records are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how evidence and records are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Useful for sorting strong reports from weak ones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for sorting strong reports from weak ones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a general national UFO-record overview page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a general national UFO-record overview page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-survive-cabo-verde-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-survive-cabo-verde-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1487,7 +1487,7 @@ The most defensible classification for Cabo Verde is therefore: sparse public re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1507,7 +1507,7 @@ The most defensible classification for Cabo Verde is therefore: sparse public re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1539,7 +1539,7 @@ The most defensible classification for Cabo Verde is therefore: sparse public re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1591,7 +1591,7 @@ The most defensible classification for Cabo Verde is therefore: sparse public re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1636,7 +1636,7 @@ The most defensible classification for Cabo Verde is therefore: sparse public re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1674,257 +1674,256 @@ The most defensible classification for Cabo Verde is therefore: sparse public re
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: latest-ufo-sightings.net  
    Title: Latest UFO Sightings Cape Verde Archives • Latest UFO Sightings  
-   Link: <a href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/tag/cape-verde</a>  
+   Link:<a href="https://www.latest-ufo-sightings.net/tag/cape-verde" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/tag/cape-verde</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=193255" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193255</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=193255" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193255</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Cape Verde  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/654cfedf014cc90010677386/Cape_Verde_Toponymic_Factfile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/654cfedf014cc90010677386/Cape_Verde_Toponymic_Factfile.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/654cfedf014cc90010677386/Cape_Verde_Toponymic_Factfile.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/654cfedf014cc90010677386/Cape_Verde_Toponymic_Factfile.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: visit-caboverde.com  
-   Link: <a href="https://www.visit-caboverde.com/en/travel-wise" target="_blank" rel="noopener noreferrer nofollow">https://www.visit-caboverde.com/en/travel-wise</a>  
+   Link:<a href="https://www.visit-caboverde.com/en/travel-wise" target="_blank" rel="noopener noreferrer nofollow">https://www.visit-caboverde.com/en/travel-wise</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: Safety and security  
-   Link: <a href="https://www.gov.uk/foreign-travel-advice/cape-verde/safety-and-security" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/cape-verde/safety-and-security</a>  
+   Link:<a href="https://www.gov.uk/foreign-travel-advice/cape-verde/safety-and-security" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/foreign-travel-advice/cape-verde/safety-and-security</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: inforpress.cv  
-   Link: <a href="https://www.inforpress.cv/en/niveis-elevados-de-particulas-inalaveis-e-ma-visibilidade-continuam-ate-domingo-inmg" target="_blank" rel="noopener noreferrer nofollow">https://www.inforpress.cv/en/niveis-elevados-de-particulas-inalaveis-e-ma-visibilidade-continuam-ate-domingo-inmg</a>  
+   Link:<a href="https://www.inforpress.cv/en/niveis-elevados-de-particulas-inalaveis-e-ma-visibilidade-continuam-ate-domingo-inmg" target="_blank" rel="noopener noreferrer nofollow">https://www.inforpress.cv/en/niveis-elevados-de-particulas-inalaveis-e-ma-visibilidade-continuam-ate-domingo-inmg</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aac.cv  
    Title: 1692789709 en  
-   Link: <a href="https://www.aac.cv/documento/opendoc/1692789709_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/1692789709_en.pdf</a>  
+   Link:<a href="https://www.aac.cv/documento/opendoc/1692789709_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/1692789709_en.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ipiaam.cv  
    Title: Instituto de Prevenção e Investigação de Acidentes Aereos e Maritimos  
-   Link: <a href="https://www.ipiaam.cv/" target="_blank" rel="noopener noreferrer nofollow">https://www.ipiaam.cv/</a>  
+   Link:<a href="https://www.ipiaam.cv/" target="_blank" rel="noopener noreferrer nofollow">https://www.ipiaam.cv/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</p></details>
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: b.tellusjournals.se  
-   Link: <a href="https://b.tellusjournals.se/articles/10.3402/tellusb.v67.24410" target="_blank" rel="noopener noreferrer nofollow">https://b.tellusjournals.se/articles/10.3402/tellusb.v67.24410</a>  
+   Link:<a href="https://b.tellusjournals.se/articles/10.3402/tellusb.v67.24410" target="_blank" rel="noopener noreferrer nofollow">https://b.tellusjournals.se/articles/10.3402/tellusb.v67.24410</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aac.cv  
    Title: 1674561596 pt  
-   Link: <a href="https://www.aac.cv/documento/opendoc/1674561596_pt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/1674561596_pt.pdf</a>  
+   Link:<a href="https://www.aac.cv/documento/opendoc/1674561596_pt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/1674561596_pt.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aac.cv  
-   Link: <a href="https://www.aac.cv/artigo/207" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/artigo/207</a>  
+   Link:<a href="https://www.aac.cv/artigo/207" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/artigo/207</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aac.cv  
-   Link: <a href="https://www.aac.cv/documento/opendoc/1554211827.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/1554211827.pdf</a>  
+   Link:<a href="https://www.aac.cv/documento/opendoc/1554211827.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/1554211827.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aac.cv  
-   Link: <a href="https://www.aac.cv/documento/opendoc/1551716548.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/1551716548.pdf</a>  
+   Link:<a href="https://www.aac.cv/documento/opendoc/1551716548.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/1551716548.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: passageiro.aac.cv  
-   Link: <a href="https://passageiro.aac.cv/doc/dl-4-2009-7-set.pdf" target="_blank" rel="noopener noreferrer nofollow">https://passageiro.aac.cv/doc/dl-4-2009-7-set.pdf</a>  
+   Link:<a href="https://passageiro.aac.cv/doc/dl-4-2009-7-set.pdf" target="_blank" rel="noopener noreferrer nofollow">https://passageiro.aac.cv/doc/dl-4-2009-7-set.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aac.cv  
-   Link: <a href="https://www.aac.cv/artigo/89" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/artigo/89</a>  
+   Link:<a href="https://www.aac.cv/artigo/89" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/artigo/89</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aac.cv  
    Title: 1603967079 en  
-   Link: <a href="https://www.aac.cv/documento/opendoc/1603967079_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/1603967079_en.pdf</a>  
+   Link:<a href="https://www.aac.cv/documento/opendoc/1603967079_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/1603967079_en.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aac.cv  
-   Link: <a href="https://www.aac.cv/documento/opendoc/337.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/337.pdf</a>  
+   Link:<a href="https://www.aac.cv/documento/opendoc/337.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/337.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aac.cv  
    Title: I Série  
-   Link: <a href="https://www.aac.cv/documento/opendoc/39.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/39.pdf</a>  
+   Link:<a href="https://www.aac.cv/documento/opendoc/39.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/39.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aac.cv  
-   Link: <a href="https://www.aac.cv/documento/opendoc/1528364388.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/1528364388.xlsx</a>  
+   Link:<a href="https://www.aac.cv/documento/opendoc/1528364388.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.aac.cv/documento/opendoc/1528364388.xlsx</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/world/cape_verde" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/world/cape_verde</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/world/cape_verde" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/world/cape_verde</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/forecast/e6zxjzc0e" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/e6zxjzc0e</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/forecast/e6zxjzc0e" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/e6zxjzc0e</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: 2009-2017.state.gov  
-   Link: <a href="https://2009-2017.state.gov/outofdate/bgn/capeverde/81431.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/capeverde/81431.htm</a>  
+   Link:<a href="https://2009-2017.state.gov/outofdate/bgn/capeverde/81431.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/outofdate/bgn/capeverde/81431.htm</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: 2017-2021.state.gov  
    Title: cabo verde  
-   Link: <a href="https://2017-2021.state.gov/countries-areas/cabo-verde/" target="_blank" rel="noopener noreferrer nofollow">https://2017-2021.state.gov/countries-areas/cabo-verde/</a>  
+   Link:<a href="https://2017-2021.state.gov/countries-areas/cabo-verde/" target="_blank" rel="noopener noreferrer nofollow">https://2017-2021.state.gov/countries-areas/cabo-verde/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: 2009-2017.state.gov  
    Title: gov1 Executive  
-   Link: <a href="https://2009-2017.state.gov/documents/organization/227138.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/documents/organization/227138.pdf</a>  
+   Link:<a href="https://2009-2017.state.gov/documents/organization/227138.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/documents/organization/227138.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mf.gov.cv  
    Title: 03 IFH 2025 Declaração de Rectificação  
-   Link: <a href="https://www.mf.gov.cv/documents/89288/208073/03_IFH_2025_Declara%C3%A7%C3%A3o_de_Rectifica%C3%A7%C3%A3o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mf.gov.cv/documents/89288/208073/03_IFH_2025_Declara%C3%A7%C3%A3o_de_Rectifica%C3%A7%C3%A3o.pdf</a>  
+   Link:<a href="https://www.mf.gov.cv/documents/89288/208073/03_IFH_2025_Declara%C3%A7%C3%A3o_de_Rectifica%C3%A7%C3%A3o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mf.gov.cv/documents/89288/208073/03_IFH_2025_Declara%C3%A7%C3%A3o_de_Rectifica%C3%A7%C3%A3o.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: starlink.com  
-   Link: <a href="https://starlink.com/map?srsltid=AfmBOoq3ai0aOztGLpd_GlFVC-RjxEjLlfrrfFvaNVsnfO7EFKo4Z2zu" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/map?srsltid=AfmBOoq3ai0aOztGLpd_GlFVC-RjxEjLlfrrfFvaNVsnfO7EFKo4Z2zu</a>  
+   Link:<a href="https://starlink.com/map?srsltid=AfmBOoq3ai0aOztGLpd_GlFVC-RjxEjLlfrrfFvaNVsnfO7EFKo4Z2zu" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/map?srsltid=AfmBOoq3ai0aOztGLpd_GlFVC-RjxEjLlfrrfFvaNVsnfO7EFKo4Z2zu</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: starlink.com  
-   Link: <a href="https://www.starlink.com/support/article/8b0df41e-4959-3f60-4083-265fe50939ce?srsltid=AfmBOorSUA7GFpnMl5Q9S2eT2kWO9C7A7TrjYKIUUFUmX-AUBnli1Mak" target="_blank" rel="noopener noreferrer nofollow">https://www.starlink.com/support/article/8b0df41e-4959-3f60-4083-265fe50939ce?srsltid=AfmBOorSUA7GFpnMl5Q9S2eT2kWO9C7A7TrjYKIUUFUmX-AUBnli1Mak</a>  
+   Link:<a href="https://www.starlink.com/support/article/8b0df41e-4959-3f60-4083-265fe50939ce?srsltid=AfmBOorSUA7GFpnMl5Q9S2eT2kWO9C7A7TrjYKIUUFUmX-AUBnli1Mak" target="_blank" rel="noopener noreferrer nofollow">https://www.starlink.com/support/article/8b0df41e-4959-3f60-4083-265fe50939ce?srsltid=AfmBOorSUA7GFpnMl5Q9S2eT2kWO9C7A7TrjYKIUUFUmX-AUBnli1Mak</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: assets.publishing.service.gov.uk  
    Title: ufo report 1997  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758d2fe5274a6faebebd11/ufo_report_1997.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: spaceinafrica.com  
    Title: starlink now operational in cape verde  
-   Link: <a href="https://spaceinafrica.com/2024/12/10/starlink-now-operational-in-cape-verde/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2024/12/10/starlink-now-operational-in-cape-verde/</a>  
+   Link:<a href="https://spaceinafrica.com/2024/12/10/starlink-now-operational-in-cape-verde/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2024/12/10/starlink-now-operational-in-cape-verde/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: fireball.amsmeteors.org  
    Title: map country  
-   Link: <a href="https://fireball.amsmeteors.org/members/imo_fireball_stats/map_country" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_fireball_stats/map_country</a>  
+   Link:<a href="https://fireball.amsmeteors.org/members/imo_fireball_stats/map_country" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_fireball_stats/map_country</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: amsmeteors.org  
-   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
+   Link:<a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: expressodasilhas.cv  
-   Link: <a href="https://expressodasilhas.cv/eitec/2023/06/02/nasa-diz-que-nada-sugere-ligacao-entre-ovni-e-vida-extraterrestre/86084" target="_blank" rel="noopener noreferrer nofollow">https://expressodasilhas.cv/eitec/2023/06/02/nasa-diz-que-nada-sugere-ligacao-entre-ovni-e-vida-extraterrestre/86084</a>  
+   Link:<a href="https://expressodasilhas.cv/eitec/2023/06/02/nasa-diz-que-nada-sugere-ligacao-entre-ovni-e-vida-extraterrestre/86084" target="_blank" rel="noopener noreferrer nofollow">https://expressodasilhas.cv/eitec/2023/06/02/nasa-diz-que-nada-sugere-ligacao-entre-ovni-e-vida-extraterrestre/86084</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/351412144967050/posts/4727313197376901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/351412144967050/posts/4727313197376901/</a>  
+   Link:<a href="https://www.facebook.com/groups/351412144967050/posts/4727313197376901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/351412144967050/posts/4727313197376901/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BBC.News.NI/videos/starlink-spotted-in-sky-above-ni/265950638553480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBC.News.NI/videos/starlink-spotted-in-sky-above-ni/265950638553480/</a>  
+   Link:<a href="https://www.facebook.com/BBC.News.NI/videos/starlink-spotted-in-sky-above-ni/265950638553480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBC.News.NI/videos/starlink-spotted-in-sky-above-ni/265950638553480/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: Wikipedia  
    Title: Cape Verde  
-   Link: <a href="https://en.wikipedia.org/wiki/Cape_Verde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cape_Verde</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cape_Verde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cape_Verde</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: britannica.com  
    Title: Cabo Verde  
-   Link: <a href="https://www.britannica.com/place/Cabo-Verde" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cabo-Verde</a>  
+   Link:<a href="https://www.britannica.com/place/Cabo-Verde" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Cabo-Verde</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: openfactbook.org  
    Title: Cabo Verde  
-   Link: <a href="https://openfactbook.org/countries/cabo-verde/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/cabo-verde/</a>  
+   Link:<a href="https://openfactbook.org/countries/cabo-verde/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/cabo-verde/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: james.darpinian.com  
-   Link: <a href="https://james.darpinian.com/satellites/?special=starlink" target="_blank" rel="noopener noreferrer nofollow">https://james.darpinian.com/satellites/?special=starlink</a>  
+   Link:<a href="https://james.darpinian.com/satellites/?special=starlink" target="_blank" rel="noopener noreferrer nofollow">https://james.darpinian.com/satellites/?special=starlink</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: trade.gov  
    Title: Cabo Verde  
-   Link: <a href="https://www.trade.gov/country-commercial-guides/cabo-verde-tourism" target="_blank" rel="noopener noreferrer nofollow">https://www.trade.gov/country-commercial-guides/cabo-verde-tourism</a>  
+   Link:<a href="https://www.trade.gov/country-commercial-guides/cabo-verde-tourism" target="_blank" rel="noopener noreferrer nofollow">https://www.trade.gov/country-commercial-guides/cabo-verde-tourism</a>  
 
 ### Additional References
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Celebrating the Natural Heritage of Cabo Verde  
-   Link: <a href="https://www.youtube.com/watch?v=rKwqU43f9oQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rKwqU43f9oQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cabo Verde landscape tourism nature Cape Verde 4K - Scenic Relaxation Film With Calming Music Scenic Relaxation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rKwqU43f9oQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rKwqU43f9oQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cabo Verde landscape tourism nature Cape Verde 4K - Scenic Relaxation Film With Calming Music Scenic Relaxation...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Cape Verde 4K  
-   Link: <a href="https://www.youtube.com/watch?v=e1USo9WZYnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e1USo9WZYnk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Best Cape Verde Islands - Travel Video 2024...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e1USo9WZYnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e1USo9WZYnk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Best Cape Verde Islands - Travel Video 2024...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Top 10 Best Cape Verde Islands  
-   Link: <a href="https://www.youtube.com/watch?v=56f0dI_SxQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=56f0dI_SxQE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Geography of Cape Verde (Cabo Verde) in 3 Minutes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=56f0dI_SxQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=56f0dI_SxQE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Geography of Cape Verde (Cabo Verde) in 3 Minutes...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: The Geography of Cape Verde (Cabo Verde) in 3 Minutes  
-   Link: <a href="https://www.youtube.com/watch?v=XJ1QzmfPBI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XJ1QzmfPBI4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vibrant Flora of Cabo Verde’s Landscapes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XJ1QzmfPBI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XJ1QzmfPBI4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Vibrant Flora of Cabo Verde’s Landscapes...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C2htTRTI5KC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C2htTRTI5KC/</a>  
+   Link:<a href="https://www.instagram.com/reel/C2htTRTI5KC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C2htTRTI5KC/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/276370413_Seasonal_patterns_of_Saharan_dust_over_Cape_Verde_-_a_combined_approach_using_observations_and_modelling" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/276370413_Seasonal_patterns_of_Saharan_dust_over_Cape_Verde_-_a_combined_approach_using_observations_and_modelling</a>  
+   Link:<a href="https://www.researchgate.net/publication/276370413_Seasonal_patterns_of_Saharan_dust_over_Cape_Verde_-_a_combined_approach_using_observations_and_modelling" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/276370413_Seasonal_patterns_of_Saharan_dust_over_Cape_Verde_-_a_combined_approach_using_observations_and_modelling</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/photos/harbor-of-mindelo" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/harbor-of-mindelo</a>  
+   Link:<a href="https://www.gettyimages.com/photos/harbor-of-mindelo" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/harbor-of-mindelo</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/capeverdeanbeautifulpeople/posts/a-night-of-mystery-in-cape-verde-a-supernatural-phenomenon-unveiledsomething-ext/1119121509571043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/capeverdeanbeautifulpeople/posts/a-night-of-mystery-in-cape-verde-a-supernatural-phenomenon-unveiledsomething-ext/1119121509571043/</a>  
+   Link:<a href="https://www.facebook.com/capeverdeanbeautifulpeople/posts/a-night-of-mystery-in-cape-verde-a-supernatural-phenomenon-unveiledsomething-ext/1119121509571043/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/capeverdeanbeautifulpeople/posts/a-night-of-mystery-in-cape-verde-a-supernatural-phenomenon-unveiledsomething-ext/1119121509571043/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GreeceHighDefinition/posts/a-dense-cloud-of-sahara-desert-dust-has-blanketed-santorini-in-an-eerie-orange-r/1520664116180067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GreeceHighDefinition/posts/a-dense-cloud-of-sahara-desert-dust-has-blanketed-santorini-in-an-eerie-orange-r/1520664116180067/</a>
+   Link:<a href="https://www.facebook.com/GreeceHighDefinition/posts/a-dense-cloud-of-sahara-desert-dust-has-blanketed-santorini-in-an-eerie-orange-r/1520664116180067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GreeceHighDefinition/posts/a-dense-cloud-of-sahara-desert-dust-has-blanketed-santorini-in-an-eerie-orange-r/1520664116180067/</a>

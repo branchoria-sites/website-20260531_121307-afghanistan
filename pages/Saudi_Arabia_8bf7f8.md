@@ -1197,9 +1197,9 @@ image: /assets/images/Saudi_Arabia_8bf7f8-overview-social.jpg
 Saudi Arabia has several features that can make unusual aerial events highly visible. Large areas of desert offer dark skies and long sightlines. Major cities such as Riyadh, Jeddah, Medina and Mecca combine dense populations with intense mobile-phone recording. The country also sits under busy civil aviation routes and near regional military activity, including drones and missiles linked to the Yemen conflict. This means that a bright object can be witnessed by many people, but it also means there are many ordinary candidates before an exotic explanation is needed.
 
 <img src="{{ "/assets/images/Saudi_Arabia_8bf7f8-overview.webp" | relative_url }}" alt="Overview image for What Really Explains Saudi Arabia&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-There is also a documentation problem. Publicly accessible Saudi UFO material is not comparable to the US or French model of searchable national UAP archives. The strongest official Saudi-adjacent records are not UFO investigation files, but aviation regulation, meteorite/geological information and public safety material. For example, Saudi Arabia’s General Authority of Civil Aviation runs an official unmanned-aircraft registration platform, while Saudipedia records the Wabar meteorite and its impact craters as geological heritage rather than anomalous aerial evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uas.gaca.gov.sa/?locale=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uas.gaca.gov.sa">[GACA UAS Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uas.gaca.gov.sa</span><span class="citation-popover-title">GACA UAS Portal Unmanned Aircraft Registration</span><span class="citation-popover-snippet">GACA UAS Portal Unmanned Aircraft Registration</span></span></span>
+There is also a documentation problem. Publicly accessible Saudi UFO material is not comparable to the US or French model of searchable national UAP archives. The strongest official Saudi-adjacent records are not UFO investigation files, but aviation regulation, meteorite/geological information and public safety material. For example, Saudi Arabia’s General Authority of Civil Aviation runs an official unmanned-aircraft registration platform, while Saudipedia records the Wabar meteorite and its impact craters as geological heritage rather than anomalous aerial evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uas.gaca.gov.sa/?locale=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uas.gaca.gov.sa">[GACA UAS Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uas.gaca.gov.sa</span><span class="citation-popover-title">GACA UAS Portal Unmanned Aircraft Registration</span><span class="citation-popover-snippet">GACA UAS Portal Unmanned Aircraft Registration</span></span></span>
 
-That distinction matters. A Saudi UFO claim is not automatically weak because it is Saudi; it is weak when it rests on a single video, no timestamp, no camera metadata, no trajectory, no radar or aviation record, and no independent astronomical check. NASA’s UAP study made the same general point: without an “extensive set of data”, it is nearly impossible to verify or explain a sighting scientifically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That distinction matters. A Saudi UFO claim is not automatically weak because it is Saudi; it is weak when it rests on a single video, no timestamp, no camera metadata, no trajectory, no radar or aviation record, and no independent astronomical check. NASA’s UAP study made the same general point: without an “extensive set of data”, it is nearly impossible to verify or explain a sighting scientifically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qoa6mRewvK4" title="Medic Eyewitness Sees A Shapeshifting UFO Above US Military Base | UFO Witness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qoa6mRewvK4" target="_blank" rel="noopener noreferrer">Medic Eyewitness Sees A Shapeshifting UFO Above US Military Base | UFO Witness</a></p><p class="youtube-embed-meta">Channel: DMAX UK &middot; Views: 50.5K &middot; Uploaded: December 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qoa6mRewvK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qoa6mRewvK4">Open on YouTube</a></p></div></div></div>
 
@@ -1207,26 +1207,26 @@ That distinction matters. A Saudi UFO claim is not automatically weak because it
 
 The public record is scattered, but several episodes are useful because they show the range of Saudi UFO reporting.
 
-**The Wabar meteorite: a real celestial event, not a UFO case.** The Wabar meteorite is one of Saudi Arabia’s most concrete “sky object” stories. It fell in the Empty Quarter centuries ago, created craters, and was discovered by Abdullah Philby in 1932. Saudipedia says the impact produced three craters of about 116 metres, 63 metres and 11 metres, and that the meteorite was later moved to the National Museum in Riyadh. This belongs in a Saudi UFO page because it shows how dramatic atmospheric events can leave real physical evidence when they are natural, measurable and recoverable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saudipedia.com">[Saudipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saudipedia.com</span><span class="citation-popover-title">Wabar Meteorite</span><span class="citation-popover-snippet">Wabar Meteorite</span></span></span>
+**The Wabar meteorite: a real celestial event, not a UFO case.** The Wabar meteorite is one of Saudi Arabia’s most concrete “sky object” stories. It fell in the Empty Quarter centuries ago, created craters, and was discovered by Abdullah Philby in 1932. Saudipedia says the impact produced three craters of about 116 metres, 63 metres and 11 metres, and that the meteorite was later moved to the National Museum in Riyadh. This belongs in a Saudi UFO page because it shows how dramatic atmospheric events can leave real physical evidence when they are natural, measurable and recoverable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saudipedia.com">[Saudipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saudipedia.com</span><span class="citation-popover-title">Wabar Meteorite</span><span class="citation-popover-snippet">Wabar Meteorite</span></span></span>
 
-**The 2003 Jizan object: a reported fall with limited public resolution.** In June 2003, Arab News reported that a “‘UFO’” had fallen in the Jizan region. A resident of Arraith said he had watched an object fly at low altitude and fall to the ground, and the report noted that Wadi Amoud had seen “strange incidents” in previous years. The article’s own framing was cautious, raising the possibility of a spy plane rather than treating the object as alien or paranormal. Publicly available reporting does not provide a complete technical investigation, so the case is best classed as contested or unresolved in public sources, not confirmed anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/232664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News‘UFO’ Falls in Jizan Region &#124; Arab News</span><span class="citation-popover-snippet">Arab News‘UFO’ Falls in Jizan Region &#124; Arab News</span></span></span>
+**The 2003 Jizan object: a reported fall with limited public resolution.** In June 2003, Arab News reported that a “‘UFO’” had fallen in the Jizan region. A resident of Arraith said he had watched an object fly at low altitude and fall to the ground, and the report noted that Wadi Amoud had seen “strange incidents” in previous years. The article’s own framing was cautious, raising the possibility of a spy plane rather than treating the object as alien or paranormal. Publicly available reporting does not provide a complete technical investigation, so the case is best classed as contested or unresolved in public sources, not confirmed anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/232664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News‘UFO’ Falls in Jizan Region &#124; Arab News</span><span class="citation-popover-snippet">Arab News‘UFO’ Falls in Jizan Region &#124; Arab News</span></span></span>
 
-**The 2014 Medina light: a likely re-entry candidate.** In January 2014, a Saudi newspaper published footage described as a UFO passing above Medina, reportedly filmed near the Prophet’s Mosque at around 9 pm local time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24&#124;7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24&#124;7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">Emirates 24&#124;7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span></span></span> The International Astronomical Center later listed “Chinasat 9 Rocket reentry over Saudi” on 16 January 2014 at 20:07 UTC, a timing and event type that makes rocket re-entry a strong conventional explanation for reports from that night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[astronomycenter.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**The 2014 Medina light: a likely re-entry candidate.** In January 2014, a Saudi newspaper published footage described as a UFO passing above Medina, reportedly filmed near the Prophet’s Mosque at around 9 pm local time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24&#124;7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24&#124;7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">Emirates 24&#124;7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span></span></span> The International Astronomical Center later listed “Chinasat 9 Rocket reentry over Saudi” on 16 January 2014 at 20:07 UTC, a timing and event type that makes rocket re-entry a strong conventional explanation for reports from that night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[astronomycenter.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**The 2021 Long March 5B re-entry: a regional “UFO” spectacle with a known cause.** In May 2021, China’s Long March 5B core stage re-entered over the Arabian Peninsula, according to US Space Command reporting cited by Space.com. The event generated sightings across the wider region and is a reminder that spectacular, fragmenting lights can be real, alarming and entirely human-made. Aerospace Corporation explained why the event was hard to predict: the 21-tonne core stage had reached orbit and could not control where it would re-enter without a de-orbit manoeuvre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/chinese-rocket-booster-long-march-5b-space-junk-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Huge Chinese rocket booster falls to Earth over Arabian Peninsula &#124; Space</span><span class="citation-popover-snippet">Huge Chinese rocket booster falls to Earth over Arabian Peninsula &#124; Space</span></span></span>
+**The 2021 Long March 5B re-entry: a regional “UFO” spectacle with a known cause.** In May 2021, China’s Long March 5B core stage re-entered over the Arabian Peninsula, according to US Space Command reporting cited by Space.com. The event generated sightings across the wider region and is a reminder that spectacular, fragmenting lights can be real, alarming and entirely human-made. Aerospace Corporation explained why the event was hard to predict: the 21-tonne core stage had reached orbit and could not control where it would re-enter without a de-orbit manoeuvre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/chinese-rocket-booster-long-march-5b-space-junk-crash" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Huge Chinese rocket booster falls to Earth over Arabian Peninsula &#124; Space</span><span class="citation-popover-snippet">Huge Chinese rocket booster falls to Earth over Arabian Peninsula &#124; Space</span></span></span>
 
-**The 2024 Jeddah-to-Abuja pilot video: Saudi-linked, but not a Saudi airspace case.** A widely shared 2024 story involved pilots on a Boeing 747 flight from Jeddah to Abuja reporting bright white “orbs” that did not appear on radar. Because the objects were reportedly seen mainly over the Sahara between Egypt and Libya, it is better treated as a Saudi-linked aviation claim rather than a Saudi national sighting. It remains contested: the pilot account is interesting, but public reporting does not provide enough instrument data, exact bearings, satellite checks or independent analysis to classify it as confirmed anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/news/12220161/boeing-pilot-ufo-saudi-arabia-nigeria/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-title">The Sun I&#x27;m a Boeing 747 pilot &amp; see UFOs all the time</span><span class="citation-popover-snippet">The Sun I&#x27;m a Boeing 747 pilot &amp; see UFOs all the time</span></span></span>
+**The 2024 Jeddah-to-Abuja pilot video: Saudi-linked, but not a Saudi airspace case.** A widely shared 2024 story involved pilots on a Boeing 747 flight from Jeddah to Abuja reporting bright white “orbs” that did not appear on radar. Because the objects were reportedly seen mainly over the Sahara between Egypt and Libya, it is better treated as a Saudi-linked aviation claim rather than a Saudi national sighting. It remains contested: the pilot account is interesting, but public reporting does not provide enough instrument data, exact bearings, satellite checks or independent analysis to classify it as confirmed anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/news/12220161/boeing-pilot-ufo-saudi-arabia-nigeria/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-title">The Sun I&#x27;m a Boeing 747 pilot &amp; see UFOs all the time</span><span class="citation-popover-snippet">The Sun I&#x27;m a Boeing 747 pilot &amp; see UFOs all the time</span></span></span>
 
 <img src="{{ "/assets/images/Saudi_Arabia_8bf7f8-Illustration-1-dark.svg" | relative_url }}" alt="What Really Explains Saudi Arabia&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Saudi_Arabia_8bf7f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saudi_Arabia_8bf7f8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why many Saudi UFO reports probably cluster by region
 
 Saudi Arabia’s UFO-like reports are likely to vary by region because the ordinary sky traffic varies by region.
 
-In the **south and south-west**, especially around Jizan, Najran, Asir and Abha, conflict-related drones and missiles are a serious background factor. CSIS reported that Houthi militants launched UAVs and missiles at Jazan in March 2021 and that Saudi Arabia had intercepted thousands of Houthi ballistic missiles, cruise missiles, UAVs and other stand-off weapons. The Guardian separately reported a 2019 Houthi missile attack on Abha airport that injured 26 people, plus Saudi reports of intercepted drones aimed at Khamis Mushait. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/analysis/iranian-and-houthi-war-against-saudi-arabia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">The Iranian and Houthi War against Saudi Arabia</span><span class="citation-popover-snippet">The Iranian and Houthi War against Saudi Arabia</span></span></span>
+In the **south and south-west**, especially around Jizan, Najran, Asir and Abha, conflict-related drones and missiles are a serious background factor. CSIS reported that Houthi militants launched UAVs and missiles at Jazan in March 2021 and that Saudi Arabia had intercepted thousands of Houthi ballistic missiles, cruise missiles, UAVs and other stand-off weapons. The Guardian separately reported a 2019 Houthi missile attack on Abha airport that injured 26 people, plus Saudi reports of intercepted drones aimed at Khamis Mushait.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/analysis/iranian-and-houthi-war-against-saudi-arabia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-title">The Iranian and Houthi War against Saudi Arabia</span><span class="citation-popover-snippet">The Iranian and Houthi War against Saudi Arabia</span></span></span>
 
-In the **western corridor** around Jeddah, Mecca and Medina, the mix is different: dense population, religious gatherings, aviation routes and viral recording. The 2014 Medina case belongs here. A single bright re-entry seen over a sacred and crowded urban setting can gain cultural force quickly, even when the likely cause is space debris rather than an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24&#124;7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24&#124;7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">Emirates 24&#124;7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span></span></span>
+In the **western corridor** around Jeddah, Mecca and Medina, the mix is different: dense population, religious gatherings, aviation routes and viral recording. The 2014 Medina case belongs here. A single bright re-entry seen over a sacred and crowded urban setting can gain cultural force quickly, even when the likely cause is space debris rather than an unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emirates247.com">[Emirates 24&#124;7]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emirates247.com</span><span class="citation-popover-title">Emirates 24&#124;7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span><span class="citation-popover-snippet">Emirates 24&#124;7Was this a &#x27;UFO&#x27; sighted over Saudi Arabia?</span></span></span>
 
-In the **Empty Quarter and remote desert regions**, the main value is not a stream of modern UFO cases, but clean sky visibility and the geological record of meteoritic events. The Wabar site demonstrates that Saudi Arabia has hosted dramatic extraterrestrial material in the literal scientific sense: meteorites. That is very different from evidence of controlled craft, but it is relevant because meteors and bolides are among the most common sources of sincere “what was that?” reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saudipedia.com">[Saudipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saudipedia.com</span><span class="citation-popover-title">Wabar Meteorite</span><span class="citation-popover-snippet">Wabar Meteorite</span></span></span>
+In the **Empty Quarter and remote desert regions**, the main value is not a stream of modern UFO cases, but clean sky visibility and the geological record of meteoritic events. The Wabar site demonstrates that Saudi Arabia has hosted dramatic extraterrestrial material in the literal scientific sense: meteorites. That is very different from evidence of controlled craft, but it is relevant because meteors and bolides are among the most common sources of sincere “what was that?” reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saudipedia.com">[Saudipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saudipedia.com</span><span class="citation-popover-title">Wabar Meteorite</span><span class="citation-popover-snippet">Wabar Meteorite</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5r95RfQa3tk" title="I Tried Saudi Arabia&#x27;s Luxury Floating UFO Hotel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5r95RfQa3tk" target="_blank" rel="noopener noreferrer">I Tried Saudi Arabia&#x27;s Luxury Floating UFO Hotel</a></p><p class="youtube-embed-meta">Channel: Simon Wilson &middot; Views: 2.5M &middot; Uploaded: February 2026 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5r95RfQa3tk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5r95RfQa3tk">Open on YouTube</a></p></div></div></div>
 
@@ -1234,18 +1234,18 @@ In the **Empty Quarter and remote desert regions**, the main value is not a stre
 
 A practical Saudi UFO catalogue should separate claims into three buckets.
 
-**Confirmed conventional events** include meteorites, rocket re-entries, regulated drones and conflict-related aerial systems. Wabar is confirmed as a meteorite impact. The 2021 Long March 5B event is confirmed as an uncontrolled rocket re-entry over the Arabian Peninsula. Saudi drone regulation is also relevant because lawful and unlawful unmanned aircraft add ordinary moving lights and objects to the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saudipedia.com">[Saudipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saudipedia.com</span><span class="citation-popover-title">Wabar Meteorite</span><span class="citation-popover-snippet">Wabar Meteorite</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Open source on space.com.</span></span></span>
+**Confirmed conventional events** include meteorites, rocket re-entries, regulated drones and conflict-related aerial systems. Wabar is confirmed as a meteorite impact. The 2021 Long March 5B event is confirmed as an uncontrolled rocket re-entry over the Arabian Peninsula. Saudi drone regulation is also relevant because lawful and unlawful unmanned aircraft add ordinary moving lights and objects to the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saudipedia.com">[Saudipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saudipedia.com</span><span class="citation-popover-title">Wabar Meteorite</span><span class="citation-popover-snippet">Wabar Meteorite</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Open source on space.com.</span></span></span>
 
-**Contested or unresolved public cases** include the 2003 Jizan report and some viral videos where the available record is too thin. “Unresolved” here should be read narrowly: it means the public evidence does not permit a confident identification. It does not mean the object displayed extraordinary capability or non-human origin. This is consistent with broader UAP research practice: AARO’s official imagery pages show that some cases remain insufficiently characterised, while many others resolve as balloons, birds or other ordinary sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/232664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News‘UFO’ Falls in Jizan Region &#124; Arab News</span><span class="citation-popover-snippet">Arab News‘UFO’ Falls in Jizan Region &#124; Arab News</span></span></span>
+**Contested or unresolved public cases** include the 2003 Jizan report and some viral videos where the available record is too thin. “Unresolved” here should be read narrowly: it means the public evidence does not permit a confident identification. It does not mean the object displayed extraordinary capability or non-human origin. This is consistent with broader UAP research practice: AARO’s official imagery pages show that some cases remain insufficiently characterised, while many others resolve as balloons, birds or other ordinary sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.arabnews.com/node/232664" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arabnews.com">[Arab News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arabnews.com</span><span class="citation-popover-title">Arab News‘UFO’ Falls in Jizan Region &#124; Arab News</span><span class="citation-popover-snippet">Arab News‘UFO’ Falls in Jizan Region &#124; Arab News</span></span></span>
 
-**Debunked or strongly explainable claims** include the 2014 Medina-type fireball reports and regional re-entry sightings. Rocket bodies and satellite debris can appear as slow, bright, fragmenting trains of light, especially after sunset or before sunrise. The International Astronomical Center explicitly links many “UFO” streak reports to such events, and its Saudi entry for the 2014 Chinasat 9 re-entry is one of the strongest specific conventional explanations in the Saudi record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[astronomycenter.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Debunked or strongly explainable claims** include the 2014 Medina-type fireball reports and regional re-entry sightings. Rocket bodies and satellite debris can appear as slow, bright, fragmenting trains of light, especially after sunset or before sunrise. The International Astronomical Center explicitly links many “UFO” streak reports to such events, and its Saudi entry for the 2014 Chinasat 9 re-entry is one of the strongest specific conventional explanations in the Saudi record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[astronomycenter.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Saudi_Arabia_8bf7f8-Illustration-2-dark.svg" | relative_url }}" alt="What Really Explains Saudi Arabia&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Saudi_Arabia_8bf7f8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saudi_Arabia_8bf7f8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records and the limits of disclosure
 
-There is no strong public evidence that Saudi Arabia maintains a dedicated, declassified UFO archive equivalent to US Project Blue Book, AARO releases or France’s long-running official UFO study tradition. That absence does not prove there are no internal military or aviation records; it simply means public researchers have less to work with. The accessible Saudi-side official material is mostly airspace governance, drone registration and geological or astronomical context, not case-by-case UFO investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uas.gaca.gov.sa/?locale=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uas.gaca.gov.sa">[GACA UAS Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uas.gaca.gov.sa</span><span class="citation-popover-title">GACA UAS Portal Unmanned Aircraft Registration</span><span class="citation-popover-snippet">GACA UAS Portal Unmanned Aircraft Registration</span></span></span>
+There is no strong public evidence that Saudi Arabia maintains a dedicated, declassified UFO archive equivalent to US Project Blue Book, AARO releases or France’s long-running official UFO study tradition. That absence does not prove there are no internal military or aviation records; it simply means public researchers have less to work with. The accessible Saudi-side official material is mostly airspace governance, drone registration and geological or astronomical context, not case-by-case UFO investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uas.gaca.gov.sa/?locale=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uas.gaca.gov.sa">[GACA UAS Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uas.gaca.gov.sa</span><span class="citation-popover-title">GACA UAS Portal Unmanned Aircraft Registration</span><span class="citation-popover-snippet">GACA UAS Portal Unmanned Aircraft Registration</span></span></span>
 
-Internationally, the best official benchmark is cautious. AARO’s 2024 historical report says past US and foreign investigative efforts did not conclude that UAP reports indicated extraterrestrial origin, and that the vast majority could be resolved as ordinary objects, natural phenomena, optical illusions or misidentifications, though many cases remain unresolved because of poor data. The 2024 ODNI/DOD annual report also shows the modern scale of official reporting, with 757 UAP reports received during the reporting period and more than 1,600 cases under review by June 2024. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+Internationally, the best official benchmark is cautious. AARO’s 2024 historical report says past US and foreign investigative efforts did not conclude that UAP reports indicated extraterrestrial origin, and that the vast majority could be resolved as ordinary objects, natural phenomena, optical illusions or misidentifications, though many cases remain unresolved because of poor data. The 2024 ODNI/DOD annual report also shows the modern scale of official reporting, with 757 UAP reports received during the reporting period and more than 1,600 cases under review by June 2024.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 That standard should be applied to Saudi Arabia as well. A claim becomes stronger when it has multiple independent witnesses, precise time and location, original video files, weather and astronomy checks, flight and satellite correlations, and official radar or aviation data. Most Saudi public claims do not reach that threshold.
 
@@ -1255,201 +1255,201 @@ That standard should be applied to Saudi Arabia as well. A claim becomes stronge
 
 The most reliable first question is not “Was it alien?” but “What ordinary Saudi sky source fits the time, place and motion?”
 
-A Saudi sighting near the southern border should be checked against drone, missile and interception reports. A bright fragmenting trail over western Saudi Arabia should be checked against rocket re-entry predictions and meteor activity. A steady light moving in a line should be checked against aircraft and satellites, including Starlink-like satellite trains. A hovering or drifting object should be checked against balloons, kites, drones and camera artefacts. NASA’s UAP report warns that drones and balloons are numerous and may be reported as anomalies, while AARO has repeatedly resolved official UAP imagery as balloons when shape and drift matched wind behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A Saudi sighting near the southern border should be checked against drone, missile and interception reports. A bright fragmenting trail over western Saudi Arabia should be checked against rocket re-entry predictions and meteor activity. A steady light moving in a line should be checked against aircraft and satellites, including Starlink-like satellite trains. A hovering or drifting object should be checked against balloons, kites, drones and camera artefacts. NASA’s UAP report warns that drones and balloons are numerous and may be reported as anomalies, while AARO has repeatedly resolved official UAP imagery as balloons when shape and drift matched wind behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The Saudi pattern is therefore not a story of dramatic proof, but of evidence discipline. The most memorable cases are real enough as sightings: people saw lights, falling objects, fireballs or filmed unusual motion. The unresolved part is usually the identification record, not a demonstrated extraordinary technology. For a country-level UFO page, that is the honest centre of gravity: Saudi Arabia has credible reasons for unusual sky reports, but very little public evidence for truly anomalous craft.
 
 <img src="{{ "/assets/images/Saudi_Arabia_8bf7f8-Illustration-3-dark.svg" | relative_url }}" alt="What Really Explains Saudi Arabia&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Saudi_Arabia_8bf7f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saudi_Arabia_8bf7f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Explains Saudi Arabia&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Explains Saudi Arabia&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page focused on evaluating reported sightings and official evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page focused on evaluating reported sightings and official evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides tools for assessing whether sightings are extraordinary or conventional.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for assessing whether sightings are extraordinary or conventional.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines contemporary UFO claims, military reports and disputed incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines contemporary UFO claims, military reports and disputed incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding recurring UFO narratives across cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding recurring UFO narratives across cultures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-saudi-arabia-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1465,7 +1465,7 @@ The Saudi pattern is therefore not a story of dramatic proof, but of evidence di
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1485,7 +1485,7 @@ The Saudi pattern is therefore not a story of dramatic proof, but of evidence di
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1517,7 +1517,7 @@ The Saudi pattern is therefore not a story of dramatic proof, but of evidence di
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1569,7 +1569,7 @@ The Saudi pattern is therefore not a story of dramatic proof, but of evidence di
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1614,7 +1614,7 @@ The Saudi pattern is therefore not a story of dramatic proof, but of evidence di
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1652,229 +1652,228 @@ The Saudi pattern is therefore not a story of dramatic proof, but of evidence di
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: saudipedia.com  
    Title: Wabar Meteorite  
-   Link: <a href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://saudipedia.com/en/wabar-meteorite</a>  
+   Link:<a href="https://saudipedia.com/en/wabar-meteorite" target="_blank" rel="noopener noreferrer nofollow">https://saudipedia.com/en/wabar-meteorite</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: emirates247.com  
    Title: Emirates 24|7Was this a 'UFO' sighted over Saudi Arabia?  
-   Link: <a href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow">https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068</a>  
+   Link:<a href="https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068" target="_blank" rel="noopener noreferrer nofollow">https://www.emirates247.com/news/region/was-this-a-ufo-sighted-over-saudi-arabia-2014-01-17-1.535068</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: astronomycenter.net  
-   Link: <a href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/srw/index.html</a>  
+   Link:<a href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/srw/index.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: space.com  
    Title: Huge Chinese rocket booster falls to Earth over Arabian Peninsula | Space  
-   Link: <a href="https://www.space.com/chinese-rocket-booster-long-march-5b-space-junk-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/chinese-rocket-booster-long-march-5b-space-junk-crash</a>  
+   Link:<a href="https://www.space.com/chinese-rocket-booster-long-march-5b-space-junk-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/chinese-rocket-booster-long-march-5b-space-junk-crash</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/article/long-march-5b-rocket-debris" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/long-march-5b-rocket-debris</a>  
+   Link:<a href="https://aerospace.org/article/long-march-5b-rocket-debris" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/long-march-5b-rocket-debris</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: the-sun.com  
    Title: The Sun I'm a Boeing 747 pilot & see UFOs all the time  
-   Link: <a href="https://www.the-sun.com/news/12220161/boeing-pilot-ufo-saudi-arabia-nigeria/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/12220161/boeing-pilot-ufo-saudi-arabia-nigeria/</a>  
+   Link:<a href="https://www.the-sun.com/news/12220161/boeing-pilot-ufo-saudi-arabia-nigeria/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/12220161/boeing-pilot-ufo-saudi-arabia-nigeria/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: csis.org  
    Title: The Iranian and Houthi War against Saudi Arabia  
-   Link: <a href="https://www.csis.org/analysis/iranian-and-houthi-war-against-saudi-arabia" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/iranian-and-houthi-war-against-saudi-arabia</a>  
+   Link:<a href="https://www.csis.org/analysis/iranian-and-houthi-war-against-saudi-arabia" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/iranian-and-houthi-war-against-saudi-arabia</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasa.gov  
    Title: its fireball season answering your meteor questions  
-   Link: <a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
+   Link:<a href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
    Title: cia readingroom document cia rdp87t00289r000200820001 7  
-   Link: <a href="https://archive.org/details/cia-readingroom-document-cia-rdp87t00289r000200820001-7" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/cia-readingroom-document-cia-rdp87t00289r000200820001-7</a>  
+   Link:<a href="https://archive.org/details/cia-readingroom-document-cia-rdp87t00289r000200820001-7" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/cia-readingroom-document-cia-rdp87t00289r000200820001-7</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
    Title: cia readingroom document cia rdp09s00048r000100020068 7  
-   Link: <a href="https://archive.org/details/cia-readingroom-document-cia-rdp09s00048r000100020068-7" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/cia-readingroom-document-cia-rdp09s00048r000100020068-7</a>  
+   Link:<a href="https://archive.org/details/cia-readingroom-document-cia-rdp09s00048r000100020068-7" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/cia-readingroom-document-cia-rdp09s00048r000100020068-7</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aerospace.org  
    Title: new long march 5b uncontrolled reentry tracked aerospaces experts  
-   Link: <a href="https://aerospace.org/article/new-long-march-5b-uncontrolled-reentry-tracked-aerospaces-experts" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/new-long-march-5b-uncontrolled-reentry-tracked-aerospaces-experts</a>  
+   Link:<a href="https://aerospace.org/article/new-long-march-5b-uncontrolled-reentry-tracked-aerospaces-experts" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/new-long-march-5b-uncontrolled-reentry-tracked-aerospaces-experts</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
+   Link:<a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: space.com  
    Title: x starlink satellites 10 weird things  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: uas.gaca.gov.sa  
    Title: GACA UAS Portal Unmanned Aircraft Registration  
-   Link: <a href="https://uas.gaca.gov.sa/?locale=en" target="_blank" rel="noopener noreferrer nofollow">https://uas.gaca.gov.sa/?locale=en</a>  
+   Link:<a href="https://uas.gaca.gov.sa/?locale=en" target="_blank" rel="noopener noreferrer nofollow">https://uas.gaca.gov.sa/?locale=en</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: arabnews.com  
    Title: Arab News‘UFO’ Falls in Jizan Region | Arab News  
-   Link: <a href="https://www.arabnews.com/node/232664" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/232664</a>  
+   Link:<a href="https://www.arabnews.com/node/232664" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/232664</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Long March 5  
-   Link: <a href="https://en.wikipedia.org/wiki/Long_March_5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Long_March_5</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Long_March_5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Long_March_5</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: arabnews.com  
    Title: middle east  
-   Link: <a href="https://www.arabnews.com/node/2238211/middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2238211/middle-east</a>  
+   Link:<a href="https://www.arabnews.com/node/2238211/middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2238211/middle-east</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: arabnews.com  
-   Link: <a href="https://www.arabnews.com/node/2642966/world" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2642966/world</a>  
+   Link:<a href="https://www.arabnews.com/node/2642966/world" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2642966/world</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: arabnews.com  
-   Link: <a href="https://www.arabnews.com/node/291417" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/291417</a>  
+   Link:<a href="https://www.arabnews.com/node/291417" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/291417</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: arabnews.com  
-   Link: <a href="https://www.arabnews.com/node/2442101/offbeat" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2442101/offbeat</a>  
+   Link:<a href="https://www.arabnews.com/node/2442101/offbeat" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2442101/offbeat</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: arabnews.com  
-   Link: <a href="https://www.arabnews.com/node/2642831/amp" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2642831/amp</a>  
+   Link:<a href="https://www.arabnews.com/node/2642831/amp" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2642831/amp</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: arabnews.com  
-   Link: <a href="https://www.arabnews.com/node/2637932/amp" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2637932/amp</a>  
+   Link:<a href="https://www.arabnews.com/node/2637932/amp" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2637932/amp</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: arabnews.com  
-   Link: <a href="https://www.arabnews.com/node/1213011/amp" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/1213011/amp</a>  
+   Link:<a href="https://www.arabnews.com/node/1213011/amp" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/1213011/amp</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: arabnews.com  
-   Link: <a href="https://www.arabnews.com/node/2248766/world" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2248766/world</a>  
+   Link:<a href="https://www.arabnews.com/node/2248766/world" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2248766/world</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: arabnews.com  
-   Link: <a href="https://www.arabnews.com/node/2633860/world" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2633860/world</a>  
+   Link:<a href="https://www.arabnews.com/node/2633860/world" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.com/node/2633860/world</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reentry.esoc.esa.int  
    Title: long march 5b reentry  
-   Link: <a href="https://reentry.esoc.esa.int/home/blog/long-march-5b-reentry" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/home/blog/long-march-5b-reentry</a>  
+   Link:<a href="https://reentry.esoc.esa.int/home/blog/long-march-5b-reentry" target="_blank" rel="noopener noreferrer nofollow">https://reentry.esoc.esa.int/home/blog/long-march-5b-reentry</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976</a>  
+   Link:<a href="https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fireball-season-number-visible-meteors-peaks-year/story?id=131541976</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: spaceflightnow.com  
-   Link: <a href="https://spaceflightnow.com/2021/05/07/large-chinese-rocket-tumbling-toward-toward-uncontrolled-re-entry-this-weekend/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2021/05/07/large-chinese-rocket-tumbling-toward-toward-uncontrolled-re-entry-this-weekend/</a>  
+   Link:<a href="https://spaceflightnow.com/2021/05/07/large-chinese-rocket-tumbling-toward-toward-uncontrolled-re-entry-this-weekend/" target="_blank" rel="noopener noreferrer nofollow">https://spaceflightnow.com/2021/05/07/large-chinese-rocket-tumbling-toward-toward-uncontrolled-re-entry-this-weekend/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: arstechnica.com  
-   Link: <a href="https://arstechnica.com/civis/threads/spacex-says-faa-is-wrong-about-starlink-satellite-debris-falling-to-earth.1496345/page-4" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/civis/threads/spacex-says-faa-is-wrong-about-starlink-satellite-debris-falling-to-earth.1496345/page-4</a>  
+   Link:<a href="https://arstechnica.com/civis/threads/spacex-says-faa-is-wrong-about-starlink-satellite-debris-falling-to-earth.1496345/page-4" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/civis/threads/spacex-says-faa-is-wrong-about-starlink-satellite-debris-falling-to-earth.1496345/page-4</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: arabnews.pk  
    Title: saudi arabia  
-   Link: <a href="https://www.arabnews.pk/node/1434066/saudi-arabia" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.pk/node/1434066/saudi-arabia</a>  
+   Link:<a href="https://www.arabnews.pk/node/1434066/saudi-arabia" target="_blank" rel="noopener noreferrer nofollow">https://www.arabnews.pk/node/1434066/saudi-arabia</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
+   Link:<a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) &gt; U.S. Department of War &gt; Release | U.S. Depa...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) &gt; U.S. Department of War &gt; Release | U.S. Depa...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Medic Eyewitness Sees A Shapeshifting UFO Above US Military Base | UFO Witness  
-   Link: <a href="https://www.youtube.com/watch?v=Qoa6mRewvK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qoa6mRewvK4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Impact Crater was Discovered by One of my Viewers; 2.2 Miles Wide...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Qoa6mRewvK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qoa6mRewvK4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A New Impact Crater was Discovered by One of my Viewers; 2.2 Miles Wide...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1T4WTfhCrkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1T4WTfhCrkQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Medic Eyewitness Sees A Shapeshifting UFO Above US Military Base | UFO Witness...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1T4WTfhCrkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1T4WTfhCrkQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Medic Eyewitness Sees A Shapeshifting UFO Above US Military Base | UFO Witness...</p></details>
    Published: October 2017  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Green ORBS, Discs And FIREBALLS. What Do New UFO Files Tell Us? | GNT  
-   Link: <a href="https://www.youtube.com/watch?v=ep43asme79I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ep43asme79I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighted by US drone over Middle East in 2022...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ep43asme79I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ep43asme79I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighted by US drone over Middle East in 2022...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP59-00224A000100670057-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP59-00224A000100670057-0.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP59-00224A000100670057-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP59-00224A000100670057-0.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/collection/declassified-documents-related-911-attacks" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/declassified-documents-related-911-attacks</a>  
+   Link:<a href="https://www.cia.gov/readingroom/collection/declassified-documents-related-911-attacks" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/declassified-documents-related-911-attacks</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp89g00643r001000080001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp89g00643r001000080001-7</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp89g00643r001000080001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp89g00643r001000080001-7</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp65-00756r000500130067-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp65-00756r000500130067-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp65-00756r000500130067-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp65-00756r000500130067-0</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100230057-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100230057-3</a>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100230057-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp91-00901r000100230057-3</a>

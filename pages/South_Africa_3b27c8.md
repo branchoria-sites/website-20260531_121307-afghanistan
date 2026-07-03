@@ -1194,35 +1194,35 @@ image: /assets/images/South_Africa_3b27c8-overview-social.jpg
 
 ## Why South Africa’s UFO record is patchy but unusually interesting
 
-South African UFO material is scattered across old newspapers, the private files of researchers, regional reporting, and international databases. The National UFO Reporting Center lists South Africa as a reporting location with 261 entries, but that kind of database is a collection of public submissions rather than a verified official archive. It is useful for spotting patterns, not for proving what any one object was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+South African UFO material is scattered across old newspapers, the private files of researchers, regional reporting, and international databases. The National UFO Reporting Center lists South Africa as a reporting location with 261 entries, but that kind of database is a collection of public submissions rather than a verified official archive. It is useful for spotting patterns, not for proving what any one object was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/South_Africa_3b27c8-overview.webp" | relative_url }}" alt="Overview image for What Really Stands Out in South Africa&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
-The country also developed its own local research ecosystem. Independent Online reported in 2006 that South African UFO researcher James Louw had spent years compiling a database and argued that many witnesses “did not know whom to tell”; he identified “waves of sightings through the decades” and described the [Eastern Cape]({{ 'eastern-cape/' | relative_url }}) as a possible hotspot, though without a settled reason. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span> UfoRSA, a later public-facing research site, was described in 2012 as receiving multiple reports from [Cape Town]({{ 'cape-town/' | relative_url }}), the Northern Cape and Namibia during a single week, with the group saying its goal was to “prove or disprove” UFOs through volunteer reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span>
+The country also developed its own local research ecosystem. Independent Online reported in 2006 that South African UFO researcher James Louw had spent years compiling a database and argued that many witnesses “did not know whom to tell”; he identified “waves of sightings through the decades” and described the [Eastern Cape]({{ 'eastern-cape/' | relative_url }}) as a possible hotspot, though without a settled reason.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span> UfoRSA, a later public-facing research site, was described in 2012 as receiving multiple reports from [Cape Town]({{ 'cape-town/' | relative_url }}), the Northern Cape and Namibia during a single week, with the group saying its goal was to “prove or disprove” UFOs through volunteer reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span>
 
-The most important older private archive is Cynthia Hind’s *UFO Afrinews*, which covered African UFO cases rather than treating South Africa as an isolated curiosity. In one issue, Hind stated that the publication’s policy was to report on UFO cases in Africa, with comparisons outside the continent only where relevant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span></span></span> That makes her work valuable for local texture, but it also means the South African record is not the same as a modern chain-of-custody investigation: it often preserves witness narratives, correspondence and field notes rather than testable physical evidence.
+The most important older private archive is Cynthia Hind’s *UFO Afrinews*, which covered African UFO cases rather than treating South Africa as an isolated curiosity. In one issue, Hind stated that the publication’s policy was to report on UFO cases in Africa, with comparisons outside the continent only where relevant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span></span></span> That makes her work valuable for local texture, but it also means the South African record is not the same as a modern chain-of-custody investigation: it often preserves witness narratives, correspondence and field notes rather than testable physical evidence.
 
 ## A chronology of the cases readers usually encounter
 
-South Africa’s UFO chronology begins before the classic post-1947 “flying saucer” era. The 1914 “phantom monoplane” wave is a useful starting point because it shows how unfamiliar technology, military anxiety and rumour can turn ordinary lights or ambiguous observations into a national mystery. During August and September 1914, reports of mysterious aircraft spread across South Africa shortly before the South West Africa campaign of the First World War. Robert E. Bartholomew later analysed the episode as “The South African Monoplane Hysteria” in *Sociological Inquiry*, treating it as a case of collective belief under wartime pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-682X.1989.tb00107.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1475 682X.1989.tb00107.x</span><span class="citation-popover-snippet">j.1475 682X.1989.tb00107.x</span></span></span>
+South Africa’s UFO chronology begins before the classic post-1947 “flying saucer” era. The 1914 “phantom monoplane” wave is a useful starting point because it shows how unfamiliar technology, military anxiety and rumour can turn ordinary lights or ambiguous observations into a national mystery. During August and September 1914, reports of mysterious aircraft spread across South Africa shortly before the South West Africa campaign of the First World War. Robert E. Bartholomew later analysed the episode as “The South African Monoplane Hysteria” in *Sociological Inquiry*, treating it as a case of collective belief under wartime pressure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-682X.1989.tb00107.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">j.1475 682X.1989.tb00107.x</span><span class="citation-popover-snippet">j.1475 682X.1989.tb00107.x</span></span></span>
 
-The Fort Beaufort incident is the classic rural South African “close encounter” story. Public summaries describe a 1971 Eastern Cape farm case in which Bennie Smit and local police allegedly fired at a changing fireball-like object near Braeside farm; stories circulated about military interest, but no firm official record has become central to the public evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span> Its afterlife is almost as important as the event itself: Fort Beaufort absorbed the story into local folklore, tourism and press memory, showing how a sighting can become a place-based legend even when the underlying documentation stays thin.
+The Fort Beaufort incident is the classic rural South African “close encounter” story. Public summaries describe a 1971 Eastern Cape farm case in which Bennie Smit and local police allegedly fired at a changing fireball-like object near Braeside farm; stories circulated about military interest, but no firm official record has become central to the public evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span> Its afterlife is almost as important as the event itself: Fort Beaufort absorbed the story into local folklore, tourism and press memory, showing how a sighting can become a place-based legend even when the underlying documentation stays thin.
 
-The 1990s produced the densest cluster of widely retold South African cases. Reports included triangular lights around Pretoria in 1991, unusual lights around Sasolburg in 1993, Warrenton farm sightings in 1994, a short “flap” of cases in March and April 1995, and the high-profile Pretoria police-helicopter chase of August 1996. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Nam_Phi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hiện tượng quan sát thấy UFO ở Nam Phi</span><span class="citation-popover-snippet">Hiện tượng quan sát thấy UFO ở Nam Phi</span></span></span> The Pretoria case is the most dramatic because it reportedly involved police observers, video, a helicopter pursuit and later television coverage. A UFO Casebook summary says police watched the object for about 90 minutes, that Sgt Nico Stander reportedly filmed it, and that a helicopter crew abandoned pursuit after fuel became a problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/2012/videopretoriasouthafrica.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The caveat is crucial: the public record still depends heavily on media retellings and specialist UFO sites rather than a complete official case file with radar data, original video analysis and named technical investigators.
+The 1990s produced the densest cluster of widely retold South African cases. Reports included triangular lights around Pretoria in 1991, unusual lights around Sasolburg in 1993, Warrenton farm sightings in 1994, a short “flap” of cases in March and April 1995, and the high-profile Pretoria police-helicopter chase of August 1996.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Nam_Phi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hiện tượng quan sát thấy UFO ở Nam Phi</span><span class="citation-popover-snippet">Hiện tượng quan sát thấy UFO ở Nam Phi</span></span></span> The Pretoria case is the most dramatic because it reportedly involved police observers, video, a helicopter pursuit and later television coverage. A UFO Casebook summary says police watched the object for about 90 minutes, that Sgt Nico Stander reportedly filmed it, and that a helicopter crew abandoned pursuit after fuel became a problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/2012/videopretoriasouthafrica.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The caveat is crucial: the public record still depends heavily on media retellings and specialist UFO sites rather than a complete official case file with radar data, original video analysis and named technical investigators.
 
-In the 2000s and 2010s, the pattern shifted toward phone cameras, online reporting and rapid debunking. A 2004 Durban case was reported as a bright object seen for hours, but Arthur Hughes, a University of KwaZulu-Natal physics professor, viewed the footage and identified the object as Venus; the witnesses disagreed, which is common in UFO cases where direct experience feels stronger than an external astronomical explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span> In 2015, Cape Town saw two different kinds of “UFO” attention: saucer-like lenticular clouds over Table Mountain and separate green lights over Long Street. National Geographic explained the cloud photographs as stratocumulus standing lenticularis formed by moist winds over mountainous terrain, while News24 reported that the green lights were suspected by some to be connected with stadium light-show equipment or marketing, though no single confirmed explanation was established in the article. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In the 2000s and 2010s, the pattern shifted toward phone cameras, online reporting and rapid debunking. A 2004 Durban case was reported as a bright object seen for hours, but Arthur Hughes, a University of KwaZulu-Natal physics professor, viewed the footage and identified the object as Venus; the witnesses disagreed, which is common in UFO cases where direct experience feels stronger than an external astronomical explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span> In 2015, Cape Town saw two different kinds of “UFO” attention: saucer-like lenticular clouds over Table Mountain and separate green lights over Long Street. National Geographic explained the cloud photographs as stratocumulus standing lenticularis formed by moist winds over mountainous terrain, while News24 reported that the green lights were suspected by some to be connected with stadium light-show equipment or marketing, though no single confirmed explanation was established in the article.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Jeffreys Bay case in December 2016 remains one of the stronger modern “unidentified in public reporting” examples, because it involved aviation witnesses and a safety response. News24 reported that a Boeing 737 cargo captain and co-pilot, flying from Cape Town to Port Elizabeth, saw a green object rise past the cockpit, reach about 1,000 feet into cloud, then descend rapidly; air traffic control asked the National Sea Rescue Institute to check whether any aircraft or craft might be in distress. The NSRI reported no missing aircraft or vessel, and an initial parachute-flare explanation was ruled out in the article because the object appeared to reach too great a height. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news24.com/still-no-answers-on-mysterious-green-ufo-lights-in-cape-town-20151130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">Still no answers on mysterious green UFO lights in Cape Town &#124; News24</span><span class="citation-popover-snippet">Still no answers on mysterious green UFO lights in Cape Town &#124; News24</span></span></span>
+The Jeffreys Bay case in December 2016 remains one of the stronger modern “unidentified in public reporting” examples, because it involved aviation witnesses and a safety response. News24 reported that a Boeing 737 cargo captain and co-pilot, flying from Cape Town to Port Elizabeth, saw a green object rise past the cockpit, reach about 1,000 feet into cloud, then descend rapidly; air traffic control asked the National Sea Rescue Institute to check whether any aircraft or craft might be in distress. The NSRI reported no missing aircraft or vessel, and an initial parachute-flare explanation was ruled out in the article because the object appeared to reach too great a height.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news24.com/still-no-answers-on-mysterious-green-ufo-lights-in-cape-town-20151130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">Still no answers on mysterious green UFO lights in Cape Town &#124; News24</span><span class="citation-popover-snippet">Still no answers on mysterious green UFO lights in Cape Town &#124; News24</span></span></span>
 
 <img src="{{ "/assets/images/South_Africa_3b27c8-Illustration-1-dark.svg" | relative_url }}" alt="What Really Stands Out in South Africa&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The regional pattern: coast, plateau, farms and city skies
 
 South African UFO reports are not evenly distributed in the public record. They cluster where people are looking, where media outlets are active, where military or aviation associations make a sighting feel consequential, and where geography creates striking sky effects.
 
-The Eastern Cape stands out because of Fort Beaufort and later reports around places such as Jeffreys Bay. That does not prove an underlying anomaly in the region, but it does give the Eastern Cape a recurring role in South African UFO storytelling: rural farm encounters on one end, coastal aviation reports on the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span>
+The Eastern Cape stands out because of Fort Beaufort and later reports around places such as Jeffreys Bay. That does not prove an underlying anomaly in the region, but it does give the Eastern Cape a recurring role in South African UFO storytelling: rural farm encounters on one end, coastal aviation reports on the other.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span>
 
-Gauteng and the Pretoria region contribute a different pattern: lights over suburbs, police witnesses, and cases that gain traction because official-looking observers appear in the story. The 1991 Pretoria triangular-light reports and the 1996 police-helicopter story both fit this urban-administrative profile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">Ariel School UFO incident</span></span></span> These cases feel stronger to readers because they involve police or pilots, but they still require the same questions as any other report: Was the original evidence preserved? Were radar records released? Were mundane explanations tested and documented? Were later retellings adding detail?
+Gauteng and the Pretoria region contribute a different pattern: lights over suburbs, police witnesses, and cases that gain traction because official-looking observers appear in the story. The 1991 Pretoria triangular-light reports and the 1996 police-helicopter story both fit this urban-administrative profile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">Ariel School UFO incident</span></span></span> These cases feel stronger to readers because they involve police or pilots, but they still require the same questions as any other report: Was the original evidence preserved? Were radar records released? Were mundane explanations tested and documented? Were later retellings adding detail?
 
-Cape Town has a particularly high rate of explainable spectacle. Table Mountain, coastal weather, strong winds, public events and a large social-media population make it ideal for viral “UFO” moments. The 2015 lenticular-cloud episode is a textbook case: the images looked like classic saucers, but the mechanism was ordinary mountain meteorology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The Long Street green-light case was different: it was less about cloud shape and more about urban light phenomena, social media and the difficulty of confirming whether a public-event test or marketing stunt was involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">UFO spotted 1 000 feet in sky before hurtling towards earth</span><span class="citation-popover-snippet">UFO spotted 1 000 feet in sky before hurtling towards earth</span></span></span>
+Cape Town has a particularly high rate of explainable spectacle. Table Mountain, coastal weather, strong winds, public events and a large social-media population make it ideal for viral “UFO” moments. The 2015 lenticular-cloud episode is a textbook case: the images looked like classic saucers, but the mechanism was ordinary mountain meteorology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The Long Street green-light case was different: it was less about cloud shape and more about urban light phenomena, social media and the difficulty of confirming whether a public-event test or marketing stunt was involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">UFO spotted 1 000 feet in sky before hurtling towards earth</span><span class="citation-popover-snippet">UFO spotted 1 000 feet in sky before hurtling towards earth</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tsyD3_KHwCY" title="Police Confirmed UFO Sighting | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tsyD3_KHwCY" target="_blank" rel="noopener noreferrer">Police Confirmed UFO Sighting | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic &middot; Views: 2.0M &middot; Uploaded: December 2008 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tsyD3_KHwCY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tsyD3_KHwCY">Open on YouTube</a></p></div></div></div>
 
@@ -1230,22 +1230,22 @@ Cape Town has a particularly high rate of explainable spectacle. Table Mountain,
 
 The South African record becomes clearer when each case is placed into an evidence tier rather than treated as one big mystery.
 
-**Confirmed as reported, but not confirmed as extraordinary:** The Jeffreys Bay 2016 aviation case belongs here. There is credible reporting that pilots saw something, that air traffic control treated it seriously enough to request NSRI assistance, and that no missing craft was found. That supports the claim that an unusual observation occurred; it does not identify the object or establish an exotic cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news24.com/still-no-answers-on-mysterious-green-ufo-lights-in-cape-town-20151130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">Still no answers on mysterious green UFO lights in Cape Town &#124; News24</span><span class="citation-popover-snippet">Still no answers on mysterious green UFO lights in Cape Town &#124; News24</span></span></span>
+**Confirmed as reported, but not confirmed as extraordinary:** The Jeffreys Bay 2016 aviation case belongs here. There is credible reporting that pilots saw something, that air traffic control treated it seriously enough to request NSRI assistance, and that no missing craft was found. That supports the claim that an unusual observation occurred; it does not identify the object or establish an exotic cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news24.com/still-no-answers-on-mysterious-green-ufo-lights-in-cape-town-20151130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">Still no answers on mysterious green UFO lights in Cape Town &#124; News24</span><span class="citation-popover-snippet">Still no answers on mysterious green UFO lights in Cape Town &#124; News24</span></span></span>
 
-**Contested and insufficiently documented:** The 1996 Pretoria police chase also belongs here. The involvement of police and a helicopter makes it more interesting than a lone-witness light report, but the accessible public evidence is still dominated by secondary retellings and archived media references rather than a complete technical record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/2012/videopretoriasouthafrica.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Fort Beaufort sits in a similar category: culturally important, regionally vivid, but lacking the kind of preserved official file that would let later researchers test the most dramatic claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
+**Contested and insufficiently documented:** The 1996 Pretoria police chase also belongs here. The involvement of police and a helicopter makes it more interesting than a lone-witness light report, but the accessible public evidence is still dominated by secondary retellings and archived media references rather than a complete technical record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/2012/videopretoriasouthafrica.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Fort Beaufort sits in a similar category: culturally important, regionally vivid, but lacking the kind of preserved official file that would let later researchers test the most dramatic claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
 
-**Plausibly explained:** The Durban 2004 case is one of the clearest examples. A physics professor who viewed the footage identified the object as Venus, noting that the duration did not fit a fireball and the behaviour did not fit a satellite; the witnesses rejected that explanation, but the astronomical account is stronger than the alien interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span> The 2015 Cape Town “UFO clouds” are even clearer, because lenticular clouds are a known meteorological phenomenon and the local terrain provides the mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Plausibly explained:** The Durban 2004 case is one of the clearest examples. A physics professor who viewed the footage identified the object as Venus, noting that the duration did not fit a fireball and the behaviour did not fit a satellite; the witnesses rejected that explanation, but the astronomical account is stronger than the alien interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span> The 2015 Cape Town “UFO clouds” are even clearer, because lenticular clouds are a known meteorological phenomenon and the local terrain provides the mechanism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Debunked or strongly discredited:** The alleged Kalahari crash is the key case. The claim usually says that South African aircraft shot down an alien craft in or near the Kalahari in 1989, sometimes with recovered beings and secret military transport. Public summaries of South African UFO cases describe the alleged 1989 and 1995 crash documents as hoaxes, with references to contemporary South African press and UFO-community investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ig.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span> The story survives because it has the shape of a “South African Roswell” — secret jets, hidden wreckage, biological entities, official-looking documents — but those are also the features that make forged-document narratives travel well.
+**Debunked or strongly discredited:** The alleged Kalahari crash is the key case. The claim usually says that South African aircraft shot down an alien craft in or near the Kalahari in 1989, sometimes with recovered beings and secret military transport. Public summaries of South African UFO cases describe the alleged 1989 and 1995 crash documents as hoaxes, with references to contemporary South African press and UFO-community investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ig.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span> The story survives because it has the shape of a “South African Roswell” — secret jets, hidden wreckage, biological entities, official-looking documents — but those are also the features that make forged-document narratives travel well.
 
 <img src="{{ "/assets/images/South_Africa_3b27c8-Illustration-2-dark.svg" | relative_url }}" alt="What Really Stands Out in South Africa&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official records do and do not show
 
-South Africa does not have a widely used public equivalent of a single national UFO disclosure portal that resolves these cases. Instead, “official” appears in the record in narrower ways: police witnesses in particular incidents, air-traffic-control involvement in aviation reports, occasional military rumours, and newspaper references to state bodies denying or failing to confirm claims. The Jeffreys Bay case is a good example of a limited official-adjacent record: air traffic control and the NSRI responded to a possible safety issue, but the public report did not become a broader defence investigation into anomalous technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">UFO spotted 1 000 feet in sky before hurtling towards earth</span><span class="citation-popover-snippet">UFO spotted 1 000 feet in sky before hurtling towards earth</span></span></span>
+South Africa does not have a widely used public equivalent of a single national UFO disclosure portal that resolves these cases. Instead, “official” appears in the record in narrower ways: police witnesses in particular incidents, air-traffic-control involvement in aviation reports, occasional military rumours, and newspaper references to state bodies denying or failing to confirm claims. The Jeffreys Bay case is a good example of a limited official-adjacent record: air traffic control and the NSRI responded to a possible safety issue, but the public report did not become a broader defence investigation into anomalous technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news24.com">[News24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news24.com</span><span class="citation-popover-title">UFO spotted 1 000 feet in sky before hurtling towards earth</span><span class="citation-popover-snippet">UFO spotted 1 000 feet in sky before hurtling towards earth</span></span></span>
 
 That distinction matters. A police officer, pilot or rescue agency can make a sighting more credible as an observation without making the interpretation extraordinary. The strongest public South African cases show that credible people sometimes see things they cannot identify quickly. They do not, on the open evidence, demonstrate a confirmed non-human craft.
 
-The lack of a central official archive also makes private collections disproportionately influential. Hind’s *UFO Afrinews*, UfoRSA reports, newspaper archives and international databases preserve material that might otherwise disappear, but they vary in standardisation and verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span> For readers, that means the source trail is part of the story: a case built from a contemporary newspaper article and a named agency response should be weighted differently from one built from anonymous forum posts, repeated crash documents or later YouTube retellings.
+The lack of a central official archive also makes private collections disproportionately influential. Hind’s *UFO Afrinews*, UfoRSA reports, newspaper archives and international databases preserve material that might otherwise disappear, but they vary in standardisation and verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;UFO AFRINEWS12 150</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span> For readers, that means the source trail is part of the story: a case built from a contemporary newspaper article and a named agency response should be weighted differently from one built from anonymous forum posts, repeated crash documents or later YouTube retellings.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wNFuYiLrvqw" title="Officer Spots a U.F.O. During a High-Speed Chase! | NASA&#x27;s Unexplained Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wNFuYiLrvqw" target="_blank" rel="noopener noreferrer">Officer Spots a U.F.O. During a High-Speed Chase! | NASA&#x27;s Unexplained Files</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 90.7K &middot; Uploaded: July 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wNFuYiLrvqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wNFuYiLrvqw">Open on YouTube</a></p></div></div></div>
 
@@ -1253,16 +1253,16 @@ The lack of a central official archive also makes private collections disproport
 
 A striking feature of the South African record is how often the core observation is a light, cloud, orb, fireball or distant shape rather than a clearly seen machine. That is not unique to South Africa, but local conditions make it especially important. Wide rural horizons, long-distance night driving, high-contrast skies, coastal weather, military and aviation corridors, and spectacular mountain cloud formations all create situations in which ordinary phenomena can look unfamiliar.
 
-Several cases show the pattern. Durban 2004 was a long-duration bright object, which favours an astronomical explanation such as Venus over a fast transient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span> Cape Town’s 2015 “saucers” looked visually dramatic because lenticular clouds resemble the classic flying-saucer silhouette. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The 2012 Cape Town reports gathered by UfoRSA included vapour-like shapes and a brief bright light, while suggested explanations included recent rocket launches and an asteroid pass, illustrating how modern skywatching can involve satellites, launches, aircraft, clouds and astronomy all at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span>
+Several cases show the pattern. Durban 2004 was a long-duration bright object, which favours an astronomical explanation such as Venus over a fast transient.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span> Cape Town’s 2015 “saucers” looked visually dramatic because lenticular clouds resemble the classic flying-saucer silhouette.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The 2012 Cape Town reports gathered by UfoRSA included vapour-like shapes and a brief bright light, while suggested explanations included recent rocket launches and an asteroid pass, illustrating how modern skywatching can involve satellites, launches, aircraft, clouds and astronomy all at once.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iol.co.za">[IOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iol.co.za</span><span class="citation-popover-title">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span><span class="citation-popover-snippet">IOLDurban &#x27;UFO&#x27; was actually Venus, says prof</span></span></span>
 
 This does not mean every South African case is solved. It means that the first serious question is usually not “Was it alien?” but “What sky, weather, aviation, astronomical or social-media context surrounded the sighting?” Cases that survive those checks — multiple independent witnesses, precise timing, flight data, radar, original imagery, preserved metadata, and expert review — deserve more attention than stories that merely sound dramatic.
 
 <img src="{{ "/assets/images/South_Africa_3b27c8-Illustration-3-dark.svg" | relative_url }}" alt="What Really Stands Out in South Africa&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How South Africa connects to neighbouring UFO narratives
 
-South Africa’s UFO record naturally links to southern African UFO history, especially because researchers and media often crossed borders. Cynthia Hind’s work, for example, treated African cases as a connected field, and the best-known regional case outside South Africa is Zimbabwe’s 1994 Ariel School incident. That case should not be folded into South Africa’s national chronology, but it helps explain why South African readers and researchers in the 1990s were primed to take school, rural and close-encounter reports seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
+South Africa’s UFO record naturally links to southern African UFO history, especially because researchers and media often crossed borders. Cynthia Hind’s work, for example, treated African cases as a connected field, and the best-known regional case outside South Africa is Zimbabwe’s 1994 Ariel School incident. That case should not be folded into South Africa’s national chronology, but it helps explain why South African readers and researchers in the 1990s were primed to take school, rural and close-encounter reports seriously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
 
-The Kalahari crash story also blurs borders, with versions placing events near Botswana, South Africa or Lesotho and attaching them to South African military power. That cross-border vagueness is one reason the claim should be treated with caution. A strong case becomes clearer as documentation improves; the Kalahari story tends to become more elaborate as it is retold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Kalahari crash story also blurs borders, with versions placing events near Botswana, South Africa or Lesotho and attaching them to South African military power. That cross-border vagueness is one reason the claim should be treated with caution. A strong case becomes clearer as documentation improves; the Kalahari story tends to become more elaborate as it is retold.<span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## What a careful reader should conclude
 
@@ -1273,194 +1273,194 @@ The best-supported reading is therefore neither blanket dismissal nor sensationa
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XBRNAbacjQ4" title="South Africa’s Hidden UFO Files: Military Archives, Bob Lazar &amp; The New Disclosure Dump" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XBRNAbacjQ4" target="_blank" rel="noopener noreferrer">South Africa’s Hidden UFO Files: Military Archives, Bob Lazar &amp; The New Disclosure Dump</a></p><p class="youtube-embed-meta">Channel: Strange and Mysterious World &middot; Views: 68 &middot; Uploaded: May 2026 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XBRNAbacjQ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XBRNAbacjQ4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Stands Out in South Africa&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Stands Out in South Africa&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing varied sighting reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing varied sighting reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers major UFO claims and investigative approaches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers major UFO claims and investigative approaches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page surveying notable national UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page surveying notable national UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Adds historical and cultural perspective to UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds historical and cultural perspective to UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-stands-out-in-south-africa-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1476,7 +1476,7 @@ The best-supported reading is therefore neither blanket dismissal nor sensationa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1496,7 +1496,7 @@ The best-supported reading is therefore neither blanket dismissal nor sensationa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1528,7 +1528,7 @@ The best-supported reading is therefore neither blanket dismissal nor sensationa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1580,7 +1580,7 @@ The best-supported reading is therefore neither blanket dismissal nor sensationa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1625,7 +1625,7 @@ The best-supported reading is therefore neither blanket dismissal nor sensationa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1663,215 +1663,214 @@ The best-supported reading is therefore neither blanket dismissal nor sensationa
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "UFO AFRINEWS12 150"  
-   Link: <a href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_AFRINEWS12-150/UFO_AFRINEWS12-150_djvu.txt</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
    Title: j.1475 682X.1989.tb00107.x  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-682X.1989.tb00107.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-682X.1989.tb00107.x</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-682X.1989.tb00107.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-682X.1989.tb00107.x</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO sightings in South Africa  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufocasebook.com  
-   Link: <a href="https://www.ufocasebook.com/2012/videopretoriasouthafrica.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/2012/videopretoriasouthafrica.html</a>  
+   Link:<a href="https://www.ufocasebook.com/2012/videopretoriasouthafrica.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/2012/videopretoriasouthafrica.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: iol.co.za  
    Title: IOLDurban 'UFO' was actually Venus, says prof  
-   Link: <a href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow">https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/</a>  
+   Link:<a href="https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/" target="_blank" rel="noopener noreferrer nofollow">https://iol.co.za/news/eish/2004-07-05-durban-ufo-was-actually-venus-says-prof/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news24.com  
    Title: Still no answers on mysterious green UFO lights in Cape Town | News24  
-   Link: <a href="https://www.news24.com/still-no-answers-on-mysterious-green-ufo-lights-in-cape-town-20151130" target="_blank" rel="noopener noreferrer nofollow">https://www.news24.com/still-no-answers-on-mysterious-green-ufo-lights-in-cape-town-20151130</a>  
+   Link:<a href="https://www.news24.com/still-no-answers-on-mysterious-green-ufo-lights-in-cape-town-20151130" target="_blank" rel="noopener noreferrer nofollow">https://www.news24.com/still-no-answers-on-mysterious-green-ufo-lights-in-cape-town-20151130</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news24.com  
    Title: UFO spotted 1 000 feet in sky before hurtling towards earth  
-   Link: <a href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow">https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213</a>  
+   Link:<a href="https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213" target="_blank" rel="noopener noreferrer nofollow">https://www.news24.com/southafrica/news/ufo-spotted-1-000-feet-in-sky-before-hurtling-towards-earth-nsri-20161213</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Hiện tượng quan sát thấy UFO ở Nam Phi  
-   Link: <a href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Nam_Phi" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Nam_Phi</a>  
+   Link:<a href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Nam_Phi" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Hi%E1%BB%87n_t%C6%B0%E1%BB%A3ng_quan_s%C3%A1t_th%E1%BA%A5y_UFO_%E1%BB%9F_Nam_Phi</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: groups.google.com  
-   Link: <a href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec</a>  
+   Link:<a href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/UfoRSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/UfoRSA</a>  
+   Link:<a href="https://www.youtube.com/user/UfoRSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/UfoRSA</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/kZysgpNM_gY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/kZysgpNM_gY</a>  
+   Link:<a href="https://www.youtube.com/shorts/kZysgpNM_gY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/kZysgpNM_gY</a>  
 
-15. <a id="endnote-15"></a>
-   Source: youtube.com  
-   Title: Ufo RSAUF O Sighting in Kalk Bay  
-   Link: <a href="https://www.youtube.com/%40UfoRSA/about" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40UfoRSA/about</a>  
-
-16. <a id="endnote-16"></a>
-   Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/7NEjtZkuLWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/7NEjtZkuLWI</a>  
-
-17. <a id="endnote-17"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Ufo RSAUF O Sighting in Kalk Bay  
-   Link: <a href="https://www.youtube.com/channel/UCvVZwL7OoZBnPrYwuhDQq2Q/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCvVZwL7OoZBnPrYwuhDQq2Q/videos</a>  
+   Link:<a href="https://www.youtube.com/%40UfoRSA/about" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40UfoRSA/about</a>  
 
-18. <a id="endnote-18"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XBRNAbacjQ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XBRNAbacjQ4</a>  
+   Link:<a href="https://www.youtube.com/shorts/7NEjtZkuLWI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/7NEjtZkuLWI</a>  
 
-19. <a id="endnote-19"></a>
+17.<a id="endnote-17"></a>
+   Source: youtube.com  
+   Title: Ufo RSAUF O Sighting in Kalk Bay  
+   Link:<a href="https://www.youtube.com/channel/UCvVZwL7OoZBnPrYwuhDQq2Q/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCvVZwL7OoZBnPrYwuhDQq2Q/videos</a>  
+
+18.<a id="endnote-18"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=XBRNAbacjQ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XBRNAbacjQ4</a>  
+
+19.<a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: UFO sightings in South Africa  
-   Link: <a href="https://ig.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://ig.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
+   Link:<a href="https://ig.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://ig.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archive.org  
    Title: UFO Register Vol 09 Parts 1 2 1978 djvu.txt  
-   Link: <a href="https://archive.org/stream/UFO_Register_Vol_09_Parts_1-2_1978/UFO_Register_Vol_09_Parts_1-2_1978_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_Register_Vol_09_Parts_1-2_1978/UFO_Register_Vol_09_Parts_1-2_1978_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/UFO_Register_Vol_09_Parts_1-2_1978/UFO_Register_Vol_09_Parts_1-2_1978_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_Register_Vol_09_Parts_1-2_1978/UFO_Register_Vol_09_Parts_1-2_1978_djvu.txt</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/issj.12484" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/issj.12484</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/issj.12484" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/issj.12484</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: history.eco  
    Title: ohota na aviatorov  
-   Link: <a href="https://history.eco/ohota_na_aviatorov/" target="_blank" rel="noopener noreferrer nofollow">https://history.eco/ohota_na_aviatorov/</a>  
+   Link:<a href="https://history.eco/ohota_na_aviatorov/" target="_blank" rel="noopener noreferrer nofollow">https://history.eco/ohota_na_aviatorov/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Police Confirmed UFO Sighting | National Geographic  
-   Link: <a href="https://www.youtube.com/watch?v=tsyD3_KHwCY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tsyD3_KHwCY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Officer Spots a U.F.O. During a High-Speed Chase! | NASA&#x27;s Unexplained Files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tsyD3_KHwCY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tsyD3_KHwCY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Officer Spots a U.F.O. During a High-Speed Chase! | NASA&#x27;s Unexplained Files...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Officer Spots a U.F.O. During a High-Speed Chase! | NASA's Unexplained Files  
-   Link: <a href="https://www.youtube.com/watch?v=wNFuYiLrvqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wNFuYiLrvqw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wNFuYiLrvqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wNFuYiLrvqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School UFO Incident: 60 Students Saw Aliens...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: The Ariel School UFO Incident: 60 Students Saw Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JUNO7qqSJ9o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JUNO7qqSJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JUNO7qqSJ9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5P-MMjyVVA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5P-MMjyVVA8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=5P-MMjyVVA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5P-MMjyVVA8</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nationalgeographic.com  
-   Link: <a href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science</a>  
+   Link:<a href="https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/151109-ufo-clouds-cape-town-lenticular-clouds-weather-science</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: South Africa  
-   Link: <a href="https://www.facebook.com/CapeTownJohannesburgSouthAfricanWildMemories/posts/something-to-amuse-you-while-i-get-the-history-of-our-next-town-together-believe/2620955924605565/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CapeTownJohannesburgSouthAfricanWildMemories/posts/something-to-amuse-you-while-i-get-the-history-of-our-next-town-together-believe/2620955924605565/</a>  
+   Link:<a href="https://www.facebook.com/CapeTownJohannesburgSouthAfricanWildMemories/posts/something-to-amuse-you-while-i-get-the-history-of-our-next-town-together-believe/2620955924605565/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CapeTownJohannesburgSouthAfricanWildMemories/posts/something-to-amuse-you-while-i-get-the-history-of-our-next-town-together-believe/2620955924605565/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/432559840258226/posts/1309099325937602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/432559840258226/posts/1309099325937602/</a>  
+   Link:<a href="https://www.facebook.com/groups/432559840258226/posts/1309099325937602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/432559840258226/posts/1309099325937602/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: stfrancistoday.com  
-   Link: <a href="https://stfrancistoday.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://stfrancistoday.com/tag/ufo/</a>  
+   Link:<a href="https://stfrancistoday.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://stfrancistoday.com/tag/ufo/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
+   Link:<a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: blog.education.nationalgeographic.org  
    Title: ufo clouds are real  
-   Link: <a href="https://blog.education.nationalgeographic.org/2015/11/10/ufo-clouds-are-real/" target="_blank" rel="noopener noreferrer nofollow">https://blog.education.nationalgeographic.org/2015/11/10/ufo-clouds-are-real/</a>  
+   Link:<a href="https://blog.education.nationalgeographic.org/2015/11/10/ufo-clouds-are-real/" target="_blank" rel="noopener noreferrer nofollow">https://blog.education.nationalgeographic.org/2015/11/10/ufo-clouds-are-real/</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/147q3he/building_18_at_wright_patterson_af_base/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/147q3he/building_18_at_wright_patterson_af_base/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/147q3he/building_18_at_wright_patterson_af_base/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/147q3he/building_18_at_wright_patterson_af_base/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: fyi.org.nz  
-   Link: <a href="https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications" target="_blank" rel="noopener noreferrer nofollow">https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications</a>  
+   Link:<a href="https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications" target="_blank" rel="noopener noreferrer nofollow">https://fyi.org.nz/request/25736-disclosure-of-civil-aviation-authority-s-uap-ufo-handling-protocols-and-communications</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/</a>  
+   Link:<a href="https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/10/a-closer-look-at-emencounters-em-and-the-ariel-school-sighting/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WarInAngola/posts/anyone-from-the-saaf-know-about-this-/1169002021931331/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WarInAngola/posts/anyone-from-the-saaf-know-about-this-/1169002021931331/</a>  
+   Link:<a href="https://www.facebook.com/WarInAngola/posts/anyone-from-the-saaf-know-about-this-/1169002021931331/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WarInAngola/posts/anyone-from-the-saaf-know-about-this-/1169002021931331/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/704556533/The-Cosmic-Grand-Deception" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/704556533/The-Cosmic-Grand-Deception</a>  
+   Link:<a href="https://www.scribd.com/document/704556533/The-Cosmic-Grand-Deception" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/704556533/The-Cosmic-Grand-Deception</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2336287406636020/posts/3744085725856174/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2336287406636020/posts/3744085725856174/</a>
+   Link:<a href="https://www.facebook.com/groups/2336287406636020/posts/3744085725856174/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2336287406636020/posts/3744085725856174/</a>

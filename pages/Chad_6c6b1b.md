@@ -1196,14 +1196,14 @@ image: /assets/images/Chad_6c6b1b-overview-social.jpg
 
 ### Mid‑2020s Reports
 
-* **Growing local reports database:** A private UFO enthusiast site claims that residents in Chad have submitted a rising number of UFO/UAP reports in recent years, with contributors encouraged to share experiences of “strange and unexplained or unidentified flying objects” in both daytime and night skies. These entries are not part of any formal government or scientific registry and do not list independently verified cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/chad-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Chad UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">March 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
-* **[Zagobo object]({{ 'zagobo-object/' | relative_url }}) (July 2024):** Multiple local news outlets reported an “unidentified space vehicle” seen to crash in a field near the village of *Zagobo* in the Tandjilé‑Ouest region late on the night of 4 July 2024. Witnesses described a red‑glowing object hitting the ground, prompting local authorities to recover the device. Subsequent investigation suggested the artefact was a **meteorological balloon and radiosonde**, a common weather‑observing instrument, rather than an extraterrestrial craft. The regional aviation body ASECNA (Agency for the Safety of Air Navigation in Africa and Madagascar) publicly assured the population that the device posed “no danger” and was part of routine atmospheric data collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.africa-press.net/tchad/toutes-les-actualites/lasecna-rassure-sur-linnocuite-du-ballon-meteorologique-tombe-a-zagobo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africa-press.net">[Africa Press English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africa-press.net</span><span class="citation-popover-snippet">tchadJuly 8, 2024...</span><span class="citation-popover-meta">Published: July 8, 2024</span></span></span>
+* **Growing local reports database:** A private UFO enthusiast site claims that residents in Chad have submitted a rising number of UFO/UAP reports in recent years, with contributors encouraged to share experiences of “strange and unexplained or unidentified flying objects” in both daytime and night skies. These entries are not part of any formal government or scientific registry and do not list independently verified cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/chad-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">Global UFOs: Chad UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">March 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
+* **[Zagobo object]({{ 'zagobo-object/' | relative_url }}) (July 2024):** Multiple local news outlets reported an “unidentified space vehicle” seen to crash in a field near the village of *Zagobo* in the Tandjilé‑Ouest region late on the night of 4 July 2024. Witnesses described a red‑glowing object hitting the ground, prompting local authorities to recover the device. Subsequent investigation suggested the artefact was a **meteorological balloon and radiosonde**, a common weather‑observing instrument, rather than an extraterrestrial craft. The regional aviation body ASECNA (Agency for the Safety of Air Navigation in Africa and Madagascar) publicly assured the population that the device posed “no danger” and was part of routine atmospheric data collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.africa-press.net/tchad/toutes-les-actualites/lasecna-rassure-sur-linnocuite-du-ballon-meteorologique-tombe-a-zagobo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africa-press.net">[Africa Press English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africa-press.net</span><span class="citation-popover-snippet">tchadJuly 8, 2024...</span><span class="citation-popover-meta">Published: July 8, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Chad_6c6b1b-overview.webp" | relative_url }}" alt="Overview image for What Is Really Behind Chad&#x27;s UFO Reports?" loading="eager" decoding="sync" fetchpriority="high">
 ### Isolated Eyewitness Accounts
 
-* **April 2023 Kelo observation:** An online ufology blog recounts that on 1 March 2023, an individual in the *Logone Occidental* region observed approximately ten “egg‑shaped” objects emitting a greenish light, moving through the sky for about ten minutes. The same account describes possible sound and light effects and an apparent pursuit by aircraft, though no independent confirmation appears in mainstream reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.odla.fr/2023/04/14/plusieurs-tchad-plusieurs-ovni-observ%C3%A9s-en-forme-d-%C5%93uf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odla.fr">[odla.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odla.fr</span><span class="citation-popover-title">Plusieurs Tchad: plusieurs OVNI observés en forme d&#x27;œuf</span><span class="citation-popover-snippet">Ôdla: actualité Ufologique et phénomènes inexpliquésApril 14, 2023...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
-* **Unofficial online narratives:** Occasional pieces in local or hobbyist media include symbolic or highly interpretive content (for example, a narrative about a “UFO” in an urban neighbourhood used as cultural metaphor). These are not presented as factual sightings and cannot be treated as credible evidence of physical anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lepaystchad.com/41956/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lepaystchad.com">[Journal Le Pays &#124; Tchad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lepaystchad.com</span><span class="citation-popover-title">Journal Le Pays &#124; Tchad Ray&#x27;s le “RAÏS”</span><span class="citation-popover-snippet">Journal Le Pays &#124; TchadRay&#x27;s le “RAÏS” - Journal Le Pays &#124; TchadOctober 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
+* **April 2023 Kelo observation:** An online ufology blog recounts that on 1 March 2023, an individual in the *Logone Occidental* region observed approximately ten “egg‑shaped” objects emitting a greenish light, moving through the sky for about ten minutes. The same account describes possible sound and light effects and an apparent pursuit by aircraft, though no independent confirmation appears in mainstream reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.odla.fr/2023/04/14/plusieurs-tchad-plusieurs-ovni-observ%C3%A9s-en-forme-d-%C5%93uf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odla.fr">[odla.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odla.fr</span><span class="citation-popover-title">Plusieurs Tchad: plusieurs OVNI observés en forme d&#x27;œuf</span><span class="citation-popover-snippet">Ôdla: actualité Ufologique et phénomènes inexpliquésApril 14, 2023...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
+* **Unofficial online narratives:** Occasional pieces in local or hobbyist media include symbolic or highly interpretive content (for example, a narrative about a “UFO” in an urban neighbourhood used as cultural metaphor). These are not presented as factual sightings and cannot be treated as credible evidence of physical anomalies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lepaystchad.com/41956/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lepaystchad.com">[Journal Le Pays &#124; Tchad]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lepaystchad.com</span><span class="citation-popover-title">Journal Le Pays &#124; Tchad Ray&#x27;s le “RAÏS”</span><span class="citation-popover-snippet">Journal Le Pays &#124; TchadRay&#x27;s le “RAÏS” - Journal Le Pays &#124; TchadOctober 19, 2025...</span><span class="citation-popover-meta">Published: October 19, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Chad_6c6b1b-Illustration-1-dark.svg" | relative_url }}" alt="What Is Really Behind Chad&#x27;s UFO Reports? illustration 1" data-theme-src-dark="{{ "/assets/images/Chad_6c6b1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chad_6c6b1b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scientific and Skeptical Context in the Region
@@ -1212,8 +1212,8 @@ image: /assets/images/Chad_6c6b1b-overview-social.jpg
 
 In regions like northern and central Chad — particularly areas covered by the Sahara Desert — many sightings of lights or unidentified objects can be attributed to natural or well‑understood phenomena:
 
-* **Atmospheric and space objects:** Bright stars, planets, meteors and bolides regularly produce sightings that may be unfamiliar to casual observers. Chad’s vast, sparsely populated skies can enhance the visibility of such objects. In international scientific literature, the Sahara has been examined primarily for geological phenomena, such as ancient impact craters, not ongoing extraterrestrial activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.wikipedia.org/wiki/Crat%C3%A8re_d%27Aorounga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cratère d&#x27;Aorounga</span><span class="citation-popover-snippet">Cratère d&#x27;Aorounga</span></span></span>
-* **Meteorological instrumentation:** Radiosondes attached to high‑altitude balloons are launched routinely from meteorological stations across Africa to collect atmospheric data. When these devices descend unexpectedly, they can be misidentified as “crashing UFOs,” as in the Zagobo case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.africa-press.net/tchad/toutes-les-actualites/lasecna-rassure-sur-linnocuite-du-ballon-meteorologique-tombe-a-zagobo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africa-press.net">[Africa Press English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africa-press.net</span><span class="citation-popover-snippet">tchadJuly 8, 2024...</span><span class="citation-popover-meta">Published: July 8, 2024</span></span></span>
+* **Atmospheric and space objects:** Bright stars, planets, meteors and bolides regularly produce sightings that may be unfamiliar to casual observers. Chad’s vast, sparsely populated skies can enhance the visibility of such objects. In international scientific literature, the Sahara has been examined primarily for geological phenomena, such as ancient impact craters, not ongoing extraterrestrial activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fr.wikipedia.org/wiki/Crat%C3%A8re_d%27Aorounga" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cratère d&#x27;Aorounga</span><span class="citation-popover-snippet">Cratère d&#x27;Aorounga</span></span></span>
+* **Meteorological instrumentation:** Radiosondes attached to high‑altitude balloons are launched routinely from meteorological stations across Africa to collect atmospheric data. When these devices descend unexpectedly, they can be misidentified as “crashing UFOs,” as in the Zagobo case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.africa-press.net/tchad/toutes-les-actualites/lasecna-rassure-sur-linnocuite-du-ballon-meteorologique-tombe-a-zagobo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africa-press.net">[Africa Press English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africa-press.net</span><span class="citation-popover-snippet">tchadJuly 8, 2024...</span><span class="citation-popover-meta">Published: July 8, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kjLksmSdqCY" title="The Day UFOs Landed in Zimbabwe (S3) | The UnBelievable with Dan Aykroyd | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kjLksmSdqCY" target="_blank" rel="noopener noreferrer">The Day UFOs Landed in Zimbabwe (S3) | The UnBelievable with Dan Aykroyd | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 20.4K &middot; Uploaded: November 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kjLksmSdqCY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kjLksmSdqCY">Open on YouTube</a></p></div></div></div>
 
@@ -1226,7 +1226,7 @@ No known official military or civilian scientific investigation into UFOs/UAP in
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Confirmed explanations:** The **Zagobo incident** has a credible benign explanation as a meteorological balloon and radiosonde, supported by local aviation authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alwihdainfo.com/Tchad-l-ASECNA-rassure-sur-l-innocuite-du-ballon-meteorologique-tombe-a-Zagobo_a133685.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alwihdainfo.com">[Alwihda Info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alwihdainfo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Confirmed explanations:** The **Zagobo incident** has a credible benign explanation as a meteorological balloon and radiosonde, supported by local aviation authorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alwihdainfo.com/Tchad-l-ASECNA-rassure-sur-l-innocuite-du-ballon-meteorologique-tombe-a-Zagobo_a133685.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alwihdainfo.com">[Alwihda Info]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alwihdainfo.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **Contested claims:** Eyewitness reports of unusual aerial lights or clusters of objects remain anecdotal and unverified in any peer‑reviewed or government‑recognised capacity. Without corroborating instrumentation or multiple independent observers, such reports cannot be elevated to confirmed UAP events.
 * **Debunked interpretations:** Some social media and fringe publications treat natural or human‑made phenomena as alien craft without evidence, but these lack the methodological standards to be taken as reliable.
 
@@ -1239,7 +1239,7 @@ A combination of factors explains the relative scarcity of documented UFO phenom
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
-* **Communication infrastructure:** Vast rural areas with limited connectivity mean fewer sightings are reported to international databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafricaf.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: rapports d&#x27;observations d&#x27;OVNIS en Afrique...</span></span></span>
+* **Communication infrastructure:** Vast rural areas with limited connectivity mean fewer sightings are reported to international databases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/faqafricaf.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Les OVNIS vus de près: rapports d&#x27;observations d&#x27;OVNIS en Afrique...</span></span></span>
 * **Media attention:** Global media rarely reports on African UAP narratives unless they reach sensational levels, leading to under‑representation in international sighting catalogues.
 * **Scientific focus:** Regional scientific efforts prioritise atmospheric science, climate, and space meteorology rather than unexplained aerial phenomena.
 
@@ -1254,194 +1254,194 @@ Within Chad’s national context, reports of unidentified flying objects are pre
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G5IswU82rl0" title="Discussion | What was in the sky in KZN?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G5IswU82rl0" target="_blank" rel="noopener noreferrer">Discussion | What was in the sky in KZN?</a></p><p class="youtube-embed-meta">Channel: eNCA &middot; Views: 98.8K &middot; Uploaded: December 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G5IswU82rl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G5IswU82rl0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Really Behind Chad&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Really Behind Chad&#x27;s UFO Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores how modern sightings are investigated and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how modern sightings are investigated and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for assessing witness reports and sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for assessing witness reports and sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a national overview page focused on evaluating UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a national overview page focused on evaluating UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages critical evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-really-behind-chad-s-ufo-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-really-behind-chad-s-ufo-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1457,7 +1457,7 @@ Within Chad’s national context, reports of unidentified flying objects are pre
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1477,7 +1477,7 @@ Within Chad’s national context, reports of unidentified flying objects are pre
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1509,7 +1509,7 @@ Within Chad’s national context, reports of unidentified flying objects are pre
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1561,7 +1561,7 @@ Within Chad’s national context, reports of unidentified flying objects are pre
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1606,7 +1606,7 @@ Within Chad’s national context, reports of unidentified flying objects are pre
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1644,149 +1644,148 @@ Within Chad’s national context, reports of unidentified flying objects are pre
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: usufocenter.com  
    Title: Global UFOs: Chad UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/chad-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/chad-ufo-sightings.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/chad-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/chad-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2025...</p></details>
    Published: March 22, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: africa-press.net  
-   Link: <a href="https://www.africa-press.net/tchad/toutes-les-actualites/lasecna-rassure-sur-linnocuite-du-ballon-meteorologique-tombe-a-zagobo" target="_blank" rel="noopener noreferrer nofollow">https://www.africa-press.net/tchad/toutes-les-actualites/lasecna-rassure-sur-linnocuite-du-ballon-meteorologique-tombe-a-zagobo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tchadJuly 8, 2024...</p></details>
+   Link:<a href="https://www.africa-press.net/tchad/toutes-les-actualites/lasecna-rassure-sur-linnocuite-du-ballon-meteorologique-tombe-a-zagobo" target="_blank" rel="noopener noreferrer nofollow">https://www.africa-press.net/tchad/toutes-les-actualites/lasecna-rassure-sur-linnocuite-du-ballon-meteorologique-tombe-a-zagobo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tchadJuly 8, 2024...</p></details>
    Published: July 8, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: odla.fr  
    Title: Plusieurs Tchad: plusieurs OVNI observés en forme d'œuf  
-   Link: <a href="https://www.odla.fr/2023/04/14/plusieurs-tchad-plusieurs-ovni-observ%C3%A9s-en-forme-d-%C5%93uf/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2023/04/14/plusieurs-tchad-plusieurs-ovni-observ%C3%A9s-en-forme-d-%C5%93uf/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ôdla: actualité Ufologique et phénomènes inexpliquésApril 14, 2023...</p></details>
+   Link:<a href="https://www.odla.fr/2023/04/14/plusieurs-tchad-plusieurs-ovni-observ%C3%A9s-en-forme-d-%C5%93uf/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2023/04/14/plusieurs-tchad-plusieurs-ovni-observ%C3%A9s-en-forme-d-%C5%93uf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ôdla: actualité Ufologique et phénomènes inexpliquésApril 14, 2023...</p></details>
    Published: April 14, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lepaystchad.com  
    Title: Journal Le Pays | Tchad Ray's le “RAÏS”  
-   Link: <a href="https://www.lepaystchad.com/41956/" target="_blank" rel="noopener noreferrer nofollow">https://www.lepaystchad.com/41956/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal Le Pays | TchadRay&#x27;s le “RAÏS” - Journal Le Pays | TchadOctober 19, 2025...</p></details>
+   Link:<a href="https://www.lepaystchad.com/41956/" target="_blank" rel="noopener noreferrer nofollow">https://www.lepaystchad.com/41956/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal Le Pays | TchadRay&#x27;s le “RAÏS” - Journal Le Pays | TchadOctober 19, 2025...</p></details>
    Published: October 19, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Cratère d'Aorounga  
-   Link: <a href="https://fr.wikipedia.org/wiki/Crat%C3%A8re_d%27Aorounga" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Crat%C3%A8re_d%27Aorounga</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Crat%C3%A8re_d%27Aorounga" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Crat%C3%A8re_d%27Aorounga</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufologie.patrickgross.org  
-   Link: <a href="https://ufologie.patrickgross.org/htm/faqafricaf.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/faqafricaf.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: rapports d&#x27;observations d&#x27;OVNIS en Afrique...</p></details>
+   Link:<a href="https://ufologie.patrickgross.org/htm/faqafricaf.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/faqafricaf.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: rapports d&#x27;observations d&#x27;OVNIS en Afrique...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: africa-press.net  
    Title: D’après les déclarations du che  
-   Link: <a href="https://www.africa-press.net/tchad/photo/un-engin-spatial-non-identifie-secrase-dans-un-champ-a-zagobo" target="_blank" rel="noopener noreferrer nofollow">https://www.africa-press.net/tchad/photo/un-engin-spatial-non-identifie-secrase-dans-un-champ-a-zagobo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Un engin spatial non identifié s&#x27;écrase dans un champ à Zagobo - tchadJuly 6, 2024 — UN ENGIN SPATIAL NON IDENTIFIÉ S’ÉCRASE DANS UN CHAM...</p></details>
+   Link:<a href="https://www.africa-press.net/tchad/photo/un-engin-spatial-non-identifie-secrase-dans-un-champ-a-zagobo" target="_blank" rel="noopener noreferrer nofollow">https://www.africa-press.net/tchad/photo/un-engin-spatial-non-identifie-secrase-dans-un-champ-a-zagobo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Un engin spatial non identifié s&#x27;écrase dans un champ à Zagobo - tchadJuly 6, 2024 — UN ENGIN SPATIAL NON IDENTIFIÉ S’ÉCRASE DANS UN CHAM...</p></details>
    Published: July 6, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sky.com&#x27;It was behaving erratically&#x27;: US Navy pilot speaks out about UFO sighting 15 years on | US News | Sky NewsDecember 20, 2019 — &#x27;IT...</p></details>
+   Link:<a href="https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sky.com&#x27;It was behaving erratically&#x27;: US Navy pilot speaks out about UFO sighting 15 years on | US News | Sky NewsDecember 20, 2019 — &#x27;IT...</p></details>
    Published: December 20, 2019  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: odla.fr  
    Title: Gigantesque Ovni capturé par un sattelite météorologique en Afrique?  
-   Link: <a href="https://www.odla.fr/2017/07/31/gigantesque-ovni-captur%C3%A9-par-un-sattelite-m%C3%A9t%C3%A9orologique-en-afrique-31-juillet-2017/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2017/07/31/gigantesque-ovni-captur%C3%A9-par-un-sattelite-m%C3%A9t%C3%A9orologique-en-afrique-31-juillet-2017/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>31 juillet 2017 - Ôdla: actualité Ufologique et phénomènes inexpliquésJuly 31, 2017 — 31. juillet 2017 GIGANTESQUE OVNI CAPTURÉ PAR UN S...</p></details>
+   Link:<a href="https://www.odla.fr/2017/07/31/gigantesque-ovni-captur%C3%A9-par-un-sattelite-m%C3%A9t%C3%A9orologique-en-afrique-31-juillet-2017/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2017/07/31/gigantesque-ovni-captur%C3%A9-par-un-sattelite-m%C3%A9t%C3%A9orologique-en-afrique-31-juillet-2017/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 juillet 2017 - Ôdla: actualité Ufologique et phénomènes inexpliquésJuly 31, 2017 — 31. juillet 2017 GIGANTESQUE OVNI CAPTURÉ PAR UN S...</p></details>
    Published: July 31, 2017  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: alwihdainfo.com  
-   Link: <a href="https://www.alwihdainfo.com/Tchad-l-ASECNA-rassure-sur-l-innocuite-du-ballon-meteorologique-tombe-a-Zagobo_a133685.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alwihdainfo.com/Tchad-l-ASECNA-rassure-sur-l-innocuite-du-ballon-meteorologique-tombe-a-Zagobo_a133685.html</a>  
+   Link:<a href="https://www.alwihdainfo.com/Tchad-l-ASECNA-rassure-sur-l-innocuite-du-ballon-meteorologique-tombe-a-Zagobo_a133685.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alwihdainfo.com/Tchad-l-ASECNA-rassure-sur-l-innocuite-du-ballon-meteorologique-tombe-a-Zagobo_a133685.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aa.com.tr  
    Title: Tchad: découverte du corps sans vie du ressortissant français Paul Ferreri  
-   Link: <a href="https://www.aa.com.tr/fr/afrique/tchad-d%C3%A9couverte-du-corps-sans-vie-du-ressortissant-francais-paul-ferreri/3829297" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/fr/afrique/tchad-d%C3%A9couverte-du-corps-sans-vie-du-ressortissant-francais-paul-ferreri/3829297</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 13, 2026 — TCHAD: DÉCOUVERTE DU CORPS SANS VIE DU RESSORTISSANT FRANÇAIS PAUL FERRERI - Sa disparition avait été signalée mercr...</p></details>
+   Link:<a href="https://www.aa.com.tr/fr/afrique/tchad-d%C3%A9couverte-du-corps-sans-vie-du-ressortissant-francais-paul-ferreri/3829297" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/fr/afrique/tchad-d%C3%A9couverte-du-corps-sans-vie-du-ressortissant-francais-paul-ferreri/3829297</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 13, 2026 — TCHAD: DÉCOUVERTE DU CORPS SANS VIE DU RESSORTISSANT FRANÇAIS PAUL FERRERI - Sa disparition avait été signalée mercr...</p></details>
    Published: February 13, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: alwihdainfo.com  
    Title: Tchad: Un engin spatial non identifié s'écrase dans un champ à Zagobo  
-   Link: <a href="https://www.alwihdainfo.com/Tchad-Un-engin-spatial-non-identifie-s-ecrase-dans-un-champ-a-Zagobo_a133645.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alwihdainfo.com/Tchad-Un-engin-spatial-non-identifie-s-ecrase-dans-un-champ-a-Zagobo_a133645.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 5, 2024 — IMAGE TCHAD: UN ENGIN SPATIAL NON IDENTIFIÉ S&#x27;ÉCRASE DANS UN CHAMP À ZAGOBO Alwihda Info | Par Peter Kum - 5 Juillet 2024...</p></details>
+   Link:<a href="https://www.alwihdainfo.com/Tchad-Un-engin-spatial-non-identifie-s-ecrase-dans-un-champ-a-Zagobo_a133645.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alwihdainfo.com/Tchad-Un-engin-spatial-non-identifie-s-ecrase-dans-un-champ-a-Zagobo_a133645.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 5, 2024 — IMAGE TCHAD: UN ENGIN SPATIAL NON IDENTIFIÉ S&#x27;ÉCRASE DANS UN CHAMP À ZAGOBO Alwihda Info | Par Peter Kum - 5 Juillet 2024...</p></details>
    Published: July 5, 2024  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jpl.nasa.gov  
    Title: Credit: NASA/JPL A team of scientists believes they have discovered a chain o  
-   Link: <a href="https://www.jpl.nasa.gov/news/chain-of-impact-craters-suspected-in-spaceborne-radar-images/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/chain-of-impact-craters-suspected-in-spaceborne-radar-images/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Impact Craters Suspected in Spaceborne Radar Images | NASA Jet Propulsion Laboratory (JPL)March 20, 1996 —.3 min read CHAIN OF IMPACT...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/news/chain-of-impact-craters-suspected-in-spaceborne-radar-images/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/chain-of-impact-craters-suspected-in-spaceborne-radar-images/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Impact Craters Suspected in Spaceborne Radar Images | NASA Jet Propulsion Laboratory (JPL)March 20, 1996 —.3 min read CHAIN OF IMPACT...</p></details>
    Published: March 20, 1996  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eurekamag.com  
-   Link: <a href="https://eurekamag.com/research/102/623/102623560.php" target="_blank" rel="noopener noreferrer nofollow">https://eurekamag.com/research/102/623/102623560.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>depression circulaire d&#x27;Aorounga au Tchad (Afrique)January 1, 1992 — METEORITIC IMPACT ORIGIN OF THE ANNULAR DEPRESSION OF AOROUNGA, CHAD...</p></details>
+   Link:<a href="https://eurekamag.com/research/102/623/102623560.php" target="_blank" rel="noopener noreferrer nofollow">https://eurekamag.com/research/102/623/102623560.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>depression circulaire d&#x27;Aorounga au Tchad (Afrique)January 1, 1992 — METEORITIC IMPACT ORIGIN OF THE ANNULAR DEPRESSION OF AOROUNGA, CHAD...</p></details>
    Published: January 1, 1992  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/news/science/ufo-tic-tac-flying-saucer-chad-underwoord-dave-fravor-a9254671.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/science/ufo-tic-tac-flying-saucer-chad-underwoord-dave-fravor-a9254671.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Pilot who spotted famous Tic Tac breaks silence after 15 years | The Independent | The IndependentDecember 20, 2019 — ‘IT DID NOT OB...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/science/ufo-tic-tac-flying-saucer-chad-underwoord-dave-fravor-a9254671.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/science/ufo-tic-tac-flying-saucer-chad-underwoord-dave-fravor-a9254671.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Pilot who spotted famous Tic Tac breaks silence after 15 years | The Independent | The IndependentDecember 20, 2019 — ‘IT DID NOT OB...</p></details>
    Published: December 20, 2019  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufomagazines.com  
-   Link: <a href="https://www.ufomagazines.com/ovni-omar-fowler-ovni-1993-09-september/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/ovni-omar-fowler-ovni-1993-09-september/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&lt;OVNI&gt; — Phenomenon Research Association | UFO Magazine ArchiveSeptember 1, 1993 — THE MYSTERIOUS &quot;FOO FIGHTERS&quot; This section extensively...</p></details>
+   Link:<a href="https://www.ufomagazines.com/ovni-omar-fowler-ovni-1993-09-september/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/ovni-omar-fowler-ovni-1993-09-september/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&lt;OVNI&gt; — Phenomenon Research Association | UFO Magazine ArchiveSeptember 1, 1993 — THE MYSTERIOUS &quot;FOO FIGHTERS&quot; This section extensively...</p></details>
    Published: September 1, 1993  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rtl.nl  
    Title: Piloot die ufo filmde doet na 15 jaar zijn verhaal: 'Het gedroeg zich grillig'  
-   Link: <a href="https://www.rtl.nl/nieuws/buitenland/artikel/4963156/ufo-chad-underwood-piloot-straaljager-filmt-vliegend-object" target="_blank" rel="noopener noreferrer nofollow">https://www.rtl.nl/nieuws/buitenland/artikel/4963156/ufo-chad-underwood-piloot-straaljager-filmt-vliegend-object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 20, 2019 — PILOOT DIE UFO FILMDE DOET NA 15 JAAR ZIJN VERHAAL: &#x27;HET GEDROEG ZICH GRILLIG&#x27; RTL Nieuws · 20 december 2019 · Aangep...</p></details>
+   Link:<a href="https://www.rtl.nl/nieuws/buitenland/artikel/4963156/ufo-chad-underwood-piloot-straaljager-filmt-vliegend-object" target="_blank" rel="noopener noreferrer nofollow">https://www.rtl.nl/nieuws/buitenland/artikel/4963156/ufo-chad-underwood-piloot-straaljager-filmt-vliegend-object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 20, 2019 — PILOOT DIE UFO FILMDE DOET NA 15 JAAR ZIJN VERHAAL: &#x27;HET GEDROEG ZICH GRILLIG&#x27; RTL Nieuws · 20 december 2019 · Aangep...</p></details>
    Published: December 20, 2019  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jpl.nasa.gov  
    Title: pia01833 space radar of image aorounga impact crater chad  
-   Link: <a href="https://www.jpl.nasa.gov/images/pia01833-space-radar-of-image-aorounga-impact-crater-chad/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/images/pia01833-space-radar-of-image-aorounga-impact-crater-chad/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar of Image Aorounga Impact Crater, Chad | NASA Jet Propulsion Laboratory (JPL)April 15, 1999 — Image: JPL Logo Image SPACE RADAR OF I...</p></details>
+   Link:<a href="https://www.jpl.nasa.gov/images/pia01833-space-radar-of-image-aorounga-impact-crater-chad/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/images/pia01833-space-radar-of-image-aorounga-impact-crater-chad/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radar of Image Aorounga Impact Crater, Chad | NASA Jet Propulsion Laboratory (JPL)April 15, 1999 — Image: JPL Logo Image SPACE RADAR OF I...</p></details>
    Published: April 15, 1999  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: infinityexplorers.com  
    Title: The Man Who Recorded the Tic Tac UFO Spoke On Camera For The First Time  
-   Link: <a href="https://www.infinityexplorers.com/tic-tac-ufo-chad-underwood/" target="_blank" rel="noopener noreferrer nofollow">https://www.infinityexplorers.com/tic-tac-ufo-chad-underwood/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 29, 2021 — 2 minute read THE MAN WHO RECORDED THE TIC TAC UFO SPOKE ON CAMERA FOR THE FIRST TIME Ansh Srivastava July 29, 2021 Comma...</p></details>
+   Link:<a href="https://www.infinityexplorers.com/tic-tac-ufo-chad-underwood/" target="_blank" rel="noopener noreferrer nofollow">https://www.infinityexplorers.com/tic-tac-ufo-chad-underwood/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 29, 2021 — 2 minute read THE MAN WHO RECORDED THE TIC TAC UFO SPOKE ON CAMERA FOR THE FIRST TIME Ansh Srivastava July 29, 2021 Comma...</p></details>
    Published: July 29, 2021  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufosightingsfootage.uk  
    Title: Mysterious "Ghostly Skull" in The Sahara Desert Revealed  
-   Link: <a href="https://www.ufosightingsfootage.uk/2023/11/mysterious-ghostly-skull-in-sahara-desert-revealed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosightingsfootage.uk/2023/11/mysterious-ghostly-skull-in-sahara-desert-revealed.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 3, 2023 — MYSTERIOUS &quot;GHOSTLY SKULL&quot; IN THE SAHARA DESERT REVEALED by Lee Lewis UFO Researcher -November 03, 2023 In a striking...</p></details>
+   Link:<a href="https://www.ufosightingsfootage.uk/2023/11/mysterious-ghostly-skull-in-sahara-desert-revealed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosightingsfootage.uk/2023/11/mysterious-ghostly-skull-in-sahara-desert-revealed.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 3, 2023 — MYSTERIOUS &quot;GHOSTLY SKULL&quot; IN THE SAHARA DESERT REVEALED by Lee Lewis UFO Researcher -November 03, 2023 In a striking...</p></details>
    Published: November 3, 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tmz.com  
    Title: SITS DOWN FOR 1ST CAMERA INTERVIEW By TMZ Staff Pub  
-   Link: <a href="https://www.tmz.com/2021/07/28/tic-tac-ufo-video-military-pilot-chad-underwood-talks-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.tmz.com/2021/07/28/tic-tac-ufo-video-military-pilot-chad-underwood-talks-experience/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Pilot Who Filmed Famed &#x27;Tic Tac&#x27; UFO Sighting Speaks On CameraJuly 28, 2021 — MILITARY PILOT WHO FILMED FAMED &#x27;TIC TAC&#x27; UFO SIGH...</p></details>
+   Link:<a href="https://www.tmz.com/2021/07/28/tic-tac-ufo-video-military-pilot-chad-underwood-talks-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.tmz.com/2021/07/28/tic-tac-ufo-video-military-pilot-chad-underwood-talks-experience/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military Pilot Who Filmed Famed &#x27;Tic Tac&#x27; UFO Sighting Speaks On CameraJuly 28, 2021 — MILITARY PILOT WHO FILMED FAMED &#x27;TIC TAC&#x27; UFO SIGH...</p></details>
    Published: July 28, 2021  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: inet.detik.com  
    Title: kesaksian mencekam mantan pilot yang melihat ufo  
-   Link: <a href="https://inet.detik.com/science/d-4830350/kesaksian-mencekam-mantan-pilot-yang-melihat-ufo" target="_blank" rel="noopener noreferrer nofollow">https://inet.detik.com/science/d-4830350/kesaksian-mencekam-mantan-pilot-yang-melihat-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mencekam Mantan Pilot yang Melihat UFODecember 20, 2019 — Kesaksian Mencekam Mantan Pilot yang Melihat UFO Home Cyberlife Gadget NEW Game...</p></details>
+   Link:<a href="https://inet.detik.com/science/d-4830350/kesaksian-mencekam-mantan-pilot-yang-melihat-ufo" target="_blank" rel="noopener noreferrer nofollow">https://inet.detik.com/science/d-4830350/kesaksian-mencekam-mantan-pilot-yang-melihat-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mencekam Mantan Pilot yang Melihat UFODecember 20, 2019 — Kesaksian Mencekam Mantan Pilot yang Melihat UFO Home Cyberlife Gadget NEW Game...</p></details>
    Published: December 20, 2019

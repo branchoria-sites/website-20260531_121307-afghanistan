@@ -1197,42 +1197,42 @@ image: /assets/images/India_967ce3-overview-social.jpg
 Modern reports of unidentified objects in Indian skies are scattered and vary widely in quality and documentation. A chronology of notable events that have been reported in media and public databases includes:
 
 <img src="{{ "/assets/images/India_967ce3-overview.webp" | relative_url }}" alt="Overview image for What Do India&#x27;s UFO Reports Really Show?" loading="eager" decoding="sync" fetchpriority="high">
-* **1951, New Delhi:** Members of a local flying club claimed to see a **cigar‑shaped object** roughly 100 feet long in the sky, which hovered briefly before vanishing. This is one of the earliest widely cited sightings in India. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in India</span><span class="citation-popover-snippet">UFO sightings in India</span></span></span>
-* **2004, Himachal Pradesh region:** Scientists reportedly saw a white object on a mountain ridge. Contemporary press noted speculation that it could have been a **weather balloon or drone**, rather than anything unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Team_Pentacle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Team Pentacle</span><span class="citation-popover-snippet">Team Pentacle</span></span></span>
-* **2007, Kolkata:** A photograph of a bright “fireball” was circulated and described by some witnesses as a shape‑shifting object in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in India</span><span class="citation-popover-snippet">UFO sightings in India</span></span></span>
-* **2013, Chennai and Ladakh:** Residents in Chennai observed multiple specks of orange lights; Indian Army troops reported seeing several unidentified objects near the Ladakh border. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Team_Pentacle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Team Pentacle</span><span class="citation-popover-snippet">Team Pentacle</span></span></span>
-* **2015, Gorakhpur and Kanpur:** Local claims included a purported UFO photograph in Gorakhpur and a boy in Kanpur capturing an object on phone, though many analysts noted such images often result from **digital editing tools or photo artefacts**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Team_Pentacle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Team Pentacle</span><span class="citation-popover-snippet">Team Pentacle</span></span></span>
-* **2023, Imphal airport:** A report of an unidentified object over Imphal airport in Manipur led to **two Indian Air Force Rafale jets being scrambled** to investigate, and flights were briefly halted. The jets did not find any object on sensors or visual search before it reportedly disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ddinews.gov.in/national/indian-air-force-dispatches-2-rafale-jets-investigate-ufo-sighting-near-imphal-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ddinews.gov.in">[DDI News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ddinews.gov.in</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **1951, New Delhi:** Members of a local flying club claimed to see a **cigar‑shaped object** roughly 100 feet long in the sky, which hovered briefly before vanishing. This is one of the earliest widely cited sightings in India.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in India</span><span class="citation-popover-snippet">UFO sightings in India</span></span></span>
+* **2004, Himachal Pradesh region:** Scientists reportedly saw a white object on a mountain ridge. Contemporary press noted speculation that it could have been a **weather balloon or drone**, rather than anything unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Team_Pentacle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Team Pentacle</span><span class="citation-popover-snippet">Team Pentacle</span></span></span>
+* **2007, Kolkata:** A photograph of a bright “fireball” was circulated and described by some witnesses as a shape‑shifting object in the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in India</span><span class="citation-popover-snippet">UFO sightings in India</span></span></span>
+* **2013, Chennai and Ladakh:** Residents in Chennai observed multiple specks of orange lights; Indian Army troops reported seeing several unidentified objects near the Ladakh border.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Team_Pentacle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Team Pentacle</span><span class="citation-popover-snippet">Team Pentacle</span></span></span>
+* **2015, Gorakhpur and Kanpur:** Local claims included a purported UFO photograph in Gorakhpur and a boy in Kanpur capturing an object on phone, though many analysts noted such images often result from **digital editing tools or photo artefacts**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Team_Pentacle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Team Pentacle</span><span class="citation-popover-snippet">Team Pentacle</span></span></span>
+* **2023, Imphal airport:** A report of an unidentified object over Imphal airport in Manipur led to **two Indian Air Force Rafale jets being scrambled** to investigate, and flights were briefly halted. The jets did not find any object on sensors or visual search before it reportedly disappeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ddinews.gov.in/national/indian-air-force-dispatches-2-rafale-jets-investigate-ufo-sighting-near-imphal-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ddinews.gov.in">[DDI News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ddinews.gov.in</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Beyond these episodic cases, *crowdsourced and civilian databases* also list multiple informal sightings from locations such as Faridabad, Vasai, Dehradun, and Punjab, ranging from brief disc‑ or light‑shaped sightings to recorded moving lights. These often rely on individual witness accounts without corroborating sensor data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/IND/India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in India</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in India - UFO Hunters...</span></span></span>
+Beyond these episodic cases, *crowdsourced and civilian databases* also list multiple informal sightings from locations such as Faridabad, Vasai, Dehradun, and Punjab, ranging from brief disc‑ or light‑shaped sightings to recorded moving lights. These often rely on individual witness accounts without corroborating sensor data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/IND/India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in India</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in India - UFO Hunters...</span></span></span>
 
 <img src="{{ "/assets/images/India_967ce3-Illustration-1-dark.svg" | relative_url }}" alt="What Do India&#x27;s UFO Reports Really Show? illustration 1" data-theme-src-dark="{{ "/assets/images/India_967ce3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/India_967ce3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Investigations and Research Community in India
 
 India does **not have an official, publicly acknowledged government body dedicated to UFO/UAP investigation** akin to some Western military or aerospace programmes. Instead, **civilian organisations and independent researchers** have filled much of the reporting and classification roles:
 
-* **UFO Research Society of India (UFORI):** Founded in 1967 in Mumbai, UFORI is one of the longest‑standing UFO [research groups]({{ 'research-groups-0f856d/' | relative_url }}) in South Asia, combining field investigations with public reporting and maintaining a database of sighting reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackboxufo.com/organizations/india-ufo-research-society-bombay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackboxufo.com">[Black Box UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackboxufo.com</span><span class="citation-popover-title">Black Box UFOUFO Research Society of India (Mumbai</span><span class="citation-popover-snippet">BlackBox UFO Research &#124; BLACKBOX...</span></span></span>
-* **Team Pentacle and similar groups:** Other privately organised paranormal and UFO research groups also exist in Mumbai and other Indian cities. These typically include multidisciplinary interests spanning paranormal claims and UFO reports, but they are **not scientific state institutions**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Team_Pentacle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Team Pentacle</span><span class="citation-popover-snippet">Team Pentacle</span></span></span>
-* Some Indian researchers have participated in global networks such as the **Mutual UFO Network (MUFON)**, undergoing volunteer training in case investigation methods and reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iarf.res.in">[Indian Astrobiology Research Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iarf.res.in</span><span class="citation-popover-title">Indian Astrobiology Research Foundation Tales from India&#x27;s UFO investigators</span><span class="citation-popover-snippet">Indian Astrobiology Research FoundationTales from India&#x27;s UFO investigators - Hindustan TimesAugust 13, 2021 — 11 May 2017 — In 2012, he...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
+* **UFO Research Society of India (UFORI):** Founded in 1967 in Mumbai, UFORI is one of the longest‑standing UFO [research groups]({{ 'research-groups-0f856d/' | relative_url }}) in South Asia, combining field investigations with public reporting and maintaining a database of sighting reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blackboxufo.com/organizations/india-ufo-research-society-bombay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackboxufo.com">[Black Box UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackboxufo.com</span><span class="citation-popover-title">Black Box UFOUFO Research Society of India (Mumbai</span><span class="citation-popover-snippet">BlackBox UFO Research &#124; BLACKBOX...</span></span></span>
+* **Team Pentacle and similar groups:** Other privately organised paranormal and UFO research groups also exist in Mumbai and other Indian cities. These typically include multidisciplinary interests spanning paranormal claims and UFO reports, but they are **not scientific state institutions**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Team_Pentacle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Team Pentacle</span><span class="citation-popover-snippet">Team Pentacle</span></span></span>
+* Some Indian researchers have participated in global networks such as the **Mutual UFO Network (MUFON)**, undergoing volunteer training in case investigation methods and reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iarf.res.in">[Indian Astrobiology Research Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iarf.res.in</span><span class="citation-popover-title">Indian Astrobiology Research Foundation Tales from India&#x27;s UFO investigators</span><span class="citation-popover-snippet">Indian Astrobiology Research FoundationTales from India&#x27;s UFO investigators - Hindustan TimesAugust 13, 2021 — 11 May 2017 — In 2012, he...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
 
-There is also **public academic scepticism and media fact‑checking** regarding many viral sightings. For example, analyses of purported sightings in places like Agra and Rajasthan have questioned whether social media clips represent actual unidentified phenomena or misidentifications of mundane objects/satellites/balloons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BITwu2JkREI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">FACT CHECK: Do Viral Videos Show Real UFO/UAP Sightings in Indian Places like Agra &amp; Rajasthan? - YouTubeJanuary 7, 2025...</span><span class="citation-popover-meta">Published: January 7, 2025</span></span></span>
+There is also **public academic scepticism and media fact‑checking** regarding many viral sightings. For example, analyses of purported sightings in places like Agra and Rajasthan have questioned whether social media clips represent actual unidentified phenomena or misidentifications of mundane objects/satellites/balloons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=BITwu2JkREI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">FACT CHECK: Do Viral Videos Show Real UFO/UAP Sightings in Indian Places like Agra &amp; Rajasthan? - YouTubeJanuary 7, 2025...</span><span class="citation-popover-meta">Published: January 7, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BITwu2JkREI" title="FACT CHECK: Do Viral Videos Show Real UFO/UAP Sightings in Indian Places like Agra &amp; Rajasthan?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BITwu2JkREI" target="_blank" rel="noopener noreferrer">FACT CHECK: Do Viral Videos Show Real UFO/UAP Sightings in Indian Places like Agra &amp; Rajasthan?</a></p><p class="youtube-embed-meta">Channel: Factly &middot; Views: 1.1M &middot; Uploaded: January 2025 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BITwu2JkREI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BITwu2JkREI">Open on YouTube</a></p></div></div></div>
 
 ## Official Responses and Evidence Assessment
 
-Unlike the coordinated investigative frameworks developed by some countries’ military or aerospace research bodies, India’s official response to UFO/UAP reports has largely been **reactive and ad hoc**. In the Imphal case, for instance, the Indian Air Force activated an **air defence response** and conducted a search using fighter aircraft, but ultimately **did not confirm the object’s nature or origin**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ddinews.gov.in/national/indian-air-force-dispatches-2-rafale-jets-investigate-ufo-sighting-near-imphal-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ddinews.gov.in">[DDI News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ddinews.gov.in</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Unlike the coordinated investigative frameworks developed by some countries’ military or aerospace research bodies, India’s official response to UFO/UAP reports has largely been **reactive and ad hoc**. In the Imphal case, for instance, the Indian Air Force activated an **air defence response** and conducted a search using fighter aircraft, but ultimately **did not confirm the object’s nature or origin**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ddinews.gov.in/national/indian-air-force-dispatches-2-rafale-jets-investigate-ufo-sighting-near-imphal-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ddinews.gov.in">[DDI News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ddinews.gov.in</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-There is **no publicly available evidence** from Indian government archives that confirms extraterrestrial origin or anomalous physics in any reported sighting. Most sightings — particularly photographic or video claims — lack correlative data from radar, multiple instrument tracking, or independent verification, which are standards for rigorous identification in aerial phenomena studies globally. In the absence of such data, many reported events remain either **unexplained due to insufficient evidence** or are more plausibly attributed to **balloons, aircraft, drones, lens artefacts, or astronomical objects** when analysed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Team_Pentacle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Team Pentacle</span><span class="citation-popover-snippet">Team Pentacle</span></span></span>
+There is **no publicly available evidence** from Indian government archives that confirms extraterrestrial origin or anomalous physics in any reported sighting. Most sightings — particularly photographic or video claims — lack correlative data from radar, multiple instrument tracking, or independent verification, which are standards for rigorous identification in aerial phenomena studies globally. In the absence of such data, many reported events remain either **unexplained due to insufficient evidence** or are more plausibly attributed to **balloons, aircraft, drones, lens artefacts, or astronomical objects** when analysed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Team_Pentacle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Team Pentacle</span><span class="citation-popover-snippet">Team Pentacle</span></span></span>
 
 <img src="{{ "/assets/images/India_967ce3-Illustration-2-dark.svg" | relative_url }}" alt="What Do India&#x27;s UFO Reports Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/India_967ce3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/India_967ce3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Quality of Evidence and Interpretation
 
 When assessing UFO/UAP reports from India, it is important to distinguish between:
 
-* **Anecdotal visual sightings:** Often vivid and widely shared in local reporting, but without corroborative instrumentation or multiple independent witnesses at close range. These range from brief disc‑ or light‑shaped objects to sequences of lights moving dynamically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/IND/India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in India</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in India - UFO Hunters...</span></span></span>
-* **Military and aviation engagements:** Rare cases where defence assets were deployed (e.g. Imphal), yet still yielded no conclusive identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ddinews.gov.in/national/indian-air-force-dispatches-2-rafale-jets-investigate-ufo-sighting-near-imphal-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ddinews.gov.in">[DDI News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ddinews.gov.in</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Civilian aggregated data:** Global databases that include India entries provide broader context but are generally **not vetted to scientific standards**, meaning high volumes of reports do not equate to confirmed phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/in" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Enigma Labs &#124; UFO Sightings in India</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Enigma Labs &#124; UFO Sightings in India</span></span></span> | Report a UFO sighting
+* **Anecdotal visual sightings:** Often vivid and widely shared in local reporting, but without corroborative instrumentation or multiple independent witnesses at close range. These range from brief disc‑ or light‑shaped objects to sequences of lights moving dynamically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufo-hunters.com/sightings/country/IND/India" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-hunters.com">[UFO Hunters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-hunters.com</span><span class="citation-popover-title">UFO Hunters UFO Sightings map in India</span><span class="citation-popover-snippet">UFO HuntersUFO Sightings map in India - UFO Hunters...</span></span></span>
+* **Military and aviation engagements:** Rare cases where defence assets were deployed (e.g. Imphal), yet still yielded no conclusive identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ddinews.gov.in/national/indian-air-force-dispatches-2-rafale-jets-investigate-ufo-sighting-near-imphal-airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ddinews.gov.in">[DDI News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ddinews.gov.in</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Civilian aggregated data:** Global databases that include India entries provide broader context but are generally **not vetted to scientific standards**, meaning high volumes of reports do not equate to confirmed phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/in" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-title">Enigma Labs &#124; Report a UFO sighting Enigma Labs &#124; UFO Sightings in India</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sighting Enigma Labs &#124; UFO Sightings in India</span></span></span> | Report a UFO sighting
 
 In many documented instances worldwide (and in India), visible objects later attributed to **human‑made crafts, atmospheric phenomena, or observational artefacts**, highlight the challenges in interpreting UFO reports without robust data. Systematic scientific understanding of UAP phenomena typically requires **multi‑sensor tracking** — radar, spectrometry, photogrammetry, and coordinated observations — which are rarely available for Indian sighting reports.
 
@@ -1251,194 +1251,194 @@ India’s history of UFO/UAP phenomena comprises **sporadic reported sightings**
 <img src="{{ "/assets/images/India_967ce3-Illustration-3-dark.svg" | relative_url }}" alt="What Do India&#x27;s UFO Reports Really Show? illustration 3" data-theme-src-dark="{{ "/assets/images/India_967ce3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/India_967ce3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do India&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do India&#x27;s UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful comparative context for official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful comparative context for official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating sightings like those reported in India.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating sightings like those reported in India.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers contemporary reporting and government interest in UAPs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers contemporary reporting and government interest in UAPs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a national overview of UFO reports and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a national overview of UFO reports and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-india-s-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-india-s-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1454,7 +1454,7 @@ India’s history of UFO/UAP phenomena comprises **sporadic reported sightings**
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1474,7 +1474,7 @@ India’s history of UFO/UAP phenomena comprises **sporadic reported sightings**
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1506,7 +1506,7 @@ India’s history of UFO/UAP phenomena comprises **sporadic reported sightings**
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1558,7 +1558,7 @@ India’s history of UFO/UAP phenomena comprises **sporadic reported sightings**
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1603,7 +1603,7 @@ India’s history of UFO/UAP phenomena comprises **sporadic reported sightings**
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1641,172 +1641,171 @@ India’s history of UFO/UAP phenomena comprises **sporadic reported sightings**
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: UFO sightings in India  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_India</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_India</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufo-hunters.com  
    Title: UFO Hunters UFO [Sightings map](&#123;&#123; 'sightings-map-4c8b63/' | relative_url &#125;&#125;) in India  
-   Link: <a href="https://www.ufo-hunters.com/sightings/country/IND/India" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/IND/India</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in India - UFO Hunters...</p></details>
+   Link:<a href="https://www.ufo-hunters.com/sightings/country/IND/India" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/country/IND/India</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HuntersUFO Sightings map in India - UFO Hunters...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Team Pentacle  
-   Link: <a href="https://en.wikipedia.org/wiki/Team_Pentacle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Team_Pentacle</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Team_Pentacle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Team_Pentacle</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=BITwu2JkREI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BITwu2JkREI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FACT CHECK: Do Viral Videos Show Real UFO/UAP Sightings in Indian Places like Agra &amp; Rajasthan? - YouTubeJanuary 7, 2025...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BITwu2JkREI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BITwu2JkREI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FACT CHECK: Do Viral Videos Show Real UFO/UAP Sightings in Indian Places like Agra &amp; Rajasthan? - YouTubeJanuary 7, 2025...</p></details>
    Published: January 7, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Enigma Labs | UFO Sightings in India  
-   Link: <a href="https://enigmalabs.io/explore/in" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/in</a>  
+   Link:<a href="https://enigmalabs.io/explore/in" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/in</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (...</p></details>
    Published: April 24, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nomanzone.com  
    Title: One of the earliest  
-   Link: <a href="https://nomanzone.com/news/ufo-uap/ufo-sightings-in-india/" target="_blank" rel="noopener noreferrer nofollow">https://nomanzone.com/news/ufo-uap/ufo-sightings-in-india/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in India - NoManZone.comFebruary 5, 2025 — UFO SIGHTINGS IN INDIA February 5, 2025 UFO sightings in India have intrigued bo...</p></details>
+   Link:<a href="https://nomanzone.com/news/ufo-uap/ufo-sightings-in-india/" target="_blank" rel="noopener noreferrer nofollow">https://nomanzone.com/news/ufo-uap/ufo-sightings-in-india/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in India - NoManZone.comFebruary 5, 2025 — UFO SIGHTINGS IN INDIA February 5, 2025 UFO sightings in India have intrigued bo...</p></details>
    Published: February 5, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Wtnl8zlHv8o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wtnl8zlHv8o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In this shocking episode of RealTalk Clips, we uncover one of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Wtnl8zlHv8o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wtnl8zlHv8o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this shocking episode of RealTalk Clips, we uncover one of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=E2qvyxhdPQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E2qvyxhdPQA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ifies before the Senate Armed Forces Committee...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E2qvyxhdPQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E2qvyxhdPQA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ifies before the Senate Armed Forces Committee...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-023-01746-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-01746-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Faculty perceptions of unidentified aerial phenomenaby ME Yingling · 2023 · Cited by 21 — Results demonstrated that faculty think the aca...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-023-01746-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-01746-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Faculty perceptions of unidentified aerial phenomenaby ME Yingling · 2023 · Cited by 21 — Results demonstrated that faculty think the aca...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Rafale Jets Scrambled to Intercept Suspected UFO over Imphal  
-   Link: <a href="https://www.youtube.com/watch?v=YuOD50uNF9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YuOD50uNF9Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 All You Need To Know About The Alleged UFO Sighting In Manipur...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YuOD50uNF9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YuOD50uNF9Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 All You Need To Know About The Alleged UFO Sighting In Manipur...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: All You Need To Know About The Alleged UFO Sighting In Manipur  
-   Link: <a href="https://www.youtube.com/watch?v=r30_t3dqgeY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r30_t3dqgeY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 The UFO Hunters of Ladakh | Unique Stories from India...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r30_t3dqgeY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r30_t3dqgeY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 The UFO Hunters of Ladakh | Unique Stories from India...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The UFO Hunters of Ladakh | Unique Stories from India  
-   Link: <a href="https://www.youtube.com/watch?v=BLJjeYDl-PU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BLJjeYDl-PU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 UFO Sighted In Imphal Airport: Indian Air Force Scrambled Rafales...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BLJjeYDl-PU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BLJjeYDl-PU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 UFO Sighted In Imphal Airport: Indian Air Force Scrambled Rafales...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: UFO Sighted In Imphal Airport: Indian Air Force Scrambled Rafales  
-   Link: <a href="https://www.youtube.com/watch?v=gZcZkjy7qqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gZcZkjy7qqM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 The Most Secret UFO Sighting of India...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gZcZkjy7qqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gZcZkjy7qqM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 The Most Secret UFO Sighting of India...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ddinews.gov.in  
-   Link: <a href="https://ddinews.gov.in/national/indian-air-force-dispatches-2-rafale-jets-investigate-ufo-sighting-near-imphal-airport" target="_blank" rel="noopener noreferrer nofollow">https://ddinews.gov.in/national/indian-air-force-dispatches-2-rafale-jets-investigate-ufo-sighting-near-imphal-airport</a>  
+   Link:<a href="https://ddinews.gov.in/national/indian-air-force-dispatches-2-rafale-jets-investigate-ufo-sighting-near-imphal-airport" target="_blank" rel="noopener noreferrer nofollow">https://ddinews.gov.in/national/indian-air-force-dispatches-2-rafale-jets-investigate-ufo-sighting-near-imphal-airport</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: blackboxufo.com  
    Title: Black Box UFOUFO Research Society of India (Mumbai)  
-   Link: <a href="https://blackboxufo.com/organizations/india-ufo-research-society-bombay" target="_blank" rel="noopener noreferrer nofollow">https://blackboxufo.com/organizations/india-ufo-research-society-bombay</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BlackBox UFO Research | BLACKBOX...</p></details>
+   Link:<a href="https://blackboxufo.com/organizations/india-ufo-research-society-bombay" target="_blank" rel="noopener noreferrer nofollow">https://blackboxufo.com/organizations/india-ufo-research-society-bombay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BlackBox UFO Research | BLACKBOX...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: iarf.res.in  
    Title: Indian Astrobiology Research Foundation Tales from India's UFO investigators  
-   Link: <a href="https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Astrobiology Research FoundationTales from India&#x27;s UFO investigators - Hindustan TimesAugust 13, 2021 — 11 May 2017 — In 2012, he...</p></details>
+   Link:<a href="https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iarf.res.in/wp-content/uploads/2021/08/IARF-The-truth-is-out-there-tales-India-UFO-investigators-Hindustan-Times.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indian Astrobiology Research FoundationTales from India&#x27;s UFO investigators - Hindustan TimesAugust 13, 2021 — 11 May 2017 — In 2012, he...</p></details>
    Published: August 13, 2021  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uapinvestigations.com  
-   Link: <a href="https://uapinvestigations.com/cases/" target="_blank" rel="noopener noreferrer nofollow">https://uapinvestigations.com/cases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Each case file presents the evidence without conclusions. WHAT YOU&#x27;LL FIND HERE Every case file follows a consistent...</p></details>
+   Link:<a href="https://uapinvestigations.com/cases/" target="_blank" rel="noopener noreferrer nofollow">https://uapinvestigations.com/cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Each case file presents the evidence without conclusions. WHAT YOU&#x27;LL FIND HERE Every case file follows a consistent...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: en.bharatpedia.org  
    Title: UFO sightings in India  
-   Link: <a href="https://en.bharatpedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow">https://en.bharatpedia.org/wiki/UFO_sightings_in_India</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings in India - BharatpediaUFO SIGHTINGS IN INDIA This is a list of alleged sightings of UFOs in India PRE-HISTORIC ERA[EDIT | EDIT...</p></details>
+   Link:<a href="https://en.bharatpedia.org/wiki/UFO_sightings_in_India" target="_blank" rel="noopener noreferrer nofollow">https://en.bharatpedia.org/wiki/UFO_sightings_in_India</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sightings in India - BharatpediaUFO SIGHTINGS IN INDIA This is a list of alleged sightings of UFOs in India PRE-HISTORIC ERA[EDIT | EDIT...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufoinsight.com  
-   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/glowing-lights-discs-ancient-vimanas-ufo-indian-region" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/glowing-lights-discs-ancient-vimanas-ufo-indian-region</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJune 27, 2021 — GLOWING LIGHTS, DISCS, AND ANCIENT VIMANAS: THE PERSISTENT UFO ENCOUNTERS OF THE INDIAN REGION By Marcus Lowth...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/close-encounters/glowing-lights-discs-ancient-vimanas-ufo-indian-region" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/glowing-lights-discs-ancient-vimanas-ufo-indian-region</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJune 27, 2021 — GLOWING LIGHTS, DISCS, AND ANCIENT VIMANAS: THE PERSISTENT UFO ENCOUNTERS OF THE INDIAN REGION By Marcus Lowth...</p></details>
    Published: June 27, 2021  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: indianairforce.nic.in  
-   Link: <a href="https://indianairforce.nic.in/Resources/pdf/indigenisation/IAF-COMPENDIUM-ON-INTERNET-WEBSITE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indianairforce.nic.in/Resources/pdf/indigenisation/IAF-COMPENDIUM-ON-INTERNET-WEBSITE.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IAF COMPENDIUM OF CHALLENGES &amp; OPPORTUNITIES...IAF is going through a transformation in this era of Indian industrial awakening. This ye...</p></details>
+   Link:<a href="https://indianairforce.nic.in/Resources/pdf/indigenisation/IAF-COMPENDIUM-ON-INTERNET-WEBSITE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indianairforce.nic.in/Resources/pdf/indigenisation/IAF-COMPENDIUM-ON-INTERNET-WEBSITE.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IAF COMPENDIUM OF CHALLENGES &amp; OPPORTUNITIES...IAF is going through a transformation in this era of Indian industrial awakening. This ye...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: uapmonitor.org  
-   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
+   Link:<a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sciencetimes.com  
-   Link: <a href="https://www.sciencetimes.com/articles/49498/20240327/uap-mystery-india-law-enforcers-report-ufo-sightings-over-nuclear.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/49498/20240327/uap-mystery-india-law-enforcers-report-ufo-sightings-over-nuclear.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2024 — UAP MYSTERY: INDIA LAW ENFORCERS REPORT UFO SIGHTINGS OVER NUCLEAR PLANTS, WITH ONE HAVING BIZARRE ZIGZAG MOVEMENTS By K...</p></details>
+   Link:<a href="https://www.sciencetimes.com/articles/49498/20240327/uap-mystery-india-law-enforcers-report-ufo-sightings-over-nuclear.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/49498/20240327/uap-mystery-india-law-enforcers-report-ufo-sightings-over-nuclear.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2024 — UAP MYSTERY: INDIA LAW ENFORCERS REPORT UFO SIGHTINGS OVER NUCLEAR PLANTS, WITH ONE HAVING BIZARRE ZIGZAG MOVEMENTS By K...</p></details>
    Published: March 27, 2024  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dkiapcss.edu  
-   Link: <a href="https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>India&#x27;s UFO Investigators,” The Hindustan Times, May 06, 2017. [xl] Alice Workman, “For Defence, UFOs Exist Only in a Distant Galaxy,” Th...</p></details>
+   Link:<a href="https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>India&#x27;s UFO Investigators,” The Hindustan Times, May 06, 2017. [xl] Alice Workman, “For Defence, UFOs Exist Only in a Distant Galaxy,” Th...</p></details>
    Published: May 6, 2017  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: indianexpress.com  
-   Link: <a href="https://indianexpress.com/article/explained/ufo-imphal-airport-india-meaning-explained-9034834/" target="_blank" rel="noopener noreferrer nofollow">https://indianexpress.com/article/explained/ufo-imphal-airport-india-meaning-explained-9034834/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Indian ExpressNovember 20, 2023 — ‘UFO’ SPOTTED OVER IMPHAL AIRPORT: A BRIEF HISTORY OF THE TERM, AND THE UNENDING CURIOSITY AROUND I...</p></details>
+   Link:<a href="https://indianexpress.com/article/explained/ufo-imphal-airport-india-meaning-explained-9034834/" target="_blank" rel="noopener noreferrer nofollow">https://indianexpress.com/article/explained/ufo-imphal-airport-india-meaning-explained-9034834/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Indian ExpressNovember 20, 2023 — ‘UFO’ SPOTTED OVER IMPHAL AIRPORT: A BRIEF HISTORY OF THE TERM, AND THE UNENDING CURIOSITY AROUND I...</p></details>
    Published: November 20, 2023  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: the-independent.com  
-   Link: <a href="https://www.the-independent.com/asia/india/india-ufo-sighting-imphal-airport-rafale-jets-b2450811.html" target="_blank" rel="noopener noreferrer nofollow">https://www.the-independent.com/asia/india/india-ufo-sighting-imphal-airport-rafale-jets-b2450811.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 21, 2023 — INDIA SCRAMBLES FIGHTER JETS TO INVESTIGATE UFO SIGHTING AS AIRPORT HALTS FLIGHTS Rafale jets equipped with advanced...</p></details>
+   Link:<a href="https://www.the-independent.com/asia/india/india-ufo-sighting-imphal-airport-rafale-jets-b2450811.html" target="_blank" rel="noopener noreferrer nofollow">https://www.the-independent.com/asia/india/india-ufo-sighting-imphal-airport-rafale-jets-b2450811.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 21, 2023 — INDIA SCRAMBLES FIGHTER JETS TO INVESTIGATE UFO SIGHTING AS AIRPORT HALTS FLIGHTS Rafale jets equipped with advanced...</p></details>
    Published: November 21, 2023  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: factly.in  
-   Link: <a href="https://factly.in/unrelated-ai-generated-videos-are-falsely-shared-as-ufo-spottings-in-various-indian-states/" target="_blank" rel="noopener noreferrer nofollow">https://factly.in/unrelated-ai-generated-videos-are-falsely-shared-as-ufo-spottings-in-various-indian-states/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 7, 2025 — UNRELATED/AI-GENERATED VIDEOS ARE FALSELY SHARED AS UFO SPOTTINGS IN VARIOUS INDIAN STATES By Varun Borugadda on...</p></details>
+   Link:<a href="https://factly.in/unrelated-ai-generated-videos-are-falsely-shared-as-ufo-spottings-in-various-indian-states/" target="_blank" rel="noopener noreferrer nofollow">https://factly.in/unrelated-ai-generated-videos-are-falsely-shared-as-ufo-spottings-in-various-indian-states/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 7, 2025 — UNRELATED/AI-GENERATED VIDEOS ARE FALSELY SHARED AS UFO SPOTTINGS IN VARIOUS INDIAN STATES By Varun Borugadda on...</p></details>
    Published: January 7, 2025  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: iarf.res.in  
    Title: IAR F Centre of Excellence for UFOs – Indian Astrobiology Research Foundation  
-   Link: <a href="https://iarf.res.in/iceu/" target="_blank" rel="noopener noreferrer nofollow">https://iarf.res.in/iceu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IARF Centre of Excellence for UFOs – Indian Astrobiology Research FoundationJuly 2, 2021 — ICEU CENTRE OF EXCELLENCE FOR UFOS IARF Intern...</p></details>
+   Link:<a href="https://iarf.res.in/iceu/" target="_blank" rel="noopener noreferrer nofollow">https://iarf.res.in/iceu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IARF Centre of Excellence for UFOs – Indian Astrobiology Research FoundationJuly 2, 2021 — ICEU CENTRE OF EXCELLENCE FOR UFOS IARF Intern...</p></details>
    Published: July 2, 2021  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dkiapcss.edu  
-   Link: <a href="https://dkiapcss.edu/wp-content/uploads/2023/06/N2644-A-Comparative-Survey-of-Security-Approaches-Toward-Unexplained-Aerial-Phenomena-Across-the-Indo-Pacific.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/wp-content/uploads/2023/06/N2644-A-Comparative-Survey-of-Security-Approaches-Toward-Unexplained-Aerial-Phenomena-Across-the-Indo-Pacific.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ified Aerial Phenomena Task Force (UAPTF),xix which operated under the Office of Naval Intelligence (ONI)...Read mor...</p></details>
+   Link:<a href="https://dkiapcss.edu/wp-content/uploads/2023/06/N2644-A-Comparative-Survey-of-Security-Approaches-Toward-Unexplained-Aerial-Phenomena-Across-the-Indo-Pacific.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/wp-content/uploads/2023/06/N2644-A-Comparative-Survey-of-Security-Approaches-Toward-Unexplained-Aerial-Phenomena-Across-the-Indo-Pacific.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ified Aerial Phenomena Task Force (UAPTF),xix which operated under the Office of Naval Intelligence (ONI)...Read mor...</p></details>

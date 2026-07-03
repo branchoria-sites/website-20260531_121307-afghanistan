@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /philippines-806736-index/
 description: Focused pages that expand on Philippines.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Philippines_806736
 parent_title: Philippines
@@ -16,7 +16,7 @@ parent_permalink: /philippines/
 
 # Explore Topics in Philippines
 
-The following pages expand on the main **[Philippines]({{ '/philippines/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Philippines]({{ '/philippines/' | relative_url }})** page and cover its key branches in.
 
 - [Las Pinas]({{ '/las-pinas/' | relative_url }})
 - [Official Records]({{ '/official-records-68d5a9/' | relative_url }})

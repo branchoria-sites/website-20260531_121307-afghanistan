@@ -257,13 +257,13 @@ image: /assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Il
 For anyone studying UFO reports in the Federated States of Micronesia (FSM), one of the most important facts is that many striking lights over the Pacific are not mysterious at all. The combination of exceptionally dark skies, vast ocean horizons, limited ground references, and frequent visibility of satellites, meteors, and atmospheric re-entries can make ordinary astronomical and aerospace events appear extraordinary. In a country spread across thousands of kilometres of ocean, a bright object seen over the sea may look far larger, slower, or stranger than it really is.
 
 <img src="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-1-dark.svg" | relative_url }}" alt="Sky Causes illustration 1" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every sighting can be immediately identified. Rather, it means that the most evidence-based starting point for unusual lights over Yap, Chuuk, Pohnpei, or Kosrae is usually to examine known sky phenomena before considering more exotic explanations. Across the Pacific, many dramatic reports have later been linked to satellite re-entries, space debris, meteors, aircraft lighting effects, or unusual weather conditions. Aerospace Corporation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in t...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+This does not mean every sighting can be immediately identified. Rather, it means that the most evidence-based starting point for unusual lights over Yap, Chuuk, Pohnpei, or Kosrae is usually to examine known sky phenomena before considering more exotic explanations. Across the Pacific, many dramatic reports have later been linked to satellite re-entries, space debris, meteors, aircraft lighting effects, or unusual weather conditions. Aerospace Corporation<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in t...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 ## What Re-Entry Looks Like from a Pacific Island
 
 One of the most commonly misunderstood sky events is the atmospheric re-entry of a satellite or other space object.
 
-When a spacecraft falls back into the atmosphere, it typically breaks apart at high altitude and produces a bright, slow-moving train of glowing fragments. Unlike a typical meteor, which often appears as a brief streak lasting only seconds, re-entering debris can remain visible for much longer and may appear as multiple lights travelling together across a large portion of the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaldebris.jsc.nasa.gov">[orbitaldebris.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaldebris.jsc.nasa.gov</span><span class="citation-popover-snippet">ARES &#124; Orbital Debris Program Office &#124; Debris ReentrySpacecraft that reenter from either orbital decay or controlled entry usually break...</span></span></span>
+When a spacecraft falls back into the atmosphere, it typically breaks apart at high altitude and produces a bright, slow-moving train of glowing fragments. Unlike a typical meteor, which often appears as a brief streak lasting only seconds, re-entering debris can remain visible for much longer and may appear as multiple lights travelling together across a large portion of the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitaldebris.jsc.nasa.gov">[orbitaldebris.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitaldebris.jsc.nasa.gov</span><span class="citation-popover-snippet">ARES &#124; Orbital Debris Program Office &#124; Debris ReentrySpacecraft that reenter from either orbital decay or controlled entry usually break...</span></span></span>
 
 Observers frequently describe such events as:
 
@@ -277,7 +277,7 @@ Observers frequently describe such events as:
 
 </div>
 
-These characteristics are precisely what aerospace specialists expect from satellite re-entries. The Aerospace Corporation, which tracks orbital debris, notes that re-entries often resemble brilliant fireballs with a bright core, a long tail, and multiple fragments separating during descent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</span></span></span>
+These characteristics are precisely what aerospace specialists expect from satellite re-entries. The Aerospace Corporation, which tracks orbital debris, notes that re-entries often resemble brilliant fireballs with a bright core, a long tail, and multiple fragments separating during descent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</span></span></span>
 
 For Pacific observers, the effect can be especially dramatic because the object may travel across a huge uninterrupted horizon above the ocean. Without buildings, mountains, or other visual references, estimating speed, altitude, and distance becomes extremely difficult.
 
@@ -287,7 +287,7 @@ For Pacific observers, the effect can be especially dramatic because the object 
 
 The geography of Micronesia amplifies visual ambiguity.
 
-Many populated areas experience significantly less light pollution than large urban centres elsewhere. Under dark conditions, objects that would barely attract attention over a city become highly conspicuous. Bright planets, satellites, meteors, and aircraft lights can stand out against a remarkably dark background. Dark-sky researchers note that the absence of artificial lighting dramatically increases visibility of faint celestial and atmospheric phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.interregnorthsea.eu/sites/default/files/2024-01/The%20World%20at%20Night%2C%20IUCN%20%282024%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interregnorthsea.eu">[Interreg North Sea]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interregnorthsea.eu</span><span class="citation-popover-title">Interreg North Sea The world at night</span><span class="citation-popover-snippet">Dark sky places cannot in... of widely and less-widely naturalized alien plants to artificial light at.Read more...</span></span></span>
+Many populated areas experience significantly less light pollution than large urban centres elsewhere. Under dark conditions, objects that would barely attract attention over a city become highly conspicuous. Bright planets, satellites, meteors, and aircraft lights can stand out against a remarkably dark background. Dark-sky researchers note that the absence of artificial lighting dramatically increases visibility of faint celestial and atmospheric phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.interregnorthsea.eu/sites/default/files/2024-01/The%20World%20at%20Night%2C%20IUCN%20%282024%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interregnorthsea.eu">[Interreg North Sea]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interregnorthsea.eu</span><span class="citation-popover-title">Interreg North Sea The world at night</span><span class="citation-popover-snippet">Dark sky places cannot in... of widely and less-widely naturalized alien plants to artificial light at.Read more...</span></span></span>
 
 Ocean environments add further complications:
 
@@ -305,13 +305,13 @@ As a result, a satellite re-entry occurring far beyond Micronesian waters may st
 
 The Pacific Ocean plays a special role in the global space industry.
 
-Because most of Earth's surface is ocean, many uncontrolled re-entries naturally occur over water. In addition, some planned spacecraft disposals are directed toward remote regions of the Pacific to minimise risk to populated areas. Large spacecraft and satellites have repeatedly ended their missions over Pacific waters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyERS-2 reenters Earth&#x27;s atmosphere over Pacific OceanESA&#x27;s ERS-2 satellite completed its atmospheric reentry over the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2024-08-cluster-mission-reentry-south-pacific.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2024 08 cluster mission reentry south pacific</span><span class="citation-popover-snippet">Cluster mission set to end with reentry over South Pacific22 Aug 2024 — On 8 September 2024, the first of four satellites that make up ES...</span><span class="citation-popover-meta">Published: September 2024</span></span></span>
+Because most of Earth's surface is ocean, many uncontrolled re-entries naturally occur over water. In addition, some planned spacecraft disposals are directed toward remote regions of the Pacific to minimise risk to populated areas. Large spacecraft and satellites have repeatedly ended their missions over Pacific waters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyERS-2 reenters Earth&#x27;s atmosphere over Pacific OceanESA&#x27;s ERS-2 satellite completed its atmospheric reentry over the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2024-08-cluster-mission-reentry-south-pacific.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2024 08 cluster mission reentry south pacific</span><span class="citation-popover-snippet">Cluster mission set to end with reentry over South Pacific22 Aug 2024 — On 8 September 2024, the first of four satellites that make up ES...</span><span class="citation-popover-meta">Published: September 2024</span></span></span>
 
 Recent examples include:
 
-* The European Space Agency's ERS-2 satellite, which re-entered over the North Pacific in February 2024. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyERS-2 reenters Earth&#x27;s atmosphere over Pacific OceanESA&#x27;s ERS-2 satellite completed its atmospheric reentry over the...</span></span></span>
-* Controlled and monitored re-entries associated with ESA's Cluster mission over the South Pacific region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2024-08-cluster-mission-reentry-south-pacific.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2024 08 cluster mission reentry south pacific</span><span class="citation-popover-snippet">Cluster mission set to end with reentry over South Pacific22 Aug 2024 — On 8 September 2024, the first of four satellites that make up ES...</span><span class="citation-popover-meta">Published: September 2024</span></span></span>
-* Numerous historical satellite and rocket-body re-entries that produced visible fireball displays across oceanic regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencelearn.org.nz/resources/2134-satellite-falls-to-earth-over-pacific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencelearn.org.nz">[Science Learning Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencelearn.org.nz</span><span class="citation-popover-title">2134 satellite falls to earth over pacific</span><span class="citation-popover-snippet">UARS broke into pieces during re-entry, and most of it burned up in the atmosphere. NASA reported that...Read more...</span></span></span>
+* The European Space Agency's ERS-2 satellite, which re-entered over the North Pacific in February 2024.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyERS-2 reenters Earth&#x27;s atmosphere over Pacific OceanESA&#x27;s ERS-2 satellite completed its atmospheric reentry over the...</span></span></span>
+* Controlled and monitored re-entries associated with ESA's Cluster mission over the South Pacific region.<span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2024-08-cluster-mission-reentry-south-pacific.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2024 08 cluster mission reentry south pacific</span><span class="citation-popover-snippet">Cluster mission set to end with reentry over South Pacific22 Aug 2024 — On 8 September 2024, the first of four satellites that make up ES...</span><span class="citation-popover-meta">Published: September 2024</span></span></span>
+* Numerous historical satellite and rocket-body re-entries that produced visible fireball displays across oceanic regions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencelearn.org.nz/resources/2134-satellite-falls-to-earth-over-pacific" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencelearn.org.nz">[Science Learning Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencelearn.org.nz</span><span class="citation-popover-title">2134 satellite falls to earth over pacific</span><span class="citation-popover-snippet">UARS broke into pieces during re-entry, and most of it burned up in the atmosphere. NASA reported that...Read more...</span></span></span>
 
 For residents of Micronesia, this means that unusual lights in the sky are sometimes linked to genuine aerospace events occurring hundreds or thousands of kilometres away rather than to unknown craft operating locally.
 
@@ -324,7 +324,7 @@ Several clues can help:
 
 FeatureTypical MeteorTypical Satellite Re-entryDurationSecondsTens of seconds to several minutesAppearanceSingle bright streakMultiple fragments often visibleMotionVery fastComparatively slowerFragmentationPossible but briefFrequently extensive and prolongedPredictabilityUsually unexpectedSometimes forecast in advance
 
-Experts note that re-entering debris travels at lower speeds than natural meteors and often remains visible for a longer period while breaking into multiple glowing pieces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</span></span></span>
+Experts note that re-entering debris travels at lower speeds than natural meteors and often remains visible for a longer period while breaking into multiple glowing pieces.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</span></span></span>
 
 From an island perspective, however, the distinction is not always obvious. Witnesses often see only the most dramatic portion of the event and may not have access to timing data, satellite predictions, or astronomical observations.
 
@@ -332,7 +332,7 @@ From an island perspective, however, the distinction is not always obvious. Witn
 
 An unidentified object is not automatically an extraordinary object.
 
-NASA's educational guidance on UFO identification emphasises that many reports remain unidentified simply because information is incomplete. A witness may have only a brief observation, no photographs, and no independent corroboration. Under such conditions, certainty is difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Identifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible and the per...</span></span></span>
+NASA's educational guidance on UFO identification emphasises that many reports remain unidentified simply because information is incomplete. A witness may have only a brief observation, no photographs, and no independent corroboration. Under such conditions, certainty is difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Identifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible and the per...</span></span></span>
 
 This issue is particularly relevant in Micronesia because:
 
@@ -355,15 +355,15 @@ When an unusual light is reported over the FSM, the strongest investigative appr
 
 ### Check for Recent Re-Entries
 
-Space agencies and tracking organisations often publish predictions for major satellite re-entries. If a bright, fragmenting object was seen over a wide area, a re-entry should be considered first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyERS-2 reenters Earth&#x27;s atmosphere over Pacific OceanESA&#x27;s ERS-2 satellite completed its atmospheric reentry over the...</span></span></span>
+Space agencies and tracking organisations often publish predictions for major satellite re-entries. If a bright, fragmenting object was seen over a wide area, a re-entry should be considered first.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-snippet">European Space AgencyERS-2 reenters Earth&#x27;s atmosphere over Pacific OceanESA&#x27;s ERS-2 satellite completed its atmospheric reentry over the...</span></span></span>
 
 ### Check Meteor Reports
 
-Meteor monitoring networks regularly record large fireballs. A regional cluster of reports often indicates a meteor rather than a localised aerial object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Observation of metre-scale impactors by the Desert Fireball Network</span><span class="citation-popover-snippet">Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
+Meteor monitoring networks regularly record large fireballs. A regional cluster of reports often indicates a meteor rather than a localised aerial object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Observation of metre-scale impactors by the Desert Fireball Network</span><span class="citation-popover-snippet">Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</span><span class="citation-popover-meta">Published: August 28, 2018</span></span></span>
 
 ### Check Satellite Passes
 
-Many bright satellites can be visible shortly after sunset or before sunrise. Some flare unexpectedly and attract attention from casual observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in t...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Many bright satellites can be visible shortly after sunset or before sunrise. Some flare unexpectedly and attract attention from casual observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in t...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <img src="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-3-dark.svg" | relative_url }}" alt="Sky Causes illustration 3" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_space_debris_sky_mys_77d127-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Check Aviation Activity
@@ -378,199 +378,199 @@ High clouds, temperature inversions, haze, and atmospheric scattering can alter 
 
 Within the limited public UFO record of the Federated States of Micronesia, there is no well-documented national case that clearly survives scrutiny as an unexplained aerospace event. What does exist is a physical environment that naturally produces dramatic sky observations. Dark island skies, immense ocean horizons, meteor activity, visible satellites, aircraft routes, and occasional spacecraft re-entries create conditions where ordinary phenomena can appear extraordinary.
 
-For that reason, any future report from Yap, Chuuk, Pohnpei, or Kosrae should first be evaluated against known sky mechanisms. In many cases, the most convincing explanation is not hidden technology or an unknown craft, but the spectacular appearance of space debris, meteors, or atmospheric effects viewed from one of the world's most expansive oceanic horizons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Identifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible and the per...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in t...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+For that reason, any future report from Yap, Chuuk, Pohnpei, or Kosrae should first be evaluated against known sky mechanisms. In many cases, the most convincing explanation is not hidden technology or an unknown craft, but the spectacular appearance of space debris, meteors, or atmospheric effects viewed from one of the world's most expansive oceanic horizons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Identifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible and the per...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">things mistaken for ufos</span><span class="citation-popover-snippet">Sky at Night Magazine17 things commonly mistaken for UFOs11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in t...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fJtShsn0Bio" title="Mysterious Satellite Captured on Camera: The UnXplained (Season 3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fJtShsn0Bio" target="_blank" rel="noopener noreferrer">Mysterious Satellite Captured on Camera: The UnXplained (Season 3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.9M &middot; Uploaded: November 2022 &middot; Length: 4 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fJtShsn0Bio" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fJtShsn0Bio">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Pacific UFOs Are Space Debris. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Pacific UFOs Are Space Debris. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses evaluating reports against known explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses evaluating reports against known explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Excellent fit for distinguishing real phenomena from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent fit for distinguishing real phenomena from misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify satellites, meteors, and sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify satellites, meteors, and sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports understanding of visible celestial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports understanding of visible celestial phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-pacific-ufos-are-space-debris-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-pacific-ufos-are-space-debris-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ For that reason, any future report from Yap, Chuuk, Pohnpei, or Kosrae should fi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ For that reason, any future report from Yap, Chuuk, Pohnpei, or Kosrae should fi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ For that reason, any future report from Yap, Chuuk, Pohnpei, or Kosrae should fi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ For that reason, any future report from Yap, Chuuk, Pohnpei, or Kosrae should fi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ For that reason, any future report from Yap, Chuuk, Pohnpei, or Kosrae should fi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,120 +773,119 @@ For that reason, any future report from Yap, Chuuk, Pohnpei, or Kosrae should fi
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</p></details>
+   Link:<a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace CorporationDid I See a Meteor or a Reentry?These reentries can often look like shooting stars (meteors) with a bright central b...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible and the per...</p></details>
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible and the per...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: orbitaldebris.jsc.nasa.gov  
-   Link: <a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ARES | Orbital Debris Program Office | Debris ReentrySpacecraft that reenter from either orbital decay or controlled entry usually break...</p></details>
+   Link:<a href="https://orbitaldebris.jsc.nasa.gov/reentry/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/reentry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ARES | Orbital Debris Program Office | Debris ReentrySpacecraft that reenter from either orbital decay or controlled entry usually break...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: esa.int  
-   Link: <a href="https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyERS-2 reenters Earth&#x27;s atmosphere over Pacific OceanESA&#x27;s ERS-2 satellite completed its atmospheric reentry over the...</p></details>
+   Link:<a href="https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Space_Safety/Space_Debris/ERS-2_reenters_Earth_s_atmosphere_over_Pacific_Ocean</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyERS-2 reenters Earth&#x27;s atmosphere over Pacific OceanESA&#x27;s ERS-2 satellite completed its atmospheric reentry over the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: phys.org  
    Title: 2024 08 cluster mission reentry south pacific  
-   Link: <a href="https://phys.org/news/2024-08-cluster-mission-reentry-south-pacific.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2024-08-cluster-mission-reentry-south-pacific.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cluster mission set to end with reentry over South Pacific22 Aug 2024 — On 8 September 2024, the first of four satellites that make up ES...</p></details>
+   Link:<a href="https://phys.org/news/2024-08-cluster-mission-reentry-south-pacific.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2024-08-cluster-mission-reentry-south-pacific.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cluster mission set to end with reentry over South Pacific22 Aug 2024 — On 8 September 2024, the first of four satellites that make up ES...</p></details>
    Published: September 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
    Title: europe salsa satellite controlled reentry milestone  
-   Link: <a href="https://www.space.com/europe-salsa-satellite-controlled-reentry-milestone" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/europe-salsa-satellite-controlled-reentry-milestone</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hot &#x27;Salsa:&#x27; European satellite burns up in landmark...11 Sept 2024 — An aircraft that ESA flew out of Easter Island recorded Salsa&#x27;s de...</p></details>
+   Link:<a href="https://www.space.com/europe-salsa-satellite-controlled-reentry-milestone" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/europe-salsa-satellite-controlled-reentry-milestone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hot &#x27;Salsa:&#x27; European satellite burns up in landmark...11 Sept 2024 — An aircraft that ESA flew out of Easter Island recorded Salsa&#x27;s de...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Observation of metre-scale impactors by the Desert Fireball Network  
-   Link: <a href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.09195</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</p></details>
+   Link:<a href="https://arxiv.org/abs/1808.09195" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.09195</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observation of metre-scale impactors by the Desert Fireball NetworkAugust 28, 2018...</p></details>
    Published: August 28, 2018  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skyatnightmagazine.com  
    Title: things mistaken for ufos  
-   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night Magazine17 things commonly mistaken for UFOs11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in t...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night Magazine17 things commonly mistaken for UFOs11 May 2026 — 17 things commonly mistaken for UFOs. Think you&#x27;ve seen a UFO in t...</p></details>
    Published: May 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: interregnorthsea.eu  
    Title: Interreg North Sea The world at night  
-   Link: <a href="https://www.interregnorthsea.eu/sites/default/files/2024-01/The%20World%20at%20Night%2C%20IUCN%20%282024%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.interregnorthsea.eu/sites/default/files/2024-01/The%20World%20at%20Night%2C%20IUCN%20%282024%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark sky places cannot in... of widely and less-widely naturalized alien plants to artificial light at.Read more...</p></details>
+   Link:<a href="https://www.interregnorthsea.eu/sites/default/files/2024-01/The%20World%20at%20Night%2C%20IUCN%20%282024%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.interregnorthsea.eu/sites/default/files/2024-01/The%20World%20at%20Night%2C%20IUCN%20%282024%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dark sky places cannot in... of widely and less-widely naturalized alien plants to artificial light at.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencelearn.org.nz  
    Title: 2134 satellite falls to earth over pacific  
-   Link: <a href="https://www.sciencelearn.org.nz/resources/2134-satellite-falls-to-earth-over-pacific" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencelearn.org.nz/resources/2134-satellite-falls-to-earth-over-pacific</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UARS broke into pieces during re-entry, and most of it burned up in the atmosphere. NASA reported that...Read more...</p></details>
+   Link:<a href="https://www.sciencelearn.org.nz/resources/2134-satellite-falls-to-earth-over-pacific" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencelearn.org.nz/resources/2134-satellite-falls-to-earth-over-pacific</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UARS broke into pieces during re-entry, and most of it burned up in the atmosphere. NASA reported that...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomena. (2022, October 4). A growing share of Americans believe aliens are responsibl...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A global picture of unidentified anomalous phenomena. (2022, October 4). A growing share of Americans believe aliens are responsibl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=HaqM3yEPySw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HaqM3yEPySw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs, UFOs, meteors, and airplanes in the night sky seen...Thought I&#x27;d share some of the things that uh I come across and see in the ski...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HaqM3yEPySw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HaqM3yEPySw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs, UFOs, meteors, and airplanes in the night sky seen...Thought I&#x27;d share some of the things that uh I come across and see in the ski...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History  
-   Link: <a href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cVzyPnDYX2Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first video showcases how space debris burning up upon atmospheric re-entry creates dramatic streaks of light that observers frequent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cVzyPnDYX2Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first video showcases how space debris burning up upon atmospheric re-entry creates dramatic streaks of light that observers frequent...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites OverheadObserved re-entries #22.xlsx26 Aug 2014 — &quot;Falling debris from Soviet satellite produces fireball in Colorado sky&quot;, Th...</p></details>
+   Link:<a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites OverheadObserved re-entries #22.xlsx26 Aug 2014 — &quot;Falling debris from Soviet satellite produces fireball in Colorado sky&quot;, Th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SAAOnews/posts/-whats-up-in-the-night-sky-may-2026-may-brings-a-rare-lunar-treat-and-plenty-to-/1576886717774500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SAAOnews/posts/-whats-up-in-the-night-sky-may-2026-may-brings-a-rare-lunar-treat-and-plenty-to-/1576886717774500/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3y · Public... It&#x27;s New Moon, which means dark night skies all week. The perfect...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/SAAOnews/posts/-whats-up-in-the-night-sky-may-2026-may-brings-a-rare-lunar-treat-and-plenty-to-/1576886717774500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SAAOnews/posts/-whats-up-in-the-night-sky-may-2026-may-brings-a-rare-lunar-treat-and-plenty-to-/1576886717774500/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3y · Public... It&#x27;s New Moon, which means dark night skies all week. The perfect...Read more...</p></details>
    Published: may 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SFGate/posts/a-fireball-lit-up-the-night-sky-for-hundreds-of-miles-over-california-last-night/1256250763213995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SFGate/posts/a-fireball-lit-up-the-night-sky-for-hundreds-of-miles-over-california-last-night/1256250763213995/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns out it was a Starlink satellite burning up on reentry.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/SFGate/posts/a-fireball-lit-up-the-night-sky-for-hundreds-of-miles-over-california-last-night/1256250763213995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SFGate/posts/a-fireball-lit-up-the-night-sky-for-hundreds-of-miles-over-california-last-night/1256250763213995/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turns out it was a Starlink satellite burning up on reentry.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/isro.spaceinsight/posts/the-south-pacific-ocean-uninhabited-area-located-in-the-southern-pacific-ocean-e/1133910155417095/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/isro.spaceinsight/posts/the-south-pacific-ocean-uninhabited-area-located-in-the-southern-pacific-ocean-e/1133910155417095/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While small satellites typically burn up upon reentry...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/isro.spaceinsight/posts/the-south-pacific-ocean-uninhabited-area-located-in-the-southern-pacific-ocean-e/1133910155417095/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/isro.spaceinsight/posts/the-south-pacific-ocean-uninhabited-area-located-in-the-southern-pacific-ocean-e/1133910155417095/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While small satellites typically burn up upon reentry...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencenews.org  
    Title: Scientists are getting serious about UFOs  
-   Link: <a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — UFOs have been rebranded as UAPs (unidentified anomalous phenomena). Probably not aliens, they might impact nation...</p></details>
+   Link:<a href="https://www.sciencenews.org/article/scientists-serious-ufo-uap-security" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/scientists-serious-ufo-uap-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why7 Aug 2024 — UFOs have been rebranded as UAPs (unidentified anomalous phenomena). Probably not aliens, they might impact nation...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXzIXbYEl6z/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXzIXbYEl6z/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>kely orbital debris or a satellite reentering the atmosphere in...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXzIXbYEl6z/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXzIXbYEl6z/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>kely orbital debris or a satellite reentering the atmosphere in...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KnbhWX/videos/fireball-explained-satellite-re-entry-seen-across-the-region-saturday-night/1119494999161173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KnbhWX/videos/fireball-explained-satellite-re-entry-seen-across-the-region-saturday-night/1119494999161173/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ry into Earth&#x27;s atmosphere. Experts suggest it was either a...</p></details>
+   Link:<a href="https://www.facebook.com/KnbhWX/videos/fireball-explained-satellite-re-entry-seen-across-the-region-saturday-night/1119494999161173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KnbhWX/videos/fireball-explained-satellite-re-entry-seen-across-the-region-saturday-night/1119494999161173/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ry into Earth&#x27;s atmosphere. Experts suggest it was either a...</p></details>

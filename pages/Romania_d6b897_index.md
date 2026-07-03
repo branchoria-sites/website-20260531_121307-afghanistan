@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /romania-d6b897-index/
 description: Focused pages that expand on What Romania's UFO Record Really Shows.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Romania_d6b897
 parent_title: What Romania's UFO Record Really Shows
@@ -16,7 +16,7 @@ parent_permalink: /what-romanias-ufo-record-really-shows/
 
 # Explore Topics in What Romania's UFO Record Really Shows
 
-The following pages expand on the main **[What Romania's UFO Record Really Shows]({{ '/what-romanias-ufo-record-really-shows/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Romania's UFO Record Really Shows]({{ '/what-romanias-ufo-record-really-shows/' | relative_url }})** page and cover its key branches in.
 
 - [ASFAN Archive]({{ '/asfan-archive/' | relative_url }})
 - [Aviation Cases]({{ '/aviation-cases/' | relative_url }})

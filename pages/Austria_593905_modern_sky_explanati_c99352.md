@@ -248,28 +248,28 @@ image: /assets/images/Austria_593905_modern_sky_explanati_c99352-Illustration-1-
 
 ## Introduction
 
-In [Austria]({{ 'what-do-austrias-ufo-reports-really-show/' | relative_url }}) in recent years, a striking share of what the public or media sometimes initially label “UFO sightings” have been explained by **satellites and familiar sky phenomena**, rather than unexplained craft or exotic objects. Many modern reports over Austrian skies – from chains of lights moving across the night sky to dramatic spirals and bright streaks – are consistent with known causes such as **Starlink satellite trains**, rocket by‑products, meteors and re‑entering space debris, or atmospheric effects on commonplace aerial objects. This report surveys the most credible explanations behind these sightings and explains why they often trigger surprise or intrigue among observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.degufo.at/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: degufo.at">[degufo.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">degufo.at</span><span class="citation-popover-title">DEGUF O.AT</span><span class="citation-popover-snippet">DEGUF O.AT</span></span></span>
+In [Austria]({{ 'what-do-austrias-ufo-reports-really-show/' | relative_url }}) in recent years, a striking share of what the public or media sometimes initially label “UFO sightings” have been explained by **satellites and familiar sky phenomena**, rather than unexplained craft or exotic objects. Many modern reports over Austrian skies – from chains of lights moving across the night sky to dramatic spirals and bright streaks – are consistent with known causes such as **Starlink satellite trains**, rocket by‑products, meteors and re‑entering space debris, or atmospheric effects on commonplace aerial objects. This report surveys the most credible explanations behind these sightings and explains why they often trigger surprise or intrigue among observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.degufo.at/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: degufo.at">[degufo.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">degufo.at</span><span class="citation-popover-title">DEGUF O.AT</span><span class="citation-popover-snippet">DEGUF O.AT</span></span></span>
 
 <img src="{{ "/assets/images/Austria_593905_modern_sky_explanati_c99352-Illustration-1-dark.svg" | relative_url }}" alt="Sky Causes illustration 1" data-theme-src-dark="{{ "/assets/images/Austria_593905_modern_sky_explanati_c99352-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Austria_593905_modern_sky_explanati_c99352-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Starlink Satellite Trains: Straight Lines Misread
 
-One of the most frequently cited causes of “UFO” reports in Austria has been the visibility of **Starlink satellites**, a constellation operated by SpaceX that aims to provide global internet coverage. These satellites often travel in tight formations after launch, appearing to the naked eye as **a string of evenly spaced moving lights** across the night sky. Observers unfamiliar with this pattern may interpret such a sight as an unidentified phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wetter.at/wetter/oesterreich-wetter/elon-musks-satelliten-sorgen-fuer-ufo-sichtungen/411250392" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wetter.at">[Wetter.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wetter.at</span><span class="citation-popover-title">Elon Musks Satelliten sorgen für &#x27;UFO-Sichtungen&#x27;:: wetter.at</span><span class="citation-popover-snippet">December 29, 2019...</span><span class="citation-popover-meta">Published: December 29, 2019</span></span></span>
+One of the most frequently cited causes of “UFO” reports in Austria has been the visibility of **Starlink satellites**, a constellation operated by SpaceX that aims to provide global internet coverage. These satellites often travel in tight formations after launch, appearing to the naked eye as **a string of evenly spaced moving lights** across the night sky. Observers unfamiliar with this pattern may interpret such a sight as an unidentified phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wetter.at/wetter/oesterreich-wetter/elon-musks-satelliten-sorgen-fuer-ufo-sichtungen/411250392" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wetter.at">[Wetter.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wetter.at</span><span class="citation-popover-title">Elon Musks Satelliten sorgen für &#x27;UFO-Sichtungen&#x27;:: wetter.at</span><span class="citation-popover-snippet">December 29, 2019...</span><span class="citation-popover-meta">Published: December 29, 2019</span></span></span>
 
-Local [reporting]({{ 'reporting/' | relative_url }}) has explicitly connected these sightings to Starlink overflights. For example, readers across Austria have seen and photographed these linear light formations shortly after launch, with astronomy tracking resources confirming when and where the satellites should be visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.krone.at/3574012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krone.at">[Kronen Zeitung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krone.at</span><span class="citation-popover-title">n Zeitung Spectacle in the sky</span><span class="citation-popover-snippet">n ZeitungSpectacle in the sky - Strange “string of lights” spotted over Austria &#124; krone.at...</span></span></span>
+Local [reporting]({{ 'reporting/' | relative_url }}) has explicitly connected these sightings to Starlink overflights. For example, readers across Austria have seen and photographed these linear light formations shortly after launch, with astronomy tracking resources confirming when and where the satellites should be visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.krone.at/3574012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krone.at">[Kronen Zeitung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krone.at</span><span class="citation-popover-title">n Zeitung Spectacle in the sky</span><span class="citation-popover-snippet">n ZeitungSpectacle in the sky - Strange “string of lights” spotted over Austria &#124; krone.at...</span></span></span>
 
-Satellite flares and reflections also contribute to confusion. These occur when sunlight reflects off the surface of satellites at just the right angle, creating bright glints or streaks that can mimic unusual aerial objects in photos or videos. Such flares have been misidentified as UFOs even by pilots and skywatchers outside Austria, making them a well‑recognised mundane explanation in UFO research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
+Satellite flares and reflections also contribute to confusion. These occur when sunlight reflects off the surface of satellites at just the right angle, creating bright glints or streaks that can mimic unusual aerial objects in photos or videos. Such flares have been misidentified as UFOs even by pilots and skywatchers outside Austria, making them a well‑recognised mundane explanation in UFO research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wp3OdrCOzUI" title="Mysterious spirals light up night skies after SpaceX rocket launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wp3OdrCOzUI" target="_blank" rel="noopener noreferrer">Mysterious spirals light up night skies after SpaceX rocket launch</a></p><p class="youtube-embed-meta">Channel: The Sun &middot; Views: 38.5K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wp3OdrCOzUI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wp3OdrCOzUI">Open on YouTube</a></p></div></div></div>
 
 ## Rocket By‑Products and Spirals: Fuel Trails Mistaken
 
-Another modern cause of unexplained sky displays over Austria has been **rocket activity**, particularly fuel venting from launch vehicles. In March 2025, observers in regions including Vorarlberg, Carinthia and Styria reported a curious **spiral light pattern** in the evening sky. This sighting drew numerous public reports and was initially described in UFO discussions before being explained by atmospheric engineers and space authorities as the **visible trail of excess rocket fuel released during ascent**. The thin upper atmosphere allowed the fuel to form a spiral vortex illuminated by residual sunlight, producing a striking but entirely physical phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theinternational.at">[The International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theinternational.at</span><span class="citation-popover-title">The International Space X Rocket Creates Spiral Light Phenomenon Over Austria</span><span class="citation-popover-snippet">The InternationalSpaceX Rocket Creates Spiral Light Phenomenon Over Austria - The InternationalMarch 25, 2025...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span>
+Another modern cause of unexplained sky displays over Austria has been **rocket activity**, particularly fuel venting from launch vehicles. In March 2025, observers in regions including Vorarlberg, Carinthia and Styria reported a curious **spiral light pattern** in the evening sky. This sighting drew numerous public reports and was initially described in UFO discussions before being explained by atmospheric engineers and space authorities as the **visible trail of excess rocket fuel released during ascent**. The thin upper atmosphere allowed the fuel to form a spiral vortex illuminated by residual sunlight, producing a striking but entirely physical phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theinternational.at">[The International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theinternational.at</span><span class="citation-popover-title">The International Space X Rocket Creates Spiral Light Phenomenon Over Austria</span><span class="citation-popover-snippet">The InternationalSpaceX Rocket Creates Spiral Light Phenomenon Over Austria - The InternationalMarch 25, 2025...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span>
 
-Phenomena like spirals, luminous clouds or glowing streaks are increasingly frequent as global rocket launch rates rise; such effects are well documented in broader sky phenomenon analyses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://strangesounds.org/man-made-sky-phenomena-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangesounds.org">[Strange Sounds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangesounds.org</span><span class="citation-popover-snippet">Strange SoundsMan-Made Sky Phenomena Explained: Rocket Spirals, Starlink Trains, Reentry Fireballs and Mystery Sky Lights - Strange Sound...</span></span></span>
+Phenomena like spirals, luminous clouds or glowing streaks are increasingly frequent as global rocket launch rates rise; such effects are well documented in broader sky phenomenon analyses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://strangesounds.org/man-made-sky-phenomena-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangesounds.org">[Strange Sounds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangesounds.org</span><span class="citation-popover-snippet">Strange SoundsMan-Made Sky Phenomena Explained: Rocket Spirals, Starlink Trains, Reentry Fireballs and Mystery Sky Lights - Strange Sound...</span></span></span>
 
 ## Meteors, Re‑Entering Space Debris and Fireballs
 
-Bright, fast‑moving lights across the Austrian night sky can also be **meteors (shooting stars)** or **re‑entering space debris**. In August 2024, a dramatic fireball seen over Vorarlberg and parts of Switzerland was widely mistaken for a mysterious object until astronomers and observers pointed to the likely **atmospheric re‑entry of a Starlink satellite**, producing a sustained bright trail as it broke apart. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.derstandard.at/story/3000000234145/starlink-satellit-ueber-der-schweiz-in-atmosphaere-eingetreten" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: derstandard.at">[DER STANDARD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">derstandard.at</span><span class="citation-popover-snippet">Wissenschaft - derStandard.at › WissenschaftAugust 28, 2024...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
+Bright, fast‑moving lights across the Austrian night sky can also be **meteors (shooting stars)** or **re‑entering space debris**. In August 2024, a dramatic fireball seen over Vorarlberg and parts of Switzerland was widely mistaken for a mysterious object until astronomers and observers pointed to the likely **atmospheric re‑entry of a Starlink satellite**, producing a sustained bright trail as it broke apart.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.derstandard.at/story/3000000234145/starlink-satellit-ueber-der-schweiz-in-atmosphaere-eingetreten" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: derstandard.at">[DER STANDARD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">derstandard.at</span><span class="citation-popover-snippet">Wissenschaft - derStandard.at › WissenschaftAugust 28, 2024...</span><span class="citation-popover-meta">Published: August 28, 2024</span></span></span>
 
 Such events can be sensational, especially when seen over wide regions and captured on social media. They demonstrate how natural and human‑made debris in Earth’s orbit interacts with the atmosphere in visually dramatic ways that are nonetheless well understood by astronomers.
 
@@ -282,7 +282,7 @@ Beyond satellites and space events, many local sightings have practical explanat
 
 * **Aircraft and high‑altitude planes** can sometimes be misidentified, especially when observed at angles where traditional navigation lights or contrails produce unusual effects.
 * **Weather balloons and illuminated party balloons** may drift at high altitude and reflect sunlight or artificial light in ways that confuse observers.
-* **Drones** with LED lighting are increasingly common and may hover or move erratically in ways that attract attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.krone.at/3574012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krone.at">[Kronen Zeitung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krone.at</span><span class="citation-popover-title">n Zeitung Spectacle in the sky</span><span class="citation-popover-snippet">n ZeitungSpectacle in the sky - Strange “string of lights” spotted over Austria &#124; krone.at...</span></span></span>
+* **Drones** with LED lighting are increasingly common and may hover or move erratically in ways that attract attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.krone.at/3574012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krone.at">[Kronen Zeitung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krone.at</span><span class="citation-popover-title">n Zeitung Spectacle in the sky</span><span class="citation-popover-snippet">n ZeitungSpectacle in the sky - Strange “string of lights” spotted over Austria &#124; krone.at...</span></span></span>
 
 </div>
 
@@ -293,7 +293,7 @@ Optical phenomena such as **autokinesis** (a visual illusion where a stationary 
 
 Several conditions make Austria’s skies ripe for misinterpretation:
 
-* **High public engagement and smartphone use** mean unusual lights are quickly filmed and shared, amplifying reports even when the cause is common. <span class="citation-chip-wrap"><a class="citation-chip" href="https://orf.at/stories/3381375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orf.at">[news.ORF.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orf.at</span><span class="citation-popover-title">news.OR F.at D: Rekord an UFO-Sichtungen in Meldestelle eingegangen</span><span class="citation-popover-snippet">news.ORF.atD: Rekord an UFO-Sichtungen in Meldestelle eingegangen - news.ORF.at...</span></span></span>
+* **High public engagement and smartphone use** mean unusual lights are quickly filmed and shared, amplifying reports even when the cause is common.<span class="citation-chip-wrap"><a class="citation-chip" href="https://orf.at/stories/3381375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orf.at">[news.ORF.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orf.at</span><span class="citation-popover-title">news.OR F.at D: Rekord an UFO-Sichtungen in Meldestelle eingegangen</span><span class="citation-popover-snippet">news.ORF.atD: Rekord an UFO-Sichtungen in Meldestelle eingegangen - news.ORF.at...</span></span></span>
 * **Timing around dawn and dusk** enhances visibility of satellites and reflections because the observer is in shadow while objects in low orbit catch sunlight.
 * **Alpine terrain and horizons** can distort perceived motion or distance, making lights appear lower or slower than they truly are.
 
@@ -301,197 +301,197 @@ Several conditions make Austria’s skies ripe for misinterpretation:
 
 ## Summary
 
-Across Austria, recent “UFO sightings” increasingly align with explanations grounded in satellites, especially Starlink trains and satellite flares, rocket fuel trails, meteors and re‑entering debris, and everyday aerial technology. While the visual effects can be dramatic and initially puzzling, they consistently fit within existing knowledge of sky phenomena and space activity. Many local reporting groups and observatories emphasise that these mundane causes account for the vast majority of sightings, reducing the number of genuinely unexplained aerial phenomena once such factors are considered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.degufo.at/ufo-news/news-03-2016/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: degufo.at">[degufo.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">degufo.at</span><span class="citation-popover-title">DEGUF O</span><span class="citation-popover-snippet">Österreich, UFO-Hotline und Meldestelle - NEWS 03/2016NEWS 03/2016 Das Quadrocopter-Problem Fall A-20160206 A Seit dem vermehrte...</span></span></span>
+Across Austria, recent “UFO sightings” increasingly align with explanations grounded in satellites, especially Starlink trains and satellite flares, rocket fuel trails, meteors and re‑entering debris, and everyday aerial technology. While the visual effects can be dramatic and initially puzzling, they consistently fit within existing knowledge of sky phenomena and space activity. Many local reporting groups and observatories emphasise that these mundane causes account for the vast majority of sightings, reducing the number of genuinely unexplained aerial phenomena once such factors are considered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.degufo.at/ufo-news/news-03-2016/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: degufo.at">[degufo.at]</a><span class="citation-popover" role="note"><span class="citation-popover-source">degufo.at</span><span class="citation-popover-title">DEGUF O</span><span class="citation-popover-snippet">Österreich, UFO-Hotline und Meldestelle - NEWS 03/2016NEWS 03/2016 Das Quadrocopter-Problem Fall A-20160206 A Seit dem vermehrte...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Austria&#x27;s New UFOs Mostly Sky Misreads?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are Austria&#x27;s New UFOs Mostly Sky Misreads?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
-        </h4>
-        <p class="fr-book-author">By Philip J. Klass</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+</h4>
+<p class="fr-book-author">By Philip J. Klass</p>
         
-        <p class="fr-book-desc">Fits the page’s focus on satellites, aircraft, balloons, meteors, and optical confusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the page’s focus on satellites, aircraft, balloons, meteors, and optical confusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly supports distinguishing ordinary celestial objects from UFO misreads.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports distinguishing ordinary celestial objects from UFO misreads.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Helps readers identify planets, meteors, satellites, and other common sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify planets, meteors, satellites, and other common sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports critical thinking around extraordinary sky claims and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports critical thinking around extraordinary sky claims and weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-austria-s-new-ufos-mostly-sky-misreads-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -507,7 +507,7 @@ Across Austria, recent “UFO sightings” increasingly align with explanations 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -527,7 +527,7 @@ Across Austria, recent “UFO sightings” increasingly align with explanations 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -559,7 +559,7 @@ Across Austria, recent “UFO sightings” increasingly align with explanations 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -611,7 +611,7 @@ Across Austria, recent “UFO sightings” increasingly align with explanations 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -656,7 +656,7 @@ Across Austria, recent “UFO sightings” increasingly align with explanations 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -697,145 +697,145 @@ Across Austria, recent “UFO sightings” increasingly align with explanations 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: degufo.at  
    Title: DEGUF O.AT  
-   Link: <a href="https://www.degufo.at/" target="_blank" rel="noopener noreferrer nofollow">https://www.degufo.at/</a>  
+   Link:<a href="https://www.degufo.at/" target="_blank" rel="noopener noreferrer nofollow">https://www.degufo.at/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wetter.at  
    Title: Elon Musks Satelliten sorgen für 'UFO-Sichtungen':: wetter.at  
-   Link: <a href="https://www.wetter.at/wetter/oesterreich-wetter/elon-musks-satelliten-sorgen-fuer-ufo-sichtungen/411250392" target="_blank" rel="noopener noreferrer nofollow">https://www.wetter.at/wetter/oesterreich-wetter/elon-musks-satelliten-sorgen-fuer-ufo-sichtungen/411250392</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 2019...</p></details>
+   Link:<a href="https://www.wetter.at/wetter/oesterreich-wetter/elon-musks-satelliten-sorgen-fuer-ufo-sichtungen/411250392" target="_blank" rel="noopener noreferrer nofollow">https://www.wetter.at/wetter/oesterreich-wetter/elon-musks-satelliten-sorgen-fuer-ufo-sichtungen/411250392</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 2019...</p></details>
    Published: December 29, 2019  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: orf.at  
    Title: news.OR F.at D: Rekord an UFO-Sichtungen in Meldestelle eingegangen  
-   Link: <a href="https://orf.at/stories/3381375/" target="_blank" rel="noopener noreferrer nofollow">https://orf.at/stories/3381375/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>news.ORF.atD: Rekord an UFO-Sichtungen in Meldestelle eingegangen - news.ORF.at...</p></details>
+   Link:<a href="https://orf.at/stories/3381375/" target="_blank" rel="noopener noreferrer nofollow">https://orf.at/stories/3381375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>news.ORF.atD: Rekord an UFO-Sichtungen in Meldestelle eingegangen - news.ORF.at...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: degufo.at  
    Title: DEGUF O  
-   Link: <a href="https://www.degufo.at/ufo-news/news-03-2016/" target="_blank" rel="noopener noreferrer nofollow">https://www.degufo.at/ufo-news/news-03-2016/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Österreich, UFO-Hotline und Meldestelle - NEWS 03/2016NEWS 03/2016 Das Quadrocopter-Problem Fall A-20160206 A Seit dem vermehrte...</p></details>
+   Link:<a href="https://www.degufo.at/ufo-news/news-03-2016/" target="_blank" rel="noopener noreferrer nofollow">https://www.degufo.at/ufo-news/news-03-2016/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Österreich, UFO-Hotline und Meldestelle - NEWS 03/2016NEWS 03/2016 Das Quadrocopter-Problem Fall A-20160206 A Seit dem vermehrte...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: krone.at  
    Title: n Zeitung Spectacle in the sky  
-   Link: <a href="https://www.krone.at/3574012" target="_blank" rel="noopener noreferrer nofollow">https://www.krone.at/3574012</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n ZeitungSpectacle in the sky - Strange “string of lights” spotted over Austria | krone.at...</p></details>
+   Link:<a href="https://www.krone.at/3574012" target="_blank" rel="noopener noreferrer nofollow">https://www.krone.at/3574012</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n ZeitungSpectacle in the sky - Strange “string of lights” spotted over Austria | krone.at...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theinternational.at  
    Title: The International Space X Rocket Creates Spiral Light Phenomenon Over Austria  
-   Link: <a href="https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/" target="_blank" rel="noopener noreferrer nofollow">https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The InternationalSpaceX Rocket Creates Spiral Light Phenomenon Over Austria - The InternationalMarch 25, 2025...</p></details>
+   Link:<a href="https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/" target="_blank" rel="noopener noreferrer nofollow">https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The InternationalSpaceX Rocket Creates Spiral Light Phenomenon Over Austria - The InternationalMarch 25, 2025...</p></details>
    Published: March 25, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: strangesounds.org  
-   Link: <a href="https://strangesounds.org/man-made-sky-phenomena-explained" target="_blank" rel="noopener noreferrer nofollow">https://strangesounds.org/man-made-sky-phenomena-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange SoundsMan-Made Sky Phenomena Explained: Rocket Spirals, Starlink Trains, Reentry Fireballs and Mystery Sky Lights - Strange Sound...</p></details>
+   Link:<a href="https://strangesounds.org/man-made-sky-phenomena-explained" target="_blank" rel="noopener noreferrer nofollow">https://strangesounds.org/man-made-sky-phenomena-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange SoundsMan-Made Sky Phenomena Explained: Rocket Spirals, Starlink Trains, Reentry Fireballs and Mystery Sky Lights - Strange Sound...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: derstandard.at  
-   Link: <a href="https://www.derstandard.at/story/3000000234145/starlink-satellit-ueber-der-schweiz-in-atmosphaere-eingetreten" target="_blank" rel="noopener noreferrer nofollow">https://www.derstandard.at/story/3000000234145/starlink-satellit-ueber-der-schweiz-in-atmosphaere-eingetreten</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wissenschaft - derStandard.at › WissenschaftAugust 28, 2024...</p></details>
+   Link:<a href="https://www.derstandard.at/story/3000000234145/starlink-satellit-ueber-der-schweiz-in-atmosphaere-eingetreten" target="_blank" rel="noopener noreferrer nofollow">https://www.derstandard.at/story/3000000234145/starlink-satellit-ueber-der-schweiz-in-atmosphaere-eingetreten</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wissenschaft - derStandard.at › WissenschaftAugust 28, 2024...</p></details>
    Published: August 28, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: krone.at  
-   Link: <a href="https://www.krone.at/2939834" target="_blank" rel="noopener noreferrer nofollow">https://www.krone.at/2939834</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n Zeitung30 Sichtungen 2022 - UFO-Alarm im Äther: Ballons, Satelliten &amp; Co. | krone.atFebruary 25, 2023...</p></details>
+   Link:<a href="https://www.krone.at/2939834" target="_blank" rel="noopener noreferrer nofollow">https://www.krone.at/2939834</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n Zeitung30 Sichtungen 2022 - UFO-Alarm im Äther: Ballons, Satelliten &amp; Co. | krone.atFebruary 25, 2023...</p></details>
    Published: February 25, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: krone.at  
    Title: Was steckt dahinter?  
-   Link: <a href="https://www.krone.at/3506742" target="_blank" rel="noopener noreferrer nofollow">https://www.krone.at/3506742</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteriöses Lichtspektakel über Österreich | krone.atAugust 28, 2024 — WAS STECKT DAHINTER? MYSTERIÖSES LICHTSPEKTAKEL ÜBER ÖSTERREICH Im...</p></details>
+   Link:<a href="https://www.krone.at/3506742" target="_blank" rel="noopener noreferrer nofollow">https://www.krone.at/3506742</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteriöses Lichtspektakel über Österreich | krone.atAugust 28, 2024 — WAS STECKT DAHINTER? MYSTERIÖSES LICHTSPEKTAKEL ÜBER ÖSTERREICH Im...</p></details>
    Published: August 28, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: krone.at  
    Title: Unbekannte Flugobjekte  
-   Link: <a href="https://www.krone.at/2743574" target="_blank" rel="noopener noreferrer nofollow">https://www.krone.at/2743574</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kurioser UFO-Alarm über der Hohen Wand in NÖ | krone.atJune 26, 2022 — UNBEKANNTE FLUGOBJEKTE KURIOSER UFO-ALARM ÜBER DER HOHEN WAND IN N...</p></details>
+   Link:<a href="https://www.krone.at/2743574" target="_blank" rel="noopener noreferrer nofollow">https://www.krone.at/2743574</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kurioser UFO-Alarm über der Hohen Wand in NÖ | krone.atJune 26, 2022 — UNBEKANNTE FLUGOBJEKTE KURIOSER UFO-ALARM ÜBER DER HOHEN WAND IN N...</p></details>
    Published: June 26, 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: krone.at  
    Title: Was ist da los?  
-   Link: <a href="https://www.krone.at/2467451" target="_blank" rel="noopener noreferrer nofollow">https://www.krone.at/2467451</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-Sichtung in der Steiermark sorgt für Aufregung | krone.atWAS IST DA LOS? UFO-SICHTUNG IN DER STEIERMARK SORGT FÜR AUFREGUNG Image Von...</p></details>
+   Link:<a href="https://www.krone.at/2467451" target="_blank" rel="noopener noreferrer nofollow">https://www.krone.at/2467451</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-Sichtung in der Steiermark sorgt für Aufregung | krone.atWAS IST DA LOS? UFO-SICHTUNG IN DER STEIERMARK SORGT FÜR AUFREGUNG Image Von...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/at" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/at</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Austria | Enigma LabsShare UFO Sighting MOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join E...</p></details>
+   Link:<a href="https://enigmalabs.io/explore/at" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/at</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Austria | Enigma LabsShare UFO Sighting MOBILE APP FOR UFO SIGHTING STORIES AND REAL-TIME ALERTS DOWNLOAD THE APP Join E...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vienna.at  
    Title: Aliens? Spiral Vortex in the Evening Sky Over Austria Caused a Stir  
-   Link: <a href="https://www.vienna.at/aliens-spiral-vortex-in-the-evening-sky-over-austria-caused-a-stir/9297821" target="_blank" rel="noopener noreferrer nofollow">https://www.vienna.at/aliens-spiral-vortex-in-the-evening-sky-over-austria-caused-a-stir/9297821</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spiral Vortex in the Evening Sky Over Austria Caused a Stir - VIENNA.ATMarch 25, 2025 — Aliens? Spiral Vortex in the Evening Sky Over Aus...</p></details>
+   Link:<a href="https://www.vienna.at/aliens-spiral-vortex-in-the-evening-sky-over-austria-caused-a-stir/9297821" target="_blank" rel="noopener noreferrer nofollow">https://www.vienna.at/aliens-spiral-vortex-in-the-evening-sky-over-austria-caused-a-stir/9297821</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spiral Vortex in the Evening Sky Over Austria Caused a Stir - VIENNA.ATMarch 25, 2025 — Aliens? Spiral Vortex in the Evening Sky Over Aus...</p></details>
    Published: March 25, 2025  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lenz.io  
    Title: Are Satellite Flares Really Behind UFO Sightings?  
-   Link: <a href="https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf" target="_blank" rel="noopener noreferrer nofollow">https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LenzMarch 11, 2026 — Claim analyzed Science “SATELLITE FLARES ARE A COMMONLY CITED EXPLANATION FOR UFO SIGHTINGS.” THE CONCLUSION Revie...</p></details>
+   Link:<a href="https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf" target="_blank" rel="noopener noreferrer nofollow">https://lenz.io/c/satellite-flares-ufo-sightings-misidentification-896587bf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LenzMarch 11, 2026 — Claim analyzed Science “SATELLITE FLARES ARE A COMMONLY CITED EXPLANATION FOR UFO SIGHTINGS.” THE CONCLUSION Revie...</p></details>
    Published: March 11, 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: oe24.at  
    Title: Elon Musks Satelliten sorgen für "UFO-Sichtungen"  
-   Link: <a href="https://www.oe24.at/oesterreich/chronik/elon-musks-satelliten-sorgen-fuer-ufo-sichtungen/411250392" target="_blank" rel="noopener noreferrer nofollow">https://www.oe24.at/oesterreich/chronik/elon-musks-satelliten-sorgen-fuer-ufo-sichtungen/411250392</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29, 2019 — Image: vlcsnap-2020-01-02-13h28m05s053.png LICHTERKETTE ÜBER ÖSTERREICHISCHEM HIMMEL ELON MUSKS SATELLITEN SORGEN FÜR &quot;UFO-SIC...</p></details>
+   Link:<a href="https://www.oe24.at/oesterreich/chronik/elon-musks-satelliten-sorgen-fuer-ufo-sichtungen/411250392" target="_blank" rel="noopener noreferrer nofollow">https://www.oe24.at/oesterreich/chronik/elon-musks-satelliten-sorgen-fuer-ufo-sichtungen/411250392</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29, 2019 — Image: vlcsnap-2020-01-02-13h28m05s053.png LICHTERKETTE ÜBER ÖSTERREICHISCHEM HIMMEL ELON MUSKS SATELLITEN SORGEN FÜR &quot;UFO-SIC...</p></details>
    Published: January 2, 2020  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: puls24.at  
    Title: et zu besuch ufo sichtungen 2024 auf rekordhoch  
-   Link: <a href="https://www.puls24.at/news/chronik/et-zu-besuch-ufo-sichtungen-2024-auf-rekordhoch/379147" target="_blank" rel="noopener noreferrer nofollow">https://www.puls24.at/news/chronik/et-zu-besuch-ufo-sichtungen-2024-auf-rekordhoch/379147</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>zu Besuch? UFO-&quot;Sichtungen&quot; 2024 auf Rekordhoch | PULS 24APA/AFP/VALERIE MACON E.T. ZU BESUCH? UFO-&quot;SICHTUNGEN&quot; 2024 AUF REKORDHOCH Auf e...</p></details>
+   Link:<a href="https://www.puls24.at/news/chronik/et-zu-besuch-ufo-sichtungen-2024-auf-rekordhoch/379147" target="_blank" rel="noopener noreferrer nofollow">https://www.puls24.at/news/chronik/et-zu-besuch-ufo-sichtungen-2024-auf-rekordhoch/379147</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>zu Besuch? UFO-&quot;Sichtungen&quot; 2024 auf Rekordhoch | PULS 24APA/AFP/VALERIE MACON E.T. ZU BESUCH? UFO-&quot;SICHTUNGEN&quot; 2024 AUF REKORDHOCH Auf e...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: oe24.at  
    Title: Angebliche UFO-Sichtung über Österreich  
-   Link: <a href="https://www.oe24.at/oesterreich/chronik/angebliche-ufo-sichtung-ueber-oesterreich/545551551" target="_blank" rel="noopener noreferrer nofollow">https://www.oe24.at/oesterreich/chronik/angebliche-ufo-sichtung-ueber-oesterreich/545551551</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14, 2023 — © Waltraud Kaliba und Jürgen Trieb &quot;NICHT ERKLÄRBARE OBJEKTE&quot; ANGEBLICHE UFO-SICHTUNG ÜBER ÖSTERREICH 14.02.23, 17:38 | Aktual...</p></details>
+   Link:<a href="https://www.oe24.at/oesterreich/chronik/angebliche-ufo-sichtung-ueber-oesterreich/545551551" target="_blank" rel="noopener noreferrer nofollow">https://www.oe24.at/oesterreich/chronik/angebliche-ufo-sichtung-ueber-oesterreich/545551551</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14, 2023 — © Waltraud Kaliba und Jürgen Trieb &quot;NICHT ERKLÄRBARE OBJEKTE&quot; ANGEBLICHE UFO-SICHTUNG ÜBER ÖSTERREICH 14.02.23, 17:38 | Aktual...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Identifying Satellites vs. Aircraft in the Night Sky  
-   Link: <a href="https://www.youtube.com/watch?v=oV0i12fX56s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oV0i12fX56s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video regarding SpaceX rocket fuel vents is particularly relevant as it provides a clear visual and expert explanation for the myster...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oV0i12fX56s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oV0i12fX56s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The video regarding SpaceX rocket fuel vents is particularly relevant as it provides a clear visual and expert explanation for the myster...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ufo4you.org  
    Title: USS F | UFO Sichtungen U.S.S.F  
-   Link: <a href="https://www.ufo4you.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo4you.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO 4 YOU Ufologie in Österreich Willkommen in der Welt des Unerklärlichen... Seit mittlerweile 15 Jahren beschäftigt sich das Forscherp...</p></details>
+   Link:<a href="https://www.ufo4you.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo4you.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO 4 YOU Ufologie in Österreich Willkommen in der Welt des Unerklärlichen... Seit mittlerweile 15 Jahren beschäftigt sich das Forscherp...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ufofinder.com  
    Title: starlink effect  
-   Link: <a href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/insights/starlink-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Starlink Effect | UFO Data Insights | UFO Finder | UFO Finder🛰️ Confounding Factors 🛰️ THE STARLINK EFFECT Post-2019 formation sighti...</p></details>
+   Link:<a href="https://ufofinder.com/insights/starlink-effect/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/insights/starlink-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Starlink Effect | UFO Data Insights | UFO Finder | UFO Finder🛰️ Confounding Factors 🛰️ THE STARLINK EFFECT Post-2019 formation sighti...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Why Planets and Satellites Are Mistaken for UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=r3Xrmo1147s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r3Xrmo1147s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Satellites vs. Aircraft in the Night Sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=r3Xrmo1147s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r3Xrmo1147s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Satellites vs. Aircraft in the Night Sky...</p></details>

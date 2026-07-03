@@ -1194,22 +1194,22 @@ image: /assets/images/Poland_5ff03b-overview-social.jpg
 
 ## Introduction
 
-Poland’s UFO record is best understood as three overlapping stories: a famous rural abduction claim at [Emilcin]({{ 'emilcin/' | relative_url }}), a wider but uneven archive of civilian sightings, and a modern national-security problem in which genuinely unidentified objects are usually treated as balloons, drones or missiles rather than evidence of extraterrestrial visitors. The strongest conclusion is cautious: Poland has notable UFO folklore and several serious [airspace]({{ 'airspace-382a7a/' | relative_url }}) incidents, but no publicly available Polish record proves an alien craft, recovered non-human technology or a confirmed extraordinary vehicle. The most useful reading is not “nothing happened” versus “aliens landed”, but “which reports had witnesses, physical traces, official attention or later explanations?” That split makes Poland a revealing country page in a wider European UFO project, especially beside neighbouring branches affected by the Russia-Ukraine war and modern drone incursions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://culture.pl/en/article/the-emilcin-incident-a-polish-encounter-of-the-fourth-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culture.pl">[Culture.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culture.pl</span><span class="citation-popover-title">the emilcin incident a polish encounter of the fourth kind</span><span class="citation-popover-snippet">the emilcin incident a polish encounter of the fourth kind</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+Poland’s UFO record is best understood as three overlapping stories: a famous rural abduction claim at [Emilcin]({{ 'emilcin/' | relative_url }}), a wider but uneven archive of civilian sightings, and a modern national-security problem in which genuinely unidentified objects are usually treated as balloons, drones or missiles rather than evidence of extraterrestrial visitors. The strongest conclusion is cautious: Poland has notable UFO folklore and several serious [airspace]({{ 'airspace-382a7a/' | relative_url }}) incidents, but no publicly available Polish record proves an alien craft, recovered non-human technology or a confirmed extraordinary vehicle. The most useful reading is not “nothing happened” versus “aliens landed”, but “which reports had witnesses, physical traces, official attention or later explanations?” That split makes Poland a revealing country page in a wider European UFO project, especially beside neighbouring branches affected by the Russia-Ukraine war and modern drone incursions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://culture.pl/en/article/the-emilcin-incident-a-polish-encounter-of-the-fourth-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culture.pl">[Culture.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culture.pl</span><span class="citation-popover-title">the emilcin incident a polish encounter of the fourth kind</span><span class="citation-popover-snippet">the emilcin incident a polish encounter of the fourth kind</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
 <img src="{{ "/assets/images/Poland_5ff03b-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Poland&#x27;s UFO Files?" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Poland’s UFO history centres on a village, not an air base
 
-The case that dominates Polish UFO culture is the alleged 10 May 1978 encounter at Emilcin, a village in eastern Poland. Jan Wolski, a 71-year-old farmer, said he met small humanoid beings, was taken into a hovering craft and underwent a brief examination. The story was recorded, investigated by Polish UFO enthusiasts and later became embedded in local memory; in 2005, a memorial was erected at Emilcin to mark the claimed landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://culture.pl/en/article/from-the-archives-of-polish-horror" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culture.pl">[Culture.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culture.pl</span><span class="citation-popover-title">from the archives of polish horror</span><span class="citation-popover-snippet">from the archives of polish horror</span></span></span>
+The case that dominates Polish UFO culture is the alleged 10 May 1978 encounter at Emilcin, a village in eastern Poland. Jan Wolski, a 71-year-old farmer, said he met small humanoid beings, was taken into a hovering craft and underwent a brief examination. The story was recorded, investigated by Polish UFO enthusiasts and later became embedded in local memory; in 2005, a memorial was erected at Emilcin to mark the claimed landing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://culture.pl/en/article/from-the-archives-of-polish-horror" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culture.pl">[Culture.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culture.pl</span><span class="citation-popover-title">from the archives of polish horror</span><span class="citation-popover-snippet">from the archives of polish horror</span></span></span>
 
-That makes Emilcin unusual. Many countries’ best-known UFO cases involve military pilots, radar operators or mass urban sightings. Poland’s best-known case is instead rural, personal and socially anchored: villagers, family members, a remembered landscape, and a later monument. The case is therefore important even if the extraordinary claim remains unproven, because it shows how a single witness narrative can become a national reference point for UFO belief, scepticism, tourism and media retelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://culture.pl/en/article/the-emilcin-incident-a-polish-encounter-of-the-fourth-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culture.pl">[Culture.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culture.pl</span><span class="citation-popover-title">the emilcin incident a polish encounter of the fourth kind</span><span class="citation-popover-snippet">the emilcin incident a polish encounter of the fourth kind</span></span></span>
+That makes Emilcin unusual. Many countries’ best-known UFO cases involve military pilots, radar operators or mass urban sightings. Poland’s best-known case is instead rural, personal and socially anchored: villagers, family members, a remembered landscape, and a later monument. The case is therefore important even if the extraordinary claim remains unproven, because it shows how a single witness narrative can become a national reference point for UFO belief, scepticism, tourism and media retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://culture.pl/en/article/the-emilcin-incident-a-polish-encounter-of-the-fourth-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culture.pl">[Culture.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culture.pl</span><span class="citation-popover-title">the emilcin incident a polish encounter of the fourth kind</span><span class="citation-popover-snippet">the emilcin incident a polish encounter of the fourth kind</span></span></span>
 
-The Emilcin memorial also illustrates the boundary between evidence and commemoration. A monument can prove that a community or organisation chose to remember a claim; it does not prove the claim itself. Reporting from Emilcin describes the inscription, the later time capsule, tourist visits and the role of the Warsaw-based Nautilus Foundation in memorialising the story, but those are cultural facts rather than scientific confirmation of a craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oko.press/nikt-nie-mowi-ze-wierzy-w-ufo-wracamy-do-emilcina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oko.press">[OKO.press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oko.press</span><span class="citation-popover-title">nikt nie mowi ze wierzy w ufo wracamy do emilcina</span><span class="citation-popover-snippet">nikt nie mowi ze wierzy w ufo wracamy do emilcina</span></span></span>
+The Emilcin memorial also illustrates the boundary between evidence and commemoration. A monument can prove that a community or organisation chose to remember a claim; it does not prove the claim itself. Reporting from Emilcin describes the inscription, the later time capsule, tourist visits and the role of the Warsaw-based Nautilus Foundation in memorialising the story, but those are cultural facts rather than scientific confirmation of a craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oko.press/nikt-nie-mowi-ze-wierzy-w-ufo-wracamy-do-emilcina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oko.press">[OKO.press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oko.press</span><span class="citation-popover-title">nikt nie mowi ze wierzy w ufo wracamy do emilcina</span><span class="citation-popover-snippet">nikt nie mowi ze wierzy w ufo wracamy do emilcina</span></span></span>
 
 ## The Emilcin case: credible witness, weak physical proof
 
-Emilcin remains compelling because Wolski was remembered by many locals as ordinary and sincere, not as a publicity-seeker. Polish and English-language accounts consistently describe the same core narrative: a morning encounter, beings joining him on his cart, a hovering object, a short onboard examination and a return home. Some accounts also mention alleged traces at the site and a child witness who reportedly saw a craft-like object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emilcin_Abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emilcin Abduction</span><span class="citation-popover-snippet">Emilcin Abduction</span></span></span>
+Emilcin remains compelling because Wolski was remembered by many locals as ordinary and sincere, not as a publicity-seeker. Polish and English-language accounts consistently describe the same core narrative: a morning encounter, beings joining him on his cart, a hovering object, a short onboard examination and a return home. Some accounts also mention alleged traces at the site and a child witness who reportedly saw a craft-like object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emilcin_Abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Emilcin Abduction</span><span class="citation-popover-snippet">Emilcin Abduction</span></span></span>
 
-But sincerity is not the same as verification. The case has no publicly accepted instrument data, no authenticated material sample, no official Polish government finding and no independent physical record strong enough to move it from “contested” to “confirmed”. Later sceptical work has also complicated the story. Culture.pl summarises Bartosz Rdułtowski’s later re-examination of Zbigniew Blania’s archives and notes the claim that the boy witness statement had been manipulated, a serious problem for any attempt to treat the case as a clean multi-witness event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://culture.pl/en/article/from-the-archives-of-polish-horror" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culture.pl">[Culture.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culture.pl</span><span class="citation-popover-title">from the archives of polish horror</span><span class="citation-popover-snippet">from the archives of polish horror</span></span></span>
+But sincerity is not the same as verification. The case has no publicly accepted instrument data, no authenticated material sample, no official Polish government finding and no independent physical record strong enough to move it from “contested” to “confirmed”. Later sceptical work has also complicated the story. Culture.pl summarises Bartosz Rdułtowski’s later re-examination of Zbigniew Blania’s archives and notes the claim that the boy witness statement had been manipulated, a serious problem for any attempt to treat the case as a clean multi-witness event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://culture.pl/en/article/from-the-archives-of-polish-horror" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culture.pl">[Culture.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culture.pl</span><span class="citation-popover-title">from the archives of polish horror</span><span class="citation-popover-snippet">from the archives of polish horror</span></span></span>
 
 The fair assessment is therefore mixed. Emilcin is Poland’s most culturally significant UFO case and one of its best-known close-encounter narratives. It is not, on public evidence, a confirmed extraterrestrial incident. It belongs in the “contested but historically important” category: valuable for understanding Polish UFO culture, weak as proof of alien visitation.
 
@@ -1218,15 +1218,15 @@ The fair assessment is therefore mixed. Emilcin is Poland’s most culturally si
 
 Poland’s reported UFO history is not one continuous official archive. It is a patchwork of press stories, private investigations, local memories, specialist catalogues and, in recent years, defence-related airspace reports. A useful chronology separates folklore-level cases from state-recognised unidentified objects.
 
-**1958–1959: early Cold War sightings and the Gdynia legend.** A reported unidentified object photographed in Muszyna in December 1958 appears in popular Polish UFO lists, while the January 1959 Gdynia harbour story later became a “Polish Roswell” legend involving a supposed object falling into the Baltic and rumours of bodies or unusual material. The Gdynia story is widely repeated in UFO catalogues and podcasts, but available public sourcing is thin, derivative and much weaker than the later Emilcin record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">1959 01 21 poland gdynia</span><span class="citation-popover-snippet">1959 01 21 poland gdynia</span></span></span>
+**1958–1959: early Cold War sightings and the Gdynia legend.** A reported unidentified object photographed in Muszyna in December 1958 appears in popular Polish UFO lists, while the January 1959 Gdynia harbour story later became a “Polish Roswell” legend involving a supposed object falling into the Baltic and rumours of bodies or unusual material. The Gdynia story is widely repeated in UFO catalogues and podcasts, but available public sourcing is thin, derivative and much weaker than the later Emilcin record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">1959 01 21 poland gdynia</span><span class="citation-popover-snippet">1959 01 21 poland gdynia</span></span></span>
 
-**1978: Emilcin becomes the defining Polish case.** Wolski’s alleged abduction gave Poland its most famous close encounter and, decades later, its only widely cited UFO landing memorial. The case’s strength lies in its persistent witness narrative and cultural footprint; its weakness is the lack of robust physical or official evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://culture.pl/en/article/from-the-archives-of-polish-horror" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culture.pl">[Culture.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culture.pl</span><span class="citation-popover-title">from the archives of polish horror</span><span class="citation-popover-snippet">from the archives of polish horror</span></span></span>
+**1978: Emilcin becomes the defining Polish case.** Wolski’s alleged abduction gave Poland its most famous close encounter and, decades later, its only widely cited UFO landing memorial. The case’s strength lies in its persistent witness narrative and cultural footprint; its weakness is the lack of robust physical or official evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://culture.pl/en/article/from-the-archives-of-polish-horror" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culture.pl">[Culture.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culture.pl</span><span class="citation-popover-title">from the archives of polish horror</span><span class="citation-popover-snippet">from the archives of polish horror</span></span></span>
 
-**2000s: civilian groups and photographic disputes.** Polish ufology continued through private researchers, regional investigators and organisations such as the Nautilus Foundation. One instructive example is the 2006 Zdany photograph, which Nautilus promoted strongly but which Polish UFO researcher Arkadiusz Miazga later described as an inept hoax, arguing that many Polish researchers had already treated it as a staged image made with two bowls. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arekmiazga.blogspot.com/2012/01/zdany-nieudolna-mistyfikacja.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arekmiazga.blogspot.com">[arekmiazga.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arekmiazga.blogspot.com</span><span class="citation-popover-title">zdany nieudolna mistyfikacja</span><span class="citation-popover-snippet">zdany nieudolna mistyfikacja</span></span></span>
+**2000s: civilian groups and photographic disputes.** Polish ufology continued through private researchers, regional investigators and organisations such as the Nautilus Foundation. One instructive example is the 2006 Zdany photograph, which Nautilus promoted strongly but which Polish UFO researcher Arkadiusz Miazga later described as an inept hoax, arguing that many Polish researchers had already treated it as a staged image made with two bowls.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arekmiazga.blogspot.com/2012/01/zdany-nieudolna-mistyfikacja.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arekmiazga.blogspot.com">[arekmiazga.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arekmiazga.blogspot.com</span><span class="citation-popover-title">zdany nieudolna mistyfikacja</span><span class="citation-popover-snippet">zdany nieudolna mistyfikacja</span></span></span>
 
-**2009: Jarnołtówek enters popular lists.** The Jarnołtówek case near Prudnik is often described as a dramatic night sighting involving noise, light and a fast-rising object, with more than one local report. It remains a civilian sighting rather than an officially resolved incident, and the accessible public record is mostly local media and secondary UFO listings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Poland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Poland</span><span class="citation-popover-snippet">UFO sightings in Poland</span></span></span>
+**2009: Jarnołtówek enters popular lists.** The Jarnołtówek case near Prudnik is often described as a dramatic night sighting involving noise, light and a fast-rising object, with more than one local report. It remains a civilian sighting rather than an officially resolved incident, and the accessible public record is mostly local media and secondary UFO listings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_Poland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in Poland</span><span class="citation-popover-snippet">UFO sightings in Poland</span></span></span>
 
-**2023–2025: unidentified objects become a security issue.** After Russia’s full-scale invasion of Ukraine, Polish “unidentified object” reporting increasingly overlapped with missiles, drones and balloons. In May 2023, Poland said an object entering from Belarus was probably an observation balloon; in December 2023, Polish authorities said all indications pointed to a Russian missile briefly entering Polish airspace; in August 2025, an object exploded in a field in eastern Poland and was later treated by officials as a likely Russian-linked drone incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">unidentified object entered poland direction ukraine says polish army 2023 12 29</span><span class="citation-popover-snippet">unidentified object entered poland direction ukraine says polish army 2023 12 29</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/russian-drone-fell-eastern-poland-warsaw-says-2025-08-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+**2023–2025: unidentified objects become a security issue.** After Russia’s full-scale invasion of Ukraine, Polish “unidentified object” reporting increasingly overlapped with missiles, drones and balloons. In May 2023, Poland said an object entering from Belarus was probably an observation balloon; in December 2023, Polish authorities said all indications pointed to a Russian missile briefly entering Polish airspace; in August 2025, an object exploded in a field in eastern Poland and was later treated by officials as a likely Russian-linked drone incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">unidentified object entered poland direction ukraine says polish army</span><span class="citation-popover-snippet">unidentified object entered poland direction ukraine says polish army</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/russian-drone-fell-eastern-poland-warsaw-says-2025-08-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uNxWelDiESE" title="&quot;Russian missile violated Polish airspace&quot;, says Poland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uNxWelDiESE" target="_blank" rel="noopener noreferrer">&quot;Russian missile violated Polish airspace&quot;, says Poland</a></p><p class="youtube-embed-meta">Channel: Times News &middot; Views: 58.9K &middot; Uploaded: December 2023 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uNxWelDiESE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uNxWelDiESE">Open on YouTube</a></p></div></div></div>
 
@@ -1234,17 +1234,17 @@ Poland’s reported UFO history is not one continuous official archive. It is a 
 
 Polish UFO material becomes much clearer when sorted by evidence quality rather than by strangeness.
 
-**Confirmed or strongly substantiated unidentified airspace events** are not the same as confirmed alien craft. Recent Polish cases involving radar tracks, official searches, debris or government statements show that unknown objects can enter or appear in Polish airspace and matter greatly to public safety. The May 2023 suspected balloon, the December 2023 likely Russian missile and the August 2025 drone-related incident all fit this category: real official concern, plausible conventional causes, and no need for an extraterrestrial explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/drone-that-fell-poland-probably-came-direction-belarus-prosecutor-says-2025-08-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/a1edac1401e5f8be4d72488518287281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Open source on apnews.com.</span></span></span>
+**Confirmed or strongly substantiated unidentified airspace events** are not the same as confirmed alien craft. Recent Polish cases involving radar tracks, official searches, debris or government statements show that unknown objects can enter or appear in Polish airspace and matter greatly to public safety. The May 2023 suspected balloon, the December 2023 likely Russian missile and the August 2025 drone-related incident all fit this category: real official concern, plausible conventional causes, and no need for an extraterrestrial explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/drone-that-fell-poland-probably-came-direction-belarus-prosecutor-says-2025-08-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/a1edac1401e5f8be4d72488518287281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">Open source on apnews.com.</span></span></span>
 
-**Contested civilian classics** include Emilcin, Gdynia and Jarnołtówek. These cases are important because they shaped Polish UFO culture, but their evidential base varies sharply. Emilcin has a durable witness story and cultural afterlife; Gdynia has a stronger legend than documentation; Jarnołtówek is interesting but locally sourced and not publicly supported by official technical [records]({{ 'records-7d1d4a/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">1959 01 21 poland gdynia</span><span class="citation-popover-snippet">1959 01 21 poland gdynia</span></span></span>
+**Contested civilian classics** include Emilcin, Gdynia and Jarnołtówek. These cases are important because they shaped Polish UFO culture, but their evidential base varies sharply. Emilcin has a durable witness story and cultural afterlife; Gdynia has a stronger legend than documentation; Jarnołtówek is interesting but locally sourced and not publicly supported by official technical [records]({{ 'records-7d1d4a/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[2ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">1959 01 21 poland gdynia</span><span class="citation-popover-snippet">1959 01 21 poland gdynia</span></span></span>
 
-**Debunked or seriously challenged claims** include cases where photographic evidence or witness handling became the issue. Zdany is especially useful because it shows that Polish UFO culture is not simply believer versus sceptic; scepticism also comes from within Polish UFO research. Miazga’s critique of the photograph as a staged “two bowls” image is a reminder that local-source reliability must be assessed case by case, not granted automatically because a case is Polish or obscure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arekmiazga.blogspot.com/2015/10/polskie-bliskie-spotkania-iii-stopnia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arekmiazga.blogspot.com">[arekmiazga.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arekmiazga.blogspot.com</span><span class="citation-popover-title">polskie bliskie spotkania iii stopnia</span><span class="citation-popover-snippet">polskie bliskie spotkania iii stopnia</span></span></span>
+**Debunked or seriously challenged claims** include cases where photographic evidence or witness handling became the issue. Zdany is especially useful because it shows that Polish UFO culture is not simply believer versus sceptic; scepticism also comes from within Polish UFO research. Miazga’s critique of the photograph as a staged “two bowls” image is a reminder that local-source reliability must be assessed case by case, not granted automatically because a case is Polish or obscure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arekmiazga.blogspot.com/2015/10/polskie-bliskie-spotkania-iii-stopnia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arekmiazga.blogspot.com">[arekmiazga.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arekmiazga.blogspot.com</span><span class="citation-popover-title">polskie bliskie spotkania iii stopnia</span><span class="citation-popover-snippet">polskie bliskie spotkania iii stopnia</span></span></span>
 
 ## Official records: Poland has incidents, not a public UFO canon
 
 Unlike the United States, Poland does not have a long-running, widely accessible official UFO investigation archive comparable to the best-known American files. Polish public material is instead scattered across parliamentary material, defence statements, news reports, local archives and private UFO collections. The absence of a single public archive matters: it makes Polish cases more vulnerable to repetition, mistranslation and embellishment.
 
-The closest recent move towards official UAP framing is a 2025 petition considered in the Polish Sejm concerning a proposed law on unidentified anomalous aerial phenomena. Sejm pages identify petition BKSP-153-X-802/25 as a petition about such a law, and related reporting says the proposal called for unified reporting procedures for civilian pilots, military pilots and air traffic services, with scientific verification linked to the Polish Space Agency. That is significant as a governance development, but it is not evidence that Poland had confirmed extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sejm.gov.pl/Sejm10.nsf/agent.xsp?NrPetycji=BKSP-153-X-802%2F25&amp;symbol=PETYCJA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sejm.gov.pl">[Sejm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sejm.gov.pl</span><span class="citation-popover-title">Sejm Nr petycji BKSP-153-X-802/25Petycja w sprawie ustawy o niezidentyfikowanych anomalnych zjawiskach powietrznych. Nr BKSP-153-X-802/25</span><span class="citation-popover-snippet">Sejm Nr petycji BKSP-153-X-802/25Petycja w sprawie ustawy o niezidentyfikowanych anomalnych zjawiskach powietrznych. Nr BKSP-153-X-802/25</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sejm.gov.pl/Sejm10.nsf/transmisje_arch.xsp?unid=A520C5EAFB30042FC1258DF00029E8A0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sejm.gov.pl">[Sejm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sejm.gov.pl</span><span class="citation-popover-title">Sejmi TV Sejm</span><span class="citation-popover-snippet">Sejmi TV Sejm</span></span></span>
+The closest recent move towards official UAP framing is a 2025 petition considered in the Polish Sejm concerning a proposed law on unidentified anomalous aerial phenomena. Sejm pages identify petition BKSP-153-X-802/25 as a petition about such a law, and related reporting says the proposal called for unified reporting procedures for civilian pilots, military pilots and air traffic services, with scientific verification linked to the Polish Space Agency. That is significant as a governance development, but it is not evidence that Poland had confirmed extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sejm.gov.pl/Sejm10.nsf/agent.xsp?NrPetycji=BKSP-153-X-802%2F25&amp;symbol=PETYCJA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sejm.gov.pl">[Sejm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sejm.gov.pl</span><span class="citation-popover-title">Sejm Nr petycji BKSP-153-X-802/25Petycja w sprawie ustawy o niezidentyfikowanych anomalnych zjawiskach powietrznych. Nr BKSP-153-X-802/25</span><span class="citation-popover-snippet">Sejm Nr petycji BKSP-153-X-802/25Petycja w sprawie ustawy o niezidentyfikowanych anomalnych zjawiskach powietrznych. Nr BKSP-153-X-802/25</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sejm.gov.pl/Sejm10.nsf/transmisje_arch.xsp?unid=A520C5EAFB30042FC1258DF00029E8A0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sejm.gov.pl">[Sejm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sejm.gov.pl</span><span class="citation-popover-title">Sejmi TV Sejm</span><span class="citation-popover-snippet">Sejmi TV Sejm</span></span></span>
 
 This distinction is crucial for readers comparing Poland with other country branches. A government can discuss reporting procedures because drones, balloons, sensor anomalies and airspace intrusions are real operational problems. That does not imply that historic abduction claims or crash legends have been validated.
 
@@ -1253,11 +1253,11 @@ This distinction is crucial for readers comparing Poland with other country bran
 
 Polish UFO narratives cluster unevenly because sightings follow people, media, terrain and geopolitics as much as they follow the sky.
 
-Eastern and south-eastern Poland now carry special significance because they are close to Ukraine and Belarus. Modern unidentified-object reports in Lublin and other eastern regions often have immediate defence implications: whether an object is a drone, missile, balloon, smuggling device or debris matters for NATO airspace, not just for UFO curiosity. The August 2025 Osiny case, in eastern Poland near the Ukrainian and Belarusian borders, is the clearest example of the new pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/object-that-exploded-polish-field-could-be-drone-or-sabotage-related-defence-2025-08-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+Eastern and south-eastern Poland now carry special significance because they are close to Ukraine and Belarus. Modern unidentified-object reports in Lublin and other eastern regions often have immediate defence implications: whether an object is a drone, missile, balloon, smuggling device or debris matters for NATO airspace, not just for UFO curiosity. The August 2025 Osiny case, in eastern Poland near the Ukrainian and Belarusian borders, is the clearest example of the new pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/object-that-exploded-polish-field-could-be-drone-or-sabotage-related-defence-2025-08-20/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
-Northern Poland has a different texture because of the Baltic coast and the Gdynia legend. Harbour settings lend themselves to stories of objects falling into water, divers, recovered fragments and rumours of official secrecy. But water also makes verification harder: alleged recoveries become easier to mythologise when public documentation is missing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">1959 01 21 poland gdynia</span><span class="citation-popover-snippet">1959 01 21 poland gdynia</span></span></span>
+Northern Poland has a different texture because of the Baltic coast and the Gdynia legend. Harbour settings lend themselves to stories of objects falling into water, divers, recovered fragments and rumours of official secrecy. But water also makes verification harder: alleged recoveries become easier to mythologise when public documentation is missing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-title">1959 01 21 poland gdynia</span><span class="citation-popover-snippet">1959 01 21 poland gdynia</span></span></span>
 
-Rural central and eastern villages, represented most famously by Emilcin, show another pattern: the UFO case becomes tied to memory, place and local identity. In this setting, the question often shifts from “what did radar record?” to “do people believe the witness?” That is why a local remark reported from Emilcin — that people say they believe Wolski, not necessarily UFOs — captures the case’s social power better than any sensational headline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oko.press/nikt-nie-mowi-ze-wierzy-w-ufo-wracamy-do-emilcina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oko.press">[OKO.press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oko.press</span><span class="citation-popover-title">nikt nie mowi ze wierzy w ufo wracamy do emilcina</span><span class="citation-popover-snippet">nikt nie mowi ze wierzy w ufo wracamy do emilcina</span></span></span>
+Rural central and eastern villages, represented most famously by Emilcin, show another pattern: the UFO case becomes tied to memory, place and local identity. In this setting, the question often shifts from “what did radar record?” to “do people believe the witness?” That is why a local remark reported from Emilcin — that people say they believe Wolski, not necessarily UFOs — captures the case’s social power better than any sensational headline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oko.press/nikt-nie-mowi-ze-wierzy-w-ufo-wracamy-do-emilcina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oko.press">[OKO.press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oko.press</span><span class="citation-popover-title">nikt nie mowi ze wierzy w ufo wracamy do emilcina</span><span class="citation-popover-snippet">nikt nie mowi ze wierzy w ufo wracamy do emilcina</span></span></span>
 
 ## Local-source reliability: useful, but easy to overread
 
@@ -1271,15 +1271,15 @@ A practical reliability test for Polish cases is simple:
 * **Has a Polish sceptic or rival investigator challenged the case with specific evidence?**
 * **Does the story grow more elaborate in later versions than in early accounts?**
 
-Emilcin scores well for cultural documentation and witness persistence, but poorly for hard physical proof. Zdany scores poorly once the photographic claim is challenged. Recent drone, missile and balloon incidents score well for official documentation, but their likely explanations are conventional. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://culture.pl/en/article/from-the-archives-of-polish-horror" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culture.pl">[Culture.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culture.pl</span><span class="citation-popover-title">from the archives of polish horror</span><span class="citation-popover-snippet">from the archives of polish horror</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arekmiazga.blogspot.com/2012/01/zdany-nieudolna-mistyfikacja.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arekmiazga.blogspot.com">[arekmiazga.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arekmiazga.blogspot.com</span><span class="citation-popover-title">zdany nieudolna mistyfikacja</span><span class="citation-popover-snippet">zdany nieudolna mistyfikacja</span></span></span>
+Emilcin scores well for cultural documentation and witness persistence, but poorly for hard physical proof. Zdany scores poorly once the photographic claim is challenged. Recent drone, missile and balloon incidents score well for official documentation, but their likely explanations are conventional.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://culture.pl/en/article/from-the-archives-of-polish-horror" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: culture.pl">[Culture.pl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">culture.pl</span><span class="citation-popover-title">from the archives of polish horror</span><span class="citation-popover-snippet">from the archives of polish horror</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arekmiazga.blogspot.com/2012/01/zdany-nieudolna-mistyfikacja.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arekmiazga.blogspot.com">[arekmiazga.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arekmiazga.blogspot.com</span><span class="citation-popover-title">zdany nieudolna mistyfikacja</span><span class="citation-popover-snippet">zdany nieudolna mistyfikacja</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t4RGyeCvHRw" title="Object that exploded in Poland overnight most likely a drone, says defense minister | TVP World News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t4RGyeCvHRw" target="_blank" rel="noopener noreferrer">Object that exploded in Poland overnight most likely a drone, says defense minister | TVP World News</a></p><p class="youtube-embed-meta">Channel: TVP WORLD &middot; Views: 14.4K &middot; Uploaded: August 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t4RGyeCvHRw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t4RGyeCvHRw">Open on YouTube</a></p></div></div></div>
 
 ## Natural and technological explanations are not an afterthought
 
-Many Polish UFO reports are likely to have ordinary causes: aircraft, drones, balloons, satellites, meteors, atmospheric effects or misread distant lights. Polish educational material notes, for example, that lenticular clouds can resemble flying saucers and be mistaken for unidentified flying objects by unwary observers. That point is not a blanket debunking of every report, but it is a reminder that shape alone is weak evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zpe.gov.pl/a/chmury/DRGMOwkUm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zpe.gov.pl">[Zintegrowana Platforma Edukacyjna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zpe.gov.pl</span><span class="citation-popover-title">Zintegrowana Platforma Edukacyjna Chmury</span><span class="citation-popover-snippet">Zintegrowana Platforma Edukacyjna Chmury</span></span></span>
+Many Polish UFO reports are likely to have ordinary causes: aircraft, drones, balloons, satellites, meteors, atmospheric effects or misread distant lights. Polish educational material notes, for example, that lenticular clouds can resemble flying saucers and be mistaken for unidentified flying objects by unwary observers. That point is not a blanket debunking of every report, but it is a reminder that shape alone is weak evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zpe.gov.pl/a/chmury/DRGMOwkUm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zpe.gov.pl">[Zintegrowana Platforma Edukacyjna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zpe.gov.pl</span><span class="citation-popover-title">Zintegrowana Platforma Edukacyjna Chmury</span><span class="citation-popover-snippet">Zintegrowana Platforma Edukacyjna Chmury</span></span></span>
 
-The modern sky is also harder to interpret than the sky of 1978. Drones, balloon platforms, satellite trains and military activity generate more ambiguous observations, while phone cameras often produce poor night footage that looks dramatic but lacks distance, speed and scale. International UAP work has reached similar conclusions: NASA’s 2023 independent study called for rigorous data and better collection methods, while US defence reporting has repeatedly found that many sightings are ordinary objects or phenomena when enough data is available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+The modern sky is also harder to interpret than the sky of 1978. Drones, balloon platforms, satellite trains and military activity generate more ambiguous observations, while phone cameras often produce poor night footage that looks dramatic but lacks distance, speed and scale. International UAP work has reached similar conclusions: NASA’s 2023 independent study called for rigorous data and better collection methods, while US defence reporting has repeatedly found that many sightings are ordinary objects or phenomena when enough data is available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 For Poland, that means the best future evidence would not be another vivid anecdote. It would be synchronised data: radar, optical footage, time stamps, sensor calibration, witness positions, weather, flight tracking and recovery of any debris. Without that, even sincere reports remain difficult to classify.
 
@@ -1296,194 +1296,194 @@ The bottom line is neither dismissal nor belief. Poland has confirmed unidentifi
 <img src="{{ "/assets/images/Poland_5ff03b-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Poland&#x27;s UFO Files? illustration 3" data-theme-src-dark="{{ "/assets/images/Poland_5ff03b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Poland_5ff03b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Poland&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Poland&#x27;s UFO Files?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for evaluating cases such as Emilcin.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for evaluating cases such as Emilcin.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers modern unidentified-object debates relevant to European airspace incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers modern unidentified-object debates relevant to European airspace incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides wider context for serious international UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for serious international UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Fits Poland&#x27;s blend of folklore, rural encounters and unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits Poland&#x27;s blend of folklore, rural encounters and unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-poland-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-poland-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1499,7 +1499,7 @@ The bottom line is neither dismissal nor belief. Poland has confirmed unidentifi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1519,7 +1519,7 @@ The bottom line is neither dismissal nor belief. Poland has confirmed unidentifi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1551,7 +1551,7 @@ The bottom line is neither dismissal nor belief. Poland has confirmed unidentifi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1603,7 +1603,7 @@ The bottom line is neither dismissal nor belief. Poland has confirmed unidentifi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1648,7 +1648,7 @@ The bottom line is neither dismissal nor belief. Poland has confirmed unidentifi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1686,194 +1686,193 @@ The bottom line is neither dismissal nor belief. Poland has confirmed unidentifi
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: culture.pl  
    Title: the emilcin incident a polish encounter of the fourth kind  
-   Link: <a href="https://culture.pl/en/article/the-emilcin-incident-a-polish-encounter-of-the-fourth-kind" target="_blank" rel="noopener noreferrer nofollow">https://culture.pl/en/article/the-emilcin-incident-a-polish-encounter-of-the-fourth-kind</a>  
+   Link:<a href="https://culture.pl/en/article/the-emilcin-incident-a-polish-encounter-of-the-fourth-kind" target="_blank" rel="noopener noreferrer nofollow">https://culture.pl/en/article/the-emilcin-incident-a-polish-encounter-of-the-fourth-kind</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: unidentified object entered poland direction ukraine says polish army 2023 12 29  
-   Link: <a href="https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oko.press  
    Title: nikt nie mowi ze wierzy w ufo wracamy do emilcina  
-   Link: <a href="https://oko.press/nikt-nie-mowi-ze-wierzy-w-ufo-wracamy-do-emilcina" target="_blank" rel="noopener noreferrer nofollow">https://oko.press/nikt-nie-mowi-ze-wierzy-w-ufo-wracamy-do-emilcina</a>  
+   Link:<a href="https://oko.press/nikt-nie-mowi-ze-wierzy-w-ufo-wracamy-do-emilcina" target="_blank" rel="noopener noreferrer nofollow">https://oko.press/nikt-nie-mowi-ze-wierzy-w-ufo-wracamy-do-emilcina</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Emilcin Abduction  
-   Link: <a href="https://en.wikipedia.org/wiki/Emilcin_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Emilcin_Abduction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Emilcin_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Emilcin_Abduction</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO sightings in Poland  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Poland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Poland</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufologie.patrickgross.org  
    Title: 1959 01 21 poland gdynia  
-   Link: <a href="https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm</a>  
+   Link:<a href="https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/ce3/1959-01-21-poland-gdynia.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arekmiazga.blogspot.com  
    Title: zdany nieudolna mistyfikacja  
-   Link: <a href="https://arekmiazga.blogspot.com/2012/01/zdany-nieudolna-mistyfikacja.html" target="_blank" rel="noopener noreferrer nofollow">https://arekmiazga.blogspot.com/2012/01/zdany-nieudolna-mistyfikacja.html</a>  
+   Link:<a href="https://arekmiazga.blogspot.com/2012/01/zdany-nieudolna-mistyfikacja.html" target="_blank" rel="noopener noreferrer nofollow">https://arekmiazga.blogspot.com/2012/01/zdany-nieudolna-mistyfikacja.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/russian-drone-fell-eastern-poland-warsaw-says-2025-08-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/russian-drone-fell-eastern-poland-warsaw-says-2025-08-20/</a>  
+   Link:<a href="https://www.reuters.com/world/russian-drone-fell-eastern-poland-warsaw-says-2025-08-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/russian-drone-fell-eastern-poland-warsaw-says-2025-08-20/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/europe/drone-that-fell-poland-probably-came-direction-belarus-prosecutor-says-2025-08-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/drone-that-fell-poland-probably-came-direction-belarus-prosecutor-says-2025-08-21/</a>  
+   Link:<a href="https://www.reuters.com/world/europe/drone-that-fell-poland-probably-came-direction-belarus-prosecutor-says-2025-08-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/drone-that-fell-poland-probably-came-direction-belarus-prosecutor-says-2025-08-21/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/world/object-that-exploded-polish-field-could-be-drone-or-sabotage-related-defence-2025-08-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/object-that-exploded-polish-field-could-be-drone-or-sabotage-related-defence-2025-08-20/</a>  
+   Link:<a href="https://www.reuters.com/world/object-that-exploded-polish-field-could-be-drone-or-sabotage-related-defence-2025-08-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/object-that-exploded-polish-field-could-be-drone-or-sabotage-related-defence-2025-08-20/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: UFO w Emilcinie  
-   Link: <a href="https://pl.wikipedia.org/wiki/UFO_w_Emilcinie" target="_blank" rel="noopener noreferrer nofollow">https://pl.wikipedia.org/wiki/UFO_w_Emilcinie</a>  
+   Link:<a href="https://pl.wikipedia.org/wiki/UFO_w_Emilcinie" target="_blank" rel="noopener noreferrer nofollow">https://pl.wikipedia.org/wiki/UFO_w_Emilcinie</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Violations_of_non-combatant_airspace_during_the_Russo-Ukrainian_war_%282022%E2%80%93present%29</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: 2025 Russian drone incursion into Poland  
-   Link: <a href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/graphics/UKRAINE-CRISIS/POLAND-BLAST/xmvjkokgzpr/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/graphics/UKRAINE-CRISIS/POLAND-BLAST/xmvjkokgzpr/</a>  
+   Link:<a href="https://www.reuters.com/graphics/UKRAINE-CRISIS/POLAND-BLAST/xmvjkokgzpr/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/graphics/UKRAINE-CRISIS/POLAND-BLAST/xmvjkokgzpr/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: arekmiazga.blogspot.com  
    Title: polskie bliskie spotkania iii stopnia  
-   Link: <a href="https://arekmiazga.blogspot.com/2015/10/polskie-bliskie-spotkania-iii-stopnia.html" target="_blank" rel="noopener noreferrer nofollow">https://arekmiazga.blogspot.com/2015/10/polskie-bliskie-spotkania-iii-stopnia.html</a>  
+   Link:<a href="https://arekmiazga.blogspot.com/2015/10/polskie-bliskie-spotkania-iii-stopnia.html" target="_blank" rel="noopener noreferrer nofollow">https://arekmiazga.blogspot.com/2015/10/polskie-bliskie-spotkania-iii-stopnia.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
+   Link:<a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: culture.pl  
    Title: from the archives of polish horror  
-   Link: <a href="https://culture.pl/en/article/from-the-archives-of-polish-horror" target="_blank" rel="noopener noreferrer nofollow">https://culture.pl/en/article/from-the-archives-of-polish-horror</a>  
+   Link:<a href="https://culture.pl/en/article/from-the-archives-of-polish-horror" target="_blank" rel="noopener noreferrer nofollow">https://culture.pl/en/article/from-the-archives-of-polish-horror</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/a1edac1401e5f8be4d72488518287281" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a1edac1401e5f8be4d72488518287281</a>  
+   Link:<a href="https://apnews.com/article/a1edac1401e5f8be4d72488518287281" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a1edac1401e5f8be4d72488518287281</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: zpe.gov.pl  
    Title: Zintegrowana Platforma Edukacyjna Chmury  
-   Link: <a href="https://zpe.gov.pl/a/chmury/DRGMOwkUm" target="_blank" rel="noopener noreferrer nofollow">https://zpe.gov.pl/a/chmury/DRGMOwkUm</a>  
+   Link:<a href="https://zpe.gov.pl/a/chmury/DRGMOwkUm" target="_blank" rel="noopener noreferrer nofollow">https://zpe.gov.pl/a/chmury/DRGMOwkUm</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/436449473535787/posts/540837443096989/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/436449473535787/posts/540837443096989/</a>  
+   Link:<a href="https://www.facebook.com/groups/436449473535787/posts/540837443096989/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/436449473535787/posts/540837443096989/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reutersconnect.com  
-   Link: <a href="https://www.reutersconnect.com/item/an-unidentified-object-fell-and-exploded-in-a-cornfield-overnight-in-eastern-poland/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMllBR0FZUFdDSA" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/an-unidentified-object-fell-and-exploded-in-a-cornfield-overnight-in-eastern-poland/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMllBR0FZUFdDSA</a>  
+   Link:<a href="https://www.reutersconnect.com/item/an-unidentified-object-fell-and-exploded-in-a-cornfield-overnight-in-eastern-poland/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMllBR0FZUFdDSA" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/an-unidentified-object-fell-and-exploded-in-a-cornfield-overnight-in-eastern-poland/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMllBR0FZUFdDSA</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/poland-crash-explosion-unidentified-flying-object-84f14e0b36271ad64cc4929751602f2b" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/poland-crash-explosion-unidentified-flying-object-84f14e0b36271ad64cc4929751602f2b</a>  
+   Link:<a href="https://apnews.com/article/poland-crash-explosion-unidentified-flying-object-84f14e0b36271ad64cc4929751602f2b" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/poland-crash-explosion-unidentified-flying-object-84f14e0b36271ad64cc4929751602f2b</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sT1_9jEryg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sT1_9jEryg0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hot pink &#x27;UFO&#x27; whizzes past Poland-bound airplane, flight attendant video shows...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sT1_9jEryg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sT1_9jEryg0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hot pink &#x27;UFO&#x27; whizzes past Poland-bound airplane, flight attendant video shows...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pV03TEUoo-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pV03TEUoo-M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXPLANATION of the Emilcin UFO incident part 1/2 (uncritical)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pV03TEUoo-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pV03TEUoo-M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXPLANATION of the Emilcin UFO incident part 1/2 (uncritical)...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Wylatowo – the failed Polish Roswell  
-   Link: <a href="https://www.youtube.com/watch?v=KlYNnIPtyrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KlYNnIPtyrE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>F-16 Pilot Reveals the Truth About UFOs First Time on Polish YouTube! Chris Lehto...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KlYNnIPtyrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KlYNnIPtyrE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>F-16 Pilot Reveals the Truth About UFOs First Time on Polish YouTube! Chris Lehto...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tvpworldcom/posts/a-mysterious-object-that-hit-a-village-in-eastern-poland-100-km-from-the-ukraini/1374163178045671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tvpworldcom/posts/a-mysterious-object-that-hit-a-village-in-eastern-poland-100-km-from-the-ukraini/1374163178045671/</a>  
+   Link:<a href="https://www.facebook.com/tvpworldcom/posts/a-mysterious-object-that-hit-a-village-in-eastern-poland-100-km-from-the-ukraini/1374163178045671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tvpworldcom/posts/a-mysterious-object-that-hit-a-village-in-eastern-poland-100-km-from-the-ukraini/1374163178045671/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheIndependentOnline/posts/a-village-in-poland-has-been-struck-but-an-unidentified-flying-object/1275183807970943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheIndependentOnline/posts/a-village-in-poland-has-been-struck-but-an-unidentified-flying-object/1275183807970943/</a>  
+   Link:<a href="https://www.facebook.com/TheIndependentOnline/posts/a-village-in-poland-has-been-struck-but-an-unidentified-flying-object/1275183807970943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheIndependentOnline/posts/a-village-in-poland-has-been-struck-but-an-unidentified-flying-object/1275183807970943/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gk1q8s/amazing_night_over_poland_hundreds_of_reports_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gk1q8s/amazing_night_over_poland_hundreds_of_reports_and/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gk1q8s/amazing_night_over_poland_hundreds_of_reports_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gk1q8s/amazing_night_over_poland_hundreds_of_reports_and/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gleanerjamaica/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518923671531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518923671531/</a>  
+   Link:<a href="https://www.facebook.com/gleanerjamaica/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518923671531/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gleanerjamaica/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1085518923671531/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newshour/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1231619625499948/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1231619625499948/</a>  
+   Link:<a href="https://www.facebook.com/newshour/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1231619625499948/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/an-unidentified-flying-object-crashed-into-a-cornfield-and-exploded-in-eastern-p/1231619625499948/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DTyCPv6jMNj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTyCPv6jMNj/</a>
+   Link:<a href="https://www.instagram.com/p/DTyCPv6jMNj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTyCPv6jMNj/</a>

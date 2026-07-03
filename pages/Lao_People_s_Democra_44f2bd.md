@@ -1194,22 +1194,22 @@ image: /assets/images/Lao_People_s_Democra_44f2bd-overview-social.jpg
 
 ## What the public record actually contains
 
-The most accessible modern database trail is sparse. The National UFO Reporting Center’s country index lists Laos with only two reports, a tiny count compared with neighbouring or larger reporting regions, and this already signals a major limitation: the database reflects voluntary reporting to a United States-based organisation, not a systematic survey of Lao skies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The most accessible modern database trail is sparse. The National UFO Reporting Center’s country index lists Laos with only two reports, a tiny count compared with neighbouring or larger reporting regions, and this already signals a major limitation: the database reflects voluntary reporting to a United States-based organisation, not a systematic survey of Lao skies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/Lao_People_s_Democra_44f2bd-overview.webp" | relative_url }}" alt="Overview image for Lao People s Democratic Republic" loading="eager" decoding="sync" fetchpriority="high">
-One of the two public NUFORC-linked Laos cases is a retrospective report of a triangular object allegedly seen between Caxi and Luang Prabang in late May 1995. The witnesses reported a silent triangular craft with flashing lights, seen at about 3 a.m. from a mountain plateau, followed by a sudden departure across the sky. The case was not reported until 2011, roughly sixteen years after the event, and the witness explicitly stated that no photograph was taken. That does not make the account false, but it places it in the “contested anecdote” category rather than the “well-corroborated incident” category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=83150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+One of the two public NUFORC-linked Laos cases is a retrospective report of a triangular object allegedly seen between Caxi and Luang Prabang in late May 1995. The witnesses reported a silent triangular craft with flashing lights, seen at about 3 a.m. from a mountain plateau, followed by a sudden departure across the sky. The case was not reported until 2011, roughly sixteen years after the event, and the witness explicitly stated that no photograph was taken. That does not make the account false, but it places it in the “contested anecdote” category rather than the “well-corroborated incident” category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=83150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The open record also includes a wartime intelligence case from November and December 1968, acquired at Vientiane and concerning Laos and Thailand. The report describes radar returns, night visual searches by helicopters, and later “high wing single engine” sightings in southern Laos. Its value is that it is contemporary, official, and operational rather than folkloric. Its limitation is equally important: it was not an alien-technology document. It was a military assessment of possible unknown aircraft or helicopters in a contested regional airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
+The open record also includes a wartime intelligence case from November and December 1968, acquired at Vientiane and concerning Laos and Thailand. The report describes radar returns, night visual searches by helicopters, and later “high wing single engine” sightings in southern Laos. Its value is that it is contemporary, official, and operational rather than folkloric. Its limitation is equally important: it was not an alien-technology document. It was a military assessment of possible unknown aircraft or helicopters in a contested regional airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
 
 ## The 1968 Laos-Thailand “unknowns” are the key official case
 
-The 1968 Department of Defense intelligence report is the strongest Laos-related UFO document located in open sources. It was titled “Unidentified Flying Objects”, listed the country field as Laos/Thailand, named Vientiane as the place and date of acquisition, and gave November to December 1968 as the information period. The report opened with a Nakhon Phanom radar-controlled alert: two low, slow-moving objects were reported approximately east of the base, helicopter searches were launched, and no visual sightings were made in that first sequence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
+The 1968 Department of Defense intelligence report is the strongest Laos-related UFO document located in open sources. It was titled “Unidentified Flying Objects”, listed the country field as Laos/Thailand, named Vientiane as the place and date of acquisition, and gave November to December 1968 as the information period. The report opened with a Nakhon Phanom radar-controlled alert: two low, slow-moving objects were reported approximately east of the base, helicopter searches were launched, and no visual sightings were made in that first sequence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
 
-The continuation pages show why this case is more useful as an airspace-intelligence example than as a mystery tale. The report discussed multiple possible causes of returns and sightings, including natural or cultural phenomena such as birds and kites, as well as local helicopter operations that might not have been promptly reported to all relevant authorities. It also noted that night flights by Thai and local forces could be informal or autonomous, making later correlation difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
+The continuation pages show why this case is more useful as an airspace-intelligence example than as a mystery tale. The report discussed multiple possible causes of returns and sightings, including natural or cultural phenomena such as birds and kites, as well as local helicopter operations that might not have been promptly reported to all relevant authorities. It also noted that night flights by Thai and local forces could be informal or autonomous, making later correlation difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
 
-By the end of the report, the assessment had narrowed. It stated that there was no confirmed evidence that hostile aircraft or helicopters had penetrated Thai airspace in support of insurgent or communist activity, and it judged some of the sightings near Nakhon Phanom unlikely to involve hostile or unfriendly activity. It did, however, recommend continued monitoring for signs of hostile intent. That is a classic “not fully identified, but not extraordinary” outcome: the sightings were operationally relevant, but the official analysis did not elevate them into evidence of exotic technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
+By the end of the report, the assessment had narrowed. It stated that there was no confirmed evidence that hostile aircraft or helicopters had penetrated Thai airspace in support of insurgent or communist activity, and it judged some of the sightings near Nakhon Phanom unlikely to involve hostile or unfriendly activity. It did, however, recommend continued monitoring for signs of hostile intent. That is a classic “not fully identified, but not extraordinary” outcome: the sightings were operationally relevant, but the official analysis did not elevate them into evidence of exotic technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
 
-This matters for Laos because the country’s best-documented “UFO” material sits inside the history of the Second Indochina War and the highly militarised skies around Laos, Thailand, and Vietnam. Declassified United States Air Force histories show that Laos was a major covert air-war theatre, with CIA-linked air activity, Air America operations, reconnaissance, air strikes, and complicated command relationships running through Vientiane and other regional nodes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB248/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In that environment, “unidentified” could mean unidentified to a particular observer or radar operator, not necessarily inexplicable in the wider system.
+This matters for Laos because the country’s best-documented “UFO” material sits inside the history of the Second Indochina War and the highly militarised skies around Laos, Thailand, and Vietnam. Declassified United States Air Force histories show that Laos was a major covert air-war theatre, with CIA-linked air activity, Air America operations, reconnaissance, air strikes, and complicated command relationships running through Vientiane and other regional nodes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB248/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In that environment, “unidentified” could mean unidentified to a particular observer or radar operator, not necessarily inexplicable in the wider system.
 
 <img src="{{ "/assets/images/Lao_People_s_Democra_44f2bd-Illustration-1-dark.svg" | relative_url }}" alt="Lao People s Democratic Republic illustration 1" data-theme-src-dark="{{ "/assets/images/Lao_People_s_Democra_44f2bd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lao_People_s_Democra_44f2bd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Laos produces so few public UFO reports
@@ -1224,22 +1224,22 @@ There is also a translation problem. Search results in Lao-language material sho
 
 ## Regional variation: mountains, borders, tourist skies, and the Mekong
 
-The limited reports cluster around places where outsiders, travellers, or military observers were likely to notice and document the sky. The 1995 NUFORC case is tied to the mountainous route between Caxi and Luang Prabang, with a clear-night observation from a plateau. That setting gives the report texture, but it also increases ambiguity: distance, elevation, fatigue, unfamiliar aircraft lights, and lack of photographic reference all make size and speed difficult to judge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=156764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The limited reports cluster around places where outsiders, travellers, or military observers were likely to notice and document the sky. The 1995 NUFORC case is tied to the mountainous route between Caxi and Luang Prabang, with a clear-night observation from a plateau. That setting gives the report texture, but it also increases ambiguity: distance, elevation, fatigue, unfamiliar aircraft lights, and lack of photographic reference all make size and speed difficult to judge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=156764" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The 1968 official material is regionally different. It belongs to the Laos-Thailand border-war environment, especially around Nakhon Phanom and southern Laos, where radar coverage, helicopter movements, local security operations, and cross-border conflict concerns overlapped. The report’s discussion of unfiled or poorly coordinated friendly helicopter activity is particularly important because it shows how “unknown” can arise from bureaucracy and communication gaps as much as from anything physically strange. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
+The 1968 official material is regionally different. It belongs to the Laos-Thailand border-war environment, especially around Nakhon Phanom and southern Laos, where radar coverage, helicopter movements, local security operations, and cross-border conflict concerns overlapped. The report’s discussion of unfiled or poorly coordinated friendly helicopter activity is particularly important because it shows how “unknown” can arise from bureaucracy and communication gaps as much as from anything physically strange.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
 
-Modern Vientiane, Luang Prabang, and Vang Vieng introduce another layer: drones and tourism imagery. The Lao Trade Portal states that drones weighing more than 200 grams require permission involving the Department of Civil Aviation and frequency certification, and the Department of Civil Aviation says it is responsible for UAV regulation within Lao airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laotradeportal.gov.la/en-gb/site/display/1861" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laotradeportal.gov.la">[Trade Information Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laotradeportal.gov.la</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This does not explain older reports, but it matters for current sightings: a hovering light above a river town or tourist viewpoint may now be a camera drone, even if it looks unusual to people below.
+Modern Vientiane, Luang Prabang, and Vang Vieng introduce another layer: drones and tourism imagery. The Lao Trade Portal states that drones weighing more than 200 grams require permission involving the Department of Civil Aviation and frequency certification, and the Department of Civil Aviation says it is responsible for UAV regulation within Lao airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laotradeportal.gov.la/en-gb/site/display/1861" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laotradeportal.gov.la">[Trade Information Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laotradeportal.gov.la</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This does not explain older reports, but it matters for current sightings: a hovering light above a river town or tourist viewpoint may now be a camera drone, even if it looks unusual to people below.
 
 <img src="{{ "/assets/images/Lao_People_s_Democra_44f2bd-Illustration-2-dark.svg" | relative_url }}" alt="Lao People s Democratic Republic illustration 2" data-theme-src-dark="{{ "/assets/images/Lao_People_s_Democra_44f2bd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lao_People_s_Democra_44f2bd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested, and debunked claims
 
 A useful Laos page needs to separate “unidentified” from “extraordinary”. The available evidence falls into three broad credibility bands.
 
-**Confirmed official material:** The 1968 defence intelligence report is a real official document concerning unidentified flying objects in the Laos/Thailand operational area. It confirms that radar and visual anomalies were taken seriously enough to be written up. It does not confirm alien craft, advanced non-human technology, or a uniquely Lao extraterrestrial incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
+**Confirmed official material:** The 1968 defence intelligence report is a real official document concerning unidentified flying objects in the Laos/Thailand operational area. It confirms that radar and visual anomalies were taken seriously enough to be written up. It does not confirm alien craft, advanced non-human technology, or a uniquely Lao extraterrestrial incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
 
-**Contested witness reports:** The 1995 Caxi/Luang Prabang triangular-object account is a detailed witness narrative, but it is late-reported, lacks photographs, and has no independent documentation in the open source record reviewed here. Its value is as a reported experience, not as a resolved case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+**Contested witness reports:** The 1995 Caxi/Luang Prabang triangular-object account is a detailed witness narrative, but it is late-reported, lacks photographs, and has no independent documentation in the open source record reviewed here. Its value is as a reported experience, not as a resolved case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-**Explained or partly explained “unknowns”:** The 1968 report did not fully identify every return, but it pointed towards conventional explanations and judged hostile aircraft penetration unlikely. It also mentioned birds, kites, weather-distorted radar returns, local helicopter operations, and unreported friendly flights as relevant possibilities. That makes it closer to a partial debunking of hostile or exotic interpretations than a validation of UFO folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
+**Explained or partly explained “unknowns”:** The 1968 report did not fully identify every return, but it pointed towards conventional explanations and judged hostile aircraft penetration unlikely. It also mentioned birds, kites, weather-distorted radar returns, local helicopter operations, and unreported friendly flights as relevant possibilities. That makes it closer to a partial debunking of hostile or exotic interpretations than a validation of UFO folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span>
 
 There is no strong public Laos case comparable to famous multi-witness, radar-confirmed, media-covered UFO incidents elsewhere. There is also no accessible official Lao government release found here that establishes a national UAP investigation programme or a declassified archive of Lao UFO files.
 
@@ -1247,18 +1247,18 @@ There is no strong public Laos case comparable to famous multi-witness, radar-co
 
 ## How the wider UFO research context changes the Laos assessment
 
-The Laos record should be read against broader official UAP findings, not isolated from them. NASA’s 2023 independent UAP study framed the subject as a data problem requiring rigorous, evidence-based methods and better data acquisition, rather than as a field already supported by strong proof of extraordinary origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> The United States All-domain Anomaly Resolution Office states that it has found no evidence of extraterrestrial technology, while acknowledging that examination of UAP sightings is ongoing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+The Laos record should be read against broader official UAP findings, not isolated from them. NASA’s 2023 independent UAP study framed the subject as a data problem requiring rigorous, evidence-based methods and better data acquisition, rather than as a field already supported by strong proof of extraordinary origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> The United States All-domain Anomaly Resolution Office states that it has found no evidence of extraterrestrial technology, while acknowledging that examination of UAP sightings is ongoing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-Historical United States records also help explain why some Laos-related material can look more mysterious than it is. A CIA historical study notes that the agency’s early Cold War concern about UFOs was substantial in the early 1950s but later became limited and peripheral; it also shows that secret aircraft programmes such as the U-2 contributed to UFO reporting in other contexts because observers were seeing real but undisclosed technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For Laos, this lesson is especially relevant because the country’s war-era airspace was crowded with covert and semi-covert activity. The fact that something was unidentified to an observer does not automatically make it anomalous in the stronger sense.
+Historical United States records also help explain why some Laos-related material can look more mysterious than it is. A CIA historical study notes that the agency’s early Cold War concern about UFOs was substantial in the early 1950s but later became limited and peripheral; it also shows that secret aircraft programmes such as the U-2 contributed to UFO reporting in other contexts because observers were seeing real but undisclosed technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For Laos, this lesson is especially relevant because the country’s war-era airspace was crowded with covert and semi-covert activity. The fact that something was unidentified to an observer does not automatically make it anomalous in the stronger sense.
 
-Declassified Air Force histories reinforce that point. Laos was not a quiet backdrop; it was a dense covert air-war theatre in which the CIA, Air America, United States airpower, Lao government forces, Thai involvement, reconnaissance, and search-and-rescue activity intersected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB248/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Any unexplained 1960s aerial report from that region must therefore be weighed first against ordinary military and intelligence explanations.
+Declassified Air Force histories reinforce that point. Laos was not a quiet backdrop; it was a dense covert air-war theatre in which the CIA, Air America, United States airpower, Lao government forces, Thai involvement, reconnaissance, and search-and-rescue activity intersected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB248/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Any unexplained 1960s aerial report from that region must therefore be weighed first against ordinary military and intelligence explanations.
 
 <img src="{{ "/assets/images/Lao_People_s_Democra_44f2bd-Illustration-3-dark.svg" | relative_url }}" alt="Lao People s Democratic Republic illustration 3" data-theme-src-dark="{{ "/assets/images/Lao_People_s_Democra_44f2bd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lao_People_s_Democra_44f2bd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What would make a Lao UFO case stronger
 
 Because the current Laos record is thin, the most useful standard is not belief or disbelief but evidence quality. A stronger case would need a precise date and time, a clear location, weather and visibility data, direction of travel, duration, elevation angle, independent witnesses, original photographs or video with metadata, and checks against aircraft, drones, satellites, balloons, meteors, lanterns, and military activity.
 
-For current sightings, the first checks would include civil aviation activity, drone operations, known satellite passes, meteor reports, and local event or festival lighting. Drone regulation is especially relevant because Lao authorities already treat UAVs as a formal airspace and frequency-management issue, not as toys once they exceed the stated threshold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laotradeportal.gov.la/en-gb/site/display/1861" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laotradeportal.gov.la">[Trade Information Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laotradeportal.gov.la</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For older sightings, the key checks are harder: archived newspapers, aviation logs, military records, embassy cables, and local oral histories would be needed, and many may be inaccessible, uncatalogued, or never created.
+For current sightings, the first checks would include civil aviation activity, drone operations, known satellite passes, meteor reports, and local event or festival lighting. Drone regulation is especially relevant because Lao authorities already treat UAVs as a formal airspace and frequency-management issue, not as toys once they exceed the stated threshold.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laotradeportal.gov.la/en-gb/site/display/1861" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laotradeportal.gov.la">[Trade Information Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laotradeportal.gov.la</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For older sightings, the key checks are harder: archived newspapers, aviation logs, military records, embassy cables, and local oral histories would be needed, and many may be inaccessible, uncatalogued, or never created.
 
 This is also where sibling country pages in the same Southeast Asia UFO project can usefully connect. Thailand, Vietnam, Cambodia, and China-border cases may help interpret cross-border lights, wartime air activity, Mekong-region folklore, and modern drone or lantern explanations. The comparison should remain careful: Laos should not inherit stronger claims from neighbouring countries simply because they share geography.
 
@@ -1266,197 +1266,197 @@ This is also where sibling country pages in the same Southeast Asia UFO project 
 
 ## Bottom line for the Lao People’s Democratic Republic
 
-The Lao People’s Democratic Republic has a small, fragmented public UFO record. The best-documented material is a 1968 United States defence intelligence report about unidentified aerial activity in the Laos-Thailand theatre, and its own analysis leans towards conventional operational explanations rather than anything exotic. The most vivid modern-style case is the late-reported 1995 triangular-object sighting near Luang Prabang, but it remains an uncorroborated witness account. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span> The responsible reading is therefore restrained: Laos has UFO reports in the literal sense of unidentified or initially unexplained aerial observations, but the accessible evidence does not support confirmed extraterrestrial, non-human, or advanced unknown craft claims. What it does support is a more grounded story about difficult skies: war-era secrecy, mountainous terrain, border operations, sparse documentation, drones, and the ordinary human challenge of judging unfamiliar lights at night.
+The Lao People’s Democratic Republic has a small, fragmented public UFO record. The best-documented material is a 1968 United States defence intelligence report about unidentified aerial activity in the Laos-Thailand theatre, and its own analysis leans towards conventional operational explanations rather than anything exotic. The most vivid modern-style case is the late-reported 1995 triangular-object sighting near Luang Prabang, but it remains an uncorroborated witness account. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">681128nakhon docs</span><span class="citation-popover-snippet">681128nakhon docs</span></span></span> The responsible reading is therefore restrained: Laos has UFO reports in the literal sense of unidentified or initially unexplained aerial observations, but the accessible evidence does not support confirmed extraterrestrial, non-human, or advanced unknown craft claims. What it does support is a more grounded story about difficult skies: war-era secrecy, mountainous terrain, border operations, sparse documentation, drones, and the ordinary human challenge of judging unfamiliar lights at night.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What UFO Reports Reveal About Laos’ Skies. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What UFO Reports Reveal About Laos’ Skies. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for assessing thin evidence and witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for assessing thin evidence and witness reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Relevant to military and official handling of unidentified aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to military and official handling of unidentified aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits a page focused on evaluating sparse public records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page focused on evaluating sparse public records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides wider cultural context for unusual aerial stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider cultural context for unusual aerial stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-ufo-reports-reveal-about-laos-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-ufo-reports-reveal-about-laos-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1472,7 +1472,7 @@ The Lao People’s Democratic Republic has a small, fragmented public UFO record
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1492,7 +1492,7 @@ The Lao People’s Democratic Republic has a small, fragmented public UFO record
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1524,7 +1524,7 @@ The Lao People’s Democratic Republic has a small, fragmented public UFO record
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1576,7 +1576,7 @@ The Lao People’s Democratic Republic has a small, fragmented public UFO record
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1621,7 +1621,7 @@ The Lao People’s Democratic Republic has a small, fragmented public UFO record
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1659,141 +1659,140 @@ The Lao People’s Democratic Republic has a small, fragmented public UFO record
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nicap.org  
    Title: 681128nakhon docs  
-   Link: <a href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/681128nakhon_docs.pdf</a>  
+   Link:<a href="https://www.nicap.org/docs/681128nakhon_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/681128nakhon_docs.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=83150" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=83150</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=83150" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=83150</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
+   Link:<a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=156764" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=156764</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=156764" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=156764</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: media.defense.gov  
    Title: AFD 110323 040  
-   Link: <a href="https://media.defense.gov/2011/Mar/23/2001330095/-1/-1/0/AFD-110323-040.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2011/Mar/23/2001330095/-1/-1/0/AFD-110323-040.pdf</a>  
+   Link:<a href="https://media.defense.gov/2011/Mar/23/2001330095/-1/-1/0/AFD-110323-040.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2011/Mar/23/2001330095/-1/-1/0/AFD-110323-040.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: westyorkshire.police.uk  
    Title: february 2026 foi 2852534 26 ufo sightings  
-   Link: <a href="https://www.westyorkshire.police.uk/freedom-of-information/february-2026-foi-2852534-26-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.westyorkshire.police.uk/freedom-of-information/february-2026-foi-2852534-26-ufo-sightings</a>  
+   Link:<a href="https://www.westyorkshire.police.uk/freedom-of-information/february-2026-foi-2852534-26-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.westyorkshire.police.uk/freedom-of-information/february-2026-foi-2852534-26-ufo-sightings</a>  
    Published: february 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100070021 2  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070021-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070021-2.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070021-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100070021-2.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: time.com  
-   Link: <a href="https://time.com/archive/6634321/laos-the-unseen-presence/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6634321/laos-the-unseen-presence/</a>  
+   Link:<a href="https://time.com/archive/6634321/laos-the-unseen-presence/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6634321/laos-the-unseen-presence/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nsarchive2.gwu.edu  
-   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB248/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB248/index.htm</a>  
+   Link:<a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB248/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB248/index.htm</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: laotradeportal.gov.la  
-   Link: <a href="https://www.laotradeportal.gov.la/en-gb/site/display/1861" target="_blank" rel="noopener noreferrer nofollow">https://www.laotradeportal.gov.la/en-gb/site/display/1861</a>  
+   Link:<a href="https://www.laotradeportal.gov.la/en-gb/site/display/1861" target="_blank" rel="noopener noreferrer nofollow">https://www.laotradeportal.gov.la/en-gb/site/display/1861</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bitget.com  
-   Link: <a href="https://www.bitget.com/how-to-buy/ufo/laos" target="_blank" rel="noopener noreferrer nofollow">https://www.bitget.com/how-to-buy/ufo/laos</a>  
+   Link:<a href="https://www.bitget.com/how-to-buy/ufo/laos" target="_blank" rel="noopener noreferrer nofollow">https://www.bitget.com/how-to-buy/ufo/laos</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: biotech.law.lsu.edu  
    Title: air america  
-   Link: <a href="https://biotech.law.lsu.edu/cases/nat-sec/Vietnam/air-america.htm" target="_blank" rel="noopener noreferrer nofollow">https://biotech.law.lsu.edu/cases/nat-sec/Vietnam/air-america.htm</a>  
+   Link:<a href="https://biotech.law.lsu.edu/cases/nat-sec/Vietnam/air-america.htm" target="_blank" rel="noopener noreferrer nofollow">https://biotech.law.lsu.edu/cases/nat-sec/Vietnam/air-america.htm</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wW0kT-6qYf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wW0kT-6qYf4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laos: The Forgotten GIs | ARTE.tv Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wW0kT-6qYf4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wW0kT-6qYf4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laos: The Forgotten GIs | ARTE.tv Documentary...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheNationThailand/posts/fireball-appears-over-thai-sky-causes-loud-noise-a-green-fireball-streaked-acros/1168114635341869/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationThailand/posts/fireball-appears-over-thai-sky-causes-loud-noise-a-green-fireball-streaked-acros/1168114635341869/</a>  
+   Link:<a href="https://www.facebook.com/TheNationThailand/posts/fireball-appears-over-thai-sky-causes-loud-noise-a-green-fireball-streaked-acros/1168114635341869/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationThailand/posts/fireball-appears-over-thai-sky-causes-loud-noise-a-green-fireball-streaked-acros/1168114635341869/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/</a>  
+   Link:<a href="https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/785587909761961/posts/1514435526877192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/785587909761961/posts/1514435526877192/</a>  
+   Link:<a href="https://www.facebook.com/groups/785587909761961/posts/1514435526877192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/785587909761961/posts/1514435526877192/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYFSm2OCiU9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYFSm2OCiU9/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYFSm2OCiU9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYFSm2OCiU9/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: type-together.com  
-   Link: <a href="https://www.type-together.com/resources/_pdfs/DS_Adelle_Sans_LAO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.type-together.com/resources/_pdfs/DS_Adelle_Sans_LAO.pdf</a>  
+   Link:<a href="https://www.type-together.com/resources/_pdfs/DS_Adelle_Sans_LAO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.type-together.com/resources/_pdfs/DS_Adelle_Sans_LAO.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/</a>  
+   Link:<a href="https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DJ1ZAmszvUN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJ1ZAmszvUN/</a>  
+   Link:<a href="https://www.instagram.com/reel/DJ1ZAmszvUN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJ1ZAmszvUN/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: southeastasiabackpacker.com  
-   Link: <a href="https://southeastasiabackpacker.com/destinations/laos-2/drones/" target="_blank" rel="noopener noreferrer nofollow">https://southeastasiabackpacker.com/destinations/laos-2/drones/</a>
+   Link:<a href="https://southeastasiabackpacker.com/destinations/laos-2/drones/" target="_blank" rel="noopener noreferrer nofollow">https://southeastasiabackpacker.com/destinations/laos-2/drones/</a>

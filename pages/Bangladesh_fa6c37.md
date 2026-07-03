@@ -1199,15 +1199,15 @@ For this page, a “UFO” means an unidentified flying object or, in current of
 <img src="{{ "/assets/images/Bangladesh_fa6c37-overview.webp" | relative_url }}" alt="Overview image for Bangladesh" loading="eager" decoding="sync" fetchpriority="high">
 The available Bangladesh material falls into three broad categories. First are civilian UFO database entries, such as National UFO Reporting Center-style reports from Dhaka and small entries on worldwide UFO-reporting sites. Secondly, there are local or regional media stories in which “UFO” is used as a temporary label for a suspicious or unexplained light, especially near borders or security-sensitive areas. Thirdly, there are social-media videos and reposts, many of which are too poorly sourced to support more than a note that a claim circulated.
 
-This pattern is not unusual. Even in better-funded official UAP work, investigators repeatedly stress that many cases remain unresolved because the data are incomplete, not because they show extraordinary technology. NASA’s UAP independent study reported that there is no conclusive peer-reviewed evidence for an extraterrestrial origin for UAP, while the US All-domain Anomaly Resolution Office has published examples where imagery is resolved as birds, balloons or ordinary aircraft, and other cases remain unresolved because the data are insufficient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+This pattern is not unusual. Even in better-funded official UAP work, investigators repeatedly stress that many cases remain unresolved because the data are incomplete, not because they show extraordinary technology. NASA’s UAP independent study reported that there is no conclusive peer-reviewed evidence for an extraterrestrial origin for UAP, while the US All-domain Anomaly Resolution Office has published examples where imagery is resolved as birds, balloons or ordinary aircraft, and other cases remain unresolved because the data are insufficient.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 ## The main Bangladesh sighting record is small and uneven
 
-The strongest named civilian case in the open record is a Dhaka report filed with the National UFO Reporting Center for 19 April 2011. The witness described an evening rooftop sighting in Bashundhara, Dhaka, involving four observers, a huge silent triangular object, lights on the object, and an “aura or haze” around it; the report says the event lasted two to three minutes and was filed four days later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest named civilian case in the open record is a Dhaka report filed with the National UFO Reporting Center for 19 April 2011. The witness described an evening rooftop sighting in Bashundhara, Dhaka, involving four observers, a huge silent triangular object, lights on the object, and an “aura or haze” around it; the report says the event lasted two to three minutes and was filed four days later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The report is interesting because it contains several useful details: date, location, number of witnesses, duration, shape, lighting and viewing circumstances. It also contains features that make verification difficult. It is a self-submitted witness account, not an official investigation. It does not include radar confirmation, original photographs, calibrated video, flight-track correlation, a police or aviation record, or independent interviews. The description of stars being blocked, followed by a triangular object gliding silently overhead, is vivid, but vividness is not the same as corroboration.
 
-Other open databases show scattered Bangladesh entries rather than a deep national archive. A US UFO Center page lists a 31 March 2020 Jashore report in which a witness described a bright circular object hovering in the southern sky before vanishing, but the same page is embedded in a strongly promotional paranormal-reporting site and presents broad claims that go far beyond the evidence shown for Bangladesh. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/bangladesh-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span></span></span> Sentinel-style database pages also index Dhaka reports from 2005, 2011 and 2012, but the accessible snippets provide limited detail and appear to point back to third-party reporting sources rather than independent investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-90a5ba79" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 90a5ba79</span><span class="citation-popover-snippet">dhaka bangladesh 2012 90a5ba79</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-90a5ba79" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 90a5ba79</span><span class="citation-popover-snippet">dhaka bangladesh 2012 90a5ba79</span></span></span>
+Other open databases show scattered Bangladesh entries rather than a deep national archive. A US UFO Center page lists a 31 March 2020 Jashore report in which a witness described a bright circular object hovering in the southern sky before vanishing, but the same page is embedded in a strongly promotional paranormal-reporting site and presents broad claims that go far beyond the evidence shown for Bangladesh.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/bangladesh-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span></span></span> Sentinel-style database pages also index Dhaka reports from 2005, 2011 and 2012, but the accessible snippets provide limited detail and appear to point back to third-party reporting sources rather than independent investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-90a5ba79" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 90a5ba79</span><span class="citation-popover-snippet">dhaka bangladesh 2012 90a5ba79</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-90a5ba79" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 90a5ba79</span><span class="citation-popover-snippet">dhaka bangladesh 2012 90a5ba79</span></span></span>
 
 The practical conclusion is that Bangladesh’s civilian UFO record is real as a record of claims, but weak as a record of confirmed anomalous events. It is enough to justify a careful chronology; it is not enough to support confident claims about exotic craft, non-human intelligence or a hidden national programme.
 
@@ -1216,15 +1216,15 @@ The practical conclusion is that Bangladesh’s civilian UFO record is real as a
 
 Bangladesh’s UFO chronology is best treated as a small case list with confidence ratings, not as a continuous wave of sightings.
 
-**2005: Dhaka light report.** A database entry indexed by Sentinel lists a Dhaka sighting from 2005 under the category “Light”. The accessible page gives little more than place, year and shape category, so it is useful mainly as a pointer to a claim rather than a substantive case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-90a5ba79" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 90a5ba79</span><span class="citation-popover-snippet">dhaka bangladesh 2012 90a5ba79</span></span></span>
+**2005: Dhaka light report.** A database entry indexed by Sentinel lists a Dhaka sighting from 2005 under the category “Light”. The accessible page gives little more than place, year and shape category, so it is useful mainly as a pointer to a claim rather than a substantive case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-90a5ba79" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 90a5ba79</span><span class="citation-popover-snippet">dhaka bangladesh 2012 90a5ba79</span></span></span>
 
-**2011: Dhaka triangular object report.** The 19 April 2011 Bashundhara case is the most detailed open civilian report found for Bangladesh. It involved four reported observers and a silent triangular object seen from a rooftop during a power outage. Its value lies in the detail of the witness account; its weakness is the absence of independent technical data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**2011: Dhaka triangular object report.** The 19 April 2011 Bashundhara case is the most detailed open civilian report found for Bangladesh. It involved four reported observers and a silent triangular object seen from a rooftop during a power outage. Its value lies in the detail of the witness account; its weakness is the absence of independent technical data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**2012: Dhaka “strange lights” report.** A Sentinel-indexed entry lists a 25 April 2012 Dhaka report categorised as “Light” with a summary referencing “UFO or strange lights”. The lack of accessible case detail makes it low-confidence as evidence but relevant as another Dhaka-centred civilian claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-90a5ba79" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 90a5ba79</span><span class="citation-popover-snippet">dhaka bangladesh 2012 90a5ba79</span></span></span>
+**2012: Dhaka “strange lights” report.** A Sentinel-indexed entry lists a 25 April 2012 Dhaka report categorised as “Light” with a summary referencing “UFO or strange lights”. The lack of accessible case detail makes it low-confidence as evidence but relevant as another Dhaka-centred civilian claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/dhaka-bangladesh-2012-90a5ba79" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">dhaka bangladesh 2012 90a5ba79</span><span class="citation-popover-snippet">dhaka bangladesh 2012 90a5ba79</span></span></span>
 
-**2020: Jashore bright circular object.** A US UFO Center listing records a 31 March 2020 Jashore account of a small bright circle hovering in the southern sky and then vanishing. This is geographically useful because it moves the record beyond Dhaka, but it is still a short, unverified witness submission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/bangladesh-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span></span></span>
+**2020: Jashore bright circular object.** A US UFO Center listing records a 31 March 2020 Jashore account of a small bright circle hovering in the southern sky and then vanishing. This is geographically useful because it moves the record beyond Dhaka, but it is still a short, unverified witness submission.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/bangladesh-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span></span></span>
 
-**2025: India-Bangladesh border “UFO” treated as possible drone.** The most security-relevant recent case was reported from Hasnabad, North 24-Parganas, near the India-Bangladesh border, on 24 May 2025. The Times of India described a blinking, multicoloured object hovering for about 10 to 12 minutes, with local police and Border Security Force personnel responding and officials not ruling out cross-border technological surveillance. The report itself notes that the object was described as “drone-like”, making this a modern border-security incident rather than a classic alien-UFO case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span><span class="citation-popover-snippet">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span></span></span>
+**2025: India-Bangladesh border “UFO” treated as possible drone.** The most security-relevant recent case was reported from Hasnabad, North 24-Parganas, near the India-Bangladesh border, on 24 May 2025. The Times of India described a blinking, multicoloured object hovering for about 10 to 12 minutes, with local police and Border Security Force personnel responding and officials not ruling out cross-border technological surveillance. The report itself notes that the object was described as “drone-like”, making this a modern border-security incident rather than a classic alien-UFO case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span><span class="citation-popover-snippet">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span></span></span>
 
 This chronology shows a clear pattern: Bangladesh-linked reports are mostly lights, shapes or hovering objects, with the most concrete modern official concern pointing towards drones rather than extraordinary aerial performance.
 
@@ -1236,28 +1236,28 @@ Dhaka is over-represented in the available record for a simple reason: more peop
 
 This reporting bias matters. A rural witness in northern or coastal Bangladesh may see unusual lights but never file a report in English or with an overseas UFO database. A Dhaka resident, by contrast, may search online, find a reporting form, and produce a searchable record. The resulting archive can look like a geography of phenomena when it is partly a geography of reporting access.
 
-The Jashore entry is therefore valuable even though it is weakly documented. It reminds readers that Bangladesh’s sighting record is not only capital-centred. But the lack of follow-up detail also shows the central problem: without local press coverage, time-stamped media, weather and flight checks, and independent witness interviews, regional variation remains suggestive rather than measurable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/bangladesh-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span></span></span>
+The Jashore entry is therefore valuable even though it is weakly documented. It reminds readers that Bangladesh’s sighting record is not only capital-centred. But the lack of follow-up detail also shows the central problem: without local press coverage, time-stamped media, weather and flight checks, and independent witness interviews, regional variation remains suggestive rather than measurable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/bangladesh-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span></span></span>
 
 ## Official records: the notable gap
 
 No strong public evidence surfaced of a Bangladesh government UFO archive comparable to the US National Archives UAP collection or the UK Ministry of Defence UFO files. Searches of the public record point instead to Bangladesh’s aviation and security authorities managing practical aerial hazards: drones, remotely piloted aircraft, kites, lanterns, laser lights and other objects that can endanger aircraft or sensitive sites.
 
-That absence should not be overread. It does not prove that no official observations have ever occurred. It means that, in the accessible open record, Bangladesh does not appear to have a public declassified UFO file series, a named official UAP office, or a routinely published national UAP case list. By contrast, the US National Archives explicitly hosts records related to UFOs and UAP across multiple record groups, and AARO publishes selected official imagery with assessments such as “resolved as balloon”, “resolved as birds” or “unresolved”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That absence should not be overread. It does not prove that no official observations have ever occurred. It means that, in the accessible open record, Bangladesh does not appear to have a public declassified UFO file series, a named official UAP office, or a routinely published national UAP case list. By contrast, the US National Archives explicitly hosts records related to UFOs and UAP across multiple record groups, and AARO publishes selected official imagery with assessments such as “resolved as balloon”, “resolved as birds” or “unresolved”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-For Bangladesh, the most relevant official material is not UFO-specific but aviation-specific. The Civil Aviation Authority of Bangladesh has a UAS/drone section with application materials for flying unmanned aircraft, and Bangladesh state news reported in January 2024 that individuals and organisations must obtain written permission at least 45 days before flying UAVs, remotely piloted aircraft systems or remote-controlled aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://new.caab.gov.bd/corporate/drone.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new.caab.gov.bd">[CAAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new.caab.gov.bd</span><span class="citation-popover-snippet">Open source on caab.gov.bd.</span></span></span>
+For Bangladesh, the most relevant official material is not UFO-specific but aviation-specific. The Civil Aviation Authority of Bangladesh has a UAS/drone section with application materials for flying unmanned aircraft, and Bangladesh state news reported in January 2024 that individuals and organisations must obtain written permission at least 45 days before flying UAVs, remotely piloted aircraft systems or remote-controlled aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://new.caab.gov.bd/corporate/drone.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: new.caab.gov.bd">[CAAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">new.caab.gov.bd</span><span class="citation-popover-snippet">Open source on caab.gov.bd.</span></span></span>
 
-That regulatory frame is important for UFO analysis. In modern Bangladesh, some “mystery lights” are likely to be unauthorised or poorly understood aerial devices rather than anomalous craft. The official concern is safety and security: BSS reported that unauthorised flights, kites, lanterns, laser lights and high-powered torches near Bangladesh Air Force bases could create risks for passenger aircraft, helicopters and military aircraft, and may be punishable under existing laws. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bssnews.net/news/168190" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bssnews.net">[BSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bssnews.net</span><span class="citation-popover-title">BSSPermission required to fly drones, remote-controlled toy planes &#124; News</span><span class="citation-popover-snippet">BSSPermission required to fly drones, remote-controlled toy planes &#124; News</span></span></span>
+That regulatory frame is important for UFO analysis. In modern Bangladesh, some “mystery lights” are likely to be unauthorised or poorly understood aerial devices rather than anomalous craft. The official concern is safety and security: BSS reported that unauthorised flights, kites, lanterns, laser lights and high-powered torches near Bangladesh Air Force bases could create risks for passenger aircraft, helicopters and military aircraft, and may be punishable under existing laws.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bssnews.net/news/168190" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bssnews.net">[BSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bssnews.net</span><span class="citation-popover-title">BSSPermission required to fly drones, remote-controlled toy planes &#124; News</span><span class="citation-popover-snippet">BSSPermission required to fly drones, remote-controlled toy planes &#124; News</span></span></span>
 
 <img src="{{ "/assets/images/Bangladesh_fa6c37-Illustration-2-dark.svg" | relative_url }}" alt="Bangladesh illustration 2" data-theme-src-dark="{{ "/assets/images/Bangladesh_fa6c37-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bangladesh_fa6c37-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confirmed, contested and debunked: how the evidence splits
 
 The Bangladesh evidence is best divided into three categories.
 
-**Confirmed as reports, not confirmed as anomalies.** The 2011 Dhaka NUFORC case and the 2020 Jashore listing are confirmed in the limited sense that they exist as published witness reports. They are not confirmed in the stronger sense of an independently verified anomalous object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed as reports, not confirmed as anomalies.** The 2011 Dhaka NUFORC case and the 2020 Jashore listing are confirmed in the limited sense that they exist as published witness reports. They are not confirmed in the stronger sense of an independently verified anomalous object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Contested or unresolved claims.** The Dhaka triangle case remains unresolved in the public record because there is not enough external evidence to identify it. The same applies to short database entries for Dhaka lights. “Unresolved” here should be read narrowly: the available evidence is insufficient, not necessarily extraordinary.
 
-**Likely conventional or security-related cases.** The 2025 India-Bangladesh border case was reported under a “UFO” headline, but its described behaviour — blinking lights, hovering, possible multiple objects, and official concern about technological surveillance — fits a drone-security framework better than an extraterrestrial one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span><span class="citation-popover-snippet">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span></span></span>
+**Likely conventional or security-related cases.** The 2025 India-Bangladesh border case was reported under a “UFO” headline, but its described behaviour — blinking lights, hovering, possible multiple objects, and official concern about technological surveillance — fits a drone-security framework better than an extraterrestrial one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span><span class="citation-popover-snippet">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span></span></span>
 
 This distinction prevents two common errors. The sceptical error is to dismiss all reports as worthless because some are weak. The believer’s error is to treat every unresolved report as positive evidence of exotic technology. A fair Bangladesh reading sits between those poles: witnesses may sincerely report unusual things, but the public evidence rarely survives a demanding verification standard.
 
@@ -1265,11 +1265,11 @@ This distinction prevents two common errors. The sceptical error is to dismiss a
 
 Several conventional explanations are especially relevant in Bangladesh.
 
-Drones are now the most important category. Bangladesh’s own aviation authorities require prior permission for drone and remotely piloted aircraft operations, and official warnings have linked unauthorised aerial activity to risks near airbases and flight paths. That makes drones a plausible explanation for some hovering or blinking-light reports, especially in urban, border or security-sensitive areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ops.caab.gov.bd/sub-menu-content/4/116/157" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caab.gov.bd">[CAAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caab.gov.bd</span><span class="citation-popover-title">CAABCAAB</span><span class="citation-popover-snippet">CAABCAAB</span></span></span>
+Drones are now the most important category. Bangladesh’s own aviation authorities require prior permission for drone and remotely piloted aircraft operations, and official warnings have linked unauthorised aerial activity to risks near airbases and flight paths. That makes drones a plausible explanation for some hovering or blinking-light reports, especially in urban, border or security-sensitive areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ops.caab.gov.bd/sub-menu-content/4/116/157" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caab.gov.bd">[CAAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caab.gov.bd</span><span class="citation-popover-title">CAABCAAB</span><span class="citation-popover-snippet">CAABCAAB</span></span></span>
 
-Lanterns, kites, laser lights and high-powered torches also matter locally because they are specifically named in Bangladesh safety warnings. A floating lantern can look like a silent glowing object; a kite or suspended light can appear stationary; a laser or torch can create confusing sky effects under haze or cloud. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bssnews.net/news/168190" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bssnews.net">[BSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bssnews.net</span><span class="citation-popover-title">BSSPermission required to fly drones, remote-controlled toy planes &#124; News</span><span class="citation-popover-snippet">BSSPermission required to fly drones, remote-controlled toy planes &#124; News</span></span></span>
+Lanterns, kites, laser lights and high-powered torches also matter locally because they are specifically named in Bangladesh safety warnings. A floating lantern can look like a silent glowing object; a kite or suspended light can appear stationary; a laser or torch can create confusing sky effects under haze or cloud.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bssnews.net/news/168190" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bssnews.net">[BSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bssnews.net</span><span class="citation-popover-title">BSSPermission required to fly drones, remote-controlled toy planes &#124; News</span><span class="citation-popover-snippet">BSSPermission required to fly drones, remote-controlled toy planes &#124; News</span></span></span>
 
-Meteors and fireballs can generate sudden mass attention. International meteor organisations collect public fireball reports because bright meteors are dramatic, brief and frequently mistaken for aircraft or other objects. Recent global reporting shows that fireballs can be bright enough to trigger widespread social-media speculation even when the explanation is natural. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/42f53f511af6b9e9deafc34633adac99" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How common are fireballs streaking across the sky?</span><span class="citation-popover-snippet">Meteoroids, fragments of asteroids or comets, travel at extreme speeds—up to 160,000 mph—and often disintegrate upon hitting Earth&#x27;s atmo...</span></span></span>
+Meteors and fireballs can generate sudden mass attention. International meteor organisations collect public fireball reports because bright meteors are dramatic, brief and frequently mistaken for aircraft or other objects. Recent global reporting shows that fireballs can be bright enough to trigger widespread social-media speculation even when the explanation is natural.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/42f53f511af6b9e9deafc34633adac99" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News How common are fireballs streaking across the sky?</span><span class="citation-popover-snippet">Meteoroids, fragments of asteroids or comets, travel at extreme speeds—up to 160,000 mph—and often disintegrate upon hitting Earth&#x27;s atmo...</span></span></span>
 
 Rocket or missile plume effects are another increasingly important explanation across South Asia. High-altitude exhaust illuminated by sunlight can create glowing trails or “jellyfish” shapes that look strange from hundreds of kilometres away. This matters for Bangladesh because regional launches or tests outside the country can still produce visible sky effects over parts of Bangladesh and eastern India, especially around twilight.
 
@@ -1281,17 +1281,17 @@ Aircraft misidentification remains a baseline possibility. Dhaka’s busy airspa
 
 Bangladesh UFO research has a source-quality problem. The most accessible claims often come from overseas databases, social media, paranormal websites or regional news stories using “UFO” as a headline label. These sources are not equal.
 
-The most useful sources are those that provide exact date, time, location, duration, number of observers, original media, direction of travel, weather, and whether authorities or aviation bodies were contacted. The 2011 NUFORC report is stronger than a vague viral post because it gives a structured witness account; it is still weaker than a case with radar, multiple independent videos and official documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most useful sources are those that provide exact date, time, location, duration, number of observers, original media, direction of travel, weather, and whether authorities or aviation bodies were contacted. The 2011 NUFORC report is stronger than a vague viral post because it gives a structured witness account; it is still weaker than a case with radar, multiple independent videos and official documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Local journalism can be valuable when it records official responses. The 2025 Hasnabad border report is useful not because it proves a UFO, but because it documents police and BSF involvement and frames the object as potentially drone-like surveillance. That moves the case from folklore into the realm of public safety and border monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span><span class="citation-popover-snippet">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span></span></span>
+Local journalism can be valuable when it records official responses. The 2025 Hasnabad border report is useful not because it proves a UFO, but because it documents police and BSF involvement and frames the object as potentially drone-like surveillance. That moves the case from folklore into the realm of public safety and border monitoring.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span><span class="citation-popover-snippet">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span></span></span>
 
-Paranormal aggregation sites should be treated carefully. The US UFO Center Bangladesh page preserves a Jashore claim, but the surrounding text makes broad assertions about alien contact and “UFO-nauts” that are not supported by the single short Bangladesh entry on the page. The entry may be worth logging; the site’s larger interpretive claims should not be treated as evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/bangladesh-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span></span></span>
+Paranormal aggregation sites should be treated carefully. The US UFO Center Bangladesh page preserves a Jashore claim, but the surrounding text makes broad assertions about alien contact and “UFO-nauts” that are not supported by the single short Bangladesh entry on the page. The entry may be worth logging; the site’s larger interpretive claims should not be treated as evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/bangladesh-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[US UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">US UFO Research Center Global UFOs: Bangladesh UFO Sightings &amp; Reports</span></span></span>
 
 ## How Bangladesh links to neighbouring UFO branches
 
 Bangladesh’s UFO record is best understood alongside neighbouring South Asian branches, but not swallowed by them. The country shares airspace, weather systems, media ecosystems and border-security concerns with India and Myanmar, while older regional archives often use historical place names such as Dacca for what is now Dhaka.
 
-The most relevant sibling branch is India because the 2025 Hasnabad incident sits directly on the India-Bangladesh border and was treated by Indian authorities as a possible cross-border surveillance issue. That case is not a Bangladesh domestic sighting in the strictest sense, but it is Bangladesh-linked because the reported concern involved objects possibly entering Indian airspace from across the border. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span><span class="citation-popover-snippet">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span></span></span>
+The most relevant sibling branch is India because the 2025 Hasnabad incident sits directly on the India-Bangladesh border and was treated by Indian authorities as a possible cross-border surveillance issue. That case is not a Bangladesh domestic sighting in the strictest sense, but it is Bangladesh-linked because the reported concern involved objects possibly entering Indian airspace from across the border.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-title">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span><span class="citation-popover-snippet">The Times of India‘UFO’ spotted near Indo-Bangla border &#124; Kolkata News</span></span></span>
 
 The wider South Asian record also shows why caution is needed. Declassified and journalistic discussions of UFOs in India, Nepal and Bhutan exist, but they should not be imported wholesale into Bangladesh unless the location, document and witnesses genuinely connect to Bangladesh. The proper cross-branch value is comparison: South Asian cases often involve sparse documentation, difficult terrain, military sensitivity and later retelling. Those same issues shape how Bangladesh claims should be read.
 
@@ -1300,7 +1300,7 @@ The wider South Asian record also shows why caution is needed. Declassified and 
 
 A Bangladesh UFO case would become much stronger if it had several independent forms of evidence: original unedited video, multiple witness locations, exact time stamps, flight-tracking checks, weather and astronomical checks, drone-permit checks, and any aviation or security record. A single witness report can open a case; it cannot settle it.
 
-For the 2011 Dhaka triangle report, the most useful missing evidence would be independent witnesses from other rooftops, a contemporaneous local report of the power-station fire and outage, aircraft movement data for Dhaka that evening, and any original sketches or photographs made at the time. Without those, the case remains a detailed anecdote rather than a confirmed anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For the 2011 Dhaka triangle report, the most useful missing evidence would be independent witnesses from other rooftops, a contemporaneous local report of the power-station fire and outage, aircraft movement data for Dhaka that evening, and any original sketches or photographs made at the time. Without those, the case remains a detailed anecdote rather than a confirmed anomaly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For modern Bangladesh sightings, the first checks should be practical rather than exotic: Was there a legal or illegal drone flight? Was the object near an airport, military installation or border? Were lanterns, kites or laser lights present? Did a meteor shower, fireball, rocket plume or regional defence test coincide with the sighting? Did several independent videos show the same object from different angles?
 
@@ -1315,194 +1315,194 @@ The more grounded story is still worth telling. Bangladesh shows how UFO claims 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QykoIziyWyE" title="IndiaTo Launch &#x27;Smart Border&#x27; Project To Curb Infiltration | Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QykoIziyWyE" target="_blank" rel="noopener noreferrer">IndiaTo Launch &#x27;Smart Border&#x27; Project To Curb Infiltration | Explained</a></p><p class="youtube-embed-meta">Channel: Mint &middot; Views: 55.4K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QykoIziyWyE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QykoIziyWyE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do UFO Sightings Reveal About Bangladesh Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do UFO Sightings Reveal About Bangladesh Skies?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for evaluating fragmented civilian sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for evaluating fragmented civilian sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Examines investigative approaches relevant to weakly documented reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines investigative approaches relevant to weakly documented reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Robert Sheaffer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WAmejwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bad UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad UFOs">Bad UFOs</a>
+</h4>
+<p class="fr-book-author">By Robert Sheaffer</p>
         
-        <p class="fr-book-desc">Covers common explanations for reported UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers common explanations for reported UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+UFOs+by+Robert+Sheaffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a broad framework for understanding UFO reports globally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a broad framework for understanding UFO reports globally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ufo-sightings-reveal-about-bangladesh-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1518,7 +1518,7 @@ The more grounded story is still worth telling. Bangladesh shows how UFO claims 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1538,7 +1538,7 @@ The more grounded story is still worth telling. Bangladesh shows how UFO claims 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1570,7 +1570,7 @@ The more grounded story is still worth telling. Bangladesh shows how UFO claims 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1622,7 +1622,7 @@ The more grounded story is still worth telling. Bangladesh shows how UFO claims 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1667,7 +1667,7 @@ The more grounded story is still worth telling. Bangladesh shows how UFO claims 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1708,188 +1708,188 @@ The more grounded story is still worth telling. Bangladesh shows how UFO claims 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=80992</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=80992" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=80992</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bssnews.net  
    Title: BSSPermission required to fly drones, remote-controlled toy planes | News  
-   Link: <a href="https://www.bssnews.net/news/168190" target="_blank" rel="noopener noreferrer nofollow">https://www.bssnews.net/news/168190</a>  
+   Link:<a href="https://www.bssnews.net/news/168190" target="_blank" rel="noopener noreferrer nofollow">https://www.bssnews.net/news/168190</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: manual 1955  
-   Link: <a href="https://www.archives.gov/files/research/foreign-policy/state-dept/finding-aids/manual-1955.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/foreign-policy/state-dept/finding-aids/manual-1955.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/research/foreign-policy/state-dept/finding-aids/manual-1955.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/foreign-policy/state-dept/finding-aids/manual-1955.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: time.com  
    Title: bangladesh protests sheikh hasina uprising analysis  
-   Link: <a href="https://time.com/7007756/bangladesh-protests-sheikh-hasina-uprising-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7007756/bangladesh-protests-sheikh-hasina-uprising-analysis/</a>  
+   Link:<a href="https://time.com/7007756/bangladesh-protests-sheikh-hasina-uprising-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7007756/bangladesh-protests-sheikh-hasina-uprising-analysis/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: time.com  
    Title: bangladesh violence bnp khaleda zia sheikh hasina  
-   Link: <a href="https://time.com/3668687/bangladesh-violence-bnp-khaleda-zia-sheikh-hasina/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3668687/bangladesh-violence-bnp-khaleda-zia-sheikh-hasina/</a>  
+   Link:<a href="https://time.com/3668687/bangladesh-violence-bnp-khaleda-zia-sheikh-hasina/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3668687/bangladesh-violence-bnp-khaleda-zia-sheikh-hasina/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: time.com  
    Title: bangladesh not yet a country  
-   Link: <a href="https://time.com/archive/6639466/bangladesh-not-yet-a-country/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6639466/bangladesh-not-yet-a-country/</a>  
+   Link:<a href="https://time.com/archive/6639466/bangladesh-not-yet-a-country/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6639466/bangladesh-not-yet-a-country/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: usufocenter.com  
    Title: US UFO Research Center Global UFOs: Bangladesh UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/bangladesh-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/bangladesh-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/bangladesh-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/bangladesh-ufo-sightings.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mapuap.com  
    Title: dhaka bangladesh 2012 90a5ba79  
-   Link: <a href="https://mapuap.com/sighting/dhaka-bangladesh-2012-90a5ba79" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/dhaka-bangladesh-2012-90a5ba79</a>  
+   Link:<a href="https://mapuap.com/sighting/dhaka-bangladesh-2012-90a5ba79" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/dhaka-bangladesh-2012-90a5ba79</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mapuap.com  
    Title: dhaka bangladesh 2005 2440f50e  
-   Link: <a href="https://mapuap.com/sighting/dhaka-bangladesh-2005-2440f50e" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/dhaka-bangladesh-2005-2440f50e</a>  
+   Link:<a href="https://mapuap.com/sighting/dhaka-bangladesh-2005-2440f50e" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/dhaka-bangladesh-2005-2440f50e</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mapuap.com  
    Title: dhaka bangladesh 2011 1933fd0e  
-   Link: <a href="https://mapuap.com/sighting/dhaka-bangladesh-2011-1933fd0e" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/dhaka-bangladesh-2011-1933fd0e</a>  
+   Link:<a href="https://mapuap.com/sighting/dhaka-bangladesh-2011-1933fd0e" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/dhaka-bangladesh-2011-1933fd0e</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: timesofindia.indiatimes.com  
    Title: The Times of India‘UFO’ spotted near Indo-Bangla border | Kolkata News  
-   Link: <a href="https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms</a>  
+   Link:<a href="https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/city/kolkata/ufo-spotted-near-indo-bangla-border/articleshow/121384058.cms</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: apnews.com  
    Title: AP News How common are fireballs streaking across the sky?  
-   Link: <a href="https://apnews.com/article/42f53f511af6b9e9deafc34633adac99" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/42f53f511af6b9e9deafc34633adac99</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoroids, fragments of asteroids or comets, travel at extreme speeds—up to 160,000 mph—and often disintegrate upon hitting Earth&#x27;s atmo...</p></details>
+   Link:<a href="https://apnews.com/article/42f53f511af6b9e9deafc34633adac99" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/42f53f511af6b9e9deafc34633adac99</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meteoroids, fragments of asteroids or comets, travel at extreme speeds—up to 160,000 mph—and often disintegrate upon hitting Earth&#x27;s atmo...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1805411643061042/posts/1973111029624435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1805411643061042/posts/1973111029624435/</a>  
+   Link:<a href="https://www.facebook.com/groups/1805411643061042/posts/1973111029624435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1805411643061042/posts/1973111029624435/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/643570297038875/posts/801084311287472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/643570297038875/posts/801084311287472/</a>  
+   Link:<a href="https://www.facebook.com/groups/643570297038875/posts/801084311287472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/643570297038875/posts/801084311287472/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: new.caab.gov.bd  
-   Link: <a href="https://new.caab.gov.bd/corporate/drone.pdf" target="_blank" rel="noopener noreferrer nofollow">https://new.caab.gov.bd/corporate/drone.pdf</a>  
+   Link:<a href="https://new.caab.gov.bd/corporate/drone.pdf" target="_blank" rel="noopener noreferrer nofollow">https://new.caab.gov.bd/corporate/drone.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MEeG81arab0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MEeG81arab0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=MEeG81arab0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MEeG81arab0</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kcots8/national_archives_uap_record_uploads/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kcots8/national_archives_uap_record_uploads/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1kcots8/national_archives_uap_record_uploads/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kcots8/national_archives_uap_record_uploads/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: research.engr.oregonstate.edu  
-   Link: <a href="https://research.engr.oregonstate.edu/hernandez/people" target="_blank" rel="noopener noreferrer nofollow">https://research.engr.oregonstate.edu/hernandez/people</a>  
+   Link:<a href="https://research.engr.oregonstate.edu/hernandez/people" target="_blank" rel="noopener noreferrer nofollow">https://research.engr.oregonstate.edu/hernandez/people</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=M8Rrq2RKXFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M8Rrq2RKXFU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Science, Skepticism, and the Search for Truth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M8Rrq2RKXFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M8Rrq2RKXFU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Science, Skepticism, and the Search for Truth...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: India To Launch 'Smart Border' Project To Curb Infiltration | Explained  
-   Link: <a href="https://www.youtube.com/watch?v=QykoIziyWyE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QykoIziyWyE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of UFO&#x27;s FINALLY REVEALED | The Most Authentic UFO Cases In The World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QykoIziyWyE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QykoIziyWyE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of UFO&#x27;s FINALLY REVEALED | The Most Authentic UFO Cases In The World...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: How Drones are Changing Modern Border Security and Surveillance  
-   Link: <a href="https://www.youtube.com/watch?v=W0S7N-W34Y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W0S7N-W34Y4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Unidentified Aerial Phenomena (UAP) Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W0S7N-W34Y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W0S7N-W34Y4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Unidentified Aerial Phenomena (UAP) Explained...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena: Science, Skepticism, and the Search for Truth  
-   Link: <a href="https://www.youtube.com/watch?v=J848j1jGq68" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J848j1jGq68</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Drones are Changing Modern Border Security and Surveillance...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J848j1jGq68" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J848j1jGq68</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Drones are Changing Modern Border Security and Surveillance...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DViQhTkChtW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DViQhTkChtW/</a>  
+   Link:<a href="https://www.instagram.com/reel/DViQhTkChtW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DViQhTkChtW/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dailytimesofbangladesh/posts/pentagon-ufo-timesofbangladesh/122193157970782001/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailytimesofbangladesh/posts/pentagon-ufo-timesofbangladesh/122193157970782001/</a>  
+   Link:<a href="https://www.facebook.com/dailytimesofbangladesh/posts/pentagon-ufo-timesofbangladesh/122193157970782001/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dailytimesofbangladesh/posts/pentagon-ufo-timesofbangladesh/122193157970782001/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/36041861/Drone_regulations_in_Bangladesh" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36041861/Drone_regulations_in_Bangladesh</a>  
+   Link:<a href="https://www.academia.edu/36041861/Drone_regulations_in_Bangladesh" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36041861/Drone_regulations_in_Bangladesh</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: tbsnews.net  
-   Link: <a href="https://www.tbsnews.net/economy/aviation/45-days-prior-permission-must-fly-drone-109795" target="_blank" rel="noopener noreferrer nofollow">https://www.tbsnews.net/economy/aviation/45-days-prior-permission-must-fly-drone-109795</a>  
+   Link:<a href="https://www.tbsnews.net/economy/aviation/45-days-prior-permission-must-fly-drone-109795" target="_blank" rel="noopener noreferrer nofollow">https://www.tbsnews.net/economy/aviation/45-days-prior-permission-must-fly-drone-109795</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: gettyimages.com  
-   Link: <a href="https://www.gettyimages.com/photos/tindu" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/tindu</a>
+   Link:<a href="https://www.gettyimages.com/photos/tindu" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/tindu</a>

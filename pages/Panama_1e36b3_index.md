@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /panama-1e36b3-index/
 description: Focused pages that expand on What Do Panama UFO Reports Really Show?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Panama_1e36b3
 parent_title: What Do Panama UFO Reports Really Show?
@@ -16,7 +16,7 @@ parent_permalink: /what-do-panama-ufo-reports-really-show/
 
 # Explore Topics in What Do Panama UFO Reports Really Show?
 
-The following pages expand on the main **[What Do Panama UFO Reports Really Show?]({{ '/what-do-panama-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Do Panama UFO Reports Really Show?]({{ '/what-do-panama-ufo-reports-really-show/' | relative_url }})** page and cover its key branches in.
 
 - [Chiriqui Lights]({{ '/chiriqui-lights/' | relative_url }})
 - [Folklore]({{ '/folklore/' | relative_url }})

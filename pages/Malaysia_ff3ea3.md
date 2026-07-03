@@ -1194,49 +1194,49 @@ image: /assets/images/Malaysia_ff3ea3-overview-social.jpg
 
 ## Introduction
 
-That matters because Malaysia is often treated as a side note in global UFO discussions, even though its cases show several patterns seen across the wider Southeast Asian branch of UFO folklore: schoolchild witnesses, coastal and rural sighting locations, urban sky videos, and a strong dependence on local newspapers rather than official case files. The country’s reports are therefore best read as a national sighting tradition with uneven evidence, not as a single hidden official archive waiting to be opened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[CILISOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…. ALIENS FROM</span><span class="citation-popover-snippet">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…. ALIENS FROM</span></span></span> - Current Issues Tambah Pedas!
+That matters because Malaysia is often treated as a side note in global UFO discussions, even though its cases show several patterns seen across the wider Southeast Asian branch of UFO folklore: schoolchild witnesses, coastal and rural sighting locations, urban sky videos, and a strong dependence on local newspapers rather than official case files. The country’s reports are therefore best read as a national sighting tradition with uneven evidence, not as a single hidden official archive waiting to be opened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cilisos.my">[CILISOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cilisos.my</span><span class="citation-popover-title">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…. ALIENS FROM</span><span class="citation-popover-snippet">Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…. ALIENS FROM</span></span></span> - Current Issues Tambah Pedas!
 
 <img src="{{ "/assets/images/Malaysia_ff3ea3-overview.webp" | relative_url }}" alt="Overview image for What Do Malaysia&#x27;s UFO Stories Really Show?" loading="eager" decoding="sync" fetchpriority="high">
 ## What counts as a Malaysian UFO case?
 
-A UFO in this page means an unidentified flying object or, in newer official language, an unidentified anomalous phenomenon: something seen in the sky that the witness, recorder, or first reporter could not immediately identify. That does not mean alien technology. NASA’s UAP study uses the term for observations not identified as aircraft or known natural phenomena, and its central warning is directly relevant to Malaysia: without consistent, detailed, curated observations, even sincere sightings rarely become scientifically decisive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A UFO in this page means an unidentified flying object or, in newer official language, an unidentified anomalous phenomenon: something seen in the sky that the witness, recorder, or first reporter could not immediately identify. That does not mean alien technology. NASA’s UAP study uses the term for observations not identified as aircraft or known natural phenomena, and its central warning is directly relevant to Malaysia: without consistent, detailed, curated observations, even sincere sightings rarely become scientifically decisive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Malaysia’s public record contains three different kinds of cases. First are **reported but unverified sightings**, usually carried by newspapers, blogs preserving old clippings, or UFO catalogues. Second are **contested cases**, where a real public report exists but the interpretation remains uncertain. Third are **debunked or strongly explained cases**, especially [viral videos]({{ 'viral-videos/' | relative_url }}). This split is more useful than asking whether Malaysia “has UFOs”, because many Malaysian cases are genuinely unidentified at the level of public evidence while still falling far short of proof of anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufosightingsmalaysia.blogspot.com/2015/04/stowell-school-ufo-incident-1970.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsmalaysia.blogspot.com">[ufosightingsmalaysia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsmalaysia.blogspot.com</span><span class="citation-popover-title">stowell school ufo incident 1970</span><span class="citation-popover-snippet">stowell school ufo incident 1970</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span></span></span>
+Malaysia’s public record contains three different kinds of cases. First are **reported but unverified sightings**, usually carried by newspapers, blogs preserving old clippings, or UFO catalogues. Second are **contested cases**, where a real public report exists but the interpretation remains uncertain. Third are **debunked or strongly explained cases**, especially [viral videos]({{ 'viral-videos/' | relative_url }}). This split is more useful than asking whether Malaysia “has UFOs”, because many Malaysian cases are genuinely unidentified at the level of public evidence while still falling far short of proof of anything extraordinary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufosightingsmalaysia.blogspot.com/2015/04/stowell-school-ufo-incident-1970.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsmalaysia.blogspot.com">[ufosightingsmalaysia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsmalaysia.blogspot.com</span><span class="citation-popover-title">stowell school ufo incident 1970</span><span class="citation-popover-snippet">stowell school ufo incident 1970</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span></span></span>
 
-The National UFO Reporting Center, a US-based civilian archive, currently lists 79 Malaysia entries by location. That number should not be treated as a national census, because it depends on voluntary reports submitted to an overseas database, usually in English. It is still useful as a rough signal that Malaysian sightings are not just folklore from one famous incident, but a recurring category in international UFO-report collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
+The National UFO Reporting Center, a US-based civilian archive, currently lists 79 Malaysia entries by location. That number should not be treated as a national census, because it depends on voluntary reports submitted to an overseas database, usually in English. It is still useful as a rough signal that Malaysian sightings are not just folklore from one famous incident, but a recurring category in international UFO-report collections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
 
 ## The chronology: from schoolyard miniatures to viral sky videos
 
 The most striking feature of Malaysia’s UFO history is how strongly it clusters around specific waves and memorable narratives rather than a steady stream of official releases. The earlier reports often involve children, small beings, school grounds and rural communities; later reports move towards mass sightings, photographs, and online video.
 
-The Bukit Mertajam school incident of August 1970 is one of the clearest examples of an old Malaysian case with a traceable press footprint. A preserved transcription of a Straits Times report says six pupils at Stowell English Primary School claimed that a soup-plate-sized flying saucer landed near them, with tiny figures emerging; the same report also says the headmaster questioned the boys and thought the episode was a figment of imagination. That combination makes it important but weak: there was contemporary press attention and named child witnesses, yet no surviving physical evidence or independent technical record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsmalaysia.blogspot.com">[ufosightingsmalaysia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsmalaysia.blogspot.com</span><span class="citation-popover-title">the 1995 ufo incident in tanjung sepat</span><span class="citation-popover-snippet">the 1995 ufo incident in tanjung sepat</span></span></span>
+The Bukit Mertajam school incident of August 1970 is one of the clearest examples of an old Malaysian case with a traceable press footprint. A preserved transcription of a Straits Times report says six pupils at Stowell English Primary School claimed that a soup-plate-sized flying saucer landed near them, with tiny figures emerging; the same report also says the headmaster questioned the boys and thought the episode was a figment of imagination. That combination makes it important but weak: there was contemporary press attention and named child witnesses, yet no surviving physical evidence or independent technical record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsmalaysia.blogspot.com">[ufosightingsmalaysia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsmalaysia.blogspot.com</span><span class="citation-popover-title">the 1995 ufo incident in tanjung sepat</span><span class="citation-popover-snippet">the 1995 ufo incident in tanjung sepat</span></span></span>
 
-The “little men” motif did not stop at Bukit Mertajam. Malaysian UFO retellings also point to alleged incidents in Johor Bahru, Kuantan, and other school settings, though many of these now circulate through secondary UFO summaries and entertainment-style articles rather than original documentation. The pattern is culturally interesting because it resembles other schoolchild UFO waves around the world, but the Malaysian versions usually lack the interview archives, official files, or multi-sensor evidence that would make them strong historical cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zulheimymaamor.blogspot.com">[zulheimymaamor.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zulheimymaamor.blogspot.com</span><span class="citation-popover-title">ufo di malaysia</span><span class="citation-popover-snippet">ufo di malaysia</span></span></span>
+The “little men” motif did not stop at Bukit Mertajam. Malaysian UFO retellings also point to alleged incidents in Johor Bahru, Kuantan, and other school settings, though many of these now circulate through secondary UFO summaries and entertainment-style articles rather than original documentation. The pattern is culturally interesting because it resembles other schoolchild UFO waves around the world, but the Malaysian versions usually lack the interview archives, official files, or multi-sensor evidence that would make them strong historical cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zulheimymaamor.blogspot.com">[zulheimymaamor.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zulheimymaamor.blogspot.com</span><span class="citation-popover-title">ufo di malaysia</span><span class="citation-popover-snippet">ufo di malaysia</span></span></span>
 
-The most famous Malaysian case is the Tanjung Sepat incident of 1995 in Selangor. Local and later secondary accounts describe a large object with coloured lights seen near Tanjung Sepat Laut, south of Kuala Lumpur, sometimes described in dramatic terms as football-field-sized. The story is repeatedly linked to Malaysia’s first UFO conference in December 1995, which shows its public impact even if the evidential base remains mostly press-derived and anecdotal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freemalaysiatoday.com">[Free Malaysia Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freemalaysiatoday.com</span><span class="citation-popover-title">3 jaw dropping ufo sightings in malaysia</span><span class="citation-popover-snippet">3 jaw dropping ufo sightings in malaysia</span></span></span>
+The most famous Malaysian case is the Tanjung Sepat incident of 1995 in Selangor. Local and later secondary accounts describe a large object with coloured lights seen near Tanjung Sepat Laut, south of Kuala Lumpur, sometimes described in dramatic terms as football-field-sized. The story is repeatedly linked to Malaysia’s first UFO conference in December 1995, which shows its public impact even if the evidential base remains mostly press-derived and anecdotal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freemalaysiatoday.com">[Free Malaysia Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freemalaysiatoday.com</span><span class="citation-popover-title">3 jaw dropping ufo sightings in malaysia</span><span class="citation-popover-snippet">3 jaw dropping ufo sightings in malaysia</span></span></span>
 
-Sabah added another widely repeated strand in July 2010, when local discussion centred on a reported object seen near Tuaran Beach. A Malaysiakini letter from that period argued that Malaysian sightings had appeared in local media “on and off over many years” and called for official investigation, but it also noted the lack of visible official validation. That is a recurring Malaysian problem: sightings can become public enough to be remembered, but not documented enough to be resolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaysiakini.com/letters/138543" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaysiakini.com">[Malaysiakini]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaysiakini.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Sabah added another widely repeated strand in July 2010, when local discussion centred on a reported object seen near Tuaran Beach. A Malaysiakini letter from that period argued that Malaysian sightings had appeared in local media “on and off over many years” and called for official investigation, but it also noted the lack of visible official validation. That is a recurring Malaysian problem: sightings can become public enough to be remembered, but not documented enough to be resolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaysiakini.com/letters/138543" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaysiakini.com">[Malaysiakini]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaysiakini.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Kelantan’s 2016 Kuala Krai video shows the modern pattern more clearly. A short video of an alleged large object above trees went viral and was falsely attributed to Bernama, Malaysia’s national news agency. Malay Mail reported that Kuala Krai police chief Supt Abdullah Roning said no report had been lodged, and police rubbished the sighting; Snopes later concluded that the footage was not a genuine Malaysian sky event but matched an older CGI creation posted online years earlier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span></span></span>
+Kelantan’s 2016 Kuala Krai video shows the modern pattern more clearly. A short video of an alleged large object above trees went viral and was falsely attributed to Bernama, Malaysia’s national news agency. Malay Mail reported that Kuala Krai police chief Supt Abdullah Roning said no report had been lodged, and police rubbished the sighting; Snopes later concluded that the footage was not a genuine Malaysian sky event but matched an older CGI creation posted online years earlier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span></span></span>
 
-A more ambiguous recent example came from Kuala Lumpur on 31 August 2023, during Hari Kebangsaan celebrations. A bright object was captured in drone footage near the city skyline. SAYS reported that the Malaysian Space Agency’s review found no conclusive evidence that it was a comet, meteor, asteroid, or space-debris re-entry, while an unnamed agency official suggested it was probably linked to human activity rather than a cosmic event. This is one of the better modern examples because it involved an identifiable date, place, video context and at least some expert checking, but it still stopped short of a firm identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://says.com/my/news/mysterious-ufo-on-hari-kebangsaan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: says.com">[SAYS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">says.com</span><span class="citation-popover-title">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span><span class="citation-popover-snippet">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span></span></span>
+A more ambiguous recent example came from Kuala Lumpur on 31 August 2023, during Hari Kebangsaan celebrations. A bright object was captured in drone footage near the city skyline. SAYS reported that the Malaysian Space Agency’s review found no conclusive evidence that it was a comet, meteor, asteroid, or space-debris re-entry, while an unnamed agency official suggested it was probably linked to human activity rather than a cosmic event. This is one of the better modern examples because it involved an identifiable date, place, video context and at least some expert checking, but it still stopped short of a firm identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://says.com/my/news/mysterious-ufo-on-hari-kebangsaan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: says.com">[SAYS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">says.com</span><span class="citation-popover-title">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span><span class="citation-popover-snippet">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span></span></span>
 
 <img src="{{ "/assets/images/Malaysia_ff3ea3-Illustration-1-dark.svg" | relative_url }}" alt="What Do Malaysia&#x27;s UFO Stories Really Show? illustration 1" data-theme-src-dark="{{ "/assets/images/Malaysia_ff3ea3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malaysia_ff3ea3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Malaysia’s sightings cluster and why place matters
 
-Malaysia’s UFO reports are not evenly distributed in the public imagination. Selangor and the Kuala Lumpur area dominate because of population density, media concentration and the famous Tanjung Sepat case. Penang stands out because of the Bukit Mertajam school story. Sabah contributes coastal and beachside accounts, including Tuaran. Kelantan is prominent because the 2016 Kuala Krai video spread widely before being challenged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freemalaysiatoday.com">[Free Malaysia Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freemalaysiatoday.com</span><span class="citation-popover-title">3 jaw dropping ufo sightings in malaysia</span><span class="citation-popover-snippet">3 jaw dropping ufo sightings in malaysia</span></span></span>
+Malaysia’s UFO reports are not evenly distributed in the public imagination. Selangor and the Kuala Lumpur area dominate because of population density, media concentration and the famous Tanjung Sepat case. Penang stands out because of the Bukit Mertajam school story. Sabah contributes coastal and beachside accounts, including Tuaran. Kelantan is prominent because the 2016 Kuala Krai video spread widely before being challenged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freemalaysiatoday.com">[Free Malaysia Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freemalaysiatoday.com</span><span class="citation-popover-title">3 jaw dropping ufo sightings in malaysia</span><span class="citation-popover-snippet">3 jaw dropping ufo sightings in malaysia</span></span></span>
 
-This regional spread is partly geographic. Malaysia has busy flight corridors, coastal horizons, ports, weather systems, urban light pollution, drone use, fireworks displays, and occasional visibility of satellites or space debris. These do not explain every report automatically, but they create many opportunities for ordinary objects to appear strange, especially when seen briefly, at night, from a moving vehicle, through a phone camera, or against a cloudy tropical sky. MYSA’s own space-debris guidance is a reminder that some dramatic sky events can involve human-made orbital material rather than anything exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mysa.gov.my/faqs-space-debris/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysa.gov.my">[mysa.gov.my]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysa.gov.my</span><span class="citation-popover-title">FA Qs Space Debris – MALAYSIAN SPACE AGENCY (MYSA</span><span class="citation-popover-snippet">FA Qs Space Debris – MALAYSIAN SPACE AGENCY (MYSA</span></span></span>
+This regional spread is partly geographic. Malaysia has busy flight corridors, coastal horizons, ports, weather systems, urban light pollution, drone use, fireworks displays, and occasional visibility of satellites or space debris. These do not explain every report automatically, but they create many opportunities for ordinary objects to appear strange, especially when seen briefly, at night, from a moving vehicle, through a phone camera, or against a cloudy tropical sky. MYSA’s own space-debris guidance is a reminder that some dramatic sky events can involve human-made orbital material rather than anything exotic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mysa.gov.my/faqs-space-debris/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysa.gov.my">[mysa.gov.my]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysa.gov.my</span><span class="citation-popover-title">FA Qs Space Debris – MALAYSIAN SPACE AGENCY (MYSA</span><span class="citation-popover-snippet">FA Qs Space Debris – MALAYSIAN SPACE AGENCY (MYSA</span></span></span>
 
 The Malaysia pattern also reflects media geography. A claim in a rural district may remain a local curiosity unless it is picked up by national outlets or social media. A bright object above Kuala Lumpur is more likely to be recorded, reposted and discussed by photographers, drone operators and news sites. That does not make urban sightings stronger; it simply means they leave more digital traces.
 
 ## Official records: what exists and what is missing
 
-Malaysia does not appear to have a publicly accessible official UFO archive comparable to the historic files released by some larger military bureaucracies. The public record is therefore scattered across newspapers, police comments, MYSA statements, civilian databases and UFO-interest websites. This is why Malaysian cases often feel vivid but difficult to verify: the country has institutions relevant to airspace and space activity, but not a visible, dedicated public UAP case system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mysa.gov.my/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysa.gov.my">[mysa.gov.my]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysa.gov.my</span><span class="citation-popover-title">MALAYSIA N SPACE AGENCY (MYSA) – MOSTI</span><span class="citation-popover-snippet">MALAYSIA N SPACE AGENCY (MYSA) – MOSTI</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mysa.gov.my/faqs-space-debris/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysa.gov.my">[mysa.gov.my]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysa.gov.my</span><span class="citation-popover-title">FA Qs Space Debris – MALAYSIAN SPACE AGENCY (MYSA</span><span class="citation-popover-snippet">FA Qs Space Debris – MALAYSIAN SPACE AGENCY (MYSA</span></span></span>
+Malaysia does not appear to have a publicly accessible official UFO archive comparable to the historic files released by some larger military bureaucracies. The public record is therefore scattered across newspapers, police comments, MYSA statements, civilian databases and UFO-interest websites. This is why Malaysian cases often feel vivid but difficult to verify: the country has institutions relevant to airspace and space activity, but not a visible, dedicated public UAP case system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mysa.gov.my/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysa.gov.my">[mysa.gov.my]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysa.gov.my</span><span class="citation-popover-title">MALAYSIA N SPACE AGENCY (MYSA) – MOSTI</span><span class="citation-popover-snippet">MALAYSIA N SPACE AGENCY (MYSA) – MOSTI</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mysa.gov.my/faqs-space-debris/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysa.gov.my">[mysa.gov.my]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysa.gov.my</span><span class="citation-popover-title">FA Qs Space Debris – MALAYSIAN SPACE AGENCY (MYSA</span><span class="citation-popover-snippet">FA Qs Space Debris – MALAYSIAN SPACE AGENCY (MYSA</span></span></span>
 
-MYSA is the most relevant official civilian body when a reported object might be astronomical, orbital or space-debris related. Its website identifies space-science functions including astronomy, atmospheric science, space environment and space weather, and it provides public guidance on space debris and re-entry, including advice not to touch suspected debris and to report it to MYSA or emergency authorities. That is not a UFO-investigation programme, but it is a practical official route for one class of “mysterious sky object”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mysa.gov.my/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysa.gov.my">[mysa.gov.my]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysa.gov.my</span><span class="citation-popover-title">MALAYSIA N SPACE AGENCY (MYSA) – MOSTI</span><span class="citation-popover-snippet">MALAYSIA N SPACE AGENCY (MYSA) – MOSTI</span></span></span>
+MYSA is the most relevant official civilian body when a reported object might be astronomical, orbital or space-debris related. Its website identifies space-science functions including astronomy, atmospheric science, space environment and space weather, and it provides public guidance on space debris and re-entry, including advice not to touch suspected debris and to report it to MYSA or emergency authorities. That is not a UFO-investigation programme, but it is a practical official route for one class of “mysterious sky object”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mysa.gov.my/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysa.gov.my">[mysa.gov.my]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysa.gov.my</span><span class="citation-popover-title">MALAYSIA N SPACE AGENCY (MYSA) – MOSTI</span><span class="citation-popover-snippet">MALAYSIA N SPACE AGENCY (MYSA) – MOSTI</span></span></span>
 
-Police involvement appears mainly when a claim causes public concern or involves misinformation. The Kuala Krai case is a good example: the public authority response was not a scientific investigation of an anomalous craft, but a clarification that the viral claim was unsupported, no police report had been lodged, and the video had been falsely attributed to Bernama. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span></span></span>
+Police involvement appears mainly when a claim causes public concern or involves misinformation. The Kuala Krai case is a good example: the public authority response was not a scientific investigation of an anomalous craft, but a clarification that the viral claim was unsupported, no police report had been lodged, and the video had been falsely attributed to Bernama.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span></span></span>
 
 This absence of a central archive makes local-source reliability crucial. A contemporary newspaper clipping is stronger than a modern listicle; a named official statement is stronger than a repost; an original video with date, location and camera context is stronger than a cropped clip. Malaysia’s most famous UFO stories often survive because they are memorable, not because they meet modern evidential standards.
 
@@ -1246,22 +1246,22 @@ This absence of a central archive makes local-source reliability crucial. A cont
 
 A useful Malaysian UFO page should not flatten all claims into the same category. The evidence quality varies sharply.
 
-**Confirmed or partly explained cases** are those where the public record supports the event as a report but not the extraordinary interpretation. The 2023 Kuala Lumpur bright object is in this category: there was real footage, a clear date and MYSA-linked commentary, but the likely direction of explanation was human activity rather than a known cosmic event. The 2016 Kuala Krai video is stronger still as a debunked media object: it was a real viral claim, but police and later fact-checking undermined the claim that it showed a genuine Malaysian UFO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://says.com/my/news/mysterious-ufo-on-hari-kebangsaan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: says.com">[SAYS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">says.com</span><span class="citation-popover-title">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span><span class="citation-popover-snippet">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaysiakini.com/letters/138543" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaysiakini.com">[Malay]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaysiakini.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed or partly explained cases** are those where the public record supports the event as a report but not the extraordinary interpretation. The 2023 Kuala Lumpur bright object is in this category: there was real footage, a clear date and MYSA-linked commentary, but the likely direction of explanation was human activity rather than a known cosmic event. The 2016 Kuala Krai video is stronger still as a debunked media object: it was a real viral claim, but police and later fact-checking undermined the claim that it showed a genuine Malaysian UFO.<span class="citation-chip-wrap"><a class="citation-chip" href="https://says.com/my/news/mysterious-ufo-on-hari-kebangsaan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: says.com">[SAYS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">says.com</span><span class="citation-popover-title">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span><span class="citation-popover-snippet">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaysiakini.com/letters/138543" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaysiakini.com">[Malay]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaysiakini.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested cases** include Tanjung Sepat 1995 and Tuaran 2010. These have public memory, local reporting and repeated citations in Malaysian UFO discussions, but the accessible evidence is not enough to decide what witnesses saw. Tanjung Sepat’s importance lies less in proving an object landed and more in showing how a Malaysian sighting could become a national talking point and even stimulate organised UFO interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freemalaysiatoday.com">[Free Malaysia Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freemalaysiatoday.com</span><span class="citation-popover-title">3 jaw dropping ufo sightings in malaysia</span><span class="citation-popover-snippet">3 jaw dropping ufo sightings in malaysia</span></span></span>
+**Contested cases** include Tanjung Sepat 1995 and Tuaran 2010. These have public memory, local reporting and repeated citations in Malaysian UFO discussions, but the accessible evidence is not enough to decide what witnesses saw. Tanjung Sepat’s importance lies less in proving an object landed and more in showing how a Malaysian sighting could become a national talking point and even stimulate organised UFO interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freemalaysiatoday.com">[Free Malaysia Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freemalaysiatoday.com</span><span class="citation-popover-title">3 jaw dropping ufo sightings in malaysia</span><span class="citation-popover-snippet">3 jaw dropping ufo sightings in malaysia</span></span></span>
 
-**Weak folklore-like cases** include the miniature-being school stories. Bukit Mertajam 1970 has a notable newspaper trail, but its details — tiny beings, a tiny weapon, a tiny saucer, and no physical trace when adults checked — place it closer to social folklore and child-witness legend than to a robust aerial case. The fact that the headmaster reportedly regarded it as imagination is an important part of the record, not a detail to be left out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufosightingsmalaysia.blogspot.com/2015/04/stowell-school-ufo-incident-1970.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsmalaysia.blogspot.com">[ufosightingsmalaysia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsmalaysia.blogspot.com</span><span class="citation-popover-title">stowell school ufo incident 1970</span><span class="citation-popover-snippet">stowell school ufo incident 1970</span></span></span>
+**Weak folklore-like cases** include the miniature-being school stories. Bukit Mertajam 1970 has a notable newspaper trail, but its details — tiny beings, a tiny weapon, a tiny saucer, and no physical trace when adults checked — place it closer to social folklore and child-witness legend than to a robust aerial case. The fact that the headmaster reportedly regarded it as imagination is an important part of the record, not a detail to be left out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufosightingsmalaysia.blogspot.com/2015/04/stowell-school-ufo-incident-1970.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsmalaysia.blogspot.com">[ufosightingsmalaysia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsmalaysia.blogspot.com</span><span class="citation-popover-title">stowell school ufo incident 1970</span><span class="citation-popover-snippet">stowell school ufo incident 1970</span></span></span>
 
-**Imported or Malaysia-adjacent misinformation** is also part of the page because Malaysia’s name is often attached to viral UFO content. MH370 is the clearest example. The aircraft disappeared on 8 March 2014 with 239 people on board, and official aviation searches have focused on the southern Indian Ocean, debris analysis and flight-data reconstruction, not extraterrestrial involvement. Fact-checkers and aviation sources have repeatedly treated alien-abduction claims and “teleportation” videos as hoaxes or unsupported conspiracy material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/02/the-mh370-teleport-hoax/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> [3ATSB 3Reuters]
+**Imported or Malaysia-adjacent misinformation** is also part of the page because Malaysia’s name is often attached to viral UFO content. MH370 is the clearest example. The aircraft disappeared on 8 March 2014 with 239 people on board, and official aviation searches have focused on the southern Indian Ocean, debris analysis and flight-data reconstruction, not extraterrestrial involvement. Fact-checkers and aviation sources have repeatedly treated alien-abduction claims and “teleportation” videos as hoaxes or unsupported conspiracy material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2024/02/the-mh370-teleport-hoax/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> [3ATSB 3Reuters]
 
 <img src="{{ "/assets/images/Malaysia_ff3ea3-Illustration-2-dark.svg" | relative_url }}" alt="What Do Malaysia&#x27;s UFO Stories Really Show? illustration 2" data-theme-src-dark="{{ "/assets/images/Malaysia_ff3ea3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malaysia_ff3ea3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Malaysian UFO evidence is usually thin
 
-The problem is not that Malaysian witnesses are uniquely unreliable. It is that most Malaysian UFO cases reach the public with the same weaknesses seen globally: brief sightings, poor imagery, missing original files, unclear camera settings, no radar or flight-track correlation, and little follow-up documentation. NASA’s UAP report makes the same broader point: numerous accounts and visuals do not automatically produce scientific conclusions unless observations are consistent, detailed and curated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The problem is not that Malaysian witnesses are uniquely unreliable. It is that most Malaysian UFO cases reach the public with the same weaknesses seen globally: brief sightings, poor imagery, missing original files, unclear camera settings, no radar or flight-track correlation, and little follow-up documentation. NASA’s UAP report makes the same broader point: numerous accounts and visuals do not automatically produce scientific conclusions unless observations are consistent, detailed and curated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Malaysia’s older cases face an additional archival problem. Newspaper reports from the 1960s, 1970s and 1990s are often available only through scans, transcriptions or later UFO blogs. Those can preserve useful leads, but they can also introduce copying errors, exaggeration and circular sourcing, where one later article cites another later article until the original evidence becomes hard to inspect. The Stowell Primary School case is stronger than many because at least a transcription of the original Straits Times report is visible, including sceptical remarks by the headmaster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsmalaysia.blogspot.com">[ufosightingsmalaysia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsmalaysia.blogspot.com</span><span class="citation-popover-title">the 1995 ufo incident in tanjung sepat</span><span class="citation-popover-snippet">the 1995 ufo incident in tanjung sepat</span></span></span>
+Malaysia’s older cases face an additional archival problem. Newspaper reports from the 1960s, 1970s and 1990s are often available only through scans, transcriptions or later UFO blogs. Those can preserve useful leads, but they can also introduce copying errors, exaggeration and circular sourcing, where one later article cites another later article until the original evidence becomes hard to inspect. The Stowell Primary School case is stronger than many because at least a transcription of the original Straits Times report is visible, including sceptical remarks by the headmaster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsmalaysia.blogspot.com">[ufosightingsmalaysia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsmalaysia.blogspot.com</span><span class="citation-popover-title">the 1995 ufo incident in tanjung sepat</span><span class="citation-popover-snippet">the 1995 ufo incident in tanjung sepat</span></span></span>
 
-Modern cases have the opposite problem: there may be too much online circulation before verification. The Kuala Krai video shows how a clip can acquire a Malaysian location, a government-news aura and mass attention before basic checks catch up. The 2023 Kuala Lumpur object shows a healthier pattern, with camera context and expert commentary, but it still illustrates how an object can remain unidentified in public without becoming evidence for an extraordinary craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snopes.com/fact-check/ufo-spotted-malaysia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufo spotted malaysia</span><span class="citation-popover-snippet">ufo spotted malaysia</span></span></span>
+Modern cases have the opposite problem: there may be too much online circulation before verification. The Kuala Krai video shows how a clip can acquire a Malaysian location, a government-news aura and mass attention before basic checks catch up. The 2023 Kuala Lumpur object shows a healthier pattern, with camera context and expert commentary, but it still illustrates how an object can remain unidentified in public without becoming evidence for an extraordinary craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.snopes.com/fact-check/ufo-spotted-malaysia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufo spotted malaysia</span><span class="citation-popover-snippet">ufo spotted malaysia</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hS58RJFXxyk" title="VFX Artists DEBUNK Flight MH370 Alien Abduction &quot;Footage&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hS58RJFXxyk" target="_blank" rel="noopener noreferrer">VFX Artists DEBUNK Flight MH370 Alien Abduction &quot;Footage&quot;</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 1.3M &middot; Uploaded: November 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hS58RJFXxyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hS58RJFXxyk">Open on YouTube</a></p></div></div></div>
 
@@ -1269,9 +1269,9 @@ Modern cases have the opposite problem: there may be too much online circulation
 
 A practical reader’s test works better than belief or dismissal. For any Malaysian UFO claim, ask: is there an original source; is the date and location precise; are there multiple independent witnesses; is there video metadata or camera context; did police, MYSA, aviation authorities or astronomers comment; and has the same image or video appeared elsewhere before? If the answer is mostly no, the case may still be culturally interesting, but it should not be treated as strong evidence.
 
-The strongest Malaysian cases are not necessarily the most spectacular. A modest bright-object report with time, location, original footage and expert uncertainty is more useful than a dramatic “giant craft” story repeated without documentation. That is why the 2023 Kuala Lumpur object is evidentially more valuable than many older legends, even though it may well have a mundane cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://says.com/my/news/mysterious-ufo-on-hari-kebangsaan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: says.com">[SAYS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">says.com</span><span class="citation-popover-title">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span><span class="citation-popover-snippet">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span></span></span>
+The strongest Malaysian cases are not necessarily the most spectacular. A modest bright-object report with time, location, original footage and expert uncertainty is more useful than a dramatic “giant craft” story repeated without documentation. That is why the 2023 Kuala Lumpur object is evidentially more valuable than many older legends, even though it may well have a mundane cause.<span class="citation-chip-wrap"><a class="citation-chip" href="https://says.com/my/news/mysterious-ufo-on-hari-kebangsaan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: says.com">[SAYS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">says.com</span><span class="citation-popover-title">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span><span class="citation-popover-snippet">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span></span></span>
 
-The weakest cases often share warning signs: anonymous reposting, false attribution to a news agency, no police or aviation report, sensational scale claims, or imagery that can be traced to CGI or an older unrelated source. Kuala Krai 2016 is the cautionary example Malaysia readers should keep in mind whenever a new spectacular clip appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span></span></span>
+The weakest cases often share warning signs: anonymous reposting, false attribution to a news agency, no police or aviation report, sensational scale claims, or imagery that can be traced to CGI or an older unrelated source. Kuala Krai 2016 is the cautionary example Malaysia readers should keep in mind whenever a new spectacular clip appears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: malaymail.com">[Malay Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">malaymail.com</span><span class="citation-popover-title">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span><span class="citation-popover-snippet">Malay Mail UFO sighted over Kuala Krai? (VIDEO) &#124; Malay Mail</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oxry6wWHPK0" title="Bizarre footage from Malaysia shows giant UFO hovering - Daily Mail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oxry6wWHPK0" target="_blank" rel="noopener noreferrer">Bizarre footage from Malaysia shows giant UFO hovering - Daily Mail</a></p><p class="youtube-embed-meta">Channel: Daily Mail World &middot; Views: 588.4K &middot; Uploaded: March 2018 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oxry6wWHPK0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oxry6wWHPK0">Open on YouTube</a></p></div></div></div>
 
@@ -1283,201 +1283,201 @@ Within a country-by-country UFO project, Malaysia is therefore best framed as a 
 
 ## The bottom line
 
-Malaysia has a real UFO-reporting tradition, but the evidence base is fragmented. Bukit Mertajam 1970 is valuable as a newspaper-era schoolchild case, Tanjung Sepat 1995 is the country’s best-known mass-sighting story, Tuaran 2010 shows the persistence of regional reports, Kuala Krai 2016 shows the speed of viral misinformation, and Kuala Lumpur 2023 shows how modern cases can remain unresolved while still pointing towards ordinary human activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://says.com/my/news/mysterious-ufo-on-hari-kebangsaan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: says.com">[SAYS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">says.com</span><span class="citation-popover-title">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span><span class="citation-popover-snippet">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span></span></span> 4ufosightingsmalaysia.blogspot.com <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freemalaysiatoday.com">[Free Malaysia Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freemalaysiatoday.com</span><span class="citation-popover-title">3 jaw dropping ufo sightings in malaysia</span><span class="citation-popover-snippet">3 jaw dropping ufo sightings in malaysia</span></span></span>
+Malaysia has a real UFO-reporting tradition, but the evidence base is fragmented. Bukit Mertajam 1970 is valuable as a newspaper-era schoolchild case, Tanjung Sepat 1995 is the country’s best-known mass-sighting story, Tuaran 2010 shows the persistence of regional reports, Kuala Krai 2016 shows the speed of viral misinformation, and Kuala Lumpur 2023 shows how modern cases can remain unresolved while still pointing towards ordinary human activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://says.com/my/news/mysterious-ufo-on-hari-kebangsaan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: says.com">[SAYS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">says.com</span><span class="citation-popover-title">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span><span class="citation-popover-snippet">Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was</span></span></span> 4ufosightingsmalaysia.blogspot.com<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freemalaysiatoday.com">[Free Malaysia Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freemalaysiatoday.com</span><span class="citation-popover-title">3 jaw dropping ufo sightings in malaysia</span><span class="citation-popover-snippet">3 jaw dropping ufo sightings in malaysia</span></span></span>
 
 The fairest reading is neither “nothing happened” nor “Malaysia has proof of alien visitation”. Something often did happen at the level of public claim, witness experience or recorded light in the sky. But the leap from unidentified to extraordinary is not supported by the public evidence. Malaysia’s UFO history is most useful when treated as a careful case file in source quality: confirmed reports where possible, contested traditions where evidence is incomplete, and debunked claims where verification has caught up with the story.
 
 <img src="{{ "/assets/images/Malaysia_ff3ea3-Illustration-3-dark.svg" | relative_url }}" alt="What Do Malaysia&#x27;s UFO Stories Really Show? illustration 3" data-theme-src-dark="{{ "/assets/images/Malaysia_ff3ea3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malaysia_ff3ea3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Malaysia&#x27;s UFO Stories Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Malaysia&#x27;s UFO Stories Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">Provides global context for Malaysian sightings and folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides global context for Malaysian sightings and folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Skies, Closed Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SOPWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Open Skies, Closed Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Skies, Closed Minds">Open Skies, Closed Minds</a>
+</h4>
+<p class="fr-book-author">By Nick Pope</p>
         
-        <p class="fr-book-desc">Examines recurring patterns found in many national UFO traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines recurring patterns found in many national UFO traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Helps place Malaysia&#x27;s reports within wider UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps place Malaysia&#x27;s reports within wider UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
-        </h4>
-        <p class="fr-book-author">By Donald Keyhoe</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Flying Saucers Are Real on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Flying Saucers Are Real">The Flying Saucers Are Real</a>
+</h4>
+<p class="fr-book-author">By Donald Keyhoe</p>
         
-        <p class="fr-book-desc">Reflects the classic sighting-based tradition mirrored in Malaysia.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reflects the classic sighting-based tradition mirrored in Malaysia.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Flying+Saucers+Are+Real+by+Donald+Keyhoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Open+Skies%2C+Closed+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Open Skies, Closed Minds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-malaysia-s-ufo-stories-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-malaysia-s-ufo-stories-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1493,7 +1493,7 @@ The fairest reading is neither “nothing happened” nor “Malaysia has proof 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1513,7 +1513,7 @@ The fairest reading is neither “nothing happened” nor “Malaysia has proof 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1545,7 +1545,7 @@ The fairest reading is neither “nothing happened” nor “Malaysia has proof 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1597,7 +1597,7 @@ The fairest reading is neither “nothing happened” nor “Malaysia has proof 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1642,7 +1642,7 @@ The fairest reading is neither “nothing happened” nor “Malaysia has proof 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1680,218 +1680,217 @@ The fairest reading is neither “nothing happened” nor “Malaysia has proof 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufosightingsmalaysia.blogspot.com  
    Title: stowell school ufo incident 1970  
-   Link: <a href="https://ufosightingsmalaysia.blogspot.com/2015/04/stowell-school-ufo-incident-1970.html" target="_blank" rel="noopener noreferrer nofollow">https://ufosightingsmalaysia.blogspot.com/2015/04/stowell-school-ufo-incident-1970.html</a>  
+   Link:<a href="https://ufosightingsmalaysia.blogspot.com/2015/04/stowell-school-ufo-incident-1970.html" target="_blank" rel="noopener noreferrer nofollow">https://ufosightingsmalaysia.blogspot.com/2015/04/stowell-school-ufo-incident-1970.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: says.com  
    Title: Nobody Seems To Know What That Bright UFO Captured On Hari Kebangsaan Night Was  
-   Link: <a href="https://says.com/my/news/mysterious-ufo-on-hari-kebangsaan" target="_blank" rel="noopener noreferrer nofollow">https://says.com/my/news/mysterious-ufo-on-hari-kebangsaan</a>  
+   Link:<a href="https://says.com/my/news/mysterious-ufo-on-hari-kebangsaan" target="_blank" rel="noopener noreferrer nofollow">https://says.com/my/news/mysterious-ufo-on-hari-kebangsaan</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cilisos.my  
    Title: Current Issues Tambah Pedas!6 eerie times Malaysia was visited by…. ALIENS FROM  
-   Link: <a href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow">https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/</a>  
+   Link:<a href="https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/" target="_blank" rel="noopener noreferrer nofollow">https://cilisos.my/6-eerie-events-that-happened-in-malaysia-involving-aliens-from-space/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: malaysiakini.com  
-   Link: <a href="https://www.malaysiakini.com/letters/138543" target="_blank" rel="noopener noreferrer nofollow">https://www.malaysiakini.com/letters/138543</a>  
+   Link:<a href="https://www.malaysiakini.com/letters/138543" target="_blank" rel="noopener noreferrer nofollow">https://www.malaysiakini.com/letters/138543</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: snopes.com  
    Title: ufo spotted malaysia  
-   Link: <a href="https://www.snopes.com/fact-check/ufo-spotted-malaysia/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/ufo-spotted-malaysia/</a>  
+   Link:<a href="https://www.snopes.com/fact-check/ufo-spotted-malaysia/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/ufo-spotted-malaysia/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: zulheimymaamor.blogspot.com  
    Title: ufo di malaysia  
-   Link: <a href="https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html" target="_blank" rel="noopener noreferrer nofollow">https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html</a>  
+   Link:<a href="https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html" target="_blank" rel="noopener noreferrer nofollow">https://zulheimymaamor.blogspot.com/2024/01/ufo-di-malaysia.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufosightingsmalaysia.blogspot.com  
    Title: the 1995 ufo incident in tanjung sepat  
-   Link: <a href="https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html" target="_blank" rel="noopener noreferrer nofollow">https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html</a>  
+   Link:<a href="https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html" target="_blank" rel="noopener noreferrer nofollow">https://ufosightingsmalaysia.blogspot.com/2012/11/the-1995-ufo-incident-in-tanjung-sepat.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mysa.gov.my  
    Title: FA Qs Space Debris – MALAYSIAN SPACE AGENCY (MYSA)  
-   Link: <a href="https://www.mysa.gov.my/faqs-space-debris/" target="_blank" rel="noopener noreferrer nofollow">https://www.mysa.gov.my/faqs-space-debris/</a>  
+   Link:<a href="https://www.mysa.gov.my/faqs-space-debris/" target="_blank" rel="noopener noreferrer nofollow">https://www.mysa.gov.my/faqs-space-debris/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mysa.gov.my  
    Title: MALAYSIA N SPACE AGENCY (MYSA) – MOSTI  
-   Link: <a href="https://www.mysa.gov.my/" target="_blank" rel="noopener noreferrer nofollow">https://www.mysa.gov.my/</a>  
+   Link:<a href="https://www.mysa.gov.my/" target="_blank" rel="noopener noreferrer nofollow">https://www.mysa.gov.my/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: atsb.gov.au  
    Title: mh370 operational search reports  
-   Link: <a href="https://www.atsb.gov.au/mh370-operational-search-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/mh370-operational-search-reports</a>  
+   Link:<a href="https://www.atsb.gov.au/mh370-operational-search-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/mh370-operational-search-reports</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/malaysias-missing-mh370-plane-what-we-know-10-years-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/malaysias-missing-mh370-plane-what-we-know-10-years-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/malaysias-missing-mh370-plane-what-we-know-10-years-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/malaysias-missing-mh370-plane-what-we-know-10-years-2024-03-08/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: snopes.com  
    Title: mysterious voicemail malaysian airlines disappearance  
-   Link: <a href="https://www.snopes.com/fact-check/mysterious-voicemail-malaysian-airlines-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/mysterious-voicemail-malaysian-airlines-disappearance/</a>  
+   Link:<a href="https://www.snopes.com/fact-check/mysterious-voicemail-malaysian-airlines-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/mysterious-voicemail-malaysian-airlines-disappearance/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2024/02/the-mh370-teleport-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/02/the-mh370-teleport-hoax/</a>  
+   Link:<a href="https://skepticalinquirer.org/2024/02/the-mh370-teleport-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/02/the-mh370-teleport-hoax/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mkn.gov.my  
-   Link: <a href="https://www.mkn.gov.my/web/wp-content/uploads/sites/3/2019/08/BUKU-MKN-GARIS-PANDUAN_1-min.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mkn.gov.my/web/wp-content/uploads/sites/3/2019/08/BUKU-MKN-GARIS-PANDUAN_1-min.pdf</a>  
+   Link:<a href="https://www.mkn.gov.my/web/wp-content/uploads/sites/3/2019/08/BUKU-MKN-GARIS-PANDUAN_1-min.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mkn.gov.my/web/wp-content/uploads/sites/3/2019/08/BUKU-MKN-GARIS-PANDUAN_1-min.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mkn.gov.my  
    Title: JENI S PENIPUAN ATAS TALIAN!  
-   Link: <a href="https://www.mkn.gov.my/web/ms/2023/03/28/jenis-penipuan-atas-talian/" target="_blank" rel="noopener noreferrer nofollow">https://www.mkn.gov.my/web/ms/2023/03/28/jenis-penipuan-atas-talian/</a>  
+   Link:<a href="https://www.mkn.gov.my/web/ms/2023/03/28/jenis-penipuan-atas-talian/" target="_blank" rel="noopener noreferrer nofollow">https://www.mkn.gov.my/web/ms/2023/03/28/jenis-penipuan-atas-talian/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mkn.gov.my  
    Title: niat tunai haji punah diperdaya scammer wanita  
-   Link: <a href="https://www.mkn.gov.my/web/ms/2024/05/28/niat-tunai-haji-punah-diperdaya-scammer-wanita/" target="_blank" rel="noopener noreferrer nofollow">https://www.mkn.gov.my/web/ms/2024/05/28/niat-tunai-haji-punah-diperdaya-scammer-wanita/</a>  
+   Link:<a href="https://www.mkn.gov.my/web/ms/2024/05/28/niat-tunai-haji-punah-diperdaya-scammer-wanita/" target="_blank" rel="noopener noreferrer nofollow">https://www.mkn.gov.my/web/ms/2024/05/28/niat-tunai-haji-punah-diperdaya-scammer-wanita/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mkn.gov.my  
    Title: 𝗖𝗨𝗕𝗔𝗔𝗡 𝗖𝗨𝗥𝗜 𝗗𝗔𝗟𝗔𝗠 𝗣𝗘𝗦𝗔𝗪𝗔𝗧  
-   Link: <a href="https://www.mkn.gov.my/web/ms/2025/02/13/%F0%9D%97%96%F0%9D%97%A8%F0%9D%97%95%F0%9D%97%94%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%96%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9C-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A0-%F0%9D%97%A3/" target="_blank" rel="noopener noreferrer nofollow">https://www.mkn.gov.my/web/ms/2025/02/13/%F0%9D%97%96%F0%9D%97%A8%F0%9D%97%95%F0%9D%97%94%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%96%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9C-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A0-%F0%9D%97%A3/</a>  
+   Link:<a href="https://www.mkn.gov.my/web/ms/2025/02/13/%F0%9D%97%96%F0%9D%97%A8%F0%9D%97%95%F0%9D%97%94%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%96%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9C-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A0-%F0%9D%97%A3/" target="_blank" rel="noopener noreferrer nofollow">https://www.mkn.gov.my/web/ms/2025/02/13/%F0%9D%97%96%F0%9D%97%A8%F0%9D%97%95%F0%9D%97%94%F0%9D%97%94%F0%9D%97%A1-%F0%9D%97%96%F0%9D%97%A8%F0%9D%97%A5%F0%9D%97%9C-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%A0-%F0%9D%97%A3/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mkn.gov.my  
    Title: tip elak jadi mangsa penggodam kecurian identiti  
-   Link: <a href="https://www.mkn.gov.my/web/ms/2024/03/05/tip-elak-jadi-mangsa-penggodam-kecurian-identiti/" target="_blank" rel="noopener noreferrer nofollow">https://www.mkn.gov.my/web/ms/2024/03/05/tip-elak-jadi-mangsa-penggodam-kecurian-identiti/</a>  
+   Link:<a href="https://www.mkn.gov.my/web/ms/2024/03/05/tip-elak-jadi-mangsa-penggodam-kecurian-identiti/" target="_blank" rel="noopener noreferrer nofollow">https://www.mkn.gov.my/web/ms/2024/03/05/tip-elak-jadi-mangsa-penggodam-kecurian-identiti/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: mkn.gov.my  
    Title: TH E DOZEN PERSON  
-   Link: <a href="https://www.mkn.gov.my/web/ms/2025/07/27/the-dozen-person/" target="_blank" rel="noopener noreferrer nofollow">https://www.mkn.gov.my/web/ms/2025/07/27/the-dozen-person/</a>  
+   Link:<a href="https://www.mkn.gov.my/web/ms/2025/07/27/the-dozen-person/" target="_blank" rel="noopener noreferrer nofollow">https://www.mkn.gov.my/web/ms/2025/07/27/the-dozen-person/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: snopes.com  
    Title: mh370 patent disappearance  
-   Link: <a href="https://www.snopes.com/fact-check/mh370-patent-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/mh370-patent-disappearance/</a>  
+   Link:<a href="https://www.snopes.com/fact-check/mh370-patent-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/mh370-patent-disappearance/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: snopes.com  
-   Link: <a href="https://www.snopes.com/tag/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/tag/aliens/</a>  
+   Link:<a href="https://www.snopes.com/tag/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/tag/aliens/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: parlimen.gov.my  
-   Link: <a href="https://parlimen.gov.my/files/jindex/pdf/JBDR2107202528082025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://parlimen.gov.my/files/jindex/pdf/JBDR2107202528082025.pdf</a>  
+   Link:<a href="https://parlimen.gov.my/files/jindex/pdf/JBDR2107202528082025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://parlimen.gov.my/files/jindex/pdf/JBDR2107202528082025.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ikim.gov.my  
    Title: Laporan Tahunan 2023  
-   Link: <a href="https://www.ikim.gov.my/wp-content/uploads/Laporan%20Tahunan%20IKIM/Laporan%20Tahunan%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ikim.gov.my/wp-content/uploads/Laporan%20Tahunan%20IKIM/Laporan%20Tahunan%202023.pdf</a>  
+   Link:<a href="https://www.ikim.gov.my/wp-content/uploads/Laporan%20Tahunan%20IKIM/Laporan%20Tahunan%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ikim.gov.my/wp-content/uploads/Laporan%20Tahunan%20IKIM/Laporan%20Tahunan%202023.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mosti.gov.my  
-   Link: <a href="https://www.mosti.gov.my/wp-content/uploads/2025/11/1.-Investigation-of-the-Discovery-of-a-Suspected-Space-Object-Version-3.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mosti.gov.my/wp-content/uploads/2025/11/1.-Investigation-of-the-Discovery-of-a-Suspected-Space-Object-Version-3.0.pdf</a>  
+   Link:<a href="https://www.mosti.gov.my/wp-content/uploads/2025/11/1.-Investigation-of-the-Discovery-of-a-Suspected-Space-Object-Version-3.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mosti.gov.my/wp-content/uploads/2025/11/1.-Investigation-of-the-Discovery-of-a-Suspected-Space-Object-Version-3.0.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reuters.com  
    Title: pentagon ufo report says most sightings ordinary objects phenomena 2024 03 08  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: malaymail.com  
    Title: Malay Mail UFO sighted over Kuala Krai? (VIDEO) | Malay Mail  
-   Link: <a href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow">https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993</a>  
+   Link:<a href="https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993" target="_blank" rel="noopener noreferrer nofollow">https://www.malaymail.com/news/malaysia/2016/09/02/ufo-sighted-over-kuala-krai-video/1196993</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: freemalaysiatoday.com  
    Title: 3 jaw dropping ufo sightings in malaysia  
-   Link: <a href="https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia" target="_blank" rel="noopener noreferrer nofollow">https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia</a>  
+   Link:<a href="https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia" target="_blank" rel="noopener noreferrer nofollow">https://www.freemalaysiatoday.com/category/leisure/2019/07/02/3-jaw-dropping-ufo-sightings-in-malaysia</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Malaysia Airlines Flight 370 disappearance theories  
-   Link: <a href="https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370_disappearance_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370_disappearance_theories</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370_disappearance_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370_disappearance_theories</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: malaymail.com  
-   Link: <a href="https://www.malaymail.com/news/life/2026/05/09/flying-discs-glowing-orange-orbs-and-sauronlike-sightings-emerge-from-pentagons-alien-archives/219293" target="_blank" rel="noopener noreferrer nofollow">https://www.malaymail.com/news/life/2026/05/09/flying-discs-glowing-orange-orbs-and-sauronlike-sightings-emerge-from-pentagons-alien-archives/219293</a>  
+   Link:<a href="https://www.malaymail.com/news/life/2026/05/09/flying-discs-glowing-orange-orbs-and-sauronlike-sightings-emerge-from-pentagons-alien-archives/219293" target="_blank" rel="noopener noreferrer nofollow">https://www.malaymail.com/news/life/2026/05/09/flying-discs-glowing-orange-orbs-and-sauronlike-sightings-emerge-from-pentagons-alien-archives/219293</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: britannica.com  
    Title: Malaysia Airlines flight 370 disappearance  
-   Link: <a href="https://www.britannica.com/event/Malaysia-Airlines-flight-370-disappearance" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Malaysia-Airlines-flight-370-disappearance</a>  
+   Link:<a href="https://www.britannica.com/event/Malaysia-Airlines-flight-370-disappearance" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Malaysia-Airlines-flight-370-disappearance</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: thequint.com  
    Title: malaysian airlines flight mh370 missing new footage viral video fact check  
-   Link: <a href="https://www.thequint.com/news/webqoof/malaysian-airlines-flight-mh370-missing-new-footage-viral-video-fact-check" target="_blank" rel="noopener noreferrer nofollow">https://www.thequint.com/news/webqoof/malaysian-airlines-flight-mh370-missing-new-footage-viral-video-fact-check</a>  
+   Link:<a href="https://www.thequint.com/news/webqoof/malaysian-airlines-flight-mh370-missing-new-footage-viral-video-fact-check" target="_blank" rel="noopener noreferrer nofollow">https://www.thequint.com/news/webqoof/malaysian-airlines-flight-mh370-missing-new-footage-viral-video-fact-check</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Bizarre footage from Malaysia shows giant UFO hovering  
-   Link: <a href="https://www.youtube.com/watch?v=Oxry6wWHPK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oxry6wWHPK0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VFX Artists DEBUNK Flight MH370 Alien Abduction &quot;Footage&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Oxry6wWHPK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oxry6wWHPK0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VFX Artists DEBUNK Flight MH370 Alien Abduction &quot;Footage&quot;...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: VFX Artists DEBUNK Flight MH370 Alien Abduction "Footage"  
-   Link: <a href="https://www.youtube.com/watch?v=hS58RJFXxyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hS58RJFXxyk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The REAL Story of MH370 UFO Video EXPOSED by VFX Experts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hS58RJFXxyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hS58RJFXxyk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The REAL Story of MH370 UFO Video EXPOSED by VFX Experts...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Extraordinary UFO footage from Malaysia  
-   Link: <a href="https://www.youtube.com/watch?v=5sG_RydGBmY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5sG_RydGBmY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre footage from Malaysia shows giant UFO hovering - Daily Mail...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5sG_RydGBmY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5sG_RydGBmY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bizarre footage from Malaysia shows giant UFO hovering - Daily Mail...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Corridor/comments/186in6p/ufo_expert_says_corridor_was_wrong_in_their/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Corridor/comments/186in6p/ufo_expert_says_corridor_was_wrong_in_their/</a>  
+   Link:<a href="https://www.reddit.com/r/Corridor/comments/186in6p/ufo_expert_says_corridor_was_wrong_in_their/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Corridor/comments/186in6p/ufo_expert_says_corridor_was_wrong_in_their/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1otqfwc/serious_does_anybody_believe_this_video_is_legit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1otqfwc/serious_does_anybody_believe_this_video_is_legit/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1otqfwc/serious_does_anybody_believe_this_video_is_legit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1otqfwc/serious_does_anybody_believe_this_video_is_legit/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
+   Link:<a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DPXHgD9gSJh/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPXHgD9gSJh/</a>  
+   Link:<a href="https://www.instagram.com/reel/DPXHgD9gSJh/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPXHgD9gSJh/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1szdlv3/anyone_have_more_context_on_this_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1szdlv3/anyone_have_more_context_on_this_video/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1szdlv3/anyone_have_more_context_on_this_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1szdlv3/anyone_have_more_context_on_this_video/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tobakiofficial/posts/breaking-an-unidentified-flying-object-was-spotted-near-the-kl-tower-on-wednesda/1452852248446737/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tobakiofficial/posts/breaking-an-unidentified-flying-object-was-spotted-near-the-kl-tower-on-wednesda/1452852248446737/</a>
+   Link:<a href="https://www.facebook.com/tobakiofficial/posts/breaking-an-unidentified-flying-object-was-spotted-near-the-kl-tower-on-wednesda/1452852248446737/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tobakiofficial/posts/breaking-an-unidentified-flying-object-was-spotted-near-the-kl-tower-on-wednesda/1452852248446737/</a>

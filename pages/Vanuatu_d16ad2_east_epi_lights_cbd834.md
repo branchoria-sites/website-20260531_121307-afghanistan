@@ -251,20 +251,20 @@ image: /assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-socia
 The reports of strange lights seen from Epi Island are among the most interesting cases in Vanuatu because they sit directly beside a documented geological event. Unlike many UFO stories that rely entirely on witness testimony, the East Epi incidents occurred in a region where an active submarine volcano was producing observable surface effects, gas emissions, ash, discoloured water and floating pumice. The key question is therefore not whether people saw something unusual, but whether the reported lights can reasonably be linked to volcanic activity rather than an unidentified aerial phenomenon.
 
 <img src="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-dark.svg" | relative_url }}" alt="East Epi illustration 1" data-theme-src-dark="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vanuatu_d16ad2_east_epi_lights_cbd834-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The evidence does not prove that every reported light around Epi was volcanic. However, East Epi provides one of the clearest examples in Vanuatu where unusual observations can be compared against independently verified natural activity. That makes it an important test case for assessing how UFO-style reports emerge in a volcanic island environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">lasting only a few hours on February...Read more...</span></span></span>
+The evidence does not prove that every reported light around Epi was volcanic. However, East Epi provides one of the clearest examples in Vanuatu where unusual observations can be compared against independently verified natural activity. That makes it an important test case for assessing how UFO-style reports emerge in a volcanic island environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">lasting only a few hours on February...Read more...</span></span></span>
 
 ## The Reported Lights Around Epi
 
 Public references to the Epi lights are limited, which is itself an important part of the story. There is no large witness archive, no military investigation and no substantial photographic record that has entered the public domain.
 
-The most widely circulated account appeared through local reporting and social-media discussion. Residents in the south and west of Epi reportedly spent about a week trying to understand a strange light appearing from the west. The reports describe confusion rather than a detailed encounter. Available summaries do not provide precise times, distances, altitude estimates or instrument data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The residents of Epi Island in the South and West have...The residents of Epi Island in the South and West have been in confusio...</span></span></span>
+The most widely circulated account appeared through local reporting and social-media discussion. Residents in the south and west of Epi reportedly spent about a week trying to understand a strange light appearing from the west. The reports describe confusion rather than a detailed encounter. Available summaries do not provide precise times, distances, altitude estimates or instrument data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The residents of Epi Island in the South and West have...The residents of Epi Island in the South and West have been in confusio...</span></span></span>
 
 That lack of detail creates two problems:
 
 * The sightings cannot be reconstructed accurately.
 * Alternative explanations cannot be eliminated with confidence.
 
-In many UFO cases, witness descriptions become stronger over time as stories are repeated. In the Epi case, the opposite problem exists. The reports are so brief that researchers cannot determine whether observers saw a single source, multiple lights, reflections, volcanic glow, maritime activity or something else entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/91560190640/posts/10161027289280641/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Strange light effect from west shoreThe residents of Epi Island in the South and West have been in confusion for about a week due to a st...</span></span></span>
+In many UFO cases, witness descriptions become stronger over time as stories are repeated. In the Epi case, the opposite problem exists. The reports are so brief that researchers cannot determine whether observers saw a single source, multiple lights, reflections, volcanic glow, maritime activity or something else entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/91560190640/posts/10161027289280641/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Strange light effect from west shoreThe residents of Epi Island in the South and West have been in confusion for about a week due to a st...</span></span></span>
 
 What makes the reports notable is not their richness but their location. The observations emerged from an island facing one of the most active submarine volcanic zones in Vanuatu.
 
@@ -272,11 +272,11 @@ What makes the reports notable is not their richness but their location. The obs
 
 ## What the Submarine Eruption Actually Documented
 
-The East Epi volcanic system lies several kilometres east of Epi Island and contains multiple submarine cones. It has a history of eruptions, some of which have broken the ocean surface and produced temporary volcanic islands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/East_Epi_%28volcano%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">East Epi (volcano</span><span class="citation-popover-snippet">East Epi (volcano</span></span></span>
+The East Epi volcanic system lies several kilometres east of Epi Island and contains multiple submarine cones. It has a history of eruptions, some of which have broken the ocean surface and produced temporary volcanic islands.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/East_Epi_%28volcano%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">East Epi (volcano</span><span class="citation-popover-snippet">East Epi (volcano</span></span></span>
 
 In late January and early February 2023, the system entered a confirmed eruptive phase. Monitoring agencies and scientific observers documented a sequence of events that went far beyond rumour or anecdote.
 
-The Vanuatu Meteorology and Geo-Hazards Department (VMGD) reported that the eruption began in late January and continued into early February. Surface activity included phreatic explosions, meaning explosions driven by interactions between water and hot volcanic material. Ash was thrown roughly 100 metres above the ocean surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">lasting only a few hours on February...Read more...</span></span></span>
+The Vanuatu Meteorology and Geo-Hazards Department (VMGD) reported that the eruption began in late January and continued into early February. Surface activity included phreatic explosions, meaning explosions driven by interactions between water and hot volcanic material. Ash was thrown roughly 100 metres above the ocean surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">lasting only a few hours on February...Read more...</span></span></span>
 
 The Smithsonian Institution's Global Volcanism Program documented several observable features:
 
@@ -287,11 +287,11 @@ The Smithsonian Institution's Global Volcanism Program documented several observ
 * Discoloured seawater around the eruption zone.
 * Floating pumice rafts.
 * Satellite detection of ash and sulphur dioxide.
-* Continued activity visible from aircraft and satellite imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Smithsonian Volcanism ProgramVolcanic Activity Report on East Epi (Vanuatu) — March 2023This report covers a new eruption during January...</span></span></span>
+* Continued activity visible from aircraft and satellite imagery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Smithsonian Volcanism ProgramVolcanic Activity Report on East Epi (Vanuatu) — March 2023This report covers a new eruption during January...</span></span></span>
 
 </div>
 
-Researchers later analysing the eruption concluded that activity likely developed between 25 and 31 January before reaching a more energetic phase on 31 January. Their reconstruction described ash and gas columns rising more than 100 metres above sea level, water discolouration, pumice rafts and pyroclastic activity moving across the water surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/404677362_Detection_of_the_eruption_of_the_East_Epi_submarine_volcano_Vanuatu_and_its_subsequent_tsunami_on_31_January_2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Detection of the eruption of the East Epi submarine</span><span class="citation-popover-snippet">ResearchGate(PDF) Detection of the eruption of the East Epi submarine...May 9, 2026 — 13 May 2026 — Between the 25th and the 31st of Jan...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
+Researchers later analysing the eruption concluded that activity likely developed between 25 and 31 January before reaching a more energetic phase on 31 January. Their reconstruction described ash and gas columns rising more than 100 metres above sea level, water discolouration, pumice rafts and pyroclastic activity moving across the water surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/404677362_Detection_of_the_eruption_of_the_East_Epi_submarine_volcano_Vanuatu_and_its_subsequent_tsunami_on_31_January_2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Detection of the eruption of the East Epi submarine</span><span class="citation-popover-snippet">ResearchGate(PDF) Detection of the eruption of the East Epi submarine...May 9, 2026 — 13 May 2026 — Between the 25th and the 31st of Jan...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span>
 
 This means the East Epi event was not merely a distant underwater disturbance. It was a visible surface phenomenon capable of producing dramatic environmental effects.
 
@@ -309,7 +309,7 @@ Large steam plumes can remain visible after sunset if illuminated by low-angle s
 
 **Glow from eruptive material**
 
-Although the 2023 East Epi eruption was primarily phreatic rather than a lava fountain, ash, gas and eruptive clouds can still create unusual brightness contrasts against a dark horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">lasting only a few hours on February...Read more...</span></span></span>
+Although the 2023 East Epi eruption was primarily phreatic rather than a lava fountain, ash, gas and eruptive clouds can still create unusual brightness contrasts against a dark horizon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">lasting only a few hours on February...Read more...</span></span></span>
 
 **Atmospheric scattering**
 
@@ -321,7 +321,7 @@ Observers looking westward over water may see reflections stretched across the o
 
 **Electrical and volcanic processes**
 
-Scientists have documented electrical activity in some eruptions, including volcanic lightning. There is no evidence that this occurred during the East Epi event, but volcanic systems are capable of producing luminous atmospheric effects that unfamiliar observers could interpret as anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023RG000808" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agupubs.onlinelibrary.wiley.com">[AGU Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agupubs.onlinelibrary.wiley.com</span><span class="citation-popover-title">Entraining ambient air, these</span><span class="citation-popover-snippet">AGU PublicationsDynamics, Monitoring, and Forecasting of Tephra in the...by F Pardini · 2024 · Cited by 11 — Explosive volcanic eruption...</span></span></span>
+Scientists have documented electrical activity in some eruptions, including volcanic lightning. There is no evidence that this occurred during the East Epi event, but volcanic systems are capable of producing luminous atmospheric effects that unfamiliar observers could interpret as anomalous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023RG000808" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agupubs.onlinelibrary.wiley.com">[AGU Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agupubs.onlinelibrary.wiley.com</span><span class="citation-popover-title">Entraining ambient air, these</span><span class="citation-popover-snippet">AGU PublicationsDynamics, Monitoring, and Forecasting of Tephra in the...by F Pardini · 2024 · Cited by 11 — Explosive volcanic eruption...</span></span></span>
 
 None of these mechanisms automatically explains every report. Their significance is that they provide known physical processes operating in the same location and time window as the sightings.
 
@@ -332,7 +332,7 @@ The strongest argument against treating the Epi lights as a compelling UFO case 
 
 For a genuinely anomalous explanation to gain strength, researchers would need to show that the reported lights differed substantially from what would be expected during a period of volcanic unrest. Instead, the known facts point in the opposite direction.
 
-The region was already experiencing confirmed submarine volcanic activity. Satellite imagery detected volcanic emissions. Observers reported surface disturbances. Aircraft documented steam and discoloured water. Authorities issued warnings and exclusion zones around the eruption area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Smithsonian Volcanism ProgramVolcanic Activity Report on East Epi (Vanuatu) — March 2023This report covers a new eruption during January...</span></span></span> ReliefWeb When a strange-light report emerges in the middle of a verified eruption sequence <span class="citation-chip-wrap"><a class="citation-chip" href="https://reliefweb.int/report/vanuatu/vanuatu-volcano-alert-bulletin-ndeg2-east-epi-activity-february-23rd-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[reliefweb.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">Relief Web Vanuatu Volcano Alert Bulletin n°2</span><span class="citation-popover-snippet">more...</span></span></span>, the burden of proof shifts. The question becomes not "Could this be a UFO?" but "What evidence shows it was something other than the eruption?"
+The region was already experiencing confirmed submarine volcanic activity. Satellite imagery detected volcanic emissions. Observers reported surface disturbances. Aircraft documented steam and discoloured water. Authorities issued warnings and exclusion zones around the eruption area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Smithsonian Volcanism ProgramVolcanic Activity Report on East Epi (Vanuatu) — March 2023This report covers a new eruption during January...</span></span></span> ReliefWeb When a strange-light report emerges in the middle of a verified eruption sequence<span class="citation-chip-wrap"><a class="citation-chip" href="https://reliefweb.int/report/vanuatu/vanuatu-volcano-alert-bulletin-ndeg2-east-epi-activity-february-23rd-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[reliefweb.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">Relief Web Vanuatu Volcano Alert Bulletin n°2</span><span class="citation-popover-snippet">more...</span></span></span>, the burden of proof shifts. The question becomes not "Could this be a UFO?" but "What evidence shows it was something other than the eruption?"
 
 At present, no publicly available evidence clears that higher threshold.
 
@@ -348,7 +348,7 @@ Several uncertainties remain:
 * Available reports do not specify the lights' colour, motion or duration in detail.
 * No public photographs have been independently analysed.
 * There is little information on weather conditions during each sighting.
-* No publicly released instrumental record links a specific observed light to a specific volcanic event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/61550086445013/posts/updates-satellite-imagery-has-now-confirmed-two-active-volcanic-vents-at-the-tit/122374497632002881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">the coast as phreatic explosions may continue and could generate...Read more...</span></span></span>
+* No publicly released instrumental record links a specific observed light to a specific volcanic event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/61550086445013/posts/updates-satellite-imagery-has-now-confirmed-two-active-volcanic-vents-at-the-tit/122374497632002881/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">the coast as phreatic explosions may continue and could generate...Read more...</span></span></span>
 
 </div>
 
@@ -385,199 +385,199 @@ Without them, the case remains suggestive rather than conclusive.
 
 East Epi is important not because it offers one of Vanuatu's strongest unexplained UFO cases, but because it demonstrates how unusual sightings can intersect with a documented natural event.
 
-Many UFO reports worldwide suffer from a lack of independent evidence. East Epi is unusual because a substantial body of geological evidence exists alongside the witness accounts. Scientists know that an eruption occurred. They know where it occurred. They know that it produced visible surface effects and atmospheric emissions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">lasting only a few hours on February...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Smithsonian Volcanism ProgramVolcanic Activity Report on East Epi (Vanuatu) — March 2023This report covers a new eruption during January...</span></span></span>
+Many UFO reports worldwide suffer from a lack of independent evidence. East Epi is unusual because a substantial body of geological evidence exists alongside the witness accounts. Scientists know that an eruption occurred. They know where it occurred. They know that it produced visible surface effects and atmospheric emissions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">lasting only a few hours on February...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[Smithsonian Volcanism Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Smithsonian Volcanism ProgramVolcanic Activity Report on East Epi (Vanuatu) — March 2023This report covers a new eruption during January...</span></span></span>
 
 As a result, East Epi serves as a useful benchmark for evaluating future reports elsewhere in Vanuatu. Any claim involving lights over water, distant glows, marine horizons or volcanic regions must first be checked against the country's active geohazard environment. The East Epi episode shows that a genuine mystery light can sometimes be less mysterious once local geology enters the picture.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were East Epi&#x27;s Strange Lights Volcanic?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were East Epi&#x27;s Strange Lights Volcanic?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers evaluate witness reports against natural explanations, matching the volcanic-versus-UFO theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate witness reports against natural explanations, matching the volcanic-versus-UFO theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidence quality and competing explanations rather than sensational claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence quality and competing explanations rather than sensational claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how investigators assess sightings with incomplete evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how investigators assess sightings with incomplete evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-east-epi-s-strange-lights-volcanic-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="were-east-epi-s-strange-lights-volcanic-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ As a result, East Epi serves as a useful benchmark for evaluating future reports
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ As a result, East Epi serves as a useful benchmark for evaluating future reports
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ As a result, East Epi serves as a useful benchmark for evaluating future reports
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ As a result, East Epi serves as a useful benchmark for evaluating future reports
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ As a result, East Epi serves as a useful benchmark for evaluating future reports
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,136 +780,135 @@ As a result, East Epi serves as a useful benchmark for evaluating future reports
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: vmgd.gov.vu  
-   Link: <a href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lasting only a few hours on February...Read more...</p></details>
+   Link:<a href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lasting only a few hours on February...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The residents of Epi Island in the South and West have...The residents of Epi Island in the South and West have been in confusio...</p></details>
+   Link:<a href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The residents of Epi Island in the South and West have...The residents of Epi Island in the South and West have been in confusio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/91560190640/posts/10161027289280641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/91560190640/posts/10161027289280641/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange light effect from west shoreThe residents of Epi Island in the South and West have been in confusion for about a week due to a st...</p></details>
+   Link:<a href="https://www.facebook.com/groups/91560190640/posts/10161027289280641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/91560190640/posts/10161027289280641/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange light effect from west shoreThe residents of Epi Island in the South and West have been in confusion for about a week due to a st...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: East Epi (volcano)  
-   Link: <a href="https://en.wikipedia.org/wiki/East_Epi_%28volcano%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/East_Epi_%28volcano%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/East_Epi_%28volcano%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/East_Epi_%28volcano%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reliefweb.int  
    Title: Relief Web Vanuatu Volcano Alert Bulletin n°2  
-   Link: <a href="https://reliefweb.int/report/vanuatu/vanuatu-volcano-alert-bulletin-ndeg2-east-epi-activity-february-23rd-2023" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/vanuatu/vanuatu-volcano-alert-bulletin-ndeg2-east-epi-activity-february-23rd-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://reliefweb.int/report/vanuatu/vanuatu-volcano-alert-bulletin-ndeg2-east-epi-activity-february-23rd-2023" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/vanuatu/vanuatu-volcano-alert-bulletin-ndeg2-east-epi-activity-february-23rd-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Detection of the eruption of the East Epi submarine  
-   Link: <a href="https://www.researchgate.net/publication/404677362_Detection_of_the_eruption_of_the_East_Epi_submarine_volcano_Vanuatu_and_its_subsequent_tsunami_on_31_January_2023" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404677362_Detection_of_the_eruption_of_the_East_Epi_submarine_volcano_Vanuatu_and_its_subsequent_tsunami_on_31_January_2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Detection of the eruption of the East Epi submarine...May 9, 2026 — 13 May 2026 — Between the 25th and the 31st of Jan...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404677362_Detection_of_the_eruption_of_the_East_Epi_submarine_volcano_Vanuatu_and_its_subsequent_tsunami_on_31_January_2023" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404677362_Detection_of_the_eruption_of_the_East_Epi_submarine_volcano_Vanuatu_and_its_subsequent_tsunami_on_31_January_2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Detection of the eruption of the East Epi submarine...May 9, 2026 — 13 May 2026 — Between the 25th and the 31st of Jan...</p></details>
    Published: May 9, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61550086445013/posts/updates-satellite-imagery-has-now-confirmed-two-active-volcanic-vents-at-the-tit/122374497632002881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61550086445013/posts/updates-satellite-imagery-has-now-confirmed-two-active-volcanic-vents-at-the-tit/122374497632002881/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the coast as phreatic explosions may continue and could generate...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/61550086445013/posts/updates-satellite-imagery-has-now-confirmed-two-active-volcanic-vents-at-the-tit/122374497632002881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61550086445013/posts/updates-satellite-imagery-has-now-confirmed-two-active-volcanic-vents-at-the-tit/122374497632002881/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the coast as phreatic explosions may continue and could generate...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/volcanonews/posts/4293892314195898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/volcanonews/posts/4293892314195898/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bismarck Sea volcano eruption in Papua New GuineaThe previous advisory, issued at 22:20 UTC on May 12, described the ash as partially ide...</p></details>
+   Link:<a href="https://www.facebook.com/groups/volcanonews/posts/4293892314195898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/volcanonews/posts/4293892314195898/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bismarck Sea volcano eruption in Papua New GuineaThe previous advisory, issued at 22:20 UTC on May 12, described the ash as partially ide...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: volcano.si.edu  
-   Link: <a href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Volcanism ProgramVolcanic Activity Report on East Epi (Vanuatu) — March 2023This report covers a new eruption during January...</p></details>
+   Link:<a href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Volcanism ProgramVolcanic Activity Report on East Epi (Vanuatu) — March 2023This report covers a new eruption during January...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: volcano.si.edu  
-   Link: <a href="https://volcano.si.edu/volcano.cfm?vn=257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcano.cfm?vn=257060</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Volcanism ProgramGlobal Volcanism Program | East EpiThis report covers a new eruption during January through February 2023 th...</p></details>
+   Link:<a href="https://volcano.si.edu/volcano.cfm?vn=257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcano.cfm?vn=257060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Volcanism ProgramGlobal Volcanism Program | East EpiThis report covers a new eruption during January through February 2023 th...</p></details>
    Published: February 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: volcano.si.edu  
-   Link: <a href="https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230201-257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230201-257060</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Volcanism ProgramReport on East Epi (Vanuatu) — 1 February-7 February 20231 Feb 2023 — Steam was observed rising from the oce...</p></details>
+   Link:<a href="https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230201-257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230201-257060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Volcanism ProgramReport on East Epi (Vanuatu) — 1 February-7 February 20231 Feb 2023 — Steam was observed rising from the oce...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: agupubs.onlinelibrary.wiley.com  
    Title: Entraining ambient air, these  
-   Link: <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023RG000808" target="_blank" rel="noopener noreferrer nofollow">https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023RG000808</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AGU PublicationsDynamics, Monitoring, and Forecasting of Tephra in the...by F Pardini · 2024 · Cited by 11 — Explosive volcanic eruption...</p></details>
+   Link:<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023RG000808" target="_blank" rel="noopener noreferrer nofollow">https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023RG000808</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AGU PublicationsDynamics, Monitoring, and Forecasting of Tephra in the...by F Pardini · 2024 · Cited by 11 — Explosive volcanic eruption...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: volcano.si.edu  
-   Link: <a href="https://volcano.si.edu/" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institution - Global Volcanism Program...The Global Volcanism Program (GVP) seeks better understanding of all volcanoes through document...</p></details>
+   Link:<a href="https://volcano.si.edu/" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institution - Global Volcanism Program...The Global Volcanism Program (GVP) seeks better understanding of all volcanoes through document...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/managing-climate-risks-facing-up-to-losses-and-damages_928fe20d/55ea1cc9-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/managing-climate-risks-facing-up-to-losses-and-damages_928fe20d/55ea1cc9-en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Managing Climate Risks, Facing up to Losses and DamagesNote by Turkey. The information in this document with reference to “Cyprus” relate...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/managing-climate-risks-facing-up-to-losses-and-damages_928fe20d/55ea1cc9-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/11/managing-climate-risks-facing-up-to-losses-and-damages_928fe20d/55ea1cc9-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Managing Climate Risks, Facing up to Losses and DamagesNote by Turkey. The information in this document with reference to “Cyprus” relate...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gdr.openei.org  
    Title: World Volcanic Centers Master File.xlsx  
-   Link: <a href="https://gdr.openei.org/files/662/World_Volcanic_Centers_Master_File.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://gdr.openei.org/files/662/World_Volcanic_Centers_Master_File.xlsx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flat-topped, glacier-covered Roundtop volcano is the easternmost and lowest of an E-W-trending line of volcanoes on eastern Unimak Island...</p></details>
+   Link:<a href="https://gdr.openei.org/files/662/World_Volcanic_Centers_Master_File.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://gdr.openei.org/files/662/World_Volcanic_Centers_Master_File.xlsx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flat-topped, glacier-covered Roundtop volcano is the easternmost and lowest of an E-W-trending line of volcanoes on eastern Unimak Island...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: orca.cardiff.ac.uk  
    Title: cardiff.ac.uk The archaeology of power  
-   Link: <a href="https://orca.cardiff.ac.uk/id/eprint/147412/31/Greaney%20PhD%20Volume%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orca.cardiff.ac.uk/id/eprint/147412/31/Greaney%20PhD%20Volume%201.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>archaeology of power - -ORCA - Cardiff Universityby SE Greaney · 2021 · Cited by 1 — Neolithic monument complexes in Britain and Ireland...</p></details>
+   Link:<a href="https://orca.cardiff.ac.uk/id/eprint/147412/31/Greaney%20PhD%20Volume%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orca.cardiff.ac.uk/id/eprint/147412/31/Greaney%20PhD%20Volume%201.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>archaeology of power - -ORCA - Cardiff Universityby SE Greaney · 2021 · Cited by 1 — Neolithic monument complexes in Britain and Ireland...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23308249.2015.1026226" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23308249.2015.1026226</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: World Squid Fisheriesby AI Arkhipkin · 2015 · Cited by 449 — Beginning in March of 1977, international bottom trawl fleets...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/23308249.2015.1026226" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23308249.2015.1026226</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: World Squid Fisheriesby AI Arkhipkin · 2015 · Cited by 449 — Beginning in March of 1977, international bottom trawl fleets...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: volcano.si.edu  
    Title: reports weekly.cfm  
-   Link: <a href="https://volcano.si.edu/reports_weekly.cfm" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/reports_weekly.cfm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/ USGS Weekly Volcanic Activity Report6 Jan 2026 — Volcanic activity reported here is preliminary and subject to change. Carefully review...</p></details>
+   Link:<a href="https://volcano.si.edu/reports_weekly.cfm" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/reports_weekly.cfm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/ USGS Weekly Volcanic Activity Report6 Jan 2026 — Volcanic activity reported here is preliminary and subject to change. Carefully review...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: East Epi Volcano Eruption Update; Tsunami Danger, Explosive Eruption  
-   Link: <a href="https://www.youtube.com/watch?v=doxY1DqoxzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=doxY1DqoxzQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>East Epi Volcano Awakened By Huge Eruption, Vanuatu, Indo-Pacific Ring Of Fire...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=doxY1DqoxzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=doxY1DqoxzQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>East Epi Volcano Awakened By Huge Eruption, Vanuatu, Indo-Pacific Ring Of Fire...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 71303 DS1  
-   Link: <a href="https://repository.library.noaa.gov/view/noaa/71303/noaa_71303_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/71303/noaa_71303_DS1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Institutional RepositorySubmarine Volcanic Eruptions and Their Impacts on...by RJ Carey · 2025 · Cited by 6 — These voyages use sub...</p></details>
+   Link:<a href="https://repository.library.noaa.gov/view/noaa/71303/noaa_71303_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/71303/noaa_71303_DS1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Institutional RepositorySubmarine Volcanic Eruptions and Their Impacts on...by RJ Carey · 2025 · Cited by 6 — These voyages use sub...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: East Epi Volcano Awakened By Huge Eruption, Vanuatu, Indo-Pacific Ring Of Fire  
-   Link: <a href="https://www.youtube.com/watch?v=fs0Sp4FYmsI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fs0Sp4FYmsI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How scientists use math to help explain UFO videos...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fs0Sp4FYmsI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fs0Sp4FYmsI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How scientists use math to help explain UFO videos...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: How scientists use math to help explain UFO videos  
-   Link: <a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=diPXow8zgc8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena (2022) [Documentary] The New Frontier of Disclosure...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=diPXow8zgc8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena (2022) [Documentary] The New Frontier of Disclosure...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: solaceglobal.com  
    Title: Solace Global  
-   Link: <a href="https://www.solaceglobal.com/news/category/region/global/" target="_blank" rel="noopener noreferrer nofollow">https://www.solaceglobal.com/news/category/region/global/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Summit 2025: Travel Risk AdvisoryThe NATO Summit will take place in The Hague on 25–26 June 2025, attracting around 8,500 attendees...</p></details>
+   Link:<a href="https://www.solaceglobal.com/news/category/region/global/" target="_blank" rel="noopener noreferrer nofollow">https://www.solaceglobal.com/news/category/region/global/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATO Summit 2025: Travel Risk AdvisoryThe NATO Summit will take place in The Hague on 25–26 June 2025, attracting around 8,500 attendees...</p></details>
    Published: June 2025

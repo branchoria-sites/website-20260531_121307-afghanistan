@@ -259,26 +259,26 @@ In **Armenia**, reports of unidentified aerial phenomena (UAP) or so‑called UF
 <img src="{{ "/assets/images/Armenia_5f4599_records_gap_unverifi_9ce2d2-Illustration-1-dark.svg" | relative_url }}" alt="Records Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_records_gap_unverifi_9ce2d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_records_gap_unverifi_9ce2d2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## No Central Armenian UAP Archive
 
-Armenia lacks any publicly recognised government body charged with collecting, verifying, and archiving UAP reports. There is **no equivalent** to the United States’ All‑domain Anomaly Resolution Office (AARO) or France’s GEIPAN, which maintain official UAP records and methodologies for follow‑up and classification. AARO itself maintains an online catalogue of UAP records from *other governments* and agencies, reflecting how some nations centralise and declassify historical files, but these do not extend to Armenia specifically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Records/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AARO UAP Records...</span></span></span>
+Armenia lacks any publicly recognised government body charged with collecting, verifying, and archiving UAP reports. There is **no equivalent** to the United States’ All‑domain Anomaly Resolution Office (AARO) or France’s GEIPAN, which maintain official UAP records and methodologies for follow‑up and classification. AARO itself maintains an online catalogue of UAP records from *other governments* and agencies, reflecting how some nations centralise and declassify historical files, but these do not extend to Armenia specifically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Records/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AARO UAP Records...</span></span></span>
 
-Because Armenia does not have an official reporting mechanism for such phenomena, **almost all information available to the public comes from secondary channels**. Local news outlets such as *NEWS.am* and *PanARMENIAN.Net* occasionally report on unusual sky sightings based on citizen calls or photos, but these are seldom backed by an investigative follow‑up from an independent national authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-title">Armenia News UFO observed in sky in Armenia (PHOTO</span><span class="citation-popover-snippet">Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
+Because Armenia does not have an official reporting mechanism for such phenomena, **almost all information available to the public comes from secondary channels**. Local news outlets such as *NEWS.am* and *PanARMENIAN.Net* occasionally report on unusual sky sightings based on citizen calls or photos, but these are seldom backed by an investigative follow‑up from an independent national authority.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-title">Armenia News UFO observed in sky in Armenia (PHOTO</span><span class="citation-popover-snippet">Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
 
 ## News Reports Versus User‑Submitted Databases
 
 ### News Reports Based on Eyewitness Accounts
 
-Armenian media have occasionally published reports about “UFOs” seen in the sky, but these rarely contain substantiated evidence. For example, multiple eyewitnesses reported a luminous object over Yerevan and other regions on 7 June 2012, describing sudden light, smoke‑like trails, and rapid disappearance. *NEWS.am* noted that many local residents made excited calls, but the report contained no official verification beyond these subjective accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-title">Armenia News UFO observed in sky in Armenia (PHOTO</span><span class="citation-popover-snippet">Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
+Armenian media have occasionally published reports about “UFOs” seen in the sky, but these rarely contain substantiated evidence. For example, multiple eyewitnesses reported a luminous object over Yerevan and other regions on 7 June 2012, describing sudden light, smoke‑like trails, and rapid disappearance. *NEWS.am* noted that many local residents made excited calls, but the report contained no official verification beyond these subjective accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-title">Armenia News UFO observed in sky in Armenia (PHOTO</span><span class="citation-popover-snippet">Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
 
-Similarly, a widely circulated photo series purported to show two UFOs simultaneously over Yerevan also stemmed from an Armenian news agency’s camera exposure, without any confirmation by national radar, military, or scientific instruments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-title">Armenia News UFO observed in sky in Armenia (PHOTO</span><span class="citation-popover-snippet">Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
+Similarly, a widely circulated photo series purported to show two UFOs simultaneously over Yerevan also stemmed from an Armenian news agency’s camera exposure, without any confirmation by national radar, military, or scientific instruments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-title">Armenia News UFO observed in sky in Armenia (PHOTO</span><span class="citation-popover-snippet">Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
 
-When authorities or scientific institutions do comment, they tend toward terrestrial explanations. For the June 2012 sightings, specialists from the **[Byurakan]({{ 'byurakan/' | relative_url }}) Observatory** characterised the lights as optical reflections linked to external stimuli — in that instance, the Russian **Topol missile test**, which produced bright trails visible in Armenia. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-title">Armenia News UFO observed in sky in Armenia (PHOTO</span><span class="citation-popover-snippet">Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
+When authorities or scientific institutions do comment, they tend toward terrestrial explanations. For the June 2012 sightings, specialists from the **[Byurakan]({{ 'byurakan/' | relative_url }}) Observatory** characterised the lights as optical reflections linked to external stimuli — in that instance, the Russian **Topol missile test**, which produced bright trails visible in Armenia.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-title">Armenia News UFO observed in sky in Armenia (PHOTO</span><span class="citation-popover-snippet">Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
 
-Other more recent viral anecdotes, such as claims that an unmanned aerial vehicle (UAV) crossed Armenia’s borders, have been met with direct denial from the **Armenian Defence Ministry**, which stated in 2025 that these circulated videos and claims were *untrue*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.1lurer.am/en/2025/01/26/Information-that-aerial-crossing-of-Armenia-s-state-border-was-recorded-by-a-UAV-is-not-true-Defesn/1255694" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1lurer.am">[Lurer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1lurer.am</span><span class="citation-popover-snippet">Information that aerial crossing of Armenia&#x27;s state border was recorded by a UAV is not true: Defesne Ministry SpokespersonJanuary...</span></span></span>
+Other more recent viral anecdotes, such as claims that an unmanned aerial vehicle (UAV) crossed Armenia’s borders, have been met with direct denial from the **Armenian Defence Ministry**, which stated in 2025 that these circulated videos and claims were *untrue*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.1lurer.am/en/2025/01/26/Information-that-aerial-crossing-of-Armenia-s-state-border-was-recorded-by-a-UAV-is-not-true-Defesn/1255694" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1lurer.am">[Lurer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1lurer.am</span><span class="citation-popover-snippet">Information that aerial crossing of Armenia&#x27;s state border was recorded by a UAV is not true: Defesne Ministry SpokespersonJanuary...</span></span></span>
 
 <img src="{{ "/assets/images/Armenia_5f4599_records_gap_unverifi_9ce2d2-Illustration-2-dark.svg" | relative_url }}" alt="Records Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_records_gap_unverifi_9ce2d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_records_gap_unverifi_9ce2d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Enthusiast and User‑Submitted Databases
 
-Beyond national news reporting, *user‑submitted UFO sighting databases* on international enthusiast sites include sections for Armenia. One such site, the **US UFO Center’s Armenia sightings page**, lists alleged Armenian reports and personal experiences submitted by visitors. However, these entries are **not vetted by scientific or governmental authorities**, and their provenance ranges from unverified eyewitness accounts to speculative interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/armenia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Information Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Information Center Global UFOs: Armenia UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Information CenterGlobal UFOs: Armenia UFO Sightings &amp; ReportsMarch 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
+Beyond national news reporting, *user‑submitted UFO sighting databases* on international enthusiast sites include sections for Armenia. One such site, the **US UFO Center’s Armenia sightings page**, lists alleged Armenian reports and personal experiences submitted by visitors. However, these entries are **not vetted by scientific or governmental authorities**, and their provenance ranges from unverified eyewitness accounts to speculative interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/armenia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Information Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-title">UFO Information Center Global UFOs: Armenia UFO Sightings &amp; Reports</span><span class="citation-popover-snippet">UFO Information CenterGlobal UFOs: Armenia UFO Sightings &amp; ReportsMarch 22, 2025...</span><span class="citation-popover-meta">Published: March 22, 2025</span></span></span>
 
 These independent compilations often blend different kinds of material — historical sightings, supposed contact narratives, and unverified anecdotal testimony — without any standard criteria for verification, making it difficult for an outside reader to distinguish credible reports from folklore or misinterpretation.
 
@@ -286,8 +286,8 @@ These independent compilations often blend different kinds of material — histo
 
 In the absence of official records, **evaluating Armenian UFO claims requires careful attention to evidence quality and source reliability**. The following distinctions can help readers navigate the patchy record:
 
-* **Verified Explanations:** Cases where scientific or official sources provide plausible terrestrial explanations are inherently stronger than anecdotal claims. The 2012 luminous object correlated with a Russian missile test, vetted by observatory specialists, is an example where natural or human‑made causes were shown to account for the phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-title">Armenia News UFO observed in sky in Armenia (PHOTO</span><span class="citation-popover-snippet">Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
-* **Official Denials:** Government statements countering specific claims — such as the Defence Ministry’s rejection of UAV border incursions in 2025 — signal that some widely shared videos or posts are misinformation or misinterpretation rather than genuine unidentified phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.1lurer.am/en/2025/01/26/Information-that-aerial-crossing-of-Armenia-s-state-border-was-recorded-by-a-UAV-is-not-true-Defesn/1255694" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1lurer.am">[Lurer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1lurer.am</span><span class="citation-popover-snippet">Information that aerial crossing of Armenia&#x27;s state border was recorded by a UAV is not true: Defesne Ministry SpokespersonJanuary...</span></span></span>
+* **Verified Explanations:** Cases where scientific or official sources provide plausible terrestrial explanations are inherently stronger than anecdotal claims. The 2012 luminous object correlated with a Russian missile test, vetted by observatory specialists, is an example where natural or human‑made causes were shown to account for the phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.am">[Armenia News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.am</span><span class="citation-popover-title">Armenia News UFO observed in sky in Armenia (PHOTO</span><span class="citation-popover-snippet">Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</span><span class="citation-popover-meta">Published: June 7, 2012</span></span></span>
+* **Official Denials:** Government statements countering specific claims — such as the Defence Ministry’s rejection of UAV border incursions in 2025 — signal that some widely shared videos or posts are misinformation or misinterpretation rather than genuine unidentified phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.1lurer.am/en/2025/01/26/Information-that-aerial-crossing-of-Armenia-s-state-border-was-recorded-by-a-UAV-is-not-true-Defesn/1255694" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1lurer.am">[Lurer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1lurer.am</span><span class="citation-popover-snippet">Information that aerial crossing of Armenia&#x27;s state border was recorded by a UAV is not true: Defesne Ministry SpokespersonJanuary...</span></span></span>
 * **Anecdotal Reports Without Verification:** Eyewitness descriptions published in local media or posted on enthusiast sites, without corroborating instruments, radar data, or follow‑up investigation, remain **weak evidence**. The quality of such reports varies widely; some may simply reflect natural events (meteors, satellites, rocket flares) misperceived as “objects”, while others are too vague to analyse meaningfully.
 * **Absence of Scientific Instrumentation:** Without dedicated sky surveillance networks, radar logs made public, or archival data streams from Armenian scientific institutions, it is *impossible* to rigorously evaluate many claimed sightings. This fundamental absence of structured observation contributes to the overall “records gap” that defines the Armenian context.
 
@@ -301,194 +301,194 @@ At the same time, occasional expert commentary and transparent explanations — 
 For readers exploring Armenia’s UFO record, distinguishing between **unverified eyewitness accounts** and cases where experts or authorities have provided context is key. The patchy nature of the evidence reflects both the broader global challenge in UAP research and a specific institutional absence in Armenia of centralised reporting and official investigation mechanisms.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Armenia&#x27;s UFO Record Is So Patchy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Armenia&#x27;s UFO Record Is So Patchy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses classification, evidence quality, and reporting standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses classification, evidence quality, and reporting standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented reports and source credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented reports and source credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses how to evaluate weak evidence and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how to evaluate weak evidence and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Useful for understanding memory, belief formation, and claim persistence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding memory, belief formation, and claim persistence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-armenia-s-ufo-record-is-so-patchy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-armenia-s-ufo-record-is-so-patchy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -504,7 +504,7 @@ For readers exploring Armenia’s UFO record, distinguishing between **unverifie
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -524,7 +524,7 @@ For readers exploring Armenia’s UFO record, distinguishing between **unverifie
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -556,7 +556,7 @@ For readers exploring Armenia’s UFO record, distinguishing between **unverifie
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -608,7 +608,7 @@ For readers exploring Armenia’s UFO record, distinguishing between **unverifie
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -653,7 +653,7 @@ For readers exploring Armenia’s UFO record, distinguishing between **unverifie
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -691,132 +691,131 @@ For readers exploring Armenia’s UFO record, distinguishing between **unverifie
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.am  
    Title: Armenia News UFO observed in sky in Armenia (PHOTO)  
-   Link: <a href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/108637.htmlSee</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</p></details>
+   Link:<a href="https://news.am/eng/news/108637.htmlSee" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/108637.htmlSee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Armenia NewsUFO observed in sky in Armenia (PHOTO) - NEWS.amJune 7, 2012...</p></details>
    Published: June 7, 2012  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: panarmenian.net  
    Title: Pan ARMENIANMysterious 'UFO' above Armenia turns out to be a Russian missile  
-   Link: <a href="https://www.panarmenian.net/eng/news/246967/" target="_blank" rel="noopener noreferrer nofollow">https://www.panarmenian.net/eng/news/246967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &#x27;UFO&#x27; above Armenia turns out to be a Russian missile - PanARMENIAN.NetSeptember 27, 2017 — MYSTERIOUS &#x27;UFO&#x27; ABOVE ARMENIA TUR...</p></details>
+   Link:<a href="https://www.panarmenian.net/eng/news/246967/" target="_blank" rel="noopener noreferrer nofollow">https://www.panarmenian.net/eng/news/246967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious &#x27;UFO&#x27; above Armenia turns out to be a Russian missile - PanARMENIAN.NetSeptember 27, 2017 — MYSTERIOUS &#x27;UFO&#x27; ABOVE ARMENIA TUR...</p></details>
    Published: September 27, 2017  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.am  
    Title: Armenia News Two UFOs noticed simultaneously in Armenian sky (PHOTOS)  
-   Link: <a href="https://news.am/eng/news/109134.html" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/109134.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Armenia NewsTwo UFOs noticed simultaneously in Armenian sky (PHOTOS)June 12, 2012...</p></details>
+   Link:<a href="https://news.am/eng/news/109134.html" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/109134.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Armenia NewsTwo UFOs noticed simultaneously in Armenian sky (PHOTOS)June 12, 2012...</p></details>
    Published: June 12, 2012  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.am  
-   Link: <a href="https://news.am/eng/news/109251.html" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/109251.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Armenia NewsByurakan Observatory calls UFOs seen in Armenia ‘optical reflections’ - NEWS.amJune 13, 2012...</p></details>
+   Link:<a href="https://news.am/eng/news/109251.html" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/109251.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Armenia NewsByurakan Observatory calls UFOs seen in Armenia ‘optical reflections’ - NEWS.amJune 13, 2012...</p></details>
    Published: June 13, 2012  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: 1lurer.am  
-   Link: <a href="https://www.1lurer.am/en/2025/01/26/Information-that-aerial-crossing-of-Armenia-s-state-border-was-recorded-by-a-UAV-is-not-true-Defesn/1255694" target="_blank" rel="noopener noreferrer nofollow">https://www.1lurer.am/en/2025/01/26/Information-that-aerial-crossing-of-Armenia-s-state-border-was-recorded-by-a-UAV-is-not-true-Defesn/1255694</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Information that aerial crossing of Armenia&#x27;s state border was recorded by a UAV is not true: Defesne Ministry SpokespersonJanuary...</p></details>
+   Link:<a href="https://www.1lurer.am/en/2025/01/26/Information-that-aerial-crossing-of-Armenia-s-state-border-was-recorded-by-a-UAV-is-not-true-Defesn/1255694" target="_blank" rel="noopener noreferrer nofollow">https://www.1lurer.am/en/2025/01/26/Information-that-aerial-crossing-of-Armenia-s-state-border-was-recorded-by-a-UAV-is-not-true-Defesn/1255694</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information that aerial crossing of Armenia&#x27;s state border was recorded by a UAV is not true: Defesne Ministry SpokespersonJanuary...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.am  
    Title: Byurakan Observatory calls UFOs seen in Armenia ‘optical reflections’  
-   Link: <a href="https://news.am/eng/print/news/109251.html" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/print/news/109251.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The two sparkling objects, which were observed in the sky in Armenia on Monday, were nothing else but optical reflections, head of the Byu...</p></details>
+   Link:<a href="https://news.am/eng/print/news/109251.html" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/print/news/109251.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The two sparkling objects, which were observed in the sky in Armenia on Monday, were nothing else but optical reflections, head of the Byu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.am  
    Title: UF O observed in sky in Armenia (PHOTO)  
-   Link: <a href="https://news.am/eng/news/108637.html%3D" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/108637.html%3D</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Armenia people noticed a strange object in the sky at 09.45 p.m. in various parts of country on Thursday. Armenian...</p></details>
+   Link:<a href="https://news.am/eng/news/108637.html%3D" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/108637.html%3D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Armenia people noticed a strange object in the sky at 09.45 p.m. in various parts of country on Thursday. Armenian...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.am  
    Title: UF O observed in sky in Armenia (PHOTO)  
-   Link: <a href="https://news.am/eng/news/108637.html" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/108637.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Armenia people noticed a strange object in the sky at 09.45 p.m. in various parts of...</p></details>
+   Link:<a href="https://news.am/eng/news/108637.html" target="_blank" rel="noopener noreferrer nofollow">https://news.am/eng/news/108637.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Armenia people noticed a strange object in the sky at 09.45 p.m. in various parts of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: usufocenter.com  
    Title: UFO Information Center Global UFOs: Armenia UFO Sightings & Reports  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/armenia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/armenia-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Information CenterGlobal UFOs: Armenia UFO Sightings &amp; ReportsMarch 22, 2025...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/armenia-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/armenia-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Information CenterGlobal UFOs: Armenia UFO Sightings &amp; ReportsMarch 22, 2025...</p></details>
    Published: March 22, 2025  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: web-archive.nli.org.il  
-   Link: <a href="https://web-archive.nli.org.il/National_Library/20170718065454mp_/http%3A/en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.nli.org.il/National_Library/20170718065454mp_/http%3A/en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object - WikipediaJuly 18, 2017 — NOTABLE CASES * The Roswell UFO incident (1947) involved New Mexico residents, local law enforce...</p></details>
+   Link:<a href="https://web-archive.nli.org.il/National_Library/20170718065454mp_/http%3A/en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.nli.org.il/National_Library/20170718065454mp_/http%3A/en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>flying object - WikipediaJuly 18, 2017 — NOTABLE CASES * The Roswell UFO incident (1947) involved New Mexico residents, local law enforce...</p></details>
    Published: July 18, 2017  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: armenianpress.com  
    Title: "Mysterious UFO Sighting in Armenia Leaves Residents Bewildered  
-   Link: <a href="https://armenianpress.com/mysterious-ufo-sighting-in-armenia-leaves-residents-bewildered-authorities-launch-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://armenianpress.com/mysterious-ufo-sighting-in-armenia-leaves-residents-bewildered-authorities-launch-investigation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Authorities Launch Investigation&quot; - Armenian PressJuly 29, 2024 — “MYSTERIOUS UFO SIGHTING IN ARMENIA LEAVES RESIDENTS BEWILDERED – AUTHO...</p></details>
+   Link:<a href="https://armenianpress.com/mysterious-ufo-sighting-in-armenia-leaves-residents-bewildered-authorities-launch-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://armenianpress.com/mysterious-ufo-sighting-in-armenia-leaves-residents-bewildered-authorities-launch-investigation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Authorities Launch Investigation&quot; - Armenian PressJuly 29, 2024 — “MYSTERIOUS UFO SIGHTING IN ARMENIA LEAVES RESIDENTS BEWILDERED – AUTHO...</p></details>
    Published: July 29, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cnes-geipan.fr  
    Title: Mission & Geipan | GEIPANSommaire 1  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the GEIPAN turns 40, it is 40 years of emotions in the sky 2. Contemporary weirdness in the sky is called flying saucers or UFOs sin...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the GEIPAN turns 40, it is 40 years of emotions in the sky 2. Contemporary weirdness in the sky is called flying saucers or UFOs sin...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nicap.org  
    Title: Official NICAP Web Site  
-   Link: <a href="https://www.nicap.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 12, 2024 — Image National Investigations Committee on Aerial Phenomena A Privately-Supported Fact-Finding Body Serving The Public In...</p></details>
+   Link:<a href="https://www.nicap.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 12, 2024 — Image National Investigations Committee on Aerial Phenomena A Privately-Supported Fact-Finding Body Serving The Public In...</p></details>
    Published: July 12, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rt.com  
    Title: Meteorite or rocket?  
-   Link: <a href="https://www.rt.com/news/490036-armenia-meteorite-rocket-mistaken-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/news/490036-armenia-meteorite-rocket-mistaken-fireworks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Armenia baffled by large celestial body initially mistaken for FIREWORKS (VIDEO) — RT World NewsMETEORITE OR ROCKET? ARMENIA BAFFLED BY L...</p></details>
+   Link:<a href="https://www.rt.com/news/490036-armenia-meteorite-rocket-mistaken-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/news/490036-armenia-meteorite-rocket-mistaken-fireworks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Armenia baffled by large celestial body initially mistaken for FIREWORKS (VIDEO) — RT World NewsMETEORITE OR ROCKET? ARMENIA BAFFLED BY L...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufo2026.org  
-   Link: <a href="https://ufo2026.org/en/document/470" target="_blank" rel="noopener noreferrer nofollow">https://ufo2026.org/en/document/470</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEPARTMENT OF STATE UAP TELEGRAM 3, TBILISI, GEORGIA, OCTOBER 30, 2001 State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001 A...</p></details>
+   Link:<a href="https://ufo2026.org/en/document/470" target="_blank" rel="noopener noreferrer nofollow">https://ufo2026.org/en/document/470</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEPARTMENT OF STATE UAP TELEGRAM 3, TBILISI, GEORGIA, OCTOBER 30, 2001 State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001 A...</p></details>
    Published: October 30, 2001  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: How the US government declassifies UAP reports  
-   Link: <a href="https://www.youtube.com/watch?v=kU1j5M0-b0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kU1j5M0-b0U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the difference between UAP and UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kU1j5M0-b0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kU1j5M0-b0U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the difference between UAP and UFO...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: What is AARO and how does it investigate UAPs?  
-   Link: <a href="https://www.youtube.com/watch?v=0_u6eJ1515s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0_u6eJ1515s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the US government declassifies UAP reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0_u6eJ1515s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0_u6eJ1515s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the US government declassifies UAP reports...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Why are there so many UFO reports?  
-   Link: <a href="https://www.youtube.com/watch?v=a16p649q0o8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a16p649q0o8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to scientifically investigate aerial phenomena...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a16p649q0o8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a16p649q0o8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to scientifically investigate aerial phenomena...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: narcap.org  
    Title: NARCA P  
-   Link: <a href="https://www.narcap.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NARCAP Technical Report 20 Flight Dynamics of UAP ADVISORY FOR PILOTS, ATC, AVIATION PROFESS...</p></details>
+   Link:<a href="https://www.narcap.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NARCAP Technical Report 20 Flight Dynamics of UAP ADVISORY FOR PILOTS, ATC, AVIATION PROFESS...</p></details>

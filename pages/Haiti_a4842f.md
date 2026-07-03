@@ -1194,22 +1194,22 @@ image: /assets/images/Haiti_a4842f-overview-social.jpg
 
 ## Why Haiti’s UFO record is thinner than its online reputation
 
-Haiti appears in UFO databases, but not as a high-volume national hotspot. NUFORC’s country index lists only four Haiti reports, a tiny number compared with larger reporting countries and even some Caribbean neighbours such as Jamaica, which the same index lists with 31 reports. This does not prove that unusual sightings are rare in Haiti; it proves only that few reports from Haiti have entered that particular English-language, US-based civilian database. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cHaiti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Haiti</span><span class="citation-popover-snippet">Reports for Country Haiti</span></span></span>
+Haiti appears in UFO databases, but not as a high-volume national hotspot. NUFORC’s country index lists only four Haiti reports, a tiny number compared with larger reporting countries and even some Caribbean neighbours such as Jamaica, which the same index lists with 31 reports. This does not prove that unusual sightings are rare in Haiti; it proves only that few reports from Haiti have entered that particular English-language, US-based civilian database.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cHaiti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Haiti</span><span class="citation-popover-snippet">Reports for Country Haiti</span></span></span>
 
 <img src="{{ "/assets/images/Haiti_a4842f-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Haiti&#x27;s UFO Record?" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because UFO archives are not neutral measuring instruments. They reflect who knows where to report, who has internet access, what language the database uses, and whether witnesses trust the reporting channel. Haiti’s broader information environment has often been shaped by infrastructure problems, disaster response needs, political instability and security disruptions, all of which can make routine documentation harder. Even unrelated sky-observation projects have noted that Haiti can be attractive for astronomy because of lower light pollution, while also being challenging because electricity supply can interrupt equipment operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cmns.umd.edu/news-events/news/umd-astronomers-install-all-sky-cameras-campus-and-haiti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmns.umd.edu">[UMD Science College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmns.umd.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That distinction matters because UFO archives are not neutral measuring instruments. They reflect who knows where to report, who has internet access, what language the database uses, and whether witnesses trust the reporting channel. Haiti’s broader information environment has often been shaped by infrastructure problems, disaster response needs, political instability and security disruptions, all of which can make routine documentation harder. Even unrelated sky-observation projects have noted that Haiti can be attractive for astronomy because of lower light pollution, while also being challenging because electricity supply can interrupt equipment operation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cmns.umd.edu/news-events/news/umd-astronomers-install-all-sky-cameras-campus-and-haiti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmns.umd.edu">[UMD Science College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmns.umd.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The result is a record with sharp contrasts: one early official file, a few isolated witness submissions, and a viral internet story that travelled much farther than any verified Haitian case.
 
 ## The 1962 Port-au-Prince case: Haiti’s clearest archival anchor
 
-The most important historical item is the Project Blue Book file titled “1962-08-8723210-Port-au-Prince-Haiti”. The Blue Book Archive lists it as a 16-page case from Port-au-Prince, Haiti, with case number 8723210, within the US Air Force’s Project Blue Book collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/13488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most important historical item is the Project Blue Book file titled “1962-08-8723210-Port-au-Prince-Haiti”. The Blue Book Archive lists it as a 16-page case from Port-au-Prince, Haiti, with case number 8723210, within the US Air Force’s Project Blue Book collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/13488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case is significant because it sits inside the official US Air Force UFO-investigation system rather than a later civilian folklore chain. The US National Archives states that Project Blue Book records were transferred to the National Archives, declassified, and made available for research; the project closed in 1969, with no post-1969 sightings handled by that system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The case is significant because it sits inside the official US Air Force UFO-investigation system rather than a later civilian folklore chain. The US National Archives states that Project Blue Book records were transferred to the National Archives, declassified, and made available for research; the project closed in 1969, with no post-1969 sightings handled by that system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-Secondary summaries of the 1962 Haiti case describe three men near Port-au-Prince on 30 August 1962 watching a silvery, disc-like object for roughly 20 minutes, with one witness reportedly using a portable theodolite, a surveying instrument used to measure angles. Project Blue Book reportedly attributed the observation to Venus distorted by atmospheric effects, while UFO-oriented summaries have treated the case as more intriguing because of the claimed instrument-aided tracking and the witnesses’ detailed description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysterioustimes.co.uk">[Mysterious Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysterioustimes.co.uk</span><span class="citation-popover-title">Mysterious Times August – Today in UFO history</span><span class="citation-popover-snippet">Mysterious Times August – Today in UFO history</span></span></span>
+Secondary summaries of the 1962 Haiti case describe three men near Port-au-Prince on 30 August 1962 watching a silvery, disc-like object for roughly 20 minutes, with one witness reportedly using a portable theodolite, a surveying instrument used to measure angles. Project Blue Book reportedly attributed the observation to Venus distorted by atmospheric effects, while UFO-oriented summaries have treated the case as more intriguing because of the claimed instrument-aided tracking and the witnesses’ detailed description.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysterioustimes.co.uk">[Mysterious Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysterioustimes.co.uk</span><span class="citation-popover-title">Mysterious Times August – Today in UFO history</span><span class="citation-popover-snippet">Mysterious Times August – Today in UFO history</span></span></span>
 
-The credibility question is therefore not simply “was something seen?” but “was the official explanation adequate?” On one side, the case had enough substance to enter the Blue Book system and survive as a named archival file. On the other, the available public summary gives no modern sensor data, no independent radar confirmation, and no physical evidence. Blue Book’s own wider record also requires care: the Air Force concluded that no investigated UFO showed evidence of being a national-security threat, an advanced technology beyond science, or an extraterrestrial vehicle, while critics of Blue Book have long argued that some explanations were too dismissive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+The credibility question is therefore not simply “was something seen?” but “was the official explanation adequate?” On one side, the case had enough substance to enter the Blue Book system and survive as a named archival file. On the other, the available public summary gives no modern sensor data, no independent radar confirmation, and no physical evidence. Blue Book’s own wider record also requires care: the Air Force concluded that no investigated UFO showed evidence of being a national-security threat, an advanced technology beyond science, or an extraterrestrial vehicle, while critics of Blue Book have long argued that some explanations were too dismissive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 For a Haiti-focused evidence page, the 1962 Port-au-Prince report is best classed as **historically documented but officially explained**, not confirmed unexplained.
 
@@ -1222,31 +1222,31 @@ The four listed reports are:
 
 Date reported as occurringLocationReported shapeEvidence status15 July 1995, approximatePort-au-PrinceUnknownContested memory report, filed in 201120 September 2006Port-au-PrinceCircleLow-evidence photo-based claim24 September 2006Port-au-PrinceCircleLow-evidence photo-based claim, likely optical/interpretive18 April 2017Les CayesCircleNUFORC explicitly notes lens flares
 
-The 1995 report is the most elaborate. The witness said he was with a US Army contingent during the United Nations Mission in Haiti and described diamond-shaped lights seen during night shifts, with another soldier also seeing at least one object. However, the report was submitted in 2011, about 16 years after the approximate event date, and NUFORC noted that the date was approximate. That does not make it false, but it lowers evidential strength because memory, context and later interpretation become harder to separate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
+The 1995 report is the most elaborate. The witness said he was with a US Army contingent during the United Nations Mission in Haiti and described diamond-shaped lights seen during night shifts, with another soldier also seeing at least one object. However, the report was submitted in 2011, about 16 years after the approximate event date, and NUFORC noted that the date was approximate. That does not make it false, but it lowers evidential strength because memory, context and later interpretation become harder to separate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-The two 2006 Port-au-Prince entries appear related. One witness described taking sky photographs and later noticing a large circle in the image; a second report days later described a large circle and “human faces” in clouds, with the witness explicitly wondering whether the first image had been an optical effect. These reports are interesting as examples of how digital-camera review can create a sighting after the fact, but they do not include a recorded moving object, multiple independent witnesses or a technical analysis that would support a stronger classification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=80468" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The two 2006 Port-au-Prince entries appear related. One witness described taking sky photographs and later noticing a large circle in the image; a second report days later described a large circle and “human faces” in clouds, with the witness explicitly wondering whether the first image had been an optical effect. These reports are interesting as examples of how digital-camera review can create a sighting after the fact, but they do not include a recorded moving object, multiple independent witnesses or a technical analysis that would support a stronger classification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=80468" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-The 2017 Les Cayes case is the easiest to classify. The report described a huge circle with the sun shining in the centre and red images inside it; NUFORC’s note identifies the explanation as lens flares. That makes it a useful debunked case, especially because it shows how sun-facing photographs can produce dramatic circular artefacts that feel object-like to the photographer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=52646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The 2017 Les Cayes case is the easiest to classify. The report described a huge circle with the sun shining in the centre and red images inside it; NUFORC’s note identifies the explanation as lens flares. That makes it a useful debunked case, especially because it shows how sun-facing photographs can produce dramatic circular artefacts that feel object-like to the photographer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=52646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RmwukR8_4v8" title="4 INFAMOUS UFO HOAXES REVEALED | The Proof is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RmwukR8_4v8" target="_blank" rel="noopener noreferrer">4 INFAMOUS UFO HOAXES REVEALED | The Proof is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 325.8K &middot; Uploaded: July 2022 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RmwukR8_4v8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RmwukR8_4v8">Open on YouTube</a></p></div></div></div>
 
 ## The 2007 “UFO Haiti” video: the case most people saw, and the weakest as evidence
 
-The event most strongly associated with “Haiti UFO” online is not one of the archival cases. It is the 2007 viral video showing large flying saucers over a tropical beach, often circulated alongside a similar Dominican Republic clip. The Los Angeles Times traced the videos to the artist known as Barzolff, reporting that the clips were computer-generated and took 17 hours to create using commercially available 3D animation software. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2007 aug 22 et ufo22 story</span><span class="citation-popover-snippet">la xpm 2007 aug 22 et ufo22 story</span></span></span>
+The event most strongly associated with “Haiti UFO” online is not one of the archival cases. It is the 2007 viral video showing large flying saucers over a tropical beach, often circulated alongside a similar Dominican Republic clip. The Los Angeles Times traced the videos to the artist known as Barzolff, reporting that the clips were computer-generated and took 17 hours to create using commercially available 3D animation software.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2007 aug 22 et ufo22 story</span><span class="citation-popover-snippet">la xpm 2007 aug 22 et ufo22 story</span></span></span>
 
-The video’s importance lies in its reach, not its evidential value. It was convincing enough for viewers to debate it as possible footage, but its creator later framed it as a “sociological experiment” and as research connected to a feature-film idea. The same Los Angeles Times account reported that Barzolff even produced a further “proof” clip to demonstrate his role, again using computer graphics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2007 aug 22 et ufo22 story</span><span class="citation-popover-snippet">la xpm 2007 aug 22 et ufo22 story</span></span></span>
+The video’s importance lies in its reach, not its evidential value. It was convincing enough for viewers to debate it as possible footage, but its creator later framed it as a “sociological experiment” and as research connected to a feature-film idea. The same Los Angeles Times account reported that Barzolff even produced a further “proof” clip to demonstrate his role, again using computer graphics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2007 aug 22 et ufo22 story</span><span class="citation-popover-snippet">la xpm 2007 aug 22 et ufo22 story</span></span></span>
 
-Snopes also classifies the Haiti and Dominican Republic footage as a hoax, pointing to the later identification of the creator and the film-project context. For Haiti’s UFO history, this case should be treated as **debunked viral media**, not a national sighting incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufos over haiti</span><span class="citation-popover-snippet">ufos over haiti</span></span></span>
+Snopes also classifies the Haiti and Dominican Republic footage as a hoax, pointing to the later identification of the creator and the film-project context. For Haiti’s UFO history, this case should be treated as **debunked viral media**, not a national sighting incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snopes.com">[Snopes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snopes.com</span><span class="citation-popover-title">ufos over haiti</span><span class="citation-popover-snippet">ufos over haiti</span></span></span>
 
 The 2007 hoax has one lasting lesson: a UFO claim can become culturally attached to a country even when the evidence was produced elsewhere, by someone outside the local witness community, using imagery that trades on generic “island” scenery rather than verifiable Haitian geography.
 
 ## Region-level pattern: Port-au-Prince dominates because reporting channels dominate
 
-Within the limited record, Port-au-Prince appears disproportionately. The 1962 Blue Book case is listed at Port-au-Prince; three of NUFORC’s four Haiti reports are also from Port-au-Prince. Les Cayes appears only once, in the 2017 lens-flare report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/13488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Within the limited record, Port-au-Prince appears disproportionately. The 1962 Blue Book case is listed at Port-au-Prince; three of NUFORC’s four Haiti reports are also from Port-au-Prince. Les Cayes appears only once, in the 2017 lens-flare report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/13488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That does not necessarily mean Port-au-Prince has more anomalous aerial phenomena than the rest of Haiti. It is more likely a reporting artefact. The capital has more international presence, more aviation activity, more foreign personnel, more communications links, and more people likely to use English-language reporting channels. The 1995 NUFORC case, for example, is tied to a US Army witness during the UN mission rather than to a Haitian civil reporting body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=52674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+That does not necessarily mean Port-au-Prince has more anomalous aerial phenomena than the rest of Haiti. It is more likely a reporting artefact. The capital has more international presence, more aviation activity, more foreign personnel, more communications links, and more people likely to use English-language reporting channels. The 1995 NUFORC case, for example, is tied to a US Army witness during the UN mission rather than to a Haitian civil reporting body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=52674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Aviation context also matters. Port-au-Prince’s main airport and surrounding airspace have become highly sensitive in recent years for reasons unrelated to UFOs: the FAA has issued and renewed restrictions on US civil aviation operations below 10,000 feet in specified parts of Haiti because of security threats to aircraft, and Reuters reported that those restrictions were extended to March 2026. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">general statements</span><span class="citation-popover-snippet">general statements</span></span></span>
+Aviation context also matters. Port-au-Prince’s main airport and surrounding airspace have become highly sensitive in recent years for reasons unrelated to UFOs: the FAA has issued and renewed restrictions on US civil aviation operations below 10,000 feet in specified parts of Haiti because of security threats to aircraft, and Reuters reported that those restrictions were extended to March 2026.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">general statements</span><span class="citation-popover-snippet">general statements</span></span></span>
 
 That modern aviation-risk context should not be read backwards into older UFO reports. It does, however, underline a practical point: skies over Haiti can include aircraft, security operations, humanitarian flights, military movements and restricted airspace decisions. Any new UFO claim from the Port-au-Prince region needs careful checking against aviation activity before it can be treated as anomalous.
 
@@ -1255,13 +1255,13 @@ That modern aviation-risk context should not be read backwards into older UFO re
 
 A useful Haiti UFO page should separate the categories rather than treating all claims as equal.
 
-**Confirmed as reports:** Haiti has a documented Project Blue Book file from 1962 and four NUFORC entries. These confirm that reports exist; they do not confirm that the observed phenomena were extraordinary craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/13488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed as reports:** Haiti has a documented Project Blue Book file from 1962 and four NUFORC entries. These confirm that reports exist; they do not confirm that the observed phenomena were extraordinary craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/13488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Officially explained:** The 1962 Port-au-Prince Blue Book case is reported in Blue Book-linked sources as explained by Venus distorted by atmospheric effects. Because the file exists and the explanation is part of the official chain, this is the closest Haiti has to a historically serious UFO case, but it is not an officially unresolved one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1962.08%20-%208723210%20-%20Port%20au%20Prince%20Haiti.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Officially explained:** The 1962 Port-au-Prince Blue Book case is reported in Blue Book-linked sources as explained by Venus distorted by atmospheric effects. Because the file exists and the explanation is part of the official chain, this is the closest Haiti has to a historically serious UFO case, but it is not an officially unresolved one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.bluebookfiles.org/pdfs/1962.08%20-%208723210%20-%20Port%20au%20Prince%20Haiti.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.bluebookfiles.org">[files.bluebookfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Contested or weakly evidenced:** The 1995 US Army/UN Mission report is detailed but retrospective, with an approximate date and no accompanying instrument record in the NUFORC entry. The 2006 photo reports are weak because they appear to involve objects noticed only after reviewing images and may involve optical or cloud-pattern interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=133754" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**Contested or weakly evidenced:** The 1995 US Army/UN Mission report is detailed but retrospective, with an approximate date and no accompanying instrument record in the NUFORC entry. The 2006 photo reports are weak because they appear to involve objects noticed only after reviewing images and may involve optical or cloud-pattern interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=133754" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**Debunked:** The 2017 Les Cayes report is marked by NUFORC as lens flares. The 2007 “UFO Haiti” video is a confirmed computer-generated hoax. These two cases are valuable because they show common failure modes: photographic artefacts in one case, digital fabrication in the other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cHaiti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Haiti</span><span class="citation-popover-snippet">Reports for Country Haiti</span></span></span>
+**Debunked:** The 2017 Les Cayes report is marked by NUFORC as lens flares. The 2007 “UFO Haiti” video is a confirmed computer-generated hoax. These two cases are valuable because they show common failure modes: photographic artefacts in one case, digital fabrication in the other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=cHaiti" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for Country Haiti</span><span class="citation-popover-snippet">Reports for Country Haiti</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W89jh2C2Ry8" title="&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer">&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series</a></p><p class="youtube-embed-meta">Channel: SHOWTIME &middot; Views: 290.8K &middot; Uploaded: August 2021 &middot; Length: 1 minute 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W89jh2C2Ry8">Open on YouTube</a></p></div></div></div>
 
@@ -1269,7 +1269,7 @@ A useful Haiti UFO page should separate the categories rather than treating all 
 
 The standard for a strong Haiti UFO case would not be special or exotic. It would be the same standard used in better UAP analysis elsewhere: precise time, exact location, original media, sensor metadata, independent witnesses, aviation cross-checks, weather conditions and a clear chain of custody.
 
-NASA’s independent UAP study argued that many UAP claims suffer from limited high-quality observations and that better data collection is essential. AARO’s public case imagery also shows why interpretation is difficult: some military-recorded cases remain unresolved, while others have been resolved as balloons, aircraft, optical effects or non-anomalous objects after reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+NASA’s independent UAP study argued that many UAP claims suffer from limited high-quality observations and that better data collection is essential. AARO’s public case imagery also shows why interpretation is difficult: some military-recorded cases remain unresolved, while others have been resolved as balloons, aircraft, optical effects or non-anomalous objects after reconstruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 For Haiti, the most useful verification steps would be practical:
 
@@ -1283,12 +1283,12 @@ For Haiti, the most useful verification steps would be practical:
 
 </div>
 
-This is especially important because Haiti’s most famous UFO-branded media case was not a Haitian sighting at all in the evidential sense; it was a digital artwork that became attached to Haiti through its title and scenery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2007 aug 22 et ufo22 story</span><span class="citation-popover-snippet">la xpm 2007 aug 22 et ufo22 story</span></span></span>
+This is especially important because Haiti’s most famous UFO-branded media case was not a Haitian sighting at all in the evidential sense; it was a digital artwork that became attached to Haiti through its title and scenery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2007 aug 22 et ufo22 story</span><span class="citation-popover-snippet">la xpm 2007 aug 22 et ufo22 story</span></span></span>
 
 <img src="{{ "/assets/images/Haiti_a4842f-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Haiti&#x27;s UFO Record? illustration 3" data-theme-src-dark="{{ "/assets/images/Haiti_a4842f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Haiti_a4842f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Haiti fits beside nearby Caribbean UFO branches
 
-Haiti’s UFO record looks sparse beside better-known Caribbean material. AARO’s public imagery page includes the 2013 Puerto Rico object, for example, but AARO later assessed with high confidence that the objects did not show anomalous speed or flight behaviour and that reconstruction indicated two objects travelling near each other at wind speed rather than one object splitting or entering the water. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+Haiti’s UFO record looks sparse beside better-known Caribbean material. AARO’s public imagery page includes the 2013 Puerto Rico object, for example, but AARO later assessed with high confidence that the objects did not show anomalous speed or flight behaviour and that reconstruction indicated two objects travelling near each other at wind speed rather than one object splitting or entering the water.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 That comparison is useful because it shows the difference between a visually compelling regional case and a case that survives technical reconstruction. Haiti’s known record has less sensor data than the Puerto Rico case and fewer public official materials than US-linked cases. It therefore needs even more caution, not less.
 
@@ -1301,194 +1301,194 @@ The Haiti UFO file is real, but modest. There is one clear official archival anc
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ta8GEJcrQRg" title="Sky News Breakfast | Inside Port-au-Prince in Haiti" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ta8GEJcrQRg" target="_blank" rel="noopener noreferrer">Sky News Breakfast | Inside Port-au-Prince in Haiti</a></p><p class="youtube-embed-meta">Channel: Sky News &middot; Views: 21.8K &middot; Uploaded: May 2025 &middot; Length: 3 hours 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ta8GEJcrQRg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ta8GEJcrQRg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Haiti&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Haiti&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are evaluated and categorised.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are evaluated and categorised.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides context for military-era cases like Haiti&#x27;s Blue Book file.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for military-era cases like Haiti&#x27;s Blue Book file.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on stronger documented cases and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on stronger documented cases and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for examining witness reports, folklore and disputed claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for examining witness reports, folklore and disputed claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-haiti-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-haiti-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1504,7 +1504,7 @@ The Haiti UFO file is real, but modest. There is one clear official archival anc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1524,7 +1524,7 @@ The Haiti UFO file is real, but modest. There is one clear official archival anc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1556,7 +1556,7 @@ The Haiti UFO file is real, but modest. There is one clear official archival anc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1608,7 +1608,7 @@ The Haiti UFO file is real, but modest. There is one clear official archival anc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1653,7 +1653,7 @@ The Haiti UFO file is real, but modest. There is one clear official archival anc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1691,206 +1691,205 @@ The Haiti UFO file is real, but modest. There is one clear official archival anc
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bluebookfiles.org  
-   Link: <a href="https://bluebookfiles.org/doc/13488" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/13488</a>  
+   Link:<a href="https://bluebookfiles.org/doc/13488" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/13488</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports for Country Haiti  
-   Link: <a href="https://nuforc.org/subndx/?id=cHaiti" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cHaiti</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=cHaiti" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=cHaiti</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cmns.umd.edu  
-   Link: <a href="https://cmns.umd.edu/news-events/news/umd-astronomers-install-all-sky-cameras-campus-and-haiti" target="_blank" rel="noopener noreferrer nofollow">https://cmns.umd.edu/news-events/news/umd-astronomers-install-all-sky-cameras-campus-and-haiti</a>  
+   Link:<a href="https://cmns.umd.edu/news-events/news/umd-astronomers-install-all-sky-cameras-campus-and-haiti" target="_blank" rel="noopener noreferrer nofollow">https://cmns.umd.edu/news-events/news/umd-astronomers-install-all-sky-cameras-campus-and-haiti</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: files.bluebookfiles.org  
-   Link: <a href="https://files.bluebookfiles.org/pdfs/1962.08%20-%208723210%20-%20Port%20au%20Prince%20Haiti.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1962.08%20-%208723210%20-%20Port%20au%20Prince%20Haiti.pdf</a>  
+   Link:<a href="https://files.bluebookfiles.org/pdfs/1962.08%20-%208723210%20-%20Port%20au%20Prince%20Haiti.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1962.08%20-%208723210%20-%20Port%20au%20Prince%20Haiti.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=80468" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=80468</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=80468" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=80468</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=52646" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52646</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=52646" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52646</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=52674" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52674</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=52674" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52674</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=133754" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=133754</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=133754" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=133754</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: snopes.com  
    Title: ufos over haiti  
-   Link: <a href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/ufos-over-haiti/</a>  
+   Link:<a href="https://www.snopes.com/fact-check/ufos-over-haiti/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/fact-check/ufos-over-haiti/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faa.gov  
    Title: general statements  
-   Link: <a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
+   Link:<a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reuters.com  
    Title: us faa extends haiti capital flight restrictions until march 2026 2025 09 05  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/us-faa-extends-haiti-capital-flight-restrictions-until-march-2026-2025-09-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/us-faa-extends-haiti-capital-flight-restrictions-until-march-2026-2025-09-05/</a>  
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/us-faa-extends-haiti-capital-flight-restrictions-until-march-2026-2025-09-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/us-faa-extends-haiti-capital-flight-restrictions-until-march-2026-2025-09-05/</a>  
    Published: march 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/still-pictures-342" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/still-pictures-342</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/still-pictures-342" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/still-pictures-342</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archives.gov  
    Title: lp gwb ndc foia log 2014 2022 redacted  
-   Link: <a href="https://www.archives.gov/files/foia/pdf/lp-gwb-ndc-foia-log-2014-2022-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/lp-gwb-ndc-foia-log-2014-2022-redacted.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/foia/pdf/lp-gwb-ndc-foia-log-2014-2022-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/lp-gwb-ndc-foia-log-2014-2022-redacted.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archives.gov  
    Title: accessioned records dc fy13  
-   Link: <a href="https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.org  
    Title: 1962 08 8723210 Port au Prince Haiti  
-   Link: <a href="https://archive.org/details/1962-08-8723210-Port-au-Prince-Haiti" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1962-08-8723210-Port-au-Prince-Haiti</a>  
+   Link:<a href="https://archive.org/details/1962-08-8723210-Port-au-Prince-Haiti" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1962-08-8723210-Port-au-Prince-Haiti</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/bluebook/1960s.zip/" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/bluebook/1960s.zip/</a>  
+   Link:<a href="https://archive.org/download/bluebook/1960s.zip/" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/bluebook/1960s.zip/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/lccn_62012806/lccn_62012806_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/lccn_62012806/lccn_62012806_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/lccn_62012806/lccn_62012806_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/lccn_62012806/lccn_62012806_djvu.txt</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jpl.nasa.gov  
    Title: pia12498 aster captures clear sky image of haiti earthquake region  
-   Link: <a href="https://www.jpl.nasa.gov/images/pia12498-aster-captures-clear-sky-image-of-haiti-earthquake-region/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/images/pia12498-aster-captures-clear-sky-image-of-haiti-earthquake-region/</a>  
+   Link:<a href="https://www.jpl.nasa.gov/images/pia12498-aster-captures-clear-sky-image-of-haiti-earthquake-region/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/images/pia12498-aster-captures-clear-sky-image-of-haiti-earthquake-region/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: latimes.com  
    Title: la xpm 2007 aug 22 et ufo22 story  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html</a>  
+   Link:<a href="https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-2007-aug-22-et-ufo22-story.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mysterioustimes.co.uk  
    Title: Mysterious Times August – Today in UFO history  
-   Link: <a href="https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/</a>  
+   Link:<a href="https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Barzolff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barzolff</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Barzolff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barzolff</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/ht/title/81018709" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/ht/title/81018709</a>  
+   Link:<a href="https://www.netflix.com/ht/title/81018709" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/ht/title/81018709</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: 4 INFAMOUS UFO HOAXES REVEALED | The Proof is Out There | History  
-   Link: <a href="https://www.youtube.com/watch?v=RmwukR8_4v8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RmwukR8_4v8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, drones, mystery sightings: What government reports, NASA, and investigators say...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RmwukR8_4v8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RmwukR8_4v8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, drones, mystery sightings: What government reports, NASA, and investigators say...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jZHy9ASOj8w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Interview USAF (1966)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jZHy9ASOj8w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Interview USAF (1966)...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/livreshaiti/posts/%F0%9D%99%87%F0%9D%99%96-%F0%9D%99%A5%F0%9D%99%A4%C3%A9%F0%9D%99%A8%F0%9D%99%9E%F0%9D%99%9A-%F0%9D%99%A2%F0%9D%99%96-%F0%9D%99%A8%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A5%F0%9D%99%9A-%F0%9D%99%AB%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9A-texte-de-james-noel-interpr%C3%A9t%C3%A9-par-james-fleurissa/606727561463267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livreshaiti/posts/%F0%9D%99%87%F0%9D%99%96-%F0%9D%99%A5%F0%9D%99%A4%C3%A9%F0%9D%99%A8%F0%9D%99%9E%F0%9D%99%9A-%F0%9D%99%A2%F0%9D%99%96-%F0%9D%99%A8%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A5%F0%9D%99%9A-%F0%9D%99%AB%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9A-texte-de-james-noel-interpr%C3%A9t%C3%A9-par-james-fleurissa/606727561463267/</a>  
+   Link:<a href="https://www.facebook.com/livreshaiti/posts/%F0%9D%99%87%F0%9D%99%96-%F0%9D%99%A5%F0%9D%99%A4%C3%A9%F0%9D%99%A8%F0%9D%99%9E%F0%9D%99%9A-%F0%9D%99%A2%F0%9D%99%96-%F0%9D%99%A8%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A5%F0%9D%99%9A-%F0%9D%99%AB%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9A-texte-de-james-noel-interpr%C3%A9t%C3%A9-par-james-fleurissa/606727561463267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livreshaiti/posts/%F0%9D%99%87%F0%9D%99%96-%F0%9D%99%A5%F0%9D%99%A4%C3%A9%F0%9D%99%A8%F0%9D%99%9E%F0%9D%99%9A-%F0%9D%99%A2%F0%9D%99%96-%F0%9D%99%A8%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A5%F0%9D%99%9A-%F0%9D%99%AB%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%9A-texte-de-james-noel-interpr%C3%A9t%C3%A9-par-james-fleurissa/606727561463267/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: watchmojo.com  
-   Link: <a href="https://www.watchmojo.com/articles/top-10-ufo-alien-hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmojo.com/articles/top-10-ufo-alien-hoaxes</a>  
+   Link:<a href="https://www.watchmojo.com/articles/top-10-ufo-alien-hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmojo.com/articles/top-10-ufo-alien-hoaxes</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WorldFoodProgramme/videos/a-humanitarian-cargo-flight-has-landed-at-port-au-prince-airport-in-haiti-%EF%B8%8F-mark/1014772327365148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WorldFoodProgramme/videos/a-humanitarian-cargo-flight-has-landed-at-port-au-prince-airport-in-haiti-%EF%B8%8F-mark/1014772327365148/</a>  
+   Link:<a href="https://www.facebook.com/WorldFoodProgramme/videos/a-humanitarian-cargo-flight-has-landed-at-port-au-prince-airport-in-haiti-%EF%B8%8F-mark/1014772327365148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WorldFoodProgramme/videos/a-humanitarian-cargo-flight-has-landed-at-port-au-prince-airport-in-haiti-%EF%B8%8F-mark/1014772327365148/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/852968363/23-F-0922-4" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/852968363/23-F-0922-4</a>  
+   Link:<a href="https://www.scribd.com/document/852968363/23-F" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/852968363/23-F</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
+   Link:<a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: excellencerhum.com  
-   Link: <a href="https://www.excellencerhum.com/en/283-rum?page=132" target="_blank" rel="noopener noreferrer nofollow">https://www.excellencerhum.com/en/283-rum?page=132</a>
+   Link:<a href="https://www.excellencerhum.com/en/283-rum?page=132" target="_blank" rel="noopener noreferrer nofollow">https://www.excellencerhum.com/en/283-rum?page=132</a>

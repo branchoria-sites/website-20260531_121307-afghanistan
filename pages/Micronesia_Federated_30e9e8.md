@@ -1194,12 +1194,12 @@ image: /assets/images/Micronesia_Federated_30e9e8-overview-social.jpg
 
 ## Why Micronesia has a thin UFO record
 
-The Federated States of Micronesia is a dispersed western Pacific country made up of four states — Yap, Chuuk, Pohnpei and Kosrae — spread across hundreds of islands and a large ocean area. The national government’s civil aviation division is responsible for aviation programmes, airspace, airports and airfields, but public aviation pages do not show an equivalent public-facing UFO or UAP investigation archive for the country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tci.gov.fm/civilaviation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tci.gov.fm">[DOTCI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tci.gov.fm</span><span class="citation-popover-title">DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation</span><span class="citation-popover-snippet">DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation</span></span></span>
+The Federated States of Micronesia is a dispersed western Pacific country made up of four states — Yap, Chuuk, Pohnpei and Kosrae — spread across hundreds of islands and a large ocean area. The national government’s civil aviation division is responsible for aviation programmes, airspace, airports and airfields, but public aviation pages do not show an equivalent public-facing UFO or UAP investigation archive for the country.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tci.gov.fm/civilaviation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tci.gov.fm">[DOTCI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tci.gov.fm</span><span class="citation-popover-title">DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation</span><span class="citation-popover-snippet">DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation</span></span></span>
 
 <img src="{{ "/assets/images/Micronesia_Federated_30e9e8-overview.webp" | relative_url }}" alt="Overview image for Micronesia Federated States of" loading="eager" decoding="sync" fetchpriority="high">
 This matters because UFO history is highly dependent on reporting infrastructure. Places with dense aviation traffic, military ranges, active news archives, amateur astronomy communities, and familiar reporting pathways tend to generate more traceable reports. Micronesia has real aviation, weather, maritime and defence relevance, but a much smaller population and a more fragmented public record than countries with dedicated UFO organisations or searchable government case files.
 
-The National UFO Reporting Center, a major civilian archive often used for broad sighting comparisons, lists many locations and nearby Pacific categories, including Guam, Hawaii, the Marshall Islands, Palau, Papua New Guinea, “Pacific Ocean” and “Pacific Ocean (western)”, but its location index does not show “Micronesia” as a named location category in the searched page. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> That does not prove that no Micronesian resident has ever seen or reported an unexplained light; it means that, in this major public archive, the country does not currently appear as a distinct, evidence-rich UFO reporting cluster.
+The National UFO Reporting Center, a major civilian archive often used for broad sighting comparisons, lists many locations and nearby Pacific categories, including Guam, Hawaii, the Marshall Islands, Palau, Papua New Guinea, “Pacific Ocean” and “Pacific Ocean (western)”, but its location index does not show “Micronesia” as a named location category in the searched page.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> That does not prove that no Micronesian resident has ever seen or reported an unexplained light; it means that, in this major public archive, the country does not currently appear as a distinct, evidence-rich UFO reporting cluster.
 
 ## A practical chronology: what can and cannot be dated
 
@@ -1207,20 +1207,20 @@ A national UFO chronology for Micronesia has to be unusually cautious. The avail
 
 Before independence-era modern reporting, Micronesia’s skies would have included natural phenomena, wartime aircraft, post-war aviation, maritime lights, meteors and weather effects. But searches did not identify a documented, nationally recognised UFO case from Yap, Chuuk, Pohnpei or Kosrae that has become part of the international UFO literature in the way that, for example, New Zealand’s Kaikōura lights or the Papua New Guinea Boianai claims have done. The neighbouring-region comparison is useful only as a boundary marker: Micronesia sits in a Pacific UFO-adjacent region, but the evidence found for FSM itself is much thinner.
 
-From the late twentieth century into the internet era, the country becomes easier to search, yet the result remains sparse. Public sources are much more likely to surface Micronesia in connection with archaeology, military access, weather, aviation or tourism than with verified UFO incidents. The Compact of Free Association gives the United States significant defence responsibilities and operating rights in relation to FSM; the compact text includes provisions on defence facilities, operating rights, military access, and associated services such as civil aviation safety and weather services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gov.fm/the-compact-of-free-association-between-the-united-states-of-america-and-the-federated-states-of-micronesia-as-amended/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.fm">[gov.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.fm</span><span class="citation-popover-snippet">Open source on gov.fm.</span></span></span>
+From the late twentieth century into the internet era, the country becomes easier to search, yet the result remains sparse. Public sources are much more likely to surface Micronesia in connection with archaeology, military access, weather, aviation or tourism than with verified UFO incidents. The Compact of Free Association gives the United States significant defence responsibilities and operating rights in relation to FSM; the compact text includes provisions on defence facilities, operating rights, military access, and associated services such as civil aviation safety and weather services.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gov.fm/the-compact-of-free-association-between-the-united-states-of-america-and-the-federated-states-of-micronesia-as-amended/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.fm">[gov.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.fm</span><span class="citation-popover-snippet">Open source on gov.fm.</span></span></span>
 
-Since the 2020s, UAP has become a more formal term in US and international debate, but that has not produced a publicly documented FSM-specific case file. The US National Archives has established a UAP records collection under recent US legislation, and AARO, NASA and ODNI have published broader UAP material; none of the reviewed public materials surfaced a named Micronesian national incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
+Since the 2020s, UAP has become a more formal term in US and international debate, but that has not produced a publicly documented FSM-specific case file. The US National Archives has established a UAP records collection under recent US legislation, and AARO, NASA and ODNI have published broader UAP material; none of the reviewed public materials surfaced a named Micronesian national incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
 
 <img src="{{ "/assets/images/Micronesia_Federated_30e9e8-Illustration-1-dark.svg" | relative_url }}" alt="Micronesia Federated States of illustration 1" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Region-level variation: Yap, Chuuk, Pohnpei and Kosrae
 
 The four states would not all produce the same kinds of sky reports. A useful Micronesia-focused UFO analysis starts with local observation conditions rather than assuming a single national pattern.
 
-**Yap** is the most relevant state for future aviation-and-defence-linked misidentification risk. Public reporting in 2024 described US plans for major airport and seaport upgrades on Yap, including runway extension for larger aircraft and more military exercises, with possible additional projects elsewhere in FSM. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/apr/10/micronesia-president-wesley-simina-military-capabilities-us-airport-upgrade-yap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">micronesia president wesley simina military capabilities us airport upgrade yap</span><span class="citation-popover-snippet">micronesia president wesley simina military capabilities us airport upgrade yap</span></span></span> More aircraft activity, night operations, unfamiliar flight profiles, or exercises could increase reports of unusual lights without implying anything anomalous.
+**Yap** is the most relevant state for future aviation-and-defence-linked misidentification risk. Public reporting in 2024 described US plans for major airport and seaport upgrades on Yap, including runway extension for larger aircraft and more military exercises, with possible additional projects elsewhere in FSM.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/apr/10/micronesia-president-wesley-simina-military-capabilities-us-airport-upgrade-yap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">micronesia president wesley simina military capabilities us airport upgrade yap</span><span class="citation-popover-snippet">micronesia president wesley simina military capabilities us airport upgrade yap</span></span></span> More aircraft activity, night operations, unfamiliar flight profiles, or exercises could increase reports of unusual lights without implying anything anomalous.
 
 **Chuuk** has a different texture. Its lagoon is internationally known for Second World War wrecks and diving, and the state’s public identity often draws more from wartime and maritime history than from UFO lore. In a UFO context, this means many “mystery” narratives around Chuuk are more likely to drift into ghost stories, underwater wreck mythology, or tourism folklore than into well-evidenced aerial cases. That distinction matters because underwater mystery, wartime memory and unidentified aerial observation are often blurred in popular paranormal content.
 
-**Pohnpei** is the main location where extraterrestrial claims enter Micronesia’s public image, but mostly through pseudoarchaeology rather than sky sightings. Nan Madol, off Pohnpei, is a real and extraordinary archaeological site, yet claims that it required alien help are not supported by archaeology. UNESCO describes Nan Madol as more than 100 islets built with basalt and coral boulders, containing palaces, temples, tombs and residential domains from about 1200–1500 CE, associated with the Saudeleur dynasty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whc.unesco.org/en/list/1503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Pohnpei** is the main location where extraterrestrial claims enter Micronesia’s public image, but mostly through pseudoarchaeology rather than sky sightings. Nan Madol, off Pohnpei, is a real and extraordinary archaeological site, yet claims that it required alien help are not supported by archaeology. UNESCO describes Nan Madol as more than 100 islets built with basalt and coral boulders, containing palaces, temples, tombs and residential domains from about 1200–1500 CE, associated with the Saudeleur dynasty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://whc.unesco.org/en/list/1503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Kosrae** appears least connected to UFO claims in the searched public record. Its relevance is more practical: weather, aviation, maritime traffic and satellite visibility. Kosrae shares with Pohnpei the eastern FSM weather-service environment, where clouds, storms, marine haze and low-light viewing conditions can affect how ordinary objects appear.
 
@@ -1230,46 +1230,46 @@ The four states would not all produce the same kinds of sky reports. A useful Mi
 
 There is no sign of a dedicated FSM government UFO archive in the public sources reviewed. The relevant official structures are instead aviation, weather, defence arrangements and international UAP archives.
 
-FSM’s own civil aviation division identifies itself as responsible for the administration of aviation programmes and activities, including national airspace, airports and airfields. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tci.gov.fm/civilaviation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tci.gov.fm">[DOTCI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tci.gov.fm</span><span class="citation-popover-title">DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation</span><span class="citation-popover-snippet">DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation</span></span></span> In a strong UFO case, the most valuable local records would therefore be aviation incident reports, airport logs, pilot statements, radar or air-traffic communications, and weather data from the relevant state.
+FSM’s own civil aviation division identifies itself as responsible for the administration of aviation programmes and activities, including national airspace, airports and airfields.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tci.gov.fm/civilaviation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tci.gov.fm">[DOTCI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tci.gov.fm</span><span class="citation-popover-title">DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation</span><span class="citation-popover-snippet">DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation</span></span></span> In a strong UFO case, the most valuable local records would therefore be aviation incident reports, airport logs, pilot statements, radar or air-traffic communications, and weather data from the relevant state.
 
-Weather is also central. The US National Weather Service’s Pacific Region administers programmes across a wide Pacific area including the Federated States of Micronesia, and there are Weather Service Offices for Chuuk and Pohnpei/Kosrae. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/gum/WSOChuuk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/gum/pohnpei" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span> Those offices matter because many “strange light” reports turn on cloud cover, storms, lightning, visibility, marine haze, moon position, and satellite or radar context.
+Weather is also central. The US National Weather Service’s Pacific Region administers programmes across a wide Pacific area including the Federated States of Micronesia, and there are Weather Service Offices for Chuuk and Pohnpei/Kosrae.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/gum/WSOChuuk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/gum/pohnpei" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span> Those offices matter because many “strange light” reports turn on cloud cover, storms, lightning, visibility, marine haze, moon position, and satellite or radar context.
 
-US records are relevant but should not be overread. The Compact of Free Association gives the United States extensive defence responsibilities in relation to FSM, including provisions on military operating rights and access arrangements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gov.fm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.fm">[gov.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.fm</span><span class="citation-popover-snippet">Open source on gov.fm.</span></span></span> That makes US UAP record systems a logical place to check for regionally relevant incidents, but it does not mean that every unusual light in FSM airspace is a military matter, nor that US UAP documents automatically contain FSM-specific reports.
+US records are relevant but should not be overread. The Compact of Free Association gives the United States extensive defence responsibilities in relation to FSM, including provisions on military operating rights and access arrangements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gov.fm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.fm">[gov.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.fm</span><span class="citation-popover-snippet">Open source on gov.fm.</span></span></span> That makes US UAP record systems a logical place to check for regionally relevant incidents, but it does not mean that every unusual light in FSM airspace is a military matter, nor that US UAP documents automatically contain FSM-specific reports.
 
 ## The most plausible explanations for future sightings
 
 A careful Micronesian UFO assessment should treat “unidentified” as a temporary description, not a conclusion. The most likely explanations for many future reports would be ordinary objects seen under difficult viewing conditions.
 
-Space debris re-entry is one of the best examples. The Aerospace Corporation explains that re-entering space debris can resemble a meteor, with a bright body, a long dazzling tail, and multiple fragments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That description fits many dramatic “fleet of lights” accounts worldwide. It is especially relevant in the Pacific because wide ocean areas often lie beneath re-entry corridors, and island observers may see objects at long range against dark skies.
+Space debris re-entry is one of the best examples. The Aerospace Corporation explains that re-entering space debris can resemble a meteor, with a bright body, a long dazzling tail, and multiple fragments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That description fits many dramatic “fleet of lights” accounts worldwide. It is especially relevant in the Pacific because wide ocean areas often lie beneath re-entry corridors, and island observers may see objects at long range against dark skies.
 
-A regional example from Hawaii shows how persuasive such events can be. In October 2020, many observers saw mysterious lights over Hawaii; University of Hawaii astronomers assessed the display as the likely re-entry of a spent rocket booster from the 2008 launch of the Venezuelan satellite Venesat-1. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawaii.edu">[University of Hawaii System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawaii.edu</span><span class="citation-popover-title">ufo spotted over hawaii</span><span class="citation-popover-snippet">ufo spotted over hawaii</span></span></span> Hawaii is not Micronesia, but the case is a useful sibling-region comparison because it shows how an apparently extraordinary Pacific sky event can have a specific orbital explanation.
+A regional example from Hawaii shows how persuasive such events can be. In October 2020, many observers saw mysterious lights over Hawaii; University of Hawaii astronomers assessed the display as the likely re-entry of a spent rocket booster from the 2008 launch of the Venezuelan satellite Venesat-1.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawaii.edu">[University of Hawaii System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawaii.edu</span><span class="citation-popover-title">ufo spotted over hawaii</span><span class="citation-popover-snippet">ufo spotted over hawaii</span></span></span> Hawaii is not Micronesia, but the case is a useful sibling-region comparison because it shows how an apparently extraordinary Pacific sky event can have a specific orbital explanation.
 
-Satellites are another common source of confusion. Starlink satellite trains and other low-Earth-orbit objects can appear as strings of lights, especially shortly after launch or near twilight. Launches and satellite deployments have repeatedly sparked UFO speculation elsewhere, including along the US West Coast, where visible SpaceX activity was reported as strange lights before being identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfchronicle.com">[San Francisco Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfchronicle.com</span><span class="citation-popover-title">spacex falcon 9 starlink launch 20053824</span><span class="citation-popover-snippet">spacex falcon 9 starlink launch 20053824</span></span></span>
+Satellites are another common source of confusion. Starlink satellite trains and other low-Earth-orbit objects can appear as strings of lights, especially shortly after launch or near twilight. Launches and satellite deployments have repeatedly sparked UFO speculation elsewhere, including along the US West Coast, where visible SpaceX activity was reported as strange lights before being identified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfchronicle.com">[San Francisco Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfchronicle.com</span><span class="citation-popover-title">spacex falcon 9 starlink launch 20053824</span><span class="citation-popover-snippet">spacex falcon 9 starlink launch 20053824</span></span></span>
 
-Weather and optics complete the ordinary-explanation set. FSM sits in a region where thunderstorms, showers, marine haze and cloud breaks are common enough to change how aircraft, planets, satellites and meteors appear. The NASA UAP study stressed that serious UAP analysis requires calibrated data, multiple measurements, sensor metadata and baseline information; without those, reports are often too sparse to support firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Weather and optics complete the ordinary-explanation set. FSM sits in a region where thunderstorms, showers, marine haze and cloud breaks are common enough to change how aircraft, planets, satellites and meteors appear. The NASA UAP study stressed that serious UAP analysis requires calibrated data, multiple measurements, sensor metadata and baseline information; without those, reports are often too sparse to support firm conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Micronesia_Federated_30e9e8-Illustration-2-dark.svg" | relative_url }}" alt="Micronesia Federated States of illustration 2" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Nan Madol: the alien claim that is not a UFO case
 
 Nan Madol deserves its own treatment because it is the place most likely to draw a reader from “Micronesia UFOs” into “ancient aliens”. It is not, however, a UFO sighting or a UAP incident. It is an archaeological site whose scale has been repeatedly exaggerated into extraterrestrial speculation.
 
-The strongest evidence points to human construction within a known Pacific cultural and political setting. UNESCO identifies Nan Madol as a ceremonial centre of Eastern Micronesia, while archaeological dating and geochemical work place the start of major monument building around AD 1180–1200 and link the architecture to basalt and coral construction over a lagoon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whc.unesco.org/en/list/1503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0033589416300436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest evidence points to human construction within a known Pacific cultural and political setting. UNESCO identifies Nan Madol as a ceremonial centre of Eastern Micronesia, while archaeological dating and geochemical work place the start of major monument building around AD 1180–1200 and link the architecture to basalt and coral construction over a lagoon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://whc.unesco.org/en/list/1503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0033589416300436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Further archaeological work strengthens, rather than weakens, the human-construction explanation. A Journal of Pacific Archaeology study describes Nan Madol as an 81-hectare prehistoric administrative and ceremonial complex of 93 constructed islets, built between about AD 900 and 1650 over earlier settlement remains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pacificarchaeology.org/index.php/journal/article/view/68" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pacificarchaeology.org">[pacificarchaeology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pacificarchaeology.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Educational archaeology summaries also explain how stone sourcing links some basalt to Sokehs on the other side of Pohnpei, with transport and construction understood through quarrying, movement by water, ropes, levers and organised labour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Further archaeological work strengthens, rather than weakens, the human-construction explanation. A Journal of Pacific Archaeology study describes Nan Madol as an 81-hectare prehistoric administrative and ceremonial complex of 93 constructed islets, built between about AD 900 and 1650 over earlier settlement remains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pacificarchaeology.org/index.php/journal/article/view/68" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pacificarchaeology.org">[pacificarchaeology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pacificarchaeology.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Educational archaeology summaries also explain how stone sourcing links some basalt to Sokehs on the other side of Pohnpei, with transport and construction understood through quarrying, movement by water, ropes, levers and organised labour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The “alien” version usually depends on an argument from incredulity: the stones look too heavy, the site feels too remote, so the builders must have had outside help. That argument underrates Pohnpeian engineering, navigation, labour organisation and political authority. Skeptical reviews of television claims about Nan Madol have also criticised unsupported assertions about an underwater “second” city and alien technology in basalt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s15e01-the-mystery-of-nan-madol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The “alien” version usually depends on an argument from incredulity: the stones look too heavy, the site feels too remote, so the builders must have had outside help. That argument underrates Pohnpeian engineering, navigation, labour organisation and political authority. Skeptical reviews of television claims about Nan Madol have also criticised unsupported assertions about an underwater “second” city and alien technology in basalt.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s15e01-the-mystery-of-nan-madol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jasoncolavito.com">[JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jasoncolavito.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Evidence quality: confirmed, contested and debunked
 
 For Micronesia, the evidence categories are unusually clear.
 
-**Confirmed:** The confirmed facts are contextual, not extraterrestrial. FSM has aviation infrastructure, weather offices, defence arrangements with the United States, dark Pacific skies, and a real archaeological site at Nan Madol. Those facts help explain why unusual observations could occur and how they should be investigated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tci.gov.fm/civilaviation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tci.gov.fm">[DOTCI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tci.gov.fm</span><span class="citation-popover-title">DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation</span><span class="citation-popover-snippet">DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/gum/WSOChuuk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gov.fm/president-simina-completes-working-visit-to-yap-state-and-its-outer-islands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.fm">[gov.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.fm</span><span class="citation-popover-title">president simina completes working visit to yap state and its outer islands</span><span class="citation-popover-snippet">president simina completes working visit to yap state and its outer islands</span></span></span>
+**Confirmed:** The confirmed facts are contextual, not extraterrestrial. FSM has aviation infrastructure, weather offices, defence arrangements with the United States, dark Pacific skies, and a real archaeological site at Nan Madol. Those facts help explain why unusual observations could occur and how they should be investigated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tci.gov.fm/civilaviation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tci.gov.fm">[DOTCI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tci.gov.fm</span><span class="citation-popover-title">DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation</span><span class="citation-popover-snippet">DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/gum/WSOChuuk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://gov.fm/president-simina-completes-working-visit-to-yap-state-and-its-outer-islands/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.fm">[gov.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.fm</span><span class="citation-popover-title">president simina completes working visit to yap state and its outer islands</span><span class="citation-popover-snippet">president simina completes working visit to yap state and its outer islands</span></span></span>
 
-**Contested or unverified:** Any isolated social-media-style claim of a light over Pohnpei, Chuuk, Yap or Kosrae would remain weak unless tied to time, direction, duration, photos or video metadata, weather, aircraft movements, satellite passes and independent witnesses. NASA’s UAP report is useful here because it says the lack of standardised civilian reporting and missing metadata make many reports sparse and incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested or unverified:** Any isolated social-media-style claim of a light over Pohnpei, Chuuk, Yap or Kosrae would remain weak unless tied to time, direction, duration, photos or video metadata, weather, aircraft movements, satellite passes and independent witnesses. NASA’s UAP report is useful here because it says the lack of standardised civilian reporting and missing metadata make many reports sparse and incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Debunked or strongly explained:** The broad “ancient aliens built Nan Madol” claim is the clearest weak claim within the Micronesia UFO-adjacent space. The site is archaeologically real, culturally significant and technically impressive, but the available dating, sourcing and heritage evidence support human construction rather than extraterrestrial intervention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whc.unesco.org/en/list/1503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0033589416300436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pacificarchaeology.org/index.php/journal/article/view/68" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pacificarchaeology.org">[pacificarchaeology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pacificarchaeology.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Debunked or strongly explained:** The broad “ancient aliens built Nan Madol” claim is the clearest weak claim within the Micronesia UFO-adjacent space. The site is archaeologically real, culturally significant and technically impressive, but the available dating, sourcing and heritage evidence support human construction rather than extraterrestrial intervention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://whc.unesco.org/en/list/1503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0033589416300436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pacificarchaeology.org/index.php/journal/article/view/68" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pacificarchaeology.org">[pacificarchaeology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pacificarchaeology.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Unresolved in principle:** A future Micronesian case could remain genuinely unresolved if it had strong multi-source evidence and still resisted ordinary explanations. That is different from being alien. AARO’s public case examples show that even official military sensor cases may be resolved as balloons, birds or prosaic aircraft, while some remain unresolved because the available data is insufficient rather than because exotic performance is proven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+**Unresolved in principle:** A future Micronesian case could remain genuinely unresolved if it had strong multi-source evidence and still resisted ordinary explanations. That is different from being alien. AARO’s public case examples show that even official military sensor cases may be resolved as balloons, birds or prosaic aircraft, while some remain unresolved because the available data is insufficient rather than because exotic performance is proven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/80a2_dslsbs" title="Ancient Aliens: Decoding the Strange ALIEN Secrets of Nan Madol | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=80a2_dslsbs" target="_blank" rel="noopener noreferrer">Ancient Aliens: Decoding the Strange ALIEN Secrets of Nan Madol | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.0M &middot; Uploaded: October 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=80a2_dslsbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=80a2_dslsbs">Open on YouTube</a></p></div></div></div>
 
@@ -1277,7 +1277,7 @@ For Micronesia, the evidence categories are unusually clear.
 
 A useful report from FSM would need more than a dramatic description. The minimum evidence should include the exact island or atoll, date and local time, direction of view, elevation above the horizon, duration, motion, colour, sound, weather, and whether the object passed near known flight paths or satellite tracks. Photos or video should preserve original metadata rather than being compressed through social media.
 
-The strongest cases would have independent observers in different locations, aviation or maritime records, weather-office confirmation, and a check against satellite passes and known space-debris re-entries. NASA’s study emphasises that UAP work benefits from multiple calibrated sensors, metadata such as time and location, and methods that can rule out false positives and sensor artefacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest cases would have independent observers in different locations, aviation or maritime records, weather-office confirmation, and a check against satellite passes and known space-debris re-entries. NASA’s study emphasises that UAP work benefits from multiple calibrated sensors, metadata such as time and location, and methods that can rule out false positives and sensor artefacts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Micronesia specifically, a sensible verification path would begin with local weather offices, airport or airline activity, marine observations, and sky-tracking tools before turning to extraordinary explanations. If an event occurred near Yap during future US-linked airport activity, aviation and exercise schedules would be especially important. If it occurred over Pohnpei or Kosrae during stormy conditions, cloud, lightning and visibility would be central. If it appeared as a slow train or cluster of lights, satellites or re-entry should be checked first.
 
@@ -1285,7 +1285,7 @@ For Micronesia specifically, a sensible verification path would begin with local
 
 ## What this means for the wider Pacific UFO map
 
-Micronesia is best treated as a low-documentation node in the wider Pacific UFO map. It sits between better-indexed or more frequently cited places — Guam, Hawaii, the Marshall Islands, Palau, Papua New Guinea and New Zealand — but the current public record does not justify importing those countries’ cases into FSM’s own chronology. NUFORC’s location index, for example, separately lists several nearby Pacific places and ocean categories but not a distinct Micronesia category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+Micronesia is best treated as a low-documentation node in the wider Pacific UFO map. It sits between better-indexed or more frequently cited places — Guam, Hawaii, the Marshall Islands, Palau, Papua New Guinea and New Zealand — but the current public record does not justify importing those countries’ cases into FSM’s own chronology. NUFORC’s location index, for example, separately lists several nearby Pacific places and ocean categories but not a distinct Micronesia category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 That makes the country important in a different way. Micronesia shows how a UFO geography can be shaped as much by reporting systems as by sightings themselves. A country may have clear skies, unusual viewing conditions, strategic airspace and strong cultural mystery narratives, yet still lack a robust UFO case record. For readers comparing sibling branches in a Pacific UFO project, FSM should therefore be read alongside Guam, Palau, the Marshall Islands and Papua New Guinea, but not merged with them.
 
@@ -1294,194 +1294,194 @@ The fair conclusion is modest: no confirmed Micronesian UFO incident currently s
 <img src="{{ "/assets/images/Micronesia_Federated_30e9e8-Illustration-3-dark.svg" | relative_url }}" alt="Micronesia Federated States of illustration 3" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Micronesia Has So Few UFO Cases. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Micronesia Has So Few UFO Cases. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding why some regions produce more reports than others.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why some regions produce more reports than others.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Introduces evidence standards and documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces evidence standards and documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how cultural environments shape anomalous reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how cultural environments shape anomalous reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Relevant to assessing sparse evidence and unusual claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to assessing sparse evidence and unusual claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-micronesia-has-so-few-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-micronesia-has-so-few-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1497,7 +1497,7 @@ The fair conclusion is modest: no confirmed Micronesian UFO incident currently s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1517,7 +1517,7 @@ The fair conclusion is modest: no confirmed Micronesian UFO incident currently s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1549,7 +1549,7 @@ The fair conclusion is modest: no confirmed Micronesian UFO incident currently s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1601,7 +1601,7 @@ The fair conclusion is modest: no confirmed Micronesian UFO incident currently s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1646,7 +1646,7 @@ The fair conclusion is modest: no confirmed Micronesian UFO incident currently s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1684,251 +1684,250 @@ The fair conclusion is modest: no confirmed Micronesian UFO incident currently s
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tci.gov.fm  
    Title: DOTCIFederated States of Micronesia (FSM) Division of Civil Aviation  
-   Link: <a href="https://tci.gov.fm/civilaviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://tci.gov.fm/civilaviation/index.html</a>  
+   Link:<a href="https://tci.gov.fm/civilaviation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://tci.gov.fm/civilaviation/index.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gov.fm  
-   Link: <a href="https://gov.fm/the-compact-of-free-association-between-the-united-states-of-america-and-the-federated-states-of-micronesia-as-amended/" target="_blank" rel="noopener noreferrer nofollow">https://gov.fm/the-compact-of-free-association-between-the-united-states-of-america-and-the-federated-states-of-micronesia-as-amended/</a>  
+   Link:<a href="https://gov.fm/the-compact-of-free-association-between-the-united-states-of-america-and-the-federated-states-of-micronesia-as-amended/" target="_blank" rel="noopener noreferrer nofollow">https://gov.fm/the-compact-of-free-association-between-the-united-states-of-america-and-the-federated-states-of-micronesia-as-amended/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: whc.unesco.org  
-   Link: <a href="https://whc.unesco.org/en/list/1503/" target="_blank" rel="noopener noreferrer nofollow">https://whc.unesco.org/en/list/1503/</a>  
+   Link:<a href="https://whc.unesco.org/en/list/1503/" target="_blank" rel="noopener noreferrer nofollow">https://whc.unesco.org/en/list/1503/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/gum/WSOChuuk" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gum/WSOChuuk</a>  
+   Link:<a href="https://www.weather.gov/gum/WSOChuuk" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gum/WSOChuuk</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/gum/pohnpei" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gum/pohnpei</a>  
+   Link:<a href="https://www.weather.gov/gum/pohnpei" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gum/pohnpei</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aerospace.org  
-   Link: <a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
+   Link:<a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hawaii.edu  
    Title: ufo spotted over hawaii  
-   Link: <a href="https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/</a>  
+   Link:<a href="https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0033589416300436" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0033589416300436</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0033589416300436" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0033589416300436</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pacificarchaeology.org  
-   Link: <a href="https://pacificarchaeology.org/index.php/journal/article/view/68" target="_blank" rel="noopener noreferrer nofollow">https://pacificarchaeology.org/index.php/journal/article/view/68</a>  
+   Link:<a href="https://pacificarchaeology.org/index.php/journal/article/view/68" target="_blank" rel="noopener noreferrer nofollow">https://pacificarchaeology.org/index.php/journal/article/view/68</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: human.libretexts.org  
-   Link: <a href="https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things</a>  
+   Link:<a href="https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Bookshelves/Art/Art_History_and_Theory/SmartHistory_of_Art_2e/SmartHistory_of_Art_X_-_Oceania/05%3A_Micronesia/5.04%3A_Nan_Madol-_In_the_space_between_things</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gov.fm  
-   Link: <a href="https://gov.fm/" target="_blank" rel="noopener noreferrer nofollow">https://gov.fm/</a>  
+   Link:<a href="https://gov.fm/" target="_blank" rel="noopener noreferrer nofollow">https://gov.fm/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tci.gov.fm  
-   Link: <a href="https://tci.gov.fm/civilaviation/sitemap.html" target="_blank" rel="noopener noreferrer nofollow">https://tci.gov.fm/civilaviation/sitemap.html</a>  
+   Link:<a href="https://tci.gov.fm/civilaviation/sitemap.html" target="_blank" rel="noopener noreferrer nofollow">https://tci.gov.fm/civilaviation/sitemap.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: gov.fm  
    Title: president simina completes working visit to yap state and its outer islands  
-   Link: <a href="https://gov.fm/president-simina-completes-working-visit-to-yap-state-and-its-outer-islands/" target="_blank" rel="noopener noreferrer nofollow">https://gov.fm/president-simina-completes-working-visit-to-yap-state-and-its-outer-islands/</a>  
+   Link:<a href="https://gov.fm/president-simina-completes-working-visit-to-yap-state-and-its-outer-islands/" target="_blank" rel="noopener noreferrer nofollow">https://gov.fm/president-simina-completes-working-visit-to-yap-state-and-its-outer-islands/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nach.gov.fm  
-   Link: <a href="https://nach.gov.fm/nan-madol/" target="_blank" rel="noopener noreferrer nofollow">https://nach.gov.fm/nan-madol/</a>  
+   Link:<a href="https://nach.gov.fm/nan-madol/" target="_blank" rel="noopener noreferrer nofollow">https://nach.gov.fm/nan-madol/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nach.gov.fm  
-   Link: <a href="https://nach.gov.fm/wp-content/uploads/2019/01/earliest_direct_evidence_of_monument_building_at_the_archaeological_site_of_nan_madol_pohnpei_micronesia_identified_using_230thu_coral_dating_an.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nach.gov.fm/wp-content/uploads/2019/01/earliest_direct_evidence_of_monument_building_at_the_archaeological_site_of_nan_madol_pohnpei_micronesia_identified_using_230thu_coral_dating_an.pdf</a>  
+   Link:<a href="https://nach.gov.fm/wp-content/uploads/2019/01/earliest_direct_evidence_of_monument_building_at_the_archaeological_site_of_nan_madol_pohnpei_micronesia_identified_using_230thu_coral_dating_an.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nach.gov.fm/wp-content/uploads/2019/01/earliest_direct_evidence_of_monument_building_at_the_archaeological_site_of_nan_madol_pohnpei_micronesia_identified_using_230thu_coral_dating_an.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
+   Link:<a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.sky.com  
    Title: pentagon releases never before seen files on ufos 13541565  
-   Link: <a href="https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565</a>  
+   Link:<a href="https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-releases-never-before-seen-files-on-ufos-13541565</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: state.gov  
    Title: federated states of micronesia  
-   Link: <a href="https://www.state.gov/reports/2025-investment-climate-statements/federated-states-of-micronesia" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2025-investment-climate-statements/federated-states-of-micronesia</a>  
+   Link:<a href="https://www.state.gov/reports/2025-investment-climate-statements/federated-states-of-micronesia" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/reports/2025-investment-climate-statements/federated-states-of-micronesia</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: 2017-2021.state.gov  
-   Link: <a href="https://2017-2021.state.gov/countries-areas/micronesia/" target="_blank" rel="noopener noreferrer nofollow">https://2017-2021.state.gov/countries-areas/micronesia/</a>  
+   Link:<a href="https://2017-2021.state.gov/countries-areas/micronesia/" target="_blank" rel="noopener noreferrer nofollow">https://2017-2021.state.gov/countries-areas/micronesia/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: travel.state.gov  
    Title: Federated States Of Micronesia  
-   Link: <a href="https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FederatedStatesOfMicronesia.html" target="_blank" rel="noopener noreferrer nofollow">https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FederatedStatesOfMicronesia.html</a>  
+   Link:<a href="https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FederatedStatesOfMicronesia.html" target="_blank" rel="noopener noreferrer nofollow">https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FederatedStatesOfMicronesia.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: theguardian.com  
    Title: micronesia president wesley simina military capabilities us airport upgrade yap  
-   Link: <a href="https://www.theguardian.com/world/2024/apr/10/micronesia-president-wesley-simina-military-capabilities-us-airport-upgrade-yap" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/apr/10/micronesia-president-wesley-simina-military-capabilities-us-airport-upgrade-yap</a>  
+   Link:<a href="https://www.theguardian.com/world/2024/apr/10/micronesia-president-wesley-simina-military-capabilities-us-airport-upgrade-yap" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/apr/10/micronesia-president-wesley-simina-military-capabilities-us-airport-upgrade-yap</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: sfchronicle.com  
    Title: spacex falcon 9 starlink launch 20053824  
-   Link: <a href="https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php</a>  
+   Link:<a href="https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: jasoncolavito.com  
-   Link: <a href="https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s15e01-the-mystery-of-nan-madol" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s15e01-the-mystery-of-nan-madol</a>  
+   Link:<a href="https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s15e01-the-mystery-of-nan-madol" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s15e01-the-mystery-of-nan-madol</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Federated States of Micronesia  
-   Link: <a href="https://en.wikipedia.org/wiki/Federated_States_of_Micronesia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federated_States_of_Micronesia</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Federated_States_of_Micronesia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federated_States_of_Micronesia</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Compact of Free Association  
-   Link: <a href="https://en.wikipedia.org/wiki/Compact_of_Free_Association" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Compact_of_Free_Association</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Compact_of_Free_Association" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Compact_of_Free_Association</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Nan Madol  
-   Link: <a href="https://en.wikipedia.org/wiki/Nan_Madol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nan_Madol</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nan_Madol" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nan_Madol</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ancientwhispers/photos/glowing-orb-in-the-sky-was-recently-observed-being-followed-closely-by-a-helicop/854934174192672/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/photos/glowing-orb-in-the-sky-was-recently-observed-being-followed-closely-by-a-helicop/854934174192672/</a>  
+   Link:<a href="https://www.facebook.com/ancientwhispers/photos/glowing-orb-in-the-sky-was-recently-observed-being-followed-closely-by-a-helicop/854934174192672/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/photos/glowing-orb-in-the-sky-was-recently-observed-being-followed-closely-by-a-helicop/854934174192672/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.abm6536" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.abm6536</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.abm6536" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.abm6536</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.adu0447" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adu0447</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.adu0447" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adu0447</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.1400060" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.1400060</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.1400060" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.1400060</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: pacific-studies.net  
-   Link: <a href="https://www.pacific-studies.net/datadetails.php?place=9&amp;source=3&amp;type=Data" target="_blank" rel="noopener noreferrer nofollow">https://www.pacific-studies.net/datadetails.php?place=9&amp;source=3&amp;type=Data</a>  
+   Link:<a href="https://www.pacific-studies.net/datadetails.php?place=9&amp;source=3&amp;type=Data" target="_blank" rel="noopener noreferrer nofollow">https://www.pacific-studies.net/datadetails.php?place=9&amp;source=3&amp;type=Data</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: jasoncolavito.com  
    Title: review of ancient aliens s06e09 aliens and forbidden islands  
-   Link: <a href="https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s06e09-aliens-and-forbidden-islands" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s06e09-aliens-and-forbidden-islands</a>  
+   Link:<a href="https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s06e09-aliens-and-forbidden-islands" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/review-of-ancient-aliens-s06e09-aliens-and-forbidden-islands</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: openfactbook.org  
    Title: Federated States of Micronesia  
-   Link: <a href="https://openfactbook.org/countries/federated-states-of-micronesia/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/federated-states-of-micronesia/</a>  
+   Link:<a href="https://openfactbook.org/countries/federated-states-of-micronesia/" target="_blank" rel="noopener noreferrer nofollow">https://openfactbook.org/countries/federated-states-of-micronesia/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/federated-states-micronesia" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/federated-states-micronesia</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/federated-states-micronesia" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/federated-states-micronesia</a>  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X8rZz93wtjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X8rZz93wtjs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump Releases UFO Files... Trying to Divert Attention from &#x27;Iran War&#x27;? / YonhapnewsTV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X8rZz93wtjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X8rZz93wtjs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump Releases UFO Files... Trying to Divert Attention from &#x27;Iran War&#x27;? / YonhapnewsTV...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-jw8VREWpnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-jw8VREWpnk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Tic Tac&quot; UFO: Can This Sighting Be Explained? | NOVA | PBS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-jw8VREWpnk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-jw8VREWpnk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Tic Tac&quot; UFO: Can This Sighting Be Explained? | NOVA | PBS...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Decoding the Strange ALIEN Secrets of Nan Madol | History  
-   Link: <a href="https://www.youtube.com/watch?v=80a2_dslsbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=80a2_dslsbs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nan Madol: The Megalithic Island City of the Pacific...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=80a2_dslsbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=80a2_dslsbs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nan Madol: The Megalithic Island City of the Pacific...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: youtube.com  
    Title: Nan Madol: The Megalithic Island City of the Pacific  
-   Link: <a href="https://www.youtube.com/watch?v=Vh7Re5DdQH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vh7Re5DdQH8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying UFO Encounter Over the Pacific! Gulfstream Pilot Reports UAP at 47,000 ft...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Vh7Re5DdQH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vh7Re5DdQH8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying UFO Encounter Over the Pacific! Gulfstream Pilot Reports UAP at 47,000 ft...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: doi.gov  
-   Link: <a href="https://www.doi.gov/oia/compacts-of-free-association" target="_blank" rel="noopener noreferrer nofollow">https://www.doi.gov/oia/compacts-of-free-association</a>  
+   Link:<a href="https://www.doi.gov/oia/compacts-of-free-association" target="_blank" rel="noopener noreferrer nofollow">https://www.doi.gov/oia/compacts-of-free-association</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/fm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/fm.pdf</a>  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/fm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ifim/country_info/PDF/fm.pdf</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt11601804/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt11601804/</a>  
+   Link:<a href="https://www.imdb.com/title/tt11601804/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt11601804/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/283711318_A_New_Archaeological_Field_Survey_of_the_Site_of_Nan_Madol_Pohnpei" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283711318_A_New_Archaeological_Field_Survey_of_the_Site_of_Nan_Madol_Pohnpei</a>  
+   Link:<a href="https://www.researchgate.net/publication/283711318_A_New_Archaeological_Field_Survey_of_the_Site_of_Nan_Madol_Pohnpei" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283711318_A_New_Archaeological_Field_Survey_of_the_Site_of_Nan_Madol_Pohnpei</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abcnews.au/posts/the-us-is-spending-billions-of-dollars-expanding-its-military-presence-in-micron/1381066253374641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/the-us-is-spending-billions-of-dollars-expanding-its-military-presence-in-micron/1381066253374641/</a>  
+   Link:<a href="https://www.facebook.com/abcnews.au/posts/the-us-is-spending-billions-of-dollars-expanding-its-military-presence-in-micron/1381066253374641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abcnews.au/posts/the-us-is-spending-billions-of-dollars-expanding-its-military-presence-in-micron/1381066253374641/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: flights-idealo.co.uk  
-   Link: <a href="https://www.flights-idealo.co.uk/airport/Federated-States-of-Micronesia%2CFM/" target="_blank" rel="noopener noreferrer nofollow">https://www.flights-idealo.co.uk/airport/Federated-States-of-Micronesia%2CFM/</a>
+   Link:<a href="https://www.flights-idealo.co.uk/airport/Federated-States-of-Micronesia%2CFM/" target="_blank" rel="noopener noreferrer nofollow">https://www.flights-idealo.co.uk/airport/Federated-States-of-Micronesia%2CFM/</a>

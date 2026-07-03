@@ -255,8 +255,8 @@ Reported “UFO” sightings in **Kazakhstan** often have prosaic origins — es
 
 Kazakhstan’s wide expanses and clear night skies make it especially conducive to noticing fleeting luminous events that attract attention and speculation. Even mundane atmospheric entries can produce dramatic visuals that, without context, look mysterious. Two primary mechanisms explain many such sightings:
 
-* **Meteors:** Small rocky or metallic particles from space that enter Earth’s atmosphere and burn up due to friction, producing bright streaks or glowing trails. Most meteoroids disintegrate high in the atmosphere, leading to brief but vivid light shows known as meteors or “shooting stars.” Some leave ionised trails visible for tens of seconds before fading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Космический мусор</span><span class="citation-popover-snippet">Космический мусор</span></span></span>
-* **Space debris (artificial objects):** Defunct satellites, rocket stages, and fragments from past launches orbit Earth as **space debris**. When their orbits decay sufficiently, they re‑enter the denser layers of the atmosphere and burn up, often creating long, glowing paths across the sky similar to meteors. These events can last longer and move more slowly than typical meteors, depending on the object’s size, shape, and entry angle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Космический мусор</span><span class="citation-popover-snippet">Космический мусор</span></span></span>
+* **Meteors:** Small rocky or metallic particles from space that enter Earth’s atmosphere and burn up due to friction, producing bright streaks or glowing trails. Most meteoroids disintegrate high in the atmosphere, leading to brief but vivid light shows known as meteors or “shooting stars.” Some leave ionised trails visible for tens of seconds before fading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Космический мусор</span><span class="citation-popover-snippet">Космический мусор</span></span></span>
+* **Space debris (artificial objects):** Defunct satellites, rocket stages, and fragments from past launches orbit Earth as **space debris**. When their orbits decay sufficiently, they re‑enter the denser layers of the atmosphere and burn up, often creating long, glowing paths across the sky similar to meteors. These events can last longer and move more slowly than typical meteors, depending on the object’s size, shape, and entry angle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Космический мусор</span><span class="citation-popover-snippet">Космический мусор</span></span></span>
 
 Because both mechanisms involve objects visibly heating up and glowing during atmospheric entry, they can easily be misidentified by lay observers as “unidentified flying objects” — particularly when multiple lights, colours, or prolonged durations are involved.
 
@@ -264,15 +264,15 @@ Because both mechanisms involve objects visibly heating up and glowing during at
 
 ## Case Study: Bright Lights over Kazakhstan, June 2025
 
-One of the clearest recent examples occurred on the night of **5–6 June 2025**, when residents across several cities — including **Astana**, **Karaganda**, **Pavlodar**, **Kostanay**, and others — saw unusual bright lights and fire‑like streaks in the sky. Videos circulated widely on social media, prompting speculation about unidentified aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kt.kz">[Kazakhstan Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kt.kz</span><span class="citation-popover-snippet">June 6, 2025...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+One of the clearest recent examples occurred on the night of **5–6 June 2025**, when residents across several cities — including **Astana**, **Karaganda**, **Pavlodar**, **Kostanay**, and others — saw unusual bright lights and fire‑like streaks in the sky. Videos circulated widely on social media, prompting speculation about unidentified aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kt.kz">[Kazakhstan Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kt.kz</span><span class="citation-popover-snippet">June 6, 2025...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
 
 ### Official and Scientific Explanations
 
 Government agencies and local experts provided grounded interpretations:
 
-* The **Ministry of Defense** of Kazakhstan stated there were **no violations of national airspace** and that the objects were consistent with **fragments of space objects burning up in the atmosphere or a meteoric event**, emphasising there was **no threat to the population**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eadaily.com">[EADaily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eadaily.com</span><span class="citation-popover-snippet">The Ministry of Defense of Kazakhstan commented on the appearance of UFOs in the sky over the republic — EADaily, June 6th, 2025 —...</span></span></span>
-* The **Ministry of Digital Development, Innovation and Aerospace Industry** analysed tracking data from **international space debris monitoring systems**, noting that at least three distinct orbital decay events — including the re‑entry of a rocket stage from a **Chinese ZQ‑2E launch**, the planned de‑orbit of a SpaceX **Starlink‑1631 satellite**, and the re‑entry of a Japanese **H‑2A rocket body** — coincided in time with the observed phenomenon. These re‑entries are typical of space debris falling back to Earth and burning up in the upper atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kt.kz">[Kazakhstan Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kt.kz</span><span class="citation-popover-snippet">June 6, 2025...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
-* Local astronomers, including commentators from **Astana**, suggested that the **trajectory and glowing trail observed by witnesses** more closely matched debris re‑entry than rocket launches, though they also left room for the possibility of a natural **meteoroid** event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zakon.kz/nauka/6480061-kosmicheskiy-musor-a-ne-raketa-astronom-vyskazalsya-o-svetyashchikhsya-obektakh-v-nebe-kazakhstana.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zakon.kz">[Новости Zakon.kz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zakon.kz</span><span class="citation-popover-snippet">025 на zakon.kzJune 6, 2025...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+* The **Ministry of Defense** of Kazakhstan stated there were **no violations of national airspace** and that the objects were consistent with **fragments of space objects burning up in the atmosphere or a meteoric event**, emphasising there was **no threat to the population**.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eadaily.com">[EADaily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eadaily.com</span><span class="citation-popover-snippet">The Ministry of Defense of Kazakhstan commented on the appearance of UFOs in the sky over the republic — EADaily, June 6th, 2025 —...</span></span></span>
+* The **Ministry of Digital Development, Innovation and Aerospace Industry** analysed tracking data from **international space debris monitoring systems**, noting that at least three distinct orbital decay events — including the re‑entry of a rocket stage from a **Chinese ZQ‑2E launch**, the planned de‑orbit of a SpaceX **Starlink‑1631 satellite**, and the re‑entry of a Japanese **H‑2A rocket body** — coincided in time with the observed phenomenon. These re‑entries are typical of space debris falling back to Earth and burning up in the upper atmosphere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kt.kz">[Kazakhstan Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kt.kz</span><span class="citation-popover-snippet">June 6, 2025...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+* Local astronomers, including commentators from **Astana**, suggested that the **trajectory and glowing trail observed by witnesses** more closely matched debris re‑entry than rocket launches, though they also left room for the possibility of a natural **meteoroid** event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zakon.kz/nauka/6480061-kosmicheskiy-musor-a-ne-raketa-astronom-vyskazalsya-o-svetyashchikhsya-obektakh-v-nebe-kazakhstana.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zakon.kz">[Новости Zakon.kz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zakon.kz</span><span class="citation-popover-snippet">025 на zakon.kzJune 6, 2025...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
 
 In other words, the lights seen across Kazakhstan in June 2025 align closely with expected outcomes of **space debris breakup and atmospheric entry**, sometimes supplemented by natural meteors. Many residents reported seeing the phenomenon over large geographic areas, consistent with high‑altitude atmospheric events rather than close, slow‑moving craft.
 
@@ -281,8 +281,8 @@ In other words, the lights seen across Kazakhstan in June 2025 align closely wit
 
 Beyond meteors and space debris, a handful of other ordinary objects can be misread as anomalous:
 
-* **Re‑entering satellite components:** Discarded rocket stages or old satellites can decay unpredictably, creating multiple glowing fragments visible over wide areas. The pattern often looks like a “train” of lights as the object breaks up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kt.kz">[Kazakhstan Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kt.kz</span><span class="citation-popover-snippet">June 6, 2025...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
-* **Launch trails and upper‑atmospheric lighting:** Kazakhstan hosts major launch infrastructure such as **Baikonur Cosmodrome**. Rocket launches can produce illuminated contrails or ionospheric effects, especially around dawn or dusk, that look otherworldly to casual observers. One long‑established explanation offered by local astronomers decades ago is that residents sometimes mistake launch trails for unidentified aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.sputnik.kz/20171018/tejfel-lyudi-prinimayut-sled-ot-zapuska-rakety-s-bajkonura-za-nlo-3509836.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ru.sputnik.kz">[Sputnik Казахстан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ru.sputnik.kz</span><span class="citation-popover-title">КазахстанТейфель: люди принимают след от запуска ракеты с Байконура за НЛО</span><span class="citation-popover-snippet">Sputnik КазахстанТейфель: люди принимают след от запуска ракеты с Байконура за НЛО - 18.10.2017, Sputnik КазахстанOctober 18, 2017...</span><span class="citation-popover-meta">Published: October 18, 2017</span></span></span>
+* **Re‑entering satellite components:** Discarded rocket stages or old satellites can decay unpredictably, creating multiple glowing fragments visible over wide areas. The pattern often looks like a “train” of lights as the object breaks up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kt.kz">[Kazakhstan Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kt.kz</span><span class="citation-popover-snippet">June 6, 2025...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+* **Launch trails and upper‑atmospheric lighting:** Kazakhstan hosts major launch infrastructure such as **Baikonur Cosmodrome**. Rocket launches can produce illuminated contrails or ionospheric effects, especially around dawn or dusk, that look otherworldly to casual observers. One long‑established explanation offered by local astronomers decades ago is that residents sometimes mistake launch trails for unidentified aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.sputnik.kz/20171018/tejfel-lyudi-prinimayut-sled-ot-zapuska-rakety-s-bajkonura-za-nlo-3509836.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ru.sputnik.kz">[Sputnik Казахстан]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ru.sputnik.kz</span><span class="citation-popover-title">КазахстанТейфель: люди принимают след от запуска ракеты с Байконура за НЛО</span><span class="citation-popover-snippet">Sputnik КазахстанТейфель: люди принимают след от запуска ракеты с Байконура за НЛО - 18.10.2017, Sputnik КазахстанOctober 18, 2017...</span><span class="citation-popover-meta">Published: October 18, 2017</span></span></span>
 * **Satellites and orbital flares:** Artificial satellites — particularly those with reflective surfaces like Starlink constellations — can produce bright glints (so‑called “flares”) as sunlight reflects toward an observer, lasting several seconds and moving steadily across the sky.
 
 These sources frequently account for reported UFO sightings without invoking anything unusual beyond known aerospace activity.
@@ -293,209 +293,209 @@ These sources frequently account for reported UFO sightings without invoking any
 
 When people report “unidentified” lights or objects, a few practical criteria help distinguish ordinary causes from genuinely unexplained ones:
 
-* **Duration and motion:** Meteors and debris re‑entries are typically fast, often lasting only seconds or a minute as they streak across the sky. Steadier, slower objects may be satellites or aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Космический мусор</span><span class="citation-popover-snippet">Космический мусор</span></span></span>
-* **Time and direction:** Cross‑referencing sighting times with known rocket launches or de‑orbit predictions (publicly catalogued by agencies like NORAD or the US Space Surveillance Network) can clarify if the event aligns with a planned re‑entry or launch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kt.kz">[Kazakhstan Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kt.kz</span><span class="citation-popover-snippet">June 6, 2025...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
-* **Appearance and pattern:** Multiple lights in a line or train often indicate a breakup of a larger object rather than a solid craft. True meteors tend to leave singular glowing trails. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Космический мусор</span><span class="citation-popover-snippet">Космический мусор</span></span></span>
+* **Duration and motion:** Meteors and debris re‑entries are typically fast, often lasting only seconds or a minute as they streak across the sky. Steadier, slower objects may be satellites or aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Космический мусор</span><span class="citation-popover-snippet">Космический мусор</span></span></span>
+* **Time and direction:** Cross‑referencing sighting times with known rocket launches or de‑orbit predictions (publicly catalogued by agencies like NORAD or the US Space Surveillance Network) can clarify if the event aligns with a planned re‑entry or launch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kt.kz">[Kazakhstan Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kt.kz</span><span class="citation-popover-snippet">June 6, 2025...</span><span class="citation-popover-meta">Published: June 6, 2025</span></span></span>
+* **Appearance and pattern:** Multiple lights in a line or train often indicate a breakup of a larger object rather than a solid craft. True meteors tend to leave singular glowing trails.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Космический мусор</span><span class="citation-popover-snippet">Космический мусор</span></span></span>
 * **Expert commentary:** Statements from official bodies (defence ministries, astronomical institutes) and tracked orbital data are strong evidence that an event has a conventional explanation.
 
 <img src="{{ "/assets/images/Kazakhstan_2f36b6_ordinary_sky_causes_971a90-Illustration-3-dark.svg" | relative_url }}" alt="Sky Causes illustration 3" data-theme-src-dark="{{ "/assets/images/Kazakhstan_2f36b6_ordinary_sky_causes_971a90-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kazakhstan_2f36b6_ordinary_sky_causes_971a90-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Space Debris and the Increasing Frequency of Sky Shows
 
-Both natural meteors and artificial orbital debris are becoming easier to notice due to increased space activity. The amount of defunct satellites, spent rocket stages, and fragments orbiting Earth has grown steadily over decades. While most debris harmlessly burns up upon re‑entry, **larger pieces can produce prolonged fireballs** visible across wide regions — the type of spectacle sometimes misreported as “unidentified” craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Космический мусор</span><span class="citation-popover-snippet">Космический мусор</span></span></span>
+Both natural meteors and artificial orbital debris are becoming easier to notice due to increased space activity. The amount of defunct satellites, spent rocket stages, and fragments orbiting Earth has grown steadily over decades. While most debris harmlessly burns up upon re‑entry, **larger pieces can produce prolonged fireballs** visible across wide regions — the type of spectacle sometimes misreported as “unidentified” craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Космический мусор</span><span class="citation-popover-snippet">Космический мусор</span></span></span>
 
 In Kazakhstan, with its strategic location under orbital paths and proximity to major launch infrastructure, such re‑entries and atmospheric light shows are statistically more common than genuine unidentified aerial phenomena. They offer a rich tableau for skywatchers — but, as seen in official and expert analyses, serve as strong reminders that **not all bright or unfamiliar sky events are mysterious**.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IKLHrvSYBNU" title="Meteor Cam LIVE Stream - Huge Fireball Meteor !" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IKLHrvSYBNU" target="_blank" rel="noopener noreferrer">Meteor Cam LIVE Stream - Huge Fireball Meteor !</a></p><p class="youtube-embed-meta">Channel: Northumberland Astro &middot; Views: 2.7K &middot; Uploaded: April 2026 &middot; Length: 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IKLHrvSYBNU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IKLHrvSYBNU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Kazakhstan UFOs Often Have Ordinary Causes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Kazakhstan UFOs Often Have Ordinary Causes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Explores why some cases remain unexplained while many do not.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why some cases remain unexplained while many do not.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify ordinary celestial phenomena often mistaken for UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify ordinary celestial phenomena often mistaken for UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Teaches critical evaluation of mysterious observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches critical evaluation of mysterious observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Provides practical understanding of visible night-sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical understanding of visible night-sky objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-kazakhstan-ufos-often-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -511,7 +511,7 @@ In Kazakhstan, with its strategic location under orbital paths and proximity to 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -531,7 +531,7 @@ In Kazakhstan, with its strategic location under orbital paths and proximity to 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -563,7 +563,7 @@ In Kazakhstan, with its strategic location under orbital paths and proximity to 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -615,7 +615,7 @@ In Kazakhstan, with its strategic location under orbital paths and proximity to 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -660,7 +660,7 @@ In Kazakhstan, with its strategic location under orbital paths and proximity to 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -698,135 +698,134 @@ In Kazakhstan, with its strategic location under orbital paths and proximity to 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Космический мусор  
-   Link: <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80" target="_blank" rel="noopener noreferrer nofollow">https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80</a>  
+   Link:<a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80" target="_blank" rel="noopener noreferrer nofollow">https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D1%81%D0%BE%D1%80</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: eadaily.com  
-   Link: <a href="https://www.eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic" target="_blank" rel="noopener noreferrer nofollow">https://www.eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defense of Kazakhstan commented on the appearance of UFOs in the sky over the republic — EADaily, June 6th, 2025 —...</p></details>
+   Link:<a href="https://www.eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic" target="_blank" rel="noopener noreferrer nofollow">https://www.eadaily.com/en/news/2025/06/06/the-ministry-of-defense-of-kazakhstan-commented-on-the-appearance-of-ufos-in-the-sky-over-the-republic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defense of Kazakhstan commented on the appearance of UFOs in the sky over the republic — EADaily, June 6th, 2025 —...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: zakon.kz  
-   Link: <a href="https://www.zakon.kz/nauka/6480061-kosmicheskiy-musor-a-ne-raketa-astronom-vyskazalsya-o-svetyashchikhsya-obektakh-v-nebe-kazakhstana.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zakon.kz/nauka/6480061-kosmicheskiy-musor-a-ne-raketa-astronom-vyskazalsya-o-svetyashchikhsya-obektakh-v-nebe-kazakhstana.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>025 на zakon.kzJune 6, 2025...</p></details>
+   Link:<a href="https://www.zakon.kz/nauka/6480061-kosmicheskiy-musor-a-ne-raketa-astronom-vyskazalsya-o-svetyashchikhsya-obektakh-v-nebe-kazakhstana.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zakon.kz/nauka/6480061-kosmicheskiy-musor-a-ne-raketa-astronom-vyskazalsya-o-svetyashchikhsya-obektakh-v-nebe-kazakhstana.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>025 на zakon.kzJune 6, 2025...</p></details>
    Published: June 6, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ru.sputnik.kz  
    Title: КазахстанТейфель: люди принимают след от запуска ракеты с Байконура за НЛО  
-   Link: <a href="https://ru.sputnik.kz/20171018/tejfel-lyudi-prinimayut-sled-ot-zapuska-rakety-s-bajkonura-za-nlo-3509836.html" target="_blank" rel="noopener noreferrer nofollow">https://ru.sputnik.kz/20171018/tejfel-lyudi-prinimayut-sled-ot-zapuska-rakety-s-bajkonura-za-nlo-3509836.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sputnik КазахстанТейфель: люди принимают след от запуска ракеты с Байконура за НЛО - 18.10.2017, Sputnik КазахстанOctober 18, 2017...</p></details>
+   Link:<a href="https://ru.sputnik.kz/20171018/tejfel-lyudi-prinimayut-sled-ot-zapuska-rakety-s-bajkonura-za-nlo-3509836.html" target="_blank" rel="noopener noreferrer nofollow">https://ru.sputnik.kz/20171018/tejfel-lyudi-prinimayut-sled-ot-zapuska-rakety-s-bajkonura-za-nlo-3509836.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sputnik КазахстанТейфель: люди принимают след от запуска ракеты с Байконура за НЛО - 18.10.2017, Sputnik КазахстанOctober 18, 2017...</p></details>
    Published: October 18, 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eadaily.com  
    Title: minoborony oprovergaet poyavlenie nlo v nebe nad kazahstanom  
-   Link: <a href="https://www.eadaily.com/ru/news/2025/06/05/minoborony-oprovergaet-poyavlenie-nlo-v-nebe-nad-kazahstanom" target="_blank" rel="noopener noreferrer nofollow">https://www.eadaily.com/ru/news/2025/06/05/minoborony-oprovergaet-poyavlenie-nlo-v-nebe-nad-kazahstanom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Новости. Казахстан новости. Казахстан. Казахстан новости 6.06.2025. Казахстан последние новости на сегодня. Новости Казахстана 6.06.2025...</p></details>
+   Link:<a href="https://www.eadaily.com/ru/news/2025/06/05/minoborony-oprovergaet-poyavlenie-nlo-v-nebe-nad-kazahstanom" target="_blank" rel="noopener noreferrer nofollow">https://www.eadaily.com/ru/news/2025/06/05/minoborony-oprovergaet-poyavlenie-nlo-v-nebe-nad-kazahstanom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Новости. Казахстан новости. Казахстан. Казахстан новости 6.06.2025. Казахстан последние новости на сегодня. Новости Казахстана 6.06.2025...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kt.kz  
-   Link: <a href="https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 6, 2025...</p></details>
+   Link:<a href="https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html" target="_blank" rel="noopener noreferrer nofollow">https://www.kt.kz/rus/society/vzbudorazhivshie_kazahstantsev_yarkie_svetyaschiesya_ob_ekty_v_1377978711.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 6, 2025...</p></details>
    Published: June 6, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cmn.kz  
    Title: kosmicheskij musor ili meteorit astronom obyasnil nebesnoe shou v kazahstane  
-   Link: <a href="https://cmn.kz/kosmicheskij-musor-ili-meteorit-astronom-obyasnil-nebesnoe-shou-v-kazahstane/" target="_blank" rel="noopener noreferrer nofollow">https://cmn.kz/kosmicheskij-musor-ili-meteorit-astronom-obyasnil-nebesnoe-shou-v-kazahstane/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Космический мусор или метеорит?: астроном объяснил небесное шоу в КазахстанеJune 6, 2025 — КОСМИЧЕСКИЙ МУСОР ИЛИ МЕТЕОРИТ?: АСТРОНОМ ОБЪЯ...</p></details>
+   Link:<a href="https://cmn.kz/kosmicheskij-musor-ili-meteorit-astronom-obyasnil-nebesnoe-shou-v-kazahstane/" target="_blank" rel="noopener noreferrer nofollow">https://cmn.kz/kosmicheskij-musor-ili-meteorit-astronom-obyasnil-nebesnoe-shou-v-kazahstane/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Космический мусор или метеорит?: астроном объяснил небесное шоу в КазахстанеJune 6, 2025 — КОСМИЧЕСКИЙ МУСОР ИЛИ МЕТЕОРИТ?: АСТРОНОМ ОБЪЯ...</p></details>
    Published: June 6, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ng.kz  
-   Link: <a href="https://www.ng.kz/modules/news/article.php?storyid=56234" target="_blank" rel="noopener noreferrer nofollow">https://www.ng.kz/modules/news/article.php?storyid=56234</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>НГ: Загадочные огни в небе над Казахстаном: что это было, раскрыл астрономJune 6, 2025 — Новости ЗАГАДОЧНЫЕ ОГНИ В НЕБЕ НАД КАЗАХСТАНОМ...</p></details>
+   Link:<a href="https://www.ng.kz/modules/news/article.php?storyid=56234" target="_blank" rel="noopener noreferrer nofollow">https://www.ng.kz/modules/news/article.php?storyid=56234</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>НГ: Загадочные огни в небе над Казахстаном: что это было, раскрыл астрономJune 6, 2025 — Новости ЗАГАДОЧНЫЕ ОГНИ В НЕБЕ НАД КАЗАХСТАНОМ...</p></details>
    Published: June 6, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mail.kz  
-   Link: <a href="https://mail.kz/ru/news/kz-news/kosmicheskii-musor-a-ne-raketa-astronom-vyskazalsya-o-svetyashchihsya-obektah-v-nebe-kazahstana" target="_blank" rel="noopener noreferrer nofollow">https://mail.kz/ru/news/kz-news/kosmicheskii-musor-a-ne-raketa-astronom-vyskazalsya-o-svetyashchihsya-obektah-v-nebe-kazahstana</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Космический мусор, а не ракета: астроном высказался о светящихся объектах в небе КазахстанаJune 6, 2025 — КОСМИЧЕСКИЙ МУСОР, А НЕ РАКЕТА...</p></details>
+   Link:<a href="https://mail.kz/ru/news/kz-news/kosmicheskii-musor-a-ne-raketa-astronom-vyskazalsya-o-svetyashchihsya-obektah-v-nebe-kazahstana" target="_blank" rel="noopener noreferrer nofollow">https://mail.kz/ru/news/kz-news/kosmicheskii-musor-a-ne-raketa-astronom-vyskazalsya-o-svetyashchihsya-obektah-v-nebe-kazahstana</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Космический мусор, а не ракета: астроном высказался о светящихся объектах в небе КазахстанаJune 6, 2025 — КОСМИЧЕСКИЙ МУСОР, А НЕ РАКЕТА...</p></details>
    Published: June 6, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ulysmedia.kz  
-   Link: <a href="https://ulysmedia.kz/news/52962-svetiashchiesia-v-nebe-obekty-uchionyi-prokommentiroval-slukhi-o-rakete-i-dronakh/" target="_blank" rel="noopener noreferrer nofollow">https://ulysmedia.kz/news/52962-svetiashchiesia-v-nebe-obekty-uchionyi-prokommentiroval-slukhi-o-rakete-i-dronakh/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Светящиеся в небе объекты: учёный прокомментировал слухи о ракете и дронахJune 6, 2025 — СВЕТЯЩИЕСЯ В НЕБЕ ОБЪЕКТЫ: УЧЁНЫЙ ПРОКОММЕНТИРОВ...</p></details>
+   Link:<a href="https://ulysmedia.kz/news/52962-svetiashchiesia-v-nebe-obekty-uchionyi-prokommentiroval-slukhi-o-rakete-i-dronakh/" target="_blank" rel="noopener noreferrer nofollow">https://ulysmedia.kz/news/52962-svetiashchiesia-v-nebe-obekty-uchionyi-prokommentiroval-slukhi-o-rakete-i-dronakh/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Светящиеся в небе объекты: учёный прокомментировал слухи о ракете и дронахJune 6, 2025 — СВЕТЯЩИЕСЯ В НЕБЕ ОБЪЕКТЫ: УЧЁНЫЙ ПРОКОММЕНТИРОВ...</p></details>
    Published: June 6, 2025  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: en.iz.ru  
-   Link: <a href="https://en.iz.ru/en/1899221/2025-06-05/ministry-defense-kazakhstan-has-denied-fakes-about-appearance-ufos-sky-over-country" target="_blank" rel="noopener noreferrer nofollow">https://en.iz.ru/en/1899221/2025-06-05/ministry-defense-kazakhstan-has-denied-fakes-about-appearance-ufos-sky-over-country</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ИзвестияJune 5, 2025 — World THE MINISTRY OF DEFENSE OF KAZAKHSTAN HAS DENIED FAKES ABOUT THE APPEARANCE OF UFOS IN THE SKY OVER THE CO...</p></details>
+   Link:<a href="https://en.iz.ru/en/1899221/2025-06-05/ministry-defense-kazakhstan-has-denied-fakes-about-appearance-ufos-sky-over-country" target="_blank" rel="noopener noreferrer nofollow">https://en.iz.ru/en/1899221/2025-06-05/ministry-defense-kazakhstan-has-denied-fakes-about-appearance-ufos-sky-over-country</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ИзвестияJune 5, 2025 — World THE MINISTRY OF DEFENSE OF KAZAKHSTAN HAS DENIED FAKES ABOUT THE APPEARANCE OF UFOS IN THE SKY OVER THE CO...</p></details>
    Published: June 5, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lenta.ru  
-   Link: <a href="https://lenta.ru/news/2025/06/05/astronom-ob-yasnil-proishozhdenie-svetyaschihsya-ob-ektov-v-nebe-nad-kazahstanom/" target="_blank" rel="noopener noreferrer nofollow">https://lenta.ru/news/2025/06/05/astronom-ob-yasnil-proishozhdenie-svetyaschihsya-ob-ektov-v-nebe-nad-kazahstanom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 5, 2025 — 23:35, 5 июня 2025Наука и техника АСТРОНОМ ОБЪЯСНИЛ ПРОИСХОЖДЕНИЕ СВЕТЯЩИХСЯ ОБЪЕКТОВ В НЕБЕ НАД КАЗАХСТАНОМ Астроном Якуш...</p></details>
+   Link:<a href="https://lenta.ru/news/2025/06/05/astronom-ob-yasnil-proishozhdenie-svetyaschihsya-ob-ektov-v-nebe-nad-kazahstanom/" target="_blank" rel="noopener noreferrer nofollow">https://lenta.ru/news/2025/06/05/astronom-ob-yasnil-proishozhdenie-svetyaschihsya-ob-ektov-v-nebe-nad-kazahstanom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 5, 2025 — 23:35, 5 июня 2025Наука и техника АСТРОНОМ ОБЪЯСНИЛ ПРОИСХОЖДЕНИЕ СВЕТЯЩИХСЯ ОБЪЕКТОВ В НЕБЕ НАД КАЗАХСТАНОМ Астроном Якуш...</p></details>
    Published: June 5, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: kp.ru  
-   Link: <a href="https://www.kp.ru/online/news/6410594/" target="_blank" rel="noopener noreferrer nofollow">https://www.kp.ru/online/news/6410594/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5, 2025 — НовостиОбщество5 июня 2025 19:37 В НЕБЕ НАД КАЗАХСТАНОМ ЗАМЕТИЛИ СВЕТЯЩИЕСЯ ОБЪЕКТЫ: В МИНОБОРОНЫ ОБЪЯСНИЛИ СТРАННОЕ ЯВЛЕНИЕ В...</p></details>
+   Link:<a href="https://www.kp.ru/online/news/6410594/" target="_blank" rel="noopener noreferrer nofollow">https://www.kp.ru/online/news/6410594/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5, 2025 — НовостиОбщество5 июня 2025 19:37 В НЕБЕ НАД КАЗАХСТАНОМ ЗАМЕТИЛИ СВЕТЯЩИЕСЯ ОБЪЕКТЫ: В МИНОБОРОНЫ ОБЪЯСНИЛИ СТРАННОЕ ЯВЛЕНИЕ В...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nur.kz  
-   Link: <a href="https://www.nur.kz/society/2116716-neobychnye-svetyashchiesya-obekty-nad-almaty-i-talgarom-obyasnili-astrofiziki/" target="_blank" rel="noopener noreferrer nofollow">https://www.nur.kz/society/2116716-neobychnye-svetyashchiesya-obekty-nad-almaty-i-talgarom-obyasnili-astrofiziki/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Необычные светящиеся объекты над Алматы и Талгаром объяснили астрофизикиJune 13, 2024 — Кристина Кривцанова Выпускающий редактор НЕОБЫЧНЫ...</p></details>
+   Link:<a href="https://www.nur.kz/society/2116716-neobychnye-svetyashchiesya-obekty-nad-almaty-i-talgarom-obyasnili-astrofiziki/" target="_blank" rel="noopener noreferrer nofollow">https://www.nur.kz/society/2116716-neobychnye-svetyashchiesya-obekty-nad-almaty-i-talgarom-obyasnili-astrofiziki/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Необычные светящиеся объекты над Алматы и Талгаром объяснили астрофизикиJune 13, 2024 — Кристина Кривцанова Выпускающий редактор НЕОБЫЧНЫ...</p></details>
    Published: June 13, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: charter97.org  
    Title: Defense Ministry Explained Strange Glowing Objects In The Sky Over Kazakhstan  
-   Link: <a href="https://charter97.org/en/news/2025/6/6/643301/" target="_blank" rel="noopener noreferrer nofollow">https://charter97.org/en/news/2025/6/6/643301/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belarusian News - Charter&#x27;97June 6, 2025 — DEFENSE MINISTRY EXPLAINED STRANGE GLOWING OBJECTS IN THE SKY OVER KAZAKHSTAN 11 * 6.06.2025...</p></details>
+   Link:<a href="https://charter97.org/en/news/2025/6/6/643301/" target="_blank" rel="noopener noreferrer nofollow">https://charter97.org/en/news/2025/6/6/643301/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belarusian News - Charter&#x27;97June 6, 2025 — DEFENSE MINISTRY EXPLAINED STRANGE GLOWING OBJECTS IN THE SKY OVER KAZAKHSTAN 11 * 6.06.2025...</p></details>
    Published: June 6, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: kommersant.ru  
    Title: КоммерсантъВласти Казахстана объяснили появление огней в небе – Коммерсантъ  
-   Link: <a href="https://www.kommersant.ru/doc/7777631" target="_blank" rel="noopener noreferrer nofollow">https://www.kommersant.ru/doc/7777631</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Власти Казахстана объяснили появление огней в небе – КоммерсантъJune 5, 2025 — 05.06.2025, 22:35 ВЛАСТИ КАЗАХСТАНА ОБЪЯСНИЛИ ПОЯВЛЕНИЕ ОГ...</p></details>
+   Link:<a href="https://www.kommersant.ru/doc/7777631" target="_blank" rel="noopener noreferrer nofollow">https://www.kommersant.ru/doc/7777631</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Власти Казахстана объяснили появление огней в небе – КоммерсантъJune 5, 2025 — 05.06.2025, 22:35 ВЛАСТИ КАЗАХСТАНА ОБЪЯСНИЛИ ПОЯВЛЕНИЕ ОГ...</p></details>
    Published: June 5, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: caravan.kz  
    Title: zagadochnye ogni v nebe nad kazahstanom chto jeto bylo raskryl astronom  
-   Link: <a href="https://www.caravan.kz/news/zagadochnye-ogni-v-nebe-nad-kazahstanom-chto-jeto-bylo-raskryl-astronom/" target="_blank" rel="noopener noreferrer nofollow">https://www.caravan.kz/news/zagadochnye-ogni-v-nebe-nad-kazahstanom-chto-jeto-bylo-raskryl-astronom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Загадочные огни в небе над Казахстаном: что это было, раскрыл астрономJune 6, 2025 — Image: Загадочные огни в небе над Казахстаном: что э...</p></details>
+   Link:<a href="https://www.caravan.kz/news/zagadochnye-ogni-v-nebe-nad-kazahstanom-chto-jeto-bylo-raskryl-astronom/" target="_blank" rel="noopener noreferrer nofollow">https://www.caravan.kz/news/zagadochnye-ogni-v-nebe-nad-kazahstanom-chto-jeto-bylo-raskryl-astronom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Загадочные огни в небе над Казахстаном: что это было, раскрыл астрономJune 6, 2025 — Image: Загадочные огни в небе над Казахстаном: что э...</p></details>
    Published: June 6, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: en.orda.kz  
    Title: kz Authorities Comment on Objects Observed in Kazakhstan Sky  
-   Link: <a href="https://en.orda.kz/authorities-comment-on-objects-observed-in-kazakhstan-sky-6767/" target="_blank" rel="noopener noreferrer nofollow">https://en.orda.kz/authorities-comment-on-objects-observed-in-kazakhstan-sky-6767/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comment on Objects Observed in Kazakhstan SkyJune 6, 2025 — AUTHORITIES COMMENT ON OBJECTS OBSERVED IN KAZAKHSTAN SKY 06 June 2025 09:42...</p></details>
+   Link:<a href="https://en.orda.kz/authorities-comment-on-objects-observed-in-kazakhstan-sky-6767/" target="_blank" rel="noopener noreferrer nofollow">https://en.orda.kz/authorities-comment-on-objects-observed-in-kazakhstan-sky-6767/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comment on Objects Observed in Kazakhstan SkyJune 6, 2025 — AUTHORITIES COMMENT ON OBJECTS OBSERVED IN KAZAKHSTAN SKY 06 June 2025 09:42...</p></details>
    Published: June 6, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: qnl9lx.c97.org  
    Title: "Mysterious" glowing lights were noticed in the ev  
-   Link: <a href="https://qnl9lx.c97.org/en/news/2025/6/6/643301/" target="_blank" rel="noopener noreferrer nofollow">https://qnl9lx.c97.org/en/news/2025/6/6/643301/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry Explained Strange Glowing Objects In The Sky Over Kazakhstan - Charter&#x27;97:: News from Belarus - Belarusian News - Republic of B...</p></details>
+   Link:<a href="https://qnl9lx.c97.org/en/news/2025/6/6/643301/" target="_blank" rel="noopener noreferrer nofollow">https://qnl9lx.c97.org/en/news/2025/6/6/643301/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry Explained Strange Glowing Objects In The Sky Over Kazakhstan - Charter&#x27;97:: News from Belarus - Belarusian News - Republic of B...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: kaz.nur.kz  
    Title: Кадр из видео: t.me/Zanamiv  
-   Link: <a href="https://kaz.nur.kz/society/2252865-zagadochnye-svetyashchiesya-obekty-v-nebe-nad-kazahstanom-obyasnili-v-mcriap/" target="_blank" rel="noopener noreferrer nofollow">https://kaz.nur.kz/society/2252865-zagadochnye-svetyashchiesya-obekty-v-nebe-nad-kazahstanom-obyasnili-v-mcriap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nur.kzОткуда в небе над Казахстаном взялись загадочные светящиеся объекты, объяснили в МинцифрыJune 5, 2025 — ОТКУДА В НЕБЕ НАД КАЗАХСТАН...</p></details>
+   Link:<a href="https://kaz.nur.kz/society/2252865-zagadochnye-svetyashchiesya-obekty-v-nebe-nad-kazahstanom-obyasnili-v-mcriap/" target="_blank" rel="noopener noreferrer nofollow">https://kaz.nur.kz/society/2252865-zagadochnye-svetyashchiesya-obekty-v-nebe-nad-kazahstanom-obyasnili-v-mcriap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nur.kzОткуда в небе над Казахстаном взялись загадочные светящиеся объекты, объяснили в МинцифрыJune 5, 2025 — ОТКУДА В НЕБЕ НАД КАЗАХСТАН...</p></details>
    Published: June 5, 2025

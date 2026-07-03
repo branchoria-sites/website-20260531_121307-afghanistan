@@ -1194,49 +1194,49 @@ image: /assets/images/Costa_Rica_fe586b-overview-social.jpg
 
 ## Introduction
 
-Costa Rica’s UFO record is unusually concentrated around one famous image: the 1971 [Lake Cote]({{ 'lake-cote/' | relative_url }}) aerial photograph, taken during an official mapping flight and preserved in Costa Rica’s archival record. That photograph is not proof of extraterrestrial visitation, but it is a serious case because it has a known institutional origin, technical metadata, later image analysis, and published sceptical objections. Beyond Lake Cote, Costa Rica’s UFO history is thinner: a small number of local media stories, the 2007 Tarbaca mobile-phone video, and recurring folklore around lakes, mountains, and rural skies. The strongest reading is therefore cautious: Costa Rica has one internationally significant contested photographic case, a few weaker modern video claims, and no publicly established official investigation system comparable to specialist UAP offices in larger countries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archivodigital.go.cr/index.php/fotografias-de-un-objeto-volador-no-identificado-fotografiado-accidentalmente-durante-las-giras-hechas-por-el-instituto-geografico-nacional-en-la-lagua-de-cote-guanacaste-costa-rica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-snippet">Open source on go.cr.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+Costa Rica’s UFO record is unusually concentrated around one famous image: the 1971 [Lake Cote]({{ 'lake-cote/' | relative_url }}) aerial photograph, taken during an official mapping flight and preserved in Costa Rica’s archival record. That photograph is not proof of extraterrestrial visitation, but it is a serious case because it has a known institutional origin, technical metadata, later image analysis, and published sceptical objections. Beyond Lake Cote, Costa Rica’s UFO history is thinner: a small number of local media stories, the 2007 Tarbaca mobile-phone video, and recurring folklore around lakes, mountains, and rural skies. The strongest reading is therefore cautious: Costa Rica has one internationally significant contested photographic case, a few weaker modern video claims, and no publicly established official investigation system comparable to specialist UAP offices in larger countries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archivodigital.go.cr/index.php/fotografias-de-un-objeto-volador-no-identificado-fotografiado-accidentalmente-durante-las-giras-hechas-por-el-instituto-geografico-nacional-en-la-lagua-de-cote-guanacaste-costa-rica" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-snippet">Open source on go.cr.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 <img src="{{ "/assets/images/Costa_Rica_fe586b-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Costa Rica&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## Why Costa Rica’s UFO file begins at Lake Cote
 
-The central Costa Rican case occurred on 4 September 1971 over Lake Cote, near Arenal in northern Costa Rica. The photograph was produced during an aerial survey associated with Costa Rica’s mapping work, not during a UFO hunt. The Archivo Nacional de Costa Rica catalogues the material as photographs of an unidentified flying object accidentally photographed during trips made by the Instituto Geográfico Nacional at Lake Cote, Guanacaste, under the reference CR-AN-AH-FO-002544-1-002544-3. That archival description matters because it separates the case from anonymous internet imagery: whatever the object was, the image entered a public documentary chain as a government mapping photograph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;page=37&amp;sf_culture=es&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=table" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-title">Information object browse</span><span class="citation-popover-snippet">Information object browse</span></span></span>
+The central Costa Rican case occurred on 4 September 1971 over Lake Cote, near Arenal in northern Costa Rica. The photograph was produced during an aerial survey associated with Costa Rica’s mapping work, not during a UFO hunt. The Archivo Nacional de Costa Rica catalogues the material as photographs of an unidentified flying object accidentally photographed during trips made by the Instituto Geográfico Nacional at Lake Cote, Guanacaste, under the reference CR-AN-AH-FO-002544-1-002544-3. That archival description matters because it separates the case from anonymous internet imagery: whatever the object was, the image entered a public documentary chain as a government mapping photograph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;page=37&amp;sf_culture=es&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=table" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-title">Information object browse</span><span class="citation-popover-snippet">Information object browse</span></span></span>
 
-Contemporary and retrospective accounts identify Sergio Loaiza as the aerial photographer on the flight, with pilot Omar Arias, navigator Francisco Reyes, and photographer Juan Bravo also associated with the mission. Local reporting says the story first became public in Costa Rican media years later, with La Nación publishing the case on 1 November 1979. That delay is part of the case’s mystique, but it also complicates witness reconstruction: the people on board did not report seeing the object in real time; it was noticed after development of the photographic material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensagrafica.com/tendencias/Un-ovni-sobre-un-lago-en-Costa-Rica-La-foto-que-hace-50-anos-cambio-la-vida-a-un-cartografo-20211113-0027.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensagrafica.com">[La Prensa Gráfica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensagrafica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Contemporary and retrospective accounts identify Sergio Loaiza as the aerial photographer on the flight, with pilot Omar Arias, navigator Francisco Reyes, and photographer Juan Bravo also associated with the mission. Local reporting says the story first became public in Costa Rican media years later, with La Nación publishing the case on 1 November 1979. That delay is part of the case’s mystique, but it also complicates witness reconstruction: the people on board did not report seeing the object in real time; it was noticed after development of the photographic material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensagrafica.com/tendencias/Un-ovni-sobre-un-lago-en-Costa-Rica-La-foto-que-hace-50-anos-cambio-la-vida-a-un-cartografo-20211113-0027.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensagrafica.com">[La Prensa Gráfica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensagrafica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The setting also helped the image travel. Lake Cote is a small crater lake in the northern highlands near Arenal and Tenorio, visually dramatic and easy to mythologise. UFO narratives in Costa Rica often cluster around this Arenal–Cote landscape because the photograph appears to show a disc-shaped form over water, inviting speculation about an object entering or leaving the lake. The available evidence, however, supports only a narrower claim: an anomalous form appears in one survey frame, while adjacent frames do not show it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/710904costarica_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The setting also helped the image travel. Lake Cote is a small crater lake in the northern highlands near Arenal and Tenorio, visually dramatic and easy to mythologise. UFO narratives in Costa Rica often cluster around this Arenal–Cote landscape because the photograph appears to show a disc-shaped form over water, inviting speculation about an object entering or leaving the lake. The available evidence, however, supports only a narrower claim: an anomalous form appears in one survey frame, while adjacent frames do not show it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/710904costarica_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 ## What the 1971 photograph can and cannot prove
 
-Richard Haines and Jacques Vallée published a detailed analysis of the Lake Cote image in the Journal of Scientific Exploration. They emphasised several features that made the case worth examining: a professional mapping camera, a downward-looking image geometry, a relatively uniform lake background, and a large, focused anomalous image with visible detail. Their analysis also noted that the immediately preceding and following frames, numbered 299 and 301, did not show the disc visible in frame 300. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+Richard Haines and Jacques Vallée published a detailed analysis of the Lake Cote image in the Journal of Scientific Exploration. They emphasised several features that made the case worth examining: a professional mapping camera, a downward-looking image geometry, a relatively uniform lake background, and a large, focused anomalous image with visible detail. Their analysis also noted that the immediately preceding and following frames, numbered 299 and 301, did not show the disc visible in frame 300.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-Their conclusion was careful but sympathetic to the anomaly. They argued that the image suggested an unidentified opaque aerial object at a maximum distance of 10,000 feet, with no visible lift, propulsion, or ordinary markings, and they found no indication of double exposure or deliberate fabrication. They did not identify it as an extraterrestrial craft; they left the case open pending further information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/710904costarica_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+Their conclusion was careful but sympathetic to the anomaly. They argued that the image suggested an unidentified opaque aerial object at a maximum distance of 10,000 feet, with no visible lift, propulsion, or ordinary markings, and they found no indication of double exposure or deliberate fabrication. They did not identify it as an extraterrestrial craft; they left the case open pending further information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/710904costarica_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-The same publication also contained a sceptical referee review by Marilyn E. Bruner of Lockheed Palo Alto Research Laboratory. Bruner found the image suggestive, but suspected it might not represent a physical object. Her objections focused on photographic characteristics: unusual grain at the edge of the oval image, very high density, abnormal sharpness, and lack of expected light diffusion or halation. In plainer terms, the most sceptical technical reading is that the “disc” may be a photographic or negative artefact rather than a craft in the air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/710904costarica_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+The same publication also contained a sceptical referee review by Marilyn E. Bruner of Lockheed Palo Alto Research Laboratory. Bruner found the image suggestive, but suspected it might not represent a physical object. Her objections focused on photographic characteristics: unusual grain at the edge of the oval image, very high density, abnormal sharpness, and lack of expected light diffusion or halation. In plainer terms, the most sceptical technical reading is that the “disc” may be a photographic or negative artefact rather than a craft in the air.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/710904costarica_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-That is why Lake Cote is best classified as contested rather than confirmed. It is stronger than a casual sighting because it has provenance, image data, and technical analysis. It is weaker than a confirmed extraordinary event because no independent sensor track, contemporaneous visual witness, shadow calculation, recovered object, or repeat observation ties the shape to a physical craft. The New Yorker’s later discussion captured this divide: proponents point to the image’s official origin and detail, while sceptics point to possible camera, negative, pressure-mark, or glass-related artefacts; neither side has conclusively closed the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Enticing Mysteries of U.F.O. Photography &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker The Enticing Mysteries of U.F.O. Photography &#124; The New Yorker</span></span></span>
+That is why Lake Cote is best classified as contested rather than confirmed. It is stronger than a casual sighting because it has provenance, image data, and technical analysis. It is weaker than a confirmed extraordinary event because no independent sensor track, contemporaneous visual witness, shadow calculation, recovered object, or repeat observation ties the shape to a physical craft. The New Yorker’s later discussion captured this divide: proponents point to the image’s official origin and detail, while sceptics point to possible camera, negative, pressure-mark, or glass-related artefacts; neither side has conclusively closed the case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Enticing Mysteries of U.F.O. Photography &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker The Enticing Mysteries of U.F.O. Photography &#124; The New Yorker</span></span></span>
 
 <img src="{{ "/assets/images/Costa_Rica_fe586b-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Costa Rica&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Tarbaca video shows the modern problem
 
-Costa Rica’s best-known modern UFO claim is the 2007 [Tarbaca video]({{ 'tarbaca-video/' | relative_url }}), attributed to Marvin Badilla and recorded on a Motorola RAZR V3 mobile phone. Local media later reported Badilla’s account of seeing and recording an object from Tarbaca, Aserrí. A 2024 Spanish-language review described the claim as a short mobile-phone recording of a disc-shaped object seen on 22 November 2007 while Badilla was working outdoors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telediario.cr">[Telediario Costa Rica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telediario.cr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Costa Rica’s best-known modern UFO claim is the 2007 [Tarbaca video]({{ 'tarbaca-video/' | relative_url }}), attributed to Marvin Badilla and recorded on a Motorola RAZR V3 mobile phone. Local media later reported Badilla’s account of seeing and recording an object from Tarbaca, Aserrí. A 2024 Spanish-language review described the claim as a short mobile-phone recording of a disc-shaped object seen on 22 November 2007 while Badilla was working outdoors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: telediario.cr">[Telediario Costa Rica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">telediario.cr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Tarbaca case is visually striking but evidentially much weaker than Lake Cote. It depends on a low-resolution consumer video, limited metadata, and retrospective storytelling. Sceptics have pointed to its resemblance to earlier model-saucer imagery and to the possibility of a staged miniature; defenders respond that a definitive hoax mechanism has not been proved. That unresolved status is not the same as strong evidence: it means the video remains an interesting claim without the documentation needed to move it into a higher evidential category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espaciomisterio.com">[Espacio Misterio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espaciomisterio.com</span><span class="citation-popover-title">Espacio Misterio El vídeo del caso Tarbaca a examen</span><span class="citation-popover-snippet">Espacio Misterio El vídeo del caso Tarbaca a examen</span></span></span>
+The Tarbaca case is visually striking but evidentially much weaker than Lake Cote. It depends on a low-resolution consumer video, limited metadata, and retrospective storytelling. Sceptics have pointed to its resemblance to earlier model-saucer imagery and to the possibility of a staged miniature; defenders respond that a definitive hoax mechanism has not been proved. That unresolved status is not the same as strong evidence: it means the video remains an interesting claim without the documentation needed to move it into a higher evidential category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espaciomisterio.com">[Espacio Misterio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espaciomisterio.com</span><span class="citation-popover-title">Espacio Misterio El vídeo del caso Tarbaca a examen</span><span class="citation-popover-snippet">Espacio Misterio El vídeo del caso Tarbaca a examen</span></span></span>
 
 The contrast with Lake Cote is useful. Lake Cote has institutional provenance but ambiguous photographic interpretation. Tarbaca has a dramatic close-up look but weak chain of custody. Together they show the two recurring weaknesses in Costa Rican UFO material: either the record is technically interesting but underdetermined, or it is visually compelling but too poorly documented to bear much weight.
 
 ## Official records are narrow, not a hidden national archive
 
-The most important official Costa Rican record currently visible to the public is archival rather than investigative: the Archivo Nacional catalogue entry for the Lake Cote photographs. That is significant, but it should not be overstated. It shows that the photographic material exists in a recognised archival framework; it does not show that Costa Rica reached an official conclusion about extraterrestrial craft, advanced technology, or national-security implications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archivodigital.go.cr/index.php/fotografias-de-un-objeto-volador-no-identificado-fotografiado-accidentalmente-durante-las-giras-hechas-por-el-instituto-geografico-nacional-en-la-lagua-de-cote-guanacaste-costa-rica%3Bisad?sf_culture=fr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-snippet">Open source on go.cr.</span></span></span>
+The most important official Costa Rican record currently visible to the public is archival rather than investigative: the Archivo Nacional catalogue entry for the Lake Cote photographs. That is significant, but it should not be overstated. It shows that the photographic material exists in a recognised archival framework; it does not show that Costa Rica reached an official conclusion about extraterrestrial craft, advanced technology, or national-security implications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archivodigital.go.cr/index.php/fotografias-de-un-objeto-volador-no-identificado-fotografiado-accidentalmente-durante-las-giras-hechas-por-el-instituto-geografico-nacional-en-la-lagua-de-cote-guanacaste-costa-rica%3Bisad?sf_culture=fr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-snippet">Open source on go.cr.</span></span></span>
 
-Costa Rica also lacks a major public UAP institution comparable to Chile’s former aviation-linked UFO investigation body or the United States’ All-domain Anomaly Resolution Office. For readers comparing sibling country pages in a wider Latin American UFO project, this is a key distinction: Costa Rica’s national UFO reputation rests less on formal state investigation and more on one archival image, local journalists, independent ufologists, and online re-circulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.co.cr/video-chilean-navy-releases-stunning-ufo-footage/54946/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.co.cr">[Costa Rica Star News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.co.cr</span><span class="citation-popover-title">sta Rica Star News Video: Chilean Navy Releases Stunning UFO Footage</span><span class="citation-popover-snippet">sta Rica Star News Video: Chilean Navy Releases Stunning UFO Footage</span></span></span>
+Costa Rica also lacks a major public UAP institution comparable to Chile’s former aviation-linked UFO investigation body or the United States’ All-domain Anomaly Resolution Office. For readers comparing sibling country pages in a wider Latin American UFO project, this is a key distinction: Costa Rica’s national UFO reputation rests less on formal state investigation and more on one archival image, local journalists, independent ufologists, and online re-circulation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.co.cr/video-chilean-navy-releases-stunning-ufo-footage/54946/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.co.cr">[Costa Rica Star News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.co.cr</span><span class="citation-popover-title">sta Rica Star News Video: Chilean Navy Releases Stunning UFO Footage</span><span class="citation-popover-snippet">sta Rica Star News Video: Chilean Navy Releases Stunning UFO Footage</span></span></span>
 
-The broader official UAP context also argues for caution. NASA’s UAP material states that there is no credible evidence that UAPs are extraterrestrial, and the US AARO historical review reported no evidence of extraterrestrial origin for UFO/UAP cases it examined. Those statements do not explain the Costa Rican photograph, but they set a useful evidential standard: “unidentified” means not identified from the available data, not automatically alien. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+The broader official UAP context also argues for caution. NASA’s UAP material states that there is no credible evidence that UAPs are extraterrestrial, and the US AARO historical review reported no evidence of extraterrestrial origin for UFO/UAP cases it examined. Those statements do not explain the Costa Rican photograph, but they set a useful evidential standard: “unidentified” means not identified from the available data, not automatically alien.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TWVSgomDPr0" title="Reconstructing the 1971 Costa Rica UFO in &quot;Blender&quot; - maybe there IS something to it!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TWVSgomDPr0" target="_blank" rel="noopener noreferrer">Reconstructing the 1971 Costa Rica UFO in &quot;Blender&quot; - maybe there IS something to it!</a></p><p class="youtube-embed-meta">Channel: ThomasH &middot; Views: 1.8K &middot; Uploaded: November 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TWVSgomDPr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TWVSgomDPr0">Open on YouTube</a></p></div></div></div>
 
 ## Region-level patterns: why Arenal, Cote, and rural skies dominate
 
-Costa Rican UFO stories are not evenly distributed in the public record. The Arenal–Lake Cote area dominates because of the 1971 photograph, because water-and-volcano landscapes invite unusual interpretations, and because tourism media repeatedly repackage the case as part of the region’s mystery. Lake Cote’s physical setting near Arenal, its crater-lake form, and its relative isolation make it a memorable location even before UFO folklore is added. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ticotimes.net/2024/11/12/costa-ricas-mysterious-lago-cote-and-its-ufo-sighting-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ticotimes.net">[The Tico Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ticotimes.net</span><span class="citation-popover-title">costa ricas mysterious lago cote and its ufo sighting history</span><span class="citation-popover-snippet">costa ricas mysterious lago cote and its ufo sighting history</span></span></span>
+Costa Rican UFO stories are not evenly distributed in the public record. The Arenal–Lake Cote area dominates because of the 1971 photograph, because water-and-volcano landscapes invite unusual interpretations, and because tourism media repeatedly repackage the case as part of the region’s mystery. Lake Cote’s physical setting near Arenal, its crater-lake form, and its relative isolation make it a memorable location even before UFO folklore is added.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ticotimes.net/2024/11/12/costa-ricas-mysterious-lago-cote-and-its-ufo-sighting-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ticotimes.net">[The Tico Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ticotimes.net</span><span class="citation-popover-title">costa ricas mysterious lago cote and its ufo sighting history</span><span class="citation-popover-snippet">costa ricas mysterious lago cote and its ufo sighting history</span></span></span>
 
 The Central Valley and San José province appear more often in modern video-era claims, including Tarbaca. That is unsurprising: higher population density, more phones, and easier media access create more reports. But more reports do not necessarily mean better evidence. Urban and peri-urban sightings are also more likely to involve aircraft, drones, balloons, reflections, insects near the lens, satellites, and camera artefacts.
 
@@ -1246,20 +1246,20 @@ Rural Costa Rican sightings, by contrast, often rely on witness memory and lands
 
 A useful Costa Rica UFO page should not treat every claim equally. The available record separates into three broad categories.
 
-**Confirmed as a record, not confirmed as a craft:** The Lake Cote photograph is confirmed as an archival and historical object. It was produced in a mapping context, is catalogued by Costa Rica’s national archive, and has been analysed by named researchers. What is not confirmed is the nature of the object or mark in the image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;mediatypes=136&amp;page=38&amp;sf_culture=es&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=card" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-snippet">Open source on go.cr.</span></span></span>
+**Confirmed as a record, not confirmed as a craft:** The Lake Cote photograph is confirmed as an archival and historical object. It was produced in a mapping context, is catalogued by Costa Rica’s national archive, and has been analysed by named researchers. What is not confirmed is the nature of the object or mark in the image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;mediatypes=136&amp;page=38&amp;sf_culture=es&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=card" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-snippet">Open source on go.cr.</span></span></span>
 
-**Contested but significant:** Haines and Vallée’s analysis keeps Lake Cote in the serious contested category because it rejects easy dismissal as a deliberate fake or double exposure, while the referee review and later sceptical discussion keep photographic artefact explanations alive. This is the strongest Costa Rican UFO case precisely because the disagreement is technical rather than merely rhetorical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/710904costarica_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+**Contested but significant:** Haines and Vallée’s analysis keeps Lake Cote in the serious contested category because it rejects easy dismissal as a deliberate fake or double exposure, while the referee review and later sceptical discussion keep photographic artefact explanations alive. This is the strongest Costa Rican UFO case precisely because the disagreement is technical rather than merely rhetorical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/710904costarica_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-**Contested and weakly documented:** The Tarbaca video is worth noting in a national chronology, but not worth treating as a high-confidence case. The source chain is weaker, the recording quality is limited, and the resemblance to model-saucer imagery gives sceptics an obvious alternative hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espaciomisterio.com">[Espacio Misterio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espaciomisterio.com</span><span class="citation-popover-title">Espacio Misterio El vídeo del caso Tarbaca a examen</span><span class="citation-popover-snippet">Espacio Misterio El vídeo del caso Tarbaca a examen</span></span></span>
+**Contested and weakly documented:** The Tarbaca video is worth noting in a national chronology, but not worth treating as a high-confidence case. The source chain is weaker, the recording quality is limited, and the resemblance to model-saucer imagery gives sceptics an obvious alternative hypothesis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espaciomisterio.com">[Espacio Misterio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espaciomisterio.com</span><span class="citation-popover-title">Espacio Misterio El vídeo del caso Tarbaca a examen</span><span class="citation-popover-snippet">Espacio Misterio El vídeo del caso Tarbaca a examen</span></span></span>
 
 **Debunked or probably mundane claims:** Costa Rica has many social-media UFO posts and recycled clips, but few have enough documentation to deserve case status. Some may be ordinary aircraft, drones, balloons, astronomical objects, reflections, or edited media. The absence of a firm explanation in a viral post should not be mistaken for evidence of an extraordinary object.
 
 <img src="{{ "/assets/images/Costa_Rica_fe586b-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Costa Rica&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Costa_Rica_fe586b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Costa_Rica_fe586b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Local-source reliability: how to read Costa Rican UFO material
 
-Costa Rican UFO research is shaped by a mixture of national newspapers, television segments, tourism sites, ufology blogs, sceptical forums, and archive catalogues. The strongest sources for factual scaffolding are the archival catalogue, original or near-original photographic documentation, named technical analyses, and local reporting that identifies people, dates, aircraft, and publication history. The weakest sources are reposted videos without original files, social-media captions, and sensational articles that present “best UFO photo ever” language as if it were a conclusion rather than an opinion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensagrafica.com/tendencias/Un-ovni-sobre-un-lago-en-Costa-Rica-La-foto-que-hace-50-anos-cambio-la-vida-a-un-cartografo-20211113-0027.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensagrafica.com">[2La Prensa Gráfica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensagrafica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Costa Rican UFO research is shaped by a mixture of national newspapers, television segments, tourism sites, ufology blogs, sceptical forums, and archive catalogues. The strongest sources for factual scaffolding are the archival catalogue, original or near-original photographic documentation, named technical analyses, and local reporting that identifies people, dates, aircraft, and publication history. The weakest sources are reposted videos without original files, social-media captions, and sensational articles that present “best UFO photo ever” language as if it were a conclusion rather than an opinion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensagrafica.com/tendencias/Un-ovni-sobre-un-lago-en-Costa-Rica-La-foto-que-hace-50-anos-cambio-la-vida-a-un-cartografo-20211113-0027.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensagrafica.com">[2La Prensa Gráfica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensagrafica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Lake Cote case also shows why local sources should be cross-checked rather than dismissed. Spanish-language reporting preserves details about Loaiza, the flight crew, the later Costa Rican media publication, and the local memory of the case. English-language coverage often makes the image easier for international readers to find, but it can also amplify claims about “the best UFO photograph” without adding new evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensagrafica.com/tendencias/Un-ovni-sobre-un-lago-en-Costa-Rica-La-foto-que-hace-50-anos-cambio-la-vida-a-un-cartografo-20211113-0027.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensagrafica.com">[La Prensa Gráfica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensagrafica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Lake Cote case also shows why local sources should be cross-checked rather than dismissed. Spanish-language reporting preserves details about Loaiza, the flight crew, the later Costa Rican media publication, and the local memory of the case. English-language coverage often makes the image easier for international readers to find, but it can also amplify claims about “the best UFO photograph” without adding new evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensagrafica.com/tendencias/Un-ovni-sobre-un-lago-en-Costa-Rica-La-foto-que-hace-50-anos-cambio-la-vida-a-un-cartografo-20211113-0027.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensagrafica.com">[La Prensa Gráfica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensagrafica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For future Costa Rica sightings, the standard should be simple: original media files, exact time and location, weather and astronomical checks, aviation or drone context, witness independence, and access to unedited metadata. Without those, even a sincere report remains a story rather than a well-supported case.
 
@@ -1268,15 +1268,15 @@ For future Costa Rica sightings, the standard should be simple: original media f
 
 The Costa Rican chronology is short but clear enough to be useful.
 
-**1971 — Lake Cote aerial photograph.** An aerial survey associated with the Instituto Geográfico Nacional captures an anomalous disc-like form in one frame over Lake Cote. The archival record later identifies the material as photographs of an unidentified flying object accidentally photographed during Instituto Geográfico Nacional trips. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;page=76&amp;repos=444&amp;sf_culture=en&amp;sort=relevance&amp;sortDir=desc&amp;view=table" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-title">Information object browse</span><span class="citation-popover-snippet">Information object browse</span></span></span>
+**1971 — Lake Cote aerial photograph.** An aerial survey associated with the Instituto Geográfico Nacional captures an anomalous disc-like form in one frame over Lake Cote. The archival record later identifies the material as photographs of an unidentified flying object accidentally photographed during Instituto Geográfico Nacional trips.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;page=76&amp;repos=444&amp;sf_culture=en&amp;sort=relevance&amp;sortDir=desc&amp;view=table" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivodigital.go.cr">[archivodigital.go.cr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivodigital.go.cr</span><span class="citation-popover-title">Information object browse</span><span class="citation-popover-snippet">Information object browse</span></span></span>
 
-**1979 — Public attention in Costa Rican media.** Local reporting says the case became public years after the flight, with La Nación publishing the story on 1 November 1979. This helped move the image from internal mapping material into Costa Rican public UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensagrafica.com/tendencias/Un-ovni-sobre-un-lago-en-Costa-Rica-La-foto-que-hace-50-anos-cambio-la-vida-a-un-cartografo-20211113-0027.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensagrafica.com">[La Prensa Gráfica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensagrafica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**1979 — Public attention in Costa Rican media.** Local reporting says the case became public years after the flight, with La Nación publishing the story on 1 November 1979. This helped move the image from internal mapping material into Costa Rican public UFO culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensagrafica.com/tendencias/Un-ovni-sobre-un-lago-en-Costa-Rica-La-foto-que-hace-50-anos-cambio-la-vida-a-un-cartografo-20211113-0027.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensagrafica.com">[La Prensa Gráfica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensagrafica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**1980s–1990s — Technical analysis and dispute.** Haines and Vallée analyse a second-generation negative and publish a detailed study, while a referee review raises strong artefact objections. This period turns Lake Cote from a local curiosity into an international case cited in UFO photography debates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/710904costarica_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
+**1980s–1990s — Technical analysis and dispute.** Haines and Vallée analyse a second-generation negative and publish a detailed study, while a referee review raises strong artefact objections. This period turns Lake Cote from a local curiosity into an international case cited in UFO photography debates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/710904costarica_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-**2007 — Tarbaca mobile-phone video.** Marvin Badilla’s alleged disc-shaped object video becomes Costa Rica’s best-known digital-era case. It remains contested, with proponents treating it as striking footage and sceptics pointing to staging or model explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espaciomisterio.com">[Espacio Misterio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espaciomisterio.com</span><span class="citation-popover-title">Espacio Misterio El vídeo del caso Tarbaca a examen</span><span class="citation-popover-snippet">Espacio Misterio El vídeo del caso Tarbaca a examen</span></span></span>
+**2007 — Tarbaca mobile-phone video.** Marvin Badilla’s alleged disc-shaped object video becomes Costa Rica’s best-known digital-era case. It remains contested, with proponents treating it as striking footage and sceptics pointing to staging or model explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espaciomisterio.com">[Espacio Misterio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espaciomisterio.com</span><span class="citation-popover-title">Espacio Misterio El vídeo del caso Tarbaca a examen</span><span class="citation-popover-snippet">Espacio Misterio El vídeo del caso Tarbaca a examen</span></span></span>
 
-**2020s — Re-circulation and re-scanning culture.** Lake Cote gains renewed attention through high-resolution scans, international articles, and social-media circulation. This has improved public access to the image but has not resolved the underlying evidential dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Enticing Mysteries of U.F.O. Photography &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker The Enticing Mysteries of U.F.O. Photography &#124; The New Yorker</span></span></span>
+**2020s — Re-circulation and re-scanning culture.** Lake Cote gains renewed attention through high-resolution scans, international articles, and social-media circulation. This has improved public access to the image but has not resolved the underlying evidential dispute.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Enticing Mysteries of U.F.O. Photography &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker The Enticing Mysteries of U.F.O. Photography &#124; The New Yorker</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ep7RlzMiuc0" title="2007 UFO Sighting in Costa Rica – Filmed on Motorola RAZR V3 by Marvin Badilla" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ep7RlzMiuc0" target="_blank" rel="noopener noreferrer">2007 UFO Sighting in Costa Rica – Filmed on Motorola RAZR V3 by Marvin Badilla</a></p><p class="youtube-embed-meta">Channel: UAP Files Podcast 🛸 &middot; Views: 87.7K &middot; Uploaded: October 2025 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ep7RlzMiuc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ep7RlzMiuc0">Open on YouTube</a></p></div></div></div>
 
@@ -1289,194 +1289,194 @@ That makes Costa Rica a useful sibling branch for comparison with countries wher
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SzAG1tzhcsY" title="The 1971 Costa Rica UFO - Visualized in 3D" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SzAG1tzhcsY" target="_blank" rel="noopener noreferrer">The 1971 Costa Rica UFO - Visualized in 3D</a></p><p class="youtube-embed-meta">Channel: ThomasH &middot; Views: 1.1K &middot; Uploaded: October 2024 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SzAG1tzhcsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SzAG1tzhcsY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Costa Rica&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Costa Rica&#x27;s UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for assessing photographic and witness evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for assessing photographic and witness evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Excellent overview book for readers entering a national UFO-history topic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent overview book for readers entering a national UFO-history topic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader interpretive context for famous international UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader interpretive context for famous international UFO cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines how UFO stories gain cultural significance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO stories gain cultural significance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-costa-rica-s-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-costa-rica-s-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1492,7 +1492,7 @@ That makes Costa Rica a useful sibling branch for comparison with countries wher
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1512,7 +1512,7 @@ That makes Costa Rica a useful sibling branch for comparison with countries wher
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1544,7 +1544,7 @@ That makes Costa Rica a useful sibling branch for comparison with countries wher
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1596,7 +1596,7 @@ That makes Costa Rica a useful sibling branch for comparison with countries wher
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1641,7 +1641,7 @@ That makes Costa Rica a useful sibling branch for comparison with countries wher
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1679,168 +1679,167 @@ That makes Costa Rica a useful sibling branch for comparison with countries wher
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archivodigital.go.cr  
-   Link: <a href="https://www.archivodigital.go.cr/index.php/fotografias-de-un-objeto-volador-no-identificado-fotografiado-accidentalmente-durante-las-giras-hechas-por-el-instituto-geografico-nacional-en-la-lagua-de-cote-guanacaste-costa-rica" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/fotografias-de-un-objeto-volador-no-identificado-fotografiado-accidentalmente-durante-las-giras-hechas-por-el-instituto-geografico-nacional-en-la-lagua-de-cote-guanacaste-costa-rica</a>  
+   Link:<a href="https://www.archivodigital.go.cr/index.php/fotografias-de-un-objeto-volador-no-identificado-fotografiado-accidentalmente-durante-las-giras-hechas-por-el-instituto-geografico-nacional-en-la-lagua-de-cote-guanacaste-costa-rica" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/fotografias-de-un-objeto-volador-no-identificado-fotografiado-accidentalmente-durante-las-giras-hechas-por-el-instituto-geografico-nacional-en-la-lagua-de-cote-guanacaste-costa-rica</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf</a>  
+   Link:<a href="https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/articles/710904_JSE_03_2_haines.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: telediario.cr  
-   Link: <a href="https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar" target="_blank" rel="noopener noreferrer nofollow">https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar</a>  
+   Link:<a href="https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar" target="_blank" rel="noopener noreferrer nofollow">https://www.telediario.cr/videos/nacional/costarricense-vio-ovni-abro-camara-empiezo-grabar</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archivodigital.go.cr  
    Title: Information object browse  
-   Link: <a href="https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;page=37&amp;sf_culture=es&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=table" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;page=37&amp;sf_culture=es&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=table</a>  
+   Link:<a href="https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;page=37&amp;sf_culture=es&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=table" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;page=37&amp;sf_culture=es&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=table</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archivodigital.go.cr  
-   Link: <a href="https://www.archivodigital.go.cr/index.php/fotografias-de-un-objeto-volador-no-identificado-fotografiado-accidentalmente-durante-las-giras-hechas-por-el-instituto-geografico-nacional-en-la-lagua-de-cote-guanacaste-costa-rica%3Bisad?sf_culture=fr" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/fotografias-de-un-objeto-volador-no-identificado-fotografiado-accidentalmente-durante-las-giras-hechas-por-el-instituto-geografico-nacional-en-la-lagua-de-cote-guanacaste-costa-rica%3Bisad?sf_culture=fr</a>  
+   Link:<a href="https://www.archivodigital.go.cr/index.php/fotografias-de-un-objeto-volador-no-identificado-fotografiado-accidentalmente-durante-las-giras-hechas-por-el-instituto-geografico-nacional-en-la-lagua-de-cote-guanacaste-costa-rica%3Bisad?sf_culture=fr" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/fotografias-de-un-objeto-volador-no-identificado-fotografiado-accidentalmente-durante-las-giras-hechas-por-el-instituto-geografico-nacional-en-la-lagua-de-cote-guanacaste-costa-rica%3Bisad?sf_culture=fr</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archivodigital.go.cr  
-   Link: <a href="https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;mediatypes=136&amp;page=38&amp;sf_culture=es&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=card" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;mediatypes=136&amp;page=38&amp;sf_culture=es&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=card</a>  
+   Link:<a href="https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;mediatypes=136&amp;page=38&amp;sf_culture=es&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=card" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;mediatypes=136&amp;page=38&amp;sf_culture=es&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=card</a>  
 
-13. <a id="endnote-13"></a>
-   Source: archivodigital.go.cr  
-   Title: Information object browse  
-   Link: <a href="https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;page=76&amp;repos=444&amp;sf_culture=en&amp;sort=relevance&amp;sortDir=desc&amp;view=table" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;page=76&amp;repos=444&amp;sf_culture=en&amp;sort=relevance&amp;sortDir=desc&amp;view=table</a>  
-
-14. <a id="endnote-14"></a>
+13.<a id="endnote-13"></a>
    Source: archivodigital.go.cr  
    Title: Information object browse  
-   Link: <a href="https://www.archivodigital.go.cr/index.php/informationobject/browse?media=print&amp;mediatypes=136&amp;onlyMedia=1&amp;page=83&amp;repos=444&amp;sf_culture=fr&amp;sort=referenceCode&amp;sortDir=desc&amp;topLod=0&amp;view=table" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/informationobject/browse?media=print&amp;mediatypes=136&amp;onlyMedia=1&amp;page=83&amp;repos=444&amp;sf_culture=fr&amp;sort=referenceCode&amp;sortDir=desc&amp;topLod=0&amp;view=table</a>  
+   Link:<a href="https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;page=76&amp;repos=444&amp;sf_culture=en&amp;sort=relevance&amp;sortDir=desc&amp;view=table" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;page=76&amp;repos=444&amp;sf_culture=en&amp;sort=relevance&amp;sortDir=desc&amp;view=table</a>  
 
-15. <a id="endnote-15"></a>
-   Source: archivodigital.go.cr  
-   Link: <a href="https://www.archivodigital.go.cr/index.php/informationobject/browse?languages=es&amp;media=print&amp;mediatypes=136&amp;onlyMedia=1&amp;page=40&amp;sf_culture=fr&amp;showAdvanced=1&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=card" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/informationobject/browse?languages=es&amp;media=print&amp;mediatypes=136&amp;onlyMedia=1&amp;page=40&amp;sf_culture=fr&amp;showAdvanced=1&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=card</a>  
-
-16. <a id="endnote-16"></a>
+14.<a id="endnote-14"></a>
    Source: archivodigital.go.cr  
    Title: Information object browse  
-   Link: <a href="https://archivodigital.go.cr/index.php/informationobject/browse?languages=es&amp;levels=237&amp;mediatypes=136&amp;onlyMedia=1&amp;page=56&amp;repos=444&amp;sf_culture=es&amp;sort=startDate&amp;sortDir=desc&amp;topLod=0&amp;view=table" target="_blank" rel="noopener noreferrer nofollow">https://archivodigital.go.cr/index.php/informationobject/browse?languages=es&amp;levels=237&amp;mediatypes=136&amp;onlyMedia=1&amp;page=56&amp;repos=444&amp;sf_culture=es&amp;sort=startDate&amp;sortDir=desc&amp;topLod=0&amp;view=table</a>  
+   Link:<a href="https://www.archivodigital.go.cr/index.php/informationobject/browse?media=print&amp;mediatypes=136&amp;onlyMedia=1&amp;page=83&amp;repos=444&amp;sf_culture=fr&amp;sort=referenceCode&amp;sortDir=desc&amp;topLod=0&amp;view=table" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/informationobject/browse?media=print&amp;mediatypes=136&amp;onlyMedia=1&amp;page=83&amp;repos=444&amp;sf_culture=fr&amp;sort=referenceCode&amp;sortDir=desc&amp;topLod=0&amp;view=table</a>  
 
-17. <a id="endnote-17"></a>
+15.<a id="endnote-15"></a>
+   Source: archivodigital.go.cr  
+   Link:<a href="https://www.archivodigital.go.cr/index.php/informationobject/browse?languages=es&amp;media=print&amp;mediatypes=136&amp;onlyMedia=1&amp;page=40&amp;sf_culture=fr&amp;showAdvanced=1&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=card" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/informationobject/browse?languages=es&amp;media=print&amp;mediatypes=136&amp;onlyMedia=1&amp;page=40&amp;sf_culture=fr&amp;showAdvanced=1&amp;sort=identifier&amp;sortDir=asc&amp;topLod=0&amp;view=card</a>  
+
+16.<a id="endnote-16"></a>
    Source: archivodigital.go.cr  
    Title: Information object browse  
-   Link: <a href="https://www.archivodigital.go.cr/index.php/informationobject/browse?languages=es&amp;mediatypes=136&amp;onlyMedia=1&amp;page=49&amp;sf_culture=es&amp;showAdvanced=1&amp;sort=startDate&amp;sortDir=asc&amp;topLod=0&amp;view=card" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/informationobject/browse?languages=es&amp;mediatypes=136&amp;onlyMedia=1&amp;page=49&amp;sf_culture=es&amp;showAdvanced=1&amp;sort=startDate&amp;sortDir=asc&amp;topLod=0&amp;view=card</a>  
+   Link:<a href="https://archivodigital.go.cr/index.php/informationobject/browse?languages=es&amp;levels=237&amp;mediatypes=136&amp;onlyMedia=1&amp;page=56&amp;repos=444&amp;sf_culture=es&amp;sort=startDate&amp;sortDir=desc&amp;topLod=0&amp;view=table" target="_blank" rel="noopener noreferrer nofollow">https://archivodigital.go.cr/index.php/informationobject/browse?languages=es&amp;levels=237&amp;mediatypes=136&amp;onlyMedia=1&amp;page=56&amp;repos=444&amp;sf_culture=es&amp;sort=startDate&amp;sortDir=desc&amp;topLod=0&amp;view=table</a>  
 
-18. <a id="endnote-18"></a>
+17.<a id="endnote-17"></a>
    Source: archivodigital.go.cr  
-   Link: <a href="https://archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;onlyMedia=1&amp;page=83&amp;sf_culture=fr&amp;sort=alphabetic&amp;sortDir=desc&amp;view=card" target="_blank" rel="noopener noreferrer nofollow">https://archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;onlyMedia=1&amp;page=83&amp;sf_culture=fr&amp;sort=alphabetic&amp;sortDir=desc&amp;view=card</a>  
+   Title: Information object browse  
+   Link:<a href="https://www.archivodigital.go.cr/index.php/informationobject/browse?languages=es&amp;mediatypes=136&amp;onlyMedia=1&amp;page=49&amp;sf_culture=es&amp;showAdvanced=1&amp;sort=startDate&amp;sortDir=asc&amp;topLod=0&amp;view=card" target="_blank" rel="noopener noreferrer nofollow">https://www.archivodigital.go.cr/index.php/informationobject/browse?languages=es&amp;mediatypes=136&amp;onlyMedia=1&amp;page=49&amp;sf_culture=es&amp;showAdvanced=1&amp;sort=startDate&amp;sortDir=asc&amp;topLod=0&amp;view=card</a>  
 
-19. <a id="endnote-19"></a>
+18.<a id="endnote-18"></a>
+   Source: archivodigital.go.cr  
+   Link:<a href="https://archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;onlyMedia=1&amp;page=83&amp;sf_culture=fr&amp;sort=alphabetic&amp;sortDir=desc&amp;view=card" target="_blank" rel="noopener noreferrer nofollow">https://archivodigital.go.cr/index.php/informationobject/browse?levels=237&amp;media=print&amp;mediatypes=136&amp;onlyMedia=1&amp;page=83&amp;sf_culture=fr&amp;sort=alphabetic&amp;sortDir=desc&amp;view=card</a>  
+
+19.<a id="endnote-19"></a>
    Source: nicap.org  
-   Link: <a href="https://www.nicap.org/710904costarica_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/710904costarica_dir.htm</a>  
+   Link:<a href="https://www.nicap.org/710904costarica_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/710904costarica_dir.htm</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: newyorker.com  
    Title: The New Yorker The Enticing Mysteries of U.F.O. Photography | The New Yorker  
-   Link: <a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
+   Link:<a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: laprensagrafica.com  
-   Link: <a href="https://www.laprensagrafica.com/tendencias/Un-ovni-sobre-un-lago-en-Costa-Rica-La-foto-que-hace-50-anos-cambio-la-vida-a-un-cartografo-20211113-0027.html" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensagrafica.com/tendencias/Un-ovni-sobre-un-lago-en-Costa-Rica-La-foto-que-hace-50-anos-cambio-la-vida-a-un-cartografo-20211113-0027.html</a>  
+   Link:<a href="https://www.laprensagrafica.com/tendencias/Un-ovni-sobre-un-lago-en-Costa-Rica-La-foto-que-hace-50-anos-cambio-la-vida-a-un-cartografo-20211113-0027.html" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensagrafica.com/tendencias/Un-ovni-sobre-un-lago-en-Costa-Rica-La-foto-que-hace-50-anos-cambio-la-vida-a-un-cartografo-20211113-0027.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: espaciomisterio.com  
    Title: Espacio Misterio El vídeo del caso Tarbaca a examen  
-   Link: <a href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow">https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777</a>  
+   Link:<a href="https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777" target="_blank" rel="noopener noreferrer nofollow">https://www.espaciomisterio.com/ovnis-y-vida-extraterrestre/video-caso-tarbaca-examen_58777</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.co.cr  
    Title: sta Rica Star News Video: Chilean Navy Releases Stunning UFO Footage  
-   Link: <a href="https://news.co.cr/video-chilean-navy-releases-stunning-ufo-footage/54946/" target="_blank" rel="noopener noreferrer nofollow">https://news.co.cr/video-chilean-navy-releases-stunning-ufo-footage/54946/</a>  
+   Link:<a href="https://news.co.cr/video-chilean-navy-releases-stunning-ufo-footage/54946/" target="_blank" rel="noopener noreferrer nofollow">https://news.co.cr/video-chilean-navy-releases-stunning-ufo-footage/54946/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ticotimes.net  
    Title: costa ricas mysterious lago cote and its ufo sighting history  
-   Link: <a href="https://ticotimes.net/2024/11/12/costa-ricas-mysterious-lago-cote-and-its-ufo-sighting-history" target="_blank" rel="noopener noreferrer nofollow">https://ticotimes.net/2024/11/12/costa-ricas-mysterious-lago-cote-and-its-ufo-sighting-history</a>  
+   Link:<a href="https://ticotimes.net/2024/11/12/costa-ricas-mysterious-lago-cote-and-its-ufo-sighting-history" target="_blank" rel="noopener noreferrer nofollow">https://ticotimes.net/2024/11/12/costa-ricas-mysterious-lago-cote-and-its-ufo-sighting-history</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Lake Cote  
-   Link: <a href="https://en.wikipedia.org/wiki/Lake_Cote" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lake_Cote</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lake_Cote" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lake_Cote</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: x.com  
-   Link: <a href="https://x.com/disclosureorg/status/2005680226387501462" target="_blank" rel="noopener noreferrer nofollow">https://x.com/disclosureorg/status/2005680226387501462</a>  
+   Link:<a href="https://x.com/disclosureorg/status/2005680226387501462" target="_blank" rel="noopener noreferrer nofollow">https://x.com/disclosureorg/status/2005680226387501462</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TWVSgomDPr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TWVSgomDPr0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s the size of the Costa Rica UFO?? - 3D recreation reveals it...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TWVSgomDPr0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TWVSgomDPr0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s the size of the Costa Rica UFO?? - 3D recreation reveals it...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: What's the size of the Costa Rica UFO??  
-   Link: <a href="https://www.youtube.com/watch?v=Bu03kUBCLS0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Bu03kUBCLS0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volcanic UFO Mysteries (2021) | Documentary | Darcy Weir | Stephen Bassett...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Bu03kUBCLS0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Bu03kUBCLS0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Volcanic UFO Mysteries (2021) | Documentary | Darcy Weir | Stephen Bassett...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/communications-extraterrestrial-intelligence.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SzAG1tzhcsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SzAG1tzhcsY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructing the 1971 Costa Rica UFO in &quot;Blender&quot; - maybe there IS something to it...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SzAG1tzhcsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SzAG1tzhcsY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructing the 1971 Costa Rica UFO in &quot;Blender&quot; - maybe there IS something to it...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/ulivdn/best_ever_photo_of_ufo_emerges_50_years_after_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/ulivdn/best_ever_photo_of_ufo_emerges_50_years_after_it/</a>  
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/ulivdn/best_ever_photo_of_ufo_emerges_50_years_after_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/ulivdn/best_ever_photo_of_ufo_emerges_50_years_after_it/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/13ltxz2/upscaled_60fps_stabilized_the_costa_rica_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/13ltxz2/upscaled_60fps_stabilized_the_costa_rica_ufo/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/13ltxz2/upscaled_60fps_stabilized_the_costa_rica_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/13ltxz2/upscaled_60fps_stabilized_the_costa_rica_ufo/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheCostaRicaNews/posts/a-few-years-ago-a-supposed-ufo-sighting-was-reported-in-the-skies-of-costa-rica-/1235103388650760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCostaRicaNews/posts/a-few-years-ago-a-supposed-ufo-sighting-was-reported-in-the-skies-of-costa-rica-/1235103388650760/</a>
+   Link:<a href="https://www.facebook.com/TheCostaRicaNews/posts/a-few-years-ago-a-supposed-ufo-sighting-was-reported-in-the-skies-of-costa-rica-/1235103388650760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheCostaRicaNews/posts/a-few-years-ago-a-supposed-ufo-sighting-was-reported-in-the-skies-of-costa-rica-/1235103388650760/</a>

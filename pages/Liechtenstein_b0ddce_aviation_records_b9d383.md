@@ -248,16 +248,16 @@ image: /assets/images/Liechtenstein_b0ddce_aviation_records_b9d383-Illustration-
 
 ## Introduction
 
-Liechtenstein is unlikely to have a simple, stand-alone national UFO archive because its aviation governance is deliberately cross-border. The principality’s own civil aviation page says Swiss aviation legislation is applied in Liechtenstein, enforced by Swiss authorities, and that the Swiss Federal Office of Civil Aviation, or FOCA, is the competent aviation authority for Liechtenstein. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llv.li">[llv.li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llv.li</span><span class="citation-popover-title">Civil Aviation</span><span class="citation-popover-snippet">Office of Building Construction and Spatial Planning - National Administration - Liechtenstein National Administration...</span></span></span> That does not prove that UFO files exist in Switzerland, but it changes where a serious search should begin. A report over Vaduz, Schaan, Balzers, or the Rhine Valley might have become a local police note, a Swiss aviation matter, a military airspace record, or no official file at all.
+Liechtenstein is unlikely to have a simple, stand-alone national UFO archive because its aviation governance is deliberately cross-border. The principality’s own civil aviation page says Swiss aviation legislation is applied in Liechtenstein, enforced by Swiss authorities, and that the Swiss Federal Office of Civil Aviation, or FOCA, is the competent aviation authority for Liechtenstein.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llv.li">[llv.li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llv.li</span><span class="citation-popover-title">Civil Aviation</span><span class="citation-popover-snippet">Office of Building Construction and Spatial Planning - National Administration - Liechtenstein National Administration...</span></span></span> That does not prove that UFO files exist in Switzerland, but it changes where a serious search should begin. A report over Vaduz, Schaan, Balzers, or the Rhine Valley might have become a local police note, a Swiss aviation matter, a military airspace record, or no official file at all.
 
 <img src="{{ "/assets/images/Liechtenstein_b0ddce_aviation_records_b9d383-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Liechtenstein_b0ddce_aviation_records_b9d383-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Liechtenstein_b0ddce_aviation_records_b9d383-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The useful question, then, is not “why has Liechtenstein hidden its UFO files?” It is “which authority would have created them, and under what label?”
 
 ## Civil Aviation Runs Through a Swiss-Liechtenstein Framework
 
-Liechtenstein’s national administration does have a civil aviation role, but it is not a fully self-contained aviation system. The Office of Structural Engineering and Spatial Planning handles assigned aviation matters, including exemptions from the drone-ban zone around government buildings, parliament buildings and Vaduz Castle, and landing permits for foreign military and state aircraft on Liechtenstein territory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/publikationen/klimaschutz/lie-2025-apr-nid.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llv.li">[llv.li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llv.li</span><span class="citation-popover-title">lie 2025 apr nid</span><span class="citation-popover-snippet">lie 2025 apr nid</span></span></span>
+Liechtenstein’s national administration does have a civil aviation role, but it is not a fully self-contained aviation system. The Office of Structural Engineering and Spatial Planning handles assigned aviation matters, including exemptions from the drone-ban zone around government buildings, parliament buildings and Vaduz Castle, and landing permits for foreign military and state aircraft on Liechtenstein territory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/publikationen/klimaschutz/lie-2025-apr-nid.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llv.li">[llv.li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llv.li</span><span class="citation-popover-title">lie 2025 apr nid</span><span class="citation-popover-snippet">lie 2025 apr nid</span></span></span>
 
-The crucial point is the next layer of authority. Liechtenstein states that cooperation with Switzerland in civil aviation is based on a 2003 exchange of notes, and that Swiss aviation legislation is applied in Liechtenstein and enforced by Swiss authorities. FOCA normally deals directly with applicants or parties to proceedings, while the Liechtenstein office acts as a coordination point for general questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/lie-2024-apr-nid.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llv.li">[llv.li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llv.li</span><span class="citation-popover-title">lie 2024 apr nid</span><span class="citation-popover-snippet">lie 2024 apr nid</span></span></span>
+The crucial point is the next layer of authority. Liechtenstein states that cooperation with Switzerland in civil aviation is based on a 2003 exchange of notes, and that Swiss aviation legislation is applied in Liechtenstein and enforced by Swiss authorities. FOCA normally deals directly with applicants or parties to proceedings, while the Liechtenstein office acts as a coordination point for general questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/lie-2024-apr-nid.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: llv.li">[llv.li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">llv.li</span><span class="citation-popover-title">lie 2024 apr nid</span><span class="citation-popover-snippet">lie 2024 apr nid</span></span></span>
 
 For UFO research, this means a possible aviation-related sighting would not necessarily be filed under a Liechtenstein-only system. If it involved aircraft safety, controlled airspace, landing permission, drones, military flights, or an unidentified aircraft, the trail could point towards Swiss regulatory or operational records.
 
@@ -265,18 +265,18 @@ For UFO research, this means a possible aviation-related sighting would not nece
 
 ## Swiss Enforcement Changes the Archive Trail
 
-The Swiss connection becomes especially clear in diplomatic and state-aircraft procedures. FOCA guidance on diplomatic clearances states that clearances granted by Switzerland are also valid for flights within the territory of the Principality of Liechtenstein. The same document points users of military aviation procedures towards the Swiss Air Force Air Operations Centre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bazl.admin.ch/dam/en/sd-web/HsDQcTOctVKI/Conditions%20and%20Code%20of%20Practice%20for%20Diplomatic%20Clearances_2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bazl.admin.ch">[Bazl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bazl.admin.ch</span><span class="citation-popover-title">Bazl SILR 08</span><span class="citation-popover-snippet">Bazl SILR 08</span></span></span>
+The Swiss connection becomes especially clear in diplomatic and state-aircraft procedures. FOCA guidance on diplomatic clearances states that clearances granted by Switzerland are also valid for flights within the territory of the Principality of Liechtenstein. The same document points users of military aviation procedures towards the Swiss Air Force Air Operations Centre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bazl.admin.ch/dam/en/sd-web/HsDQcTOctVKI/Conditions%20and%20Code%20of%20Practice%20for%20Diplomatic%20Clearances_2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bazl.admin.ch">[Bazl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bazl.admin.ch</span><span class="citation-popover-title">Bazl SILR 08</span><span class="citation-popover-snippet">Bazl SILR 08</span></span></span>
 
 That matters because UFO-like reports often begin as questions of identification rather than as claims about extraterrestrial craft. A strange object might be logged as an airspace concern, a balloon, a drone, an aircraft without clear identification, a military movement, or a report requiring no follow-up. The archive label could therefore be “diplomatic clearance”, “airspace”, “flight operations”, “incident”, “military intelligence”, or “civil aviation”, not “UFO”.
 
-Switzerland’s own aviation system is also tied to wider European rules. FOCA notes that Switzerland adopts European aviation law through its air transport agreement, with those legal acts directly applicable in Switzerland within their scope. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bazl.admin.ch/en/legal-bases-flight-operations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bazl.admin.ch">[Bazl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bazl.admin.ch</span><span class="citation-popover-snippet">Open source on admin.ch.</span></span></span> This reinforces the point that Liechtenstein-linked aviation records may sit inside a layered legal system rather than inside a neat national folder.
+Switzerland’s own aviation system is also tied to wider European rules. FOCA notes that Switzerland adopts European aviation law through its air transport agreement, with those legal acts directly applicable in Switzerland within their scope.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bazl.admin.ch/en/legal-bases-flight-operations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bazl.admin.ch">[Bazl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bazl.admin.ch</span><span class="citation-popover-snippet">Open source on admin.ch.</span></span></span> This reinforces the point that Liechtenstein-linked aviation records may sit inside a layered legal system rather than inside a neat national folder.
 
 <img src="{{ "/assets/images/Liechtenstein_b0ddce_aviation_records_b9d383-Illustration-2-dark.svg" | relative_url }}" alt="Official Records illustration 2" data-theme-src-dark="{{ "/assets/images/Liechtenstein_b0ddce_aviation_records_b9d383-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Liechtenstein_b0ddce_aviation_records_b9d383-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Swiss UFO Files Show the Category Problem
 
-Swiss reporting gives a useful comparison. SWI swissinfo.ch reported in 2024 that Swiss military interest in alleged UFO sightings appears in federal archival material, with many reports explained by weather balloons and radiosondes, while some civilian and military reports remained unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military’s interest in alleged UFO sightings - SWI swissinfo.ch...</span></span></span>
+Swiss reporting gives a useful comparison. SWI swissinfo.ch reported in 2024 that Swiss military interest in alleged UFO sightings appears in federal archival material, with many reports explained by weather balloons and radiosondes, while some civilian and military reports remained unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military’s interest in alleged UFO sightings - SWI swissinfo.ch...</span></span></span>
 
-An earlier SWI report adds an important archival clue: Swiss officials once had a specific form for recording such sightings, and those files were stored in various archives and open to the public. It also reported that the Swiss military had not had anyone specifically responsible for UFO reports since 1982, after the retirement of Jean-Rodolphe Lécher of the Air Force Intelligence branch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military’s interest in alleged UFO sightings - SWI swissinfo.ch...</span></span></span>
+An earlier SWI report adds an important archival clue: Swiss officials once had a specific form for recording such sightings, and those files were stored in various archives and open to the public. It also reported that the Swiss military had not had anyone specifically responsible for UFO reports since 1982, after the retirement of Jean-Rodolphe Lécher of the Air Force Intelligence branch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swissinfo.ch">[SWI swissinfo.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swissinfo.ch</span><span class="citation-popover-snippet">SWI swissinfo.chReport highlights Swiss military’s interest in alleged UFO sightings - SWI swissinfo.ch...</span></span></span>
 
 For Liechtenstein, this does not establish a hidden cache. It shows why searches can fail. Files may exist, but under older administrative wording, dispersed archive holdings, or military-intelligence classifications rather than under a modern “UAP” or “UFO” heading.
 
@@ -289,14 +289,14 @@ The absence of a public Liechtenstein UFO archive is meaningful, but it is not d
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Liechtenstein is small, so fewer reports would be expected.
-* Its aviation authority is partly exercised through Swiss institutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Swiss_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Swiss Air Force</span><span class="citation-popover-snippet">Swiss Air Force</span></span></span>
+* Its aviation authority is partly exercised through Swiss institutions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Swiss_Air_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Swiss Air Force</span><span class="citation-popover-snippet">Swiss Air Force</span></span></span>
 * Relevant records may be filed by incident type rather than by UFO terminology.
 * A local sighting may never have triggered aviation or military action.
 * Cross-border airspace records may sit in Swiss repositories.
 
 </div>
 
-Swiss Federal Archives guidance on intelligence records also shows why security-related material can be spread across many fonds, including military, intelligence, federal police and administrative holdings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bar.admin.ch/bar/en/home/research/research-tips/topics/nachrichtendienste--spione--landesverraeter-und-staatsschutz-in-/nachrichtendienste--skandale-und-unspektakulaerer-alltag.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bar.admin.ch">[bar.admin.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bar.admin.ch</span><span class="citation-popover-title">Intelligence services: scandals and an unspectacular daily routine</span><span class="citation-popover-snippet">Intelligence services: scandals and an unspectacular daily routine</span></span></span> For Liechtenstein-related UFO research, that means the record gap is best treated as an administrative and archival problem, not as proof of either suppression or absence.
+Swiss Federal Archives guidance on intelligence records also shows why security-related material can be spread across many fonds, including military, intelligence, federal police and administrative holdings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bar.admin.ch/bar/en/home/research/research-tips/topics/nachrichtendienste--spione--landesverraeter-und-staatsschutz-in-/nachrichtendienste--skandale-und-unspektakulaerer-alltag.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bar.admin.ch">[bar.admin.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bar.admin.ch</span><span class="citation-popover-title">Intelligence services: scandals and an unspectacular daily routine</span><span class="citation-popover-snippet">Intelligence services: scandals and an unspectacular daily routine</span></span></span> For Liechtenstein-related UFO research, that means the record gap is best treated as an administrative and archival problem, not as proof of either suppression or absence.
 
 <img src="{{ "/assets/images/Liechtenstein_b0ddce_aviation_records_b9d383-Illustration-3-dark.svg" | relative_url }}" alt="Official Records illustration 3" data-theme-src-dark="{{ "/assets/images/Liechtenstein_b0ddce_aviation_records_b9d383-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Liechtenstein_b0ddce_aviation_records_b9d383-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Most Plausible Answer
@@ -308,194 +308,194 @@ That makes Liechtenstein’s official UFO record unusually dependent on governan
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2YBP5k84y_U" title="UAP files show potential US vulnerabilities: Former Navy officer | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2YBP5k84y_U" target="_blank" rel="noopener noreferrer">UAP files show potential US vulnerabilities: Former Navy officer | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 34.4K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2YBP5k84y_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2YBP5k84y_U">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Would Liechtenstein UFO Files Be?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Would Liechtenstein UFO Files Be?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Useful for understanding how official case files and reporting systems develop.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how official case files and reporting systems develop.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are categorized, investigated, and documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are categorized, investigated, and documented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on official records, aviation witnesses, military reporting, and government documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on official records, aviation witnesses, military reporting, and government documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Directly examines governmental handling of UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines governmental handling of UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-liechtenstein-ufo-files-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-liechtenstein-ufo-files-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -511,7 +511,7 @@ That makes Liechtenstein’s official UFO record unusually dependent on governan
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -531,7 +531,7 @@ That makes Liechtenstein’s official UFO record unusually dependent on governan
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -563,7 +563,7 @@ That makes Liechtenstein’s official UFO record unusually dependent on governan
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -615,7 +615,7 @@ That makes Liechtenstein’s official UFO record unusually dependent on governan
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -660,7 +660,7 @@ That makes Liechtenstein’s official UFO record unusually dependent on governan
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -698,165 +698,164 @@ That makes Liechtenstein’s official UFO record unusually dependent on governan
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: llv.li  
    Title: Civil Aviation  
-   Link: <a href="https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Building Construction and Spatial Planning - National Administration - Liechtenstein National Administration...</p></details>
+   Link:<a href="https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/en/national-administration/office-of-building-construction-and-spatial-planning/civil-aviation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Building Construction and Spatial Planning - National Administration - Liechtenstein National Administration...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bazl.admin.ch  
    Title: Bazl SILR 08  
-   Link: <a href="https://www.bazl.admin.ch/dam/en/sd-web/HsDQcTOctVKI/Conditions%20and%20Code%20of%20Practice%20for%20Diplomatic%20Clearances_2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bazl.admin.ch/dam/en/sd-web/HsDQcTOctVKI/Conditions%20and%20Code%20of%20Practice%20for%20Diplomatic%20Clearances_2026.pdf</a>  
+   Link:<a href="https://www.bazl.admin.ch/dam/en/sd-web/HsDQcTOctVKI/Conditions%20and%20Code%20of%20Practice%20for%20Diplomatic%20Clearances_2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bazl.admin.ch/dam/en/sd-web/HsDQcTOctVKI/Conditions%20and%20Code%20of%20Practice%20for%20Diplomatic%20Clearances_2026.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bazl.admin.ch  
-   Link: <a href="https://www.bazl.admin.ch/en/legal-bases-flight-operations" target="_blank" rel="noopener noreferrer nofollow">https://www.bazl.admin.ch/en/legal-bases-flight-operations</a>  
+   Link:<a href="https://www.bazl.admin.ch/en/legal-bases-flight-operations" target="_blank" rel="noopener noreferrer nofollow">https://www.bazl.admin.ch/en/legal-bases-flight-operations</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: swissinfo.ch  
-   Link: <a href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWI swissinfo.chReport highlights Swiss military’s interest in alleged UFO sightings - SWI swissinfo.ch...</p></details>
+   Link:<a href="https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/eng/swiss-diaspora/report-reveals-swiss-militarys-interest-in-alleged-ufo-sightings/87865501</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SWI swissinfo.chReport highlights Swiss military’s interest in alleged UFO sightings - SWI swissinfo.ch...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: swissinfo.ch  
    Title: SWI swissinfo.ch British UFO files leave some looking skyward  
-   Link: <a href="https://www.swissinfo.ch/eng/demographics/british-ufo-files-leave-some-looking-skyward/643016" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/eng/demographics/british-ufo-files-leave-some-looking-skyward/643016</a>  
+   Link:<a href="https://www.swissinfo.ch/eng/demographics/british-ufo-files-leave-some-looking-skyward/643016" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/eng/demographics/british-ufo-files-leave-some-looking-skyward/643016</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bar.admin.ch  
    Title: Intelligence services: scandals and an unspectacular daily routine  
-   Link: <a href="https://www.bar.admin.ch/bar/en/home/research/research-tips/topics/nachrichtendienste--spione--landesverraeter-und-staatsschutz-in-/nachrichtendienste--skandale-und-unspektakulaerer-alltag.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bar.admin.ch/bar/en/home/research/research-tips/topics/nachrichtendienste--spione--landesverraeter-und-staatsschutz-in-/nachrichtendienste--skandale-und-unspektakulaerer-alltag.html</a>  
+   Link:<a href="https://www.bar.admin.ch/bar/en/home/research/research-tips/topics/nachrichtendienste--spione--landesverraeter-und-staatsschutz-in-/nachrichtendienste--skandale-und-unspektakulaerer-alltag.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bar.admin.ch/bar/en/home/research/research-tips/topics/nachrichtendienste--spione--landesverraeter-und-staatsschutz-in-/nachrichtendienste--skandale-und-unspektakulaerer-alltag.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: swissinfo.ch  
    Title: Swiss Diaspora Archives  
-   Link: <a href="https://www.swissinfo.ch/eng/topic/swiss-diaspora/page/114/" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/eng/topic/swiss-diaspora/page/114/</a>  
+   Link:<a href="https://www.swissinfo.ch/eng/topic/swiss-diaspora/page/114/" target="_blank" rel="noopener noreferrer nofollow">https://www.swissinfo.ch/eng/topic/swiss-diaspora/page/114/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: llv.li  
    Title: lie 2025 apr nid  
-   Link: <a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/publikationen/klimaschutz/lie-2025-apr-nid.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/publikationen/klimaschutz/lie-2025-apr-nid.pdf</a>  
+   Link:<a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/publikationen/klimaschutz/lie-2025-apr-nid.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/publikationen/klimaschutz/lie-2025-apr-nid.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: llv.li  
    Title: lie 2024 apr nid  
-   Link: <a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/lie-2024-apr-nid.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/lie-2024-apr-nid.pdf</a>  
+   Link:<a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/lie-2024-apr-nid.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/lie-2024-apr-nid.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: llv.li  
    Title: Liechtenstein's Greenhouse Gas Inventory  
-   Link: <a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/nir_lie_submission_mar_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/nir_lie_submission_mar_2009.pdf</a>  
+   Link:<a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/nir_lie_submission_mar_2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/nir_lie_submission_mar_2009.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: llv.li  
-   Link: <a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/nc8_br5_lie_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/nc8_br5_lie_2022.pdf</a>  
+   Link:<a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/nc8_br5_lie_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/nc8_br5_lie_2022.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: llv.li  
    Title: national invetory document april 2023  
-   Link: <a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/national-invetory-document-april-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/national-invetory-document-april-2023.pdf</a>  
+   Link:<a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/national-invetory-document-april-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/national-invetory-document-april-2023.pdf</a>  
    Published: april 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: llv.li  
-   Link: <a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/nc7-br3-lie-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/nc7-br3-lie-2018.pdf</a>  
+   Link:<a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/nc7-br3-lie-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/nc7-br3-lie-2018.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: llv.li  
    Title: lie 2018 apr nir  
-   Link: <a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/lie-2018-apr-nir.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/lie-2018-apr-nir.pdf</a>  
+   Link:<a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/lie-2018-apr-nir.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/lie-2018-apr-nir.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: llv.li  
    Title: Liechtenstein's Greenhouse Gas Inventory  
-   Link: <a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/b_submission-february-2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/b_submission-february-2008.pdf</a>  
+   Link:<a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/b_submission-february-2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/b_submission-february-2008.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: llv.li  
-   Link: <a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/li_2021_nir.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/li_2021_nir.pdf</a>  
+   Link:<a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/li_2021_nir.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/li_2021_nir.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: llv.li  
    Title: Liechtenstein's Greenhouse Gas Inventory  
-   Link: <a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/b_submission-may-2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/b_submission-may-2007.pdf</a>  
+   Link:<a href="https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/b_submission-may-2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-umwelt/klima/klimainventare/b_submission-may-2007.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bazl.admin.ch  
    Title: cbo en  
-   Link: <a href="https://www.bazl.admin.ch/en/cbo-en" target="_blank" rel="noopener noreferrer nofollow">https://www.bazl.admin.ch/en/cbo-en</a>  
+   Link:<a href="https://www.bazl.admin.ch/en/cbo-en" target="_blank" rel="noopener noreferrer nofollow">https://www.bazl.admin.ch/en/cbo-en</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bazl.admin.ch  
-   Link: <a href="https://www.bazl.admin.ch/en" target="_blank" rel="noopener noreferrer nofollow">https://www.bazl.admin.ch/en</a>  
+   Link:<a href="https://www.bazl.admin.ch/en" target="_blank" rel="noopener noreferrer nofollow">https://www.bazl.admin.ch/en</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: uvek.admin.ch  
    Title: federal office of civil aviation foca  
-   Link: <a href="https://www.uvek.admin.ch/en/federal-office-of-civil-aviation-foca" target="_blank" rel="noopener noreferrer nofollow">https://www.uvek.admin.ch/en/federal-office-of-civil-aviation-foca</a>  
+   Link:<a href="https://www.uvek.admin.ch/en/federal-office-of-civil-aviation-foca" target="_blank" rel="noopener noreferrer nofollow">https://www.uvek.admin.ch/en/federal-office-of-civil-aviation-foca</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Federal Office of Civil Aviation  
-   Link: <a href="https://en.wikipedia.org/wiki/Federal_Office_of_Civil_Aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Office_of_Civil_Aviation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Federal_Office_of_Civil_Aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Office_of_Civil_Aviation</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Swiss Air Force  
-   Link: <a href="https://en.wikipedia.org/wiki/Swiss_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Swiss_Air_Force</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Swiss_Air_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Swiss_Air_Force</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: iclg.com  
-   Link: <a href="https://iclg.com/practice-areas/aviation-laws-and-regulations/switzerland/" target="_blank" rel="noopener noreferrer nofollow">https://iclg.com/practice-areas/aviation-laws-and-regulations/switzerland/</a>  
+   Link:<a href="https://iclg.com/practice-areas/aviation-laws-and-regulations/switzerland/" target="_blank" rel="noopener noreferrer nofollow">https://iclg.com/practice-areas/aviation-laws-and-regulations/switzerland/</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Navy pilot who encountered UFO weighs in on new batch of Pentagon files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Navy pilot who encountered UFO weighs in on new batch of Pentagon files...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: New UFO Files Reveal Risks To Commercial Flights | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GeMvmwEBcC0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GeMvmwEBcC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GeMvmwEBcC0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: All the videos from Pentagon's first batch of UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP files show potential US vulnerabilities: Former Navy officer | Elizabeth Vargas Reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP files show potential US vulnerabilities: Former Navy officer | Elizabeth Vargas Reports...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Former Navy pilot who encountered UFO weighs in on new batch of Pentagon files  
-   Link: <a href="https://www.youtube.com/watch?v=FJ5mW53llH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FJ5mW53llH8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FJ5mW53llH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FJ5mW53llH8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO files...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: gsa.gov  
-   Link: <a href="https://www.gsa.gov/system/files/Switzerland_Transport_Agreement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gsa.gov/system/files/Switzerland_Transport_Agreement.pdf</a>  
+   Link:<a href="https://www.gsa.gov/system/files/Switzerland_Transport_Agreement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gsa.gov/system/files/Switzerland_Transport_Agreement.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SETIInstitute/posts/a-doughnut-ufo-in-the-skies-over-switzerland-strange-green-lights-vanishing-into/10159657208935535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SETIInstitute/posts/a-doughnut-ufo-in-the-skies-over-switzerland-strange-green-lights-vanishing-into/10159657208935535/</a>  
+   Link:<a href="https://www.facebook.com/SETIInstitute/posts/a-doughnut-ufo-in-the-skies-over-switzerland-strange-green-lights-vanishing-into/10159657208935535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SETIInstitute/posts/a-doughnut-ufo-in-the-skies-over-switzerland-strange-green-lights-vanishing-into/10159657208935535/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NATO.AIRCOM/posts/dyk-swiss-cooperation-with-nato-is-based-on-a-longstanding-policy-of-military-ne/3266893863369418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NATO.AIRCOM/posts/dyk-swiss-cooperation-with-nato-is-based-on-a-longstanding-policy-of-military-ne/3266893863369418/</a>  
+   Link:<a href="https://www.facebook.com/NATO.AIRCOM/posts/dyk-swiss-cooperation-with-nato-is-based-on-a-longstanding-policy-of-military-ne/3266893863369418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NATO.AIRCOM/posts/dyk-swiss-cooperation-with-nato-is-based-on-a-longstanding-policy-of-military-ne/3266893863369418/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HistoryExtra/posts/did-billy-meier-really-capture-photographs-of-ufos-flying-over-the-swiss-country/757356713091767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryExtra/posts/did-billy-meier-really-capture-photographs-of-ufos-flying-over-the-swiss-country/757356713091767/</a>  
+   Link:<a href="https://www.facebook.com/HistoryExtra/posts/did-billy-meier-really-capture-photographs-of-ufos-flying-over-the-swiss-country/757356713091767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryExtra/posts/did-billy-meier-really-capture-photographs-of-ufos-flying-over-the-swiss-country/757356713091767/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: landespolizei.li  
-   Link: <a href="https://www.landespolizei.li/en/information-on/drones" target="_blank" rel="noopener noreferrer nofollow">https://www.landespolizei.li/en/information-on/drones</a>  
+   Link:<a href="https://www.landespolizei.li/en/information-on/drones" target="_blank" rel="noopener noreferrer nofollow">https://www.landespolizei.li/en/information-on/drones</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: centreforaviation.com  
-   Link: <a href="https://centreforaviation.com/data/profiles/government-bodies/federal-office-for-civil-aviation-switzerland" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/government-bodies/federal-office-for-civil-aviation-switzerland</a>
+   Link:<a href="https://centreforaviation.com/data/profiles/government-bodies/federal-office-for-civil-aviation-switzerland" target="_blank" rel="noopener noreferrer nofollow">https://centreforaviation.com/data/profiles/government-bodies/federal-office-for-civil-aviation-switzerland</a>

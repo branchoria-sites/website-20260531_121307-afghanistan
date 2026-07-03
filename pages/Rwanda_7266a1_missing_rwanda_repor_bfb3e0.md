@@ -257,13 +257,13 @@ image: /assets/images/Rwanda_7266a1_missing_rwanda_repor_bfb3e0-Illustration-1-s
 Rwanda’s UFO record is notable less for what it contains than for what it lacks. Unlike some neighbouring countries, Rwanda has no widely documented national UFO incident that appears repeatedly in major international databases, academic discussions, media archives or declassified government collections. That absence is itself a meaningful finding, but only if it is interpreted carefully.
 
 <img src="{{ "/assets/images/Rwanda_7266a1_missing_rwanda_repor_bfb3e0-Illustration-1-dark.svg" | relative_url }}" alt="Missing Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Rwanda_7266a1_missing_rwanda_repor_bfb3e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rwanda_7266a1_missing_rwanda_repor_bfb3e0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A thin public record does not prove that unusual aerial events never occurred over Rwanda. It does suggest that there is no strong open-source trail of reports, investigations, witness testimony or official inquiries that researchers can independently verify. For anyone studying UFO claims in Rwanda, the central question is therefore not “Where is the famous case?” but “Why is the documented record so sparse, and what can that absence actually tell us?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
+A thin public record does not prove that unusual aerial events never occurred over Rwanda. It does suggest that there is no strong open-source trail of reports, investigations, witness testimony or official inquiries that researchers can independently verify. For anyone studying UFO claims in Rwanda, the central question is therefore not “Where is the famous case?” but “Why is the documented record so sparse, and what can that absence actually tell us?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
 
 ## What Major UFO Archives Actually Show
 
-The first place many researchers look is the National UFO Reporting Center (NUFORC), one of the largest public UFO-report databases in the world. NUFORC maintains searchable report indexes, maps and location-based archives covering decades of witness submissions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">nalysis. Recent Comments. Jesse on Tic-Tac UAP...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The first place many researchers look is the National UFO Reporting Center (NUFORC), one of the largest public UFO-report databases in the world. NUFORC maintains searchable report indexes, maps and location-based archives covering decades of witness submissions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">nalysis. Recent Comments. Jesse on Tic-Tac UAP...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-What stands out in the Rwanda case is that there is no visible, well-developed Rwanda section comparable to the report collections associated with countries such as South Africa, Zimbabwe or Kenya. Searches through major English-language UFO catalogues generally produce either no substantial Rwanda-specific cases or only scattered references without strong supporting documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
+What stands out in the Rwanda case is that there is no visible, well-developed Rwanda section comparable to the report collections associated with countries such as South Africa, Zimbabwe or Kenya. Searches through major English-language UFO catalogues generally produce either no substantial Rwanda-specific cases or only scattered references without strong supporting documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
 
 That matters because established UFO cases usually leave a recognisable paper trail:
 
@@ -280,7 +280,7 @@ That matters because established UFO cases usually leave a recognisable paper tr
 
 Rwanda largely lacks this pattern in publicly accessible sources.
 
-Even when Rwanda appears in UFO-related search results, the material is often indirect. Some sites invite users to submit reports from Rwanda, but they do not necessarily provide independently verified cases or substantial historical archives. In several instances, the content is promotional, speculative or built around future submissions rather than documented investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/rwanda-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">UFO Research CenterRwanda UFO Sightings and Experience ReportsBrowse or report Rwanda UFO UAP or USO sightings and other strange paranorm...</span></span></span>
+Even when Rwanda appears in UFO-related search results, the material is often indirect. Some sites invite users to submit reports from Rwanda, but they do not necessarily provide independently verified cases or substantial historical archives. In several instances, the content is promotional, speculative or built around future submissions rather than documented investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/rwanda-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">UFO Research CenterRwanda UFO Sightings and Experience ReportsBrowse or report Rwanda UFO UAP or USO sightings and other strange paranorm...</span></span></span>
 
 ## Why the Absence of Reports Is Not Proof
 
@@ -304,7 +304,7 @@ Researchers encounter this problem across much of Africa. The issue is not neces
 
 ### Media priorities shape visibility
 
-When UFO stories become famous, media amplification usually plays a major role. The 1994 Ariel School case in neighbouring Zimbabwe entered global UFO culture because journalists, investigators and filmmakers repeatedly revisited it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">September 20, 2021 — &quot; Local UFO researcher Cynthia Hind recorded other alien sightings at this time, including a daylight sighting by a...</span><span class="citation-popover-meta">Published: September 20, 2021</span></span></span>
+When UFO stories become famous, media amplification usually plays a major role. The 1994 Ariel School case in neighbouring Zimbabwe entered global UFO culture because journalists, investigators and filmmakers repeatedly revisited it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ariel School UFO incident</span><span class="citation-popover-snippet">September 20, 2021 — &quot; Local UFO researcher Cynthia Hind recorded other alien sightings at this time, including a daylight sighting by a...</span><span class="citation-popover-meta">Published: September 20, 2021</span></span></span>
 
 Rwanda has no equivalent case that appears to have undergone the same process. Without sustained media attention, even unusual reports can disappear from public memory.
 
@@ -312,7 +312,7 @@ Rwanda has no equivalent case that appears to have undergone the same process. W
 
 One reason Rwanda's sparse record attracts attention is its location within a region that has produced a handful of internationally discussed UFO stories.
 
-Zimbabwe's Ariel School incident remains one of the most frequently cited African UFO cases. Whether one accepts the extraordinary interpretations or not, the event generated interviews, witness drawings, documentaries and decades of debate. It therefore remains visible in historical archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</span></span></span>
+Zimbabwe's Ariel School incident remains one of the most frequently cited African UFO cases. Whether one accepts the extraordinary interpretations or not, the event generated interviews, witness drawings, documentaries and decades of debate. It therefore remains visible in historical archives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</span></span></span>
 
 Rwanda presents the opposite situation.
 
@@ -340,7 +340,7 @@ One reason future UFO reports from Rwanda could become more common has nothing t
 
 The country's airspace is becoming more technologically complex.
 
-Rwanda has developed an active drone ecosystem and has established detailed unmanned-aircraft regulations through the Rwanda Civil Aviation Authority. Researchers have also described Rwanda as a major testing ground for drone-based delivery networks and airspace innovation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.gov.rw/fileadmin/user_upload/RCAA/Laws___Regulations/Aviation_Orders/__Ministerial_Orders/____Rwanda_Civil_Aviation_Regulations/Archived_Aviation_Orders/RCAR_Part_27_Unmanned_Aircraft_System_01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.rw">[caa.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.rw</span><span class="citation-popover-title">part 27: unmanned aircraft systems</span><span class="citation-popover-snippet">November 22, 2024 — One method by which aircraft, aerodrome vehicles and other objects can automatically transmit and/or receive data suc...</span><span class="citation-popover-meta">Published: November 22, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/making-space-for-drones-the-contested-reregulation-of-airspace-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-snippet">Research Explorerthe contested reregulation of airspace in Tanzania and Rwandaby A Lockhart · 2021 · Cited by 60 — In this paper we exami...</span></span></span>, Rwanda has expanded its presence in space policy. The country established the Rwanda Space Agency and became one of the first African signatories to the Artemis Accords connected to future lunar exploration efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">Space in Africa Nigeria and Rwanda sign NASA Artemis Accord</span><span class="citation-popover-snippet">Space in AfricaNigeria and Rwanda sign NASA Artemis AccordDecember 13, 2022 — 13 Dec 2022 — Nigeria and Rwanda have signed the NASA Artem...</span><span class="citation-popover-meta">Published: December 13, 2022</span></span></span>
+Rwanda has developed an active drone ecosystem and has established detailed unmanned-aircraft regulations through the Rwanda Civil Aviation Authority. Researchers have also described Rwanda as a major testing ground for drone-based delivery networks and airspace innovation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.gov.rw/fileadmin/user_upload/RCAA/Laws___Regulations/Aviation_Orders/__Ministerial_Orders/____Rwanda_Civil_Aviation_Regulations/Archived_Aviation_Orders/RCAR_Part_27_Unmanned_Aircraft_System_01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.rw">[caa.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.rw</span><span class="citation-popover-title">part 27: unmanned aircraft systems</span><span class="citation-popover-snippet">November 22, 2024 — One method by which aircraft, aerodrome vehicles and other objects can automatically transmit and/or receive data suc...</span><span class="citation-popover-meta">Published: November 22, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/making-space-for-drones-the-contested-reregulation-of-airspace-in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-snippet">Research Explorerthe contested reregulation of airspace in Tanzania and Rwandaby A Lockhart · 2021 · Cited by 60 — In this paper we exami...</span></span></span>, Rwanda has expanded its presence in space policy. The country established the Rwanda Space Agency and became one of the first African signatories to the Artemis Accords connected to future lunar exploration efforts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">Space in Africa Nigeria and Rwanda sign NASA Artemis Accord</span><span class="citation-popover-snippet">Space in AfricaNigeria and Rwanda sign NASA Artemis AccordDecember 13, 2022 — 13 Dec 2022 — Nigeria and Rwanda have signed the NASA Artem...</span><span class="citation-popover-meta">Published: December 13, 2022</span></span></span>
 
 These developments do not support UFO claims. They matter because they increase the number of conventional objects that observers may encounter:
 
@@ -350,7 +350,7 @@ These developments do not support UFO claims. They matter because they increase 
 
 * satellites,
 * satellite launches,
-* aircraft lighting systems, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.gov.rw/fileadmin/user_upload/RCAA/Laws___Regulations/Aviation_Orders/__Ministerial_Orders/____Rwanda_Civil_Aviation_Regulations/Archived_Aviation_Orders/RCAR_Part_27_Unmanned_Aircraft_System_01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.rw">[caa.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.rw</span><span class="citation-popover-title">part 27: unmanned aircraft systems</span><span class="citation-popover-snippet">November 22, 2024 — One method by which aircraft, aerodrome vehicles and other objects can automatically transmit and/or receive data suc...</span><span class="citation-popover-meta">Published: November 22, 2024</span></span></span>
+* aircraft lighting systems,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.gov.rw/fileadmin/user_upload/RCAA/Laws___Regulations/Aviation_Orders/__Ministerial_Orders/____Rwanda_Civil_Aviation_Regulations/Archived_Aviation_Orders/RCAR_Part_27_Unmanned_Aircraft_System_01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.gov.rw">[caa.gov.rw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.gov.rw</span><span class="citation-popover-title">part 27: unmanned aircraft systems</span><span class="citation-popover-snippet">November 22, 2024 — One method by which aircraft, aerodrome vehicles and other objects can automatically transmit and/or receive data suc...</span><span class="citation-popover-meta">Published: November 22, 2024</span></span></span>
 * atmospheric re-entry events,
 * and other aerospace activity.
 
@@ -364,9 +364,9 @@ In many countries, periods of rapid technological change have produced temporary
 
 Rwandan media coverage provides another clue about the country's UFO profile.
 
-When UFOs appear in major Rwanda-focused news outlets, the stories are typically about international developments rather than domestic incidents. Coverage has included reporting on US government releases, Pentagon disclosures and broader global UFO debates. ITVX <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/the-new-times-rwanda_pentagon-declassifies-ufo-reports-spanning-activity-7458909123682856960-y_1d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In The New Times (Rwanda)&#x27;s Post</span><span class="citation-popover-snippet">The New Times (Rwanda)&#x27;s PostMay 9, 2026 — Pentagon declassifies UFO reports spanning decades of sightings...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newtimes.co.rw/science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newtimes.co.rw">[The New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newtimes.co.rw</span><span class="citation-popover-snippet">The New TimesSciencePentagon declassifies UFO reports spanning decades of sightings... People in Rwanda may see shooting stars early on...</span></span></span>
+When UFOs appear in major Rwanda-focused news outlets, the stories are typically about international developments rather than domestic incidents. Coverage has included reporting on US government releases, Pentagon disclosures and broader global UFO debates. ITVX<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/the-new-times-rwanda_pentagon-declassifies-ufo-reports-spanning-activity-7458909123682856960-y_1d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In The New Times (Rwanda)&#x27;s Post</span><span class="citation-popover-snippet">The New Times (Rwanda)&#x27;s PostMay 9, 2026 — Pentagon declassifies UFO reports spanning decades of sightings...</span><span class="citation-popover-meta">Published: May 9, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newtimes.co.rw/science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newtimes.co.rw">[The New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newtimes.co.rw</span><span class="citation-popover-snippet">The New TimesSciencePentagon declassifies UFO reports spanning decades of sightings... People in Rwanda may see shooting stars early on...</span></span></span>
 
-By contrast, locally relevant sky-related reporting more commonly focuses on conventional astronomical events such as meteor showers visible from Rwanda. The Eta Aquariids meteor shower, for example, received science coverage aimed at explaining what observers might see in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newtimes.co.rw/science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newtimes.co.rw">[The New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newtimes.co.rw</span><span class="citation-popover-snippet">The New TimesSciencePentagon declassifies UFO reports spanning decades of sightings... People in Rwanda may see shooting stars early on...</span></span></span>
+By contrast, locally relevant sky-related reporting more commonly focuses on conventional astronomical events such as meteor showers visible from Rwanda. The Eta Aquariids meteor shower, for example, received science coverage aimed at explaining what observers might see in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newtimes.co.rw/science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newtimes.co.rw">[The New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newtimes.co.rw</span><span class="citation-popover-snippet">The New TimesSciencePentagon declassifies UFO reports spanning decades of sightings... People in Rwanda may see shooting stars early on...</span></span></span>
 
 That pattern suggests that public discussion of unusual aerial phenomena in Rwanda is currently driven more by international UFO news and observable astronomical events than by a large domestic sighting tradition.
 
@@ -400,199 +400,199 @@ That does not mean future reports are impossible. It means the existing public r
 
 The missing Rwanda UFO record is best understood as an evidence problem rather than a mystery with a hidden answer.
 
-Major public archives do not reveal a substantial body of Rwanda-specific UFO reports. Local media coverage contains far more discussion of international UFO developments and ordinary astronomical events than documented domestic encounters. Meanwhile, Rwanda's increasingly active aviation, drone and space sectors provide conventional explanations for many future aerial observations before extraordinary explanations need to be considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">Space in Africa Nigeria and Rwanda sign NASA Artemis Accord</span><span class="citation-popover-snippet">Space in AfricaNigeria and Rwanda sign NASA Artemis AccordDecember 13, 2022 — 13 Dec 2022 — Nigeria and Rwanda have signed the NASA Artem...</span><span class="citation-popover-meta">Published: December 13, 2022</span></span></span> [4NUFORC 4NUFORC]
+Major public archives do not reveal a substantial body of Rwanda-specific UFO reports. Local media coverage contains far more discussion of international UFO developments and ordinary astronomical events than documented domestic encounters. Meanwhile, Rwanda's increasingly active aviation, drone and space sectors provide conventional explanations for many future aerial observations before extraordinary explanations need to be considered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceinafrica.com">[Space in Africa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceinafrica.com</span><span class="citation-popover-title">Space in Africa Nigeria and Rwanda sign NASA Artemis Accord</span><span class="citation-popover-snippet">Space in AfricaNigeria and Rwanda sign NASA Artemis AccordDecember 13, 2022 — 13 Dec 2022 — Nigeria and Rwanda have signed the NASA Artem...</span><span class="citation-popover-meta">Published: December 13, 2022</span></span></span> [4NUFORC 4NUFORC]
 
 For researchers, the key finding is therefore caution. Rwanda is not a country with a famous, well-supported UFO case waiting to be rediscovered in public archives. The stronger conclusion is simply that the accessible record remains sparse, fragmented and difficult to verify. Until substantially better documentation appears, the absence of reports says more about the limits of the available evidence than it does about what has or has not occurred in Rwanda's skies.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are Rwanda UFO Reports So Hard to Find?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are Rwanda UFO Reports So Hard to Find?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines how documented cases differ from weak or incomplete reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how documented cases differ from weak or incomplete reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits the article&#x27;s focus on report quality and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the article&#x27;s focus on report quality and evidential standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Highlights the importance of verifiable documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of verifiable documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Addresses how stories emerge, spread and persist despite limited evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how stories emerge, spread and persist despite limited evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-rwanda-ufo-reports-so-hard-to-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -608,7 +608,7 @@ For researchers, the key finding is therefore caution. Rwanda is not a country w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -628,7 +628,7 @@ For researchers, the key finding is therefore caution. Rwanda is not a country w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -660,7 +660,7 @@ For researchers, the key finding is therefore caution. Rwanda is not a country w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -712,7 +712,7 @@ For researchers, the key finding is therefore caution. Rwanda is not a country w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -757,7 +757,7 @@ For researchers, the key finding is therefore caution. Rwanda is not a country w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,168 +795,167 @@ For researchers, the key finding is therefore caution. Rwanda is not a country w
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link:<a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nalysis. Recent Comments. Jesse on Tic-Tac UAP...Read more...</p></details>
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nalysis. Recent Comments. Jesse on Tic-Tac UAP...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Ariel School UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 20, 2021 — &quot; Local UFO researcher Cynthia Hind recorded other alien sightings at this time, including a daylight sighting by a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ariel_School_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ariel_School_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 20, 2021 — &quot; Local UFO researcher Cynthia Hind recorded other alien sightings at this time, including a daylight sighting by a...</p></details>
    Published: September 20, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: caa.gov.rw  
    Title: part 27: unmanned aircraft systems  
-   Link: <a href="https://www.caa.gov.rw/fileadmin/user_upload/RCAA/Laws___Regulations/Aviation_Orders/__Ministerial_Orders/____Rwanda_Civil_Aviation_Regulations/Archived_Aviation_Orders/RCAR_Part_27_Unmanned_Aircraft_System_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.rw/fileadmin/user_upload/RCAA/Laws___Regulations/Aviation_Orders/__Ministerial_Orders/____Rwanda_Civil_Aviation_Regulations/Archived_Aviation_Orders/RCAR_Part_27_Unmanned_Aircraft_System_01.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 22, 2024 — One method by which aircraft, aerodrome vehicles and other objects can automatically transmit and/or receive data suc...</p></details>
+   Link:<a href="https://www.caa.gov.rw/fileadmin/user_upload/RCAA/Laws___Regulations/Aviation_Orders/__Ministerial_Orders/____Rwanda_Civil_Aviation_Regulations/Archived_Aviation_Orders/RCAR_Part_27_Unmanned_Aircraft_System_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.gov.rw/fileadmin/user_upload/RCAA/Laws___Regulations/Aviation_Orders/__Ministerial_Orders/____Rwanda_Civil_Aviation_Regulations/Archived_Aviation_Orders/RCAR_Part_27_Unmanned_Aircraft_System_01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 22, 2024 — One method by which aircraft, aerodrome vehicles and other objects can automatically transmit and/or receive data suc...</p></details>
    Published: November 22, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: linkedin.com  
    Title: Linked In The New Times (Rwanda)'s Post  
-   Link: <a href="https://www.linkedin.com/posts/the-new-times-rwanda_pentagon-declassifies-ufo-reports-spanning-activity-7458909123682856960-y_1d" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/the-new-times-rwanda_pentagon-declassifies-ufo-reports-spanning-activity-7458909123682856960-y_1d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Times (Rwanda)&#x27;s PostMay 9, 2026 — Pentagon declassifies UFO reports spanning decades of sightings...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/the-new-times-rwanda_pentagon-declassifies-ufo-reports-spanning-activity-7458909123682856960-y_1d" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/the-new-times-rwanda_pentagon-declassifies-ufo-reports-spanning-activity-7458909123682856960-y_1d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New Times (Rwanda)&#x27;s PostMay 9, 2026 — Pentagon declassifies UFO reports spanning decades of sightings...</p></details>
    Published: May 9, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: itv.com  
    Title: top secret files about ufo sightings released by the us for first time  
-   Link: <a href="https://www.itv.com/news/2026-05-08/top-secret-files-about-ufo-sightings-released-by-the-us-for-first-time" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/2026-05-08/top-secret-files-about-ufo-sightings-released-by-the-us-for-first-time</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Top secret files about UFO sightings released by US for...8 May 2026 — Top secret files about UFO sightings released by US for first tim...</p></details>
+   Link:<a href="https://www.itv.com/news/2026-05-08/top-secret-files-about-ufo-sightings-released-by-the-us-for-first-time" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/2026-05-08/top-secret-files-about-ufo-sightings-released-by-the-us-for-first-time</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top secret files about UFO sightings released by US for...8 May 2026 — Top secret files about UFO sightings released by US for first tim...</p></details>
    Published: May 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsNUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search · Menu Close...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nuforc.org  
    Title: 2025 best ufos  
-   Link: <a href="https://nuforc.org/2025-best-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2025-best-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Octahedrons – and 2025&#x27;s Best UFO Reports so Far11 May 2025 — Ongoing UFO Activity: The Best Reports of 2025. Between January and early M...</p></details>
+   Link:<a href="https://nuforc.org/2025-best-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2025-best-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Octahedrons – and 2025&#x27;s Best UFO Reports so Far11 May 2025 — Ongoing UFO Activity: The Best Reports of 2025. Between January and early M...</p></details>
    Published: May 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e202505" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e202505</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 202505NUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search...</p></details>
+   Link:<a href="https://nuforc.org/subndx/?id=e202505" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e202505</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 202505NUFORC · Posts · Data Bank · Map · Gallery · File a UFO Report · Donate · About Us · Toggle website search...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/rwanda-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/rwanda-ufo-sightings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Research CenterRwanda UFO Sightings and Experience ReportsBrowse or report Rwanda UFO UAP or USO sightings and other strange paranorm...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/rwanda-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/rwanda-ufo-sightings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Research CenterRwanda UFO Sightings and Experience ReportsBrowse or report Rwanda UFO UAP or USO sightings and other strange paranorm...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: research.manchester.ac.uk  
-   Link: <a href="https://research.manchester.ac.uk/en/publications/making-space-for-drones-the-contested-reregulation-of-airspace-in/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/making-space-for-drones-the-contested-reregulation-of-airspace-in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Explorerthe contested reregulation of airspace in Tanzania and Rwandaby A Lockhart · 2021 · Cited by 60 — In this paper we exami...</p></details>
+   Link:<a href="https://research.manchester.ac.uk/en/publications/making-space-for-drones-the-contested-reregulation-of-airspace-in/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/making-space-for-drones-the-contested-reregulation-of-airspace-in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research Explorerthe contested reregulation of airspace in Tanzania and Rwandaby A Lockhart · 2021 · Cited by 60 — In this paper we exami...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spaceinafrica.com  
    Title: Space in Africa Nigeria and Rwanda sign NASA Artemis Accord  
-   Link: <a href="https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space in AfricaNigeria and Rwanda sign NASA Artemis AccordDecember 13, 2022 — 13 Dec 2022 — Nigeria and Rwanda have signed the NASA Artem...</p></details>
+   Link:<a href="https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/" target="_blank" rel="noopener noreferrer nofollow">https://spaceinafrica.com/2022/12/13/nigeria-and-rwanda-sign-nasa-artemis-accord/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space in AfricaNigeria and Rwanda sign NASA Artemis AccordDecember 13, 2022 — 13 Dec 2022 — Nigeria and Rwanda have signed the NASA Artem...</p></details>
    Published: December 13, 2022  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: newtimes.co.rw  
-   Link: <a href="https://www.newtimes.co.rw/science" target="_blank" rel="noopener noreferrer nofollow">https://www.newtimes.co.rw/science</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New TimesSciencePentagon declassifies UFO reports spanning decades of sightings... People in Rwanda may see shooting stars early on...</p></details>
+   Link:<a href="https://www.newtimes.co.rw/science" target="_blank" rel="noopener noreferrer nofollow">https://www.newtimes.co.rw/science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New TimesSciencePentagon declassifies UFO reports spanning decades of sightings... People in Rwanda may see shooting stars early on...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newtimes.co.rw  
-   Link: <a href="https://www.newtimes.co.rw/search?query=-APR-BBC" target="_blank" rel="noopener noreferrer nofollow">https://www.newtimes.co.rw/search?query=-APR-BBC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Search Results for &quot;-APR-BBC&quot; (2755 articles)The New Times Publications SARL is a registered Rwandan private media... Pentagon declassif...</p></details>
+   Link:<a href="https://www.newtimes.co.rw/search?query=-APR-BBC" target="_blank" rel="noopener noreferrer nofollow">https://www.newtimes.co.rw/search?query=-APR-BBC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search Results for &quot;-APR-BBC&quot; (2755 articles)The New Times Publications SARL is a registered Rwandan private media... Pentagon declassif...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: The New Times Publications  
-   Link: <a href="https://www.facebook.com/photo.php?fbid=1507191228083866&amp;id=100063790098153&amp;set=a.698452358957761" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=1507191228083866&amp;id=100063790098153&amp;set=a.698452358957761</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon declassifies UFO reports spanning decades of sightings. Pentagon declassifies UFO reports spanning decades of sightings. NEWTIME...</p></details>
+   Link:<a href="https://www.facebook.com/photo.php?fbid=1507191228083866&amp;id=100063790098153&amp;set=a.698452358957761" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=1507191228083866&amp;id=100063790098153&amp;set=a.698452358957761</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon declassifies UFO reports spanning decades of sightings. Pentagon declassifies UFO reports spanning decades of sightings. NEWTIME...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data for English Speaking CountriesA UFO dataset that was compiled from NUFORC and population data from the World Bank. It con...</p></details>
+   Link:<a href="https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/nhrade/nuforc-ufo-data-for-english-speaking-countries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Data for English Speaking CountriesA UFO dataset that was compiled from NUFORC and population data from the World Bank. It con...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: x.com  
-   Link: <a href="https://x.com/NewTimesRwanda/status/2053143331870261587" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NewTimesRwanda/status/2053143331870261587</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon declassifies UFO reports spanning decades of...The New Times (Rwanda) (@NewTimesRwanda). 575 views. Pentagon declassifies UFO r...</p></details>
+   Link:<a href="https://x.com/NewTimesRwanda/status/2053143331870261587" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NewTimesRwanda/status/2053143331870261587</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon declassifies UFO reports spanning decades of...The New Times (Rwanda) (@NewTimesRwanda). 575 views. Pentagon declassifies UFO r...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/matangira1/posts/ufo-sightings-at-mount-nyangani-there-have-been-some-intriguing-stories-and-clai/9173936549315896/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/matangira1/posts/ufo-sightings-at-mount-nyangani-there-have-been-some-intriguing-stories-and-clai/9173936549315896/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SIGHTINGS AT MOUNT NYANGANI There have been...[https://www.ufoinsight.com/ufos-aliens-far-reaching](https://www.ufoinsight.com/ufos-aliens-far-reaching) -influe…/ · No photo description a...</p></details>
+   Link:<a href="https://www.facebook.com/matangira1/posts/ufo-sightings-at-mount-nyangani-there-have-been-some-intriguing-stories-and-clai/9173936549315896/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/matangira1/posts/ufo-sightings-at-mount-nyangani-there-have-been-some-intriguing-stories-and-clai/9173936549315896/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SIGHTINGS AT MOUNT NYANGANI There have been...[https://www.ufoinsight.com/ufos-aliens-far-reaching](https://www.ufoinsight.com/ufos-aliens-far-reaching) -influe…/ · No photo description a...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thebeiruter.com  
-   Link: <a href="https://www.thebeiruter.com/article/ufos-in-lebanon/1668" target="_blank" rel="noopener noreferrer nofollow">https://www.thebeiruter.com/article/ufos-in-lebanon/1668</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Lebanon5 days ago — In the United States, the National UFO Reporting Center (NUFORC) collects data on sightings of Unidentified F...</p></details>
+   Link:<a href="https://www.thebeiruter.com/article/ufos-in-lebanon/1668" target="_blank" rel="noopener noreferrer nofollow">https://www.thebeiruter.com/article/ufos-in-lebanon/1668</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Lebanon5 days ago — In the United States, the National UFO Reporting Center (NUFORC) collects data on sightings of Unidentified F...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: essay.utwente.nl  
-   Link: <a href="https://essay.utwente.nl/fileshare/file/83563/83563_ma.pdf" target="_blank" rel="noopener noreferrer nofollow">https://essay.utwente.nl/fileshare/file/83563/83563_ma.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CURRENT REGULATORY FRAMEWORKS FOR...Regulations from Rwanda (Civil Aviation (Unmanned Aircraft System) Regulations) and Kenya (The Civil...</p></details>
+   Link:<a href="https://essay.utwente.nl/fileshare/file/83563/83563_ma.pdf" target="_blank" rel="noopener noreferrer nofollow">https://essay.utwente.nl/fileshare/file/83563/83563_ma.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CURRENT REGULATORY FRAMEWORKS FOR...Regulations from Rwanda (Civil Aviation (Unmanned Aircraft System) Regulations) and Kenya (The Civil...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ictworks.org  
-   Link: <a href="https://www.ictworks.org/wp-content/uploads/2021/03/dronespace-regulation-rwanda-tanzania.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ictworks.org/wp-content/uploads/2021/03/dronespace-regulation-rwanda-tanzania.pdf</a>  
+   Link:<a href="https://www.ictworks.org/wp-content/uploads/2021/03/dronespace-regulation-rwanda-tanzania.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ictworks.org/wp-content/uploads/2021/03/dronespace-regulation-rwanda-tanzania.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thaslickpastor/posts/history-lesson-alien-sightings-in-zimbabwe-what-do-you-really-think-happened-do-/1403694158456819/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thaslickpastor/posts/history-lesson-alien-sightings-in-zimbabwe-what-do-you-really-think-happened-do-/1403694158456819/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;school children in Zimbabwe saw black aliens. [http://www...&quot;](http://www...&quot;)...</p></details>
+   Link:<a href="https://www.facebook.com/thaslickpastor/posts/history-lesson-alien-sightings-in-zimbabwe-what-do-you-really-think-happened-do-/1403694158456819/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thaslickpastor/posts/history-lesson-alien-sightings-in-zimbabwe-what-do-you-really-think-happened-do-/1403694158456819/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;school children in Zimbabwe saw black aliens. [http://www...&quot;](http://www...&quot;)...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nraHhvzdZAQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ariel School&#x27;s UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My previous research focused on lights and the color orange, but this time (this included lights and...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My previous research focused on lights and the color orange, but this time (this included lights and...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: outkick.com  
    Title: ufo sightings 2025 report  
-   Link: <a href="https://www.outkick.com/culture/ufo-sightings-2025-report" target="_blank" rel="noopener noreferrer nofollow">https://www.outkick.com/culture/ufo-sightings-2025-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Explode In First Half Of 2025: DETAILS | OutKick16 Jul 2025 — UFO sightings are surging in 2025. How many UFOs have been si...</p></details>
+   Link:<a href="https://www.outkick.com/culture/ufo-sightings-2025-report" target="_blank" rel="noopener noreferrer nofollow">https://www.outkick.com/culture/ufo-sightings-2025-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Explode In First Half Of 2025: DETAILS | OutKick16 Jul 2025 — UFO sightings are surging in 2025. How many UFOs have been si...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
    Title: Ariel School UFO Incident  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>all 71 known drawings by the...TIL In 1994, 60 children at Ariel school in Ruwa, Zimbabwe said they&#x27;d seen a &#x27;UFO&#x27; and &#x27;aliens with big...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yjtkuo/ariel_school_ufo_incident_all_71_known_drawings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>all 71 known drawings by the...TIL In 1994, 60 children at Ariel school in Ruwa, Zimbabwe said they&#x27;d seen a &#x27;UFO&#x27; and &#x27;aliens with big...</p></details>

@@ -251,7 +251,7 @@ image: /assets/images/Poland_5ff03b_polish_airspace_inci_e786cc-Illustration-1-s
 Since Russia’s full-scale invasion of Ukraine in 2022, many reports of “unidentified objects” over Poland have stopped looking like classic UFO mysteries and started looking like air-defence incidents. Objects crossing Polish airspace are now routinely analysed first as possible missiles, reconnaissance balloons, drones or military debris rather than as unexplained aerial phenomena. The shift matters because Poland sits on NATO’s eastern flank, directly bordering both Belarus and Ukraine. An unidentified object is no longer just a curiosity; it can trigger fighter scrambles, military searches and diplomatic protests.
 
 <img src="{{ "/assets/images/Poland_5ff03b_polish_airspace_inci_e786cc-Illustration-1-dark.svg" | relative_url }}" alt="Airspace illustration 1" data-theme-src-dark="{{ "/assets/images/Poland_5ff03b_polish_airspace_inci_e786cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Poland_5ff03b_polish_airspace_inci_e786cc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every object is immediately identified. In several cases, Polish authorities initially described intrusions as unknown before later classifying them as likely balloons, Russian missiles or drone-related incidents. The result is a modern category of Polish “UFO” report that is less about extraterrestrial speculation and more about uncertainty, surveillance and the risk of war spilling across borders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Poland says object likely to be observation balloon entered</span><span class="citation-popover-snippet">Poland says object likely to be observation balloon entered...May 13, 2023 — 13 May 2023 — An unidentified object that entered Po...</span><span class="citation-popover-meta">Published: May 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">unidentified object entered poland direction ukraine says polish army 2023 12 29</span><span class="citation-popover-snippet">Poland says Russian rocket entered its airspace, summons...29 Dec 2023 — According to the General Staff of the Polish Armed Force...</span></span></span>
+This does not mean every object is immediately identified. In several cases, Polish authorities initially described intrusions as unknown before later classifying them as likely balloons, Russian missiles or drone-related incidents. The result is a modern category of Polish “UFO” report that is less about extraterrestrial speculation and more about uncertainty, surveillance and the risk of war spilling across borders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Poland says object likely to be observation balloon entered</span><span class="citation-popover-snippet">Poland says object likely to be observation balloon entered...May 13, 2023 — 13 May 2023 — An unidentified object that entered Po...</span><span class="citation-popover-meta">Published: May 13, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">unidentified object entered poland direction ukraine says polish army</span><span class="citation-popover-snippet">Poland says Russian rocket entered its airspace, summons...29 Dec 2023 — According to the General Staff of the Polish Armed Force...</span></span></span>
 
 ## When unidentified objects became a national-security issue
 
@@ -263,7 +263,7 @@ Several incidents reinforced this shift:
 
 * The November 2022 missile explosion at Przewodów near the Ukrainian border initially raised fears of a Russian strike on NATO territory before investigations indicated the projectile was most likely a Ukrainian air-defence missile fired during a Russian attack.
 * In April 2023, debris discovered near Bydgoszcz was later linked to a Russian missile that had apparently crossed a significant portion of Polish territory months earlier without being recovered at the time.
-* Repeated airspace violations linked to missiles, drones and balloon-like objects forced Poland to strengthen monitoring and readiness procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_missile_explosion_in_Poland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 missile explosion in Poland</span><span class="citation-popover-snippet">2022 missile explosion in Poland</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/polish-army-says-object-entered-poland-during-russian-attack-ukraine-2024-08-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">polish army says object entered poland during russian attack ukraine 2024 08 26</span><span class="citation-popover-snippet">Poland says drone likely entered its airspace during...26 Aug 2024 — In December 2023, Poland said a Russian missile had entered...</span><span class="citation-popover-meta">Published: December 2023</span></span></span>
+* Repeated airspace violations linked to missiles, drones and balloon-like objects forced Poland to strengthen monitoring and readiness procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_missile_explosion_in_Poland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 missile explosion in Poland</span><span class="citation-popover-snippet">2022 missile explosion in Poland</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/polish-army-says-object-entered-poland-during-russian-attack-ukraine-2024-08-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">polish army says object entered poland during russian attack ukraine</span><span class="citation-popover-snippet">Poland says drone likely entered its airspace during...26 Aug 2024 — In December 2023, Poland said a Russian missile had entered...</span><span class="citation-popover-meta">Published: December 2023</span></span></span>
 
 The lesson was uncomfortable: not every unidentified object was mysterious, but some represented genuine failures of detection, tracking or interception.
 
@@ -271,7 +271,7 @@ The lesson was uncomfortable: not every unidentified object was mysterious, but 
 
 One of the clearest examples of a modern Polish “UFO” becoming a conventional security incident occurred in May 2023.
 
-Polish authorities reported that an unidentified object entered national airspace from the direction of Belarus. Initial reports described it simply as an unknown airborne object. The Ministry of Defence later stated that it was probably an observation balloon. Military units and territorial forces searched areas where the object was expected to land. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/poland-detects-suspected-observation-balloon-from-belarus-in-its-airspace-12879986" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsPoland detects suspected observation balloon &#x27;from...Poland says it has detected what appears to be an observation balloon in it...</span></span></span>
+Polish authorities reported that an unidentified object entered national airspace from the direction of Belarus. Initial reports described it simply as an unknown airborne object. The Ministry of Defence later stated that it was probably an observation balloon. Military units and territorial forces searched areas where the object was expected to land. Reuters<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/poland-detects-suspected-observation-balloon-from-belarus-in-its-airspace-12879986" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsPoland detects suspected observation balloon &#x27;from...Poland says it has detected what appears to be an observation balloon in it...</span></span></span>
 
 The incident attracted attention because it occurred only months after the international controversy surrounding the Chinese surveillance balloon shot down over the United States. As a result, public discussion quickly moved beyond ordinary weather balloons and toward espionage concerns.
 
@@ -280,7 +280,7 @@ What made the case notable was not evidence of advanced technology but the uncer
 * Authorities could not immediately recover the object.
 * The balloon appeared to arrive from the Belarusian direction.
 * The event occurred during heightened tensions between NATO and Belarus, a close Russian ally.
-* Observation balloons can be used for surveillance, communications testing or intelligence gathering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/poland-resumes-ground-search-after-friday-airspace-breach-army-2023-12-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">poland resumes ground search after friday airspace breach army 2023 12 30</span><span class="citation-popover-snippet">Poland finds no Russian rocket parts after airspace breach30 Dec 2023 — Polish military officials said the object, suspected to be a Russ...</span></span></span>
+* Observation balloons can be used for surveillance, communications testing or intelligence gathering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/poland-resumes-ground-search-after-friday-airspace-breach-army-2023-12-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">poland resumes ground search after friday airspace breach army</span><span class="citation-popover-snippet">Poland finds no Russian rocket parts after airspace breach30 Dec 2023 — Polish military officials said the object, suspected to be a Russ...</span></span></span>
 
 From a UFO-history perspective, the case illustrates a recurring pattern. Witnesses and media often begin with an unidentified object. The final explanation may be mundane, but only after military tracking, intelligence assessment and physical searches.
 
@@ -292,7 +292,7 @@ Before the Ukraine war, reports of balloons crossing borders often attracted lim
 
 Slow-moving high-altitude objects present an unusual challenge. They can remain airborne for long periods, carry sensors and drift across international borders without displaying the obvious characteristics of aircraft or missiles. On radar they may appear ambiguous, especially when operators initially lack information about launch points or payloads.
 
-Poland’s security agencies increasingly viewed balloon incursions through this lens. Subsequent reports of additional balloon-like objects arriving from the Belarusian direction reinforced concerns that such devices could be used to probe radar coverage or monitor military activity near NATO’s eastern frontier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pap.pl/en/news/more-balloon-objects-enter-polish-airspace-belarus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pap.pl">[Strona główna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pap.pl</span><span class="citation-popover-title">more balloon objects enter polish airspace belarus</span><span class="citation-popover-snippet">Strona głównaMore balloon-like objects enter Polish airspace from Belarus4 Feb 2026 — Poland&#x27;s military radar systems detected further vi...</span></span></span>
+Poland’s security agencies increasingly viewed balloon incursions through this lens. Subsequent reports of additional balloon-like objects arriving from the Belarusian direction reinforced concerns that such devices could be used to probe radar coverage or monitor military activity near NATO’s eastern frontier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pap.pl/en/news/more-balloon-objects-enter-polish-airspace-belarus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pap.pl">[Strona główna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pap.pl</span><span class="citation-popover-title">more balloon objects enter polish airspace belarus</span><span class="citation-popover-snippet">Strona głównaMore balloon-like objects enter Polish airspace from Belarus4 Feb 2026 — Poland&#x27;s military radar systems detected further vi...</span></span></span>
 
 This helps explain why some contemporary Polish UFO reports receive immediate military attention despite ultimately having conventional explanations.
 
@@ -300,7 +300,7 @@ This helps explain why some contemporary Polish UFO reports receive immediate mi
 
 The most serious unidentified-object episode of 2023 occurred on 29 December.
 
-During a large Russian missile attack against Ukraine, Polish military authorities detected an object entering Polish airspace from the direction of Ukraine. At first, officials described it as unidentified. Soon afterwards, the Polish General Staff stated that the object had been tracked by radar systems and was assessed as a Russian guided missile. According to military statements, it remained inside Polish airspace for less than three minutes before leaving. Air-defence systems were placed on alert throughout the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">While the drones are confirmed to be Ukrainian, Kyiv and Baltic authorities claim Russian electronic interference is causing the drones t...</span></span></span>
+During a large Russian missile attack against Ukraine, Polish military authorities detected an object entering Polish airspace from the direction of Ukraine. At first, officials described it as unidentified. Soon afterwards, the Polish General Staff stated that the object had been tracked by radar systems and was assessed as a Russian guided missile. According to military statements, it remained inside Polish airspace for less than three minutes before leaving. Air-defence systems were placed on alert throughout the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">While the drones are confirmed to be Ukrainian, Kyiv and Baltic authorities claim Russian electronic interference is causing the drones t...</span></span></span>
 
 The incident demonstrated how quickly a modern UFO-style report can evolve:
 
@@ -313,7 +313,7 @@ The incident demonstrated how quickly a modern UFO-style report can evolve:
 
 </div>
 
-Poland summoned the Russian chargé d'affaires and demanded an explanation. Russia disputed the accusations and sought evidence for the claim. Ground searches conducted afterwards failed to locate debris, leaving some uncertainty about the precise flight path and final location of the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/poland-downs-drones-its-airspace-becoming-first-nato-member-fire-during-war-2025-09-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Poland downs drones in its airspace, becoming first NATO...10 Sept 2025 — Poland downs drones in its airspace, becoming first NATO membe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/ukraine-says-russia-drone-incursion-part-pressure-plan-against-west-2025-09-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">ukraine says russia drone incursion part pressure plan against west 2025 09 26</span><span class="citation-popover-snippet">Ukraine says Russia drone incursion part of pressure plan...26 Sept 2025 — Some UAVs penetrated up to 100 km (60 miles) into Polish terr...</span></span></span>
+Poland summoned the Russian chargé d'affaires and demanded an explanation. Russia disputed the accusations and sought evidence for the claim. Ground searches conducted afterwards failed to locate debris, leaving some uncertainty about the precise flight path and final location of the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/poland-downs-drones-its-airspace-becoming-first-nato-member-fire-during-war-2025-09-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Poland downs drones in its airspace, becoming first NATO...10 Sept 2025 — Poland downs drones in its airspace, becoming first NATO membe...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/ukraine-says-russia-drone-incursion-part-pressure-plan-against-west-2025-09-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">ukraine says russia drone incursion part pressure plan against west</span><span class="citation-popover-snippet">Ukraine says Russia drone incursion part of pressure plan...26 Sept 2025 — Some UAVs penetrated up to 100 km (60 miles) into Polish terr...</span></span></span>
 
 The absence of recovered wreckage did not turn the case back into a UFO mystery. Radar tracking and military assessments remained the central evidence. The dispute instead concerned attribution and verification rather than extraterrestrial explanations.
 
@@ -322,7 +322,7 @@ The absence of recovered wreckage did not turn the case back into a UFO mystery.
 
 A separate episode highlighted a different vulnerability.
 
-In April 2023, military debris was discovered in woodland near Bydgoszcz. Subsequent reporting linked the object to a Russian missile, probably a Kh-55 cruise missile, that may have entered Polish territory during a major Russian strike months earlier. The possibility that a missile had crossed hundreds of kilometres of Polish territory before being discovered generated political controversy and criticism of military oversight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2025 Russian drone incursion into Poland</span><span class="citation-popover-snippet">2025 Russian drone incursion into PolandOn September 9th 2025, at about 11:30 p.m. CEST, 19 to 23 unarmed military drones entered Pola...</span></span></span>
+In April 2023, military debris was discovered in woodland near Bydgoszcz. Subsequent reporting linked the object to a Russian missile, probably a Kh-55 cruise missile, that may have entered Polish territory during a major Russian strike months earlier. The possibility that a missile had crossed hundreds of kilometres of Polish territory before being discovered generated political controversy and criticism of military oversight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2025 Russian drone incursion into Poland</span><span class="citation-popover-snippet">2025 Russian drone incursion into PolandOn September 9th 2025, at about 11:30 p.m. CEST, 19 to 23 unarmed military drones entered Pola...</span></span></span>
 
 The significance of the case lies less in the missile itself than in what it revealed:
 
@@ -331,7 +331,7 @@ The significance of the case lies less in the missile itself than in what it rev
 * Not every military object is detected and recovered immediately.
 * Civilian discovery can sometimes precede official confirmation.
 * Airspace monitoring systems are not infallible.
-* Public uncertainty can persist for months before a clear explanation emerges. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_missile_explosion_in_Poland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 missile explosion in Poland</span><span class="citation-popover-snippet">2022 missile explosion in Poland</span></span></span>
+* Public uncertainty can persist for months before a clear explanation emerges.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2022_missile_explosion_in_Poland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2022 missile explosion in Poland</span><span class="citation-popover-snippet">2022 missile explosion in Poland</span></span></span>
 
 </div>
 
@@ -345,7 +345,7 @@ Drones have become the fastest-growing category of unidentified aerial object ne
 
 Russia’s extensive use of drones against Ukraine has created a complex environment in which aircraft, missiles, decoys, electronic warfare effects and unmanned systems can interact. When radar detects an unexpected object near the border, authorities may initially be unable to determine whether it is a drone, missile fragment, surveillance platform or something else entirely.
 
-In August 2024, Poland reported that an object likely entered its airspace during a large Russian attack on Ukraine. Military authorities suggested it was probably a drone but launched searches because confirmation was impossible at the moment of detection. The event immediately drew comparisons with earlier missile and balloon incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Poland says object likely to be observation balloon entered</span><span class="citation-popover-snippet">Poland says object likely to be observation balloon entered...May 13, 2023 — 13 May 2023 — An unidentified object that entered Po...</span><span class="citation-popover-meta">Published: May 13, 2023</span></span></span>
+In August 2024, Poland reported that an object likely entered its airspace during a large Russian attack on Ukraine. Military authorities suggested it was probably a drone but launched searches because confirmation was impossible at the moment of detection. The event immediately drew comparisons with earlier missile and balloon incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Poland says object likely to be observation balloon entered</span><span class="citation-popover-snippet">Poland says object likely to be observation balloon entered...May 13, 2023 — 13 May 2023 — An unidentified object that entered Po...</span><span class="citation-popover-meta">Published: May 13, 2023</span></span></span>
 
 Drone-related uncertainty arises from several factors:
 
@@ -355,7 +355,7 @@ Drone-related uncertainty arises from several factors:
 * Low-altitude flight.
 * Electronic interference.
 * Long-distance autonomous navigation.
-* The possibility of debris continuing after destruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">unidentified object entered poland direction ukraine says polish army 2023 12 29</span><span class="citation-popover-snippet">Poland says Russian rocket entered its airspace, summons...29 Dec 2023 — According to the General Staff of the Polish Armed Force...</span></span></span>
+* The possibility of debris continuing after destruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">unidentified object entered poland direction ukraine says polish army</span><span class="citation-popover-snippet">Poland says Russian rocket entered its airspace, summons...29 Dec 2023 — According to the General Staff of the Polish Armed Force...</span></span></span>
 
 </div>
 
@@ -373,7 +373,7 @@ The evidence repeatedly points toward conventional categories:
 * Observation or reconnaissance balloons.
 * Cruise missiles.
 * Military drones.
-* Debris from ongoing military operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2025 Russian drone incursion into Poland</span><span class="citation-popover-snippet">2025 Russian drone incursion into PolandOn September 9th 2025, at about 11:30 p.m. CEST, 19 to 23 unarmed military drones entered Pola...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/polish-army-says-object-entered-poland-during-russian-attack-ukraine-2024-08-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">polish army says object entered poland during russian attack ukraine 2024 08 26</span><span class="citation-popover-snippet">Poland says drone likely entered its airspace during...26 Aug 2024 — In December 2023, Poland said a Russian missile had entered...</span><span class="citation-popover-meta">Published: December 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/poland-resumes-ground-search-after-friday-airspace-breach-army-2023-12-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">poland resumes ground search after friday airspace breach army 2023 12 30</span><span class="citation-popover-snippet">Poland finds no Russian rocket parts after airspace breach30 Dec 2023 — Polish military officials said the object, suspected to be a Russ...</span></span></span>
+* Debris from ongoing military operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2025 Russian drone incursion into Poland</span><span class="citation-popover-snippet">2025 Russian drone incursion into PolandOn September 9th 2025, at about 11:30 p.m. CEST, 19 to 23 unarmed military drones entered Pola...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/polish-army-says-object-entered-poland-during-russian-attack-ukraine-2024-08-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">polish army says object entered poland during russian attack ukraine</span><span class="citation-popover-snippet">Poland says drone likely entered its airspace during...26 Aug 2024 — In December 2023, Poland said a Russian missile had entered...</span><span class="citation-popover-meta">Published: December 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/europe/poland-resumes-ground-search-after-friday-airspace-breach-army-2023-12-30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">poland resumes ground search after friday airspace breach army</span><span class="citation-popover-snippet">Poland finds no Russian rocket parts after airspace breach30 Dec 2023 — Polish military officials said the object, suspected to be a Russ...</span></span></span>
 
 That does not remove uncertainty. Authorities sometimes disagree about origin, trajectory or intent. Searches occasionally fail to recover wreckage. Public information can emerge slowly. But the unresolved questions concern attribution and defence readiness rather than proof of non-human technology.
 
@@ -385,197 +385,197 @@ Modern Polish airspace incidents occupy an unusual place within the country’s 
 
 The famous Polish cases of the twentieth century, particularly Emilcin, centred on witness narratives and extraordinary interpretations. The major incidents of the 2020s centre on radar tracks, military alerts, missile debris and cross-border security. The language may begin the same way — “an unidentified object entered Polish airspace” — but the context is fundamentally different.
 
-For Poland, the most important unidentified flying objects today are often not mysterious lights or alleged alien craft. They are objects whose identity matters because a mistake could carry military consequences. In that sense, the country’s contemporary UFO problem has become an air-defence problem: less a question of whether something came from another world than whether it came from Belarus, Russia, Ukraine or somewhere else entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2025 Russian drone incursion into Poland</span><span class="citation-popover-snippet">2025 Russian drone incursion into PolandOn September 9th 2025, at about 11:30 p.m. CEST, 19 to 23 unarmed military drones entered Pola...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">While the drones are confirmed to be Ukrainian, Kyiv and Baltic authorities claim Russian electronic interference is causing the drones t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/poland-downs-drones-its-airspace-becoming-first-nato-member-fire-during-war-2025-09-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Poland downs drones in its airspace, becoming first NATO...10 Sept 2025 — Poland downs drones in its airspace, becoming first NATO membe...</span></span></span>
+For Poland, the most important unidentified flying objects today are often not mysterious lights or alleged alien craft. They are objects whose identity matters because a mistake could carry military consequences. In that sense, the country’s contemporary UFO problem has become an air-defence problem: less a question of whether something came from another world than whether it came from Belarus, Russia, Ukraine or somewhere else entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2025 Russian drone incursion into Poland</span><span class="citation-popover-snippet">2025 Russian drone incursion into PolandOn September 9th 2025, at about 11:30 p.m. CEST, 19 to 23 unarmed military drones entered Pola...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">While the drones are confirmed to be Ukrainian, Kyiv and Baltic authorities claim Russian electronic interference is causing the drones t...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/poland-downs-drones-its-airspace-becoming-first-nato-member-fire-during-war-2025-09-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Poland downs drones in its airspace, becoming first NATO...10 Sept 2025 — Poland downs drones in its airspace, becoming first NATO membe...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Polish UFOs Became a Security Problem. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Polish UFOs Became a Security Problem. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides frameworks for distinguishing unknowns from misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides frameworks for distinguishing unknowns from misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how unidentified airspace incidents are investigated and categorized.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how unidentified airspace incidents are investigated and categorized.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines contemporary military and government UAP discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines contemporary military and government UAP discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on pilot, military, and national-security encounters with unidentified objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on pilot, military, and national-security encounters with unidentified objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-polish-ufos-became-a-security-problem-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-polish-ufos-became-a-security-problem-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ For Poland, the most important unidentified flying objects today are often not m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ For Poland, the most important unidentified flying objects today are often not m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ For Poland, the most important unidentified flying objects today are often not m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ For Poland, the most important unidentified flying objects today are often not m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ For Poland, the most important unidentified flying objects today are often not m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,132 +778,131 @@ For Poland, the most important unidentified flying objects today are often not m
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: Poland says object likely to be observation balloon entered  
-   Link: <a href="https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Poland says object likely to be observation balloon entered...May 13, 2023 — 13 May 2023 — An unidentified object that entered Po...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/object-that-flew-into-poland-east-probably-an-observation-balloon-ministry-2023-05-13/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poland says object likely to be observation balloon entered...May 13, 2023 — 13 May 2023 — An unidentified object that entered Po...</p></details>
    Published: May 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reuters.com  
    Title: unidentified object entered poland direction ukraine says polish army 2023 12 29  
-   Link: <a href="https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Poland says Russian rocket entered its airspace, summons...29 Dec 2023 — According to the General Staff of the Polish Armed Force...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/unidentified-object-entered-poland-direction-ukraine-says-polish-army-2023-12-29/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poland says Russian rocket entered its airspace, summons...29 Dec 2023 — According to the General Staff of the Polish Armed Force...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: polish army says object entered poland during russian attack ukraine 2024 08 26  
-   Link: <a href="https://www.reuters.com/world/europe/polish-army-says-object-entered-poland-during-russian-attack-ukraine-2024-08-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/polish-army-says-object-entered-poland-during-russian-attack-ukraine-2024-08-26/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Poland says drone likely entered its airspace during...26 Aug 2024 — In December 2023, Poland said a Russian missile had entered...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/polish-army-says-object-entered-poland-during-russian-attack-ukraine-2024-08-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/polish-army-says-object-entered-poland-during-russian-attack-ukraine-2024-08-26/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poland says drone likely entered its airspace during...26 Aug 2024 — In December 2023, Poland said a Russian missile had entered...</p></details>
    Published: December 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 2022 missile explosion in Poland  
-   Link: <a href="https://en.wikipedia.org/wiki/2022_missile_explosion_in_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2022_missile_explosion_in_Poland</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2022_missile_explosion_in_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2022_missile_explosion_in_Poland</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/poland-detects-suspected-observation-balloon-from-belarus-in-its-airspace-12879986" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/poland-detects-suspected-observation-balloon-from-belarus-in-its-airspace-12879986</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsPoland detects suspected observation balloon &#x27;from...Poland says it has detected what appears to be an observation balloon in it...</p></details>
+   Link:<a href="https://news.sky.com/story/poland-detects-suspected-observation-balloon-from-belarus-in-its-airspace-12879986" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/poland-detects-suspected-observation-balloon-from-belarus-in-its-airspace-12879986</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsPoland detects suspected observation balloon &#x27;from...Poland says it has detected what appears to be an observation balloon in it...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
    Title: poland resumes ground search after friday airspace breach army 2023 12 30  
-   Link: <a href="https://www.reuters.com/world/europe/poland-resumes-ground-search-after-friday-airspace-breach-army-2023-12-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/poland-resumes-ground-search-after-friday-airspace-breach-army-2023-12-30/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Poland finds no Russian rocket parts after airspace breach30 Dec 2023 — Polish military officials said the object, suspected to be a Russ...</p></details>
+   Link:<a href="https://www.reuters.com/world/europe/poland-resumes-ground-search-after-friday-airspace-breach-army-2023-12-30/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/europe/poland-resumes-ground-search-after-friday-airspace-breach-army-2023-12-30/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poland finds no Russian rocket parts after airspace breach30 Dec 2023 — Polish military officials said the object, suspected to be a Russ...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>While the drones are confirmed to be Ukrainian, Kyiv and Baltic authorities claim Russian electronic interference is causing the drones t...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/errant-ukrainian-drones-fuel-tensions-natos-eastern-flank-2026-05-27/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While the drones are confirmed to be Ukrainian, Kyiv and Baltic authorities claim Russian electronic interference is causing the drones t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: 2025 Russian drone incursion into Poland  
-   Link: <a href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Russian drone incursion into PolandOn September 9th 2025, at about 11:30 p.m. CEST, 19 to 23 unarmed military drones entered Pola...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Russian drone incursion into PolandOn September 9th 2025, at about 11:30 p.m. CEST, 19 to 23 unarmed military drones entered Pola...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/poland-downs-drones-its-airspace-becoming-first-nato-member-fire-during-war-2025-09-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/poland-downs-drones-its-airspace-becoming-first-nato-member-fire-during-war-2025-09-10/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Poland downs drones in its airspace, becoming first NATO...10 Sept 2025 — Poland downs drones in its airspace, becoming first NATO membe...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/poland-downs-drones-its-airspace-becoming-first-nato-member-fire-during-war-2025-09-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/poland-downs-drones-its-airspace-becoming-first-nato-member-fire-during-war-2025-09-10/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poland downs drones in its airspace, becoming first NATO...10 Sept 2025 — Poland downs drones in its airspace, becoming first NATO membe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
    Title: ukraine says russia drone incursion part pressure plan against west 2025 09 26  
-   Link: <a href="https://www.reuters.com/business/aerospace-defense/ukraine-says-russia-drone-incursion-part-pressure-plan-against-west-2025-09-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/ukraine-says-russia-drone-incursion-part-pressure-plan-against-west-2025-09-26/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine says Russia drone incursion part of pressure plan...26 Sept 2025 — Some UAVs penetrated up to 100 km (60 miles) into Polish terr...</p></details>
+   Link:<a href="https://www.reuters.com/business/aerospace-defense/ukraine-says-russia-drone-incursion-part-pressure-plan-against-west-2025-09-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/ukraine-says-russia-drone-incursion-part-pressure-plan-against-west-2025-09-26/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ukraine says Russia drone incursion part of pressure plan...26 Sept 2025 — Some UAVs penetrated up to 100 km (60 miles) into Polish terr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pap.pl  
    Title: more balloon objects enter polish airspace belarus  
-   Link: <a href="https://www.pap.pl/en/news/more-balloon-objects-enter-polish-airspace-belarus" target="_blank" rel="noopener noreferrer nofollow">https://www.pap.pl/en/news/more-balloon-objects-enter-polish-airspace-belarus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strona głównaMore balloon-like objects enter Polish airspace from Belarus4 Feb 2026 — Poland&#x27;s military radar systems detected further vi...</p></details>
+   Link:<a href="https://www.pap.pl/en/news/more-balloon-objects-enter-polish-airspace-belarus" target="_blank" rel="noopener noreferrer nofollow">https://www.pap.pl/en/news/more-balloon-objects-enter-polish-airspace-belarus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strona głównaMore balloon-like objects enter Polish airspace from Belarus4 Feb 2026 — Poland&#x27;s military radar systems detected further vi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reutersconnect.com  
    Title: d GFn On Jld XRlcn Mu Y29t LDIw Mj U6bm V3c21s X1JDMlp PR0FCTUo3OA  
-   Link: <a href="https://www.reutersconnect.com/item/drones-shot-down-in-polish-airspace-prompt-military-patrols/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlpPR0FCTUo3OA" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/drones-shot-down-in-polish-airspace-prompt-military-patrols/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlpPR0FCTUo3OA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones shot down in Polish airspace prompt military patrols11 Sept 2025 — Firefighters work on the destroyed roof of a house, after Russi...</p></details>
+   Link:<a href="https://www.reutersconnect.com/item/drones-shot-down-in-polish-airspace-prompt-military-patrols/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlpPR0FCTUo3OA" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/drones-shot-down-in-polish-airspace-prompt-military-patrols/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlpPR0FCTUo3OA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drones shot down in Polish airspace prompt military patrols11 Sept 2025 — Firefighters work on the destroyed roof of a house, after Russi...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/world/russia-demands-evidence-that-one-of-its-missiles-crossed-through-polands-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/world/russia-demands-evidence-that-one-of-its-missiles-crossed-through-polands-airspace</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia demands evidence that one of its missiles crossed...30 Dec 2023 — Poland&#x27;s defense forces said an unknown object traveled 40 kilo...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/world/russia-demands-evidence-that-one-of-its-missiles-crossed-through-polands-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/world/russia-demands-evidence-that-one-of-its-missiles-crossed-through-polands-airspace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russia demands evidence that one of its missiles crossed...30 Dec 2023 — Poland&#x27;s defense forces said an unknown object traveled 40 kilo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: newsinfo.inquirer.net  
    Title: poland says object likely to be observation balloon entered airspace from east  
-   Link: <a href="https://newsinfo.inquirer.net/1768795/poland-says-object-likely-to-be-observation-balloon-entered-airspace-from-east" target="_blank" rel="noopener noreferrer nofollow">https://newsinfo.inquirer.net/1768795/poland-says-object-likely-to-be-observation-balloon-entered-airspace-from-east</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>says object likely to be observation balloon entered...13 May 2023 — An unidentified object that entered Polish airspace from the direct...</p></details>
+   Link:<a href="https://newsinfo.inquirer.net/1768795/poland-says-object-likely-to-be-observation-balloon-entered-airspace-from-east" target="_blank" rel="noopener noreferrer nofollow">https://newsinfo.inquirer.net/1768795/poland-says-object-likely-to-be-observation-balloon-entered-airspace-from-east</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>says object likely to be observation balloon entered...13 May 2023 — An unidentified object that entered Polish airspace from the direct...</p></details>
    Published: May 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: euractiv.com  
-   Link: <a href="https://www.euractiv.com/news/poland-searches-for-suspected-belarussian-observational-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.euractiv.com/news/poland-searches-for-suspected-belarussian-observational-balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arussian observational balloon – was first spotted on Friday and last seen on...Read more...</p></details>
+   Link:<a href="https://www.euractiv.com/news/poland-searches-for-suspected-belarussian-observational-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://www.euractiv.com/news/poland-searches-for-suspected-belarussian-observational-balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arussian observational balloon – was first spotted on Friday and last seen on...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tvpworld.com  
    Title: belarus tests polish defenses with balloon like objects  
-   Link: <a href="https://tvpworld.com/91356038/belarus-tests-polish-defenses-with-balloon-like-objects" target="_blank" rel="noopener noreferrer nofollow">https://tvpworld.com/91356038/belarus-tests-polish-defenses-with-balloon-like-objects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Balloon-like&#x27; objects enter Poland from Belarus in &#x27;scout...1 Feb 2026 — Belarus made another attempt to “scout and test” Polish air de...</p></details>
+   Link:<a href="https://tvpworld.com/91356038/belarus-tests-polish-defenses-with-balloon-like-objects" target="_blank" rel="noopener noreferrer nofollow">https://tvpworld.com/91356038/belarus-tests-polish-defenses-with-balloon-like-objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Balloon-like&#x27; objects enter Poland from Belarus in &#x27;scout...1 Feb 2026 — Belarus made another attempt to “scout and test” Polish air de...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: x.com  
-   Link: <a href="https://x.com/TheStudyofWar/status/2018183848857924048?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/TheStudyofWar/status/2018183848857924048?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on-like” objects into Polish airspace on the night of January...Read more...</p></details>
+   Link:<a href="https://x.com/TheStudyofWar/status/2018183848857924048?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/TheStudyofWar/status/2018183848857924048?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on-like” objects into Polish airspace on the night of January...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/tvpworldcom/posts/authorities-restricted-parts-of-northeastern-polands-airspace-after-balloon-like/1520505123411475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tvpworldcom/posts/authorities-restricted-parts-of-northeastern-polands-airspace-after-balloon-like/1520505123411475/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ling balloons coming from the direction of neighbouring Belarus.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/tvpworldcom/posts/authorities-restricted-parts-of-northeastern-polands-airspace-after-balloon-like/1520505123411475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tvpworldcom/posts/authorities-restricted-parts-of-northeastern-polands-airspace-after-balloon-like/1520505123411475/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ling balloons coming from the direction of neighbouring Belarus.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Reuters/posts/after-poland-shot-down-russian-drones-that-entered-its-airspace-in-september-sev/1362595452397850/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/after-poland-shot-down-russian-drones-that-entered-its-airspace-in-september-sev/1362595452397850/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sh and NATO aircraft, some drones shot down, and airport closures...</p></details>
+   Link:<a href="https://www.facebook.com/Reuters/posts/after-poland-shot-down-russian-drones-that-entered-its-airspace-in-september-sev/1362595452397850/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/after-poland-shot-down-russian-drones-that-entered-its-airspace-in-september-sev/1362595452397850/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sh and NATO aircraft, some drones shot down, and airport closures...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Reuters/posts/poland-is-the-closest-it-has-been-to-open-conflict-since-world-war-two-prime-min/1328449122479150/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/poland-is-the-closest-it-has-been-to-open-conflict-since-world-war-two-prime-min/1328449122479150/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tion of Ukraine war It is not clear how many Russian drones the...</p></details>
+   Link:<a href="https://www.facebook.com/Reuters/posts/poland-is-the-closest-it-has-been-to-open-conflict-since-world-war-two-prime-min/1328449122479150/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/poland-is-the-closest-it-has-been-to-open-conflict-since-world-war-two-prime-min/1328449122479150/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tion of Ukraine war It is not clear how many Russian drones the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ukrnewsfeed/posts/a-russian-oreshnik-missile-fell-near-the-polish-border-ukraine-had-warned-poland/122154689306654935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukrnewsfeed/posts/a-russian-oreshnik-missile-fell-near-the-polish-border-ukraine-had-warned-poland/122154689306654935/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed Poland of a possible strike beforehand, allowing the Polish...</p></details>
+   Link:<a href="https://www.facebook.com/ukrnewsfeed/posts/a-russian-oreshnik-missile-fell-near-the-polish-border-ukraine-had-warned-poland/122154689306654935/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ukrnewsfeed/posts/a-russian-oreshnik-missile-fell-near-the-polish-border-ukraine-had-warned-poland/122154689306654935/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed Poland of a possible strike beforehand, allowing the Polish...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: independent.co.uk  
    Title: spy balloon poland china latest b2338162  
-   Link: <a href="https://www.independent.co.uk/news/world/europe/spy-balloon-poland-china-latest-b2338162.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/europe/spy-balloon-poland-china-latest-b2338162.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hunt for suspected spy balloon as mystery object flies into...13 May 2023 — A hunt is underway in Poland for a mystery object, believed...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/world/europe/spy-balloon-poland-china-latest-b2338162.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/europe/spy-balloon-poland-china-latest-b2338162.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hunt for suspected spy balloon as mystery object flies into...13 May 2023 — A hunt is underway in Poland for a mystery object, believed...</p></details>
    Published: May 2023

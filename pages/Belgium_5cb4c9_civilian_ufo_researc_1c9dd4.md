@@ -254,38 +254,38 @@ image: /assets/images/Belgium_5cb4c9_civilian_ufo_researc_1c9dd4-Illustration-1-
 
 ## Introduction
 
-Belgium’s reputation as one of Europe’s most closely studied UFO hotspots owes less to government secrecy than to the unusual role played by organised civilian investigators. During and after the Belgian UFO wave of 1989–1990, private research groups collected witness testimony on a national scale, compared accounts, interviewed police officers and pilots, and attempted to standardise how sightings were documented. The most influential of these organisations was the Société belge d’étude des phénomènes spatiaux, better known as SOBEPS, whose work shaped both public understanding and official responses to the sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SOBEPS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Belgium’s reputation as one of Europe’s most closely studied UFO hotspots owes less to government secrecy than to the unusual role played by organised civilian investigators. During and after the Belgian UFO wave of 1989–1990, private research groups collected witness testimony on a national scale, compared accounts, interviewed police officers and pilots, and attempted to standardise how sightings were documented. The most influential of these organisations was the Société belge d’étude des phénomènes spatiaux, better known as SOBEPS, whose work shaped both public understanding and official responses to the sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SOBEPS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 <img src="{{ "/assets/images/Belgium_5cb4c9_civilian_ufo_researc_1c9dd4-Illustration-1-dark.svg" | relative_url }}" alt="Civilian Research illustration 1" data-theme-src-dark="{{ "/assets/images/Belgium_5cb4c9_civilian_ufo_researc_1c9dd4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_5cb4c9_civilian_ufo_researc_1c9dd4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What made Belgium distinctive was not simply the number of reports, but the degree of interaction between civilian researchers and institutions such as the Belgian Air Force. Supporters saw this cooperation as evidence that the phenomenon deserved serious study. Critics argued that the same networks amplified public excitement and helped create a self-reinforcing UFO wave. The debate over SOBEPS therefore became central not only to Belgian ufology, but to wider arguments about how extraordinary claims should be investigated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[2skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only rep...</span></span></span>
+What made Belgium distinctive was not simply the number of reports, but the degree of interaction between civilian researchers and institutions such as the Belgian Air Force. Supporters saw this cooperation as evidence that the phenomenon deserved serious study. Critics argued that the same networks amplified public excitement and helped create a self-reinforcing UFO wave. The debate over SOBEPS therefore became central not only to Belgian ufology, but to wider arguments about how extraordinary claims should be investigated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[2skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only rep...</span></span></span>
 
 ## SOBEPS and the Rise of Organised Belgian Ufology
 
 ### From small association to national reference point
 
-SOBEPS was founded in 1971 as a civilian UFO investigation organisation focused on collecting and analysing reports from Belgium. In its early years it operated more like a niche enthusiasts’ association, publishing a magazine called *Inforespace* and building an archive of sightings. Membership rose rapidly during the 1970s before declining in the 1980s, only to surge again during the Belgian UFO wave. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+SOBEPS was founded in 1971 as a civilian UFO investigation organisation focused on collecting and analysing reports from Belgium. In its early years it operated more like a niche enthusiasts’ association, publishing a magazine called *Inforespace* and building an archive of sightings. Membership rose rapidly during the 1970s before declining in the 1980s, only to surge again during the Belgian UFO wave.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-The organisation’s influence expanded dramatically after the first major wave sightings near Eupen on 29 November 1989. Witnesses contacted local police, journalists, and eventually SOBEPS investigators, who began assembling detailed case files. Within months the group had become the central clearing house for Belgian UFO reports, handling hundreds of witness statements from civilians, police officers, military personnel, and radar operators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sd036d2424f3c53a7.jimcontent.com/download/version/1665931630/module/12377389112/name/The%20Ufo%20Briefing%201989-1990%20UFO%20sighting%20wave%20Belgium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sd036d2424f3c53a7.jimcontent.com">[2sd036d2424f3c53a7.jimcontent.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sd036d2424f3c53a7.jimcontent.com</span><span class="citation-popover-title">The Ufo Briefing 1989 1990 UFO sighting wave Belgium</span><span class="citation-popover-snippet">Belgian Society for the Study of Space Phenomena (SOBEPS), a private organization from Brussels, which published two thick volumes on the...</span></span></span>
+The organisation’s influence expanded dramatically after the first major wave sightings near Eupen on 29 November 1989. Witnesses contacted local police, journalists, and eventually SOBEPS investigators, who began assembling detailed case files. Within months the group had become the central clearing house for Belgian UFO reports, handling hundreds of witness statements from civilians, police officers, military personnel, and radar operators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sd036d2424f3c53a7.jimcontent.com/download/version/1665931630/module/12377389112/name/The%20Ufo%20Briefing%201989-1990%20UFO%20sighting%20wave%20Belgium.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sd036d2424f3c53a7.jimcontent.com">[2sd036d2424f3c53a7.jimcontent.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sd036d2424f3c53a7.jimcontent.com</span><span class="citation-popover-title">The Ufo Briefing 1989 1990 UFO sighting wave Belgium</span><span class="citation-popover-snippet">Belgian Society for the Study of Space Phenomena (SOBEPS), a private organization from Brussels, which published two thick volumes on the...</span></span></span>
 
-Unlike more sensational UFO groups elsewhere, SOBEPS tried to present itself as methodical and technically serious. Its investigators used questionnaires, attempted witness cross-checking, and classified sightings according to evidential quality. This approach helped the organisation gain media credibility inside Belgium, especially because some reports involved law enforcement officers and military observers rather than anonymous claims alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/pdf/belgian_wave_130310.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-title">belgian wave 130310</span><span class="citation-popover-snippet">Belgian Ufo waveSOBEPS IR: Sobeps Investigation Report. VOB1: First SOBEPS report on the 1989 Belgian ufo wave. VOB2: Second SOBEPS repor...</span></span></span>
+Unlike more sensational UFO groups elsewhere, SOBEPS tried to present itself as methodical and technically serious. Its investigators used questionnaires, attempted witness cross-checking, and classified sightings according to evidential quality. This approach helped the organisation gain media credibility inside Belgium, especially because some reports involved law enforcement officers and military observers rather than anonymous claims alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/pdf/belgian_wave_130310.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-title">belgian wave 130310</span><span class="citation-popover-snippet">Belgian Ufo waveSOBEPS IR: Sobeps Investigation Report. VOB1: First SOBEPS report on the 1989 Belgian ufo wave. VOB2: Second SOBEPS repor...</span></span></span>
 
 ### The two major Belgian wave reports
 
-SOBEPS became best known for publishing two large investigative volumes on the Belgian UFO wave, commonly referred to as *Vague d’OVNI sur la Belgique*. These books attempted to catalogue sightings chronologically, compare testimony, map geographical patterns, and assess possible explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SOBEPS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+SOBEPS became best known for publishing two large investigative volumes on the Belgian UFO wave, commonly referred to as *Vague d’OVNI sur la Belgique*. These books attempted to catalogue sightings chronologically, compare testimony, map geographical patterns, and assess possible explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/SOBEPS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The reports argued that many cases could not be explained by ordinary aircraft, astronomical objects, or hoaxes. Investigators emphasised recurring descriptions of silent triangular craft with strong lights at the corners and unusual flight behaviour. They also highlighted reports involving multiple independent witnesses observing the same object simultaneously from different locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
+The reports argued that many cases could not be explained by ordinary aircraft, astronomical objects, or hoaxes. Investigators emphasised recurring descriptions of silent triangular craft with strong lights at the corners and unusual flight behaviour. They also highlighted reports involving multiple independent witnesses observing the same object simultaneously from different locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
 
-Supporters considered the publications unusually detailed for civilian UFO research. Critics, however, argued that the books selectively favoured unexplained cases while downplaying mundane explanations or inconsistencies in witness testimony. The publications therefore became both foundational texts in European ufology and major targets for sceptical review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gmh.chez-alice.fr/RLT/BUW-RLT-10-2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gmh.chez-alice.fr">[2gmh.chez-alice.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gmh.chez-alice.fr</span><span class="citation-popover-snippet">THE BELGIAN WAVE OF 1989-1992 A neglected hypothesis9 Dec 1989 — SOBEPS itself explained some sightings by planes, sky tracers of discoth...</span></span></span>
+Supporters considered the publications unusually detailed for civilian UFO research. Critics, however, argued that the books selectively favoured unexplained cases while downplaying mundane explanations or inconsistencies in witness testimony. The publications therefore became both foundational texts in European ufology and major targets for sceptical review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gmh.chez-alice.fr/RLT/BUW-RLT-10-2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gmh.chez-alice.fr">[2gmh.chez-alice.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gmh.chez-alice.fr</span><span class="citation-popover-snippet">THE BELGIAN WAVE OF 1989-1992 A neglected hypothesis9 Dec 1989 — SOBEPS itself explained some sightings by planes, sky tracers of discoth...</span></span></span>
 
 ## How Belgian Civilian Investigators Collected and Analysed Reports
 
 ### Building a national witness network
 
-One reason the Belgian wave became so heavily documented was the speed with which civilian researchers established reporting channels. Witnesses could contact SOBEPS directly by telephone or post, and local investigators were often dispatched to interview them. The organisation built regional networks that allowed sightings from Wallonia, Brussels, and other areas to be logged rapidly and compared against one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/pdf/belgian_wave_130310.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-title">belgian wave 130310</span><span class="citation-popover-snippet">Belgian Ufo waveSOBEPS IR: Sobeps Investigation Report. VOB1: First SOBEPS report on the 1989 Belgian ufo wave. VOB2: Second SOBEPS repor...</span></span></span>
+One reason the Belgian wave became so heavily documented was the speed with which civilian researchers established reporting channels. Witnesses could contact SOBEPS directly by telephone or post, and local investigators were often dispatched to interview them. The organisation built regional networks that allowed sightings from Wallonia, Brussels, and other areas to be logged rapidly and compared against one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/pdf/belgian_wave_130310.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-title">belgian wave 130310</span><span class="citation-popover-snippet">Belgian Ufo waveSOBEPS IR: Sobeps Investigation Report. VOB1: First SOBEPS report on the 1989 Belgian ufo wave. VOB2: Second SOBEPS repor...</span></span></span>
 
-Investigators attempted to separate high-value reports from weak or incomplete testimony. Cases involving multiple observers, police officers, or apparent radar confirmation received particular attention. Reports were frequently compared with weather records, aviation activity, and astronomical conditions in an effort to eliminate obvious misidentifications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
+Investigators attempted to separate high-value reports from weak or incomplete testimony. Cases involving multiple observers, police officers, or apparent radar confirmation received particular attention. Reports were frequently compared with weather records, aviation activity, and astronomical conditions in an effort to eliminate obvious misidentifications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
 
-SOBEPS also tried to preserve anonymity for reluctant witnesses, especially police officers or military personnel concerned about ridicule. This mattered because the Belgian wave coincided with intense media attention, and many witnesses feared professional embarrassment. The group argued that confidential reporting improved the reliability and volume of testimony it received. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
+SOBEPS also tried to preserve anonymity for reluctant witnesses, especially police officers or military personnel concerned about ridicule. This mattered because the Belgian wave coincided with intense media attention, and many witnesses feared professional embarrassment. The group argued that confidential reporting improved the reliability and volume of testimony it received.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWbo0x1lJAk" title="The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer">The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 73.5K &middot; Uploaded: November 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWbo0x1lJAk">Open on YouTube</a></p></div></div></div>
 
@@ -299,33 +299,33 @@ Belgian civilian researchers did more than simply collect stories. They attempte
 * Common object shapes and lighting patterns
 * Altitude estimates
 * Apparent manoeuvres
-* Regions with repeated reports <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brusselstimes.com">[brusselstimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brusselstimes.com</span><span class="citation-popover-title">reports of ufos sightings on the rise in belgium with spike reported in march</span><span class="citation-popover-snippet">The Brussels TimesReports of UFOs sightings on the rise in Belgium05 Jan 2026 — Belgium&#x27;s UFO hotline recorded 237 sightings of unidentif...</span></span></span>
+* Regions with repeated reports<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brusselstimes.com">[brusselstimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brusselstimes.com</span><span class="citation-popover-title">reports of ufos sightings on the rise in belgium with spike reported in march</span><span class="citation-popover-snippet">The Brussels TimesReports of UFOs sightings on the rise in Belgium05 Jan 2026 — Belgium&#x27;s UFO hotline recorded 237 sightings of unidentif...</span></span></span>
 * Correlations with police and radar observations
 
 </div>
 
-This systematic approach was relatively unusual for civilian UFO organisations at the time. SOBEPS argued that the consistency of descriptions across independent witnesses strengthened the case that observers were seeing a genuine phenomenon rather than unrelated misidentifications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
+This systematic approach was relatively unusual for civilian UFO organisations at the time. SOBEPS argued that the consistency of descriptions across independent witnesses strengthened the case that observers were seeing a genuine phenomenon rather than unrelated misidentifications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
 
-Researchers associated with the organisation later claimed that thousands of reports were received during the wave, with several hundred subjected to detailed investigation and a significant number remaining unexplained after review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBelgian UAP WaveIn total, the group collected evidence for 650 of the 2,000 reported cases; 500 of the...</span></span></span> | Report a UFO sighting
+Researchers associated with the organisation later claimed that thousands of reports were received during the wave, with several hundred subjected to detailed investigation and a significant number remaining unexplained after review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingBelgian UAP WaveIn total, the group collected evidence for 650 of the 2,000 reported cases; 500 of the...</span></span></span> | Report a UFO sighting
 
-Sceptics disputed those conclusions, arguing that consistency alone does not prove an extraordinary object existed. Once triangular UFO descriptions became widespread in newspapers and television coverage, witnesses may have unconsciously shaped later reports around a shared public narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+Sceptics disputed those conclusions, arguing that consistency alone does not prove an extraordinary object existed. Once triangular UFO descriptions became widespread in newspapers and television coverage, witnesses may have unconsciously shaped later reports around a shared public narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
 <img src="{{ "/assets/images/Belgium_5cb4c9_civilian_ufo_researc_1c9dd4-Illustration-2-dark.svg" | relative_url }}" alt="Civilian Research illustration 2" data-theme-src-dark="{{ "/assets/images/Belgium_5cb4c9_civilian_ufo_researc_1c9dd4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_5cb4c9_civilian_ufo_researc_1c9dd4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cooperation Between Civilian Researchers and Belgian Authorities
 
 ### An unusually open relationship
 
-Belgium became notable within UFO history because civilian researchers gained partial access to official information rather than being completely excluded from it. During the wave, SOBEPS interacted with elements of the Belgian Air Force and received summaries of military observations connected to the March 1990 radar incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/documents/doc408.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">This report provides the full picture of the reports of the involved</span><span class="citation-popover-snippet">Report concerning the observation of UFOs in the night...The full version of the Belgian Air Force report by Major Lambrechts, VS 3/Ctl...</span></span></span>
+Belgium became notable within UFO history because civilian researchers gained partial access to official information rather than being completely excluded from it. During the wave, SOBEPS interacted with elements of the Belgian Air Force and received summaries of military observations connected to the March 1990 radar incidents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/documents/doc408.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">This report provides the full picture of the reports of the involved</span><span class="citation-popover-snippet">Report concerning the observation of UFOs in the night...The full version of the Belgian Air Force report by Major Lambrechts, VS 3/Ctl...</span></span></span>
 
-This relationship helped give the Belgian case international attention. Many UFO incidents elsewhere relied entirely on anecdotal civilian testimony, whereas Belgian researchers could point to radar data, interceptor scrambles, and public statements by military officials acknowledging that unusual aerial observations had occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/documents/doc408.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">This report provides the full picture of the reports of the involved</span><span class="citation-popover-snippet">Report concerning the observation of UFOs in the night...The full version of the Belgian Air Force report by Major Lambrechts, VS 3/Ctl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 highlights guide</span><span class="citation-popover-snippet">GuideThe files reveal how in March 1990 the Belgian Air. Force scrambled F-16 fighters to intercept UFOs reported by police officers and...</span><span class="citation-popover-meta">Published: March 1990</span></span></span>
+This relationship helped give the Belgian case international attention. Many UFO incidents elsewhere relied entirely on anecdotal civilian testimony, whereas Belgian researchers could point to radar data, interceptor scrambles, and public statements by military officials acknowledging that unusual aerial observations had occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/documents/doc408.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">This report provides the full picture of the reports of the involved</span><span class="citation-popover-snippet">Report concerning the observation of UFOs in the night...The full version of the Belgian Air Force report by Major Lambrechts, VS 3/Ctl...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">aug 2009 highlights guide</span><span class="citation-popover-snippet">GuideThe files reveal how in March 1990 the Belgian Air. Force scrambled F-16 fighters to intercept UFOs reported by police officers and...</span><span class="citation-popover-meta">Published: March 1990</span></span></span>
 
-The cooperation was still limited and cautious. Belgian authorities did not endorse extraterrestrial explanations, nor did they officially validate SOBEPS conclusions. Nonetheless, the willingness of military personnel to speak publicly about unexplained radar tracks was unusual enough to strengthen the organisation’s credibility in the eyes of many observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/documents/doc408.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">This report provides the full picture of the reports of the involved</span><span class="citation-popover-snippet">Report concerning the observation of UFOs in the night...The full version of the Belgian Air Force report by Major Lambrechts, VS 3/Ctl...</span></span></span>
+The cooperation was still limited and cautious. Belgian authorities did not endorse extraterrestrial explanations, nor did they officially validate SOBEPS conclusions. Nonetheless, the willingness of military personnel to speak publicly about unexplained radar tracks was unusual enough to strengthen the organisation’s credibility in the eyes of many observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/documents/doc408.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">This report provides the full picture of the reports of the involved</span><span class="citation-popover-snippet">Report concerning the observation of UFOs in the night...The full version of the Belgian Air Force report by Major Lambrechts, VS 3/Ctl...</span></span></span>
 
 ### The F-16 incident and civilian interpretation
 
-The most famous example of civilian-official interaction involved the night of 30–31 March 1990, when Belgian Air Force F-16s attempted to intercept unidentified radar targets. SOBEPS investigators treated the event as a key piece of corroborative evidence because it appeared to combine civilian sightings, ground radar observations, and fighter aircraft tracking data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/documents/doc408.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">This report provides the full picture of the reports of the involved</span><span class="citation-popover-snippet">Report concerning the observation of UFOs in the night...The full version of the Belgian Air Force report by Major Lambrechts, VS 3/Ctl...</span></span></span>
+The most famous example of civilian-official interaction involved the night of 30–31 March 1990, when Belgian Air Force F-16s attempted to intercept unidentified radar targets. SOBEPS investigators treated the event as a key piece of corroborative evidence because it appeared to combine civilian sightings, ground radar observations, and fighter aircraft tracking data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/documents/doc408.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[ufoevidence.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">This report provides the full picture of the reports of the involved</span><span class="citation-popover-snippet">Report concerning the observation of UFOs in the night...The full version of the Belgian Air Force report by Major Lambrechts, VS 3/Ctl...</span></span></span>
 
-The organisation argued that the incident demonstrated a phenomenon not easily explained by ordinary aircraft behaviour. However, sceptics later challenged aspects of the interpretation, noting discrepancies between public retellings and the military’s own technical records. Some critics argued that radar anomalies, fragmented locks, or ordinary aerial activity could account for much of what occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only rep...</span></span></span>
+The organisation argued that the incident demonstrated a phenomenon not easily explained by ordinary aircraft behaviour. However, sceptics later challenged aspects of the interpretation, noting discrepancies between public retellings and the military’s own technical records. Some critics argued that radar anomalies, fragmented locks, or ordinary aerial activity could account for much of what occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only rep...</span></span></span>
 
 The disagreement revealed an important feature of Belgian civilian UFO research: the same body of data was often interpreted in radically different ways depending on the assumptions investigators brought to it.
 
@@ -333,240 +333,240 @@ The disagreement revealed an important feature of Belgian civilian UFO research:
 
 ## The Petit-Rechain Photograph and the Credibility Problem
 
-No discussion of Belgian civilian UFO research is complete without the Petit-Rechain photograph, one of the most famous UFO images ever associated with Europe. The image appeared during the Belgian wave and showed a triangular object with illuminated corners hovering against a dark sky. SOBEPS defended the photograph for years as potentially authentic after various technical examinations failed to prove manipulation conclusively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+No discussion of Belgian civilian UFO research is complete without the Petit-Rechain photograph, one of the most famous UFO images ever associated with Europe. The image appeared during the Belgian wave and showed a triangular object with illuminated corners hovering against a dark sky. SOBEPS defended the photograph for years as potentially authentic after various technical examinations failed to prove manipulation conclusively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-For supporters, the photograph symbolised the seriousness of the Belgian wave. It appeared to match hundreds of witness descriptions and became widely reproduced in books, television programmes, and documentaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Unsolved Mysteries Belgium UFO</span><span class="citation-popover-snippet">Unsolved MysteriesBelgium UFO - Unsolved Mysteries Wiki - FandomMany skeptics believe that the Belgian sightings were just mass UFO hyste...</span></span></span>
+For supporters, the photograph symbolised the seriousness of the Belgian wave. It appeared to match hundreds of witness descriptions and became widely reproduced in books, television programmes, and documentaries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Unsolved Mysteries Belgium UFO</span><span class="citation-popover-snippet">Unsolved MysteriesBelgium UFO - Unsolved Mysteries Wiki - FandomMany skeptics believe that the Belgian sightings were just mass UFO hyste...</span></span></span>
 
-The problem emerged in 2011 when the photographer stated publicly that the image had been fabricated using a small model. The confession damaged SOBEPS retrospectively because critics argued that the organisation had become too invested in defending evidence that supported its preferred interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+The problem emerged in 2011 when the photographer stated publicly that the image had been fabricated using a small model. The confession damaged SOBEPS retrospectively because critics argued that the organisation had become too invested in defending evidence that supported its preferred interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-Defenders of SOBEPS countered that the photograph represented only one piece of evidence among thousands of reports and that the organisation had never claimed the image alone proved extraterrestrial visitation. Nevertheless, the episode became a cautionary example of how even technically analysed UFO evidence can later collapse under scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sufon.co.uk/post/the-belgian-wave-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">the belgian wave 1</span><span class="citation-popover-snippet">Swansea Ufo NetworkTHE BELGIAN WAVE25 Sept 2025 — VOB1: First SOBEPS report on the 1989 Belgian ufo wave. VOB2: Second SOBEPS report on t...</span></span></span>
+Defenders of SOBEPS countered that the photograph represented only one piece of evidence among thousands of reports and that the organisation had never claimed the image alone proved extraterrestrial visitation. Nevertheless, the episode became a cautionary example of how even technically analysed UFO evidence can later collapse under scrutiny.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sufon.co.uk/post/the-belgian-wave-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sufon.co.uk">[Swansea Ufo Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sufon.co.uk</span><span class="citation-popover-title">the belgian wave 1</span><span class="citation-popover-snippet">Swansea Ufo NetworkTHE BELGIAN WAVE25 Sept 2025 — VOB1: First SOBEPS report on the 1989 Belgian ufo wave. VOB2: Second SOBEPS report on t...</span></span></span>
 
 ## Critics, Sceptics, and Internal Disputes
 
 ### Claims of mass suggestion and media amplification
 
-Belgian sceptics did not merely reject UFO explanations; many specifically criticised SOBEPS’s investigative culture. Writer Marc Hallet argued that the organisation helped fuel a form of mass social contagion by encouraging people to reinterpret ordinary aerial observations as extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+Belgian sceptics did not merely reject UFO explanations; many specifically criticised SOBEPS’s investigative culture. Writer Marc Hallet argued that the organisation helped fuel a form of mass social contagion by encouraging people to reinterpret ordinary aerial observations as extraordinary craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-This criticism drew on a broader sceptical argument often applied to UFO waves: once media attention establishes a popular image of what witnesses are expected to see, later reports become shaped by expectation. In Belgium’s case, the widely publicised “black triangle” motif may itself have influenced subsequent testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+This criticism drew on a broader sceptical argument often applied to UFO waves: once media attention establishes a popular image of what witnesses are expected to see, later reports become shaped by expectation. In Belgium’s case, the widely publicised “black triangle” motif may itself have influenced subsequent testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-Other researchers proposed more conventional explanations for at least some sightings, including helicopters, aircraft viewed under unusual atmospheric conditions, astronomical misidentifications, and optical distortions. Several sceptical analyses argued that SOBEPS sometimes underestimated how easily witnesses can misjudge silence, distance, speed, and scale during night-time observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gmh.chez-alice.fr/RLT/BUW-RLT-10-2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gmh.chez-alice.fr">[gmh.chez-alice.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gmh.chez-alice.fr</span><span class="citation-popover-snippet">THE BELGIAN WAVE OF 1989-1992 A neglected hypothesis9 Dec 1989 — SOBEPS itself explained some sightings by planes, sky tracers of discoth...</span></span></span>
+Other researchers proposed more conventional explanations for at least some sightings, including helicopters, aircraft viewed under unusual atmospheric conditions, astronomical misidentifications, and optical distortions. Several sceptical analyses argued that SOBEPS sometimes underestimated how easily witnesses can misjudge silence, distance, speed, and scale during night-time observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gmh.chez-alice.fr/RLT/BUW-RLT-10-2008.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gmh.chez-alice.fr">[gmh.chez-alice.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gmh.chez-alice.fr</span><span class="citation-popover-snippet">THE BELGIAN WAVE OF 1989-1992 A neglected hypothesis9 Dec 1989 — SOBEPS itself explained some sightings by planes, sky tracers of discoth...</span></span></span>
 
 <img src="{{ "/assets/images/Belgium_5cb4c9_civilian_ufo_researc_1c9dd4-Illustration-3-dark.svg" | relative_url }}" alt="Civilian Research illustration 3" data-theme-src-dark="{{ "/assets/images/Belgium_5cb4c9_civilian_ufo_researc_1c9dd4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_5cb4c9_civilian_ufo_researc_1c9dd4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Scientific criticism and methodological debate
 
-Some academic critics focused less on the sightings themselves and more on how civilian UFO groups handled evidence. A recurring criticism was that SOBEPS relied heavily on witness testimony without sufficient controls against memory distortion, social influence, or selective reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+Some academic critics focused less on the sightings themselves and more on how civilian UFO groups handled evidence. A recurring criticism was that SOBEPS relied heavily on witness testimony without sufficient controls against memory distortion, social influence, or selective reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-Defenders responded that the organisation did attempt methodological filtering by rejecting many poor-quality reports and by distinguishing between explained and unexplained cases. They argued that complete certainty is impossible in transient aerial events and that civilian investigators were operating with limited resources compared with state institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
+Defenders responded that the organisation did attempt methodological filtering by rejecting many poor-quality reports and by distinguishing between explained and unexplained cases. They argued that complete certainty is impossible in transient aerial events and that civilian investigators were operating with limited resources compared with state institutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
 
 The Belgian debate therefore evolved into something larger than a question about UFOs alone. It became a dispute about how civilians should investigate uncertain phenomena, how much weight eyewitness evidence deserves, and whether unexplained observations should be treated as anomalies requiring further study or as predictable by-products of human perception.
 
 ## COBEPS and the Post-SOBEPS Era
 
-SOBEPS formally dissolved in 2007 after financial difficulties, but its investigative legacy did not disappear. A successor organisation, COBEPS — the Belgian Committee for the Study of Space Phenomena — was created to continue collecting sightings and preserving aspects of the earlier research tradition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
+SOBEPS formally dissolved in 2007 after financial difficulties, but its investigative legacy did not disappear. A successor organisation, COBEPS — the Belgian Committee for the Study of Space Phenomena — was created to continue collecting sightings and preserving aspects of the earlier research tradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Belgian UFO wave</span><span class="citation-popover-snippet">Belgian UFO wave</span></span></span>
 
-COBEPS adopted a leaner structure than SOBEPS, without the same magazine infrastructure or large membership system. Its stated aim remained straightforward: gather witness testimony in Belgium, maintain archives, and continue civilian investigation into unexplained aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
+COBEPS adopted a leaner structure than SOBEPS, without the same magazine infrastructure or large membership system. Its stated aim remained straightforward: gather witness testimony in Belgium, maintain archives, and continue civilian investigation into unexplained aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
 
-The continuation of these organisations decades after the original wave reflects how deeply the 1989–1990 events became embedded in Belgian UFO culture. Even today, Belgian media periodically revisit the wave, and new sighting reports are still collected by civilian networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brusselstimes.com">[The Brussels Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brusselstimes.com</span><span class="citation-popover-title">reports of ufos sightings on the rise in belgium with spike reported in march</span><span class="citation-popover-snippet">The Brussels TimesReports of UFOs sightings on the rise in Belgium05 Jan 2026 — Belgium&#x27;s UFO hotline recorded 237 sightings of unidentif...</span></span></span>
+The continuation of these organisations decades after the original wave reflects how deeply the 1989–1990 events became embedded in Belgian UFO culture. Even today, Belgian media periodically revisit the wave, and new sighting reports are still collected by civilian networks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brusselstimes.com">[The Brussels Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brusselstimes.com</span><span class="citation-popover-title">reports of ufos sightings on the rise in belgium with spike reported in march</span><span class="citation-popover-snippet">The Brussels TimesReports of UFOs sightings on the rise in Belgium05 Jan 2026 — Belgium&#x27;s UFO hotline recorded 237 sightings of unidentif...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ze73Ier5LOs" title="The Most Terrifying UFO Sightings You Weren&#x27;t Supposed To Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ze73Ier5LOs" target="_blank" rel="noopener noreferrer">The Most Terrifying UFO Sightings You Weren&#x27;t Supposed To Know</a></p><p class="youtube-embed-meta">Channel: Everything Explainer &middot; Views: 1.8K &middot; Uploaded: March 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ze73Ier5LOs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ze73Ier5LOs">Open on YouTube</a></p></div></div></div>
 
 ## Why Belgian Civilian UFO Research Still Matters
 
-Belgian civilian UFO organisations remain important in the wider history of UFO investigation because they occupied a rare middle ground between amateur enthusiasts and institutional inquiry. SOBEPS in particular attempted to document sightings systematically, interact with official sources, and produce large-scale analytical reports rather than relying solely on anecdotal storytelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
+Belgian civilian UFO organisations remain important in the wider history of UFO investigation because they occupied a rare middle ground between amateur enthusiasts and institutional inquiry. SOBEPS in particular attempted to document sightings systematically, interact with official sources, and produce large-scale analytical reports rather than relying solely on anecdotal storytelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cobeps.org">[cobeps.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cobeps.org</span><span class="citation-popover-snippet">Open source on cobeps.org.</span></span></span>
 
-At the same time, the organisation’s history illustrates the vulnerabilities of civilian anomaly research. The Petit-Rechain photograph controversy, disputes over radar interpretation, and accusations of confirmation bias all showed how easily ambiguous evidence can become polarised between believers and sceptics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[2skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only rep...</span></span></span>
+At the same time, the organisation’s history illustrates the vulnerabilities of civilian anomaly research. The Petit-Rechain photograph controversy, disputes over radar interpretation, and accusations of confirmation bias all showed how easily ambiguous evidence can become polarised between believers and sceptics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[2skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Belgian UFO Wave27 Sept 2016 — SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only rep...</span></span></span>
 
 The Belgian case therefore survives not because it resolved the UFO question, but because it demonstrated how organised civilian groups can shape national debates about unexplained events. The archives, publications, and controversies created by SOBEPS and its successors remain central to any serious discussion of Belgium’s place in modern UFO history.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Belgian Civilian UFO Research and SOBEPS. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Belgian Civilian UFO Research and SOBEPS. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on investigation methods, witness reports, and case classification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigation methods, witness reports, and case classification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Examines how UFO reports are collected, assessed, and debated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO reports are collected, assessed, and debated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers civilian and official investigations, matching SOBEPS-authority collaboration themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers civilian and official investigations, matching SOBEPS-authority collaboration themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
+</h4>
+<p class="fr-book-author">By Ralph Blumenthal</p>
         
-        <p class="fr-book-desc">Explores the culture and investigation of extraordinary aerial claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the culture and investigation of extraordinary aerial claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Enigma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Enigma</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Cloth Patch Badge (L3S)"><img src="https://i.ebayimg.com/images/g/S3EAAOSw5W9lwfD2/s-l225.jpg" alt="Listing image for Belgium Cloth Patch Badge (L3S)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer">Belgium Cloth Patch Badge (L3S)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for During Belgium&#x27;s 1989 1990 patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: During Belgium&#x27;s 1989 1990 patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Cloth Patch Badge (L3S)"><img src="https://i.ebayimg.com/images/g/S3EAAOSw5W9lwfD2/s-l225.jpg" alt="Listing image for Belgium Cloth Patch Badge (L3S)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer">Belgium Cloth Patch Badge (L3S)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for During Belgium&#x27;s 1989 1990 patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: During Belgium&#x27;s 1989 1990 patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Cloth Patch Badge (L20S)"><img src="https://i.ebayimg.com/images/g/xDEAAeSw0y9prT~X/s-l225.jpg" alt="Listing image for Belgium Cloth Patch Badge (L20S)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer">Belgium Cloth Patch Badge (L20S)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for During Belgium&#x27;s 1989 1990 patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: During Belgium&#x27;s 1989 1990 patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Cloth Patch Badge (L20S)"><img src="https://i.ebayimg.com/images/g/xDEAAeSw0y9prT~X/s-l225.jpg" alt="Listing image for Belgium Cloth Patch Badge (L20S)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer">Belgium Cloth Patch Badge (L20S)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for During Belgium&#x27;s 1989 1990 patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: During Belgium&#x27;s 1989 1990 patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Woven Cloth Patch Badge (L5KH)"><img src="https://i.ebayimg.com/images/g/hpMAAOSwqR1mucE6/s-l225.jpg" alt="Listing image for Belgium Woven Cloth Patch Badge (L5KH)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer">Belgium Woven Cloth Patch Badge (L5KH)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for During Belgium&#x27;s 1989 1990 patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: During Belgium&#x27;s 1989 1990 patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Woven Cloth Patch Badge (L5KH)"><img src="https://i.ebayimg.com/images/g/hpMAAOSwqR1mucE6/s-l225.jpg" alt="Listing image for Belgium Woven Cloth Patch Badge (L5KH)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer">Belgium Woven Cloth Patch Badge (L5KH)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for During Belgium&#x27;s 1989 1990 patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: During Belgium&#x27;s 1989 1990 patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Woven Cloth Patch Badge (L5KH)"><img src="https://i.ebayimg.com/images/g/mGgAAOSwHU1muwz-/s-l225.jpg" alt="Listing image for Belgium Woven Cloth Patch Badge (L5KH)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer">Belgium Woven Cloth Patch Badge (L5KH)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for During Belgium&#x27;s 1989 1990 patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: During Belgium&#x27;s 1989 1990 patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Belgium Woven Cloth Patch Badge (L5KH)"><img src="https://i.ebayimg.com/images/g/mGgAAOSwHU1muwz-/s-l225.jpg" alt="Listing image for Belgium Woven Cloth Patch Badge (L5KH)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer">Belgium Woven Cloth Patch Badge (L5KH)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for During Belgium&#x27;s 1989 1990 patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: During Belgium&#x27;s 1989 1990 patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=During+Belgium%27s+1989+1990+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="During Belgium&#x27;s 1989 1990 patch" data-ebay-reference="belgian-civilian-ufo-research-and-sobeps-during-belgium-s-1989-1990-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ The Belgian case therefore survives not because it resolved the UFO question, bu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ The Belgian case therefore survives not because it resolved the UFO question, bu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ The Belgian case therefore survives not because it resolved the UFO question, bu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ The Belgian case therefore survives not because it resolved the UFO question, bu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -731,7 +731,7 @@ The Belgian case therefore survives not because it resolved the UFO question, bu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,153 +772,153 @@ The Belgian case therefore survives not because it resolved the UFO question, bu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/SOBEPS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SOBEPS</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/SOBEPS" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SOBEPS</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cobeps.org  
    Title: belgian wave 130310  
-   Link: <a href="https://www.cobeps.org/pdf/belgian_wave_130310.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cobeps.org/pdf/belgian_wave_130310.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian Ufo waveSOBEPS IR: Sobeps Investigation Report. VOB1: First SOBEPS report on the 1989 Belgian ufo wave. VOB2: Second SOBEPS repor...</p></details>
+   Link:<a href="https://www.cobeps.org/pdf/belgian_wave_130310.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cobeps.org/pdf/belgian_wave_130310.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian Ufo waveSOBEPS IR: Sobeps Investigation Report. VOB1: First SOBEPS report on the 1989 Belgian ufo wave. VOB2: Second SOBEPS repor...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skeptoid.com  
-   Link: <a href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/538</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave27 Sept 2016 — SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only rep...</p></details>
+   Link:<a href="https://skeptoid.com/episodes/538" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/538</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave27 Sept 2016 — SOBEPS reported that they obtained radar lock on targets nine times; but the Belgian military only rep...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gmh.chez-alice.fr  
-   Link: <a href="https://gmh.chez-alice.fr/RLT/BUW-RLT-10-2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gmh.chez-alice.fr/RLT/BUW-RLT-10-2008.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE BELGIAN WAVE OF 1989-1992 A neglected hypothesis9 Dec 1989 — SOBEPS itself explained some sightings by planes, sky tracers of discoth...</p></details>
+   Link:<a href="https://gmh.chez-alice.fr/RLT/BUW-RLT-10-2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gmh.chez-alice.fr/RLT/BUW-RLT-10-2008.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE BELGIAN WAVE OF 1989-1992 A neglected hypothesis9 Dec 1989 — SOBEPS itself explained some sightings by planes, sky tracers of discoth...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sd036d2424f3c53a7.jimcontent.com  
    Title: The Ufo Briefing [1989 1990 UFO](&#123;&#123; '1989-1990-ufo/' | relative_url &#125;&#125;) sighting wave Belgium  
-   Link: <a href="https://sd036d2424f3c53a7.jimcontent.com/download/version/1665931630/module/12377389112/name/The%20Ufo%20Briefing%201989-1990%20UFO%20sighting%20wave%20Belgium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sd036d2424f3c53a7.jimcontent.com/download/version/1665931630/module/12377389112/name/The%20Ufo%20Briefing%201989-1990%20UFO%20sighting%20wave%20Belgium.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian Society for the Study of Space Phenomena (SOBEPS), a private organization from Brussels, which published two thick volumes on the...</p></details>
+   Link:<a href="https://sd036d2424f3c53a7.jimcontent.com/download/version/1665931630/module/12377389112/name/The%20Ufo%20Briefing%201989-1990%20UFO%20sighting%20wave%20Belgium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sd036d2424f3c53a7.jimcontent.com/download/version/1665931630/module/12377389112/name/The%20Ufo%20Briefing%201989-1990%20UFO%20sighting%20wave%20Belgium.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian Society for the Study of Space Phenomena (SOBEPS), a private organization from Brussels, which published two thick volumes on the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cobeps.org  
-   Link: <a href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cobeps.org/en/home.html</a>  
+   Link:<a href="https://www.cobeps.org/en/home.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cobeps.org/en/home.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingBelgian UAP WaveIn total, the group collected evidence for 650 of the 2,000 reported cases; 500 of the...</p></details>
+   Link:<a href="https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/90c6dc7d-71ce-4a21-9c86-c0370a72ccc6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingBelgian UAP WaveIn total, the group collected evidence for 650 of the 2,000 reported cases; 500 of the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufoevidence.org  
    Title: This report provides the full picture of the reports of the involved  
-   Link: <a href="https://www.ufoevidence.org/documents/doc408.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc408.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report concerning the observation of UFOs in the night...The full version of the Belgian Air Force report by Major Lambrechts, VS 3/Ctl...</p></details>
+   Link:<a href="https://www.ufoevidence.org/documents/doc408.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc408.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report concerning the observation of UFOs in the night...The full version of the Belgian Air Force report by Major Lambrechts, VS 3/Ctl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unsolved.com  
    Title: Mysteries Belgian UFO  
-   Link: <a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3000 people reported sightings of a UFO over Belgium. Is there another explan...</p></details>
+   Link:<a href="https://unsolved.com/gallery/belgian-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/belgian-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesBelgian UFO - Unsolved MysteriesMore than 3000 people reported sightings of a UFO over Belgium. Is there another explan...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ze73Ier5LOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ze73Ier5LOs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave - Episode 337...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ze73Ier5LOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ze73Ier5LOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave - Episode 337...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Belgian UFO Wave  
-   Link: <a href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6zikRBV8DwQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO Wave: Investigations and History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6zikRBV8DwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6zikRBV8DwQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO Wave: Investigations and History...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufoinsight.com  
    Title: belgian ufo wave  
-   Link: <a href="https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave – A Truly Unique Display Of The...12 Mar 2018 — The wave of UFO sightings that took hold of Belgium between Novembe...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/belgian-ufo-wave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave – A Truly Unique Display Of The...12 Mar 2018 — The wave of UFO sightings that took hold of Belgium between Novembe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: aug 2009 highlights guide  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GuideThe files reveal how in March 1990 the Belgian Air. Force scrambled F-16 fighters to intercept UFOs reported by police officers and...</p></details>
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GuideThe files reveal how in March 1990 the Belgian Air. Force scrambled F-16 fighters to intercept UFOs reported by police officers and...</p></details>
    Published: March 1990  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sufon.co.uk  
    Title: the belgian wave 1  
-   Link: <a href="https://www.sufon.co.uk/post/the-belgian-wave-1" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/post/the-belgian-wave-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Swansea Ufo NetworkTHE BELGIAN WAVE25 Sept 2025 — VOB1: First SOBEPS report on the 1989 Belgian ufo wave. VOB2: Second SOBEPS report on t...</p></details>
+   Link:<a href="https://www.sufon.co.uk/post/the-belgian-wave-1" target="_blank" rel="noopener noreferrer nofollow">https://www.sufon.co.uk/post/the-belgian-wave-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Swansea Ufo NetworkTHE BELGIAN WAVE25 Sept 2025 — VOB1: First SOBEPS report on the 1989 Belgian ufo wave. VOB2: Second SOBEPS report on t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Unsolved Mysteries Belgium UFO  
-   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesBelgium UFO - Unsolved Mysteries Wiki - FandomMany skeptics believe that the Belgian sightings were just mass UFO hyste...</p></details>
+   Link:<a href="https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Belgium_UFO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesBelgium UFO - Unsolved Mysteries Wiki - FandomMany skeptics believe that the Belgian sightings were just mass UFO hyste...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: brusselstimes.com  
    Title: reports of ufos sightings on the rise in belgium with spike reported in march  
-   Link: <a href="https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march" target="_blank" rel="noopener noreferrer nofollow">https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brussels TimesReports of UFOs sightings on the rise in Belgium05 Jan 2026 — Belgium&#x27;s UFO hotline recorded 237 sightings of unidentif...</p></details>
+   Link:<a href="https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march" target="_blank" rel="noopener noreferrer nofollow">https://www.brusselstimes.com/1904444/reports-of-ufos-sightings-on-the-rise-in-belgium-with-spike-reported-in-march</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brussels TimesReports of UFOs sightings on the rise in Belgium05 Jan 2026 — Belgium&#x27;s UFO hotline recorded 237 sightings of unidentif...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TR-3B Black Triangle UFO: Reverse-Engineering or SDI...The TR-3B legend refuses to die. For three decades, witnesses describe a silent B...</p></details>
+   Link:<a href="https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/tr-3b-black-triangle-ufo-reverse-engineering-or-sdi-legacy-948e6cb35751</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TR-3B Black Triangle UFO: Reverse-Engineering or SDI...The TR-3B legend refuses to die. For three decades, witnesses describe a silent B...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sondr.eu  
-   Link: <a href="https://www.sondr.eu/index.php/13-documentary/174-mysterious-case" target="_blank" rel="noopener noreferrer nofollow">https://www.sondr.eu/index.php/13-documentary/174-mysterious-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious CaseIn the late eighties thousands of Belgians observed strange triangular objects hovering over their otherwise calm coun...</p></details>
+   Link:<a href="https://www.sondr.eu/index.php/13-documentary/174-mysterious-case" target="_blank" rel="noopener noreferrer nofollow">https://www.sondr.eu/index.php/13-documentary/174-mysterious-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious CaseIn the late eighties thousands of Belgians observed strange triangular objects hovering over their otherwise calm coun...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-31-184-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-31-184-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO sightings are well-known among UFO researchers, and while they are likely to be mentioned in any documentary on UFOS, they ar...</p></details>
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-31-184-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-31-184-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO sightings are well-known among UFO researchers, and while they are likely to be mentioned in any documentary on UFOS, they ar...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1300809783924033/posts/1611308806207461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1300809783924033/posts/1611308806207461/</a>  
+   Link:<a href="https://www.facebook.com/groups/1300809783924033/posts/1611308806207461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1300809783924033/posts/1611308806207461/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theweek.com  
    Title: 30 years later still dont know what really happened during belgian ufo wave  
-   Link: <a href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO wave, 30 years later30 Mar 2020 — A months-long wave of reports culminated with two Belgian Air Force F-16s chasing myste...</p></details>
+   Link:<a href="https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/articles/905215/30-years-later-still-dont-know-what-really-happened-during-belgian-ufo-wave</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO wave, 30 years later30 Mar 2020 — A months-long wave of reports culminated with two Belgian Air Force F-16s chasing myste...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40JS_UFO_ART/the-belgian-ufo-wave-europes-most-credible-alien-mystery-94a4d8d48292" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JS_UFO_ART/the-belgian-ufo-wave-europes-most-credible-alien-mystery-94a4d8d48292</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 1990, two Belgian Air Force F-16s were dispatched to intercept unknown objects. Despite radar locks, the crafts demonstrated...</p></details>
+   Link:<a href="https://medium.com/%40JS_UFO_ART/the-belgian-ufo-wave-europes-most-credible-alien-mystery-94a4d8d48292" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40JS_UFO_ART/the-belgian-ufo-wave-europes-most-credible-alien-mystery-94a4d8d48292</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 1990, two Belgian Air Force F-16s were dispatched to intercept unknown objects. Despite radar locks, the crafts demonstrated...</p></details>
    Published: March 30, 1990  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: discoveryuk.com  
    Title: the belgian ufo wave close encounter or mass hysteria  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave: Close Encounter or Mass Hysteria?3 Sept 2024 — SOBEPS concluded that the UFOs in Belgium were a genuine phenomenon...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-belgian-ufo-wave-close-encounter-or-mass-hysteria/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgian UFO Wave: Close Encounter or Mass Hysteria?3 Sept 2024 — SOBEPS concluded that the UFOs in Belgium were a genuine phenomenon...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
    Title: archival footage on the belgian ufo wave 19891990  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1gerk81/archival_footage_on_the_belgian_ufo_wave_19891990/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1gerk81/archival_footage_on_the_belgian_ufo_wave_19891990/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Archival footage on the Belgian UFO wave 1989/1990.: r/UFOBIts legacy continues through COBEPS, which carries on some of its activities...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1gerk81/archival_footage_on_the_belgian_ufo_wave_19891990/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1gerk81/archival_footage_on_the_belgian_ufo_wave_19891990/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archival footage on the Belgian UFO wave 1989/1990.: r/UFOBIts legacy continues through COBEPS, which carries on some of its activities...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
    Title: the belgium ufo wave 19891990 13500 witnesses two  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1s2t5vo/the_belgium_ufo_wave_19891990_13500_witnesses_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1s2t5vo/the_belgium_ufo_wave_19891990_13500_witnesses_two/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgium UFO Wave (1989–1990)Between November 1989 and April 1990, over 13,500 people across Belgium reported the same thing: a large...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1s2t5vo/the_belgium_ufo_wave_19891990_13500_witnesses_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1s2t5vo/the_belgium_ufo_wave_19891990_13500_witnesses_two/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgium UFO Wave (1989–1990)Between November 1989 and April 1990, over 13,500 people across Belgium reported the same thing: a large...</p></details>
    Published: November 1989  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nduct several investigations, sometimes even deploying F16...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/l62z80/some_of_the_most_credible_and_widespread/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nduct several investigations, sometimes even deploying F16...Read more...</p></details>

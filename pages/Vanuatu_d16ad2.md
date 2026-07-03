@@ -1194,20 +1194,20 @@ image: /assets/images/Vanuatu_d16ad2-overview-social.jpg
 
 ## Why Vanuatu produces unusual-light reports
 
-Vanuatu is not an ordinary night-sky environment. The country consists of 83 islands, with long stretches of ocean between populated places, and several active volcanic systems across the archipelago. The Vanuatu government describes the country as an 83-island archipelago, while Britannica notes active volcanoes on multiple islands, including Ambrym, Ambae, Gaua, Tanna and submarine systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.vu/index.php/about/about-vanuatu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.vu">[gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.vu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Vanuatu is not an ordinary night-sky environment. The country consists of 83 islands, with long stretches of ocean between populated places, and several active volcanic systems across the archipelago. The Vanuatu government describes the country as an 83-island archipelago, while Britannica notes active volcanoes on multiple islands, including Ambrym, Ambae, Gaua, Tanna and submarine systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.vu/index.php/about/about-vanuatu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.vu">[gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.vu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Vanuatu_d16ad2-overview.webp" | relative_url }}" alt="Overview image for What Really Explains Vanuatu&#x27;s Strange..." loading="eager" decoding="sync" fetchpriority="high">
 That geography matters for UFO assessment. A light seen over water can be harder to judge than one seen over a city skyline: distance cues are poor, cloud and sea reflections distort brightness, and a slow object may seem stationary if it is far away. In Vanuatu, a witness may also be looking across volcanic islands, reef passages, shipping routes and air corridors with little immediate access to radar data or specialist confirmation.
 
-The most important local factor is volcanism. The Vanuatu Meteorology and Geo-Hazards Department, known as VMGD, publishes volcano alerts and monitors systems including [East Epi]({{ 'east-epi/' | relative_url }}), Yasur, Lopevi, Ambrym, Ambae, Gaua and Vanua Lava. Its geohazards page states that volcanic alert bulletins are issued monthly or when activity changes, and its current summary lists several volcanoes at alert levels above normal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Open source on vmgd.gov.vu.</span></span></span>
+The most important local factor is volcanism. The Vanuatu Meteorology and Geo-Hazards Department, known as VMGD, publishes volcano alerts and monitors systems including [East Epi]({{ 'east-epi/' | relative_url }}), Yasur, Lopevi, Ambrym, Ambae, Gaua and Vanua Lava. Its geohazards page states that volcanic alert bulletins are issued monthly or when activity changes, and its current summary lists several volcanoes at alert levels above normal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Open source on vmgd.gov.vu.</span></span></span>
 
 ## The strongest concrete case: strange lights around Epi
 
-The most useful Vanuatu-specific case is not a classic flying-saucer incident but a cluster of local concern around strange light seen from Epi. A Vanuatu Daily Post social-media item reported that residents in south and west Epi had been confused for about a week by a strange light appearing from the west. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
+The most useful Vanuatu-specific case is not a classic flying-saucer incident but a cluster of local concern around strange light seen from Epi. A Vanuatu Daily Post social-media item reported that residents in south and west Epi had been confused for about a week by a strange light appearing from the west.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
 
-That report matters because Epi is not just any island. East Epi is an active submarine volcanic area, and in early 2023 it produced a documented eruption several kilometres east of Epi Island. VMGD’s East Epi page says the eruption began in late January and continued into early February, with phreatic explosions sending ash about 100 metres into the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Open source on vmgd.gov.vu.</span></span></span>
+That report matters because Epi is not just any island. East Epi is an active submarine volcanic area, and in early 2023 it produced a documented eruption several kilometres east of Epi Island. VMGD’s East Epi page says the eruption began in late January and continued into early February, with phreatic explosions sending ash about 100 metres into the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Open source on vmgd.gov.vu.</span></span></span>
 
-The Smithsonian Global Volcanism Program gives a more detailed reconstruction: residents observed gas-and-steam emissions at the ocean surface, phreatic explosions ejected gas and tephra, an overflight found discoloured water and pumice rafts, and satellite imagery later showed pumice strands drifting from the site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[volcano.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span> Reuters also reported the eruption as a dangerous underwater volcanic event, with officials warning people to avoid a 10-kilometre radius and to watch for possible tsunami waves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/asia-pacific/clouds-smoke-off-vanuatu-coast-volcano-rumbles-into-life-2023-02-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Clouds of smoke off Vanuatu coast as volcano rumbles into</span><span class="citation-popover-snippet">Clouds of smoke off Vanuatu coast as volcano rumbles into</span></span></span>
+The Smithsonian Global Volcanism Program gives a more detailed reconstruction: residents observed gas-and-steam emissions at the ocean surface, phreatic explosions ejected gas and tephra, an overflight found discoloured water and pumice rafts, and satellite imagery later showed pumice strands drifting from the site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[volcano.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span> Reuters also reported the eruption as a dangerous underwater volcanic event, with officials warning people to avoid a 10-kilometre radius and to watch for possible tsunami waves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/asia-pacific/clouds-smoke-off-vanuatu-coast-volcano-rumbles-into-life-2023-02-01/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Clouds of smoke off Vanuatu coast as volcano rumbles into</span><span class="citation-popover-snippet">Clouds of smoke off Vanuatu coast as volcano rumbles into</span></span></span>
 
 This does not prove every Epi light was volcanic. The key point is narrower: around Epi, unusual lights, glows, plumes, steam columns, marine reflections and night-time horizon effects have a strong local natural context. A UFO claim from this area needs to be checked first against VMGD bulletins, satellite imagery, overflight reports, shipping activity and weather, not treated as anomalous by default.
 
@@ -1216,19 +1216,19 @@ This does not prove every Epi light was volcanic. The key point is narrower: aro
 
 A practical Vanuatu chronology has to separate three categories: confirmed unusual events, contested sightings and likely misidentifications.
 
-**Confirmed unusual events** are best represented by volcanic activity. East Epi’s 2023 eruption is well supported by VMGD, Smithsonian reporting and international coverage. It involved visible surface activity, ash, steam, discoloured water and pumice. Those are not UFOs, but they are exactly the kind of dramatic, unexpected phenomena that can seed local “strange light” reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Open source on vmgd.gov.vu.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://volcano.si.edu/volcano.cfm?vn=257060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[volcano.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
+**Confirmed unusual events** are best represented by volcanic activity. East Epi’s 2023 eruption is well supported by VMGD, Smithsonian reporting and international coverage. It involved visible surface activity, ash, steam, discoloured water and pumice. Those are not UFOs, but they are exactly the kind of dramatic, unexpected phenomena that can seed local “strange light” reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Open source on vmgd.gov.vu.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://volcano.si.edu/volcano.cfm?vn=257060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[volcano.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
 
-**Contested sightings** include local social-media reports of lights over Epi or moving lights in the sky. These are valuable as community observations, but they usually lack the minimum data needed for strong analysis: precise time, direction, angular size, duration, weather, photographs with metadata, independent witnesses, aircraft checks and satellite-pass checks. A public Vanuatu UFO database page exists at the US UFO Center, but at the time checked it mainly says it is working to add Vanuatu reports rather than presenting a substantial verified national archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/vanuatu-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Contested sightings** include local social-media reports of lights over Epi or moving lights in the sky. These are valuable as community observations, but they usually lack the minimum data needed for strong analysis: precise time, direction, angular size, duration, weather, photographs with metadata, independent witnesses, aircraft checks and satellite-pass checks. A public Vanuatu UFO database page exists at the US UFO Center, but at the time checked it mainly says it is working to add Vanuatu reports rather than presenting a substantial verified national archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/vanuatu-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[usufocenter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Likely misidentifications** include satellite trains. One Vanuatu discussion about a line of moving lights in the sky was answered with the explanation that such a line is almost certainly a Starlink satellite train. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/381339098730281/posts/2920425304821635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span> This is consistent with wider astronomy reporting: Starlink satellites can appear as a string of moving lights soon after launch, especially before they spread out and climb to operational orbits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Likely misidentifications** include satellite trains. One Vanuatu discussion about a line of moving lights in the sky was answered with the explanation that such a line is almost certainly a Starlink satellite train.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/381339098730281/posts/2920425304821635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span> This is consistent with wider astronomy reporting: Starlink satellites can appear as a string of moving lights soon after launch, especially before they spread out and climb to operational orbits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ru4Ja14FqSs" title="Climbing into one of the most dangerous volcanoes on Earth | 60 Minutes Australia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ru4Ja14FqSs" target="_blank" rel="noopener noreferrer">Climbing into one of the most dangerous volcanoes on Earth | 60 Minutes Australia</a></p><p class="youtube-embed-meta">Channel: 60 Minutes Australia &middot; Views: 37.5K &middot; Uploaded: November 2024 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ru4Ja14FqSs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ru4Ja14FqSs">Open on YouTube</a></p></div></div></div>
 
 ## Official records: what exists and what appears absent
 
-The public official record in Vanuatu is stronger for geohazards and aviation safety than for UFOs. VMGD maintains the most relevant open material for unusual lights linked to volcanoes, seismic unrest, ash, steam, pumice and volcanic alert zones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards/volcanoes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Open source on vmgd.gov.vu.</span></span></span> Civil aviation material exists for safety incidents, including Australian Transport Safety Bureau assistance to Vanuatu-related investigations, but those records are conventional accident and safety investigations rather than UFO case files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/investigation-reports/ao2011108_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[atsb.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-title">ao2011108 final</span><span class="citation-popover-snippet">ao2011108 final</span></span></span>
+The public official record in Vanuatu is stronger for geohazards and aviation safety than for UFOs. VMGD maintains the most relevant open material for unusual lights linked to volcanoes, seismic unrest, ash, steam, pumice and volcanic alert zones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vmgd.gov.vu/geohazards/volcanoes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd.gov.vu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Open source on vmgd.gov.vu.</span></span></span> Civil aviation material exists for safety incidents, including Australian Transport Safety Bureau assistance to Vanuatu-related investigations, but those records are conventional accident and safety investigations rather than UFO case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atsb.gov.au/sites/default/files/investigation-reports/ao2011108_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsb.gov.au">[atsb.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsb.gov.au</span><span class="citation-popover-title">ao2011108 final</span><span class="citation-popover-snippet">ao2011108 final</span></span></span>
 
-Internationally, UFO/UAP record systems are more developed in the United States and United Kingdom. The US National Archives says it has established an Unidentified Anomalous Phenomena Records Collection under the 2024 National Defense Authorization Act, while the UK National Archives has a research guide for UFO reports, correspondence and parliamentary business. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Those archives are useful for comparative research, but they do not amount to a Vanuatu national archive.
+Internationally, UFO/UAP record systems are more developed in the United States and United Kingdom. The US National Archives says it has established an Unidentified Anomalous Phenomena Records Collection under the 2024 National Defense Authorization Act, while the UK National Archives has a research guide for UFO reports, correspondence and parliamentary business.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Those archives are useful for comparative research, but they do not amount to a Vanuatu national archive.
 
 This absence is important. It does not mean nothing unusual has ever been seen in Vanuatu. It means the available public evidence does not support a confident national chronology of well-investigated UFO incidents. The archive gap is part of the story: small-island settings often produce oral reports and social-media discussion before they produce standardised case files.
 
@@ -1236,9 +1236,9 @@ This absence is important. It does not mean nothing unusual has ever been seen i
 
 Vanuatu’s islands do not present the same UFO-reporting environment. The most relevant variation is practical rather than mysterious.
 
-On **Epi and nearby waters**, submarine volcanic activity is the major filter. The East Epi case shows why lights, steam, offshore glow, explosions and unusual marine surfaces should first be checked against VMGD updates and Smithsonian volcanic reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230927-257060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[volcano.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
+On **Epi and nearby waters**, submarine volcanic activity is the major filter. The East Epi case shows why lights, steam, offshore glow, explosions and unusual marine surfaces should first be checked against VMGD updates and Smithsonian volcanic reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230927-257060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[volcano.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>
 
-On **Tanna**, Mount Yasur creates another kind of night-sky ambiguity. Vanuatu’s official tourism site describes Yasur as best after sunset, when bubbling lava makes the sky glow red. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanuatu.travel/en/plan/suggested-itineraries/three-days-on-tanna" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanuatu.travel">[Vanuatu Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanuatu.travel</span><span class="citation-popover-snippet">Open source on vanuatu.travel.</span></span></span> A red glow, sudden flashes or illuminated cloud near Tanna is therefore not automatically anomalous; the volcano is a standing explanation that must be ruled out before a UFO label adds value.
+On **Tanna**, Mount Yasur creates another kind of night-sky ambiguity. Vanuatu’s official tourism site describes Yasur as best after sunset, when bubbling lava makes the sky glow red.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanuatu.travel/en/plan/suggested-itineraries/three-days-on-tanna" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanuatu.travel">[Vanuatu Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanuatu.travel</span><span class="citation-popover-snippet">Open source on vanuatu.travel.</span></span></span> A red glow, sudden flashes or illuminated cloud near Tanna is therefore not automatically anomalous; the volcano is a standing explanation that must be ruled out before a UFO label adds value.
 
 On **Efate and Port Vila**, there is more aviation, more artificial lighting and more mobile-phone documentation. Reports from this area would be easier to test against airport activity, aircraft tracks, weather and public witnesses than reports from remote islands.
 
@@ -1249,7 +1249,7 @@ On **outer islands and open-water viewpoints**, the opposite problem applies. Da
 
 Vanuatu should be linked carefully to Pacific UFO research, not swallowed by it. The best-known Pacific-region UFO cases, such as Papua New Guinea’s 1959 Boianai reports, belong to sibling branches rather than to Vanuatu itself. They can help readers compare colonial-era missionary records, island geography and witness reliability, but they should not be used as evidence for Vanuatu.
 
-The same applies to modern US UAP debates. NASA’s 2023 independent study argued that UAP research needs better data, calibrated sensors and less stigma, while the US intelligence community has said unresolved cases may fall into categories such as airborne clutter, natural atmospheric phenomena, developmental programmes, foreign systems or an “other” category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> AARO, the US All-domain Anomaly Resolution Office, has also resolved many cases as balloons, drones, birds, satellites or aircraft, while retaining a smaller set that lacks enough data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[U.S. Army Acquisition Support Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same applies to modern US UAP debates. NASA’s 2023 independent study argued that UAP research needs better data, calibrated sensors and less stigma, while the US intelligence community has said unresolved cases may fall into categories such as airborne clutter, natural atmospheric phenomena, developmental programmes, foreign systems or an “other” category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> AARO, the US All-domain Anomaly Resolution Office, has also resolved many cases as balloons, drones, birds, satellites or aircraft, while retaining a smaller set that lacks enough data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[U.S. Army Acquisition Support Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Vanuatu, that framework is useful because it prevents overclaiming. The likely explanations are not exotic by default. They are local: volcanoes, satellites, aviation, marine lights, weather, meteors and optical effects.
 
@@ -1267,13 +1267,13 @@ The most useful evidence would include:
 * duration and motion pattern;
 * photo or video with original metadata;
 * weather and cloud conditions;
-* aircraft and satellite checks; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vmgd.gov.vu/warnings/volcano" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> GD volcano and seismic status for nearby islands;
+* aircraft and satellite checks;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vmgd.gov.vu/warnings/volcano" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vmgd.gov.vu">[vmgd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vmgd.gov.vu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> GD volcano and seismic status for nearby islands;
 * independent witnesses from different locations;
 * any maritime, airport or emergency-service reports.
 
 </div>
 
-This standard may sound demanding, but it is the difference between a memorable sighting and an investigable case. NASA’s UAP report makes the same general point: without robust data, even sincere witness reports are hard to turn into scientific conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+This standard may sound demanding, but it is the difference between a memorable sighting and an investigable case. NASA’s UAP report makes the same general point: without robust data, even sincere witness reports are hard to turn into scientific conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vviyKJP_QdU" title="Yasur Volcano: Strombolian Eruption Of Yasur Volcano, Vanuatu, Indo-Pacific Ring Of Fire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vviyKJP_QdU" target="_blank" rel="noopener noreferrer">Yasur Volcano: Strombolian Eruption Of Yasur Volcano, Vanuatu, Indo-Pacific Ring Of Fire</a></p><p class="youtube-embed-meta">Channel: Dr AstroGeoTech &middot; Views: 677 &middot; Uploaded: December 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vviyKJP_QdU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vviyKJP_QdU">Open on YouTube</a></p></div></div></div>
 
@@ -1286,194 +1286,194 @@ The fairest assessment is that Vanuatu’s UFO file is sparse, locally interesti
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEpvpzRnt7I" title="Some pilots reporting Unidentified Flying Object on TCAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEpvpzRnt7I" target="_blank" rel="noopener noreferrer">Some pilots reporting Unidentified Flying Object on TCAS</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 46.3K &middot; Uploaded: June 2017 &middot; Length: 2 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEpvpzRnt7I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEpvpzRnt7I">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Explains Vanuatu&#x27;s Strange Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Explains Vanuatu&#x27;s Strange Lights?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides wider context for official and unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for official and unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Fits a page focused on separating unusual observations from ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits a page focused on separating unusual observations from ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Relevant to island traditions and interpretation of unusual sky events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to island traditions and interpretation of unusual sky events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1972.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-explains-vanuatu-s-strange-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-explains-vanuatu-s-strange-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1489,7 +1489,7 @@ The fairest assessment is that Vanuatu’s UFO file is sparse, locally interesti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1509,7 +1509,7 @@ The fairest assessment is that Vanuatu’s UFO file is sparse, locally interesti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1541,7 +1541,7 @@ The fairest assessment is that Vanuatu’s UFO file is sparse, locally interesti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1593,7 +1593,7 @@ The fairest assessment is that Vanuatu’s UFO file is sparse, locally interesti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1638,7 +1638,7 @@ The fairest assessment is that Vanuatu’s UFO file is sparse, locally interesti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1679,442 +1679,442 @@ The fairest assessment is that Vanuatu’s UFO file is sparse, locally interesti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gov.vu  
-   Link: <a href="https://www.gov.vu/index.php/about/about-vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.vu/index.php/about/about-vanuatu</a>  
+   Link:<a href="https://www.gov.vu/index.php/about/about-vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.vu/index.php/about/about-vanuatu</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Vanuatu</a>  
+   Link:<a href="https://www.britannica.com/place/Vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Vanuatu</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: vmgd.gov.vu  
-   Link: <a href="https://www.vmgd.gov.vu/geohazards" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards</a>  
+   Link:<a href="https://www.vmgd.gov.vu/geohazards" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vmgd.gov.vu  
-   Link: <a href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/</a>  
+   Link:<a href="https://www.vmgd.gov.vu/" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/</a>  
+   Link:<a href="https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/the-residents-of-epi-island-in-the-south-and-west-have-been-in-confusion-for-abo/887709689840024/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vmgd.gov.vu  
-   Link: <a href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi</a>  
+   Link:<a href="https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards/volcanoes/east-epi</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: volcano.si.edu  
-   Link: <a href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060</a>  
+   Link:<a href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN202303-257060</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: Clouds of smoke off Vanuatu coast as volcano rumbles into  
-   Link: <a href="https://www.reuters.com/world/asia-pacific/clouds-smoke-off-vanuatu-coast-volcano-rumbles-into-life-2023-02-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/clouds-smoke-off-vanuatu-coast-volcano-rumbles-into-life-2023-02-01/</a>  
+   Link:<a href="https://www.reuters.com/world/asia-pacific/clouds-smoke-off-vanuatu-coast-volcano-rumbles-into-life-2023-02-01/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/asia-pacific/clouds-smoke-off-vanuatu-coast-volcano-rumbles-into-life-2023-02-01/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/vanuatu-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/vanuatu-ufo-sightings.html</a>  
+   Link:<a href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/vanuatu-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufo-sighting-reports/worldwide/vanuatu-ufo-sightings.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/381339098730281/posts/2920425304821635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/381339098730281/posts/2920425304821635/</a>  
+   Link:<a href="https://www.facebook.com/groups/381339098730281/posts/2920425304821635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/381339098730281/posts/2920425304821635/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
+   Link:<a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: vmgd.gov.vu  
-   Link: <a href="https://www.vmgd.gov.vu/geohazards/volcanoes" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards/volcanoes</a>  
+   Link:<a href="https://www.vmgd.gov.vu/geohazards/volcanoes" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/geohazards/volcanoes</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: atsb.gov.au  
    Title: ao2011108 final  
-   Link: <a href="https://www.atsb.gov.au/sites/default/files/investigation-reports/ao2011108_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/investigation-reports/ao2011108_final.pdf</a>  
+   Link:<a href="https://www.atsb.gov.au/sites/default/files/investigation-reports/ao2011108_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/investigation-reports/ao2011108_final.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: atsb.gov.au  
-   Link: <a href="https://www.atsb.gov.au/investigations/aa-2024-008" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/investigations/aa-2024-008</a>  
+   Link:<a href="https://www.atsb.gov.au/investigations/aa" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/investigations/aa</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vanuatu.travel  
-   Link: <a href="https://www.vanuatu.travel/en/plan/suggested-itineraries/three-days-on-tanna" target="_blank" rel="noopener noreferrer nofollow">https://www.vanuatu.travel/en/plan/suggested-itineraries/three-days-on-tanna</a>  
+   Link:<a href="https://www.vanuatu.travel/en/plan/suggested-itineraries/three-days-on-tanna" target="_blank" rel="noopener noreferrer nofollow">https://www.vanuatu.travel/en/plan/suggested-itineraries/three-days-on-tanna</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/381339098730281/posts/2920426498154849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/381339098730281/posts/2920426498154849/</a>  
+   Link:<a href="https://www.facebook.com/groups/381339098730281/posts/2920426498154849/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/381339098730281/posts/2920426498154849/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/maria.g.hill/posts/australia-and-new-zealand-lightning-strikes-originating-around-vanuatu-and-solom/10242518101714198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/maria.g.hill/posts/australia-and-new-zealand-lightning-strikes-originating-around-vanuatu-and-solom/10242518101714198/</a>  
+   Link:<a href="https://www.facebook.com/maria.g.hill/posts/australia-and-new-zealand-lightning-strikes-originating-around-vanuatu-and-solom/10242518101714198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/maria.g.hill/posts/australia-and-new-zealand-lightning-strikes-originating-around-vanuatu-and-solom/10242518101714198/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/yumitoktok/posts/7422474637787438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/yumitoktok/posts/7422474637787438/</a>  
+   Link:<a href="https://www.facebook.com/groups/yumitoktok/posts/7422474637787438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/yumitoktok/posts/7422474637787438/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ytsnews/posts/following-marcel-yonas-social-media-post-about-mysterious-lights-observed-at-nig/857940839674727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ytsnews/posts/following-marcel-yonas-social-media-post-about-mysterious-lights-observed-at-nig/857940839674727/</a>  
+   Link:<a href="https://www.facebook.com/ytsnews/posts/following-marcel-yonas-social-media-post-about-mysterious-lights-observed-at-nig/857940839674727/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ytsnews/posts/following-marcel-yonas-social-media-post-about-mysterious-lights-observed-at-nig/857940839674727/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/yumitoktok/posts/7422969544404614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/yumitoktok/posts/7422969544404614/</a>  
+   Link:<a href="https://www.facebook.com/groups/yumitoktok/posts/7422969544404614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/yumitoktok/posts/7422969544404614/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fatahifolarin.sulyman/posts/can-someone-please-tell-us-the-light-that-passed-across-ipapo-town-around-800pm-/2144256052985575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fatahifolarin.sulyman/posts/can-someone-please-tell-us-the-light-that-passed-across-ipapo-town-around-800pm-/2144256052985575/</a>  
+   Link:<a href="https://www.facebook.com/fatahifolarin.sulyman/posts/can-someone-please-tell-us-the-light-that-passed-across-ipapo-town-around-800pm-/2144256052985575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fatahifolarin.sulyman/posts/can-someone-please-tell-us-the-light-that-passed-across-ipapo-town-around-800pm-/2144256052985575/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/91560190640/posts/10161027289280641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/91560190640/posts/10161027289280641/</a>  
+   Link:<a href="https://www.facebook.com/groups/91560190640/posts/10161027289280641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/91560190640/posts/10161027289280641/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RadioTaranaNZ/posts/it-was-supposed-to-be-just-a-relaxed-detour-at-seaa-quick-bird-spotting-trip-and/1303169508582427/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RadioTaranaNZ/posts/it-was-supposed-to-be-just-a-relaxed-detour-at-seaa-quick-bird-spotting-trip-and/1303169508582427/</a>  
+   Link:<a href="https://www.facebook.com/RadioTaranaNZ/posts/it-was-supposed-to-be-just-a-relaxed-detour-at-seaa-quick-bird-spotting-trip-and/1303169508582427/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RadioTaranaNZ/posts/it-was-supposed-to-be-just-a-relaxed-detour-at-seaa-quick-bird-spotting-trip-and/1303169508582427/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vanuatudailypost/posts/the-eruption-of-the-east-epi-submarine-volcano-yesterday-triggered-panic-among-c/667675435176785/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/the-eruption-of-the-east-epi-submarine-volcano-yesterday-triggered-panic-among-c/667675435176785/</a>  
+   Link:<a href="https://www.facebook.com/vanuatudailypost/posts/the-eruption-of-the-east-epi-submarine-volcano-yesterday-triggered-panic-among-c/667675435176785/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/the-eruption-of-the-east-epi-submarine-volcano-yesterday-triggered-panic-among-c/667675435176785/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/vulkane.net/posts/5924687484236042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/vulkane.net/posts/5924687484236042/</a>  
+   Link:<a href="https://www.facebook.com/groups/vulkane.net/posts/5924687484236042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/vulkane.net/posts/5924687484236042/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61571396432255/posts/extraordinary-sightings-illumination-in-the-sky-around-9pm-last-night-taken-over/122169247736713214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61571396432255/posts/extraordinary-sightings-illumination-in-the-sky-around-9pm-last-night-taken-over/122169247736713214/</a>  
+   Link:<a href="https://www.facebook.com/61571396432255/posts/extraordinary-sightings-illumination-in-the-sky-around-9pm-last-night-taken-over/122169247736713214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61571396432255/posts/extraordinary-sightings-illumination-in-the-sky-around-9pm-last-night-taken-over/122169247736713214/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
    Title: As of today,  
-   Link: <a href="https://www.facebook.com/groups/1471480219580191/posts/24944924818475734/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1471480219580191/posts/24944924818475734/</a>  
+   Link:<a href="https://www.facebook.com/groups/1471480219580191/posts/24944924818475734/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1471480219580191/posts/24944924818475734/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100041575372416/posts/solwota-blong-moriu-village-epi-islandmoriuvillageepisolwotatransportepi-island-/784441619618343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100041575372416/posts/solwota-blong-moriu-village-epi-islandmoriuvillageepisolwotatransportepi-island-/784441619618343/</a>  
+   Link:<a href="https://www.facebook.com/100041575372416/posts/solwota-blong-moriu-village-epi-islandmoriuvillageepisolwotatransportepi-island-/784441619618343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100041575372416/posts/solwota-blong-moriu-village-epi-islandmoriuvillageepisolwotatransportepi-island-/784441619618343/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DevelopmentMode/posts/evening-sunset-vibes-at-lamen-bay-epi-epivanuatu/1153297810148696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DevelopmentMode/posts/evening-sunset-vibes-at-lamen-bay-epi-epivanuatu/1153297810148696/</a>  
+   Link:<a href="https://www.facebook.com/DevelopmentMode/posts/evening-sunset-vibes-at-lamen-bay-epi-epivanuatu/1153297810148696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DevelopmentMode/posts/evening-sunset-vibes-at-lamen-bay-epi-epivanuatu/1153297810148696/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100064882112297/posts/is-it-just-me-or-we-are-currently-experiencing-an-eclipse-can-someone-go-outside/1109062112512492/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064882112297/posts/is-it-just-me-or-we-are-currently-experiencing-an-eclipse-can-someone-go-outside/1109062112512492/</a>  
+   Link:<a href="https://www.facebook.com/100064882112297/posts/is-it-just-me-or-we-are-currently-experiencing-an-eclipse-can-someone-go-outside/1109062112512492/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064882112297/posts/is-it-just-me-or-we-are-currently-experiencing-an-eclipse-can-someone-go-outside/1109062112512492/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vmgd.gov.vu/posts/yasur-volkeno-aktiviti-apdeitlong-yestede-120923-vmgd-hemi-risivim-ripot-long-gr/692058469615883/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmgd.gov.vu/posts/yasur-volkeno-aktiviti-apdeitlong-yestede-120923-vmgd-hemi-risivim-ripot-long-gr/692058469615883/</a>  
+   Link:<a href="https://www.facebook.com/vmgd.gov.vu/posts/yasur-volkeno-aktiviti-apdeitlong-yestede-120923-vmgd-hemi-risivim-ripot-long-gr/692058469615883/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmgd.gov.vu/posts/yasur-volkeno-aktiviti-apdeitlong-yestede-120923-vmgd-hemi-risivim-ripot-long-gr/692058469615883/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/721168403138992/posts/1397759745479851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/721168403138992/posts/1397759745479851/</a>  
+   Link:<a href="https://www.facebook.com/groups/721168403138992/posts/1397759745479851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/721168403138992/posts/1397759745479851/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100075726738499/posts/east-epi-sub-marine-volcano-activity-update-issued-by-vanuatu-vmgd-early-this-mo/209255488275341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100075726738499/posts/east-epi-sub-marine-volcano-activity-update-issued-by-vanuatu-vmgd-early-this-mo/209255488275341/</a>  
+   Link:<a href="https://www.facebook.com/100075726738499/posts/east-epi-sub-marine-volcano-activity-update-issued-by-vanuatu-vmgd-early-this-mo/209255488275341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100075726738499/posts/east-epi-sub-marine-volcano-activity-update-issued-by-vanuatu-vmgd-early-this-mo/209255488275341/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
    Title: something big will hopefully see the light in 2021but we cant tell you more righ  
-   Link: <a href="https://www.facebook.com/VlabVanuatu/posts/something-big-will-hopefully-see-the-light-in-2021but-we-cant-tell-you-more-righ/280647423403495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VlabVanuatu/posts/something-big-will-hopefully-see-the-light-in-2021but-we-cant-tell-you-more-righ/280647423403495/</a>  
+   Link:<a href="https://www.facebook.com/VlabVanuatu/posts/something-big-will-hopefully-see-the-light-in-2021but-we-cant-tell-you-more-righ/280647423403495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VlabVanuatu/posts/something-big-will-hopefully-see-the-light-in-2021but-we-cant-tell-you-more-righ/280647423403495/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vanuatudailypost/posts/an-aerial-flight-and-reports-from-epi-has-indicated-the-east-epi-submarine-volca/668546465089682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/an-aerial-flight-and-reports-from-epi-has-indicated-the-east-epi-submarine-volca/668546465089682/</a>  
+   Link:<a href="https://www.facebook.com/vanuatudailypost/posts/an-aerial-flight-and-reports-from-epi-has-indicated-the-east-epi-submarine-volca/668546465089682/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanuatudailypost/posts/an-aerial-flight-and-reports-from-epi-has-indicated-the-east-epi-submarine-volca/668546465089682/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100063894019124/posts/yasur-has-been-erupting-every-3-minutes-for-at-least-800-years-locals-call-it-th/1521043076702145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063894019124/posts/yasur-has-been-erupting-every-3-minutes-for-at-least-800-years-locals-call-it-th/1521043076702145/</a>  
+   Link:<a href="https://www.facebook.com/100063894019124/posts/yasur-has-been-erupting-every-3-minutes-for-at-least-800-years-locals-call-it-th/1521043076702145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063894019124/posts/yasur-has-been-erupting-every-3-minutes-for-at-least-800-years-locals-call-it-th/1521043076702145/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vmgd.gov.vu/posts/east-epi-sub-marine-volcano-activity-update-issued-by-vmgd-early-this-morning-re/558073849681013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmgd.gov.vu/posts/east-epi-sub-marine-volcano-activity-update-issued-by-vmgd-early-this-morning-re/558073849681013/</a>  
+   Link:<a href="https://www.facebook.com/vmgd.gov.vu/posts/east-epi-sub-marine-volcano-activity-update-issued-by-vmgd-early-this-morning-re/558073849681013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmgd.gov.vu/posts/east-epi-sub-marine-volcano-activity-update-issued-by-vmgd-early-this-morning-re/558073849681013/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vmgd.gov.vu/posts/east-epi-sub-marine-volcano-alert-level-updatethe-volcano-alert-level-of-east-ep/558092643012467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmgd.gov.vu/posts/east-epi-sub-marine-volcano-alert-level-updatethe-volcano-alert-level-of-east-ep/558092643012467/</a>  
+   Link:<a href="https://www.facebook.com/vmgd.gov.vu/posts/east-epi-sub-marine-volcano-alert-level-updatethe-volcano-alert-level-of-east-ep/558092643012467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmgd.gov.vu/posts/east-epi-sub-marine-volcano-alert-level-updatethe-volcano-alert-level-of-east-ep/558092643012467/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ytsnews.vu/posts/earlier-this-week-an-underwater-volcano-off-the-coast-of-vanuatus-east-epi-erupt/2608488282624346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ytsnews.vu/posts/earlier-this-week-an-underwater-volcano-off-the-coast-of-vanuatus-east-epi-erupt/2608488282624346/</a>  
+   Link:<a href="https://www.facebook.com/ytsnews.vu/posts/earlier-this-week-an-underwater-volcano-off-the-coast-of-vanuatus-east-epi-erupt/2608488282624346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ytsnews.vu/posts/earlier-this-week-an-underwater-volcano-off-the-coast-of-vanuatus-east-epi-erupt/2608488282624346/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCPacific/posts/what-a-photo-this-picture-of-a-vanuatu-volcanologist-standing-barefoot-on-the-ro/1356598149835853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCPacific/posts/what-a-photo-this-picture-of-a-vanuatu-volcanologist-standing-barefoot-on-the-ro/1356598149835853/</a>  
+   Link:<a href="https://www.facebook.com/ABCPacific/posts/what-a-photo-this-picture-of-a-vanuatu-volcanologist-standing-barefoot-on-the-ro/1356598149835853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCPacific/posts/what-a-photo-this-picture-of-a-vanuatu-volcanologist-standing-barefoot-on-the-ro/1356598149835853/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/777273038991028/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/777273038991028/</a>  
+   Link:<a href="https://www.facebook.com/groups/777273038991028/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/777273038991028/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/361220933947896/posts/26582905854686046/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/361220933947896/posts/26582905854686046/</a>  
+   Link:<a href="https://www.facebook.com/groups/361220933947896/posts/26582905854686046/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/361220933947896/posts/26582905854686046/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Nighttime.adventure/posts/last-night-strange-lights-appeared-in-the-sky-raising-a-big-question-is-it-starl/905485689184054/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nighttime.adventure/posts/last-night-strange-lights-appeared-in-the-sky-raising-a-big-question-is-it-starl/905485689184054/</a>  
+   Link:<a href="https://www.facebook.com/Nighttime.adventure/posts/last-night-strange-lights-appeared-in-the-sky-raising-a-big-question-is-it-starl/905485689184054/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nighttime.adventure/posts/last-night-strange-lights-appeared-in-the-sky-raising-a-big-question-is-it-starl/905485689184054/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1012221263118872/posts/1621873902153602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1012221263118872/posts/1621873902153602/</a>  
+   Link:<a href="https://www.facebook.com/groups/1012221263118872/posts/1621873902153602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1012221263118872/posts/1621873902153602/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/6NewsKCEN/posts/strange-lights-in-the-sky-last-night-werent-ufos-they-were-spacex-starlink-satel/1308351234660516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/6NewsKCEN/posts/strange-lights-in-the-sky-last-night-werent-ufos-they-were-spacex-starlink-satel/1308351234660516/</a>  
+   Link:<a href="https://www.facebook.com/6NewsKCEN/posts/strange-lights-in-the-sky-last-night-werent-ufos-they-were-spacex-starlink-satel/1308351234660516/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/6NewsKCEN/posts/strange-lights-in-the-sky-last-night-werent-ufos-they-were-spacex-starlink-satel/1308351234660516/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/361220933947896/posts/25015881158055198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/361220933947896/posts/25015881158055198/</a>  
+   Link:<a href="https://www.facebook.com/groups/361220933947896/posts/25015881158055198/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/361220933947896/posts/25015881158055198/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/361220933947896/posts/3178679352202026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/361220933947896/posts/3178679352202026/</a>  
+   Link:<a href="https://www.facebook.com/groups/361220933947896/posts/3178679352202026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/361220933947896/posts/3178679352202026/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/151476844862514/posts/1181474378529417/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/151476844862514/posts/1181474378529417/</a>  
+   Link:<a href="https://www.facebook.com/groups/151476844862514/posts/1181474378529417/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/151476844862514/posts/1181474378529417/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: facebook.com  
    Title: did you see strange lights in the sky over the weekend they may well have been t  
-   Link: <a href="https://www.facebook.com/isleofwightradio/posts/did-you-see-strange-lights-in-the-sky-over-the-weekend-they-may-well-have-been-t/10163327683450370/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/isleofwightradio/posts/did-you-see-strange-lights-in-the-sky-over-the-weekend-they-may-well-have-been-t/10163327683450370/</a>  
+   Link:<a href="https://www.facebook.com/isleofwightradio/posts/did-you-see-strange-lights-in-the-sky-over-the-weekend-they-may-well-have-been-t/10163327683450370/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/isleofwightradio/posts/did-you-see-strange-lights-in-the-sky-over-the-weekend-they-may-well-have-been-t/10163327683450370/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/videos/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321599653204064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/videos/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321599653204064/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/videos/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321599653204064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/videos/a-record-breaking-month-of-fireball-sightings-has-left-scientists-searching-for-/1321599653204064/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100044454488732/posts/getting-a-lot-of-photos-with-questions-asking-about-the-string-of-lights-in-the-/1486835972808205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100044454488732/posts/getting-a-lot-of-photos-with-questions-asking-about-the-string-of-lights-in-the-/1486835972808205/</a>  
+   Link:<a href="https://www.facebook.com/100044454488732/posts/getting-a-lot-of-photos-with-questions-asking-about-the-string-of-lights-in-the-/1486835972808205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100044454488732/posts/getting-a-lot-of-photos-with-questions-asking-about-the-string-of-lights-in-the-/1486835972808205/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AcrossTheSaltyRoads/videos/ufo-killed-by-drone/2065898167026298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AcrossTheSaltyRoads/videos/ufo-killed-by-drone/2065898167026298/</a>  
+   Link:<a href="https://www.facebook.com/AcrossTheSaltyRoads/videos/ufo-killed-by-drone/2065898167026298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AcrossTheSaltyRoads/videos/ufo-killed-by-drone/2065898167026298/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/yumitoktok/posts/26106799348928351/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/yumitoktok/posts/26106799348928351/</a>  
+   Link:<a href="https://www.facebook.com/groups/yumitoktok/posts/26106799348928351/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/yumitoktok/posts/26106799348928351/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/peterson.sugar/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peterson.sugar/</a>  
+   Link:<a href="https://www.facebook.com/peterson.sugar/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/peterson.sugar/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/107750912593576/posts/9746902728678298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/107750912593576/posts/9746902728678298/</a>  
+   Link:<a href="https://www.facebook.com/groups/107750912593576/posts/9746902728678298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/107750912593576/posts/9746902728678298/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/43941612171/posts/10159364989502172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/43941612171/posts/10159364989502172/</a>  
+   Link:<a href="https://www.facebook.com/groups/43941612171/posts/10159364989502172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/43941612171/posts/10159364989502172/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/</a>  
+   Link:<a href="https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2831073293773104/posts/3942342475979508/</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: facebook.com  
    Title: the latest aaro report on uaps which was released in late 2024 touched on hundre  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: facebook.com  
    Title: latest manaro volcano update 05032026 alert maintained at alert level 3  
-   Link: <a href="https://www.facebook.com/vmgd.gov.vu/posts/latest-manaro-volcano-update-05032026-alert-maintained-at-alert-level-3/1350786977076359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmgd.gov.vu/posts/latest-manaro-volcano-update-05032026-alert-maintained-at-alert-level-3/1350786977076359/</a>  
+   Link:<a href="https://www.facebook.com/vmgd.gov.vu/posts/latest-manaro-volcano-update-05032026-alert-maintained-at-alert-level-3/1350786977076359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmgd.gov.vu/posts/latest-manaro-volcano-update-05032026-alert-maintained-at-alert-level-3/1350786977076359/</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vmgd.gov.vu/posts/vanuatu-meteorology-and-geohazards-department-vmgd-media-release-about-geohazard/1944737535788497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmgd.gov.vu/posts/vanuatu-meteorology-and-geohazards-department-vmgd-media-release-about-geohazard/1944737535788497/</a>  
+   Link:<a href="https://www.facebook.com/vmgd.gov.vu/posts/vanuatu-meteorology-and-geohazards-department-vmgd-media-release-about-geohazard/1944737535788497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmgd.gov.vu/posts/vanuatu-meteorology-and-geohazards-department-vmgd-media-release-about-geohazard/1944737535788497/</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vmgd.gov.vu/posts/ambrym-volcano-alert-bulletin-n08-issued-by-the-vanuatu-meteorology-and-geohazar/2733977436864499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmgd.gov.vu/posts/ambrym-volcano-alert-bulletin-n08-issued-by-the-vanuatu-meteorology-and-geohazar/2733977436864499/</a>  
+   Link:<a href="https://www.facebook.com/vmgd.gov.vu/posts/ambrym-volcano-alert-bulletin-n08-issued-by-the-vanuatu-meteorology-and-geohazar/2733977436864499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vmgd.gov.vu/posts/ambrym-volcano-alert-bulletin-n08-issued-by-the-vanuatu-meteorology-and-geohazar/2733977436864499/</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VanuatuTourismOffice/posts/starry-nights-on-tanna-island-after-an-afternoon-walking-to-the-rim-of-vanuatus-/10156147771694613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VanuatuTourismOffice/posts/starry-nights-on-tanna-island-after-an-afternoon-walking-to-the-rim-of-vanuatus-/10156147771694613/</a>  
+   Link:<a href="https://www.facebook.com/VanuatuTourismOffice/posts/starry-nights-on-tanna-island-after-an-afternoon-walking-to-the-rim-of-vanuatus-/10156147771694613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VanuatuTourismOffice/posts/starry-nights-on-tanna-island-after-an-afternoon-walking-to-the-rim-of-vanuatus-/10156147771694613/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: aic.gov.pg  
    Title: FINAL REPORT, issued 29.10.2019  
-   Link: <a href="https://www.aic.gov.pg/sites/default/files/2020-08/FINAL%20REPORT%2C%20issued%2029.10.2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aic.gov.pg/sites/default/files/2020-08/FINAL%20REPORT%2C%20issued%2029.10.2019.pdf</a>  
+   Link:<a href="https://www.aic.gov.pg/sites/default/files/2020-08/FINAL%20REPORT%2C%20issued%2029.10.2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aic.gov.pg/sites/default/files/2020-08/FINAL%20REPORT%2C%20issued%2029.10.2019.pdf</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: kids.britannica.com  
-   Link: <a href="https://kids.britannica.com/kids/article/Vanuatu/345815" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/kids/article/Vanuatu/345815</a>  
+   Link:<a href="https://kids.britannica.com/kids/article/Vanuatu/345815" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/kids/article/Vanuatu/345815</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/summary/Vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Vanuatu</a>  
+   Link:<a href="https://www.britannica.com/summary/Vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/Vanuatu</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: kids.britannica.com  
-   Link: <a href="https://kids.britannica.com/students/article/Vanuatu/277546" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Vanuatu/277546</a>  
+   Link:<a href="https://kids.britannica.com/students/article/Vanuatu/277546" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/students/article/Vanuatu/277546</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Epi" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Epi</a>  
+   Link:<a href="https://www.britannica.com/place/Epi" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Epi</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Vanuatu/History" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Vanuatu/History</a>  
+   Link:<a href="https://www.britannica.com/place/Vanuatu/History" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Vanuatu/History</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: kids.britannica.com  
-   Link: <a href="https://kids.britannica.com/kids/article/Vanuatu/345815/related" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/kids/article/Vanuatu/345815/related</a>  
+   Link:<a href="https://kids.britannica.com/kids/article/Vanuatu/345815/related" target="_blank" rel="noopener noreferrer nofollow">https://kids.britannica.com/kids/article/Vanuatu/345815/related</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: volcano.si.edu  
-   Link: <a href="https://volcano.si.edu/volcano.cfm?vn=257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcano.cfm?vn=257060</a>  
+   Link:<a href="https://volcano.si.edu/volcano.cfm?vn=257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcano.cfm?vn=257060</a>  
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: volcano.si.edu  
-   Link: <a href="https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230927-257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230927-257060</a>  
+   Link:<a href="https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230927-257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230927-257060</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: volcano.si.edu  
-   Link: <a href="https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230830-257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230830-257060</a>  
+   Link:<a href="https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230830-257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230830-257060</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: volcano.si.edu  
-   Link: <a href="https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230201-257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230201-257060</a>  
+   Link:<a href="https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230201-257060" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/showreport.cfm?wvar=GVP.WVAR20230201-257060</a>  
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: volcano.si.edu  
    Title: volcanolist countries.cfm  
-   Link: <a href="https://volcano.si.edu/volcanolist_countries.cfm?country=Vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcanolist_countries.cfm?country=Vanuatu</a>  
+   Link:<a href="https://volcano.si.edu/volcanolist_countries.cfm?country=Vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcanolist_countries.cfm?country=Vanuatu</a>  
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: volcano.si.edu  
-   Link: <a href="https://volcano.si.edu/volcano.cfm?vn=257020" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcano.cfm?vn=257020</a>  
+   Link:<a href="https://volcano.si.edu/volcano.cfm?vn=257020" target="_blank" rel="noopener noreferrer nofollow">https://volcano.si.edu/volcano.cfm?vn=257020</a>  
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: vmgd.gov.vu  
-   Link: <a href="https://www.vmgd.gov.vu/warnings/volcano" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/warnings/volcano</a>  
+   Link:<a href="https://www.vmgd.gov.vu/warnings/volcano" target="_blank" rel="noopener noreferrer nofollow">https://www.vmgd.gov.vu/warnings/volcano</a>  
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: aph.gov.au  
    Title: Preliminary Assessment UAP 20210625  
-   Link: <a href="https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
-86. <a id="endnote-86"></a>
+86.<a id="endnote-86"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/wikibase/319601" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/319601</a>  
+   Link:<a href="https://aviation-safety.net/wikibase/319601" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/319601</a>  
 
-87. <a id="endnote-87"></a>
+87.<a id="endnote-87"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt</a>  
 
-88. <a id="endnote-88"></a>
+88.<a id="endnote-88"></a>
    Source: vanuatu.travel  
-   Link: <a href="https://www.vanuatu.travel/en/things-to-do/volcanos" target="_blank" rel="noopener noreferrer nofollow">https://www.vanuatu.travel/en/things-to-do/volcanos</a>  
+   Link:<a href="https://www.vanuatu.travel/en/things-to-do/volcanos" target="_blank" rel="noopener noreferrer nofollow">https://www.vanuatu.travel/en/things-to-do/volcanos</a>  
 
-89. <a id="endnote-89"></a>
+89.<a id="endnote-89"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vanuatu</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vanuatu</a>  
 
-90. <a id="endnote-90"></a>
+90.<a id="endnote-90"></a>
    Source: Wikipedia  
    Title: Mount Yasur  
-   Link: <a href="https://en.wikipedia.org/wiki/Mount_Yasur" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mount_Yasur</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mount_Yasur" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mount_Yasur</a>  
 
-91. <a id="endnote-91"></a>
+91.<a id="endnote-91"></a>
    Source: thescribsandnibs.com  
    Title: mount yasur  
-   Link: <a href="https://thescribsandnibs.com/oceania/vanuatu/mount-yasur/" target="_blank" rel="noopener noreferrer nofollow">https://thescribsandnibs.com/oceania/vanuatu/mount-yasur/</a>  
+   Link:<a href="https://thescribsandnibs.com/oceania/vanuatu/mount-yasur/" target="_blank" rel="noopener noreferrer nofollow">https://thescribsandnibs.com/oceania/vanuatu/mount-yasur/</a>  
 
-92. <a id="endnote-92"></a>
+92.<a id="endnote-92"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/vanuatu</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/geography-and-cartography/vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/vanuatu</a>  
 
-93. <a id="endnote-93"></a>
+93.<a id="endnote-93"></a>
    Source: unige.ch  
-   Link: <a href="https://www.unige.ch/sciences/terre/CERG-C/download_file/view/561/382" target="_blank" rel="noopener noreferrer nofollow">https://www.unige.ch/sciences/terre/CERG-C/download_file/view/561/382</a>  
+   Link:<a href="https://www.unige.ch/sciences/terre/CERG-C/download_file/view/561/382" target="_blank" rel="noopener noreferrer nofollow">https://www.unige.ch/sciences/terre/CERG-C/download_file/view/561/382</a>  
 
-94. <a id="endnote-94"></a>
+94.<a id="endnote-94"></a>
    Source: geofactbook.com  
-   Link: <a href="https://geofactbook.com/countries/vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/vanuatu</a>  
+   Link:<a href="https://geofactbook.com/countries/vanuatu" target="_blank" rel="noopener noreferrer nofollow">https://geofactbook.com/countries/vanuatu</a>  
 
 ### Additional References
 
-95. <a id="endnote-95"></a>
+95.<a id="endnote-95"></a>
    Source: youtube.com  
    Title: Strombolian Eruption Of Yasur Volcano, Vanuatu, Indo-Pacific Ring Of Fire  
-   Link: <a href="https://www.youtube.com/watch?v=vviyKJP_QdU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vviyKJP_QdU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Climbing into one of the most dangerous volcanoes on Earth | 60 Minutes Australia...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vviyKJP_QdU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vviyKJP_QdU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Climbing into one of the most dangerous volcanoes on Earth | 60 Minutes Australia...</p></details>
 
-96. <a id="endnote-96"></a>
+96.<a id="endnote-96"></a>
    Source: youtube.com  
    Title: East Epi Volcano Awakened By Huge Eruption, Vanuatu, Indo-Pacific Ring Of Fire  
-   Link: <a href="https://www.youtube.com/watch?v=hQmzZC-PaGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hQmzZC-PaGs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strombolian Eruption Of Yasur Volcano, Vanuatu, Indo-Pacific Ring Of Fire...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hQmzZC-PaGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hQmzZC-PaGs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strombolian Eruption Of Yasur Volcano, Vanuatu, Indo-Pacific Ring Of Fire...</p></details>
 
-97. <a id="endnote-97"></a>
+97.<a id="endnote-97"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ru4Ja14FqSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ru4Ja14FqSs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why This UFO Sighting Was Different | Monstrum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ru4Ja14FqSs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ru4Ja14FqSs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why This UFO Sighting Was Different | Monstrum...</p></details>
 
-98. <a id="endnote-98"></a>
+98.<a id="endnote-98"></a>
    Source: youtube.com  
    Title: Why This UFO Sighting Was Different | Monstrum  
-   Link: <a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dHGn_yPSgg0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings That Changed Everything! | UFO&#x27;s Over Earth S1 E2 | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dHGn_yPSgg0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings That Changed Everything! | UFO&#x27;s Over Earth S1 E2 | Discovery Channel...</p></details>
 
-99. <a id="endnote-99"></a>
+99.<a id="endnote-99"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
+   Link:<a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
-100. <a id="endnote-100"></a>
+100.<a id="endnote-100"></a>
    Source: science.org  
    Title: worst nightmare elon musk s starlink satellites could blind radio telescopes  
-   Link: <a href="https://www.science.org/content/article/worst-nightmare-elon-musk-s-starlink-satellites-could-blind-radio-telescopes" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/worst-nightmare-elon-musk-s-starlink-satellites-could-blind-radio-telescopes</a>  
+   Link:<a href="https://www.science.org/content/article/worst-nightmare-elon-musk-s-starlink-satellites-could-blind-radio-telescopes" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/worst-nightmare-elon-musk-s-starlink-satellites-could-blind-radio-telescopes</a>  
 
-101. <a id="endnote-101"></a>
+101.<a id="endnote-101"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/688596757/3-Man-Myth-Magic-the-Illustrated-Encyclopedia-of-Mythology-Vol" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/688596757/3-Man-Myth-Magic-the-Illustrated-Encyclopedia-of-Mythology-Vol</a>  
+   Link:<a href="https://www.scribd.com/document/688596757/3-Man-Myth-Magic-the-Illustrated-Encyclopedia-of-Mythology-Vol" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/688596757/3-Man-Myth-Magic-the-Illustrated-Encyclopedia-of-Mythology-Vol</a>  
 
-102. <a id="endnote-102"></a>
+102.<a id="endnote-102"></a>
    Source: portugalresident.com  
-   Link: <a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
+   Link:<a href="https://www.portugalresident.com/sv/air-force-alert-for-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.portugalresident.com/sv/air-force-alert-for-ufo/</a>  
 
-103. <a id="endnote-103"></a>
+103.<a id="endnote-103"></a>
    Source: baaa-acro.com  
-   Link: <a href="https://www.baaa-acro.com/zone/all-vanuatu?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/zone/all-vanuatu?page=1</a>  
+   Link:<a href="https://www.baaa-acro.com/zone/all-vanuatu?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/zone/all-vanuatu?page=1</a>  
 
-104. <a id="endnote-104"></a>
+104.<a id="endnote-104"></a>
    Source: worldvision.com.au  
-   Link: <a href="https://www.worldvision.com.au/docs/default-source/global-one/country-profile-vanuatu.pdf?srsltid=AfmBOopvXyoy1war9JlsHHxwZTKQw0Ci3xfpXH3y-oKkFB1rHd8Ium7z" target="_blank" rel="noopener noreferrer nofollow">https://www.worldvision.com.au/docs/default-source/global-one/country-profile-vanuatu.pdf?srsltid=AfmBOopvXyoy1war9JlsHHxwZTKQw0Ci3xfpXH3y-oKkFB1rHd8Ium7z</a>
+   Link:<a href="https://www.worldvision.com.au/docs/default-source/global-one/country-profile-vanuatu.pdf?srsltid=AfmBOopvXyoy1war9JlsHHxwZTKQw0Ci3xfpXH3y-oKkFB1rHd8Ium7z" target="_blank" rel="noopener noreferrer nofollow">https://www.worldvision.com.au/docs/default-source/global-one/country-profile-vanuatu.pdf?srsltid=AfmBOopvXyoy1war9JlsHHxwZTKQw0Ci3xfpXH3y-oKkFB1rHd8Ium7z</a>

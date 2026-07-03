@@ -1194,37 +1194,37 @@ image: /assets/images/Iceland_b3c92e-overview-social.jpg
 
 ## Why Iceland produces distinctive UFO reports
 
-Iceland’s UFO history is shaped less by mass waves than by geography. The country sits in the North Atlantic between North America and Europe, close to Cold War aviation and naval routes. Keflavík became strategically important after the United States and Iceland signed their 1951 defence agreement, and U.S. records place Iceland within a monitored air-defence environment rather than a quiet civilian sky. The U.S. State Department’s historical record notes that the 1951 defence agreement was signed on 5 May 1951, and later Cold War analysis describes the base as central to U.S.-Icelandic defence relations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1951v04p1/d220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Office of the Historian Historical Documents</span></span></span>
+Iceland’s UFO history is shaped less by mass waves than by geography. The country sits in the North Atlantic between North America and Europe, close to Cold War aviation and naval routes. Keflavík became strategically important after the United States and Iceland signed their 1951 defence agreement, and U.S. records place Iceland within a monitored air-defence environment rather than a quiet civilian sky. The U.S. State Department’s historical record notes that the 1951 defence agreement was signed on 5 May 1951, and later Cold War analysis describes the base as central to U.S.-Icelandic defence relations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://history.state.gov/historicaldocuments/frus1951v04p1/d220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.state.gov">[Office of the Historian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.state.gov</span><span class="citation-popover-title">Office of the Historian Historical Documents</span><span class="citation-popover-snippet">Office of the Historian Historical Documents</span></span></span>
 
 <img src="{{ "/assets/images/Iceland_b3c92e-overview.webp" | relative_url }}" alt="Overview image for Does Iceland Have a Real UFO Record?" loading="eager" decoding="sync" fetchpriority="high">
-That defence context is crucial for interpreting the early cases. A radar return over Keflavík in 1953 is not the same kind of source as a lone witness seeing a light over a road: it came from an airbase system in a period when unidentified aircraft, radar anomalies and Soviet activity were live security concerns. Yet “military record” does not automatically mean “extraordinary object”. The U.S. Air Force’s own Project Blue Book summary states that 12,618 sightings were investigated from 1947 to 1969, 701 remained unidentified, and the Air Force concluded that no investigated UFO represented a national-security threat, a technology beyond known science, or an extraterrestrial vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+That defence context is crucial for interpreting the early cases. A radar return over Keflavík in 1953 is not the same kind of source as a lone witness seeing a light over a road: it came from an airbase system in a period when unidentified aircraft, radar anomalies and Soviet activity were live security concerns. Yet “military record” does not automatically mean “extraordinary object”. The U.S. Air Force’s own Project Blue Book summary states that 12,618 sightings were investigated from 1947 to 1969, 701 remained unidentified, and the Air Force concluded that no investigated UFO represented a national-security threat, a technology beyond known science, or an extraterrestrial vehicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
-Iceland also has sky conditions that make misidentification plausible. The Icelandic Meteorological Office’s aurora forecast emphasises that the northern lights require dark and partly clear skies and tracks auroral activity on a scale from 0 to 9; that is exactly the kind of variable, luminous, weather-dependent phenomenon that can confuse casual observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.vedur.is/weather/forecasts/aurora/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.vedur.is">[Icelandic Meteorological office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.vedur.is</span><span class="citation-popover-title">Icelandic Meteorological office Aurora forecasts</span><span class="citation-popover-snippet">Icelandic Meteorological office Aurora forecasts</span></span></span> Fireballs add another layer: a technical paper on Icelandic fireballs describes a spectacular meteor over Iceland on 1 August 1976 that was widely observed across the country, showing how a natural event can generate many dramatic reports from different locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://halo.internet.is/fireballs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: halo.internet.is">[Halo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">halo.internet.is</span><span class="citation-popover-title">Halo Fireballs over Iceland er Iceland</span><span class="citation-popover-snippet">Halo Fireballs over Iceland er Iceland</span></span></span>
+Iceland also has sky conditions that make misidentification plausible. The Icelandic Meteorological Office’s aurora forecast emphasises that the northern lights require dark and partly clear skies and tracks auroral activity on a scale from 0 to 9; that is exactly the kind of variable, luminous, weather-dependent phenomenon that can confuse casual observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.vedur.is/weather/forecasts/aurora/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.vedur.is">[Icelandic Meteorological office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.vedur.is</span><span class="citation-popover-title">Icelandic Meteorological office Aurora forecasts</span><span class="citation-popover-snippet">Icelandic Meteorological office Aurora forecasts</span></span></span> Fireballs add another layer: a technical paper on Icelandic fireballs describes a spectacular meteor over Iceland on 1 August 1976 that was widely observed across the country, showing how a natural event can generate many dramatic reports from different locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://halo.internet.is/fireballs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: halo.internet.is">[Halo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">halo.internet.is</span><span class="citation-popover-title">Halo Fireballs over Iceland er Iceland</span><span class="citation-popover-snippet">Halo Fireballs over Iceland er Iceland</span></span></span>
 
 ## The Cold War file trail: Keflavík, the North Atlantic and eastern Iceland
 
 The most useful way to read Iceland’s UFO record is chronologically, starting with the cases that have an official or semi-official paper trail.
 
-In April 1948, a Project Blue Book “unknowns” catalogue lists a radar case in the North Atlantic between Iceland and Greenland, at about 62° N, 33° W. The entry is very short, but it shows that Iceland’s surrounding waters entered the American UFO record before the better-known 1950s cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
+In April 1948, a Project Blue Book “unknowns” catalogue lists a radar case in the North Atlantic between Iceland and Greenland, at about 62° N, 33° W. The entry is very short, but it shows that Iceland’s surrounding waters entered the American UFO record before the better-known 1950s cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
-The next major regional anchor is Operation Mainbrace in September 1952, a NATO exercise often cited in UFO literature. A Project Blue Book unknown-case list records sightings on 14 September 1952 in the North Atlantic between Ireland and Iceland, involving military personnel from several countries aboard ships in the exercise. The summary describes a blue-green triangle and three objects in triangular formation with white-light exhaust, each estimated at 1,500 mph. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> This is not an Iceland-only case, but it belongs to Iceland’s immediate North Atlantic defence environment and is worth including because it illustrates the military corridor in which later Icelandic reports were logged.
+The next major regional anchor is Operation Mainbrace in September 1952, a NATO exercise often cited in UFO literature. A Project Blue Book unknown-case list records sightings on 14 September 1952 in the North Atlantic between Ireland and Iceland, involving military personnel from several countries aboard ships in the exercise. The summary describes a blue-green triangle and three objects in triangular formation with white-light exhaust, each estimated at 1,500 mph.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> This is not an Iceland-only case, but it belongs to Iceland’s immediate North Atlantic defence environment and is worth including because it illustrates the military corridor in which later Icelandic reports were logged.
 
-The most concrete Iceland-based case came on 3 February 1953 at Keflavík. Project Blue Book summaries list radar operators tracking four unidentified targets for 24 minutes at 5:25 pm. The same case appears in Brad Sparks’s catalogue as “Keflavik Airport, Iceland”, again with four radar targets and “no further data”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> Wikimedia Commons also hosts the Project Blue Book report file for this February 1953 Keflavík Airport case, identifying it as a seven-page Project Blue Book document dated February 1953 and sourced from the Internet Archive’s Blue Book collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span>
+The most concrete Iceland-based case came on 3 February 1953 at Keflavík. Project Blue Book summaries list radar operators tracking four unidentified targets for 24 minutes at 5:25 pm. The same case appears in Brad Sparks’s catalogue as “Keflavik Airport, Iceland”, again with four radar targets and “no further data”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> Wikimedia Commons also hosts the Project Blue Book report file for this February 1953 Keflavík Airport case, identifying it as a seven-page Project Blue Book document dated February 1953 and sourced from the Internet Archive’s Blue Book collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span>
 
 That case is evidence-rich in one sense and evidence-poor in another. Radar is stronger than a casual visual report, but the public summaries do not give enough detail about equipment, calibration, weather, operators’ notes or possible aircraft correlation to support a firm conclusion. The right classification is “officially documented and unresolved in the public summary”, not “confirmed anomalous craft”.
 
-A different kind of case appears on 24 August 1954 near Egilsstaðir or the Lagarfljót River in eastern Iceland. Project Blue Book summaries describe an unnamed farmer seeing a small cylinder, roughly 2–2.5 feet long and 4–5 feet in diameter, making a loud whizzing sound, flying straight and level, slowing, and then falling into a sandbar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> Wikimedia Commons separately identifies a five-page Project Blue Book report for the Lagarfljót River case, dated August 1954. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span> This case is interesting because it sounds less like a distant light and more like a nearby physical object, yet the public summaries do not establish recovery, photographs, material analysis or a verified impact site. Without that, it remains a striking report rather than a confirmed event.
+A different kind of case appears on 24 August 1954 near Egilsstaðir or the Lagarfljót River in eastern Iceland. Project Blue Book summaries describe an unnamed farmer seeing a small cylinder, roughly 2–2.5 feet long and 4–5 feet in diameter, making a loud whizzing sound, flying straight and level, slowing, and then falling into a sandbar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> Wikimedia Commons separately identifies a five-page Project Blue Book report for the Lagarfljót River case, dated August 1954.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span> This case is interesting because it sounds less like a distant light and more like a nearby physical object, yet the public summaries do not establish recovery, photographs, material analysis or a verified impact site. Without that, it remains a striking report rather than a confirmed event.
 
-Keflavík appears again on 4 May 1955. The Black Vault’s Project Blue Book unknown-case list says Lt Col E. J. Stealy and 1st Lt J. W. Burt saw about ten round white objects, one leaving a brief smoke trail, flying in an irregular formation with erratic movements for 5–8 seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> This is a stronger witness category than a vague anonymous report, but the duration is extremely short. Five to eight seconds leaves little time to judge range, size, speed or whether the objects were aircraft, birds, debris, balloons, ice crystals, or some other fleeting atmospheric or aviation-related event.
+Keflavík appears again on 4 May 1955. The Black Vault’s Project Blue Book unknown-case list says Lt Col E. J. Stealy and 1st Lt J. W. Burt saw about ten round white objects, one leaving a brief smoke trail, flying in an irregular formation with erratic movements for 5–8 seconds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> This is a stronger witness category than a vague anonymous report, but the duration is extremely short. Five to eight seconds leaves little time to judge range, size, speed or whether the objects were aircraft, birds, debris, balloons, ice crystals, or some other fleeting atmospheric or aviation-related event.
 
-A third 1955 entry, dated 11 August, lists a USAF second lieutenant, E. J. Marlow, seeing twelve grey objects over Iceland, varying from cigar-shaped to egg-shaped and changing formation over three to four minutes, with speeds described from hovering to 1,000 mph. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> This is one of the more dramatic Iceland entries, but it also shows why older UFO files are difficult to evaluate: the summary gives a witness and broad description but not enough sensor data, photographs, triangulation, or independent civilian confirmation to settle the matter.
+A third 1955 entry, dated 11 August, lists a USAF second lieutenant, E. J. Marlow, seeing twelve grey objects over Iceland, varying from cigar-shaped to egg-shaped and changing formation over three to four minutes, with speeds described from hovering to 1,000 mph.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> This is one of the more dramatic Iceland entries, but it also shows why older UFO files are difficult to evaluate: the summary gives a witness and broad description but not enough sensor data, photographs, triangulation, or independent civilian confirmation to settle the matter.
 
 <img src="{{ "/assets/images/Iceland_b3c92e-Illustration-1-dark.svg" | relative_url }}" alt="Does Iceland Have a Real UFO Record? illustration 1" data-theme-src-dark="{{ "/assets/images/Iceland_b3c92e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iceland_b3c92e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What local Icelandic sources add — and what they do not
 
-Local Icelandic material changes the texture of the subject. It shows that UFO reports were not merely imported through American military files; they also entered Icelandic newspapers, popular culture and local storytelling. Searches of the Icelandic newspaper archive Timarit return Icelandic-language reports using terms for flying strange objects, including a 1975 front-page report of two men near Kjalarnes and Hvalfjörður seeing a luminous object they did not consider an aircraft, and a 1977 report of pilots seeing a radar UFO while coming from Egilsstaðir. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timarit.is/page/3865727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timarit.is">[Tímarit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timarit.is</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Local Icelandic material changes the texture of the subject. It shows that UFO reports were not merely imported through American military files; they also entered Icelandic newspapers, popular culture and local storytelling. Searches of the Icelandic newspaper archive Timarit return Icelandic-language reports using terms for flying strange objects, including a 1975 front-page report of two men near Kjalarnes and Hvalfjörður seeing a luminous object they did not consider an aircraft, and a 1977 report of pilots seeing a radar UFO while coming from Egilsstaðir.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timarit.is/page/3865727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timarit.is">[Tímarit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timarit.is</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-English-language Icelandic media has also treated the subject as part of the country’s supernatural and folklore landscape. The Reykjavík Grapevine reported in 2022 that at least 170 incidents of UFO sightings or contacts had been documented in Iceland, citing the Icelandic UFO Association’s view that around 30 were “credible”, and also stating that the U.S. Army had listed 19 Icelandic UFO cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grapevine.is">[The Reykjavík Grapevine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grapevine.is</span><span class="citation-popover-title">The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine</span><span class="citation-popover-snippet">The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine</span></span></span> Those figures are useful as a guide to local belief and collection activity, but they should not be treated as a verified scientific dataset unless the underlying case list, definitions and evidential thresholds are available.
+English-language Icelandic media has also treated the subject as part of the country’s supernatural and folklore landscape. The Reykjavík Grapevine reported in 2022 that at least 170 incidents of UFO sightings or contacts had been documented in Iceland, citing the Icelandic UFO Association’s view that around 30 were “credible”, and also stating that the U.S. Army had listed 19 Icelandic UFO cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grapevine.is">[The Reykjavík Grapevine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grapevine.is</span><span class="citation-popover-title">The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine</span><span class="citation-popover-snippet">The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine</span></span></span> Those figures are useful as a guide to local belief and collection activity, but they should not be treated as a verified scientific dataset unless the underlying case list, definitions and evidential thresholds are available.
 
 This is where Iceland’s UFO material differs from countries with large formal archives or parliamentary releases. Iceland appears to have a scattered record: U.S. Blue Book files, Icelandic newspaper items, folklore-oriented retellings, private databases and modern online submissions. That makes source hierarchy important. A radar case preserved in a Blue Book file deserves more weight than an anonymous internet report. A newspaper report with named pilots deserves more weight than a recycled list with no original source. A local “credible” label is interesting, but it is not the same as independent verification.
 
@@ -1234,11 +1234,11 @@ This is where Iceland’s UFO material differs from countries with large formal 
 
 A useful Iceland page should separate “UFO” as “unidentified at the time” from stronger claims about alien craft. The available record supports three broad categories.
 
-**Confirmed as records, not confirmed as alien craft.** The Keflavík radar case of 3 February 1953, the Lagarfljót River case of August 1954, and the Keflavík visual case of May 1955 are confirmed in the sense that they appear in Project Blue Book-derived records or file pages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span> They are not confirmed in the stronger sense of proving unusual technology. The public summaries often lack the supporting data needed to rule out mundane explanations.
+**Confirmed as records, not confirmed as alien craft.** The Keflavík radar case of 3 February 1953, the Lagarfljót River case of August 1954, and the Keflavík visual case of May 1955 are confirmed in the sense that they appear in Project Blue Book-derived records or file pages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span> They are not confirmed in the stronger sense of proving unusual technology. The public summaries often lack the supporting data needed to rule out mundane explanations.
 
-**Contested but worth noting.** The North Atlantic Operation Mainbrace reports between Ireland and Iceland are often treated as part of a wider 1952 NATO UFO wave. They involved military personnel, which raises their evidential interest, but the case is geographically offshore and multi-country, so it should be used as regional context rather than as a purely Icelandic incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> Later local accounts from Snæfellsnes, Reykjavík, Kambar and other areas may be culturally important, but many are difficult to verify without original reports, named witnesses or contemporaneous documentation. The Reykjavík Grapevine’s coverage is valuable for mapping this local tradition, especially its claim of a body of at least 170 documented Icelandic incidents, but the evidence quality varies within that body. <span class="citation-chip-wrap"><a class="citation-chip" href="https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grapevine.is">[The Reykjavík Grapevine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grapevine.is</span><span class="citation-popover-title">The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine</span><span class="citation-popover-snippet">The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine</span></span></span>
+**Contested but worth noting.** The North Atlantic Operation Mainbrace reports between Ireland and Iceland are often treated as part of a wider 1952 NATO UFO wave. They involved military personnel, which raises their evidential interest, but the case is geographically offshore and multi-country, so it should be used as regional context rather than as a purely Icelandic incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> Later local accounts from Snæfellsnes, Reykjavík, Kambar and other areas may be culturally important, but many are difficult to verify without original reports, named witnesses or contemporaneous documentation. The Reykjavík Grapevine’s coverage is valuable for mapping this local tradition, especially its claim of a body of at least 170 documented Icelandic incidents, but the evidence quality varies within that body.<span class="citation-chip-wrap"><a class="citation-chip" href="https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grapevine.is">[The Reykjavík Grapevine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grapevine.is</span><span class="citation-popover-title">The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine</span><span class="citation-popover-snippet">The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine</span></span></span>
 
-**Likely explainable or weakly evidenced.** Many Iceland sightings involve lights, streaks, glowing shapes or brief formations — exactly the categories most vulnerable to aurora, meteors, aircraft, satellites, balloons, atmospheric optics and distance misjudgement. NASA’s UAP FAQ states that there is no evidence that UAPs are extraterrestrial and that most UAP sightings contain very limited data, making scientific conclusions difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> AARO’s public imagery page also shows how modern military UAP cases can end in mixed categories: some unresolved, some undergoing analysis, some resolved as balloons, and some closed as not anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> That modern pattern is a useful caution when reading older Icelandic cases with far poorer documentation.
+**Likely explainable or weakly evidenced.** Many Iceland sightings involve lights, streaks, glowing shapes or brief formations — exactly the categories most vulnerable to aurora, meteors, aircraft, satellites, balloons, atmospheric optics and distance misjudgement. NASA’s UAP FAQ states that there is no evidence that UAPs are extraterrestrial and that most UAP sightings contain very limited data, making scientific conclusions difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> AARO’s public imagery page also shows how modern military UAP cases can end in mixed categories: some unresolved, some undergoing analysis, some resolved as balloons, and some closed as not anomalous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> That modern pattern is a useful caution when reading older Icelandic cases with far poorer documentation.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P41ILWTDnkQ" title="The Proof Is Out There: EXPLOSIVE VOLCANOES BRING MYSTERIOUS UFOS (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P41ILWTDnkQ" target="_blank" rel="noopener noreferrer">The Proof Is Out There: EXPLOSIVE VOLCANOES BRING MYSTERIOUS UFOS (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 353.3K &middot; Uploaded: February 2022 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P41ILWTDnkQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P41ILWTDnkQ">Open on YouTube</a></p></div></div></div>
 
@@ -1246,13 +1246,13 @@ A useful Iceland page should separate “UFO” as “unidentified at the time�
 
 The geography of Icelandic UFO reports is not random, but it should not be over-interpreted.
 
-Keflavík stands out because it was a military aviation hub, not because it was necessarily a paranormal hotspot. Radar systems, trained personnel, aircraft movements and defence anxieties made unusual reports more likely to be noticed, recorded and forwarded into U.S. channels. The existence of several Keflavík Blue Book file pages on Wikimedia Commons reflects that archival pipeline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span>
+Keflavík stands out because it was a military aviation hub, not because it was necessarily a paranormal hotspot. Radar systems, trained personnel, aircraft movements and defence anxieties made unusual reports more likely to be noticed, recorded and forwarded into U.S. channels. The existence of several Keflavík Blue Book file pages on Wikimedia Commons reflects that archival pipeline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span>
 
 Reykjavík and the south-west appear often because that is where population, roads, media and observers concentrate. A bright object over the capital region is more likely to be reported than the same object over a remote highland. This matters when judging “hotspots”: clusters may reflect reporting density rather than actual object density.
 
-Snæfellsnes has a different role. It is strongly tied to Icelandic supernatural tourism and storytelling, and The Reykjavík Grapevine’s UFO episode specifically frames Snæfellsnes as part of its “Supernatural Iceland” series. <span class="citation-chip-wrap"><a class="citation-chip" href="https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grapevine.is">[The Reykjavík Grapevine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grapevine.is</span><span class="citation-popover-title">The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine</span><span class="citation-popover-snippet">The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine</span></span></span> That does not make every claim false, but it does mean that local reputation, folklore and visitor expectations can shape how ambiguous lights are described.
+Snæfellsnes has a different role. It is strongly tied to Icelandic supernatural tourism and storytelling, and The Reykjavík Grapevine’s UFO episode specifically frames Snæfellsnes as part of its “Supernatural Iceland” series.<span class="citation-chip-wrap"><a class="citation-chip" href="https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grapevine.is">[The Reykjavík Grapevine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grapevine.is</span><span class="citation-popover-title">The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine</span><span class="citation-popover-snippet">The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine</span></span></span> That does not make every claim false, but it does mean that local reputation, folklore and visitor expectations can shape how ambiguous lights are described.
 
-Eastern Iceland enters the record through the Lagarfljót/Egilsstaðir case and later local references. The Lagarfljót report is notable because it is one of the few Icelandic cases with a specific rural location and a claimed near-ground event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> But even there, the public evidence stops short of material confirmation.
+Eastern Iceland enters the record through the Lagarfljót/Egilsstaðir case and later local references. The Lagarfljót report is notable because it is one of the few Icelandic cases with a specific rural location and a claimed near-ground event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> But even there, the public evidence stops short of material confirmation.
 
 <img src="{{ "/assets/images/Iceland_b3c92e-Illustration-2-dark.svg" | relative_url }}" alt="Does Iceland Have a Real UFO Record? illustration 2" data-theme-src-dark="{{ "/assets/images/Iceland_b3c92e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iceland_b3c92e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read Iceland’s UFO evidence responsibly
@@ -1261,7 +1261,7 @@ The most reliable reading of Iceland’s UFO record is neither dismissive nor cr
 
 For Iceland, the best cases tend to have one or more of these strengths: named military witnesses, radar involvement, Project Blue Book file traces, contemporaneous newspaper reporting, or a precise location and time. The weakest cases tend to be modern anonymous submissions, recycled list entries, claims with no original source, and dramatic retellings that become more detailed over time.
 
-The broader official picture also argues for caution. The U.S. Air Force concluded after Blue Book that it had found no evidence of extraterrestrial vehicles, while NASA and AARO have more recently made similar evidence-based points: some reports remain unexplained, but unexplained does not equal alien. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+The broader official picture also argues for caution. The U.S. Air Force concluded after Blue Book that it had found no evidence of extraterrestrial vehicles, while NASA and AARO have more recently made similar evidence-based points: some reports remain unexplained, but unexplained does not equal alien.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 <img src="{{ "/assets/images/Iceland_b3c92e-Illustration-3-dark.svg" | relative_url }}" alt="Does Iceland Have a Real UFO Record? illustration 3" data-theme-src-dark="{{ "/assets/images/Iceland_b3c92e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iceland_b3c92e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Iceland contributes to the wider UFO project
@@ -1275,194 +1275,194 @@ The best-supported conclusion is modest but meaningful: Iceland has a documented
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ylPXS3-7rrM" title="Supernatural Iceland: UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ylPXS3-7rrM" target="_blank" rel="noopener noreferrer">Supernatural Iceland: UFOs</a></p><p class="youtube-embed-meta">Channel: The Reykjavík Grapevine &middot; Views: 16.2K &middot; Uploaded: April 2022 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ylPXS3-7rrM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ylPXS3-7rrM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does Iceland Have a Real UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does Iceland Have a Real UFO Record?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful framework for assessing unresolved aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful framework for assessing unresolved aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Relevant to Project Blue Book-era records involving Iceland.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to Project Blue Book-era records involving Iceland.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Fits Iceland&#x27;s military-witness and Cold War reporting themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits Iceland&#x27;s military-witness and Cold War reporting themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Relevant to Iceland&#x27;s blend of folklore and UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to Iceland&#x27;s blend of folklore and UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-iceland-have-a-real-ufo-record-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="does-iceland-have-a-real-ufo-record-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1478,7 +1478,7 @@ The best-supported conclusion is modest but meaningful: Iceland has a documented
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1498,7 +1498,7 @@ The best-supported conclusion is modest but meaningful: Iceland has a documented
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1530,7 +1530,7 @@ The best-supported conclusion is modest but meaningful: Iceland has a documented
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1582,7 +1582,7 @@ The best-supported conclusion is modest but meaningful: Iceland has a documented
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1627,7 +1627,7 @@ The best-supported conclusion is modest but meaningful: Iceland has a documented
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1665,257 +1665,256 @@ The best-supported conclusion is modest but meaningful: Iceland has a documented
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.state.gov  
    Title: Office of the Historian Historical Documents  
-   Link: <a href="https://history.state.gov/historicaldocuments/frus1951v04p1/d220" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1951v04p1/d220</a>  
+   Link:<a href="https://history.state.gov/historicaldocuments/frus1951v04p1/d220" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/historicaldocuments/frus1951v04p1/d220</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: halo.internet.is  
    Title: Halo Fireballs over Iceland er Iceland  
-   Link: <a href="https://halo.internet.is/fireballs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://halo.internet.is/fireballs.pdf</a>  
+   Link:<a href="https://halo.internet.is/fireballs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://halo.internet.is/fireballs.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
    Title: Internet Archive  
-   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
+   Link:<a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-02-9549829-KeflauikAirport-Iceland.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8726293-LagarfljotRiver-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8726293-LagarfljotRiver-Iceland.pdf</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8726293-LagarfljotRiver-Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-08-8726293-LagarfljotRiver-Iceland.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: timarit.is  
-   Link: <a href="https://timarit.is/page/3865727" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/3865727</a>  
+   Link:<a href="https://timarit.is/page/3865727" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/3865727</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: timarit.is  
    Title: Tímarit Vísir  
-   Link: <a href="https://timarit.is/page/3357368" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/3357368</a>  
+   Link:<a href="https://timarit.is/page/3357368" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/3357368</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: grapevine.is  
    Title: The Reykjavík Grapevine Supernatural Iceland: UFOs – The Reykjavík Grapevine  
-   Link: <a href="https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/</a>  
+   Link:<a href="https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://grapevine.is/icelandic-culture/2022/04/05/supernatural-iceland-ufos/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: commons.wikimedia.org  
    Title: Commons Category:UFO sightings in Iceland  
-   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Iceland" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Iceland</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Iceland" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Iceland</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-11-6778734-Keflav%C3%ADk_AFB%2C_Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-11-6778734-Keflav%C3%ADk_AFB%2C_Iceland.pdf</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-11-6778734-Keflav%C3%ADk_AFB%2C_Iceland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1953-11-6778734-Keflav%C3%ADk_AFB%2C_Iceland.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: timarit.is  
-   Link: <a href="https://timarit.is/page/4074754" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/4074754</a>  
+   Link:<a href="https://timarit.is/page/4074754" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/4074754</a>  
 
-16. <a id="endnote-16"></a>
-   Source: timarit.is  
-   Title: Dagblaðið Vísir  
-   Link: <a href="https://timarit.is/page/7055643" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/7055643</a>  
-
-17. <a id="endnote-17"></a>
-   Source: timarit.is  
-   Link: <a href="https://timarit.is/page/7506291" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/7506291</a>  
-
-18. <a id="endnote-18"></a>
-   Source: timarit.is  
-   Link: <a href="https://timarit.is/page/3100270" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/3100270</a>  
-
-19. <a id="endnote-19"></a>
-   Source: timarit.is  
-   Link: <a href="https://timarit.is/page/3241418" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/3241418</a>  
-
-20. <a id="endnote-20"></a>
+16.<a id="endnote-16"></a>
    Source: timarit.is  
    Title: Dagblaðið Vísir  
-   Link: <a href="https://timarit.is/page/2500899" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/2500899</a>  
+   Link:<a href="https://timarit.is/page/7055643" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/7055643</a>  
 
-21. <a id="endnote-21"></a>
+17.<a id="endnote-17"></a>
    Source: timarit.is  
-   Link: <a href="https://timarit.is/page/2615353" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/2615353</a>  
+   Link:<a href="https://timarit.is/page/7506291" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/7506291</a>  
 
-22. <a id="endnote-22"></a>
+18.<a id="endnote-18"></a>
    Source: timarit.is  
-   Link: <a href="https://timarit.is/page/3066661" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/3066661</a>  
+   Link:<a href="https://timarit.is/page/3100270" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/3100270</a>  
 
-23. <a id="endnote-23"></a>
+19.<a id="endnote-19"></a>
+   Source: timarit.is  
+   Link:<a href="https://timarit.is/page/3241418" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/3241418</a>  
+
+20.<a id="endnote-20"></a>
+   Source: timarit.is  
+   Title: Dagblaðið Vísir  
+   Link:<a href="https://timarit.is/page/2500899" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/2500899</a>  
+
+21.<a id="endnote-21"></a>
+   Source: timarit.is  
+   Link:<a href="https://timarit.is/page/2615353" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/2615353</a>  
+
+22.<a id="endnote-22"></a>
+   Source: timarit.is  
+   Link:<a href="https://timarit.is/page/3066661" target="_blank" rel="noopener noreferrer nofollow">https://timarit.is/page/3066661</a>  
+
+23.<a id="endnote-23"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nato.int  
-   Link: <a href="https://www.nato.int/en/about-us/nato-history/a-short-history-of-nato" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/nato-history/a-short-history-of-nato</a>  
+   Link:<a href="https://www.nato.int/en/about-us/nato-history/a-short-history-of-nato" target="_blank" rel="noopener noreferrer nofollow">https://www.nato.int/en/about-us/nato-history/a-short-history-of-nato</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
+   Link:<a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: en.vedur.is  
    Title: Icelandic Meteorological office Aurora forecasts  
-   Link: <a href="https://en.vedur.is/weather/forecasts/aurora/" target="_blank" rel="noopener noreferrer nofollow">https://en.vedur.is/weather/forecasts/aurora/</a>  
+   Link:<a href="https://en.vedur.is/weather/forecasts/aurora/" target="_blank" rel="noopener noreferrer nofollow">https://en.vedur.is/weather/forecasts/aurora/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: theblackvault.com  
    Title: The Black Vault Project Blue Book Unknown Case Files, Complete List  
-   Link: <a href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06741356" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741356</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06741356" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741356</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/06741380" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741380</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/06741380" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741380</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/00046885" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/00046885</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/00046885" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/00046885</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/ufodocsnasa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/ufodocsnasa.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/ufodocsnasa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/ufodocsnasa.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: documents.theblackvault.com  
    Title: FOIALog FY05  
-   Link: <a href="https://documents.theblackvault.com/documents/foia/FOIALog_FY05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog_FY05.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/foia/FOIALog_FY05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog_FY05.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: documents.theblackvault.com  
-   Link: <a href="https://documents.theblackvault.com/documents/foia/dod/FOIALog2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/dod/FOIALog2011.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/foia/dod/FOIALog2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/dod/FOIALog2011.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: documents.theblackvault.com  
    Title: Flight Planning Procedures Canada  
-   Link: <a href="https://documents.theblackvault.com/documents/ufos/FlightPlanningProcedures-Canada.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/FlightPlanningProcedures-Canada.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/ufos/FlightPlanningProcedures-Canada.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/FlightPlanningProcedures-Canada.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/dia/abbrev_acron.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/abbrev_acron.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/dia/abbrev_acron.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/abbrev_acron.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: documents2.theblackvault.com  
    Title: 11 L 0559 Bates 14703 15348 opaque  
-   Link: <a href="https://documents2.theblackvault.com/documents/osd/snowflakes/11-L-0559%20Bates%2014703-15348%20opaque.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/snowflakes/11-L-0559%20Bates%2014703-15348%20opaque.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/osd/snowflakes/11-L-0559%20Bates%2014703-15348%20opaque.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/snowflakes/11-L-0559%20Bates%2014703-15348%20opaque.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: documents.theblackvault.com  
    Title: dia 2010 2011 log  
-   Link: <a href="https://documents.theblackvault.com/documents/foia/dia-2010-2011-log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/dia-2010-2011-log.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/foia/dia-2010-2011-log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/dia-2010-2011-log.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: coldwarprojects.com  
-   Link: <a href="https://www.coldwarprojects.com/iceland-1" target="_blank" rel="noopener noreferrer nofollow">https://www.coldwarprojects.com/iceland-1</a>  
+   Link:<a href="https://www.coldwarprojects.com/iceland-1" target="_blank" rel="noopener noreferrer nofollow">https://www.coldwarprojects.com/iceland-1</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: abc7chicago.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: <a href="https://abc7chicago.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
+   Link:<a href="https://abc7chicago.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
 
 ### Additional References
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
    Title: Strange UFO Flying Over Iceland Fagradalsfjall Geldingadalir Volcano  
-   Link: <a href="https://www.youtube.com/watch?v=xZ2sP7xxxAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZ2sP7xxxAA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: EXPLOSIVE VOLCANOES BRING MYSTERIOUS UFOS (Season 2) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xZ2sP7xxxAA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZ2sP7xxxAA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: EXPLOSIVE VOLCANOES BRING MYSTERIOUS UFOS (Season 2) | History...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=P41ILWTDnkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P41ILWTDnkQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unknowns: Mystifying UFO Cases - LEMMiNO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P41ILWTDnkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P41ILWTDnkQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unknowns: Mystifying UFO Cases - LEMMiNO...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf</a>  
+   Link:<a href="https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/library/abbottabad-compound/FA/FA3C389E610257B5DD2CC40717112DFD_Earthscan%2C.The_2030_Spike_-_Countdown_to_Global_Catastrophe.%5B2003.ISBN1844070182%5D.pdf</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/collection/oss-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/oss-collection</a>  
+   Link:<a href="https://www.cia.gov/readingroom/collection/oss-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/oss-collection</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/UFOResearchCommunityGroup/posts/1056720034957186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/UFOResearchCommunityGroup/posts/1056720034957186/</a>  
+   Link:<a href="https://www.facebook.com/groups/UFOResearchCommunityGroup/posts/1056720034957186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/UFOResearchCommunityGroup/posts/1056720034957186/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVtIvI9keFP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVtIvI9keFP/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DVtIvI9keFP/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVtIvI9keFP/?hl=en</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: sipri.org  
-   Link: <a href="https://www.sipri.org/sites/default/files/files/books/SIPRI06BaHeSu/SIPRI06BaHeSu20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/files/books/SIPRI06BaHeSu/SIPRI06BaHeSu20.pdf</a>  
+   Link:<a href="https://www.sipri.org/sites/default/files/files/books/SIPRI06BaHeSu/SIPRI06BaHeSu20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/files/books/SIPRI06BaHeSu/SIPRI06BaHeSu20.pdf</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/352957006_Unarmed_sovereignty_versus_foreign_base_rights_enforcing_the_US-Icelandic_defence_agreement_1951-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352957006_Unarmed_sovereignty_versus_foreign_base_rights_enforcing_the_US-Icelandic_defence_agreement_1951-2021</a>  
+   Link:<a href="https://www.researchgate.net/publication/352957006_Unarmed_sovereignty_versus_foreign_base_rights_enforcing_the_US-Icelandic_defence_agreement" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352957006_Unarmed_sovereignty_versus_foreign_base_rights_enforcing_the_US-Icelandic_defence_agreement</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: archivesfoundation.org  
-   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
+   Link:<a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/victorlimaphoto/posts/a-brilliant-fireball-streaks-across-the-winter-sky-over-iceland-leaving-behind-a/1422986009190140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/victorlimaphoto/posts/a-brilliant-fireball-streaks-across-the-winter-sky-over-iceland-leaving-behind-a/1422986009190140/</a>
+   Link:<a href="https://www.facebook.com/victorlimaphoto/posts/a-brilliant-fireball-streaks-across-the-winter-sky-over-iceland-leaving-behind-a/1422986009190140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/victorlimaphoto/posts/a-brilliant-fireball-streaks-across-the-winter-sky-over-iceland-leaving-behind-a/1422986009190140/</a>

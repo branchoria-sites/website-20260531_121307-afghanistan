@@ -257,7 +257,7 @@ image: /assets/images/Cote_d_Ivoire_f8cb1a_aviation_archive_gap_4fc2f3-Illustrat
 Côte d’Ivoire has functioning aviation institutions, regional air-traffic integration, and formal accident-investigation responsibilities, yet it has almost no visible public archive for unidentified aerial phenomena. That gap matters because strong UFO or UAP cases become far more credible when they intersect with aviation evidence: pilot reports, radar logs, air-traffic recordings, weather data, or documented incident timelines. In Côte d’Ivoire, the public record rarely reaches that stage. Most alleged sightings remain social-media anecdotes or reposted videos with no confirmed aviation trace.
 
 <img src="{{ "/assets/images/Cote_d_Ivoire_f8cb1a_aviation_archive_gap_4fc2f3-Illustration-1-dark.svg" | relative_url }}" alt="Archive Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Cote_d_Ivoire_f8cb1a_aviation_archive_gap_4fc2f3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cote_d_Ivoire_f8cb1a_aviation_archive_gap_4fc2f3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The absence of a public UFO archive does not prove that unusual reports never reach aviation authorities. It means there is no transparent mechanism comparable to France’s GEIPAN system, which collects, classifies, and publishes UAP case files. Côte d’Ivoire instead sits in a grey zone: it possesses the institutions that could theoretically document anomalous aerial events, but there is little evidence that those institutions publicly process such reports as a dedicated category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
+The absence of a public UFO archive does not prove that unusual reports never reach aviation authorities. It means there is no transparent mechanism comparable to France’s GEIPAN system, which collects, classifies, and publishes UAP case files. Côte d’Ivoire instead sits in a grey zone: it possesses the institutions that could theoretically document anomalous aerial events, but there is little evidence that those institutions publicly process such reports as a dedicated category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
 
 ## Where Would Strong Ivorian UFO Records Appear?
 
@@ -265,22 +265,22 @@ A genuinely strong Ivorian UFO case would almost certainly emerge through ordina
 
 The most important organisations are:
 
-* The Ivorian civil aviation authority, ANAC (Autorité Nationale de l’Aviation Civile), which oversees aviation regulation and accident investigation responsibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autorit%C3%A9_Nationale_de_l%27Aviation_Civile" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autorité Nationale de l&#x27;Aviation Civile</span><span class="citation-popover-snippet">Autorité Nationale de l&#x27;Aviation Civile</span></span></span>
-* ASECNA, the multinational African air-navigation agency responsible for large sections of West and Central African airspace, including Abidjan’s upper flight information region. ASECNA <span class="citation-chip-wrap"><a class="citation-chip" href="https://contingency.asecna.aero/images/CP/FR-_06ENR-1.8-01-fr-FR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contingency.asecna.aero">[2ASECNA &#124; States ATS Contingency Plans]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contingency.asecna.aero</span><span class="citation-popover-snippet">States ATS Contingency PlansAIP for ASECNAThis contingency plan contains procedures to ensure the provision of air navigation se...</span></span></span>
-* ICAO-linked reporting and accident-investigation frameworks that require documentation of serious aviation incidents and safety hazards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/3282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Manual of Aircraft Accident and Incident Investigation</span><span class="citation-popover-snippet">Manual of Aircraft Accident and Incident InvestigationJune 19, 2015 — Immediate notification of accidents and incidents to the ac...</span><span class="citation-popover-meta">Published: June 19, 2015</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/accident-and-serious-incident-reporting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Accident and serious incident reportingYou should report aircraft accidents and serious incidents directly to the AAIB. Visit the AAIB we...</span></span></span>
+* The Ivorian civil aviation authority, ANAC (Autorité Nationale de l’Aviation Civile), which oversees aviation regulation and accident investigation responsibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Autorit%C3%A9_Nationale_de_l%27Aviation_Civile" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autorité Nationale de l&#x27;Aviation Civile</span><span class="citation-popover-snippet">Autorité Nationale de l&#x27;Aviation Civile</span></span></span>
+* ASECNA, the multinational African air-navigation agency responsible for large sections of West and Central African airspace, including Abidjan’s upper flight information region. ASECNA<span class="citation-chip-wrap"><a class="citation-chip" href="https://contingency.asecna.aero/images/CP/FR-_06ENR-1.8-01-fr-FR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contingency.asecna.aero">[2ASECNA &#124; States ATS Contingency Plans]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contingency.asecna.aero</span><span class="citation-popover-snippet">States ATS Contingency PlansAIP for ASECNAThis contingency plan contains procedures to ensure the provision of air navigation se...</span></span></span>
+* ICAO-linked reporting and accident-investigation frameworks that require documentation of serious aviation incidents and safety hazards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/3282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Manual of Aircraft Accident and Incident Investigation</span><span class="citation-popover-snippet">Manual of Aircraft Accident and Incident InvestigationJune 19, 2015 — Immediate notification of accidents and incidents to the ac...</span><span class="citation-popover-meta">Published: June 19, 2015</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/accident-and-serious-incident-reporting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[CAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Accident and serious incident reportingYou should report aircraft accidents and serious incidents directly to the AAIB. Visit the AAIB we...</span></span></span>
 
 This means that if airline pilots, military crews, or air-traffic controllers in Côte d’Ivoire encountered an unidentified object that created a flight-safety concern, there are already institutional pathways through which the event could be logged. The problem is not the total absence of aviation bureaucracy. The problem is that those records are not publicly visible as a searchable UAP archive.
 
 ### What ANAC could theoretically contribute
 
-ANAC’s existing role already includes accident and incident oversight. Publicly available aviation references identify the authority as Côte d’Ivoire’s civil aviation regulator and accident-investigation body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
+ANAC’s existing role already includes accident and incident oversight. Publicly available aviation references identify the authority as Côte d’Ivoire’s civil aviation regulator and accident-investigation body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</span></span></span>
 
 In a serious unidentified-aerial-event scenario, ANAC could potentially provide:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Pilot statements and flight timelines.
-* Air-traffic communication records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/publication/download/23340" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">NATS Major Incident Investigation Final ReportPositive Output PO7 – Participation of the Flow Management Position (FMP) in Air Traffic In...</span></span></span>
+* Air-traffic communication records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/publication/download/23340" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[caa.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">NATS Major Incident Investigation Final ReportPositive Output PO7 – Participation of the Flow Management Position (FMP) in Air Traffic In...</span></span></span>
 * Weather and visibility conditions.
 * Radar or surveillance data where available.
 * Incident classifications distinguishing operational hazard from visual anomaly.
@@ -290,13 +290,13 @@ In a serious unidentified-aerial-event scenario, ANAC could potentially provide:
 
 These are precisely the types of records that separate a structured aviation case from a viral rumour.
 
-International aviation guidance repeatedly stresses that incident documentation is crucial because evidence deteriorates quickly when events are not formally recorded. ICAO accident-investigation manuals emphasise rapid notification and evidence preservation as central to reliable inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/3282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Manual of Aircraft Accident and Incident Investigation</span><span class="citation-popover-snippet">Manual of Aircraft Accident and Incident InvestigationJune 19, 2015 — Immediate notification of accidents and incidents to the ac...</span><span class="citation-popover-meta">Published: June 19, 2015</span></span></span>
+International aviation guidance repeatedly stresses that incident documentation is crucial because evidence deteriorates quickly when events are not formally recorded. ICAO accident-investigation manuals emphasise rapid notification and evidence preservation as central to reliable inquiry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/3282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-title">Manual of Aircraft Accident and Incident Investigation</span><span class="citation-popover-snippet">Manual of Aircraft Accident and Incident InvestigationJune 19, 2015 — Immediate notification of accidents and incidents to the ac...</span><span class="citation-popover-meta">Published: June 19, 2015</span></span></span>
 
 That principle matters for UFO analysis as well. Once a sighting exists only as a reposted video or second-hand testimony, many of the most useful verification tools disappear.
 
 ### What ASECNA could add
 
-ASECNA is particularly important because Côte d’Ivoire’s airspace is embedded in a regional air-traffic-management system rather than a purely national one. The organisation coordinates air-navigation services across a vast multinational zone and manages operational continuity procedures involving Abidjan ACC and neighbouring control centres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://contingency.asecna.aero/images/CP/FR-_06ENR-1.8-01-fr-FR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contingency.asecna.aero">[asecna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contingency.asecna.aero</span><span class="citation-popover-snippet">States ATS Contingency PlansAIP for ASECNAThis contingency plan contains procedures to ensure the provision of air navigation se...</span></span></span> | States ATS Contingency Plans ASECNA That creates an overlooked possibility in the Ivorian UFO discussion: a strong aerial anomaly might not be documented locally first. It could <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asecna.aero/index.php/en/nos-metiers-en/l-atm-air-traffic-management-en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asecna.aero">[asecna.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asecna.aero</span><span class="citation-popover-snippet">ATM- Air Traffic ManagementASECNA is mandated by the member States to implement the regulation relative to the air traffic as well...</span></span></span> instead appear in:
+ASECNA is particularly important because Côte d’Ivoire’s airspace is embedded in a regional air-traffic-management system rather than a purely national one. The organisation coordinates air-navigation services across a vast multinational zone and manages operational continuity procedures involving Abidjan ACC and neighbouring control centres.<span class="citation-chip-wrap"><a class="citation-chip" href="https://contingency.asecna.aero/images/CP/FR-_06ENR-1.8-01-fr-FR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contingency.asecna.aero">[asecna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contingency.asecna.aero</span><span class="citation-popover-snippet">States ATS Contingency PlansAIP for ASECNAThis contingency plan contains procedures to ensure the provision of air navigation se...</span></span></span> | States ATS Contingency Plans ASECNA That creates an overlooked possibility in the Ivorian UFO discussion: a strong aerial anomaly might not be documented locally first. It could<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asecna.aero/index.php/en/nos-metiers-en/l-atm-air-traffic-management-en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asecna.aero">[asecna.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asecna.aero</span><span class="citation-popover-snippet">ATM- Air Traffic ManagementASECNA is mandated by the member States to implement the regulation relative to the air traffic as well...</span></span></span> instead appear in:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -308,7 +308,7 @@ ASECNA is particularly important because Côte d’Ivoire’s airspace is embedd
 
 </div>
 
-ASECNA’s modernisation efforts also matter because improved digital surveillance increases the chance that future anomalous reports could leave technical traces rather than relying entirely on eyewitness memory. The organisation has expanded data-sharing and satellite-supported traffic monitoring across its managed airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aireon.com/wp-content/uploads/2024/07/Aireon_Case-Study_ASECNA-AFCON-Customer-Flow_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aireon.com">[Aireon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aireon.com</span><span class="citation-popover-title">Case Study ASECNA AFCON Customer Flow FINAL</span><span class="citation-popover-snippet">ASECNA to more accurately predict traffic flows into its 16.1 million square kilometres of airspace covering six Flight...Read more...</span></span></span>
+ASECNA’s modernisation efforts also matter because improved digital surveillance increases the chance that future anomalous reports could leave technical traces rather than relying entirely on eyewitness memory. The organisation has expanded data-sharing and satellite-supported traffic monitoring across its managed airspace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aireon.com/wp-content/uploads/2024/07/Aireon_Case-Study_ASECNA-AFCON-Customer-Flow_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aireon.com">[Aireon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aireon.com</span><span class="citation-popover-title">Case Study ASECNA AFCON Customer Flow FINAL</span><span class="citation-popover-snippet">ASECNA to more accurately predict traffic flows into its 16.1 million square kilometres of airspace covering six Flight...Read more...</span></span></span>
 
 That does not mean unidentified objects are being secretly tracked. It means that modern aviation systems generate far more data than the public Ivorian UFO record currently reflects.
 
@@ -318,7 +318,7 @@ That does not mean unidentified objects are being secretly tracked. It means tha
 
 The central issue in Côte d’Ivoire is not a documented cover-up. It is institutional silence combined with weak archival culture around anomalous sightings.
 
-France provides the clearest comparison point because GEIPAN openly publishes case files, classifications, and investigation summaries. Its mission explicitly includes collecting, analysing, archiving, and publicly releasing reports of unidentified aerospace phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
+France provides the clearest comparison point because GEIPAN openly publishes case files, classifications, and investigation summaries. Its mission explicitly includes collecting, analysing, archiving, and publicly releasing reports of unidentified aerospace phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
 
 Côte d’Ivoire has no known public-facing equivalent.
 
@@ -408,7 +408,7 @@ A serious reporting structure would first need a clear distinction between:
 * insufficient-data cases,
 * and genuinely unresolved incidents.
 
-GEIPAN’s model is influential partly because it classifies reports rather than treating every unexplained observation as extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
+GEIPAN’s model is influential partly because it classifies reports rather than treating every unexplained observation as extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[CNES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
 
 Without classification standards, Ivorian reports remain trapped between sensationalism and dismissal.
 
@@ -462,199 +462,199 @@ The absence of a public aviation-linked UAP archive in Côte d’Ivoire creates 
 
 On one hand, weak documentation means extraordinary claims remain unverified. Viral sightings cannot easily be elevated into strong cases without radar, flight, or incident records.
 
-On the other hand, the existence of functioning aviation institutions means the country is not operating in a complete informational vacuum. Côte d’Ivoire already has regulators, controllers, incident procedures, and regional coordination systems capable of generating useful technical evidence if an event were serious enough to enter aviation channels. ICAO <span class="citation-chip-wrap"><a class="citation-chip" href="https://contingency.asecna.aero/images/CP/FR-_06ENR-1.8-01-fr-FR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contingency.asecna.aero">[3ASECNA &#124; States ATS Contingency Plans]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contingency.asecna.aero</span><span class="citation-popover-snippet">States ATS Contingency PlansAIP for ASECNAThis contingency plan contains procedures to ensure the provision of air navigation se...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asecna.aero/index.php/en/nos-metiers-en/l-atm-air-traffic-management-en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asecna.aero">[ASECNA For researchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asecna.aero</span><span class="citation-popover-snippet">ATM- Air Traffic ManagementASECNA is mandated by the member States to implement the regulation relative to the air traffic as well...</span></span></span>, the key point is therefore not “Côte d’Ivoire has no UFO evidence”. It is that the country lacks a transparent bridge between public sightings and official aviation documentation.
+On the other hand, the existence of functioning aviation institutions means the country is not operating in a complete informational vacuum. Côte d’Ivoire already has regulators, controllers, incident procedures, and regional coordination systems capable of generating useful technical evidence if an event were serious enough to enter aviation channels. ICAO<span class="citation-chip-wrap"><a class="citation-chip" href="https://contingency.asecna.aero/images/CP/FR-_06ENR-1.8-01-fr-FR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contingency.asecna.aero">[3ASECNA &#124; States ATS Contingency Plans]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contingency.asecna.aero</span><span class="citation-popover-snippet">States ATS Contingency PlansAIP for ASECNAThis contingency plan contains procedures to ensure the provision of air navigation se...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asecna.aero/index.php/en/nos-metiers-en/l-atm-air-traffic-management-en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asecna.aero">[ASECNA For researchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asecna.aero</span><span class="citation-popover-snippet">ATM- Air Traffic ManagementASECNA is mandated by the member States to implement the regulation relative to the air traffic as well...</span></span></span>, the key point is therefore not “Côte d’Ivoire has no UFO evidence”. It is that the country lacks a transparent bridge between public sightings and official aviation documentation.
 
 That gap explains why most Ivorian UFO narratives remain culturally interesting but evidentially weak. Until sightings can be tied to structured aviation records, the national UFO archive will continue to consist mostly of scattered anecdotes rather than investigable aerospace cases.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Would Strong Ivorian UFO Records Appear?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Would Strong Ivorian UFO Records Appear?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines documented case files and investigative procedures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documented case files and investigative procedures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how reports are evaluated and categorized.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how reports are evaluated and categorized.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses pilot reports, radar evidence, and government documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses pilot reports, radar evidence, and government documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides broader context for interpreting unexplained reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for interpreting unexplained reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-strong-ivorian-ufo-records-appear-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-strong-ivorian-ufo-records-appear-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -670,7 +670,7 @@ That gap explains why most Ivorian UFO narratives remain culturally interesting 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -690,7 +690,7 @@ That gap explains why most Ivorian UFO narratives remain culturally interesting 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -722,7 +722,7 @@ That gap explains why most Ivorian UFO narratives remain culturally interesting 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -774,7 +774,7 @@ That gap explains why most Ivorian UFO narratives remain culturally interesting 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -819,7 +819,7 @@ That gap explains why most Ivorian UFO narratives remain culturally interesting 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -857,153 +857,152 @@ That gap explains why most Ivorian UFO narratives remain culturally interesting 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ace Phenomena) sightings. It also provides...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ace Phenomena) sightings. It also provides...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</p></details>
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Autorité Nationale de l'Aviation Civile  
-   Link: <a href="https://en.wikipedia.org/wiki/Autorit%C3%A9_Nationale_de_l%27Aviation_Civile" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autorit%C3%A9_Nationale_de_l%27Aviation_Civile</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Autorit%C3%A9_Nationale_de_l%27Aviation_Civile" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autorit%C3%A9_Nationale_de_l%27Aviation_Civile</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/filebrowser/download/23813?fid=23813" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/filebrowser/download/23813?fid=23813</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>➢ The internal challenges are the responsibility of the body responsible for implementing the SSP (ANAC). 22-mai...Read more...</p></details>
+   Link:<a href="https://www.icao.int/filebrowser/download/23813?fid=23813" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/filebrowser/download/23813?fid=23813</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>➢ The internal challenges are the responsibility of the body responsible for implementing the SSP (ANAC). 22-mai...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: asecna.aero  
-   Link: <a href="https://www.asecna.aero/index.php/en/nos-metiers-en/l-atm-air-traffic-management-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/nos-metiers-en/l-atm-air-traffic-management-en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ATM- Air Traffic ManagementASECNA is mandated by the member States to implement the regulation relative to the air traffic as well...</p></details>
+   Link:<a href="https://www.asecna.aero/index.php/en/nos-metiers-en/l-atm-air-traffic-management-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/nos-metiers-en/l-atm-air-traffic-management-en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ATM- Air Traffic ManagementASECNA is mandated by the member States to implement the regulation relative to the air traffic as well...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: contingency.asecna.aero  
-   Link: <a href="https://contingency.asecna.aero/images/CP/FR-_06ENR-1.8-01-fr-FR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://contingency.asecna.aero/images/CP/FR-_06ENR-1.8-01-fr-FR.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>States ATS Contingency PlansAIP for ASECNAThis contingency plan contains procedures to ensure the provision of air navigation se...</p></details>
+   Link:<a href="https://contingency.asecna.aero/images/CP/FR-_06ENR-1.8-01-fr-FR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://contingency.asecna.aero/images/CP/FR-_06ENR-1.8-01-fr-FR.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>States ATS Contingency PlansAIP for ASECNAThis contingency plan contains procedures to ensure the provision of air navigation se...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: icao.int  
    Title: WP 3.3B Updates on ATS Provisions within ASECNA Airspace  
-   Link: <a href="https://www.icao.int/sites/default/files/WACAF/MeetingDocs/2025/AAO%20SG8/English/Working%20Papers/WP-3.3B-Updates-on-ATS-Provisions-within-ASECNA-Airspace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/WACAF/MeetingDocs/2025/AAO%20SG8/English/Working%20Papers/WP-3.3B-Updates-on-ATS-Provisions-within-ASECNA-Airspace.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WP-3.3B-Updates-on-ATS-Provisions-within-ASECNA-...18 Jul 2025 — 3 ASECNA has reviewed and assessed the prerequisites considerations for...</p></details>
+   Link:<a href="https://www.icao.int/sites/default/files/WACAF/MeetingDocs/2025/AAO%20SG8/English/Working%20Papers/WP-3.3B-Updates-on-ATS-Provisions-within-ASECNA-Airspace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/WACAF/MeetingDocs/2025/AAO%20SG8/English/Working%20Papers/WP-3.3B-Updates-on-ATS-Provisions-within-ASECNA-Airspace.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WP-3.3B-Updates-on-ATS-Provisions-within-ASECNA-...18 Jul 2025 — 3 ASECNA has reviewed and assessed the prerequisites considerations for...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skybrary.aero  
    Title: Manual of Aircraft Accident and Incident Investigation  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/3282.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3282.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Manual of Aircraft Accident and Incident InvestigationJune 19, 2015 — Immediate notification of accidents and incidents to the ac...</p></details>
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/3282.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3282.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manual of Aircraft Accident and Incident InvestigationJune 19, 2015 — Immediate notification of accidents and incidents to the ac...</p></details>
    Published: June 19, 2015  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/accident-and-serious-incident-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/accident-and-serious-incident-reporting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accident and serious incident reportingYou should report aircraft accidents and serious incidents directly to the AAIB. Visit the AAIB we...</p></details>
+   Link:<a href="https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/accident-and-serious-incident-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/about-us/make-a-report-or-complaint/report-something/mor/accident-and-serious-incident-reporting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accident and serious incident reportingYou should report aircraft accidents and serious incidents directly to the AAIB. Visit the AAIB we...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aviation-safety.net  
-   Link: <a href="https://aviation-safety.net/investigation/aaibs.php" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/investigation/aaibs.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkAviation Safety Network &gt; Accident investigation &gt; aaibsCôte d&#x27;Ivoire, Bureau des Enquêtes et Analyses des Acciden...</p></details>
+   Link:<a href="https://aviation-safety.net/investigation/aaibs.php" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/investigation/aaibs.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkAviation Safety Network &gt; Accident investigation &gt; aaibsCôte d&#x27;Ivoire, Bureau des Enquêtes et Analyses des Acciden...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aireon.com  
    Title: Case Study ASECNA AFCON Customer Flow FINAL  
-   Link: <a href="https://aireon.com/wp-content/uploads/2024/07/Aireon_Case-Study_ASECNA-AFCON-Customer-Flow_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aireon.com/wp-content/uploads/2024/07/Aireon_Case-Study_ASECNA-AFCON-Customer-Flow_FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASECNA to more accurately predict traffic flows into its 16.1 million square kilometres of airspace covering six Flight...Read more...</p></details>
+   Link:<a href="https://aireon.com/wp-content/uploads/2024/07/Aireon_Case-Study_ASECNA-AFCON-Customer-Flow_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aireon.com/wp-content/uploads/2024/07/Aireon_Case-Study_ASECNA-AFCON-Customer-Flow_FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASECNA to more accurately predict traffic flows into its 16.1 million square kilometres of airspace covering six Flight...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58791</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>henomena) sightings. It also provides...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58791" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58791</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>henomena) sightings. It also provides...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/safety/AIG/AIA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 RouïbaRead more...</p></details>
+   Link:<a href="https://www.icao.int/safety/AIG/AIA" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/safety/AIG/AIA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 RouïbaRead more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ace Phenomena) sightings. It also provides...</p></details>
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58792" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58792</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ace Phenomena) sightings. It also provides...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aim.asecna.aero  
-   Link: <a href="https://aim.asecna.aero/html/eAIP/FR-_02ENR-3.5-01-fr-FR.html" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/html/eAIP/FR-_02ENR-3.5-01-fr-FR.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASECNA (section ENR-3.5) valide à partir du 22 JAN 2026This contingency plan contains procedures to ensure the provision of air navigatio...</p></details>
+   Link:<a href="https://aim.asecna.aero/html/eAIP/FR-_02ENR-3.5-01-fr-FR.html" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/html/eAIP/FR-_02ENR-3.5-01-fr-FR.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASECNA (section ENR-3.5) valide à partir du 22 JAN 2026This contingency plan contains procedures to ensure the provision of air navigatio...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: ASECN A air traffic controllers strike  
-   Link: <a href="https://www.facebook.com/groups/186360765070814/posts/1673357069704502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/186360765070814/posts/1673357069704502/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the situation in...23 Sept 2022 — The Ivory Coast is experiencing a precarious situation, with reports of gunfire and chaos in t...</p></details>
+   Link:<a href="https://www.facebook.com/groups/186360765070814/posts/1673357069704502/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/186360765070814/posts/1673357069704502/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the situation in...23 Sept 2022 — The Ivory Coast is experiencing a precarious situation, with reports of gunfire and chaos in t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/874135574/ASECNA-Implementation-of-Contingency-Plans-in-ASECNA" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874135574/ASECNA-Implementation-of-Contingency-Plans-in-ASECNA</a>  
+   Link:<a href="https://www.scribd.com/document/874135574/ASECNA-Implementation-of-Contingency-Plans-in-ASECNA" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874135574/ASECNA-Implementation-of-Contingency-Plans-in-ASECNA</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aibghana.gov.gh  
-   Link: <a href="https://aibghana.gov.gh/wp-content/uploads/2021/06/VRA-ACC.-REPORT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aibghana.gov.gh/wp-content/uploads/2021/06/VRA-ACC.-REPORT.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIRCRAFT ACCIDENT REPORTThe aircraft had a valid C of A, a valid insurance certificate and a valid radio license from. ANAC, Cote d&#x27;Ivoir...</p></details>
+   Link:<a href="https://aibghana.gov.gh/wp-content/uploads/2021/06/VRA-ACC.-REPORT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aibghana.gov.gh/wp-content/uploads/2021/06/VRA-ACC.-REPORT.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIRCRAFT ACCIDENT REPORTThe aircraft had a valid C of A, a valid insurance certificate and a valid radio license from. ANAC, Cote d&#x27;Ivoir...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: smithsonianmag.com  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Flying SaucersBut GEIPAN does classify 23 percent of sightings as “unidentified phenomena,” and last year, about 10 cases w...</p></details>
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/department-of-flying-saucers-2294791/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Flying SaucersBut GEIPAN does classify 23 percent of sightings as “unidentified phenomena,” and last year, about 10 cases w...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hicaonline.in  
-   Link: <a href="https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haryana Institute of Civil Aviationprocedures manual of aircraft accident/incident investigationThe sole objective of an aircraft acciden...</p></details>
+   Link:<a href="https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haryana Institute of Civil Aviationprocedures manual of aircraft accident/incident investigationThe sole objective of an aircraft acciden...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: caa.co.uk  
-   Link: <a href="https://www.caa.co.uk/publication/download/23340" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/23340</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NATS Major Incident Investigation Final ReportPositive Output PO7 – Participation of the Flow Management Position (FMP) in Air Traffic In...</p></details>
+   Link:<a href="https://www.caa.co.uk/publication/download/23340" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/23340</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NATS Major Incident Investigation Final ReportPositive Output PO7 – Participation of the Flow Management Position (FMP) in Air Traffic In...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: bea.aero  
-   Link: <a href="https://bea.aero/en/investigation-reports/notified-events/" target="_blank" rel="noopener noreferrer nofollow">https://bea.aero/en/investigation-reports/notified-events/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety investigationsSerious incident to the flex-wing microlight Air Création NUVIX 15 identified 86TG and the plane Pilatus PC21 regist...</p></details>
+   Link:<a href="https://bea.aero/en/investigation-reports/notified-events/" target="_blank" rel="noopener noreferrer nofollow">https://bea.aero/en/investigation-reports/notified-events/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety investigationsSerious incident to the flex-wing microlight Air Création NUVIX 15 identified 86TG and the plane Pilatus PC21 regist...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: en.clickpetroleoegas.com.br  
-   Link: <a href="https://en.clickpetroleoegas.com.br/desde-os-anos-1970-a-franca-mantem-um-arquivo-oficial-que-investigou-e-catalogou-centenas-de-encontros-com-ovnis-tornou-relatorios-publicos-vml97/" target="_blank" rel="noopener noreferrer nofollow">https://en.clickpetroleoegas.com.br/desde-os-anos-1970-a-franca-mantem-um-arquivo-oficial-que-investigou-e-catalogou-centenas-de-encontros-com-ovnis-tornou-relatorios-publicos-vml97/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People Know, But Since the 1970s, France Has...11 Feb 2026 — GEIPAN, An Agency of CNES (France), Has Investigated and Published Hundreds...</p></details>
+   Link:<a href="https://en.clickpetroleoegas.com.br/desde-os-anos-1970-a-franca-mantem-um-arquivo-oficial-que-investigou-e-catalogou-centenas-de-encontros-com-ovnis-tornou-relatorios-publicos-vml97/" target="_blank" rel="noopener noreferrer nofollow">https://en.clickpetroleoegas.com.br/desde-os-anos-1970-a-franca-mantem-um-arquivo-oficial-que-investigou-e-catalogou-centenas-de-encontros-com-ovnis-tornou-relatorios-publicos-vml97/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People Know, But Since the 1970s, France Has...11 Feb 2026 — GEIPAN, An Agency of CNES (France), Has Investigated and Published Hundreds...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: satmasat.com  
-   Link: <a href="https://www.satmasat.com/files/reports/SAT/Final_Report_of_SAT_20-13th_April_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satmasat.com/files/reports/SAT/Final_Report_of_SAT_20-13th_April_2016.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OF AIR TRAFFIC SERVICES OVER THE SOUTH ATLANTIC (SAT/20). (Abidjan, Côte d&#x27;Ivoire 3-5 June 2015)). Page 2...Read more...</p></details>
+   Link:<a href="https://www.satmasat.com/files/reports/SAT/Final_Report_of_SAT_20-13th_April_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satmasat.com/files/reports/SAT/Final_Report_of_SAT_20-13th_April_2016.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OF AIR TRAFFIC SERVICES OVER THE SOUTH ATLANTIC (SAT/20). (Abidjan, Côte d&#x27;Ivoire 3-5 June 2015)). Page 2...Read more...</p></details>
    Published: June 2015  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: memoireonline.com  
-   Link: <a href="https://www.memoireonline.com/12/09/3037/m_Will-ASECNA-meet-the-needs-of-african-air-navigation-for-the-21st-century-an-analysis-of-asecna-str2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.memoireonline.com/12/09/3037/m_Will-ASECNA-meet-the-needs-of-african-air-navigation-for-the-21st-century-an-analysis-of-asecna-str2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>revention and safety management: 1 A reliable, timely and large enough...Read more...</p></details>
+   Link:<a href="https://www.memoireonline.com/12/09/3037/m_Will-ASECNA-meet-the-needs-of-african-air-navigation-for-the-21st-century-an-analysis-of-asecna-str2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.memoireonline.com/12/09/3037/m_Will-ASECNA-meet-the-needs-of-african-air-navigation-for-the-21st-century-an-analysis-of-asecna-str2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>revention and safety management: 1 A reliable, timely and large enough...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1r1ycsb/geipan_cness_transparent_public_archive_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1r1ycsb/geipan_cness_transparent_public_archive_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: CNES&#x27;s Transparent Public Archive of...11 Feb 2026 — GEIPAN, CNES&#x27;s unit tracing its lineage from GEPAN (1977) and SEPRA (1988)...</p></details>
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1r1ycsb/geipan_cness_transparent_public_archive_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1r1ycsb/geipan_cness_transparent_public_archive_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: CNES&#x27;s Transparent Public Archive of...11 Feb 2026 — GEIPAN, CNES&#x27;s unit tracing its lineage from GEPAN (1977) and SEPRA (1988)...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: UF O sightings by region in France  
-   Link: <a href="https://www.facebook.com/TheFrenchHistoryPodcast/posts/ufo-sightings-by-region-in-france-data-collected-by-geipan-frances-official-ufo-/1008652711265804/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFrenchHistoryPodcast/posts/ufo-sightings-by-region-in-france-data-collected-by-geipan-frances-official-ufo-/1008652711265804/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data collected...7 Aug 2024 — UFO sightings by region in France. Data collected by GEIPAN, France&#x27;s official UFO department. (France is...</p></details>
+   Link:<a href="https://www.facebook.com/TheFrenchHistoryPodcast/posts/ufo-sightings-by-region-in-france-data-collected-by-geipan-frances-official-ufo-/1008652711265804/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFrenchHistoryPodcast/posts/ufo-sightings-by-region-in-france-data-collected-by-geipan-frances-official-ufo-/1008652711265804/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data collected...7 Aug 2024 — UFO sightings by region in France. Data collected by GEIPAN, France&#x27;s official UFO department. (France is...</p></details>

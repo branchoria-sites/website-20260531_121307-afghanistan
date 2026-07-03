@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /afghanistan-c69153-index/
 description: Focused pages that expand on Afghanistan.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Afghanistan_c69153
 parent_title: Afghanistan
@@ -16,7 +16,7 @@ parent_permalink: /afghanistan/
 
 # Explore Topics in Afghanistan
 
-The following pages expand on the main **[Afghanistan]({{ '/afghanistan/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Afghanistan]({{ '/afghanistan/' | relative_url }})** page and cover its key branches in.
 
 - [Kandahar Case]({{ '/kandahar-case/' | relative_url }})
 - [Orb Videos]({{ '/orb-videos/' | relative_url }})

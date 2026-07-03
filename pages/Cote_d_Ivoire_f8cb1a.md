@@ -1194,25 +1194,25 @@ image: /assets/images/Cote_d_Ivoire_f8cb1a-overview-social.jpg
 
 ## What the public record actually contains
 
-The open record for Côte d’Ivoire is dominated by a few categories: social-media clips from Abidjan and nearby communes, reposted UFO-blog items, religiously interpreted sky events, and occasional entries in broad international UFO datasets. A cross-country research compilation hosted on ResearchGate lists Côte d’Ivoire with only seven UAP-type records, a tiny number relative to countries with long-running public reporting systems; the same table gives Côte d’Ivoire a population figure of 27,478,249 and a report rate of 0.25 per million, making clear that the dataset is not evidence of a large national case history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The open record for Côte d’Ivoire is dominated by a few categories: social-media clips from Abidjan and nearby communes, reposted UFO-blog items, religiously interpreted sky events, and occasional entries in broad international UFO datasets. A cross-country research compilation hosted on ResearchGate lists Côte d’Ivoire with only seven UAP-type records, a tiny number relative to countries with long-running public reporting systems; the same table gives Côte d’Ivoire a population figure of 27,478,249 and a report rate of 0.25 per million, making clear that the dataset is not evidence of a large national case history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Cote_d_Ivoire_f8cb1a-overview.webp" | relative_url }}" alt="Overview image for Cote d Ivoire" loading="eager" decoding="sync" fetchpriority="high">
 That number should not be read too literally. International UFO datasets often reflect who reports, where platforms are known, and which languages and countries their collectors cover. Côte d’Ivoire’s public-facing record is likely undercounted in English-language databases and over-represented in viral urban videos. It is also vulnerable to duplication: one striking clip can be reposted many times as if it were multiple events.
 
-There is no obvious public equivalent in Côte d’Ivoire to France’s GEIPAN, the unit within the French space agency CNES that receives reports, classifies cases, and publishes investigation summaries. GEIPAN’s own statistics are useful as a benchmark for what systematic investigation tends to find: across more than 9,700 testimonies and about 5,300 cases, it says around 63.2% of A and B cases are explained by misidentification or perception mistakes, 33.4% cannot be assessed for lack of reliable data, and about 3.4% remain unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Classification &#124; GEIPAN</span></span></span> Côte d’Ivoire’s public record lacks that kind of structured case file, so many claims remain stuck at the “interesting but not workable” stage.
+There is no obvious public equivalent in Côte d’Ivoire to France’s GEIPAN, the unit within the French space agency CNES that receives reports, classifies cases, and publishes investigation summaries. GEIPAN’s own statistics are useful as a benchmark for what systematic investigation tends to find: across more than 9,700 testimonies and about 5,300 cases, it says around 63.2% of A and B cases are explained by misidentification or perception mistakes, 33.4% cannot be assessed for lack of reliable data, and about 3.4% remain unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Classification &#124; GEIPAN</span></span></span> Côte d’Ivoire’s public record lacks that kind of structured case file, so many claims remain stuck at the “interesting but not workable” stage.
 
 ## The Yopougon 2011 video is the key contested case
 
-The most widely repeated Côte d’Ivoire UFO-adjacent item is the Yopougon event of 20 April 2011, filmed in Abidjan’s western district. The circulated story says a crowd saw a luminous form near or in front of the sun and interpreted it as the Virgin Mary. UFO sites then repackaged the same event as a possible alien or UFO sighting, sometimes using the phrase “Mother Mary or alien” to frame the ambiguity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufosightingsdaily.com/2011/04/alien-or-mother-mary-emerges-from-light.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsdaily.com">[ufosightingsdaily.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsdaily.com</span><span class="citation-popover-title">Alien or Mother Mary Emerges from light in Africa video</span><span class="citation-popover-snippet">Alien or Mother Mary Emerges from light in Africa video</span></span></span>
+The most widely repeated Côte d’Ivoire UFO-adjacent item is the Yopougon event of 20 April 2011, filmed in Abidjan’s western district. The circulated story says a crowd saw a luminous form near or in front of the sun and interpreted it as the Virgin Mary. UFO sites then repackaged the same event as a possible alien or UFO sighting, sometimes using the phrase “Mother Mary or alien” to frame the ambiguity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufosightingsdaily.com/2011/04/alien-or-mother-mary-emerges-from-light.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsdaily.com">[ufosightingsdaily.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsdaily.com</span><span class="citation-popover-title">Alien or Mother Mary Emerges from light in Africa video</span><span class="citation-popover-snippet">Alien or Mother Mary Emerges from light in Africa video</span></span></span>
 
-The case matters because it shows how the same sky event can be classified differently by different audiences. For local believers, the frame was religious. For UFO aggregators, the frame became anomalous aerial imagery. For sceptical observers, the strongest explanation is a combination of sun glare, overexposure, pareidolia, and crowd expectation. One contemporary sceptical commentary noted that viewers were looking toward the sun, that several eyewitnesses reportedly suffered eye injury after staring, and that the visible “figure” looked compatible with optical illusion or pareidolia rather than a distinct object in controlled footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://steveawiggins.com/2011/04/27/mary-in-the-sky-with-sequins/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: steveawiggins.com">[Steve A. Wiggins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">steveawiggins.com</span><span class="citation-popover-snippet">Mary in the Sky with Sequins? &#124; Steve A. Wiggins...</span></span></span>
+The case matters because it shows how the same sky event can be classified differently by different audiences. For local believers, the frame was religious. For UFO aggregators, the frame became anomalous aerial imagery. For sceptical observers, the strongest explanation is a combination of sun glare, overexposure, pareidolia, and crowd expectation. One contemporary sceptical commentary noted that viewers were looking toward the sun, that several eyewitnesses reportedly suffered eye injury after staring, and that the visible “figure” looked compatible with optical illusion or pareidolia rather than a distinct object in controlled footage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://steveawiggins.com/2011/04/27/mary-in-the-sky-with-sequins/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: steveawiggins.com">[Steve A. Wiggins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">steveawiggins.com</span><span class="citation-popover-snippet">Mary in the Sky with Sequins? &#124; Steve A. Wiggins...</span></span></span>
 
 That does not mean every witness was dishonest. It means the case has the wrong evidence profile for a strong UFO claim. The camera appears to be aimed into intense light; the phenomenon is not tied to radar, aviation reporting, triangulated witness positions, or independent optical instruments; and the interpretation depends heavily on what the viewer expects to see. In UFO terms, Yopougon 2011 is best treated as a contested visual-cultural event, not as a confirmed aerial object.
 
 <img src="{{ "/assets/images/Cote_d_Ivoire_f8cb1a-Illustration-1-dark.svg" | relative_url }}" alt="Cote d Ivoire illustration 1" data-theme-src-dark="{{ "/assets/images/Cote_d_Ivoire_f8cb1a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cote_d_Ivoire_f8cb1a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Abidjan produces more visible claims than the interior
 
-The apparent concentration of Côte d’Ivoire UFO-adjacent reports around Abidjan is probably not evidence that unusual phenomena favour the coast. It is more plausibly a reporting effect. Abidjan is the country’s main media, transport, and internet hub, and its district population was recorded at more than 6.3 million in the 2021 census. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Abidjan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> A larger urban population means more phones, more social sharing, more night-time lighting, more aircraft movements, and more ambiguous visual stimuli.
+The apparent concentration of Côte d’Ivoire UFO-adjacent reports around Abidjan is probably not evidence that unusual phenomena favour the coast. It is more plausibly a reporting effect. Abidjan is the country’s main media, transport, and internet hub, and its district population was recorded at more than 6.3 million in the 2021 census.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Abidjan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> A larger urban population means more phones, more social sharing, more night-time lighting, more aircraft movements, and more ambiguous visual stimuli.
 
 This matters for region-level interpretation. A night light over Abidjan, Bingerville, Cocody, Yopougon, or Port-Bouët is more likely to be filmed and uploaded than a similar light over a rural area. It is also more likely to have conventional sources nearby: aircraft approaching or leaving Félix Houphouët-Boigny International Airport, low clouds reflecting city light, drones, fireworks, advertising lights, or atmospheric effects above the lagoon and coast.
 
@@ -1220,7 +1220,7 @@ Interior regions may have darker skies and fewer aircraft, which could make astr
 
 ## Official records and the aviation gap
 
-Côte d’Ivoire does have formal aviation institutions, but public UFO investigation is not their visible remit. The National Civil Aviation Authority, ANAC, is responsible for civil aviation regulation, licensing, airfield certification, aviation safety functions, and representation of the state in civil aviation matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atc-network.com/atc-organisations/anac-ivory-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atc-network.com">[ATC Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atc-network.com</span><span class="citation-popover-title">ATC Network ANAC</span><span class="citation-popover-snippet">ATC Network ANAC</span></span></span> ASECNA, the regional air-navigation agency serving several African states, provides en-route air navigation, airspace organisation, aeronautical information, and aviation meteorology across a very large managed airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/presentation-missions-en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asecna.aero">[ASECNA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asecna.aero</span><span class="citation-popover-snippet">Open source on asecna.aero.</span></span></span>
+Côte d’Ivoire does have formal aviation institutions, but public UFO investigation is not their visible remit. The National Civil Aviation Authority, ANAC, is responsible for civil aviation regulation, licensing, airfield certification, aviation safety functions, and representation of the state in civil aviation matters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atc-network.com/atc-organisations/anac-ivory-coast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atc-network.com">[ATC Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atc-network.com</span><span class="citation-popover-title">ATC Network ANAC</span><span class="citation-popover-snippet">ATC Network ANAC</span></span></span> ASECNA, the regional air-navigation agency serving several African states, provides en-route air navigation, airspace organisation, aeronautical information, and aviation meteorology across a very large managed airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/presentation-missions-en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asecna.aero">[ASECNA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asecna.aero</span><span class="citation-popover-snippet">Open source on asecna.aero.</span></span></span>
 
 Those institutions matter because a strong UFO case normally improves when it intersects with aviation records: pilot reports, air-traffic-control logs, radar returns, meteorological records, flight plans, or incident investigations. In the Côte d’Ivoire material that is publicly easy to find, those supporting layers are generally absent. The public claims are mostly witness-led and media-led rather than aviation-led.
 
@@ -1232,18 +1232,18 @@ That absence is not proof that nothing unusual has ever been reported to authori
 
 The cleanest way to assess Côte d’Ivoire’s UFO material is to separate claim status from interpretation.
 
-**Confirmed as reports, not as extraordinary objects:** Some Côte d’Ivoire-linked reports clearly exist as public claims. The Yopougon 2011 video exists as a circulated event; UFO blogs and religious pages discussed it; and broader data compilations include a very small number of Côte d’Ivoire UAP entries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufosightingsdaily.com/2011/04/alien-or-mother-mary-emerges-from-light.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsdaily.com">[ufosightingsdaily.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsdaily.com</span><span class="citation-popover-title">Alien or Mother Mary Emerges from light in Africa video</span><span class="citation-popover-snippet">Alien or Mother Mary Emerges from light in Africa video</span></span></span> What is confirmed is the reporting activity, not the extraordinary nature of the phenomenon.
+**Confirmed as reports, not as extraordinary objects:** Some Côte d’Ivoire-linked reports clearly exist as public claims. The Yopougon 2011 video exists as a circulated event; UFO blogs and religious pages discussed it; and broader data compilations include a very small number of Côte d’Ivoire UAP entries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufosightingsdaily.com/2011/04/alien-or-mother-mary-emerges-from-light.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufosightingsdaily.com">[ufosightingsdaily.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufosightingsdaily.com</span><span class="citation-popover-title">Alien or Mother Mary Emerges from light in Africa video</span><span class="citation-popover-snippet">Alien or Mother Mary Emerges from light in Africa video</span></span></span> What is confirmed is the reporting activity, not the extraordinary nature of the phenomenon.
 
-**Contested visual cases:** The Yopougon material sits here. It has multiple retellings and a memorable cultural setting, but its evidential weakness is severe. Sun glare, camera artefacts, expectation, and pareidolia are plausible explanations, and the lack of independent measurements prevents a firmer conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://steveawiggins.com/2011/04/27/mary-in-the-sky-with-sequins/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: steveawiggins.com">[Steve A. Wiggins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">steveawiggins.com</span><span class="citation-popover-snippet">Mary in the Sky with Sequins? &#124; Steve A. Wiggins...</span></span></span>
+**Contested visual cases:** The Yopougon material sits here. It has multiple retellings and a memorable cultural setting, but its evidential weakness is severe. Sun glare, camera artefacts, expectation, and pareidolia are plausible explanations, and the lack of independent measurements prevents a firmer conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://steveawiggins.com/2011/04/27/mary-in-the-sky-with-sequins/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: steveawiggins.com">[Steve A. Wiggins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">steveawiggins.com</span><span class="citation-popover-snippet">Mary in the Sky with Sequins? &#124; Steve A. Wiggins...</span></span></span>
 
-**Likely misidentifications:** Many Côte d’Ivoire sky-light reports would need to be checked against common causes before being treated as anomalous. GEIPAN’s public guidance explains a basic perception problem: Venus near the horizon, the International Space Station, and an aircraft seen before landing can have the same apparent look to an observer; low-orbit satellites, aircraft, and lanterns can also appear to move at similar apparent speeds if the observer misjudges distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/what-did-i-see/step-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Understanding a Phenomenon &#124; GEIPAN</span><span class="citation-popover-snippet">Understanding a Phenomenon &#124; GEIPAN</span></span></span>
+**Likely misidentifications:** Many Côte d’Ivoire sky-light reports would need to be checked against common causes before being treated as anomalous. GEIPAN’s public guidance explains a basic perception problem: Venus near the horizon, the International Space Station, and an aircraft seen before landing can have the same apparent look to an observer; low-orbit satellites, aircraft, and lanterns can also appear to move at similar apparent speeds if the observer misjudges distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/en/what-did-i-see/step-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">Understanding a Phenomenon &#124; GEIPAN</span><span class="citation-popover-snippet">Understanding a Phenomenon &#124; GEIPAN</span></span></span>
 
 **Debunked or unsupported viral claims:** Social-media clips labelled “ovni” without date, direction, continuous footage, witness separation, or flight-path checks should be treated as unsupported. That is especially true when they are reposted without original metadata. A clip can be genuinely filmed in Côte d’Ivoire and still show an aircraft, drone, satellite train, planet, flare, lantern, meteor, reflection, or camera artefact.
 
 <img src="{{ "/assets/images/Cote_d_Ivoire_f8cb1a-Illustration-2-dark.svg" | relative_url }}" alt="Cote d Ivoire illustration 2" data-theme-src-dark="{{ "/assets/images/Cote_d_Ivoire_f8cb1a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cote_d_Ivoire_f8cb1a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The most likely explanations for Ivorian sky reports
 
-Most reported UFOs worldwide resolve into ordinary sources when investigators obtain enough data. That pattern is relevant to Côte d’Ivoire because the country’s public reports are usually data-poor. NASA’s independent UAP study emphasised that conventional objects such as balloons and drones can be reported as anomalies, and that useful progress depends on calibrated data and the elimination of known events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> AARO, the US defence office dealing with UAP, similarly states that it has found no evidence of extraterrestrial technology, while continuing to examine unresolved reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+Most reported UFOs worldwide resolve into ordinary sources when investigators obtain enough data. That pattern is relevant to Côte d’Ivoire because the country’s public reports are usually data-poor. NASA’s independent UAP study emphasised that conventional objects such as balloons and drones can be reported as anomalies, and that useful progress depends on calibrated data and the elimination of known events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> AARO, the US defence office dealing with UAP, similarly states that it has found no evidence of extraterrestrial technology, while continuing to examine unresolved reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 For Côte d’Ivoire, the main conventional explanations to test first are:
 
@@ -1283,194 +1283,194 @@ For a country-level project, Côte d’Ivoire should be linked naturally to sibl
 Côte d’Ivoire has no well-documented public UFO chronology comparable to countries with dedicated case archives. The available record is small, fragmented, and dominated by contested visual claims rather than formally investigated incidents. The Yopougon 2011 event is the central public example, but it is better understood as a culturally charged sky-video episode than as evidence of an unexplained craft. The most reliable position is cautious: Côte d’Ivoire has reported UFO-like claims, but no publicly available case currently stands out as confirmed, instrument-supported evidence of an extraordinary aerial object.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do Ivorian UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do Ivorian UFO Reports Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Useful for understanding folklore-driven and culturally interpreted sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding folklore-driven and culturally interpreted sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a reliable overview for readers exploring sparse national UFO records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a reliable overview for readers exploring sparse national UFO records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Especially relevant where reports intersect with religion and social media.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Especially relevant where reports intersect with religion and social media.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers assess weak or ambiguous evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers assess weak or ambiguous evidence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-ivorian-ufo-reports-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-ivorian-ufo-reports-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1486,7 +1486,7 @@ Côte d’Ivoire has no well-documented public UFO chronology comparable to coun
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1506,7 +1506,7 @@ Côte d’Ivoire has no well-documented public UFO chronology comparable to coun
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1538,7 +1538,7 @@ Côte d’Ivoire has no well-documented public UFO chronology comparable to coun
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1590,7 +1590,7 @@ Côte d’Ivoire has no well-documented public UFO chronology comparable to coun
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1635,7 +1635,7 @@ Côte d’Ivoire has no well-documented public UFO chronology comparable to coun
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1676,397 +1676,397 @@ Côte d’Ivoire has no well-documented public UFO chronology comparable to coun
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
+   Link:<a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cnes-geipan.fr  
    Title: Classification | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/58787</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufosightingsdaily.com  
    Title: Alien or Mother Mary Emerges from light in Africa video  
-   Link: <a href="https://www.ufosightingsdaily.com/2011/04/alien-or-mother-mary-emerges-from-light.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosightingsdaily.com/2011/04/alien-or-mother-mary-emerges-from-light.html</a>  
+   Link:<a href="https://www.ufosightingsdaily.com/2011/04/alien-or-mother-mary-emerges-from-light.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosightingsdaily.com/2011/04/alien-or-mother-mary-emerges-from-light.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: steveawiggins.com  
    Title: Steve A. Wiggins  
-   Link: <a href="https://steveawiggins.com/2011/04/27/mary-in-the-sky-with-sequins/" target="_blank" rel="noopener noreferrer nofollow">https://steveawiggins.com/2011/04/27/mary-in-the-sky-with-sequins/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mary in the Sky with Sequins? | Steve A. Wiggins...</p></details>
+   Link:<a href="https://steveawiggins.com/2011/04/27/mary-in-the-sky-with-sequins/" target="_blank" rel="noopener noreferrer nofollow">https://steveawiggins.com/2011/04/27/mary-in-the-sky-with-sequins/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mary in the Sky with Sequins? | Steve A. Wiggins...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Abidjan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Abidjan</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Abidjan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Abidjan</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: atc-network.com  
    Title: ATC Network ANAC  
-   Link: <a href="https://www.atc-network.com/atc-organisations/anac-ivory-coast" target="_blank" rel="noopener noreferrer nofollow">https://www.atc-network.com/atc-organisations/anac-ivory-coast</a>  
+   Link:<a href="https://www.atc-network.com/atc-organisations/anac-ivory-coast" target="_blank" rel="noopener noreferrer nofollow">https://www.atc-network.com/atc-organisations/anac-ivory-coast</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: asecna.aero  
-   Link: <a href="https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/presentation-missions-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/presentation-missions-en</a>  
+   Link:<a href="https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/presentation-missions-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/2014-03-31-16-53-9-en/presentation-missions-en</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cnes-geipan.fr  
    Title: Understanding a Phenomenon | GEIPAN  
-   Link: <a href="https://www.cnes-geipan.fr/en/what-did-i-see/step-1" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/what-did-i-see/step-1</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/what-did-i-see/step-1" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/what-did-i-see/step-1</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/7infoci/videos/le-t%C3%A9moignage-d%C3%A9lys%C3%A9e-akowendo-alias-fineboy-un-ressortissant-ivoirien-vivant-%C3%A0-/1511271830708182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7infoci/videos/le-t%C3%A9moignage-d%C3%A9lys%C3%A9e-akowendo-alias-fineboy-un-ressortissant-ivoirien-vivant-%C3%A0-/1511271830708182/</a>  
+   Link:<a href="https://www.facebook.com/7infoci/videos/le-t%C3%A9moignage-d%C3%A9lys%C3%A9e-akowendo-alias-fineboy-un-ressortissant-ivoirien-vivant-%C3%A0-/1511271830708182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7infoci/videos/le-t%C3%A9moignage-d%C3%A9lys%C3%A9e-akowendo-alias-fineboy-un-ressortissant-ivoirien-vivant-%C3%A0-/1511271830708182/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/153800132006221/posts/1591113884941498/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/153800132006221/posts/1591113884941498/</a>  
+   Link:<a href="https://www.facebook.com/groups/153800132006221/posts/1591113884941498/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/153800132006221/posts/1591113884941498/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/edithbroubleu/posts/-aliens-fox-news-la-cha%C3%AEne-la-plus-regard%C3%A9e-aux-%C3%A9tats-unis-a-d%C3%A9voil%C3%A9-ce-mardi-19/1539628977520542/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edithbroubleu/posts/-aliens-fox-news-la-cha%C3%AEne-la-plus-regard%C3%A9e-aux-%C3%A9tats-unis-a-d%C3%A9voil%C3%A9-ce-mardi-19/1539628977520542/</a>  
+   Link:<a href="https://www.facebook.com/edithbroubleu/posts/-aliens-fox-news-la-cha%C3%AEne-la-plus-regard%C3%A9e-aux-%C3%A9tats-unis-a-d%C3%A9voil%C3%A9-ce-mardi-19/1539628977520542/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edithbroubleu/posts/-aliens-fox-news-la-cha%C3%AEne-la-plus-regard%C3%A9e-aux-%C3%A9tats-unis-a-d%C3%A9voil%C3%A9-ce-mardi-19/1539628977520542/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Fox32Chicago/posts/many-witnesses-were-blown-away-by-what-they-saw-now-we-know-what-it-was/592445689595302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Fox32Chicago/posts/many-witnesses-were-blown-away-by-what-they-saw-now-we-know-what-it-was/592445689595302/</a>  
+   Link:<a href="https://www.facebook.com/Fox32Chicago/posts/many-witnesses-were-blown-away-by-what-they-saw-now-we-know-what-it-was/592445689595302/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Fox32Chicago/posts/many-witnesses-were-blown-away-by-what-they-saw-now-we-know-what-it-was/592445689595302/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/brutofficiel/posts/donald-trump-va-d%C3%A9classifier-des-documents-sur-les-ovni/1365851035578329/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brutofficiel/posts/donald-trump-va-d%C3%A9classifier-des-documents-sur-les-ovni/1365851035578329/</a>  
+   Link:<a href="https://www.facebook.com/brutofficiel/posts/donald-trump-va-d%C3%A9classifier-des-documents-sur-les-ovni/1365851035578329/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brutofficiel/posts/donald-trump-va-d%C3%A9classifier-des-documents-sur-les-ovni/1365851035578329/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Reuters/posts/banco-national-park-in-abidjan-is-the-worlds-second-biggest-urban-park-authoriti/430262302297841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/banco-national-park-in-abidjan-is-the-worlds-second-biggest-urban-park-authoriti/430262302297841/</a>  
+   Link:<a href="https://www.facebook.com/Reuters/posts/banco-national-park-in-abidjan-is-the-worlds-second-biggest-urban-park-authoriti/430262302297841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/posts/banco-national-park-in-abidjan-is-the-worlds-second-biggest-urban-park-authoriti/430262302297841/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2066092363611852/posts/4057234147830987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2066092363611852/posts/4057234147830987/</a>  
+   Link:<a href="https://www.facebook.com/groups/2066092363611852/posts/4057234147830987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2066092363611852/posts/4057234147830987/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LaCroixAfrica/posts/en-c%C3%B4te-divoire-la-statue-de-la-vierge-marie-vol%C3%A9e-et-profan%C3%A9e-dans-une-paroisse/2041752049415464/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LaCroixAfrica/posts/en-c%C3%B4te-divoire-la-statue-de-la-vierge-marie-vol%C3%A9e-et-profan%C3%A9e-dans-une-paroisse/2041752049415464/</a>  
+   Link:<a href="https://www.facebook.com/LaCroixAfrica/posts/en-c%C3%B4te-divoire-la-statue-de-la-vierge-marie-vol%C3%A9e-et-profan%C3%A9e-dans-une-paroisse/2041752049415464/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LaCroixAfrica/posts/en-c%C3%B4te-divoire-la-statue-de-la-vierge-marie-vol%C3%A9e-et-profan%C3%A9e-dans-une-paroisse/2041752049415464/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: cotedivoire diocèse de yopougonlannée 2024 2025 placée sous le sceau de la vierg  
-   Link: <a href="https://www.facebook.com/catholikia/posts/cotedivoire-dioc%C3%A8se-de-yopougonlann%C3%A9e-2024-2025-plac%C3%A9e-sous-le-sceau-de-la-vierg/1164894731968698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/catholikia/posts/cotedivoire-dioc%C3%A8se-de-yopougonlann%C3%A9e-2024-2025-plac%C3%A9e-sous-le-sceau-de-la-vierg/1164894731968698/</a>  
+   Link:<a href="https://www.facebook.com/catholikia/posts/cotedivoire-dioc%C3%A8se-de-yopougonlann%C3%A9e-2024-2025-plac%C3%A9e-sous-le-sceau-de-la-vierg/1164894731968698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/catholikia/posts/cotedivoire-dioc%C3%A8se-de-yopougonlann%C3%A9e-2024-2025-plac%C3%A9e-sous-le-sceau-de-la-vierg/1164894731968698/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheMercifulMother/videos/the-merciful-mother-appeared-on-april-20-2011-at-ivory-coast/889597667722658/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheMercifulMother/videos/the-merciful-mother-appeared-on-april-20-2011-at-ivory-coast/889597667722658/</a>  
+   Link:<a href="https://www.facebook.com/TheMercifulMother/videos/the-merciful-mother-appeared-on-april-20-2011-at-ivory-coast/889597667722658/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheMercifulMother/videos/the-merciful-mother-appeared-on-april-20-2011-at-ivory-coast/889597667722658/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NatGeoFR/posts/un-objet-volant-non-identifi%C3%A9-terrifie-la-petite-ville-sans-histoire-dalfena-au-/3404841566216442/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NatGeoFR/posts/un-objet-volant-non-identifi%C3%A9-terrifie-la-petite-ville-sans-histoire-dalfena-au-/3404841566216442/</a>  
+   Link:<a href="https://www.facebook.com/NatGeoFR/posts/un-objet-volant-non-identifi%C3%A9-terrifie-la-petite-ville-sans-histoire-dalfena-au-/3404841566216442/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NatGeoFR/posts/un-objet-volant-non-identifi%C3%A9-terrifie-la-petite-ville-sans-histoire-dalfena-au-/3404841566216442/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ivoirmixtour/videos/-abidjan-un-tiktokeur-affirme-avoir-vu-un-objet-non-identifi%C3%A9-ovni-dans-le-ciel-/732263996239149/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ivoirmixtour/videos/-abidjan-un-tiktokeur-affirme-avoir-vu-un-objet-non-identifi%C3%A9-ovni-dans-le-ciel-/732263996239149/</a>  
+   Link:<a href="https://www.facebook.com/ivoirmixtour/videos/-abidjan-un-tiktokeur-affirme-avoir-vu-un-objet-non-identifi%C3%A9-ovni-dans-le-ciel-/732263996239149/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ivoirmixtour/videos/-abidjan-un-tiktokeur-affirme-avoir-vu-un-objet-non-identifi%C3%A9-ovni-dans-le-ciel-/732263996239149/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: Garde Cotiere Canadienne  
-   Link: <a href="https://www.facebook.com/groups/GardeCotiereCanadienne/posts/25782833394667729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/GardeCotiereCanadienne/posts/25782833394667729/</a>  
+   Link:<a href="https://www.facebook.com/groups/GardeCotiereCanadienne/posts/25782833394667729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/GardeCotiereCanadienne/posts/25782833394667729/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/zinfos974.reunion/posts/pluie-dovnis-dans-le-ciel-am%C3%A9ricain-les-avions-de-chasse-entrent-en-action/6328315603845623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/zinfos974.reunion/posts/pluie-dovnis-dans-le-ciel-am%C3%A9ricain-les-avions-de-chasse-entrent-en-action/6328315603845623/</a>  
+   Link:<a href="https://www.facebook.com/zinfos974.reunion/posts/pluie-dovnis-dans-le-ciel-am%C3%A9ricain-les-avions-de-chasse-entrent-en-action/6328315603845623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/zinfos974.reunion/posts/pluie-dovnis-dans-le-ciel-am%C3%A9ricain-les-avions-de-chasse-entrent-en-action/6328315603845623/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Ovajabmedia/videos/-%EF%B8%8F-trump-d%C3%A9classe-les-dossiers-ovni-objet-volant-non-identifi%C3%A9-le-pentagone-vien/2406612373191020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Ovajabmedia/videos/-%EF%B8%8F-trump-d%C3%A9classe-les-dossiers-ovni-objet-volant-non-identifi%C3%A9-le-pentagone-vien/2406612373191020/</a>  
+   Link:<a href="https://www.facebook.com/Ovajabmedia/videos/-%EF%B8%8F-trump-d%C3%A9classe-les-dossiers-ovni-objet-volant-non-identifi%C3%A9-le-pentagone-vien/2406612373191020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Ovajabmedia/videos/-%EF%B8%8F-trump-d%C3%A9classe-les-dossiers-ovni-objet-volant-non-identifi%C3%A9-le-pentagone-vien/2406612373191020/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lemonde.fr/posts/au-japon-une-boule-de-feu-a-%C3%A9t%C3%A9-observ%C3%A9e-dans-le-ciel-des-images-publi%C3%A9es-en-lig/1178567960971164/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lemonde.fr/posts/au-japon-une-boule-de-feu-a-%C3%A9t%C3%A9-observ%C3%A9e-dans-le-ciel-des-images-publi%C3%A9es-en-lig/1178567960971164/</a>  
+   Link:<a href="https://www.facebook.com/lemonde.fr/posts/au-japon-une-boule-de-feu-a-%C3%A9t%C3%A9-observ%C3%A9e-dans-le-ciel-des-images-publi%C3%A9es-en-lig/1178567960971164/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lemonde.fr/posts/au-japon-une-boule-de-feu-a-%C3%A9t%C3%A9-observ%C3%A9e-dans-le-ciel-des-images-publi%C3%A9es-en-lig/1178567960971164/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kpakpatocom/posts/un-autre-objet-m%C3%A9tallique-non-identifi%C3%A9-long-dune-dizaine-de-m%C3%A8tre-semblable-%C3%A0-c/933631717089655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kpakpatocom/posts/un-autre-objet-m%C3%A9tallique-non-identifi%C3%A9-long-dune-dizaine-de-m%C3%A8tre-semblable-%C3%A0-c/933631717089655/</a>  
+   Link:<a href="https://www.facebook.com/kpakpatocom/posts/un-autre-objet-m%C3%A9tallique-non-identifi%C3%A9-long-dune-dizaine-de-m%C3%A8tre-semblable-%C3%A0-c/933631717089655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kpakpatocom/posts/un-autre-objet-m%C3%A9tallique-non-identifi%C3%A9-long-dune-dizaine-de-m%C3%A8tre-semblable-%C3%A0-c/933631717089655/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fr.euronews/posts/boule-de-feu-dans-le-ciel-d%C3%A9tonation-au-sol-une-m%C3%A9t%C3%A9orite-a-travers%C3%A9-le-toit-dun/1391080449724712/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fr.euronews/posts/boule-de-feu-dans-le-ciel-d%C3%A9tonation-au-sol-une-m%C3%A9t%C3%A9orite-a-travers%C3%A9-le-toit-dun/1391080449724712/</a>  
+   Link:<a href="https://www.facebook.com/fr.euronews/posts/boule-de-feu-dans-le-ciel-d%C3%A9tonation-au-sol-une-m%C3%A9t%C3%A9orite-a-travers%C3%A9-le-toit-dun/1391080449724712/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fr.euronews/posts/boule-de-feu-dans-le-ciel-d%C3%A9tonation-au-sol-une-m%C3%A9t%C3%A9orite-a-travers%C3%A9-le-toit-dun/1391080449724712/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/story.php?id=108314010956599&amp;story_fbid=774623934325600" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/story.php?id=108314010956599&amp;story_fbid=774623934325600</a>  
+   Link:<a href="https://www.facebook.com/story.php?id=108314010956599&amp;story_fbid=774623934325600" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/story.php?id=108314010956599&amp;story_fbid=774623934325600</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BFMTV/videos/une-%C3%A9trange-boule-de-feu-au-dessus-du-mont-fuji/1658842962148743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BFMTV/videos/une-%C3%A9trange-boule-de-feu-au-dessus-du-mont-fuji/1658842962148743/</a>  
+   Link:<a href="https://www.facebook.com/BFMTV/videos/une-%C3%A9trange-boule-de-feu-au-dessus-du-mont-fuji/1658842962148743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BFMTV/videos/une-%C3%A9trange-boule-de-feu-au-dessus-du-mont-fuji/1658842962148743/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/edithbroubleu/posts/feux-dartifice-lanc%C3%A9s-depuis-le-ciel-et-spectacle-lumineux-de-drones-dans-la-vil/1136208424529268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edithbroubleu/posts/feux-dartifice-lanc%C3%A9s-depuis-le-ciel-et-spectacle-lumineux-de-drones-dans-la-vil/1136208424529268/</a>  
+   Link:<a href="https://www.facebook.com/edithbroubleu/posts/feux-dartifice-lanc%C3%A9s-depuis-le-ciel-et-spectacle-lumineux-de-drones-dans-la-vil/1136208424529268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edithbroubleu/posts/feux-dartifice-lanc%C3%A9s-depuis-le-ciel-et-spectacle-lumineux-de-drones-dans-la-vil/1136208424529268/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: kenya airways flight 431 30 january 2000 25 years ago todayon the night of janu  
-   Link: <a href="https://www.facebook.com/61556179595076/posts/-kenya-airways-flight-431-30-january-2000-25-years-ago-todayon-the-night-of-janu/122272216532205986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61556179595076/posts/-kenya-airways-flight-431-30-january-2000-25-years-ago-todayon-the-night-of-janu/122272216532205986/</a>  
+   Link:<a href="https://www.facebook.com/61556179595076/posts/-kenya-airways-flight-431-30-january-2000-25-years-ago-todayon-the-night-of-janu/122272216532205986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61556179595076/posts/-kenya-airways-flight-431-30-january-2000-25-years-ago-todayon-the-night-of-janu/122272216532205986/</a>  
    Published: january 2000  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Ecowas.Cedeao/posts/ecowas-air-transport-experts-contemplate-the-removal-of-taxes-unrelated-to-air-t/876229084682719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Ecowas.Cedeao/posts/ecowas-air-transport-experts-contemplate-the-removal-of-taxes-unrelated-to-air-t/876229084682719/</a>  
+   Link:<a href="https://www.facebook.com/Ecowas.Cedeao/posts/ecowas-air-transport-experts-contemplate-the-removal-of-taxes-unrelated-to-air-t/876229084682719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Ecowas.Cedeao/posts/ecowas-air-transport-experts-contemplate-the-removal-of-taxes-unrelated-to-air-t/876229084682719/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Nighttime.adventure/videos/strange-lights-in-the-sky-starlink-or-ufo-/1320584453301404/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nighttime.adventure/videos/strange-lights-in-the-sky-starlink-or-ufo-/1320584453301404/</a>  
+   Link:<a href="https://www.facebook.com/Nighttime.adventure/videos/strange-lights-in-the-sky-starlink-or-ufo-/1320584453301404/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nighttime.adventure/videos/strange-lights-in-the-sky-starlink-or-ufo-/1320584453301404/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/113770296705472/posts/1246263920122765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/113770296705472/posts/1246263920122765/</a>  
+   Link:<a href="https://www.facebook.com/groups/113770296705472/posts/1246263920122765/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/113770296705472/posts/1246263920122765/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/</a>  
+   Link:<a href="https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newshour/posts/unexplained-sightings-have-appeared-in-our-skies-for-years-and-one-of-the-most-p/1453136603348248/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/brutofficiel/posts/trois-rectangles-lumineux-oranges-vifs-qui-volent-dans-le-ciel-avant-de-s%C3%A9vapore/1217731100390324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brutofficiel/posts/trois-rectangles-lumineux-oranges-vifs-qui-volent-dans-le-ciel-avant-de-s%C3%A9vapore/1217731100390324/</a>  
+   Link:<a href="https://www.facebook.com/brutofficiel/posts/trois-rectangles-lumineux-oranges-vifs-qui-volent-dans-le-ciel-avant-de-s%C3%A9vapore/1217731100390324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brutofficiel/posts/trois-rectangles-lumineux-oranges-vifs-qui-volent-dans-le-ciel-avant-de-s%C3%A9vapore/1217731100390324/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WABENews/posts/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1408885844612098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WABENews/posts/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1408885844612098/</a>  
+   Link:<a href="https://www.facebook.com/WABENews/posts/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1408885844612098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WABENews/posts/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1408885844612098/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/238876956176484/posts/580361445361365/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/238876956176484/posts/580361445361365/</a>  
+   Link:<a href="https://www.facebook.com/groups/238876956176484/posts/580361445361365/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/238876956176484/posts/580361445361365/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/381060797081826/posts/839110121276889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/381060797081826/posts/839110121276889/</a>  
+   Link:<a href="https://www.facebook.com/groups/381060797081826/posts/839110121276889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/381060797081826/posts/839110121276889/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
    Title: babou ceesay talks alienearthknown for standout roles in wolfe guerilla dark mon  
-   Link: <a href="https://www.facebook.com/thebritishblacklist/posts/babou-ceesay-talks-alienearthknown-for-standout-roles-in-wolfe-guerilla-dark-mon/1506674800773693/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thebritishblacklist/posts/babou-ceesay-talks-alienearthknown-for-standout-roles-in-wolfe-guerilla-dark-mon/1506674800773693/</a>  
+   Link:<a href="https://www.facebook.com/thebritishblacklist/posts/babou-ceesay-talks-alienearthknown-for-standout-roles-in-wolfe-guerilla-dark-mon/1506674800773693/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thebritishblacklist/posts/babou-ceesay-talks-alienearthknown-for-standout-roles-in-wolfe-guerilla-dark-mon/1506674800773693/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PhilTippett/posts/-hello-france-here-to-give-masterclass-some-talks-w-my-documentarian-cohort-mr-a/10155998590057068/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PhilTippett/posts/-hello-france-here-to-give-masterclass-some-talks-w-my-documentarian-cohort-mr-a/10155998590057068/</a>  
+   Link:<a href="https://www.facebook.com/PhilTippett/posts/-hello-france-here-to-give-masterclass-some-talks-w-my-documentarian-cohort-mr-a/10155998590057068/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PhilTippett/posts/-hello-france-here-to-give-masterclass-some-talks-w-my-documentarian-cohort-mr-a/10155998590057068/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100044394970859/posts/oreille-dor-%C3%A0-larm%C3%A9e-il-reconna%C3%AEt-en-direct-des-navires-aux-bruits-de-leurs-h%C3%A9li/1307530734070080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100044394970859/posts/oreille-dor-%C3%A0-larm%C3%A9e-il-reconna%C3%AEt-en-direct-des-navires-aux-bruits-de-leurs-h%C3%A9li/1307530734070080/</a>  
+   Link:<a href="https://www.facebook.com/100044394970859/posts/oreille-dor-%C3%A0-larm%C3%A9e-il-reconna%C3%AEt-en-direct-des-navires-aux-bruits-de-leurs-h%C3%A9li/1307530734070080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100044394970859/posts/oreille-dor-%C3%A0-larm%C3%A9e-il-reconna%C3%AEt-en-direct-des-navires-aux-bruits-de-leurs-h%C3%A9li/1307530734070080/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/956662998760367/posts/1409577923468870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/956662998760367/posts/1409577923468870/</a>  
+   Link:<a href="https://www.facebook.com/groups/956662998760367/posts/1409577923468870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/956662998760367/posts/1409577923468870/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: cnes-geipan.fr  
    Title: note esterle 83 2  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/note_esterle_83_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/note_esterle_83_2.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/note_esterle_83_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/note_esterle_83_2.pdf</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/qu-ai-je-vu/etape-1" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/qu-ai-je-vu/etape-1</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/qu-ai-je-vu/etape-1" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/qu-ai-je-vu/etape-1</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
+   Link:<a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: cnes-geipan.fr  
    Title: simulation rentree atmospherique 1990  
-   Link: <a href="https://www.cnes-geipan.fr/fr/actualites/simulation-rentree-atmospherique-1990" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/actualites/simulation-rentree-atmospherique-1990</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/actualites/simulation-rentree-atmospherique-1990" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/actualites/simulation-rentree-atmospherique-1990</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: cnes-geipan.fr  
    Title: 03 ROSPARS full  
-   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/03_ROSPARS_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/03_ROSPARS_full.pdf</a>  
+   Link:<a href="https://www.cnes-geipan.fr/sites/default/files/03_ROSPARS_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/03_ROSPARS_full.pdf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: cnes-geipan.fr  
-   Link: <a href="https://www.cnes-geipan.fr/fr/qu-ai-je-vu/etape-2" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/qu-ai-je-vu/etape-2</a>  
+   Link:<a href="https://www.cnes-geipan.fr/fr/qu-ai-je-vu/etape-2" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/fr/qu-ai-je-vu/etape-2</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: asecna.aero  
-   Link: <a href="https://www.asecna.aero/index.php/en/nos-metiers-en/l-atm-air-traffic-management-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/nos-metiers-en/l-atm-air-traffic-management-en</a>  
+   Link:<a href="https://www.asecna.aero/index.php/en/nos-metiers-en/l-atm-air-traffic-management-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/nos-metiers-en/l-atm-air-traffic-management-en</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: asecna.aero  
    Title: ASECN A online  
-   Link: <a href="https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/cooperation-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/cooperation-en</a>  
+   Link:<a href="https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/cooperation-en" target="_blank" rel="noopener noreferrer nofollow">https://www.asecna.aero/index.php/en/2014-03-31-16-47-52-fr/cooperation-en</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: aim.asecna.aero  
-   Link: <a href="https://aim.asecna.aero/html/eAIP/FR-_06ENR-1.8-01-fr-FR.html" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/html/eAIP/FR-_06ENR-1.8-01-fr-FR.html</a>  
+   Link:<a href="https://aim.asecna.aero/html/eAIP/FR-_06ENR-1.8-01-fr-FR.html" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/html/eAIP/FR-_06ENR-1.8-01-fr-FR.html</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: aim.asecna.aero  
    Title: aero AI P ASECNAActualité / Latest news · AIC NR 06/B/26FC  
-   Link: <a href="https://aim.asecna.aero/" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/</a>  
+   Link:<a href="https://aim.asecna.aero/" target="_blank" rel="noopener noreferrer nofollow">https://aim.asecna.aero/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: Wikipedia  
    Title: UFO sightings in Africa  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Africa</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: Wikipedia  
    Title: Mutual UFO Network  
-   Link: <a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: Wikipedia  
    Title: Marian apparition  
-   Link: <a href="https://en.wikipedia.org/wiki/Marian_apparition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marian_apparition</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Marian_apparition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Marian_apparition</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: Wikipedia  
    Title: Objet volant non identifié  
-   Link: <a href="https://fr.wikipedia.org/wiki/Objet_volant_non_identifi%C3%A9" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Objet_volant_non_identifi%C3%A9</a>  
+   Link:<a href="https://fr.wikipedia.org/wiki/Objet_volant_non_identifi%C3%A9" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Objet_volant_non_identifi%C3%A9</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: Wikipedia  
    Title: Autorité Nationale de l'Aviation Civile  
-   Link: <a href="https://en.wikipedia.org/wiki/Autorit%C3%A9_Nationale_de_l%27Aviation_Civile" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autorit%C3%A9_Nationale_de_l%27Aviation_Civile</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Autorit%C3%A9_Nationale_de_l%27Aviation_Civile" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autorit%C3%A9_Nationale_de_l%27Aviation_Civile</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: Wikipedia  
    Title: List of accidents and incidents involving commercial aircraft  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_accidents_and_incidents_involving_commercial_aircraft</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: Wikipedia  
    Title: Category:Aviation incidents involving UFOs and military aircraft  
-   Link: <a href="https://en.wikipedia.org/wiki/Category%3AAviation_incidents_involving_UFOs_and_military_aircraft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Category%3AAviation_incidents_involving_UFOs_and_military_aircraft</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Category%3AAviation_incidents_involving_UFOs_and_military_aircraft" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Category%3AAviation_incidents_involving_UFOs_and_military_aircraft</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Yopougon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Yopougon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Yopougon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Yopougon</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/projets/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/projets/geipan</a>  
+   Link:<a href="https://cnes.fr/projets/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/projets/geipan</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: cnes.fr  
-   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
+   Link:<a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
-73. <a id="endnote-73"></a>
+73.<a id="endnote-73"></a>
    Source: cnes.fr  
    Title: serie ovnis 5 choses savoir geipan  
-   Link: <a href="https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan</a>  
+   Link:<a href="https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/actualites/serie-ovnis-5-choses-savoir-geipan</a>  
 
-74. <a id="endnote-74"></a>
+74.<a id="endnote-74"></a>
    Source: anac.ci  
    Title: ci No information is available for this page  
-   Link: <a href="https://www.anac.ci/" target="_blank" rel="noopener noreferrer nofollow">https://www.anac.ci/</a>  
+   Link:<a href="https://www.anac.ci/" target="_blank" rel="noopener noreferrer nofollow">https://www.anac.ci/</a>  
 
-75. <a id="endnote-75"></a>
+75.<a id="endnote-75"></a>
    Source: time.com  
    Title: ivory coast in crisis abidjans horrific endgame  
-   Link: <a href="https://time.com/archive/6957074/ivory-coast-in-crisis-abidjans-horrific-endgame/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6957074/ivory-coast-in-crisis-abidjans-horrific-endgame/</a>  
+   Link:<a href="https://time.com/archive/6957074/ivory-coast-in-crisis-abidjans-horrific-endgame/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6957074/ivory-coast-in-crisis-abidjans-horrific-endgame/</a>  
 
-76. <a id="endnote-76"></a>
+76.<a id="endnote-76"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-77. <a id="endnote-77"></a>
+77.<a id="endnote-77"></a>
    Source: canso.org  
-   Link: <a href="https://canso.org/member/asecna/" target="_blank" rel="noopener noreferrer nofollow">https://canso.org/member/asecna/</a>  
+   Link:<a href="https://canso.org/member/asecna/" target="_blank" rel="noopener noreferrer nofollow">https://canso.org/member/asecna/</a>  
 
-78. <a id="endnote-78"></a>
+78.<a id="endnote-78"></a>
    Source: indragroup.com  
-   Link: <a href="https://www.indragroup.com/cms-content/importacion/250502_pr_indra_asecna_air_navigation_project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.indragroup.com/cms-content/importacion/250502_pr_indra_asecna_air_navigation_project.pdf</a>  
+   Link:<a href="https://www.indragroup.com/cms-content/importacion/250502_pr_indra_asecna_air_navigation_project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.indragroup.com/cms-content/importacion/250502_pr_indra_asecna_air_navigation_project.pdf</a>  
 
-79. <a id="endnote-79"></a>
+79.<a id="endnote-79"></a>
    Source: newsaero.info  
-   Link: <a href="https://newsaero.info/formationemploi/asecna-african-school-of-meteorology-and-civil-aviation-eamac-the-2025-entrance-exam-is-officially-open?true=8382" target="_blank" rel="noopener noreferrer nofollow">https://newsaero.info/formationemploi/asecna-african-school-of-meteorology-and-civil-aviation-eamac-the-2025-entrance-exam-is-officially-open?true=8382</a>  
+   Link:<a href="https://newsaero.info/formationemploi/asecna-african-school-of-meteorology-and-civil-aviation-eamac-the-2025-entrance-exam-is-officially-open?true=8382" target="_blank" rel="noopener noreferrer nofollow">https://newsaero.info/formationemploi/asecna-african-school-of-meteorology-and-civil-aviation-eamac-the-2025-entrance-exam-is-officially-open?true=8382</a>  
 
 ### Additional References
 
-80. <a id="endnote-80"></a>
+80.<a id="endnote-80"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5P-MMjyVVA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5P-MMjyVVA8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Incident That Shocked Ariel School: Telepathic Extraterrestrials (Re-Edit)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5P-MMjyVVA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5P-MMjyVVA8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Incident That Shocked Ariel School: Telepathic Extraterrestrials (Re-Edit)...</p></details>
 
-81. <a id="endnote-81"></a>
+81.<a id="endnote-81"></a>
    Source: youtube.com  
    Title: UFO investigator probes alien encounters in Black communities  
-   Link: <a href="https://www.youtube.com/watch?v=fJILHIJpVeA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fJILHIJpVeA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fJILHIJpVeA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fJILHIJpVeA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ariel School Incident (1994): The Untold Mysteries of UFOs in Zimbabwe...</p></details>
 
-82. <a id="endnote-82"></a>
+82.<a id="endnote-82"></a>
    Source: youtube.com  
    Title: UAP FILES  
-   Link: <a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhP8VdCIz9A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO investigator probes alien encounters in Black communities...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhP8VdCIz9A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO investigator probes alien encounters in Black communities...</p></details>
 
-83. <a id="endnote-83"></a>
+83.<a id="endnote-83"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_rnJ8iNtLsI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_rnJ8iNtLsI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_rnJ8iNtLsI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_rnJ8iNtLsI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)...</p></details>
 
-84. <a id="endnote-84"></a>
+84.<a id="endnote-84"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
+   Link:<a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
-85. <a id="endnote-85"></a>
+85.<a id="endnote-85"></a>
    Source: icao.int  
-   Link: <a href="https://www.icao.int/sites/default/files/WACAF/MeetingDocs/AFI-Week/AFI-Week-7/AFI-Symposium/ASECNA-AFI-WEEK-ABUJA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/WACAF/MeetingDocs/AFI-Week/AFI-Week-7/AFI-Symposium/ASECNA-AFI-WEEK-ABUJA.pdf</a>  
+   Link:<a href="https://www.icao.int/sites/default/files/WACAF/MeetingDocs/AFI-Week/AFI-Week-7/AFI-Symposium/ASECNA-AFI-WEEK-ABUJA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icao.int/sites/default/files/WACAF/MeetingDocs/AFI-Week/AFI-Week-7/AFI-Symposium/ASECNA-AFI-WEEK-ABUJA.pdf</a>  
 
-86. <a id="endnote-86"></a>
+86.<a id="endnote-86"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYMwkfPDY77/?hl=es&amp;img_index=7" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYMwkfPDY77/?hl=es&amp;img_index=7</a>  
+   Link:<a href="https://www.instagram.com/p/DYMwkfPDY77/?hl=es&amp;img_index=7" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYMwkfPDY77/?hl=es&amp;img_index=7</a>  
 
-87. <a id="endnote-87"></a>
+87.<a id="endnote-87"></a>
    Source: businessairnews.com  
-   Link: <a href="https://www.businessairnews.com/hb_industrypage.html?recnum=164489" target="_blank" rel="noopener noreferrer nofollow">https://www.businessairnews.com/hb_industrypage.html?recnum=164489</a>  
+   Link:<a href="https://www.businessairnews.com/hb_industrypage.html?recnum=164489" target="_blank" rel="noopener noreferrer nofollow">https://www.businessairnews.com/hb_industrypage.html?recnum=164489</a>  
 
-88. <a id="endnote-88"></a>
+88.<a id="endnote-88"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
+   Link:<a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
 
-89. <a id="endnote-89"></a>
+89.<a id="endnote-89"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DLH7m2dzf1a/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DLH7m2dzf1a/?hl=en</a>
+   Link:<a href="https://www.instagram.com/reel/DLH7m2dzf1a/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DLH7m2dzf1a/?hl=en</a>

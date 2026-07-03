@@ -259,13 +259,13 @@ In Kazakhstan’s rich tapestry of unexplained aerial phenomena, two of the most
 <img src="{{ "/assets/images/Kazakhstan_2f36b6_kazakhstan_ufo_legen_d436f0-Illustration-1-dark.svg" | relative_url }}" alt="Crash Legends illustration 1" data-theme-src-dark="{{ "/assets/images/Kazakhstan_2f36b6_kazakhstan_ufo_legen_d436f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kazakhstan_2f36b6_kazakhstan_ufo_legen_d436f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Tian‑Shan “Cigar”: A Giant Object in the Sky
 
-The so‑called *Tian‑Shan cigar* ostensibly refers to a large unidentified flying object spotted over Kazakhstan in 1991 and later said to have crashed in the **Zailli Alatau** mountain range. According to popular UFO literature, this object was recorded entering Kazakh airspace and was sizeable enough to enter ufological compilations of enigmatic phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ianews.kz/v-1991-godu-nad-kazakhstanom-byl-zamechen-nlo-nazvannyjj-ufologami-tyan-shanskojj-sigarojj/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianews.kz">[ianews.kz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianews.kz</span><span class="citation-popover-snippet">В 1991 году над Казахстаном был замечен НЛО, названный уфологами Тянь-Шанской сигарой — ianews.kzOctober 27, 2018...</span><span class="citation-popover-meta">Published: October 27, 2018</span></span></span>
+The so‑called *Tian‑Shan cigar* ostensibly refers to a large unidentified flying object spotted over Kazakhstan in 1991 and later said to have crashed in the **Zailli Alatau** mountain range. According to popular UFO literature, this object was recorded entering Kazakh airspace and was sizeable enough to enter ufological compilations of enigmatic phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ianews.kz/v-1991-godu-nad-kazakhstanom-byl-zamechen-nlo-nazvannyjj-ufologami-tyan-shanskojj-sigarojj/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianews.kz">[ianews.kz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianews.kz</span><span class="citation-popover-snippet">В 1991 году над Казахстаном был замечен НЛО, названный уфологами Тянь-Шанской сигарой — ianews.kzOctober 27, 2018...</span><span class="citation-popover-meta">Published: October 27, 2018</span></span></span>
 
 However, the **evidence for this event is extremely tenuous**:
 
-* The only substantial references to the Tian‑Shan cigar event occur in secondary sources and popular books by UFO enthusiasts. One Russian‑language news site cites it mainly as a colourful anecdote, noting that ufologists describe a giant “cigar” UFO seen over Kazakhstan in 1991, with claims that it later crashed in the mountains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ianews.kz/v-1991-godu-nad-kazakhstanom-byl-zamechen-nlo-nazvannyjj-ufologami-tyan-shanskojj-sigarojj/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianews.kz">[ianews.kz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianews.kz</span><span class="citation-popover-snippet">В 1991 году над Казахстаном был замечен НЛО, названный уфологами Тянь-Шанской сигарой — ianews.kzOctober 27, 2018...</span><span class="citation-popover-meta">Published: October 27, 2018</span></span></span>
+* The only substantial references to the Tian‑Shan cigar event occur in secondary sources and popular books by UFO enthusiasts. One Russian‑language news site cites it mainly as a colourful anecdote, noting that ufologists describe a giant “cigar” UFO seen over Kazakhstan in 1991, with claims that it later crashed in the mountains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ianews.kz/v-1991-godu-nad-kazakhstanom-byl-zamechen-nlo-nazvannyjj-ufologami-tyan-shanskojj-sigarojj/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ianews.kz">[ianews.kz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ianews.kz</span><span class="citation-popover-snippet">В 1991 году над Казахстаном был замечен НЛО, названный уфологами Тянь-Шанской сигарой — ianews.kzOctober 27, 2018...</span><span class="citation-popover-meta">Published: October 27, 2018</span></span></span>
 * There is **no corroborating official record** from Kazakh government archives, military documentation, or independent investigations that confirms the object’s existence, its size, or its alleged crash.
-* Other online UFO accounts of a similar event — typically dubbed the “Shaitan Mazar crash” — place the object in the **Tien Shan Mountains of Kyrgyzstan**, not Kazakhstan, and describe it as extremely large (hundreds of metres) with dramatic radar tracking and military intercept attempts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/132735/alleged-1991-russian-crash-and-retrieval-in-tien-shan-kyrgizstan-the-object-was-allegedly-2000-ft-long-with-strange-green-coloured-symbols-on-it-the-object-split-in-half-when-crashed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-snippet">UFO FEEDAlleged 1991 Russian crash and retrieval in Tien Shan, Kyrgizstan – the object was allegedly 2000 ft long with strange green colo...</span></span></span>
+* Other online UFO accounts of a similar event — typically dubbed the “Shaitan Mazar crash” — place the object in the **Tien Shan Mountains of Kyrgyzstan**, not Kazakhstan, and describe it as extremely large (hundreds of metres) with dramatic radar tracking and military intercept attempts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/132735/alleged-1991-russian-crash-and-retrieval-in-tien-shan-kyrgizstan-the-object-was-allegedly-2000-ft-long-with-strange-green-coloured-symbols-on-it-the-object-split-in-half-when-crashed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-snippet">UFO FEEDAlleged 1991 Russian crash and retrieval in Tien Shan, Kyrgizstan – the object was allegedly 2000 ft long with strange green colo...</span></span></span>
 
 The overall pattern suggests that the Tian‑Shan cigar story in the Kazakh context more closely resembles an **anecdotal legend** that has migrated between neighbouring regional narratives rather than a documented incident with primary source support.
 
@@ -275,8 +275,8 @@ The overall pattern suggests that the Tian‑Shan cigar story in the Kazakh cont
 
 One of the most widely circulated Kazakh UFO legends centres on an incident in the **Turgay region near Arkalyk in June 1979**, where a local shepherd is said to have encountered a crashed craft and a humanoid occupant:
 
-* According to fringe accounts, the shepherd — often named as Sagynbay — observed a mysterious light, found a silver disc‑shaped object in the steppe and an “escape pod,” and then sheltered a strange being that emerged from it. During two weeks in the shepherd’s home, this entity is said to have interacted with villagers before vanishing on 26 June 1979. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoac.com/ufo-crash-in-kazakhstan.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoac.com">[ufoac.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoac.com</span><span class="citation-popover-title">UF O crash in Kazakhstan</span><span class="citation-popover-snippet">UF O crash in Kazakhstan</span></span></span>
-* The story further alleges that on the **same day near Derzhavinsk**, children from a pioneer camp saw humanoid figures, and that military units based around a ballistic missile base were involved in subsequent events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.infinityexplorers.com/the-kazakhstan-ufo-crash-mysterious-disappearance-of-an-alien-who-lived-with-a-shepherd/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infinityexplorers.com">[Infinity Explorers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infinityexplorers.com</span><span class="citation-popover-snippet">Infinity ExplorersThe Kazakhstan UFO Crash: Mysterious Disappearance Of An Alien Who Lived With A Shepherd - Infinity Explorers...</span></span></span>
+* According to fringe accounts, the shepherd — often named as Sagynbay — observed a mysterious light, found a silver disc‑shaped object in the steppe and an “escape pod,” and then sheltered a strange being that emerged from it. During two weeks in the shepherd’s home, this entity is said to have interacted with villagers before vanishing on 26 June 1979.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoac.com/ufo-crash-in-kazakhstan.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoac.com">[ufoac.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoac.com</span><span class="citation-popover-title">UF O crash in Kazakhstan</span><span class="citation-popover-snippet">UF O crash in Kazakhstan</span></span></span>
+* The story further alleges that on the **same day near Derzhavinsk**, children from a pioneer camp saw humanoid figures, and that military units based around a ballistic missile base were involved in subsequent events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.infinityexplorers.com/the-kazakhstan-ufo-crash-mysterious-disappearance-of-an-alien-who-lived-with-a-shepherd/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infinityexplorers.com">[Infinity Explorers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infinityexplorers.com</span><span class="citation-popover-snippet">Infinity ExplorersThe Kazakhstan UFO Crash: Mysterious Disappearance Of An Alien Who Lived With A Shepherd - Infinity Explorers...</span></span></span>
 
 Like the Tian‑Shan narrative, the Turgay legend suffers from **significant evidentiary shortcomings**:
 
@@ -296,8 +296,8 @@ In scholarly or investigative contexts, the Turgay crash story is regarded as pa
 Both the Tian‑Shan cigar and the Turgay crash legends illustrate a broader pattern common to UFO narratives in Kazakhstan and other parts of the former Soviet Union:
 
 * **Sparse documentation:** Unlike some Western UFO cases that entered public consciousness through newspapers or declassified records, these Kazakh legends lack robust primary documentation accessible to researchers.
-* **Oral transmission and internet propagation:** Both stories persist mainly through retellings on niche websites and forums that focus on unexplained phenomena, rather than through verified historical record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoac.com/ufo-crash-in-kazakhstan.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoac.com">[ufoac.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoac.com</span><span class="citation-popover-title">UF O crash in Kazakhstan</span><span class="citation-popover-snippet">UF O crash in Kazakhstan</span></span></span>
-* **Conflation with regional lore:** Elements of the Tian‑Shan story overlap with accounts from neighbouring Kyrgyzstan (e.g. the *Shaitan Mazar* crash), suggesting that oral or online UFO lore often transcends national boundaries and becomes blended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/132735/alleged-1991-russian-crash-and-retrieval-in-tien-shan-kyrgizstan-the-object-was-allegedly-2000-ft-long-with-strange-green-coloured-symbols-on-it-the-object-split-in-half-when-crashed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-snippet">UFO FEEDAlleged 1991 Russian crash and retrieval in Tien Shan, Kyrgizstan – the object was allegedly 2000 ft long with strange green colo...</span></span></span>
+* **Oral transmission and internet propagation:** Both stories persist mainly through retellings on niche websites and forums that focus on unexplained phenomena, rather than through verified historical record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoac.com/ufo-crash-in-kazakhstan.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoac.com">[ufoac.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoac.com</span><span class="citation-popover-title">UF O crash in Kazakhstan</span><span class="citation-popover-snippet">UF O crash in Kazakhstan</span></span></span>
+* **Conflation with regional lore:** Elements of the Tian‑Shan story overlap with accounts from neighbouring Kyrgyzstan (e.g. the *Shaitan Mazar* crash), suggesting that oral or online UFO lore often transcends national boundaries and becomes blended.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufofeed.com/132735/alleged-1991-russian-crash-and-retrieval-in-tien-shan-kyrgizstan-the-object-was-allegedly-2000-ft-long-with-strange-green-coloured-symbols-on-it-the-object-split-in-half-when-crashed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofeed.com">[UFO FEED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofeed.com</span><span class="citation-popover-snippet">UFO FEEDAlleged 1991 Russian crash and retrieval in Tien Shan, Kyrgizstan – the object was allegedly 2000 ft long with strange green colo...</span></span></span>
 
 In the absence of **independent verification**, eyewitness recordings, physical debris, or credible archival evidence, these legends remain part of the **cultural mythology** surrounding UFOs in Kazakhstan. They contribute to the country’s UFO folklore and reflect a wider human interest in mysterious aerial phenomena, but they do not qualify as confirmed incidents under rigorous historical standards.
 
@@ -312,194 +312,194 @@ For readers exploring UFO phenomena within Kazakhstan’s historical and cultura
 <img src="{{ "/assets/images/Kazakhstan_2f36b6_kazakhstan_ufo_legen_d436f0-Illustration-3-dark.svg" | relative_url }}" alt="Crash Legends illustration 3" data-theme-src-dark="{{ "/assets/images/Kazakhstan_2f36b6_kazakhstan_ufo_legen_d436f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kazakhstan_2f36b6_kazakhstan_ufo_legen_d436f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Kazakhstan&#x27;s Biggest UFO Legends Under Scrutiny. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Kazakhstan&#x27;s Biggest UFO Legends Under Scrutiny. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides a contrast between documented cases and legendary accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a contrast between documented cases and legendary accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasizes stronger evidential standards than folklore-based stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes stronger evidential standards than folklore-based stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly connects UFO legends, folklore and cultural storytelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects UFO legends, folklore and cultural storytelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for scrutinizing extraordinary legends lacking evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for scrutinizing extraordinary legends lacking evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="kazakhstan-s-biggest-ufo-legends-under-scrutiny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -515,7 +515,7 @@ For readers exploring UFO phenomena within Kazakhstan’s historical and cultura
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -535,7 +535,7 @@ For readers exploring UFO phenomena within Kazakhstan’s historical and cultura
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -567,7 +567,7 @@ For readers exploring UFO phenomena within Kazakhstan’s historical and cultura
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -619,7 +619,7 @@ For readers exploring UFO phenomena within Kazakhstan’s historical and cultura
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -664,7 +664,7 @@ For readers exploring UFO phenomena within Kazakhstan’s historical and cultura
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -702,92 +702,91 @@ For readers exploring UFO phenomena within Kazakhstan’s historical and cultura
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ianews.kz  
-   Link: <a href="https://ianews.kz/v-1991-godu-nad-kazakhstanom-byl-zamechen-nlo-nazvannyjj-ufologami-tyan-shanskojj-sigarojj/" target="_blank" rel="noopener noreferrer nofollow">https://ianews.kz/v-1991-godu-nad-kazakhstanom-byl-zamechen-nlo-nazvannyjj-ufologami-tyan-shanskojj-sigarojj/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>В 1991 году над Казахстаном был замечен НЛО, названный уфологами Тянь-Шанской сигарой — ianews.kzOctober 27, 2018...</p></details>
+   Link:<a href="https://ianews.kz/v-1991-godu-nad-kazakhstanom-byl-zamechen-nlo-nazvannyjj-ufologami-tyan-shanskojj-sigarojj/" target="_blank" rel="noopener noreferrer nofollow">https://ianews.kz/v-1991-godu-nad-kazakhstanom-byl-zamechen-nlo-nazvannyjj-ufologami-tyan-shanskojj-sigarojj/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>В 1991 году над Казахстаном был замечен НЛО, названный уфологами Тянь-Шанской сигарой — ianews.kzOctober 27, 2018...</p></details>
    Published: October 27, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufofeed.com  
-   Link: <a href="https://www.ufofeed.com/132735/alleged-1991-russian-crash-and-retrieval-in-tien-shan-kyrgizstan-the-object-was-allegedly-2000-ft-long-with-strange-green-coloured-symbols-on-it-the-object-split-in-half-when-crashed/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/132735/alleged-1991-russian-crash-and-retrieval-in-tien-shan-kyrgizstan-the-object-was-allegedly-2000-ft-long-with-strange-green-coloured-symbols-on-it-the-object-split-in-half-when-crashed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FEEDAlleged 1991 Russian crash and retrieval in Tien Shan, Kyrgizstan – the object was allegedly 2000 ft long with strange green colo...</p></details>
+   Link:<a href="https://www.ufofeed.com/132735/alleged-1991-russian-crash-and-retrieval-in-tien-shan-kyrgizstan-the-object-was-allegedly-2000-ft-long-with-strange-green-coloured-symbols-on-it-the-object-split-in-half-when-crashed/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/132735/alleged-1991-russian-crash-and-retrieval-in-tien-shan-kyrgizstan-the-object-was-allegedly-2000-ft-long-with-strange-green-coloured-symbols-on-it-the-object-split-in-half-when-crashed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FEEDAlleged 1991 Russian crash and retrieval in Tien Shan, Kyrgizstan – the object was allegedly 2000 ft long with strange green colo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufoac.com  
    Title: UF O crash in Kazakhstan  
-   Link: <a href="https://ufoac.com/ufo-crash-in-kazakhstan.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/ufo-crash-in-kazakhstan.html</a>  
+   Link:<a href="https://ufoac.com/ufo-crash-in-kazakhstan.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/ufo-crash-in-kazakhstan.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: infinityexplorers.com  
-   Link: <a href="https://www.infinityexplorers.com/the-kazakhstan-ufo-crash-mysterious-disappearance-of-an-alien-who-lived-with-a-shepherd/" target="_blank" rel="noopener noreferrer nofollow">https://www.infinityexplorers.com/the-kazakhstan-ufo-crash-mysterious-disappearance-of-an-alien-who-lived-with-a-shepherd/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infinity ExplorersThe Kazakhstan UFO Crash: Mysterious Disappearance Of An Alien Who Lived With A Shepherd - Infinity Explorers...</p></details>
+   Link:<a href="https://www.infinityexplorers.com/the-kazakhstan-ufo-crash-mysterious-disappearance-of-an-alien-who-lived-with-a-shepherd/" target="_blank" rel="noopener noreferrer nofollow">https://www.infinityexplorers.com/the-kazakhstan-ufo-crash-mysterious-disappearance-of-an-alien-who-lived-with-a-shepherd/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infinity ExplorersThe Kazakhstan UFO Crash: Mysterious Disappearance Of An Alien Who Lived With A Shepherd - Infinity Explorers...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: rense.com  
-   Link: <a href="https://rense.com/ufo/tianshan.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/ufo/tianshan.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Subbotin &lt;Nikolay.Subbotin@psu.ru&gt; Copyright by Nikolay Subbotin ø 1998 Russian UFO Research Station ø 1998 9...</p></details>
+   Link:<a href="https://rense.com/ufo/tianshan.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/ufo/tianshan.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subbotin &lt;Nikolay.Subbotin@psu.ru&gt; Copyright by Nikolay Subbotin ø 1998 Russian UFO Research Station ø 1998 9...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rt.com  
-   Link: <a href="https://www.rt.com/news/ufo-falls-in-kazakhstan-witnesses/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/news/ufo-falls-in-kazakhstan-witnesses/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO falls in Kazakhstan – witnesses — RT World NewsUFO FALLS IN KAZAKHSTAN – WITNESSES Image: UFO falls in Kazakhstan – witnessesImage: U...</p></details>
+   Link:<a href="https://www.rt.com/news/ufo-falls-in-kazakhstan-witnesses/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/news/ufo-falls-in-kazakhstan-witnesses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO falls in Kazakhstan – witnesses — RT World NewsUFO FALLS IN KAZAKHSTAN – WITNESSES Image: UFO falls in Kazakhstan – witnessesImage: U...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: usufocenter.com  
-   Link: <a href="https://www.usufocenter.com/ufologist/booth/russian-UFO-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufologist/booth/russian-UFO-crash.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOlogist: Kyrgyzstan UFO Crash in the Tien Shan MountainsRUSSIAN UFO CRASH KYRGYZSTAN SHAITAN MAZAR TIEN SHAN MTNS * * * US UFO CENTER A...</p></details>
+   Link:<a href="https://www.usufocenter.com/ufologist/booth/russian-UFO-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufologist/booth/russian-UFO-crash.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOlogist: Kyrgyzstan UFO Crash in the Tien Shan MountainsRUSSIAN UFO CRASH KYRGYZSTAN SHAITAN MAZAR TIEN SHAN MTNS * * * US UFO CENTER A...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: odla.fr  
-   Link: <a href="https://www.odla.fr/2022/06/24/crash-d-ovni-au-kazakhstan-l-histoire-d-un-berger-qui-s-est-lie-d-amiti%C3%A9-avec-un-extraterrestre/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2022/06/24/crash-d-ovni-au-kazakhstan-l-histoire-d-un-berger-qui-s-est-lie-d-amiti%C3%A9-avec-un-extraterrestre/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>juin 2022 CRASH D’OVNI AU KAZAKHSTAN: L’HISTOIRE D’UN BERGER QUI S’EST LIE D’AMITIÉ AVEC UN EXTRATERRESTRE Image Après avoir hébergé un...</p></details>
+   Link:<a href="https://www.odla.fr/2022/06/24/crash-d-ovni-au-kazakhstan-l-histoire-d-un-berger-qui-s-est-lie-d-amiti%C3%A9-avec-un-extraterrestre/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2022/06/24/crash-d-ovni-au-kazakhstan-l-histoire-d-un-berger-qui-s-est-lie-d-amiti%C3%A9-avec-un-extraterrestre/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>juin 2022 CRASH D’OVNI AU KAZAKHSTAN: L’HISTOIRE D’UN BERGER QUI S’EST LIE D’AMITIÉ AVEC UN EXTRATERRESTRE Image Après avoir hébergé un...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ufoinsight.com  
    Title: The Grave Of The Devil Case – UFO Crash And Retrieval In Russia  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/the-grave-of-the-devil-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/the-grave-of-the-devil-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightAugust 22, 2021 — THE GRAVE OF THE DEVIL CASE – UFO CRASH AND RETRIEVAL IN RUSSIA By Marcus Lowth Image: Published Date August...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/the-grave-of-the-devil-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/the-grave-of-the-devil-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightAugust 22, 2021 — THE GRAVE OF THE DEVIL CASE – UFO CRASH AND RETRIEVAL IN RUSSIA By Marcus Lowth Image: Published Date August...</p></details>
    Published: August 22, 2021  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: anomalien.com  
    Title: UF O crash in Kazakhstan: The story of a shepherd who befriends an alien  
-   Link: <a href="https://anomalien.com/ufo-crash-in-kazakhstan-the-story-of-a-shepherd-who-befriends-an/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/ufo-crash-in-kazakhstan-the-story-of-a-shepherd-who-befriends-an/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19, 2022 5:06 am Having sheltered a crashed alien, the shepherd Sagynbai may have saved the Soviet base...</p></details>
+   Link:<a href="https://anomalien.com/ufo-crash-in-kazakhstan-the-story-of-a-shepherd-who-befriends-an/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/ufo-crash-in-kazakhstan-the-story-of-a-shepherd-who-befriends-an/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19, 2022 5:06 am Having sheltered a crashed alien, the shepherd Sagynbai may have saved the Soviet base...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: open.kg  
    Title: The Shaitan Mazar Site (Devil's Grave)  
-   Link: <a href="https://open.kg/en/blog/print%3Apage%2C1%2C34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/print%3Apage%2C1%2C34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Zones of KyrgyzstanJuly 8, 2019 — THE SHAITAN MAZAR SITE (DEVIL&#x27;S GRAVE). ANOMALOUS ZONES OF KYRGYZSTAN DEVIL&#x27;S GRAVE (SHAITAN...</p></details>
+   Link:<a href="https://open.kg/en/blog/print%3Apage%2C1%2C34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/print%3Apage%2C1%2C34918-urochische-shaytan-mazar-mogila-dyavola-anomalnye-zony-kyrgyzstana.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Zones of KyrgyzstanJuly 8, 2019 — THE SHAITAN MAZAR SITE (DEVIL&#x27;S GRAVE). ANOMALOUS ZONES OF KYRGYZSTAN DEVIL&#x27;S GRAVE (SHAITAN...</p></details>
    Published: July 8, 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3uFUhJKk8qQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3uFUhJKk8qQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tunguska: The Russian Roswell | Russias Secret UFO Sightings | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3uFUhJKk8qQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3uFUhJKk8qQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tunguska: The Russian Roswell | Russias Secret UFO Sightings | Full Documentary...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: open.kg  
    Title: Anomalous Zones of Kyrgyzstan  
-   Link: <a href="https://open.kg/en/blog/print%3Apage%2C1%2C34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/print%3Apage%2C1%2C34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secrets of the Ala-Archa GorgeJune 28, 2019 — ANOMALOUS ZONES OF KYRGYZSTAN. THE SECRETS OF THE ALA-ARCHA GORGE SECRETS OF THE ALA-AR...</p></details>
+   Link:<a href="https://open.kg/en/blog/print%3Apage%2C1%2C34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html" target="_blank" rel="noopener noreferrer nofollow">https://open.kg/en/blog/print%3Apage%2C1%2C34846-anomalnye-zony-kyrgyzstana-tayny-uschelya-ala-archa.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secrets of the Ala-Archa GorgeJune 28, 2019 — ANOMALOUS ZONES OF KYRGYZSTAN. THE SECRETS OF THE ALA-ARCHA GORGE SECRETS OF THE ALA-AR...</p></details>
    Published: June 28, 2019  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Russia vs. USA  
-   Link: <a href="https://www.youtube.com/watch?v=WdhN-IMLRoE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WdhN-IMLRoE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Never-Before-Seen Footage from 1948 UFO Crash (Season 2) | UFO Files | The UnXplained Zone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WdhN-IMLRoE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WdhN-IMLRoE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Never-Before-Seen Footage from 1948 UFO Crash (Season 2) | UFO Files | The UnXplained Zone...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Secret UFO files smuggled out of Russia released | Jesse Weber Live  
-   Link: <a href="https://www.youtube.com/watch?v=pYnDYLv1NPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pYnDYLv1NPo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia vs. USA - The Race to Crack UFO Technology...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pYnDYLv1NPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pYnDYLv1NPo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russia vs. USA - The Race to Crack UFO Technology...</p></details>

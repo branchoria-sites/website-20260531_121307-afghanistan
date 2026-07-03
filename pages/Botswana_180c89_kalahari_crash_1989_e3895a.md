@@ -257,7 +257,7 @@ image: /assets/images/Botswana_180c89_kalahari_crash_1989_e3895a-Illustration-1-
 The alleged 1989 Kalahari UFO crash is the single most famous UFO story connected to Botswana, yet it is also one of the most heavily disputed cases in African ufology. According to the core narrative, a strange craft entered South African-controlled airspace on 7 May 1989, was pursued by South African Air Force aircraft, struck with an experimental weapon, and crashed somewhere near the Botswana–South Africa border in the Kalahari region. The story later expanded to include recovered debris, surviving non-human occupants, secret military operations, and American involvement.
 
 <img src="{{ "/assets/images/Botswana_180c89_kalahari_crash_1989_e3895a-Illustration-1-dark.svg" | relative_url }}" alt="Kalahari Crash illustration 1" data-theme-src-dark="{{ "/assets/images/Botswana_180c89_kalahari_crash_1989_e3895a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Botswana_180c89_kalahari_crash_1989_e3895a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the case unusual is not the strength of the evidence, but the collision between sensational claims and repeated signs of fabrication. The crash story circulated through UFO magazines, leaked documents, newspaper rumours, and later internet retellings, yet almost every major “hard evidence” component became contested. Even Cynthia Hind, one of southern Africa’s most respected UFO researchers and initially open to investigating the incident, eventually published detailed critiques exposing forged documents and contradictions connected to key source James van Greunen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</span></span></span> Reddit The result is a case that remains culturally influential while sitting on extremely weak evidential ground. For Botswana’s UFO history <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I never heard about the Kalahari UfO crash before, is it true...Hoaxed South African Air Force documents purport to describe a UFO...</span></span></span>, the Kalahari crash matters less as proof of extraterrestrial contact than as a revealing example of how rumours, intelligence-era secrecy, regional politics, and hoax material combined into a modern myth.
+What makes the case unusual is not the strength of the evidence, but the collision between sensational claims and repeated signs of fabrication. The crash story circulated through UFO magazines, leaked documents, newspaper rumours, and later internet retellings, yet almost every major “hard evidence” component became contested. Even Cynthia Hind, one of southern Africa’s most respected UFO researchers and initially open to investigating the incident, eventually published detailed critiques exposing forged documents and contradictions connected to key source James van Greunen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</span></span></span> Reddit The result is a case that remains culturally influential while sitting on extremely weak evidential ground. For Botswana’s UFO history<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I never heard about the Kalahari UfO crash before, is it true...Hoaxed South African Air Force documents purport to describe a UFO...</span></span></span>, the Kalahari crash matters less as proof of extraterrestrial contact than as a revealing example of how rumours, intelligence-era secrecy, regional politics, and hoax material combined into a modern myth.
 
 ## How the Kalahari crash story first emerged
 
@@ -266,7 +266,7 @@ The central version of the story did not emerge through official disclosure or m
 The broad outline usually followed this sequence:
 
 * A fast-moving unidentified object allegedly crossed into South African airspace from over the Indian Ocean.
-* South African Air Force Mirage fighters supposedly intercepted the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/thesomethingguy/posts/in-the-early-1980s-the-quiet-suburb-of-broadhurst-in-gaborone-made-headlines-whe/1409794054473214/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">in the early 1980s the quiet suburb of broadhurst in gaborone made headlines whe</span><span class="citation-popover-snippet">In the early 1980s, the quiet suburb of Broadhurst...A South African Air Force Mirage Jet allegedly shot down an Unidentified Flying Obj...</span></span></span>
+* South African Air Force Mirage fighters supposedly intercepted the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/thesomethingguy/posts/in-the-early-1980s-the-quiet-suburb-of-broadhurst-in-gaborone-made-headlines-whe/1409794054473214/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">in the early 1980s the quiet suburb of broadhurst in gaborone made headlines whe</span><span class="citation-popover-snippet">In the early 1980s, the quiet suburb of Broadhurst...A South African Air Force Mirage Jet allegedly shot down an Unidentified Flying Obj...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -277,7 +277,7 @@ The broad outline usually followed this sequence:
 
 </div>
 
-Versions of the story differed sharply on key details. Some accounts placed the crash inside Botswana, others near the border inside South Africa. Dates occasionally shifted between 1988 and 1989. The number of occupants also varied between reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</span></span></span>
+Versions of the story differed sharply on key details. Some accounts placed the crash inside Botswana, others near the border inside South Africa. Dates occasionally shifted between 1988 and 1989. The number of occupants also varied between reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</span></span></span>
 
 This inconsistency became one of the first major warning signs for investigators. Extraordinary military operations usually leave behind at least stable core facts. In the Kalahari case, even basic chronology and geography drifted from source to source.
 
@@ -293,7 +293,7 @@ The Kalahari’s sparse population and huge distances created an ideal setting f
 
 ### Existing UFO interest in southern Africa
 
-Researcher Cynthia Hind had already documented numerous African UFO reports before the Kalahari claims emerged. Her publications gave southern African ufology an established audience that was prepared to take unusual cases seriously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
+Researcher Cynthia Hind had already documented numerous African UFO reports before the Kalahari claims emerged. Her publications gave southern African ufology an established audience that was prepared to take unusual cases seriously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
 
 ### International fascination with “crash retrievals”
 
@@ -311,7 +311,7 @@ At first glance, the documents appeared official enough to impress some UFO rese
 
 ### Language and formatting errors
 
-One of the most damaging criticisms concerned language use. Researchers noted that supposedly official South African military documents were written in English rather than Afrikaans, despite the operational conventions of the period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I never heard about the Kalahari UfO crash before, is it true...Hoaxed South African Air Force documents purport to describe a UFO...</span></span></span>
+One of the most damaging criticisms concerned language use. Researchers noted that supposedly official South African military documents were written in English rather than Afrikaans, despite the operational conventions of the period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I never heard about the Kalahari UfO crash before, is it true...Hoaxed South African Air Force documents purport to describe a UFO...</span></span></span>
 
 Investigators also identified:
 
@@ -325,7 +325,7 @@ Investigators also identified:
 
 </div>
 
-Cynthia Hind highlighted numerous errors and stated that the documents contained obvious signs of fabrication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</span></span></span>
+Cynthia Hind highlighted numerous errors and stated that the documents contained obvious signs of fabrication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Etn3vXaolas" title="FOUR Grey Alien Bodies RECOVERED From UFO CRASH SITE in South Africa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Etn3vXaolas" target="_blank" rel="noopener noreferrer">FOUR Grey Alien Bodies RECOVERED From UFO CRASH SITE in South Africa</a></p><p class="youtube-embed-meta">Channel: Gaia &middot; Views: 29.3K &middot; Uploaded: August 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Etn3vXaolas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Etn3vXaolas">Open on YouTube</a></p></div></div></div>
 
@@ -349,7 +349,7 @@ Van Greunen presented himself as connected to insider military knowledge and cla
 
 Cynthia Hind’s investigations became especially important because she was not initially hostile to the possibility that an unusual incident might have occurred. Her eventual criticism therefore carried significant weight inside the UFO research community itself.
 
-In her later analyses, Hind described the Kalahari case as containing forged elements and exposed major inconsistencies tied to van Greunen’s material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</span></span></span> Reddit The credibility problem deepened further because van Greunen later became associated with additional questionable UFO crash claims <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I never heard about the Kalahari UfO crash before, is it true...Hoaxed South African Air Force documents purport to describe a UFO...</span></span></span>, including another alleged southern African crash narrative from the mid-1990s that researchers also labelled a hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
+In her later analyses, Hind described the Kalahari case as containing forged elements and exposed major inconsistencies tied to van Greunen’s material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</span></span></span> Reddit The credibility problem deepened further because van Greunen later became associated with additional questionable UFO crash claims<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I never heard about the Kalahari UfO crash before, is it true...Hoaxed South African Air Force documents purport to describe a UFO...</span></span></span>, including another alleged southern African crash narrative from the mid-1990s that researchers also labelled a hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in South Africa</span><span class="citation-popover-snippet">UFO sightings in South Africa</span></span></span>
 
 By the late 1990s, even many UFO researchers who remained sympathetic to extraterrestrial theories regarded the Kalahari documents as unreliable.
 
@@ -359,7 +359,7 @@ One of the most misunderstood aspects of the case is Cynthia Hind’s final posi
 
 Online retellings often simplify her role into either “she confirmed the crash” or “she debunked everything”. Her actual stance was more cautious and complicated.
 
-Hind repeatedly argued that the documents circulating publicly were deeply flawed and likely fraudulent. However, she stopped short of claiming that absolutely nothing unusual happened near the Botswana border in May 1989. <span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</span></span></span>
+Hind repeatedly argued that the documents circulating publicly were deeply flawed and likely fraudulent. However, she stopped short of claiming that absolutely nothing unusual happened near the Botswana border in May 1989.<span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</span></span></span>
 
 This distinction became central to the mythology surrounding the case.
 
@@ -435,7 +435,7 @@ Cases built around forged material sometimes create a paradoxical effect: believ
 
 ### Integration into wider UFO lore
 
-The Kalahari incident became linked in later years to broader international UFO conspiracy narratives involving Area 51, crash retrieval programmes, and alleged whistleblowers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dcj2lj/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I never heard about the Kalahari Uf O crash before, is it true</span><span class="citation-popover-snippet">I never heard about the Kalahari UfO crash before, is it true...June 10, 2024 — Supposedly a UFO was shot down by the South Africa...</span><span class="citation-popover-meta">Published: June 10, 2024</span></span></span>
+The Kalahari incident became linked in later years to broader international UFO conspiracy narratives involving Area 51, crash retrieval programmes, and alleged whistleblowers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dcj2lj/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I never heard about the Kalahari Uf O crash before, is it true</span><span class="citation-popover-snippet">I never heard about the Kalahari UfO crash before, is it true...June 10, 2024 — Supposedly a UFO was shot down by the South Africa...</span><span class="citation-popover-meta">Published: June 10, 2024</span></span></span>
 
 These connections expanded the story far beyond its original southern African context.
 
@@ -458,9 +458,9 @@ That imbalance is one reason historians and sceptical researchers treat the case
 
 ## How the Kalahari crash shaped African UFO culture
 
-Even as evidence weakened, the Kalahari crash became culturally influential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash/page3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 4x4community.co.za">[4x4community.co.za]</a><span class="citation-popover" role="note"><span class="citation-popover-source">4x4community.co.za</span><span class="citation-popover-snippet">1989 Kalahari UFO crash - Page 331 Jul 2018 — There was a woman in the Drakensberg area, who maintained for many years that she had been...</span></span></span>
+Even as evidence weakened, the Kalahari crash became culturally influential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash/page3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 4x4community.co.za">[4x4community.co.za]</a><span class="citation-popover" role="note"><span class="citation-popover-source">4x4community.co.za</span><span class="citation-popover-snippet">1989 Kalahari UFO crash - Page 331 Jul 2018 — There was a woman in the Drakensberg area, who maintained for many years that she had been...</span></span></span>
 
-Within African UFO lore, it effectively evolved into “southern Africa’s Roswell”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hoteles.com/go/world/world-ufo-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoteles.com">[hotels]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoteles.com</span><span class="citation-popover-title">hotels10 UFO Sites in the World</span><span class="citation-popover-snippet">The alien cover-up that caused a mass uproar. The Kalahari crash, South Africa. Foto de stweyer (CC0) modificada. Categoría...</span></span></span>
+Within African UFO lore, it effectively evolved into “southern Africa’s Roswell”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hoteles.com/go/world/world-ufo-sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoteles.com">[hotels]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoteles.com</span><span class="citation-popover-title">hotels10 UFO Sites in the World</span><span class="citation-popover-snippet">The alien cover-up that caused a mass uproar. The Kalahari crash, South Africa. Foto de stweyer (CC0) modificada. Categoría...</span></span></span>
 
 Its influence can be seen in several areas:
 
@@ -482,11 +482,11 @@ Importantly, the story overshadowed more modest but better-documented southern A
 
 The strongest evidence available today supports several cautious conclusions.
 
-A story about a UFO crash near the Botswana–South Africa border undeniably circulated widely within UFO communities during the early 1990s. Alleged military documents were distributed and attracted international attention. Cynthia Hind investigated the matter extensively and treated it seriously enough to devote multiple publications to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I never heard about the Kalahari UfO crash before, is it true...Hoaxed South African Air Force documents purport to describe a UFO...</span></span></span>, the case also accumulated major credibility problems:
+A story about a UFO crash near the Botswana–South Africa border undeniably circulated widely within UFO communities during the early 1990s. Alleged military documents were distributed and attracted international attention. Cynthia Hind investigated the matter extensively and treated it seriously enough to devote multiple publications to it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: groups.google.com">[Google Groups]</a><span class="citation-popover" role="note"><span class="citation-popover-source">groups.google.com</span><span class="citation-popover-snippet">Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I never heard about the Kalahari UfO crash before, is it true...Hoaxed South African Air Force documents purport to describe a UFO...</span></span></span>, the case also accumulated major credibility problems:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* forged or unreliable documents, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/kalahari-incident-truth-forged-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[ufoinsight.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">kalahari incident truth forged documents</span><span class="citation-popover-snippet">The Kalahari Incident – A Bizarre Truth From Forged...3 May 2017 — According to the leaked documents, a craft, shot down by the South Af...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+* forged or unreliable documents,<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/cover-ups/kalahari-incident-truth-forged-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[ufoinsight.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">kalahari incident truth forged documents</span><span class="citation-popover-snippet">The Kalahari Incident – A Bizarre Truth From Forged...3 May 2017 — According to the leaked documents, a craft, shot down by the South Af...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 * contradictory testimony,
 * dubious sourcing,
 * association with known hoax activity,
@@ -499,194 +499,194 @@ For that reason, the Kalahari crash is best understood not as a confirmed extrat
 The enduring fascination comes less from convincing proof than from the way the story combines Cold War secrecy, desert geography, military rumours, forged documents, and genuine uncertainty into a narrative that still feels unresolved to many readers.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could the 1989 Kalahari UFO Crash Have Really Happened?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could the 1989 Kalahari UFO Crash Have Really Happened?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a serious framework for separating evidence-based UFO cases from rumours and weak reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a serious framework for separating evidence-based UFO cases from rumours and weak reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+</h4>
+<p class="fr-book-author">By Michael Swords, Robert Powell</p>
         
-        <p class="fr-book-desc">Connects military secrecy, government files, and UFO investigations to claims like the Kalahari crash.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects military secrecy, government files, and UFO investigations to claims like the Kalahari crash.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Strong fit for a disputed crash story involving alleged documents, rumours, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for a disputed crash story involving alleged documents, rumours, and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Stanton T. Friedman, Don Berliner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Stanton T. Friedman, Don Berliner</p>
         
-        <p class="fr-book-desc">Not about Botswana, but commercially and thematically fits alleged recovered-craft stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Not about Botswana, but commercially and thematically fits alleged recovered-craft stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-1989-kalahari-ufo-crash-have-really-happened-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -702,7 +702,7 @@ The enduring fascination comes less from convincing proof than from the way the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -722,7 +722,7 @@ The enduring fascination comes less from convincing proof than from the way the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -754,7 +754,7 @@ The enduring fascination comes less from convincing proof than from the way the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -806,7 +806,7 @@ The enduring fascination comes less from convincing proof than from the way the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -851,7 +851,7 @@ The enduring fascination comes less from convincing proof than from the way the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -889,102 +889,101 @@ The enduring fascination comes less from convincing proof than from the way the 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: groups.google.com  
-   Link: <a href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</p></details>
+   Link:<a href="https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.society.neutopia/c/8QRJW-4Ntec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google GroupsKalahari CrashThe UFO was allegedly shot down by a South African Air Force Mirage jet and crashed near the border between Bo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I never heard about the Kalahari UfO crash before, is it true...Hoaxed South African Air Force documents purport to describe a UFO...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1dcj5sk/i_never_heard_about_the_kalahari_ufo_crash_before/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I never heard about the Kalahari UfO crash before, is it true...Hoaxed South African Air Force documents purport to describe a UFO...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in South Africa  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_South_Africa</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: I never heard about the Kalahari Uf O crash before, is it true  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dcj2lj/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dcj2lj/i_never_heard_about_the_kalahari_ufo_crash_before/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I never heard about the Kalahari UfO crash before, is it true...June 10, 2024 — Supposedly a UFO was shot down by the South Africa...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1dcj2lj/i_never_heard_about_the_kalahari_ufo_crash_before/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dcj2lj/i_never_heard_about_the_kalahari_ufo_crash_before/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I never heard about the Kalahari UfO crash before, is it true...June 10, 2024 — Supposedly a UFO was shot down by the South Africa...</p></details>
    Published: June 10, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AlienBodies/comments/1dfezjn/kalahari_crash_89_bodies_had_3_fingerstoes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/1dfezjn/kalahari_crash_89_bodies_had_3_fingerstoes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kalahari Crash (&#x27;89) bodies had 3 fingers/toes: r/AlienBodiesDetails about Kalahari UFO crash and bodies. Most... How do skeptics view...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlienBodies/comments/1dfezjn/kalahari_crash_89_bodies_had_3_fingerstoes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlienBodies/comments/1dfezjn/kalahari_crash_89_bodies_had_3_fingerstoes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kalahari Crash (&#x27;89) bodies had 3 fingers/toes: r/AlienBodiesDetails about Kalahari UFO crash and bodies. Most... How do skeptics view...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hoteles.com  
    Title: hotels10 UFO Sites in the World  
-   Link: <a href="https://www.hoteles.com/go/world/world-ufo-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.hoteles.com/go/world/world-ufo-sites</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The alien cover-up that caused a mass uproar. The Kalahari crash, South Africa. Foto de stweyer (CC0) modificada. Categoría...</p></details>
+   Link:<a href="https://www.hoteles.com/go/world/world-ufo-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.hoteles.com/go/world/world-ufo-sites</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The alien cover-up that caused a mass uproar. The Kalahari crash, South Africa. Foto de stweyer (CC0) modificada. Categoría...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: 4x4community.co.za  
-   Link: <a href="https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash/page3" target="_blank" rel="noopener noreferrer nofollow">https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash/page3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1989 Kalahari UFO crash - Page 331 Jul 2018 — There was a woman in the Drakensberg area, who maintained for many years that she had been...</p></details>
+   Link:<a href="https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash/page3" target="_blank" rel="noopener noreferrer nofollow">https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash/page3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1989 Kalahari UFO crash - Page 331 Jul 2018 — There was a woman in the Drakensberg area, who maintained for many years that she had been...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: avalonlibrary.net  
-   Link: <a href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/BUFORA%20-%201989-1997_UFO_Times/UFO%20Times%20-%20No%2023%20-%20May%20Jun%201993.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/BUFORA%20-%201989-1997_UFO_Times/UFO%20Times%20-%20No%2023%20-%20May%20Jun%201993.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>timesSOIJTH AFRICA. Map of Southern Africa showing the area on the Botswana/South African border where the alleged UFO crash was supposed...</p></details>
+   Link:<a href="https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/BUFORA%20-%201989-1997_UFO_Times/UFO%20Times%20-%20No%2023%20-%20May%20Jun%201993.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/BUFORA%20-%20British_UFO_Research_Association/BUFORA%20-%201989-1997_UFO_Times/UFO%20Times%20-%20No%2023%20-%20May%20Jun%201993.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>timesSOIJTH AFRICA. Map of Southern Africa showing the area on the Botswana/South African border where the alleged UFO crash was supposed...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: in the early 1980s the quiet suburb of broadhurst in gaborone made headlines whe  
-   Link: <a href="https://www.facebook.com/thesomethingguy/posts/in-the-early-1980s-the-quiet-suburb-of-broadhurst-in-gaborone-made-headlines-whe/1409794054473214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thesomethingguy/posts/in-the-early-1980s-the-quiet-suburb-of-broadhurst-in-gaborone-made-headlines-whe/1409794054473214/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the early 1980s, the quiet suburb of Broadhurst...A South African Air Force Mirage Jet allegedly shot down an Unidentified Flying Obj...</p></details>
+   Link:<a href="https://www.facebook.com/thesomethingguy/posts/in-the-early-1980s-the-quiet-suburb-of-broadhurst-in-gaborone-made-headlines-whe/1409794054473214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thesomethingguy/posts/in-the-early-1980s-the-quiet-suburb-of-broadhurst-in-gaborone-made-headlines-whe/1409794054473214/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the early 1980s, the quiet suburb of Broadhurst...A South African Air Force Mirage Jet allegedly shot down an Unidentified Flying Obj...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Etn3vXaolas&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Etn3vXaolas&amp;vl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOUR Grey Alien Bodies RECOVERED From UFO CRASH...The OSI report shows four bodies that were transported to right path and then to the a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Etn3vXaolas&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Etn3vXaolas&amp;vl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOUR Grey Alien Bodies RECOVERED From UFO CRASH...The OSI report shows four bodies that were transported to right path and then to the a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Convincing UFO Story From South AfricaA spacecraft containing live aliens crashed into the Kalahari Desert after it was shot dow...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LFswmAii4rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFswmAii4rw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Convincing UFO Story From South AfricaA spacecraft containing live aliens crashed into the Kalahari Desert after it was shot dow...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: the kalahari incident of 1989 when aliens landedsouth africas roswell  
-   Link: <a href="https://www.facebook.com/lerato.hlongwa.5205/posts/the-kalahari-incident-of-1989-when-aliens-landedsouth-africas-roswell/1927410918207041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lerato.hlongwa.5205/posts/the-kalahari-incident-of-1989-when-aliens-landedsouth-africas-roswell/1927410918207041/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kalahari Incident of 1989. When aliens landed. South...South African personnel were forced to sign non-disclosure documents. The off...</p></details>
+   Link:<a href="https://www.facebook.com/lerato.hlongwa.5205/posts/the-kalahari-incident-of-1989-when-aliens-landedsouth-africas-roswell/1927410918207041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lerato.hlongwa.5205/posts/the-kalahari-incident-of-1989-when-aliens-landedsouth-africas-roswell/1927410918207041/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kalahari Incident of 1989. When aliens landed. South...South African personnel were forced to sign non-disclosure documents. The off...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: exopoliticssouthafrica.org  
-   Link: <a href="https://www.exopoliticssouthafrica.org/et_in_southern_africa.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.exopoliticssouthafrica.org/et_in_southern_africa.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many researchers, however, have discredited his testimony with regard to both crash cases.Read more...</p></details>
+   Link:<a href="https://www.exopoliticssouthafrica.org/et_in_southern_africa.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.exopoliticssouthafrica.org/et_in_southern_africa.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many researchers, however, have discredited his testimony with regard to both crash cases.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufoinsight.com  
    Title: kalahari incident truth forged documents  
-   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/kalahari-incident-truth-forged-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/kalahari-incident-truth-forged-documents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kalahari Incident – A Bizarre Truth From Forged...3 May 2017 — According to the leaked documents, a craft, shot down by the South Af...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/cover-ups/kalahari-incident-truth-forged-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/kalahari-incident-truth-forged-documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kalahari Incident – A Bizarre Truth From Forged...3 May 2017 — According to the leaked documents, a craft, shot down by the South Af...</p></details>
    Published: May 2017  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: anyone from the saaf know about this  
-   Link: <a href="https://www.facebook.com/WarInAngola/posts/anyone-from-the-saaf-know-about-this-/1169002021931331/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WarInAngola/posts/anyone-from-the-saaf-know-about-this-/1169002021931331/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?;-)Crash claims and hoaxes 1989 Kalahari crash According to supposed leaked documents an alien craft was shot down by South African air...</p></details>
+   Link:<a href="https://www.facebook.com/WarInAngola/posts/anyone-from-the-saaf-know-about-this-/1169002021931331/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WarInAngola/posts/anyone-from-the-saaf-know-about-this-/1169002021931331/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?;-)Crash claims and hoaxes 1989 Kalahari crash According to supposed leaked documents an alien craft was shot down by South African air...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Cynthia Hind was a friend of mine  
-   Link: <a href="https://www.facebook.com/groups/nebulamagazine/posts/1693083048021690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/nebulamagazine/posts/1693083048021690/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We both investigated...We both investigated the &#x27;purported&#x27; crash of an alien craft in the Kalahari desert, a hoax promulgated by a cert...</p></details>
+   Link:<a href="https://www.facebook.com/groups/nebulamagazine/posts/1693083048021690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/nebulamagazine/posts/1693083048021690/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We both investigated...We both investigated the &#x27;purported&#x27; crash of an alien craft in the Kalahari desert, a hoax promulgated by a cert...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: 4x4community.co.za  
    Title: 301112 1989 Kalahari UFO crash  
-   Link: <a href="https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thread: 1989 Kalahari UFO crash30 Jul 2018 — (Cynthia Hind, Stanton Friedman, Michael Hesemann and David Powell all say it&#x27;s another hoax...</p></details>
+   Link:<a href="https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.4x4community.co.za/forum/showthread.php/301112-1989-Kalahari-UFO-crash</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thread: 1989 Kalahari UFO crash30 Jul 2018 — (Cynthia Hind, Stanton Friedman, Michael Hesemann and David Powell all say it&#x27;s another hoax...</p></details>

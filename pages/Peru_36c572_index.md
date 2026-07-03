@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /peru-36c572-index/
 description: Focused pages that expand on What Makes Peru's UFO Story So Complicated?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Peru_36c572
 parent_title: What Makes Peru's UFO Story So Complicated?
@@ -16,7 +16,7 @@ parent_permalink: /what-makes-perus-ufo-story-so/
 
 # Explore Topics in What Makes Peru's UFO Story So Complicated?
 
-The following pages expand on the main **[What Makes Peru's UFO Story So Complicated?]({{ '/what-makes-perus-ufo-story-so/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[What Makes Peru's UFO Story So Complicated?]({{ '/what-makes-perus-ufo-story-so/' | relative_url }})** page and cover its key branches in.
 
 - [Chulucanas]({{ '/chulucanas/' | relative_url }})
 - [Debunked Claims]({{ '/debunked-claims/' | relative_url }})

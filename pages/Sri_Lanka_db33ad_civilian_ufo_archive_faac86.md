@@ -248,16 +248,16 @@ image: /assets/images/Sri_Lanka_db33ad_civilian_ufo_archive_faac86-Illustration-
 
 ## Introduction
 
-Sri Lanka’s UFO history has been preserved far more by enthusiasts, amateur investigators and small research networks than by government archives. The country never developed a large public collection of military UFO files comparable to those later released in the United Kingdom or the United States. Instead, the backbone of the Sri Lankan record consists of newsletters, witness submissions, local case summaries, newspaper coverage and the work of the Sri Lanka Unidentified Flying Objects Research Association (SLUFORA). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &#x27;Sri Lanka UFO Register no 02&#x27;... HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE). 5 THE DOCUMENT.....</span></span></span>
+Sri Lanka’s UFO history has been preserved far more by enthusiasts, amateur investigators and small research networks than by government archives. The country never developed a large public collection of military UFO files comparable to those later released in the United Kingdom or the United States. Instead, the backbone of the Sri Lankan record consists of newsletters, witness submissions, local case summaries, newspaper coverage and the work of the Sri Lanka Unidentified Flying Objects Research Association (SLUFORA).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &#x27;Sri Lanka UFO Register no 02&#x27;... HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE). 5 THE DOCUMENT.....</span></span></span>
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad_civilian_ufo_archive_faac86-Illustration-1-dark.svg" | relative_url }}" alt="Civilian Archive illustration 1" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad_civilian_ufo_archive_faac86-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad_civilian_ufo_archive_faac86-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That makes SLUFORA important even for readers who are sceptical of UFO claims. The organisation became one of the few structured attempts to collect sightings across the island, create a reporting network and preserve accounts that otherwise would have disappeared. At the same time, the archive it helped create illustrates a recurring problem in Sri Lankan UFO research: many reports survive only as witness narratives, with little supporting physical evidence, official documentation or independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span>
+That makes SLUFORA important even for readers who are sceptical of UFO claims. The organisation became one of the few structured attempts to collect sightings across the island, create a reporting network and preserve accounts that otherwise would have disappeared. At the same time, the archive it helped create illustrates a recurring problem in Sri Lankan UFO research: many reports survive only as witness narratives, with little supporting physical evidence, official documentation or independent verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span>
 
 ## The 1979 UFO Register culture
 
-Before SLUFORA existed, Sri Lanka already had a small UFO enthusiast community. One of the most revealing surviving artefacts is the 1979 publication *Sri Lanka UFO Register*, a privately produced journal devoted to collecting reports, discussing international UFO literature and promoting investigation of unexplained aerial sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &#x27;Sri Lanka UFO Register no 02&#x27;... HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE). 5 THE DOCUMENT.....</span></span></span>
+Before SLUFORA existed, Sri Lanka already had a small UFO enthusiast community. One of the most revealing surviving artefacts is the 1979 publication *Sri Lanka UFO Register*, a privately produced journal devoted to collecting reports, discussing international UFO literature and promoting investigation of unexplained aerial sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &#x27;Sri Lanka UFO Register no 02&#x27;... HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE). 5 THE DOCUMENT.....</span></span></span>
 
-The publication is valuable not because it proves extraordinary events occurred, but because it shows how local researchers tried to organise information. Its contents included discussions of specific Sri Lankan sightings, commentary on international UFO debates, interviews and references to scientific figures such as Fred Hoyle and Chandra Wickramasinghe, whose ideas about life in the universe attracted attention among UFO enthusiasts. The journal described itself as a non-political and non-religious publication devoted to studying unidentified flying objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &#x27;Sri Lanka UFO Register no 02&#x27;... HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE). 5 THE DOCUMENT.....</span></span></span>
+The publication is valuable not because it proves extraordinary events occurred, but because it shows how local researchers tried to organise information. Its contents included discussions of specific Sri Lankan sightings, commentary on international UFO debates, interviews and references to scientific figures such as Fred Hoyle and Chandra Wickramasinghe, whose ideas about life in the universe attracted attention among UFO enthusiasts. The journal described itself as a non-political and non-religious publication devoted to studying unidentified flying objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &#x27;Sri Lanka UFO Register no 02&#x27;... HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE). 5 THE DOCUMENT.....</span></span></span>
 
 Several characteristics of the 1970s register culture would later shape Sri Lanka's civilian UFO archive:
 
@@ -266,7 +266,7 @@ Several characteristics of the 1970s register culture would later shape Sri Lank
 * Reports were usually gathered through personal correspondence rather than formal institutional channels.
 * Witness testimony carried more weight than physical evidence because photographs, radar records and instrument data were rarely available.
 * International UFO literature strongly influenced how local events were interpreted.
-* Preservation was fragile, with many records surviving only through private collections and later digitisation projects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &#x27;Sri Lanka UFO Register no 02&#x27;... HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE). 5 THE DOCUMENT.....</span></span></span>
+* Preservation was fragile, with many records surviving only through private collections and later digitisation projects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &#x27;Sri Lanka UFO Register no 02&#x27;... HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE). 5 THE DOCUMENT.....</span></span></span>
 
 </div>
 
@@ -276,7 +276,7 @@ The result was a historical record that captured what people claimed to have see
 
 ## Why SLUFORA emerged in the late 1990s
 
-By the late 1990s, Sri Lanka had experienced decades of scattered UFO stories but no nationally recognised civilian organisation devoted to collecting them. SLUFORA was launched in November 1998 with the stated aim of changing that situation. According to contemporary reporting, the association was created under the auspices of physicist Dr Chandana Jayaratne of the University of Colombo and writer Mihindukulasuriya Susantha Fernando, whose book on alien mysteries had already attracted public interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span>
+By the late 1990s, Sri Lanka had experienced decades of scattered UFO stories but no nationally recognised civilian organisation devoted to collecting them. SLUFORA was launched in November 1998 with the stated aim of changing that situation. According to contemporary reporting, the association was created under the auspices of physicist Dr Chandana Jayaratne of the University of Colombo and writer Mihindukulasuriya Susantha Fernando, whose book on alien mysteries had already attracted public interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span>
 
 The organisation's ambitions were unusually broad for a small volunteer group. Contemporary reports described plans for:
 
@@ -287,7 +287,7 @@ The organisation's ambitions were unusually broad for a small volunteer group. C
 * School and university membership programmes.
 * A public reporting hotline.
 * A regular journal devoted to sightings and investigations.
-* Scientific examination of reported cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span>
+* Scientific examination of reported cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span>
 
 </div>
 
@@ -297,21 +297,21 @@ These goals reflected a belief that Sri Lanka's UFO stories were being lost beca
 
 ## How the civilian archive was built
 
-SLUFORA's archive was less like a government records office and more like a networked witness collection system. Reports typically entered the archive through letters, telephone calls, local contacts, newspaper coverage and direct witness interviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span>
+SLUFORA's archive was less like a government records office and more like a networked witness collection system. Reports typically entered the archive through letters, telephone calls, local contacts, newspaper coverage and direct witness interviews.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span>
 
 This approach produced a record with several strengths.
 
-First, it preserved accounts from rural districts that rarely appeared in national scientific publications. Many sightings originated in villages, schools and agricultural regions rather than major urban centres. Without a civilian collector network, many of these reports would have vanished after brief newspaper attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
+First, it preserved accounts from rural districts that rarely appeared in national scientific publications. Many sightings originated in villages, schools and agricultural regions rather than major urban centres. Without a civilian collector network, many of these reports would have vanished after brief newspaper attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
 
-Second, the archive captured patterns of public perception. Researchers could compare how different witnesses described lights, discs, spheres or alleged close encounters, even when those events could not be conclusively explained. The archive therefore functions as a cultural record as much as an investigative one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
+Second, the archive captured patterns of public perception. Researchers could compare how different witnesses described lights, discs, spheres or alleged close encounters, even when those events could not be conclusively explained. The archive therefore functions as a cultural record as much as an investigative one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
 
-Third, the organisation attempted to treat reports as cases rather than rumours. Witness names, locations, dates and descriptions were often recorded in a more structured form than ordinary newspaper stories. Although the standards varied from case to case, the effort represented a move toward documentation rather than folklore alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span>
+Third, the organisation attempted to treat reports as cases rather than rumours. Witness names, locations, dates and descriptions were often recorded in a more structured form than ordinary newspaper stories. Although the standards varied from case to case, the effort represented a move toward documentation rather than folklore alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span>
 
 ## The archive's most important cases
 
 Many of the UFO incidents now associated with Sri Lanka survive primarily because they were collected, summarised or publicised through SLUFORA.
 
-Roar Media's review of the organisation's surviving case material describes reports from different decades, including school sightings, village encounters and observations of unusual lights. These include the often-cited Polonnaruwa-area stories, the Bandarawela school report of 1998 and later observations from regions such as Kosgama. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
+Roar Media's review of the organisation's surviving case material describes reports from different decades, including school sightings, village encounters and observations of unusual lights. These include the often-cited Polonnaruwa-area stories, the Bandarawela school report of 1998 and later observations from regions such as Kosgama.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
 
 What makes these cases important to the archive is not that they provide decisive evidence of extraterrestrial activity. Rather, they illustrate the kinds of events Sri Lankan civilian researchers considered worthy of preservation:
 
@@ -321,7 +321,7 @@ What makes these cases important to the archive is not that they provide decisiv
 * School-based sightings involving children and teachers.
 * Reports that included claims of landings or close encounters.
 * Recurring descriptions of glowing spheres and coloured lights.
-* Events that generated local media attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
+* Events that generated local media attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
 
 </div>
 
@@ -332,7 +332,7 @@ The archive therefore reveals what Sri Lankan witnesses were reporting over time
 
 The strongest criticism of Sri Lanka's civilian UFO archive is also one of its most obvious characteristics: the archive records claims, not verified conclusions.
 
-Many reports contain witness testimony without supporting evidence such as radar tracks, aircraft records, astronomical analyses, photographs with known provenance or physical samples. In some cases, different witnesses described the same event differently. In others, no trace evidence was found despite claims of landings or close approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
+Many reports contain witness testimony without supporting evidence such as radar tracks, aircraft records, astronomical analyses, photographs with known provenance or physical samples. In some cases, different witnesses described the same event differently. In others, no trace evidence was found despite claims of landings or close approaches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
 
 This does not make the archive useless. It simply changes what the archive can reliably tell us.
 
@@ -352,7 +352,7 @@ It is much less effective at answering:
 * What object was actually present?
 * Whether a sighting involved a conventional explanation.
 * Whether separate reports described the same phenomenon.
-* Whether extraordinary claims can be independently verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[2media.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* Whether extraordinary claims can be independently verified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[2media.nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This distinction matters because later internet discussions sometimes treat archived reports as confirmed events when the original files were simply records of testimony.
 
@@ -360,15 +360,15 @@ This distinction matters because later internet discussions sometimes treat arch
 
 ## The problem of missing official records
 
-One reason SLUFORA became so influential is the relative absence of a large public governmental UFO archive in Sri Lanka. Unlike countries where military, intelligence or aviation records have occasionally been declassified, Sri Lankan researchers largely depended on civilian collection efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
+One reason SLUFORA became so influential is the relative absence of a large public governmental UFO archive in Sri Lanka. Unlike countries where military, intelligence or aviation records have occasionally been declassified, Sri Lankan researchers largely depended on civilian collection efforts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
 
-That imbalance created a peculiar situation. A single well-maintained civilian file could become more influential than any official record because there was often little else available. Over time, case summaries produced by enthusiasts were repeatedly cited by newspapers, websites and later UFO discussions, giving certain incidents a prominence far beyond their evidential strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
+That imbalance created a peculiar situation. A single well-maintained civilian file could become more influential than any official record because there was often little else available. Over time, case summaries produced by enthusiasts were repeatedly cited by newspapers, websites and later UFO discussions, giving certain incidents a prominence far beyond their evidential strength.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
 
 For historians, this means the archive must be read as both a record of sightings and a record of information circulation. The files show how stories moved through Sri Lankan society, not merely what may have happened in the sky.
 
 ## What happened to SLUFORA's legacy
 
-Accounts of SLUFORA's later history suggest that the organisation eventually became inactive, but parts of its case material survived through publications and archived references. Roar Media reported that some of the association's files were later incorporated into a 2006 book preserving portions of its collected records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
+Accounts of SLUFORA's later history suggest that the organisation eventually became inactive, but parts of its case material survived through publications and archived references. Roar Media reported that some of the association's files were later incorporated into a 2006 book preserving portions of its collected records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-snippet">Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</span></span></span>
 
 The group's legacy therefore survives in a fragmented form:
 
@@ -376,206 +376,206 @@ The group's legacy therefore survives in a fragmented form:
 * Newspaper reports about investigations.
 * Reproduced case summaries.
 * References in later UFO discussions.
-* Digitised copies of older publications preserved online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &#x27;Sri Lanka UFO Register no 02&#x27;... HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE). 5 THE DOCUMENT.....</span></span></span>
+* Digitised copies of older publications preserved online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &#x27;Sri Lanka UFO Register no 02&#x27;... HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE). 5 THE DOCUMENT.....</span></span></span>
 
 This fragmented survival mirrors the broader Sri Lankan UFO record itself. Rather than a single authoritative repository, the country's archive is a patchwork of private collectors, [local witnesses]({{ 'local-witnesses/' | relative_url }}), journalists and enthusiasts.
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad_civilian_ufo_archive_faac86-Illustration-3-dark.svg" | relative_url }}" alt="Civilian Archive illustration 3" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad_civilian_ufo_archive_faac86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad_civilian_ufo_archive_faac86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What SLUFORA tells us about Sri Lanka's UFO history
 
-The most important contribution of SLUFORA was not proving that extraordinary craft visited Sri Lanka. Its significance lies in preservation. Without organisations such as SLUFORA and earlier projects like the *Sri Lanka UFO Register*, much of the country's UFO history would consist only of fading memories and scattered newspaper clippings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span>
+The most important contribution of SLUFORA was not proving that extraordinary craft visited Sri Lanka. Its significance lies in preservation. Without organisations such as SLUFORA and earlier projects like the *Sri Lanka UFO Register*, much of the country's UFO history would consist only of fading memories and scattered newspaper clippings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span>
 
-For researchers, the archive offers a valuable record of belief, reporting behaviour and unexplained-sighting culture across several decades. For sceptics, it provides a case study in how narratives can accumulate in the absence of strong physical evidence. For historians of Sri Lankan anomalous phenomena, it remains the closest thing the country has had to a national civilian UFO archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &#x27;Sri Lanka UFO Register no 02&#x27;... HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE). 5 THE DOCUMENT.....</span></span></span>
+For researchers, the archive offers a valuable record of belief, reporting behaviour and unexplained-sighting culture across several decades. For sceptics, it provides a case study in how narratives can accumulate in the absence of strong physical evidence. For historians of Sri Lankan anomalous phenomena, it remains the closest thing the country has had to a national civilian UFO archive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &#x27;Sri Lanka UFO Register no 02&#x27;... HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE). 5 THE DOCUMENT.....</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Collected Sri Lanka&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Collected Sri Lanka&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Shows how sightings are collected, documented, and evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how sightings are collected, documented, and evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses witness reports and investigative methodology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses witness reports and investigative methodology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Demonstrates how case records are preserved and discussed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how case records are preserved and discussed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Examines how UFO archives and reporting networks are built.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO archives and reporting networks are built.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-collected-sri-lanka-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="who-collected-sri-lanka-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ For researchers, the archive offers a valuable record of belief, reporting behav
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ For researchers, the archive offers a valuable record of belief, reporting behav
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ For researchers, the archive offers a valuable record of belief, reporting behav
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ For researchers, the archive offers a valuable record of belief, reporting behav
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ For researchers, the archive offers a valuable record of belief, reporting behav
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,144 +781,144 @@ For researchers, the archive offers a valuable record of belief, reporting behav
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flyi...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — NARA has records related to unidentified flyi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archive.roar.media  
    Title: of aliens and ufos e28092 sri lankas strangest sightings  
-   Link: <a href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sri Lanka&#x27;s Unidentified Flying Object Research Association...Read more...</p></details>
+   Link:<a href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sri Lanka&#x27;s Unidentified Flying Object Research Association...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
+   Link:<a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: preventionweb.net  
-   Link: <a href="https://www.preventionweb.net/files/9642_200805821.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.preventionweb.net/files/9642_200805821.pdf</a>  
+   Link:<a href="https://www.preventionweb.net/files/9642_200805821.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.preventionweb.net/files/9642_200805821.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archive.roar.media  
    Title: media Sri Lanka's Lesser Known Minorites  
-   Link: <a href="https://archive.roar.media/english/collections/srilankas-lesser-known-minorities" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/collections/srilankas-lesser-known-minorities</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>As... Sri Lanka&#x27;s Lesser Known Minorites. The Bohras – Plucky Business Barons.Read more...</p></details>
+   Link:<a href="https://archive.roar.media/english/collections/srilankas-lesser-known-minorities" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/collections/srilankas-lesser-known-minorities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As... Sri Lanka&#x27;s Lesser Known Minorites. The Bohras – Plucky Business Barons.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.roar.media  
-   Link: <a href="https://archive.roar.media/english/life/history-culture" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/history-culture</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Culture - Roar Media Archive - ObsidianSri Lanka does not traditionally celebrate Halloween, it has its fair share of horror stories...</p></details>
+   Link:<a href="https://archive.roar.media/english/life/history-culture" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/history-culture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Culture - Roar Media Archive - ObsidianSri Lanka does not traditionally celebrate Halloween, it has its fair share of horror stories...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.roar.media  
-   Link: <a href="https://archive.roar.media/english/collections/hidden-histories" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/collections/hidden-histories</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Histories - Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on...</p></details>
+   Link:<a href="https://archive.roar.media/english/collections/hidden-histories" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/collections/hidden-histories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Histories - Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.roar.media  
    Title: media Roar Media Archive  
-   Link: <a href="https://archive.roar.media/page/202" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/page/202</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Archive - ObsidianContent Archive for content published by Roar Media between the years 2014 to 2023...</p></details>
+   Link:<a href="https://archive.roar.media/page/202" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/page/202</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media Archive - ObsidianContent Archive for content published by Roar Media between the years 2014 to 2023...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archive.roar.media  
    Title: Of Aliens And UFOs ‒ Sri Lanka's Strangest Sightings. article.Read more  
-   Link: <a href="https://archive.roar.media/english/life/srilanka-life/rsrilanka-underrated-and-fascinating-2" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/srilanka-life/rsrilanka-underrated-and-fascinating-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>roar.mediar/SRILANKA: Underrated And Fascinating - Roar Media Archive14 Aug 2015 — Welcome to Roar Media&#x27;s archive of content published f...</p></details>
+   Link:<a href="https://archive.roar.media/english/life/srilanka-life/rsrilanka-underrated-and-fascinating-2" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/srilanka-life/rsrilanka-underrated-and-fascinating-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>roar.mediar/SRILANKA: Underrated And Fascinating - Roar Media Archive14 Aug 2015 — Welcome to Roar Media&#x27;s archive of content published f...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.roar.media  
    Title: media Sri Lanka: A Cradle Of Ancient Civilization  
-   Link: <a href="https://archive.roar.media/english/life/features/bow-and-arrow-ancient-sri-lanka" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/features/bow-and-arrow-ancient-sri-lanka</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lanka: A Cradle Of Ancient Civilization - Roar Media Archive24 Jun 2020 — The world&#x27;s oldest evidence of bows and arrows used by prehisto...</p></details>
+   Link:<a href="https://archive.roar.media/english/life/features/bow-and-arrow-ancient-sri-lanka" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/features/bow-and-arrow-ancient-sri-lanka</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lanka: A Cradle Of Ancient Civilization - Roar Media Archive24 Jun 2020 — The world&#x27;s oldest evidence of bows and arrows used by prehisto...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.roar.media  
    Title: media Roar Media Archive  
-   Link: <a href="https://archive.roar.media/page/139" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/page/139</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website. Th...</p></details>
+   Link:<a href="https://archive.roar.media/page/139" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/page/139</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website. Th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archive.roar.media  
    Title: media Brand Partnerships  
-   Link: <a href="https://archive.roar.media/english/brand-partnerships" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/brand-partnerships</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Partnerships - Roar MediaWelcome to Roar Media&#x27;s archive of content published from 2014 to 2023.... Food &amp; Agriculture Organization (FAO...</p></details>
+   Link:<a href="https://archive.roar.media/english/brand-partnerships" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/brand-partnerships</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Partnerships - Roar MediaWelcome to Roar Media&#x27;s archive of content published from 2014 to 2023.... Food &amp; Agriculture Organization (FAO...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: archive.roar.media  
-   Link: <a href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/reports/page/4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</p></details>
+   Link:<a href="https://archive.roar.media/english/life/reports/page/4" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/reports/page/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roar Media Archive - ObsidianAs of 2024, Roar Media has ceased editorial operations and will no longer publish new content on this website...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: auditorgeneral.gov.lk  
    Title: Annual Report 2023 English 2024.12.24  
-   Link: <a href="https://www.auditorgeneral.gov.lk/web/images/audit-reports/upload/2023/Annual_report_2023/Annual-Report-2023-English-2024.12.24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.auditorgeneral.gov.lk/web/images/audit-reports/upload/2023/Annual_report_2023/Annual-Report-2023-English-2024.12.24.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2023This report serves not only as a comprehensive record of our activities but also as a testament to our unwavering commi...</p></details>
+   Link:<a href="https://www.auditorgeneral.gov.lk/web/images/audit-reports/upload/2023/Annual_report_2023/Annual-Report-2023-English-2024.12.24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.auditorgeneral.gov.lk/web/images/audit-reports/upload/2023/Annual_report_2023/Annual-Report-2023-English-2024.12.24.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual Report 2023This report serves not only as a comprehensive record of our activities but also as a testament to our unwavering commi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sundaytimes.lk  
-   Link: <a href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/981206/plus9.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</p></details>
+   Link:<a href="https://www.sundaytimes.lk/981206/plus9.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/981206/plus9.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sunday TimesThe Sunday Times Plus SectionWatch out the UFOs are coming! Sri Lanka&#x27;s first ever organisation to monitor and carry out...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/7842781/Amphibian_Conservation_in_Britain" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7842781/Amphibian_Conservation_in_Britain</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amphibian Conservation in BritainThe paper highlights the urgent need for amphibian conservation in Britain, introducing three particular...</p></details>
+   Link:<a href="https://www.academia.edu/7842781/Amphibian_Conservation_in_Britain" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7842781/Amphibian_Conservation_in_Britain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amphibian Conservation in BritainThe paper highlights the urgent need for amphibian conservation in Britain, introducing three particular...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: obsidian.asia  
-   Link: <a href="https://www.obsidian.asia/" target="_blank" rel="noopener noreferrer nofollow">https://www.obsidian.asia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Creative Studio for Brand Strategy &amp; ContentTrusted by 250+ brands globally. We are an integrated creative studio focused on b...</p></details>
+   Link:<a href="https://www.obsidian.asia/" target="_blank" rel="noopener noreferrer nofollow">https://www.obsidian.asia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creative Studio for Brand Strategy &amp; ContentTrusted by 250+ brands globally. We are an integrated creative studio focused on b...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Dailymirroronline/posts/frequent-influx-of-purported-ufo-footage-professor-jayaratneread-more-/1301119528712050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Dailymirroronline/posts/frequent-influx-of-purported-ufo-footage-professor-jayaratneread-more-/1301119528712050/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequent influx of purported UFO footage: Professor...UFO sightings in Lima. Filmed. Several witnesses. They could be genuine UFOs as un...</p></details>
+   Link:<a href="https://www.facebook.com/Dailymirroronline/posts/frequent-influx-of-purported-ufo-footage-professor-jayaratneread-more-/1301119528712050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Dailymirroronline/posts/frequent-influx-of-purported-ufo-footage-professor-jayaratneread-more-/1301119528712050/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frequent influx of purported UFO footage: Professor...UFO sightings in Lima. Filmed. Several witnesses. They could be genuine UFOs as un...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/themorning.lk.official/posts/professor-chandana-jayaratne-head-of-the-department-of-physics-at-the-university/1506809881447861/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themorning.lk.official/posts/professor-chandana-jayaratne-head-of-the-department-of-physics-at-the-university/1506809881447861/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MorningProfessor Chandana Jayaratne, Head of the Department of Physics at the University of Colombo and Chairman of the Arthur C. Cla...</p></details>
+   Link:<a href="https://www.facebook.com/themorning.lk.official/posts/professor-chandana-jayaratne-head-of-the-department-of-physics-at-the-university/1506809881447861/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themorning.lk.official/posts/professor-chandana-jayaratne-head-of-the-department-of-physics-at-the-university/1506809881447861/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The MorningProfessor Chandana Jayaratne, Head of the Department of Physics at the University of Colombo and Chairman of the Arthur C. Cla...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/chitrakatha/posts/10168784074515305/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/chitrakatha/posts/10168784074515305/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was the night of 3rd April 1978 and after having their dinner, the people of Ahmedabad were getting ready for sleep...</p></details>
+   Link:<a href="https://www.facebook.com/groups/chitrakatha/posts/10168784074515305/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/chitrakatha/posts/10168784074515305/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was the night of 3rd April 1978 and after having their dinner, the people of Ahmedabad were getting ready for sleep...</p></details>
    Published: April 1978  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: The Broadhaven Primary School was host to a bizarre incident,  
-   Link: <a href="https://www.facebook.com/ufoinsightcom/posts/the-bizarre-and-forgotten-broad-haven-school-ufo-incident-of-1977-from-the-ufo-i/990173583375260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufoinsightcom/posts/the-bizarre-and-forgotten-broad-haven-school-ufo-incident-of-1977-from-the-ufo-i/990173583375260/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre And Forgotten Broad Haven School UFO Incident Of...In 1977 the whole area was inundated with reports of UFO sightings, crypt...</p></details>
+   Link:<a href="https://www.facebook.com/ufoinsightcom/posts/the-bizarre-and-forgotten-broad-haven-school-ufo-incident-of-1977-from-the-ufo-i/990173583375260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ufoinsightcom/posts/the-bizarre-and-forgotten-broad-haven-school-ufo-incident-of-1977-from-the-ufo-i/990173583375260/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre And Forgotten Broad Haven School UFO Incident Of...In 1977 the whole area was inundated with reports of UFO sightings, crypt...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: miteco.gob.es  
-   Link: <a href="https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/proyectos-de-cooperacion/Producto-D_tcm30-287665.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/proyectos-de-cooperacion/Producto-D_tcm30-287665.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a post-tsunami context: Consolidation Phase&#x27; carried out with financial...</p></details>
+   Link:<a href="https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/proyectos-de-cooperacion/Producto-D_tcm30-287665.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/proyectos-de-cooperacion/Producto-D_tcm30-287665.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a post-tsunami context: Consolidation Phase&#x27; carried out with financial...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ro.uow.edu.au  
    Title: uow.edu.au University of Wollongong Research Online  
-   Link: <a href="https://ro.uow.edu.au/ndownloader/files/50594103/1" target="_blank" rel="noopener noreferrer nofollow">https://ro.uow.edu.au/ndownloader/files/50594103/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“An exploration of the challenges of sustainable and effective professional development for English as second language teachers...</p></details>
+   Link:<a href="https://ro.uow.edu.au/ndownloader/files/50594103/1" target="_blank" rel="noopener noreferrer nofollow">https://ro.uow.edu.au/ndownloader/files/50594103/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“An exploration of the challenges of sustainable and effective professional development for English as second language teachers...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wearethemutants.com  
    Title: sri lanka ufo register cover 1979  
-   Link: <a href="https://wearethemutants.com/2020/05/28/fact-not-fiction-ufo-journals-from-the-archives-for-the-unexplained/sri-lanka-ufo-register-cover-1979/" target="_blank" rel="noopener noreferrer nofollow">https://wearethemutants.com/2020/05/28/fact-not-fiction-ufo-journals-from-the-archives-for-the-unexplained/sri-lanka-ufo-register-cover-1979/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 May 2020 — Cover of “The Sri Lanka UFO Register” discussing Carl Sagan, 1979. Share this: Trackbacks are closed, but you can post a co...</p></details>
+   Link:<a href="https://wearethemutants.com/2020/05/28/fact-not-fiction-ufo-journals-from-the-archives-for-the-unexplained/sri-lanka-ufo-register-cover-1979/" target="_blank" rel="noopener noreferrer nofollow">https://wearethemutants.com/2020/05/28/fact-not-fiction-ufo-journals-from-the-archives-for-the-unexplained/sri-lanka-ufo-register-cover-1979/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 May 2020 — Cover of “The Sri Lanka UFO Register” discussing Carl Sagan, 1979. Share this: Trackbacks are closed, but you can post a co...</p></details>
    Published: May 2020  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/brookeandjeffrey/posts/a-reporter-is-going-viral-for-what-was-behind-her-in-the-live-shotplus-a-92-year/1436413607936491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brookeandjeffrey/posts/a-reporter-is-going-viral-for-what-was-behind-her-in-the-live-shotplus-a-92-year/1436413607936491/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A reporter is going viral for what was behind her in the LIVE...LONGEST TIME ON ONE FOOT: Arulanantham Suresh Joachim of Sri Lanka balan...</p></details>
+   Link:<a href="https://www.facebook.com/brookeandjeffrey/posts/a-reporter-is-going-viral-for-what-was-behind-her-in-the-live-shotplus-a-92-year/1436413607936491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brookeandjeffrey/posts/a-reporter-is-going-viral-for-what-was-behind-her-in-the-live-shotplus-a-92-year/1436413607936491/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A reporter is going viral for what was behind her in the LIVE...LONGEST TIME ON ONE FOOT: Arulanantham Suresh Joachim of Sri Lanka balan...</p></details>

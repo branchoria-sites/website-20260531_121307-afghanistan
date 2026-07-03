@@ -257,7 +257,7 @@ image: /assets/images/Panama_1e36b3_panama_contactee_fol_404320-Illustration-1-s
 Panama’s UFO history is not defined only by lights in the sky or disputed photographs. Some of its most persistent stories belong to a different category altogether: contactee narratives, local prophecy claims, and community folklore built around individuals who said they had direct encounters with extraterrestrial beings. These accounts became part of Panama’s media culture, especially in the late twentieth century, and they reveal how UFO belief can spread even when physical evidence remains weak or absent.
 
 <img src="{{ "/assets/images/Panama_1e36b3_panama_contactee_fol_404320-Illustration-1-dark.svg" | relative_url }}" alt="Folklore illustration 1" data-theme-src-dark="{{ "/assets/images/Panama_1e36b3_panama_contactee_fol_404320-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Panama_1e36b3_panama_contactee_fol_404320-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The most famous example is Máximo Camargo of La Chorrera, whose claims of repeated journeys aboard alien spacecraft turned him into a national curiosity, a subject of newspaper coverage, and a figure remembered long after his alleged encounters. His story illustrates a broader pattern within Panama’s UFO record: some cases survive not because they were verified, but because they became folklore, blending personal testimony, religious themes, prophecy, local identity, and media attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/panama/nacionales/contactado-extraterrestres-1987-KIES23639237" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-snippet">Fue contactado por los extraterrestres en 1987June 26, 2012 — 26 Jun 2012 — Máximo Camargo nunca reveló este anhelo, sin embargo, la vida...</span><span class="citation-popover-meta">Published: June 26, 2012</span></span></span>
+The most famous example is Máximo Camargo of La Chorrera, whose claims of repeated journeys aboard alien spacecraft turned him into a national curiosity, a subject of newspaper coverage, and a figure remembered long after his alleged encounters. His story illustrates a broader pattern within Panama’s UFO record: some cases survive not because they were verified, but because they became folklore, blending personal testimony, religious themes, prophecy, local identity, and media attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/panama/nacionales/contactado-extraterrestres-1987-KIES23639237" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-snippet">Fue contactado por los extraterrestres en 1987June 26, 2012 — 26 Jun 2012 — Máximo Camargo nunca reveló este anhelo, sin embargo, la vida...</span><span class="citation-popover-meta">Published: June 26, 2012</span></span></span>
 
 ## Why contactee stories matter in Panama's UFO history
 
@@ -271,11 +271,11 @@ This distinction matters because the standards of evidence are different. A phot
 
 No figure occupies a larger place in Panama's contactee folklore than Máximo Camargo.
 
-According to accounts repeated in Panamanian newspapers over many years, Camargo said his first extraterrestrial contact occurred on 1 May 1987 in the La Chorrera area west of Panama City. He claimed that non-human beings approached him, took him aboard a spacecraft, and later returned him to Earth. Over time, the story expanded into a detailed narrative involving repeated visits, warnings about humanity's future, and journeys to other worlds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/panama/nacionales/murio-hombre-chorrerano-viajo-ovni-AIES24144121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-title">murio hombre chorrerano viajo ovni AIES24144121</span><span class="citation-popover-snippet">Murió el hombre chorrerano que viajó en ovni9 Nov 2019 — Corría el año 1996. Una tarde transitaba por la avenida de Las Américas, cerca d...</span></span></span>
+According to accounts repeated in Panamanian newspapers over many years, Camargo said his first extraterrestrial contact occurred on 1 May 1987 in the La Chorrera area west of Panama City. He claimed that non-human beings approached him, took him aboard a spacecraft, and later returned him to Earth. Over time, the story expanded into a detailed narrative involving repeated visits, warnings about humanity's future, and journeys to other worlds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/panama/nacionales/murio-hombre-chorrerano-viajo-ovni-AIES24144121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-title">murio hombre chorrerano viajo ovni AIES24144121</span><span class="citation-popover-snippet">Murió el hombre chorrerano que viajó en ovni9 Nov 2019 — Corría el año 1996. Una tarde transitaba por la avenida de Las Américas, cerca d...</span></span></span>
 
-Newspaper interviews described Camargo as a former policeman who unexpectedly became known throughout Panama after publicising these experiences. Reports said that he travelled to conferences in other countries and attracted attention from UFO enthusiasts abroad. His family later recalled that the publicity brought both fascination and ridicule. Neighbours reportedly mocked the family, while supporters treated Camargo as someone who had received extraordinary knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/panama/comunidad/chorrerano-viajo-ovni-MIES23683324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-title">chorrerano viajo ovni MIES23683324</span><span class="citation-popover-snippet">Chorrerano que viajó en ovniLa señora de Camargo recordó que el suceso ocurrió un 1 de mayo de 1987, cuando Máximo le contó una noche alg...</span></span></span>
+Newspaper interviews described Camargo as a former policeman who unexpectedly became known throughout Panama after publicising these experiences. Reports said that he travelled to conferences in other countries and attracted attention from UFO enthusiasts abroad. His family later recalled that the publicity brought both fascination and ridicule. Neighbours reportedly mocked the family, while supporters treated Camargo as someone who had received extraordinary knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/panama/comunidad/chorrerano-viajo-ovni-MIES23683324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-title">chorrerano viajo ovni MIES23683324</span><span class="citation-popover-snippet">Chorrerano que viajó en ovniLa señora de Camargo recordó que el suceso ocurrió un 1 de mayo de 1987, cuando Máximo le contó una noche alg...</span></span></span>
 
-The details of his encounters followed familiar contactee themes. Camargo described human-like beings with golden hair and nearly identical appearances. He claimed they placed instruments on his body, transported him in spacecraft, and showed him another world. In some versions of the story, he said he travelled with these beings dozens of times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2023/01/panama-man-who-traveled-aboard-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[2inexplicata.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-snippet">Panama: The Man Who Traveled Aboard a UFO22 Jan 2023 — He lived in Tulihueca de La Chorrera, and traveled with the creatures nearly 57 times...</span></span></span>
+The details of his encounters followed familiar contactee themes. Camargo described human-like beings with golden hair and nearly identical appearances. He claimed they placed instruments on his body, transported him in spacecraft, and showed him another world. In some versions of the story, he said he travelled with these beings dozens of times.<span class="citation-chip-wrap"><a class="citation-chip" href="https://inexplicata.blogspot.com/2023/01/panama-man-who-traveled-aboard-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inexplicata.blogspot.com">[2inexplicata.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inexplicata.blogspot.com</span><span class="citation-popover-snippet">Panama: The Man Who Traveled Aboard a UFO22 Jan 2023 — He lived in Tulihueca de La Chorrera, and traveled with the creatures nearly 57 times...</span></span></span>
 
 What made the case memorable was not any supporting evidence but the scale of the narrative. Rather than reporting a single strange event, Camargo presented an ongoing relationship with extraterrestrial visitors stretching across years.
 
@@ -285,9 +285,9 @@ What made the case memorable was not any supporting evidence but the scale of th
 
 As the account evolved, Camargo increasingly became associated with predictions.
 
-Several newspaper retrospectives reported that he warned of future global crises, including famine and major astronomical events. Later articles revisited these predictions during the COVID-19 era, arguing that supporters saw contemporary economic disruption as evidence that he had anticipated worldwide hardship decades earlier. Some local commentators even referred to him as a prophet after his death. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[Crítica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-snippet">Hasta JJ Benitez, autor de los libros &quot;El Caballo de...Read more...</span></span></span>
+Several newspaper retrospectives reported that he warned of future global crises, including famine and major astronomical events. Later articles revisited these predictions during the COVID-19 era, arguing that supporters saw contemporary economic disruption as evidence that he had anticipated worldwide hardship decades earlier. Some local commentators even referred to him as a prophet after his death.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[Crítica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-snippet">Hasta JJ Benitez, autor de los libros &quot;El Caballo de...Read more...</span></span></span>
 
-These prophetic elements are important because they shifted the story away from a UFO encounter and toward a broader belief system. The extraterrestrials in Camargo's narrative were not merely visitors. They became messengers delivering warnings about humanity's future and urging preparation for coming upheavals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[Crítica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-snippet">Hasta JJ Benitez, autor de los libros &quot;El Caballo de...Read more...</span></span></span>
+These prophetic elements are important because they shifted the story away from a UFO encounter and toward a broader belief system. The extraterrestrials in Camargo's narrative were not merely visitors. They became messengers delivering warnings about humanity's future and urging preparation for coming upheavals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[Crítica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-snippet">Hasta JJ Benitez, autor de los libros &quot;El Caballo de...Read more...</span></span></span>
 
 This mirrors a long-established pattern in international contactee culture. Many famous contactees from the 1950s onward claimed that alien beings warned of war, environmental disaster, moral decline, or planetary transformation. Camargo's story fit comfortably into that tradition, which helps explain why it resonated with UFO believers even without independent verification.
 
@@ -295,9 +295,9 @@ This mirrors a long-established pattern in international contactee culture. Many
 
 One reason the Camargo story remained visible is that it attracted repeated media attention.
 
-Panamanian newspapers periodically revisited the case, sometimes decades after the alleged encounters. These retrospective pieces often focused less on evidence than on the human drama surrounding the story: a local man who became internationally known, endured ridicule, and continued repeating the same account throughout his life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/opinion/columnas/rayos-ayer-XIES24161124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-title">rayos ayer XIES24161124</span><span class="citation-popover-snippet">Rayos de luz (ayer y hoy)25 Jul 2020 — Rayos de luz (ayer y hoy). El 29 de Noviembre de 2019, Máximo Camargo (ya fallecido), manifestó...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/panama/nacionales/contactado-extraterrestres-1987-KIES23639237" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-snippet">Fue contactado por los extraterrestres en 1987June 26, 2012 — 26 Jun 2012 — Máximo Camargo nunca reveló este anhelo, sin embargo, la vida...</span><span class="citation-popover-meta">Published: June 26, 2012</span></span></span>
+Panamanian newspapers periodically revisited the case, sometimes decades after the alleged encounters. These retrospective pieces often focused less on evidence than on the human drama surrounding the story: a local man who became internationally known, endured ridicule, and continued repeating the same account throughout his life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/opinion/columnas/rayos-ayer-XIES24161124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-title">rayos ayer XIES24161124</span><span class="citation-popover-snippet">Rayos de luz (ayer y hoy)25 Jul 2020 — Rayos de luz (ayer y hoy). El 29 de Noviembre de 2019, Máximo Camargo (ya fallecido), manifestó...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/panama/nacionales/contactado-extraterrestres-1987-KIES23639237" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-snippet">Fue contactado por los extraterrestres en 1987June 26, 2012 — 26 Jun 2012 — Máximo Camargo nunca reveló este anhelo, sin embargo, la vida...</span><span class="citation-popover-meta">Published: June 26, 2012</span></span></span>
 
-The involvement of Spanish author J. J. Benítez also contributed to the story's longevity. Multiple reports state that Benítez travelled to Panama to interview Camargo and repeatedly questioned him over the years to see whether his account changed. The visits became part of the legend itself, reinforcing the idea that the case had attracted international interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.panamaamerica.com.pa/variedades/j-j-benitez-vino-buscar-ovnis-301341" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panamaamerica.com.pa">[Panamá América]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panamaamerica.com.pa</span><span class="citation-popover-title">Panamá América J</span><span class="citation-popover-snippet">J. Benítez vino a buscar ovnis &#124; Panamá...November 6, 2007 — 5 Nov 2007 — La visita relámpago del español fue para indagar, nuevamente...</span><span class="citation-popover-meta">Published: November 6, 2007</span></span></span>
+The involvement of Spanish author J. J. Benítez also contributed to the story's longevity. Multiple reports state that Benítez travelled to Panama to interview Camargo and repeatedly questioned him over the years to see whether his account changed. The visits became part of the legend itself, reinforcing the idea that the case had attracted international interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.panamaamerica.com.pa/variedades/j-j-benitez-vino-buscar-ovnis-301341" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panamaamerica.com.pa">[Panamá América]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panamaamerica.com.pa</span><span class="citation-popover-title">Panamá América J</span><span class="citation-popover-snippet">J. Benítez vino a buscar ovnis &#124; Panamá...November 6, 2007 — 5 Nov 2007 — La visita relámpago del español fue para indagar, nuevamente...</span><span class="citation-popover-meta">Published: November 6, 2007</span></span></span>
 
 Importantly, these visits did not produce publicly available physical proof of extraterrestrial contact. Instead, they elevated the case within UFO culture by treating Camargo as a noteworthy witness whose consistency was itself presented as significant.
 
@@ -310,7 +310,7 @@ The Camargo case shows how UFO folklore can function as a form of local celebrit
 
 Unlike major international UFO incidents that become famous through government documents or widely distributed evidence, contactee stories often spread through personality. The witness becomes the centre of attention. Newspapers return to the individual, television programmes invite interviews, and the story develops through retelling rather than new evidence.
 
-In La Chorrera, Camargo became closely associated with the town's modern folklore. Reports described people visiting him, journalists seeking interviews, and foreign enthusiasts maintaining contact with him years after the original claims surfaced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/panama/nacionales/murio-hombre-chorrerano-viajo-ovni-AIES24144121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-title">murio hombre chorrerano viajo ovni AIES24144121</span><span class="citation-popover-snippet">Murió el hombre chorrerano que viajó en ovni9 Nov 2019 — Corría el año 1996. Una tarde transitaba por la avenida de Las Américas, cerca d...</span></span></span>
+In La Chorrera, Camargo became closely associated with the town's modern folklore. Reports described people visiting him, journalists seeking interviews, and foreign enthusiasts maintaining contact with him years after the original claims surfaced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/panama/nacionales/murio-hombre-chorrerano-viajo-ovni-AIES24144121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-title">murio hombre chorrerano viajo ovni AIES24144121</span><span class="citation-popover-snippet">Murió el hombre chorrerano que viajó en ovni9 Nov 2019 — Corría el año 1996. Una tarde transitaba por la avenida de Las Américas, cerca d...</span></span></span>
 
 This kind of attention can create a self-reinforcing cycle:
 
@@ -353,7 +353,7 @@ Contactee folklore asks different questions:
 
 </div>
 
-In Camargo's case, there is no widely available body of physical evidence demonstrating extraterrestrial contact. The story survives primarily through interviews, newspaper articles, retellings, and community memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/panama/comunidad/chorrerano-viajo-ovni-MIES23683324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-title">chorrerano viajo ovni MIES23683324</span><span class="citation-popover-snippet">Chorrerano que viajó en ovniLa señora de Camargo recordó que el suceso ocurrió un 1 de mayo de 1987, cuando Máximo le contó una noche alg...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/opinion/columnas/rayos-ayer-XIES24161124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-title">rayos ayer XIES24161124</span><span class="citation-popover-snippet">Rayos de luz (ayer y hoy)25 Jul 2020 — Rayos de luz (ayer y hoy). El 29 de Noviembre de 2019, Máximo Camargo (ya fallecido), manifestó...</span></span></span>
+In Camargo's case, there is no widely available body of physical evidence demonstrating extraterrestrial contact. The story survives primarily through interviews, newspaper articles, retellings, and community memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/panama/comunidad/chorrerano-viajo-ovni-MIES23683324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-title">chorrerano viajo ovni MIES23683324</span><span class="citation-popover-snippet">Chorrerano que viajó en ovniLa señora de Camargo recordó que el suceso ocurrió un 1 de mayo de 1987, cuando Máximo le contó una noche alg...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://elsiglo.com.pa/opinion/columnas/rayos-ayer-XIES24161124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elsiglo.com.pa">[elsiglo.com.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elsiglo.com.pa</span><span class="citation-popover-title">rayos ayer XIES24161124</span><span class="citation-popover-snippet">Rayos de luz (ayer y hoy)25 Jul 2020 — Rayos de luz (ayer y hoy). El 29 de Noviembre de 2019, Máximo Camargo (ya fallecido), manifestó...</span></span></span>
 
 That does not automatically prove fabrication. It simply means the case cannot be evaluated using the same evidential standards applied to photographs, radar records, or independently documented observations.
 
@@ -366,203 +366,203 @@ The persistence of stories such as Camargo's reveals several features of Panama'
 
 First, UFO culture in Panama has often been driven by media and personal testimony rather than official investigation. Unlike countries with extensive military archives or declassified UFO files, Panama's public record relies heavily on newspapers, television appearances, and witness narratives.
 
-Second, religious and prophetic themes frequently overlap with extraterrestrial claims. Warnings of famine, transformation, salvation, or catastrophe appear repeatedly in contactee traditions and help explain why some stories remain memorable long after specific predictions fail or become difficult to verify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[Crítica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-snippet">Hasta JJ Benitez, autor de los libros &quot;El Caballo de...Read more...</span></span></span>
+Second, religious and prophetic themes frequently overlap with extraterrestrial claims. Warnings of famine, transformation, salvation, or catastrophe appear repeatedly in contactee traditions and help explain why some stories remain memorable long after specific predictions fail or become difficult to verify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[Crítica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-snippet">Hasta JJ Benitez, autor de los libros &quot;El Caballo de...Read more...</span></span></span>
 
-Third, folklore can outlast evidence. Many readers today know the name Máximo Camargo not because new information emerged about his alleged encounters, but because the story became part of Panama's local UFO mythology. Newspaper retrospectives, discussions among enthusiasts, and references by later writers kept the narrative alive long after the original events were said to have occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[2Crítica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-snippet">Hasta JJ Benitez, autor de los libros &quot;El Caballo de...Read more...</span></span></span>
+Third, folklore can outlast evidence. Many readers today know the name Máximo Camargo not because new information emerged about his alleged encounters, but because the story became part of Panama's local UFO mythology. Newspaper retrospectives, discussions among enthusiasts, and references by later writers kept the narrative alive long after the original events were said to have occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critica.com.pa">[2Crítica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critica.com.pa</span><span class="citation-popover-snippet">Hasta JJ Benitez, autor de los libros &quot;El Caballo de...Read more...</span></span></span>
 
 Within Panama's UFO record, contactee stories therefore serve a different role from sighting databases or modern UAP discussions. They reveal how extraordinary claims become community legends, how witnesses can become symbols, and how belief itself becomes part of the history.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iEoTgE7stRU" title="Fenómeno OVNI y Avistamientos Reales de UFO´s - J.J. Benítez" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iEoTgE7stRU" target="_blank" rel="noopener noreferrer">Fenómeno OVNI y Avistamientos Reales de UFO´s - J.J. Benítez</a></p><p class="youtube-embed-meta">Channel: Un podcast con acento - Daniel Fopiani &middot; Views: 2.1K &middot; Uploaded: September 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iEoTgE7stRU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iEoTgE7stRU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Panama&#x27;s Contactee Stories Spread?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Panama&#x27;s Contactee Stories Spread?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15154855-M.jpg" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15154855-M.jpg" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly connects UFO narratives with folklore, myth, and belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects UFO narratives with folklore, myth, and belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Directly connects UFO narratives with folklore, myth, and belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects UFO narratives with folklore, myth, and belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Illustrates how personal contact narratives shape UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how personal contact narratives shape UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Messengers of Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w-XWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Messengers of Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Messengers of Deception">Messengers of Deception</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Messengers of Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=w-XWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Messengers of Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Messengers of Deception">Messengers of Deception</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Examines social dynamics behind UFO belief and contactee communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines social dynamics behind UFO belief and contactee communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Messengers+of+Deception+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-panama-s-contactee-stories-spread-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-did-panama-s-contactee-stories-spread-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ Within Panama's UFO record, contactee stories therefore serve a different role f
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ Within Panama's UFO record, contactee stories therefore serve a different role f
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ Within Panama's UFO record, contactee stories therefore serve a different role f
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ Within Panama's UFO record, contactee stories therefore serve a different role f
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ Within Panama's UFO record, contactee stories therefore serve a different role f
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,97 +768,97 @@ Within Panama's UFO record, contactee stories therefore serve a different role f
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: elsiglo.com.pa  
-   Link: <a href="https://elsiglo.com.pa/panama/nacionales/contactado-extraterrestres-1987-KIES23639237" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/nacionales/contactado-extraterrestres-1987-KIES23639237</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fue contactado por los extraterrestres en 1987June 26, 2012 — 26 Jun 2012 — Máximo Camargo nunca reveló este anhelo, sin embargo, la vida...</p></details>
+   Link:<a href="https://elsiglo.com.pa/panama/nacionales/contactado-extraterrestres-1987-KIES23639237" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/nacionales/contactado-extraterrestres-1987-KIES23639237</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fue contactado por los extraterrestres en 1987June 26, 2012 — 26 Jun 2012 — Máximo Camargo nunca reveló este anhelo, sin embargo, la vida...</p></details>
    Published: June 26, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: elsiglo.com.pa  
    Title: murio hombre chorrerano viajo ovni AIES24144121  
-   Link: <a href="https://elsiglo.com.pa/panama/nacionales/murio-hombre-chorrerano-viajo-ovni-AIES24144121" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/nacionales/murio-hombre-chorrerano-viajo-ovni-AIES24144121</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Murió el hombre chorrerano que viajó en ovni9 Nov 2019 — Corría el año 1996. Una tarde transitaba por la avenida de Las Américas, cerca d...</p></details>
+   Link:<a href="https://elsiglo.com.pa/panama/nacionales/murio-hombre-chorrerano-viajo-ovni-AIES24144121" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/nacionales/murio-hombre-chorrerano-viajo-ovni-AIES24144121</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Murió el hombre chorrerano que viajó en ovni9 Nov 2019 — Corría el año 1996. Una tarde transitaba por la avenida de Las Américas, cerca d...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: elsiglo.com.pa  
    Title: chorrerano viajo ovni MIES23683324  
-   Link: <a href="https://elsiglo.com.pa/panama/comunidad/chorrerano-viajo-ovni-MIES23683324" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/comunidad/chorrerano-viajo-ovni-MIES23683324</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chorrerano que viajó en ovniLa señora de Camargo recordó que el suceso ocurrió un 1 de mayo de 1987, cuando Máximo le contó una noche alg...</p></details>
+   Link:<a href="https://elsiglo.com.pa/panama/comunidad/chorrerano-viajo-ovni-MIES23683324" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/panama/comunidad/chorrerano-viajo-ovni-MIES23683324</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chorrerano que viajó en ovniLa señora de Camargo recordó que el suceso ocurrió un 1 de mayo de 1987, cuando Máximo le contó una noche alg...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: inexplicata.blogspot.com  
-   Link: <a href="https://inexplicata.blogspot.com/2023/01/panama-man-who-traveled-aboard-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2023/01/panama-man-who-traveled-aboard-ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Panama: The Man Who Traveled Aboard a UFO22 Jan 2023 — He lived in Tulihueca de La Chorrera, and traveled with the creatures nearly 57 times...</p></details>
+   Link:<a href="https://inexplicata.blogspot.com/2023/01/panama-man-who-traveled-aboard-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2023/01/panama-man-who-traveled-aboard-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Panama: The Man Who Traveled Aboard a UFO22 Jan 2023 — He lived in Tulihueca de La Chorrera, and traveled with the creatures nearly 57 times...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: elsiglo.com.pa  
    Title: rayos ayer XIES24161124  
-   Link: <a href="https://elsiglo.com.pa/opinion/columnas/rayos-ayer-XIES24161124" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/opinion/columnas/rayos-ayer-XIES24161124</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rayos de luz (ayer y hoy)25 Jul 2020 — Rayos de luz (ayer y hoy). El 29 de Noviembre de 2019, Máximo Camargo (ya fallecido), manifestó...</p></details>
+   Link:<a href="https://elsiglo.com.pa/opinion/columnas/rayos-ayer-XIES24161124" target="_blank" rel="noopener noreferrer nofollow">https://elsiglo.com.pa/opinion/columnas/rayos-ayer-XIES24161124</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rayos de luz (ayer y hoy)25 Jul 2020 — Rayos de luz (ayer y hoy). El 29 de Noviembre de 2019, Máximo Camargo (ya fallecido), manifestó...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: critica.com.pa  
-   Link: <a href="https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasta JJ Benitez, autor de los libros &quot;El Caballo de...Read more...</p></details>
+   Link:<a href="https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688" target="_blank" rel="noopener noreferrer nofollow">https://www.critica.com.pa/nacional/chorrerano-secuestrado-por-ovnis-vaticino-hambruna-mundial-despues-del-2020-402688</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hasta JJ Benitez, autor de los libros &quot;El Caballo de...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: panamaamerica.com.pa  
    Title: Panamá América J  
-   Link: <a href="https://www.panamaamerica.com.pa/variedades/j-j-benitez-vino-buscar-ovnis-301341" target="_blank" rel="noopener noreferrer nofollow">https://www.panamaamerica.com.pa/variedades/j-j-benitez-vino-buscar-ovnis-301341</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Benítez vino a buscar ovnis | Panamá...November 6, 2007 — 5 Nov 2007 — La visita relámpago del español fue para indagar, nuevamente...</p></details>
+   Link:<a href="https://www.panamaamerica.com.pa/variedades/j-j-benitez-vino-buscar-ovnis-301341" target="_blank" rel="noopener noreferrer nofollow">https://www.panamaamerica.com.pa/variedades/j-j-benitez-vino-buscar-ovnis-301341</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Benítez vino a buscar ovnis | Panamá...November 6, 2007 — 5 Nov 2007 — La visita relámpago del español fue para indagar, nuevamente...</p></details>
    Published: November 6, 2007  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/darkmaltafestival/posts/the-last-4-announcements-for-dark-malta-virtual-fest-yule-edition-from-canada-we/1065150074271210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darkmaltafestival/posts/the-last-4-announcements-for-dark-malta-virtual-fest-yule-edition-from-canada-we/1065150074271210/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Last 4 Announcements for Dark Malta Virtual FestThe Last 4 Announcements for Dark Malta Virtual Fest - Yule Edition... From Canada w...</p></details>
+   Link:<a href="https://www.facebook.com/darkmaltafestival/posts/the-last-4-announcements-for-dark-malta-virtual-fest-yule-edition-from-canada-we/1065150074271210/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darkmaltafestival/posts/the-last-4-announcements-for-dark-malta-virtual-fest-yule-edition-from-canada-we/1065150074271210/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Last 4 Announcements for Dark Malta Virtual FestThe Last 4 Announcements for Dark Malta Virtual Fest - Yule Edition... From Canada w...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uplopen.com  
-   Link: <a href="https://uplopen.com/books/1090/files/78bfd3c4-fe60-42ce-bc48-e8fbe3f8f877.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uplopen.com/books/1090/files/78bfd3c4-fe60-42ce-bc48-e8fbe3f8f877.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the vanguard of the atlantic worldI spent most of my time uncovering hints of how in- digenous peoples, ex- slaves, and small farmers app...</p></details>
+   Link:<a href="https://uplopen.com/books/1090/files/78bfd3c4-fe60-42ce-bc48-e8fbe3f8f877.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uplopen.com/books/1090/files/78bfd3c4-fe60-42ce-bc48-e8fbe3f8f877.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the vanguard of the atlantic worldI spent most of my time uncovering hints of how in- digenous peoples, ex- slaves, and small farmers app...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DPFwV6XEVrV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPFwV6XEVrV/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE WEIRDEST (AND CREEPIEST) VIDEO ON THE...MYTH: PEOPLE BELIEVED A METEORITE IN PANAMA CREATED A LIVING ALIEN SYMBIOTE THAT MOVED LIKE...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DPFwV6XEVrV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPFwV6XEVrV/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE WEIRDEST (AND CREEPIEST) VIDEO ON THE...MYTH: PEOPLE BELIEVED A METEORITE IN PANAMA CREATED A LIVING ALIEN SYMBIOTE THAT MOVED LIKE...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/journalof727319641965newy/journalof727319641965newy_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/journalof727319641965newy/journalof727319641965newy_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 New York Entomological Society... La Chorrera, Panama, V-10-14-12 (A. Busck); Paraiso, Canal Zone, 1V-24-11...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/journalof727319641965newy/journalof727319641965newy_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/journalof727319641965newy/journalof727319641965newy_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 New York Entomological Society... La Chorrera, Panama, V-10-14-12 (A. Busck); Paraiso, Canal Zone, 1V-24-11...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scispace.com  
    Title: People, soil and manioc interactions in the upper Amazon  
-   Link: <a href="https://scispace.com/pdf/people-soil-and-manioc-interactions-in-the-upper-amazon-34k0p99npm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/people-soil-and-manioc-interactions-in-the-upper-amazon-34k0p99npm.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>La Chorrera: más que una producción de subsistencia, es una fuente de comunicación y alimento físico y espiritual, de los hijos del tabac...</p></details>
+   Link:<a href="https://scispace.com/pdf/people-soil-and-manioc-interactions-in-the-upper-amazon-34k0p99npm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/people-soil-and-manioc-interactions-in-the-upper-amazon-34k0p99npm.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La Chorrera: más que una producción de subsistencia, es una fuente de comunicación y alimento físico y espiritual, de los hijos del tabac...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: iris.unisr.it  
-   Link: <a href="https://iris.unisr.it/retrieve/167da459-bffd-434b-8bdf-edc8db1962be/Definitive%20thesis-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.unisr.it/retrieve/167da459-bffd-434b-8bdf-edc8db1962be/Definitive%20thesis-2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spaniards of the diverse cultures that constituted the so-called Indies...Read more...</p></details>
+   Link:<a href="https://iris.unisr.it/retrieve/167da459-bffd-434b-8bdf-edc8db1962be/Definitive%20thesis-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.unisr.it/retrieve/167da459-bffd-434b-8bdf-edc8db1962be/Definitive%20thesis-2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spaniards of the diverse cultures that constituted the so-called Indies...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/latin-america-and-the-second-world-war-volume-2-19421945-9781474288248-9781474288262-9781474288255.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/latin-america-and-the-second-world-war-volume-2-19421945-9781474288248-9781474288262-9781474288255.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ough in vain, and was himself succeeded by a like-minded Conservative...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/latin-america-and-the-second-world-war-volume-2-19421945-9781474288248-9781474288262-9781474288255.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/latin-america-and-the-second-world-war-volume-2-19421945-9781474288248-9781474288262-9781474288255.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ough in vain, and was himself succeeded by a like-minded Conservative...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ipcc.ch  
-   Link: <a href="https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_References_Chapter12.bib" target="_blank" rel="noopener noreferrer nofollow">https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_References_Chapter12.bib</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>coverage, obtaining a significant correlation that varies from 0.57 to 0.82... Panama and assess the risk of dead zones to coral reefs w...</p></details>
+   Link:<a href="https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_References_Chapter12.bib" target="_blank" rel="noopener noreferrer nofollow">https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_References_Chapter12.bib</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>coverage, obtaining a significant correlation that varies from 0.57 to 0.82... Panama and assess the risk of dead zones to coral reefs w...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iufro.org  
    Title: iwc24 congress report scientific programme  
-   Link: <a href="https://www.iufro.org/media/fileadmin/events/iwc24/iwc24-congress-report-scientific-programme.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iufro.org/media/fileadmin/events/iwc24/iwc24-congress-report-scientific-programme.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ATTACHMENT24 Jun 2024 — Registration, Entrance Hall. Opening Ceremony and Awards, Victoria Hall. Networking, Exhibition and Coffee, Exhi...</p></details>
+   Link:<a href="https://www.iufro.org/media/fileadmin/events/iwc24/iwc24-congress-report-scientific-programme.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iufro.org/media/fileadmin/events/iwc24/iwc24-congress-report-scientific-programme.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ATTACHMENT24 Jun 2024 — Registration, Entrance Hall. Opening Ceremony and Awards, Victoria Hall. Networking, Exhibition and Coffee, Exhi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FreyomaAfrica/posts/-strange-reports-coming-out-of-panamathe-alleged-alien-that-locals-say-grew-from/1212191620929736/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FreyomaAfrica/posts/-strange-reports-coming-out-of-panamathe-alleged-alien-that-locals-say-grew-from/1212191620929736/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a meteorite has reportedly been released into the wild...</p></details>
+   Link:<a href="https://www.facebook.com/FreyomaAfrica/posts/-strange-reports-coming-out-of-panamathe-alleged-alien-that-locals-say-grew-from/1212191620929736/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FreyomaAfrica/posts/-strange-reports-coming-out-of-panamathe-alleged-alien-that-locals-say-grew-from/1212191620929736/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a meteorite has reportedly been released into the wild...</p></details>

@@ -254,14 +254,14 @@ image: /assets/images/Sri_Lanka_db33ad_school_village_witne_3a2d7c-Illustration-
 
 ## Introduction
 
-Many of Sri Lanka’s most memorable UFO stories depend not on radar records, military documentation, or physical evidence, but on local testimony from schoolchildren, farmers, teachers, and village residents. That gives these cases a distinctive place in the country’s UFO history. They are often vivid, emotionally convincing, and socially influential within the communities where they occurred. At the same time, they are among the hardest reports to verify years later because the evidence usually consists of recollections, newspaper accounts, and summaries compiled by civilian UFO researchers rather than preserved official records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+Many of Sri Lanka’s most memorable UFO stories depend not on radar records, military documentation, or physical evidence, but on local testimony from schoolchildren, farmers, teachers, and village residents. That gives these cases a distinctive place in the country’s UFO history. They are often vivid, emotionally convincing, and socially influential within the communities where they occurred. At the same time, they are among the hardest reports to verify years later because the evidence usually consists of recollections, newspaper accounts, and summaries compiled by civilian UFO researchers rather than preserved official records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad_school_village_witne_3a2d7c-Illustration-1-dark.svg" | relative_url }}" alt="Local Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad_school_village_witne_3a2d7c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad_school_village_witne_3a2d7c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The central question is not whether villagers or children are honest witnesses. Most investigators accept that many witnesses genuinely report what they believe they saw. The harder issue is whether repeated testimony, especially in small communities where people talk to one another after an unusual event, can reliably establish what actually appeared in the sky. Sri Lanka’s best-known school and village cases illustrate both the strengths and weaknesses of local witness evidence.
 
 ## Why village testimony became central to Sri Lankan UFO reports
 
-Sri Lanka’s UFO archive developed differently from the large military-centred UFO collections found in some Western countries. The country has relatively few publicly known aviation records, government investigations, or declassified files connected to UFO claims. Instead, much of the surviving material comes from local newspapers, private researchers, and organisations such as the Sri Lanka Unidentified Flying Objects Research Association (SLUFORA), founded in 1998. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/980510/plusm.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus Section“This solid evidence has suggested that UFOs could exist,” said Dr.Jayaratne. But he caution...</span></span></span>
+Sri Lanka’s UFO archive developed differently from the large military-centred UFO collections found in some Western countries. The country has relatively few publicly known aviation records, government investigations, or declassified files connected to UFO claims. Instead, much of the surviving material comes from local newspapers, private researchers, and organisations such as the Sri Lanka Unidentified Flying Objects Research Association (SLUFORA), founded in 1998.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/980510/plusm.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus Section“This solid evidence has suggested that UFOs could exist,” said Dr.Jayaratne. But he caution...</span></span></span>
 
 That structure naturally elevated village testimony. When an unusual light was reported over a rural district, investigators often depended on:
 
@@ -274,13 +274,13 @@ That structure naturally elevated village testimony. When an unusual light was r
 
 </div>
 
-The advantage of this approach is that it preserves experiences that might otherwise disappear. The disadvantage is that witness statements can change over time, especially after extensive community discussion. In several Sri Lankan cases, the main evidence consists of similarities between witness narratives rather than independent physical confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+The advantage of this approach is that it preserves experiences that might otherwise disappear. The disadvantage is that witness statements can change over time, especially after extensive community discussion. In several Sri Lankan cases, the main evidence consists of similarities between witness narratives rather than independent physical confirmation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
 ## Bandarawela and the problem of child witnesses
 
-The 1998 Bandarawela incident remains one of the most frequently cited school-linked UFO reports in Sri Lanka. According to SLUFORA case summaries, two children aged eight and ten reported seeing a disc-shaped object with red and yellow lights near school grounds. The object allegedly hovered before landing and later departed. One child estimated dimensions of roughly eight feet across and seven feet high. Other people in the surrounding area reportedly described a similar aerial object around the same period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+The 1998 Bandarawela incident remains one of the most frequently cited school-linked UFO reports in Sri Lanka. According to SLUFORA case summaries, two children aged eight and ten reported seeing a disc-shaped object with red and yellow lights near school grounds. The object allegedly hovered before landing and later departed. One child estimated dimensions of roughly eight feet across and seven feet high. Other people in the surrounding area reportedly described a similar aerial object around the same period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
-Newspaper coverage at the time suggested that the story spread beyond the children themselves. Reports indicated that teachers and additional pupils discussed sightings, while the principal of a local school reportedly acknowledged that several students and teachers claimed to have seen the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/980510/plusm.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus Section“This solid evidence has suggested that UFOs could exist,” said Dr.Jayaratne. But he caution...</span></span></span>
+Newspaper coverage at the time suggested that the story spread beyond the children themselves. Reports indicated that teachers and additional pupils discussed sightings, while the principal of a local school reportedly acknowledged that several students and teachers claimed to have seen the object.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sundaytimes.lk/980510/plusm.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sundaytimes.lk">[The Sunday Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sundaytimes.lk</span><span class="citation-popover-snippet">The Sunday TimesThe Sunday Times Plus Section“This solid evidence has suggested that UFOs could exist,” said Dr.Jayaratne. But he caution...</span></span></span>
 
 ### What makes the Bandarawela case persuasive to believers?
 
@@ -288,9 +288,9 @@ Supporters of the case usually point to three factors:
 
 * The witnesses were interviewed separately.
 * Multiple people reportedly described a broadly similar object.
-* The reports emerged from a school setting rather than from a single isolated observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+* The reports emerged from a school setting rather than from a single isolated observer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
-Within UFO research, repeated descriptions from different witnesses are often treated as evidence against deliberate fabrication. SLUFORA investigators argued that similarities across accounts reduced the likelihood of a simple hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+Within UFO research, repeated descriptions from different witnesses are often treated as evidence against deliberate fabrication. SLUFORA investigators argued that similarities across accounts reduced the likelihood of a simple hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YHsR7DJXExk" title="Ritigala Sacred Mountain – Mystical UFO Sighting and Landing Site in Sri Lanka" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YHsR7DJXExk" target="_blank" rel="noopener noreferrer">Ritigala Sacred Mountain – Mystical UFO Sighting and Landing Site in Sri Lanka</a></p><p class="youtube-embed-meta">Channel: Chasing the bliss &middot; Views: 7.4K &middot; Uploaded: July 2018 &middot; Length: 3 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YHsR7DJXExk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YHsR7DJXExk">Open on YouTube</a></p></div></div></div>
 
@@ -298,7 +298,7 @@ Within UFO research, repeated descriptions from different witnesses are often tr
 
 The same case also reveals the limits of witness testimony.
 
-The reported landing site apparently showed no indentations, scorch marks, damaged vegetation, or other physical traces. Even according to summaries favourable to the case, investigators found no clear ground evidence where the object supposedly touched down. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+The reported landing site apparently showed no indentations, scorch marks, damaged vegetation, or other physical traces. Even according to summaries favourable to the case, investigators found no clear ground evidence where the object supposedly touched down.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
 Child witnesses present an additional challenge. Research in psychology has repeatedly shown that children can provide sincere testimony while still being vulnerable to suggestion, memory contamination, and group reinforcement. That does not mean the children invented the event. It means later investigators must distinguish between an original observation and details that may have been strengthened through discussion with classmates, teachers, relatives, or journalists.
 
@@ -306,7 +306,7 @@ As a result, Bandarawela remains an intriguing report but not a verified landing
 
 ## Kosgama and the limits of agreement
 
-The January 2000 Kosgama case demonstrates a different problem. Here, the witnesses were not schoolchildren but local residents from the Bollaththewa area who reported a glowing spherical object moving rapidly across the sky. According to case summaries, the object emitted a blinking blue light, changed direction repeatedly, and eventually disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+The January 2000 Kosgama case demonstrates a different problem. Here, the witnesses were not schoolchildren but local residents from the Bollaththewa area who reported a glowing spherical object moving rapidly across the sky. According to case summaries, the object emitted a blinking blue light, changed direction repeatedly, and eventually disappeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
 Unlike Bandarawela, the case involved several adult witnesses observing the same broad event.
 
@@ -315,7 +315,7 @@ At first glance, that seems stronger. However, SLUFORA's own assessment reported
 * The object's size.
 * Its exact colour.
 * Its speed.
-* Elements of its movement pattern. Roar Media Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[archive.roar.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+* Elements of its movement pattern. Roar Media Archive<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[archive.roar.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad_school_village_witne_3a2d7c-Illustration-2-dark.svg" | relative_url }}" alt="Local Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad_school_village_witne_3a2d7c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad_school_village_witne_3a2d7c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When disagreement helps and when it hurts
@@ -324,7 +324,7 @@ The Kosgama case illustrates a recurring dilemma in eyewitness research.
 
 If multiple witnesses describe an event with identical wording, investigators may suspect later coordination or shared storytelling. If witnesses disagree substantially, confidence in the reconstruction drops.
 
-In Kosgama, the reports appear to converge on a general description: a glowing object moving unusually through the night sky. Beyond that point, consistency weakens. This neither proves nor disproves the sighting. Instead, it leaves investigators with a narrower conclusion: several people appear to have observed something unusual, but the testimony alone cannot establish exactly what it was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+In Kosgama, the reports appear to converge on a general description: a glowing object moving unusually through the night sky. Beyond that point, consistency weakens. This neither proves nor disproves the sighting. Instead, it leaves investigators with a narrower conclusion: several people appear to have observed something unusual, but the testimony alone cannot establish exactly what it was.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
 That conclusion is representative of many Sri Lankan village sightings. The event itself may be genuine, while the interpretation remains uncertain.
 
@@ -332,9 +332,9 @@ That conclusion is representative of many Sri Lankan village sightings. The even
 
 The most socially revealing Sri Lankan cases are not necessarily the aerial sightings but the humanoid stories that emerged in villages during the mid-2000s.
 
-Reports from Thanamalvila and other areas gained national attention after residents claimed encounters with small humanoid figures. In one widely circulated account, two children and their grandmother reportedly encountered several dark-complexioned beings standing on a path while returning home after bathing in a river. The figures were described as unusually small and wearing hats before disappearing from sight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+Reports from Thanamalvila and other areas gained national attention after residents claimed encounters with small humanoid figures. In one widely circulated account, two children and their grandmother reportedly encountered several dark-complexioned beings standing on a path while returning home after bathing in a river. The figures were described as unusually small and wearing hats before disappearing from sight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
-Around the same period, additional reports emerged from Thanamalvila, where dozens of residents reportedly claimed sightings or discoveries of unusual footprints. Local anxiety grew as stories spread between villages and through the media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+Around the same period, additional reports emerged from Thanamalvila, where dozens of residents reportedly claimed sightings or discoveries of unusual footprints. Local anxiety grew as stories spread between villages and through the media.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ncw1VYwyLBU" title="This Strange Structure on Google Earth Needs Investigating – Let’s Hike to It!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ncw1VYwyLBU" target="_blank" rel="noopener noreferrer">This Strange Structure on Google Earth Needs Investigating – Let’s Hike to It!</a></p><p class="youtube-embed-meta">Channel: Josh the Intern &middot; Views: 7.3M &middot; Uploaded: February 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ncw1VYwyLBU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ncw1VYwyLBU">Open on YouTube</a></p></div></div></div>
 
@@ -350,7 +350,7 @@ The sequence typically unfolds as follows:
 4. More reports appear, often with escalating detail.
 5. Authorities offer conventional [explanations]({{ 'explanations-8de6d4/' | relative_url }}).
 
-In the Thanamalvila episode, police and scientists reportedly dismissed extraterrestrial interpretations and suggested that some sightings could involve disguised criminals or misidentified individuals rather than non-human visitors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+In the Thanamalvila episode, police and scientists reportedly dismissed extraterrestrial interpretations and suggested that some sightings could involve disguised criminals or misidentified individuals rather than non-human visitors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
 The significance of the case lies less in whether strange beings were present and more in how rapidly a local story transformed into a broader regional phenomenon. The social response became part of the evidence.
 
@@ -361,7 +361,7 @@ The strongest Sri Lankan UFO stories often survive because they involve ordinary
 
 A teacher describing frightened pupils, a grandmother recounting an encounter on a village path, or residents comparing unusual lights over farmland creates a narrative that is easy to remember and retell. These accounts become part of local folklore even when the original evidence is weak.
 
-The persistence of the stories is also helped by the fact that many occurred outside major urban centres. Rural settings can make a report seem more authentic to believers because witnesses are presumed to be familiar with their surroundings and less likely to mistake common local phenomena. At the same time, rural incidents can be harder to investigate because documentation is sparse and physical evidence is rarely preserved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+The persistence of the stories is also helped by the fact that many occurred outside major urban centres. Rural settings can make a report seem more authentic to believers because witnesses are presumed to be familiar with their surroundings and less likely to mistake common local phenomena. At the same time, rural incidents can be harder to investigate because documentation is sparse and physical evidence is rarely preserved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
 This tension explains why Sri Lanka's school and village sightings remain important despite their evidential limitations. They are not the country's strongest proof of extraordinary craft. Instead, they are its clearest examples of how local testimony shapes the national UFO record.
 
@@ -369,7 +369,7 @@ This tension explains why Sri Lanka's school and village sightings remain import
 
 The answer depends on what “trusted” means.
 
-If the question is whether villagers, children, and teachers genuinely reported unusual experiences, the available evidence suggests many did. There is little indication that every famous Sri Lankan case was a deliberate fabrication. Multiple witnesses often came forward, and some reports were investigated seriously by civilian researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+If the question is whether villagers, children, and teachers genuinely reported unusual experiences, the available evidence suggests many did. There is little indication that every famous Sri Lankan case was a deliberate fabrication. Multiple witnesses often came forward, and some reports were investigated seriously by civilian researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[Roar Media Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
 If the question is whether those testimonies can reliably establish the presence of extraterrestrial craft, the evidence is far weaker. The most famous cases repeatedly encounter the same obstacles:
 
@@ -377,201 +377,201 @@ If the question is whether those testimonies can reliably establish the presence
 * Inconsistent witness descriptions.
 * Heavy reliance on later recollections.
 * Limited independent documentation.
-* Media amplification that may influence subsequent testimony. Roar Media Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[archive.roar.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
+* Media amplification that may influence subsequent testimony. Roar Media Archive<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.roar.media">[archive.roar.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.roar.media</span><span class="citation-popover-title">No conclusive information was found on the matter, however.Read more</span><span class="citation-popover-snippet">Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</span><span class="citation-popover-meta">Published: February 2, 2017</span></span></span>
 
 For that reason, schoolchildren and village witnesses occupy a complicated position in Sri Lanka’s UFO history. Their accounts form the backbone of the country's most memorable sightings, yet they also illustrate why eyewitness testimony alone rarely settles the question of what was actually seen. The stories remain valuable as records of local experience and belief, even when the underlying phenomenon cannot be conclusively identified.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZfnP_gARW9I" title="UFO Sighting Sri Lanka" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZfnP_gARW9I" target="_blank" rel="noopener noreferrer">UFO Sighting Sri Lanka</a></p><p class="youtube-embed-meta">Channel: Rob Dan &middot; Views: 12.6K &middot; Uploaded: December 2012 &middot; Length: 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZfnP_gARW9I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZfnP_gARW9I">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Village UFO Testimony Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Village UFO Testimony Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses witness testimony and case evaluation directly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses witness testimony and case evaluation directly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains investigative handling of witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains investigative handling of witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides comparison points for witness-based UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides comparison points for witness-based UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Useful for understanding perception, memory, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding perception, memory, and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-village-ufo-testimony-be-trusted-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="can-village-ufo-testimony-be-trusted-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ For that reason, schoolchildren and village witnesses occupy a complicated posit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ For that reason, schoolchildren and village witnesses occupy a complicated posit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ For that reason, schoolchildren and village witnesses occupy a complicated posit
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ For that reason, schoolchildren and village witnesses occupy a complicated posit
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ For that reason, schoolchildren and village witnesses occupy a complicated posit
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,87 +774,86 @@ For that reason, schoolchildren and village witnesses occupy a complicated posit
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archive.roar.media  
    Title: No conclusive information was found on the matter, however.Read more  
-   Link: <a href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</p></details>
+   Link:<a href="https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings" target="_blank" rel="noopener noreferrer nofollow">https://archive.roar.media/english/life/srilanka-life/of-aliens-and-ufos-e28092-sri-lankas-strangest-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roar Media ArchiveOf Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest SightingsFebruary 2, 2017 — 2 Feb 2017 — The most recent sighting of a UFO t...</p></details>
    Published: February 2, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Sri Lanka UFO Register no 02"  
-   Link: <a href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BALL OF FIRE AT HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE)... UFOs are urged to contact the Sri Lanka UFO Register. Our addr...</p></details>
+   Link:<a href="https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Sri_Lanka_UFO_Register_no_02/Sri_Lanka_UFO_Register_no_02_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BALL OF FIRE AT HUNNASGIRIYA. 2 QUOTE (FROM PROFESSOR WICKRAMASINGHE)... UFOs are urged to contact the Sri Lanka UFO Register. Our addr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sundaytimes.lk  
-   Link: <a href="https://www.sundaytimes.lk/980510/plusm.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/980510/plusm.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sunday TimesThe Sunday Times Plus Section“This solid evidence has suggested that UFOs could exist,” said Dr.Jayaratne. But he caution...</p></details>
+   Link:<a href="https://www.sundaytimes.lk/980510/plusm.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/980510/plusm.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sunday TimesThe Sunday Times Plus Section“This solid evidence has suggested that UFOs could exist,” said Dr.Jayaratne. But he caution...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sundaytimes.lk  
-   Link: <a href="https://www.sundaytimes.lk/980503/frontm.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/980503/frontm.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sunday TimesThe Sunday Times Front PageAccording to the principal of Adikaram Primary School in Bandarawela, several school boys and...</p></details>
+   Link:<a href="https://www.sundaytimes.lk/980503/frontm.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/980503/frontm.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sunday TimesThe Sunday Times Front PageAccording to the principal of Adikaram Primary School in Bandarawela, several school boys and...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/uche.nworah/posts/ufo-sighting-in-former-coe-awka-campusstories-of-ufo-sightings-are-usually-assoc/10237999481460030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uche.nworah/posts/ufo-sighting-in-former-coe-awka-campusstories-of-ufo-sightings-are-usually-assoc/10237999481460030/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting In Former COE Awka Campus Stories...John Mack was a Harvard University professor that studied the UFO phenomena, specifical...</p></details>
+   Link:<a href="https://www.facebook.com/uche.nworah/posts/ufo-sighting-in-former-coe-awka-campusstories-of-ufo-sightings-are-usually-assoc/10237999481460030/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uche.nworah/posts/ufo-sighting-in-former-coe-awka-campusstories-of-ufo-sightings-are-usually-assoc/10237999481460030/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting In Former COE Awka Campus Stories...John Mack was a Harvard University professor that studied the UFO phenomena, specifical...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ufoinsight.com  
    Title: glowing lights discs ancient vimanas ufo indian region  
-   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/glowing-lights-discs-ancient-vimanas-ufo-indian-region" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/glowing-lights-discs-ancient-vimanas-ufo-indian-region</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing Lights, Discs, And Ancient Vimanas27 Jun 2021 — Of Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest Sightings, Kris Thomas, Roar Media, Fe...</p></details>
+   Link:<a href="https://www.ufoinsight.com/ufos/close-encounters/glowing-lights-discs-ancient-vimanas-ufo-indian-region" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/glowing-lights-discs-ancient-vimanas-ufo-indian-region</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing Lights, Discs, And Ancient Vimanas27 Jun 2021 — Of Aliens And UFOs ‒ Sri Lanka&#x27;s Strangest Sightings, Kris Thomas, Roar Media, Fe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lankaweb.com  
    Title: Akila Weerasekera MUFON-Minnesota/SLUFORA  
-   Link: <a href="https://www.lankaweb.com/news/items07/260707-8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lankaweb.com/news/items07/260707-8.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs for the benefit of humanity through investigations, research and education. The urgency of an organized effort to monitor UFO sighti...</p></details>
+   Link:<a href="https://www.lankaweb.com/news/items07/260707-8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lankaweb.com/news/items07/260707-8.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs for the benefit of humanity through investigations, research and education. The urgency of an organized effort to monitor UFO sighti...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: Have we already been visited by aliens?  
-   Link: <a href="https://www.facebook.com/bbcworldservice/posts/have-we-already-been-visited-by-aliens-the-truth-is-still-out-therebut-in-1994-i/670546695099566/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/posts/have-we-already-been-visited-by-aliens-the-truth-is-still-out-therebut-in-1994-i/670546695099566/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is still...BBC journalist Tim leech went to the aerial School in ruer Zimbabwe to interview a group of 60 school kids who clai...</p></details>
+   Link:<a href="https://www.facebook.com/bbcworldservice/posts/have-we-already-been-visited-by-aliens-the-truth-is-still-out-therebut-in-1994-i/670546695099566/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/posts/have-we-already-been-visited-by-aliens-the-truth-is-still-out-therebut-in-1994-i/670546695099566/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The truth is still...BBC journalist Tim leech went to the aerial School in ruer Zimbabwe to interview a group of 60 school kids who clai...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: sri lankas strangest sightings  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/ohmqco/sri_lankas_strangest_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ohmqco/sri_lankas_strangest_sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>reports of UFO sightings and extraterrestrial visitations that supposedly occurred in the island. The Association, which was inaugurated...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/ohmqco/sri_lankas_strangest_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ohmqco/sri_lankas_strangest_sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reports of UFO sightings and extraterrestrial visitations that supposedly occurred in the island. The Association, which was inaugurated...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sundaytimes.lk  
-   Link: <a href="https://www.sundaytimes.lk/110306/Timestwo/t2_12.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/110306/Timestwo/t2_12.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dings, bright lights and alien...Read more...</p></details>
+   Link:<a href="https://www.sundaytimes.lk/110306/Timestwo/t2_12.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/110306/Timestwo/t2_12.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dings, bright lights and alien...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: The Day Students Saw a UFO  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/the-day-students-saw-a-ufothe-unbelievable-with-dan-aykroyd-season-3-tonight-at-/1382747436751562/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/the-day-students-saw-a-ufothe-unbelievable-with-dan-aykroyd-season-3-tonight-at-/1382747436751562/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UnBelievable with Dan...The three UFOs were in the sky above the Westall schools. Another witness, a Form 1 student, who had witness...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/the-day-students-saw-a-ufothe-unbelievable-with-dan-aykroyd-season-3-tonight-at-/1382747436751562/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/the-day-students-saw-a-ufothe-unbelievable-with-dan-aykroyd-season-3-tonight-at-/1382747436751562/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UnBelievable with Dan...The three UFOs were in the sky above the Westall schools. Another witness, a Form 1 student, who had witness...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Ritigala Sacred Mountain – Mystical UFO Sighting and Landing Site in Sri Lanka  
-   Link: <a href="https://www.youtube.com/watch?v=YHsR7DJXExk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YHsR7DJXExk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Strange Structure on Google Earth Needs Investigating – Let&#x27;s Hike to It...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YHsR7DJXExk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YHsR7DJXExk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Strange Structure on Google Earth Needs Investigating – Let&#x27;s Hike to It...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Ariel School's UFO Incident That Refuses to Fade! | Expedition Unknown S1 E3  
-   Link: <a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ritigala Sacred Mountain – Mystical UFO Sighting and Landing Site in Sri Lanka...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u4v6rSzXPjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u4v6rSzXPjU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ritigala Sacred Mountain – Mystical UFO Sighting and Landing Site in Sri Lanka...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/rwsomm/if_what_the_children_from_the_zimbabwe_school/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rwsomm/if_what_the_children_from_the_zimbabwe_school/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ust curious to hear others thoughts...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/rwsomm/if_what_the_children_from_the_zimbabwe_school/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rwsomm/if_what_the_children_from_the_zimbabwe_school/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ust curious to hear others thoughts...</p></details>

@@ -251,11 +251,11 @@ image: /assets/images/Togo_30949d_coastal_explanations_e0d53b-Illustration-1-soc
 The best-known UFO story connected to Togo takes place on the coast near Lomé, not deep inland. That setting matters. The Gulf of Guinea provides long, dark horizons, moving ship lights, heavy humidity, surf reflections, moonlit water, seasonal haze, and nearby air traffic corridors. All of those factors can complicate eyewitness interpretation, especially at night and over open water. At the same time, the coastal setting is also one reason the 1974 Lomé case remains difficult to dismiss outright: witnesses did not merely report a distant light, but described apparent effects on the sea itself.
 
 <img src="{{ "/assets/images/Togo_30949d_coastal_explanations_e0d53b-Illustration-1-dark.svg" | relative_url }}" alt="Coastal Clues illustration 1" data-theme-src-dark="{{ "/assets/images/Togo_30949d_coastal_explanations_e0d53b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Togo_30949d_coastal_explanations_e0d53b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key question is therefore not whether the coast automatically explains the story. It is whether the environmental conditions around Lomé offer plausible ordinary mechanisms that could produce some of the reported observations. The answer is mixed. Several visual elements of the case fit known coastal misperception patterns, while other claimed details remain harder to evaluate because contemporary local records are scarce. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lom%C3%A9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The key question is therefore not whether the coast automatically explains the story. It is whether the environmental conditions around Lomé offer plausible ordinary mechanisms that could produce some of the reported observations. The answer is mixed. Several visual elements of the case fit known coastal misperception patterns, while other claimed details remain harder to evaluate because contemporary local records are scarce.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lom%C3%A9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Sea Horizons, Ship Lights, and the Problem of Distance
 
-The Atlantic shoreline around Lomé stretches along a relatively open section of the Gulf of Guinea. Looking out from the beach at night often means looking into a dark horizon where depth, scale, and distance are difficult to judge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Lome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Lomé lies on the Gulf of Guinea (Atlantic coast) in the extreme southwestern corner of the country. Selected as the colonial...Read more...</span></span></span>
+The Atlantic shoreline around Lomé stretches along a relatively open section of the Gulf of Guinea. Looking out from the beach at night often means looking into a dark horizon where depth, scale, and distance are difficult to judge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Lome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Lomé lies on the Gulf of Guinea (Atlantic coast) in the extreme southwestern corner of the country. Selected as the colonial...Read more...</span></span></span>
 
 This creates a classic problem in UFO investigations: a witness may be confident that an object is hovering a few hundred metres offshore when, in reality, there are very few visual reference points available to estimate range accurately. A bright source over water can appear closer, larger, or lower than it actually is.
 
@@ -293,7 +293,7 @@ The challenge is that a witness may perceive three separate events as one:
 
 The brain naturally links them into a single cause-and-effect sequence.
 
-The Gulf of Guinea coast is particularly suited to such visual ambiguities because surf and swell are persistent features of the shoreline. Modern marine forecasts for Lomé regularly report moderate seas, long-period swells, and changing visibility conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://marine.meteoconsult.co.uk/marine-weather/weather-forecasts/port-5205/weather-forecast-lome-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.meteoconsult.co.uk">[Meteo Consult Marine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.meteoconsult.co.uk</span><span class="citation-popover-title">Meteo Consult Marine Weather Lomé</span><span class="citation-popover-snippet">Moderate sea. Low, fairly long swell from SSW. Excellent visibility becoming reduced by mist in the evening...</span></span></span> PredictWind A witness observing an unusual light over already-moving water may therefore interpret naturally occurring wave motion as being generated by <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.predictwind.com/weather/togo/maritime/lom/marine-forecast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: predictwind.com">[predictwind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">predictwind.com</span><span class="citation-popover-title">Predict Wind Marine Forecast: Lomé, Togo</span><span class="citation-popover-snippet">Marine Forecast: Lomé, Togo - Wind, Waves &amp; WeatherCurrent weather for Lomé: Wind 9kts SSW, Waves 1.0m. Today&#x27;s forecast: High 29°C, Low...</span></span></span> the object itself.
+The Gulf of Guinea coast is particularly suited to such visual ambiguities because surf and swell are persistent features of the shoreline. Modern marine forecasts for Lomé regularly report moderate seas, long-period swells, and changing visibility conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://marine.meteoconsult.co.uk/marine-weather/weather-forecasts/port-5205/weather-forecast-lome-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.meteoconsult.co.uk">[Meteo Consult Marine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.meteoconsult.co.uk</span><span class="citation-popover-title">Meteo Consult Marine Weather Lomé</span><span class="citation-popover-snippet">Moderate sea. Low, fairly long swell from SSW. Excellent visibility becoming reduced by mist in the evening...</span></span></span> PredictWind A witness observing an unusual light over already-moving water may therefore interpret naturally occurring wave motion as being generated by<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.predictwind.com/weather/togo/maritime/lom/marine-forecast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: predictwind.com">[predictwind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">predictwind.com</span><span class="citation-popover-title">Predict Wind Marine Forecast: Lomé, Togo</span><span class="citation-popover-snippet">Marine Forecast: Lomé, Togo - Wind, Waves &amp; WeatherCurrent weather for Lomé: Wind 9kts SSW, Waves 1.0m. Today&#x27;s forecast: High 29°C, Low...</span></span></span> the object itself.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bkQJVkLIek0" title="LOMÉ ( TOGO) - The 5 Minute Essential Travel Guide! Bienvenue à Lomé, voici votre guide en 5 mins." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bkQJVkLIek0" target="_blank" rel="noopener noreferrer">LOMÉ ( TOGO) - The 5 Minute Essential Travel Guide! Bienvenue à Lomé, voici votre guide en 5 mins.</a></p><p class="youtube-embed-meta">Channel: Travel Obscurer &middot; Views: 2.6K &middot; Uploaded: February 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bkQJVkLIek0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bkQJVkLIek0">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +303,7 @@ The most debated physical claim in the Lomé story is that waves or water distur
 
 At first glance this sounds extraordinary. Yet wave perception on a beach is notoriously difficult to reconstruct after the fact.
 
-The Lomé coastline experiences regular surf conditions driven by Atlantic swells from the south and south-west. Modern surf and marine observations show that long-period swells can arrive in sets, producing intervals of relative calm followed by larger incoming waves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surf-forecast.com/breaks/Lome-Rivage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surf-forecast.com">[Surf Forecast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surf-forecast.com</span><span class="citation-popover-snippet">Lome Rivage in Togo is an exposed beach break that has consistent surf. May-Oct (Dry Season) is the favoured time of year for waves...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://marine.meteoconsult.co.uk/marine-weather/weather-forecasts/port-5205/weather-forecast-lome-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.meteoconsult.co.uk">[Meteo Consult Marine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.meteoconsult.co.uk</span><span class="citation-popover-title">Meteo Consult Marine Weather Lomé</span><span class="citation-popover-snippet">Moderate sea. Low, fairly long swell from SSW. Excellent visibility becoming reduced by mist in the evening...</span></span></span>
+The Lomé coastline experiences regular surf conditions driven by Atlantic swells from the south and south-west. Modern surf and marine observations show that long-period swells can arrive in sets, producing intervals of relative calm followed by larger incoming waves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surf-forecast.com/breaks/Lome-Rivage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surf-forecast.com">[Surf Forecast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surf-forecast.com</span><span class="citation-popover-snippet">Lome Rivage in Togo is an exposed beach break that has consistent surf. May-Oct (Dry Season) is the favoured time of year for waves...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://marine.meteoconsult.co.uk/marine-weather/weather-forecasts/port-5205/weather-forecast-lome-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.meteoconsult.co.uk">[Meteo Consult Marine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.meteoconsult.co.uk</span><span class="citation-popover-title">Meteo Consult Marine Weather Lomé</span><span class="citation-popover-snippet">Moderate sea. Low, fairly long swell from SSW. Excellent visibility becoming reduced by mist in the evening...</span></span></span>
 
 A witness focused on a bright offshore light may notice a larger wave set arriving at roughly the same time and infer a connection.
 
@@ -326,7 +326,7 @@ The absence of those records leaves a gap. A natural explanation is plausible, b
 
 Lomé's climate introduces another complication: visibility is not constant.
 
-The coastal atmosphere often contains moisture, sea haze, cloud layers, and mist. Modern forecasts for the area regularly note reduced visibility and changing cloud cover. <span class="citation-chip-wrap"><a class="citation-chip" href="https://marine.meteoconsult.co.uk/marine-weather/weather-forecasts/port-5205/weather-forecast-lome-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.meteoconsult.co.uk">[Meteo Consult Marine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.meteoconsult.co.uk</span><span class="citation-popover-title">Meteo Consult Marine Weather Lomé</span><span class="citation-popover-snippet">Moderate sea. Low, fairly long swell from SSW. Excellent visibility becoming reduced by mist in the evening...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ventusky.com/6.13%3B1.22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ventusky.com">[ventusky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ventusky.com</span><span class="citation-popover-snippet">Lomé - 14-Day Forecast &amp; RainLomé - Weather forecast for 14 days, information from meteorological stations, webcams, sunrise and sunset...</span></span></span> These conditions matter because they can alter the appearance of lights in several ways:
+The coastal atmosphere often contains moisture, sea haze, cloud layers, and mist. Modern forecasts for the area regularly note reduced visibility and changing cloud cover.<span class="citation-chip-wrap"><a class="citation-chip" href="https://marine.meteoconsult.co.uk/marine-weather/weather-forecasts/port-5205/weather-forecast-lome-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.meteoconsult.co.uk">[Meteo Consult Marine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.meteoconsult.co.uk</span><span class="citation-popover-title">Meteo Consult Marine Weather Lomé</span><span class="citation-popover-snippet">Moderate sea. Low, fairly long swell from SSW. Excellent visibility becoming reduced by mist in the evening...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ventusky.com/6.13%3B1.22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ventusky.com">[ventusky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ventusky.com</span><span class="citation-popover-snippet">Lomé - 14-Day Forecast &amp; RainLomé - Weather forecast for 14 days, information from meteorological stations, webcams, sunrise and sunset...</span></span></span> These conditions matter because they can alter the appearance of lights in several ways:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -338,7 +338,7 @@ The coastal atmosphere often contains moisture, sea haze, cloud layers, and mist
 
 </div>
 
-The average climate around Lomé also includes long periods of cloudiness and significant seasonal variation in visibility and rainfall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weatherspark.com/y/147894/Average-Weather-at-Lom%C3%A9%E2%80%93Tokoin-Airport-Togo-Year-Round" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weatherspark.com">[Weather Spark]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weatherspark.com</span><span class="citation-popover-title">Over the course of the year,</span><span class="citation-popover-snippet">Weather SparkLomé–Tokoin Airport Climate, Weather By Month, Average...At Lomé–Tokoin Airport, the wet season is overcast, the dry season...</span></span></span>
+The average climate around Lomé also includes long periods of cloudiness and significant seasonal variation in visibility and rainfall.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weatherspark.com/y/147894/Average-Weather-at-Lom%C3%A9%E2%80%93Tokoin-Airport-Togo-Year-Round" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weatherspark.com">[Weather Spark]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weatherspark.com</span><span class="citation-popover-title">Over the course of the year,</span><span class="citation-popover-snippet">Weather SparkLomé–Tokoin Airport Climate, Weather By Month, Average...At Lomé–Tokoin Airport, the wet season is overcast, the dry season...</span></span></span>
 
 For UFO researchers, this means witness descriptions of shape, size, and motion become less reliable when the observation occurs through humid coastal air rather than under exceptionally clear conditions.
 
@@ -360,7 +360,7 @@ The broader lesson is that a bright object over water is not observed in isolati
 
 Another ordinary possibility involves aircraft.
 
-Lomé is home to the city's international airport, located close enough to the coast that aircraft lights can become part of the visual environment seen from nearby beaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.windfinder.com/forecast/lome-tokoin_airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: windfinder.com">[Windfinder.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">windfinder.com</span><span class="citation-popover-snippet">Wind, waves, weather &amp; tide forecast Lomé–Tokoin AirportDetailed wind, waves, weather &amp; tide forecast for Lomé–Tokoin Airport / Maritime...</span></span></span>
+Lomé is home to the city's international airport, located close enough to the coast that aircraft lights can become part of the visual environment seen from nearby beaches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.windfinder.com/forecast/lome-tokoin_airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: windfinder.com">[Windfinder.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">windfinder.com</span><span class="citation-popover-snippet">Wind, waves, weather &amp; tide forecast Lomé–Tokoin AirportDetailed wind, waves, weather &amp; tide forecast for Lomé–Tokoin Airport / Maritime...</span></span></span>
 
 At night, aircraft approaching from over the sea can appear unusual for several reasons:
 
@@ -382,7 +382,7 @@ Again, this explanation fits some features commonly reported in coastal UFO case
 
 The most difficult part of the Togolese case is not the light itself. It is the reported physical effects.
 
-Later versions of the story mention bodily reactions, temporary paralysis, weakness, deafness, or other unusual sensations. These claims have often attracted more attention than the visual sighting. Auguste Meessen cited the case specifically because it was presented as involving physical interaction with the environment and witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">UFOs and Intelligence: A Timeline. By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee exp...</span></span></span>
+Later versions of the story mention bodily reactions, temporary paralysis, weakness, deafness, or other unusual sensations. These claims have often attracted more attention than the visual sighting. Auguste Meessen cited the case specifically because it was presented as involving physical interaction with the environment and witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">UFOs and Intelligence: A Timeline. By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee exp...</span></span></span>
 
 Yet physical-effect claims require stronger evidence than visual observations.
 
@@ -407,201 +407,201 @@ As a result, natural explanations can address many environmental aspects of the 
 
 ## The Coastal Setting Explains Some Things Better Than Others
 
-The Lomé shoreline provides a credible framework for several ordinary interpretations. Open horizons, maritime lights, atmospheric haze, moonlit reflections, surf conditions, and nearby aviation activity all offer mechanisms that can make unusual observations appear more extraordinary than they really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weatherspark.com/y/147894/Average-Weather-at-Lom%C3%A9%E2%80%93Tokoin-Airport-Togo-Year-Round" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weatherspark.com">[Weather Spark]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weatherspark.com</span><span class="citation-popover-title">Over the course of the year,</span><span class="citation-popover-snippet">Weather SparkLomé–Tokoin Airport Climate, Weather By Month, Average...At Lomé–Tokoin Airport, the wet season is overcast, the dry season...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://marine.meteoconsult.co.uk/marine-weather/weather-forecasts/port-5205/weather-forecast-lome-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.meteoconsult.co.uk">[Meteo Consult Marine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.meteoconsult.co.uk</span><span class="citation-popover-title">Meteo Consult Marine Weather Lomé</span><span class="citation-popover-snippet">Moderate sea. Low, fairly long swell from SSW. Excellent visibility becoming reduced by mist in the evening...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.predictwind.com/weather/togo/maritime/lom/marine-forecast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: predictwind.com">[PredictWind At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">predictwind.com</span><span class="citation-popover-title">Predict Wind Marine Forecast: Lomé, Togo</span><span class="citation-popover-snippet">Marine Forecast: Lomé, Togo - Wind, Waves &amp; WeatherCurrent weather for Lomé: Wind 9kts SSW, Waves 1.0m. Today&#x27;s forecast: High 29°C, Low...</span></span></span>, the coastal explanation has limits.
+The Lomé shoreline provides a credible framework for several ordinary interpretations. Open horizons, maritime lights, atmospheric haze, moonlit reflections, surf conditions, and nearby aviation activity all offer mechanisms that can make unusual observations appear more extraordinary than they really are.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weatherspark.com/y/147894/Average-Weather-at-Lom%C3%A9%E2%80%93Tokoin-Airport-Togo-Year-Round" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weatherspark.com">[Weather Spark]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weatherspark.com</span><span class="citation-popover-title">Over the course of the year,</span><span class="citation-popover-snippet">Weather SparkLomé–Tokoin Airport Climate, Weather By Month, Average...At Lomé–Tokoin Airport, the wet season is overcast, the dry season...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://marine.meteoconsult.co.uk/marine-weather/weather-forecasts/port-5205/weather-forecast-lome-today" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marine.meteoconsult.co.uk">[Meteo Consult Marine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marine.meteoconsult.co.uk</span><span class="citation-popover-title">Meteo Consult Marine Weather Lomé</span><span class="citation-popover-snippet">Moderate sea. Low, fairly long swell from SSW. Excellent visibility becoming reduced by mist in the evening...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.predictwind.com/weather/togo/maritime/lom/marine-forecast" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: predictwind.com">[PredictWind At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">predictwind.com</span><span class="citation-popover-title">Predict Wind Marine Forecast: Lomé, Togo</span><span class="citation-popover-snippet">Marine Forecast: Lomé, Togo - Wind, Waves &amp; WeatherCurrent weather for Lomé: Wind 9kts SSW, Waves 1.0m. Today&#x27;s forecast: High 29°C, Low...</span></span></span>, the coastal explanation has limits.
 
 It can help explain why a witness might misjudge distance, altitude, motion, or the apparent relationship between a light and the sea. It does less to explain reported physiological effects, unless those reports themselves are inaccurate, exaggerated through retelling, or disconnected from the visual event.
 
 That tension is what keeps the Lomé case in the category of contested rather than solved. The coast supplies many ordinary comparison points, but the lack of detailed local records prevents investigators from matching the reported event against specific weather observations, shipping data, aviation logs, or independent testimony. The result is a case where the environment offers several plausible explanations, yet none can be tested with the level of precision that would settle the matter decisively.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could the Coast Explain Togo&#x27;s UFO Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could the Coast Explain Togo&#x27;s UFO Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Addresses observational errors and environmental influences on sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses observational errors and environmental influences on sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how investigators separate unusual observations from ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how investigators separate unusual observations from ordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps explain coastal sky and light phenomena often mistaken for anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain coastal sky and light phenomena often mistaken for anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Useful for understanding visible celestial objects over sea horizons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding visible celestial objects over sea horizons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-coast-explain-togo-s-ufo-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-the-coast-explain-togo-s-ufo-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ That tension is what keeps the Lomé case in the category of contested rather th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ That tension is what keeps the Lomé case in the category of contested rather th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ That tension is what keeps the Lomé case in the category of contested rather th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ That tension is what keeps the Lomé case in the category of contested rather th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -766,7 +766,7 @@ That tension is what keeps the Lomé case in the category of contested rather th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -804,103 +804,102 @@ That tension is what keeps the Lomé case in the category of contested rather th
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Lom%C3%A9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lom%C3%A9</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Lom%C3%A9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lom%C3%A9</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Lome" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lome</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lomé lies on the Gulf of Guinea (Atlantic coast) in the extreme southwestern corner of the country. Selected as the colonial...Read more...</p></details>
+   Link:<a href="https://www.britannica.com/place/Lome" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Lome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lomé lies on the Gulf of Guinea (Atlantic coast) in the extreme southwestern corner of the country. Selected as the colonial...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: predictwind.com  
    Title: Predict Wind Marine Forecast: Lomé, Togo  
-   Link: <a href="https://www.predictwind.com/weather/togo/maritime/lom/marine-forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.predictwind.com/weather/togo/maritime/lom/marine-forecast</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marine Forecast: Lomé, Togo - Wind, Waves &amp; WeatherCurrent weather for Lomé: Wind 9kts SSW, Waves 1.0m. Today&#x27;s forecast: High 29°C, Low...</p></details>
+   Link:<a href="https://www.predictwind.com/weather/togo/maritime/lom/marine-forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.predictwind.com/weather/togo/maritime/lom/marine-forecast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marine Forecast: Lomé, Togo - Wind, Waves &amp; WeatherCurrent weather for Lomé: Wind 9kts SSW, Waves 1.0m. Today&#x27;s forecast: High 29°C, Low...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: surf-forecast.com  
-   Link: <a href="https://www.surf-forecast.com/breaks/Lome-Rivage" target="_blank" rel="noopener noreferrer nofollow">https://www.surf-forecast.com/breaks/Lome-Rivage</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lome Rivage in Togo is an exposed beach break that has consistent surf. May-Oct (Dry Season) is the favoured time of year for waves...</p></details>
+   Link:<a href="https://www.surf-forecast.com/breaks/Lome-Rivage" target="_blank" rel="noopener noreferrer nofollow">https://www.surf-forecast.com/breaks/Lome-Rivage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lome Rivage in Togo is an exposed beach break that has consistent surf. May-Oct (Dry Season) is the favoured time of year for waves...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ventusky.com  
-   Link: <a href="https://www.ventusky.com/6.13%3B1.22" target="_blank" rel="noopener noreferrer nofollow">https://www.ventusky.com/6.13%3B1.22</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lomé - 14-Day Forecast &amp; RainLomé - Weather forecast for 14 days, information from meteorological stations, webcams, sunrise and sunset...</p></details>
+   Link:<a href="https://www.ventusky.com/6.13%3B1.22" target="_blank" rel="noopener noreferrer nofollow">https://www.ventusky.com/6.13%3B1.22</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lomé - 14-Day Forecast &amp; RainLomé - Weather forecast for 14 days, information from meteorological stations, webcams, sunrise and sunset...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: windfinder.com  
-   Link: <a href="https://www.windfinder.com/forecast/lome-tokoin_airport" target="_blank" rel="noopener noreferrer nofollow">https://www.windfinder.com/forecast/lome-tokoin_airport</a>  
+   Link:<a href="https://www.windfinder.com/forecast/lome-tokoin_airport" target="_blank" rel="noopener noreferrer nofollow">https://www.windfinder.com/forecast/lome-tokoin_airport</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A Timeline. By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee exp...</p></details>
+   Link:<a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A Timeline. By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee exp...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: marine.meteoconsult.co.uk  
    Title: Meteo Consult Marine Weather Lomé  
-   Link: <a href="https://marine.meteoconsult.co.uk/marine-weather/weather-forecasts/port-5205/weather-forecast-lome-today" target="_blank" rel="noopener noreferrer nofollow">https://marine.meteoconsult.co.uk/marine-weather/weather-forecasts/port-5205/weather-forecast-lome-today</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moderate sea. Low, fairly long swell from SSW. Excellent visibility becoming reduced by mist in the evening...</p></details>
+   Link:<a href="https://marine.meteoconsult.co.uk/marine-weather/weather-forecasts/port-5205/weather-forecast-lome-today" target="_blank" rel="noopener noreferrer nofollow">https://marine.meteoconsult.co.uk/marine-weather/weather-forecasts/port-5205/weather-forecast-lome-today</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moderate sea. Low, fairly long swell from SSW. Excellent visibility becoming reduced by mist in the evening...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: weatherspark.com  
    Title: Over the course of the year,  
-   Link: <a href="https://weatherspark.com/y/147894/Average-Weather-at-Lom%C3%A9%E2%80%93Tokoin-Airport-Togo-Year-Round" target="_blank" rel="noopener noreferrer nofollow">https://weatherspark.com/y/147894/Average-Weather-at-Lom%C3%A9%E2%80%93Tokoin-Airport-Togo-Year-Round</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather SparkLomé–Tokoin Airport Climate, Weather By Month, Average...At Lomé–Tokoin Airport, the wet season is overcast, the dry season...</p></details>
+   Link:<a href="https://weatherspark.com/y/147894/Average-Weather-at-Lom%C3%A9%E2%80%93Tokoin-Airport-Togo-Year-Round" target="_blank" rel="noopener noreferrer nofollow">https://weatherspark.com/y/147894/Average-Weather-at-Lom%C3%A9%E2%80%93Tokoin-Airport-Togo-Year-Round</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather SparkLomé–Tokoin Airport Climate, Weather By Month, Average...At Lomé–Tokoin Airport, the wet season is overcast, the dry season...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/j/jacob%2Bvisits%2Bcern" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/j/jacob%2Bvisits%2Bcern</a>  
+   Link:<a href="https://www.science.gov/topicpages/j/jacob%2Bvisits%2Bcern" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/j/jacob%2Bvisits%2Bcern</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gonomad.com  
-   Link: <a href="https://www.gonomad.com/3484-lome-togo-the-paris-of-africa" target="_blank" rel="noopener noreferrer nofollow">https://www.gonomad.com/3484-lome-togo-the-paris-of-africa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lomé Togo, The Paris Of AfricaLome Togo: Discovering the Paris of West Africa, its markets, nightlife and security situation. It&#x27;s a crum...</p></details>
+   Link:<a href="https://www.gonomad.com/3484-lome-togo-the-paris-of-africa" target="_blank" rel="noopener noreferrer nofollow">https://www.gonomad.com/3484-lome-togo-the-paris-of-africa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lomé Togo, The Paris Of AfricaLome Togo: Discovering the Paris of West Africa, its markets, nightlife and security situation. It&#x27;s a crum...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oed.com  
-   Link: <a href="https://www.oed.com/dictionary/lome_adv" target="_blank" rel="noopener noreferrer nofollow">https://www.oed.com/dictionary/lome_adv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lome, adv. meanings, etymology and moreThere is one meaning in OED&#x27;s entry for the adverb lome. See &#x27;Meaning &amp; use&#x27; for definition, usage...</p></details>
+   Link:<a href="https://www.oed.com/dictionary/lome_adv" target="_blank" rel="noopener noreferrer nofollow">https://www.oed.com/dictionary/lome_adv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lome, adv. meanings, etymology and moreThere is one meaning in OED&#x27;s entry for the adverb lome. See &#x27;Meaning &amp; use&#x27; for definition, usage...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: beyondbabeesh.com  
-   Link: <a href="https://beyondbabeesh.com/best-things-to-do-in-lome-togo/" target="_blank" rel="noopener noreferrer nofollow">https://beyondbabeesh.com/best-things-to-do-in-lome-togo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Grand Marché · 2. The Lomé Cathedral · 3. Monument de l&#x27;Independence · 4. The National Museum and the...Read more...</p></details>
+   Link:<a href="https://beyondbabeesh.com/best-things-to-do-in-lome-togo/" target="_blank" rel="noopener noreferrer nofollow">https://beyondbabeesh.com/best-things-to-do-in-lome-togo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Grand Marché · 2. The Lomé Cathedral · 3. Monument de l&#x27;Independence · 4. The National Museum and the...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wisuki.com  
-   Link: <a href="https://wisuki.com/forecast/293/lome" target="_blank" rel="noopener noreferrer nofollow">https://wisuki.com/forecast/293/lome</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind, Waves, Tide and Weather Forecast for Lomé, Togo. Daylight for Surfing, Windsurfing and Kitesurfing...</p></details>
+   Link:<a href="https://wisuki.com/forecast/293/lome" target="_blank" rel="noopener noreferrer nofollow">https://wisuki.com/forecast/293/lome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wind, Waves, Tide and Weather Forecast for Lomé, Togo. Daylight for Surfing, Windsurfing and Kitesurfing...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tripadvisor.co.uk  
-   Link: <a href="https://www.tripadvisor.co.uk/Tourism-g293839-Lome_Maritime_Region-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Tourism-g293839-Lome_Maritime_Region-Vacations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lome, Togo: All You Need to Know Before You Go (2026)Lome is the perfect place to relax after exploring Togo&#x27;s hills and forests...</p></details>
+   Link:<a href="https://www.tripadvisor.co.uk/Tourism-g293839-Lome_Maritime_Region-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Tourism-g293839-Lome_Maritime_Region-Vacations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lome, Togo: All You Need to Know Before You Go (2026)Lome is the perfect place to relax after exploring Togo&#x27;s hills and forests...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/kbart/collections/pli-backfile-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/kbart/collections/pli-backfile-collection</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Natural Friends&quot;?: Relations between the United States and India after 2001... WATER AND SANITATION [https://www.jstor.org/stable/resrep4...&quot;](https://www.jstor.org/stable/resrep4...&quot;)...</p></details>
+   Link:<a href="https://www.jstor.org/kbart/collections/pli-backfile-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/kbart/collections/pli-backfile-collection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Natural Friends&quot;?: Relations between the United States and India after 2001... WATER AND SANITATION [https://www.jstor.org/stable/resrep4...&quot;](https://www.jstor.org/stable/resrep4...&quot;)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/245324208/Man-and-Mystery-Vol-09-The-Paranormal-Rev06" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/245324208/Man-and-Mystery-Vol-09-The-Paranormal-Rev06</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overview of alien abduction claims, noting that while...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/245324208/Man-and-Mystery-Vol-09-The-Paranormal-Rev06" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/245324208/Man-and-Mystery-Vol-09-The-Paranormal-Rev06</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overview of alien abduction claims, noting that while...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nev.nl  
    Title: Experimental and Applied Entomology  
-   Link: <a href="https://nev.nl/wp-content/uploads/2024/11/ProcNethEntomolSocMeet_03_1-222_OCR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nev.nl/wp-content/uploads/2024/11/ProcNethEntomolSocMeet_03_1-222_OCR.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two case studies are presented: one for a running water and one for a wetland with stagnant water. INTRODUCTION. A number of methods a...</p></details>
+   Link:<a href="https://nev.nl/wp-content/uploads/2024/11/ProcNethEntomolSocMeet_03_1-222_OCR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nev.nl/wp-content/uploads/2024/11/ProcNethEntomolSocMeet_03_1-222_OCR.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two case studies are presented: one for a running water and one for a wetland with stagnant water. INTRODUCTION. A number of methods a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: healthcampaignstogether.com  
-   Link: <a href="https://healthcampaignstogether.com/pdf/HealthPolicyReform.pdf" target="_blank" rel="noopener noreferrer nofollow">https://healthcampaignstogether.com/pdf/HealthPolicyReform.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>remains largely camouflaged in &#x27;zombie&#x27;...Read more...</p></details>
+   Link:<a href="https://healthcampaignstogether.com/pdf/HealthPolicyReform.pdf" target="_blank" rel="noopener noreferrer nofollow">https://healthcampaignstogether.com/pdf/HealthPolicyReform.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>remains largely camouflaged in &#x27;zombie&#x27;...Read more...</p></details>

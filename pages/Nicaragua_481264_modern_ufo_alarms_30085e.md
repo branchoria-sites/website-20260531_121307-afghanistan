@@ -248,14 +248,14 @@ image: /assets/images/Nicaragua_481264_modern_ufo_alarms_30085e-Illustration-1-s
 
 ## Introduction
 
-Recent UFO alarms in [Nicaragua]({{ 'what-really-happened-in-nicaraguas-ufo/' | relative_url }}) have often said more about modern technology and viral media than about unexplained aircraft. Reports of glowing formations, floating objects and unusual lights have repeatedly spread through Facebook, WhatsApp, TikTok and local news outlets, only to become less mysterious once investigators compared them with known balloons, satellite trains or rocket launches. In several cases, the visual appearance was genuinely strange: high-altitude internet balloons resembled giant jellyfish, while newly launched Starlink satellites crossed the sky in perfectly spaced lines that many observers had never seen before. The lesson is not that witnesses were foolish. It is that Nicaragua, like many countries, now sits beneath a sky crowded with technologies that can look extraordinary when viewed without context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensani.com/2025/08/24/suplemento/la-prensa-domingo/3519436-senales-en-el-cielo-avistamientos-de-ovnis-que-causaron-alarma-en-nicaragua" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensani.com">[La Prensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensani.com</span><span class="citation-popover-title">Vistos de</span><span class="citation-popover-snippet">La PrensaSeñales en el cielo: avistamientos de “ovnis” que causaron...24 Aug 2025 — En noviembre de 2019 el proyecto Loon Google, diseña...</span></span></span> [2X]
+Recent UFO alarms in [Nicaragua]({{ 'what-really-happened-in-nicaraguas-ufo/' | relative_url }}) have often said more about modern technology and viral media than about unexplained aircraft. Reports of glowing formations, floating objects and unusual lights have repeatedly spread through Facebook, WhatsApp, TikTok and local news outlets, only to become less mysterious once investigators compared them with known balloons, satellite trains or rocket launches. In several cases, the visual appearance was genuinely strange: high-altitude internet balloons resembled giant jellyfish, while newly launched Starlink satellites crossed the sky in perfectly spaced lines that many observers had never seen before. The lesson is not that witnesses were foolish. It is that Nicaragua, like many countries, now sits beneath a sky crowded with technologies that can look extraordinary when viewed without context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensani.com/2025/08/24/suplemento/la-prensa-domingo/3519436-senales-en-el-cielo-avistamientos-de-ovnis-que-causaron-alarma-en-nicaragua" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensani.com">[La Prensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensani.com</span><span class="citation-popover-title">Vistos de</span><span class="citation-popover-snippet">La PrensaSeñales en el cielo: avistamientos de “ovnis” que causaron...24 Aug 2025 — En noviembre de 2019 el proyecto Loon Google, diseña...</span></span></span> [2X]
 
 <img src="{{ "/assets/images/Nicaragua_481264_modern_ufo_alarms_30085e-Illustration-1-dark.svg" | relative_url }}" alt="Modern Alarms illustration 1" data-theme-src-dark="{{ "/assets/images/Nicaragua_481264_modern_ufo_alarms_30085e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nicaragua_481264_modern_ufo_alarms_30085e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Google Loon and the balloon sightings that looked alien
 
 One of the clearest examples of a modern Nicaraguan UFO scare involved Google's Project Loon, later known as Loon. The programme used enormous high-altitude balloons to provide internet connectivity across remote regions. Floating in the stratosphere, far above commercial aircraft, the balloons could appear unusual even to experienced observers because their shape changed with lighting conditions and distance. [X]
 
-In Nicaragua, sightings connected with Loon attracted attention during 2019. Local reports described strange floating objects that appeared unlike conventional aircraft. Viewed from the ground, some observers compared them to giant translucent creatures or hovering structures. A later retrospective in Nicaraguan media noted that the balloons frightened many people because they looked unfamiliar and seemingly impossible. What appeared to be an exotic aerial object was in reality part of an experimental communications network. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensani.com/2025/08/24/suplemento/la-prensa-domingo/3519436-senales-en-el-cielo-avistamientos-de-ovnis-que-causaron-alarma-en-nicaragua" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensani.com">[La Prensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensani.com</span><span class="citation-popover-title">Vistos de</span><span class="citation-popover-snippet">La PrensaSeñales en el cielo: avistamientos de “ovnis” que causaron...24 Aug 2025 — En noviembre de 2019 el proyecto Loon Google, diseña...</span></span></span>
+In Nicaragua, sightings connected with Loon attracted attention during 2019. Local reports described strange floating objects that appeared unlike conventional aircraft. Viewed from the ground, some observers compared them to giant translucent creatures or hovering structures. A later retrospective in Nicaraguan media noted that the balloons frightened many people because they looked unfamiliar and seemingly impossible. What appeared to be an exotic aerial object was in reality part of an experimental communications network.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensani.com/2025/08/24/suplemento/la-prensa-domingo/3519436-senales-en-el-cielo-avistamientos-de-ovnis-que-causaron-alarma-en-nicaragua" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensani.com">[La Prensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensani.com</span><span class="citation-popover-title">Vistos de</span><span class="citation-popover-snippet">La PrensaSeñales en el cielo: avistamientos de “ovnis” que causaron...24 Aug 2025 — En noviembre de 2019 el proyecto Loon Google, diseña...</span></span></span>
 
 Several features made these balloons especially vulnerable to misidentification:
 
@@ -268,19 +268,19 @@ Several features made these balloons especially vulnerable to misidentification:
 
 </div>
 
-The broader history of Project Loon helps explain why these sightings appeared in places that had little direct awareness of the programme. Google's parent company developed the system as a global connectivity experiment rather than a local aviation project, meaning many people encountering a balloon had never heard of it before. X <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Loon_LLC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loon LLC</span><span class="citation-popover-snippet">Loon LLCLoon LLC was an Alphabet Inc. subsidiary working on providing Internet access to rural and remote areas. The company used high...</span></span></span>
+The broader history of Project Loon helps explain why these sightings appeared in places that had little direct awareness of the programme. Google's parent company developed the system as a global connectivity experiment rather than a local aviation project, meaning many people encountering a balloon had never heard of it before. X<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Loon_LLC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Loon LLC</span><span class="citation-popover-snippet">Loon LLCLoon LLC was an Alphabet Inc. subsidiary working on providing Internet access to rural and remote areas. The company used high...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RrgQNwXIG_0" title="VFX Artists STUMPED by New UFO Footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RrgQNwXIG_0" target="_blank" rel="noopener noreferrer">VFX Artists STUMPED by New UFO Footage</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 3.8M &middot; Uploaded: January 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RrgQNwXIG_0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RrgQNwXIG_0">Open on YouTube</a></p></div></div></div>
 
 ## Starlink and rocket launches behind many modern light reports
 
-If balloon sightings created one category of confusion, Starlink created another. SpaceX satellite launches have repeatedly generated UFO reports around the world because newly deployed satellites often travel in a bright line or "train" before spreading into their final orbits. Observers who expect satellites to appear as isolated points of light can find the formation startling. The Independent <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-title">ufo sightings spacex starlink train appears</span><span class="citation-popover-snippet">UFO &#x27;sightings&#x27; explode as SpaceX Starlink &#x27;train&#x27; appears28 May 2019 — Astronomer and author Marco Langbroek managed to capture an incre...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+If balloon sightings created one category of confusion, Starlink created another. SpaceX satellite launches have repeatedly generated UFO reports around the world because newly deployed satellites often travel in a bright line or "train" before spreading into their final orbits. Observers who expect satellites to appear as isolated points of light can find the formation startling. The Independent<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-title">ufo sightings spacex starlink train appears</span><span class="citation-popover-snippet">UFO &#x27;sightings&#x27; explode as SpaceX Starlink &#x27;train&#x27; appears28 May 2019 — Astronomer and author Marco Langbroek managed to capture an incre...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
-Nicaragua has been affected by the same phenomenon. Reports of strings of lights moving silently across the night sky have circulated through local social media, often accompanied by speculation about unidentified craft. Yet the visual pattern closely matches the appearance of recently launched Starlink satellites. International reporting documented large spikes in UFO reports after early Starlink launches, with many witnesses initially assuming they were seeing something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Dutch website UFO Meldpunt, which is dedicated to UFO sightings...Read more...</span></span></span>
+Nicaragua has been affected by the same phenomenon. Reports of strings of lights moving silently across the night sky have circulated through local social media, often accompanied by speculation about unidentified craft. Yet the visual pattern closely matches the appearance of recently launched Starlink satellites. International reporting documented large spikes in UFO reports after early Starlink launches, with many witnesses initially assuming they were seeing something extraordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Dutch website UFO Meldpunt, which is dedicated to UFO sightings...Read more...</span></span></span>
 
-Rocket launches can create even more dramatic effects. Depending on atmospheric conditions, a launch from the United States can produce glowing plumes, expanding clouds and bright moving lights visible over parts of Central America. These displays are particularly confusing shortly after sunset or before sunrise, when sunlight still reaches high-altitude exhaust plumes even though the ground is dark. Such launches can generate reports of luminous objects that appear to change shape, split apart or leave unusual trails. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-20-starlink-satellites-from-california-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">x launches 20 starlink satellites from california photos</span><span class="citation-popover-snippet">24, 2024.Read more...</span></span></span>
+Rocket launches can create even more dramatic effects. Depending on atmospheric conditions, a launch from the United States can produce glowing plumes, expanding clouds and bright moving lights visible over parts of Central America. These displays are particularly confusing shortly after sunset or before sunrise, when sunlight still reaches high-altitude exhaust plumes even though the ground is dark. Such launches can generate reports of luminous objects that appear to change shape, split apart or leave unusual trails.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-20-starlink-satellites-from-california-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">x launches 20 starlink satellites from california photos</span><span class="citation-popover-snippet">24, 2024.Read more...</span></span></span>
 
-Research into aviation-related misidentifications shows why these events continue to cause confusion. A 2024 case study examining a supposed unidentified aerial phenomenon reported by multiple airline crews found that a recently launched Starlink train reproduced the observed appearance when flight paths and satellite positions were reconstructed. The authors argued that better public awareness of satellite activity could reduce unnecessary alarm and misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Research into aviation-related misidentifications shows why these events continue to cause confusion. A 2024 case study examining a supposed unidentified aerial phenomenon reported by multiple airline crews found that a recently launched Starlink train reproduced the observed appearance when flight paths and satellite positions were reconstructed. The authors argued that better public awareness of satellite activity could reduce unnecessary alarm and misidentification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 For Nicaragua, this matters because many public UFO claims emerge from short observations rather than long investigations. A witness may have only a few seconds to interpret an unfamiliar object before sharing a video online. By the time astronomers or satellite trackers identify a likely cause, the original mystery may already have spread widely across social media.
 
@@ -303,7 +303,7 @@ Modern phones frequently produce visual effects that can make ordinary lights ap
 
 These limitations become especially important when a recording contains only a single bright light against a dark sky. Without additional context, viewers often cannot estimate distance, altitude, speed or size. A satellite, drone, planet or aircraft may therefore appear far more mysterious than it actually is.
 
-Visual-effects specialists and digital analysts have repeatedly noted how easily unusual UFO clips can be created, edited or unintentionally distorted through ordinary recording processes. The existence of a video is therefore not, by itself, strong evidence that something extraordinary occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=RrgQNwXIG_0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Visual-effects specialists and digital analysts have repeatedly noted how easily unusual UFO clips can be created, edited or unintentionally distorted through ordinary recording processes. The existence of a video is therefore not, by itself, strong evidence that something extraordinary occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=RrgQNwXIG_0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 In Nicaragua's case, many viral sightings gain attention because they are short, dramatic and easily shared. Those same characteristics also make them difficult to verify.
 
@@ -315,7 +315,7 @@ A recurring pattern appears in modern Nicaraguan UFO scares.
 
 First, a witness uploads a photograph or video. Then local pages repost it, often with speculative captions. Discussion rapidly shifts from what was observed to what people fear or hope it might represent. Within hours, hundreds or thousands of viewers may have seen the claim before any technical explanation emerges.
 
-This process rewards striking visuals rather than careful verification. A glowing line of Starlink satellites or a high-altitude balloon is inherently more likely to go viral when presented as a mystery than when presented as a known aerospace object. The emotional appeal of uncertainty often travels faster than later corrections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Dutch website UFO Meldpunt, which is dedicated to UFO sightings...Read more...</span></span></span>
+This process rewards striking visuals rather than careful verification. A glowing line of Starlink satellites or a high-altitude balloon is inherently more likely to go viral when presented as a mystery than when presented as a known aerospace object. The emotional appeal of uncertainty often travels faster than later corrections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Dutch website UFO Meldpunt, which is dedicated to UFO sightings...Read more...</span></span></span>
 
 The effect is particularly strong in countries where no dedicated official UFO investigation body routinely publishes rapid assessments. Unlike some Latin American nations that established formal reporting mechanisms, Nicaragua's public UFO discussion often unfolds through media reports, social networks and private conversations rather than structured technical review. As a result, explanations frequently arrive after the story has already become established in public memory.
 
@@ -324,201 +324,201 @@ The effect is particularly strong in countries where no dedicated official UFO i
 
 The significance of balloon and Starlink cases is not that they solve every sighting. Some reports remain too limited to evaluate, and others rest entirely on personal testimony. The more important lesson is methodological.
 
-When Nicaragua's strongest modern UFO alarms are examined closely, many involve technologies that were unfamiliar to the public but not genuinely unexplained. Project Loon balloons looked alien because few observers had encountered stratospheric internet platforms before. Starlink trains looked impossible because satellite formations of that kind were rare until recently. Rocket launches produced spectacular sky effects that older generations had little reason to recognise. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensani.com/2025/08/24/suplemento/la-prensa-domingo/3519436-senales-en-el-cielo-avistamientos-de-ovnis-que-causaron-alarma-en-nicaragua" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensani.com">[La Prensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensani.com</span><span class="citation-popover-title">Vistos de</span><span class="citation-popover-snippet">La PrensaSeñales en el cielo: avistamientos de “ovnis” que causaron...24 Aug 2025 — En noviembre de 2019 el proyecto Loon Google, diseña...</span></span></span> [3X]
+When Nicaragua's strongest modern UFO alarms are examined closely, many involve technologies that were unfamiliar to the public but not genuinely unexplained. Project Loon balloons looked alien because few observers had encountered stratospheric internet platforms before. Starlink trains looked impossible because satellite formations of that kind were rare until recently. Rocket launches produced spectacular sky effects that older generations had little reason to recognise. Space<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.laprensani.com/2025/08/24/suplemento/la-prensa-domingo/3519436-senales-en-el-cielo-avistamientos-de-ovnis-que-causaron-alarma-en-nicaragua" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laprensani.com">[La Prensa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laprensani.com</span><span class="citation-popover-title">Vistos de</span><span class="citation-popover-snippet">La PrensaSeñales en el cielo: avistamientos de “ovnis” que causaron...24 Aug 2025 — En noviembre de 2019 el proyecto Loon Google, diseña...</span></span></span> [3X]
 
 That pattern helps explain why caution is necessary when assessing new reports. An unusual appearance is not the same thing as an unknown origin. In Nicaragua, some of the most widely discussed UFO incidents of recent years became less mysterious as knowledge of balloons, satellites, launches and digital-video limitations improved. The country's modern UFO history is therefore as much a story about changing technology and information networks as it is about strange lights in the sky.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JKoeXzrQGcM" title="That object you saw in the sky Monday night is delivering internet to Africa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JKoeXzrQGcM" target="_blank" rel="noopener noreferrer">That object you saw in the sky Monday night is delivering internet to Africa</a></p><p class="youtube-embed-meta">Channel: 9NEWS &middot; Views: 4.1K &middot; Uploaded: August 2020 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JKoeXzrQGcM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JKoeXzrQGcM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Strange Lights Have Ordinary Causes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Strange Lights Have Ordinary Causes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains critical thinking around extraordinary visual claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains critical thinking around extraordinary visual claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Ideal for understanding how ordinary objects become UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal for understanding how ordinary objects become UFO reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Contains many examples of mistaken and explained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains many examples of mistaken and explained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers a contrast between stronger and weaker UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a contrast between stronger and weaker UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-strange-lights-have-ordinary-causes-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-strange-lights-have-ordinary-causes-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ That pattern helps explain why caution is necessary when assessing new reports. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ That pattern helps explain why caution is necessary when assessing new reports. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ That pattern helps explain why caution is necessary when assessing new reports. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ That pattern helps explain why caution is necessary when assessing new reports. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ That pattern helps explain why caution is necessary when assessing new reports. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,207 +721,206 @@ That pattern helps explain why caution is necessary when assessing new reports. 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Loon LLC  
-   Link: <a href="https://en.wikipedia.org/wiki/Loon_LLC" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loon_LLC</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Loon LLCLoon LLC was an Alphabet Inc. subsidiary working on providing Internet access to rural and remote areas. The company used high...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Loon_LLC" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loon_LLC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loon LLCLoon LLC was an Alphabet Inc. subsidiary working on providing Internet access to rural and remote areas. The company used high...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: x launches 20 starlink satellites from california photos  
-   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-20-starlink-satellites-from-california-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-20-starlink-satellites-from-california-photos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>24, 2024.Read more...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-20-starlink-satellites-from-california-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-20-starlink-satellites-from-california-photos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24, 2024.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link:<a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RrgQNwXIG_0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RrgQNwXIG_0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=RrgQNwXIG_0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RrgQNwXIG_0</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=QLZ8GGemfwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QLZ8GGemfwg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Loon internet balloon makes record flightAlphabet&#x27;s Loon, the high-altitude balloons, designed to provide internet in remote areas, has s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QLZ8GGemfwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QLZ8GGemfwg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loon internet balloon makes record flightAlphabet&#x27;s Loon, the high-altitude balloons, designed to provide internet in remote areas, has s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JKoeXzrQGcM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JKoeXzrQGcM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>oogle&#x27;s parent company alphabet inc and it&#x27;s designed to provide internet access...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JKoeXzrQGcM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JKoeXzrQGcM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oogle&#x27;s parent company alphabet inc and it&#x27;s designed to provide internet access...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lZC7NeKu2Vw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting likely Starlink satellitesWe believe this is starlink. It&#x27;s a constellation of satellites operated by Elon Elon musk&#x27;s Space...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lZC7NeKu2Vw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting likely Starlink satellitesWe believe this is starlink. It&#x27;s a constellation of satellites operated by Elon Elon musk&#x27;s Space...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4Qfv15Gz3Wg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Qfv15Gz3Wg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launches 46 Starlink satellites from California, nails...A SpaceX Falcon 9 rocket launched 46 Starlink satellites from Space Laun...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4Qfv15Gz3Wg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Qfv15Gz3Wg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launches 46 Starlink satellites from California, nails...A SpaceX Falcon 9 rocket launched 46 Starlink satellites from Space Laun...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
    Title: elon musk ufos aliens no evidence starlink  
-   Link: <a href="https://www.space.com/elon-musk-ufos-aliens-no-evidence-starlink" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/elon-musk-ufos-aliens-no-evidence-starlink</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News. By Brett Tingley published May...Read more...</p></details>
+   Link:<a href="https://www.space.com/elon-musk-ufos-aliens-no-evidence-starlink" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/elon-musk-ufos-aliens-no-evidence-starlink</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News. By Brett Tingley published May...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: space.com  
    Title: 26035 google ufo was rogue balloon  
-   Link: <a href="https://www.space.com/26035-google-ufo-was-rogue-balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/26035-google-ufo-was-rogue-balloon.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting? No, Just Google&#x27;s &#x27;Rogue&#x27; Balloon28 May 2014 — Turns out, the balloon responsible for the mass UFO sightings was... Loon...</p></details>
+   Link:<a href="https://www.space.com/26035-google-ufo-was-rogue-balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/26035-google-ufo-was-rogue-balloon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting? No, Just Google&#x27;s &#x27;Rogue&#x27; Balloon28 May 2014 — Turns out, the balloon responsible for the mass UFO sightings was... Loon...</p></details>
    Published: May 2014  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GIGadgets.Fans/videos/google-alphabet-project-loon/1148847792297038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GIGadgets.Fans/videos/google-alphabet-project-loon/1148847792297038/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s balloons travel in the stratosphere to deliver internet...Although Project Loon was shut down by Alphabet after nine years of R...</p></details>
+   Link:<a href="https://www.facebook.com/GIGadgets.Fans/videos/google-alphabet-project-loon/1148847792297038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GIGadgets.Fans/videos/google-alphabet-project-loon/1148847792297038/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s balloons travel in the stratosphere to deliver internet...Although Project Loon was shut down by Alphabet after nine years of R...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: m.facebook.com  
-   Link: <a href="https://m.facebook.com/informantenam/posts/3068966163170323?locale=fr_FR" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/informantenam/posts/3068966163170323?locale=fr_FR</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotted over Walvis Bay Niël Terblanché As...[ FAR FROM BEING A UFO NEAR MAURITIUS THOUGH ] A &quot;Project Loon&quot; Balloon is currently hoveri...</p></details>
+   Link:<a href="https://m.facebook.com/informantenam/posts/3068966163170323?locale=fr_FR" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/informantenam/posts/3068966163170323?locale=fr_FR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotted over Walvis Bay Niël Terblanché As...[ FAR FROM BEING A UFO NEAR MAURITIUS THOUGH ] A &quot;Project Loon&quot; Balloon is currently hoveri...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/?locale=en_GB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK SATELLITE OBSERVING GROUPThis particular Facebook Group is all about helping YOU to see the Starlink satellites passing overhead...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/?locale=en_GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STARLINK SATELLITE OBSERVING GROUPThis particular Facebook Group is all about helping YOU to see the Starlink satellites passing overhead...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vanguardngr/posts/what-was-mistaken-for-a-ufo-after-it-wound-up-in-a-dense-jungle-in-the-african-n/4998442420180814/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanguardngr/posts/what-was-mistaken-for-a-ufo-after-it-wound-up-in-a-dense-jungle-in-the-african-n/4998442420180814/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rned out to be an internet balloon from Loon...</p></details>
+   Link:<a href="https://www.facebook.com/vanguardngr/posts/what-was-mistaken-for-a-ufo-after-it-wound-up-in-a-dense-jungle-in-the-african-n/4998442420180814/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vanguardngr/posts/what-was-mistaken-for-a-ufo-after-it-wound-up-in-a-dense-jungle-in-the-african-n/4998442420180814/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rned out to be an internet balloon from Loon...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Project Loon | Google's Internet Balloons | Future Thinking | BRITLAB  
-   Link: <a href="https://www.youtube.com/watch?v=F8QeQLf53Cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F8QeQLf53Cw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do some rocket launches look like this?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F8QeQLf53Cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F8QeQLf53Cw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do some rocket launches look like this?...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Why do some rocket launches look like this?  
-   Link: <a href="https://www.youtube.com/watch?v=Y1Hfiirwgys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y1Hfiirwgys</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incredible scene as SpaceX launch illuminates night sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y1Hfiirwgys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y1Hfiirwgys</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incredible scene as SpaceX launch illuminates night sky...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Incredible scene as Space X launch illuminates night sky  
-   Link: <a href="https://www.youtube.com/watch?v=6W2G4Gq8W4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6W2G4Gq8W4c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Starlink Train? Understanding the Satellite Phenomenon | SpaceX Starlink Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6W2G4Gq8W4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6W2G4Gq8W4c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Starlink Train? Understanding the Satellite Phenomenon | SpaceX Starlink Explained...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NK5g3QU2TnE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NK5g3QU2TnE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why There&#x27;s Fewer Balloons for Google&#x27;s Project Loon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NK5g3QU2TnE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NK5g3QU2TnE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why There&#x27;s Fewer Balloons for Google&#x27;s Project Loon...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Why There's Fewer Balloons for Google's Project Loon  
-   Link: <a href="https://www.youtube.com/watch?v=cGewWkOi0bo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cGewWkOi0bo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How space x starlink satellites look like ufo misidentifications Incredible scene as SpaceX launch illuminates night sky Daily Mail World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cGewWkOi0bo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cGewWkOi0bo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How space x starlink satellites look like ufo misidentifications Incredible scene as SpaceX launch illuminates night sky Daily Mail World...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: laprensani.com  
    Title: Vistos de  
-   Link: <a href="https://www.laprensani.com/2025/08/24/suplemento/la-prensa-domingo/3519436-senales-en-el-cielo-avistamientos-de-ovnis-que-causaron-alarma-en-nicaragua" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensani.com/2025/08/24/suplemento/la-prensa-domingo/3519436-senales-en-el-cielo-avistamientos-de-ovnis-que-causaron-alarma-en-nicaragua</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>La PrensaSeñales en el cielo: avistamientos de “ovnis” que causaron...24 Aug 2025 — En noviembre de 2019 el proyecto Loon Google, diseña...</p></details>
+   Link:<a href="https://www.laprensani.com/2025/08/24/suplemento/la-prensa-domingo/3519436-senales-en-el-cielo-avistamientos-de-ovnis-que-causaron-alarma-en-nicaragua" target="_blank" rel="noopener noreferrer nofollow">https://www.laprensani.com/2025/08/24/suplemento/la-prensa-domingo/3519436-senales-en-el-cielo-avistamientos-de-ovnis-que-causaron-alarma-en-nicaragua</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La PrensaSeñales en el cielo: avistamientos de “ovnis” que causaron...24 Aug 2025 — En noviembre de 2019 el proyecto Loon Google, diseña...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: x.company  
-   Link: <a href="https://x.company/projects/loon/" target="_blank" rel="noopener noreferrer nofollow">https://x.company/projects/loon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loon - A Google X MoonshotLoon was Google X&#x27;s moonshot to deliver internet connectivity to billions using stratospheric balloons...</p></details>
+   Link:<a href="https://x.company/projects/loon/" target="_blank" rel="noopener noreferrer nofollow">https://x.company/projects/loon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loon - A Google X MoonshotLoon was Google X&#x27;s moonshot to deliver internet connectivity to billions using stratospheric balloons...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dutch website UFO Meldpunt, which is dedicated to UFO sightings...Read more...</p></details>
+   Link:<a href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dutch website UFO Meldpunt, which is dedicated to UFO sightings...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: foxnews.com  
    Title: ufo sightings spacex starlink train appears  
-   Link: <a href="https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;sightings&#x27; explode as SpaceX Starlink &#x27;train&#x27; appears28 May 2019 — Astronomer and author Marco Langbroek managed to capture an incre...</p></details>
+   Link:<a href="https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;sightings&#x27; explode as SpaceX Starlink &#x27;train&#x27; appears28 May 2019 — Astronomer and author Marco Langbroek managed to capture an incre...</p></details>
    Published: May 2019  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports surge after Elon Musk launches &#x27;eerie&#x27; satellite...20 Apr 2020 — The launch of the Starlink satellites, which are designed t...</p></details>
+   Link:<a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports surge after Elon Musk launches &#x27;eerie&#x27; satellite...20 Apr 2020 — The launch of the Starlink satellites, which are designed t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX satellites are now being mistaken for UFOs—and...1 Jan 2020 — Not only is the light from these satellites getting in the way of o...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX satellites are now being mistaken for UFOs—and...1 Jan 2020 — Not only is the light from these satellites getting in the way of o...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: techeblog.com  
    Title: spacex starlink ufo  
-   Link: <a href="https://www.techeblog.com/spacex-starlink-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.techeblog.com/spacex-starlink-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink Satellite Live Stream Allegedly Captures...22 Dec 2019 — The Unidentified flying object (UFO) appears to be cruising und...</p></details>
+   Link:<a href="https://www.techeblog.com/spacex-starlink-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.techeblog.com/spacex-starlink-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink Satellite Live Stream Allegedly Captures...22 Dec 2019 — The Unidentified flying object (UFO) appears to be cruising und...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nuevaya.com.ni  
-   Link: <a href="https://nuevaya.com.ni/destacadas/un-globo-de-google-causo-asombro-entre-los-nicaraguenses/" target="_blank" rel="noopener noreferrer nofollow">https://nuevaya.com.ni/destacadas/un-globo-de-google-causo-asombro-entre-los-nicaraguenses/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Un globo de Google causó asombro entre los nicaragüensesLoon es una iniciativa de Google para hacer realidad el sueño de un mundo totalme...</p></details>
+   Link:<a href="https://nuevaya.com.ni/destacadas/un-globo-de-google-causo-asombro-entre-los-nicaraguenses/" target="_blank" rel="noopener noreferrer nofollow">https://nuevaya.com.ni/destacadas/un-globo-de-google-causo-asombro-entre-los-nicaraguenses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Un globo de Google causó asombro entre los nicaragüensesLoon es una iniciativa de Google para hacer realidad el sueño de un mundo totalme...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: gizmodo.com  
    Title: starlink satellites produce wave of ufo sightings in th 1840678429  
-   Link: <a href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites Produce Wave of UFO Sightings in the US27 Dec 2019 — The most recent sighting of a train of Starlink satellites occur...</p></details>
+   Link:<a href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites Produce Wave of UFO Sightings in the US27 Dec 2019 — The most recent sighting of a train of Starlink satellites occur...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: abc.net.au  
    Title: balloons floating over australia part of radical internet plan  
-   Link: <a href="https://www.abc.net.au/news/2017-06-03/balloons-floating-over-australia-part-of-radical-internet-plan/8584738" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2017-06-03/balloons-floating-over-australia-part-of-radical-internet-plan/8584738</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Floating balloons a radical plan to expand global internet...2 Jun 2017 — &quot;Project Loon is a network of balloons carried by winds in the...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2017-06-03/balloons-floating-over-australia-part-of-radical-internet-plan/8584738" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2017-06-03/balloons-floating-over-australia-part-of-radical-internet-plan/8584738</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Floating balloons a radical plan to expand global internet...2 Jun 2017 — &quot;Project Loon is a network of balloons carried by winds in the...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: en.reset.org  
    Title: project loon google bursts internet balloon concept 02032021  
-   Link: <a href="https://en.reset.org/project-loon-google-bursts-internet-balloon-concept-02032021/" target="_blank" rel="noopener noreferrer nofollow">https://en.reset.org/project-loon-google-bursts-internet-balloon-concept-02032021/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital for Good | RESET.ORGGoogle&#x27;s Internet Balloon Concept &quot;Project Loon&quot; Bursts...3 Feb 2021 — Google has decided to abandon Project...</p></details>
+   Link:<a href="https://en.reset.org/project-loon-google-bursts-internet-balloon-concept-02032021/" target="_blank" rel="noopener noreferrer nofollow">https://en.reset.org/project-loon-google-bursts-internet-balloon-concept-02032021/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital for Good | RESET.ORGGoogle&#x27;s Internet Balloon Concept &quot;Project Loon&quot; Bursts...3 Feb 2021 — Google has decided to abandon Project...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: 3ap.org  
-   Link: <a href="https://3ap.org/2016/08/mystery-object-identified-google-project-loon-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://3ap.org/2016/08/mystery-object-identified-google-project-loon-balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Object Identified: Google Project Loon Balloon6 Aug 2016 — The object was a high-altitude balloon launch as part of Google&#x27;s Proj...</p></details>
+   Link:<a href="https://3ap.org/2016/08/mystery-object-identified-google-project-loon-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://3ap.org/2016/08/mystery-object-identified-google-project-loon-balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Object Identified: Google Project Loon Balloon6 Aug 2016 — The object was a high-altitude balloon launch as part of Google&#x27;s Proj...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: zmescience.com  
    Title: elon musks starlink satellites are triggering a ufo craze  
-   Link: <a href="https://www.zmescience.com/science/elon-musks-starlink-satellites-are-triggering-a-ufo-craze/" target="_blank" rel="noopener noreferrer nofollow">https://www.zmescience.com/science/elon-musks-starlink-satellites-are-triggering-a-ufo-craze/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elon Musk&#x27;s Starlink satellites are triggering a &quot;UFO&quot; craze24 May 2021 — social media users are reporting seeing a mysterious row of bri...</p></details>
+   Link:<a href="https://www.zmescience.com/science/elon-musks-starlink-satellites-are-triggering-a-ufo-craze/" target="_blank" rel="noopener noreferrer nofollow">https://www.zmescience.com/science/elon-musks-starlink-satellites-are-triggering-a-ufo-craze/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elon Musk&#x27;s Starlink satellites are triggering a &quot;UFO&quot; craze24 May 2021 — social media users are reporting seeing a mysterious row of bri...</p></details>
    Published: May 2021  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: independent.co.uk  
-   Link: <a href="https://www.independent.co.uk/tech/video-google-launches-project-loon-internet-balloon-in-new-zealand-8660115.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/video-google-launches-project-loon-internet-balloon-in-new-zealand-8660115.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video: Google launches &#x27;Project Loon&#x27; internet balloon in...15 Jun 2013 — Video: Google launches &#x27;Project Loon&#x27; internet balloon in New...</p></details>
+   Link:<a href="https://www.independent.co.uk/tech/video-google-launches-project-loon-internet-balloon-in-new-zealand-8660115.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/video-google-launches-project-loon-internet-balloon-in-new-zealand-8660115.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Video: Google launches &#x27;Project Loon&#x27; internet balloon in...15 Jun 2013 — Video: Google launches &#x27;Project Loon&#x27; internet balloon in New...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/1gur27m/video_showing_a_classic_saucer_uapufo_in_costa/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1gur27m/video_showing_a_classic_saucer_uapufo_in_costa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a balloon because you can hear several gusts of wind throughout the...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/1gur27m/video_showing_a_classic_saucer_uapufo_in_costa/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1gur27m/video_showing_a_classic_saucer_uapufo_in_costa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a balloon because you can hear several gusts of wind throughout the...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cbsnews.com  
    Title: starlink satellites mistaken as ufos over pittsburgh  
-   Link: <a href="https://www.cbsnews.com/pittsburgh/news/starlink-satellites-mistaken-as-ufos-over-pittsburgh/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/pittsburgh/news/starlink-satellites-mistaken-as-ufos-over-pittsburgh/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Dec 2021 — A string of lights that confused some viewers are actually part of the Starlink satellite chain...</p></details>
+   Link:<a href="https://www.cbsnews.com/pittsburgh/news/starlink-satellites-mistaken-as-ufos-over-pittsburgh/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/pittsburgh/news/starlink-satellites-mistaken-as-ufos-over-pittsburgh/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Dec 2021 — A string of lights that confused some viewers are actually part of the Starlink satellite chain...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: boingboing.net  
    Title: ufo turns out to be balloon  
-   Link: <a href="https://boingboing.net/2020/08/26/ufo-turns-out-to-be-balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2020/08/26/ufo-turns-out-to-be-balloon.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Aug 2020 — A reported UFO in the Congo turned out to be a Loon Balloon, floated 20km up to provide cellular internet out in the sticks...</p></details>
+   Link:<a href="https://boingboing.net/2020/08/26/ufo-turns-out-to-be-balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2020/08/26/ufo-turns-out-to-be-balloon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Aug 2020 — A reported UFO in the Congo turned out to be a Loon Balloon, floated 20km up to provide cellular internet out in the sticks...</p></details>

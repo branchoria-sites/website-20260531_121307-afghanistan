@@ -1194,16 +1194,16 @@ image: /assets/images/Solomon_Islands_6f943d-overview-social.jpg
 
 ## Introduction
 
-The key distinction is between three categories: **confirmed searches and aviation records**, **contested eyewitness and folklore-linked UFO claims**, and **unsupported or debunked interpretations**. The evidence is thinnest where the claims are most dramatic: underwater bases, “[Dragon Snake]({{ 'dragon-snake/' | relative_url }})” craft, alien occupants and secret tunnels. It is strongest where ordinary institutions were involved, especially the police, Solomon Islands Civil Aviation Authority and search teams responding to the 2010 Malaita report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[parliament.gov.sb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">4th October 2010</span><span class="citation-popover-meta">Published: October 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[2U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">U.S. Air Force</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+The key distinction is between three categories: **confirmed searches and aviation records**, **contested eyewitness and folklore-linked UFO claims**, and **unsupported or debunked interpretations**. The evidence is thinnest where the claims are most dramatic: underwater bases, “[Dragon Snake]({{ 'dragon-snake/' | relative_url }})” craft, alien occupants and secret tunnels. It is strongest where ordinary institutions were involved, especially the police, Solomon Islands Civil Aviation Authority and search teams responding to the 2010 Malaita report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[parliament.gov.sb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">4th October 2010</span><span class="citation-popover-meta">Published: October 2010</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[2U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">U.S. Air Force</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 <img src="{{ "/assets/images/Solomon_Islands_6f943d-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Solomon Islands UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## Why Solomon Islands became a UFO setting
 
-Solomon Islands is not a compact single-island case. It is an archipelagic country spread across a large maritime area, with a double chain of volcanic islands and major island groups including Guadalcanal, Makira, New Georgia, Choiseul, Isabel and Malaita. Honiara, the capital, is on Guadalcanal, while many UFO-linked narratives are placed farther from the capital, especially around Malaita and the waters between islands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.sprep.org/sites/default/files/2021-02/country-profile-solomon-islands.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.sprep.org">[library.sprep.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.sprep.org</span><span class="citation-popover-title">Solomons country profile</span><span class="citation-popover-snippet">Solomons country profile</span></span></span>
+Solomon Islands is not a compact single-island case. It is an archipelagic country spread across a large maritime area, with a double chain of volcanic islands and major island groups including Guadalcanal, Makira, New Georgia, Choiseul, Isabel and Malaita. Honiara, the capital, is on Guadalcanal, while many UFO-linked narratives are placed farther from the capital, especially around Malaita and the waters between islands.<span class="citation-chip-wrap"><a class="citation-chip" href="https://library.sprep.org/sites/default/files/2021-02/country-profile-solomon-islands.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.sprep.org">[library.sprep.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.sprep.org</span><span class="citation-popover-title">Solomons country profile</span><span class="citation-popover-snippet">Solomons country profile</span></span></span>
 
-That geography matters. Reports of odd lights, aircraft-like objects, “crashes” and sea-to-mountain movements are easier to keep ambiguous in a country with rugged terrain, scattered communities, limited night-time observation infrastructure and a long history of aircraft and ship wreckage from the Second World War. The UFO stories often cluster around places where ordinary verification is hard: jungle interiors, offshore waters, lake or waterfall settings, and remote village viewpoints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archaehistoria.org">[archaehistoria.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archaehistoria.org</span><span class="citation-popover-title">Site MALA05 Unidentified aircraft at Afoa</span><span class="citation-popover-snippet">Site MALA05 Unidentified aircraft at Afoa</span></span></span>
+That geography matters. Reports of odd lights, aircraft-like objects, “crashes” and sea-to-mountain movements are easier to keep ambiguous in a country with rugged terrain, scattered communities, limited night-time observation infrastructure and a long history of aircraft and ship wreckage from the Second World War. The UFO stories often cluster around places where ordinary verification is hard: jungle interiors, offshore waters, lake or waterfall settings, and remote village viewpoints.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archaehistoria.org">[archaehistoria.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archaehistoria.org</span><span class="citation-popover-title">Site MALA05 Unidentified aircraft at Afoa</span><span class="citation-popover-snippet">Site MALA05 Unidentified aircraft at Afoa</span></span></span>
 
-The best-known UFO-adjacent strand is tied to Marius Boirayon’s book *Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands*. Retail and library descriptions present it as a work mixing giants, UFOs, Guadalcanal, survival adventure and ancient-astronaut themes; one catalogue summary describes “glowing UFOs” rising from the Pacific near Guadalcanal’s wartime wrecks and disappearing into mountains and jungle lakes. These descriptions are useful for mapping the folklore of the topic, but they are not equivalent to independent documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-title">Solomon Islands Mysteries by Marius Boirayon (Ebook</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook</span></span></span>
+The best-known UFO-adjacent strand is tied to Marius Boirayon’s book *Solomon Islands Mysteries: Accounts of Giants and UFOs in the Solomon Islands*. Retail and library descriptions present it as a work mixing giants, UFOs, Guadalcanal, survival adventure and ancient-astronaut themes; one catalogue summary describes “glowing UFOs” rising from the Pacific near Guadalcanal’s wartime wrecks and disappearing into mountains and jungle lakes. These descriptions are useful for mapping the folklore of the topic, but they are not equivalent to independent documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-title">Solomon Islands Mysteries by Marius Boirayon (Ebook</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook</span></span></span>
 
 ## The main chronology: what can actually be pinned down
 
@@ -1211,34 +1211,34 @@ A cautious chronology for Solomon Islands UFO material has to start with the gap
 
 The recurring pattern is:
 
-**Oral and local tradition before modern UFO framing.** The “Dragon Snake” motif is often described in UFO writing as a local name later reinterpreted as an unidentified flying object. A 2010 Solomon Times letter, for example, says local people called such phenomena “Dragon Snake” while “the white man” called them UFOs, and it places claimed sightings around Malaita, Guadalcanal and Makira. Because this was a letter rather than an official report, it is evidence of a circulating belief, not proof of the object described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/news/no-plane-crash-says-police/5532" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">No Plane Crash, Says Police</span><span class="citation-popover-snippet">No Plane Crash, Says Police</span></span></span>
+**Oral and local tradition before modern UFO framing.** The “Dragon Snake” motif is often described in UFO writing as a local name later reinterpreted as an unidentified flying object. A 2010 Solomon Times letter, for example, says local people called such phenomena “Dragon Snake” while “the white man” called them UFOs, and it places claimed sightings around Malaita, Guadalcanal and Makira. Because this was a letter rather than an official report, it is evidence of a circulating belief, not proof of the object described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/news/no-plane-crash-says-police/5532" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">No Plane Crash, Says Police</span><span class="citation-popover-snippet">No Plane Crash, Says Police</span></span></span>
 
-**The 1990s Boirayon claims.** The modern Solomon Islands UFO narrative is strongly associated with Boirayon, a former Royal Australian Air Force engineer according to secondary descriptions, who claimed many sightings and proposed hidden bases. The claims have circulated widely in UFO and paranormal media, but the available public source trail is mostly self-reported or promotional. A local letter says he documented “well over 60 sightings” in 1995; book listings and summaries later amplify the same world of glowing objects, underwater or underground sites, giants and hidden landscapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-title">Solomon Islands Mysteries by Marius Boirayon (Ebook</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook</span></span></span>
+**The 1990s Boirayon claims.** The modern Solomon Islands UFO narrative is strongly associated with Boirayon, a former Royal Australian Air Force engineer according to secondary descriptions, who claimed many sightings and proposed hidden bases. The claims have circulated widely in UFO and paranormal media, but the available public source trail is mostly self-reported or promotional. A local letter says he documented “well over 60 sightings” in 1995; book listings and summaries later amplify the same world of glowing objects, underwater or underground sites, giants and hidden landscapes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-title">Solomon Islands Mysteries by Marius Boirayon (Ebook</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook</span></span></span>
 
-**A sparse database footprint.** The National UFO Reporting Center has at least one Solomon Islands entry: a Honiara/Aku Malaita report with an occurrence date of 28 November 2005, reported on 12 September 2010, describing a circular object with an aura or haze and the note “The object covers the sun.” The listing itself gives “No of observers: 0”, which is a major reliability problem and makes the report weak as evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=77784" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+**A sparse database footprint.** The National UFO Reporting Center has at least one Solomon Islands entry: a Honiara/Aku Malaita report with an occurrence date of 28 November 2005, reported on 12 September 2010, describing a circular object with an aura or haze and the note “The object covers the sun.” The listing itself gives “No of observers: 0”, which is a major reliability problem and makes the report weak as evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=77784" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-**The 2010 [East Malaita crash]({{ 'malaita-crash/' | relative_url }}) report.** This is the most concrete case because it triggered a real search and official questioning. Villagers around Ogou and Leli Island reported what they believed was a small aircraft crashing into the sea near northeast Malaita. Police, local boats, and aviation authorities searched the area. Public reporting said no evidence of a crash was found, no scheduled flight was known for that route, and no overseas flight plan matched the report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">Another Mystery on Mystery Island</span><span class="citation-popover-snippet">Another Mystery on Mystery Island</span></span></span>
+**The 2010 [East Malaita crash]({{ 'malaita-crash/' | relative_url }}) report.** This is the most concrete case because it triggered a real search and official questioning. Villagers around Ogou and Leli Island reported what they believed was a small aircraft crashing into the sea near northeast Malaita. Police, local boats, and aviation authorities searched the area. Public reporting said no evidence of a crash was found, no scheduled flight was known for that route, and no overseas flight plan matched the report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">Another Mystery on Mystery Island</span><span class="citation-popover-snippet">Another Mystery on Mystery Island</span></span></span>
 
 <img src="{{ "/assets/images/Solomon_Islands_6f943d-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Solomon Islands UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Solomon_Islands_6f943d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Solomon_Islands_6f943d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2010 East Malaita case is the strongest test
 
-The 2010 East Malaita incident is often the most useful case because it shows how an initially dramatic sighting can move through official channels without turning into a confirmed UFO event. According to a parliamentary answer, the report reached police and emergency channels on 7 September 2010. The response included liaison with the Royal Solomon Islands Police Force, the Participating Police Force coordinator in Auki, maritime teams, and a helicopter equipped with forward-looking infrared capability. Searches were affected by weather, but aircraft and boats still searched the suspected area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[parliament.gov.sb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">4th October 2010</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
+The 2010 East Malaita incident is often the most useful case because it shows how an initially dramatic sighting can move through official channels without turning into a confirmed UFO event. According to a parliamentary answer, the report reached police and emergency channels on 7 September 2010. The response included liaison with the Royal Solomon Islands Police Force, the Participating Police Force coordinator in Auki, maritime teams, and a helicopter equipped with forward-looking infrared capability. Searches were affected by weather, but aircraft and boats still searched the suspected area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[parliament.gov.sb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">4th October 2010</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
 
-The official account is precise about what was missing: no plane debris, no oil trails and no bodies were found in the search area. The Solomon Islands Civil Aviation Authority took carriage of the investigation under the Civil Aviation Act 2009, sent a team to Atoifi, and worked with police and search-and-rescue personnel. The parliamentary answer later stated that “Nill evidence” was found on sea or land to support the crash report and that the operation was terminated, with local police to monitor the area for a further period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[parliament.gov.sb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">4th October 2010</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
+The official account is precise about what was missing: no plane debris, no oil trails and no bodies were found in the search area. The Solomon Islands Civil Aviation Authority took carriage of the investigation under the Civil Aviation Act 2009, sent a team to Atoifi, and worked with police and search-and-rescue personnel. The parliamentary answer later stated that “Nill evidence” was found on sea or land to support the crash report and that the operation was terminated, with local police to monitor the area for a further period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[parliament.gov.sb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">4th October 2010</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
 
-This does not prove that witnesses saw nothing. It does mean that the incident did not become a confirmed aircraft crash, let alone a confirmed non-human craft. Local reporting at the time said villagers remained adamant that they had seen a plane crash, while the Police Commissioner noted there were no scheduled flights for the route and no matching flight plan. That combination leaves a genuine unresolved perception event: people reported seeing something, but investigators found no physical crash evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/letter/3469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Open source on solomontimes.com.</span></span></span>
+This does not prove that witnesses saw nothing. It does mean that the incident did not become a confirmed aircraft crash, let alone a confirmed non-human craft. Local reporting at the time said villagers remained adamant that they had seen a plane crash, while the Police Commissioner noted there were no scheduled flights for the route and no matching flight plan. That combination leaves a genuine unresolved perception event: people reported seeing something, but investigators found no physical crash evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/letter/3469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Open source on solomontimes.com.</span></span></span>
 
-The UFO layer was added quickly in public commentary. A Solomon Times letter framed the absence of debris as consistent with older “Dragon Snake” or UFO stories and claimed the wider area had a history of such sightings. This is an important example of interpretation outrunning evidence: the same absence of wreckage can support either a mundane “false crash report” explanation or a speculative UFO narrative, but only the first has institutional support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/news/investigation-continues-for-crashed-plane/8059" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">investigation continues for crashed plane</span><span class="citation-popover-snippet">investigation continues for crashed plane</span></span></span>
+The UFO layer was added quickly in public commentary. A Solomon Times letter framed the absence of debris as consistent with older “Dragon Snake” or UFO stories and claimed the wider area had a history of such sightings. This is an important example of interpretation outrunning evidence: the same absence of wreckage can support either a mundane “false crash report” explanation or a speculative UFO narrative, but only the first has institutional support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/news/investigation-continues-for-crashed-plane/8059" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">investigation continues for crashed plane</span><span class="citation-popover-snippet">investigation continues for crashed plane</span></span></span>
 
 ## Region-level variation: Malaita, Guadalcanal and Makira
 
 The Solomon Islands UFO narrative is not evenly distributed. It is most often attached to three broad zones.
 
-**Malaita** is central because of the 2010 East Malaita report and because UFO writers often connect Malaita to “Dragon Snake” accounts. The island also has documented wartime aviation wreckage and reported unidentified aircraft crash sites, which can complicate local memory and interpretation. Archaehistoria, for example, records an unidentified Second World War aircraft crash site reported near Afoa on eastern North Malaita, while aviation accident archives list wartime crashes in and around Malaita. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archaehistoria.org">[archaehistoria.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archaehistoria.org</span><span class="citation-popover-title">Site MALA05 Unidentified aircraft at Afoa</span><span class="citation-popover-snippet">Site MALA05 Unidentified aircraft at Afoa</span></span></span>
+**Malaita** is central because of the 2010 East Malaita report and because UFO writers often connect Malaita to “Dragon Snake” accounts. The island also has documented wartime aviation wreckage and reported unidentified aircraft crash sites, which can complicate local memory and interpretation. Archaehistoria, for example, records an unidentified Second World War aircraft crash site reported near Afoa on eastern North Malaita, while aviation accident archives list wartime crashes in and around Malaita.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archaehistoria.org">[archaehistoria.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archaehistoria.org</span><span class="citation-popover-title">Site MALA05 Unidentified aircraft at Afoa</span><span class="citation-popover-snippet">Site MALA05 Unidentified aircraft at Afoa</span></span></span>
 
-**Guadalcanal** matters because of Honiara, wartime history and Boirayon-linked claims of lights moving between sea, mountains and inland water. It is also where descriptions of “glowing UFOs” near the sunken warships of the Battle of Guadalcanal have been popularised in book summaries. Those claims remain contested because the public evidence is literary and anecdotal rather than forensic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://evergreen.lib.in.us/eg/opac/record/22018387" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evergreen.lib.in.us">[Evergreen Indiana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evergreen.lib.in.us</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Guadalcanal** matters because of Honiara, wartime history and Boirayon-linked claims of lights moving between sea, mountains and inland water. It is also where descriptions of “glowing UFOs” near the sunken warships of the Battle of Guadalcanal have been popularised in book summaries. Those claims remain contested because the public evidence is literary and anecdotal rather than forensic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://evergreen.lib.in.us/eg/opac/record/22018387" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evergreen.lib.in.us">[Evergreen Indiana]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evergreen.lib.in.us</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Makira** appears mostly as a supporting location in local commentary and folklore-linked UFO claims rather than as the site of a well-documented case. The 2010 letter that names Malaita and Guadalcanal also says sightings are spoken of “as far as Makira”, but it does not provide independently checkable dates, witnesses, photographs or official records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/letters/2010/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Open source on solomontimes.com.</span></span></span>
+**Makira** appears mostly as a supporting location in local commentary and folklore-linked UFO claims rather than as the site of a well-documented case. The 2010 letter that names Malaita and Guadalcanal also says sightings are spoken of “as far as Makira”, but it does not provide independently checkable dates, witnesses, photographs or official records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/letters/2010/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-snippet">Open source on solomontimes.com.</span></span></span>
 
 The regional pattern therefore says more about narrative ecology than about confirmed anomaly hotspots. Remote coastline, volcanic terrain, wartime remains and locally meaningful stories all help explain why some islands become repeated settings in UFO accounts.
 
@@ -1246,39 +1246,39 @@ The regional pattern therefore says more about narrative ecology than about conf
 
 ## Official records: what is present, and what is missing
 
-There is no public Solomon Islands equivalent of the United States’ Project Blue Book, and the accessible official record for Solomon Islands UFO claims is thin. The strongest official material is not a UFO investigation at all, but an aviation and police response to a reported crash in East Malaita. That response is valuable precisely because it gives dates, agencies, search methods and findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[parliament.gov.sb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">4th October 2010</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
+There is no public Solomon Islands equivalent of the United States’ Project Blue Book, and the accessible official record for Solomon Islands UFO claims is thin. The strongest official material is not a UFO investigation at all, but an aviation and police response to a reported crash in East Malaita. That response is valuable precisely because it gives dates, agencies, search methods and findings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[parliament.gov.sb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">4th October 2010</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
 
-For wider comparison, official U.S. UFO history is useful only as a benchmark for evidence standards, not as proof about Solomon Islands. The U.S. Air Force states that Project Blue Book investigated UFO reports from 1947 to 1969, logged 12,618 sightings, left 701 unidentified, and concluded that no evaluated UFO was evidence of a national-security threat, unknown technology beyond modern science, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
+For wider comparison, official U.S. UFO history is useful only as a benchmark for evidence standards, not as proof about Solomon Islands. The U.S. Air Force states that Project Blue Book investigated UFO reports from 1947 to 1969, logged 12,618 sightings, left 701 unidentified, and concluded that no evaluated UFO was evidence of a national-security threat, unknown technology beyond modern science, or extraterrestrial vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
-Recent U.S. All-domain Anomaly Resolution Office reporting reaches a similar broad conclusion: many cases remain unresolved because data are inadequate, but official historical reviews have not found evidence of extraterrestrial origin for UFO or UAP reports. AARO also notes that unresolved cases often lack the basic measurable information needed for analysis, such as speed, altitude and size. That limitation applies especially strongly to Solomon Islands claims, where most public reports are anecdotal and not sensor-rich. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
+Recent U.S. All-domain Anomaly Resolution Office reporting reaches a similar broad conclusion: many cases remain unresolved because data are inadequate, but official historical reviews have not found evidence of extraterrestrial origin for UFO or UAP reports. AARO also notes that unresolved cases often lack the basic measurable information needed for analysis, such as speed, altitude and size. That limitation applies especially strongly to Solomon Islands claims, where most public reports are anecdotal and not sensor-rich.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
 <img src="{{ "/assets/images/Solomon_Islands_6f943d-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Solomon Islands UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Solomon_Islands_6f943d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Solomon_Islands_6f943d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence quality: confirmed, contested and debunked
 
-The Solomon Islands file separates cleanly into three levels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Solomon Islands file separates cleanly into three levels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/place/Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Confirmed or well-supported:** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Confirmed or well-supported:**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The 2010 East Malaita search happened. Police, aviation and search teams responded to a reported crash; the search found no debris, oil trails, bodies or confirmed aircraft. This is a confirmed investigation into an alleged crash, not a confirmed UFO recovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[parliament.gov.sb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">4th October 2010</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
+The 2010 East Malaita search happened. Police, aviation and search teams responded to a reported crash; the search found no debris, oil trails, bodies or confirmed aircraft. This is a confirmed investigation into an alleged crash, not a confirmed UFO recovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[parliament.gov.sb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">4th October 2010</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
 
 **Contested but culturally important:**
 
-The “Dragon Snake” and Boirayon-linked accounts are significant to UFO folklore around Solomon Islands. They are repeatedly associated with Malaita, Guadalcanal and Makira, and they have influenced later online and television treatments. Their weakness is that the public evidence is dominated by recollection, retelling and promotional summaries, not by dated multi-witness files, original photographs, radar records, physical samples or official case reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-title">Solomon Islands Mysteries by Marius Boirayon (Ebook</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook</span></span></span>
+The “Dragon Snake” and Boirayon-linked accounts are significant to UFO folklore around Solomon Islands. They are repeatedly associated with Malaita, Guadalcanal and Makira, and they have influenced later online and television treatments. Their weakness is that the public evidence is dominated by recollection, retelling and promotional summaries, not by dated multi-witness files, original photographs, radar records, physical samples or official case reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: everand.com">[Everand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">everand.com</span><span class="citation-popover-title">Solomon Islands Mysteries by Marius Boirayon (Ebook</span><span class="citation-popover-snippet">Solomon Islands Mysteries by Marius Boirayon (Ebook</span></span></span>
 
 **Debunked or unsupported as extraordinary claims:**
 
-The strongest debunking point is not that every witness must be wrong; it is that the major extraordinary interpretations have no public evidential support. The 2010 crash did not yield wreckage. The NUFORC Solomon Islands listing is too thin to bear much weight, especially with “No of observers: 0.” Claims of underwater alien bases, secret tunnels or recovered craft are not supported by the public official record cited above. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[2parliament.gov.sb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">4th October 2010</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
+The strongest debunking point is not that every witness must be wrong; it is that the major extraordinary interpretations have no public evidential support. The 2010 crash did not yield wreckage. The NUFORC Solomon Islands listing is too thin to bear much weight, especially with “No of observers: 0.” Claims of underwater alien bases, secret tunnels or recovered craft are not supported by the public official record cited above. NUFORC<span class="citation-chip-wrap"><a class="citation-chip" href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.gov.sb">[2parliament.gov.sb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.gov.sb</span><span class="citation-popover-title">4th October 2010</span><span class="citation-popover-snippet">4th October 2010</span><span class="citation-popover-meta">Published: October 2010</span></span></span>
 
 <img src="{{ "/assets/images/Solomon_Islands_6f943d-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Solomon Islands UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Solomon_Islands_6f943d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Solomon_Islands_6f943d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Plausible ordinary explanations
 
 A careful reading does not require a single explanation for every report. Several ordinary factors can operate at once.
 
-First, Solomon Islands has a real history of wartime aircraft losses and wreckage. That does not explain every light or crash story, but it does mean “unidentified aircraft” can be a literal archaeological or historical category, not necessarily a UFO in the extraterrestrial sense. The Afoa site on Malaita is explicitly described as an unidentified Second World War aircraft crash site awaiting ground survey. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archaehistoria.org">[archaehistoria.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archaehistoria.org</span><span class="citation-popover-title">Site MALA05 Unidentified aircraft at Afoa</span><span class="citation-popover-snippet">Site MALA05 Unidentified aircraft at Afoa</span></span></span>
+First, Solomon Islands has a real history of wartime aircraft losses and wreckage. That does not explain every light or crash story, but it does mean “unidentified aircraft” can be a literal archaeological or historical category, not necessarily a UFO in the extraterrestrial sense. The Afoa site on Malaita is explicitly described as an unidentified Second World War aircraft crash site awaiting ground survey.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archaehistoria.org">[archaehistoria.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archaehistoria.org</span><span class="citation-popover-title">Site MALA05 Unidentified aircraft at Afoa</span><span class="citation-popover-snippet">Site MALA05 Unidentified aircraft at Afoa</span></span></span>
 
-Second, island observation conditions can be misleading. A distant aircraft, meteor, satellite, flare, atmospheric reflection, burning debris, fishing light, lightning, or weather-related optical effect can look more dramatic over dark sea and mountains than it would in a well-lit urban setting. The 2010 case shows how a reported crash can appear compelling to witnesses while leaving no material evidence in a searched area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/news/no-plane-crash-says-police/5532" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">No Plane Crash, Says Police</span><span class="citation-popover-snippet">No Plane Crash, Says Police</span></span></span>
+Second, island observation conditions can be misleading. A distant aircraft, meteor, satellite, flare, atmospheric reflection, burning debris, fishing light, lightning, or weather-related optical effect can look more dramatic over dark sea and mountains than it would in a well-lit urban setting. The 2010 case shows how a reported crash can appear compelling to witnesses while leaving no material evidence in a searched area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/news/no-plane-crash-says-police/5532" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">No Plane Crash, Says Police</span><span class="citation-popover-snippet">No Plane Crash, Says Police</span></span></span>
 
-Third, folklore can shape interpretation after the fact. A locally meaningful “Dragon Snake” story and a modern UFO vocabulary can describe the same ambiguous experience in very different ways. The local letter’s own wording shows that translation process: local terminology is set beside the modern “UFO” label, turning a regional tradition into a global anomaly category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">Another Mystery on Mystery Island</span><span class="citation-popover-snippet">Another Mystery on Mystery Island</span></span></span>
+Third, folklore can shape interpretation after the fact. A locally meaningful “Dragon Snake” story and a modern UFO vocabulary can describe the same ambiguous experience in very different ways. The local letter’s own wording shows that translation process: local terminology is set beside the modern “UFO” label, turning a regional tradition into a global anomaly category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solomontimes.com">[solomontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solomontimes.com</span><span class="citation-popover-title">Another Mystery on Mystery Island</span><span class="citation-popover-snippet">Another Mystery on Mystery Island</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GNHteMyWUYs" title="Proof of Secret Underwater Alien Base | Ancient Aliens | The UnXplained Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GNHteMyWUYs" target="_blank" rel="noopener noreferrer">Proof of Secret Underwater Alien Base | Ancient Aliens | The UnXplained Zone</a></p><p class="youtube-embed-meta">Channel: The UnXplained Zone &middot; Views: 1.6K &middot; Uploaded: May 2026 &middot; Length: 4 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GNHteMyWUYs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GNHteMyWUYs">Open on YouTube</a></p></div></div></div>
 
@@ -1291,194 +1291,194 @@ The absence of such material does not make the subject worthless. It makes it a 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cOG1kZozQc8" title="Terrifying ALIEN ENCOUNTER CASES from the Solomon Islands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cOG1kZozQc8" target="_blank" rel="noopener noreferrer">Terrifying ALIEN ENCOUNTER CASES from the Solomon Islands</a></p><p class="youtube-embed-meta">Channel: Weird World &middot; Views: 11.0K &middot; Uploaded: June 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cOG1kZozQc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cOG1kZozQc8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Solomon Islands UFO Lore?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Really Happened in Solomon Islands UFO Lore?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Offers a structured way to assess anecdotal and weakly documented reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a structured way to assess anecdotal and weakly documented reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a balanced framework for evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a balanced framework for evaluating extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Edge of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hz6xEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Edge of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of Reality">The Edge of Reality</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek, Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores unresolved cases and the limits of available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores unresolved cases and the limits of available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Edge+of+Reality+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Particularly relevant to island legends, unusual beings and recurring stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Particularly relevant to island legends, unusual beings and recurring stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Edge+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Edge of Reality</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-solomon-islands-ufo-lore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-solomon-islands-ufo-lore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -1494,7 +1494,7 @@ The absence of such material does not make the subject worthless. It makes it a 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -1514,7 +1514,7 @@ The absence of such material does not make the subject worthless. It makes it a 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1546,7 +1546,7 @@ The absence of such material does not make the subject worthless. It makes it a 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -1598,7 +1598,7 @@ The absence of such material does not make the subject worthless. It makes it a 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1643,7 +1643,7 @@ The absence of such material does not make the subject worthless. It makes it a 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1681,264 +1681,263 @@ The absence of such material does not make the subject worthless. It makes it a 
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: parliament.gov.sb  
    Title: 4th October 2010  
-   Link: <a href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf</a>  
+   Link:<a href="https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://parliament.gov.sb/sites/default/files/hansard/9th_session/1st_Meeting/4th%20October%202010.pdf</a>  
    Published: October 2010  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: solomontimes.com  
    Title: No Plane Crash, Says Police  
-   Link: <a href="https://www.solomontimes.com/news/no-plane-crash-says-police/5532" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/news/no-plane-crash-says-police/5532</a>  
+   Link:<a href="https://www.solomontimes.com/news/no-plane-crash-says-police/5532" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/news/no-plane-crash-says-police/5532</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: library.sprep.org  
    Title: Solomons country profile  
-   Link: <a href="https://library.sprep.org/sites/default/files/2021-02/country-profile-solomon-islands.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.sprep.org/sites/default/files/2021-02/country-profile-solomon-islands.pdf</a>  
+   Link:<a href="https://library.sprep.org/sites/default/files/2021-02/country-profile-solomon-islands.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.sprep.org/sites/default/files/2021-02/country-profile-solomon-islands.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archaehistoria.org  
    Title: Site MALA05 Unidentified aircraft at Afoa  
-   Link: <a href="https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa" target="_blank" rel="noopener noreferrer nofollow">https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa</a>  
+   Link:<a href="https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa" target="_blank" rel="noopener noreferrer nofollow">https://www.archaehistoria.org/solomon-islands-archaeology/25-wwii-archaeological-sites-of-the-malaita-island/129-site-mala5-unidentified-aircraft-at-afoa</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: everand.com  
    Title: Solomon Islands Mysteries by Marius Boirayon (Ebook)  
-   Link: <a href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands</a>  
+   Link:<a href="https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow">https://www.everand.com/book/257719245/Solomon-Islands-Mysteries-Accounts-of-Giants-and-UFOs-in-the-Solomon-Islands</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: solomontimes.com  
    Title: Another Mystery on Mystery Island  
-   Link: <a href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/letter/3472</a>  
+   Link:<a href="https://www.solomontimes.com/letter/3472" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/letter/3472</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=77784" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=77784</a>  
+   Link:<a href="https://nuforc.org/sighting/?id=77784" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=77784</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/news/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles</a>  
+   Link:<a href="https://www.archives.gov/news/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/s.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/s.html</a>  
+   Link:<a href="https://www.archives.gov/research/guide-fed-records/index-alpha/s.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/s.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: prologue.blogs.archives.gov  
-   Link: <a href="https://prologue.blogs.archives.gov/2013/10/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2013/10/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/2013/10/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2013/10/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: prologue.blogs.archives.gov  
-   Link: <a href="https://prologue.blogs.archives.gov/page/85/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/page/85/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/page/85/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/page/85/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/publications/prologue/index/2003.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/publications/prologue/index/2003.html</a>  
+   Link:<a href="https://www.archives.gov/publications/prologue/index/2003.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/publications/prologue/index/2003.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: prologue.blogs.archives.gov  
-   Link: <a href="https://prologue.blogs.archives.gov/page/69/?cat=-1" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/page/69/?cat=-1</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/page/69/?cat=-1" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/page/69/?cat=-1</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archives.gov  
    Title: rg181 naval districts jacksonville 6958238.xlsx  
-   Link: <a href="https://www.archives.gov/files/atlanta/finding-aids/rg181-naval-districts-jacksonville-6958238.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/atlanta/finding-aids/rg181-naval-districts-jacksonville-6958238.xlsx</a>  
+   Link:<a href="https://www.archives.gov/files/atlanta/finding-aids/rg181-naval-districts-jacksonville-6958238.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/atlanta/finding-aids/rg181-naval-districts-jacksonville-6958238.xlsx</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: prologue.blogs.archives.gov  
-   Link: <a href="https://prologue.blogs.archives.gov/author/usnatarchives/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/author/usnatarchives/page/2/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/author/usnatarchives/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/author/usnatarchives/page/2/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archives.gov  
    Title: accessioned records dc fy13  
-   Link: <a href="https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: prologue.blogs.archives.gov  
    Title: aam 2013  
-   Link: <a href="https://prologue.blogs.archives.gov/tag/aam_2013/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/tag/aam_2013/</a>  
+   Link:<a href="https://prologue.blogs.archives.gov/tag/aam_2013/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/tag/aam_2013/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archives.gov  
    Title: still pictures guide index  
-   Link: <a href="https://www.archives.gov/research/guides/still-pictures-guide-index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guides/still-pictures-guide-index.html</a>  
+   Link:<a href="https://www.archives.gov/research/guides/still-pictures-guide-index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guides/still-pictures-guide-index.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: archives.gov  
    Title: foreign affairs  
-   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/foreign-affairs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/foreign-affairs.html</a>  
+   Link:<a href="https://www.archives.gov/research/alic/periodicals/nara-citations/foreign-affairs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/foreign-affairs.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html</a>  
+   Link:<a href="https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archives.gov  
    Title: rf 2018 foia log  
-   Link: <a href="https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
+   Link:<a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/subndx/?id=e200511" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200511</a>  
+   Link:<a href="https://nuforc.org/subndx/?id=e200511" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200511</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   Link:<a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   Link:<a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
+   Link:<a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: solomontimes.com  
-   Link: <a href="https://www.solomontimes.com/letter/3469" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/letter/3469</a>  
+   Link:<a href="https://www.solomontimes.com/letter/3469" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/letter/3469</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: solomontimes.com  
    Title: investigation continues for crashed plane  
-   Link: <a href="https://www.solomontimes.com/news/investigation-continues-for-crashed-plane/8059" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/news/investigation-continues-for-crashed-plane/8059</a>  
+   Link:<a href="https://www.solomontimes.com/news/investigation-continues-for-crashed-plane/8059" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/news/investigation-continues-for-crashed-plane/8059</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: solomontimes.com  
-   Link: <a href="https://www.solomontimes.com/letters/2010/9" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/letters/2010/9</a>  
+   Link:<a href="https://www.solomontimes.com/letters/2010/9" target="_blank" rel="noopener noreferrer nofollow">https://www.solomontimes.com/letters/2010/9</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: solomons.gov.sb  
-   Link: <a href="https://solomons.gov.sb/about-solomon-islands/" target="_blank" rel="noopener noreferrer nofollow">https://solomons.gov.sb/about-solomon-islands/</a>  
+   Link:<a href="https://solomons.gov.sb/about-solomon-islands/" target="_blank" rel="noopener noreferrer nofollow">https://solomons.gov.sb/about-solomon-islands/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: mpgis.gov.sb  
-   Link: <a href="https://www.mpgis.gov.sb/malaita.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mpgis.gov.sb/malaita.html</a>  
+   Link:<a href="https://www.mpgis.gov.sb/malaita.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mpgis.gov.sb/malaita.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: eresources.nlb.gov.sg  
-   Link: <a href="https://eresources.nlb.gov.sg/linkeddata/primary-entity/work/04196953-6ea9-4d2a-88d5-92b41008a88b" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/linkeddata/primary-entity/work/04196953-6ea9-4d2a-88d5-92b41008a88b</a>  
+   Link:<a href="https://eresources.nlb.gov.sg/linkeddata/primary-entity/work/04196953-6ea9-4d2a-88d5-92b41008a88b" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/linkeddata/primary-entity/work/04196953-6ea9-4d2a-88d5-92b41008a88b</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
+   Link:<a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: evergreen.lib.in.us  
-   Link: <a href="https://evergreen.lib.in.us/eg/opac/record/22018387" target="_blank" rel="noopener noreferrer nofollow">https://evergreen.lib.in.us/eg/opac/record/22018387</a>  
+   Link:<a href="https://evergreen.lib.in.us/eg/opac/record/22018387" target="_blank" rel="noopener noreferrer nofollow">https://evergreen.lib.in.us/eg/opac/record/22018387</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/</a>  
+   Link:<a href="https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Solfafile/photos/fact-file-38-mysterious-plane-crashon-tuesday-7th-september-2010-around-1745-and/1264007126961986/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: solomongiants.wordpress.com  
-   Link: <a href="https://solomongiants.wordpress.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://solomongiants.wordpress.com/tag/ufo/</a>  
+   Link:<a href="https://solomongiants.wordpress.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://solomongiants.wordpress.com/tag/ufo/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/place/Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Solomon-Islands</a>  
+   Link:<a href="https://www.britannica.com/place/Solomon-Islands" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Solomon-Islands</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
+   Link:<a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 ### Additional References
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: Proof of Secret Underwater Alien Base | Ancient Aliens | The Un Xplained Zone  
-   Link: <a href="https://www.youtube.com/watch?v=GNHteMyWUYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GNHteMyWUYs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Giants Who Terrorized the Solomon Islands (S21) | Ancient Aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GNHteMyWUYs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GNHteMyWUYs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Giants Who Terrorized the Solomon Islands (S21) | Ancient Aliens...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery</a>  
+   Link:<a href="https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/127934861/A-Solomon-Islands-UFO-Mystery</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/Solomon-Islands-Mysteries-Accounts-Giants/dp/1935487043" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Solomon-Islands-Mysteries-Accounts-Giants/dp/1935487043</a>  
+   Link:<a href="https://www.amazon.nl/Solomon-Islands-Mysteries-Accounts-Giants/dp/1935487043" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/Solomon-Islands-Mysteries-Accounts-Giants/dp/1935487043</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/plaxrq/aggressive_ufos_of_the_solomon_islands_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/plaxrq/aggressive_ufos_of_the_solomon_islands_the/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/plaxrq/aggressive_ufos_of_the_solomon_islands_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/plaxrq/aggressive_ufos_of_the_solomon_islands_the/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: baaa-acro.com  
-   Link: <a href="https://www.baaa-acro.com/zone/all-solomon-islands" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/zone/all-solomon-islands</a>  
+   Link:<a href="https://www.baaa-acro.com/zone/all-solomon-islands" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/zone/all-solomon-islands</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: baaa-acro.com  
-   Link: <a href="https://www.baaa-acro.com/zone/all-solomon-islands?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/zone/all-solomon-islands?page=1</a>  
+   Link:<a href="https://www.baaa-acro.com/zone/all-solomon-islands?page=1" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/zone/all-solomon-islands?page=1</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DI1dhPGo357/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DI1dhPGo357/</a>  
+   Link:<a href="https://www.instagram.com/p/DI1dhPGo357/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DI1dhPGo357/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/author/list/4350007.Marius_Boirayon" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/author/list/4350007.Marius_Boirayon</a>  
+   Link:<a href="https://www.goodreads.com/author/list/4350007.Marius_Boirayon" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/author/list/4350007.Marius_Boirayon</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: documents1.worldbank.org  
-   Link: <a href="https://documents1.worldbank.org/curated/en/229711625048025731/Concept-Project-Information-Document-PID-Second-Solomon-Islands-Roads-and-Aviation-Project-P176548.docx" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/229711625048025731/Concept-Project-Information-Document-PID-Second-Solomon-Islands-Roads-and-Aviation-Project-P176548.docx</a>
+   Link:<a href="https://documents1.worldbank.org/curated/en/229711625048025731/Concept-Project-Information-Document-PID-Second-Solomon-Islands-Roads-and-Aviation-Project-P176548.docx" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/229711625048025731/Concept-Project-Information-Document-PID-Second-Solomon-Islands-Roads-and-Aviation-Project-P176548.docx</a>

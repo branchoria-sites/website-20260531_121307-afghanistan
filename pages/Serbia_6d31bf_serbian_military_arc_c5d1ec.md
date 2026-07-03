@@ -248,7 +248,7 @@ image: /assets/images/Serbia_6d31bf_serbian_military_arc_c5d1ec-Illustration-1-s
 
 ## Introduction
 
-Serbia has no publicly known equivalent of the British Ministry of Defence UFO releases or the large declassification programmes seen in some Western countries. That absence is often interpreted by enthusiasts as evidence that important Yugoslav or Serbian UFO records are being hidden. A more cautious reading is that potential records are scattered across military, aviation, intelligence and state archives, often under ordinary operational categories rather than anything labelled “UFO”. The practical problem is less the existence of a secret UFO archive than the difficulty of locating fragmentary air-defence, radar, flight-safety and command records from a state that passed through several political systems, wars, institutional reorganisations and archival transfers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span>
+Serbia has no publicly known equivalent of the British Ministry of Defence UFO releases or the large declassification programmes seen in some Western countries. That absence is often interpreted by enthusiasts as evidence that important Yugoslav or Serbian UFO records are being hidden. A more cautious reading is that potential records are scattered across military, aviation, intelligence and state archives, often under ordinary operational categories rather than anything labelled “UFO”. The practical problem is less the existence of a secret UFO archive than the difficulty of locating fragmentary air-defence, radar, flight-safety and command records from a state that passed through several political systems, wars, institutional reorganisations and archival transfers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span>
 
 <img src="{{ "/assets/images/Serbia_6d31bf_serbian_military_arc_c5d1ec-Illustration-1-dark.svg" | relative_url }}" alt="Archive Access illustration 1" data-theme-src-dark="{{ "/assets/images/Serbia_6d31bf_serbian_military_arc_c5d1ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Serbia_6d31bf_serbian_military_arc_c5d1ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For Serbian UFO claims, archive access matters because many of the strongest stories involve pilots, radar operators, air-defence units or military command decisions. Without access to original logs, researchers are often left with memoirs, interviews and media retellings rather than primary documentation. That gap helps explain why some Yugoslav-era incidents remain famous in regional UFO culture while remaining difficult to verify.
@@ -257,14 +257,14 @@ For Serbian UFO claims, archive access matters because many of the strongest sto
 
 The first challenge is understanding where such records would logically reside. Serbia inherited part of the archival infrastructure of the former Yugoslavia, but records are distributed across several institutions rather than concentrated in a single repository.
 
-The most obvious location is the Serbian Military Archive in Belgrade, an institution of the Ministry of Defence that preserves documentation generated by military organisations, including the Yugoslav People's Army and successor forces. The archive states that it holds tens of millions of pages of material and records from multiple military eras, including Yugoslav structures that operated air-defence and aviation systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span>
+The most obvious location is the Serbian Military Archive in Belgrade, an institution of the Ministry of Defence that preserves documentation generated by military organisations, including the Yugoslav People's Army and successor forces. The archive states that it holds tens of millions of pages of material and records from multiple military eras, including Yugoslav structures that operated air-defence and aviation systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span>
 
 Other potentially relevant material may be dispersed among:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The Archives of Yugoslavia, which preserve records created by central Yugoslav state institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arhivyu.rs/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arhivyu.rs">[arhivyu.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arhivyu.rs</span><span class="citation-popover-snippet">Home &#124; The Archives of YugoslaviaThe Archives of Yugoslavia is institution of culture that preserves archival material of exceptional sig...</span></span></span>
-* The Archives of Serbia, which hold broader state records and historical collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arhivsrbije.rs/en/history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arhivsrbije.rs">[arhivsrbije.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arhivsrbije.rs</span><span class="citation-popover-snippet">The State Archives of SerbiaThe Archives of Serbia is a home institution within the archival network of the Republic of Serbia. Its respo...</span></span></span>
+* The Archives of Yugoslavia, which preserve records created by central Yugoslav state institutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arhivyu.rs/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arhivyu.rs">[arhivyu.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arhivyu.rs</span><span class="citation-popover-snippet">Home &#124; The Archives of YugoslaviaThe Archives of Yugoslavia is institution of culture that preserves archival material of exceptional sig...</span></span></span>
+* The Archives of Serbia, which hold broader state records and historical collections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arhivsrbije.rs/en/history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arhivsrbije.rs">[arhivsrbije.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arhivsrbije.rs</span><span class="citation-popover-snippet">The State Archives of SerbiaThe Archives of Serbia is a home institution within the archival network of the Republic of Serbia. Its respo...</span></span></span>
 * Foreign ministry archives, where diplomatic correspondence about unusual aerial events could theoretically appear. [Министарство спољних послова]
 * Civil aviation and air-traffic records, if a sighting involved commercial aircraft rather than military units.
 
@@ -280,7 +280,7 @@ A radar contact might be filed as an air-defence incident. A pilot encounter cou
 
 This problem is especially significant for Yugoslav and Serbian records because military reporting systems were designed around defence requirements. An unknown object would initially be treated as a potential aircraft, surveillance platform, navigation error, equipment malfunction or airspace violation. Only after those possibilities were exhausted would it become an unexplained case.
 
-The archive system itself creates another obstacle. The Archives of Yugoslavia note that online searching is available only in Serbian, and archival collections are organised through fonds and institutional inventories rather than modern keyword databases. A researcher may need to know the relevant military unit, command structure, date range and administrative category before locating useful material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arhivyu.rs/en/arhivska-gradja/onlajn_pretrazivanje" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arhivyu.rs">[arhivyu.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arhivyu.rs</span><span class="citation-popover-snippet">Online search &#124; The Archives of YugoslaviaFonds and Collections · Online search · List of Institutions whose Holdings Have Not Been Taken...</span></span></span>
+The archive system itself creates another obstacle. The Archives of Yugoslavia note that online searching is available only in Serbian, and archival collections are organised through fonds and institutional inventories rather than modern keyword databases. A researcher may need to know the relevant military unit, command structure, date range and administrative category before locating useful material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.arhivyu.rs/en/arhivska-gradja/onlajn_pretrazivanje" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arhivyu.rs">[arhivyu.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arhivyu.rs</span><span class="citation-popover-snippet">Online search &#124; The Archives of YugoslaviaFonds and Collections · Online search · List of Institutions whose Holdings Have Not Been Taken...</span></span></span>
 
 As a result, the absence of a searchable “UFO collection” does not necessarily mean the absence of relevant records.
 
@@ -290,7 +290,7 @@ As a result, the absence of a searchable “UFO collection” does not necessari
 
 Even if records survive, access is not automatic.
 
-The Military Archive states that archival materials can generally be used for research purposes after fifty years have passed since their creation, provided access does not conflict with defence interests or personal-data protections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span>
+The Military Archive states that archival materials can generally be used for research purposes after fifty years have passed since their creation, provided access does not conflict with defence interests or personal-data protections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span>
 
 That rule creates a practical divide in Serbian UFO research:
 
@@ -307,7 +307,7 @@ Researchers therefore encounter a paradox. The cases most often discussed in Ser
 <img src="{{ "/assets/images/Serbia_6d31bf_serbian_military_arc_c5d1ec-Illustration-2-dark.svg" | relative_url }}" alt="Archive Access illustration 2" data-theme-src-dark="{{ "/assets/images/Serbia_6d31bf_serbian_military_arc_c5d1ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Serbia_6d31bf_serbian_military_arc_c5d1ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Missing Link in Yugoslav Pilot Stories
 
-Several of the most frequently cited regional UFO accounts involve former Yugoslav Air Force personnel, particularly stories associated with pilot testimonies from the 1970s. These accounts describe unusual lights, radar tracks and attempted interceptions by military aircraft. In some retellings, witnesses claim that command authorities treated the incidents seriously enough to launch fighter responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-snippet">Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gfserbia.blogspot.com">[2gfserbia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gfserbia.blogspot.com</span><span class="citation-popover-title">yugoslav pilots speak about ufos</span><span class="citation-popover-snippet">25 Aug 2011 — There are numerous cases of UFO sightings by citizens, that are lately reported on Serbian media. News Articles in Serbian...</span></span></span>
+Several of the most frequently cited regional UFO accounts involve former Yugoslav Air Force personnel, particularly stories associated with pilot testimonies from the 1970s. These accounts describe unusual lights, radar tracks and attempted interceptions by military aircraft. In some retellings, witnesses claim that command authorities treated the incidents seriously enough to launch fighter responses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sputnikglobe.com">[Sputnik International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sputnikglobe.com</span><span class="citation-popover-snippet">Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gfserbia.blogspot.com">[2gfserbia.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gfserbia.blogspot.com</span><span class="citation-popover-title">yugoslav pilots speak about ufos</span><span class="citation-popover-snippet">25 Aug 2011 — There are numerous cases of UFO sightings by citizens, that are lately reported on Serbian media. News Articles in Serbian...</span></span></span>
 
 The historical problem is not that these stories lack witnesses. Some involve named pilots whose military careers can be independently established. The problem is that public discussion usually relies on interviews, memoirs or later media coverage rather than complete operational documentation.
 
@@ -331,7 +331,7 @@ The archive question therefore becomes central. The credibility of many famous Y
 
 The phrase “missing files” often suggests deliberate concealment. In archival reality, there are many less dramatic explanations.
 
-Yugoslavia dissolved through a period of political upheaval, institutional fragmentation and armed conflict. Military structures were reorganised repeatedly. Records were transferred between agencies, successor states and archival systems. Some collections were never fully catalogued. Others may have been damaged, duplicated, relocated or separated from their original administrative context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span> Wikipedia Researchers working on unrelated military topics have long complained about uneven access to defence documentation and the complexity of loca <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Archives_of_Yugoslavia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Archives of Yugoslavia</span><span class="citation-popover-snippet">Archives of YugoslaviaSenjak, Belgrade, Serbia... The archival materials of the post-war Yugoslavia comprise 633 archives generated i...</span></span></span> ting records across different institutions. Public debates over wartime archives in Serbia have likewise shown how defence records can remain difficult to access even when the subject has no connection to UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://balkaninsight.com/2016/04/08/serbian-ministries-block-public-access-to-war-files-04-07-2016/btj/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: balkaninsight.com">[balkaninsight.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">balkaninsight.com</span><span class="citation-popover-snippet">Serbian Ministries Block Public Access to War Files8 Apr 2016 — “The archives of the defence ministry and interior ministry have data whi...</span></span></span>
+Yugoslavia dissolved through a period of political upheaval, institutional fragmentation and armed conflict. Military structures were reorganised repeatedly. Records were transferred between agencies, successor states and archival systems. Some collections were never fully catalogued. Others may have been damaged, duplicated, relocated or separated from their original administrative context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span> Wikipedia Researchers working on unrelated military topics have long complained about uneven access to defence documentation and the complexity of loca<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Archives_of_Yugoslavia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Archives of Yugoslavia</span><span class="citation-popover-snippet">Archives of YugoslaviaSenjak, Belgrade, Serbia... The archival materials of the post-war Yugoslavia comprise 633 archives generated i...</span></span></span> ting records across different institutions. Public debates over wartime archives in Serbia have likewise shown how defence records can remain difficult to access even when the subject has no connection to UFOs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://balkaninsight.com/2016/04/08/serbian-ministries-block-public-access-to-war-files-04-07-2016/btj/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: balkaninsight.com">[balkaninsight.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">balkaninsight.com</span><span class="citation-popover-snippet">Serbian Ministries Block Public Access to War Files8 Apr 2016 — “The archives of the defence ministry and interior ministry have data whi...</span></span></span>
 
 That broader archival environment makes it plausible that some aviation-related records are simply hard to locate rather than intentionally hidden because they concern unexplained aerial phenomena.
 
@@ -372,206 +372,206 @@ Examples would include:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Air-defence radar logs linked to a reported encounter.
-* Fighter-intercept mission records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arhiviranisajt.msp.gov.rs/en/consular-affairs/military-service" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arhiviranisajt.msp.gov.rs">[arhiviranisajt.msp.gov.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arhiviranisajt.msp.gov.rs</span><span class="citation-popover-snippet">ServiceEntering into military records kept by the diplomatic consular mission of the Republic of Serbia will signify that the Serbian nat...</span></span></span>
+* Fighter-intercept mission records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arhiviranisajt.msp.gov.rs/en/consular-affairs/military-service" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arhiviranisajt.msp.gov.rs">[arhiviranisajt.msp.gov.rs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arhiviranisajt.msp.gov.rs</span><span class="citation-popover-snippet">ServiceEntering into military records kept by the diplomatic consular mission of the Republic of Serbia will signify that the Serbian nat...</span></span></span>
 * Command memoranda discussing unidentified aerial targets.
 * Technical analyses explaining why an object could not be identified.
 * Previously restricted correspondence between military units and state authorities.
 
 </div>
 
-Such documents would not automatically prove extraordinary phenomena. In many countries, declassified UFO files have ultimately revealed routine explanations, administrative confusion or incomplete investigations rather than evidence of non-human technology. The United Kingdom's released UFO records provide a useful comparison: many files documented reports and government responses without validating extraordinary claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsThis is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating...</span></span></span>
+Such documents would not automatically prove extraordinary phenomena. In many countries, declassified UFO files have ultimately revealed routine explanations, administrative confusion or incomplete investigations rather than evidence of non-human technology. The United Kingdom's released UFO records provide a useful comparison: many files documented reports and government responses without validating extraordinary claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFOsThis is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating...</span></span></span>
 
-For Serbia, the central issue remains narrower. The question is not whether a hidden archive contains proof of UFOs. It is whether enough aviation, radar and command documentation survives—and can be located—to move famous Yugoslav and Serbian aerial stories from anecdote into documented history. At present, that transition remains incomplete, which is why archive access continues to sit at the centre of debates about the country's most enduring UFO claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span>
+For Serbia, the central issue remains narrower. The question is not whether a hidden archive contains proof of UFOs. It is whether enough aviation, radar and command documentation survives—and can be located—to move famous Yugoslav and Serbian aerial stories from anecdote into documented history. At present, that transition remains incomplete, which is why archive access continues to sit at the centre of debates about the country's most enduring UFO claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Military Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Military Archives of Serbia</span><span class="citation-popover-snippet">Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Would Serbia&#x27;s UFO Records Be?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Would Serbia&#x27;s UFO Records Be?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Centered on government files, investigations, and archived reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centered on government files, investigations, and archived reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful background for understanding investigative standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background for understanding investigative standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Explores how official records and institutions handle UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how official records and institutions handle UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on military witnesses, officials, and documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on military witnesses, officials, and documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-would-serbia-s-ufo-records-be-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-would-serbia-s-ufo-records-be-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ For Serbia, the central issue remains narrower. The question is not whether a hi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ For Serbia, the central issue remains narrower. The question is not whether a hi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ For Serbia, the central issue remains narrower. The question is not whether a hi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ For Serbia, the central issue remains narrower. The question is not whether a hi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ For Serbia, the central issue remains narrower. The question is not whether a hi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,132 +774,131 @@ For Serbia, the central issue remains narrower. The question is not whether a hi
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arhivyu.rs  
-   Link: <a href="https://www.arhivyu.rs/en" target="_blank" rel="noopener noreferrer nofollow">https://www.arhivyu.rs/en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home | The Archives of YugoslaviaThe Archives of Yugoslavia is institution of culture that preserves archival material of exceptional sig...</p></details>
+   Link:<a href="https://www.arhivyu.rs/en" target="_blank" rel="noopener noreferrer nofollow">https://www.arhivyu.rs/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home | The Archives of YugoslaviaThe Archives of Yugoslavia is institution of culture that preserves archival material of exceptional sig...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Archives of Yugoslavia  
-   Link: <a href="https://en.wikipedia.org/wiki/Archives_of_Yugoslavia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Archives_of_Yugoslavia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of YugoslaviaSenjak, Belgrade, Serbia... The archival materials of the post-war Yugoslavia comprise 633 archives generated i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Archives_of_Yugoslavia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Archives_of_Yugoslavia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of YugoslaviaSenjak, Belgrade, Serbia... The archival materials of the post-war Yugoslavia comprise 633 archives generated i...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arhivsrbije.rs  
-   Link: <a href="https://arhivsrbije.rs/en/history" target="_blank" rel="noopener noreferrer nofollow">https://arhivsrbije.rs/en/history</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The State Archives of SerbiaThe Archives of Serbia is a home institution within the archival network of the Republic of Serbia. Its respo...</p></details>
+   Link:<a href="https://arhivsrbije.rs/en/history" target="_blank" rel="noopener noreferrer nofollow">https://arhivsrbije.rs/en/history</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The State Archives of SerbiaThe Archives of Serbia is a home institution within the archival network of the Republic of Serbia. Its respo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.state.gov  
    Title: Office of the Historian Serbia  
-   Link: <a href="https://history.state.gov/countries/archives/serbia" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/countries/archives/serbia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the HistorianSerbia - Archives - CountriesRecords from the period of the Kingdom of Yugoslavia and before are found at the Arch...</p></details>
+   Link:<a href="https://history.state.gov/countries/archives/serbia" target="_blank" rel="noopener noreferrer nofollow">https://history.state.gov/countries/archives/serbia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the HistorianSerbia - Archives - CountriesRecords from the period of the Kingdom of Yugoslavia and before are found at the Arch...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arhivyu.rs  
-   Link: <a href="https://www.arhivyu.rs/en/arhivska-gradja/onlajn_pretrazivanje" target="_blank" rel="noopener noreferrer nofollow">https://www.arhivyu.rs/en/arhivska-gradja/onlajn_pretrazivanje</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online search | The Archives of YugoslaviaFonds and Collections · Online search · List of Institutions whose Holdings Have Not Been Taken...</p></details>
+   Link:<a href="https://www.arhivyu.rs/en/arhivska-gradja/onlajn_pretrazivanje" target="_blank" rel="noopener noreferrer nofollow">https://www.arhivyu.rs/en/arhivska-gradja/onlajn_pretrazivanje</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online search | The Archives of YugoslaviaFonds and Collections · Online search · List of Institutions whose Holdings Have Not Been Taken...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gfserbia.blogspot.com  
    Title: yugoslav pilots speak about ufos  
-   Link: <a href="https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Aug 2011 — There are numerous cases of UFO sightings by citizens, that are lately reported on Serbian media. News Articles in Serbian...</p></details>
+   Link:<a href="https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://gfserbia.blogspot.com/2011/08/yugoslav-pilots-speak-about-ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Aug 2011 — There are numerous cases of UFO sightings by citizens, that are lately reported on Serbian media. News Articles in Serbian...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: balkaninsight.com  
-   Link: <a href="https://balkaninsight.com/2016/04/08/serbian-ministries-block-public-access-to-war-files-04-07-2016/btj/" target="_blank" rel="noopener noreferrer nofollow">https://balkaninsight.com/2016/04/08/serbian-ministries-block-public-access-to-war-files-04-07-2016/btj/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Serbian Ministries Block Public Access to War Files8 Apr 2016 — “The archives of the defence ministry and interior ministry have data whi...</p></details>
+   Link:<a href="https://balkaninsight.com/2016/04/08/serbian-ministries-block-public-access-to-war-files-04-07-2016/btj/" target="_blank" rel="noopener noreferrer nofollow">https://balkaninsight.com/2016/04/08/serbian-ministries-block-public-access-to-war-files-04-07-2016/btj/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Serbian Ministries Block Public Access to War Files8 Apr 2016 — “The archives of the defence ministry and interior ministry have data whi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Military Archives of Serbia  
-   Link: <a href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Military_Archives_of_Serbia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Military_Archives_of_Serbia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Military_Archives_of_Serbia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military Archives of SerbiaThe Military Archives have preserved records of significant events, including the Serbian-Ottoman wars, Bal...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vojniarhiv.mod.gov.rs  
-   Link: <a href="https://www.vojniarhiv.mod.gov.rs/eng" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military ArchiveMilitary archivesThe Military Archive is an institution for the protection of archival and documentary material that is c...</p></details>
+   Link:<a href="https://www.vojniarhiv.mod.gov.rs/eng" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military ArchiveMilitary archivesThe Military Archive is an institution for the protection of archival and documentary material that is c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: vojniarhiv.mod.gov.rs  
-   Link: <a href="https://www.vojniarhiv.mod.gov.rs/eng/82/istorijat" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng/82/istorijat</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military ArchiveHistory | Military archivesOct 27, 2014 — In 1971, Archives were joined with the Central Archives of the Yugoslav People&#x27;...</p></details>
+   Link:<a href="https://www.vojniarhiv.mod.gov.rs/eng/82/istorijat" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng/82/istorijat</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military ArchiveHistory | Military archivesOct 27, 2014 — In 1971, Archives were joined with the Central Archives of the Yugoslav People&#x27;...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vojniarhiv.mod.gov.rs  
-   Link: <a href="https://www.vojniarhiv.mod.gov.rs/eng/11/o-vojnom-arhivu" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng/11/o-vojnom-arhivu</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military ArchiveAbout Military ArchivesMinistry of Defense of the Republic of Serbia and the Serbian Armed Forces. Today, the Military Ar...</p></details>
+   Link:<a href="https://www.vojniarhiv.mod.gov.rs/eng/11/o-vojnom-arhivu" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng/11/o-vojnom-arhivu</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military ArchiveAbout Military ArchivesMinistry of Defense of the Republic of Serbia and the Serbian Armed Forces. Today, the Military Ar...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: vojniarhiv.mod.gov.rs  
-   Link: <a href="https://www.vojniarhiv.mod.gov.rs/eng/103/postupak-za-pristup-arhivskoj-gradji" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng/103/postupak-za-pristup-arhivskoj-gradji</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military ArchiveAccess to the Archive materials | Military archivesThe archival materials in the Military Archives can be used for scient...</p></details>
+   Link:<a href="https://www.vojniarhiv.mod.gov.rs/eng/103/postupak-za-pristup-arhivskoj-gradji" target="_blank" rel="noopener noreferrer nofollow">https://www.vojniarhiv.mod.gov.rs/eng/103/postupak-za-pristup-arhivskoj-gradji</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military ArchiveAccess to the Archive materials | Military archivesThe archival materials in the Military Archives can be used for scient...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sputnikglobe.com  
-   Link: <a href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow">https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</p></details>
+   Link:<a href="https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html" target="_blank" rel="noopener noreferrer nofollow">https://sputnikglobe.com/20170822/former-commander-shares-ufo-encounter-1056697297.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sputnik InternationalUFO vs MiG: Former Air Force Commander Shares Bizarre...22 Aug 2017 — The first encounter occurred in early January...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOsThis is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFOsThis is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Doc mentions &#x27;250-PAGE FILE ON THE ATTACK BY A...The doc mentions a 250-page report created by the KGB about an encounter with a UFO...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/v8vhwi/cia_doc_mentions_250page_file_on_the_attack_by_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Doc mentions &#x27;250-PAGE FILE ON THE ATTACK BY A...The doc mentions a 250-page report created by the KGB about an encounter with a UFO...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Yugoslavia/comments/1bvm9un/do_jna_archives_still_exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Yugoslavia/comments/1bvm9un/do_jna_archives_still_exist/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do JNA archives still exist?: r/YugoslaviaIt depends on what information you are looking for. The Vojni Arhiv of the Serbia Military has...</p></details>
+   Link:<a href="https://www.reddit.com/r/Yugoslavia/comments/1bvm9un/do_jna_archives_still_exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Yugoslavia/comments/1bvm9un/do_jna_archives_still_exist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do JNA archives still exist?: r/YugoslaviaIt depends on what information you are looking for. The Vojni Arhiv of the Serbia Military has...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird UFO recently filmed over Belgrade, Serbia: r/aliensWhat are the most credible UFO sightings? r/aliens. • 6mo ago. What are the mos...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/gbqllr/weird_ufo_recently_filmed_over_belgrade_serbia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weird UFO recently filmed over Belgrade, Serbia: r/aliensWhat are the most credible UFO sightings? r/aliens. • 6mo ago. What are the mos...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arhiviranisajt.msp.gov.rs  
-   Link: <a href="https://arhiviranisajt.msp.gov.rs/en/consular-affairs/military-service" target="_blank" rel="noopener noreferrer nofollow">https://arhiviranisajt.msp.gov.rs/en/consular-affairs/military-service</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ServiceEntering into military records kept by the diplomatic consular mission of the Republic of Serbia will signify that the Serbian nat...</p></details>
+   Link:<a href="https://arhiviranisajt.msp.gov.rs/en/consular-affairs/military-service" target="_blank" rel="noopener noreferrer nofollow">https://arhiviranisajt.msp.gov.rs/en/consular-affairs/military-service</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ServiceEntering into military records kept by the diplomatic consular mission of the Republic of Serbia will signify that the Serbian nat...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spaceage/posts/10164185926399679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceage/posts/10164185926399679/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“UFO building” at Ada Ciganlija in Belgrade (Serbia)....UFO building” at Ada Ciganlija in Belgrade (Serbia). Designed by Aleksandar Đoki...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spaceage/posts/10164185926399679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceage/posts/10164185926399679/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“UFO building” at Ada Ciganlija in Belgrade (Serbia)....UFO building” at Ada Ciganlija in Belgrade (Serbia). Designed by Aleksandar Đoki...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: enigmalabs.io  
-   Link: <a href="https://enigmalabs.io/explore/rs" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/rs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in SerbiaExplore UFO &amp; UAP sightings in Serbia. Discover sighting maps, historical and recent trends, and video highlights...</p></details>
+   Link:<a href="https://enigmalabs.io/explore/rs" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/rs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in SerbiaExplore UFO &amp; UAP sightings in Serbia. Discover sighting maps, historical and recent trends, and video highlights...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14uzlv8/yugoslavian_ufo_experience/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: eurasiareview.com  
    Title: 12082020 will serbia and kosovo open up secret war archives analysis  
-   Link: <a href="https://www.eurasiareview.com/12082020-will-serbia-and-kosovo-open-up-secret-war-archives-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiareview.com/12082020-will-serbia-and-kosovo-open-up-secret-war-archives-analysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Will Serbia And Kosovo Open Up Secret War Archives?12 Aug 2020 — Serbia and Kosovo have asked each other to open up military archives to...</p></details>
+   Link:<a href="https://www.eurasiareview.com/12082020-will-serbia-and-kosovo-open-up-secret-war-archives-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiareview.com/12082020-will-serbia-and-kosovo-open-up-secret-war-archives-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Will Serbia And Kosovo Open Up Secret War Archives?12 Aug 2020 — Serbia and Kosovo have asked each other to open up military archives to...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>near the airport runway during 1977 Pan Adria Incident in former Yugoslavia.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17fnh4g/a_former_yugoslav_soldier_describes_how_ufo_took/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>near the airport runway during 1977 Pan Adria Incident in former Yugoslavia.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: gizmodo.com  
    Title: ufo photographed floating over serbian village 5842049  
-   Link: <a href="https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO photographed floating over Serbian village20 Sept 2011 — A man snapped a UFO floating over the town of Bukovac. He&#x27;s offered the foot...</p></details>
+   Link:<a href="https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/ufo-photographed-floating-over-serbian-village-5842049</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO photographed floating over Serbian village20 Sept 2011 — A man snapped a UFO floating over the town of Bukovac. He&#x27;s offered the foot...</p></details>

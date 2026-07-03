@@ -257,11 +257,11 @@ image: /assets/images/Panama_1e36b3_panama_skywatchers_1a5258-Illustration-1-soc
 Many Panama UFO reports begin with a simple problem: people see something unusual in the sky but do not have enough information to identify it. In practice, that makes astronomy groups one of the most useful reality checks in the country’s UFO discussion. Rather than assuming every strange light is evidence of an unknown craft, experienced skywatchers can compare a report against satellite passes, bright planets, aircraft routes, atmospheric effects, drones, and seasonal sky conditions.
 
 <img src="{{ "/assets/images/Panama_1e36b3_panama_skywatchers_1a5258-Illustration-1-dark.svg" | relative_url }}" alt="Skywatchers illustration 1" data-theme-src-dark="{{ "/assets/images/Panama_1e36b3_panama_skywatchers_1a5258-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Panama_1e36b3_panama_skywatchers_1a5258-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This role is especially important in Panama because most UFO claims emerge from civilian observations rather than from military investigations or extensive sensor records. Local astronomy organisations, public observing events, and amateur observers provide a practical filter between a genuine mystery and a misidentified object. Their value is not that they “debunk everything”. Their value is that they help determine which reports survive basic astronomical scrutiny and which do not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apaa.org.pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apaa.org.pa">[apaa.org.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apaa.org.pa</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This role is especially important in Panama because most UFO claims emerge from civilian observations rather than from military investigations or extensive sensor records. Local astronomy organisations, public observing events, and amateur observers provide a practical filter between a genuine mystery and a misidentified object. Their value is not that they “debunk everything”. Their value is that they help determine which reports survive basic astronomical scrutiny and which do not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apaa.org.pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apaa.org.pa">[apaa.org.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apaa.org.pa</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Who helps verify unusual sky reports in Panama?
 
-The best-known astronomy organisation in the country is the Asociación Panameña de Aficionados a la Astronomía (APAA), a non-profit educational group founded in the 1980s that promotes astronomy through public outreach, observing sessions, lectures, and community education. APAA regularly organises observational activities and encourages public understanding of planets, stars, satellites, eclipses, and other visible phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apaa.org.pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apaa.org.pa">[apaa.org.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apaa.org.pa</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The best-known astronomy organisation in the country is the Asociación Panameña de Aficionados a la Astronomía (APAA), a non-profit educational group founded in the 1980s that promotes astronomy through public outreach, observing sessions, lectures, and community education. APAA regularly organises observational activities and encourages public understanding of planets, stars, satellites, eclipses, and other visible phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apaa.org.pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apaa.org.pa">[apaa.org.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apaa.org.pa</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The importance of groups like APAA extends beyond astronomy as a hobby. When a UFO claim appears online, experienced observers can often answer basic questions immediately:
 
@@ -277,7 +277,7 @@ The importance of groups like APAA extends beyond astronomy as a hobby. When a U
 
 These questions are rarely asked in viral social-media posts, yet they are usually the first questions an astronomer asks.
 
-Panama also has smaller amateur astronomy communities and educational initiatives. Recent science programmes supported by the Secretaría Nacional de Ciencia, Tecnología e Innovación (Senacyt) have involved APAA alongside groups such as Sirius SAAC, Astroafición PTY, and other amateur astronomy networks. These organisations focus on observation skills and scientific literacy rather than UFO investigation, but that expertise is exactly what makes them useful when unusual sightings are reported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.senacyt.gob.pa/jovenes-representaran-a-panama-en-la-olimpiada-latinoamericana-de-astronomia-y-astronautica-en-brasil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: senacyt.gob.pa">[senacyt.gob.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">senacyt.gob.pa</span><span class="citation-popover-snippet">Asociación Panameña de Aficionados a la Astronomía (APAA) y los grupos de aficionados en Astronomía Sirius SAAC, Astroafición PTY y Pilot...</span></span></span>
+Panama also has smaller amateur astronomy communities and educational initiatives. Recent science programmes supported by the Secretaría Nacional de Ciencia, Tecnología e Innovación (Senacyt) have involved APAA alongside groups such as Sirius SAAC, Astroafición PTY, and other amateur astronomy networks. These organisations focus on observation skills and scientific literacy rather than UFO investigation, but that expertise is exactly what makes them useful when unusual sightings are reported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.senacyt.gob.pa/jovenes-representaran-a-panama-en-la-olimpiada-latinoamericana-de-astronomia-y-astronautica-en-brasil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: senacyt.gob.pa">[senacyt.gob.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">senacyt.gob.pa</span><span class="citation-popover-snippet">Asociación Panameña de Aficionados a la Astronomía (APAA) y los grupos de aficionados en Astronomía Sirius SAAC, Astroafición PTY y Pilot...</span></span></span>
 
 ## Why Panama's skies can produce convincing UFO reports
 
@@ -348,7 +348,7 @@ This approach matters because memory changes rapidly after a surprising event. W
 
 Amateur astronomers also tend to understand camera limitations. Many supposed UFO photographs turn out to be affected by digital zoom, long exposures, lens reflections, motion blur, or out-of-focus light sources. A person familiar with astrophotography is more likely to recognise those artefacts before concluding that an image shows an unknown object.
 
-The same observational discipline that helps Panamanian amateur astronomers identify asteroids and participate in structured astronomy projects also helps them evaluate unusual sky claims. Several Panamanian amateur astronomy groups have taken part in asteroid-search initiatives and observational campaigns that require careful documentation and verification standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elcapitalfinanciero.com/panamenos-aficionados-a-la-astronomia-participan-en-el-descubrimiento-de-asteroide-en-fase-provisional/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elcapitalfinanciero.com">[elcapitalfinanciero.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elcapitalfinanciero.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same observational discipline that helps Panamanian amateur astronomers identify asteroids and participate in structured astronomy projects also helps them evaluate unusual sky claims. Several Panamanian amateur astronomy groups have taken part in asteroid-search initiatives and observational campaigns that require careful documentation and verification standards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://elcapitalfinanciero.com/panamenos-aficionados-a-la-astronomia-participan-en-el-descubrimiento-de-asteroide-en-fase-provisional/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elcapitalfinanciero.com">[elcapitalfinanciero.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elcapitalfinanciero.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d_-yNBQfP84" title="Every Pentagon UFO Video Explained - The 8 Pointed Star" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d_-yNBQfP84" target="_blank" rel="noopener noreferrer">Every Pentagon UFO Video Explained - The 8 Pointed Star</a></p><p class="youtube-embed-meta">Channel: Ray&#x27;s Astrophotography &middot; Views: 23.3K &middot; Uploaded: May 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d_-yNBQfP84" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d_-yNBQfP84">Open on YouTube</a></p></div></div></div>
 
@@ -384,197 +384,197 @@ Astronomy groups do not eliminate every mystery. Some reports remain ambiguous b
 
 What organisations such as APAA and other amateur astronomy communities contribute is a filtering process. They help separate observations that can be explained by known sky phenomena from those that genuinely require further investigation. That distinction matters because an unidentified object is not automatically an extraordinary one.
 
-In Panama, where most UFO claims emerge from eyewitness observations rather than extensive official records, public astronomy education may be the most effective investigative tool available. The better people understand the night sky, the easier it becomes to distinguish between a satellite, a planet, a drone, a weather effect, and a report that truly remains unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apaa.org.pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apaa.org.pa">[apaa.org.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apaa.org.pa</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/astronomia_panama_apaa/?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">APAA (@astronomia_panama_apaa) · Panama CityAsociación Panameña de Astrónomos Aficionados ▪︎Promoción y divulgación de la astronomía ▪︎Ch...</span></span></span>
+In Panama, where most UFO claims emerge from eyewitness observations rather than extensive official records, public astronomy education may be the most effective investigative tool available. The better people understand the night sky, the easier it becomes to distinguish between a satellite, a planet, a drone, a weather effect, and a report that truly remains unexplained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apaa.org.pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apaa.org.pa">[apaa.org.pa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apaa.org.pa</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/astronomia_panama_apaa/?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">APAA (@astronomia_panama_apaa) · Panama CityAsociación Panameña de Astrónomos Aficionados ▪︎Promoción y divulgación de la astronomía ▪︎Ch...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Can Check Panama UFO Claims?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Can Check Panama UFO Claims?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Useful for understanding how observations should be documented and assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how observations should be documented and assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows what separates stronger reports from ordinary misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows what separates stronger reports from ordinary misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+</h4>
+<p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Helps readers identify planets, satellites, and common sky phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify planets, satellites, and common sky phenomena.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
+</h4>
+<p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports practical sky observation and object identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports practical sky observation and object identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-can-check-panama-ufo-claims-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="who-can-check-panama-ufo-claims-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ In Panama, where most UFO claims emerge from eyewitness observations rather than
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ In Panama, where most UFO claims emerge from eyewitness observations rather than
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ In Panama, where most UFO claims emerge from eyewitness observations rather than
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ In Panama, where most UFO claims emerge from eyewitness observations rather than
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ In Panama, where most UFO claims emerge from eyewitness observations rather than
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,110 +777,109 @@ In Panama, where most UFO claims emerge from eyewitness observations rather than
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: apaa.org.pa  
-   Link: <a href="https://apaa.org.pa/" target="_blank" rel="noopener noreferrer nofollow">https://apaa.org.pa/</a>  
+   Link:<a href="https://apaa.org.pa/" target="_blank" rel="noopener noreferrer nofollow">https://apaa.org.pa/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/astronomia_panama_apaa/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/astronomia_panama_apaa/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>APAA (@astronomia_panama_apaa) · Panama CityAsociación Panameña de Astrónomos Aficionados ▪︎Promoción y divulgación de la astronomía ▪︎Ch...</p></details>
+   Link:<a href="https://www.instagram.com/astronomia_panama_apaa/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/astronomia_panama_apaa/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APAA (@astronomia_panama_apaa) · Panama CityAsociación Panameña de Astrónomos Aficionados ▪︎Promoción y divulgación de la astronomía ▪︎Ch...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: senacyt.gob.pa  
-   Link: <a href="https://www.senacyt.gob.pa/jovenes-representaran-a-panama-en-la-olimpiada-latinoamericana-de-astronomia-y-astronautica-en-brasil/" target="_blank" rel="noopener noreferrer nofollow">https://www.senacyt.gob.pa/jovenes-representaran-a-panama-en-la-olimpiada-latinoamericana-de-astronomia-y-astronautica-en-brasil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Asociación Panameña de Aficionados a la Astronomía (APAA) y los grupos de aficionados en Astronomía Sirius SAAC, Astroafición PTY y Pilot...</p></details>
+   Link:<a href="https://www.senacyt.gob.pa/jovenes-representaran-a-panama-en-la-olimpiada-latinoamericana-de-astronomia-y-astronautica-en-brasil/" target="_blank" rel="noopener noreferrer nofollow">https://www.senacyt.gob.pa/jovenes-representaran-a-panama-en-la-olimpiada-latinoamericana-de-astronomia-y-astronautica-en-brasil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asociación Panameña de Aficionados a la Astronomía (APAA) y los grupos de aficionados en Astronomía Sirius SAAC, Astroafición PTY y Pilot...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: elcapitalfinanciero.com  
-   Link: <a href="https://elcapitalfinanciero.com/panamenos-aficionados-a-la-astronomia-participan-en-el-descubrimiento-de-asteroide-en-fase-provisional/" target="_blank" rel="noopener noreferrer nofollow">https://elcapitalfinanciero.com/panamenos-aficionados-a-la-astronomia-participan-en-el-descubrimiento-de-asteroide-en-fase-provisional/</a>  
+   Link:<a href="https://elcapitalfinanciero.com/panamenos-aficionados-a-la-astronomia-participan-en-el-descubrimiento-de-asteroide-en-fase-provisional/" target="_blank" rel="noopener noreferrer nofollow">https://elcapitalfinanciero.com/panamenos-aficionados-a-la-astronomia-participan-en-el-descubrimiento-de-asteroide-en-fase-provisional/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DOskj_DEuuB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DOskj_DEuuB/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Man claims meteorite turned into sticky, smelly creatureThe viral “Panama Symbiote Alien” terrified millions after disturbing footage sho...</p></details>
+   Link:<a href="https://www.instagram.com/p/DOskj_DEuuB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DOskj_DEuuB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man claims meteorite turned into sticky, smelly creatureThe viral “Panama Symbiote Alien” terrified millions after disturbing footage sho...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DOlxdbZDhGW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOlxdbZDhGW/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n Panama. Drop your theories below!Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DOlxdbZDhGW/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOlxdbZDhGW/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n Panama. Drop your theories below!Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DR5F5IwjniH/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DR5F5IwjniH/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp;middot; ✨ Cierra la temporada seca 2026 con una velada bajo las estrellas. &amp;middot; ¡15 años...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DR5F5IwjniH/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DR5F5IwjniH/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp;middot; ✨ Cierra la temporada seca 2026 con una velada bajo las estrellas. &amp;middot; ¡15 años...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DV1OZkRgELf/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV1OZkRgELf/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>anetas, exoplanetas, galaxias y el universo ‍...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DV1OZkRgELf/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV1OZkRgELf/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anetas, exoplanetas, galaxias y el universo ‍...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
    Title: panama ufo explanation 2026  
-   Link: <a href="https://www.instagram.com/popular/panama-ufo-explanation-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/popular/panama-ufo-explanation-2026/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch short videos about panama ufo explanation 2026 from people around the world. Ufo 2026, Panama 2026, Panamas And More...</p></details>
+   Link:<a href="https://www.instagram.com/popular/panama-ufo-explanation-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/popular/panama-ufo-explanation-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch short videos about panama ufo explanation 2026 from people around the world. Ufo 2026, Panama 2026, Panamas And More...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/astropanama/about/?locale=hu_HU" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/astropanama/about/?locale=hu_HU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomia Panama APAAFue fundada el 3 de mayo 1984 en la República de Panamá. Nuestro objetivo principal es la promoción y divulgación d...</p></details>
+   Link:<a href="https://www.facebook.com/groups/astropanama/about/?locale=hu_HU" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/astropanama/about/?locale=hu_HU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomia Panama APAAFue fundada el 3 de mayo 1984 en la República de Panamá. Nuestro objetivo principal es la promoción y divulgación d...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/1980sgamer1/posts/world-map-showing-ufo-sightings/796506909982478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/1980sgamer1/posts/world-map-showing-ufo-sightings/796506909982478/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Map Showing UFO SightingsThis is the geography of UFOs. Like a geographical map of world religions, the non- random distribution of...</p></details>
+   Link:<a href="https://www.facebook.com/1980sgamer1/posts/world-map-showing-ufo-sightings/796506909982478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/1980sgamer1/posts/world-map-showing-ufo-sightings/796506909982478/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Map Showing UFO SightingsThis is the geography of UFOs. Like a geographical map of world religions, the non- random distribution of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: waze.com  
    Title: asociacion panamena de aficionados a la astronomia  
-   Link: <a href="https://www.waze.com/live-map/directions/pa/provincia-de-panama/panama/asociacion-panamena-de-aficionados-a-la-astronomia?to=place.ChIJiyn6V0CorI8RHJZNE7hMVSU" target="_blank" rel="noopener noreferrer nofollow">https://www.waze.com/live-map/directions/pa/provincia-de-panama/panama/asociacion-panamena-de-aficionados-a-la-astronomia?to=place.ChIJiyn6V0CorI8RHJZNE7hMVSU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asociación Panameña de Aficionados a la AstronomíaVía Ricardo J. Alfaro, Panamá, Provincia de Panamá, Panama. Open in Waze. 997-9750. Ope...</p></details>
+   Link:<a href="https://www.waze.com/live-map/directions/pa/provincia-de-panama/panama/asociacion-panamena-de-aficionados-a-la-astronomia?to=place.ChIJiyn6V0CorI8RHJZNE7hMVSU" target="_blank" rel="noopener noreferrer nofollow">https://www.waze.com/live-map/directions/pa/provincia-de-panama/panama/asociacion-panamena-de-aficionados-a-la-astronomia?to=place.ChIJiyn6V0CorI8RHJZNE7hMVSU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Asociación Panameña de Aficionados a la AstronomíaVía Ricardo J. Alfaro, Panamá, Provincia de Panamá, Panama. Open in Waze. 997-9750. Ope...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theinfomance/posts/panama-has-triggered-global-speculation-about-alien-life-after-he-claimed-a-mete/770738898922050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theinfomance/posts/panama-has-triggered-global-speculation-about-alien-life-after-he-claimed-a-mete/770738898922050/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>xtraterrestrial origins. According to this hypothesis...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/theinfomance/posts/panama-has-triggered-global-speculation-about-alien-life-after-he-claimed-a-mete/770738898922050/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theinfomance/posts/panama-has-triggered-global-speculation-about-alien-life-after-he-claimed-a-mete/770738898922050/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>xtraterrestrial origins. According to this hypothesis...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/funnyoldeworld/posts/the-radar-finds-what-history-denies/1489934242491281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/funnyoldeworld/posts/the-radar-finds-what-history-denies/1489934242491281/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rlines Flight 509 over Panama Canal Zone.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/funnyoldeworld/posts/the-radar-finds-what-history-denies/1489934242491281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/funnyoldeworld/posts/the-radar-finds-what-history-denies/1489934242491281/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rlines Flight 509 over Panama Canal Zone.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: We want *you* to vote in our  
-   Link: <a href="https://www.facebook.com/WKRG.News.5/posts/over-2000-ufo-sightings-have-been-reported-in-the-first-half-of-2025-according-t/1175942311239194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WKRG.News.5/posts/over-2000-ufo-sightings-have-been-reported-in-the-first-half-of-2025-according-t/1175942311239194/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Over 2000 UFO sightings have been reported in the first...Over 2,000 UFO sightings have been reported in the first half of 2025, accordi...</p></details>
+   Link:<a href="https://www.facebook.com/WKRG.News.5/posts/over-2000-ufo-sightings-have-been-reported-in-the-first-half-of-2025-according-t/1175942311239194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WKRG.News.5/posts/over-2000-ufo-sightings-have-been-reported-in-the-first-half-of-2025-according-t/1175942311239194/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Over 2000 UFO sightings have been reported in the first...Over 2,000 UFO sightings have been reported in the first half of 2025, accordi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: persono.io  
-   Link: <a href="https://persono.io/apps/profiles/0cdddfdd2395c7311eb88f25fa8ce30e" target="_blank" rel="noopener noreferrer nofollow">https://persono.io/apps/profiles/0cdddfdd2395c7311eb88f25fa8ce30e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PERSONA JURÍDICA) Folio Nº 2774 (M) - Accede a información sobre el registro mercantil...</p></details>
+   Link:<a href="https://persono.io/apps/profiles/0cdddfdd2395c7311eb88f25fa8ce30e" target="_blank" rel="noopener noreferrer nofollow">https://persono.io/apps/profiles/0cdddfdd2395c7311eb88f25fa8ce30e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PERSONA JURÍDICA) Folio Nº 2774 (M) - Accede a información sobre el registro mercantil...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Senior SETI Institute astronomer reacts to new Pentagon UFO files  
-   Link: <a href="https://www.youtube.com/watch?v=wPtvJrzxTrk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPtvJrzxTrk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every Pentagon UFO Video Explained - The 8 Pointed Star...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wPtvJrzxTrk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPtvJrzxTrk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every Pentagon UFO Video Explained - The 8 Pointed Star...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Every Pentagon UFO Video Explained  
-   Link: <a href="https://www.youtube.com/watch?v=d_-yNBQfP84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_-yNBQfP84</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP/Technosignatures: The Strange Case of the Palomar Transient...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d_-yNBQfP84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_-yNBQfP84</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP/Technosignatures: The Strange Case of the Palomar Transient...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: twitter.com  
-   Link: <a href="https://twitter.com/ApaaAstronomia/status/1526663646511759361" target="_blank" rel="noopener noreferrer nofollow">https://twitter.com/ApaaAstronomia/status/1526663646511759361</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomia Panama APAA (@ApaaAstronomia) on X17 May 2022 — Astronomia Panama APAA (@ApaaAstronomia). 16 likes... Astronomia Panama APAA...</p></details>
+   Link:<a href="https://twitter.com/ApaaAstronomia/status/1526663646511759361" target="_blank" rel="noopener noreferrer nofollow">https://twitter.com/ApaaAstronomia/status/1526663646511759361</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomia Panama APAA (@ApaaAstronomia) on X17 May 2022 — Astronomia Panama APAA (@ApaaAstronomia). 16 likes... Astronomia Panama APAA...</p></details>
    Published: May 2022  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1234337132028209/posts/1815291300599453/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1234337132028209/posts/1815291300599453/</a>
+   Link:<a href="https://www.facebook.com/groups/1234337132028209/posts/1815291300599453/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1234337132028209/posts/1815291300599453/</a>

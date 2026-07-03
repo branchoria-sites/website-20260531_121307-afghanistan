@@ -251,7 +251,7 @@ image: /assets/images/Sudan_1193ba_wartime_aerial_ambig_be4441-Illustration-1-so
 Since Sudan’s civil war expanded after April 2023, reports of strange lights, glowing objects, distant flashes, and unidentified aircraft have become much harder to interpret than they were during earlier decades. In many cases, what civilians describe as a “mysterious object” now exists in an airspace crowded with military drones, anti-aircraft fire, missiles, reconnaissance aircraft, electronic warfare, and burning infrastructure. The result is not necessarily more UFO activity. It is a sky environment where ordinary observers often lack the information needed to identify what they are seeing.
 
 <img src="{{ "/assets/images/Sudan_1193ba_wartime_aerial_ambig_be4441-Illustration-1-dark.svg" | relative_url }}" alt="War Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_wartime_aerial_ambig_be4441-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_wartime_aerial_ambig_be4441-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This shift matters when evaluating modern Sudanese UFO-style reports. A light over Khartoum or Port Sudan in 2025 is being observed under very different conditions from a similar sighting in peacetime. Military secrecy, disrupted communications, propaganda, and the rapid spread of videos on social media can all turn a conventional military event into an apparent mystery. Understanding modern unidentified lights over Sudan therefore requires understanding the war itself and how drone warfare has changed what appears in the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/sudan-shows-how-the-nature-of-war-is-changing-and-its-a-death-trap-for-civilians-13518316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News Sudan shows how the nature of war is changing</span><span class="citation-popover-snippet">Sky NewsSudan shows how the nature of war is changingMarch 11, 2026 — 12 Mar 2026 — Drone warfare has made Sudan&#x27;s war a death trap for a...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+This shift matters when evaluating modern Sudanese UFO-style reports. A light over Khartoum or Port Sudan in 2025 is being observed under very different conditions from a similar sighting in peacetime. Military secrecy, disrupted communications, propaganda, and the rapid spread of videos on social media can all turn a conventional military event into an apparent mystery. Understanding modern unidentified lights over Sudan therefore requires understanding the war itself and how drone warfare has changed what appears in the night sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/sudan-shows-how-the-nature-of-war-is-changing-and-its-a-death-trap-for-civilians-13518316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News Sudan shows how the nature of war is changing</span><span class="citation-popover-snippet">Sky NewsSudan shows how the nature of war is changingMarch 11, 2026 — 12 Mar 2026 — Drone warfare has made Sudan&#x27;s war a death trap for a...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 ## When conflict changes what people think they saw
 
@@ -274,13 +274,13 @@ Sudan’s modern sky-sighting environment resembles patterns seen in other activ
 
 </div>
 
-Each of these can potentially involve military drones, surveillance systems, interceptors, or damaged aircraft rather than unexplained craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/sudan-shows-how-the-nature-of-war-is-changing-and-its-a-death-trap-for-civilians-13518316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News Sudan shows how the nature of war is changing</span><span class="citation-popover-snippet">Sky NewsSudan shows how the nature of war is changingMarch 11, 2026 — 12 Mar 2026 — Drone warfare has made Sudan&#x27;s war a death trap for a...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://newlinesmag.com/reportage/drones-are-reshaping-sudans-civil-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newlinesmag.com">[New Lines Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newlinesmag.com</span><span class="citation-popover-title">drones are reshaping sudans civil war</span><span class="citation-popover-snippet">New Lines MagazineDrones Are Reshaping Sudan&#x27;s Civil War13 May 2026 — The imported devices have turned the country&#x27;s conflict into a camp...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Each of these can potentially involve military drones, surveillance systems, interceptors, or damaged aircraft rather than unexplained craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/sudan-shows-how-the-nature-of-war-is-changing-and-its-a-death-trap-for-civilians-13518316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News Sudan shows how the nature of war is changing</span><span class="citation-popover-snippet">Sky NewsSudan shows how the nature of war is changingMarch 11, 2026 — 12 Mar 2026 — Drone warfare has made Sudan&#x27;s war a death trap for a...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://newlinesmag.com/reportage/drones-are-reshaping-sudans-civil-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newlinesmag.com">[New Lines Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newlinesmag.com</span><span class="citation-popover-title">drones are reshaping sudans civil war</span><span class="citation-popover-snippet">New Lines MagazineDrones Are Reshaping Sudan&#x27;s Civil War13 May 2026 — The imported devices have turned the country&#x27;s conflict into a camp...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 ## Drones transformed Sudan’s skies
 
 One of the most important developments in the war has been the rapid expansion of drone operations by both the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF).
 
-Analysts, humanitarian organisations, journalists, and conflict-monitoring groups have documented a sharp increase in drone strikes across Sudan from 2024 onward. What began as a conflict dominated by artillery, aircraft, and ground combat increasingly evolved into a war involving long-range unmanned systems capable of reaching cities previously considered relatively safe. Sudan Tribune <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/sudan-shows-how-the-nature-of-war-is-changing-and-its-a-death-trap-for-civilians-13518316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News Sudan shows how the nature of war is changing</span><span class="citation-popover-snippet">Sky NewsSudan shows how the nature of war is changingMarch 11, 2026 — 12 Mar 2026 — Drone warfare has made Sudan&#x27;s war a death trap for a...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
+Analysts, humanitarian organisations, journalists, and conflict-monitoring groups have documented a sharp increase in drone strikes across Sudan from 2024 onward. What began as a conflict dominated by artillery, aircraft, and ground combat increasingly evolved into a war involving long-range unmanned systems capable of reaching cities previously considered relatively safe. Sudan Tribune<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/sudan-shows-how-the-nature-of-war-is-changing-and-its-a-death-trap-for-civilians-13518316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-title">News Sudan shows how the nature of war is changing</span><span class="citation-popover-snippet">Sky NewsSudan shows how the nature of war is changingMarch 11, 2026 — 12 Mar 2026 — Drone warfare has made Sudan&#x27;s war a death trap for a...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
 For civilians, drones create a new category of aerial mystery because they often differ from familiar aircraft in several ways:
 
@@ -297,7 +297,7 @@ For civilians, drones create a new category of aerial mystery because they often
 
 A person unfamiliar with military drone operations may reasonably interpret such behaviour as unusual or unknown. In a conflict zone, however, unusual does not automatically mean anomalous.
 
-Reports from humanitarian organisations and conflict researchers show that drone attacks now occur across multiple Sudanese regions, extending far beyond the initial battle zones around Khartoum. This expansion means that sightings once considered rare are becoming part of everyday wartime experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sudantribune.com/article/310795" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudantribune.com">[Sudan Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudantribune.com</span><span class="citation-popover-snippet">Sudan TribuneSudan drone warfare kills thousands as both sides secure...17 Feb 2026 — The war in Sudan during 2024 and 2025 has seen a r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reliefweb.int/report/sudan/drone-strikes-repeatedly-hit-civilian-areas-sudan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[ReliefWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">drone strikes repeatedly hit civilian areas sudan</span><span class="citation-popover-snippet">Drone strikes repeatedly hit civilian areas in Sudan19 Feb 2026 — After drone strikes on November 3 in North Darfur, MSF was forced to wi...</span></span></span>
+Reports from humanitarian organisations and conflict researchers show that drone attacks now occur across multiple Sudanese regions, extending far beyond the initial battle zones around Khartoum. This expansion means that sightings once considered rare are becoming part of everyday wartime experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sudantribune.com/article/310795" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sudantribune.com">[Sudan Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sudantribune.com</span><span class="citation-popover-snippet">Sudan TribuneSudan drone warfare kills thousands as both sides secure...17 Feb 2026 — The war in Sudan during 2024 and 2025 has seen a r...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://reliefweb.int/report/sudan/drone-strikes-repeatedly-hit-civilian-areas-sudan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[ReliefWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">drone strikes repeatedly hit civilian areas sudan</span><span class="citation-popover-snippet">Drone strikes repeatedly hit civilian areas in Sudan19 Feb 2026 — After drone strikes on November 3 in North Darfur, MSF was forced to wi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lpuzufQNOvU" title="As Sudan marks Ramadan, how are killer drones altering the battlefield? | The Take" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lpuzufQNOvU" target="_blank" rel="noopener noreferrer">As Sudan marks Ramadan, how are killer drones altering the battlefield? | The Take</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 7.5K &middot; Uploaded: February 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lpuzufQNOvU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lpuzufQNOvU">Open on YouTube</a></p></div></div></div>
 
@@ -305,9 +305,9 @@ Reports from humanitarian organisations and conflict researchers show that drone
 
 Port Sudan offers a useful example of how modern warfare can generate UFO-like reports.
 
-For much of the conflict, the city functioned as Sudan’s administrative and humanitarian centre after government institutions relocated away from Khartoum. Because it was comparatively distant from the earliest front lines, many residents were not accustomed to regular air attacks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crisisgroup.org/alr/africa/sudan/drone-attacks-port-sudan-mark-dramatic-escalation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crisisgroup.org">[Crisis Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crisisgroup.org</span><span class="citation-popover-snippet">Crisis GroupDrone Attacks on Port Sudan Mark Dramatic Escalation7 May 2025 — For three consecutive days, from 4-6 May, drone attacks shoo...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+For much of the conflict, the city functioned as Sudan’s administrative and humanitarian centre after government institutions relocated away from Khartoum. Because it was comparatively distant from the earliest front lines, many residents were not accustomed to regular air attacks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crisisgroup.org/alr/africa/sudan/drone-attacks-port-sudan-mark-dramatic-escalation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crisisgroup.org">[Crisis Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crisisgroup.org</span><span class="citation-popover-snippet">Crisis GroupDrone Attacks on Port Sudan Mark Dramatic Escalation7 May 2025 — For three consecutive days, from 4-6 May, drone attacks shoo...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-The situation changed dramatically during the drone attacks of May 2025. Repeated strikes targeted infrastructure including airports, fuel facilities, military sites, and other strategic locations. Residents reported explosions, fires, aerial interceptions, and objects moving through the night sky over several consecutive days. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eeas.europa.eu/eeas/sudan-statement-spokesperson-attacks-port-sudan_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeas.europa.eu">[European External Action Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeas.europa.eu</span><span class="citation-popover-snippet">The EU unequivocally condemns the RSF&#x27;s use of drone strikes against civilian and key targets.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crisisgroup.org/alr/africa/sudan/drone-attacks-port-sudan-mark-dramatic-escalation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crisisgroup.org">[Crisis Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crisisgroup.org</span><span class="citation-popover-snippet">Crisis GroupDrone Attacks on Port Sudan Mark Dramatic Escalation7 May 2025 — For three consecutive days, from 4-6 May, drone attacks shoo...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia From a UFO-analysis perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2025 East Sudan drone attacks</span><span class="citation-popover-snippet">2025 East Sudan drone attacks</span></span></span>, these conditions are significant because they create several sources of visual confusion:
+The situation changed dramatically during the drone attacks of May 2025. Repeated strikes targeted infrastructure including airports, fuel facilities, military sites, and other strategic locations. Residents reported explosions, fires, aerial interceptions, and objects moving through the night sky over several consecutive days.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eeas.europa.eu/eeas/sudan-statement-spokesperson-attacks-port-sudan_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eeas.europa.eu">[European External Action Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eeas.europa.eu</span><span class="citation-popover-snippet">The EU unequivocally condemns the RSF&#x27;s use of drone strikes against civilian and key targets.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crisisgroup.org/alr/africa/sudan/drone-attacks-port-sudan-mark-dramatic-escalation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crisisgroup.org">[Crisis Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crisisgroup.org</span><span class="citation-popover-snippet">Crisis GroupDrone Attacks on Port Sudan Mark Dramatic Escalation7 May 2025 — For three consecutive days, from 4-6 May, drone attacks shoo...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia From a UFO-analysis perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2025 East Sudan drone attacks</span><span class="citation-popover-snippet">2025 East Sudan drone attacks</span></span></span>, these conditions are significant because they create several sources of visual confusion:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -341,7 +341,7 @@ When forces attempt to shoot down drones, civilians may witness events that look
 
 The human eye is particularly vulnerable to misjudging speed, distance, and direction at night. A drone being engaged several kilometres away can appear far larger or stranger than it actually is.
 
-Several reported attacks on Sudanese cities involved claims that drones were intercepted by air-defence systems before reaching their targets. Residents observing only part of these engagements might see lights manoeuvring or exploding without any clear understanding of the military activity taking place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/bc6346acd2f99586e1ffbe188ddfc896" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">This latest incident underscores the ongoing conflict between Sudan&#x27;s army and the RSF, which began in April 2023 and has now entered its...</span><span class="citation-popover-meta">Published: April 2023</span></span></span>
+Several reported attacks on Sudanese cities involved claims that drones were intercepted by air-defence systems before reaching their targets. Residents observing only part of these engagements might see lights manoeuvring or exploding without any clear understanding of the military activity taking place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/bc6346acd2f99586e1ffbe188ddfc896" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">This latest incident underscores the ongoing conflict between Sudan&#x27;s army and the RSF, which began in April 2023 and has now entered its...</span><span class="citation-popover-meta">Published: April 2023</span></span></span>
 
 This is one reason modern conflict zones often generate reports that initially sound extraordinary but later prove consistent with known military operations.
 
@@ -370,7 +370,7 @@ Different political factions may promote conflicting explanations.
 
 Neither side necessarily confirms operational details quickly.
 
-Investigative projects focused on Sudan increasingly rely on geolocation, satellite imagery, and open-source intelligence techniques to reconstruct events that would otherwise remain unclear. Those methods are often more useful than eyewitness testimony alone when assessing alleged unidentified aerial phenomena in wartime conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/thomsonfoundation/posts/the-%F0%9D%97%A6%F0%9D%98%82%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%97%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%83%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%9B%F0%9D%98%82%F0%9D%97%AF-is-now-live-the-new-online-platform-supports/1372465021581435/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The 𝗦𝘂𝗱𝗮𝗻 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗜𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗛𝘂𝗯...The Sudan Digital Investigation Hub is now live. The new online platform supports investig...</span></span></span>
+Investigative projects focused on Sudan increasingly rely on geolocation, satellite imagery, and open-source intelligence techniques to reconstruct events that would otherwise remain unclear. Those methods are often more useful than eyewitness testimony alone when assessing alleged unidentified aerial phenomena in wartime conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/thomsonfoundation/posts/the-%F0%9D%97%A6%F0%9D%98%82%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%97%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%83%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%9B%F0%9D%98%82%F0%9D%97%AF-is-now-live-the-new-online-platform-supports/1372465021581435/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The 𝗦𝘂𝗱𝗮𝗻 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗜𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗛𝘂𝗯...The Sudan Digital Investigation Hub is now live. The new online platform supports investig...</span></span></span>
 
 <img src="{{ "/assets/images/Sudan_1193ba_wartime_aerial_ambig_be4441-Illustration-3-dark.svg" | relative_url }}" alt="War Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Sudan_1193ba_wartime_aerial_ambig_be4441-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sudan_1193ba_wartime_aerial_ambig_be4441-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Separating UFO claims from military activity
@@ -418,199 +418,199 @@ Even then, unresolved is not the same as extraordinary. It may simply mean that 
 
 Sudan’s recent experience demonstrates how warfare can manufacture aerial mysteries without requiring exotic explanations.
 
-The country’s best-known modern unidentified-light case—the 2018 Khartoum sighting later linked to SpaceX’s Zuma mission—showed how a dramatic sky event can appear extraordinary until aerospace evidence provides an explanation. The civil war has multiplied the number of situations in which similar misunderstandings can occur. Military drones, air-defence interceptions, long-range strikes, burning infrastructure, and fragmented information flows now generate conditions where unusual lights are frequently seen but rarely understood in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crisisgroup.org/alr/africa/sudan/drone-attacks-port-sudan-mark-dramatic-escalation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crisisgroup.org">[Crisis Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crisisgroup.org</span><span class="citation-popover-snippet">Crisis GroupDrone Attacks on Port Sudan Mark Dramatic Escalation7 May 2025 — For three consecutive days, from 4-6 May, drone attacks shoo...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://reliefweb.int/report/sudan/drone-strikes-repeatedly-hit-civilian-areas-sudan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[Sudan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">drone strikes repeatedly hit civilian areas sudan</span><span class="citation-popover-snippet">Drone strikes repeatedly hit civilian areas in Sudan19 Feb 2026 — After drone strikes on November 3 in North Darfur, MSF was forced to wi...</span></span></span>
+The country’s best-known modern unidentified-light case—the 2018 Khartoum sighting later linked to SpaceX’s Zuma mission—showed how a dramatic sky event can appear extraordinary until aerospace evidence provides an explanation. The civil war has multiplied the number of situations in which similar misunderstandings can occur. Military drones, air-defence interceptions, long-range strikes, burning infrastructure, and fragmented information flows now generate conditions where unusual lights are frequently seen but rarely understood in real time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.crisisgroup.org/alr/africa/sudan/drone-attacks-port-sudan-mark-dramatic-escalation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crisisgroup.org">[Crisis Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crisisgroup.org</span><span class="citation-popover-snippet">Crisis GroupDrone Attacks on Port Sudan Mark Dramatic Escalation7 May 2025 — For three consecutive days, from 4-6 May, drone attacks shoo...</span><span class="citation-popover-meta">Published: May 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://reliefweb.int/report/sudan/drone-strikes-repeatedly-hit-civilian-areas-sudan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reliefweb.int">[Sudan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reliefweb.int</span><span class="citation-popover-title">drone strikes repeatedly hit civilian areas sudan</span><span class="citation-popover-snippet">Drone strikes repeatedly hit civilian areas in Sudan19 Feb 2026 — After drone strikes on November 3 in North Darfur, MSF was forced to wi...</span></span></span>
 
 For researchers examining UFO claims in Sudan, the key challenge is therefore not proving that witnesses saw nothing. It is determining whether an observation occurred within a wartime environment already capable of producing the same visual effects through known technology. As drone warfare spreads across more of the country, that question becomes increasingly important whenever a new unidentified light appears over Sudanese skies.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When War Turns Lights Into Mysteries. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When War Turns Lights Into Mysteries. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Shows how advanced aircraft and secret military projects generate mystery sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how advanced aircraft and secret military projects generate mystery sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
-        </h4>
-        <p class="fr-book-author">By Medea Benjamin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drone Warfare on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e2vnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drone Warfare" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
+</h4>
+<p class="fr-book-author">By Medea Benjamin</p>
         
-        <p class="fr-book-desc">Directly relevant to identifying wartime aerial activity in modern conflicts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to identifying wartime aerial activity in modern conflicts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drone+Warfare+by+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explains how witnesses and investigators approach unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how witnesses and investigators approach unexplained aerial reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides context on secret programs and defense technologies often linked to UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on secret programs and defense technologies often linked to UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drone+Warfare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drone Warfare</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-war-turns-lights-into-mysteries-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-war-turns-lights-into-mysteries-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ For researchers examining UFO claims in Sudan, the key challenge is therefore no
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ For researchers examining UFO claims in Sudan, the key challenge is therefore no
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ For researchers examining UFO claims in Sudan, the key challenge is therefore no
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ For researchers examining UFO claims in Sudan, the key challenge is therefore no
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ For researchers examining UFO claims in Sudan, the key challenge is therefore no
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -813,225 +813,224 @@ For researchers examining UFO claims in Sudan, the key challenge is therefore no
 })();
 </script>
 </section>
-
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.sky.com  
    Title: News Sudan shows how the nature of war is changing  
-   Link: <a href="https://news.sky.com/story/sudan-shows-how-the-nature-of-war-is-changing-and-its-a-death-trap-for-civilians-13518316" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/sudan-shows-how-the-nature-of-war-is-changing-and-its-a-death-trap-for-civilians-13518316</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsSudan shows how the nature of war is changingMarch 11, 2026 — 12 Mar 2026 — Drone warfare has made Sudan&#x27;s war a death trap for a...</p></details>
+   Link:<a href="https://news.sky.com/story/sudan-shows-how-the-nature-of-war-is-changing-and-its-a-death-trap-for-civilians-13518316" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/sudan-shows-how-the-nature-of-war-is-changing-and-its-a-death-trap-for-civilians-13518316</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsSudan shows how the nature of war is changingMarch 11, 2026 — 12 Mar 2026 — Drone warfare has made Sudan&#x27;s war a death trap for a...</p></details>
    Published: March 11, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reliefweb.int  
    Title: drone strikes repeatedly hit civilian areas sudan  
-   Link: <a href="https://reliefweb.int/report/sudan/drone-strikes-repeatedly-hit-civilian-areas-sudan" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/sudan/drone-strikes-repeatedly-hit-civilian-areas-sudan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone strikes repeatedly hit civilian areas in Sudan19 Feb 2026 — After drone strikes on November 3 in North Darfur, MSF was forced to wi...</p></details>
+   Link:<a href="https://reliefweb.int/report/sudan/drone-strikes-repeatedly-hit-civilian-areas-sudan" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/sudan/drone-strikes-repeatedly-hit-civilian-areas-sudan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone strikes repeatedly hit civilian areas in Sudan19 Feb 2026 — After drone strikes on November 3 in North Darfur, MSF was forced to wi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reliefweb.int  
    Title: acaps thematic report sudan risk continued drone strikes port sudan  
-   Link: <a href="https://reliefweb.int/report/sudan/acaps-thematic-report-sudan-risk-continued-drone-strikes-port-sudan" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/sudan/acaps-thematic-report-sudan-risk-continued-drone-strikes-port-sudan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk of continued drone strikes on Port Sudan23 May 2025 — On 4 May 2025, the Rapid Support Forces (RSF) launched a series of drone strik...</p></details>
+   Link:<a href="https://reliefweb.int/report/sudan/acaps-thematic-report-sudan-risk-continued-drone-strikes-port-sudan" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/sudan/acaps-thematic-report-sudan-risk-continued-drone-strikes-port-sudan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risk of continued drone strikes on Port Sudan23 May 2025 — On 4 May 2025, the Rapid Support Forces (RSF) launched a series of drone strik...</p></details>
    Published: May 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 2025 East Sudan drone attacks  
-   Link: <a href="https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2025_East_Sudan_drone_attacks</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thomsonfoundation/posts/the-%F0%9D%97%A6%F0%9D%98%82%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%97%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%83%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%9B%F0%9D%98%82%F0%9D%97%AF-is-now-live-the-new-online-platform-supports/1372465021581435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thomsonfoundation/posts/the-%F0%9D%97%A6%F0%9D%98%82%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%97%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%83%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%9B%F0%9D%98%82%F0%9D%97%AF-is-now-live-the-new-online-platform-supports/1372465021581435/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 𝗦𝘂𝗱𝗮𝗻 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗜𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗛𝘂𝗯...The Sudan Digital Investigation Hub is now live. The new online platform supports investig...</p></details>
+   Link:<a href="https://www.facebook.com/thomsonfoundation/posts/the-%F0%9D%97%A6%F0%9D%98%82%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%97%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%83%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%9B%F0%9D%98%82%F0%9D%97%AF-is-now-live-the-new-online-platform-supports/1372465021581435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thomsonfoundation/posts/the-%F0%9D%97%A6%F0%9D%98%82%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%97%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%83%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%9B%F0%9D%98%82%F0%9D%97%AF-is-now-live-the-new-online-platform-supports/1372465021581435/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 𝗦𝘂𝗱𝗮𝗻 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗜𝗻𝘃𝗲𝘀𝘁𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗛𝘂𝗯...The Sudan Digital Investigation Hub is now live. The new online platform supports investig...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Civilian casualty  
-   Link: <a href="https://en.wikipedia.org/wiki/Civilian_casualty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Civilian_casualty</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civilian casualty - WikipediaArmed drones leading cause of civilian death in Sudan war...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Civilian_casualty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Civilian_casualty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Civilian casualty - WikipediaArmed drones leading cause of civilian death in Sudan war...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cgtnafrica/posts/five-people-were-killed-on-saturday-after-a-drone-strike-hit-a-civilian-vehicle-/1447265167439863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cgtnafrica/posts/five-people-were-killed-on-saturday-after-a-drone-strike-hit-a-civilian-vehicle-/1447265167439863/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Five people were killed on Saturday after a drone strike hit...ALL EYES ON SUDAN December 14, 2025 At least nine Sudanese civilians have...</p></details>
+   Link:<a href="https://www.facebook.com/cgtnafrica/posts/five-people-were-killed-on-saturday-after-a-drone-strike-hit-a-civilian-vehicle-/1447265167439863/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cgtnafrica/posts/five-people-were-killed-on-saturday-after-a-drone-strike-hit-a-civilian-vehicle-/1447265167439863/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five people were killed on Saturday after a drone strike hit...ALL EYES ON SUDAN December 14, 2025 At least nine Sudanese civilians have...</p></details>
    Published: December 14, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnninternational/posts/in-an-exclusive-report-cnns-nada-bashir-in-collaboration-with-investigative-news/1233856458609403/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnninternational/posts/in-an-exclusive-report-cnns-nada-bashir-in-collaboration-with-investigative-news/1233856458609403/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In an exclusive report, CNN&#x27;s Nada Bashir in collaboration...A Sky News joint investigation with Sudan War Monitor and Lighthouse Reports...</p></details>
+   Link:<a href="https://www.facebook.com/cnninternational/posts/in-an-exclusive-report-cnns-nada-bashir-in-collaboration-with-investigative-news/1233856458609403/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnninternational/posts/in-an-exclusive-report-cnns-nada-bashir-in-collaboration-with-investigative-news/1233856458609403/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In an exclusive report, CNN&#x27;s Nada Bashir in collaboration...A Sky News joint investigation with Sudan War Monitor and Lighthouse Reports...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cgtnafrica/posts/sudanese-armed-forces-shoot-down-rsf-drone-the-sudanese-armed-forces-saf-said-it/1299973325502382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cgtnafrica/posts/sudanese-armed-forces-shoot-down-rsf-drone-the-sudanese-armed-forces-saf-said-it/1299973325502382/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>base and other facilities near Port Sudan&#x27;s airport, the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cgtnafrica/posts/sudanese-armed-forces-shoot-down-rsf-drone-the-sudanese-armed-forces-saf-said-it/1299973325502382/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cgtnafrica/posts/sudanese-armed-forces-shoot-down-rsf-drone-the-sudanese-armed-forces-saf-said-it/1299973325502382/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>base and other facilities near Port Sudan&#x27;s airport, the...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AddisstandardEng/posts/sudan-drone-warfare-kills-thousands-as-both-sides-secure-advanced-technologydron/1334981605333739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AddisstandardEng/posts/sudan-drone-warfare-kills-thousands-as-both-sides-secure-advanced-technologydron/1334981605333739/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>litary air base and other facilities near Port Sudan&#x27;s airport...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AddisstandardEng/posts/sudan-drone-warfare-kills-thousands-as-both-sides-secure-advanced-technologydron/1334981605333739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AddisstandardEng/posts/sudan-drone-warfare-kills-thousands-as-both-sides-secure-advanced-technologydron/1334981605333739/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>litary air base and other facilities near Port Sudan&#x27;s airport...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: drone strikes intensified across sudan in 2025 from january through november acl  
-   Link: <a href="https://www.facebook.com/ACLEDINFO/posts/drone-strikes-intensified-across-sudan-in-2025-from-january-through-november-acl/1295077769305867/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ACLEDINFO/posts/drone-strikes-intensified-across-sudan-in-2025-from-january-through-november-acl/1295077769305867/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Dec 2025 — Drone strikes intensified across #Sudan in 2025. From January through November, ACLED records 47% more drone strikes than i...</p></details>
+   Link:<a href="https://www.facebook.com/ACLEDINFO/posts/drone-strikes-intensified-across-sudan-in-2025-from-january-through-november-acl/1295077769305867/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ACLEDINFO/posts/drone-strikes-intensified-across-sudan-in-2025-from-january-through-november-acl/1295077769305867/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Dec 2025 — Drone strikes intensified across #Sudan in 2025. From January through November, ACLED records 47% more drone strikes than i...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reliefweb.int  
    Title: sudan ingos sound alarm drone strikes devastate civilians and civilian objects  
-   Link: <a href="https://reliefweb.int/report/sudan/sudan-ingos-sound-alarm-drone-strikes-devastate-civilians-and-civilian-objects" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/sudan/sudan-ingos-sound-alarm-drone-strikes-devastate-civilians-and-civilian-objects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://reliefweb.int/report/sudan/sudan-ingos-sound-alarm-drone-strikes-devastate-civilians-and-civilian-objects" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/sudan/sudan-ingos-sound-alarm-drone-strikes-devastate-civilians-and-civilian-objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lpuzufQNOvU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpuzufQNOvU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan army says UAE and Ethiopia linked to Khartoum drone attack...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lpuzufQNOvU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpuzufQNOvU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan army says UAE and Ethiopia linked to Khartoum drone attack...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Sudan army says UAE and Ethiopia linked to Khartoum drone attack  
-   Link: <a href="https://www.youtube.com/watch?v=LPe8XUF86PM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LPe8XUF86PM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Attacks Shatter Months of Relative Calm in Sudan&#x27;s Capital Khartoum | GRAVITAS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LPe8XUF86PM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LPe8XUF86PM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Attacks Shatter Months of Relative Calm in Sudan&#x27;s Capital Khartoum | GRAVITAS...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sudantribune.com  
-   Link: <a href="https://sudantribune.com/article/310795" target="_blank" rel="noopener noreferrer nofollow">https://sudantribune.com/article/310795</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan TribuneSudan drone warfare kills thousands as both sides secure...17 Feb 2026 — The war in Sudan during 2024 and 2025 has seen a r...</p></details>
+   Link:<a href="https://sudantribune.com/article/310795" target="_blank" rel="noopener noreferrer nofollow">https://sudantribune.com/article/310795</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan TribuneSudan drone warfare kills thousands as both sides secure...17 Feb 2026 — The war in Sudan during 2024 and 2025 has seen a r...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: newlinesmag.com  
    Title: drones are reshaping sudans civil war  
-   Link: <a href="https://newlinesmag.com/reportage/drones-are-reshaping-sudans-civil-war/" target="_blank" rel="noopener noreferrer nofollow">https://newlinesmag.com/reportage/drones-are-reshaping-sudans-civil-war/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Lines MagazineDrones Are Reshaping Sudan&#x27;s Civil War13 May 2026 — The imported devices have turned the country&#x27;s conflict into a camp...</p></details>
+   Link:<a href="https://newlinesmag.com/reportage/drones-are-reshaping-sudans-civil-war/" target="_blank" rel="noopener noreferrer nofollow">https://newlinesmag.com/reportage/drones-are-reshaping-sudans-civil-war/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Lines MagazineDrones Are Reshaping Sudan&#x27;s Civil War13 May 2026 — The imported devices have turned the country&#x27;s conflict into a camp...</p></details>
    Published: May 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ohchr.org  
    Title: sudan sharp increase civilian deaths result growing drone warfare  
-   Link: <a href="https://www.ohchr.org/en/press-briefing-notes/2026/03/sudan-sharp-increase-civilian-deaths-result-growing-drone-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/en/press-briefing-notes/2026/03/sudan-sharp-increase-civilian-deaths-result-growing-drone-warfare</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan: Sharp increase in civilian deaths as a result of...24 Mar 2026 — A sharp increase in the use of drones to conduct airstrikes this...</p></details>
+   Link:<a href="https://www.ohchr.org/en/press-briefing-notes/2026/03/sudan-sharp-increase-civilian-deaths-result-growing-drone-warfare" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/en/press-briefing-notes/2026/03/sudan-sharp-increase-civilian-deaths-result-growing-drone-warfare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan: Sharp increase in civilian deaths as a result of...24 Mar 2026 — A sharp increase in the use of drones to conduct airstrikes this...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: crisisgroup.org  
-   Link: <a href="https://www.crisisgroup.org/alr/africa/sudan/drone-attacks-port-sudan-mark-dramatic-escalation" target="_blank" rel="noopener noreferrer nofollow">https://www.crisisgroup.org/alr/africa/sudan/drone-attacks-port-sudan-mark-dramatic-escalation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis GroupDrone Attacks on Port Sudan Mark Dramatic Escalation7 May 2025 — For three consecutive days, from 4-6 May, drone attacks shoo...</p></details>
+   Link:<a href="https://www.crisisgroup.org/alr/africa/sudan/drone-attacks-port-sudan-mark-dramatic-escalation" target="_blank" rel="noopener noreferrer nofollow">https://www.crisisgroup.org/alr/africa/sudan/drone-attacks-port-sudan-mark-dramatic-escalation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis GroupDrone Attacks on Port Sudan Mark Dramatic Escalation7 May 2025 — For three consecutive days, from 4-6 May, drone attacks shoo...</p></details>
    Published: May 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: eeas.europa.eu  
-   Link: <a href="https://www.eeas.europa.eu/eeas/sudan-statement-spokesperson-attacks-port-sudan_en" target="_blank" rel="noopener noreferrer nofollow">https://www.eeas.europa.eu/eeas/sudan-statement-spokesperson-attacks-port-sudan_en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The EU unequivocally condemns the RSF&#x27;s use of drone strikes against civilian and key targets.Read more...</p></details>
+   Link:<a href="https://www.eeas.europa.eu/eeas/sudan-statement-spokesperson-attacks-port-sudan_en" target="_blank" rel="noopener noreferrer nofollow">https://www.eeas.europa.eu/eeas/sudan-statement-spokesperson-attacks-port-sudan_en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The EU unequivocally condemns the RSF&#x27;s use of drone strikes against civilian and key targets.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/bc6346acd2f99586e1ffbe188ddfc896" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/bc6346acd2f99586e1ffbe188ddfc896</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This latest incident underscores the ongoing conflict between Sudan&#x27;s army and the RSF, which began in April 2023 and has now entered its...</p></details>
+   Link:<a href="https://apnews.com/article/bc6346acd2f99586e1ffbe188ddfc896" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/bc6346acd2f99586e1ffbe188ddfc896</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This latest incident underscores the ongoing conflict between Sudan&#x27;s army and the RSF, which began in April 2023 and has now entered its...</p></details>
    Published: April 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sudantribune.com  
    Title: Sudanese army drone strike kills two in West Darfur4 days ago —  
-   Link: <a href="https://sudantribune.com/article/313882" target="_blank" rel="noopener noreferrer nofollow">https://sudantribune.com/article/313882</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 13, 2026 (EL GENEINA) – At least two people were killed and several others injured on Tuesday following a drone strike, likely carrie...</p></details>
+   Link:<a href="https://sudantribune.com/article/313882" target="_blank" rel="noopener noreferrer nofollow">https://sudantribune.com/article/313882</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 13, 2026 (EL GENEINA) – At least two people were killed and several others injured on Tuesday following a drone strike, likely carrie...</p></details>
    Published: May 13, 2026  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sudantribune.com  
    Title: RS F Drone Strike Kills Five Civilians South of Omdurman  
-   Link: <a href="https://sudantribune.com/article/313428" target="_blank" rel="noopener noreferrer nofollow">https://sudantribune.com/article/313428</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RSF Drone Strike Kills Five Civilians South of OmdurmanMay 2, 2026 (KHARTOUM) – At least five people were killed on Saturday when a drone...</p></details>
+   Link:<a href="https://sudantribune.com/article/313428" target="_blank" rel="noopener noreferrer nofollow">https://sudantribune.com/article/313428</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSF Drone Strike Kills Five Civilians South of OmdurmanMay 2, 2026 (KHARTOUM) – At least five people were killed on Saturday when a drone...</p></details>
    Published: May 2, 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Title: sudan drone strikes civilian targets north darfur market north kordofan truck  
-   Link: <a href="https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two drone strikes on civilian targets kill 28 people in Sudan26 Mar 2026 — At least 28 civilians have been killed in two separate drone s...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two drone strikes on civilian targets kill 28 people in Sudan26 Mar 2026 — At least 28 civilians have been killed in two separate drone s...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=O43uWS0Btps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O43uWS0Btps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>able of hitting cities 1,200 km away and with precision...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O43uWS0Btps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O43uWS0Btps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>able of hitting cities 1,200 km away and with precision...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DwfLlExvMJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DwfLlExvMJ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones are now reportedly striking residential areas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DwfLlExvMJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DwfLlExvMJ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drones are now reportedly striking residential areas...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: msf.org  
    Title: sudan strike hospitals results 10 fatalities including 7 medical staff  
-   Link: <a href="https://www.msf.org/sudan-strike-hospitals-results-10-fatalities-including-7-medical-staff" target="_blank" rel="noopener noreferrer nofollow">https://www.msf.org/sudan-strike-hospitals-results-10-fatalities-including-7-medical-staff</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan: Strike on hospitals results in 10 fatalities, including...2 Apr 2026 — On 2 April 2026, a drone attack reportedly carried out by...</p></details>
+   Link:<a href="https://www.msf.org/sudan-strike-hospitals-results-10-fatalities-including-7-medical-staff" target="_blank" rel="noopener noreferrer nofollow">https://www.msf.org/sudan-strike-hospitals-results-10-fatalities-including-7-medical-staff</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan: Strike on hospitals results in 10 fatalities, including...2 Apr 2026 — On 2 April 2026, a drone attack reportedly carried out by...</p></details>
    Published: April 2026  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: acleddata.com  
    Title: sudan shows how nature war changing and its death trap civilians sky news  
-   Link: <a href="https://acleddata.com/media-citation/sudan-shows-how-nature-war-changing-and-its-death-trap-civilians-sky-news" target="_blank" rel="noopener noreferrer nofollow">https://acleddata.com/media-citation/sudan-shows-how-nature-war-changing-and-its-death-trap-civilians-sky-news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan shows how the nature of war is changing12 Mar 2026 — ACLED, an independent global monitor, has documented at least 198 drone strike...</p></details>
+   Link:<a href="https://acleddata.com/media-citation/sudan-shows-how-nature-war-changing-and-its-death-trap-civilians-sky-news" target="_blank" rel="noopener noreferrer nofollow">https://acleddata.com/media-citation/sudan-shows-how-nature-war-changing-and-its-death-trap-civilians-sky-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sudan shows how the nature of war is changing12 Mar 2026 — ACLED, an independent global monitor, has documented at least 198 drone strike...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: doctorswithoutborders.org  
-   Link: <a href="https://www.doctorswithoutborders.org/latest/drone-strikes-repeatedly-hit-civilian-areas-sudan" target="_blank" rel="noopener noreferrer nofollow">https://www.doctorswithoutborders.org/latest/drone-strikes-repeatedly-hit-civilian-areas-sudan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone strikes repeatedly hit civilian areas in SudanDrone attacks carried out by the Sudanese Armed Forces (SAF) and Rapid Support Forces...</p></details>
+   Link:<a href="https://www.doctorswithoutborders.org/latest/drone-strikes-repeatedly-hit-civilian-areas-sudan" target="_blank" rel="noopener noreferrer nofollow">https://www.doctorswithoutborders.org/latest/drone-strikes-repeatedly-hit-civilian-areas-sudan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone strikes repeatedly hit civilian areas in SudanDrone attacks carried out by the Sudanese Armed Forces (SAF) and Rapid Support Forces...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: adf-magazine.com  
    Title: port sudan drone attacks could lead to broader regional war analysts warn  
-   Link: <a href="https://adf-magazine.com/2025/06/port-sudan-drone-attacks-could-lead-to-broader-regional-war-analysts-warn/" target="_blank" rel="noopener noreferrer nofollow">https://adf-magazine.com/2025/06/port-sudan-drone-attacks-could-lead-to-broader-regional-war-analysts-warn/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Port Sudan Drone Attacks Could Lead to Broader Regional...3 Jun 2025 — A kamikaze drone attack on Sudan&#x27;s wartime capital, Port Sudan, i...</p></details>
+   Link:<a href="https://adf-magazine.com/2025/06/port-sudan-drone-attacks-could-lead-to-broader-regional-war-analysts-warn/" target="_blank" rel="noopener noreferrer nofollow">https://adf-magazine.com/2025/06/port-sudan-drone-attacks-could-lead-to-broader-regional-war-analysts-warn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Port Sudan Drone Attacks Could Lead to Broader Regional...3 Jun 2025 — A kamikaze drone attack on Sudan&#x27;s wartime capital, Port Sudan, i...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: aljazeera.com  
    Title: drone strike plunges sudan major cities into darkness as civil war rages  
-   Link: <a href="https://www.aljazeera.com/news/2025/12/18/drone-strike-plunges-sudan-major-cities-into-darkness-as-civil-war-rages" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2025/12/18/drone-strike-plunges-sudan-major-cities-into-darkness-as-civil-war-rages</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone strike plunges Sudan major cities into darkness as...Dec 18, 2025 — Blackouts hit Khartoum and Port Sudan as intensifying drone wa...</p></details>
+   Link:<a href="https://www.aljazeera.com/news/2025/12/18/drone-strike-plunges-sudan-major-cities-into-darkness-as-civil-war-rages" target="_blank" rel="noopener noreferrer nofollow">https://www.aljazeera.com/news/2025/12/18/drone-strike-plunges-sudan-major-cities-into-darkness-as-civil-war-rages</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone strike plunges Sudan major cities into darkness as...Dec 18, 2025 — Blackouts hit Khartoum and Port Sudan as intensifying drone wa...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: africansecurityanalysis.com  
-   Link: <a href="https://www.africansecurityanalysis.com/reports/escalating-drone-warfare-intensifies-sudan-conflict" target="_blank" rel="noopener noreferrer nofollow">https://www.africansecurityanalysis.com/reports/escalating-drone-warfare-intensifies-sudan-conflict</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Escalating Drone Warfare Intensifies Sudan ConflictOn the morning of May 4, 2025, Port Sudan—the principal port city on the country&#x27;s Red...</p></details>
+   Link:<a href="https://www.africansecurityanalysis.com/reports/escalating-drone-warfare-intensifies-sudan-conflict" target="_blank" rel="noopener noreferrer nofollow">https://www.africansecurityanalysis.com/reports/escalating-drone-warfare-intensifies-sudan-conflict</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Escalating Drone Warfare Intensifies Sudan ConflictOn the morning of May 4, 2025, Port Sudan—the principal port city on the country&#x27;s Red...</p></details>
    Published: May 4, 2025  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXMDCXqiiOK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXMDCXqiiOK/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>food shortages, with political analyst Sharif Muhammad Othman calling for...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXMDCXqiiOK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXMDCXqiiOK/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>food shortages, with political analyst Sharif Muhammad Othman calling for...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: acaps.org  
    Title: risk of continued drone strikes on Port Sudan  
-   Link: <a href="https://www.acaps.org/en/countries/archives/detail/sudan-risk-of-continued-drone-strikes-on-port-sudan" target="_blank" rel="noopener noreferrer nofollow">https://www.acaps.org/en/countries/archives/detail/sudan-risk-of-continued-drone-strikes-on-port-sudan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 May 2025 — On 4 May 2025, the Rapid Support Forces (RSF) launched a series of drone strikes on Port Sudan, the administrative and...</p></details>
+   Link:<a href="https://www.acaps.org/en/countries/archives/detail/sudan-risk-of-continued-drone-strikes-on-port-sudan" target="_blank" rel="noopener noreferrer nofollow">https://www.acaps.org/en/countries/archives/detail/sudan-risk-of-continued-drone-strikes-on-port-sudan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 May 2025 — On 4 May 2025, the Rapid Support Forces (RSF) launched a series of drone strikes on Port Sudan, the administrative and...</p></details>
    Published: May 2025  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: euaa.europa.eu  
    Title: European Union Agency for Asylum2.5.2  
-   Link: <a href="https://www.euaa.europa.eu/coi/sudan/2025/security-situation/25-north/252-conflict-dynamics-and-tactics" target="_blank" rel="noopener noreferrer nofollow">https://www.euaa.europa.eu/coi/sudan/2025/security-situation/25-north/252-conflict-dynamics-and-tactics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>europa.eu2.5.2. Conflict dynamics and tacticsIn late March 2024, the RSF, operating a drone-launching &#x27;Special Task Battalion&#x27;, reportedl...</p></details>
+   Link:<a href="https://www.euaa.europa.eu/coi/sudan/2025/security-situation/25-north/252-conflict-dynamics-and-tactics" target="_blank" rel="noopener noreferrer nofollow">https://www.euaa.europa.eu/coi/sudan/2025/security-situation/25-north/252-conflict-dynamics-and-tactics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>europa.eu2.5.2. Conflict dynamics and tacticsIn late March 2024, the RSF, operating a drone-launching &#x27;Special Task Battalion&#x27;, reportedl...</p></details>
    Published: March 2024  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: criticalthreats.org  
    Title: Critical Threats Africa File,  
-   Link: <a href="https://www.criticalthreats.org/analysis/africa-file-may-8-2025-rsf-drone-strikes-port-sudan-iran-exports-regime-security-burkina-faso" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthreats.org/analysis/africa-file-may-8-2025-rsf-drone-strikes-port-sudan-iran-exports-regime-security-burkina-faso</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Africa File, May 8, 2025: Rsf Drone Strikes On Port Sudan8 May 2025 — The RSF launched drone attacks on Port Sudan daily from May 4 to 7...</p></details>
+   Link:<a href="https://www.criticalthreats.org/analysis/africa-file-may-8-2025-rsf-drone-strikes-port-sudan-iran-exports-regime-security-burkina-faso" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthreats.org/analysis/africa-file-may-8-2025-rsf-drone-strikes-port-sudan-iran-exports-regime-security-burkina-faso</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Africa File, May 8, 2025: Rsf Drone Strikes On Port Sudan8 May 2025 — The RSF launched drone attacks on Port Sudan daily from May 4 to 7...</p></details>
    Published: May 8, 2025  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: smallwarsjournal.com  
-   Link: <a href="https://smallwarsjournal.com/2026/03/18/drone-war-comes-for-civilians-in-sudan-sky-news/" target="_blank" rel="noopener noreferrer nofollow">https://smallwarsjournal.com/2026/03/18/drone-war-comes-for-civilians-in-sudan-sky-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone War Comes For Civilians in Sudan: Sky News18 Mar 2026 — An RSF triple drone strike on a hospital and kindergarten killed 114 people...</p></details>
+   Link:<a href="https://smallwarsjournal.com/2026/03/18/drone-war-comes-for-civilians-in-sudan-sky-news/" target="_blank" rel="noopener noreferrer nofollow">https://smallwarsjournal.com/2026/03/18/drone-war-comes-for-civilians-in-sudan-sky-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drone War Comes For Civilians in Sudan: Sky News18 Mar 2026 — An RSF triple drone strike on a hospital and kindergarten killed 114 people...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: thesoufancenter.org  
    Title: intelbrief 2025 october 24  
-   Link: <a href="https://thesoufancenter.org/intelbrief-2025-october-24/" target="_blank" rel="noopener noreferrer nofollow">https://thesoufancenter.org/intelbrief-2025-october-24/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>War Without End: How Drone Warfare and Failed...24 Oct 2025 — Drone technology has been at the forefront of most major conflicts today...</p></details>
+   Link:<a href="https://thesoufancenter.org/intelbrief-2025-october-24/" target="_blank" rel="noopener noreferrer nofollow">https://thesoufancenter.org/intelbrief-2025-october-24/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>War Without End: How Drone Warfare and Failed...24 Oct 2025 — Drone technology has been at the forefront of most major conflicts today...</p></details>
